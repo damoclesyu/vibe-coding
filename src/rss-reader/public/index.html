@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>国际局势 · 智能简报</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans SC", sans-serif;
+    background: #f5f7fa;
+    color: #2c3e50;
+    line-height: 1.6;
+    min-height: 100vh;
+  }
+
+  /* Header */
+  .header {
+    background: #fff;
+    border-bottom: 1px solid #e8eaed;
+    padding: 16px 20px;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+  }
+  .header-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 12px;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  .header-title {
+    font-size: 20px;
+    font-weight: 700;
+    color: #1a1a2e;
+  }
+  .header-meta {
+    font-size: 12px;
+    color: #999;
+  }
+  .header-update {
+    font-size: 11px;
+    padding: 4px 14px;
+    border-radius: 16px;
+    background: #e8f5e9;
+    color: #2e7d32;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+
+  /* Filter Bar */
+  .filter-bar {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  .filter-btn {
+    font-size: 12px;
+    padding: 6px 16px;
+    border-radius: 18px;
+    border: none;
+    cursor: pointer;
+    background: #f0f0f0;
+    color: #5f6368;
+    font-weight: 500;
+    transition: all 0.2s;
+  }
+  .filter-btn:hover { background: #e0e0e0; }
+  .filter-btn.active {
+    background: #1a73e8;
+    color: #fff;
+  }
+  .filter-toggle {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 12px;
+    margin-left: auto;
+    cursor: pointer;
+    user-select: none;
+    color: #5f6368;
+  }
+  .toggle-switch {
+    width: 40px;
+    height: 22px;
+    border-radius: 11px;
+    background: #ccc;
+    position: relative;
+    transition: background 0.2s;
+  }
+  .toggle-switch.on { background: #1a73e8; }
+  .toggle-switch::after {
+    content: '';
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background: #fff;
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    transition: left 0.2s;
+  }
+  .toggle-switch.on::after { left: 20px; }
+
+  /* Content */
+  .content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 16px 20px 40px;
+  }
+
+  /* Date Separator */
+  .date-separator {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 20px 0 8px;
+  }
+  .date-separator:first-child { padding-top: 4px; }
+  .date-label {
+    font-size: 13px;
+    font-weight: 700;
+    color: #1a1a2e;
+    white-space: nowrap;
+  }
+  .date-label.past { color: #999; }
+  .date-line {
+    flex: 1;
+    height: 1px;
+    background: #e0e0e0;
+  }
+  .date-count {
+    font-size: 11px;
+    color: #999;
+    white-space: nowrap;
+  }
+
+  /* Card */
+  .card {
+    background: #fff;
+    border-radius: 10px;
+    padding: 18px;
+    margin-bottom: 10px;
+    border: 1px solid #f0f0f0;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+    transition: transform 0.15s, box-shadow 0.15s;
+  }
+  .card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  }
+  .card-meta {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 8px;
+    flex-wrap: wrap;
+  }
+  .card-source {
+    font-size: 12px;
+    color: #5f6368;
+  }
+  .card-time {
+    font-size: 12px;
+    color: #999;
+    margin-left: auto;
+  }
+
+  /* Credibility Badge */
+  .badge {
+    font-size: 11px;
+    padding: 3px 10px;
+    border-radius: 14px;
+    font-weight: 700;
+    white-space: nowrap;
+  }
+  .badge.high { background: #e8f5e9; color: #2e7d32; }
+  .badge.medium { background: #fff3e0; color: #e65100; }
+  .badge.low { background: #fce4ec; color: #c62828; }
+  .badge.pending { background: #f5f5f5; color: #999; }
+
+  .card-title {
+    font-size: 16px;
+    font-weight: 700;
+    color: #1a73e8;
+    text-decoration: none;
+    display: block;
+    margin-bottom: 8px;
+    line-height: 1.4;
+  }
+  .card-title:hover { text-decoration: underline; }
+  .card-summary {
+    font-size: 13px;
+    color: #5f6368;
+    line-height: 1.7;
+    background: #f8fafc;
+    padding: 10px 14px;
+    border-radius: 8px;
+    border-left: 3px solid #1a73e8;
+    margin-bottom: 8px;
+  }
+  .card-reason {
+    font-size: 11px;
+    color: #8b8fa3;
+    display: flex;
+    align-items: flex-start;
+    gap: 4px;
+  }
+  .card-reason-icon { flex-shrink: 0; }
+
+  /* States */
+  .state-loading, .state-empty, .state-error {
+    text-align: center;
+    padding: 60px 20px;
+    color: #999;
+  }
+  .state-error { color: #c62828; }
+
+  /* Footer */
+  .footer {
+    text-align: center;
+    padding: 20px;
+    font-size: 12px;
+    color: #bbb;
+    border-top: 1px solid #f0f0f0;
+    margin-top: 20px;
+  }
+
+  /* Mobile */
+  @media (max-width: 600px) {
+    .header { padding: 12px 14px; }
+    .header-title { font-size: 17px; }
+    .content { padding: 10px 14px 30px; }
+    .card { padding: 14px; }
+    .card-title { font-size: 14px; }
+    .filter-bar { gap: 4px; }
+    .filter-btn { font-size: 11px; padding: 5px 12px; }
+    .filter-toggle { margin-left: 0; }
+  }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div class="header-top">
+    <div>
+      <div class="header-title">📰 国际局势 · 智能简报</div>
+      <div class="header-meta">基于多信源 · <span id="updateTime">加载中...</span></div>
+    </div>
+    <div class="header-update" id="updateBadge">⏱ 加载中</div>
+  </div>
+  <div class="filter-bar">
+    <button class="filter-btn active" data-sort="credibility" onclick="setSort('credibility')">可信度 ↓</button>
+    <button class="filter-btn" data-sort="newest" onclick="setSort('newest')">最新</button>
+    <div class="filter-toggle" onclick="toggleHighOnly()">
+      <div class="toggle-switch" id="toggleSwitch"></div>
+      <span>仅高可信</span>
+    </div>
+  </div>
+</div>
+
+<div class="content" id="content">
+  <div class="state-loading">⏳ 正在加载新闻...</div>
+</div>
+
+<div class="footer">AI 摘要 &amp; 可信度评分 | 每日更新国际局势</div>
+
+<script>
+// --- State ---
+let articles = [];
+let sortMode = 'credibility';
+let highOnly = false;
+
+// --- Load ---
+async function loadArticles() {
+  try {
+    const resp = await fetch('./articles.json');
+    if (!resp.ok) throw new Error('加载失败');
+    articles = await resp.json();
+    document.getElementById('updateTime').textContent =
+      new Date().toLocaleString('zh-CN');
+    document.getElementById('updateBadge').textContent = '⏱ 已加载';
+    render();
+  } catch (err) {
+    document.getElementById('content').innerHTML =
+      '<div class="state-error">❌ 数据加载失败，请确保 articles.json 存在</div>';
+  }
+}
+
+// --- Filter & Sort ---
+function getFilteredArticles() {
+  let list = [...articles];
+  if (highOnly) {
+    list = list.filter(a => a.credibilityScore >= 80);
+  }
+  if (sortMode === 'credibility') {
+    list.sort((a, b) => b.credibilityScore - a.credibilityScore);
+  } else {
+    list.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+  }
+  return list;
+}
+
+// --- Date Grouping ---
+function getDateGroup(dateStr) {
+  const d = new Date(dateStr);
+  const now = new Date();
+  const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+  const yesterday = new Date(today.getTime() - 86400000);
+  const articleDate = new Date(d.getFullYear(), d.getMonth(), d.getDate());
+
+  if (articleDate.getTime() >= today.getTime()) return { label: '📅 今天', past: false };
+  if (articleDate.getTime() >= yesterday.getTime()) return { label: '📅 昨天', past: true };
+  return {
+    label: '📅 ' + d.toLocaleDateString('zh-CN', { month:'long', day:'numeric' }),
+    past: true
+  };
+}
+
+// --- Format ---
+function timeAgo(dateStr) {
+  const diff = Date.now() - new Date(dateStr).getTime();
+  const mins = Math.floor(diff / 60000);
+  if (mins < 60) return mins + ' 分钟前';
+  const hours = Math.floor(mins / 60);
+  if (hours < 24) return hours + ' 小时前';
+  const days = Math.floor(hours / 24);
+  return days + ' 天前';
+}
+
+function levelLabel(score) {
+  if (score >= 80) return '高';
+  if (score >= 60) return '中';
+  return '低';
+}
+
+function levelClass(level) {
+  return level === 'high' ? 'high' : level === 'medium' ? 'medium' : 'low';
+}
+
+// --- Render ---
+function render() {
+  const list = getFilteredArticles();
+  const container = document.getElementById('content');
+
+  if (list.length === 0) {
+    container.innerHTML = '<div class="state-empty">📭 没有符合条件的新闻</div>';
+    return;
+  }
+
+  let html = '';
+  let lastGroup = '';
+  let groupCount = 0;
+
+  for (const a of list) {
+    const group = getDateGroup(a.pubDate);
+    const groupKey = group.label;
+
+    if (groupKey !== lastGroup) {
+      if (lastGroup !== '') {
+        html += `</div>`;
+      }
+      lastGroup = groupKey;
+
+      // Count articles in this group
+      groupCount = list.filter(x => getDateGroup(x.pubDate).label === groupKey).length;
+      const countHtml = groupCount + ' 条';
+
+      html += `<div class="date-separator">
+        <span class="date-label${group.past ? ' past' : ''}">${groupKey}</span>
+        <div class="date-line"></div>
+        <span class="date-count">${countHtml}</span>
+      </div>`;
+    }
+
+    const lvl = levelLabel(a.credibilityScore);
+    html += `
+    <div class="card">
+      <div class="card-meta">
+        <span class="badge ${levelClass(a.credibilityLevel)}">${lvl} · ${a.credibilityScore}</span>
+        <span class="card-source">${a.sourceName}</span>
+        <span class="card-time">${timeAgo(a.pubDate)}</span>
+      </div>
+      <a class="card-title" href="${a.link}" target="_blank" rel="noopener">${a.title}</a>
+      <div class="card-summary">${a.aiSummary || a.contentSnippet.slice(0, 80)}</div>
+      <div class="card-reason">
+        <span class="card-reason-icon">💡</span>${a.credibilityReason || '暂无评分理由'}
+      </div>
+    </div>`;
+  }
+
+  html += `</div>`;
+  container.innerHTML = html;
+}
+
+// --- Controls ---
+function setSort(mode) {
+  sortMode = mode;
+  document.querySelectorAll('.filter-btn[data-sort]').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.sort === mode);
+  });
+  render();
+}
+
+function toggleHighOnly() {
+  highOnly = !highOnly;
+  document.getElementById('toggleSwitch').classList.toggle('on', highOnly);
+  render();
+}
+
+// --- Init ---
+loadArticles();
+</script>
+
+</body>
+</html>
