@@ -1,0 +1,12 @@
+{
+  "name": "rss-reader",
+  "version": "1.0.0",
+  "description": "RSS 智能阅读器 — 国际局势版",
+  "scripts": {
+    "fetch": "node scripts/fetch.js"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0",
+    "@anthropic-ai/sdk": "^0.39.0"
+  }
+}

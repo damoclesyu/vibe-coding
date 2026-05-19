@@ -1,0 +1,74 @@
+[
+  {
+    "title": "中美经贸高级别磋商将于下周在华盛顿举行",
+    "link": "https://example.com/news/1",
+    "pubDate": "2026-05-19T08:30:00Z",
+    "contentSnippet": "美方表示已做好充分准备，中方强调谈判应在平等互利基础上进行。",
+    "sourceName": "路透社",
+    "sourceWeight": 95,
+    "aiSummary": "美方已做好谈判准备，中方强调平等互利原则。",
+    "credibilityScore": 92,
+    "credibilityLevel": "high",
+    "credibilityReason": "来源权威、有直接引述、多方交叉验证、时间地点明确"
+  },
+  {
+    "title": "加沙地带停火谈判取得初步进展",
+    "link": "https://example.com/news/2",
+    "pubDate": "2026-05-19T05:15:00Z",
+    "contentSnippet": "各方在释放人质问题上达成框架性共识，但具体执行时间表仍有待敲定。",
+    "sourceName": "Al Jazeera",
+    "sourceWeight": 80,
+    "aiSummary": "各方在释放人质问题上达成框架共识，执行时间表待定。",
+    "credibilityScore": 71,
+    "credibilityLevel": "medium",
+    "credibilityReason": "来源较权威、报道内容具体、部分执行细节待确认"
+  },
+  {
+    "title": "网传某国边境发生军事冲突 官方尚未回应",
+    "link": "https://example.com/news/3",
+    "pubDate": "2026-05-19T10:00:00Z",
+    "contentSnippet": "社交媒体流传某国边境发生军事冲突的消息，目前尚无官方确认。",
+    "sourceName": "社交媒体转载",
+    "sourceWeight": 30,
+    "aiSummary": "社交媒体流传边境冲突消息，尚无官方确认。",
+    "credibilityScore": 38,
+    "credibilityLevel": "low",
+    "credibilityReason": "匿名消息源、无官方确认、含情绪化表述、缺乏可验证事实"
+  },
+  {
+    "title": "欧盟宣布新一轮对俄制裁措施 涉及能源领域",
+    "link": "https://example.com/news/4",
+    "pubDate": "2026-05-18T14:30:00Z",
+    "contentSnippet": "欧盟委员会主席宣布新制裁将针对俄罗斯能源出口的关键漏洞。",
+    "sourceName": "德国之声",
+    "sourceWeight": 80,
+    "aiSummary": "欧盟宣布对俄新能源制裁，针对能源出口关键漏洞。",
+    "credibilityScore": 88,
+    "credibilityLevel": "high",
+    "credibilityReason": "多源交叉验证、官方声明明确、事实链条完整、时间线清晰"
+  },
+  {
+    "title": "朝鲜向东部海域发射弹道导弹 韩日谴责",
+    "link": "https://example.com/news/5",
+    "pubDate": "2026-05-18T08:00:00Z",
+    "contentSnippet": "韩国联合参谋本部确认导弹飞行约800公里后落入日本海。",
+    "sourceName": "BBC 中文网",
+    "sourceWeight": 90,
+    "aiSummary": "朝鲜发射弹道导弹落入日本海，韩日军方确认并谴责。",
+    "credibilityScore": 85,
+    "credibilityLevel": "high",
+    "credibilityReason": "多方官方声明、数据具体一致、时间线可追溯"
+  },
+  {
+    "title": "联合国气候变化报告：全球变暖速度超出预期",
+    "link": "https://example.com/news/6",
+    "pubDate": "2026-05-17T11:00:00Z",
+    "contentSnippet": "联合国最新报告指出全球变暖速度超出此前预期。",
+    "sourceName": "新华社",
+    "sourceWeight": 85,
+    "aiSummary": "联合国报告指出全球变暖速度超出预期，呼吁加速减排。",
+    "credibilityScore": 90,
+    "credibilityLevel": "high",
+    "credibilityReason": "联合国官方报告、数据详实、多源可查证"
+  }
+]
