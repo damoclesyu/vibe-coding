@@ -35,8 +35,9 @@
 ### 2. 定时抓取与存储
 - 每 2 小时抓取所有订阅源的最新文章
 - 字段：标题、发布时间、正文/摘要、原文链接
-- 去重：同一文章多源转载合并来源列表
+- 去重：同一文章多源转载合并来源列表（算法见下文）
 - 存储：本地 SQLite 数据库
+- 数据保留：最近 15 天或最多 500 篇文章，超出自动清理
 
 ### 3. AI 处理模块
 - 对每篇文章调用 Claude API：
@@ -90,6 +91,171 @@ App
 │       └── ScoreReason（评分理由）
 └── Footer
 ```
+
+---
+
+## API 设计
+
+前端通过 REST API 读取文章数据。
+
+### GET /api/articles
+
+查询已处理的文章列表。
+
+**请求参数：**
+
+| 参数 | 类型 | 默认值 | 说明 |
+|------|------|--------|------|
+| `sort` | string | `credibility` | 排序方式：`credibility` / `newest` |
+| `min_score` | int | 0 | 最低可信度阈值（0-100） |
+| `source` | string | 无 | 按来源过滤，多选用逗号分隔 |
+| `limit` | int | 50 | 每页条数 |
+| `offset` | int | 0 | 分页偏移 |
+| `date` | string | 无 | 日期过滤：`today` / `yesterday` / `week` |
+
+**响应格式：**
+
+```json
+{
+  "total": 128,
+  "articles": [
+    {
+      "id": 1,
+      "title": "中美经贸高级别磋商将于下周在华盛顿举行",
+      "link": "https://reuters.com/...",
+      "sources": ["路透社", "BBC", "联合早报"],
+      "published_at": "2026-05-19T08:30:00Z",
+      "ai_summary": "美方准备好谈判，中方强调平等互利原则。",
+      "credibility_score": 92,
+      "credibility_level": "high",
+      "score_reason": "来源权威、有直接引述、多方交叉验证、时间地点明确",
+      "created_at": "2026-05-19T10:00:00Z"
+    }
+  ]
+}
+```
+
+### GET /api/sources
+
+返回当前订阅源列表及健康状态。
+
+```json
+{
+  "sources": [
+    { "name": "路透社", "url": "https://...", "status": "ok", "last_fetch": "..." },
+    { "name": "BBC", "url": "https://...", "status": "error", "last_fetch": "..." }
+  ]
+}
+```
+
+### GET /api/stats
+
+返回数据概览。
+
+```json
+{
+  "total_articles": 128,
+  "today_count": 23,
+  "high_credibility_ratio": 0.45,
+  "last_update": "2026-05-19T10:00:00Z"
+}
+```
+
+---
+
+## 去重算法
+
+两层去重策略，按优先级执行：
+
+**第一层 — URL 精确匹配（优先）：**
+- 同一 URL 的文章视为完全重复，只保留首次抓取到的记录
+- 后续抓取到相同 URL 时，将新来源追加到 `sources` 字段
+
+**第二层 — 标题相似度匹配（兜底）：**
+- 不同 URL 但标题 Jaccard 相似度 > 0.8 的文章视为转载同一事件
+- Jaccard 相似度 = |A ∩ B| / |A ∪ B|，对标题做分词后计算
+- 匹配后合并来源，保留发布时间最早的记录
+
+---
+
+## AI 提示词模板
+
+对每篇文章调用 Claude API 时的系统提示词：
+
+```
+你是一位国际新闻分析师，擅长快速评估新闻可信度。
+
+请分析以下新闻文章，输出严格的 JSON 格式（不要输出其他内容）：
+
+{
+  "summary": "一句话中文摘要，不超过40字，客观冷静的语气",
+  "credibility_score": 85,
+  "credibility_level": "high",
+  "score_reason": "简要说明评分依据（50字以内）"
+}
+
+评分标准（0-100 分）：
+- 90-100 (高)：来源权威（路透/BBC/新华社等一线通讯社）、有直接引述、时间地点明确、多源交叉验证
+- 70-89 (高)：来源较权威、内容具体、事实可查证
+- 50-69 (中)：知名媒体但非一线、报道相对简短、部分细节不完整
+- 30-49 (低)：来源不明、缺少署名、情绪化用语较多
+- 0-29 (低)：明显谣言、完全无来源、煽动性标题
+
+评分时请同时考虑：
+1. 来源权威性（权重最高）
+2. 信息具体程度（时间/地点/人物/数据）
+3. 是否有直接引述或原始出处
+4. 用词是否客观中性
+5. 能否与其他来源交叉验证
+```
+
+**调用示例（用户消息）：**
+```
+标题：{{article_title}}
+来源：{{article_source}}
+发布时间：{{article_pubdate}}
+正文摘要：{{article_summary}}
+```
+
+**API 参数：**
+- model: claude-sonnet-4-6（性价比高，摘要任务足够）
+- max_tokens: 300
+- temperature: 0.3（低温度保证评分稳定性）
+- response_format: 使用 JSON mode 或 tool_use 强制 JSON 输出
+
+---
+
+## 部署方案
+
+### 方案：本地优先 + 静态前端
+
+考虑到 MVP 阶段的简单性和零成本，采用以下方案：
+
+**抓取脚本运行环境：**
+- Node.js 脚本（`scripts/fetch-and-score.js`），执行：抓取 RSS → 去重 → 调 Claude API → 写入 SQLite
+- 本地手动运行或通过系统定时任务（Windows 任务计划器 / cron）每 2 小时触发
+- 后续升级方案：GitHub Actions 定时运行 + 将 SQLite 作为 artifact 上传
+
+**数据库与文件：**
+- SQLite 数据库文件存储在项目根目录 `data/articles.db`
+- 数据库文件随前端一起部署（静态 JSON 作为降级方案：`public/data/articles.json`）
+
+**前端部署：**
+- Vite build 输出纯静态文件到 `dist/`
+- 部署到 GitHub Pages（免费、零配置、自定义域名支持）
+- 前端启动时从 `public/data/articles.json` 读取数据（构建前由抓取脚本生成）
+
+**降级策略：**
+- 如果 GitHub Pages 部署不可用，直接 `npx serve dist/` 本地启动
+- 如果数据库损坏，前端显示空状态提示而非崩溃
+
+### 后续升级路径
+
+| 阶段 | 方案 |
+|------|------|
+| MVP（当前） | 本地脚本 + SQLite + 静态 JSON + GitHub Pages |
+| V2 | GitHub Actions 定时运行 + SQLite artifact 自动部署 |
+| V3 | 迁移到轻量 VPS（Railway / Fly.io）+ 真正的后端 API 服务 |
 
 ---
 
