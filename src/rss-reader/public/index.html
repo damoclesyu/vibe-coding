@@ -387,9 +387,10 @@ function render() {
       </div>
       <a class="card-title" href="${a.link}" target="_blank" rel="noopener">${a.title}</a>
       <div class="card-summary">${a.aiSummary || a.contentSnippet.slice(0, 80)}</div>
+      ${a.credibilityScore < 60 ? `
       <div class="card-reason">
         <span class="card-reason-icon">💡</span>${a.credibilityReason || '暂无评分理由'}
-      </div>
+      </div>` : ''}
     </div>`;
   }
 
