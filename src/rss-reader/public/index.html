@@ -148,6 +148,7 @@
     border: 1px solid #f0f0f0;
     box-shadow: 0 1px 3px rgba(0,0,0,0.04);
     transition: transform 0.15s, box-shadow 0.15s;
+    cursor: pointer;
   }
   .card:hover {
     transform: translateY(-2px);
@@ -378,14 +379,15 @@ function render() {
     }
 
     const lvl = levelLabel(a.credibilityScore);
+    const link = a.link.replace(/'/g, "\\'");
     html += `
-    <div class="card">
+    <div class="card" onclick="window.open('${link}', '_blank')" style="cursor:pointer">
       <div class="card-meta">
         <span class="badge ${levelClass(a.credibilityLevel)}">${lvl} · ${a.credibilityScore}</span>
         <span class="card-source">${a.sourceName}</span>
         <span class="card-time">${timeAgo(a.pubDate)}</span>
       </div>
-      <a class="card-title" href="${a.link}" target="_blank" rel="noopener">${a.title}</a>
+      <span class="card-title">${a.title}</span>
       <div class="card-summary">${a.aiSummary || a.contentSnippet.slice(0, 80)}</div>
       ${a.credibilityScore < 60 ? `
       <div class="card-reason">

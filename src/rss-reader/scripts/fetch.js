@@ -12,14 +12,14 @@ const parser = new Parser({
 
 // 预置 RSS 源
 const RSS_SOURCES = [
-  { name: "路透社国际", url: "https://feeds.reuters.com/reuters/worldNews", weight: 95 },
-  { name: "BBC 中文网", url: "https://feeds.bbci.co.uk/chinese/rss.xml", weight: 90 },
-  { name: "新华社国际", url: "https://english.news.cn/rss/world.xml", weight: 85 },
-  { name: "德国之声中文", url: "https://rss.dw.com/rss/rss-chi-all", weight: 80 },
+  { name: "AP News", url: "https://feeds.apnews.com/apnews/topnews", weight: 95 },
+  { name: "BBC 中文网", url: "https://www.bbc.co.uk/zhongwen/simp/world/index.xml", weight: 90 },
+  { name: "新华社国际", url: "http://www.xinhuanet.com/world/news_world.xml", weight: 85 },
+  { name: "德国之声中文", url: "https://rss.dw.com/xml/rss-chi-all", weight: 80 },
   { name: "Al Jazeera 英文", url: "https://www.aljazeera.com/xml/rss/all.xml", weight: 80 },
-  { name: "联合早报国际", url: "https://www.zaobao.com/news/world/rss.xml", weight: 75 },
-  { name: "法国国际广播中文", url: "https://www.rfi.fr/cn/一般新闻/rss", weight: 75 },
-  { name: "美国之音中文", url: "https://www.voachinese.com/api/z$-$i$-$m$-$p", weight: 70 },
+  { name: "联合早报国际", url: "https://rsshub.app/zaobao/realtime/world", weight: 75 },
+  { name: "The Guardian 世界", url: "https://www.theguardian.com/world/rss", weight: 90 },
+  { name: "美国之音中文", url: "https://www.voachinese.com/rss/", weight: 70 },
 ];
 
 const MAX_PER_SOURCE = 5;
