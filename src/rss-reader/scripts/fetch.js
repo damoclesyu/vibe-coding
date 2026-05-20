@@ -17,7 +17,7 @@ const RSS_SOURCES = [
   { name: "新华网国内", url: "http://rss.xinhuanet.com/rss/native.xml", weight: 85 },
   { name: "央视网国际", url: "http://www.cctv.com/program/rss/02/02/index.xml", weight: 88 },
   { name: "央视网国内", url: "http://www.cctv.com/program/rss/02/01/index.xml", weight: 88 },
-  { name: "中国日报英文", url: "https://www.chinadaily.com.cn/rss/world.xml", weight: 90 },
+  { name: "中国日报中文", url: "https://cn.chinadaily.com.cn/rss/world.xml", weight: 85 },
   { name: "凤凰网资讯", url: "http://news.ifeng.com/rss/", weight: 75 },
   { name: "中国新闻网", url: "http://www.chinanews.com/rss/scroll-news.xml", weight: 85 },
 ];
