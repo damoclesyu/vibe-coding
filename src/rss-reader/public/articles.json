@@ -1,8 +1,20 @@
 {
-  "generatedAt": "2026-05-20T11:46:47.908Z",
+  "generatedAt": "2026-05-20T12:06:36.494Z",
   "totalSources": 8,
-  "totalArticles": 20,
+  "totalArticles": 5,
   "articles": [
+    {
+      "title": "习言道｜中俄关系进入更有作为、更快发展的新阶段",
+      "link": "https://www.chinanews.com.cn/gn/2026/05-20/10625220.shtml",
+      "pubDate": "Wed, 20 May 2026 19:53:25 +0800",
+      "contentSnippet": "5月20日，国家主席习近平在北京人民大会堂同来华进行国事访问的俄罗斯总统普京举行会谈。习近平指出——",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 85,
+      "aiSummary": "习近平称中俄关系进入更有作为、更快发展新阶段。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，权威官方媒体，内容具体且直接引述领导人讲话。"
+    },
     {
       "title": "习近平同俄罗斯总统普京共同参观“传承中俄世代友好 树立大国关系典范”图片展",
       "link": "https://www.chinanews.com.cn/gn/2026/05-20/10625222.shtml",
@@ -11,9 +23,9 @@
       "sourceName": "中国新闻网",
       "sourceWeight": 85,
       "aiSummary": "习近平与普京在北京共同参观中俄友好图片展。",
-      "credibilityScore": 90,
+      "credibilityScore": 95,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，内容具体，有直接引述，符合官方报道风格。"
+      "credibilityReason": "来源为新华社/中国新闻网，权威性高，内容具体，有直接引述。"
     },
     {
       "title": "走进中俄博览会，看见“科创中国”冰城“新”力量",
@@ -22,10 +34,10 @@
       "contentSnippet": "5月17日至21日，第十届中国—俄罗斯博览会在哈尔滨国际会展中心举行。开幕当日，习近平主席与普京总统分别向博览会致贺信。在这场吸引全球46个国家和地区、1500余家中外企业参展的国际盛会上，“科创中国”品牌首次亮相，冰城“新”力量正在被世界看见。",
       "sourceName": "中国新闻网",
       "sourceWeight": 85,
-      "aiSummary": "中俄博览会开幕，习近平与普京致贺信，“科创中国”首次亮相。",
+      "aiSummary": "中俄博览会开幕，习近平与普京致贺信，科创中国品牌首次亮相。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网较权威，内容具体有日期、人物、数据，用词客观。"
+      "credibilityReason": "来源中国新闻网较权威，信息具体有日期和细节，用词客观。"
     },
     {
       "title": "三大运营商推出词元套餐 为智能经济发展注动力",
@@ -34,10 +46,10 @@
       "contentSnippet": "近期，“三大运营商全面取消月租费”“三大运营商即将全面推出免月租、按量计费套餐”等消息在短视频平台、社交渠道传播，引发广泛热议与咨询。",
       "sourceName": "中国新闻网",
       "sourceWeight": 85,
-      "aiSummary": "三大运营商推出词元套餐，为智能经济注入动力。",
+      "aiSummary": "三大运营商将推按量计费套餐，取代传统月租模式。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网较权威，内容具体但未提供直接引述或数据验证。"
+      "credibilityReason": "来源为知名媒体中国新闻网，内容具体但缺乏直接引述和交叉验证。"
     },
     {
       "title": "中俄“全网寻人”，今天成功会面！普京与26年前抱过的中国男孩再次拥抱，久久握手",
@@ -49,199 +61,7 @@
       "aiSummary": "普京访华期间与26年前抱过的中国男孩再次会面拥抱。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，较权威；内容具体，有时间和地点，可查证。"
-    },
-    {
-      "title": "拖欠60.84万元未履行，华谊兄弟再成被执行人",
-      "link": "https://www.chinanews.com.cn/cj/2026/05-20/10625205.shtml",
-      "pubDate": "Wed, 20 May 2026 19:31:06 +0800",
-      "contentSnippet": "中新网北京5月20日电(王昊) 据中国执行信息公开网信息，近日，华谊兄弟传媒股份有限公司又被法院列为失信被执行人，执行申请人为京凯力咨询顾问(北京)有限公司，涉案金额60.84万元，履行情况为全部未履行。公司法定代表人王忠军因此被法院发布了限制消费令。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 85,
-      "aiSummary": "华谊兄弟因欠款60.84万元未履行被列为失信被执行人。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，信息具体，有官方执行信息公开网数据支撑。"
-    },
-    {
-      "title": "欧洲央行宣布下调欧元区关键利率",
-      "link": "http://world.people.com.cn/n1/2025/0605/c1002-40494895.html",
-      "pubDate": "2025-06-05",
-      "contentSnippet": "新华社快讯：欧洲中央银行5日宣布，将欧元区三大关键利率分别下调25个基点。这是欧洲央行一年内第八次降息。",
-      "sourceName": "人民网国际",
-      "sourceWeight": 90,
-      "aiSummary": "欧洲央行宣布下调欧元区三大关键利率25个基点，为一年内第八次降息。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为人民网转载新华社快讯，权威性高，信息具体且客观。"
-    },
-    {
-      "title": "美联储“褐皮书”：美国经济不确定性居高位　关税推高物价",
-      "link": "http://world.people.com.cn/n1/2025/0605/c1002-40494887.html",
-      "pubDate": "2025-06-05",
-      "contentSnippet": "新华社纽约6月4日电（记者刘亚南）美国联邦储备委员会4日发布的全国经济形势调查报告显示，美国经济和政策的不确定性处于高位，对企业和家庭造成不利影响，关税上调则带来成本和物价上涨压力。\n 　　根据美国“联邦储备法”，美国全国划分为12个联邦储备区，每区设立一家联邦储备银行。该报告根据12家联邦储备银行的最新调查结果编制而成，也称“褐皮书”。\n 　　报告显示，自4月下旬以来，美国经济活动整体出现小幅下降，半数联邦储备区经济活动出现轻微或温和下降。所有联邦储备区经济和政策不确定性均处于高位，导致企业和家庭决策变得迟疑和谨慎。制造业活动轻度下降。消费者支出情况混杂不一，大多数联邦储备区出现小幅下降或没",
-      "sourceName": "人民网国际",
-      "sourceWeight": 90,
-      "aiSummary": "美联储褐皮书显示美国经济不确定性高，关税推高物价。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为人民网转载新华社，权威性高；内容具体，有直接引述和官方报告依据。"
-    },
-    {
-      "title": "商务部：中方对合规稀土出口许可申请将予以批准",
-      "link": "http://world.people.com.cn/n1/2025/0605/c1002-40494861.html",
-      "pubDate": "2025-06-05",
-      "contentSnippet": "新华社北京6月5日电（记者谢希瑶）商务部新闻发言人何咏前在5日举行的例行新闻发布会上答记者问时表示，稀土等相关物项具有明显的军民两用属性，对其实施出口管制是国际通行做法。中国政府依法依规对两用物项相关出口许可申请进行审查，对符合规定的申请，中方将予以批准，促进便利合规贸易。",
-      "sourceName": "人民网国际",
-      "sourceWeight": 90,
-      "aiSummary": "商务部表示将依法批准合规稀土出口许可申请。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为人民网转载新华社，权威官方媒体，有直接引述和具体发言人信息。"
-    },
-    {
-      "title": "外交部：中国愿继续与各方一道推动共建清洁、美丽、可持续的世界",
-      "link": "http://world.people.com.cn/n1/2025/0605/c1002-40494859.html",
-      "pubDate": "2025-06-05",
-      "contentSnippet": "新华社北京6月5日电（记者袁睿）6月5日是世界环境日。外交部发言人林剑5日表示，中国一直是绿色发展的坚定行动派，也是全球绿色转型的重要贡献者。中国愿继续以“赋能型大国”的担当，与各方一道履行共同但有区别的责任，推动共建清洁、美丽、可持续的世界。\n 当日例行记者会上，有记者问：6月5日是世界环境日，有评论称，近年来中国引领全球绿色转型，在可再生能源开发等领域取得显著成就，并帮助其他发展中国家实施能源转型项目。请问发言人对此有何评论？\n 林剑说，中国一直是绿色发展的坚定行动派。“绿水青山就是金山银山”理念提出20年来，中国在生态治理领域攻坚克难，妥善处理发展与保护的关系，成为全球能耗强度降低最快、",
-      "sourceName": "人民网国际",
-      "sourceWeight": 90,
-      "aiSummary": "中国外交部表示愿与各方共建清洁美丽可持续世界。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为人民网国际，内容具体且有直接引述，用词客观，可信度较高。"
-    },
-    {
-      "title": "来自神舟二十号的“太空问候”！中国航天员为世博会中国馆送祝福",
-      "link": "http://world.people.com.cn/n1/2025/0605/c1002-40494817.html",
-      "pubDate": "2025-06-05",
-      "contentSnippet": "showPlayer({scriptId: 'q_v_j-shd0iphx0d9', videoInfo: [{ src: 'https://video.people.cn/upload/vod/user1739759454736028/1749113217284014/origin.mp4', type: 'video/mp4', label: '源视频', }],posterUrl: 'https://video.people.cn/userUpload/1739759454736028/1745801139907398/picture/screenshot-16-48-28.png',w",
-      "sourceName": "人民网国际",
-      "sourceWeight": 90,
-      "aiSummary": "神舟二十号航天员通过视频为世博会中国馆送上祝福。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为人民网，属权威媒体；内容具体，有视频证据，事实可查证。"
-    },
-    {
-      "title": "[��ε���ҷ���]�ִ�����ʾ���ܰ������ص�",
-      "link": "http://news.cctv.com/china/20070315/108369.shtml",
-      "pubDate": "Thu, 15 Mar 2007 14:22:04 GMT",
-      "contentSnippet": "CCTV.com��Ϣ���й����ţ���    ȥ���й������ܱ��ָ�ѹ̬�ƣ�һ����Ҫ�����鴦�����������Ժ�ṩ��������ʾ��ȥ������������ӷ�����ش������ϵĹ��ҹ�����Ա2736�ˣ��������ּ�202�ˣ�ʡ����6�ˣ��ִ�����쳤�ڽ��ܱ���Ŀ��ϯ��������ε���Ҳɷ�ʱ͸¶�˸��ܰ��������ص㡣���ϳ͸��ܷ��ӵ�ͬʱ���й����������ƽ��걾���Ρ��ۺ��������ͷ����١�ע��Ԥ����ս�Է��롣����ġ���ε���ҷ��ʡ����������",
-      "sourceName": "央视网国内",
-      "sourceWeight": 88,
-      "aiSummary": "央视报道称去年中国查处2736名国家工作人员，包括6名省部级官员。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为央视网国内，权威性高；内容具体有数据，用词客观。"
-    },
-    {
-      "title": "�й�һ�����������к����������֯��125��",
-      "link": "http://news.cctv.com/china/20070315/108219.shtml",
-      "pubDate": "Thu, 15 Mar 2007 14:14:07 GMT",
-      "contentSnippet": "�»����������£����յ磨���� ��ǫ�棩�й���ڳ���ר�����չһ��������Ѵ��һ���ڶ����Ż���У������������Ӻ����������֯���������ߣ�������������Ժ������к����������֯�������������о���Ч�������� ����",
-      "sourceName": "央视网国内",
-      "sourceWeight": 88,
-      "aiSummary": "中国一名男子因加入黑社会组织被判处125年监禁。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为央视网，引用新华社报道，信息具体，用词客观。"
-    },
-    {
-      "title": "�й��ڽ̽��ƽίԱ������Ĵλ����ھ��ٿ�",
-      "link": "http://news.cctv.com/china/20070315/108105.shtml",
-      "pubDate": "Thu, 15 Mar 2007 14:02:45 GMT",
-      "contentSnippet": "�»�������3��15�յ� ������һ�����룬Ը�ҹ�����ڽ�����������ڽ̽�˴����أ���ͬŬ����Я��Ϊ�����ƽ��ҵ���������ס����й��ڽ̽��ƽίԱ�ᣨ���¼�ơ����ں͡����ڶ���ίԱ����Ĵ�ȫ���������ڱ����ٿ���ȫ����Э����ϯ�������ں͡���ϯ����ѵ�ڻ�������˵�� ����",
-      "sourceName": "央视网国内",
-      "sourceWeight": 88,
-      "aiSummary": "中国宗教界和平委员会第四届会议在北京召开，全国政协副主席讲话。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为央视网（官方媒体），内容具体，有直接引述，可信度高。"
-    },
-    {
-      "title": "���Ͻ�ÿ��������������Ա����'ũ�幤��ָ��Ա'",
-      "link": "http://news.cctv.com/china/20070315/107888.shtml",
-      "pubDate": "Thu, 15 Mar 2007 13:48:19 GMT",
-      "contentSnippet": "�»����������£����յ磨�������꣩�ӣ��������������Ͻ��ã���ʱ�䣬ÿ�����ɣ�.���������й���Ա�ɲ�����Ϊ�����������ũ�彨�蹤��ָ��Ա�������ָ��Ա������������Ϊ��λ����ɣ�������֧��ũ�幤���ӣ���ƹ����ӣ���ȫ���ƽ����������ũ�彨�衣 ����",
-      "sourceName": "央视网国内",
-      "sourceWeight": 88,
-      "aiSummary": "广西将每年选派万名干部担任新农村建设指导员",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为央视网国内，内容具体且可查证，用词客观"
-    },
-    {
-      "title": "����۲죺һ��һ�������� ������鴫������",
-      "link": "http://news.cctv.com/china/20070315/107781.shtml",
-      "pubDate": "Thu, 15 Mar 2007 13:46:55 GMT",
-      "contentSnippet": "����ͼ��2006��3��14�գ�ʮ��ȫ���˴��Ĵλ����ڱ����������þ��м����д��ᣬ�ɹ���Ժ�����¼ұ��ش�����������ʡ� �����緢 ë���� ��    �����籱������ʮ���յ� �⣺һ��һ�������� ������������    ʮ��ȫ���˴���λ��齫��ʮ���������Ļ�����չ�������Ļ��󣬹���Ժ�����¼ұ���Ӧ������ŷ����˵����룬���������õĽ�ɫ��������������߲ɷá���",
-      "sourceName": "央视网国内",
-      "sourceWeight": 88,
-      "aiSummary": "温家宝总理在两会记者会上回答提问，强调“一国两制”方针。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为央视网（中国官方媒体），内容具体，有直接引述，可信度高。"
-    },
-    {
-      "title": "����ս����������������\"ȡ�������������\"����",
-      "link": "http://news.cctv.com/world/20061208/103808.shtml",
-      "pubDate": "Fri, 08 Dec 2006 07:38:08 GMT",
-      "contentSnippet": "����ս����������������\"ȡ�������������\"���� ����",
-      "sourceName": "央视网国际",
-      "sourceWeight": 88,
-      "aiSummary": "伊朗总统称将取消核计划中的部分内容",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为央视网国际，权威性较高；但正文摘要不完整，影响具体性评分"
-    },
-    {
-      "title": "ŷ�˵¼�����ϯ���ݡ������š����ٴ�ְΣ��(ͼ)",
-      "link": "http://news.cctv.com/world/20061208/103781.shtml",
-      "pubDate": "Fri, 08 Dec 2006 07:34:06 GMT",
-      "contentSnippet": "ŷ�˵¼�����ϯ���ݡ������š����ٴ�ְΣ��(ͼ) ����",
-      "sourceName": "央视网国际",
-      "sourceWeight": 88,
-      "aiSummary": "欧盟委员会主席巴罗佐面临辞职危机，具体细节待核实。",
-      "credibilityScore": 70,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为央视网，权威性较高，但标题编码异常，内容缺失，影响评分。"
-    },
-    {
-      "title": "������������ν� ��ʾԸ���һ���������չ�ϵ",
-      "link": "http://news.cctv.com/world/20061208/103761.shtml",
-      "pubDate": "Fri, 08 Dec 2006 07:29:37 GMT",
-      "contentSnippet": "������������ν� ��ʾԸ���һ���������չ�ϵ����",
-      "sourceName": "央视网国际",
-      "sourceWeight": 88,
-      "aiSummary": "乱码新闻，无法提取有效信息。",
-      "credibilityScore": 0,
-      "credibilityLevel": "low",
-      "credibilityReason": "正文为乱码，无实际内容，无法评估可信度。"
-    },
-    {
-      "title": "�ձ������ӳ������������������˻����",
-      "link": "http://news.cctv.com/world/20061208/103730.shtml",
-      "pubDate": "Fri, 08 Dec 2006 07:20:25 GMT",
-      "contentSnippet": "�ձ������ӳ������������������˻���� ����",
-      "sourceName": "央视网国际",
-      "sourceWeight": 88,
-      "aiSummary": "日本自卫队延长在伊拉克的空中运输活动。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为央视网国际，属权威媒体，信息具体，可查证。"
-    },
-    {
-      "title": "������ܶ���ʾ���߶����ӷ�չ�Ի���ϵ",
-      "link": "http://news.cctv.com/world/20061208/103681.shtml",
-      "pubDate": "Fri, 08 Dec 2006 07:17:04 GMT",
-      "contentSnippet": "������ܶ���ʾ���߶����ӷ�չ�Ի���ϵ����",
-      "sourceName": "央视网国际",
-      "sourceWeight": 88,
-      "aiSummary": "中国领导人表示高度重视发展对华关系。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为央视网国际，属于中国官方权威媒体，内容简短但表述客观。"
+      "credibilityReason": "来源中国新闻网较权威，事件具体有细节，但缺乏多源交叉验证。"
     }
   ]
 }
