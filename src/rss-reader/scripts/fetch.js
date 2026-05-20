@@ -19,7 +19,7 @@ const RSS_SOURCES = [
   { name: "央视网国内", url: "http://www.cctv.com/program/rss/02/01/index.xml", weight: 88 },
   { name: "中国日报英文", url: "https://www.chinadaily.com.cn/rss/world.xml", weight: 90 },
   { name: "凤凰网资讯", url: "http://news.ifeng.com/rss/", weight: 75 },
-  { name: "环球时报", url: "https://rsshub.rssforever.com/huanqiu/news/world", weight: 80 },
+  { name: "中国新闻网", url: "http://www.chinanews.com/rss/scroll-news.xml", weight: 85 },
 ];
 
 const MAX_PER_SOURCE = 5;
