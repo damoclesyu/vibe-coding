@@ -1,8 +1,80 @@
 {
-  "generatedAt": "2026-05-20T12:09:45.413Z",
+  "generatedAt": "2026-05-20T12:18:44.794Z",
   "totalSources": 8,
-  "totalArticles": 5,
+  "totalArticles": 10,
   "articles": [
+    {
+      "title": "郑丽文：全世界都不支持“台独”",
+      "link": "https://www.chinanews.com.cn/gn/2026/05-20/10625215.shtml",
+      "pubDate": "Wed, 20 May 2026 20:15:55 +0800",
+      "contentSnippet": "中新网5月20日电(燕新台)5月20日，中国国民党主席郑丽文主持该党例行中常会。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 85,
+      "aiSummary": "国民党主席郑丽文称全球不支持台独，重申一个中国立场。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网较权威，内容具体有直接引述，用词客观。"
+    },
+    {
+      "title": "初夏迈开腿！全国户外锻炼指数地图来了 看哪里需防晒避风",
+      "link": "https://www.chinanews.com.cn/sh/2026/05-20/10625253.shtml",
+      "pubDate": "Wed, 20 May 2026 20:15:25 +0800",
+      "contentSnippet": "中国天气网讯 初夏时节，万物向阳生长，绿意肆意铺展，正是户外锻炼的黄金时期。今起三天(5月20日至22日)，哪里体感舒适适宜锻炼？哪里户外需防晒避风？一起看看中国天气网推出的全国户外锻炼指数地图，还有不同人群运动指南助你迈开腿。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 85,
+      "aiSummary": "中国天气网发布全国户外锻炼指数地图，指导初夏户外运动。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网较权威，内容具体有数据，用词客观中性。"
+    },
+    {
+      "title": "洁丽雅晒老板出生证自证，都是短剧惹的祸？",
+      "link": "https://www.chinanews.com.cn/cj/2026/05-20/10625223.shtml",
+      "pubDate": "Wed, 20 May 2026 20:14:35 +0800",
+      "contentSnippet": "中新网5月20日电(记者 左雨晴) 从自媒体猜测“父子同娶姐妹”“嫡长子被排挤”，到当事方向公安机关报案并晒DNA鉴定报告等一系列材料自证，老牌国货洁丽雅在不到一周的时间里，成为网上的热门话题。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 85,
+      "aiSummary": "洁丽雅因短剧引发谣言，晒出生证自证清白。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，有具体事件细节和直接引述，但未多源交叉验证。"
+    },
+    {
+      "title": "倾听民企心声，国家发改委多维发力护航民营经济",
+      "link": "https://www.chinanews.com.cn/cj/2026/05-20/10625229.shtml",
+      "pubDate": "Wed, 20 May 2026 20:12:51 +0800",
+      "contentSnippet": "5月20日，正值民营经济促进法施行一周年之际，国家发展改革委干了两件大事，都跟民营经济有关。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 85,
+      "aiSummary": "国家发改委在民营经济促进法施行一周年之际推出新举措支持民企。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网较权威，内容具体且涉及官方政策，但缺乏直接引述和多源验证。"
+    },
+    {
+      "title": "50个数字公益故事里，藏着中国温度",
+      "link": "https://www.chinanews.com.cn/cj/2026/05-20/10625228.shtml",
+      "pubDate": "Wed, 20 May 2026 20:11:09 +0800",
+      "contentSnippet": "中新网北京5月20日电(记者 谢艺观)在湖南常宁的乡村操场上，一场“致美山海音乐会”让乡村孩子在歌声中触摸艺术；在新疆喀什疏附县的校园里，广州援疆教师带着孩子们舞起醒狮，龙狮文化跨越万里扎根边疆；在江西寻乌，孩子们抱着AI智能吉他，写出一首首原创歌曲……",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 85,
+      "aiSummary": "中国新闻网报道50个数字公益故事，展现乡村儿童艺术教育成果。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网较权威，内容具体有细节，但缺乏多源交叉验证。"
+    },
+    {
+      "title": "习言道｜中俄要反对一切否定二战胜利成果、为法西斯和军国主义“翻案招魂”的挑衅行径",
+      "link": "https://www.chinanews.com.cn/gn/2026/05-20/10625230.shtml",
+      "pubDate": "Wed, 20 May 2026 20:05:07 +0800",
+      "contentSnippet": "5月20日，国家主席习近平在北京人民大会堂同俄罗斯总统普京会谈后共同会见记者。习近平指出——",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 85,
+      "aiSummary": "习近平与普京会谈后呼吁中俄共同反对否定二战成果及为法西斯翻案的行径。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，权威官方媒体；内容直接引述习近平讲话，具体且客观。"
+    },
     {
       "title": "习言道｜中俄关系进入更有作为、更快发展的新阶段",
       "link": "https://www.chinanews.com.cn/gn/2026/05-20/10625220.shtml",
@@ -10,10 +82,10 @@
       "contentSnippet": "5月20日，国家主席习近平在北京人民大会堂同来华进行国事访问的俄罗斯总统普京举行会谈。习近平指出——",
       "sourceName": "中国新闻网",
       "sourceWeight": 85,
-      "aiSummary": "习近平与普京会谈，称中俄关系进入新阶段。",
+      "aiSummary": "习近平称中俄关系进入更有作为、更快发展的新阶段。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，官方媒体，内容具体，有直接引述。"
+      "credibilityReason": "来源为中国新闻网，官方媒体，内容具体，有直接引述，可信度较高。"
     },
     {
       "title": "习近平同俄罗斯总统普京共同参观“传承中俄世代友好 树立大国关系典范”图片展",
@@ -23,9 +95,9 @@
       "sourceName": "中国新闻网",
       "sourceWeight": 85,
       "aiSummary": "习近平与普京在北京共同参观中俄友好图片展。",
-      "credibilityScore": 90,
+      "credibilityScore": 95,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为新华社/中国新闻网，权威官方媒体，内容具体有直接引述。"
+      "credibilityReason": "来源为官方通讯社新华社，内容具体，有直接引述，权威性极高。"
     },
     {
       "title": "走进中俄博览会，看见“科创中国”冰城“新”力量",
@@ -34,10 +106,10 @@
       "contentSnippet": "5月17日至21日，第十届中国—俄罗斯博览会在哈尔滨国际会展中心举行。开幕当日，习近平主席与普京总统分别向博览会致贺信。在这场吸引全球46个国家和地区、1500余家中外企业参展的国际盛会上，“科创中国”品牌首次亮相，冰城“新”力量正在被世界看见。",
       "sourceName": "中国新闻网",
       "sourceWeight": 85,
-      "aiSummary": "中俄博览会开幕，习近平与普京致贺信，“科创中国”首次亮相。",
+      "aiSummary": "中俄博览会展示“科创中国”品牌，吸引全球46国参展。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网较权威，内容具体有日期、人物、数据，用词客观。"
+      "credibilityReason": "来源中国新闻网较权威，内容具体有日期、数据，用词客观。"
     },
     {
       "title": "三大运营商推出词元套餐 为智能经济发展注动力",
@@ -46,22 +118,10 @@
       "contentSnippet": "近期，“三大运营商全面取消月租费”“三大运营商即将全面推出免月租、按量计费套餐”等消息在短视频平台、社交渠道传播，引发广泛热议与咨询。",
       "sourceName": "中国新闻网",
       "sourceWeight": 85,
-      "aiSummary": "三大运营商将推按量计费套餐，取代传统月租模式。",
+      "aiSummary": "三大运营商推出词元套餐，为智能经济注入新动力。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网较权威，内容具体但未提供官方确认细节。"
-    },
-    {
-      "title": "中俄“全网寻人”，今天成功会面！普京与26年前抱过的中国男孩再次拥抱，久久握手",
-      "link": "https://www.chinanews.com.cn/gn/2026/05-20/10625218.shtml",
-      "pubDate": "Wed, 20 May 2026 19:32:30 +0800",
-      "contentSnippet": "5月20日，北京。在旋风式的访华行程中，俄罗斯总统普京专门会见了一名26年前在北京抱过的“中国男孩”。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 85,
-      "aiSummary": "普京访华期间与26年前抱过的中国男孩重逢并拥抱。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网较权威，事件具体有时间地点人物，但缺乏多源交叉验证。"
+      "credibilityReason": "来源为中国新闻网，较权威；内容具体但未提供直接引述或数据验证。"
     }
   ]
 }
