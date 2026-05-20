@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T12:06:36.494Z",
+  "generatedAt": "2026-05-20T12:09:45.413Z",
   "totalSources": 8,
   "totalArticles": 5,
   "articles": [
@@ -10,10 +10,10 @@
       "contentSnippet": "5月20日，国家主席习近平在北京人民大会堂同来华进行国事访问的俄罗斯总统普京举行会谈。习近平指出——",
       "sourceName": "中国新闻网",
       "sourceWeight": 85,
-      "aiSummary": "习近平称中俄关系进入更有作为、更快发展新阶段。",
-      "credibilityScore": 90,
+      "aiSummary": "习近平与普京会谈，称中俄关系进入新阶段。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，权威官方媒体，内容具体且直接引述领导人讲话。"
+      "credibilityReason": "来源为中国新闻网，官方媒体，内容具体，有直接引述。"
     },
     {
       "title": "习近平同俄罗斯总统普京共同参观“传承中俄世代友好 树立大国关系典范”图片展",
@@ -23,9 +23,9 @@
       "sourceName": "中国新闻网",
       "sourceWeight": 85,
       "aiSummary": "习近平与普京在北京共同参观中俄友好图片展。",
-      "credibilityScore": 95,
+      "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为新华社/中国新闻网，权威性高，内容具体，有直接引述。"
+      "credibilityReason": "来源为新华社/中国新闻网，权威官方媒体，内容具体有直接引述。"
     },
     {
       "title": "走进中俄博览会，看见“科创中国”冰城“新”力量",
@@ -34,10 +34,10 @@
       "contentSnippet": "5月17日至21日，第十届中国—俄罗斯博览会在哈尔滨国际会展中心举行。开幕当日，习近平主席与普京总统分别向博览会致贺信。在这场吸引全球46个国家和地区、1500余家中外企业参展的国际盛会上，“科创中国”品牌首次亮相，冰城“新”力量正在被世界看见。",
       "sourceName": "中国新闻网",
       "sourceWeight": 85,
-      "aiSummary": "中俄博览会开幕，习近平与普京致贺信，科创中国品牌首次亮相。",
+      "aiSummary": "中俄博览会开幕，习近平与普京致贺信，“科创中国”首次亮相。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网较权威，信息具体有日期和细节，用词客观。"
+      "credibilityReason": "来源中国新闻网较权威，内容具体有日期、人物、数据，用词客观。"
     },
     {
       "title": "三大运营商推出词元套餐 为智能经济发展注动力",
@@ -49,7 +49,7 @@
       "aiSummary": "三大运营商将推按量计费套餐，取代传统月租模式。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名媒体中国新闻网，内容具体但缺乏直接引述和交叉验证。"
+      "credibilityReason": "来源中国新闻网较权威，内容具体但未提供官方确认细节。"
     },
     {
       "title": "中俄“全网寻人”，今天成功会面！普京与26年前抱过的中国男孩再次拥抱，久久握手",
@@ -58,10 +58,10 @@
       "contentSnippet": "5月20日，北京。在旋风式的访华行程中，俄罗斯总统普京专门会见了一名26年前在北京抱过的“中国男孩”。",
       "sourceName": "中国新闻网",
       "sourceWeight": 85,
-      "aiSummary": "普京访华期间与26年前抱过的中国男孩再次会面拥抱。",
-      "credibilityScore": 85,
+      "aiSummary": "普京访华期间与26年前抱过的中国男孩重逢并拥抱。",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网较权威，事件具体有细节，但缺乏多源交叉验证。"
+      "credibilityReason": "来源中国新闻网较权威，事件具体有时间地点人物，但缺乏多源交叉验证。"
     }
   ]
 }
