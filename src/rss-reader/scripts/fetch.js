@@ -22,7 +22,7 @@ const RSS_SOURCES = [
   { name: "美国之音中文", url: "https://www.voachinese.com/api/z$-$i$-$m$-$p", weight: 70 },
 ];
 
-const MAX_PER_SOURCE = 8;
+const MAX_PER_SOURCE = 5;
 const AI_MAX_ARTICLES = 30;
 const OUTPUT_FILE = path.join(__dirname, "..", "public", "articles.json");
 
