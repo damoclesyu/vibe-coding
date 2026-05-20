@@ -646,10 +646,10 @@ function renderSidebar() {
   } else {
     document.getElementById('sidebarCustom').innerHTML = customSources.map(s => `
       <div class="custom-source-item">
-        <span>${s.name}</span>
+        <span>${escapeHtml(s.name)}</span>
         <span style="display:flex;align-items:center;gap:6px">
           <span style="font-size:10px;color:#999">${s.weight}</span>
-          <span class="custom-source-delete" onclick="event.stopPropagation();removeCustomSource('${s.url.replace(/'/g, "\\'")}')" title="删除">✕</span>
+          <span class="custom-source-delete" data-url="${escapeHtml(s.url)}" title="删除">✕</span>
         </span>
       </div>
     `).join('');
@@ -678,6 +678,12 @@ function toggleHighOnly() {
   highOnly = !highOnly;
   document.getElementById('toggleSwitch').classList.toggle('on', highOnly);
   render();
+}
+
+function escapeHtml(str) {
+  const div = document.createElement('div');
+  div.textContent = str;
+  return div.innerHTML;
 }
 
 // --- Custom RSS Sources ---
@@ -731,6 +737,15 @@ function removeCustomSource(url) {
   saveCustomSources(sources);
   renderSidebar();
 }
+
+// Delegated click for custom source delete buttons
+document.getElementById('sidebarCustom').addEventListener('click', (e) => {
+  const btn = e.target.closest('.custom-source-delete');
+  if (btn) {
+    e.stopPropagation();
+    removeCustomSource(btn.dataset.url);
+  }
+});
 
 // --- Init ---
 loadArticles();
