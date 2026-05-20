@@ -106,11 +106,85 @@
   }
   .toggle-switch.on::after { left: 20px; }
 
-  /* Content */
-  .content {
-    max-width: 800px;
+  /* Layout */
+  .layout {
+    max-width: 1200px;
     margin: 0 auto;
     padding: 16px 20px 40px;
+    display: flex;
+    gap: 24px;
+    align-items: flex-start;
+  }
+  .content {
+    flex: 1;
+    min-width: 0;
+  }
+
+  /* Sidebar */
+  .sidebar {
+    width: 280px;
+    flex-shrink: 0;
+    position: sticky;
+    top: 120px;
+  }
+  .side-card {
+    background: #fff;
+    border-radius: 10px;
+    padding: 18px;
+    margin-bottom: 14px;
+    border: 1px solid #f0f0f0;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+  }
+  .side-card h3 {
+    font-size: 13px;
+    font-weight: 700;
+    color: #1a1a2e;
+    margin-bottom: 14px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #f0f0f0;
+  }
+  .stat-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 0;
+    font-size: 12px;
+    color: #5f6368;
+  }
+  .stat-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 6px;
+  }
+  .stat-dot.high { background: #2e7d32; }
+  .stat-dot.medium { background: #e65100; }
+  .stat-dot.low { background: #c62828; }
+  .stat-bar {
+    height: 5px;
+    border-radius: 3px;
+    margin-top: 10px;
+    display: flex;
+    overflow: hidden;
+  }
+  .stat-bar .high { background: #2e7d32; }
+  .stat-bar .medium { background: #e65100; }
+  .stat-bar .low { background: #c62828; }
+  .source-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 4px 0;
+    font-size: 12px;
+    color: #5f6368;
+  }
+  .source-weight {
+    font-size: 10px;
+    padding: 2px 8px;
+    border-radius: 10px;
+    background: #f0f0f0;
+    color: #999;
   }
 
   /* Date Separator */
@@ -232,10 +306,11 @@
   }
 
   /* Mobile */
-  @media (max-width: 600px) {
+  @media (max-width: 860px) {
     .header { padding: 12px 14px; }
     .header-title { font-size: 17px; }
-    .content { padding: 10px 14px 30px; }
+    .layout { flex-direction: column; padding: 10px 14px 30px; }
+    .sidebar { width: 100%; position: static; }
     .card { padding: 14px; }
     .card-title { font-size: 14px; }
     .filter-bar { gap: 4px; }
@@ -264,8 +339,25 @@
   </div>
 </div>
 
-<div class="content" id="content">
-  <div class="state-loading">⏳ 正在加载新闻...</div>
+<div class="layout">
+  <div class="content" id="content">
+    <div class="state-loading">⏳ 正在加载新闻...</div>
+  </div>
+
+  <aside class="sidebar" id="sidebar">
+    <div class="side-card">
+      <h3>📊 今日统计</h3>
+      <div id="sidebarStats">
+        <div class="stat-row"><span>加载中...</span></div>
+      </div>
+    </div>
+    <div class="side-card">
+      <h3>📡 信源列表</h3>
+      <div id="sidebarSources">
+        <div class="stat-row"><span>加载中...</span></div>
+      </div>
+    </div>
+  </aside>
 </div>
 
 <div class="footer">AI 摘要 &amp; 可信度评分 | 每日更新国际局势</div>
@@ -286,6 +378,7 @@ async function loadArticles() {
       new Date().toLocaleString('zh-CN');
     document.getElementById('updateBadge').textContent = '⏱ 已加载';
     render();
+    renderSidebar();
   } catch (err) {
     document.getElementById('content').innerHTML =
       '<div class="state-error">❌ 数据加载失败，请确保 articles.json 存在</div>';
@@ -398,6 +491,41 @@ function render() {
 
   html += `</div>`;
   container.innerHTML = html;
+}
+
+// --- Sidebar ---
+function renderSidebar() {
+  const list = getFilteredArticles();
+  const allArticles = articles;
+  const highCount = allArticles.filter(a => a.credibilityScore >= 80).length;
+  const medCount = allArticles.filter(a => a.credibilityScore >= 60 && a.credibilityScore < 80).length;
+  const lowCount = allArticles.filter(a => a.credibilityScore < 60).length;
+  const total = allArticles.length;
+
+  // Stats
+  const highPct = total > 0 ? Math.round(highCount / total * 100) : 0;
+  const medPct = total > 0 ? Math.round(medCount / total * 100) : 0;
+  const lowPct = total > 0 ? Math.round(lowCount / total * 100) : 0;
+
+  document.getElementById('sidebarStats').innerHTML = `
+    <div class="stat-row"><span><span class="stat-dot high"></span>高可信 (≥80)</span><strong>${highCount}</strong></div>
+    <div class="stat-row"><span><span class="stat-dot medium"></span>中可信 (60-79)</span><strong>${medCount}</strong></div>
+    <div class="stat-row"><span><span class="stat-dot low"></span>低可信 (&lt;60)</span><strong>${lowCount}</strong></div>
+    <div class="stat-row" style="font-weight:700;padding-top:8px;border-top:1px solid #f0f0f0;margin-top:4px"><span>总计</span><strong>${total} 条</strong></div>
+    <div class="stat-bar">
+      <div class="high" style="width:${highPct}%"></div>
+      <div class="medium" style="width:${medPct}%"></div>
+      <div class="low" style="width:${lowPct}%"></div>
+    </div>
+  `;
+
+  // Sources
+  const sources = [...new Set(allArticles.map(a => a.sourceName))];
+  document.getElementById('sidebarSources').innerHTML = sources.map(name => {
+    const article = allArticles.find(a => a.sourceName === name);
+    const w = article ? article.sourceWeight : '-';
+    return `<div class="source-item"><span>${name}</span><span class="source-weight">权重 ${w}</span></div>`;
+  }).join('');
 }
 
 // --- Controls ---

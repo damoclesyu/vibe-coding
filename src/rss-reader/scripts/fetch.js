@@ -10,16 +10,16 @@ const parser = new Parser({
   },
 });
 
-// 预置 RSS 源（优先国内可靠源）
+// 预置 RSS 源（全部国内直连，无需梯子）
 const RSS_SOURCES = [
   { name: "人民网国际", url: "http://www.people.com.cn/rss/world.xml", weight: 90 },
-  { name: "新华网国际", url: "http://www.xinhuanet.com/world/news_world.xml", weight: 85 },
-  { name: "环球网国际", url: "https://rsshub.app/huanqiu/news/world", weight: 80 },
-  { name: "参考消息", url: "https://rsshub.app/cankaoxiaoxi/column/guoji", weight: 85 },
-  { name: "BBC 中文网", url: "https://www.bbc.co.uk/zhongwen/simp/world/index.xml", weight: 90 },
-  { name: "德国之声中文", url: "https://rss.dw.com/xml/rss-chi-all", weight: 80 },
-  { name: "联合早报国际", url: "https://rsshub.app/zaobao/realtime/world", weight: 75 },
-  { name: "AP News", url: "https://feeds.apnews.com/apnews/topnews", weight: 95 },
+  { name: "新华网国际", url: "http://rss.xinhuanet.com/rss/world.xml", weight: 85 },
+  { name: "新华网国内", url: "http://rss.xinhuanet.com/rss/native.xml", weight: 85 },
+  { name: "央视网国际", url: "http://www.cctv.com/program/rss/02/02/index.xml", weight: 88 },
+  { name: "央视网国内", url: "http://www.cctv.com/program/rss/02/01/index.xml", weight: 88 },
+  { name: "中国日报英文", url: "https://www.chinadaily.com.cn/rss/world.xml", weight: 90 },
+  { name: "凤凰网资讯", url: "http://news.ifeng.com/rss/", weight: 75 },
+  { name: "环球时报", url: "https://rsshub.rssforever.com/huanqiu/news/world", weight: 80 },
 ];
 
 const MAX_PER_SOURCE = 5;
