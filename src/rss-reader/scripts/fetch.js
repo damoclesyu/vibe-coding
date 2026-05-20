@@ -64,13 +64,11 @@ function deduplicateByUrl(articles) {
   });
 }
 
-function isToday(dateStr) {
+function isWithin24Hours(dateStr) {
   if (!dateStr) return false;
   const d = new Date(dateStr);
-  const now = new Date();
-  return d.getFullYear() === now.getFullYear() &&
-    d.getMonth() === now.getMonth() &&
-    d.getDate() === now.getDate();
+  const cutoff = Date.now() - 24 * 60 * 60 * 1000;
+  return d.getTime() >= cutoff;
 }
 
 async function fetchAll() {
@@ -81,7 +79,7 @@ async function fetchAll() {
       console.log(`📡 抓取: ${source.name} (${source.url})`);
       const feed = await parser.parseURL(source.url);
       const items = (feed.items || [])
-        .filter(item => isToday(item.pubDate || item.isoDate))
+        .filter(item => isWithin24Hours(item.pubDate || item.isoDate))
         .slice(0, MAX_PER_SOURCE);
 
       for (const item of items) {
