@@ -558,35 +558,21 @@ async function loadArticles() {
   document.getElementById('pageOpenTime').textContent =
     new Date().toLocaleTimeString('zh-CN', { hour: '2-digit', minute: '2-digit' });
 
-  // 1. Load built-in articles
-  let builtinArticles = [];
   try {
     const resp = await fetch('./articles.json');
     if (resp.ok) {
       const data = await resp.json();
       if (Array.isArray(data)) {
-        builtinArticles = data;
+        articles = data;
       } else {
-        builtinArticles = data.articles || [];
+        articles = data.articles || [];
         generatedAt = data.generatedAt || null;
       }
     }
   } catch (err) {
-    console.warn('预置数据加载失败', err);
+    console.warn('数据加载失败', err);
   }
 
-  // 2. Fetch custom RSS source articles
-  const customSources = getCustomSources();
-  if (customSources.length > 0) {
-    document.getElementById('content').innerHTML =
-      '<div class="state-loading">⏳ 正在加载自定义源 (0/' + customSources.length + ')...</div>';
-  }
-  const customArticles = await fetchAllCustomRSS();
-
-  // 3. Merge
-  articles = [...builtinArticles, ...customArticles];
-
-  // Update time displays
   if (generatedAt) {
     const d = new Date(generatedAt);
     document.getElementById('dataUpdateTime').textContent =
@@ -598,59 +584,6 @@ async function loadArticles() {
   document.getElementById('updateBadge').textContent = '⏱ 已加载';
   render();
   renderSidebar();
-}
-
-async function fetchAllCustomRSS() {
-  const sources = getCustomSources();
-  if (sources.length === 0) return [];
-
-  const results = [];
-  let done = 0;
-  for (const src of sources) {
-    try {
-      const apiUrl = 'https://api.rss2json.com/v1/api.json?rss_url=' + encodeURIComponent(src.url);
-      const resp = await fetch(apiUrl);
-      if (!resp.ok) throw new Error('HTTP ' + resp.status);
-      const data = await resp.json();
-      if (data.status !== 'ok') throw new Error('rss2json error');
-
-      const items = (data.items || []).slice(0, 5);
-      for (const item of items) {
-        results.push({
-          title: item.title?.trim() || '',
-          link: item.link?.trim() || '',
-          pubDate: item.pubDate || new Date().toISOString(),
-          contentSnippet: (item.description || item.content || '').replace(/<[^>]*>/g, '').slice(0, 300).trim(),
-          sourceName: src.name,
-          sourceWeight: src.weight,
-          aiSummary: '',
-          credibilityScore: Math.round(src.weight * 0.6),
-          credibilityLevel: src.weight >= 80 ? 'high' : src.weight >= 60 ? 'medium' : 'low',
-          credibilityReason: '用户自定义源，基于权重估算可信度',
-          isCustom: true,
-        });
-      }
-    } catch (err) {
-      console.warn('自定义源抓取失败: ' + src.name, err.message);
-      results.push({
-        title: '该 RSS 源暂无法访问（' + src.name + '）',
-        link: '#',
-        pubDate: new Date().toISOString(),
-        contentSnippet: '可能原因：RSS 地址无效、网络超时或该网站不支持跨域访问。请检查地址是否正确。',
-        sourceName: src.name,
-        sourceWeight: src.weight,
-        aiSummary: '⚠ 抓取失败',
-        credibilityScore: 0,
-        credibilityLevel: 'low',
-        credibilityReason: 'RSS 源无法访问，无法评估可信度',
-        isCustom: true,
-      });
-    }
-    done++;
-    document.getElementById('content').innerHTML =
-      '<div class="state-loading">⏳ 正在加载自定义源 (' + done + '/' + sources.length + ')...</div>';
-  }
-  return results;
 }
 
 // --- Filter & Sort ---
@@ -892,16 +825,14 @@ async function addCustomSource() {
   sources.push({ name, url, weight: Math.min(100, Math.max(0, weight)) });
   saveCustomSources(sources);
   closeAddSourceModal();
-
-  // Reload articles to include the new source
-  await loadArticles();
+  renderSidebar();
 }
 
 function removeCustomSource(url) {
   let sources = getCustomSources();
   sources = sources.filter(s => s.url !== url);
   saveCustomSources(sources);
-  loadArticles();
+  renderSidebar();
 }
 
 // --- Unified delegation for source actions ---
@@ -913,10 +844,12 @@ document.getElementById('sidebarSources').addEventListener('click', (e) => {
   const name = btn.dataset.name;
   if (action === 'hide') {
     hideSource(name);
-    loadArticles();
+    render();
+    renderSidebar();
   } else if (action === 'show') {
     unhideSource(name);
-    loadArticles();
+    render();
+    renderSidebar();
   }
 });
 

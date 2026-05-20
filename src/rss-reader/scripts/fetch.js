@@ -21,7 +21,7 @@ const RSS_SOURCES = [
   { name: "中国新闻网", url: "http://www.chinanews.com/rss/scroll-news.xml", weight: 85 },
 ];
 
-const MAX_PER_SOURCE = 5;
+const MAX_PER_SOURCE = 10;
 const AI_MAX_ARTICLES = 30;
 const OUTPUT_FILE = path.join(__dirname, "..", "public", "articles.json");
 
