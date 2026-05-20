@@ -1,5 +1,4 @@
 const Parser = require("rss-parser");
-const Anthropic = require("@anthropic-ai/sdk");
 const fs = require("fs");
 const path = require("path");
 
@@ -51,6 +50,11 @@ const AI_SYSTEM_PROMPT = `你是一位国际新闻分析师，擅长快速评估
 4. 用词是否客观中性
 5. 能否与其他来源交叉验证`;
 
+// DeepSeek API 配置
+const DEEPSEEK_API_KEY = process.env.DEEPSEEK_API_KEY;
+const DEEPSEEK_BASE_URL = process.env.DEEPSEEK_BASE_URL || "https://api.deepseek.com";
+const DEEPSEEK_MODEL = process.env.DEEPSEEK_MODEL || "deepseek-chat";
+
 function deduplicateByUrl(articles) {
   const seen = new Set();
   return articles.filter((a) => {
@@ -93,7 +97,52 @@ async function fetchAll() {
   return allArticles;
 }
 
+async function aiProcess(article) {
+  const resp = await fetch(`${DEEPSEEK_BASE_URL}/v1/chat/completions`, {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      Authorization: `Bearer ${DEEPSEEK_API_KEY}`,
+    },
+    body: JSON.stringify({
+      model: DEEPSEEK_MODEL,
+      messages: [
+        { role: "system", content: AI_SYSTEM_PROMPT },
+        {
+          role: "user",
+          content: `标题：${article.title}\n来源：${article.sourceName}\n发布时间：${article.pubDate}\n正文摘要：${article.contentSnippet}`,
+        },
+      ],
+      max_tokens: 300,
+      temperature: 0.3,
+    }),
+  });
+
+  if (!resp.ok) {
+    throw new Error(`${resp.status} ${await resp.text().then(t => t.slice(0, 200))}`);
+  }
+
+  const data = await resp.json();
+  const text = data.choices?.[0]?.message?.content || "";
+  const jsonMatch = text.match(/\{[\s\S]*\}/);
+  if (jsonMatch) {
+    const result = JSON.parse(jsonMatch[0]);
+    article.aiSummary = result.summary || "";
+    article.credibilityScore = result.credibilityScore || 0;
+    article.credibilityLevel = result.credibilityLevel || "pending";
+    article.credibilityReason = result.credibilityReason || "";
+  } else {
+    throw new Error("无法解析 AI 返回的 JSON");
+  }
+}
+
 async function main() {
+  if (!DEEPSEEK_API_KEY) {
+    console.error("❌ 请设置 DEEPSEEK_API_KEY 环境变量");
+    console.error("   获取 Key: https://platform.deepseek.com/api_keys");
+    process.exit(1);
+  }
+
   const articles = await fetchAll();
   const deduped = deduplicateByUrl(articles);
   console.log(`📊 去重后: ${deduped.length} 条`);
@@ -102,42 +151,16 @@ async function main() {
   deduped.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
 
   // AI 处理（限制篇数）
-  console.log("\n🤖 开始 AI 处理...");
+  console.log(`\n🤖 开始 AI 处理 (${DEEPSEEK_MODEL})...`);
   const toProcess = deduped.slice(0, AI_MAX_ARTICLES);
-  const anthropic = new Anthropic({
-    apiKey: process.env.ANTHROPIC_API_KEY,
-  });
 
   for (let i = 0; i < toProcess.length; i++) {
     const article = toProcess[i];
     console.log(`   [${i + 1}/${toProcess.length}] ${article.title.slice(0, 30)}...`);
 
     try {
-      const msg = await anthropic.messages.create({
-        model: "claude-sonnet-4-6",
-        max_tokens: 300,
-        temperature: 0.3,
-        system: AI_SYSTEM_PROMPT,
-        messages: [
-          {
-            role: "user",
-            content: `标题：${article.title}\n来源：${article.sourceName}\n发布时间：${article.pubDate}\n正文摘要：${article.contentSnippet}`,
-          },
-        ],
-      });
-
-      const text = msg.content[0].text;
-      const jsonMatch = text.match(/\{[\s\S]*\}/);
-      if (jsonMatch) {
-        const result = JSON.parse(jsonMatch[0]);
-        article.aiSummary = result.summary || "";
-        article.credibilityScore = result.credibilityScore || 0;
-        article.credibilityLevel = result.credibilityLevel || "pending";
-        article.credibilityReason = result.credibilityReason || "";
-        console.log(`      ✅ 分数: ${article.credibilityScore}`);
-      } else {
-        throw new Error("无法解析 AI 返回的 JSON");
-      }
+      await aiProcess(article);
+      console.log(`      ✅ 分数: ${article.credibilityScore}`);
     } catch (err) {
       console.error(`      ❌ AI 处理失败: ${err.message}`);
       article.aiSummary = article.contentSnippet.slice(0, 40);

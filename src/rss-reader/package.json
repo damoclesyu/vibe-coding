@@ -6,7 +6,6 @@
     "fetch": "node scripts/fetch.js"
   },
   "dependencies": {
-    "@anthropic-ai/sdk": "^0.97.0",
     "rss-parser": "^3.13.0"
   }
 }
