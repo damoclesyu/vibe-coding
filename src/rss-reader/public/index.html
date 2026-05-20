@@ -78,6 +78,7 @@
     position: relative;
     display: flex;
     align-items: center;
+    margin-left: auto;
   }
   .search-input {
     font-size: 12px;
@@ -103,7 +104,6 @@
     align-items: center;
     gap: 6px;
     font-size: 12px;
-    margin-left: auto;
     cursor: pointer;
     user-select: none;
     color: #5f6368;
@@ -439,13 +439,13 @@
     <button class="filter-btn active" data-sort="newest" onclick="setSort('newest')">最新 <span class="sort-arrow">↓</span></button>
     <button class="filter-btn" data-sort="credibility" onclick="setSort('credibility')">可信度 <span class="sort-arrow">↓</span></button>
     <button class="filter-btn" onclick="openAddSourceModal()" style="background:#f3e8ff;color:#7c3aed">+ 添加源</button>
-    <div class="search-wrap">
-      <input class="search-input" id="searchInput" type="text" placeholder="🔍 搜索新闻..." oninput="onSearch()">
-      <span class="search-clear" id="searchClear" style="display:none" onclick="clearSearch()">✕</span>
-    </div>
     <div class="filter-toggle" onclick="toggleHighOnly()">
       <div class="toggle-switch" id="toggleSwitch"></div>
       <span>仅高可信</span>
+    </div>
+    <div class="search-wrap">
+      <input class="search-input" id="searchInput" type="text" placeholder="🔍 搜索新闻..." oninput="onSearch()">
+      <span class="search-clear" id="searchClear" style="display:none" onclick="clearSearch()">✕</span>
     </div>
   </div>
 </div>

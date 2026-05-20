@@ -64,6 +64,15 @@ function deduplicateByUrl(articles) {
   });
 }
 
+function isToday(dateStr) {
+  if (!dateStr) return false;
+  const d = new Date(dateStr);
+  const now = new Date();
+  return d.getFullYear() === now.getFullYear() &&
+    d.getMonth() === now.getMonth() &&
+    d.getDate() === now.getDate();
+}
+
 async function fetchAll() {
   const allArticles = [];
 
@@ -71,7 +80,9 @@ async function fetchAll() {
     try {
       console.log(`📡 抓取: ${source.name} (${source.url})`);
       const feed = await parser.parseURL(source.url);
-      const items = (feed.items || []).slice(0, MAX_PER_SOURCE);
+      const items = (feed.items || [])
+        .filter(item => isToday(item.pubDate || item.isoDate))
+        .slice(0, MAX_PER_SOURCE);
 
       for (const item of items) {
         allArticles.push({
