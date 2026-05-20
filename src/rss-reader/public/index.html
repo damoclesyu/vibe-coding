@@ -438,11 +438,11 @@
   <div class="filter-bar">
     <button class="filter-btn active" data-sort="newest" onclick="setSort('newest')">最新 <span class="sort-arrow">↓</span></button>
     <button class="filter-btn" data-sort="credibility" onclick="setSort('credibility')">可信度 <span class="sort-arrow">↓</span></button>
+    <button class="filter-btn" onclick="openAddSourceModal()" style="background:#f3e8ff;color:#7c3aed">+ 添加源</button>
     <div class="search-wrap">
       <input class="search-input" id="searchInput" type="text" placeholder="🔍 搜索新闻..." oninput="onSearch()">
       <span class="search-clear" id="searchClear" style="display:none" onclick="clearSearch()">✕</span>
     </div>
-    <button class="filter-btn" onclick="openAddSourceModal()" style="background:#f3e8ff;color:#7c3aed">+ 添加源</button>
     <div class="filter-toggle" onclick="toggleHighOnly()">
       <div class="toggle-switch" id="toggleSwitch"></div>
       <span>仅高可信</span>
