@@ -74,6 +74,30 @@
     background: #1a73e8;
     color: #fff;
   }
+  .search-wrap {
+    position: relative;
+    display: flex;
+    align-items: center;
+  }
+  .search-input {
+    font-size: 12px;
+    padding: 6px 28px 6px 12px;
+    border-radius: 18px;
+    border: 1px solid #ddd;
+    outline: none;
+    width: 160px;
+    transition: border 0.2s, width 0.2s;
+  }
+  .search-input:focus { border-color: #1a73e8; width: 200px; }
+  .search-clear {
+    position: absolute;
+    right: 8px;
+    cursor: pointer;
+    font-size: 14px;
+    color: #999;
+    line-height: 1;
+  }
+  .search-clear:hover { color: #333; }
   .filter-toggle {
     display: flex;
     align-items: center;
@@ -407,13 +431,17 @@
   <div class="header-top">
     <div>
       <div class="header-title">📰 国际局势 · 智能简报</div>
-      <div class="header-meta">基于多信源 · <span id="updateTime">加载中...</span></div>
+      <div class="header-meta">页面打开 <span id="pageOpenTime">--</span> · 数据更新 <span id="dataUpdateTime">加载中...</span></div>
     </div>
     <div class="header-update" id="updateBadge">⏱ 加载中</div>
   </div>
   <div class="filter-bar">
     <button class="filter-btn active" data-sort="newest" onclick="setSort('newest')">最新 <span class="sort-arrow">↓</span></button>
     <button class="filter-btn" data-sort="credibility" onclick="setSort('credibility')">可信度 <span class="sort-arrow">↓</span></button>
+    <div class="search-wrap">
+      <input class="search-input" id="searchInput" type="text" placeholder="🔍 搜索新闻..." oninput="onSearch()">
+      <span class="search-clear" id="searchClear" style="display:none" onclick="clearSearch()">✕</span>
+    </div>
     <button class="filter-btn" onclick="openAddSourceModal()" style="background:#f3e8ff;color:#7c3aed">+ 添加源</button>
     <div class="filter-toggle" onclick="toggleHighOnly()">
       <div class="toggle-switch" id="toggleSwitch"></div>
@@ -488,9 +516,11 @@ const BUILTIN_SOURCES = [
 
 // --- State ---
 let articles = [];
+let generatedAt = null;
 let sortMode = 'newest';
 let sortDir = 'desc';
 let highOnly = false;
+let searchQuery = '';
 
 // --- Hidden Sources (deleted by user) ---
 function getHiddenSources() {
@@ -525,23 +555,46 @@ function escapeHtml(str) {
 // --- Load ---
 async function loadArticles() {
   document.getElementById('content').innerHTML = '<div class="state-loading">⏳ 正在加载新闻...</div>';
+  document.getElementById('pageOpenTime').textContent =
+    new Date().toLocaleTimeString('zh-CN', { hour: '2-digit', minute: '2-digit' });
 
   // 1. Load built-in articles
   let builtinArticles = [];
   try {
     const resp = await fetch('./articles.json');
-    if (resp.ok) builtinArticles = await resp.json();
+    if (resp.ok) {
+      const data = await resp.json();
+      if (Array.isArray(data)) {
+        builtinArticles = data;
+      } else {
+        builtinArticles = data.articles || [];
+        generatedAt = data.generatedAt || null;
+      }
+    }
   } catch (err) {
     console.warn('预置数据加载失败', err);
   }
 
   // 2. Fetch custom RSS source articles
+  const customSources = getCustomSources();
+  if (customSources.length > 0) {
+    document.getElementById('content').innerHTML =
+      '<div class="state-loading">⏳ 正在加载自定义源 (0/' + customSources.length + ')...</div>';
+  }
   const customArticles = await fetchAllCustomRSS();
 
   // 3. Merge
   articles = [...builtinArticles, ...customArticles];
 
-  document.getElementById('updateTime').textContent = new Date().toLocaleString('zh-CN');
+  // Update time displays
+  if (generatedAt) {
+    const d = new Date(generatedAt);
+    document.getElementById('dataUpdateTime').textContent =
+      d.toLocaleDateString('zh-CN', { month: 'short', day: 'numeric' }) + ' ' +
+      d.toLocaleTimeString('zh-CN', { hour: '2-digit', minute: '2-digit' });
+  } else {
+    document.getElementById('dataUpdateTime').textContent = '预置数据';
+  }
   document.getElementById('updateBadge').textContent = '⏱ 已加载';
   render();
   renderSidebar();
@@ -552,6 +605,7 @@ async function fetchAllCustomRSS() {
   if (sources.length === 0) return [];
 
   const results = [];
+  let done = 0;
   for (const src of sources) {
     try {
       const apiUrl = 'https://api.rss2json.com/v1/api.json?rss_url=' + encodeURIComponent(src.url);
@@ -578,7 +632,6 @@ async function fetchAllCustomRSS() {
       }
     } catch (err) {
       console.warn('自定义源抓取失败: ' + src.name, err.message);
-      // Add a placeholder article so user knows the source was attempted
       results.push({
         title: '该 RSS 源暂无法访问（' + src.name + '）',
         link: '#',
@@ -593,6 +646,9 @@ async function fetchAllCustomRSS() {
         isCustom: true,
       });
     }
+    done++;
+    document.getElementById('content').innerHTML =
+      '<div class="state-loading">⏳ 正在加载自定义源 (' + done + '/' + sources.length + ')...</div>';
   }
   return results;
 }
@@ -602,6 +658,15 @@ function getFilteredArticles() {
   const hiddenSources = getHiddenSources();
   let list = articles.filter(a => !hiddenSources.includes(a.sourceName));
 
+  if (searchQuery) {
+    const q = searchQuery.toLowerCase();
+    list = list.filter(a =>
+      a.title.toLowerCase().includes(q) ||
+      (a.aiSummary || '').toLowerCase().includes(q) ||
+      a.contentSnippet.toLowerCase().includes(q) ||
+      a.sourceName.toLowerCase().includes(q)
+    );
+  }
   if (highOnly) {
     list = list.filter(a => a.credibilityScore >= 80);
   }
@@ -669,7 +734,6 @@ function render() {
     const groupKey = group.label;
 
     if (groupKey !== lastGroup) {
-      if (lastGroup !== '') html += `</div>`;
       lastGroup = groupKey;
 
       const groupCount = list.filter(x => getDateGroup(x.pubDate).label === groupKey).length;
@@ -700,7 +764,6 @@ function render() {
     </div>`;
   }
 
-  html += `</div>`;
   container.innerHTML = html;
 }
 
@@ -781,6 +844,19 @@ function setSort(mode) {
 function toggleHighOnly() {
   highOnly = !highOnly;
   document.getElementById('toggleSwitch').classList.toggle('on', highOnly);
+  render();
+}
+
+function onSearch() {
+  searchQuery = document.getElementById('searchInput').value.trim();
+  document.getElementById('searchClear').style.display = searchQuery ? 'block' : 'none';
+  render();
+}
+
+function clearSearch() {
+  document.getElementById('searchInput').value = '';
+  searchQuery = '';
+  document.getElementById('searchClear').style.display = 'none';
   render();
 }
 

@@ -174,10 +174,15 @@ async function main() {
     await new Promise((r) => setTimeout(r, 500));
   }
 
-  const output = JSON.stringify(deduped, null, 2);
+  const output = JSON.stringify({
+    generatedAt: new Date().toISOString(),
+    totalSources: RSS_SOURCES.length,
+    totalArticles: deduped.length,
+    articles: deduped,
+  }, null, 2);
   fs.mkdirSync(path.dirname(OUTPUT_FILE), { recursive: true });
   fs.writeFileSync(OUTPUT_FILE, output, "utf-8");
-  console.log(`💾 已保存到 ${OUTPUT_FILE}`);
+  console.log(`💾 已保存到 ${OUTPUT_FILE}（${deduped.length} 条）`);
 }
 
 main().catch((err) => {
