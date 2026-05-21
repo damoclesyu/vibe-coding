@@ -11,9 +11,9 @@ const parser = new Parser({
 
 // 预置 RSS 源（全部国内直连，无需梯子）
 const RSS_SOURCES = [
-  { name: "人民网国际", url: "http://www.people.com.cn/rss/world.xml", weight: 90 },
   { name: "环球网", url: "https://m.huanqiu.com/rss/", weight: 85 },
   { name: "中国新闻网", url: "http://www.chinanews.com/rss/scroll-news.xml", weight: 82 },
+  { name: "联合国新闻中文", url: "https://news.un.org/feed/subscribe/zh/news/all/rss.xml", weight: 80 },
 ];
 
 const MAX_ARTICLES = 15;
@@ -67,23 +67,6 @@ function deduplicateByUrl(articles) {
     seen.add(a.link);
     return true;
   });
-}
-
-// 修复日期损坏的 RSS 源：给文章分配随机近期时间戳
-function fixBrokenDates(articles) {
-  const now = Date.now();
-  for (const article of articles) {
-    const d = new Date(article.pubDate);
-    if (isNaN(d.getTime())) {
-      article.pubDate = new Date(now - Math.random() * 12 * 3600000).toISOString();
-      continue;
-    }
-    const age = now - d.getTime();
-    if (age > 7 * 24 * 60 * 60 * 1000 || age < -24 * 60 * 60 * 1000) {
-      article.pubDate = new Date(now - Math.random() * 12 * 3600000).toISOString();
-    }
-  }
-  return articles;
 }
 
 // --- 标题相似度匹配：用于跨源同主题合并 ---
@@ -140,7 +123,7 @@ function mergeSimilarArticles(articles) {
 function isWithinWindow(dateStr) {
   if (!dateStr) return false;
 
-  // 修复时区缩写歧义（CST→+0800）并移除括号包裹
+  // 修复常见日期格式问题（CST→+0800、括号包裹等）
   let normalized = dateStr
     .replace(/[()]/g, '')
     .replace(/\bCST\b/, '+0800')
@@ -149,21 +132,14 @@ function isWithinWindow(dateStr) {
   if (isNaN(d.getTime())) return false;
 
   const now = Date.now();
-  const age = now - d.getTime();
 
-  // 日期明显有误（超过 7 天前或未来超过 1 天）：RSS 源自身日期字段问题，仍收录
-  if (age > 7 * 24 * 60 * 60 * 1000 || age < -24 * 60 * 60 * 1000) {
-    return true;
-  }
-
-  // 正常日期范围：昨天 8:00 → 今天 8:00（北京时间）
+  // 窗口：昨天 8:00 → 今天 8:00（北京时间）
   const nowDate = new Date();
   const today8am = new Date(nowDate.getFullYear(), nowDate.getMonth(), nowDate.getDate(), 8, 0, 0).getTime();
   const end = now < today8am ? today8am - 24 * 60 * 60 * 1000 : today8am;
   const start = end - 24 * 60 * 60 * 1000;
 
-  const time = d.getTime();
-  return time >= start && time < end;
+  return d.getTime() >= start && d.getTime() < end;
 }
 
 async function fetchAll() {
@@ -267,9 +243,6 @@ async function main() {
   const articles = await fetchAll();
   let deduped = deduplicateByUrl(articles);
   console.log(`📊 去重后: ${deduped.length} 条`);
-
-  // 修复日期损坏的 RSS 源
-  deduped = fixBrokenDates(deduped);
 
   // 跨源同主题合并
   const beforeMerge = deduped.length;
