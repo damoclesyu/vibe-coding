@@ -715,14 +715,10 @@ function timeAgo(dateStr) {
   return days + ' 天前';
 }
 
-function levelLabel(score) {
-  if (score >= 80) return '高';
-  if (score >= 60) return '中';
-  return '低';
-}
-
-function levelClass(level) {
-  return level === 'high' ? 'high' : level === 'medium' ? 'medium' : 'low';
+function getLevel(score) {
+  if (score >= 80) return { label: '高', cls: 'high' };
+  if (score >= 60) return { label: '中', cls: 'medium' };
+  return { label: '低', cls: 'low' };
 }
 
 // --- Render ---
@@ -753,14 +749,14 @@ function render() {
       </div>`;
     }
 
-    const lvl = levelLabel(a.credibilityScore);
+    const lvl = getLevel(a.credibilityScore);
     const link = a.link.replace(/'/g, "\\'");
     const isCustom = a.isCustom ? ' <span style="font-size:10px;background:#f3e8ff;color:#7c3aed;padding:1px 6px;border-radius:10px">自定义</span>' : '';
 
     html += `
     <div class="card" onclick="${a.link === '#' ? '' : "window.open('" + link + "', '_blank')"}" style="cursor:${a.link === '#' ? 'default' : 'pointer'}">
       <div class="card-meta">
-        <span class="badge ${levelClass(a.credibilityLevel)}">${lvl} · ${a.credibilityScore}</span>
+        <span class="badge ${lvl.cls}">${lvl.label} · ${a.credibilityScore}</span>
         <div class="source-tags">
           ${a.allSources && a.allSources.length > 1
             ? a.allSources.map(s => `<span class="source-tag">${escapeHtml(s)}</span>`).join('')
