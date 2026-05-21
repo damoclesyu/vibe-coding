@@ -12,13 +12,9 @@ const parser = new Parser({
 // 预置 RSS 源（全部国内直连，无需梯子）
 const RSS_SOURCES = [
   { name: "人民网国际", url: "http://www.people.com.cn/rss/world.xml", weight: 90 },
-  { name: "新华网国际", url: "http://rss.xinhuanet.com/rss/world.xml", weight: 85 },
-  { name: "新华网国内", url: "http://rss.xinhuanet.com/rss/native.xml", weight: 85 },
-  { name: "央视网国际", url: "http://www.cctv.com/program/rss/02/02/index.xml", weight: 88 },
-  { name: "央视网国内", url: "http://www.cctv.com/program/rss/02/01/index.xml", weight: 88 },
-  { name: "中国日报中文", url: "https://cn.chinadaily.com.cn/rss/world.xml", weight: 85 },
-  { name: "凤凰网资讯", url: "http://news.ifeng.com/rss/", weight: 75 },
-  { name: "中国新闻网", url: "http://www.chinanews.com/rss/scroll-news.xml", weight: 85 },
+  { name: "环球网", url: "https://m.huanqiu.com/rss/", weight: 85 },
+  { name: "中国新闻网", url: "http://www.chinanews.com/rss/scroll-news.xml", weight: 82 },
+  { name: "新浪国际", url: "https://rss.sina.com.cn/news/world/focus15.xml", weight: 78 },
 ];
 
 const MAX_PER_SOURCE = 10;
@@ -50,6 +46,16 @@ const AI_SYSTEM_PROMPT = `你是一位国际新闻分析师，擅长快速评估
 4. 用词是否客观中性
 5. 能否与其他来源交叉验证`;
 
+// 内容预检：避免触发 DeepSeek 内容安全审查
+function hasSensitiveContent(article) {
+  const sensitiveWords = [
+    "台独", "西藏独立", "东突厥斯坦", "法轮功", "六四", "天安门事件",
+    "新疆独立", "香港独立", "藏独", "疆独", "港独",
+  ];
+  const text = `${article.title} ${article.contentSnippet}`.toLowerCase();
+  return sensitiveWords.some((word) => text.includes(word));
+}
+
 // DeepSeek API 配置
 const DEEPSEEK_API_KEY = process.env.DEEPSEEK_API_KEY;
 const DEEPSEEK_BASE_URL = process.env.DEEPSEEK_BASE_URL || "https://api.deepseek.com";
@@ -64,11 +70,15 @@ function deduplicateByUrl(articles) {
   });
 }
 
-function isWithin24Hours(dateStr) {
-  if (!dateStr) return false;
+function isWithinWindow(dateStr) {
+  if (!dateStr) return true;
   const d = new Date(dateStr);
-  const cutoff = Date.now() - 24 * 60 * 60 * 1000;
-  return d.getTime() >= cutoff;
+  if (isNaN(d.getTime())) return true;
+  const age = Date.now() - d.getTime();
+  // 日期超过30天（如 RSS 源日期字段有误/时间戳错误），仍然收录
+  if (age > 30 * 24 * 60 * 60 * 1000) return true;
+  // 正常日期：只收录 48 小时内
+  return age <= 48 * 60 * 60 * 1000;
 }
 
 async function fetchAll() {
@@ -79,7 +89,7 @@ async function fetchAll() {
       console.log(`📡 抓取: ${source.name} (${source.url})`);
       const feed = await parser.parseURL(source.url);
       const items = (feed.items || [])
-        .filter(item => isWithin24Hours(item.pubDate || item.isoDate))
+        .filter(item => isWithinWindow(item.pubDate || item.isoDate))
         .slice(0, MAX_PER_SOURCE);
 
       for (const item of items) {
@@ -162,14 +172,27 @@ async function main() {
   // AI 处理（限制篇数）
   console.log(`\n🤖 开始 AI 处理 (${DEEPSEEK_MODEL})...`);
   const toProcess = deduped.slice(0, AI_MAX_ARTICLES);
+  let aiProcessed = 0, filteredCount = 0, failedCount = 0;
 
   for (let i = 0; i < toProcess.length; i++) {
     const article = toProcess[i];
     console.log(`   [${i + 1}/${toProcess.length}] ${article.title.slice(0, 30)}...`);
 
+    if (hasSensitiveContent(article)) {
+      console.log(`      ⚠️ 跳过（内容预检）`);
+      article.aiSummary = article.contentSnippet.slice(0, 40);
+      article.credibilityScore = Math.round(article.sourceWeight * 0.6);
+      article.credibilityLevel =
+        article.credibilityScore >= 80 ? "high" : article.credibilityScore >= 60 ? "medium" : "low";
+      article.credibilityReason = "因内容合规限制，使用来源权重作为默认评分";
+      filteredCount++;
+      continue;
+    }
+
     try {
       await aiProcess(article);
       console.log(`      ✅ 分数: ${article.credibilityScore}`);
+      aiProcessed++;
     } catch (err) {
       console.error(`      ❌ AI 处理失败: ${err.message}`);
       article.aiSummary = article.contentSnippet.slice(0, 40);
@@ -177,11 +200,14 @@ async function main() {
       article.credibilityLevel =
         article.credibilityScore >= 80 ? "high" : article.credibilityScore >= 60 ? "medium" : "low";
       article.credibilityReason = "AI 处理失败，使用来源权重作为默认评分";
+      failedCount++;
     }
 
     // 请求间隔 500ms，避免限流
     await new Promise((r) => setTimeout(r, 500));
   }
+
+  console.log(`\n📊 最终统计: 总计 ${deduped.length} 条 | AI 处理 ${aiProcessed} | 内容过滤 ${filteredCount} | API 失败 ${failedCount}`);
 
   const output = JSON.stringify({
     generatedAt: new Date().toISOString(),
