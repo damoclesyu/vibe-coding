@@ -1,9 +1,11 @@
 {
   "name": "rss-reader",
   "version": "1.0.0",
-  "description": "RSS 智能阅读器 — 国际局势版",
+  "description": "RSS 智能阅读器 — 国际局势 & 科技版",
   "scripts": {
-    "fetch": "node scripts/fetch.js"
+    "fetch": "node scripts/fetch.js",
+    "fetch-tech": "node scripts/fetch-tech.js",
+    "fetch-all": "node scripts/fetch.js && node scripts/fetch-tech.js"
   },
   "dependencies": {
     "rss-parser": "^3.13.0"

@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>国际局势 · 智能简报</title>
+<title>智能简报 · 国际局势 & 科技</title>
 <style>
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
   body {
@@ -12,6 +12,31 @@
     color: #2c3e50;
     line-height: 1.6;
     min-height: 100vh;
+  }
+
+  /* Tab Bar */
+  .tab-bar {
+    display: flex;
+    gap: 0;
+    background: #fff;
+    border-bottom: 1px solid #e8eaed;
+    padding: 0 20px;
+  }
+  .tab-btn {
+    padding: 12px 20px;
+    font-size: 14px;
+    font-weight: 600;
+    border: none;
+    background: none;
+    cursor: pointer;
+    color: #8b8fa3;
+    border-bottom: 2px solid transparent;
+    transition: all 0.2s;
+  }
+  .tab-btn:hover { color: #1a73e8; }
+  .tab-btn.active {
+    color: #1a73e8;
+    border-bottom-color: #1a73e8;
   }
 
   /* Header */
@@ -440,10 +465,15 @@
 </head>
 <body>
 
+<div class="tab-bar">
+  <button class="tab-btn active" data-tab="intl" onclick="switchTab('intl')">国际局势</button>
+  <button class="tab-btn" data-tab="tech" onclick="switchTab('tech')">科技新闻</button>
+</div>
+
 <div class="header">
   <div class="header-top">
     <div>
-      <div class="header-title">📰 国际局势 · 智能简报</div>
+      <div class="header-title" id="headerTitle">📰 国际局势 · 智能简报</div>
       <div class="header-meta">页面打开 <span id="pageOpenTime">--</span> · 数据更新 <span id="dataUpdateTime">加载中...</span></div>
     </div>
     <div class="header-update" id="updateBadge">⏱ 加载中</div>
@@ -489,7 +519,7 @@
   </aside>
 </div>
 
-<div class="footer">AI 摘要 &amp; 可信度评分 | 每日更新国际局势</div>
+<div class="footer" id="footerText">AI 摘要 &amp; 可信度评分 | 每日更新</div>
 
 <!-- Add Source Modal -->
 <div class="modal-overlay" id="addSourceModal" style="display:none" onclick="if(event.target===this) closeAddSourceModal()">
@@ -516,20 +546,43 @@
 
 <script>
 // --- Preset Sources ---
-const BUILTIN_SOURCES = [
-  { name: "人民网国际", weight: 90 },
+const INTL_SOURCES = [
   { name: "环球网", weight: 85 },
   { name: "中国新闻网", weight: 82 },
-  { name: "新浪国际", weight: 78 },
+];
+
+const TECH_SOURCES = [
+  { name: "36氪", weight: 88 },
+  { name: "IT之家", weight: 85 },
+  { name: "爱范儿", weight: 82 },
+  { name: "钛媒体", weight: 82 },
+  { name: "量子位", weight: 80 },
+  { name: "少数派", weight: 78 },
+  { name: "InfoQ中文", weight: 78 },
+  { name: "Solidot", weight: 75 },
 ];
 
 // --- State ---
 let articles = [];
 let generatedAt = null;
+let currentTab = 'intl';
 let sortMode = 'newest';
 let sortDir = 'desc';
 let highOnly = false;
 let searchQuery = '';
+
+// --- Tab Switching ---
+function switchTab(tab) {
+  currentTab = tab;
+  document.querySelectorAll('.tab-btn').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.tab === tab);
+  });
+  document.getElementById('headerTitle').textContent =
+    tab === 'intl' ? '📰 国际局势 · 智能简报' : '💻 科技前沿 · 智能简报';
+  document.getElementById('footerText').textContent =
+    tab === 'intl' ? 'AI 摘要 & 可信度评分 | 每日更新国际局势' : 'AI 摘要 & 可信度评分 | 每日更新科技动态';
+  loadArticles();
+}
 
 // --- Hidden Sources (deleted by user) ---
 function getHiddenSources() {
@@ -568,7 +621,8 @@ async function loadArticles() {
     new Date().toLocaleTimeString('zh-CN', { hour: '2-digit', minute: '2-digit' });
 
   try {
-    const resp = await fetch('./articles.json');
+    const jsonFile = currentTab === 'intl' ? './articles.json' : './tech-articles.json';
+    const resp = await fetch(jsonFile);
     if (resp.ok) {
       const data = await resp.json();
       if (Array.isArray(data)) {
@@ -745,7 +799,8 @@ function renderSidebar() {
   `;
 
   // Built-in sources (with enable/disable toggle)
-  document.getElementById('sidebarSources').innerHTML = BUILTIN_SOURCES.map(s => {
+  const sources = currentTab === 'intl' ? INTL_SOURCES : TECH_SOURCES;
+  document.getElementById('sidebarSources').innerHTML = sources.map(s => {
     const hidden = hiddenSources.includes(s.name);
     return `<div class="source-item">
       <span style="${hidden ? 'text-decoration:line-through;color:#bbb' : ''}">${s.name}</span>

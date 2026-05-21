@@ -1,126 +1,264 @@
 {
-  "generatedAt": "2026-05-21T05:33:51.206Z",
-  "totalSources": 3,
-  "totalArticles": 7,
+  "generatedAt": "2026-05-21T06:23:43.634Z",
+  "totalSources": 2,
+  "totalArticles": 15,
+  "category": "国际新闻",
   "articles": [
     {
-      "title": "联大欢迎国际法院气候咨询意见 强调各国有义务防止气候损害",
-      "link": "https://news.un.org/feed/view/zh/story/2026/05/1142190",
-      "pubDate": "Wed, 20 May 2026 12:00:00 +0000",
-      "contentSnippet": "联合国大会周三以141票赞成、8票反对和28票弃权的结果通过决议，欢迎国际法院就“各国在气候变化方面的义务”发表的一致咨询意见，并强调各国根据国际法负有保护气候系统和环境免受人为温室气体排放损害的义务。",
-      "sourceName": "联合国新闻中文",
-      "sourceWeight": 80,
+      "title": "违规收集个人信息、窗口乱跳转 31款APP及SDK被通报",
+      "link": "https://china.huanqiu.com/article/4ReXu8PJnB7",
+      "pubDate": "(Thu,21 May 2026 13:49:19 CST)",
+      "contentSnippet": "近期，经组织第三方检测机构进行抽查，共发现31款APP及SDK存在侵害用户权益行为，现予以通报。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
       "allSources": [
-        "联合国新闻中文"
+        "环球网",
+        "中国新闻网"
       ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "联大通过决议，欢迎国际法院气候咨询意见，强调各国气候义务。",
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "31款APP及SDK因违规收集个人信息、窗口乱跳转被通报。",
       "credibilityScore": 95,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为联合国新闻，权威性极高；内容具体，有投票数据，客观中立。"
+      "credibilityReason": "来源为环球网和中国新闻网，权威性高；内容具体，有事实依据。（多源覆盖 +5）"
     },
     {
-      "title": "大非洲之角北部雨季降雨量预计偏低  气候机构警告农业与粮食安全风险",
-      "link": "https://news.un.org/feed/view/zh/story/2026/05/1142188",
-      "pubDate": "Wed, 20 May 2026 12:00:00 +0000",
-      "contentSnippet": "大非洲之角气候展望论坛预测，在2026年6月至9月雨季期间，大非洲之角北部大部分地区出现低于常年降雨量的可能性较高，影响范围包括南苏丹、乌干达、埃塞俄比亚、吉布提、厄立特里亚大部分地区、苏丹以及肯尼亚西部和沿海地区。该展望由受到世界气象组织支持的东非政府间发展组织气候预测与应用中心发布。",
-      "sourceName": "联合国新闻中文",
-      "sourceWeight": 80,
+      "title": "海南部分进出岛旅客列车停运",
+      "link": "https://china.huanqiu.com/article/4ReYrPOKh0l",
+      "pubDate": "(Thu,21 May 2026 14:16:04 CST)",
+      "contentSnippet": "海南部分进出岛旅客列车停运",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
       "allSources": [
-        "联合国新闻中文"
+        "环球网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "大非洲之角北部雨季降雨量预计偏低，威胁农业与粮食安全。",
-      "credibilityScore": 90,
+      "aiSummary": "海南部分进出岛旅客列车因故停运。",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为联合国新闻，权威性高；信息具体，有明确机构和数据支持。"
+      "credibilityReason": "来源环球网较权威，信息具体但缺乏详细原因和交叉验证。"
     },
     {
-      "title": "世卫组织：刚果（金）境内埃博拉疫情风险较高，但尚未构成大流行紧急情况",
-      "link": "https://news.un.org/feed/view/zh/story/2026/05/1142184",
-      "pubDate": "Wed, 20 May 2026 12:00:00 +0000",
-      "contentSnippet": "世界卫生组织周三表示，尽管刚果民主共和国（刚果（金））和乌干达暴发的致命埃博拉疫情在区域和国家层面风险较高，但尚未构成全球大流行紧急情况。",
-      "sourceName": "联合国新闻中文",
-      "sourceWeight": 80,
+      "title": "节令之美|时令入馔：小满“食光”里的中国智慧",
+      "link": "https://china.huanqiu.com/article/4ReX99poqMV",
+      "pubDate": "(Thu,21 May 2026 13:28:06 CST)",
+      "contentSnippet": "绿树葱茏，万物竞秀，5月21日，我们将迎来夏季的第二个节气“小满”。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
       "allSources": [
-        "联合国新闻中文"
+        "环球网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "世卫称刚果（金）埃博拉疫情区域风险高，但非全球紧急情况。",
-      "credibilityScore": 90,
+      "aiSummary": "小满节气饮食体现中国传统文化智慧，强调时令与健康。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为联合国新闻，权威性高；内容具体，有直接引述；用词客观。"
+      "credibilityReason": "来源环球网较权威，内容具体客观，无情绪化用语，可查证。"
     },
     {
-      "title": "霍尔木兹海峡冲突或引发全球粮价危机 粮农组织呼吁紧急应对",
-      "link": "https://news.un.org/feed/view/zh/story/2026/05/1142187",
-      "pubDate": "Wed, 20 May 2026 12:00:00 +0000",
-      "contentSnippet": "联合国粮食及农业组织周三表示，霍尔木兹海峡封锁并非短期航运中断，而是可能在6至12个月内引发全球严重粮食价格危机的系统性农业食品冲击。粮农组织呼吁各国开辟替代贸易路线、避免出口限制、保障人道主义物资流通，并建立缓冲机制以应对运输成本上升。",
-      "sourceName": "联合国新闻中文",
-      "sourceWeight": 80,
+      "title": "德力西电气《一平米的热爱》局部空间轻改造栏目演绎细节美学",
+      "link": "https://yrd.huanqiu.com/article/4ReSfjdWCW7",
+      "pubDate": "(Thu,21 May 2026 11:22:52 CST)",
+      "contentSnippet": "在这场老房焕新之旅中，德力西电气的产品贯穿每一个用电细节，无论是适配多种家装风格的295F超薄肤感智能开关，还是兼顾安全与便捷的无界轨道插座，都精准贴合老房用电",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
       "allSources": [
-        "联合国新闻中文"
+        "环球网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "粮农组织警告霍尔木兹海峡封锁或致全球粮价危机，呼吁紧急应对。",
-      "credibilityScore": 92,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为联合国新闻，权威性极高；内容具体，有明确时间框架和应对建议。"
+      "aiSummary": "德力西电气推出局部空间轻改造栏目，展示智能开关等产品细节。",
+      "credibilityScore": 60,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源环球网较知名，但内容为品牌宣传，缺乏独立核实和具体数据。"
     },
     {
-      "title": "联合国秘书长谴责以色列拟在近东救济工程处场地设立军事设施",
-      "link": "https://news.un.org/feed/view/zh/story/2026/05/1142189",
-      "pubDate": "Wed, 20 May 2026 12:00:00 +0000",
-      "contentSnippet": "联合国秘书长古特雷斯周三通过发言人发表声明，最强烈谴责以色列当局决定在东耶路撒冷近东救济工程处谢赫贾拉场地内建立军事设施，并敦促以方立即撤销决定，将相关场地归还联合国。",
-      "sourceName": "联合国新闻中文",
-      "sourceWeight": 80,
+      "title": "阿根廷巴塔哥尼亚：近60年来最严重夏季林火 恢复需两个世纪",
+      "link": "https://world.huanqiu.com/article/4ReZ6Lsfdod",
+      "pubDate": "(Thu,21 May 2026 14:22:49 CST)",
+      "contentSnippet": "一份日前发布的报告显示，2025年10月至2026年3月，阿根廷巴塔哥尼亚地区遭遇了近60年来最严重的森林火灾，火灾席卷的森林面积达6万多公顷。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
       "allSources": [
-        "联合国新闻中文"
+        "环球网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "联合国秘书长谴责以色列拟在近东救济工程处场地设军事设施。",
-      "credibilityScore": 95,
+      "aiSummary": "阿根廷巴塔哥尼亚遭遇近60年最严重夏季林火，过火6万公顷，恢复需两世纪。",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为联合国新闻，权威性极高；内容具体，有直接引述和明确立场。"
+      "credibilityReason": "来源环球网较权威，信息具体（时间、面积），但缺乏直接引述和多源验证。"
     },
     {
-      "title": "武装冲突平民伤亡加剧   联合国与红十字会警告人道法遭侵蚀",
-      "link": "https://news.un.org/feed/view/zh/story/2026/05/1142186",
-      "pubDate": "Wed, 20 May 2026 12:00:00 +0000",
-      "contentSnippet": "联合国人道主义事务协调厅危机应对司司长沃索努女士以及红十字国际委员会主席斯波利亚里茨周三在安理会关于“武装冲突中保护平民”公开辩论中强调，当前全球平民在冲突中遭受严重伤害，呼吁各方切实履行国际人道法义务、停止针对平民的暴力行为并加强问责机制。她们指出，保护平民的国际法律框架正在遭受侵蚀，亟需政治意愿加以捍卫与落实。",
-      "sourceName": "联合国新闻中文",
-      "sourceWeight": 80,
+      "title": "美国新墨西哥州发生疑似吸毒过量事件 3人死亡",
+      "link": "https://world.huanqiu.com/article/4ReYd91G1J6",
+      "pubDate": "(Thu,21 May 2026 14:09:38 CST)",
+      "contentSnippet": "据美国媒体20日报道，美国新墨西哥州芒蒂内尔市一住宅发生疑似吸毒过量事件，造成3人死亡。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
       "allSources": [
-        "联合国新闻中文"
+        "环球网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "联合国与红十字会警告武装冲突中平民伤亡加剧，国际人道法遭侵蚀。",
-      "credibilityScore": 95,
+      "aiSummary": "美国新墨西哥州一住宅发生疑似吸毒过量事件，致3人死亡。",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为联合国新闻，权威性极高；内容具体，有直接引述；主题客观中立。"
+      "credibilityReason": "来源环球网较权威，报道具体有时间地点，但未提供直接引述或多源验证。"
     },
     {
-      "title": "古特雷斯结束对日本访问 强调安理会改革“绝对至关重要”",
-      "link": "https://news.un.org/feed/view/zh/story/2026/05/1142185",
-      "pubDate": "Wed, 20 May 2026 12:00:00 +0000",
-      "contentSnippet": "联合国秘书长古特雷斯周三在东京表示，当前陷入危机的不是多边主义，而是部分超级大国违反国际法、制造冲突，并利用联合国安理会否决权逃避问责的行为。他强调，改革联合国安理会和国际金融架构“绝对至关重要”，并呼吁建立一个更加公平、有效的多边体系。",
-      "sourceName": "联合国新闻中文",
-      "sourceWeight": 80,
+      "title": "被拔指甲、断双腿……潜伏台湾牺牲72年后，英雄骨灰终回故里！",
+      "link": "https://china.huanqiu.com/article/4ReXebl1ZEn",
+      "pubDate": "(Thu,21 May 2026 13:42:18 CST)",
+      "contentSnippet": "致敬",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
       "allSources": [
-        "联合国新闻中文"
+        "环球网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "古特雷斯访日称安理会改革绝对至关重要，批评超级大国违反国际法。",
-      "credibilityScore": 95,
+      "aiSummary": "报道称潜伏台湾72年的英雄骨灰归乡，细节待核实。",
+      "credibilityScore": 60,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源环球网较权威，但内容缺乏具体时间地点和交叉验证。"
+    },
+    {
+      "title": "骑乘电动车务必戴牢头盔 公安交管部门提示→",
+      "link": "https://china.huanqiu.com/article/4ReYaI5RwqU",
+      "pubDate": "(Thu,21 May 2026 14:08:20 CST)",
+      "contentSnippet": "新修订的《北京市非机动车管理条例》实施已三周，尽管交管部门和各区政府等部门持续强调规范佩戴安全头盔的重要性，近期仍有骑行人因未规范佩戴遇交通事故遭遇不幸。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "北京非机动车新规实施三周，仍有骑行人因未戴头盔遇事故身亡。",
+      "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为联合国新闻官方渠道，权威性极高，内容具体且引用直接发言。"
+      "credibilityReason": "来源环球网较权威，内容具体有法规背景，但缺少直接引述和多源验证。"
+    },
+    {
+      "title": "日本发生多车连环相撞事故 已致1人死亡",
+      "link": "https://world.huanqiu.com/article/4ReXq37R0tG",
+      "pubDate": "(Thu,21 May 2026 13:47:28 CST)",
+      "contentSnippet": "当地时间21日上午9时30分左右，日本茨城县一处高速公路上发生多辆机动车连环相撞事故，目前已有8人被送医，其中1人已死亡。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "日本茨城县高速公路发生多车连环相撞，致1死8伤。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "环球网为知名媒体，报道具体时间地点及伤亡数据，但未提供直接引述或多源验证。"
+    },
+    {
+      "title": "酒后在直播间辱骂他人，主播汪某某，被陕西警方行拘！",
+      "link": "https://society.huanqiu.com/article/4ReXsmlZqSq",
+      "pubDate": "(Thu,21 May 2026 13:48:42 CST)",
+      "contentSnippet": "直播过程中，汪某某语言粗俗不堪，当时直播间在线观众最高达1300余人，造成较大范围的恶劣影响。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "主播汪某某酒后直播辱骂他人，被陕西警方行政拘留。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网较权威，内容具体有数据，事实可查证，用词客观。"
+    },
+    {
+      "title": "塔吉克斯坦外交部重申支持一个中国原则",
+      "link": "https://world.huanqiu.com/article/4ReYc9h8yfJ",
+      "pubDate": "(Thu,21 May 2026 14:09:11 CST)",
+      "contentSnippet": "塔吉克斯坦外交部新闻司代理司长沙菲佐达20日重申，塔方坚定支持一个中国原则。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "塔吉克斯坦外交部重申支持一个中国原则。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网较权威，内容具体，有直接引述，符合外交惯例。"
+    },
+    {
+      "title": "神州租车亮相“519中国旅游日”广州主会场，共同倡导品质旅游新生态",
+      "link": "https://tech.huanqiu.com/article/4ReV3iSWqSc",
+      "pubDate": "(Thu,21 May 2026 12:29:40 CST)",
+      "contentSnippet": "神州租车副总裁王冠楠登台参与发布中国旅游日“品质旅游”广州倡议，与文旅产业链各方共同倡导提升旅游服务品质，推动文旅行业高质量发展。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "神州租车参与广州中国旅游日，倡导品质旅游。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网较权威，内容具体有直接引述，但缺乏多源验证。"
+    },
+    {
+      "title": "蚂蚁集团“商旅互联行动”服务苏州",
+      "link": "https://tech.huanqiu.com/article/4ReYVEZBmVR",
+      "pubDate": "(Thu,21 May 2026 14:06:03 CST)",
+      "contentSnippet": "“苏州馆”文旅专区率先上线蚂蚁旗下Alipay+国际电子钱包网络Voyager旅行AI助手",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "蚂蚁集团推出“商旅互联行动”，在苏州上线文旅专区。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网较权威，内容具体但缺乏多源验证和直接引述。"
+    },
+    {
+      "title": "歌比电影更早？《给阿嬷的情书》主题曲词作者揭秘背后的故事",
+      "link": "https://society.huanqiu.com/article/4ReX6eewLOe",
+      "pubDate": "(Thu,21 May 2026 13:26:58 CST)",
+      "contentSnippet": "近期，电影《给阿嬷的情书》正在热映，票房口碑双双走高。截至5月20日，电影累计票房已超7亿元。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "《给阿嬷的情书》主题曲词作者揭秘创作故事，电影票房超7亿元。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网较权威，内容具体有票房数据，但缺乏多源交叉验证。"
+    },
+    {
+      "title": "“我连名字都不会写，要向小学生请教”",
+      "link": "https://society.huanqiu.com/article/4ReWhz8oGvz",
+      "pubDate": "(Thu,21 May 2026 13:15:50 CST)",
+      "contentSnippet": "琪琪今年已经16岁。琪琪出生没多久，爸爸妈妈就离婚了，后来各自组建了新的家庭。爷爷时常在外打工，琪琪主要由奶奶汪小玲照顾。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "16岁女孩因家庭变故不会写字，需向小学生请教。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网较权威，内容具体有细节，但缺乏多源交叉验证。"
     }
   ]
 }
