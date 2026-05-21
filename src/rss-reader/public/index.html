@@ -677,7 +677,8 @@ function getFilteredArticles() {
 
 // --- Date Grouping ---
 function getDateGroup(dateStr) {
-  const d = new Date(dateStr);
+  const d = parseDate(dateStr);
+  if (isNaN(d.getTime())) return { label: '📅 未知', past: true };
   const now = new Date();
   const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
   const yesterday = new Date(today.getTime() - 86400000);
@@ -691,15 +692,22 @@ function getDateGroup(dateStr) {
   };
 }
 
-// --- Format ---
+// --- Date helpers ---
+function parseDate(dateStr) {
+  if (!dateStr) return new Date(NaN);
+  const normalized = dateStr.replace(/[()]/g, '').replace(/\bCST\b/, '+0800').replace(/\bCDT\b/, '+0800');
+  return new Date(normalized);
+}
+
 function timeAgo(dateStr) {
-  const diff = Date.now() - new Date(dateStr).getTime();
+  const d = parseDate(dateStr);
+  if (isNaN(d.getTime())) return '未知';
+  const diff = Date.now() - d.getTime();
   const mins = Math.floor(diff / 60000);
   if (mins < 60) return mins + ' 分钟前';
   const hours = Math.floor(mins / 60);
   if (hours < 24) return hours + ' 小时前';
   const days = Math.floor(hours / 24);
-  if (days < 0) return '刚刚';
   return days + ' 天前';
 }
 
