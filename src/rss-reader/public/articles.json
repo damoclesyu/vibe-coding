@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-21T06:23:43.634Z",
-  "totalSources": 2,
+  "generatedAt": "2026-05-21T06:54:08.857Z",
+  "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
@@ -13,37 +13,202 @@
       "sourceWeight": 85,
       "allSources": [
         "环球网",
+        "中国新闻网",
+        "澎湃新闻"
+      ],
+      "coverageCount": 3,
+      "coverageBoost": 10,
+      "aiSummary": "31款APP及SDK因违规收集个人信息等问题被通报。",
+      "credibilityScore": 100,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源权威（环球网、中新网、澎湃新闻），内容具体，有官方通报依据。（多源覆盖 +10）"
+    },
+    {
+      "title": "水利部：“龙舟水”期间珠江流域可能发生洪水",
+      "link": "https://china.huanqiu.com/article/4ReXivY8Azl",
+      "pubDate": "(Thu,21 May 2026 13:44:15 CST)",
+      "contentSnippet": "龙舟水，是指端午节前后，每年5月21日至6月20日期间，华南地区的大范围强降水。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网",
+        "中国新闻网",
+        "澎湃新闻"
+      ],
+      "coverageCount": 3,
+      "coverageBoost": 10,
+      "aiSummary": "水利部预警珠江流域在“龙舟水”期间可能发生洪水。",
+      "credibilityScore": 100,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源权威（水利部官方信息），多源交叉验证，信息具体客观。（多源覆盖 +10）"
+    },
+    {
+      "title": "第一观察｜中俄迈向更高质量的全面战略协作",
+      "link": "https://world.huanqiu.com/article/4ReYne0qqKn",
+      "pubDate": "(Thu,21 May 2026 14:14:22 CST)",
+      "contentSnippet": "如何推动两国关系长期、健康、稳定、高质量发展？元首引领是最大优势和根本保障。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网",
         "中国新闻网"
       ],
       "coverageCount": 2,
       "coverageBoost": 5,
-      "aiSummary": "31款APP及SDK因违规收集个人信息、窗口乱跳转被通报。",
+      "aiSummary": "中俄元首引领推动两国关系高质量发展。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为环球网和中国新闻网，权威性较高，内容具体且客观。（多源覆盖 +5）"
+    },
+    {
+      "title": "新疆多部门联合打造“疆品鲜递”助农品牌 让更多优质农产品走向更大市场",
+      "link": "https://china.huanqiu.com/article/4ReZdD4lBz1",
+      "pubDate": "(Thu,21 May 2026 14:37:39 CST)",
+      "contentSnippet": "5月15日清晨，新疆维吾尔自治区吐鲁番市高昌区三堡乡，哈密瓜种植户宋红岭早早地将摘好的瓜送进了该乡哈密瓜自动化分拣中心。中心内，专业分拣设备按照哈密瓜的甜度、重量自动分拣，再由工作人员包装装箱，2分钟即可完成一次打包。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网",
+        "中国新闻网"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "新疆多部门联合打造“疆品鲜递”助农品牌，推动优质农产品走向更大市场。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为环球网和中国新闻网，权威性较高；内容具体，有直接引述和细节。（多源覆盖 +5）"
+    },
+    {
+      "title": "三星电子工会暂缓罢工 韩国股市强劲反弹",
+      "link": "https://world.huanqiu.com/article/4ReZ9CnsSnx",
+      "pubDate": "(Thu,21 May 2026 14:24:06 CST)",
+      "contentSnippet": "韩国综合股价指数（KOSPI）和被称作“韩版纳斯达克”的高斯达克指数（KOSDAQ）21日开盘均大涨，一度触发“临时停牌”机制。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网",
+        "澎湃新闻"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "三星电子工会暂缓罢工，韩国股市21日强劲反弹，触发临时停牌。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为环球网和澎湃新闻，信息具体，有明确时间与指数数据，可信度较高。（多源覆盖 +5）"
+    },
+    {
+      "title": "受暴雨影响 国铁广州局部分列车停运",
+      "link": "https://china.huanqiu.com/article/4ReXezv4I5Z",
+      "pubDate": "(Thu,21 May 2026 13:42:29 CST)",
+      "contentSnippet": "受暴雨影响，国铁广州局根据降雨影响范围，今日对广湛高铁、深湛铁路、京广铁路、广茂铁路部分列车采取停运措施，具体停运车次可在12306网站（App）查询。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网",
+        "中国新闻网"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "受暴雨影响，国铁广州局部分列车停运，具体车次可查询12306。",
       "credibilityScore": 95,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为环球网和中国新闻网，权威性高；内容具体，有事实依据。（多源覆盖 +5）"
+      "credibilityReason": "来源为权威媒体环球网和中国新闻网，信息具体、客观，可查证。（多源覆盖 +5）"
     },
     {
-      "title": "海南部分进出岛旅客列车停运",
-      "link": "https://china.huanqiu.com/article/4ReYrPOKh0l",
-      "pubDate": "(Thu,21 May 2026 14:16:04 CST)",
-      "contentSnippet": "海南部分进出岛旅客列车停运",
+      "title": "哥伦比亚宣布驱逐玻利维亚驻哥使馆负责人",
+      "link": "https://world.huanqiu.com/article/4ReZBOxvtYT",
+      "pubDate": "(Thu,21 May 2026 14:25:05 CST)",
+      "contentSnippet": "哥伦比亚外交部20日发布公告说，基于对等原则，宣布驱逐玻利维亚驻哥伦比亚大使馆负责人阿列尔·皮门特尔，以回应当天早些时候玻利维亚政府驱逐哥伦比亚驻玻利维亚大使的决定。",
       "sourceName": "环球网",
       "sourceWeight": 85,
       "allSources": [
-        "环球网"
+        "环球网",
+        "联合早报·国际"
       ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "海南部分进出岛旅客列车因故停运。",
-      "credibilityScore": 75,
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "哥伦比亚基于对等原则驱逐玻利维亚驻哥使馆负责人。",
+      "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，信息具体但缺乏详细原因和交叉验证。"
+      "credibilityReason": "来源为环球网和联合早报，较权威；内容具体，有公告和人物信息。（多源覆盖 +5）"
     },
     {
-      "title": "节令之美|时令入馔：小满“食光”里的中国智慧",
-      "link": "https://china.huanqiu.com/article/4ReX99poqMV",
-      "pubDate": "(Thu,21 May 2026 13:28:06 CST)",
-      "contentSnippet": "绿树葱茏，万物竞秀，5月21日，我们将迎来夏季的第二个节气“小满”。",
+      "title": "大藤峡水利枢纽今年首次开闸泄洪腾库",
+      "link": "https://china.huanqiu.com/article/4ReXmcSvrfA",
+      "pubDate": "(Thu,21 May 2026 13:45:55 CST)",
+      "contentSnippet": "20日17时，大藤峡水利枢纽今年首次开闸泄洪，提前预腾库容，全力确保流域防洪安全。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网",
+        "中国新闻网"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "大藤峡水利枢纽今年首次开闸泄洪，预腾库容保防洪安全。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为环球网和中国新闻网，权威性较高；信息具体，有时间和事件细节。（多源覆盖 +5）"
+    },
+    {
+      "title": "国家减灾委针对广西柳州地震启动国家四级救灾应急响应",
+      "link": "https://china.huanqiu.com/article/4ReZ8m7iTuo",
+      "pubDate": "(Thu,21 May 2026 14:23:54 CST)",
+      "contentSnippet": "5月21日，国家防灾减灾救灾委员会针对广西柳州市柳南区连续发生的5.2级地震，启动国家四级救灾应急响应，派出工作组赴灾区查看灾情，指导协助地方做好受灾群众基本生活保障等灾害救助工作。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网",
+        "中国新闻网"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "国家减灾委启动四级应急响应应对广西柳州5.2级地震。",
+      "credibilityScore": 95,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为权威媒体，信息具体（时间、地点、级别），用词客观。（多源覆盖 +5）"
+    },
+    {
+      "title": "中美联合侦破跨国毒品犯罪案件 嫌犯被捕",
+      "link": "https://www.zaobao.com/news/china/story20260521-9082036",
+      "pubDate": "Thu, 21 May 2026 01:12:59 GMT",
+      "contentSnippet": "中国官方通报，中美联合侦破一起跨国毒品犯罪案件，涉案嫌疑人已被逮捕。\n央视新闻星期四（5月21日）引述中国国安部消息报道，2024年以来，中国公安部禁毒局和美国司法部缉毒署就一起跨国贩卖新精神活性物质案件开展联合侦办。\n2026年2月，根据美方提供的线索，天津警方成功抓获宫姓犯罪嫌疑人。此前，美方已在美国佐治亚州抓获一名涉案美国籍嫌疑人。\n报道称，这起案件的成功侦破，既体现中美禁毒执法合作机制的持续运作，也是双方协同打击跨境犯罪的又一实践成果，彰显两国执法机构对毒品犯罪活动及相关跨国犯罪行径绝不姑息的严正立场。",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
+      "allSources": [
+        "联合早报·中港台",
+        "央视新闻"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "中美联合侦破跨国毒品案，嫌犯被捕，体现禁毒合作。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源权威（央视新闻），有具体时间、地点、人物，信息可查证。（多源覆盖 +5）"
+    },
+    {
+      "title": "韩媒：习近平最快可能下周访问朝鲜",
+      "link": "https://www.zaobao.com/news/china/story20260521-9081782",
+      "pubDate": "Wed, 20 May 2026 23:20:32 GMT",
+      "contentSnippet": "韩联社星期三（5月20日）引述消息人士称，中国国家主席习近平最快可能于下周访问朝鲜。",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
+      "allSources": [
+        "联合早报·中港台",
+        "联合早报·国际"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "韩媒称习近平最快下周访朝，消息待官方确认。",
+      "credibilityScore": 70,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为韩联社引述消息人士，非官方确认，信息具体但缺乏多源验证。（多源覆盖 +5）"
+    },
+    {
+      "title": "四川德阳罗江区与成都成华区共同举办“5·19中国旅游日”主题推广活动",
+      "link": "https://city.huanqiu.com/article/4ReTH6f1Bxu",
+      "pubDate": "(Thu,21 May 2026 11:39:45 CST)",
+      "contentSnippet": "下一步，罗江区将持续深化与成都市成华区的文旅合作，优化文旅产品供给，打造“非遗+研学”“文化+潮玩”等特色体验场景，做强“蜀道文脉·寻味罗江”文旅品牌，以高品质",
       "sourceName": "环球网",
       "sourceWeight": 85,
       "allSources": [
@@ -51,16 +216,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "小满节气饮食体现中国传统文化智慧，强调时令与健康。",
+      "aiSummary": "四川德阳罗江区与成都成华区联合举办中国旅游日推广活动。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体客观，无情绪化用语，可查证。"
+      "credibilityReason": "来源环球网较权威，内容具体，有明确时间地点和合作细节。"
     },
     {
-      "title": "德力西电气《一平米的热爱》局部空间轻改造栏目演绎细节美学",
-      "link": "https://yrd.huanqiu.com/article/4ReSfjdWCW7",
-      "pubDate": "(Thu,21 May 2026 11:22:52 CST)",
-      "contentSnippet": "在这场老房焕新之旅中，德力西电气的产品贯穿每一个用电细节，无论是适配多种家装风格的295F超薄肤感智能开关，还是兼顾安全与便捷的无界轨道插座，都精准贴合老房用电",
+      "title": "菲律宾参议院将于7月6日正式审理副总统莎拉弹劾案",
+      "link": "https://world.huanqiu.com/article/4ReUXKMGgkY",
+      "pubDate": "(Thu,21 May 2026 12:15:03 CST)",
+      "contentSnippet": "菲律宾多名参议员称，对副总统莎拉·杜特尔特的弹劾案审理将于7月6日正式开始。",
       "sourceName": "环球网",
       "sourceWeight": 85,
       "allSources": [
@@ -68,84 +233,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "德力西电气推出局部空间轻改造栏目，展示智能开关等产品细节。",
-      "credibilityScore": 60,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源环球网较知名，但内容为品牌宣传，缺乏独立核实和具体数据。"
-    },
-    {
-      "title": "阿根廷巴塔哥尼亚：近60年来最严重夏季林火 恢复需两个世纪",
-      "link": "https://world.huanqiu.com/article/4ReZ6Lsfdod",
-      "pubDate": "(Thu,21 May 2026 14:22:49 CST)",
-      "contentSnippet": "一份日前发布的报告显示，2025年10月至2026年3月，阿根廷巴塔哥尼亚地区遭遇了近60年来最严重的森林火灾，火灾席卷的森林面积达6万多公顷。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "阿根廷巴塔哥尼亚遭遇近60年最严重夏季林火，过火6万公顷，恢复需两世纪。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，信息具体（时间、面积），但缺乏直接引述和多源验证。"
-    },
-    {
-      "title": "美国新墨西哥州发生疑似吸毒过量事件 3人死亡",
-      "link": "https://world.huanqiu.com/article/4ReYd91G1J6",
-      "pubDate": "(Thu,21 May 2026 14:09:38 CST)",
-      "contentSnippet": "据美国媒体20日报道，美国新墨西哥州芒蒂内尔市一住宅发生疑似吸毒过量事件，造成3人死亡。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "美国新墨西哥州一住宅发生疑似吸毒过量事件，致3人死亡。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，报道具体有时间地点，但未提供直接引述或多源验证。"
-    },
-    {
-      "title": "被拔指甲、断双腿……潜伏台湾牺牲72年后，英雄骨灰终回故里！",
-      "link": "https://china.huanqiu.com/article/4ReXebl1ZEn",
-      "pubDate": "(Thu,21 May 2026 13:42:18 CST)",
-      "contentSnippet": "致敬",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "报道称潜伏台湾72年的英雄骨灰归乡，细节待核实。",
-      "credibilityScore": 60,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源环球网较权威，但内容缺乏具体时间地点和交叉验证。"
-    },
-    {
-      "title": "骑乘电动车务必戴牢头盔 公安交管部门提示→",
-      "link": "https://china.huanqiu.com/article/4ReYaI5RwqU",
-      "pubDate": "(Thu,21 May 2026 14:08:20 CST)",
-      "contentSnippet": "新修订的《北京市非机动车管理条例》实施已三周，尽管交管部门和各区政府等部门持续强调规范佩戴安全头盔的重要性，近期仍有骑行人因未规范佩戴遇交通事故遭遇不幸。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "北京非机动车新规实施三周，仍有骑行人因未戴头盔遇事故身亡。",
+      "aiSummary": "菲律宾参议院将于7月6日审理副总统莎拉弹劾案。",
       "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体有法规背景，但缺少直接引述和多源验证。"
+      "credibilityReason": "来源环球网较权威，信息具体有时间、人物和事件，但缺乏直接引述和多源验证。"
     },
     {
-      "title": "日本发生多车连环相撞事故 已致1人死亡",
-      "link": "https://world.huanqiu.com/article/4ReXq37R0tG",
-      "pubDate": "(Thu,21 May 2026 13:47:28 CST)",
-      "contentSnippet": "当地时间21日上午9时30分左右，日本茨城县一处高速公路上发生多辆机动车连环相撞事故，目前已有8人被送医，其中1人已死亡。",
+      "title": "国家组织心脏支架集采第二轮接续开标 27个产品拟中选",
+      "link": "https://china.huanqiu.com/article/4ReUfhrmlVc",
+      "pubDate": "(Thu,21 May 2026 12:18:50 CST)",
+      "contentSnippet": "20日，“国家组织心脏支架集中带量采购”第二轮接续采购在天津开标。共15家企业的27个产品获拟中选资格，临床在用的国内外企业主流产品普遍中选。",
       "sourceName": "环球网",
       "sourceWeight": 85,
       "allSources": [
@@ -153,112 +250,27 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "日本茨城县高速公路发生多车连环相撞，致1死8伤。",
+      "aiSummary": "国家心脏支架集采第二轮接续开标，27个产品拟中选。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网较权威，信息具体（时间、地点、数据），用词客观。"
+    },
+    {
+      "title": "伊朗外交部称“正在评估”美方最新谈判意见",
+      "link": "https://world.huanqiu.com/article/4ReT2us09Ur",
+      "pubDate": "(Thu,21 May 2026 11:33:20 CST)",
+      "contentSnippet": "据伊朗光明通讯社21日报道，伊朗外交部发言人巴加埃表示，伊方“正在评估”美方通过巴基斯坦转交的最新谈判意见。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "伊朗外交部称正评估美方通过巴基斯坦转交的最新谈判意见。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "环球网为知名媒体，报道具体时间地点及伤亡数据，但未提供直接引述或多源验证。"
-    },
-    {
-      "title": "酒后在直播间辱骂他人，主播汪某某，被陕西警方行拘！",
-      "link": "https://society.huanqiu.com/article/4ReXsmlZqSq",
-      "pubDate": "(Thu,21 May 2026 13:48:42 CST)",
-      "contentSnippet": "直播过程中，汪某某语言粗俗不堪，当时直播间在线观众最高达1300余人，造成较大范围的恶劣影响。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "主播汪某某酒后直播辱骂他人，被陕西警方行政拘留。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体有数据，事实可查证，用词客观。"
-    },
-    {
-      "title": "塔吉克斯坦外交部重申支持一个中国原则",
-      "link": "https://world.huanqiu.com/article/4ReYc9h8yfJ",
-      "pubDate": "(Thu,21 May 2026 14:09:11 CST)",
-      "contentSnippet": "塔吉克斯坦外交部新闻司代理司长沙菲佐达20日重申，塔方坚定支持一个中国原则。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "塔吉克斯坦外交部重申支持一个中国原则。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体，有直接引述，符合外交惯例。"
-    },
-    {
-      "title": "神州租车亮相“519中国旅游日”广州主会场，共同倡导品质旅游新生态",
-      "link": "https://tech.huanqiu.com/article/4ReV3iSWqSc",
-      "pubDate": "(Thu,21 May 2026 12:29:40 CST)",
-      "contentSnippet": "神州租车副总裁王冠楠登台参与发布中国旅游日“品质旅游”广州倡议，与文旅产业链各方共同倡导提升旅游服务品质，推动文旅行业高质量发展。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "神州租车参与广州中国旅游日，倡导品质旅游。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体有直接引述，但缺乏多源验证。"
-    },
-    {
-      "title": "蚂蚁集团“商旅互联行动”服务苏州",
-      "link": "https://tech.huanqiu.com/article/4ReYVEZBmVR",
-      "pubDate": "(Thu,21 May 2026 14:06:03 CST)",
-      "contentSnippet": "“苏州馆”文旅专区率先上线蚂蚁旗下Alipay+国际电子钱包网络Voyager旅行AI助手",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "蚂蚁集团推出“商旅互联行动”，在苏州上线文旅专区。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体但缺乏多源验证和直接引述。"
-    },
-    {
-      "title": "歌比电影更早？《给阿嬷的情书》主题曲词作者揭秘背后的故事",
-      "link": "https://society.huanqiu.com/article/4ReX6eewLOe",
-      "pubDate": "(Thu,21 May 2026 13:26:58 CST)",
-      "contentSnippet": "近期，电影《给阿嬷的情书》正在热映，票房口碑双双走高。截至5月20日，电影累计票房已超7亿元。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "《给阿嬷的情书》主题曲词作者揭秘创作故事，电影票房超7亿元。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体有票房数据，但缺乏多源交叉验证。"
-    },
-    {
-      "title": "“我连名字都不会写，要向小学生请教”",
-      "link": "https://society.huanqiu.com/article/4ReWhz8oGvz",
-      "pubDate": "(Thu,21 May 2026 13:15:50 CST)",
-      "contentSnippet": "琪琪今年已经16岁。琪琪出生没多久，爸爸妈妈就离婚了，后来各自组建了新的家庭。爷爷时常在外打工，琪琪主要由奶奶汪小玲照顾。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "16岁女孩因家庭变故不会写字，需向小学生请教。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体有细节，但缺乏多源交叉验证。"
+      "credibilityReason": "来源环球网较权威，引用伊朗官方通讯社，信息具体可查证。"
     }
   ]
 }

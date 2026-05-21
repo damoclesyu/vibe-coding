@@ -4,6 +4,10 @@ const path = require("path");
 const INTl_SOURCES = [
   { name: "环球网", url: "https://m.huanqiu.com/rss/", weight: 85 },
   { name: "中国新闻网", url: "http://www.chinanews.com/rss/scroll-news.xml", weight: 82 },
+  { name: "澎湃新闻", url: "https://plink.anyfeeder.com/thepaper", weight: 82 },
+  { name: "联合早报·中港台", url: "https://plink.anyfeeder.com/zaobao/realtime/china", weight: 80 },
+  { name: "联合早报·国际", url: "https://plink.anyfeeder.com/zaobao/realtime/world", weight: 80 },
+  { name: "央视新闻", url: "https://plink.anyfeeder.com/weixin/cctvnewscenter", weight: 80 },
 ];
 
 const INTl_PROMPT = `你是一位国际新闻分析师，擅长快速评估新闻可信度。

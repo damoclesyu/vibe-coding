@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T06:24:54.850Z",
+  "generatedAt": "2026-05-21T06:55:12.750Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
@@ -20,10 +20,10 @@
       ],
       "coverageCount": 5,
       "coverageBoost": 20,
-      "aiSummary": "创新发布Sound Blaster AE-X内置声卡，支持130dB信噪比，售价1269元",
+      "aiSummary": "创新推出Sound Blaster AE-X内置声卡，支持130dB信噪比，售价1269元。",
       "credibilityScore": 100,
       "credibilityLevel": "high",
-      "credibilityReason": "来自IT之家等知名科技媒体，技术参数具体，逻辑清晰，来源可靠（多源覆盖 +20）"
+      "credibilityReason": "来自IT之家等知名科技媒体，技术参数具体且来源可靠，内容客观。（多源覆盖 +20）"
     },
     {
       "title": "为鸿蒙 7.0 铺路：OpenHarmony 7.0 Beta1 现身，华为 HarmonyOS API26 版本已启开发者体验官招募",
@@ -42,13 +42,13 @@
       "aiSummary": "OpenHarmony 7.0 Beta1现身，或为鸿蒙7.0铺路，API26版本已开启招募。",
       "credibilityScore": 95,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家等知名科技媒体，信息具体有版本号、API细节，逻辑清晰。（多源覆盖 +10）"
+      "credibilityReason": "来自IT之家等知名科技媒体，信息具体有版本号、日期和出处，逻辑清晰。（多源覆盖 +10）"
     },
     {
-      "title": "HMD Thunder Pro 手机规格曝光：紫光展锐 T620 芯片，6.67 英寸 FHD+ 分辨率 OLED 屏幕",
-      "link": "https://www.ithome.com/0/953/324.htm",
-      "pubDate": "Thu, 21 May 2026 06:05:32 GMT",
-      "contentSnippet": "IT之家 5 月 21 日消息，消息人士 HMD_MEME'S 昨天在 X 平台发文，曝光 HMD Thunder Pro 手机的详细规格，IT之家附上渲染图如下：\n\n\n据介绍，这台手机搭载紫光展锐 T620 芯片，主频为 2.2GHz，配备 8GB 内存和 256GB UFS 2.2 存储空间。拥有一块 6.67 英寸 OLED 屏幕，分辨率为 FHD+，支持 90Hz 高刷。\n\n影像方面，该机配备 5000 万像素 OIS 光学防抖主摄，超广角镜头则是 800 万像素，屏幕下方带有一个 5000 万像素前置摄像头。\n此外，该机支持 NFC，保留 3.5mm 耳机接口，具备双麦克风、双扬声器",
+      "title": "Hardkernel 推出 ODROID-H5 单板计算机，提供 4 M.2 + 10GbE",
+      "link": "https://www.ithome.com/0/953/362.htm",
+      "pubDate": "Thu, 21 May 2026 06:44:07 GMT",
+      "contentSnippet": "IT之家 5 月 21 日消息，韩国单板计算机 (SBC) 厂商 Hardkernel 本月推出了新品 ODROID-H5。该型号基于英特尔酷睿 i3-N300 八核 \"Alder Lake-N\" 处理器，提供了 4 个 M.2 盘位和 1 个 10GbE RJ45 网口。\n\n酷睿 i3-N300 仅有 9 条 Gen 3 的 PCIe 通道，ODROID-H5 将其分配为 3 个 PCIe Gen3 ×2 的 M.2、1 个 PCIe Gen3 ×1 的 M.2，另外两条则用于连接瑞昱 RTL8127AT 以太网控制器。\n这款 SBC 具备 1 个 DDR5 SO-DIMM 内存插槽，还提供",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -57,28 +57,10 @@
       ],
       "coverageCount": 2,
       "coverageBoost": 5,
-      "aiSummary": "HMD Thunder Pro手机规格曝光，搭载紫光展锐T620芯片。",
-      "credibilityScore": 75,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体但依赖单一消息人士，缺乏官方确认。（多源覆盖 +5）"
-    },
-    {
-      "title": "华为擎云发布 HUAWEI MateBook Fold 企业版鸿蒙折叠电脑，搭载 HarmonyOS V1.0",
-      "link": "https://www.ithome.com/0/953/304.htm",
-      "pubDate": "Thu, 21 May 2026 05:04:43 GMT",
-      "contentSnippet": "IT之家 5 月 21 日消息，华为擎云今日官宣推出 HUAWEI MateBook Fold 企业版鸿蒙折叠电脑，提供锻影黑和云水蓝两种配色，具体价格暂未公布。\n\n从官方公布的参数来看，这款电脑是基于常规版 MateBook Fold 非凡大师打造。后者发布于去年 5 月，搭载麒麟 X90 处理器，售价 23999 元起。其合上时仅有 13 英寸大小，展开后呈现出 18 英寸的全球最大折叠屏，重量为 1.16kg，薄至 7.3mm。磁吸键盘可吸附在主机背面‏‏。\n\nIT之家注意到，与常规版 MateBook Fold 非凡大师不同的是，华为擎云 HUAWEI MateBook Fold 企业",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家",
-        "Solidot"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "华为发布企业版折叠电脑，基于MateBook Fold非凡大师，搭载鸿蒙系统。",
-      "credibilityScore": 80,
+      "aiSummary": "Hardkernel发布ODROID-H5单板机，配4个M.2和10GbE网口",
+      "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家可信，信息具体有参数细节，但缺乏价格和官方确认。（多源覆盖 +5）"
+      "credibilityReason": "来源IT之家和Solidot较权威，内容具体有技术细节，但缺乏原始出处链接（多源覆盖 +5）"
     },
     {
       "title": "英伟达 Vera Rubin 超级 AI 芯片下半年推出，黄仁勋称肯定比 Grace Blackwell 更加成功",
@@ -93,10 +75,10 @@
       ],
       "coverageCount": 2,
       "coverageBoost": 5,
-      "aiSummary": "英伟达Vera Rubin芯片下半年推出，黄仁勋称其将超越Grace Blackwell。",
+      "aiSummary": "英伟达Vera Rubin芯片下半年推出，黄仁勋称将超越Grace Blackwell。",
       "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来自IT之家和钛媒体，引用财报电话会议内容，信息具体且有高管原话支撑。（多源覆盖 +5）"
+      "credibilityReason": "来自IT之家和钛媒体，引用财报电话会议内容，信息具体且逻辑清晰。（多源覆盖 +5）"
     },
     {
       "title": "不换 Kimi 底座，1/10 成本追平 Opus 4.7？Cursor 用 Composer 2.5 反击 Claude Code",
@@ -111,44 +93,10 @@
       ],
       "coverageCount": 2,
       "coverageBoost": 5,
-      "aiSummary": "Cursor用Composer 2.5以1/10成本追平Opus，不换Kimi底座反击Claude Code。",
+      "aiSummary": "Cursor用Composer 2.5以1/10成本追平Opus，反击Claude Code。",
       "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体，内容具体有技术细节，但缺乏原始数据支撑。（多源覆盖 +5）"
-    },
-    {
-      "title": "马斯克旗下SpaceX启动史上最大规模IPO计划",
-      "link": "https://36kr.com/newsflashes/3818654166434945?f=rss",
-      "pubDate": "2026-05-21 14:15:53  +0800",
-      "contentSnippet": "SpaceX官宣史上最大规模首次公开募股计划，这家横跨人工智能与航天火箭领域的巨头正式开启重磅上市浪潮，或将重塑华尔街格局。周三晚间，该公司向美国证券监管机构递交万众期待的招股说明书，投资者首度窥见其财务状况、马斯克对公司的掌控力以及各类潜在风险。本次募资金额与拟定估值暂未正式披露，据媒体此前消息，这家航天企业计划以 1.75 万亿美元估值募资约 750 亿美元。（新浪财经）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "SpaceX启动史上最大规模IPO，估值1.75万亿美元募资750亿美元",
-      "credibilityScore": 65,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为36氪，内容具体但缺乏官方确认，估值和募资金额来自媒体消息"
-    },
-    {
-      "title": "阿里股东信释放信号，即时零售已成为淘宝天猫核心战略支柱",
-      "link": "https://36kr.com/newsflashes/3818610719687552?f=rss",
-      "pubDate": "2026-05-21 13:31:41  +0800",
-      "contentSnippet": "5月20日，阿里巴巴集团主席蔡崇信与首席执行官吴泳铭联合发布致股东信。信中称，即时零售已成为淘宝和天猫平台升级的核心战略支柱。“我们看到即时零售在利用AI驱动获取新用户、增强用户粘性、满足多元消费需求、提升交易量和商业化水平的战略意义。”",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "阿里股东信称即时零售成淘宝天猫核心战略支柱",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体有股东信细节，逻辑清晰"
+      "credibilityReason": "来自知名科技媒体，内容具体有技术细节，但缺少原始数据出处。（多源覆盖 +5）"
     },
     {
       "title": "建设银行股价创历史新高",
@@ -165,7 +113,75 @@
       "aiSummary": "建设银行股价创历史新高，银行板块走强。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，内容具体但缺少技术细节和数据支撑。"
+      "credibilityReason": "来源36氪为知名科技媒体，内容具体但缺乏技术细节和数据支撑。"
+    },
+    {
+      "title": "氪星晚报｜2026福布斯中国人工智能科技企业TOP 50发布，中关村科金入选；三星劳资谈判破裂，威刚董事长称DRAM、NAND恐再掀涨价潮；新交所与中国银行签署新版战略合作备忘录",
+      "link": "https://36kr.com/p/3816942423000196?f=rss",
+      "pubDate": "2026-05-20 19:40:36  +0800",
+      "contentSnippet": "大公司：\n新加坡加码人工智能布局，英伟达将落地本地研发中心\n全球AI芯片巨头英伟达将在新加坡新设研发中心，这也是新加坡周三集中公布的一系列人工智能相关举措之一。这座全新实验室是英伟达在新加坡设立的首个研发据点，同时也是其在亚太地区布局的第二处同类研发机构。（新浪财经）\n2026福布斯中国人工智能科技企业TOP 50发布，中关村科金入选\n36氪获悉，《2026福布斯中国人工智能科技企业TOP 50》正式揭晓，中关村科金成功入选，是榜单中唯一的“企业级AI平台及应用公司”。据IDC最新报告，中关村科金位列中国大模型平台私有化市场份额第四；在2026年一季度应用类大模型项目公开中标数排名前五。公司服",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "36氪报道英伟达新加坡研发中心、福布斯AI榜单及三星劳资谈判影响存储芯片市场。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源知名科技媒体，内容具体有数据支撑，引用新浪财经和IDC报告，逻辑清晰。"
+    },
+    {
+      "title": "三大指数午后集体翻绿",
+      "link": "https://36kr.com/newsflashes/3818636740478087?f=rss",
+      "pubDate": "2026-05-21 13:58:10  +0800",
+      "contentSnippet": "36氪获悉，三大指数午后集体翻绿，创业板指早盘一度涨超2%。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "三大指数午后集体翻绿，创业板指早盘涨超2%",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体36氪，内容具体但缺乏数据支撑"
+    },
+    {
+      "title": "恒生科技指数跌幅扩大至2%",
+      "link": "https://36kr.com/newsflashes/3818686071342215?f=rss",
+      "pubDate": "2026-05-21 14:48:21  +0800",
+      "contentSnippet": "36氪获悉，港股恒生科技指数跌幅扩大至2%，恒生指数现跌0.95%；科技股集体走弱，哔哩哔哩跌超8%，百度集体、快手跌超5%。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "恒生科技指数跌2%，科技股集体走弱。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪为知名科技媒体，信息具体有数据支撑，时效性强。"
+    },
+    {
+      "title": "沪深两市成交额突破3万亿元",
+      "link": "https://36kr.com/newsflashes/3818672355672962?f=rss",
+      "pubDate": "2026-05-21 14:34:23  +0800",
+      "contentSnippet": "36氪获悉，沪深两市成交额突破3万亿元。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "沪深两市成交额突破3万亿元",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体36氪，信息具体且有时效性，但缺乏数据细节和原始出处"
     },
     {
       "title": "AMD正与台积电合作，提升下一代CPU的产能",
@@ -180,9 +196,60 @@
       "coverageCount": 1,
       "coverageBoost": 0,
       "aiSummary": "AMD与台积电合作提升下一代CPU产能。",
+      "credibilityScore": 70,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体36氪，内容具体但缺乏技术细节和原始出处。"
+    },
+    {
+      "title": "ArtificialAnalysis：千问3.7问鼎国产模型冠军，全球前五",
+      "link": "https://36kr.com/newsflashes/3818678530507905?f=rss",
+      "pubDate": "2026-05-21 14:40:40  +0800",
+      "contentSnippet": "36氪获悉，5月21日，三方机构ArtificialAnalysis公布了最新的全球大模型榜单，阿里新发布的旗舰模型Qwen3.7-Max得分56.6分，性能接近GPT、Claude、Gemini的最强模型，位列全球第五、国产第一。据了解，Qwen3.7-Max即将上线阿里云百炼对外提供API服务。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "阿里Qwen3.7-Max获全球第五、国产第一，即将上线API。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪为知名科技媒体，信息具体有数据支撑，引用第三方榜单。"
+    },
+    {
+      "title": "阿布扎比国家石油公司正投资1500亿美元，以满足全球能源需求",
+      "link": "https://36kr.com/newsflashes/3818625510524034?f=rss",
+      "pubDate": "2026-05-21 13:46:44  +0800",
+      "contentSnippet": "阿布扎比国家石油公司（ADNOC）正投资1500亿美元，以满足全球能源需求，同时推动人工智能、先进制造、物流与工业领域的国内增长。（财联社）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "ADNOC投资1500亿美元满足全球能源需求并推动多领域增长",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，内容具体但缺乏细节和原始出处。"
+      "credibilityReason": "来源为知名科技媒体36氪，内容具体但缺乏原始出处和细节支撑"
+    },
+    {
+      "title": "机构：第一季度全球电视品牌出货量达4712万台，年增3.3%",
+      "link": "https://36kr.com/newsflashes/3818642166711426?f=rss",
+      "pubDate": "2026-05-21 14:03:41  +0800",
+      "contentSnippet": "36氪获悉，根据TrendForce集邦咨询最新调查，2026年第一季全球电视品牌出货量达4712万台，年增3.3%，但较上一季衰退12.7%。尽管面临淡季，加上“以旧换新”补贴缩减，市场需求趋于保守，然而因AI Server与高端运算需求导致DRAM与NAND Flash供应趋紧，2025年底电视用存储器价格明显上涨。为降低后续成本压力，品牌提前进行备货与拉货，成为支撑第一季出货成长的主要动能。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "一季度全球电视出货量4712万台，年增3.3%",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体36氪，引用TrendForce数据，信息具体有出处"
     },
     {
       "title": "AMD宣布采用台积电2nm工艺量产下一代霄龙处理器“Venice”",
@@ -199,75 +266,7 @@
       "aiSummary": "AMD宣布采用台积电2nm工艺量产下一代霄龙处理器Venice。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，信息具体且引用界面新闻，技术细节明确。"
-    },
-    {
-      "title": "塔斯汀增资至3亿，增幅约152%",
-      "link": "https://36kr.com/newsflashes/3818658451375235?f=rss",
-      "pubDate": "2026-05-21 14:20:15  +0800",
-      "contentSnippet": "36氪获悉，天眼查App显示，近日，福州塔斯汀餐饮管理有限公司发生工商变更，注册资本由约1.2亿人民币增至3亿人民币，增幅约152%。 该公司成立于2017年12月，法定代表人为杨兵，经营范围包括餐饮管理、企业管理咨询、企业形象策划、餐饮服务等，由Tasiting (HK) Holdings Limited全资持股。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "塔斯汀注册资本从1.2亿增至3亿，增幅约152%。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，信息具体有数据支撑，引用天眼查工商信息。"
-    },
-    {
-      "title": "中汽协：1-4月销量排名前十位的MPV生产企业共销售24.3万辆",
-      "link": "https://36kr.com/newsflashes/3818616159716224?f=rss",
-      "pubDate": "2026-05-21 13:37:13  +0800",
-      "contentSnippet": "36氪获悉，据中国汽车工业协会统计分析，2026年1-4月，销量排名前十位的MPV生产企业共销售24.3万辆，占MPV销售总量的80.8%。在上述十家企业中，与去年同期相比，长城汽车、东风公司和小鹏汽车销量呈不同程度增长，其他企业销量呈不同程度下降。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中汽协：1-4月MPV前十企业销量24.3万辆，占比80.8%。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，数据源自中汽协官方统计，信息具体且客观。"
-    },
-    {
-      "title": "三大指数午后集体翻绿",
-      "link": "https://36kr.com/newsflashes/3818636740478087?f=rss",
-      "pubDate": "2026-05-21 13:58:10  +0800",
-      "contentSnippet": "36氪获悉，三大指数午后集体翻绿，创业板指早盘一度涨超2%。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "三大指数午后集体翻绿，创业板指早盘涨超2%。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名财经媒体36氪，信息具体但缺乏数据支撑。"
-    },
-    {
-      "title": "A股三大股指午后持续下挫，沪指跌超1%",
-      "link": "https://36kr.com/newsflashes/3818660257793153?f=rss",
-      "pubDate": "2026-05-21 14:22:05  +0800",
-      "contentSnippet": "36氪获悉，A股三大股指午后持续下挫，沪指跌超1%，存储芯片、光刻机、光纤概念等跌幅居前。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "A股午后下跌，沪指跌超1%，科技板块领跌。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体36氪，内容具体但缺少数据支撑和原始出处。"
+      "credibilityReason": "来源为知名科技媒体36氪，信息具体且引用原始报道，技术细节清晰。"
     }
   ]
 }
