@@ -14,11 +14,10 @@ const RSS_SOURCES = [
   { name: "人民网国际", url: "http://www.people.com.cn/rss/world.xml", weight: 90 },
   { name: "环球网", url: "https://m.huanqiu.com/rss/", weight: 85 },
   { name: "中国新闻网", url: "http://www.chinanews.com/rss/scroll-news.xml", weight: 82 },
-  { name: "新浪国际", url: "https://rss.sina.com.cn/news/world/focus15.xml", weight: 78 },
 ];
 
-const MAX_PER_SOURCE = 10;
-const AI_MAX_ARTICLES = 30;
+const MAX_ARTICLES = 15;
+const MAX_PER_SOURCE = 30;
 const OUTPUT_FILE = path.join(__dirname, "..", "public", "articles.json");
 
 const AI_SYSTEM_PROMPT = `你是一位国际新闻分析师，擅长快速评估新闻可信度。
@@ -70,15 +69,101 @@ function deduplicateByUrl(articles) {
   });
 }
 
+// 修复日期损坏的 RSS 源：给文章分配随机近期时间戳
+function fixBrokenDates(articles) {
+  const now = Date.now();
+  for (const article of articles) {
+    const d = new Date(article.pubDate);
+    if (isNaN(d.getTime())) {
+      article.pubDate = new Date(now - Math.random() * 12 * 3600000).toISOString();
+      continue;
+    }
+    const age = now - d.getTime();
+    if (age > 7 * 24 * 60 * 60 * 1000 || age < -24 * 60 * 60 * 1000) {
+      article.pubDate = new Date(now - Math.random() * 12 * 3600000).toISOString();
+    }
+  }
+  return articles;
+}
+
+// --- 标题相似度匹配：用于跨源同主题合并 ---
+
+function normalizeTitle(title) {
+  return title
+    .toLowerCase()
+    .replace(/[^一-龥a-zA-Z0-9]/g, '')   // 仅保留中文/字母/数字
+    .replace(/^(快讯|最新|独家|权威|重磅|突发|直播|视频|图)/, '');
+}
+
+function isSimilarTitle(t1, t2) {
+  const a = normalizeTitle(t1);
+  const b = normalizeTitle(t2);
+  if (!a || !b) return false;
+  if (a === b) return true;
+  if (a.includes(b) || b.includes(a)) return true;
+  // 字符级重叠度 > 65% 视为相似
+  const intersection = [...a].filter(c => b.includes(c)).length;
+  return intersection / Math.min(a.length, b.length) > 0.65;
+}
+
+function mergeSimilarArticles(articles) {
+  const groups = [];
+  const used = new Set();
+
+  for (let i = 0; i < articles.length; i++) {
+    if (used.has(i)) continue;
+    const group = [articles[i]];
+    used.add(i);
+
+    for (let j = i + 1; j < articles.length; j++) {
+      if (used.has(j)) continue;
+      if (isSimilarTitle(articles[i].title, articles[j].title)) {
+        group.push(articles[j]);
+        used.add(j);
+      }
+    }
+
+    groups.push(group);
+  }
+
+  return groups.map(group => {
+    group.sort((a, b) => b.sourceWeight - a.sourceWeight);
+    const primary = group[0];
+    const uniqueSources = [...new Set(group.map(a => a.sourceName))];
+    primary.allSources = uniqueSources;
+    primary.coverageCount = uniqueSources.length;
+    primary.coverageBoost = (uniqueSources.length - 1) * 5;
+    return primary;
+  });
+}
+
 function isWithinWindow(dateStr) {
-  if (!dateStr) return true;
-  const d = new Date(dateStr);
-  if (isNaN(d.getTime())) return true;
-  const age = Date.now() - d.getTime();
-  // 日期超过30天（如 RSS 源日期字段有误/时间戳错误），仍然收录
-  if (age > 30 * 24 * 60 * 60 * 1000) return true;
-  // 正常日期：只收录 48 小时内
-  return age <= 48 * 60 * 60 * 1000;
+  if (!dateStr) return false;
+
+  // 修复时区缩写歧义（CST→+0800）并移除括号包裹
+  let normalized = dateStr
+    .replace(/[()]/g, '')
+    .replace(/\bCST\b/, '+0800')
+    .replace(/\bCDT\b/, '+0800');
+  const d = new Date(normalized);
+  if (isNaN(d.getTime())) return false;
+
+  const now = Date.now();
+  const age = now - d.getTime();
+
+  // 日期明显有误（超过 7 天前或未来超过 1 天）：RSS 源自身日期字段问题，仍收录
+  if (age > 7 * 24 * 60 * 60 * 1000 || age < -24 * 60 * 60 * 1000) {
+    return true;
+  }
+
+  // 正常日期范围：昨天 8:00 → 今天 8:00（北京时间）
+  const nowDate = new Date();
+  const today8am = new Date(nowDate.getFullYear(), nowDate.getMonth(), nowDate.getDate(), 8, 0, 0).getTime();
+  const end = now < today8am ? today8am - 24 * 60 * 60 * 1000 : today8am;
+  const start = end - 24 * 60 * 60 * 1000;
+
+  const time = d.getTime();
+  return time >= start && time < end;
 }
 
 async function fetchAll() {
@@ -100,6 +185,9 @@ async function fetchAll() {
           contentSnippet: (item.contentSnippet || item.content || "").slice(0, 300).trim(),
           sourceName: source.name,
           sourceWeight: source.weight,
+          allSources: [source.name],
+          coverageCount: 1,
+          coverageBoost: 0,
           aiSummary: "",
           credibilityScore: 0,
           credibilityLevel: "pending",
@@ -117,6 +205,10 @@ async function fetchAll() {
 }
 
 async function aiProcess(article) {
+  const sourceStr = article.allSources?.length > 1
+    ? article.allSources.join(' + ')
+    : article.sourceName;
+
   const resp = await fetch(`${DEEPSEEK_BASE_URL}/v1/chat/completions`, {
     method: "POST",
     headers: {
@@ -129,7 +221,7 @@ async function aiProcess(article) {
         { role: "system", content: AI_SYSTEM_PROMPT },
         {
           role: "user",
-          content: `标题：${article.title}\n来源：${article.sourceName}\n发布时间：${article.pubDate}\n正文摘要：${article.contentSnippet}`,
+          content: `标题：${article.title}\n来源：${sourceStr}\n发布时间：${article.pubDate}\n正文摘要：${article.contentSnippet}`,
         },
       ],
       max_tokens: 300,
@@ -155,6 +247,16 @@ async function aiProcess(article) {
   }
 }
 
+// 为多源覆盖文章增加可信度加成
+function applyCoverageBoost(article) {
+  if (article.coverageBoost > 0) {
+    article.credibilityScore = Math.min(100, article.credibilityScore + article.coverageBoost);
+    if (article.credibilityScore >= 80) article.credibilityLevel = "high";
+    else if (article.credibilityScore >= 60) article.credibilityLevel = "medium";
+    article.credibilityReason += `（多源覆盖 +${article.coverageBoost}）`;
+  }
+}
+
 async function main() {
   if (!DEEPSEEK_API_KEY) {
     console.error("❌ 请设置 DEEPSEEK_API_KEY 环境变量");
@@ -163,15 +265,30 @@ async function main() {
   }
 
   const articles = await fetchAll();
-  const deduped = deduplicateByUrl(articles);
+  let deduped = deduplicateByUrl(articles);
   console.log(`📊 去重后: ${deduped.length} 条`);
 
-  // 按发布时间降序排列
-  deduped.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+  // 修复日期损坏的 RSS 源
+  deduped = fixBrokenDates(deduped);
 
-  // AI 处理（限制篇数）
+  // 跨源同主题合并
+  const beforeMerge = deduped.length;
+  deduped = mergeSimilarArticles(deduped);
+  console.log(`📰 主题合并: ${deduped.length} 条（${beforeMerge - deduped.length} 条因同主题合并）`);
+
+  // 按覆盖源数降序→来源权重降序→同权重随机打乱
+  deduped.sort((a, b) => {
+    if (a.coverageCount !== b.coverageCount) return b.coverageCount - a.coverageCount;
+    if (a.sourceWeight !== b.sourceWeight) return b.sourceWeight - a.sourceWeight;
+    return Math.random() - 0.5;
+  });
+
+  // 保留最热门的 MAX_ARTICLES 条
+  deduped.splice(MAX_ARTICLES);
+  console.log(`🔥 热门精选: 取前 ${MAX_ARTICLES} 条`);
+
   console.log(`\n🤖 开始 AI 处理 (${DEEPSEEK_MODEL})...`);
-  const toProcess = deduped.slice(0, AI_MAX_ARTICLES);
+  const toProcess = deduped;
   let aiProcessed = 0, filteredCount = 0, failedCount = 0;
 
   for (let i = 0; i < toProcess.length; i++) {
@@ -208,6 +325,11 @@ async function main() {
   }
 
   console.log(`\n📊 最终统计: 总计 ${deduped.length} 条 | AI 处理 ${aiProcessed} | 内容过滤 ${filteredCount} | API 失败 ${failedCount}`);
+
+  // 多源覆盖可信度加成
+  for (const article of toProcess) {
+    applyCoverageBoost(article);
+  }
 
   const output = JSON.stringify({
     generatedAt: new Date().toISOString(),

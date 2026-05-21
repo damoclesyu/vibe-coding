@@ -263,6 +263,19 @@
     font-size: 12px;
     color: #5f6368;
   }
+  .source-tags {
+    display: flex;
+    gap: 4px;
+    flex-wrap: wrap;
+  }
+  .source-tag {
+    font-size: 10px;
+    padding: 2px 8px;
+    border-radius: 10px;
+    background: #e3f2fd;
+    color: #1565c0;
+    white-space: nowrap;
+  }
   .card-time {
     font-size: 12px;
     color: #999;
@@ -505,13 +518,9 @@
 // --- Preset Sources ---
 const BUILTIN_SOURCES = [
   { name: "人民网国际", weight: 90 },
-  { name: "新华网国际", weight: 85 },
-  { name: "新华网国内", weight: 85 },
-  { name: "央视网国际", weight: 88 },
-  { name: "央视网国内", weight: 88 },
-  { name: "中国日报中文", weight: 85 },
-  { name: "凤凰网资讯", weight: 75 },
-  { name: "中国新闻网", weight: 85 },
+  { name: "环球网", weight: 85 },
+  { name: "中国新闻网", weight: 82 },
+  { name: "新浪国际", weight: 78 },
 ];
 
 // --- State ---
@@ -597,7 +606,8 @@ function getFilteredArticles() {
       a.title.toLowerCase().includes(q) ||
       (a.aiSummary || '').toLowerCase().includes(q) ||
       a.contentSnippet.toLowerCase().includes(q) ||
-      a.sourceName.toLowerCase().includes(q)
+      a.sourceName.toLowerCase().includes(q) ||
+      (a.allSources || []).join(' ').toLowerCase().includes(q)
     );
   }
   if (highOnly) {
@@ -685,7 +695,12 @@ function render() {
     <div class="card" onclick="${a.link === '#' ? '' : "window.open('" + link + "', '_blank')"}" style="cursor:${a.link === '#' ? 'default' : 'pointer'}">
       <div class="card-meta">
         <span class="badge ${levelClass(a.credibilityLevel)}">${lvl} · ${a.credibilityScore}</span>
-        <span class="card-source">${a.sourceName}${isCustom}</span>
+        <div class="source-tags">
+          ${a.allSources && a.allSources.length > 1
+            ? a.allSources.map(s => `<span class="source-tag">${escapeHtml(s)}</span>`).join('')
+            : `<span class="card-source">${escapeHtml(a.sourceName)}${isCustom}</span>`
+          }
+        </div>
         <span class="card-time">${timeAgo(a.pubDate)}</span>
       </div>
       <span class="card-title">${a.title}</span>
