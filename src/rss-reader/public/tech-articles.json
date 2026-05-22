@@ -1,273 +1,267 @@
 {
-  "generatedAt": "2026-05-22T02:39:31.148Z",
+  "generatedAt": "2026-05-22T03:34:04.491Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "36氪x PureblueAI清蓝战略合作启动仪式暨《2026消费品牌AI推荐力名册》发布 | 2026 AI Partner·北京亦庄AI+产业大会",
-      "link": "https://36kr.com/p/3818877539091333?f=rss",
-      "pubDate": "2026-05-21 18:03:58  +0800",
-      "contentSnippet": "5月19日，2026北京亦庄AI+产业大会上，36氪与PureblueAI清蓝正式达成战略合作，并联合发布《2026消费品牌AI推荐力名册》。随着AI逐渐成为新的信息入口和消费决策入口，品牌在AI回答中是否被提及、是否被推荐、排序是否靠前，正在成为新的竞争维度。36氪副总裁迟涵表示，36氪是最早发现和报道GEO的媒体，PureblueAI清蓝在自研技术算法和“科学GEO”方法论上的积累令其成为可信的合作伙伴。PureblueAI清蓝市场副总裁李铭则用“最敏锐的商业洞察和最硬核的AI营销技术的融合”来形容此次合作，并透露该名册将分期、分行业持续发布，为品牌在AI时代提供“AI语境下的体检报告和风",
+      "title": "A股三大指数午间休盘集体上涨，通信设备板块领涨",
+      "link": "https://36kr.com/newsflashes/3819908925510016?f=rss",
+      "pubDate": "2026-05-22 11:32:18  +0800",
+      "contentSnippet": "36氪获悉，A股三大指数午间休盘集体上涨，沪指涨0.47%，深成指涨1.39%，创业板指涨1.91%；电子元器件、通信设备、环保板块领涨，美迪凯涨超15%，杰普特涨超11%，同兴科技涨超8%；券商、白酒、电信板块跌幅居前，锦龙股份跌此次3%，古井贡酒、中国电信跌超2%。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "A股午盘三大指数上涨，通信设备板块领涨。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体36氪，信息具体有数据支撑，但内容简略无深度分析。"
+    },
+    {
+      "title": "中国科学家发现镍基高温超导关键实验证据，成果登上《科学》",
+      "link": "https://www.ithome.com/0/953/815.htm",
+      "pubDate": "Fri, 22 May 2026 03:28:13 GMT",
+      "contentSnippet": "IT之家 5 月 22 日消息，高温超导机理是凝聚态物理领域的“世纪难题”。中国科学技术大学与南方科技大学研究团队近日在这一领域取得关键突破，首次在 Ruddlesden-Popper 相（RP 相）双层镍氧化物高温超导薄膜中直接观测到无节点超导能隙，并发现了电子-玻色子耦合现象。\n相关成果于北京时间 5 月 22 日凌晨在线发表于国际顶级学术期刊《科学》上，论文由南方科技大学薛其坤院士与中国科学技术大学何俊峰教授、南方科技大学陈卓昱副教授共同担任通信作者。\n\n▲ 无节点超导能隙示意图\n自 1911 年超导现象被发现以来，探索高温超导材料、理解其形成机理一直是国际科学界追逐的核心命题。传统超导",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国团队在镍基超导薄膜中观测到关键实验证据，成果登《科学》。",
+      "credibilityScore": 92,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源权威（IT之家）、信息具体、有顶级期刊《科学》背书，技术细节清晰。"
+    },
+    {
+      "title": "潮水退去，裸泳的一定不止五粮液",
+      "link": "https://36kr.com/p/3819884036051074?f=rss",
+      "pubDate": "2026-05-22 11:26:05  +0800",
+      "contentSnippet": "作者 | 谢芸子\n编辑 | 张帆 \n封面来源 |  企业官微 \n5月18日的临时股东大会，五粮液“真诚道歉”了，原因在于其创造的、最令A股错愕的“财务变脸”。\n就在刚刚过去的4月末财报季，这家常年位于行业第二的白酒龙头企业，发布了一份“更正公告”，大幅抹去了公司去年前三季度超过50%的营收，以及近70%的净利润。\n调整后的财报最终显示：2025年，五粮液实现营收405.29亿元，同比下滑54.6%；归母净利润89.54亿元，同比下滑71.9%。业绩大幅调整的原因指向财报中首次出现的两个新科目——49.07亿元的“监管商品”和263.15亿元的“监管商品款项”。\n尽管五粮液至今未解释“监管商品”",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "五粮液财报大幅修正，营收净利腰斩，引发市场质疑。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体36氪，内容具体有数据支撑，但缺乏原始出处和官方解释。"
+    },
+    {
+      "title": "港股AI应用板块持续走强，智谱涨超21%",
+      "link": "https://36kr.com/newsflashes/3819901098676355?f=rss",
+      "pubDate": "2026-05-22 11:24:20  +0800",
+      "contentSnippet": "36氪获悉，港股AI应用板块持续走强，智谱涨超21%，MINIMAX涨超12%，网易涨超7%。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "港股AI应用板块走强，智谱涨超21%",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体36氪，信息具体但缺乏数据支撑和原始出处"
+    },
+    {
+      "title": "海康存储 MAGE50X 五盘位 NAS 上架，支持多种 AI 功能",
+      "link": "https://www.ithome.com/0/953/813.htm",
+      "pubDate": "Fri, 22 May 2026 03:22:39 GMT",
+      "contentSnippet": "IT之家 5 月 22 日消息，海康存储 (HIKSEMI) 宣布推出五盘位 AI 私有云 MAGE50X，到手价 1495.12 元。该 NAS 基于一颗 8nm 制程、集成 NPU 的 4×Cortex-A72 + 4×Cortex-A53 处理器，支持 8K 30FPS 解码、4K 60FPS 编码。\n\nMAGE50X 拥有铝制机身，配备 4GB 内存和 64GB eMMC 闪存。提供 1 对 SD / microSD 读卡器、1 个 USB-C 5Gbps、1 个 USB-A 5Gbps、1 个 HDMI 2.1 TMDS、1 个 2.5GbE RJ45。\n其支持 JBOD、Basic",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "海康存储推出五盘位AI NAS MAGE50X，售价1495.12元。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体IT之家，内容具体包括处理器、接口等细节，逻辑清晰。"
+    },
+    {
+      "title": "签约仪式：带着AI去赛场:AI+电竞全流程赋能战略发布仪式| 2026AI Partner·北京亦庄AI+产业大会",
+      "link": "https://36kr.com/p/3819898058330240?f=rss",
+      "pubDate": "2026-05-22 11:22:01  +0800",
+      "contentSnippet": "邵斌丨北京中关村学院教授、中关村人工智能研究院院长\n左伟丨首都体育学院副校长\n叶靖波丨京奥电竞（北京）科技有限公司董事长\n \n在今天的大会上我们还将举行一场重量级的三方签约。\n中关村人工智能研究院致力于面向未来，致力于面向未来、具有产业价值和颠覆意义的人工智能与交叉学科领域的科学探索,推动创新成果产业化落地，北京中关村学院和中关村人工智能研究院两院一体两面，是北京人工智能领域的一面崭新的旗帜；\n首都体育学院是北京高校首批本科电竞专业，为电竞产业培养大量的优质人才。\n京奥电竞(北京)科技公司立足于北京经济技术开发区，深度运营北京智慧电竞中心，青年人才培养，行业资源整合及品牌传播，形成了以赛促产的",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
         "36氪",
-        "IT之家",
         "钛媒体",
         "InfoQ中文",
         "Solidot"
       ],
-      "coverageCount": 5,
-      "coverageBoost": 20,
-      "aiSummary": "36氪与PureblueAI清蓝合作发布AI推荐力名册，聚焦品牌在AI时代的推荐竞争。",
-      "credibilityScore": 100,
+      "coverageCount": 4,
+      "coverageBoost": 15,
+      "aiSummary": "三方签约AI+电竞全流程赋能，推动产业落地与人才培养",
+      "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源权威（36氪等知名媒体），内容具体有细节，逻辑清晰，但缺少独立数据支撑。（多源覆盖 +20）"
+      "credibilityReason": "来源为知名科技媒体，内容具体但缺乏技术细节和数据支撑（多源覆盖 +15）"
     },
     {
-      "title": "新石器NewClaw：AI一体化解决方案，零门槛当无人车指挥官| 2026AI Partner·北京亦庄AI+产业大会",
-      "link": "https://36kr.com/p/3818927367046018?f=rss",
-      "pubDate": "2026-05-21 18:55:09  +0800",
-      "contentSnippet": "管理一千台无人车需要多少人？答案是：一个人，一部手机，一句话。当自动驾驶逐渐“平权”，真正的瓶颈从技术转向了规模化运营。\n新石器用七年时间走完从合规落地、规模量产到万台运营的三级跳，如今推出AI Agent“Neo Claw”——让用户像聊天一样指挥车队，把单人管理效率从10台拉升到100台以上。颉晶华强调，AI的价值不在于写多少代码，而在于解放双手——让无人车管理从“专业操作”变成“说话就行”。\n以下为演讲内容，经36氪整理编辑：\n\n颉晶华丨新石器无人车联合创始人兼CPO\n各位好，我是新石器的颉晶华，很荣幸跟大家介绍新石器和我们在AI方面的应用与思考。\n八年前新石器公司创立，到如今已经成长为",
+      "title": "京东物流推出宠物专送服务“京宠达”：100% 送宠上门，RFID 芯片数字对接",
+      "link": "https://www.ithome.com/0/953/812.htm",
+      "pubDate": "Fri, 22 May 2026 03:20:41 GMT",
+      "contentSnippet": "IT之家 5 月 22 日消息，在今日的第二届辽宁宠物产业品质合作交流活动上，京东物流宣布推出宠物专送服务“京宠达”，聚焦猫、狗类伴侣宠物，打造门到门一站式专送解决方案。\n依托鞍山、沈阳两大始发城市，“京宠达”服务可将宠物快速送达北京、上海、广州、深圳、杭州等全国多个核心城市，并实现 “今日下单、明日送达” 。宠物商家可通过入驻京东平台或登录京东物流商家工作台选用该服务。\n\nIT之家获悉，“京宠达”服务采用自营专送模式：司机、车辆、宠物管家均为“自营直签”。在送达环节，司机 + 宠物管家双人联合寄送，宣称严格执行 100% 送宠上门标准；在售后环节，设有 24 小时全天候保障的专属客服。\n京东",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "京东物流推出宠物专送服务“京宠达”，主打送宠上门和快速送达。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体IT之家，信息具体，有服务细节和来源出处。"
+    },
+    {
+      "title": "谷歌安卓 17 调整锁屏 / 通知栏媒体界面：轮播改卡片，减少误触",
+      "link": "https://www.ithome.com/0/953/811.htm",
+      "pubDate": "Fri, 22 May 2026 03:14:06 GMT",
+      "contentSnippet": "IT之家 5 月 22 日消息，科技媒体 Android Authority 昨日（5 月 21 日）发布博文，报道称在安卓 17 QPR1 Beta 3 更新中，谷歌调整锁屏媒体播放器，调整为“主卡片＋小卡片”结构。\n在安卓 16 系统中，如果用户同时打开多个音频应用，在锁屏或通知栏里，用户通常需要左右滑动整块媒体轮播，才能切换音频应用。\n不过在操作过程中，可能引发误触。旧版播放器本身支持滑动拖动时间线，也能快进音轨，因此用户想切到别的应用时，常常反而把当前歌曲进度拖乱。\n而在安卓 17 QPR1 Beta 3 更新中，不再沿用这种满宽的重叠面板，而是换成更明显的卡片式布局，整体改成更清晰的",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "安卓17锁屏媒体界面改卡片式布局，减少误触。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，引用Android Authority原始报道，内容具体有版本号细节。"
+    },
+    {
+      "title": "369 元：小米金沙江充电宝超薄磁吸 10000 45W 开启预约，磁吸 20W、有线 45W",
+      "link": "https://www.ithome.com/0/953/810.htm",
+      "pubDate": "Fri, 22 May 2026 03:13:52 GMT",
+      "contentSnippet": "IT之家 5 月 22 日消息，小米金沙江充电宝超薄磁吸 10000 45W 现已在京东开启预约，新品主打 13.2mm 轻薄机身，支持 20W Max 无线充电、45W Max 有线充电，售价 369 元。\n\nIT之家从商品页面了解到，这款充电宝搭载小米金沙江硅碳负极电池，能量密度高达 840Wh/L，拥有 16% 旗舰级含硅量。机身采用轻薄设计，整机尺寸 102*70.5*13.2mm，内置两块 5000mAh 电池，重量 195g。\n\n\n规格方面，这款充电宝具备 20W Max 磁吸无线快充，兼容小米、苹果 iPhone 手机；带有 45W Max 有线快充，向下兼容 40W/30W/2",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "小米发布369元超薄磁吸充电宝，支持20W无线和45W有线快充。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体IT之家，信息具体有产品参数和价格，逻辑清晰。"
+    },
+    {
+      "title": "从混沌到秩序：具身智能的数据供给革命与技能结构化实践| 2026AI Partner·北京亦庄AI+产业大会",
+      "link": "https://36kr.com/p/3819884983226497?f=rss",
+      "pubDate": "2026-05-22 11:10:14  +0800",
+      "contentSnippet": "大语言模型可以靠堆数据跑通Scaling Law，但机器人面对的是动态、多模态、强时序关联的物理世界，杂乱的数据堆在一起，训不出可靠的模型。从混沌到秩序的工业化路径，质量比数量更重要。\n机器人进工厂、进场景，真正的挑战不在模型本身，而在数据。徐良威指出，具身智能的数据不是时间、空间、任务意图紧密耦合的多模态资产。智域基石提出了五层数据编译管线模型，每一层都有明确的质量指标，唯有构建数据底座生态，让本体方、模型方、产业方各司其职，高质量物理世界的数据才能真正流通起来，支撑具身智能的规模化落地。\n以下为演讲内容，经36氪整理编辑：\n\n徐良威丨智域基石CTO\n大家好，我是智域基石的联合创始人兼CTO",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "具身智能数据供给需结构化，质量比数量更重要。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源知名科技媒体36氪，内容具体有技术细节，但为演讲整理，缺少独立验证。"
+    },
+    {
+      "title": "苹果上海举办无障碍宣传日活动：揭秘《有爱・无碍》幕后创作故事",
+      "link": "https://www.ithome.com/0/953/802.htm",
+      "pubDate": "Fri, 22 May 2026 03:10:08 GMT",
+      "contentSnippet": "IT之家 5 月 22 日消息，5 月 21 日，全球无障碍宣传日（GAAD）当天，苹果在上海苹果静安零售店举办了一场 Today at Apple 课程，IT之家作为受邀媒体前往现场。\n就在这场活动之前，苹果已经在官网上线了一支音乐触感反馈纪录短片 ——《有爱 · 无碍》，讲述一个真实听障家庭的故事。而在本次活动中，本则短片的导演沈煜傑和影片中的健听儿子王朝晖来到现场分享了这支无障碍主题影片幕后的创作故事。同时在活动现场，Creative 培训师为参与者展示了 iPhone 的音乐触感反馈功能以及苹果产品的无障碍设计理念与体验。\n\n《有爱 · 无碍》影片幕后故事\n活动过程中，在现场放映苹果无",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "苹果上海活动揭秘无障碍短片创作，展示音乐触感反馈功能。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体IT之家，内容具体有活动细节和人物引用，客观中立。"
+    },
+    {
+      "title": "AMD首席执行官称未来几年CPU需求将持续增长",
+      "link": "https://36kr.com/newsflashes/3819887120306564?f=rss",
+      "pubDate": "2026-05-22 11:10:07  +0800",
+      "contentSnippet": "AMD首席执行官苏姿丰周五表示，中央处理器（CPU）市场增长速度比“我们任何人一年前的预测都要快”，并且在未来几年将继续扩张。未来五年，AMD预计CPU市场每年将增长超过35%，“而这正是我们非常强大的领域，”苏姿丰在台北的一次活动上表示。（新浪财经）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "AMD CEO预测未来几年CPU需求将持续增长",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为36氪转载新浪财经，信息具体且有直接引用，但缺乏数据支撑和原始出处链接"
+    },
+    {
+      "title": "全球首款眼神交互仿生人“小月”拍卖：起拍价 1 元，春晚蔡明机器人“姊妹款”",
+      "link": "https://www.ithome.com/0/953/794.htm",
+      "pubDate": "Fri, 22 May 2026 03:08:15 GMT",
+      "contentSnippet": "IT之家 5 月 22 日消息，全球首款眼神交互仿生人“小月”今日上架京东拍卖平台进行拍卖，来自松延动力，将于今晚 8 点开拍，起拍价 1 元，需要交 500 元保证金。\n\n小月可实现 30 个高精准自由度与百种细腻微表情，核心仿生技术承袭春晚小品《奶奶的最爱》同款人形机器人，可以说是“蔡明”机器人的同门姊妹。\n\n这款仿生人“小月”官方名为  X-Head 1，采用仿生人头造型，重量 7.5kg，拥有 24 自由度，可以和人交互对话，同时有口型、眼神、情绪等多模态交互。\n根据官方的型号数据，这款 X-Head 1 官方价为 9.9 万元，今晚 8 点 1 元起拍。IT之家附官方介绍图如下：",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "全球首款眼神交互仿生人小月1元起拍，源自春晚机器人技术。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家知名科技媒体，内容具体有数据支撑，但缺少独立验证。"
+    },
+    {
+      "title": "国家发改委：指导国产大模型加大力度适配国产算力芯片",
+      "link": "https://36kr.com/newsflashes/3819881289486473?f=rss",
+      "pubDate": "2026-05-22 11:04:11  +0800",
+      "contentSnippet": "5月22日，国家发展改革委政策研究室副主任、新闻发言人李超在新闻发布会上表示，人工智能领域核心技术和应用需求都呈现快速增长态势，我们始终坚持系统布局、分业施策、开放共享、安全可控，推动人工智能与经济社会各行业各领域广泛深度融合，指导国产大模型加大力度适配国产算力芯片，在保持快速发展的同时，确保自主可控、向善发展、行稳致远，让全体人民共享人工智能发展成果，这也是我国人工智能发展的一大突出特征。（中国网）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
         "36氪",
-        "钛媒体",
-        "Solidot"
+        "IT之家"
       ],
-      "coverageCount": 3,
-      "coverageBoost": 10,
-      "aiSummary": "新石器推出AI Agent Neo Claw，实现一人管理千台无人车。",
-      "credibilityScore": 85,
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "国家发改委指导国产大模型适配国产算力芯片，推动AI自主可控发展。",
+      "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，内容具体但缺少技术细节和独立验证。（多源覆盖 +10）"
+      "credibilityReason": "来源为权威媒体36氪和IT之家，引用官方发布会内容，信息具体且客观。（多源覆盖 +5）"
     },
     {
-      "title": "微软承认在 Word、Excel 和 PowerPoint 中加入 Copilot 悬浮按钮是个错误，遭大量投诉后回调",
-      "link": "https://www.ithome.com/0/953/694.htm",
-      "pubDate": "Fri, 22 May 2026 00:47:20 GMT",
-      "contentSnippet": "IT之家 5 月 22 日消息，当地时间 5 月 21 日，微软发布了一篇博客，阐述了其为 Word、Excel 和 PowerPoint 引入 Copilot 的美好愿景。\n微软官方承认，近期在 Word、Excel 和 PowerPoint 中添加的浮动 Copilot 按钮确实影响了用户的工作体验。\n在收到大量反馈后，微软决定推出修复方案，针对 Copilot 动态按钮的位置新增“移到功能区”自定义选项，并改进停靠行为使按钮保持原位。\n\n此前，微软 Office 应用在右下角新增了一个悬浮的 Copilot 按钮，可根据文档内容智能建议 Copilot 能够执行的操作。然而，这一设计并未",
+      "title": "每天损失约 1 磅气体，国际空间站再次出现漏气",
+      "link": "https://www.ithome.com/0/953/784.htm",
+      "pubDate": "Fri, 22 May 2026 03:03:51 GMT",
+      "contentSnippet": "IT之家 5 月 22 日消息，美国宇航局昨日（5 月 21 日）确认，国际空间站俄罗斯舱段的 PrK 模块再次出现空气泄漏。\n美国宇航局已持续追踪该问题超过 5 年，今年 1 月官方宣布，经过多次检查和密封处理后，该舱段内部压力已进入“稳定状态”。\nIT之家查询公开资料，PrK 模块本质上是连接俄罗斯“星辰号”（俄语：Звезда）服务舱与对接口的过渡通道。按报道，泄漏源头是微小结构裂缝，这类裂缝很难精确定位，也不容易彻底修复。\n\n国际空间站在太空中的整体外观，图源：美国宇航局\n俄罗斯宇航员于 5 月 1 日从 Progress 95 货运飞船卸下货物后，Roscosmos 记录到 PrK",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
-        "IT之家",
-        "钛媒体",
-        "Solidot"
-      ],
-      "coverageCount": 3,
-      "coverageBoost": 10,
-      "aiSummary": "微软承认Copilot悬浮按钮影响体验，将新增自定义选项。",
-      "credibilityScore": 95,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自IT之家、钛媒体等知名科技媒体，内容具体且有官方博客引用。（多源覆盖 +10）"
-    },
-    {
-      "title": "IT早报 0522：38.99 万元起小米 YU7 GT 发布；比亚迪辟谣“考虑收购玛莎拉蒂”；特斯拉监督版 FSD 官宣登陆中国；何小鹏称激光雷达已不是必需品...",
-      "link": "https://www.ithome.com/0/953/678.htm",
-      "pubDate": "Thu, 21 May 2026 23:27:47 GMT",
-      "contentSnippet": "“IT早报”时间，大家好，现在是 2026 年 5 月 22 日星期五，今天的重要科技资讯有：\n1、小米 YU7 GT 正式发布：38.99 万元起，“大满配”42.99 万元\n在 5 月 21 日晚间的小米人车家全生态新品发布会上，小米 YU7 GT 正式发布。雷军表示，这款新车是一款“原汁原味纯血 GT+ 跑车级 SUV”，为时代精英设计，定价为 38.99 万元。>> 查看详情\n\n2、比亚迪回应“考虑收购玛莎拉蒂”：不属实，谣言\n近期有消息称，比亚迪执行副总裁李柯在伦敦的一场行业会议上表示，公司“确实在看欧洲市场的高端资产，包括玛莎拉蒂在内”。据凤凰网科技，针对网络上“比亚迪正在考虑收购",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家",
-        "爱范儿",
-        "量子位"
-      ],
-      "coverageCount": 3,
-      "coverageBoost": 10,
-      "aiSummary": "小米YU7 GT发布，比亚迪辟谣收购玛莎拉蒂，FSD入华，何小鹏评激光雷达。",
-      "credibilityScore": 92,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体且有时效性，但部分信息未提供原始出处。（多源覆盖 +10）"
-    },
-    {
-      "title": "国家发改委：从未要求中国科技企业不得接受外商投资",
-      "link": "https://36kr.com/newsflashes/3819848509427845?f=rss",
-      "pubDate": "2026-05-22 10:30:50  +0800",
-      "contentSnippet": "5月22日，国家发展改革委召开新闻发布会。会上，国家发展改革委政策研究室副主任李超表示，对外开放是中国的基本国策，我们支持中国企业融入全球创新网络，开展互利共赢的国际交流合作，从未要求中国科技企业不得接受外商投资。同时，外商投资也必须遵守中国的法律和法规，不得损害中国国家安全和利益。中国开放的大门只会越开越大。我们将持续深入落实外商投资法及其实施条例，持续打造市场化、法治化、国际化的营商环境，并做好风险防控。（证券时报）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国家发改委否认限制科技企业接受外商投资。",
-      "credibilityScore": 92,
+      "aiSummary": "国际空间站俄罗斯舱段再次漏气，每天损失约1磅气体。",
+      "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源权威（36氪转载官方发布会），内容具体且有原始出处（证券时报）。"
-    },
-    {
-      "title": "马蜂窝联合安顺市文体广电旅游局发布“山地新玩法宝典”",
-      "link": "https://36kr.com/newsflashes/3819839978115204?f=rss",
-      "pubDate": "2026-05-22 10:22:09  +0800",
-      "contentSnippet": "36氪获悉，5月21日，马蜂窝旅游集团在贵州安顺旅游产业发展大会上正式发布黄鹤营洞、莲花古洞、罗秧河三大山地新玩法标杆项目，同时联合安顺市文体广电旅游局推出《2026安顺山地户外新玩法宝典》，为安顺打造国际化山地旅游目的地注入全新动能。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "马蜂窝与安顺文旅局联合发布山地新玩法宝典，推动安顺山地旅游发展。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，信息具体且有时效性，但缺乏技术细节和原始数据支撑。"
-    },
-    {
-      "title": "A股三大指数集体高开，半导体板块领涨",
-      "link": "https://36kr.com/newsflashes/3819785098350978?f=rss",
-      "pubDate": "2026-05-22 09:26:20  +0800",
-      "contentSnippet": "36氪获悉，A股三大指数集体高开，沪指高开0.46%，深成指高开0.89%，创业板指高开1.2%；电脑硬件、通信设备、半导体板块领涨，国盾量子涨超7%，天岳先进涨超5%，中国长城涨超3%；能源、白酒、银行板块走弱，ST洲际跌超5%，金种子酒跌超1%，成都银行跌0.64%。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "A股三大指数高开，半导体板块领涨。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体有数据支撑，逻辑清晰。"
-    },
-    {
-      "title": "业绩快报 | 唯品会一季度净营收266亿元，SVIP用户贡献超50%线上销售额",
-      "link": "https://36kr.com/p/3818915823764610?f=rss",
-      "pubDate": "2026-05-21 18:54:53  +0800",
-      "contentSnippet": "5月21日美股盘前，唯品会发布2025年第一季度财报。一季度内，唯品会实现净营收266亿元（人民币，下同），Non-GAAP净利润23亿元。\n观察核心运营数据，一季度其实现商品交易总额（GMV）569亿元，同比增长8.6%，订单量1.73亿单，同比增长3.2%。同时，平台于该季度活跃用户数为4170万，同比实现正增长。\n在春节期间穿戴和年货需求集中释放、透支后续消费力的季节性特点下，相较于行业整体节奏，唯品会在交易规模与订单量增速上保持韧性，体现出其在货品供给、用户运营上的核心竞争力。\n在货品供给端，一季度唯品会持续挖掘重点客群消费特点并扩充优质供给。“限时狂秒”栏目引入雅诗兰黛、珀莱雅等品牌",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "唯品会Q1净营收266亿元，SVIP用户贡献超50%线上销售额。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，数据具体且逻辑清晰，但缺少原始财报链接。"
-    },
-    {
-      "title": "抖音商城618前六日数据：消费券带动成交额破亿商家同比增长325%",
-      "link": "https://36kr.com/newsflashes/3819854277218440?f=rss",
-      "pubDate": "2026-05-22 10:36:42  +0800",
-      "contentSnippet": "36氪获悉，5月20日，抖音电商发布《2026年抖音商城618第一阶段数据报告》（以下简称“报告”）。大促第一阶段（5月15日至5月20日），消费券带动成交额破亿元的商家数量同比增长325%，成交额破亿元的爆款单品同比增长300%，超15万达人带货成交额同比增长五倍。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "抖音商城618前六日消费券带动成交额破亿商家数增325%。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容有具体数据支撑且逻辑清晰。"
-    },
-    {
-      "title": "从概念到产线一：AI在工业制造领域的深水区探索| 2026AI Partner·北京亦庄AI+产业大会",
-      "link": "https://36kr.com/p/3818903062004870?f=rss",
-      "pubDate": "2026-05-21 18:29:53  +0800",
-      "contentSnippet": "AI在工业制造领域，不是“锦上添花”的辅助工具，而是“重新设计工厂”的核心引擎。从AOI报废板的秒级识别，到刀具参数的动态优化，再到打通设计、生产、供应链的全链路智能——这场对话告诉我们，每1%的效率提升都是真金白银，AI的价值不是叠加功能，而是把“人等货”变成“货等人”。\n演讲拆解了AI从概念到产线的落地路径：用自动化中台打通全链路协同，让AI在研发设计、工程预测、供应链管理、生产执行四个领域实现可量化的提效。针对不同制造业企业，给出分层方案。AI不是在某个环节帮你做得更好，而是从原生流程开始，重新定义制造业的生产力基准。\n以下为嘉立创云ERP负责人 杨超 演讲内容，经36氪整理编辑：\n\n杨",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "AI在工业制造中从辅助工具变为核心引擎，实现全链路智能提效。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体36氪，内容具体有演讲细节，但缺少数据支撑和原始出处。"
-    },
-    {
-      "title": "小红书上线“RED精选计划”，意在发力视频内容生态",
-      "link": "https://36kr.com/newsflashes/3819791552188552?f=rss",
-      "pubDate": "2026-05-22 09:32:54  +0800",
-      "contentSnippet": "36氪独家获悉，今日，小红书已全量上线“RED精选计划”，对站内优质视频内容进行官方认证并给予分发支持。入选RED精选的视频会在单条视频上获得官方认证标识，用户点开“去看看”选项之后，可以浏览更多带有RED精选视频标签的视频。同时，入选RED精选的视频会同步收录进发现页中标签页的专属的RED频道，享受全场景曝光和额外流量加热。小红书相关负责人透露，自上线以来，RED精选视频篇均曝光从50万提升至270万。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "36氪独家报道小红书全量上线RED精选计划，扶持视频内容生态。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体36氪，信息具体有数据支撑，逻辑清晰。"
-    },
-    {
-      "title": "央行今日开展1530亿元7天逆回购操作",
-      "link": "https://36kr.com/newsflashes/3819781647880323?f=rss",
-      "pubDate": "2026-05-22 09:22:49  +0800",
-      "contentSnippet": "36氪获悉，央行今日开展1530亿元7天逆回购操作，操作利率为1.40%，与此前持平。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "央行开展1530亿元7天逆回购，利率1.40%不变",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源知名科技媒体，信息具体有数据支撑，内容客观"
-    },
-    {
-      "title": "恒指开盘涨1.01%，恒生科技指数涨1.57%",
-      "link": "https://36kr.com/newsflashes/3819781474341256?f=rss",
-      "pubDate": "2026-05-22 09:22:39  +0800",
-      "contentSnippet": "36氪获悉，恒指开盘涨1.01%，恒生科技指数涨1.57%；半导体、软件服务、硬件设备板块领涨，联想集团涨超4%，华虹半导体、中芯国际、网易涨超3%；环保、钢铁、耐用消费品板块走弱，北控城市资源跌超1%，马鞍山钢铁股份跌0.47%，泡泡玛特跌0.07%。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "恒指开盘涨1.01%，恒生科技指数涨1.57%，半导体板块领涨。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体36氪，数据具体、时效性强，内容客观中立。"
-    },
-    {
-      "title": "中铁装配：积极布局海外市场，东非、中亚地区已有业务落地",
-      "link": "https://36kr.com/newsflashes/3819759850656129?f=rss",
-      "pubDate": "2026-05-22 09:00:39  +0800",
-      "contentSnippet": "36氪获悉，中铁装配在互动平台表示，公司重视并积极推动布局海外市场，目前在东非、中亚地区有部分业务落地。未来公司将不断完善海外营销网络布局，持续增强市场竞争力。若相关事项达到披露标准，公司将依规及时公告。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中铁装配宣布东非和中亚业务落地，积极布局海外市场。",
-      "credibilityScore": 70,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体但缺乏技术细节和原始数据支撑。"
-    },
-    {
-      "title": "现货白银向下跌破76美元/盎司",
-      "link": "https://36kr.com/newsflashes/3819770014568837?f=rss",
-      "pubDate": "2026-05-22 09:10:59  +0800",
-      "contentSnippet": "36氪获悉，现货白银向下跌破76美元/盎司，日内下跌0.86%。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "现货白银跌破76美元/盎司，日内跌0.86%。",
-      "credibilityScore": 70,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，信息简洁但缺乏深度分析。"
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体且有NASA官方确认，信息逻辑清晰。"
     }
   ]
 }

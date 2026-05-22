@@ -202,11 +202,7 @@ async function run(config) {
   deduped = mergeSimilarArticles(deduped);
   console.log(`📰 主题合并: ${deduped.length} 条（${beforeMerge - deduped.length} 条因同主题合并）`);
 
-  deduped.sort((a, b) => {
-    if (a.coverageCount !== b.coverageCount) return b.coverageCount - a.coverageCount;
-    if (a.sourceWeight !== b.sourceWeight) return b.sourceWeight - a.sourceWeight;
-    return Math.random() - 0.5;
-  });
+  deduped.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
 
   deduped.splice(MAX_ARTICLES);
   console.log(`🔥 热门精选: 取前 ${deduped.length} 条`);
