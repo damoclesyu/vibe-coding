@@ -1,267 +1,263 @@
 {
-  "generatedAt": "2026-05-22T02:53:12.660Z",
+  "generatedAt": "2026-05-22T06:43:23.325Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "解决“大城市病”问题 北京市级机关年底将全部搬迁至城市副中心",
-      "link": "https://china.huanqiu.com/article/4RefJzAX3y6",
-      "pubDate": "(Thu,21 May 2026 17:16:53 CST)",
-      "contentSnippet": "5月20日，记者从北京市政府新闻办召开的“北京城市副中心规划建设十周年”新闻发布会获悉，到今年年底，除履行维护首都安全稳定、保障城市运行、带有属地管理职能和面向市民、企业、社会开展管理服务的单位外，其他北京市级机关将全部搬迁至北京城市副中心。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
+      "title": "台行政院政委杨珍妮出席APEC贸易部长会议",
+      "link": "https://www.zaobao.com/news/china/story20260522-9090156",
+      "pubDate": "Fri, 22 May 2026 06:01:54 GMT",
+      "contentSnippet": "台湾行政院政务委员兼行政院经贸谈判办公室（OTN）总谈判代表杨珍妮星期五（5月22日）上午出席在苏州举行的亚太经济合作组织（APEC）贸易部长会议，并在会上发言。\nAPEC贸易部长会议5月22日至23日在苏州举行，台湾外交部上周介绍，杨珍妮率领OTN与外交部人员出席，并称相关安排目前是循例，按照平等的待遇。\n据台湾《联合报》报道，中国大陆外交部、国台办早前称，将按照“一个中国原则”和APEC有关谅解备忘录的规定和惯例处理“台湾地区”参会事宜，让外界关注台湾今年APEC参会权益是否遭受打压。\n报道引述现场画面显示，台湾代表团名称维持APEC惯例的“Chinese Taipei”（中华台北）。\n根",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
       "allSources": [
-        "环球网",
         "联合早报·中港台"
       ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "北京市级机关年底前将全部迁至城市副中心，以缓解大城市病。",
-      "credibilityScore": 90,
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "台湾代表杨珍妮出席APEC贸易部长会议，名称沿用中华台北。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为环球网和联合早报，较权威；信息具体，有新闻发布会引述。（多源覆盖 +5）"
+      "credibilityReason": "来源联合早报较权威，报道具体有直接引述，信息可交叉验证。"
     },
     {
-      "title": "世界杯倒计时 揭幕战场地将以“墨西哥城体育场”亮相",
-      "link": "https://world.huanqiu.com/article/4Reg1uc1iae",
-      "pubDate": "(Thu,21 May 2026 17:36:43 CST)",
-      "contentSnippet": "距离2026年美加墨世界杯揭幕仅剩三周，作为揭幕战举办场地的墨西哥城阿兹特克体育场，已经进入世界杯时间。场馆视觉系统、商业标识和赛事运行体系的适配调整也已陆续展开。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网",
-        "央视新闻"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "墨西哥城阿兹特克体育场正为2026年世界杯揭幕战做准备。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为环球网和央视新闻，权威性较高；信息具体，有明确时间地点。（多源覆盖 +5）"
-    },
-    {
-      "title": "赵乐际将访问哈萨克斯坦、俄罗斯并在俄出席中俄议会合作委员会第十一次会议",
-      "link": "https://www.chinanews.com.cn/gn/2026/05-22/10626373.shtml",
-      "pubDate": "Fri, 22 May 2026 10:22:11 +0800",
-      "contentSnippet": "新华社北京5月22日电　应哈萨克斯坦议会下院议长科沙诺夫和俄罗斯联邦委员会主席马特维延科、国家杜马主席沃洛金邀请，全国人大常委会委员长赵乐际将于5月25日至30日对哈萨克斯坦、俄罗斯进行正式友好访问，并在俄出席中俄议会合作委员会第十一次会议。",
+      "title": "中国大使在世卫大会呼吁消除侵害巴勒斯坦人民健康权的根源",
+      "link": "https://www.chinanews.com.cn/gj/2026/05-22/10626518.shtml",
+      "pubDate": "Fri, 22 May 2026 13:59:54 +0800",
+      "contentSnippet": "中新网日内瓦5月22日电 第79届世界卫生大会20日以表决方式通过“巴勒斯坦被占领土(包括东耶路撒冷)和叙利亚被占戈兰的卫生状况”决定，中国常驻联合国日内瓦办事处和瑞士其他国际组织代表贾桂德发言，呼吁改善巴勒斯坦卫生状况。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
-        "中国新闻网",
-        "联合早报·中港台"
+        "中国新闻网"
       ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "赵乐际将访问哈萨克斯坦和俄罗斯，出席中俄议会合作会议。",
-      "credibilityScore": 100,
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国大使在世卫大会呼吁消除巴勒斯坦人民健康权受侵害的根源。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源权威（新华社、中国新闻网、联合早报），信息具体，有明确时间、地点和邀请方。（多源覆盖 +5）"
+      "credibilityReason": "来源为中国新闻网，属权威媒体；内容具体，有直接引述，事实可查证。"
     },
     {
-      "title": "谈到伊朗浓缩铀，特朗普连说“留不得”：若美国接手或销毁",
-      "link": "https://m.thepaper.cn/detail/33208385",
-      "pubDate": "Fri, 22 May 2026 01:50:29 GMT",
-      "contentSnippet": "当地时间5月21日，美国总统特朗普表示，伊朗必须交出其拥有的高浓缩铀。另有伊朗消息人士透露，伊朗最高领袖穆杰塔巴·哈梅内伊已要求“浓缩铀库存不得运往国外”。",
+      "title": "2026年亚太经合组织贸易部长会议在苏州开幕",
+      "link": "https://www.chinanews.com.cn/sh/2026/05-22/10626538.shtml",
+      "pubDate": "Fri, 22 May 2026 13:53:16 +0800",
+      "contentSnippet": "中新网苏州5月22日电 (记者 尹倩芸)5月22日，亚太经合组织(APEC)贸易部长会议在苏州开幕。会议为期两天，将围绕“建设亚太共同体，促进共同繁荣”主题，就推进区域经济一体化、支持世贸组织、加强数字合作和发展绿色经济等优先领域开展讨论。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "2026年APEC贸易部长会议在苏州开幕，聚焦区域经济一体化等议题。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源权威（中国新闻网），信息具体（时间、地点、主题），用词客观。"
+    },
+    {
+      "title": "台青逐梦福建：用“参与者”的心态融入大陆发展",
+      "link": "https://www.chinanews.com.cn/gn/2026/05-22/10626536.shtml",
+      "pubDate": "Fri, 22 May 2026 13:52:52 +0800",
+      "contentSnippet": "中新网福州5月22日电 (叶秋云)“我们的最终目标是将福州打造成集校园推广、青训培养、教练培训、运动科学训练、两岸交流与国际赛事发展于一体的高阶棒球训练基地。”2026年两岸融合发展(福州)大会21日在福建福州举办，台湾青年、福州海侠棒球俱乐部经理魏文如是说。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "台青在福建融入大陆发展，计划打造高阶棒球训练基地。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网较权威，有具体人物引述和事件细节，内容客观可查证。"
+    },
+    {
+      "title": "“中俄教育年”艺术教育交流系列活动开幕 中俄艺术家默契合奏",
+      "link": "http://www.chinanews.com.cn/cul/shipin/cns/2026/05-22/news1055217.shtml",
+      "pubDate": "Fri, 22 May 2026 13:47:42 +0800",
+      "contentSnippet": "5月21日晚，“中俄教育年”艺术教育交流系列活动开幕式在中央音乐学院举行。开幕式音乐会节目包括中国创意民乐作品和《柴可夫斯基第四交响曲》等俄罗斯经典乐曲，其中多件作品由中俄艺术家和师生共同参与完成。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中俄教育年艺术教育交流活动在中央音乐学院开幕，艺术家合奏经典作品。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，权威媒体；内容具体，有明确时间地点和活动细节。"
+    },
+    {
+      "title": "《给阿嬷的情书》导演：真实是我们作品的生命线",
+      "link": "http://www.chinanews.com.cn/cul/shipin/cns-d/2026/05-22/news1055218.shtml",
+      "pubDate": "Fri, 22 May 2026 13:44:43 +0800",
+      "contentSnippet": "5月22日，电影业高质量发展论坛在广东深圳举办，电影《给阿嬷的情书》导演蓝鸿春分享了自己的电影创作经验和心得。他表示：真实是我们作品的生命线。小到百年前的一张电影票的价格，大到海外华人教育的艰难起步，所有的细节我们都会去一一考据核实。我们力求不杜撰历史，不虚构生活，不曲解情怀，让每一个镜头、每段情节都扎根生活，源于真实的人生。这也是我们 10 年来的创作理念。真实是我们作品的生命线，求真求实也让我们作品去掉了悬浮的滤镜，饱含人间烟火，可以打动人心。(记者 蔡敏婕 制作 田媛媛 王雪尔）",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "导演蓝鸿春在深圳论坛分享创作理念，强调真实是作品生命线。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网较权威，内容具体有直接引述，信息可查证。"
+    },
+    {
+      "title": "中国大陆海警进入金门水域 台海巡署广播驱离并谴责",
+      "link": "https://www.zaobao.com/news/china/story20260522-9089813",
+      "pubDate": "Fri, 22 May 2026 05:31:00 GMT",
+      "contentSnippet": "四艘中国大陆海警船星期四（5月21日）进入金门水域，台湾海巡署全程监控并广播驱离，随后发声明谴责北京进行此类袭扰活动，称相关举动已严重破坏区域和平与两岸良性互动。\n台湾海洋委员会海巡署金马澎分署当天在官网发布新闻稿称，总统赖清德星期三（20日）发表就职两周年演说，向国际宣达守护民主自由、维持台海和平稳定决心；海巡署隔天则强势应对大陆海警船的灰带袭扰，以实际行动展现捍卫海域安全与主权意志。\n新闻稿称，金马澎分署第十二巡防区在星期四下午2时许发现大陆海警船“14605”“14531”“14606”及“14530”等四艘船只接近金门限制水域，随即调度预置巡防艇前推至限制水域线部署对应。\n海巡署说，当",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
+      "allSources": [
+        "联合早报·中港台"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "四艘中国海警船进入金门水域，台海巡署驱离并谴责。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源较权威（联合早报），有具体时间、船号及官方新闻稿引用，信息可查证。"
+    },
+    {
+      "title": "如何处理好人工智能与媒体变革关系？中宣部副部长莫高义提出三点意见",
+      "link": "https://m.thepaper.cn/detail/33210010",
+      "pubDate": "Fri, 22 May 2026 05:29:35 GMT",
+      "contentSnippet": "5月22日上午，在2026年文化强国建设高峰论坛“人工智能与媒体变革”分论坛上，中宣部副部长、国务院新闻办公室主任莫高义发表主旨演讲。\n莫高义指出，在人工智能与各行业各领域深度融合的大背景下，在主流媒体系统性变革走向深入的关键时期，如何用好人工智能这一革命性力量，更好赋能媒体改革发展；如何发挥主流舆论作用，促进人工智能健康发展与有效治理，需要我们深入思考、躬身作答。\n莫高义就处理好人工智能与媒体变革关系提出三点意见。\n一是积极拥抱人工智能新技术，加快主流媒体数智化转型。在内容生产方面，积极运用人工智能技术提升采编效率、改进内容品质、创新产品形态，不断增强优质内容供给能力；在舆论引导方面，深入把",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
-        "澎湃新闻",
-        "联合早报·国际"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "特朗普要求伊朗交出高浓缩铀，伊朗最高领袖拒绝运往国外。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名媒体，内容具体有直接引述，但缺乏多源交叉验证。（多源覆盖 +5）"
-    },
-    {
-      "title": "重庆江津民警成波武：守护枢纽之城 实干彰显担当",
-      "link": "https://city.huanqiu.com/article/4RefMXR1nyO",
-      "pubDate": "(Thu,21 May 2026 17:18:03 CST)",
-      "contentSnippet": "面对各类侵财类违法犯罪，他始终保持高压严打态势，越是涉案金额大、侦办难度高的案件，他越是迎难而上、重拳攻坚，全力守护辖区企业和群众的财产安全，为地方经济发展筑牢",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
+        "澎湃新闻"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "报道重庆江津民警成波武打击犯罪、守护辖区安全的正面事迹。",
+      "aiSummary": "中宣部副部长莫高义就人工智能与媒体变革提出三点意见，强调积极拥抱技术。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为澎湃新闻，内容具体有直接引述，涉及官方人物和论坛，可信度高。"
+    },
+    {
+      "title": "共建数智人文湾区｜樊登：包容鼓励成就了《阿嬷的情书》",
+      "link": "https://m.thepaper.cn/detail/33206260",
+      "pubDate": "Fri, 22 May 2026 05:15:23 GMT",
+      "contentSnippet": "5月22日，2026文化强国建设高峰论坛“共建数智人文湾区”论坛正式举行。帆书APP创始人樊登表示：正是因为大湾区的包容鼓励，才会有《阿嬷的情书》这样的好作品。",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "樊登称大湾区包容鼓励促成《阿嬷的情书》作品。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体但缺乏多源验证，属正面宣传报道。"
+      "credibilityReason": "来源澎湃新闻较权威，内容具体有直接引述，但缺乏多源交叉验证。"
     },
     {
-      "title": "截至4月底 我国电动汽车充电基础设施达2195.5万个",
-      "link": "https://china.huanqiu.com/article/4RehX5PbGdk",
-      "pubDate": "(Thu,21 May 2026 18:18:47 CST)",
-      "contentSnippet": "截至4月底 我国电动汽车充电基础设施达2195.5万个",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
+      "title": "王毅见摩尔多瓦外长 吁两国扩大经贸交流",
+      "link": "https://www.zaobao.com/news/china/story20260522-9089300",
+      "pubDate": "Fri, 22 May 2026 04:34:00 GMT",
+      "contentSnippet": "中国外长王毅与东欧国家摩尔多瓦副总理兼外长波普绍伊会面时，呼吁双方扩大经贸交流，并在新兴领域合作，打造投资增长点。\n据中国外交部网站消息，王毅星期四（5月21日）在北京同波普绍伊（Mihai Popsoi）举行会谈时说，中摩是友好伙伴，双方始终相互尊重、平等互利，稳健推进各领域务实合作，惠及两国人民。\n他指出，中国珍视中摩传统友谊，愿同摩尔多瓦一道，不断夯实互信，深化互利合作，为双边关系发展注入动力，为两国人民创造福祉，为地区和平稳定作出贡献。\n王毅说，欢迎摩尔多瓦挖掘潜力，更深入参与高质量共建“一带一路”，并呼吁双方用好中国国际进口博览会等平台，扩大经贸交流。\n他并指，双方要在新兴领域合作，",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
       "allSources": [
-        "环球网"
+        "联合早报·中港台"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "我国充电基础设施截至4月底达2195.5万个，增长迅速。",
+      "aiSummary": "王毅与摩尔多瓦外长会面，呼吁扩大经贸交流。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，数据具体可查证，用词客观。"
+      "credibilityReason": "来源为知名媒体联合早报，内容具体且有外交部网站消息佐证。"
     },
     {
-      "title": "重庆公安：为民办实事 暖心解民忧",
-      "link": "https://city.huanqiu.com/article/4Refsop7xGg",
-      "pubDate": "(Thu,21 May 2026 17:32:37 CST)",
-      "contentSnippet": "近日，重庆璧山、万州、大足等地公安机关接连处置群众求助，民警快速找回遗失手机、帮助老人追回莫名扣款、护送突发急症学生就医，用行动诠释为民初心",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
+      "title": "此行间·新阶段的重逢！100秒看中俄元首北京会晤",
+      "link": "https://www.peopleapp.com/column/30052187468-500007503602",
+      "pubDate": "Fri, 22 May 2026 04:31:48 GMT",
+      "contentSnippet": "此行间·新阶段的重逢！100秒看中俄元首北京会晤",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
       "allSources": [
-        "环球网"
+        "澎湃新闻"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "重庆多地公安民警快速处置群众求助，找回手机、追回扣款、护送就医。",
+      "aiSummary": "澎湃新闻以100秒视频报道中俄元首北京会晤，强调新阶段重逢。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体有地点和事件，但无直接引述和多源交叉验证。"
+      "credibilityReason": "来源澎湃新闻较权威，内容具体但缺少直接引述，评分基于媒体信誉。"
     },
     {
-      "title": "广西水利厅和广西气象局联合发布山洪灾害橙色预警",
-      "link": "https://china.huanqiu.com/article/4ReiUryerB5",
-      "pubDate": "(Thu,21 May 2026 18:45:46 CST)",
-      "contentSnippet": "广西水利厅和广西气象局于5月21日16时联合发布山洪灾害气象预警：预计，5月21日20时至5月22日20时，桂林市永福县发生山洪灾害可能性大（橙色预警）。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
+      "title": "台总统府：未收到调整军售信息 盼立院推进军购预算",
+      "link": "https://www.zaobao.com/news/china/story20260522-9089671",
+      "pubDate": "Fri, 22 May 2026 04:19:19 GMT",
+      "contentSnippet": "针对美国海军代部长曹洪在听证会上说，因应美伊战争，美国正暂缓对台140亿美元（179亿新元）军售案，台湾总统府对此回应时称，未收到相关信息，但希望立法院能推进军购特别预算条例。\n综合中时新闻网和ETtoday新闻云等台媒报道，台湾总统府发言人郭雅慧星期五（5月22日）应询时说，府方注意到相关报道，“不过目前并没有任何有关美国要针对这项军售案进行调整的讯息”。\n她指出，最大的问题在于，希望立法院不要节外生枝，能够顺利完成有关军售条例的预算，这才是目前最重要的。\n被问及特赖会通话时，郭雅慧说，如果有任何最新发展，会向台湾民众和媒体报告说明。\n据美国《国会山报》报道，美国海军代理部长曹洪星期四（21",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
       "allSources": [
-        "环球网"
+        "联合早报·中港台"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "广西发布山洪灾害橙色预警，桂林永福县风险高。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，信息具体（时间、地点、等级），官方联合发布可查证。"
-    },
-    {
-      "title": "“啊？我车是4座的吗？” 直到被处罚，司机才醒悟",
-      "link": "https://society.huanqiu.com/article/4RekUAXGQ31",
-      "pubDate": "(Thu,21 May 2026 19:41:25 CST)",
-      "contentSnippet": "4月25日，19时20分许，台州交警在沈海高速临海北收费站执勤，发现一辆微型小车内人头攒动，疑似超员，遂示意驾驶人叶某靠边停车接受检查。经查，该车核载4人，实载5人，超员25%。此时，驾驶人叶某惊讶又尴尬地来了一句：“啊？座位只有4个的吗？”",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "台州一司机因超员被查，惊讶不知车辆核载4人。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，有具体时间地点和交警执法细节，信息可查证。"
-    },
-    {
-      "title": "柳州5.2级震群发生多次余震，还有没有更大的地震？专家解读→",
-      "link": "https://china.huanqiu.com/article/4RejFQXHLh0",
-      "pubDate": "(Thu,21 May 2026 19:06:47 CST)",
-      "contentSnippet": "近日广西柳州发生5.2级震群，社会高度关注后续震情发展，事关群众关心的余震趋势和地震预警等问题，广西地震台首席预报员、正高级工程师阎春恒进行解读。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "广西柳州5.2级震群后，专家解读余震趋势，称需关注后续地震活动。",
+      "aiSummary": "台湾总统府称未收到美国调整军售信息，盼立院推进军购预算。",
       "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，有专家直接引述，内容具体可查证。"
+      "credibilityReason": "来源为联合早报等知名媒体，有直接引述官方回应，信息具体可查证。"
     },
     {
-      "title": "朋友请客买彩票，中奖后奖金应该归谁？",
-      "link": "https://society.huanqiu.com/article/4RehhnLOnV7",
-      "pubDate": "(Thu,21 May 2026 18:32:04 CST)",
-      "contentSnippet": "朋友相互请客买彩票，本没指望中大奖，可偏偏运气爆棚，中了百万奖金，这笔“意外之财”该归谁？",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
+      "title": "克宫否认俄士兵秘密在华受训 证实俄中元首谈伊朗局势",
+      "link": "https://www.zaobao.com/news/china/story20260522-9089246",
+      "pubDate": "Fri, 22 May 2026 03:50:51 GMT",
+      "contentSnippet": "克里姆林宫否认中国为俄乌战争秘密培训俄罗斯士兵相关报道，称欧美报纸发布大量虚假信息。此外，克宫证实俄中元首会晤期间讨论了伊朗局势，普京提议由俄方保管伊朗浓缩铀。\n俄罗斯卫星通讯社报道，克宫发言人佩斯科夫星期四（5月22日）称，欧洲和美国的报纸发布了大量虚假信息。他说：“这是我们面临的问题，此类虚假信息必须谨慎对待。”\n路透社星期二（19日）报道，根据三家欧洲情报机构及俄中高级军官签署的一份协议显示，解放军去年底曾在中国境内秘密训练约200名俄罗斯军人，当中部分俄军人已前往乌克兰参战。据悉，秘密训练内容主要侧重在使用无人机。\n自俄罗斯2022年2月全面入侵乌克兰以来，俄中两国举行了多次联合军事演",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
       "allSources": [
-        "环球网"
+        "联合早报·中港台"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "朋友请客买彩票中奖，奖金归属引发争议。",
-      "credibilityScore": 65,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源环球网较权威，但内容为法律案例讨论，缺乏具体细节和直接引述。"
-    },
-    {
-      "title": "暴雨橙色预警！福州启动应急响应！暴雨最大可能出现在这些地方",
-      "link": "https://china.huanqiu.com/article/4RejAQnY2Ma",
-      "pubDate": "(Thu,21 May 2026 19:04:32 CST)",
-      "contentSnippet": "大家出行请注意安全",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "福州发布暴雨橙色预警，启动应急响应，提醒防范强降雨。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体，但缺乏多源交叉验证。"
-    },
-    {
-      "title": "重庆凤城监狱召开2026年课题调研工作动员会",
-      "link": "https://city.huanqiu.com/article/4Refw42adMj",
-      "pubDate": "(Thu,21 May 2026 17:34:05 CST)",
-      "contentSnippet": "为加强监狱理论研究、破解改革发展难题，调动民警理论研究积极性，营造比学赶超的学术氛围，5月19日，凤城监狱召开2026年课题调研工作动员会",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "重庆凤城监狱召开2026年课题调研动员会，旨在加强理论研究。",
+      "aiSummary": "克宫否认俄士兵在华受训，证实俄中元首讨论伊朗局势。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体（时间、地点、目的），用词客观。"
+      "credibilityReason": "来源为联合早报，引用克宫和路透社信息，内容具体可查证。"
     },
     {
-      "title": "北邮计算机首位视障研究生，在“看不见”的世界里解决bug",
-      "link": "https://society.huanqiu.com/article/4Rehw09Gbt8",
-      "pubDate": "(Thu,21 May 2026 18:30:02 CST)",
-      "contentSnippet": "孙禀贺知道哪吒，也知道哪吒被导演“饺子”重新定义了。“看”过电影《哪吒》之后，“我命由我不由天”在他脑海中翻涌，让他热血沸腾。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
+      "title": "赵乐际下周访哈萨克斯坦和俄罗斯",
+      "link": "https://www.zaobao.com/news/china/story20260522-9088879",
+      "pubDate": "Fri, 22 May 2026 02:27:54 GMT",
+      "contentSnippet": "中国全国人大常委会委员长赵乐际将在下周访问哈萨克斯坦和俄罗斯。\n据新华社报道，应哈萨克斯坦议会下院议长科沙诺夫和俄罗斯联邦委员会主席马特维延科、国家杜马主席沃洛金邀请，赵乐际将在下星期一（5月25日）至下星期六（30日）对哈萨克斯坦、俄罗斯进行正式友好访问，并在俄出席中俄议会合作委员会第十一次会议。",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
       "allSources": [
-        "环球网"
+        "联合早报·中港台"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "北邮首位视障研究生孙禀贺在编程中克服困难，受哪吒精神鼓舞。",
-      "credibilityScore": 75,
+      "aiSummary": "赵乐际下周将访问哈萨克斯坦和俄罗斯，出席中俄议会合作会议。",
+      "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体有数据支撑，但未多源验证。"
+      "credibilityReason": "来源为联合早报，引述新华社官方消息，信息具体且可查证。"
     },
     {
-      "title": "杏果飘香助振兴 河南禹州采摘经济赋能文旅发展",
-      "link": "https://zy.huanqiu.com/article/4Reei8stcCe",
-      "pubDate": "(Thu,21 May 2026 16:59:48 CST)",
-      "contentSnippet": "5月20日，为进一步激活乡村文旅消费潜力，赋能特色农业高质量发展，丰富群众文旅生活，“乡”约禹州文旅消费暨鸠山镇第十二届杏果采摘活动在禹州市鸠山镇拉开帷幕。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
+      "title": "超威承诺投资台湾AI领域逾100亿美元",
+      "link": "https://www.zaobao.com/news/china/story20260522-9088780",
+      "pubDate": "Fri, 22 May 2026 02:13:41 GMT",
+      "contentSnippet": "美国科技巨企英伟达在人工智能（AI）计算晶片领域的主要挑战者超威半导体（AMD），承诺在台湾投资超过100亿美元（128亿新元），以加速建置AI基础设施，扩大合作伙伴关系，并提升下一代AI基础设施的先进封装制造产能。。\n综合彭博社和台湾《联合报》报道，超威半导体星期四（5月21日）在声明中说，公司正与包括日月光控股、力成科技、新美亚和英业达在内的伙伴合作，以增强其在该地区的能力。\n超威半导体是众多正加大台湾投入的晶片制造商之一，希望随着人工智能需求增长而提升产能。\n台湾是全球半导体产业的关键技术和制造中心。尽管英伟达仍是AI处理器的主要供应商，但数据中心客户越来越倾向于寻求替代方案——这一趋势",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
       "allSources": [
-        "环球网"
+        "联合早报·中港台"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "河南禹州举办杏果采摘活动，推动文旅与农业融合发展。",
-      "credibilityScore": 75,
+      "aiSummary": "超威承诺在台湾投资超100亿美元，加速AI基础设施建置。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体有时间地点，但缺乏多源验证。"
+      "credibilityReason": "来源为联合早报，综合彭博社和联合报，信息具体且可查证。"
     }
   ]
 }

@@ -24,6 +24,11 @@ function hasSensitiveContent(article) {
   return SENSITIVE_WORDS.some((word) => text.includes(word));
 }
 
+function isChinaRelated(article) {
+  const text = `${article.title} ${article.contentSnippet}`;
+  return /(?:习近平|李强|国务院|外交部|国防部|全国人大|中共中央|中央军委|国家主席|总理|委员长|中宣部|中纪委|最高人民法院|最高人民检察院|全国政协|中美|中俄|中日|中欧|中非|一带一路|高质量发展|海警|解放军|两岸|台海|金门|台湾|链博|供应链|立法|司法解释|世卫|APEC|联合国|G20|上合|金砖|东盟|港澳|大湾区|宏观调控|供给侧|自贸区|进博会|消博会|王毅|国防|裁军|军演)/.test(text);
+}
+
 function deduplicateByUrl(articles) {
   const seen = new Set();
   return articles.filter((a) => {
@@ -202,7 +207,12 @@ async function run(config) {
   deduped = mergeSimilarArticles(deduped);
   console.log(`📰 主题合并: ${deduped.length} 条（${beforeMerge - deduped.length} 条因同主题合并）`);
 
-  deduped.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+  deduped.sort((a, b) => {
+    const aChina = isChinaRelated(a);
+    const bChina = isChinaRelated(b);
+    if (aChina !== bChina) return bChina - aChina;
+    return new Date(b.pubDate) - new Date(a.pubDate);
+  });
 
   deduped.splice(MAX_ARTICLES);
   console.log(`🔥 热门精选: 取前 ${deduped.length} 条`);
