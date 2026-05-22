@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T06:51:01.072Z",
+  "generatedAt": "2026-05-22T10:39:32.008Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
@@ -16,7 +16,7 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "巴基斯坦总统和总理发文赞扬中巴关系，纪念建交75周年。",
+      "aiSummary": "巴基斯坦总统和总理在两国建交75周年之际发文赞扬中巴关系。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
       "credibilityReason": "来源环球网较权威，内容具体有直接引述，事实可查证。"
@@ -33,10 +33,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国代表傅聪在安理会呼吁加强行动保护武装冲突中平民。",
-      "credibilityScore": 85,
+      "aiSummary": "中国代表傅聪在安理会呼吁更强紧迫感保护平民。",
+      "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为正规媒体环球网，内容具体有直接引述，事实可查证。"
+      "credibilityReason": "来源环球网较权威，内容具体有直接引述，事实可查证。"
     },
     {
       "title": "推行“扫码入企” 涉企行政执法专项行动查纠案件线索6.6万多件",
@@ -50,186 +50,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国推行“扫码入企”行动，查纠涉企执法案件线索6.6万多件。",
+      "aiSummary": "中国涉企行政执法专项行动查纠6.6万多件案件线索。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体有数据，引用官方发布会信息。"
+      "credibilityReason": "来源环球网较权威，引用国新办发布会，信息具体可查证。"
     },
     {
-      "title": "我国科研团队首次定量揭示湿地甲烷排放概率",
-      "link": "https://china.huanqiu.com/article/4RegbNyTSKF",
-      "pubDate": "(Thu,21 May 2026 17:52:44 CST)",
-      "contentSnippet": "近日，中国科学院青藏高原研究所三极观测与大数据团队联合国际研究团队，利用国际先进陆地生态系统模型与全球湿地观测数据，首次建立了未来湿地甲烷排放增加的概率约束框架，定量评估了未来全球湿地甲烷反馈发生的可能性。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "我国团队首次定量评估未来全球湿地甲烷排放概率。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体有研究团队和数据支撑，用词客观。"
-    },
-    {
-      "title": "2026年APEC第三次高官会将于8月在大连举行",
-      "link": "https://world.huanqiu.com/article/4Reg4NsO8HM",
-      "pubDate": "(Thu,21 May 2026 17:37:50 CST)",
-      "contentSnippet": "5月19日，2026年亚太经合组织（APEC）第二次高官会在上海世博中心闭幕。按照年度议程安排，2026年APEC第三次高官会将于8月在大连举行。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "2026年APEC第三次高官会将于8月在大连举行。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，信息具体（时间、地点），内容客观可查证。"
-    },
-    {
-      "title": "乌兹别克斯坦重申支持一个中国原则",
-      "link": "https://world.huanqiu.com/article/4RefwJENSPQ",
-      "pubDate": "(Thu,21 May 2026 17:34:11 CST)",
-      "contentSnippet": "乌兹别克斯坦外交部日前重申，乌方恪守一个中国原则，支持两岸关系和平发展。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "乌兹别克斯坦外交部重申恪守一个中国原则，支持两岸和平发展。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体且涉及外交表态，可查证。"
-    },
-    {
-      "title": "时政微纪录丨老友再会！中俄元首北京会晤",
-      "link": "https://world.huanqiu.com/article/4RefoNfPXgr",
-      "pubDate": "(Thu,21 May 2026 17:30:37 CST)",
-      "contentSnippet": "应国家主席习近平邀请，俄罗斯总统普京于5月19日至20日对中国进行国事访问。这是普京总统第25次访华。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中俄元首在北京会晤，普京第25次访华。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体且为官方邀请访问，事实可查证。"
-    },
-    {
-      "title": "上海警方：男子贺某在藏匿地点被抓获，涉嫌危害公共安全已刑拘",
-      "link": "https://society.huanqiu.com/article/4RefmKf4cqv",
-      "pubDate": "(Thu,21 May 2026 17:29:41 CST)",
-      "contentSnippet": "酒后驾车会导致驾驶人判断力、反应力大幅下降，极易引发严重道路交通事故，严重威胁自身及他人生命财产安全。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "上海警方抓获涉嫌危害公共安全的男子贺某，已刑事拘留。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，信息具体，有警方通报依据，但缺乏多源交叉验证。"
-    },
-    {
-      "title": "海科新源一季度净利大增19倍，“72小时本地化供应”塑造出海竞争力",
-      "link": "https://finance.huanqiu.com/article/4RefZg3cL6Q",
-      "pubDate": "(Thu,21 May 2026 17:23:58 CST)",
-      "contentSnippet": "特别是围绕公司海外业务发展及本地化供应链体系建设，海科新源总经理马立军在5月18日接受环球网记者采访时进一步表示：“公司在欧美市场已实现端到端本地化交付的服务能",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "海科新源一季度净利增19倍，称实现欧美本地化交付。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，有直接引述，但缺乏多源验证，数据需核实。"
-    },
-    {
-      "title": "习近平同巴基斯坦总统扎尔达里就中巴建交75周年互致贺电",
-      "link": "https://world.huanqiu.com/article/4RefOjUxBph",
-      "pubDate": "(Thu,21 May 2026 17:19:02 CST)",
-      "contentSnippet": "5月21日，国家主席习近平同巴基斯坦总统扎尔达里互致贺电，庆祝两国建交75周年。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "习近平与巴基斯坦总统扎尔达里互致贺电庆祝中巴建交75周年。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网为官方媒体，内容具体且符合外交惯例，可交叉验证。"
-    },
-    {
-      "title": "习近平主席这样提炼中俄关系发展历程",
-      "link": "https://world.huanqiu.com/article/4RefKYCYxQx",
-      "pubDate": "(Thu,21 May 2026 17:17:09 CST)",
-      "contentSnippet": "5月20日上午，国家主席习近平在北京人民大会堂同来华进行国事访问的俄罗斯总统普京举行会谈。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "习近平主席与普京总统会谈，提炼中俄关系发展历程。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体有直接引述，事实可查证。"
-    },
-    {
-      "title": "郑州航空港开展精准化培训 赋能企业出海",
-      "link": "https://zy.huanqiu.com/article/4ReepGsmxvl",
-      "pubDate": "(Thu,21 May 2026 17:03:02 CST)",
-      "contentSnippet": "为助力企业破解出海痛点，5月20日，郑州航空港区党群工作部、联合国工发组织投资和技术促进办公室（中国·北京），在中原医学科学城国际交流中心举办“520爱企日”国",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "郑州航空港举办培训活动，助力企业出海。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，信息具体有时间地点，但缺少直接引述和交叉验证。"
-    },
-    {
-      "title": "杏果飘香助振兴 河南禹州采摘经济赋能文旅发展",
-      "link": "https://zy.huanqiu.com/article/4Reei8stcCe",
-      "pubDate": "(Thu,21 May 2026 16:59:48 CST)",
-      "contentSnippet": "5月20日，为进一步激活乡村文旅消费潜力，赋能特色农业高质量发展，丰富群众文旅生活，“乡”约禹州文旅消费暨鸠山镇第十二届杏果采摘活动在禹州市鸠山镇拉开帷幕。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "河南禹州举办杏果采摘活动，推动乡村文旅消费与特色农业发展。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，报道具体有时间地点，但缺乏多源验证和直接引述。"
-    },
-    {
-      "title": "潮汕电影破圈之后，大湾区电影如何“成军”？",
-      "link": "https://www.chinanews.com.cn/cul/2026/05-22/10626553.shtml",
-      "pubDate": "Fri, 22 May 2026 14:42:49 +0800",
-      "contentSnippet": "暨南大学教授周清平：",
+      "title": "税务部门集中曝光8起私户收款偷税案件",
+      "link": "https://www.chinanews.com.cn/cj/2026/05-22/10626713.shtml",
+      "pubDate": "Fri, 22 May 2026 18:23:21 +0800",
+      "contentSnippet": "中新网5月22日电 据国家税务总局网站消息，近年来，税务部门认真贯彻落实党中央、国务院决策部署，持续加强税收监管，依法查处各类偷逃税行为，切实维护法治公平的税收秩序。5月22日，税务部门集中公布一批通过私户收款方式隐匿收入、进行虚假纳税申报等手段偷逃税案件，分别是：",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -237,16 +67,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "专家探讨潮汕电影成功后大湾区电影发展路径。",
-      "credibilityScore": 75,
+      "aiSummary": "税务部门集中曝光8起私户收款偷税案件，加强税收监管。",
+      "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网较权威，引用专家观点，内容具体但缺乏多源交叉验证。"
+      "credibilityReason": "来源为中国新闻网，转载国家税务总局官方信息，权威可靠，内容具体。"
     },
     {
-      "title": "台行政院政委杨珍妮出席APEC贸易部长会议",
-      "link": "https://www.zaobao.com/news/china/story20260522-9090156",
-      "pubDate": "Fri, 22 May 2026 06:01:54 GMT",
-      "contentSnippet": "台湾行政院政务委员兼行政院经贸谈判办公室（OTN）总谈判代表杨珍妮星期五（5月22日）上午出席在苏州举行的亚太经济合作组织（APEC）贸易部长会议，并在会上发言。\nAPEC贸易部长会议5月22日至23日在苏州举行，台湾外交部上周介绍，杨珍妮率领OTN与外交部人员出席，并称相关安排目前是循例，按照平等的待遇。\n据台湾《联合报》报道，中国大陆外交部、国台办早前称，将按照“一个中国原则”和APEC有关谅解备忘录的规定和惯例处理“台湾地区”参会事宜，让外界关注台湾今年APEC参会权益是否遭受打压。\n报道引述现场画面显示，台湾代表团名称维持APEC惯例的“Chinese Taipei”（中华台北）。\n根",
+      "title": "普京访华后 俄罗斯宣布第二次发行人民币债券",
+      "link": "https://www.zaobao.com/news/china/story20260522-9091247",
+      "pubDate": "Fri, 22 May 2026 10:16:00 GMT",
+      "contentSnippet": "俄罗斯总统普京结束为期两天对华访问后，俄罗斯宣布将第二次发行以人民币计价的政府债券。\n据彭博社报道，俄罗斯财政部星期四（5月22日）发布声明称，此次发行的债券为固定票息、期限10年的债券，每张面值为1万元人民币（1880新元）。财政部将于5月28日启动认购，并计划于6月3日在莫斯科交易所挂牌发行。\n根据声明，投资者可选择以人民币或俄罗斯卢布购买债券及票息支付。\n本周，普京与中国国家主席习近平在北京举行会谈。在乌克兰与伊朗战争持续引发全球紧张局势之际，俄中两国元首借此强调双边关系的紧密与稳定。\n俄罗斯去年底首次发行人民币本币债券，分两批共筹得200亿元人民币，以弥补因军事开支增加及石油收入下滑而",
       "sourceName": "联合早报·中港台",
       "sourceWeight": 80,
       "allSources": [
@@ -254,10 +84,180 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "台湾代表杨珍妮出席APEC贸易部长会议，名称沿用“中华台北”。",
+      "aiSummary": "普京访华后，俄罗斯宣布第二次发行人民币债券，期限10年。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报，信息具体，有直接引述和现场画面，符合APEC惯例。"
+      "credibilityReason": "来源为联合早报，引用彭博社报道，信息具体（日期、面值、期限），内容客观。"
+    },
+    {
+      "title": "内蒙古二连浩特成立自贸区示范金融服务中心 赋能向北开放",
+      "link": "https://www.chinanews.com.cn/cj/2026/05-22/10626742.shtml",
+      "pubDate": "Fri, 22 May 2026 17:58:26 +0800",
+      "contentSnippet": "中新网二连浩特5月22日电(李爱平 梁晓虹)22日，二连浩特市挂牌成立自贸试验区示范金融服务中心，助力口岸向北开放高质量发展。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "内蒙古二连浩特成立自贸区示范金融服务中心，推动向北开放。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，权威媒体，信息具体，有直接引述，可信度较高。"
+    },
+    {
+      "title": "第八次中欧酒精饮料工作组会议在宁夏银川举行",
+      "link": "https://www.chinanews.com.cn/cj/2026/05-22/10626727.shtml",
+      "pubDate": "Fri, 22 May 2026 17:55:43 +0800",
+      "contentSnippet": "中新网银川5月22日电 (记者 李佩珊)5月20日至21日，第八次中欧酒精饮料工作组会议在宁夏银川举行。这是该机制自建立以来，首次在北京以外的中国城市举行。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "第八次中欧酒精饮料工作组会议在宁夏银川首次在京外举行。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，权威媒体；信息具体，有时间地点人物；内容客观。"
+    },
+    {
+      "title": "特朗普特使：加沙分裂局面或永久化",
+      "link": "https://www.zaobao.com/news/world/story20260522-9090673",
+      "pubDate": "Fri, 22 May 2026 09:29:41 GMT",
+      "contentSnippet": "（纽约综合电）美国总统特朗普设立的和平委员会加沙首席特使姆拉德诺夫警告，除非加沙地带停火，否则当前的分裂局面可能永久化，到时将迫使200多万人在加沙不到一半的领土栖身。 \n加沙的面积只有365平方公里。由于哈马斯拒绝放下武器，以色列仍在加沙约六成的地区驻军。\n姆拉德诺夫周四（5月21日）告诉联合国安全理事会，目前的风险是加沙分裂的现状可能永久化，加沙人民将依赖人道援助生活，无法重建加沙。这既无法保障以色列安全，也无法为巴勒斯坦建国提供可行路径。\n他说：“这是以色列人、巴勒斯坦人和中东所有人都应感到恐惧，并且要极力避免的未来。”\n乐施会、救助儿童会和国际难民组织周四说，联合国批准加沙和平计划六个",
+      "sourceName": "联合早报·国际",
+      "sourceWeight": 80,
+      "allSources": [
+        "联合早报·国际"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "特朗普特使警告加沙分裂可能永久化，200万人将挤在不到一半领土。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源联合早报较权威，有具体人物引述和时间地点，内容可查证。"
+    },
+    {
+      "title": "中国证监会没收老虎富途长桥三券商境内外全部非法所得",
+      "link": "https://www.zaobao.com/news/china/story20260522-9091651",
+      "pubDate": "Fri, 22 May 2026 09:21:36 GMT",
+      "contentSnippet": "中国证监会宣布，没收三家券商老虎、富途和长桥境内外全部非法所得，理由是这些公司从事非法跨境展业。\n据新华社客户端报道，中国证监会星期五（5月22日）宣布，老虎证券（新西兰）有限公司、富途证券国际（香港）有限公司、长桥证券（香港）有限公司的非法跨境展业行为，违反了中国证券基金期货法律法规，破坏了市场秩序，必须坚决予以打击。\n依据相关规定，证监会拟决定没收老虎、富途、长桥境内外相关主体全部违法所得，并依法严厉处罚。\n上述消息一出，老虎、富途美股盘前双双大跌，一度下挫近40%。\n经国务院同意，中国证监会、工信部、公安部等八部门联合印发《综合整治非法跨境证券期货基金经营活动实施方案》，明确经过两年集中",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
+      "allSources": [
+        "联合早报·中港台"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国证监会没收老虎、富途、长桥三家券商境内外全部非法所得，因非法跨境展业。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为联合早报，引用新华社报道，信息具体，有直接引述和具体数据。"
+    },
+    {
+      "title": "谷立言称郑丽文访美或被问政党取向 蓝：反台独符合美利益",
+      "link": "https://www.zaobao.com/news/china/story20260522-9090984",
+      "pubDate": "Fri, 22 May 2026 09:02:00 GMT",
+      "contentSnippet": "美国在台协会（AIT）处长谷立言指出，国民党主席郑丽文预计6月访美，届时美国可能会关注国民党是否正在调整政治路线。国民党文传会主委尹乃菁回应说，郑丽文访美时将重申国民党一贯立场，即遵循“中华民国”宪法、反对台独，并强调这一立场符合美国国家利益及台海稳定。\n综合台湾《自由时报》和Newtalk新闻网报道，谷立言受访时说，目前暂无郑丽文访美行程细节可公布，但相信美国相关机构会关切，国民党领导层是否正从根本上改变政党政治取向，而此次访美正是一次“释疑”的机会。\n对此，尹乃菁星期五（5月22日）在国民党中央党部受访时回应称，美国总统特朗普已公开表明不支持台独，美国不会为台独而战，而国民党长期坚持“维护",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
+      "allSources": [
+        "联合早报·中港台"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "美国在台协会（AIT）处长谷立言指出，国民党主席郑丽文预计6月访美，届时美国可能",
+      "credibilityScore": 48,
+      "credibilityLevel": "low",
+      "credibilityReason": "因内容合规限制，使用来源权重作为默认评分"
+    },
+    {
+      "title": "国务院印发《关于推行常住地提供基本公共服务的实施意见》",
+      "link": "https://m.thepaper.cn/detail/33211540",
+      "pubDate": "Fri, 22 May 2026 09:01:20 GMT",
+      "contentSnippet": "为推行常住地提供基本公共服务，促进基本公共服务均等化水平明显提升，有力支撑深入实施以人为本的新型城镇化战略，国务院日前印发《关于推行常住地提供基本公共服务的实施意见》（以下简称《意见》）。\n《意见》强调，由常住地提供基本公共服务，促进未落户常住人口与户籍人口同等享有基本公共服务，有利于满足人民日益增长的美好生活需要，对提升城镇化质量、释放国内需求潜力、构建新发展格局具有重要意义。\n《意见》提出，要加强随迁子女教育保障，巩固提升义务教育阶段随迁子女就读公办学位比例，推动将随迁子女纳入常住地学前教育、高中阶段教育公共服务范围。推动更多城市将稳定就业居住的未落户常住人口家庭纳入公租房保障范围，稳步推",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国务院印发意见，推行常住地提供基本公共服务，促进均等化。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源澎湃新闻较权威，内容具体有政策细节，用词客观中性。"
+    },
+    {
+      "title": "上海江苏浙江安徽党政一把手集体考察区块链发展",
+      "link": "https://www.zaobao.com/news/china/story20260522-9091502",
+      "pubDate": "Fri, 22 May 2026 09:00:46 GMT",
+      "contentSnippet": "中国长三角地区主要领导座谈会在上海举行，中共上海市委书记陈吉宁、江苏省委书记信长星、浙江省委书记王浩、安徽省委书记梁言顺等三省一市党政一把手全数出席，期间考察区块链创新应用相关进展。\n据浙江卫视报道，长三角地区主要领导座谈会星期三至星期四（5月20日至21日）在上海举行。上海市委书记陈吉宁，上海市委副书记、市长龚正；江苏省委书记信长星，江苏省委副书记、省长刘小涛；浙江省委书记王浩，浙江省委副书记、省长刘捷；安徽省委书记梁言顺，安徽省委副书记、省长王清宪出席会议。中共中央财办、中国国家发展改革委相关负责人应邀出席会议。\n报道称，会议期间，长三角三省一市领导考察了上海未来启点社区和区块链创新应用相",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
+      "allSources": [
+        "联合早报·中港台"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "长三角三省一市党政一把手集体考察区块链创新应用进展",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名媒体联合早报，内容具体有直接引述，可交叉验证"
+    },
+    {
+      "title": "专访上海博物馆党委书记汤世芬：超级大展背后的“破圈”逻辑",
+      "link": "https://m.thepaper.cn/detail/33211022",
+      "pubDate": "Fri, 22 May 2026 08:35:03 GMT",
+      "contentSnippet": "5月21日到25日，第二十二届中国（深圳）国际文化产业博览交易会（以下简称“深圳文博会”）在深圳开幕。\n本届文博会上海展区以“促进文商旅体展融合发展，建设习近平文化思想最佳实践地”为核心主题，集中呈现上海在文化产业高质量发展、城市文化消费升级、数智技术创新赋能、区域文化协同共进、中华文化走向世界等方面的最新实践成果。\n在上海展区里，由上海博物馆展出的创新成果和文创产品，也引发不少参观者驻足拍照。\n近年来，上海博物馆以前所未有的“年轻态”与国际化视野，跃升为城市文旅高质量发展的“轻骑兵”。从现象级的“金字塔之巅：古埃及文明大展”（以下简称“古埃及展”）到蓄势待发的“世界树之巅：美洲古代文明大展”",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "上海博物馆党委书记谈超级大展如何吸引年轻观众，推动文旅融合。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源澎湃新闻较权威，内容具体有直接引述，但缺少多源交叉验证。"
+    },
+    {
+      "title": "王毅将主持联合国安理会高级别会议并访问加拿大",
+      "link": "https://www.zaobao.com/news/china/story20260522-9090885",
+      "pubDate": "Fri, 22 May 2026 07:34:28 GMT",
+      "contentSnippet": "中共政治局委员、中国外交部长王毅将主持下周举行的联合国安理会高级别会议，并到加拿大进行访问。\n中国外交部发言人星期五（5月22日）宣布，中国作为联合国安理会本月轮值主席国，将于5月26日举办安理会高级别会议，主题为“维护联合国宪章宗旨和原则，加强以联合国为核心的国际体系”。王毅将赴纽约主持会议。\n在纽约期间，王毅还将出席将于5月28日举行的“全球治理之友小组”会议，并同联合国秘书长及有关国家外长等举行会见。\n应加拿大外长阿南德邀请，王毅将于5月28日至30日访问加拿大。\n此外，王毅应邀在去年2月12日至17日访问英国并同英国举行第十次中英战略对话，访问爱尔兰，赴德国出席第61届慕尼黑安全会议并",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
+      "allSources": [
+        "联合早报·中港台"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "王毅将主持联合国安理会高级别会议并访问加拿大",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名媒体联合早报，信息具体（时间、地点、人物），有外交部发言人引述，可交叉验证"
+    },
+    {
+      "title": "台旅行社公开宣传赴陆参访团 观光署现场核查",
+      "link": "https://www.zaobao.com/news/china/story20260522-9090757",
+      "pubDate": "Fri, 22 May 2026 07:21:22 GMT",
+      "contentSnippet": "“禁团令”尚未松绑，台湾知名旅行社在旅行展上公开宣传组团赴陆参访，台观光署到现场核查，并称旅行社已将相关广告文宣拆除。\n据“ETtoday新闻云”报道，TTE台北国际观光博览会星期五（5月22日）起举行，有旅行社星期四在展位上高调贴出赴中国大陆“文化参访团”行程，并提供优惠价格、天数及所使用航空公司。\n由于台湾禁止旅行社组团赴陆旅游的“禁团令”尚未解除，旅行社不得向不特定人士公开招揽组团。\n报道称，台湾观光署星期五赴现场查核时，上述旅行社已将有关广告及文宣拆除。至于旅行社是否仍在旅展期间向不特定旅客招揽参访团，也将依事实查核认定。\n台观光署强调，“禁团令”是指旅行业者不得招揽“不特定”旅客组团",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
+      "allSources": [
+        "联合早报·中港台"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "台旅行社在旅展宣传赴陆参访团，观光署现场核查后拆除广告。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为联合早报，引用ETtoday报道，信息具体且客观，可交叉验证。"
     }
   ]
 }
