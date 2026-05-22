@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T12:00:58.355Z",
+  "generatedAt": "2026-05-22T02:39:31.148Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
@@ -13,20 +13,20 @@
       "sourceWeight": 88,
       "allSources": [
         "36氪",
+        "IT之家",
         "钛媒体",
-        "量子位",
         "InfoQ中文",
         "Solidot"
       ],
       "coverageCount": 5,
       "coverageBoost": 20,
-      "aiSummary": "36氪与PureblueAI清蓝合作发布AI推荐力名册，聚焦品牌在AI时代的竞争维度。",
+      "aiSummary": "36氪与PureblueAI清蓝合作发布AI推荐力名册，聚焦品牌在AI时代的推荐竞争。",
       "credibilityScore": 100,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为36氪等知名科技媒体，内容具体有细节，逻辑清晰，但缺乏独立数据支撑。（多源覆盖 +20）"
+      "credibilityReason": "来源权威（36氪等知名媒体），内容具体有细节，逻辑清晰，但缺少独立数据支撑。（多源覆盖 +20）"
     },
     {
-      "title": "新石器New Claw：AI一体化解决方案，零门槛当无人车指挥官| 2026AI Partner·北京亦庄AI+产业大会",
+      "title": "新石器NewClaw：AI一体化解决方案，零门槛当无人车指挥官| 2026AI Partner·北京亦庄AI+产业大会",
       "link": "https://36kr.com/p/3818927367046018?f=rss",
       "pubDate": "2026-05-21 18:55:09  +0800",
       "contentSnippet": "管理一千台无人车需要多少人？答案是：一个人，一部手机，一句话。当自动驾驶逐渐“平权”，真正的瓶颈从技术转向了规模化运营。\n新石器用七年时间走完从合规落地、规模量产到万台运营的三级跳，如今推出AI Agent“Neo Claw”——让用户像聊天一样指挥车队，把单人管理效率从10台拉升到100台以上。颉晶华强调，AI的价值不在于写多少代码，而在于解放双手——让无人车管理从“专业操作”变成“说话就行”。\n以下为演讲内容，经36氪整理编辑：\n\n颉晶华丨新石器无人车联合创始人兼CPO\n各位好，我是新石器的颉晶华，很荣幸跟大家介绍新石器和我们在AI方面的应用与思考。\n八年前新石器公司创立，到如今已经成长为",
@@ -39,33 +39,54 @@
       ],
       "coverageCount": 3,
       "coverageBoost": 10,
-      "aiSummary": "新石器推出AI Agent Neo Claw，实现一人手机管理千台无人车。",
+      "aiSummary": "新石器推出AI Agent Neo Claw，实现一人管理千台无人车。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来自36氪等知名科技媒体，内容具体有数据支撑，但缺乏独立验证。（多源覆盖 +10）"
+      "credibilityReason": "来源为知名科技媒体36氪，内容具体但缺少技术细节和独立验证。（多源覆盖 +10）"
     },
     {
-      "title": "沙特3月石油出口额飙升至三年新高",
-      "link": "https://36kr.com/newsflashes/3818925340378247?f=rss",
-      "pubDate": "2026-05-21 19:08:38  +0800",
-      "contentSnippet": "沙特阿拉伯3月石油出口收入飙升至247亿美元，创三年多以来新高。该国依托红海航线转运运力，叠加能源价格走高，抵消了霍尔木兹海峡通行受阻带来的贸易冲击。（新浪财经）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
+      "title": "微软承认在 Word、Excel 和 PowerPoint 中加入 Copilot 悬浮按钮是个错误，遭大量投诉后回调",
+      "link": "https://www.ithome.com/0/953/694.htm",
+      "pubDate": "Fri, 22 May 2026 00:47:20 GMT",
+      "contentSnippet": "IT之家 5 月 22 日消息，当地时间 5 月 21 日，微软发布了一篇博客，阐述了其为 Word、Excel 和 PowerPoint 引入 Copilot 的美好愿景。\n微软官方承认，近期在 Word、Excel 和 PowerPoint 中添加的浮动 Copilot 按钮确实影响了用户的工作体验。\n在收到大量反馈后，微软决定推出修复方案，针对 Copilot 动态按钮的位置新增“移到功能区”自定义选项，并改进停靠行为使按钮保持原位。\n\n此前，微软 Office 应用在右下角新增了一个悬浮的 Copilot 按钮，可根据文档内容智能建议 Copilot 能够执行的操作。然而，这一设计并未",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "36氪"
+        "IT之家",
+        "钛媒体",
+        "Solidot"
       ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "沙特3月石油出口额创三年新高，达247亿美元。",
-      "credibilityScore": 75,
+      "coverageCount": 3,
+      "coverageBoost": 10,
+      "aiSummary": "微软承认Copilot悬浮按钮影响体验，将新增自定义选项。",
+      "credibilityScore": 95,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，内容具体有数据支撑，但未提供原始出处细节。"
+      "credibilityReason": "来自IT之家、钛媒体等知名科技媒体，内容具体且有官方博客引用。（多源覆盖 +10）"
     },
     {
-      "title": "翔丰华：股东钟英浩拟减持公司不超过2.00%股份",
-      "link": "https://36kr.com/newsflashes/3818972815311744?f=rss",
-      "pubDate": "2026-05-21 19:40:02  +0800",
-      "contentSnippet": "36氪获悉，翔丰华公告，股东钟英浩持有公司股份360.15万股（占公司当前总股本的3.01%），计划通过大宗交易及集中竞价方式，自2026年6月12日至2026年9月11日减持公司股份不超过239.16万股（不超过公司当前总股本的2.00%）。减持原因为自身资金需求，股份来源为公司首次公开发行股票前已发行股份。若计划减持期间公司有送股、资本公积金转增股本等股份变动事项，则对减持数量进行相应调整。",
+      "title": "IT早报 0522：38.99 万元起小米 YU7 GT 发布；比亚迪辟谣“考虑收购玛莎拉蒂”；特斯拉监督版 FSD 官宣登陆中国；何小鹏称激光雷达已不是必需品...",
+      "link": "https://www.ithome.com/0/953/678.htm",
+      "pubDate": "Thu, 21 May 2026 23:27:47 GMT",
+      "contentSnippet": "“IT早报”时间，大家好，现在是 2026 年 5 月 22 日星期五，今天的重要科技资讯有：\n1、小米 YU7 GT 正式发布：38.99 万元起，“大满配”42.99 万元\n在 5 月 21 日晚间的小米人车家全生态新品发布会上，小米 YU7 GT 正式发布。雷军表示，这款新车是一款“原汁原味纯血 GT+ 跑车级 SUV”，为时代精英设计，定价为 38.99 万元。>> 查看详情\n\n2、比亚迪回应“考虑收购玛莎拉蒂”：不属实，谣言\n近期有消息称，比亚迪执行副总裁李柯在伦敦的一场行业会议上表示，公司“确实在看欧洲市场的高端资产，包括玛莎拉蒂在内”。据凤凰网科技，针对网络上“比亚迪正在考虑收购",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家",
+        "爱范儿",
+        "量子位"
+      ],
+      "coverageCount": 3,
+      "coverageBoost": 10,
+      "aiSummary": "小米YU7 GT发布，比亚迪辟谣收购玛莎拉蒂，FSD入华，何小鹏评激光雷达。",
+      "credibilityScore": 92,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体，内容具体且有时效性，但部分信息未提供原始出处。（多源覆盖 +10）"
+    },
+    {
+      "title": "国家发改委：从未要求中国科技企业不得接受外商投资",
+      "link": "https://36kr.com/newsflashes/3819848509427845?f=rss",
+      "pubDate": "2026-05-22 10:30:50  +0800",
+      "contentSnippet": "5月22日，国家发展改革委召开新闻发布会。会上，国家发展改革委政策研究室副主任李超表示，对外开放是中国的基本国策，我们支持中国企业融入全球创新网络，开展互利共赢的国际交流合作，从未要求中国科技企业不得接受外商投资。同时，外商投资也必须遵守中国的法律和法规，不得损害中国国家安全和利益。中国开放的大门只会越开越大。我们将持续深入落实外商投资法及其实施条例，持续打造市场化、法治化、国际化的营商环境，并做好风险防控。（证券时报）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -73,16 +94,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "翔丰华股东钟英浩拟减持不超过2%股份，因自身资金需求。",
+      "aiSummary": "国家发改委否认限制科技企业接受外商投资。",
+      "credibilityScore": 92,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源权威（36氪转载官方发布会），内容具体且有原始出处（证券时报）。"
+    },
+    {
+      "title": "马蜂窝联合安顺市文体广电旅游局发布“山地新玩法宝典”",
+      "link": "https://36kr.com/newsflashes/3819839978115204?f=rss",
+      "pubDate": "2026-05-22 10:22:09  +0800",
+      "contentSnippet": "36氪获悉，5月21日，马蜂窝旅游集团在贵州安顺旅游产业发展大会上正式发布黄鹤营洞、莲花古洞、罗秧河三大山地新玩法标杆项目，同时联合安顺市文体广电旅游局推出《2026安顺山地户外新玩法宝典》，为安顺打造国际化山地旅游目的地注入全新动能。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "马蜂窝与安顺文旅局联合发布山地新玩法宝典，推动安顺山地旅游发展。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体36氪，信息具体有数据支撑，内容客观中立。"
+      "credibilityReason": "来源为知名科技媒体36氪，信息具体且有时效性，但缺乏技术细节和原始数据支撑。"
     },
     {
-      "title": "浙江东方：拟9.29亿元收购杭州联合银行4%股份",
-      "link": "https://36kr.com/newsflashes/3818941798024065?f=rss",
-      "pubDate": "2026-05-21 19:27:23  +0800",
-      "contentSnippet": "36氪获悉，浙江东方公告，公司拟向控股股东省国贸集团以10.65元/股的价格收购杭州联合银行4%股份，对应股数87,218,518股，合计金额约9.29亿元。本次交易构成关联交易，不构成重大资产重组。交易完成后，公司将合计持有杭州联合银行7.94%的股份。本次交易尚需国家金融监督管理总局或其派出机构审批及公司股东会审议。",
+      "title": "A股三大指数集体高开，半导体板块领涨",
+      "link": "https://36kr.com/newsflashes/3819785098350978?f=rss",
+      "pubDate": "2026-05-22 09:26:20  +0800",
+      "contentSnippet": "36氪获悉，A股三大指数集体高开，沪指高开0.46%，深成指高开0.89%，创业板指高开1.2%；电脑硬件、通信设备、半导体板块领涨，国盾量子涨超7%，天岳先进涨超5%，中国长城涨超3%；能源、白酒、银行板块走弱，ST洲际跌超5%，金种子酒跌超1%，成都银行跌0.64%。",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -90,129 +128,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "浙江东方拟9.29亿元收购杭州联合银行4%股份",
+      "aiSummary": "A股三大指数高开，半导体板块领涨。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体有数据支撑，逻辑清晰"
-    },
-    {
-      "title": "声迅股份：公司在低空经济领域整体业务规模较小",
-      "link": "https://36kr.com/newsflashes/3818927610135680?f=rss",
-      "pubDate": "2026-05-21 19:14:50  +0800",
-      "contentSnippet": "36氪获悉，声迅股份发布异动公告，公司股票于2026年5月20日、2026年5月21日连续两个交易日收盘价格涨幅偏离值累计超过20%，根据《深圳证券交易所交易规则》的有关规定，属于股票交易异常波动的情形。公司开展的智慧停车运营管理相关业务，仅为公司区域性的业务探索项目，整体业务规模较小，现阶段对公司整体营业收入、利润贡献较低。而在低空经济领域，公司主要提供“低空安全无人机探测与防控系统”，目前该业务仍处于市场推广、客户早期拓展阶段，整体业务规模较小，市场订单落地节奏、规模化放量不确定性较高，对公司的营业收入与利润贡献较低。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "声迅股份公告称低空经济业务规模小，股价异动。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体36氪，内容为上市公司官方公告，信息具体且客观。"
-    },
-    {
-      "title": "高盛称对冲基金对大涨的芯片股获利了结，同时维持AI主题整体敞口",
-      "link": "https://36kr.com/newsflashes/3818980165617284?f=rss",
-      "pubDate": "2026-05-21 19:56:27  +0800",
-      "contentSnippet": "据高盛集团交易员称，对冲基金一直在卖出大涨的美国半导体股，以锁定利润，同时仍维持对人工智能主题的整体敞口。高盛主经纪团队在发给客户的一份报告中表示，过去一个月，半导体和半导体设备是美国股市中被净卖出最多的子板块。与此同时，这些基金增加了对美国股票宏观产品、指数及交易所交易基金（ETF）工具的做空头寸，这些工具通常用于对冲更广泛的市场风险。这些空头头寸现已升至10年来最高水平。（新浪财经）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "高盛称对冲基金获利了结芯片股，维持AI敞口。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为36氪转载新浪财经，内容具体有数据支撑，逻辑清晰。"
-    },
-    {
-      "title": "埃夫特：拟收购盛普股份100%股份，交易价格10.74亿元",
-      "link": "https://36kr.com/newsflashes/3818962127668352?f=rss",
-      "pubDate": "2026-05-21 19:29:10  +0800",
-      "contentSnippet": "36氪获悉，埃夫特公告，公司拟以发行股份及支付现金方式向至骞实业等12名交易对方收购盛普股份100%股份，具体分为：上市公司拟通过发行股份及支付现金的方式向至骞实业等10名交易对方购买其持有的盛普股份95.97%股份。上市公司拟通过支付现金的方式向上海翌耀、共青城凯翌购买其持有的盛普股份4.03%股份。后者以前者为实施前提。标的资产盛普股份100%股份的交易价格约为10.74亿元，具体分为：上市公司拟发行股份及支付现金购买盛普股份95.97%股份的交易价格为10.33亿元；上市公司拟支付现金购买盛普股份4.03%股份的交易价格约为4,120.35万元。本次交易构成重大资产重组。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "埃夫特拟10.74亿元收购盛普股份100%股份，构成重大资产重组。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体36氪，信息具体有数据支撑，逻辑清晰。"
-    },
-    {
-      "title": "国常会：研究推进全国统一大市场建设有关工作",
-      "link": "https://36kr.com/newsflashes/3818944434521221?f=rss",
-      "pubDate": "2026-05-21 19:11:10  +0800",
-      "contentSnippet": "李强主持召开国务院常务会议，研究推进全国统一大市场建设有关工作。（央视新闻）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国常会研究推进全国统一大市场建设",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源权威（央视新闻），内容具体，信息准确"
-    },
-    {
-      "title": "7连板威龙股份：无注入“算力”计划",
-      "link": "https://36kr.com/newsflashes/3818919783040129?f=rss",
-      "pubDate": "2026-05-21 18:57:01  +0800",
-      "contentSnippet": "36氪获悉，威龙股份发布股票交易风险的提示性公告，公司主营葡萄酒业务，与算力业务不存在任何关系。近期有媒体报道公司将注入算力资产，为避免相关信息对广大投资者造成误导，现予澄清，公司无注入“算力”计划，相关报道不属实。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "威龙股份澄清无算力资产注入计划，否认相关报道。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自权威科技媒体36氪，内容基于公司官方公告，信息具体且客观。"
-    },
-    {
-      "title": "欧元区5月综合PMI跌至31个月新低",
-      "link": "https://36kr.com/newsflashes/3818940039971974?f=rss",
-      "pubDate": "2026-05-21 19:18:34  +0800",
-      "contentSnippet": "标普全球公司21日发布的报告显示，欧元区商业活动5月明显萎缩，欧元区5月综合采购经理指数（PMI）初值录得47.5，为31个月低点。报告指出，成本压力加剧导致欧元区商业活动萎缩。分行业看，服务业PMI骤降至46.4，创63个月新低；相比之下，制造业仍维持在荣枯线之上，制造业PMI录得51.4，但扩张速度放缓至3个月以来最低。（央视新闻）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "欧元区5月综合PMI跌至47.5，创31个月新低",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为36氪转载央视新闻，数据来自标普全球，信息具体且有原始出处"
-    },
-    {
-      "title": "9亿次点击背后，AI应用的真实江湖｜2026中国AI应用全景图谱报告",
-      "link": "https://36kr.com/p/3818450346738823?f=rss",
-      "pubDate": "2026-05-21 11:52:45  +0800",
-      "contentSnippet": "有一个问题，值得在2026年认真问一次——\n你上一次用AI应用，是让它回答了一个问题，还是让它完成了一件事？\n这两个动作之间，隔着一个时代。\n2026年，AI应用的产品范式，正在从「聊天」走向「做事」。\n这不是预言，是已经发生的现实。\n从「回答」到「执行」，背后的数据是怎样的？推手是什么？有哪些代表企业？\n为了回答这些问题，量子位智库发布2026年中国AI应用全景图谱报告。\n\n报告中，我们通过2026年中国AI应用全景图谱试图记录当下AI应用变革时刻的横截面。\n\n图谱横跨ToC软硬件、ToB应用、底层开发三大维度，覆盖数百款产品，组成一条完整的AI价值传导链。\n技术向下渗透，场景向上生长，一个",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "2026年中国AI应用从聊天转向执行任务，报告揭示行业变革。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，报告内容具体且有数据支撑，逻辑清晰。"
+      "credibilityReason": "来源36氪为知名科技媒体，内容具体有数据支撑，逻辑清晰。"
     },
     {
       "title": "业绩快报 | 唯品会一季度净营收266亿元，SVIP用户贡献超50%线上销售额",
@@ -226,16 +145,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "唯品会一季度净营收266亿元，SVIP用户贡献超50%线上销售额。",
+      "aiSummary": "唯品会Q1净营收266亿元，SVIP用户贡献超50%线上销售额。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，内容具体有数据支撑，逻辑清晰，时效性好。"
+      "credibilityReason": "来源为知名科技媒体36氪，数据具体且逻辑清晰，但缺少原始财报链接。"
     },
     {
-      "title": "宇信科技：拟出资3900万元参与设立专项基金，主要投资于人工智能、大数据及相关产业链早中期科技企业",
-      "link": "https://36kr.com/newsflashes/3818975876285829?f=rss",
-      "pubDate": "2026-05-21 19:50:02  +0800",
-      "contentSnippet": "36氪获悉，宇信科技公告，公司拟以自有资金出资3900万元，与专业投资机构汇垠德擎、关联方宇信数智共同投资设立专项基金“德擎宇信”，基金规模2亿元，主要投资于人工智能、大数据及相关产业链早中期科技企业。本次交易构成关联交易，已获董事会审议通过，关联董事回避表决。",
+      "title": "抖音商城618前六日数据：消费券带动成交额破亿商家同比增长325%",
+      "link": "https://36kr.com/newsflashes/3819854277218440?f=rss",
+      "pubDate": "2026-05-22 10:36:42  +0800",
+      "contentSnippet": "36氪获悉，5月20日，抖音电商发布《2026年抖音商城618第一阶段数据报告》（以下简称“报告”）。大促第一阶段（5月15日至5月20日），消费券带动成交额破亿元的商家数量同比增长325%，成交额破亿元的爆款单品同比增长300%，超15万达人带货成交额同比增长五倍。",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -243,16 +162,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "宇信科技出资3900万参与AI大数据专项基金",
-      "credibilityScore": 80,
+      "aiSummary": "抖音商城618前六日消费券带动成交额破亿商家数增325%。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体36氪，信息具体有数据支撑，逻辑清晰"
+      "credibilityReason": "来源36氪为知名科技媒体，内容有具体数据支撑且逻辑清晰。"
     },
     {
-      "title": "大普微：停牌核查结束，股票复牌",
-      "link": "https://36kr.com/newsflashes/3818961009689473?f=rss",
-      "pubDate": "2026-05-21 19:28:01  +0800",
-      "contentSnippet": "36氪获悉，大普微公告，公司股票于2026年5月14日、5月15日、5月18日连续三个交易日收盘价格涨幅偏离值累计超过30%。因股价波动较大，投资者较为关注，为维护投资者利益，公司就股票交易波动情况进行核查。停牌期间，公司就股票交易异常波动的相关事项进行了核查。鉴于相关自查工作已完成，经公司申请，公司股票将于2026年5月22日（星期五）开市起复牌。受AI商业化节奏、云计算投入及下游应用景气度变化影响，AI带动的企业级SSD存储需求发展存在一定的波动和不确定性，公司敬请广大投资者理性投资，并注意投资风险。",
+      "title": "从概念到产线一：AI在工业制造领域的深水区探索| 2026AI Partner·北京亦庄AI+产业大会",
+      "link": "https://36kr.com/p/3818903062004870?f=rss",
+      "pubDate": "2026-05-21 18:29:53  +0800",
+      "contentSnippet": "AI在工业制造领域，不是“锦上添花”的辅助工具，而是“重新设计工厂”的核心引擎。从AOI报废板的秒级识别，到刀具参数的动态优化，再到打通设计、生产、供应链的全链路智能——这场对话告诉我们，每1%的效率提升都是真金白银，AI的价值不是叠加功能，而是把“人等货”变成“货等人”。\n演讲拆解了AI从概念到产线的落地路径：用自动化中台打通全链路协同，让AI在研发设计、工程预测、供应链管理、生产执行四个领域实现可量化的提效。针对不同制造业企业，给出分层方案。AI不是在某个环节帮你做得更好，而是从原生流程开始，重新定义制造业的生产力基准。\n以下为嘉立创云ERP负责人 杨超 演讲内容，经36氪整理编辑：\n\n杨",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -260,10 +179,95 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "大普微因股价异常波动停牌核查后复牌，提醒投资风险。",
+      "aiSummary": "AI在工业制造中从辅助工具变为核心引擎，实现全链路智能提效。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，内容具体且逻辑清晰，但缺乏技术细节和原始出处。"
+      "credibilityReason": "来自知名科技媒体36氪，内容具体有演讲细节，但缺少数据支撑和原始出处。"
+    },
+    {
+      "title": "小红书上线“RED精选计划”，意在发力视频内容生态",
+      "link": "https://36kr.com/newsflashes/3819791552188552?f=rss",
+      "pubDate": "2026-05-22 09:32:54  +0800",
+      "contentSnippet": "36氪独家获悉，今日，小红书已全量上线“RED精选计划”，对站内优质视频内容进行官方认证并给予分发支持。入选RED精选的视频会在单条视频上获得官方认证标识，用户点开“去看看”选项之后，可以浏览更多带有RED精选视频标签的视频。同时，入选RED精选的视频会同步收录进发现页中标签页的专属的RED频道，享受全场景曝光和额外流量加热。小红书相关负责人透露，自上线以来，RED精选视频篇均曝光从50万提升至270万。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "36氪独家报道小红书全量上线RED精选计划，扶持视频内容生态。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体36氪，信息具体有数据支撑，逻辑清晰。"
+    },
+    {
+      "title": "央行今日开展1530亿元7天逆回购操作",
+      "link": "https://36kr.com/newsflashes/3819781647880323?f=rss",
+      "pubDate": "2026-05-22 09:22:49  +0800",
+      "contentSnippet": "36氪获悉，央行今日开展1530亿元7天逆回购操作，操作利率为1.40%，与此前持平。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "央行开展1530亿元7天逆回购，利率1.40%不变",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源知名科技媒体，信息具体有数据支撑，内容客观"
+    },
+    {
+      "title": "恒指开盘涨1.01%，恒生科技指数涨1.57%",
+      "link": "https://36kr.com/newsflashes/3819781474341256?f=rss",
+      "pubDate": "2026-05-22 09:22:39  +0800",
+      "contentSnippet": "36氪获悉，恒指开盘涨1.01%，恒生科技指数涨1.57%；半导体、软件服务、硬件设备板块领涨，联想集团涨超4%，华虹半导体、中芯国际、网易涨超3%；环保、钢铁、耐用消费品板块走弱，北控城市资源跌超1%，马鞍山钢铁股份跌0.47%，泡泡玛特跌0.07%。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "恒指开盘涨1.01%，恒生科技指数涨1.57%，半导体板块领涨。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体36氪，数据具体、时效性强，内容客观中立。"
+    },
+    {
+      "title": "中铁装配：积极布局海外市场，东非、中亚地区已有业务落地",
+      "link": "https://36kr.com/newsflashes/3819759850656129?f=rss",
+      "pubDate": "2026-05-22 09:00:39  +0800",
+      "contentSnippet": "36氪获悉，中铁装配在互动平台表示，公司重视并积极推动布局海外市场，目前在东非、中亚地区有部分业务落地。未来公司将不断完善海外营销网络布局，持续增强市场竞争力。若相关事项达到披露标准，公司将依规及时公告。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中铁装配宣布东非和中亚业务落地，积极布局海外市场。",
+      "credibilityScore": 70,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪为知名科技媒体，内容具体但缺乏技术细节和原始数据支撑。"
+    },
+    {
+      "title": "现货白银向下跌破76美元/盎司",
+      "link": "https://36kr.com/newsflashes/3819770014568837?f=rss",
+      "pubDate": "2026-05-22 09:10:59  +0800",
+      "contentSnippet": "36氪获悉，现货白银向下跌破76美元/盎司，日内下跌0.86%。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "现货白银跌破76美元/盎司，日内跌0.86%。",
+      "credibilityScore": 70,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪为知名科技媒体，信息简洁但缺乏深度分析。"
     }
   ]
 }
