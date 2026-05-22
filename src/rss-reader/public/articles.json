@@ -1,48 +1,86 @@
 {
-  "generatedAt": "2026-05-22T03:32:58.760Z",
+  "generatedAt": "2026-05-22T02:53:12.660Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "神州租车亮相“519中国旅游日”广州主会场，共同倡导品质旅游新生态",
-      "link": "https://tech.huanqiu.com/article/4ReV3iSWqSc",
-      "pubDate": "(Thu,21 May 2026 12:29:40 CST)",
-      "contentSnippet": "神州租车副总裁王冠楠登台参与发布中国旅游日“品质旅游”广州倡议，与文旅产业链各方共同倡导提升旅游服务品质，推动文旅行业高质量发展。",
+      "title": "解决“大城市病”问题 北京市级机关年底将全部搬迁至城市副中心",
+      "link": "https://china.huanqiu.com/article/4RefJzAX3y6",
+      "pubDate": "(Thu,21 May 2026 17:16:53 CST)",
+      "contentSnippet": "5月20日，记者从北京市政府新闻办召开的“北京城市副中心规划建设十周年”新闻发布会获悉，到今年年底，除履行维护首都安全稳定、保障城市运行、带有属地管理职能和面向市民、企业、社会开展管理服务的单位外，其他北京市级机关将全部搬迁至北京城市副中心。",
       "sourceName": "环球网",
       "sourceWeight": 85,
       "allSources": [
-        "环球网"
+        "环球网",
+        "联合早报·中港台"
       ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "神州租车参与广州中国旅游日，倡导品质旅游。",
-      "credibilityScore": 75,
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "北京市级机关年底前将全部迁至城市副中心，以缓解大城市病。",
+      "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体有直接引述，但无多源验证。"
+      "credibilityReason": "来源为环球网和联合早报，较权威；信息具体，有新闻发布会引述。（多源覆盖 +5）"
     },
     {
-      "title": "国家组织心脏支架集采第二轮接续开标 27个产品拟中选",
-      "link": "https://china.huanqiu.com/article/4ReUfhrmlVc",
-      "pubDate": "(Thu,21 May 2026 12:18:50 CST)",
-      "contentSnippet": "20日，“国家组织心脏支架集中带量采购”第二轮接续采购在天津开标。共15家企业的27个产品获拟中选资格，临床在用的国内外企业主流产品普遍中选。",
+      "title": "世界杯倒计时 揭幕战场地将以“墨西哥城体育场”亮相",
+      "link": "https://world.huanqiu.com/article/4Reg1uc1iae",
+      "pubDate": "(Thu,21 May 2026 17:36:43 CST)",
+      "contentSnippet": "距离2026年美加墨世界杯揭幕仅剩三周，作为揭幕战举办场地的墨西哥城阿兹特克体育场，已经进入世界杯时间。场馆视觉系统、商业标识和赛事运行体系的适配调整也已陆续展开。",
       "sourceName": "环球网",
       "sourceWeight": 85,
       "allSources": [
-        "环球网"
+        "环球网",
+        "央视新闻"
       ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国家心脏支架集采第二轮接续开标，27个产品拟中选。",
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "墨西哥城阿兹特克体育场正为2026年世界杯揭幕战做准备。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为环球网和央视新闻，权威性较高；信息具体，有明确时间地点。（多源覆盖 +5）"
+    },
+    {
+      "title": "赵乐际将访问哈萨克斯坦、俄罗斯并在俄出席中俄议会合作委员会第十一次会议",
+      "link": "https://www.chinanews.com.cn/gn/2026/05-22/10626373.shtml",
+      "pubDate": "Fri, 22 May 2026 10:22:11 +0800",
+      "contentSnippet": "新华社北京5月22日电　应哈萨克斯坦议会下院议长科沙诺夫和俄罗斯联邦委员会主席马特维延科、国家杜马主席沃洛金邀请，全国人大常委会委员长赵乐际将于5月25日至30日对哈萨克斯坦、俄罗斯进行正式友好访问，并在俄出席中俄议会合作委员会第十一次会议。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网",
+        "联合早报·中港台"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "赵乐际将访问哈萨克斯坦和俄罗斯，出席中俄议会合作会议。",
+      "credibilityScore": 100,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源权威（新华社、中国新闻网、联合早报），信息具体，有明确时间、地点和邀请方。（多源覆盖 +5）"
+    },
+    {
+      "title": "谈到伊朗浓缩铀，特朗普连说“留不得”：若美国接手或销毁",
+      "link": "https://m.thepaper.cn/detail/33208385",
+      "pubDate": "Fri, 22 May 2026 01:50:29 GMT",
+      "contentSnippet": "当地时间5月21日，美国总统特朗普表示，伊朗必须交出其拥有的高浓缩铀。另有伊朗消息人士透露，伊朗最高领袖穆杰塔巴·哈梅内伊已要求“浓缩铀库存不得运往国外”。",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻",
+        "联合早报·国际"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "特朗普要求伊朗交出高浓缩铀，伊朗最高领袖拒绝运往国外。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，信息具体（时间、企业数、产品数），用词客观。"
+      "credibilityReason": "来源为知名媒体，内容具体有直接引述，但缺乏多源交叉验证。（多源覆盖 +5）"
     },
     {
-      "title": "白俄罗斯外交部重申坚定奉行一个中国原则",
-      "link": "https://world.huanqiu.com/article/4ReUYessXnh",
-      "pubDate": "(Thu,21 May 2026 12:15:39 CST)",
-      "contentSnippet": "白俄罗斯外交部发言人鲁斯兰·瓦兰科夫20日在接受新华社记者提问时重申，白俄罗斯坚定奉行一个中国原则。",
+      "title": "重庆江津民警成波武：守护枢纽之城 实干彰显担当",
+      "link": "https://city.huanqiu.com/article/4RefMXR1nyO",
+      "pubDate": "(Thu,21 May 2026 17:18:03 CST)",
+      "contentSnippet": "面对各类侵财类违法犯罪，他始终保持高压严打态势，越是涉案金额大、侦办难度高的案件，他越是迎难而上、重拳攻坚，全力守护辖区企业和群众的财产安全，为地方经济发展筑牢",
       "sourceName": "环球网",
       "sourceWeight": 85,
       "allSources": [
@@ -50,16 +88,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "白俄罗斯外交部重申坚持一个中国原则。",
+      "aiSummary": "报道重庆江津民警成波武打击犯罪、守护辖区安全的正面事迹。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网较权威，内容具体但缺乏多源验证，属正面宣传报道。"
+    },
+    {
+      "title": "截至4月底 我国电动汽车充电基础设施达2195.5万个",
+      "link": "https://china.huanqiu.com/article/4RehX5PbGdk",
+      "pubDate": "(Thu,21 May 2026 18:18:47 CST)",
+      "contentSnippet": "截至4月底 我国电动汽车充电基础设施达2195.5万个",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "我国充电基础设施截至4月底达2195.5万个，增长迅速。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，有直接引述发言人表态，内容具体可查证。"
+      "credibilityReason": "来源环球网较权威，数据具体可查证，用词客观。"
     },
     {
-      "title": "菲律宾参议院将于7月6日正式审理副总统莎拉弹劾案",
-      "link": "https://world.huanqiu.com/article/4ReUXKMGgkY",
-      "pubDate": "(Thu,21 May 2026 12:15:03 CST)",
-      "contentSnippet": "菲律宾多名参议员称，对副总统莎拉·杜特尔特的弹劾案审理将于7月6日正式开始。",
+      "title": "重庆公安：为民办实事 暖心解民忧",
+      "link": "https://city.huanqiu.com/article/4Refsop7xGg",
+      "pubDate": "(Thu,21 May 2026 17:32:37 CST)",
+      "contentSnippet": "近日，重庆璧山、万州、大足等地公安机关接连处置群众求助，民警快速找回遗失手机、帮助老人追回莫名扣款、护送突发急症学生就医，用行动诠释为民初心",
       "sourceName": "环球网",
       "sourceWeight": 85,
       "allSources": [
@@ -67,16 +122,67 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "菲律宾参议院将于7月6日审理副总统莎拉弹劾案。",
+      "aiSummary": "重庆多地公安民警快速处置群众求助，找回手机、追回扣款、护送就医。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网较权威，内容具体有地点和事件，但无直接引述和多源交叉验证。"
+    },
+    {
+      "title": "广西水利厅和广西气象局联合发布山洪灾害橙色预警",
+      "link": "https://china.huanqiu.com/article/4ReiUryerB5",
+      "pubDate": "(Thu,21 May 2026 18:45:46 CST)",
+      "contentSnippet": "广西水利厅和广西气象局于5月21日16时联合发布山洪灾害气象预警：预计，5月21日20时至5月22日20时，桂林市永福县发生山洪灾害可能性大（橙色预警）。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "广西发布山洪灾害橙色预警，桂林永福县风险高。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网较权威，信息具体（时间、地点、等级），官方联合发布可查证。"
+    },
+    {
+      "title": "“啊？我车是4座的吗？” 直到被处罚，司机才醒悟",
+      "link": "https://society.huanqiu.com/article/4RekUAXGQ31",
+      "pubDate": "(Thu,21 May 2026 19:41:25 CST)",
+      "contentSnippet": "4月25日，19时20分许，台州交警在沈海高速临海北收费站执勤，发现一辆微型小车内人头攒动，疑似超员，遂示意驾驶人叶某靠边停车接受检查。经查，该车核载4人，实载5人，超员25%。此时，驾驶人叶某惊讶又尴尬地来了一句：“啊？座位只有4个的吗？”",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "台州一司机因超员被查，惊讶不知车辆核载4人。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网较权威，有具体时间地点和交警执法细节，信息可查证。"
+    },
+    {
+      "title": "柳州5.2级震群发生多次余震，还有没有更大的地震？专家解读→",
+      "link": "https://china.huanqiu.com/article/4RejFQXHLh0",
+      "pubDate": "(Thu,21 May 2026 19:06:47 CST)",
+      "contentSnippet": "近日广西柳州发生5.2级震群，社会高度关注后续震情发展，事关群众关心的余震趋势和地震预警等问题，广西地震台首席预报员、正高级工程师阎春恒进行解读。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "广西柳州5.2级震群后，专家解读余震趋势，称需关注后续地震活动。",
       "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，信息具体有时间、人物和事件，但缺乏多源交叉验证。"
+      "credibilityReason": "来源环球网较权威，有专家直接引述，内容具体可查证。"
     },
     {
-      "title": "当心中招！“银狐”木马出新变种 陌生文件切勿随意打开",
-      "link": "https://china.huanqiu.com/article/4ReUUqwuHqH",
-      "pubDate": "(Thu,21 May 2026 12:13:56 CST)",
-      "contentSnippet": "用户一旦不慎点开运行，设备便会遭不法分子远程操控、信息被窃取，还极易被不法分子当作实施电信网络诈骗的作案跳板。",
+      "title": "朋友请客买彩票，中奖后奖金应该归谁？",
+      "link": "https://society.huanqiu.com/article/4RehhnLOnV7",
+      "pubDate": "(Thu,21 May 2026 18:32:04 CST)",
+      "contentSnippet": "朋友相互请客买彩票，本没指望中大奖，可偏偏运气爆棚，中了百万奖金，这笔“意外之财”该归谁？",
       "sourceName": "环球网",
       "sourceWeight": 85,
       "allSources": [
@@ -84,16 +190,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "“银狐”木马新变种出现，提醒用户勿打开陌生文件。",
+      "aiSummary": "朋友请客买彩票中奖，奖金归属引发争议。",
+      "credibilityScore": 65,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源环球网较权威，但内容为法律案例讨论，缺乏具体细节和直接引述。"
+    },
+    {
+      "title": "暴雨橙色预警！福州启动应急响应！暴雨最大可能出现在这些地方",
+      "link": "https://china.huanqiu.com/article/4RejAQnY2Ma",
+      "pubDate": "(Thu,21 May 2026 19:04:32 CST)",
+      "contentSnippet": "大家出行请注意安全",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "福州发布暴雨橙色预警，启动应急响应，提醒防范强降雨。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体有警示性，但无直接引述或交叉验证。"
+      "credibilityReason": "来源环球网较权威，内容具体，但缺乏多源交叉验证。"
     },
     {
-      "title": "兴业银行南京分行：体系联动“加速度”，百亿级动力电池银团贷款高效落地",
-      "link": "https://yrd.huanqiu.com/article/4ReUS6QHFw4",
-      "pubDate": "(Thu,21 May 2026 12:12:42 CST)",
-      "contentSnippet": "近日，兴业银行南京分行下辖常州分行以高效的跨区域协同，为这场竞速注入了强劲的金融动能——由兴业银行义乌分行牵头，兴业银行常州分行与义乌分行紧密联动，中国进出口银",
+      "title": "重庆凤城监狱召开2026年课题调研工作动员会",
+      "link": "https://city.huanqiu.com/article/4Refw42adMj",
+      "pubDate": "(Thu,21 May 2026 17:34:05 CST)",
+      "contentSnippet": "为加强监狱理论研究、破解改革发展难题，调动民警理论研究积极性，营造比学赶超的学术氛围，5月19日，凤城监狱召开2026年课题调研工作动员会",
       "sourceName": "环球网",
       "sourceWeight": 85,
       "allSources": [
@@ -101,16 +224,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "兴业银行南京分行高效落地百亿级动力电池银团贷款。",
-      "credibilityScore": 75,
+      "aiSummary": "重庆凤城监狱召开2026年课题调研动员会，旨在加强理论研究。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体有数据，但缺少直接引述和交叉验证。"
+      "credibilityReason": "来源环球网较权威，内容具体（时间、地点、目的），用词客观。"
     },
     {
-      "title": "聚焦四大领域！南京银行推出场景金融十大战略级应用体系",
-      "link": "https://yrd.huanqiu.com/article/4ReUS02aQX1",
-      "pubDate": "(Thu,21 May 2026 12:12:39 CST)",
-      "contentSnippet": "本次方案聚焦服务实体经济、增进民生福祉、助推共同富裕的战略目标，围绕产业深耕、公共服务、普惠乡村、民生消费四大领域，构建十大战略级应用场景全域发展体系",
+      "title": "北邮计算机首位视障研究生，在“看不见”的世界里解决bug",
+      "link": "https://society.huanqiu.com/article/4Rehw09Gbt8",
+      "pubDate": "(Thu,21 May 2026 18:30:02 CST)",
+      "contentSnippet": "孙禀贺知道哪吒，也知道哪吒被导演“饺子”重新定义了。“看”过电影《哪吒》之后，“我命由我不由天”在他脑海中翻涌，让他热血沸腾。",
       "sourceName": "环球网",
       "sourceWeight": 85,
       "allSources": [
@@ -118,84 +241,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "南京银行推出场景金融十大战略级应用体系，聚焦四大领域。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体但缺少直接引述和交叉验证。"
-    },
-    {
-      "title": "交通银行南京江北新区分行：党建共建聚合力 金融服务暖民心",
-      "link": "https://yrd.huanqiu.com/article/4ReURkqs0GO",
-      "pubDate": "(Thu,21 May 2026 12:12:32 CST)",
-      "contentSnippet": "交通银行南京江北新区分行积极履行共建伙伴职责，组建党员先锋志愿服务队全程参与赛事保障，为运动员、裁判员及观众提供引导咨询、物资补给、秩序维护等贴心服务，以饱满的",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "交通银行南京江北新区分行通过党建共建提供赛事志愿服务。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体，但无直接引述，且为正面宣传稿。"
-    },
-    {
-      "title": "河南商城：初夏农事忙 田畴披新绿",
-      "link": "https://zy.huanqiu.com/article/4ReTqqmMH0s",
-      "pubDate": "(Thu,21 May 2026 11:55:53 CST)",
-      "contentSnippet": "初夏时节，河南省信阳市商城县的乡村田野间一派繁忙景象。当地农户抢抓农时，忙着蓄水灌田、翻整土地、起苗插秧。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "河南商城县初夏农忙，农户抢抓农时进行蓄水灌田、插秧等农事活动。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体描述农事活动，无情绪化用语，但缺乏直接引述和多源验证。"
-    },
-    {
-      "title": "“无界龙门——世界文化遗产龙门石窟当代转译特展”启幕",
-      "link": "https://zy.huanqiu.com/article/4ReTox6ur4M",
-      "pubDate": "(Thu,21 May 2026 11:55:01 CST)",
-      "contentSnippet": "5月20日，“无界龙门——世界文化遗产龙门石窟当代转译特展”在洛阳正大国际广场向公众开放。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "龙门石窟当代转译特展在洛阳开幕，展示文化遗产创新。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "环球网是正规媒体，报道具体时间地点，内容客观无情绪化。"
-    },
-    {
-      "title": "产量九连降！白酒企业逆势砸金扩产",
-      "link": "https://finance.huanqiu.com/article/4ReTSgG51IX",
-      "pubDate": "(Thu,21 May 2026 11:44:58 CST)",
-      "contentSnippet": "部分头部酒企扩产基于现有产能饱和：贵州茅台2025年茅台酒产能利用率高达126%，系列酒达97.05%，正推进总投资高达298.06亿元的三大项目",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "白酒产量九连降，头部企业如茅台因产能饱和逆势扩产。",
+      "aiSummary": "北邮首位视障研究生孙禀贺在编程中克服困难，受哪吒精神鼓舞。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
       "credibilityReason": "来源环球网较权威，内容具体有数据支撑，但未多源验证。"
     },
     {
-      "title": "穿搭消费多元升级：国潮、场景双爆发，AI赋能需守品质",
-      "link": "https://finance.huanqiu.com/article/4ReT7N1KBPD",
-      "pubDate": "(Thu,21 May 2026 11:35:21 CST)",
-      "contentSnippet": "另一方面，场景化服饰配件消费增长显著，太阳镜以603%的同比增速领跑，遮阳帽、防晒口罩成交额合计占比超四成",
+      "title": "杏果飘香助振兴 河南禹州采摘经济赋能文旅发展",
+      "link": "https://zy.huanqiu.com/article/4Reei8stcCe",
+      "pubDate": "(Thu,21 May 2026 16:59:48 CST)",
+      "contentSnippet": "5月20日，为进一步激活乡村文旅消费潜力，赋能特色农业高质量发展，丰富群众文旅生活，“乡”约禹州文旅消费暨鸠山镇第十二届杏果采摘活动在禹州市鸠山镇拉开帷幕。",
       "sourceName": "环球网",
       "sourceWeight": 85,
       "allSources": [
@@ -203,61 +258,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国潮与场景化服饰配件消费增长，太阳镜增速领跑，AI赋能需注重品质。",
+      "aiSummary": "河南禹州举办杏果采摘活动，推动文旅与农业融合发展。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，数据具体（603%增速），但缺少多源交叉验证。"
-    },
-    {
-      "title": "伊朗外交部称“正在评估”美方最新谈判意见",
-      "link": "https://world.huanqiu.com/article/4ReT2us09Ur",
-      "pubDate": "(Thu,21 May 2026 11:33:20 CST)",
-      "contentSnippet": "据伊朗光明通讯社21日报道，伊朗外交部发言人巴加埃表示，伊方“正在评估”美方通过巴基斯坦转交的最新谈判意见。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "伊朗称正评估美方通过巴基斯坦转交的最新谈判意见。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，信息具体有直接引述，但未多源交叉验证。"
-    },
-    {
-      "title": "司法部：不能简单以“有码、无码”为由拒绝或拖延执法检查",
-      "link": "https://china.huanqiu.com/article/4ReT1okIzC4",
-      "pubDate": "(Thu,21 May 2026 11:32:50 CST)",
-      "contentSnippet": "国务院新闻办今天（5月21日）举行新闻发布会，介绍规范涉企行政执法专项行动有关情况。司法部有关负责人介绍，专项行动期间，已有26个省份在全省范围内推行“扫码入企”，其他省份也在部分地市开展。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "司法部强调不能仅因“有码无码”拒绝执法检查，26省份推行“扫码入企”。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体有发布会信息，用词客观，可查证。"
-    },
-    {
-      "title": "乡村戏剧为啥这么“抓人”？",
-      "link": "https://www.chinanews.com.cn/cul/2026/05-22/10626456.shtml",
-      "pubDate": "Fri, 22 May 2026 11:25:25 +0800",
-      "contentSnippet": "网友@又临江仙：",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国新闻网探讨乡村戏剧吸引力原因，内容客观。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源较权威（中国新闻网），内容具体，但缺少多源交叉验证。"
+      "credibilityReason": "来源环球网较权威，内容具体有时间地点，但缺乏多源验证。"
     }
   ]
 }
