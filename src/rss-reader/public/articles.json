@@ -1,128 +1,9 @@
 {
-  "generatedAt": "2026-05-22T05:31:03.928Z",
+  "generatedAt": "2026-05-22T06:51:01.072Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
-    {
-      "title": "山西多条高速施工！提前绕行→",
-      "link": "https://china.huanqiu.com/article/4Rekrd1m5a6",
-      "pubDate": "(Thu,21 May 2026 19:52:01 CST)",
-      "contentSnippet": "目的地是太原市区的车辆，提前从忻州，高蒲收费站驶出高速走太忻大道进入市区；过境车辆可以提前绕行北二环高速。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "山西多条高速施工，建议车辆提前绕行。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体有绕行建议，但缺乏多源验证。"
-    },
-    {
-      "title": "延安安塞区通报一起儿童坠亡事件：确认刘某某系坠楼身亡，排除刑事案件",
-      "link": "https://china.huanqiu.com/article/4Rekhh8dHV6",
-      "pubDate": "(Thu,21 May 2026 19:47:32 CST)",
-      "contentSnippet": "经公安机关现场勘查、尸表检验、走访调查、视频追踪及电子数据勘验等全面核查，确认刘某某系坠楼身亡，排除刑事案件。下一步，根据死者家属意愿，可进行法医学尸体检验。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "延安安塞区儿童坠亡事件排除刑事案件，确认为坠楼身亡。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体，有公安机关调查细节，用词客观。"
-    },
-    {
-      "title": "我国科学家成功研制机器人化主动膜片钳系统",
-      "link": "https://china.huanqiu.com/article/4RekYbSFkhp",
-      "pubDate": "(Thu,21 May 2026 19:43:26 CST)",
-      "contentSnippet": "近日，南开大学人工智能学院赵新教授团队利用自主研发的机器人化主动膜片钳系统，与山东中医药大学实验动物中心团队合作，成功记录了清醒狨猴的神经元电生理信号。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国科学家研制机器人化膜片钳系统，记录清醒狨猴神经元信号。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体有团队和合作方，但无多源交叉验证。"
-    },
-    {
-      "title": "高速上男子痛苦停车，交警提醒：蒙个塑料袋呼吸",
-      "link": "https://society.huanqiu.com/article/4RekV1NoyuI",
-      "pubDate": "(Thu,21 May 2026 19:41:48 CST)",
-      "contentSnippet": "“我手脚都麻了，全身动不了！”",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "男子高速突发不适，交警建议用塑料袋呼吸缓解。",
-      "credibilityScore": 65,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源环球网较权威，内容具体但缺少直接引述和交叉验证。"
-    },
-    {
-      "title": "“啊？我车是4座的吗？” 直到被处罚，司机才醒悟",
-      "link": "https://society.huanqiu.com/article/4RekUAXGQ31",
-      "pubDate": "(Thu,21 May 2026 19:41:25 CST)",
-      "contentSnippet": "4月25日，19时20分许，台州交警在沈海高速临海北收费站执勤，发现一辆微型小车内人头攒动，疑似超员，遂示意驾驶人叶某靠边停车接受检查。经查，该车核载4人，实载5人，超员25%。此时，驾驶人叶某惊讶又尴尬地来了一句：“啊？座位只有4个的吗？”",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "司机不知车辆核载4人，超员被查后惊讶反问交警。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，有具体时间地点和直接引述，事实可查证。"
-    },
-    {
-      "title": "应急救援直升机为湖南石门受灾严重地区空运物资",
-      "link": "https://china.huanqiu.com/article/4RekTIlq3kc",
-      "pubDate": "(Thu,21 May 2026 19:41:02 CST)",
-      "contentSnippet": "从5月17日开始，湖南常德市石门县遭遇持续强降雨天气，多处道路损毁。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "湖南石门县因强降雨道路损毁，直升机空运救援物资。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，信息具体有时间地点，但无直接引述或多源验证。"
-    },
-    {
-      "title": "一家三口打赏主播650万，“甩锅”孩子要求退款，法院判了！",
-      "link": "https://society.huanqiu.com/article/4RekSGNv6rY",
-      "pubDate": "(Thu,21 May 2026 19:40:34 CST)",
-      "contentSnippet": "近日，北京互联网法院审结的一起17岁女生起诉平台要求退还打赏款案，引发关注。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "北京互联网法院审结17岁女生打赏主播案，驳回退款请求。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体有法院判决，但标题略煽情。"
-    },
     {
       "title": "中巴建交75周年纪念日之际，巴基斯坦总统、总理发文表态",
       "link": "https://world.huanqiu.com/article/4Rek07pxgAU",
@@ -138,13 +19,13 @@
       "aiSummary": "巴基斯坦总统和总理发文赞扬中巴关系，纪念建交75周年。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体，有直接引述，事实可查证。"
+      "credibilityReason": "来源环球网较权威，内容具体有直接引述，事实可查证。"
     },
     {
-      "title": "空中快线打通鲜菜直运最后一公里，现存低空经济相关企业超10万家",
-      "link": "https://tech.huanqiu.com/article/4RejtEglsoH",
-      "pubDate": "(Thu,21 May 2026 19:24:45 CST)",
-      "contentSnippet": "无人机生鲜配送已实现常态化运行，生鲜食材经严格质检后直接装上无人机，5公里航程仅需2分钟，可节约50%至60%的时间，降低人力成本。",
+      "title": "中国代表：须以更强紧迫感、更有力行动保护平民",
+      "link": "https://world.huanqiu.com/article/4Rej8OQLozl",
+      "pubDate": "(Thu,21 May 2026 19:03:36 CST)",
+      "contentSnippet": "中国常驻联合国代表傅聪20日在安理会关于保护武装冲突中平民问题公开辩论会上发言，敦促国际社会采取更有力行动保护平民。",
       "sourceName": "环球网",
       "sourceWeight": 85,
       "allSources": [
@@ -152,33 +33,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "无人机生鲜配送常态化，5公里航程仅需2分钟，低空经济企业超10万家。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体有数据支撑，但缺乏多源交叉验证。"
-    },
-    {
-      "title": "我国开展糖尿病“三师共管”中西医诊疗试点",
-      "link": "https://china.huanqiu.com/article/4RejREwxy6U",
-      "pubDate": "(Thu,21 May 2026 19:12:07 CST)",
-      "contentSnippet": "昨天（20日）全国糖尿病“三师共管”示范中心在北京协和医院、厦门大学附属第一医院成立。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "我国启动糖尿病“三师共管”中西医诊疗试点，两示范中心成立。",
+      "aiSummary": "中国代表傅聪在安理会呼吁加强行动保护武装冲突中平民。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，信息具体（时间、地点、机构），内容客观可查证。"
+      "credibilityReason": "来源为正规媒体环球网，内容具体有直接引述，事实可查证。"
     },
     {
-      "title": "外媒：受埃博拉疫情影响，印度宣布推迟举行第四届印非峰会",
-      "link": "https://world.huanqiu.com/article/4RejQ9Z2uSP",
-      "pubDate": "(Thu,21 May 2026 19:11:37 CST)",
-      "contentSnippet": "据法新社21日报道，由于埃博拉疫情影响，印度当天宣布推迟原定于下周（5月28日-31日）将在新德里举行的第四届印度-非洲论坛峰会。",
+      "title": "推行“扫码入企” 涉企行政执法专项行动查纠案件线索6.6万多件",
+      "link": "https://china.huanqiu.com/article/4Rej3aH10po",
+      "pubDate": "(Thu,21 May 2026 19:01:26 CST)",
+      "contentSnippet": "国务院新闻办今天（21日）就“规范涉企行政执法专项行动”举行新闻发布会。",
       "sourceName": "环球网",
       "sourceWeight": 85,
       "allSources": [
@@ -186,78 +50,214 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "印度因埃博拉疫情推迟第四届印非峰会。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网转引法新社，信息具体有明确时间地点，但未多源交叉验证。"
-    },
-    {
-      "title": "危险！睡觉时出现这4种表现 可能是疾病信号",
-      "link": "https://society.huanqiu.com/article/4RejPaKUbI5",
-      "pubDate": "(Thu,21 May 2026 19:11:22 CST)",
-      "contentSnippet": "气流通过狭窄的上气道时，软组织震动产生鼾声。肥胖、咽喉部肌肉松弛等因素导致上气道变窄，是打鼾的主因。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "环球网文章指出睡觉时四种表现可能是疾病信号，如打鼾等。",
-      "credibilityScore": 65,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源环球网较知名，但内容为健康科普，缺乏具体数据与专家引述，可信度一般。"
-    },
-    {
-      "title": "柳州5.2级震群发生多次余震，还有没有更大的地震？专家解读→",
-      "link": "https://china.huanqiu.com/article/4RejFQXHLh0",
-      "pubDate": "(Thu,21 May 2026 19:06:47 CST)",
-      "contentSnippet": "近日广西柳州发生5.2级震群，社会高度关注后续震情发展，事关群众关心的余震趋势和地震预警等问题，广西地震台首席预报员、正高级工程师阎春恒进行解读。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "广西柳州5.2级震群后，专家解读余震趋势，称需持续监测。",
+      "aiSummary": "中国推行“扫码入企”行动，查纠涉企执法案件线索6.6万多件。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报等知名媒体，有直接引述官方回应，信息具体可查证。"
+      "credibilityReason": "来源环球网较权威，内容具体有数据，引用官方发布会信息。"
     },
     {
-      "title": "天气形势又将有新变化 南方闷热上线 强降雨核心区域将转移",
-      "link": "https://china.huanqiu.com/article/4RejDp9Jgn2",
-      "pubDate": "(Thu,21 May 2026 19:06:03 CST)",
-      "contentSnippet": "天气形势又将有新变化，春夏季最常见的天气幕后“推手”——副热带高压、冷涡，将改变未来几天的天气格局。西北地区东部、华北、黄淮及东北地区将有一轮降雨过程；南方闷热上线，华南等地高温增多，强降雨核心区将会北抬到长江中下游一带。",
+      "title": "我国科研团队首次定量揭示湿地甲烷排放概率",
+      "link": "https://china.huanqiu.com/article/4RegbNyTSKF",
+      "pubDate": "(Thu,21 May 2026 17:52:44 CST)",
+      "contentSnippet": "近日，中国科学院青藏高原研究所三极观测与大数据团队联合国际研究团队，利用国际先进陆地生态系统模型与全球湿地观测数据，首次建立了未来湿地甲烷排放增加的概率约束框架，定量评估了未来全球湿地甲烷反馈发生的可能性。",
       "sourceName": "环球网",
       "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "我国团队首次定量评估未来全球湿地甲烷排放概率。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网较权威，内容具体有研究团队和数据支撑，用词客观。"
+    },
+    {
+      "title": "2026年APEC第三次高官会将于8月在大连举行",
+      "link": "https://world.huanqiu.com/article/4Reg4NsO8HM",
+      "pubDate": "(Thu,21 May 2026 17:37:50 CST)",
+      "contentSnippet": "5月19日，2026年亚太经合组织（APEC）第二次高官会在上海世博中心闭幕。按照年度议程安排，2026年APEC第三次高官会将于8月在大连举行。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "2026年APEC第三次高官会将于8月在大连举行。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网较权威，信息具体（时间、地点），内容客观可查证。"
+    },
+    {
+      "title": "乌兹别克斯坦重申支持一个中国原则",
+      "link": "https://world.huanqiu.com/article/4RefwJENSPQ",
+      "pubDate": "(Thu,21 May 2026 17:34:11 CST)",
+      "contentSnippet": "乌兹别克斯坦外交部日前重申，乌方恪守一个中国原则，支持两岸关系和平发展。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "乌兹别克斯坦外交部重申恪守一个中国原则，支持两岸和平发展。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网较权威，内容具体且涉及外交表态，可查证。"
+    },
+    {
+      "title": "时政微纪录丨老友再会！中俄元首北京会晤",
+      "link": "https://world.huanqiu.com/article/4RefoNfPXgr",
+      "pubDate": "(Thu,21 May 2026 17:30:37 CST)",
+      "contentSnippet": "应国家主席习近平邀请，俄罗斯总统普京于5月19日至20日对中国进行国事访问。这是普京总统第25次访华。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中俄元首在北京会晤，普京第25次访华。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网较权威，内容具体且为官方邀请访问，事实可查证。"
+    },
+    {
+      "title": "上海警方：男子贺某在藏匿地点被抓获，涉嫌危害公共安全已刑拘",
+      "link": "https://society.huanqiu.com/article/4RefmKf4cqv",
+      "pubDate": "(Thu,21 May 2026 17:29:41 CST)",
+      "contentSnippet": "酒后驾车会导致驾驶人判断力、反应力大幅下降，极易引发严重道路交通事故，严重威胁自身及他人生命财产安全。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "上海警方抓获涉嫌危害公共安全的男子贺某，已刑事拘留。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网较权威，信息具体，有警方通报依据，但缺乏多源交叉验证。"
+    },
+    {
+      "title": "海科新源一季度净利大增19倍，“72小时本地化供应”塑造出海竞争力",
+      "link": "https://finance.huanqiu.com/article/4RefZg3cL6Q",
+      "pubDate": "(Thu,21 May 2026 17:23:58 CST)",
+      "contentSnippet": "特别是围绕公司海外业务发展及本地化供应链体系建设，海科新源总经理马立军在5月18日接受环球网记者采访时进一步表示：“公司在欧美市场已实现端到端本地化交付的服务能",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "海科新源一季度净利增19倍，称实现欧美本地化交付。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网较权威，有直接引述，但缺乏多源验证，数据需核实。"
+    },
+    {
+      "title": "习近平同巴基斯坦总统扎尔达里就中巴建交75周年互致贺电",
+      "link": "https://world.huanqiu.com/article/4RefOjUxBph",
+      "pubDate": "(Thu,21 May 2026 17:19:02 CST)",
+      "contentSnippet": "5月21日，国家主席习近平同巴基斯坦总统扎尔达里互致贺电，庆祝两国建交75周年。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "习近平与巴基斯坦总统扎尔达里互致贺电庆祝中巴建交75周年。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网为官方媒体，内容具体且符合外交惯例，可交叉验证。"
+    },
+    {
+      "title": "习近平主席这样提炼中俄关系发展历程",
+      "link": "https://world.huanqiu.com/article/4RefKYCYxQx",
+      "pubDate": "(Thu,21 May 2026 17:17:09 CST)",
+      "contentSnippet": "5月20日上午，国家主席习近平在北京人民大会堂同来华进行国事访问的俄罗斯总统普京举行会谈。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "习近平主席与普京总统会谈，提炼中俄关系发展历程。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网较权威，内容具体有直接引述，事实可查证。"
+    },
+    {
+      "title": "郑州航空港开展精准化培训 赋能企业出海",
+      "link": "https://zy.huanqiu.com/article/4ReepGsmxvl",
+      "pubDate": "(Thu,21 May 2026 17:03:02 CST)",
+      "contentSnippet": "为助力企业破解出海痛点，5月20日，郑州航空港区党群工作部、联合国工发组织投资和技术促进办公室（中国·北京），在中原医学科学城国际交流中心举办“520爱企日”国",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "郑州航空港举办培训活动，助力企业出海。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网较权威，信息具体有时间地点，但缺少直接引述和交叉验证。"
+    },
+    {
+      "title": "杏果飘香助振兴 河南禹州采摘经济赋能文旅发展",
+      "link": "https://zy.huanqiu.com/article/4Reei8stcCe",
+      "pubDate": "(Thu,21 May 2026 16:59:48 CST)",
+      "contentSnippet": "5月20日，为进一步激活乡村文旅消费潜力，赋能特色农业高质量发展，丰富群众文旅生活，“乡”约禹州文旅消费暨鸠山镇第十二届杏果采摘活动在禹州市鸠山镇拉开帷幕。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "河南禹州举办杏果采摘活动，推动乡村文旅消费与特色农业发展。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网较权威，报道具体有时间地点，但缺乏多源验证和直接引述。"
+    },
+    {
+      "title": "潮汕电影破圈之后，大湾区电影如何“成军”？",
+      "link": "https://www.chinanews.com.cn/cul/2026/05-22/10626553.shtml",
+      "pubDate": "Fri, 22 May 2026 14:42:49 +0800",
+      "contentSnippet": "暨南大学教授周清平：",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "专家探讨潮汕电影成功后大湾区电影发展路径。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网较权威，引用专家观点，内容具体但缺乏多源交叉验证。"
+    },
+    {
+      "title": "台行政院政委杨珍妮出席APEC贸易部长会议",
+      "link": "https://www.zaobao.com/news/china/story20260522-9090156",
+      "pubDate": "Fri, 22 May 2026 06:01:54 GMT",
+      "contentSnippet": "台湾行政院政务委员兼行政院经贸谈判办公室（OTN）总谈判代表杨珍妮星期五（5月22日）上午出席在苏州举行的亚太经济合作组织（APEC）贸易部长会议，并在会上发言。\nAPEC贸易部长会议5月22日至23日在苏州举行，台湾外交部上周介绍，杨珍妮率领OTN与外交部人员出席，并称相关安排目前是循例，按照平等的待遇。\n据台湾《联合报》报道，中国大陆外交部、国台办早前称，将按照“一个中国原则”和APEC有关谅解备忘录的规定和惯例处理“台湾地区”参会事宜，让外界关注台湾今年APEC参会权益是否遭受打压。\n报道引述现场画面显示，台湾代表团名称维持APEC惯例的“Chinese Taipei”（中华台北）。\n根",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
       "allSources": [
         "联合早报·中港台"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "未来几天南方闷热，强降雨核心区将北移至长江中下游。",
-      "credibilityScore": 75,
+      "aiSummary": "台湾代表杨珍妮出席APEC贸易部长会议，名称沿用“中华台北”。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体有气象术语，但缺少直接引述和交叉验证。"
-    },
-    {
-      "title": "欧元区5月综合PMI跌至31个月新低",
-      "link": "https://world.huanqiu.com/article/4RejDYjFHRX",
-      "pubDate": "(Thu,21 May 2026 19:05:56 CST)",
-      "contentSnippet": "标普全球公司21日发布的报告显示，欧元区商业活动5月明显萎缩，欧元区5月综合采购经理指数（PMI）初值录得47.5，为31个月低点。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "欧元区5月综合PMI初值47.5，创31个月新低，商业活动明显萎缩。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，引用标普全球报告，数据具体可查证。"
+      "credibilityReason": "来源为联合早报，信息具体，有直接引述和现场画面，符合APEC惯例。"
     }
   ]
 }

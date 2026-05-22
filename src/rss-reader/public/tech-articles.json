@@ -1,213 +1,9 @@
 {
-  "generatedAt": "2026-05-22T05:32:22.084Z",
+  "generatedAt": "2026-05-22T06:52:22.329Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
-    {
-      "title": "安克影音推出 Nebula SpaceFlow 配件，配合 AI 生成 3D 投影场景",
-      "link": "https://www.ithome.com/0/953/842.htm",
-      "pubDate": "Fri, 22 May 2026 05:26:44 GMT",
-      "contentSnippet": "IT之家 5 月 22 日消息，soundcore（声阔 / Anker 安克影音）昨日（5 月 21 日）面向 Nebula X1 和 X1 Pro 投影仪，推出 3D 扫描配件 Nebula SpaceFlow，建议零售价为 799 美元，首发价为 399 美元。\n\n这款配件主要给自家高端投影仪 Nebula X1 和 X1 Pro 增加 3D 场景投影能力，扫描墙面与周边障碍，再结合生成式 AI，按用户描述生成定制静态或动态画面，并由投影仪做透视校正后投射。\n\nNebula SpaceFlow 墙面动态效果演示\n硬件方面，SpaceFlow 采用双摄设计，并配有飞行时间（ToF）传感器和",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "安克推出Nebula SpaceFlow配件，为投影仪增加AI生成3D场景功能。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，信息具体有产品细节和价格，但缺少技术验证和原始出处。"
-    },
-    {
-      "title": "沪深两市成交额连续第30个交易日突破2万亿元",
-      "link": "https://36kr.com/newsflashes/3820016187478148?f=rss",
-      "pubDate": "2026-05-22 13:21:24  +0800",
-      "contentSnippet": "36氪获悉，沪深两市成交额连续第30个交易日突破2万亿元。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "沪深两市成交额连续30日破2万亿",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技财经媒体，信息具体有数据支撑"
-    },
-    {
-      "title": "岚图追光 S 官图发布：定位纯电中大型 SUV，配华为 896 线四激光雷达",
-      "link": "https://www.ithome.com/0/953/841.htm",
-      "pubDate": "Fri, 22 May 2026 05:21:12 GMT",
-      "contentSnippet": "IT之家 5 月 22 日消息，岚图汽车昨日发布了全新纯电轿跑 SUV—— 追光 S 的官方图片。\n新车定位中大型 SUV，内部代号为“FE”，已于此前通过工信部第 407 批新车公告申报，计划于 2026 年年中正式上市。\n\n外观方面，追光 S 整体设计语言偏向性能运动风，其长宽高分别为 5050 毫米、1998 毫米和 1656 毫米，轴距达 3000 毫米。\n\n前脸采用封闭式格栅和贯穿式星芒大灯，发动机盖两侧线条隆起，塑造出强烈的肌肉质感，机盖上方还配备了两处碳纤维导流槽。前包围造型凌厉，大尺寸通风口极具张力，主大灯组巧妙隐藏于两侧导流槽内部，营造出浓郁的性能 SUV 氛围。\n\n车身侧面",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "岚图追光S官图发布，定位纯电中大型SUV，配华为四激光雷达。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，信息具体有尺寸和配置细节，但缺少技术验证和原始出处。"
-    },
-    {
-      "title": "印尼一季度经常账户逆差扩大至40亿美元，创下2019年以来最大经常账户逆差",
-      "link": "https://36kr.com/newsflashes/3820013514346884?f=rss",
-      "pubDate": "2026-05-22 13:18:41  +0800",
-      "contentSnippet": "印尼一季度经常账户逆差扩大至40亿美元，为六年多来最高逆差规模，本就承压的印尼盾汇率进一步承压。印尼央行周五公布数据显示，今年1至3月经常账户逆差占国内生产总值比重达1.1%，上一季度逆差为25亿美元，占比0.7%。（财联社）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "印尼一季度经常账户逆差达40亿美元，创六年新高",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，引用财联社数据，信息具体有出处"
-    },
-    {
-      "title": "育碧称《刺客信条：黑旗》重制版游戏新增约 6 小时内容，7 月 9 日发行",
-      "link": "https://www.ithome.com/0/953/840.htm",
-      "pubDate": "Fri, 22 May 2026 05:15:36 GMT",
-      "contentSnippet": "IT之家 5 月 22 日消息，科技媒体 Wccftech 昨日（5 月 21 日）发布博文，报道称在旧金山举办的体验活动中，育碧（Ubisoft）披露称《刺客信条：黑旗- 记忆重置》游戏将额外增加约 6 小时游戏任务。\n\nIT之家援引博文介绍，《刺客信条：黑旗- 记忆重置》（Assassin's Creed: Black Flag Resynced）是 2013 年动作冒险电子游戏《刺客信条 4：黑旗》的重制版，将于 7 月 9 日在 PlayStation 5、Xbox Series S|X 游戏主机和 PC 平台发行。\n游戏总监理查德 · 奈特（Richard Knight）在本次体验活",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "育碧称《刺客信条：黑旗》重制版将新增6小时内容，7月9日发行。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，引用Wccftech报道，信息具体有细节。"
-    },
-    {
-      "title": "野村预计美联储今年将维持利率不变",
-      "link": "https://36kr.com/newsflashes/3820003914059904?f=rss",
-      "pubDate": "2026-05-22 13:08:55  +0800",
-      "contentSnippet": "野村证券周五表示，目前预计美联储2026年将维持利率不变，通胀走高且美联储官员降息意愿下降，短期降息可能性随之降低。野村证券在一份报告中指出：“即将上任的美联储主席凯文·沃什可能仍然有意愿放松货币政策，但近期的数据和美联储官员的表态让我们怀疑他能否说服联邦公开市场委员会（FOMC）的大多数成员同意降息。”（新浪财经）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "野村预计美联储2026年维持利率不变，因通胀走高。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名财经媒体36氪，内容具体且有原始出处（新浪财经），逻辑清晰。"
-    },
-    {
-      "title": "VGN 海妖 V2 专业电竞头戴耳机即将发售，搭载双降噪架构麦克风",
-      "link": "https://www.ithome.com/0/953/839.htm",
-      "pubDate": "Fri, 22 May 2026 05:06:56 GMT",
-      "contentSnippet": "IT之家 5 月 22 日消息，VGN 今天宣布，海妖 V2 专业电竞头戴耳机即将发售，新品主打游戏特调，适配《三角洲行动》《无畏契约》等游戏。\n\n据介绍，这款耳机支持一键调音，具有三角洲模式、无畏契约模式和音乐模式等，带有双降噪架构麦克风，调音台带有三口扩展坞，可连接多种设备。\n\nIT之家注意到，这款耳机支持一键变声，具备 Vcomofortx 舒适佩戴系统，耳罩采用亲肤设计。\n此外，这款耳机的调音台还带有一键 EQ 调节、一键多声变声、精密音量旋钮和 RGB 灯效系统等，价格尚未公布。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "VGN发布海妖V2电竞耳机，支持双降噪麦克风与多游戏模式。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，内容具体但缺乏技术细节和原始出处。"
-    },
-    {
-      "title": "星战 IP 时隔 7 年重返中国内地影院：《星球大战：曼达洛人与古古》今日上映",
-      "link": "https://www.ithome.com/0/953/838.htm",
-      "pubDate": "Fri, 22 May 2026 05:03:57 GMT",
-      "contentSnippet": "IT之家 5 月 22 日消息，继 2019 年《星球大战：天行者崛起》之后，星战系列真人电影时隔近七年重返中国内地大银幕。\n由迪士尼影业出品、卢卡斯影业制作的全新科幻冒险巨制《星球大战：曼达洛人与古古》今日在中国内地与北美同步上映，这也是星战 IP 自 2019 年《天行者崛起》后首部登陆院线的新作。\n\n这部影片由《曼达洛人》原班核心团队打造，剧版主创乔恩 · 费儒亲自执导，并与戴夫 · 菲洛尼、凯瑟琳 · 肯尼迪等共同担任制片人，路德维格 · 戈兰松担纲配乐。\n在演员阵容上，佩德罗 · 帕斯卡回归饰演曼达洛赏金猎人丁 · 贾伦，人气极高的萌娃古古“回归饰演自己”，西格妮 · 韦弗新加盟出演",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "星战真人电影时隔七年重返中国内地影院，今日同步北美上映。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，信息具体包括上映时间、制作团队和演员阵容，逻辑清晰。"
-    },
-    {
-      "title": "原特斯拉“王牌厂长”宋钢加入小米后首秀：两家公司非常像，雷军说服了一年半",
-      "link": "https://www.ithome.com/0/953/837.htm",
-      "pubDate": "Fri, 22 May 2026 05:02:36 GMT",
-      "contentSnippet": "IT之家 5 月 22 日消息，在小米 YU7 GT 发布会后，小米集团董事长、CEO 雷军，小米集团副总裁、汽车部 CTO 胡峥楠，小米汽车副总裁宋钢，小米汽车首席测试车手任周灿与媒体对话。\n宋钢表示，小米汽车成立之初，业内就开始关注。随着后来跟雷总和小米团队的沟通，深刻感受到了团队对于汽车的热爱和执着，奠定了要加入小米的决心。\n宋钢认为，小米跟特斯拉非常像，不管是从文化上还是从追求极致、追求技术的角度上都非常像。小米的强项在于文化的开放，整个团队做正确的事情，追求极致，追求在行业里做到最佳，让每个人能够发挥出 120% 的能力，这是非常吸引自己的地方，也是奠定了小米在汽车领域能够取得非常辉",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "原特斯拉高管宋钢加入小米，称两家公司文化和技术追求相似。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有直接引述，但缺乏独立数据支撑。"
-    },
-    {
-      "title": "分形工艺推出 Dynamic 3 系列风扇：可选 ARGB，提供 120mm、140mm 规格",
-      "link": "https://www.ithome.com/0/953/835.htm",
-      "pubDate": "Fri, 22 May 2026 04:56:02 GMT",
-      "contentSnippet": "IT之家 5 月 22 日消息，Fractal Design（分形工艺）现已在海外市场推出 Dynamic 3 系列风扇，新品主打现代化设计，有 ARGB 版可选。\n\n据介绍，这款风扇面向追求稳定气流表现、简洁装机风格的 PC 用户，支持 PWM 调速控制，所有风扇均采用来福轴承（Rifle Bearing）、特殊弧形叶片，运转更加平稳、噪音更低，能够提供更高风量。\n\n设计方面，这款风扇采用一体式中心盖板，支持菊花链连接，可让玩家打造简洁统一的机箱，减少走线烦恼。\n\n同时，这款风扇提供 120mm、140mm 两种规格，可选黑、白两种配色，ARGB 版本支持自定义灯效，售价 14.99 美元（",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "分形工艺发布Dynamic 3系列风扇，提供120/140mm规格及ARGB版。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，内容具体但缺少技术细节和原始出处。"
-    },
-    {
-      "title": "谷歌回应 Gemini 按 AI 算力计费变更，付费用户配额上调 3 倍",
-      "link": "https://www.ithome.com/0/953/834.htm",
-      "pubDate": "Fri, 22 May 2026 04:55:03 GMT",
-      "contentSnippet": "IT之家 5 月 22 日消息，在 2026 年 I/O 开发者大会期间，谷歌宣布于 5 月 17 日开始调整 Gemini 配额算法，将原先“每日提示词次数”调整为“按算力计费”，引发诸多网友和用户投诉。\n根据官方公告内容，Gemini 过去主要按每天提示词次数计算使用量，新规则改为按算力消耗核算，同时把请求复杂度、调用功能以及聊天历史长度都纳入配额计算。\n\n在新规 5 月 17 日推行之后，Pro 和 UItra 用户在 Reddit 社区、X 平台吐槽，称在密集写代码或处理多媒体任务下，新规更容易触顶，遇到 5 小时冷却和周额度锁定。\n伴随着舆论发酵，谷歌 Antigravity 团队的",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "谷歌调整Gemini计费方式引发用户投诉，随后上调付费用户配额3倍。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有细节，引用官方公告和用户反馈，逻辑清晰。"
-    },
-    {
-      "title": "浙江世宝：目前没有跨行业拓展的规划",
-      "link": "https://36kr.com/newsflashes/3819964642873481?f=rss",
-      "pubDate": "2026-05-22 12:47:53  +0800",
-      "contentSnippet": "36氪获悉，针对投资者关于“ 公司是否有考虑进军做光模块或者数据租赁或者AI相关的计划？”的提问，浙江世宝5月22日在互动平台表示，目前没有跨行业拓展的规划。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "浙江世宝回应投资者，暂无跨行业拓展计划。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，信息来自公司官方互动平台，内容具体明确。"
-    },
     {
       "title": "第四届链博会 6 月 22 日 — 26 日举办：首设 AI 专区，杭州“六小龙”要来",
       "link": "https://www.ithome.com/0/953/833.htm",
@@ -220,33 +16,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "第四届链博会6月22日开幕，首设AI专区，杭州“六小龙”参展。",
+      "aiSummary": "第四届链博会6月22-26日举办，首设AI专区，杭州“六小龙”参展。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源权威（IT之家），信息具体（时间、地点、支持单位），有官方发布会依据。"
+      "credibilityReason": "来源权威（IT之家），信息具体有官方发布会细节，逻辑清晰。"
     },
     {
-      "title": "小米影业旗下文米文化公司注销",
-      "link": "https://36kr.com/newsflashes/3819964220641671?f=rss",
-      "pubDate": "2026-05-22 12:38:26  +0800",
-      "contentSnippet": "36氪获悉，天眼查App显示，近日，北京文米文化有限公司登记状态由存续变更为注销。 \n该公司成立于2016年12月，法定代表人为王川，注册资本3500万美元，经营范围包括组织文化艺术交流活动、企业策划，设计、制作、代理、发布广告等，由小米影业香港有限公司全资持股。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
+      "title": "英伟达凭什么“富可敌国”？",
+      "link": "https://www.tmtpost.com/7997413.html",
+      "pubDate": "Fri, 22 May 2026 12:24:40 +0800",
+      "contentSnippet": "英伟达的市值已经高过除中美之外的任何单一国家经济体。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
       "allSources": [
-        "36氪"
+        "钛媒体"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "小米影业旗下文米文化公司已注销。",
-      "credibilityScore": 85,
+      "aiSummary": "英伟达市值超越除中美外所有国家经济体，分析其增长原因。",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体36氪，信息具体有数据支撑，来源可靠。"
+      "credibilityReason": "来自知名科技媒体，内容具体但缺乏详细数据支撑和原始出处。"
     },
     {
-      "title": "DeepSeek 推进 700 亿元融资，梁文锋承诺坚持开发开源 AI 模型而非追求短期商业化目标",
-      "link": "https://www.ithome.com/0/953/832.htm",
-      "pubDate": "Fri, 22 May 2026 04:30:38 GMT",
-      "contentSnippet": "IT之家 5 月 22 日消息，彭博社援引知情人士的话称，DeepSeek 已向潜在投资者承诺，这家初创公司将继续开发开源 AI 模型，而非追求短期商业化，本轮融资规模为 700 亿元人民币。\n\n一位知情人士称，DeepSeek 创始人梁文锋至少在一次投资者会议上承诺，将继续开发开源 AI 模型，同时追求实现通用人工智能这一更远大的目标。据称，梁文锋明确表示，其主要目标是推动技术升级，而非变现。\n知情人士称，DeepSeek 正处于融资谈判的最后阶段，本轮投资前对该公司的估值可能约为 450 亿美元（IT之家注：现汇率约合 3064.94 亿元人民币）。其中，腾讯控股、IDG 资本和砺思资本接",
+      "title": "鸿华第二款 toC 车型 FOXTRON CAVIRA 在台预售：中型纯电 SUV 行旅车",
+      "link": "https://www.ithome.com/0/953/826.htm",
+      "pubDate": "Fri, 22 May 2026 03:51:47 GMT",
+      "contentSnippet": "IT之家 5 月 22 日消息，鸿海-裕隆合资电动车企鸿华先进自收购裕隆旗下纳智捷全部股权后正式进入 toC 赛道。而在去年底发布纯电跨界休旅车 FOXTRON BRIA 后，鸿华也在本月 20 日公布了第二款 toC 车型 FOXTRON CAVIRA 并开始预接单。\n\nFOXTRON CAVIRA 是一款针对台湾地区道路设计优化的中型纯电 SUV 行旅车，车长 4.7m、轴距 2920mm，前后行李箱总容积 692L。\n\n其搭载 ADAS 驾驶辅助系统，支持遥控停车辅助、智能语音声控；内部配备 12.3\" 仪表屏和 15.6\" 车载信息系统中控屏，拥有 SEAS 音响；拥有“同级唯一”双",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -254,10 +50,215 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "DeepSeek推进700亿元融资，承诺坚持开源AI模型开发。",
+      "aiSummary": "鸿华第二款toC车型FOXTRON CAVIRA在台预售，为中型纯电SUV。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有车型参数，但缺少原始出处和独立验证。"
+    },
+    {
+      "title": "国家发改委：指导国产大模型加大力度适配国产算力芯片",
+      "link": "https://www.ithome.com/0/953/814.htm",
+      "pubDate": "Fri, 22 May 2026 03:27:02 GMT",
+      "contentSnippet": "IT之家 5 月 22 日消息，据界面新闻消息，国家发改委政策研究室副主任、新闻发言人李超今天在新闻发布会上表示，人工智能领域核心技术和应用需求都呈现快速增长态势，我们始终坚持系统布局、分业施策、开放共享、安全可控。\n李超表示，发改委推动人工智能与经济社会各行业各领域广泛深度融合，指导国产大模型加大力度适配国产算力芯片，在保持快速发展的同时，确保自主可控、向善发展、行稳致远，让全体人民共享人工智能发展成果，这也是我国人工智能发展的一大突出特征。\n据IT之家此前报道，国家发展改革委、国家能源局曾在去年 12 月 31 日发布《关于促进电网高质量发展的指导意见》，推动人工智能技术在电网规划建设、设",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国家发改委指导国产大模型适配国产算力芯片，确保自主可控。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家，引用彭博社和知情人士，信息具体且有数据支撑。"
+      "credibilityReason": "来自IT之家，引用官方发布会信息，内容具体且逻辑清晰。"
+    },
+    {
+      "title": "消息称三星李在镕将会见联发科蔡力行，争取代工天玑手机芯片",
+      "link": "https://www.ithome.com/0/953/728.htm",
+      "pubDate": "Fri, 22 May 2026 02:38:01 GMT",
+      "contentSnippet": "IT之家 5 月 22 日消息，科技媒体 Wccftech 昨日（5 月 21 日）发布博文，报道称三星会长李在镕 5 月 21 日率高层低调赴台，行程重点之一是会见联发科首席执行官蔡力行，核心目标被指向争取联发科转为三星晶圆代工客户。\n\n三星近年来在代工业务上动作频繁，此前已经拿下特斯拉 AI6 芯片代工订单，同时还在积极争取 AMD 的 2 纳米制程订单。在此基础上，联发科被视为三星下一家希望重点拿下的大型晶圆代工客户。\nIT之家援引博文介绍，三星为了增加筹码，将协同打包晶圆代工、存储资源与供应链，可能向联发科提供其关键内存芯片的优先供应资格，用于未来天玑系列手机系统级芯片。\n该媒体认为三",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "三星李在镕拟会见联发科蔡力行，争取代工天玑芯片。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体，内容具体有细节，但未提供原始出处或官方确认。"
+    },
+    {
+      "title": "R 星母公司 Take-Two 财报会议释放信号，暗示《GTA6》要靠订阅制捞金",
+      "link": "https://www.ithome.com/0/953/882.htm",
+      "pubDate": "Fri, 22 May 2026 06:50:26 GMT",
+      "contentSnippet": "IT之家 5 月 22 日消息，R 星母公司 Take-Two Interactive（T2）昨日召开财报电话会议，整场会议信息量巨大。除了再度重申《GTA6》将在 11 月 19 日发售外，T2 还用相当长时间强调《GTA》系列游戏究竟有多赚钱。\n\nT2 首席执行官施特劳斯 · 泽尔尼克表示，即使过去 13 年，《GTA5》销量增长势头仍然强劲。该作累计销量已达到 2.25 亿份，同时公司旗下所有主要 IP 流水都在增长，其中 27% 来自《GTA：线上模式》。\n这其中的部分增长来自《GTA：线上模式》的鲨鱼卡，玩家可花费真实金钱购买鲨鱼卡，然后在游戏里买车、房产等。GTA+ 会员的订阅收入",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "Take-Two暗示GTA6将强化订阅制收入模式",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家可信，内容基于财报会议，但标题有推测成分"
+    },
+    {
+      "title": "人形机器人走进工业制造：共育新质生产力",
+      "link": "https://36kr.com/p/3820101654106243?f=rss",
+      "pubDate": "2026-05-22 14:48:48  +0800",
+      "contentSnippet": "前十年被问“为什么做人形机器人”，如今被追问“怎么落地场景”。谭旻告诉我们，优必选作为人形机器人赛道的“长期主义者”，如何锚定应用落地，一步步将人形机器人送入真实世界，并让中国站上全球具身智能创新链的顶端。\n• 正文部分：\n从去年全球率先跑通全尺寸人形机器人量产，并实现超千台交付，到今年冲刺万台规模量产，优必选正在用持续的工业场景实训和三代产品迭代，证明人形机器人进工厂不是科幻，是刚需。谭旻在演讲中指出，中国智能制造核心缺口已超三千万人，人形机器人要做的不是取代人，而是填补“用工难”。\n \n以下为优必选首席品牌官 谭旻 演讲内容，经36氪整理编辑：\n \n\n \n谭旻丨优必选首席品牌官\n各位早上好",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "优必选人形机器人从量产到工业场景落地，填补用工缺口。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体36氪，内容具体有数据支撑，但为品牌方演讲整理，独立性一般。"
+    },
+    {
+      "title": "公募机构近283亿元参与定增，浮盈超23%",
+      "link": "https://36kr.com/newsflashes/3820101421650054?f=rss",
+      "pubDate": "2026-05-22 14:48:07  +0800",
+      "contentSnippet": "公募排排网最新数据，按增发上市日统计，截至5月21日，今年来22家公募已参与55只A股定增，覆盖A股年内定增总量（81只）的67.9%，合计获配282.62亿元。按2026年5月21日收盘价统计，今年以来公募机构参与定增整体浮盈金额达66.96亿元，浮盈达23.69%。（证券时报）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "公募机构今年参与定增近283亿元，浮盈超23%。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "数据来源于证券时报和公募排排网，信息具体且有统计口径说明。"
+    },
+    {
+      "title": "五菱星光 L 大六座插混 SUV 车型 5 月 27 日开启预售",
+      "link": "https://www.ithome.com/0/953/877.htm",
+      "pubDate": "Fri, 22 May 2026 06:47:19 GMT",
+      "contentSnippet": "IT之家 5 月 22 日消息，据易车消息，上汽通用五菱旗下全新中大型插电混动 SUV—— 五菱星光 L 将于 5 月 27 日正式开启预售。\n该车定位“人民的大六座 SUV”，搭载 1.5L 插混系统，提供五座和六座两种座椅布局，CLTC 工况下纯电续航最高可达 260 公里。\n\n外观方面，五菱星光 L 采用五菱最新的“凌空美学”设计语言，前脸为封闭式格栅，搭配星环式贯穿灯组及两侧 T 字型分体式大灯，主动进气格栅配合镀铬饰条与层梯式散热槽。车尾同样采用贯穿式星环 LED 尾灯，内部集成超过 1000 颗灯珠，与高位扰流板、隐藏式排气布局形成呼应。\n车身尺寸方面，五菱星光 L 长宽高分别为",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "五菱星光L插混SUV将于5月27日预售，纯电续航最高260公里。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有数据支撑，但缺少官方确认和细节。"
+    },
+    {
+      "title": "科大讯飞智能体耳机 Air 发售：一键录音转文字、支持 AI 翻译，1051 元",
+      "link": "https://www.ithome.com/0/953/876.htm",
+      "pubDate": "Fri, 22 May 2026 06:46:20 GMT",
+      "contentSnippet": "IT之家 5 月 22 日消息，科大讯飞旗下智能体耳机 Air 现已在京东发售，该机主要用于商务场合，主打“一键录音转文字”，定价为 1051 元，部分地区国补后到手价 899 元。\n\n\n该耳机提供冰灰色、雾灰色两种配色可选，采用开放式设计，采用亲肤液态硅胶材质，可实现“一触即录”，适合通话录音、会议录音等场合，录音支持实时转写成文字 / 翻译，还可实时联系 AI 获取见解。\n\n规格方面，该耳机匹配“复合高分子发声单元”，支持双麦克风降噪，单耳续航 19 小时，在搭配充电盒的情况下至高提供 53 小时续航。\n\nIT之家附耳机参数：\n\n京东科大讯飞智能体耳机 Air 蓝牙耳机 1051 元直达链",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "科大讯飞发布智能体耳机Air，支持录音转文字和AI翻译，售价1051元。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，信息具体有参数和价格，逻辑清晰。"
+    },
+    {
+      "title": "漫步者推出 S260 复古蓝牙音箱：4 英寸铝盆振膜中低音单元，1059 元",
+      "link": "https://www.ithome.com/0/953/871.htm",
+      "pubDate": "Fri, 22 May 2026 06:41:50 GMT",
+      "contentSnippet": "IT之家 5 月 22 日消息，漫步者推出了 S260 复古蓝牙音箱，将于今晚 20:00 正式开售，售价 1059 元。\n京东漫步者（EDIFIER）S260 高保真复古蓝牙音箱 1059 元直达链接\n\n这款音箱重 4.07kg，有黑胡桃、贝母白、暖棕咖三种颜色可选；搭载 4 英寸铝盆振膜中低音单元和 2 个 25 芯钛膜球顶高音单元，RMS 功率 65W，峰值功率 130W；通过 Hi-Res 双金标认证。\n\n这款音箱内置两颗德州仪器 TAS5805 数字功放，失真低至 0.03%，信噪比可达 107dB（A），采用独立双路闭环驱动，单声道峰值输出 45W。\n\n这款音箱获得 AirPlay",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "漫步者发布S260复古蓝牙音箱，售价1059元，配置4英寸铝盆振膜单元。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，产品参数具体，信息清晰可信。"
+    },
+    {
+      "title": "千曙科技与重庆数字交通产业集团达成战略合作",
+      "link": "https://36kr.com/newsflashes/3820094833103237?f=rss",
+      "pubDate": "2026-05-22 14:41:25  +0800",
+      "contentSnippet": "36氪获悉，5月21-24日，中国西部国际投资贸易洽谈会举办期间，千曙科技与重庆数字交通产业集团正式达成战略合作。双方将基于千曙L4级自动驾驶技术与重庆数字交通在成渝区域“智行走廊”和“氢”“电”走廊的公路智能化基础设施，协同开展自动驾驶典型货运示范路线应用。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "千曙科技与重庆数字交通合作，推进L4级自动驾驶货运示范。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪为知名科技媒体，内容具体但缺乏技术细节和原始出处。"
+    },
+    {
+      "title": "圆桌对话：AI+的“国家推进计划”与企业的“生存路线图”| 2026AI Partner·北京亦庄AI+产业大会",
+      "link": "https://36kr.com/p/3820091365871748?f=rss",
+      "pubDate": "2026-05-22 14:38:43  +0800",
+      "contentSnippet": "AI+正从技术指引转向产业实战，政策红利如何兑现？投入如何变成产出？企业如何在浪潮中生存、打赢？2026北京亦庄AI+产业大会首场圆桌对话，将这些问题摆上台面，不谈空想，只谈干法。\n \n2026北京亦庄AI+产业大会首场圆桌对话聚焦“AI+的国家推进计划与企业的生存路线图”。贝恩公司全球合伙人成鑫主持，上海市人工智能行业协会部长周晗、美的集团AI研究院院长徐翼、云岫资本创始合伙人兼CEO高超、京东AI智能硬件项目负责人张量四位嘉宾，从政策落地、产业实践、资本视角与平台赋能四个维度展开讨论，为企业提炼出2026-2027年的“生存口诀”。\n以下为圆桌对话内容，经36氪整理编辑：\n\n \n成鑫丨贝恩",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪",
+        "Solidot"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "AI+产业大会圆桌讨论政策落地与企业生存策略。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体36氪，内容具体有嘉宾和维度，但缺少数据支撑。（多源覆盖 +5）"
+    },
+    {
+      "title": "狂揽F轮融资+拿下4100万用户！深圳玩家出手，把企业旧系统变成AI能力库",
+      "link": "https://www.qbitai.com/2026/05/422615.html",
+      "pubDate": "Fri, 22 May 2026 06:38:04 +0000",
+      "contentSnippet": "一个AI统一入口，搞定所有",
+      "sourceName": "量子位",
+      "sourceWeight": 80,
+      "allSources": [
+        "量子位"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "深圳企业获F轮融资，4100万用户，将旧系统转为AI能力库。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "量子位为知名科技媒体，内容具体有数据，但缺乏技术细节和原始出处。"
+    },
+    {
+      "title": "开源办公套件 ONLYOFFICE Docs 9.4 发布，社区版取消 20 个并发连接限制",
+      "link": "https://www.ithome.com/0/953/867.htm",
+      "pubDate": "Fri, 22 May 2026 06:35:55 GMT",
+      "contentSnippet": "IT之家 5 月 22 日消息，科技媒体 Linuxiac 今天（5 月 22 日）发布博文，报道称开源办公套件 ONLYOFFICE Docs 9.4 发布，最大变化是开源社区版取消 20 个并发连接限制。\nIT之家援引博文介绍，本次版本更新还简化部署链路，该版本还取消代码压缩，将架构整合为单一进程，同时移除 RabbitMQ 和数据库依赖，从而减轻自托管环境的安装与维护负担。\n本次更新还调整授权条款，软件依旧采用 GNU Affero General Public License（GNU Affero 通用公共许可证）v3.0，但新增署名、版权声明和修改版本标识要求。ONLYOFFICE",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "ONLYOFFICE Docs 9.4发布，社区版取消20并发连接限制。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有原始出处，技术细节清晰。"
     }
   ]
 }
