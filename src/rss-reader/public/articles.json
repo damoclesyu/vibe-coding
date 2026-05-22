@@ -1,86 +1,14 @@
 {
-  "generatedAt": "2026-05-22T02:53:12.660Z",
+  "generatedAt": "2026-05-22T05:31:03.928Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "解决“大城市病”问题 北京市级机关年底将全部搬迁至城市副中心",
-      "link": "https://china.huanqiu.com/article/4RefJzAX3y6",
-      "pubDate": "(Thu,21 May 2026 17:16:53 CST)",
-      "contentSnippet": "5月20日，记者从北京市政府新闻办召开的“北京城市副中心规划建设十周年”新闻发布会获悉，到今年年底，除履行维护首都安全稳定、保障城市运行、带有属地管理职能和面向市民、企业、社会开展管理服务的单位外，其他北京市级机关将全部搬迁至北京城市副中心。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网",
-        "联合早报·中港台"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "北京市级机关年底前将全部迁至城市副中心，以缓解大城市病。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为环球网和联合早报，较权威；信息具体，有新闻发布会引述。（多源覆盖 +5）"
-    },
-    {
-      "title": "世界杯倒计时 揭幕战场地将以“墨西哥城体育场”亮相",
-      "link": "https://world.huanqiu.com/article/4Reg1uc1iae",
-      "pubDate": "(Thu,21 May 2026 17:36:43 CST)",
-      "contentSnippet": "距离2026年美加墨世界杯揭幕仅剩三周，作为揭幕战举办场地的墨西哥城阿兹特克体育场，已经进入世界杯时间。场馆视觉系统、商业标识和赛事运行体系的适配调整也已陆续展开。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网",
-        "央视新闻"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "墨西哥城阿兹特克体育场正为2026年世界杯揭幕战做准备。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为环球网和央视新闻，权威性较高；信息具体，有明确时间地点。（多源覆盖 +5）"
-    },
-    {
-      "title": "赵乐际将访问哈萨克斯坦、俄罗斯并在俄出席中俄议会合作委员会第十一次会议",
-      "link": "https://www.chinanews.com.cn/gn/2026/05-22/10626373.shtml",
-      "pubDate": "Fri, 22 May 2026 10:22:11 +0800",
-      "contentSnippet": "新华社北京5月22日电　应哈萨克斯坦议会下院议长科沙诺夫和俄罗斯联邦委员会主席马特维延科、国家杜马主席沃洛金邀请，全国人大常委会委员长赵乐际将于5月25日至30日对哈萨克斯坦、俄罗斯进行正式友好访问，并在俄出席中俄议会合作委员会第十一次会议。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网",
-        "联合早报·中港台"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "赵乐际将访问哈萨克斯坦和俄罗斯，出席中俄议会合作会议。",
-      "credibilityScore": 100,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源权威（新华社、中国新闻网、联合早报），信息具体，有明确时间、地点和邀请方。（多源覆盖 +5）"
-    },
-    {
-      "title": "谈到伊朗浓缩铀，特朗普连说“留不得”：若美国接手或销毁",
-      "link": "https://m.thepaper.cn/detail/33208385",
-      "pubDate": "Fri, 22 May 2026 01:50:29 GMT",
-      "contentSnippet": "当地时间5月21日，美国总统特朗普表示，伊朗必须交出其拥有的高浓缩铀。另有伊朗消息人士透露，伊朗最高领袖穆杰塔巴·哈梅内伊已要求“浓缩铀库存不得运往国外”。",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻",
-        "联合早报·国际"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "特朗普要求伊朗交出高浓缩铀，伊朗最高领袖拒绝运往国外。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名媒体，内容具体有直接引述，但缺乏多源交叉验证。（多源覆盖 +5）"
-    },
-    {
-      "title": "重庆江津民警成波武：守护枢纽之城 实干彰显担当",
-      "link": "https://city.huanqiu.com/article/4RefMXR1nyO",
-      "pubDate": "(Thu,21 May 2026 17:18:03 CST)",
-      "contentSnippet": "面对各类侵财类违法犯罪，他始终保持高压严打态势，越是涉案金额大、侦办难度高的案件，他越是迎难而上、重拳攻坚，全力守护辖区企业和群众的财产安全，为地方经济发展筑牢",
+      "title": "山西多条高速施工！提前绕行→",
+      "link": "https://china.huanqiu.com/article/4Rekrd1m5a6",
+      "pubDate": "(Thu,21 May 2026 19:52:01 CST)",
+      "contentSnippet": "目的地是太原市区的车辆，提前从忻州，高蒲收费站驶出高速走太忻大道进入市区；过境车辆可以提前绕行北二环高速。",
       "sourceName": "环球网",
       "sourceWeight": 85,
       "allSources": [
@@ -88,16 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "报道重庆江津民警成波武打击犯罪、守护辖区安全的正面事迹。",
+      "aiSummary": "山西多条高速施工，建议车辆提前绕行。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体但缺乏多源验证，属正面宣传报道。"
+      "credibilityReason": "来源环球网较权威，内容具体有绕行建议，但缺乏多源验证。"
     },
     {
-      "title": "截至4月底 我国电动汽车充电基础设施达2195.5万个",
-      "link": "https://china.huanqiu.com/article/4RehX5PbGdk",
-      "pubDate": "(Thu,21 May 2026 18:18:47 CST)",
-      "contentSnippet": "截至4月底 我国电动汽车充电基础设施达2195.5万个",
+      "title": "延安安塞区通报一起儿童坠亡事件：确认刘某某系坠楼身亡，排除刑事案件",
+      "link": "https://china.huanqiu.com/article/4Rekhh8dHV6",
+      "pubDate": "(Thu,21 May 2026 19:47:32 CST)",
+      "contentSnippet": "经公安机关现场勘查、尸表检验、走访调查、视频追踪及电子数据勘验等全面核查，确认刘某某系坠楼身亡，排除刑事案件。下一步，根据死者家属意愿，可进行法医学尸体检验。",
       "sourceName": "环球网",
       "sourceWeight": 85,
       "allSources": [
@@ -105,16 +33,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "我国充电基础设施截至4月底达2195.5万个，增长迅速。",
+      "aiSummary": "延安安塞区儿童坠亡事件排除刑事案件，确认为坠楼身亡。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，数据具体可查证，用词客观。"
+      "credibilityReason": "来源环球网较权威，内容具体，有公安机关调查细节，用词客观。"
     },
     {
-      "title": "重庆公安：为民办实事 暖心解民忧",
-      "link": "https://city.huanqiu.com/article/4Refsop7xGg",
-      "pubDate": "(Thu,21 May 2026 17:32:37 CST)",
-      "contentSnippet": "近日，重庆璧山、万州、大足等地公安机关接连处置群众求助，民警快速找回遗失手机、帮助老人追回莫名扣款、护送突发急症学生就医，用行动诠释为民初心",
+      "title": "我国科学家成功研制机器人化主动膜片钳系统",
+      "link": "https://china.huanqiu.com/article/4RekYbSFkhp",
+      "pubDate": "(Thu,21 May 2026 19:43:26 CST)",
+      "contentSnippet": "近日，南开大学人工智能学院赵新教授团队利用自主研发的机器人化主动膜片钳系统，与山东中医药大学实验动物中心团队合作，成功记录了清醒狨猴的神经元电生理信号。",
       "sourceName": "环球网",
       "sourceWeight": 85,
       "allSources": [
@@ -122,16 +50,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "重庆多地公安民警快速处置群众求助，找回手机、追回扣款、护送就医。",
-      "credibilityScore": 75,
+      "aiSummary": "中国科学家研制机器人化膜片钳系统，记录清醒狨猴神经元信号。",
+      "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体有地点和事件，但无直接引述和多源交叉验证。"
+      "credibilityReason": "来源环球网较权威，内容具体有团队和合作方，但无多源交叉验证。"
     },
     {
-      "title": "广西水利厅和广西气象局联合发布山洪灾害橙色预警",
-      "link": "https://china.huanqiu.com/article/4ReiUryerB5",
-      "pubDate": "(Thu,21 May 2026 18:45:46 CST)",
-      "contentSnippet": "广西水利厅和广西气象局于5月21日16时联合发布山洪灾害气象预警：预计，5月21日20时至5月22日20时，桂林市永福县发生山洪灾害可能性大（橙色预警）。",
+      "title": "高速上男子痛苦停车，交警提醒：蒙个塑料袋呼吸",
+      "link": "https://society.huanqiu.com/article/4RekV1NoyuI",
+      "pubDate": "(Thu,21 May 2026 19:41:48 CST)",
+      "contentSnippet": "“我手脚都麻了，全身动不了！”",
       "sourceName": "环球网",
       "sourceWeight": 85,
       "allSources": [
@@ -139,10 +67,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "广西发布山洪灾害橙色预警，桂林永福县风险高。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，信息具体（时间、地点、等级），官方联合发布可查证。"
+      "aiSummary": "男子高速突发不适，交警建议用塑料袋呼吸缓解。",
+      "credibilityScore": 65,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源环球网较权威，内容具体但缺少直接引述和交叉验证。"
     },
     {
       "title": "“啊？我车是4座的吗？” 直到被处罚，司机才醒悟",
@@ -156,10 +84,129 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "台州一司机因超员被查，惊讶不知车辆核载4人。",
+      "aiSummary": "司机不知车辆核载4人，超员被查后惊讶反问交警。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，有具体时间地点和交警执法细节，信息可查证。"
+      "credibilityReason": "来源环球网较权威，有具体时间地点和直接引述，事实可查证。"
+    },
+    {
+      "title": "应急救援直升机为湖南石门受灾严重地区空运物资",
+      "link": "https://china.huanqiu.com/article/4RekTIlq3kc",
+      "pubDate": "(Thu,21 May 2026 19:41:02 CST)",
+      "contentSnippet": "从5月17日开始，湖南常德市石门县遭遇持续强降雨天气，多处道路损毁。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "湖南石门县因强降雨道路损毁，直升机空运救援物资。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网较权威，信息具体有时间地点，但无直接引述或多源验证。"
+    },
+    {
+      "title": "一家三口打赏主播650万，“甩锅”孩子要求退款，法院判了！",
+      "link": "https://society.huanqiu.com/article/4RekSGNv6rY",
+      "pubDate": "(Thu,21 May 2026 19:40:34 CST)",
+      "contentSnippet": "近日，北京互联网法院审结的一起17岁女生起诉平台要求退还打赏款案，引发关注。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "北京互联网法院审结17岁女生打赏主播案，驳回退款请求。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网较权威，内容具体有法院判决，但标题略煽情。"
+    },
+    {
+      "title": "中巴建交75周年纪念日之际，巴基斯坦总统、总理发文表态",
+      "link": "https://world.huanqiu.com/article/4Rek07pxgAU",
+      "pubDate": "(Thu,21 May 2026 19:27:52 CST)",
+      "contentSnippet": "巴基斯坦总统扎尔达里、巴基斯坦总理夏巴兹当地时间21日分别通过社交平台X发文，赞扬中巴关系。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "巴基斯坦总统和总理发文赞扬中巴关系，纪念建交75周年。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网较权威，内容具体，有直接引述，事实可查证。"
+    },
+    {
+      "title": "空中快线打通鲜菜直运最后一公里，现存低空经济相关企业超10万家",
+      "link": "https://tech.huanqiu.com/article/4RejtEglsoH",
+      "pubDate": "(Thu,21 May 2026 19:24:45 CST)",
+      "contentSnippet": "无人机生鲜配送已实现常态化运行，生鲜食材经严格质检后直接装上无人机，5公里航程仅需2分钟，可节约50%至60%的时间，降低人力成本。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "无人机生鲜配送常态化，5公里航程仅需2分钟，低空经济企业超10万家。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网较权威，内容具体有数据支撑，但缺乏多源交叉验证。"
+    },
+    {
+      "title": "我国开展糖尿病“三师共管”中西医诊疗试点",
+      "link": "https://china.huanqiu.com/article/4RejREwxy6U",
+      "pubDate": "(Thu,21 May 2026 19:12:07 CST)",
+      "contentSnippet": "昨天（20日）全国糖尿病“三师共管”示范中心在北京协和医院、厦门大学附属第一医院成立。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "我国启动糖尿病“三师共管”中西医诊疗试点，两示范中心成立。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网较权威，信息具体（时间、地点、机构），内容客观可查证。"
+    },
+    {
+      "title": "外媒：受埃博拉疫情影响，印度宣布推迟举行第四届印非峰会",
+      "link": "https://world.huanqiu.com/article/4RejQ9Z2uSP",
+      "pubDate": "(Thu,21 May 2026 19:11:37 CST)",
+      "contentSnippet": "据法新社21日报道，由于埃博拉疫情影响，印度当天宣布推迟原定于下周（5月28日-31日）将在新德里举行的第四届印度-非洲论坛峰会。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "印度因埃博拉疫情推迟第四届印非峰会。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网转引法新社，信息具体有明确时间地点，但未多源交叉验证。"
+    },
+    {
+      "title": "危险！睡觉时出现这4种表现 可能是疾病信号",
+      "link": "https://society.huanqiu.com/article/4RejPaKUbI5",
+      "pubDate": "(Thu,21 May 2026 19:11:22 CST)",
+      "contentSnippet": "气流通过狭窄的上气道时，软组织震动产生鼾声。肥胖、咽喉部肌肉松弛等因素导致上气道变窄，是打鼾的主因。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "环球网文章指出睡觉时四种表现可能是疾病信号，如打鼾等。",
+      "credibilityScore": 65,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源环球网较知名，但内容为健康科普，缺乏具体数据与专家引述，可信度一般。"
     },
     {
       "title": "柳州5.2级震群发生多次余震，还有没有更大的地震？专家解读→",
@@ -173,16 +220,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "广西柳州5.2级震群后，专家解读余震趋势，称需关注后续地震活动。",
-      "credibilityScore": 80,
+      "aiSummary": "广西柳州5.2级震群后，专家解读余震趋势，称需持续监测。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
       "credibilityReason": "来源环球网较权威，有专家直接引述，内容具体可查证。"
     },
     {
-      "title": "朋友请客买彩票，中奖后奖金应该归谁？",
-      "link": "https://society.huanqiu.com/article/4RehhnLOnV7",
-      "pubDate": "(Thu,21 May 2026 18:32:04 CST)",
-      "contentSnippet": "朋友相互请客买彩票，本没指望中大奖，可偏偏运气爆棚，中了百万奖金，这笔“意外之财”该归谁？",
+      "title": "天气形势又将有新变化 南方闷热上线 强降雨核心区域将转移",
+      "link": "https://china.huanqiu.com/article/4RejDp9Jgn2",
+      "pubDate": "(Thu,21 May 2026 19:06:03 CST)",
+      "contentSnippet": "天气形势又将有新变化，春夏季最常见的天气幕后“推手”——副热带高压、冷涡，将改变未来几天的天气格局。西北地区东部、华北、黄淮及东北地区将有一轮降雨过程；南方闷热上线，华南等地高温增多，强降雨核心区将会北抬到长江中下游一带。",
       "sourceName": "环球网",
       "sourceWeight": 85,
       "allSources": [
@@ -190,33 +237,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "朋友请客买彩票中奖，奖金归属引发争议。",
-      "credibilityScore": 65,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源环球网较权威，但内容为法律案例讨论，缺乏具体细节和直接引述。"
-    },
-    {
-      "title": "暴雨橙色预警！福州启动应急响应！暴雨最大可能出现在这些地方",
-      "link": "https://china.huanqiu.com/article/4RejAQnY2Ma",
-      "pubDate": "(Thu,21 May 2026 19:04:32 CST)",
-      "contentSnippet": "大家出行请注意安全",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "福州发布暴雨橙色预警，启动应急响应，提醒防范强降雨。",
+      "aiSummary": "未来几天南方闷热，强降雨核心区将北移至长江中下游。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体，但缺乏多源交叉验证。"
+      "credibilityReason": "来源环球网较权威，内容具体有气象术语，但缺少直接引述和交叉验证。"
     },
     {
-      "title": "重庆凤城监狱召开2026年课题调研工作动员会",
-      "link": "https://city.huanqiu.com/article/4Refw42adMj",
-      "pubDate": "(Thu,21 May 2026 17:34:05 CST)",
-      "contentSnippet": "为加强监狱理论研究、破解改革发展难题，调动民警理论研究积极性，营造比学赶超的学术氛围，5月19日，凤城监狱召开2026年课题调研工作动员会",
+      "title": "欧元区5月综合PMI跌至31个月新低",
+      "link": "https://world.huanqiu.com/article/4RejDYjFHRX",
+      "pubDate": "(Thu,21 May 2026 19:05:56 CST)",
+      "contentSnippet": "标普全球公司21日发布的报告显示，欧元区商业活动5月明显萎缩，欧元区5月综合采购经理指数（PMI）初值录得47.5，为31个月低点。",
       "sourceName": "环球网",
       "sourceWeight": 85,
       "allSources": [
@@ -224,44 +254,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "重庆凤城监狱召开2026年课题调研动员会，旨在加强理论研究。",
-      "credibilityScore": 85,
+      "aiSummary": "欧元区5月综合PMI初值47.5，创31个月新低，商业活动明显萎缩。",
+      "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体（时间、地点、目的），用词客观。"
-    },
-    {
-      "title": "北邮计算机首位视障研究生，在“看不见”的世界里解决bug",
-      "link": "https://society.huanqiu.com/article/4Rehw09Gbt8",
-      "pubDate": "(Thu,21 May 2026 18:30:02 CST)",
-      "contentSnippet": "孙禀贺知道哪吒，也知道哪吒被导演“饺子”重新定义了。“看”过电影《哪吒》之后，“我命由我不由天”在他脑海中翻涌，让他热血沸腾。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "北邮首位视障研究生孙禀贺在编程中克服困难，受哪吒精神鼓舞。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体有数据支撑，但未多源验证。"
-    },
-    {
-      "title": "杏果飘香助振兴 河南禹州采摘经济赋能文旅发展",
-      "link": "https://zy.huanqiu.com/article/4Reei8stcCe",
-      "pubDate": "(Thu,21 May 2026 16:59:48 CST)",
-      "contentSnippet": "5月20日，为进一步激活乡村文旅消费潜力，赋能特色农业高质量发展，丰富群众文旅生活，“乡”约禹州文旅消费暨鸠山镇第十二届杏果采摘活动在禹州市鸠山镇拉开帷幕。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "河南禹州举办杏果采摘活动，推动文旅与农业融合发展。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体有时间地点，但缺乏多源验证。"
+      "credibilityReason": "来源环球网较权威，引用标普全球报告，数据具体可查证。"
     }
   ]
 }
