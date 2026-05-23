@@ -1,31 +1,14 @@
 {
-  "generatedAt": "2026-05-22T10:40:43.440Z",
+  "generatedAt": "2026-05-23T05:01:04.598Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "1000亿湖南女首富，买下台湾机壳老大",
-      "link": "https://www.tmtpost.com/7998849.html",
-      "pubDate": "Fri, 22 May 2026 17:07:47 +0800",
-      "contentSnippet": "蓝思科技7.34亿港元吃下巨腾国际。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "蓝思科技7.34亿港元收购台湾机壳巨头巨腾国际",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容具体有交易金额，但缺少原始出处和细节验证"
-    },
-    {
-      "title": "小米汽车全系产品将亮相 2026 粤港澳大湾区车展，5 月 29 日开幕",
-      "link": "https://www.ithome.com/0/954/049.htm",
-      "pubDate": "Fri, 22 May 2026 08:53:31 GMT",
-      "contentSnippet": "IT之家 5 月 22 日消息，小米汽车今日宣布全系产品将亮相 2026 粤港澳大湾区车展，重点介绍 YU7 家族两款新品，YU7 标准版、YU7 GT 也将来到现场。\n\n地址丨深圳国际会展中心（宝安）\n\n展位丨 3 号馆 · 05 展位\n\n日程丨 5.29 媒体日；5.30-6.7 公众日\n\n\nIT之家注意到，2026（第三十届）粤港澳大湾区车展（简称“2026 粤港澳大湾区车展”）将于 2026 年 5 月 29 日至 6 月 7 日在深圳国际会展中心（宝安）举办，其中 5 月 29 日为媒体及专业观众日。\n本届车展以“面向科技、面向未来、面向市场”为主题，启用 11 个展馆及户外展区，规",
+      "title": "极氪全新一代液冷超充桩上线：单枪峰值电流 800A、峰值功率 800kW",
+      "link": "https://www.ithome.com/0/954/283.htm",
+      "pubDate": "Sat, 23 May 2026 04:22:58 GMT",
+      "contentSnippet": "IT之家 5 月 23 日消息，极氪汽车昨日宣布，新一代液冷超级充电桩全新上线。\n\n如图所示，极氪新一代液冷超级充电桩具备极速、节能、适配、安全四大卖点，IT之家整理如下：\n\n高输出：单枪峰值电流 800A、峰值功率 800kW；\n\n高适配：深度适配多品牌新能源车型；\n\n高节能：能耗较传统方案降低 20% 以上；\n\n高安全：具备多层级主动防护机制，搭载 AI 故障预测与隔离保护技术，实现毫秒级异常响应。\n\n\n今年 2 月，极氪、领克正式整合为极氪科技集团。今年 4 月 7 日发布的领克 10 搭载极氪体系的 900V 神盾金砖电池，在极氪 V4 兆瓦桩上实测 SOC 10%-70% 仅 4 分",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -33,50 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "小米汽车全系将亮相2026粤港澳车展，含YU7家族新品。",
-      "credibilityScore": 85,
+      "aiSummary": "极氪发布新一代液冷超充桩，峰值功率800kW，电流800A。",
+      "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，信息具体（时间、地点、展位），逻辑清晰。"
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有数据支撑，但缺乏第三方验证。"
     },
     {
-      "title": "立方制药：取得美阿沙坦钾片药品注册证书",
-      "link": "https://36kr.com/newsflashes/3820329002422657?f=rss",
-      "pubDate": "2026-05-22 18:39:37  +0800",
-      "contentSnippet": "36氪获悉，立方制药公告，公司收到国家药品监督管理局核准签发的美阿沙坦钾片（40mg、80mg）《药品注册证书》，该药品适用于治疗成人原发性高血压。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "立方制药获美阿沙坦钾片注册证书，用于治疗高血压。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体有药品规格和用途，但缺乏数据支撑。"
-    },
-    {
-      "title": "AI时代核心终端生态定位与用户需求洞察| 2026AI Partner·北京亦庄AI+产业大会",
-      "link": "https://36kr.com/p/3820318177841541?f=rss",
-      "pubDate": "2026-05-22 18:37:09  +0800",
-      "contentSnippet": "AI不是某一个超级单品的故事，而是一个多端协同的生态故事，消费者的期待与顾虑，正在定义这个生态的进化方向。\nAI与硬件的融合分为四个阶段，当前正处于从深度融合走向生态化的关键节点。AI渗透率在手机端已从15%涨到40%，但仍是“加分项”而非“决策项”。未来，AI硬件生态的四个步骤——感知、记忆、决策、行动，或将分别由眼镜、手机、PC协同完成。\n以下为演讲内容，经36氪整理编辑：\n\n赵晓鹏丨NIQ GfK创新事业部总经理\n大家好，很荣幸有这个机会，跟大家分享NIQ GfK对消费端的观点。我们公司专注研究消费者和终端产品，和大家的日常生活联系非常紧密。\n我今天的主题是AI时代核心终端生态定位与用户",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "AI时代终端生态多端协同，手机AI渗透率40%但非决策项。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪知名科技媒体，内容有具体数据（AI渗透率40%）和阶段划分，但为演讲整理，缺少原始出处验证。"
-    },
-    {
-      "title": "欧洲一代经典国民车回归：雪铁龙纯电 2CV 官宣 10 月亮相，预计 1.5 万欧元起售",
-      "link": "https://www.ithome.com/0/954/153.htm",
-      "pubDate": "Fri, 22 May 2026 10:30:19 GMT",
-      "contentSnippet": "IT之家 5 月 22 日消息，停产 36 年后，雪铁龙宣布传奇小车 Citroën 2CV 正式回归，将在 2026 年 10 月举行的 2026 巴黎车展正式亮相。\n初代 2CV 于 1949 年至 1990 年间累计售出超过 500 万辆，凭借极其简单的机械结构、低廉售价和鲜明个性，成为欧洲汽车史上最具代表性的平民车型之一。\n全新 2CV 也是 Stellantis 未来产品计划的重要组成部分。按照规划，Stellantis 将在 2030 年前推出 110 款新车型，而 2CV 正是其中之一。官方同步发布的预告图显示，新车将延续明显的复古风格，车身轮廓则致敬经典的“Deux Cheva",
+      "title": "推广约 9 个月叫停：星巴克北美搁置 AI 库存系统，分不清燕麦奶和牛奶",
+      "link": "https://www.ithome.com/0/954/281.htm",
+      "pubDate": "Sat, 23 May 2026 04:07:39 GMT",
+      "contentSnippet": "IT之家 5 月 23 日消息，路透社昨日（5 月 22 日）发布博文，报道称星巴克已停止在北美门店使用 AI 库存工具，上线部署约 9 个月时间。\n\nIT之家援引博文介绍，星巴克首席执行官 Brian Niccol 推进其整改计划，于 2025 年 9 月开始在北美推广 AI 库存工具，依靠平板摄像头和 LiDAR（激光雷达）自动清点糖浆、牛奶等物料。\n在星巴克最初的设想中，该工具应当比人工盘点更快、更准，从而更智能地优化供应链。但实际使用中，系统稳定性没有达到预期。\n报道指出该 AI 工具经常误计数、误标记，尤其难以区分外观相近的商品（例如燕麦奶和牛奶），有时甚至完全漏掉某些物品。\n星巴克",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -84,16 +33,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "雪铁龙纯电2CV将于2026年10月巴黎车展亮相，预计起售价1.5万欧元。",
-      "credibilityScore": 75,
+      "aiSummary": "星巴克因AI库存系统误识别，叫停北美推广。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，信息具体有数据支撑，但缺少官方直接引用。"
+      "credibilityReason": "来源IT之家，引用路透社报道，信息具体有细节。"
     },
     {
-      "title": "导演方文公开致歉：曾指控B站短片《大魔术师》抄袭，被判赔偿 18 万余元",
-      "link": "https://www.ithome.com/0/954/152.htm",
-      "pubDate": "Fri, 22 May 2026 10:28:49 GMT",
-      "contentSnippet": "IT之家 5 月 22 日消息，导演方文昨日发布道歉声明，向上海幻电信息科技有限公司、上海宽娱数码科技有限公司（“B站”、“哔哩哔哩”的经营者和管理方）致歉。\n\n道歉声明\n上海幻电信息科技有限公司、上海宽娱数码科技有限公司（“B站”、“哔哩哔哩”的经营者和管理方）：\n本人方文，就 2024 年 5 月期间在社交平台公开发布指控B站五四青年节短片《大魔术师》剽窃本人创作方案和创意的缺乏依据的言论，对上海幻电信息科技有限公司、上海宽娱数码科技有限公司（“B站”、“哔哩哔哩”的经营者和管理方）造成的名誉损害和相关影响，郑重致以最诚恳的歉意。\n在《大魔术师》短片发布后，本人未经充分核实，在多个知名网站",
+      "title": "因劳动力短缺，丰田将把中国台湾地区产乘用车出口到日本",
+      "link": "https://www.ithome.com/0/954/280.htm",
+      "pubDate": "Sat, 23 May 2026 04:06:06 GMT",
+      "contentSnippet": "IT之家 5 月 23 日消息，据日经亚洲前天报道，丰田汽车日前宣布将在中国台湾地区设立供应日本市场需求的乘用车生产线，自 10 月起将把两款主力小型厢型车反向进口回日本销售。\n\n据报道，丰田汽车做出此番决定的原因是日本本土劳动力短缺，导致工厂增产余裕有限、新车交付周期严重拖延。为了缩短消费者等待时间，并活用海外供应链分散投资风险，公司决定采取“反向进口”策略。\n\n同时，丰田本次反向进口的车型分别为“Noah”和“Voxy”，两款车均为小型多功能厢式车（IT之家注：mini-van），在日本国内年销量高达 7-8 万台。由于日本需求强劲、产能受限，目前消费者需要等待 1 年以上才能提车，先前甚",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -101,16 +50,84 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "导演方文因抄袭指控失实向B站致歉并赔偿18万余元",
-      "credibilityScore": 85,
+      "aiSummary": "丰田因日本劳动力短缺，将台湾产乘用车反向进口至日本销售",
+      "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，内容具体有道歉声明细节，信息可信度高"
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有车型和销量数据，逻辑清晰"
     },
     {
-      "title": "恩捷股份：终止在马来西亚投资建设锂电池隔离膜项目",
-      "link": "https://36kr.com/newsflashes/3820318239478147?f=rss",
-      "pubDate": "2026-05-22 18:28:40  +0800",
-      "contentSnippet": "36氪获悉，恩捷股份公告，公司决定终止在马来西亚新设子公司投资建设锂电池隔离膜项目。因外部市场环境及行业竞争格局较前期发生变化，结合公司实际经营情况与整体战略布局，经公司审慎研判与充分评估，为进一步优化资源配置、降低投资风险，公司决定调整整体投资策略，终止马来西亚项目。",
+      "title": "巴基斯坦航天员已入列中国训练中心，将执行短期飞行任务",
+      "link": "https://www.ithome.com/0/954/255.htm",
+      "pubDate": "Sat, 23 May 2026 01:38:44 GMT",
+      "contentSnippet": "IT之家 5 月 23 日消息，今日上午，神舟二十三号载人飞行任务新闻发布会在酒泉卫星发射中心举行。\n新闻发言人提到，两名巴基斯坦航天员在中国航天员科研训练中心的训练情况，包括整体训练进度、核心训练科目的内容，以及日常训练与在轨协作中对中文能力的要求。\n\n今年 4 月 24 日，在第十一个“中国航天日”当天，两名巴基斯坦航天员正式进入中国航天员科研训练中心，与中国航天员一同参加任务训练。此次来华训练的两名巴基斯坦航天员分别是穆罕默德 · 齐尚 · 阿里和胡拉姆 · 达乌德。IT之家注意到，出发赴华前一日，他们在伊斯兰堡接受了巴基斯坦总理夏巴兹的接见，夏巴兹对两人表示赞赏，认为他们“将在巴基斯坦",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "巴基斯坦两名航天员已入列中国训练中心，将执行短期飞行任务。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，内容具体有细节，逻辑清晰，但缺少原始出处引用。"
+    },
+    {
+      "title": "TanStack 披露一起复杂的 npm 供应链攻击事件， 42 个包遭入侵",
+      "link": "https://www.infoq.cn/article/ePxUGQ7cZvWNWkOhE1vT?utm_source=rss&utm_medium=article",
+      "pubDate": "Fri, 22 May 2026 16:00:00 GMT",
+      "contentSnippet": "点击查看原文>",
+      "sourceName": "InfoQ中文",
+      "sourceWeight": 78,
+      "allSources": [
+        "InfoQ中文"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "TanStack披露npm供应链攻击，42个包被入侵。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "InfoQ中文是知名科技媒体，内容具体有事件细节，逻辑清晰。"
+    },
+    {
+      "title": "Pip 26.1正式发布：上线依赖冷却机制与实验性锁定文件功能，抵御供应链攻击",
+      "link": "https://www.infoq.cn/article/tO2s7Qc7DtKWpXMpMbC1?utm_source=rss&utm_medium=article",
+      "pubDate": "Fri, 22 May 2026 10:40:43 GMT",
+      "contentSnippet": "点击查看原文>",
+      "sourceName": "InfoQ中文",
+      "sourceWeight": 78,
+      "allSources": [
+        "InfoQ中文"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "Pip 26.1发布，新增依赖冷却机制和锁定文件功能以防御供应链攻击。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体InfoQ，内容具体且聚焦技术安全更新，逻辑清晰。"
+    },
+    {
+      "title": "欧洲巨石文化社会存在遗传亲缘关系",
+      "link": "https://www.solidot.org/story?sid=84369",
+      "pubDate": "Fri, 22 May 2026 15:17:05 +0800",
+      "contentSnippet": "新石器时代晚期（约公元前 4500 至公元前 2800 年），巨石遗迹（即大型石质建筑结构）在欧洲各地出现。这些建筑作品既反映了当地的传统，同时也暗示了相隔遥远的人群之间存在着影响深远的社会、文化或祖源联系。根据发表在《科学》期刊上的一项研究，研究人员分析了中欧多个相距遥远的巨石文化遗址个体的基因组数据，发现他们之间存在着深厚且持续的生物学关联，表明当时存在着偶尔的跨越大范围地理区域的人口流动、通婚或文化交流。但中欧巨石文化与位于今天的英国以及北欧的巨石文化人群缺乏密切的基因学纽带关系。这表明巨石传统很可能是通过文化（而非通过生物学网络）传播的。",
+      "sourceName": "Solidot",
+      "sourceWeight": 75,
+      "allSources": [
+        "Solidot"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "欧洲巨石文化社会存在遗传亲缘关系，但非生物学传播。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源可靠，引用《科学》期刊研究，内容具体且逻辑清晰。"
+    },
+    {
+      "title": "美国消费者信心指数跌至历史新低",
+      "link": "https://36kr.com/newsflashes/3821373400797577?f=rss",
+      "pubDate": "2026-05-23 12:59:54  +0800",
+      "contentSnippet": "由于霍尔木兹海峡通航受阻持续推高汽油价格，美国5月消费者信心连续第三个月下滑，刷新这一月度数据的历史低点。美国密歇根大学22日发布的调查数据显示，美国5月消费者信心指数终值为44.8，明显低于4月的49.8和去年同期的52.25。同时，5月当前经济状况指数终值和消费者预期指数终值分别为45.8和44.1，环比及同比均出现下滑。（新华社）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -118,16 +135,50 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "恩捷股份因市场变化终止马来西亚锂电池隔离膜项目。",
+      "aiSummary": "美国5月消费者信心指数跌至44.8，创历史新低。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，信息具体且有公司公告依据，逻辑清晰。"
+      "credibilityReason": "来源36氪转载新华社数据，信息具体且有原始出处，逻辑清晰。"
     },
     {
-      "title": "安克重塑安克｜安克消噪耳机体验",
-      "link": "https://www.ifanr.com/1666783?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pubDate": "Fri, 22 May 2026 10:26:25 +0000",
-      "contentSnippet": "2026 年的旗舰耳机，不能只是耳机\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "title": "中信证券：中国制罐企业有望获得更多全球市场拓展空间，逐步构建全球产能布局",
+      "link": "https://36kr.com/newsflashes/3821373000077704?f=rss",
+      "pubDate": "2026-05-23 12:53:31  +0800",
+      "contentSnippet": "36氪获悉，中信证券研报指出，金属包装凭借坚固抗压、密封防腐、可回收等优势在包装行业中占据重要地位。二片罐行业在经历龙头并购落地及冗余产能海外转移后，行业从内卷竞争红海走向龙头协同、供需格局改善的良性状态，2025年12月成功打响二片罐提价第一枪，有望打开制罐企业盈利上升通道。此外，海外市场拓展方兴未艾，未来伴随波尔战略收缩至优势区域深耕，中国制罐企业有望获得更多全球市场拓展空间，逐步构建全球产能布局。综合梳理两条投资主线：一、国内行业格局改善，龙头企业议价能力提升带动盈利修复；二、海外市场拓展加速，高毛利海外业务贡献增量利润。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中信证券称中国制罐企业有望拓展全球市场并构建产能布局。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体36氪，内容基于中信证券研报，逻辑清晰且有具体数据支撑。"
+    },
+    {
+      "title": "法国新一代 TGV-M 双层高铁列车亮相，最高时速 320km/h",
+      "link": "https://www.ithome.com/0/954/286.htm",
+      "pubDate": "Sat, 23 May 2026 04:45:25 GMT",
+      "contentSnippet": "IT之家 5 月 23 日消息，据外媒 Notebookcheck 今天报道，法国国家铁路公司 SNCF 与阿尔斯通合作制造的新一代 TGV-M 高铁列车已获得运营批准，最高时速可达 320km/h。\n\n▲ 图源：SNCF\n据报道，该车基于阿尔斯通 Avelia Horizon 平台打造，未来将投运于欧洲之星线路。新车将支持 1.5kV 和 25kV 两种供电系统，保证兼容性。\n规格方面，该车采用动力集中式设计，采用 TGV 一脉相承的关节式转向架，两节车厢将共用一个转向架，因此正常运营中无法随意缩编或扩编。不过该车依然保留一定扩展性，可通过双编重联等方式提高载客能力。\n\nIT之家注意到，新车",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "法国新一代TGV-M高铁获准运营，时速320km/h。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有技术细节，但缺少原始出处链接。"
+    },
+    {
+      "title": "10 万元级双电机四驱！吉利银河星耀 7 MAX 要给友商上一课",
+      "link": "https://www.ifanr.com/1666802?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pubDate": "Sat, 23 May 2026 04:33:43 +0000",
+      "contentSnippet": "多给一点冗余，说不定真能让通勤路变得有些不一样。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
       "sourceName": "爱范儿",
       "sourceWeight": 82,
       "allSources": [
@@ -135,84 +186,50 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "爱范儿评测安克2026年旗舰消噪耳机，强调其多功能性。",
+      "aiSummary": "吉利银河星耀7 MAX以10万级双电机四驱挑战市场",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体爱范儿，内容具体但缺少技术细节和原始数据支撑。"
+      "credibilityReason": "爱范儿为知名科技媒体，内容具体但缺乏技术细节和官方数据支撑"
     },
     {
-      "title": "金诚信：拟增加Alacran铜金银矿项目建设投资",
-      "link": "https://36kr.com/newsflashes/3820314606965128?f=rss",
-      "pubDate": "2026-05-22 18:24:58  +0800",
-      "contentSnippet": "36氪获悉，金诚信公告，目前公司持有的Alacran铜金银矿权益已增加至97.5%，故拟根据股权比例变化相应增加项目建设投资1.7867亿美元，累计出资金额约4.0989亿美元。除上述公司出资比例及对应出资金额发生变化外，Alacran铜金银矿项目投资概算、建设计划等均维持不变。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
+      "title": "小米米家冰箱 Pro 508L 自动制冰新品今日开售：十字门 / 法式门 4199/4399 元",
+      "link": "https://www.ithome.com/0/954/285.htm",
+      "pubDate": "Sat, 23 May 2026 04:30:43 GMT",
+      "contentSnippet": "IT之家 5 月 23 日消息，小米官方宣布米家冰箱 Pro 508L 自动制冰两款新品今日开售，十字门 4199 元（叠加国补后 3569.15 元），法式门 4399 元（国补后 3739.15 元），现在购买还送 2 年延保。\n京东米家冰箱 新一代 Pro 十字 508L 自动制冰 BCD-508WSSMPDIN4199 元直达链接\n2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取。\n数码补贴：点此领券\n\n手机 / 平板 / 3C 数码支持 8.5 折政府补贴，不超过 6000 元的产品至高立减 500 元。\n\n家电补贴：点此领券\n\n多类家",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "36氪"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "金诚信因权益增加，拟追加Alacran铜金银矿建设投资1.79亿美元。",
-      "credibilityScore": 75,
+      "aiSummary": "小米米家冰箱Pro 508L自动制冰新品开售，十字门4199元，法式门4399元。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体有数据支撑，但未提供原始公告链接。"
+      "credibilityReason": "来源IT之家为知名科技媒体，信息具体含价格、型号及补贴细节，逻辑清晰。"
     },
     {
-      "title": "江行智能：从感知环境到改变世界：物理AI的机遇、路径与实践| 2026AI Partner·北京亦庄AI+产业大会",
-      "link": "https://36kr.com/p/3820298219425924?f=rss",
-      "pubDate": "2026-05-22 18:23:21  +0800",
-      "contentSnippet": "中国工业物理AI的真正优势不在模型参数，而在全球12倍的工业机器人部署密度、两倍的发电量和密集的5G边缘节点——场景密度、基建底座和开源模型的合力，正在推动物理AI从实验室走向规模化落地。\n江行智能提出工业物理AI的三层模型，这套系统已在新能源场站和电网巡检场景落地——覆盖贵州、内蒙古等多地，核心算法准确率达99%。陈龙特别指出，工业场景下一个看似简单的巡检任务通常需要拆成100到200个子任务，这对AI的稳定性和可靠性提出了远超消费级应用的要求。\n以下为演讲内容，经36氪整理编辑：\n\n陈龙丨江行智能基模CTO\n各位嘉宾、行业伙伴下午好，我是来自江行智能的具身基模CTO陈龙，我的分享题目是从感",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
+      "title": "飞傲雪漫天 OAK NANO 耳机发售：13.8mm 大尺寸动圈单元，2999 元",
+      "link": "https://www.ithome.com/0/954/284.htm",
+      "pubDate": "Sat, 23 May 2026 04:27:58 GMT",
+      "contentSnippet": "IT之家 5 月 23 日消息，飞傲雪漫天 OAK NANO 耳机现已发售，新品主打铍合金球顶振膜、纯钛 CNC 金属腔体，配备 13.8mm 大尺寸动圈单元，售价 2999 元。\n\n\n据介绍，这款耳机延续了 FD7 的声学优势，同样以铍金属作为振膜材料，具备低阻尼、高声速特性，不易产生音染，显著提升高频延伸、瞬态响应和失真控制。外壳采用镜面抛光、CNC、PVD 电镀等多道精密工艺，清晰呈现光泽和棱角。\n\n\n\n规格方面，该耳机采用-192°C 液氮冷冻单晶铜镀银线材，具备 13.8mm 大尺寸外磁式动圈单元，振动失真在 114dB 声压下低至 0.1%。带有 W 形独立悬边设计，可让听感更加密",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "36氪"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "江行智能提出工业物理AI三层模型，已在新能源场站落地，准确率99%。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体有数据支撑，但为演讲整理，缺乏独立验证。"
-    },
-    {
-      "title": "苑东生物：维生素K1注射液获得药品注册证书",
-      "link": "https://36kr.com/newsflashes/3820310770291073?f=rss",
-      "pubDate": "2026-05-22 18:21:04  +0800",
-      "contentSnippet": "36氪获悉，苑东生物公告，公司于近日收到国家药监局核准签发的维生素K1注射液《药品注册证书》。该药品活性成份为维生素K1，用于治疗维生素K缺乏性出血和预防无法通过营养补充的维生素K缺乏症。公司该药品按化学药品3类注册申报，获批后视同通过仿制药一致性评价。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "苑东生物获维生素K1注射液注册证书，视同通过一致性评价。",
+      "aiSummary": "飞傲发布OAK NANO耳机，13.8mm动圈单元，售价2999元。",
       "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体有官方公告支撑，但缺少技术细节。"
+      "credibilityReason": "来自知名科技媒体IT之家，内容具体有技术细节，但缺乏第三方评测或数据验证。"
     },
     {
-      "title": "中老联合打击跨国电诈，494 名犯罪嫌疑人被移交我方",
-      "link": "https://www.ithome.com/0/954/151.htm",
-      "pubDate": "Fri, 22 May 2026 10:19:01 GMT",
-      "contentSnippet": "IT之家 5 月 22 日消息，据央视新闻报道，为依法严厉打击跨国电信网络诈骗等违法犯罪活动，我公安机关与老挝警方持续开展国际警务执法合作。近日，老挝警方将前期专项打击行动中抓获的 494 名涉诈犯罪嫌疑人移交我方。这是两国警方联合打击跨国电信网络诈骗取得的又一重要战果。\n\n\n今年以来，随着柬埔寨不断加大对电信网络诈骗活动的打击清剿力度，部分电诈窝点及涉诈人员转移至老挝境内继续作案。据IT之家了解，按照中老警务合作协定，老挝警方近期开展专项打击行动，抓获涉诈犯罪嫌疑人 494 名，在云南省西双版纳磨憨口岸移交我方。公安部已组织指挥四川、重庆公安机关成功接收上述犯罪嫌疑人，依法开展相关工作。\n公",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中老联合打击跨国电诈，494名嫌犯移交我方。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家，引用央视新闻，信息具体有数据支撑。"
-    },
-    {
-      "title": "重庆燃气：股东拟减持不超1.8%公司股份",
-      "link": "https://36kr.com/newsflashes/3820307799740544?f=rss",
-      "pubDate": "2026-05-22 18:18:03  +0800",
-      "contentSnippet": "36氪获悉，重庆燃气公告，公司股东中国农业银行股份有限公司重庆市分行持有公司7.05%股份，计划通过集中竞价和大宗交易方式减持所持有的公司股份合计不超过2809.86万股，即不超过公司总股本的1.8%。",
+      "title": "供需格局持续重构，铝价后市上行可期",
+      "link": "https://36kr.com/newsflashes/3821223420580228?f=rss",
+      "pubDate": "2026-05-23 12:24:20  +0800",
+      "contentSnippet": "今年以来，内外盘铝市走出显著的分化行情，伦铝、沪铝期货价格同步上行但涨幅差距显著，呈现出外强内弱的特征。近一个月以来，两者价格均在高位区间维持震荡。业内人士表示，中东地缘冲突引发的海外市场供给收缩是本轮铝价上涨的核心驱动力，但海内外库存水平迥异，造成了内外盘价格走势分化。目前来看，全球铝市供给偏紧格局已定，随着国内铝材出口持续回暖、库存逐步进入去化周期，叠加新能源等新兴产业需求稳步增加，内外盘铝价中长期均具备上涨动能。（中证网）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -220,16 +237,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "重庆燃气股东农行重庆分行拟减持不超1.8%股份",
-      "credibilityScore": 85,
+      "aiSummary": "铝价因供给偏紧和需求增加，后市有望上涨。",
+      "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体有数据支撑，引用公司公告"
+      "credibilityReason": "来源36氪为知名科技媒体，内容引用中证网，有数据支撑，逻辑清晰。"
     },
     {
-      "title": "美力科技：拟4000万元—7000万元回购公司股份",
-      "link": "https://36kr.com/newsflashes/3820306405937536?f=rss",
-      "pubDate": "2026-05-22 18:16:38  +0800",
-      "contentSnippet": "36氪获悉，美力科技公告，拟4000万元—7000万元回购公司股份，用于实施员工持股计划或股权激励，回购价格不超过35元/股（含）。",
+      "title": "富途：已回购约1.6亿美元美国存托股份",
+      "link": "https://36kr.com/newsflashes/3821372698661251?f=rss",
+      "pubDate": "2026-05-23 12:21:19  +0800",
+      "contentSnippet": "36氪获悉，富途控股宣布，截至2026年5月23日，公司已回购价值约1.6亿美元的美国存托股份，此次回购系根据公司此前于2025年11月18日公布的股份回购计划进行的。",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -237,27 +254,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "美力科技拟4000-7000万元回购股份用于员工激励",
+      "aiSummary": "富途控股已回购约1.6亿美元美国存托股份。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体有数据支撑，逻辑清晰"
-    },
-    {
-      "title": "影石 Insta360 官宣李现为全球品牌代言人，全新 Luna 云台相机 6 月上市",
-      "link": "https://www.ithome.com/0/954/146.htm",
-      "pubDate": "Fri, 22 May 2026 10:12:39 GMT",
-      "contentSnippet": "IT之家 5 月 22 日消息，近期，影石官宣演员李现出任品牌全球代言人，同步预告 Luna 系列云台相机将于 6 月正式发售，开启新品盲订通道，引发市场关注。\n5 月 21 日，影石 Insta360 官方上线多款产品 618 优惠活动，覆盖全景相机、运动相机、全景无人机、手机云台等全品类热门机型同步让利。\n\n影石官方活动页面显示：\n\n影石王牌产品 X5 全景相机直降 1370 元，到手价 2798 元起；\n\n影翎全景无人机直降 1540 元，到手价 5499 元；\n\nGO Ultra 拇指相机下调 600 元，起售价 2068 元；\n\n新品 Mic Pro 墨水屏无线麦克风套装优惠 300",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "影石官宣李现为全球代言人，Luna云台相机6月上市。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，信息具体有产品细节和价格，但缺少原始出处链接。"
+      "credibilityReason": "来源36氪为知名科技媒体，信息具体且有回购计划日期支撑。"
     }
   ]
 }
