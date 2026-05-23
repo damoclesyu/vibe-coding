@@ -1,9 +1,26 @@
 {
-  "generatedAt": "2026-05-23T05:01:04.598Z",
+  "generatedAt": "2026-05-23T08:34:50.941Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
+    {
+      "title": "李斌：Q2 成本压力加大，蔚来不靠降价换量",
+      "link": "https://www.ithome.com/0/954/378.htm",
+      "pubDate": "Sat, 23 May 2026 08:33:12 GMT",
+      "contentSnippet": "5 月 23 日消息，蔚来举行一季度财报媒体交流会。针对市场关注的二季度毛利率和交付增长，蔚来创始人、董事长、CEO 李斌表示，二季度开始，蔚来面临的成本压力较一季度有所加大，单车成本上涨“大体上一万多块钱”，不同车型情况不同，“高的可能要到一万五”，主要来自内存、碳酸锂、铜、铝等价格上涨。\n李斌称，目前相关压力仍在可控范围内，蔚来将通过销量增长、稳定价格、收回部分权益折扣以及供应链降本等方式应对。他表示，蔚来二季度新车较多，发布和上市费用也会增加，“Q2 压力也是有的”，但行业更大的挑战可能“不是涨价量缩，而是降价量缩”。\n谈及乐道 L80 定价，李斌称，蔚来不会简单通过降价换量。对于外界期",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "蔚来李斌称Q2成本压力加大，单车成本上涨超万元，但不会降价换量。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体IT之家，内容具体有数据支撑，逻辑清晰，引用CEO原话。"
+    },
     {
       "title": "极氪全新一代液冷超充桩上线：单枪峰值电流 800A、峰值功率 800kW",
       "link": "https://www.ithome.com/0/954/283.htm",
@@ -16,10 +33,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "极氪发布新一代液冷超充桩，峰值功率800kW，电流800A。",
-      "credibilityScore": 80,
+      "aiSummary": "极氪发布800A/800kW液冷超充桩，主打高输出、高适配、高节能、高安全。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有数据支撑，但缺乏第三方验证。"
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有技术参数，逻辑清晰，但缺少独立验证。"
     },
     {
       "title": "推广约 9 个月叫停：星巴克北美搁置 AI 库存系统，分不清燕麦奶和牛奶",
@@ -33,10 +50,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "星巴克因AI库存系统误识别，叫停北美推广。",
+      "aiSummary": "星巴克因AI库存系统误识别，停止北美门店使用。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用路透社报道，信息具体有细节。"
+      "credibilityReason": "源自IT之家，引用路透社报道，信息具体且有原始出处。"
     },
     {
       "title": "因劳动力短缺，丰田将把中国台湾地区产乘用车出口到日本",
@@ -50,10 +67,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "丰田因日本劳动力短缺，将台湾产乘用车反向进口至日本销售",
+      "aiSummary": "丰田因日本劳动力短缺，将中国台湾产乘用车反向进口至日本销售。",
       "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有车型和销量数据，逻辑清晰"
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有车型和销量数据，逻辑清晰。"
     },
     {
       "title": "巴基斯坦航天员已入列中国训练中心，将执行短期飞行任务",
@@ -70,7 +87,7 @@
       "aiSummary": "巴基斯坦两名航天员已入列中国训练中心，将执行短期飞行任务。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，内容具体有细节，逻辑清晰，但缺少原始出处引用。"
+      "credibilityReason": "来源为知名科技媒体IT之家，内容具体有细节，引用官方发布会信息。"
     },
     {
       "title": "TanStack 披露一起复杂的 npm 供应链攻击事件， 42 个包遭入侵",
@@ -87,7 +104,7 @@
       "aiSummary": "TanStack披露npm供应链攻击，42个包被入侵。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "InfoQ中文是知名科技媒体，内容具体有事件细节，逻辑清晰。"
+      "credibilityReason": "来自知名科技媒体InfoQ，内容具体，有事件细节和来源引用。"
     },
     {
       "title": "Pip 26.1正式发布：上线依赖冷却机制与实验性锁定文件功能，抵御供应链攻击",
@@ -101,67 +118,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "Pip 26.1发布，新增依赖冷却机制和锁定文件功能以防御供应链攻击。",
+      "aiSummary": "Pip 26.1发布，新增依赖冷却与锁定文件功能防供应链攻击",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体InfoQ，内容具体且聚焦技术安全更新，逻辑清晰。"
+      "credibilityReason": "InfoQ是知名技术媒体，内容具体且涉及安全机制，逻辑清晰"
     },
     {
-      "title": "欧洲巨石文化社会存在遗传亲缘关系",
-      "link": "https://www.solidot.org/story?sid=84369",
-      "pubDate": "Fri, 22 May 2026 15:17:05 +0800",
-      "contentSnippet": "新石器时代晚期（约公元前 4500 至公元前 2800 年），巨石遗迹（即大型石质建筑结构）在欧洲各地出现。这些建筑作品既反映了当地的传统，同时也暗示了相隔遥远的人群之间存在着影响深远的社会、文化或祖源联系。根据发表在《科学》期刊上的一项研究，研究人员分析了中欧多个相距遥远的巨石文化遗址个体的基因组数据，发现他们之间存在着深厚且持续的生物学关联，表明当时存在着偶尔的跨越大范围地理区域的人口流动、通婚或文化交流。但中欧巨石文化与位于今天的英国以及北欧的巨石文化人群缺乏密切的基因学纽带关系。这表明巨石传统很可能是通过文化（而非通过生物学网络）传播的。",
-      "sourceName": "Solidot",
-      "sourceWeight": 75,
-      "allSources": [
-        "Solidot"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "欧洲巨石文化社会存在遗传亲缘关系，但非生物学传播。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源可靠，引用《科学》期刊研究，内容具体且逻辑清晰。"
-    },
-    {
-      "title": "美国消费者信心指数跌至历史新低",
-      "link": "https://36kr.com/newsflashes/3821373400797577?f=rss",
-      "pubDate": "2026-05-23 12:59:54  +0800",
-      "contentSnippet": "由于霍尔木兹海峡通航受阻持续推高汽油价格，美国5月消费者信心连续第三个月下滑，刷新这一月度数据的历史低点。美国密歇根大学22日发布的调查数据显示，美国5月消费者信心指数终值为44.8，明显低于4月的49.8和去年同期的52.25。同时，5月当前经济状况指数终值和消费者预期指数终值分别为45.8和44.1，环比及同比均出现下滑。（新华社）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "美国5月消费者信心指数跌至44.8，创历史新低。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪转载新华社数据，信息具体且有原始出处，逻辑清晰。"
-    },
-    {
-      "title": "中信证券：中国制罐企业有望获得更多全球市场拓展空间，逐步构建全球产能布局",
-      "link": "https://36kr.com/newsflashes/3821373000077704?f=rss",
-      "pubDate": "2026-05-23 12:53:31  +0800",
-      "contentSnippet": "36氪获悉，中信证券研报指出，金属包装凭借坚固抗压、密封防腐、可回收等优势在包装行业中占据重要地位。二片罐行业在经历龙头并购落地及冗余产能海外转移后，行业从内卷竞争红海走向龙头协同、供需格局改善的良性状态，2025年12月成功打响二片罐提价第一枪，有望打开制罐企业盈利上升通道。此外，海外市场拓展方兴未艾，未来伴随波尔战略收缩至优势区域深耕，中国制罐企业有望获得更多全球市场拓展空间，逐步构建全球产能布局。综合梳理两条投资主线：一、国内行业格局改善，龙头企业议价能力提升带动盈利修复；二、海外市场拓展加速，高毛利海外业务贡献增量利润。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中信证券称中国制罐企业有望拓展全球市场并构建产能布局。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，内容基于中信证券研报，逻辑清晰且有具体数据支撑。"
-    },
-    {
-      "title": "法国新一代 TGV-M 双层高铁列车亮相，最高时速 320km/h",
-      "link": "https://www.ithome.com/0/954/286.htm",
-      "pubDate": "Sat, 23 May 2026 04:45:25 GMT",
-      "contentSnippet": "IT之家 5 月 23 日消息，据外媒 Notebookcheck 今天报道，法国国家铁路公司 SNCF 与阿尔斯通合作制造的新一代 TGV-M 高铁列车已获得运营批准，最高时速可达 320km/h。\n\n▲ 图源：SNCF\n据报道，该车基于阿尔斯通 Avelia Horizon 平台打造，未来将投运于欧洲之星线路。新车将支持 1.5kV 和 25kV 两种供电系统，保证兼容性。\n规格方面，该车采用动力集中式设计，采用 TGV 一脉相承的关节式转向架，两节车厢将共用一个转向架，因此正常运营中无法随意缩编或扩编。不过该车依然保留一定扩展性，可通过双编重联等方式提高载客能力。\n\nIT之家注意到，新车",
+      "title": "消息称安卓或复刻苹果打法，Pro 系列和标准版分开上市",
+      "link": "https://www.ithome.com/0/954/377.htm",
+      "pubDate": "Sat, 23 May 2026 08:29:02 GMT",
+      "contentSnippet": "IT之家 5 月 23 日消息，博主 @数码闲聊站 今日爆料，今年 9 月苹果可能会先上 iPhone 18 Pro 系列 + 首款阔折叠，iPhone 18 标准版放到 2027 年上半年，缓解内存和 2nm 芯片压力。\n此外，他还爆料称，最新消息是，安卓阵营可能会复刻这个打法，Pro 系列和标准版分开上。\n\nIT之家注意到，消息源 Sonny Dickson 和 Majin Bu 上个月在 X 平台发布推文，分享了一组图片和一段视频，展示了苹果 iPhone 18 Pro、iPhone 18 Pro Max 及首款折叠 iPhone Fold 的机模。\n在外观设计方面，iPhone 18",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -169,33 +135,118 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "法国新一代TGV-M高铁获准运营，时速320km/h。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有技术细节，但缺少原始出处链接。"
+      "aiSummary": "爆料称安卓或效仿苹果，将Pro与标准版分开上市。",
+      "credibilityScore": 55,
+      "credibilityLevel": "low",
+      "credibilityReason": "来源为博主爆料，缺乏官方证实和具体技术细节。"
     },
     {
-      "title": "10 万元级双电机四驱！吉利银河星耀 7 MAX 要给友商上一课",
-      "link": "https://www.ifanr.com/1666802?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pubDate": "Sat, 23 May 2026 04:33:43 +0000",
-      "contentSnippet": "多给一点冗余，说不定真能让通勤路变得有些不一样。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "sourceName": "爱范儿",
+      "title": "我国第二艘国产大型邮轮“爱达 · 花城号”完成全船振动噪声测试",
+      "link": "https://www.ithome.com/0/954/376.htm",
+      "pubDate": "Sat, 23 May 2026 08:22:42 GMT",
+      "contentSnippet": "IT之家 5 月 23 日消息，自 5 月 16 日起，我国第二艘国产大型邮轮“爱达 · 花城号”持续在东海指定海域开展试航工作。大型邮轮被誉为“海上移动城市”，振动噪声水平直接影响乘客的乘坐体验，也是衡量邮轮建造品质的重要标准之一。据新华社今日报道，目前，“爱达 · 花城号”全船振动噪声测试区域报验已顺利完成。\n按计划，“爱达 · 花城号”将在试航结束后逐步向船东完成项目报告，计划 2026 年 11 月 6 日完成交付，届时将从广州南沙国际邮轮母港开启首航季。\n“爱达 · 花城号”共配备了 5 台大功率发电机，单个发电机输出功率可达 16.8 兆瓦的主机，相当于一艘十万吨级左右货船的主机功",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "我国第二艘国产大型邮轮完成振动噪声测试，计划2026年11月交付。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自IT之家转载新华社报道，信息具体有数据支撑，来源权威。"
+    },
+    {
+      "title": "电影《给阿嬷的情书》总票房破9亿",
+      "link": "https://36kr.com/newsflashes/3821605591732353?f=rss",
+      "pubDate": "2026-05-23 16:18:14  +0800",
+      "contentSnippet": "36氪获悉，据猫眼专业版数据，电影《给阿嬷的情书》上映24天，总票房破9亿。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "电影《给阿嬷的情书》上映24天总票房破9亿",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自36氪，引用猫眼专业版数据，信息具体且来源可靠"
+    },
+    {
+      "title": "Infinity Ward 确认，今年《使命召唤》新作将回归《现代战争》系列",
+      "link": "https://www.ithome.com/0/954/374.htm",
+      "pubDate": "Sat, 23 May 2026 08:17:56 GMT",
+      "contentSnippet": "IT之家 5 月 23 日消息，当地时间 22 日，据外媒 Eurogamer 报道，今年的《使命召唤》新作终于正式确认回归《现代战争》系列。\n动视今年早些时候确认，新作将不再登陆 PlayStation 4 和 Xbox One 平台，而关于“《现代战争》回归”的消息，此前则一直停留在传闻阶段。\n随着夏季游戏发布季临近，Infinity Ward 终于正式承认，工作室确实正在开发全新的《使命召唤：现代战争》。“没错，我们正在打造终极《现代战争》作品。”\n\n随后，Infinity Ward 新任负责人马克 · 格里格斯比与杰克 · 奥哈拉联合发表声明，强调工作室未来方向仍将围绕“沉浸式战斗体验",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "Infinity Ward确认今年《使命召唤》新作回归《现代战争》系列。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，引用外媒Eurogamer报道，信息具体且有官方确认。"
+    },
+    {
+      "title": "神舟二十三号发射在即，我国首个太空人体研究计划将实施",
+      "link": "https://www.ithome.com/0/954/372.htm",
+      "pubDate": "Sat, 23 May 2026 08:09:44 GMT",
+      "contentSnippet": "IT之家 5 月 23 日消息，2026 年 5 月 23 日上午 9 时，神舟二十三号载人飞行任务新闻发布会在酒泉卫星发射中心召开，中国载人航天工程新闻发言人、工程办公室综合计划局局长张静波介绍了本次任务的相关情况。以下为发布会介绍内容。\n有记者提问：\n\n此次任务将有 1 名航天员执行 1 年期驻留试验，这对后续空间站长期运营有哪些支撑作用？哪位航天员将执行此项任务？神舟二十三号任务期间将重点开展哪些科学项目？\n\n\n官方回答：\n\n关于第一个问题。安排 1 名航天员执行 1 年期在轨驻留试验，绝非是时间上将两个半年期任务简单累加。为期 1 年的太空驻留，一是将实施我国首个太空人体研究计划，全面",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "神舟二十三号将实施我国首个太空人体研究计划，航天员驻留1年。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体IT之家，内容具体，引用官方发布会信息，逻辑清晰。"
+    },
+    {
+      "title": "光伏“卖铲人”，如今成了最尴尬的债主！",
+      "link": "https://www.tmtpost.com/7999799.html",
+      "pubDate": "Sat, 23 May 2026 16:08:43 +0800",
+      "contentSnippet": "卖出去两年多的设备被退，还要返还4亿货款。",
+      "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
-        "爱范儿"
+        "钛媒体"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "吉利银河星耀7 MAX以10万级双电机四驱挑战市场",
+      "aiSummary": "光伏设备商因退货需返还4亿货款，处境尴尬。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "爱范儿为知名科技媒体，内容具体但缺乏技术细节和官方数据支撑"
+      "credibilityReason": "来自知名科技媒体钛媒体，内容具体有数据，但缺乏原始出处和细节支撑。"
     },
     {
-      "title": "小米米家冰箱 Pro 508L 自动制冰新品今日开售：十字门 / 法式门 4199/4399 元",
-      "link": "https://www.ithome.com/0/954/285.htm",
-      "pubDate": "Sat, 23 May 2026 04:30:43 GMT",
-      "contentSnippet": "IT之家 5 月 23 日消息，小米官方宣布米家冰箱 Pro 508L 自动制冰两款新品今日开售，十字门 4199 元（叠加国补后 3569.15 元），法式门 4399 元（国补后 3739.15 元），现在购买还送 2 年延保。\n京东米家冰箱 新一代 Pro 十字 508L 自动制冰 BCD-508WSSMPDIN4199 元直达链接\n2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取。\n数码补贴：点此领券\n\n手机 / 平板 / 3C 数码支持 8.5 折政府补贴，不超过 6000 元的产品至高立减 500 元。\n\n家电补贴：点此领券\n\n多类家",
+      "title": "双面尼泊尔",
+      "link": "https://www.tmtpost.com/7999851.html",
+      "pubDate": "Sat, 23 May 2026 16:08:38 +0800",
+      "contentSnippet": "首都混乱，高山有序",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "尼泊尔首都混乱与高山有序的对比报道",
+      "credibilityScore": 60,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名媒体，但内容简略且缺乏技术细节与数据支撑"
+    },
+    {
+      "title": "拳头游戏回应称《无畏契约》不会损坏 PC，五月更新封杀硬件作弊设备",
+      "link": "https://www.ithome.com/0/954/369.htm",
+      "pubDate": "Sat, 23 May 2026 08:07:56 GMT",
+      "contentSnippet": "IT之家 5 月 23 日消息，拳头游戏（Riot Games）回应《无畏契约》游戏更新后“SSD 变砖”的消息，称其反作弊系统 Vanguard 更新不会损坏电脑或硬件，只会让相关作弊设备对《无畏契约》失效。\n官方表示拳头游戏在《无畏契约》2026 年 5 月更新后，强化了先锋反作弊对 IOMMU（输入输出内存管理单元）的调用，部分使用 PCIe DMA（外设互连高速通道直接内存访问）作弊硬件的用户出现 NVMe 或 SATA 固态硬盘“失效”现象。\n部分玩家反馈，在安装《无畏契约》游戏更新之后，其 NVMe 固态硬盘无法使用。对此官方回应表示本次更新主要加强反作弊能力，只限于使用特殊作弊方",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -203,61 +254,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "小米米家冰箱Pro 508L自动制冰新品开售，十字门4199元，法式门4399元。",
+      "aiSummary": "拳头游戏否认《无畏契约》更新损坏SSD，称仅封杀作弊设备。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，信息具体含价格、型号及补贴细节，逻辑清晰。"
-    },
-    {
-      "title": "飞傲雪漫天 OAK NANO 耳机发售：13.8mm 大尺寸动圈单元，2999 元",
-      "link": "https://www.ithome.com/0/954/284.htm",
-      "pubDate": "Sat, 23 May 2026 04:27:58 GMT",
-      "contentSnippet": "IT之家 5 月 23 日消息，飞傲雪漫天 OAK NANO 耳机现已发售，新品主打铍合金球顶振膜、纯钛 CNC 金属腔体，配备 13.8mm 大尺寸动圈单元，售价 2999 元。\n\n\n据介绍，这款耳机延续了 FD7 的声学优势，同样以铍金属作为振膜材料，具备低阻尼、高声速特性，不易产生音染，显著提升高频延伸、瞬态响应和失真控制。外壳采用镜面抛光、CNC、PVD 电镀等多道精密工艺，清晰呈现光泽和棱角。\n\n\n\n规格方面，该耳机采用-192°C 液氮冷冻单晶铜镀银线材，具备 13.8mm 大尺寸外磁式动圈单元，振动失真在 114dB 声压下低至 0.1%。带有 W 形独立悬边设计，可让听感更加密",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "飞傲发布OAK NANO耳机，13.8mm动圈单元，售价2999元。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，内容具体有技术细节，但缺乏第三方评测或数据验证。"
-    },
-    {
-      "title": "供需格局持续重构，铝价后市上行可期",
-      "link": "https://36kr.com/newsflashes/3821223420580228?f=rss",
-      "pubDate": "2026-05-23 12:24:20  +0800",
-      "contentSnippet": "今年以来，内外盘铝市走出显著的分化行情，伦铝、沪铝期货价格同步上行但涨幅差距显著，呈现出外强内弱的特征。近一个月以来，两者价格均在高位区间维持震荡。业内人士表示，中东地缘冲突引发的海外市场供给收缩是本轮铝价上涨的核心驱动力，但海内外库存水平迥异，造成了内外盘价格走势分化。目前来看，全球铝市供给偏紧格局已定，随着国内铝材出口持续回暖、库存逐步进入去化周期，叠加新能源等新兴产业需求稳步增加，内外盘铝价中长期均具备上涨动能。（中证网）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "铝价因供给偏紧和需求增加，后市有望上涨。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容引用中证网，有数据支撑，逻辑清晰。"
-    },
-    {
-      "title": "富途：已回购约1.6亿美元美国存托股份",
-      "link": "https://36kr.com/newsflashes/3821372698661251?f=rss",
-      "pubDate": "2026-05-23 12:21:19  +0800",
-      "contentSnippet": "36氪获悉，富途控股宣布，截至2026年5月23日，公司已回购价值约1.6亿美元的美国存托股份，此次回购系根据公司此前于2025年11月18日公布的股份回购计划进行的。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "富途控股已回购约1.6亿美元美国存托股份。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，信息具体且有回购计划日期支撑。"
+      "credibilityReason": "来自知名科技媒体IT之家，内容具体有官方回应和细节，逻辑清晰。"
     }
   ]
 }
