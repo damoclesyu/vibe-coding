@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-05-23T08:34:50.941Z",
+  "generatedAt": "2026-05-24T09:12:45.031Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "李斌：Q2 成本压力加大，蔚来不靠降价换量",
-      "link": "https://www.ithome.com/0/954/378.htm",
-      "pubDate": "Sat, 23 May 2026 08:33:12 GMT",
-      "contentSnippet": "5 月 23 日消息，蔚来举行一季度财报媒体交流会。针对市场关注的二季度毛利率和交付增长，蔚来创始人、董事长、CEO 李斌表示，二季度开始，蔚来面临的成本压力较一季度有所加大，单车成本上涨“大体上一万多块钱”，不同车型情况不同，“高的可能要到一万五”，主要来自内存、碳酸锂、铜、铝等价格上涨。\n李斌称，目前相关压力仍在可控范围内，蔚来将通过销量增长、稳定价格、收回部分权益折扣以及供应链降本等方式应对。他表示，蔚来二季度新车较多，发布和上市费用也会增加，“Q2 压力也是有的”，但行业更大的挑战可能“不是涨价量缩，而是降价量缩”。\n谈及乐道 L80 定价，李斌称，蔚来不会简单通过降价换量。对于外界期",
+      "title": "东风奕派 M8 将登陆 5 月 29 日粤港澳大湾区车展，搭载华为乾崑技术",
+      "link": "https://www.ithome.com/0/954/573.htm",
+      "pubDate": "Sun, 24 May 2026 08:07:08 GMT",
+      "contentSnippet": "IT之家 5 月 24 日消息，5 月 23 日，东风奕派 M8 全球首秀活动在武汉举行，搭载华为乾崑技术。据官方最新透露，5 月 29 日，东风奕派 M8 将登陆粤港澳大湾区车展，更多智能化功能细节将进一步揭晓。\n\n\nIT之家从官方介绍获悉，该车拥有 5 米车长、超 3 米轴距，加之同级最大的 60.3% 轴长比，还有同级唯一双头等舱座椅、双视界大屏、双门双向智能冷暖箱、同级最大 50 英寸 AR-HUD 实景领航等舒适配置。\n\n奕派 M8 搭载同级唯一纯电、增程双动力。其中，纯电版搭载黄金 800V 高压平台与 4C 快充架构，电机峰值功率 230kW，CLTC 续航达 600 km。增程",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,152 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "蔚来李斌称Q2成本压力加大，单车成本上涨超万元，但不会降价换量。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，内容具体有数据支撑，逻辑清晰，引用CEO原话。"
-    },
-    {
-      "title": "极氪全新一代液冷超充桩上线：单枪峰值电流 800A、峰值功率 800kW",
-      "link": "https://www.ithome.com/0/954/283.htm",
-      "pubDate": "Sat, 23 May 2026 04:22:58 GMT",
-      "contentSnippet": "IT之家 5 月 23 日消息，极氪汽车昨日宣布，新一代液冷超级充电桩全新上线。\n\n如图所示，极氪新一代液冷超级充电桩具备极速、节能、适配、安全四大卖点，IT之家整理如下：\n\n高输出：单枪峰值电流 800A、峰值功率 800kW；\n\n高适配：深度适配多品牌新能源车型；\n\n高节能：能耗较传统方案降低 20% 以上；\n\n高安全：具备多层级主动防护机制，搭载 AI 故障预测与隔离保护技术，实现毫秒级异常响应。\n\n\n今年 2 月，极氪、领克正式整合为极氪科技集团。今年 4 月 7 日发布的领克 10 搭载极氪体系的 900V 神盾金砖电池，在极氪 V4 兆瓦桩上实测 SOC 10%-70% 仅 4 分",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "极氪发布800A/800kW液冷超充桩，主打高输出、高适配、高节能、高安全。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有技术参数，逻辑清晰，但缺少独立验证。"
-    },
-    {
-      "title": "推广约 9 个月叫停：星巴克北美搁置 AI 库存系统，分不清燕麦奶和牛奶",
-      "link": "https://www.ithome.com/0/954/281.htm",
-      "pubDate": "Sat, 23 May 2026 04:07:39 GMT",
-      "contentSnippet": "IT之家 5 月 23 日消息，路透社昨日（5 月 22 日）发布博文，报道称星巴克已停止在北美门店使用 AI 库存工具，上线部署约 9 个月时间。\n\nIT之家援引博文介绍，星巴克首席执行官 Brian Niccol 推进其整改计划，于 2025 年 9 月开始在北美推广 AI 库存工具，依靠平板摄像头和 LiDAR（激光雷达）自动清点糖浆、牛奶等物料。\n在星巴克最初的设想中，该工具应当比人工盘点更快、更准，从而更智能地优化供应链。但实际使用中，系统稳定性没有达到预期。\n报道指出该 AI 工具经常误计数、误标记，尤其难以区分外观相近的商品（例如燕麦奶和牛奶），有时甚至完全漏掉某些物品。\n星巴克",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "星巴克因AI库存系统误识别，停止北美门店使用。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "源自IT之家，引用路透社报道，信息具体且有原始出处。"
-    },
-    {
-      "title": "因劳动力短缺，丰田将把中国台湾地区产乘用车出口到日本",
-      "link": "https://www.ithome.com/0/954/280.htm",
-      "pubDate": "Sat, 23 May 2026 04:06:06 GMT",
-      "contentSnippet": "IT之家 5 月 23 日消息，据日经亚洲前天报道，丰田汽车日前宣布将在中国台湾地区设立供应日本市场需求的乘用车生产线，自 10 月起将把两款主力小型厢型车反向进口回日本销售。\n\n据报道，丰田汽车做出此番决定的原因是日本本土劳动力短缺，导致工厂增产余裕有限、新车交付周期严重拖延。为了缩短消费者等待时间，并活用海外供应链分散投资风险，公司决定采取“反向进口”策略。\n\n同时，丰田本次反向进口的车型分别为“Noah”和“Voxy”，两款车均为小型多功能厢式车（IT之家注：mini-van），在日本国内年销量高达 7-8 万台。由于日本需求强劲、产能受限，目前消费者需要等待 1 年以上才能提车，先前甚",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "丰田因日本劳动力短缺，将中国台湾产乘用车反向进口至日本销售。",
+      "aiSummary": "东风奕派M8将亮相粤港澳车展，搭载华为乾崑技术。",
       "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有车型和销量数据，逻辑清晰。"
+      "credibilityReason": "来源为知名科技媒体IT之家，信息具体有数据支撑，但缺少原始官方链接。"
     },
     {
-      "title": "巴基斯坦航天员已入列中国训练中心，将执行短期飞行任务",
-      "link": "https://www.ithome.com/0/954/255.htm",
-      "pubDate": "Sat, 23 May 2026 01:38:44 GMT",
-      "contentSnippet": "IT之家 5 月 23 日消息，今日上午，神舟二十三号载人飞行任务新闻发布会在酒泉卫星发射中心举行。\n新闻发言人提到，两名巴基斯坦航天员在中国航天员科研训练中心的训练情况，包括整体训练进度、核心训练科目的内容，以及日常训练与在轨协作中对中文能力的要求。\n\n今年 4 月 24 日，在第十一个“中国航天日”当天，两名巴基斯坦航天员正式进入中国航天员科研训练中心，与中国航天员一同参加任务训练。此次来华训练的两名巴基斯坦航天员分别是穆罕默德 · 齐尚 · 阿里和胡拉姆 · 达乌德。IT之家注意到，出发赴华前一日，他们在伊斯兰堡接受了巴基斯坦总理夏巴兹的接见，夏巴兹对两人表示赞赏，认为他们“将在巴基斯坦",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "巴基斯坦两名航天员已入列中国训练中心，将执行短期飞行任务。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，内容具体有细节，引用官方发布会信息。"
-    },
-    {
-      "title": "TanStack 披露一起复杂的 npm 供应链攻击事件， 42 个包遭入侵",
-      "link": "https://www.infoq.cn/article/ePxUGQ7cZvWNWkOhE1vT?utm_source=rss&utm_medium=article",
-      "pubDate": "Fri, 22 May 2026 16:00:00 GMT",
-      "contentSnippet": "点击查看原文>",
-      "sourceName": "InfoQ中文",
-      "sourceWeight": 78,
-      "allSources": [
-        "InfoQ中文"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "TanStack披露npm供应链攻击，42个包被入侵。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体InfoQ，内容具体，有事件细节和来源引用。"
-    },
-    {
-      "title": "Pip 26.1正式发布：上线依赖冷却机制与实验性锁定文件功能，抵御供应链攻击",
-      "link": "https://www.infoq.cn/article/tO2s7Qc7DtKWpXMpMbC1?utm_source=rss&utm_medium=article",
-      "pubDate": "Fri, 22 May 2026 10:40:43 GMT",
-      "contentSnippet": "点击查看原文>",
-      "sourceName": "InfoQ中文",
-      "sourceWeight": 78,
-      "allSources": [
-        "InfoQ中文"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "Pip 26.1发布，新增依赖冷却与锁定文件功能防供应链攻击",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "InfoQ是知名技术媒体，内容具体且涉及安全机制，逻辑清晰"
-    },
-    {
-      "title": "消息称安卓或复刻苹果打法，Pro 系列和标准版分开上市",
-      "link": "https://www.ithome.com/0/954/377.htm",
-      "pubDate": "Sat, 23 May 2026 08:29:02 GMT",
-      "contentSnippet": "IT之家 5 月 23 日消息，博主 @数码闲聊站 今日爆料，今年 9 月苹果可能会先上 iPhone 18 Pro 系列 + 首款阔折叠，iPhone 18 标准版放到 2027 年上半年，缓解内存和 2nm 芯片压力。\n此外，他还爆料称，最新消息是，安卓阵营可能会复刻这个打法，Pro 系列和标准版分开上。\n\nIT之家注意到，消息源 Sonny Dickson 和 Majin Bu 上个月在 X 平台发布推文，分享了一组图片和一段视频，展示了苹果 iPhone 18 Pro、iPhone 18 Pro Max 及首款折叠 iPhone Fold 的机模。\n在外观设计方面，iPhone 18",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "爆料称安卓或效仿苹果，将Pro与标准版分开上市。",
-      "credibilityScore": 55,
-      "credibilityLevel": "low",
-      "credibilityReason": "来源为博主爆料，缺乏官方证实和具体技术细节。"
-    },
-    {
-      "title": "我国第二艘国产大型邮轮“爱达 · 花城号”完成全船振动噪声测试",
-      "link": "https://www.ithome.com/0/954/376.htm",
-      "pubDate": "Sat, 23 May 2026 08:22:42 GMT",
-      "contentSnippet": "IT之家 5 月 23 日消息，自 5 月 16 日起，我国第二艘国产大型邮轮“爱达 · 花城号”持续在东海指定海域开展试航工作。大型邮轮被誉为“海上移动城市”，振动噪声水平直接影响乘客的乘坐体验，也是衡量邮轮建造品质的重要标准之一。据新华社今日报道，目前，“爱达 · 花城号”全船振动噪声测试区域报验已顺利完成。\n按计划，“爱达 · 花城号”将在试航结束后逐步向船东完成项目报告，计划 2026 年 11 月 6 日完成交付，届时将从广州南沙国际邮轮母港开启首航季。\n“爱达 · 花城号”共配备了 5 台大功率发电机，单个发电机输出功率可达 16.8 兆瓦的主机，相当于一艘十万吨级左右货船的主机功",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "我国第二艘国产大型邮轮完成振动噪声测试，计划2026年11月交付。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自IT之家转载新华社报道，信息具体有数据支撑，来源权威。"
-    },
-    {
-      "title": "电影《给阿嬷的情书》总票房破9亿",
-      "link": "https://36kr.com/newsflashes/3821605591732353?f=rss",
-      "pubDate": "2026-05-23 16:18:14  +0800",
-      "contentSnippet": "36氪获悉，据猫眼专业版数据，电影《给阿嬷的情书》上映24天，总票房破9亿。",
+      "title": "巴基斯坦总理夏巴兹在杭州出席中巴企业投资大会",
+      "link": "https://36kr.com/newsflashes/3822858041512326?f=rss",
+      "pubDate": "2026-05-24 15:45:11  +0800",
+      "contentSnippet": "今天（24日）上午，来华访问的巴基斯坦总理夏巴兹在杭州出席第三届中巴信息技术与电信、电池储能系统及农业B2B投资大会。昨天刚刚抵达杭州的巴基斯坦总理夏巴兹，今早8:30就到了投资大会的现场。他在现场见证了双方经贸领域的多项签约。同时还特别向两国企业进行了致辞，他在致辞当中明确表示，从此前的几次访华到本次的杭州会议，双方签署了大额的谅解备忘录。如今，这些备忘录需要落地为正式协议。他也希望能够进一步加强农业等四个方向的进一步合作。今天下午，他还将前往中国的互联网企业进行参观。",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -169,84 +33,50 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "电影《给阿嬷的情书》上映24天总票房破9亿",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自36氪，引用猫眼专业版数据，信息具体且来源可靠"
-    },
-    {
-      "title": "Infinity Ward 确认，今年《使命召唤》新作将回归《现代战争》系列",
-      "link": "https://www.ithome.com/0/954/374.htm",
-      "pubDate": "Sat, 23 May 2026 08:17:56 GMT",
-      "contentSnippet": "IT之家 5 月 23 日消息，当地时间 22 日，据外媒 Eurogamer 报道，今年的《使命召唤》新作终于正式确认回归《现代战争》系列。\n动视今年早些时候确认，新作将不再登陆 PlayStation 4 和 Xbox One 平台，而关于“《现代战争》回归”的消息，此前则一直停留在传闻阶段。\n随着夏季游戏发布季临近，Infinity Ward 终于正式承认，工作室确实正在开发全新的《使命召唤：现代战争》。“没错，我们正在打造终极《现代战争》作品。”\n\n随后，Infinity Ward 新任负责人马克 · 格里格斯比与杰克 · 奥哈拉联合发表声明，强调工作室未来方向仍将围绕“沉浸式战斗体验",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "Infinity Ward确认今年《使命召唤》新作回归《现代战争》系列。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，引用外媒Eurogamer报道，信息具体且有官方确认。"
-    },
-    {
-      "title": "神舟二十三号发射在即，我国首个太空人体研究计划将实施",
-      "link": "https://www.ithome.com/0/954/372.htm",
-      "pubDate": "Sat, 23 May 2026 08:09:44 GMT",
-      "contentSnippet": "IT之家 5 月 23 日消息，2026 年 5 月 23 日上午 9 时，神舟二十三号载人飞行任务新闻发布会在酒泉卫星发射中心召开，中国载人航天工程新闻发言人、工程办公室综合计划局局长张静波介绍了本次任务的相关情况。以下为发布会介绍内容。\n有记者提问：\n\n此次任务将有 1 名航天员执行 1 年期驻留试验，这对后续空间站长期运营有哪些支撑作用？哪位航天员将执行此项任务？神舟二十三号任务期间将重点开展哪些科学项目？\n\n\n官方回答：\n\n关于第一个问题。安排 1 名航天员执行 1 年期在轨驻留试验，绝非是时间上将两个半年期任务简单累加。为期 1 年的太空驻留，一是将实施我国首个太空人体研究计划，全面",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "神舟二十三号将实施我国首个太空人体研究计划，航天员驻留1年。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，内容具体，引用官方发布会信息，逻辑清晰。"
-    },
-    {
-      "title": "光伏“卖铲人”，如今成了最尴尬的债主！",
-      "link": "https://www.tmtpost.com/7999799.html",
-      "pubDate": "Sat, 23 May 2026 16:08:43 +0800",
-      "contentSnippet": "卖出去两年多的设备被退，还要返还4亿货款。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "光伏设备商因退货需返还4亿货款，处境尴尬。",
+      "aiSummary": "巴基斯坦总理夏巴兹在杭州出席中巴企业投资大会，见证多项签约。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体钛媒体，内容具体有数据，但缺乏原始出处和细节支撑。"
+      "credibilityReason": "来源为知名科技媒体36氪，内容具体且有时效性，但缺乏技术细节和原始出处。"
     },
     {
-      "title": "双面尼泊尔",
-      "link": "https://www.tmtpost.com/7999851.html",
-      "pubDate": "Sat, 23 May 2026 16:08:38 +0800",
-      "contentSnippet": "首都混乱，高山有序",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "商务部部长王文涛会见联合国贸发会议代理秘书长马雷诺",
+      "link": "https://36kr.com/newsflashes/3822857554088066?f=rss",
+      "pubDate": "2026-05-24 15:30:40  +0800",
+      "contentSnippet": "5月23日，商务部部长王文涛在苏州会见来华参加亚太经合组织（APEC）贸易部长会议的联合国贸发会议代理秘书长马雷诺，双方就全球经贸形势、深化务实合作等交换意见。王文涛强调，“十五五”规划纲要擘画了中国未来发展的宏伟蓝图，对扩大高水平对外开放、维护多边贸易体制、践行真正的多边主义作出了重要部署。中方愿与包括贸发会议在内的各方一道，共同推动构建和维护公平公正、开放包容、合作共赢的国际经贸秩序。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
       "allSources": [
-        "钛媒体"
+        "36氪"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "尼泊尔首都混乱与高山有序的对比报道",
-      "credibilityScore": 60,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名媒体，但内容简略且缺乏技术细节与数据支撑"
+      "aiSummary": "王文涛会见联合国贸发会议代理秘书长，讨论全球经贸合作。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪为知名科技媒体，内容具体、逻辑清晰，涉及官方会见和经贸议题。"
     },
     {
-      "title": "拳头游戏回应称《无畏契约》不会损坏 PC，五月更新封杀硬件作弊设备",
-      "link": "https://www.ithome.com/0/954/369.htm",
-      "pubDate": "Sat, 23 May 2026 08:07:56 GMT",
-      "contentSnippet": "IT之家 5 月 23 日消息，拳头游戏（Riot Games）回应《无畏契约》游戏更新后“SSD 变砖”的消息，称其反作弊系统 Vanguard 更新不会损坏电脑或硬件，只会让相关作弊设备对《无畏契约》失效。\n官方表示拳头游戏在《无畏契约》2026 年 5 月更新后，强化了先锋反作弊对 IOMMU（输入输出内存管理单元）的调用，部分使用 PCIe DMA（外设互连高速通道直接内存访问）作弊硬件的用户出现 NVMe 或 SATA 固态硬盘“失效”现象。\n部分玩家反馈，在安装《无畏契约》游戏更新之后，其 NVMe 固态硬盘无法使用。对此官方回应表示本次更新主要加强反作弊能力，只限于使用特殊作弊方",
+      "title": "第79届世界卫生大会达成系列共识",
+      "link": "https://36kr.com/newsflashes/3822776525361280?f=rss",
+      "pubDate": "2026-05-24 13:15:16  +0800",
+      "contentSnippet": "第79届世界卫生大会23日在瑞士日内瓦落下帷幕。成员国在为期6天的会议中达成系列共识，通过了20多项决定和13项决议，涉及中风、肝病、结核病、辐射等健康议题。大会主席、多米尼加卫生部长维克托·阿塔拉·拉贾姆在闭幕总结中说，大会聚焦保护人类健康这一核心使命，就突发公共卫生事件应对、微生物耐药性、人体器官移植等达成一系列共识，将产生广泛影响。大会还讨论了多项行政议题，包括同意通过由成员国主导、世卫组织主持的联合进程，对全球卫生架构进行改革。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "第79届世卫大会达成系列健康共识，通过多项决定和决议。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体36氪，内容具体且引用官方信息，但缺乏原始出处链接。"
+    },
+    {
+      "title": "国内单体最大智能组串式储能电站落地内蒙古包头，搭载 1944 台华为智能组串式构网 PCS",
+      "link": "https://www.ithome.com/0/954/522.htm",
+      "pubDate": "Sun, 24 May 2026 04:54:17 GMT",
+      "contentSnippet": "IT之家 5 月 24 日消息，综合华为中国数字能源业务和包头发布消息，在 2026 储能高质量发展峰会上，由海博思创携手华为数字能源打造的国内单体容量最大智能组串式储能电站 —— 220kV 博汉星光储能电站正式发布。\n\n据介绍，220kV 博汉星光储能电站容量为 400 兆瓦 / 2400 兆瓦时，由海博思创建设，搭载华为智能组串式构网 PCS 与海博思创单舱 7 兆瓦时大容量储能系统。项目于 2025 年 12 月底并网，目前稳定运行。值得一提的是，该项目还利用废旧矿坑实现了生态修复。\nIT之家了解到，包头是国家重要的风电光伏基地，全年有效风光利用小时数超过 3000 小时，新能源装机占",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -254,10 +84,180 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "拳头游戏否认《无畏契约》更新损坏SSD，称仅封杀作弊设备。",
+      "aiSummary": "国内最大智能组串式储能电站在内蒙古包头落地，搭载华为PCS。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，内容具体有官方回应和细节，逻辑清晰。"
+      "credibilityReason": "来源为知名科技媒体IT之家，信息具体有数据支撑，引用官方消息。"
+    },
+    {
+      "title": "对话VITURE姜公略：什么才是XR眼镜该有的样子？",
+      "link": "https://36kr.com/p/3823013049045380?f=rss",
+      "pubDate": "2026-05-24 17:09:30  +0800",
+      "contentSnippet": "过去十年，XR（扩展现实）赛道始终陷在一种怪异的叙事里——\n在从业者高呼着“下一代计算平台”的宏大愿景时，资本市场也曾在元宇宙的热潮中疯狂押注，而一旦落地到消费端，这个行业却始终未能摆脱极客玩具的宿命。\n从Google Glass的黯然退场，再到一众VR/AR厂商的折戟，XR行业在跌宕中，迎来了前所未有的冷静时刻。\n行业的艰辛在于，尽管所有人都清楚技术终局，但抵达终局的路径却布满荆棘。在种种“不可能三角”中，行业在缺乏共识中蜿蜒前进。\n在略显沉闷的行业氛围中，XR厂商VITURE近日发布了一款全新产品——VITURE Beast。作为一个此前主攻海外游戏市场、鲜少发声的“隐形冠军”，VITUR",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "VITURE创始人谈XR眼镜困境与新品Beast，行业需突破极客玩具宿命。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪为知名科技媒体，内容有具体产品与行业分析，但缺乏数据支撑和原始出处。"
+    },
+    {
+      "title": "联想推出 ThinkPad E14/E16 轻薄本：可选 U9 185H、U7 356H 版本，7999 元起",
+      "link": "https://www.ithome.com/0/954/583.htm",
+      "pubDate": "Sun, 24 May 2026 09:00:55 GMT",
+      "contentSnippet": "IT之家 5 月 24 日消息，联想 ThinkPad E14 及 E16 2026 新机现已上架并开启预约，将于 5 月 27 日开售。IT之家汇总如下：\nThinkPad E14\n\nUltra 9 185H + 32GB + 1TB 版本 7999 元\n\nUltra 5 336H + 32GB + 1TB 版本 9499 元\n\nUltra 7 356H + 32GB + 1TB 版本 11999 元\n\nThinkPad E16\n\nUltra 9 185H + 32GB + 1TB 版本 8999 元\n\n京东 ThinkPad 联想 E14 笔记本电脑 AI PC 商务办公学生轻薄本 酷睿",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "联想发布ThinkPad E14/E16轻薄本，配置U9/U7/U5处理器，7999元起",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体IT之家，信息具体含型号价格，但缺少技术细节和原始出处"
+    },
+    {
+      "title": "华为余承东：问界 M9 率先搭载全新一代的鸿蒙座舱，灯随人动、手势即达",
+      "link": "https://www.ithome.com/0/954/582.htm",
+      "pubDate": "Sun, 24 May 2026 08:53:43 GMT",
+      "contentSnippet": "IT之家 5 月 24 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日发文称：“全新一代的鸿蒙座舱也来了！问界 M9 上率先搭载，灯随人动、手势即达、毫秒级智能调光，还有全新小艺智能体，更多豪华体验，5 月 27 日为大家揭晓”。\n据官方预热，全新问界 M9 系列支持全主动追光感知，全车 10 颗智能追光灯；全主动手势感知，一指即控；一挥开启全黑空间，隐私防护时刻保障；还有全新星寰岛与 HUAWEI SOUND Ultimate 非凡系列音响。\n\n\nIT之家注意到，问界官方 5 月 23 日宣布，鸿蒙智行问界 M9 系列新品发布会从 5 月 27 日 19:00 提",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "华为余承东宣布问界M9将首发全新鸿蒙座舱，支持手势控制和智能调光。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，信息具体且有官方预热细节，但缺少技术验证和第三方评价。"
+    },
+    {
+      "title": "企业强推 AI 提效遇反效果：AI 成本已超人力",
+      "link": "https://www.ithome.com/0/954/581.htm",
+      "pubDate": "Sun, 24 May 2026 08:40:33 GMT",
+      "contentSnippet": "IT之家 5 月 24 日消息，众多科技企业督促员工使用人工智能工具提升工作效率，但这项举措已然开始产生反效果。据 The Verge 报道，微软要求员工改用自家的 Copilot CLI，而非 Claude Code 工具，原因是企业倾向采用内部自研工具，而非第三方产品。不过有消息人士透露，核心缘由是随着使用者增多，Claude Code 的使用成本持续攀升。\n\n据 Tom's Hardware 报道，不止微软一家企业出现这类情况。据财富杂志报道，其他企业也在缩减人工智能工具的使用规模。虽说人工智能模型的训练成本不断下降，调用算力词元（token）的费用随之走低，但员工日常工作中的词元消耗量",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "企业推广AI提效反致成本超人力，微软等公司缩减使用规模。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，引用The Verge等权威媒体，信息具体有数据支撑，逻辑清晰。"
+    },
+    {
+      "title": "11 月首航，我国第二艘国产大邮轮爱达 · 花城号完成航速测试等四项关键试验",
+      "link": "https://www.ithome.com/0/954/578.htm",
+      "pubDate": "Sun, 24 May 2026 08:21:50 GMT",
+      "contentSnippet": "IT之家 5 月 24 日消息，据“SWS 外高桥造船”公众号，5 月 20 日晚上至 22 日上午，正在东海海域开展试航的第二艘国产大型邮轮“爱达 · 花城号”（H1509 船）顺利完成航速测试、全船振动噪声测试、耐久试验以及无人机舱试验四项关键验证工作。上述四项试验在技术逻辑与工程实施上高度关联，共同构成邮轮航行系统综合性能评价的核心环节，并直接关系到邮轮后续运营效能与乘客体验。\n\n据介绍，航速测试是验证邮轮航行能力和环保合规水平的核心环节。面对试验涉及多个功率级别、多次往返航行以及对航线控制精度要求极高等挑战，项目团队充分总结首制船经验，针对 H509 船加长 17.4 米、船舶线型及螺",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "第二艘国产大邮轮完成四项关键试验，计划11月首航。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，信息具体且有官方公众号引用，逻辑清晰。"
+    },
+    {
+      "title": "《刺客信条：黑旗》重制版新增过场动画被批劣质，赶不上原版水平",
+      "link": "https://www.ithome.com/0/954/577.htm",
+      "pubDate": "Sun, 24 May 2026 08:16:23 GMT",
+      "contentSnippet": "IT之家 5 月 24 日消息，育碧在《刺客信条：黑旗》重制版的制作上可谓处处用心。游戏画面迎来精美翻新，战斗机制也经过细微优化，整体体验几乎全面升级。\n\n即便如此，这款重制版依旧遭到玩家诟病。不久前，育碧移除袖剑格斗玩法就引发热议；最新实机演示放出后，部分过场动画的画质表现也遭到大批玩家公开批评。\nIT之家注意到，受动作捕捉技术运用不足影响，育碧近年新作的过场动画质感远不及系列旧作，这一问题在旗下近期推出的角色扮演类刺客信条作品中尤为明显。\n玩家尤其不满新增的露西 · 鲍德温相关剧情线，这段内容是《刺客信条 4：黑旗》原版剧情中没有的全新桥段。\n由于原版并无这段故事，其过场动画沿用了系列新款",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "《刺客信条：黑旗》重制版过场动画被批劣质，玩家不满新增内容。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体且有玩家反馈支撑，但缺少官方回应和原始数据。"
+    },
+    {
+      "title": "大金重工：与荷兰船东签署约10.69亿元船舶建造合同",
+      "link": "https://36kr.com/newsflashes/3823019238838408?f=rss",
+      "pubDate": "2026-05-24 16:16:16  +0800",
+      "contentSnippet": "大金重工5月24日公告，公司下属子公司唐山大金海工海洋工程有限公司，与荷兰知名船东Jumbo下属子公司正式签署新一代绿色智能多用途重吊船建造合同。本合同总金额约1.56亿美元，折合人民币约10.69亿元，两艘船舶计划于2028年、2029年分批次完工交付。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "大金重工与荷兰船东签署10.69亿元船舶建造合同",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪为知名科技媒体，内容具体有金额和交付时间，逻辑清晰"
+    },
+    {
+      "title": "机械革命耀世 16 Ultra 新增酷睿 Ultra 7 251HX 配置：RTX 5060，9999 元",
+      "link": "https://www.ithome.com/0/954/575.htm",
+      "pubDate": "Sun, 24 May 2026 08:12:30 GMT",
+      "contentSnippet": "IT之家 5 月 24 日消息，英特尔今年第一季度悄悄推出了全新酷睿 Ultra 7 251HX 处理器，此前似乎仅有 10499 元的联想拯救者 Y7000X 游戏本搭载。\n不过机械革命也新推出了一款搭载酷睿 Ultra 7 251HX 的耀世 16 Ultra 游戏本，采用 16GB DDR5 5600 内存、1TB 硬盘，且各预留一个拓展位，但不支持水冷。新机已于 5 月 22 日开售，首发价 9999 元，叠加国补后 8499.15 元。\n京东机械革命耀世 16 Ultra 16 英寸 游戏笔记本电脑（英特尔酷睿 U7-251HX 16G 1T RTX5060 灰）券后 9999 元领",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "机械革命耀世16 Ultra新增酷睿Ultra 7 251HX配置，售价9999元",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体IT之家，内容具体有配置和价格信息，但缺少处理器性能数据"
+    },
+    {
+      "title": "别只盯着《GTA 6》，R 星母公司 Take-Two 一半营收来自手游",
+      "link": "https://www.ithome.com/0/954/574.htm",
+      "pubDate": "Sun, 24 May 2026 08:08:00 GMT",
+      "contentSnippet": "IT之家 5 月 24 日消息，在当下竞争纷乱的游戏行业中，Take-Two 是业绩表现顶尖的集团企业。截至 2029 财年末，公司计划推出至少 29 款新作，涵盖全新核心系列与经典续作。依托《GTA 6》预计带来的市场佳绩，企业还计划收购多家游戏工作室。\n\n该集团在电脑与主机游戏领域稳居龙头，但其在手游市场同样具备强劲竞争力，这点却容易被忽视。Take-Two 2026 财年投资者报告显示，手游业务营收占总收入的五成，剩余营收则来自主机与电脑游戏板块。\n凭借《Toon Blast》《Words with Friends》等多款生命周期长久、吸金能力强劲的知名游戏 IP，Take-Two 在手",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "Take-Two手游营收占半，计划推出29款新作并收购工作室。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家较知名，内容具体有数据支撑，但缺乏原始报告链接。"
+    },
+    {
+      "title": "东北超首轮比赛10万人次涌入",
+      "link": "https://36kr.com/newsflashes/3822858473755013?f=rss",
+      "pubDate": "2026-05-24 16:00:36  +0800",
+      "contentSnippet": "5月23日，2026年东北地区城市足球联赛“东北超”在辽宁、吉林、黑龙江、内蒙古同步打响揭幕战。不同于职业赛事，东北超参赛队员涵盖了学生、产业工人、个体商户等来自社会各行各业的足球爱好者。正是因为这样平民草根的属性，在沈阳铁西体育场现场观赛的人数就达到4万人次以上。加上同步开赛的另外3个赛区，首轮比赛的观赛总体人数超过10万人次。为了迎接万千球迷，沈阳把不到20元的球票变成了一张“全能通行证”——目前已成功招募意向合作商户2000多家，串联起餐饮、住宿、文旅、商超、洗浴等九大生活场景。另外，吉林、黑龙江、内蒙古也推出了持票根的减免优惠政策。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "东北超首轮比赛吸引超10万人次观赛，草根足球带动区域消费",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪为知名科技媒体，内容具体有数据支撑，但缺乏原始出处和专家评论"
     }
   ]
 }
