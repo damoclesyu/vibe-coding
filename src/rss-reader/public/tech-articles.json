@@ -1,14 +1,32 @@
 {
-  "generatedAt": "2026-05-24T09:12:45.031Z",
+  "generatedAt": "2026-05-25T06:28:03.034Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "东风奕派 M8 将登陆 5 月 29 日粤港澳大湾区车展，搭载华为乾崑技术",
-      "link": "https://www.ithome.com/0/954/573.htm",
-      "pubDate": "Sun, 24 May 2026 08:07:08 GMT",
-      "contentSnippet": "IT之家 5 月 24 日消息，5 月 23 日，东风奕派 M8 全球首秀活动在武汉举行，搭载华为乾崑技术。据官方最新透露，5 月 29 日，东风奕派 M8 将登陆粤港澳大湾区车展，更多智能化功能细节将进一步揭晓。\n\n\nIT之家从官方介绍获悉，该车拥有 5 米车长、超 3 米轴距，加之同级最大的 60.3% 轴长比，还有同级唯一双头等舱座椅、双视界大屏、双门双向智能冷暖箱、同级最大 50 英寸 AR-HUD 实景领航等舒适配置。\n\n奕派 M8 搭载同级唯一纯电、增程双动力。其中，纯电版搭载黄金 800V 高压平台与 4C 快充架构，电机峰值功率 230kW，CLTC 续航达 600 km。增程",
+      "title": "经港珠澳大桥珠海公路口岸出入境港澳单牌车总量突破1000万辆次",
+      "link": "https://36kr.com/newsflashes/3824279909372041?f=rss",
+      "pubDate": "2026-05-25 13:38:41  +0800",
+      "contentSnippet": "据珠海边检总站港珠澳大桥边检站数据统计，自2023年“澳车北上”“港车北上”政策相继实施以来，截至今年5月25日上午11时50分，经港珠澳大桥珠海公路口岸出入境港澳单牌车总量正式突破1000万辆次，人流、物流、资金流加速流通，自驾“北上”已成为港澳居民融入国家发展大局、共享粤港澳大湾区政策红利的主流出行方式。（央视新闻）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪",
+        "IT之家"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "港珠澳大桥口岸港澳单牌车出入境量突破1000万辆次",
+      "credibilityScore": 100,
+      "credibilityLevel": "high",
+      "credibilityReason": "数据源自官方边检站，央视新闻权威报道，信息详实有具体时间节点（多源覆盖 +5）"
+    },
+    {
+      "title": "中国芯片走出不同于西方的路，玉渊谭天谈我国半导体领域高压下实现突破",
+      "link": "https://www.ithome.com/0/954/777.htm",
+      "pubDate": "Mon, 25 May 2026 04:14:06 GMT",
+      "contentSnippet": "IT之家 5 月 25 日消息，央视总台旗下新媒体账号玉渊谭天今日发文谈及了我国半导体领域高压下实现的突破。目前，中国芯片已走出了不同于西方的路，而中美科技 9 年博弈可以得出下面两个结论：\n\n\n第一，美国想通过极限施压打断中国科技发展的进程是不可能的。\n\n第二，合作可以给中美双方创造共同发展的空间。\n\n\n玉渊谭天提到，9 年来，所谓的“脱钩”甚至激发了中国技术的突破。芯片成熟制程产能持续爬坡，实现集成电路产品出口破万亿的历史性突破；“卡脖子”技术正被持续攻坚；芯片刻蚀、封装等领域实现国产规模化替代。\n今天，中美在人工智能、先进制造、新能源、量子科技等领域几乎同时站在第一梯队。\n据IT之家今日",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,50 +34,118 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "东风奕派M8将亮相粤港澳车展，搭载华为乾崑技术。",
+      "aiSummary": "中国芯片走出不同于西方的路，高压下实现突破。",
+      "credibilityScore": 70,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家，内容具体但缺少技术细节和数据支撑。"
+    },
+    {
+      "title": "中美创新药的主战场，在所有人的视线之外",
+      "link": "https://www.tmtpost.com/8001010.html",
+      "pubDate": "Mon, 25 May 2026 12:11:37 +0800",
+      "contentSnippet": "一场没有硝烟的核心资产争夺战",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中美创新药竞争聚焦于被忽视的核心资产领域。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体，内容有行业视角，但缺乏具体数据支撑。"
+    },
+    {
+      "title": "小米手环新品现身认证数据库，具体名称待揭晓",
+      "link": "https://www.ithome.com/0/954/721.htm",
+      "pubDate": "Mon, 25 May 2026 02:49:16 GMT",
+      "contentSnippet": "IT之家 5 月 25 日消息，据科技媒体 Gizmochina 昨天报道，一款型号为 M2561B1 的小米穿戴设备最近出现在新加坡 IMDA 与中国台湾地区 NCC 认证数据库中，预计将在后续全球发布。\n据报道，M2561B1 在两个认证数据库中均被标注为“智能手环”，正式产品名称没有公开。不过，小米曾使用 M2551B1 和 M2553B1 两个型号，对应近期发布的手环 10 Pro、NFC 版。\n\n目前已有初步猜测认为，这款神秘新品是小米手环 11 Active，但认证文件本身却没有任何线索。\n\n同时，小米前不久刚刚在中国内地市场推出手环 10 Pro，升级 1.74 英寸曲面 AMO",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "小米手环新品M2561B1通过认证，或为手环11 Active。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，信息具体有型号和认证细节，但缺乏官方确认。"
+    },
+    {
+      "title": "研究建议为保护心血管健康每周运动 10 小时",
+      "link": "https://www.solidot.org/story?sid=84383",
+      "pubDate": "Sun, 24 May 2026 21:22:34 +0800",
+      "contentSnippet": "澳门理工大学在《British Journal of Sports Medicine》期刊上发表报告，认为成年人应尽量每周进行约 560至610分钟（约10小时）的运动，从而显著降低心肌梗死、中风或心力衰竭等心血管疾病的风险。研究人员分析了英国健康数据库“英国生物银行”（UK Biobank）中 一万七千多名参与者的数据。这些参与者连续一周佩戴加速度传感器，用于记录其日常活动水平。研究还通过骑行测试测量并估算其最大摄氧量。随后在约 8 年的时间内，跟踪观察参与者罹患疾病的情况。研究的核心结果是：遵循世卫组织建议（每周至少 150 分钟运动）可将心血管疾病风险降低约 8%-9%；而每周运动 56",
+      "sourceName": "Solidot",
+      "sourceWeight": 75,
+      "allSources": [
+        "Solidot"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "研究建议每周运动10小时以降低心血管疾病风险。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源可靠，引用权威期刊和数据库，数据具体，逻辑清晰。"
+    },
+    {
+      "title": "多点数智联合灵心巧手成立灵美智能",
+      "link": "https://36kr.com/newsflashes/3824327001165956?f=rss",
+      "pubDate": "2026-05-25 14:26:36  +0800",
+      "contentSnippet": "36氪获悉，天眼查App显示，多点（深圳）数字科技有限公司、灵心巧手（北京）科技股份有限公司及深圳泰亿企业管理中心（有限合伙）5月21日共同出资设立“灵美智能数核（北京）科技有限公司”，三方分别持股51%、29%及20%。灵美智能数核（北京）科技有限公司法定代表人为张峰，张峰同时为多点数智联合创始人兼总裁。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "多点数智联合灵心巧手成立灵美智能，持股51%",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪知名媒体，信息具体有数据支撑，但缺乏技术细节"
+    },
+    {
+      "title": "搞定工业质检：AI视觉如何重构高端制造质量防线| 2026AI Partner·北京亦庄AI+产业大会",
+      "link": "https://36kr.com/p/3824158896312709?f=rss",
+      "pubDate": "2026-05-25 14:26:35  +0800",
+      "contentSnippet": "半导体光罩上的纳米级缺陷、玻璃基板上几微米的钻孔。广州因特智能展示了AI视觉如何从实验室走进高端制造产线，用软硬结合的方式解决中国在半导体检测装备领域的卡脖子问题。\n广州因特智能孵化于西安电子科技大学广州研究院，是校地合作落地的典型科技企业。我们拒绝“纸上算法”，坚持软硬一体，为半导体、光通信、新能源三大领域提供高端检测装备，已服务国内头部客户及全球企业。\n以下为演讲内容，经36氪整理编辑：\n\n刘金硕丨广州因特智能科技CEO\n非常感谢36氪和亦庄的邀请，很荣幸在这里跟大家进行科技界的产品技术交流。与前几位嘉宾的分享角度不同，我们是一家扎根实体制造的科技公司，专注用AI视觉技术解决工业场景的“卡",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "AI视觉技术助力高端制造质检，解决半导体检测卡脖子问题。",
       "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，信息具体有数据支撑，但缺少原始官方链接。"
+      "credibilityReason": "来源知名科技媒体36氪，内容具体有技术细节和案例，但缺乏独立验证。"
     },
     {
-      "title": "巴基斯坦总理夏巴兹在杭州出席中巴企业投资大会",
-      "link": "https://36kr.com/newsflashes/3822858041512326?f=rss",
-      "pubDate": "2026-05-24 15:45:11  +0800",
-      "contentSnippet": "今天（24日）上午，来华访问的巴基斯坦总理夏巴兹在杭州出席第三届中巴信息技术与电信、电池储能系统及农业B2B投资大会。昨天刚刚抵达杭州的巴基斯坦总理夏巴兹，今早8:30就到了投资大会的现场。他在现场见证了双方经贸领域的多项签约。同时还特别向两国企业进行了致辞，他在致辞当中明确表示，从此前的几次访华到本次的杭州会议，双方签署了大额的谅解备忘录。如今，这些备忘录需要落地为正式协议。他也希望能够进一步加强农业等四个方向的进一步合作。今天下午，他还将前往中国的互联网企业进行参观。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
+      "title": "英飞凌牵头启动欧盟 Moore4Power 计划，15 国 62 方联手开发新一代功率芯片",
+      "link": "https://www.ithome.com/0/954/813.htm",
+      "pubDate": "Mon, 25 May 2026 06:24:26 GMT",
+      "contentSnippet": "IT之家 5 月 25 日消息，德国半导体企业 Infineon（英飞凌）当地时间 20 日宣布启动由其担任协调方的欧盟 Moore4Power 计划，来自 15 个国家的 62 家参与方将联手开发更高效、更可靠、更易于产业化的新一代先进智能电力电子产品。\n\nMoore4Power 项目为期 3 年，总投资 9100 万欧元（IT之家注：现汇率约合 7.2 亿元人民币），参与实体既有大型企业也包括中小企业和研究机构，旨在以突破性创新强欧洲在功率半导体领域的技术自主性和可持续发展能力。\n该项目目标以系统级创新来应对传统尺寸缩放在推进“摩尔定律”上的失速，以更智能、更贴近应用的方式整合技术、材料和",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "36氪"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "巴基斯坦总理夏巴兹在杭州出席中巴企业投资大会，见证多项签约。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，内容具体且有时效性，但缺乏技术细节和原始出处。"
-    },
-    {
-      "title": "商务部部长王文涛会见联合国贸发会议代理秘书长马雷诺",
-      "link": "https://36kr.com/newsflashes/3822857554088066?f=rss",
-      "pubDate": "2026-05-24 15:30:40  +0800",
-      "contentSnippet": "5月23日，商务部部长王文涛在苏州会见来华参加亚太经合组织（APEC）贸易部长会议的联合国贸发会议代理秘书长马雷诺，双方就全球经贸形势、深化务实合作等交换意见。王文涛强调，“十五五”规划纲要擘画了中国未来发展的宏伟蓝图，对扩大高水平对外开放、维护多边贸易体制、践行真正的多边主义作出了重要部署。中方愿与包括贸发会议在内的各方一道，共同推动构建和维护公平公正、开放包容、合作共赢的国际经贸秩序。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "王文涛会见联合国贸发会议代理秘书长，讨论全球经贸合作。",
+      "aiSummary": "英飞凌牵头欧盟Moore4Power计划，15国62方开发新一代功率芯片。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体、逻辑清晰，涉及官方会见和经贸议题。"
+      "credibilityReason": "来源IT之家为知名科技媒体，信息具体有数据支撑，逻辑清晰。"
     },
     {
-      "title": "第79届世界卫生大会达成系列共识",
-      "link": "https://36kr.com/newsflashes/3822776525361280?f=rss",
-      "pubDate": "2026-05-24 13:15:16  +0800",
-      "contentSnippet": "第79届世界卫生大会23日在瑞士日内瓦落下帷幕。成员国在为期6天的会议中达成系列共识，通过了20多项决定和13项决议，涉及中风、肝病、结核病、辐射等健康议题。大会主席、多米尼加卫生部长维克托·阿塔拉·拉贾姆在闭幕总结中说，大会聚焦保护人类健康这一核心使命，就突发公共卫生事件应对、微生物耐药性、人体器官移植等达成一系列共识，将产生广泛影响。大会还讨论了多项行政议题，包括同意通过由成员国主导、世卫组织主持的联合进程，对全球卫生架构进行改革。",
+      "title": "摩根大通：预计标普500指数未来一年内将突破9000点，AI超级周期或比想象更牛",
+      "link": "https://36kr.com/newsflashes/3824324639478151?f=rss",
+      "pubDate": "2026-05-25 14:24:11  +0800",
+      "contentSnippet": "摩根大通分析师在最新报告重表示，预计标普500指数在未来一年内将突破9000点，这意味着较当前水平上涨22%。摩根大通全球投资策略师克里蒂·古普塔（Kriti Gupta）等人在最新报告中指出，尽管目前市场上，仍存在对美国通货膨胀和伊朗战争的普遍担忧，但若人工智能超级周期的规模超出市场此前的预期，那么市场总体的上涨趋势仍有可能持续。（财联社）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -67,16 +153,50 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "第79届世卫大会达成系列健康共识，通过多项决定和决议。",
+      "aiSummary": "摩根大通预测标普500一年内突破9000点，AI超级周期或超预期。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体36氪，引用摩根大通报告，内容具体但缺乏原始数据支撑。"
+    },
+    {
+      "title": "低调的天津，悄悄干成了中国机器人产业黑马",
+      "link": "https://www.tmtpost.com/8001002.html",
+      "pubDate": "Mon, 25 May 2026 14:20:17 +0800",
+      "contentSnippet": "“天津的机器人，没有热搜，没有炫酷，没有路演，甚至没有demo视频。但，天津的机器人产业，其实已经做的很大了。”",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "天津机器人产业低调发展，已成中国黑马。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体钛媒体，内容具体但缺乏数据支撑。"
+    },
+    {
+      "title": "荣耀 WIN Turbo 手机官宣搭载 10000mAh 青海湖电池，支持 80W 快充和 27W 反向充电",
+      "link": "https://www.ithome.com/0/954/803.htm",
+      "pubDate": "Mon, 25 May 2026 06:18:40 GMT",
+      "contentSnippet": "IT之家 5 月 25 日消息，荣耀 WIN Turbo 手机将于 5 月 29 日发布并开售，荣耀 WIN 官方今日宣布，荣耀 WIN Turbo 手机搭载 10000mAh 青海湖电池。\n官方表示，荣耀 WIN Turbo 手机可实现连续游戏 14+ 小时或刷短视频 22+ 小时，最大支持 80W 快充和 27W 反向充电。\n\n据IT之家此前报道，荣耀 WIN Turbo 手机有（从左至右依次为）「快开黑」、「指定赢」和「不怕蓝」三种配色。\n\n据博主  @数码闲聊站 上周透露，荣耀 WIN Turbo 手机将配备 1.5K LTPS 直屏 + 金属中框 + 50Mp OIS 横向大矩阵镜组",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "荣耀WIN Turbo手机官宣10000mAh电池，支持80W快充和27W反向充电。",
       "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，内容具体且引用官方信息，但缺乏原始出处链接。"
+      "credibilityReason": "来源IT之家为知名科技媒体，信息具体有数据支撑，但缺少原始官方链接。"
     },
     {
-      "title": "国内单体最大智能组串式储能电站落地内蒙古包头，搭载 1944 台华为智能组串式构网 PCS",
-      "link": "https://www.ithome.com/0/954/522.htm",
-      "pubDate": "Sun, 24 May 2026 04:54:17 GMT",
-      "contentSnippet": "IT之家 5 月 24 日消息，综合华为中国数字能源业务和包头发布消息，在 2026 储能高质量发展峰会上，由海博思创携手华为数字能源打造的国内单体容量最大智能组串式储能电站 —— 220kV 博汉星光储能电站正式发布。\n\n据介绍，220kV 博汉星光储能电站容量为 400 兆瓦 / 2400 兆瓦时，由海博思创建设，搭载华为智能组串式构网 PCS 与海博思创单舱 7 兆瓦时大容量储能系统。项目于 2025 年 12 月底并网，目前稳定运行。值得一提的是，该项目还利用废旧矿坑实现了生态修复。\nIT之家了解到，包头是国家重要的风电光伏基地，全年有效风光利用小时数超过 3000 小时，新能源装机占",
+      "title": "酷态科电能仓 600 参数曝光：输出功率 1013W MAX，有望 5 月 29 日发布",
+      "link": "https://www.ithome.com/0/954/800.htm",
+      "pubDate": "Mon, 25 May 2026 06:15:05 GMT",
+      "contentSnippet": "IT之家 5 月 25 日消息，博主 @熊猫很禿然 今天在微博发文，曝光酷态科电能仓 600 的主要参数：\n\n\n总输出功率：1013W MAX\n\n太阳能 / 直流输入：200W MAX\n\n交流输出 * 2：600W MAX\n\n交流输出旁路模式 * 2：800W MAX\n\n车充输出：130W MAX\n\nC1 输入 / 输出：140W MAX\n\nC2 输出：100W MAX\n\nA1 输出：33W MAX\n\nA2 输出：10W MAX\n\n\n\n值得注意的是，酷态科官方今天在官微宣布新品 5 月 29 日见，从官方预热图片的暗示来看，这款产品有望支持米家。\n\n不过我们目前还不能完全肯定这款新品就是电能仓",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -84,16 +204,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国内最大智能组串式储能电站在内蒙古包头落地，搭载华为PCS。",
-      "credibilityScore": 85,
+      "aiSummary": "酷态科电能仓600参数曝光，总输出功率1013W，或于5月29日发布。",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，信息具体有数据支撑，引用官方消息。"
+      "credibilityReason": "来源IT之家为知名科技媒体，信息具体有参数细节，但依赖博主爆料，官方未完全确认。"
     },
     {
-      "title": "对话VITURE姜公略：什么才是XR眼镜该有的样子？",
-      "link": "https://36kr.com/p/3823013049045380?f=rss",
-      "pubDate": "2026-05-24 17:09:30  +0800",
-      "contentSnippet": "过去十年，XR（扩展现实）赛道始终陷在一种怪异的叙事里——\n在从业者高呼着“下一代计算平台”的宏大愿景时，资本市场也曾在元宇宙的热潮中疯狂押注，而一旦落地到消费端，这个行业却始终未能摆脱极客玩具的宿命。\n从Google Glass的黯然退场，再到一众VR/AR厂商的折戟，XR行业在跌宕中，迎来了前所未有的冷静时刻。\n行业的艰辛在于，尽管所有人都清楚技术终局，但抵达终局的路径却布满荆棘。在种种“不可能三角”中，行业在缺乏共识中蜿蜒前进。\n在略显沉闷的行业氛围中，XR厂商VITURE近日发布了一款全新产品——VITURE Beast。作为一个此前主攻海外游戏市场、鲜少发声的“隐形冠军”，VITUR",
+      "title": "新加坡4月份核心通胀率降至1.4%",
+      "link": "https://36kr.com/newsflashes/3824315197542788?f=rss",
+      "pubDate": "2026-05-25 14:14:35  +0800",
+      "contentSnippet": "周一公布的官方数据显示，新加坡4月份核心通胀率降至1.4%，但全球能源供应持续中断可能导致进口成本上升。新加坡金管局和贸工部在一份联合新闻稿中表示，4月份通胀率下降主要受服务业、零售业及其他商品价格通胀放缓的推动。（新浪财经）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -101,163 +221,44 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "VITURE创始人谈XR眼镜困境与新品Beast，行业需突破极客玩具宿命。",
+      "aiSummary": "新加坡4月核心通胀率降至1.4%，受服务业等价格放缓推动。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容有具体产品与行业分析，但缺乏数据支撑和原始出处。"
+      "credibilityReason": "来源为知名科技媒体36氪，内容具体有官方数据支撑，但未提供原始出处链接。"
     },
     {
-      "title": "联想推出 ThinkPad E14/E16 轻薄本：可选 U9 185H、U7 356H 版本，7999 元起",
-      "link": "https://www.ithome.com/0/954/583.htm",
-      "pubDate": "Sun, 24 May 2026 09:00:55 GMT",
-      "contentSnippet": "IT之家 5 月 24 日消息，联想 ThinkPad E14 及 E16 2026 新机现已上架并开启预约，将于 5 月 27 日开售。IT之家汇总如下：\nThinkPad E14\n\nUltra 9 185H + 32GB + 1TB 版本 7999 元\n\nUltra 5 336H + 32GB + 1TB 版本 9499 元\n\nUltra 7 356H + 32GB + 1TB 版本 11999 元\n\nThinkPad E16\n\nUltra 9 185H + 32GB + 1TB 版本 8999 元\n\n京东 ThinkPad 联想 E14 笔记本电脑 AI PC 商务办公学生轻薄本 酷睿",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "谷歌CEO最新访谈：谷歌多模态能力领先，但Coding确实落后了",
+      "link": "https://www.tmtpost.com/8001070.html",
+      "pubDate": "Mon, 25 May 2026 14:12:42 +0800",
+      "contentSnippet": "谷歌最新智能体Spark今年夏天发布",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
       "allSources": [
-        "IT之家"
+        "钛媒体"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "联想发布ThinkPad E14/E16轻薄本，配置U9/U7/U5处理器，7999元起",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，信息具体含型号价格，但缺少技术细节和原始出处"
-    },
-    {
-      "title": "华为余承东：问界 M9 率先搭载全新一代的鸿蒙座舱，灯随人动、手势即达",
-      "link": "https://www.ithome.com/0/954/582.htm",
-      "pubDate": "Sun, 24 May 2026 08:53:43 GMT",
-      "contentSnippet": "IT之家 5 月 24 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日发文称：“全新一代的鸿蒙座舱也来了！问界 M9 上率先搭载，灯随人动、手势即达、毫秒级智能调光，还有全新小艺智能体，更多豪华体验，5 月 27 日为大家揭晓”。\n据官方预热，全新问界 M9 系列支持全主动追光感知，全车 10 颗智能追光灯；全主动手势感知，一指即控；一挥开启全黑空间，隐私防护时刻保障；还有全新星寰岛与 HUAWEI SOUND Ultimate 非凡系列音响。\n\n\nIT之家注意到，问界官方 5 月 23 日宣布，鸿蒙智行问界 M9 系列新品发布会从 5 月 27 日 19:00 提",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "华为余承东宣布问界M9将首发全新鸿蒙座舱，支持手势控制和智能调光。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，信息具体且有官方预热细节，但缺少技术验证和第三方评价。"
-    },
-    {
-      "title": "企业强推 AI 提效遇反效果：AI 成本已超人力",
-      "link": "https://www.ithome.com/0/954/581.htm",
-      "pubDate": "Sun, 24 May 2026 08:40:33 GMT",
-      "contentSnippet": "IT之家 5 月 24 日消息，众多科技企业督促员工使用人工智能工具提升工作效率，但这项举措已然开始产生反效果。据 The Verge 报道，微软要求员工改用自家的 Copilot CLI，而非 Claude Code 工具，原因是企业倾向采用内部自研工具，而非第三方产品。不过有消息人士透露，核心缘由是随着使用者增多，Claude Code 的使用成本持续攀升。\n\n据 Tom's Hardware 报道，不止微软一家企业出现这类情况。据财富杂志报道，其他企业也在缩减人工智能工具的使用规模。虽说人工智能模型的训练成本不断下降，调用算力词元（token）的费用随之走低，但员工日常工作中的词元消耗量",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "企业推广AI提效反致成本超人力，微软等公司缩减使用规模。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用The Verge等权威媒体，信息具体有数据支撑，逻辑清晰。"
-    },
-    {
-      "title": "11 月首航，我国第二艘国产大邮轮爱达 · 花城号完成航速测试等四项关键试验",
-      "link": "https://www.ithome.com/0/954/578.htm",
-      "pubDate": "Sun, 24 May 2026 08:21:50 GMT",
-      "contentSnippet": "IT之家 5 月 24 日消息，据“SWS 外高桥造船”公众号，5 月 20 日晚上至 22 日上午，正在东海海域开展试航的第二艘国产大型邮轮“爱达 · 花城号”（H1509 船）顺利完成航速测试、全船振动噪声测试、耐久试验以及无人机舱试验四项关键验证工作。上述四项试验在技术逻辑与工程实施上高度关联，共同构成邮轮航行系统综合性能评价的核心环节，并直接关系到邮轮后续运营效能与乘客体验。\n\n据介绍，航速测试是验证邮轮航行能力和环保合规水平的核心环节。面对试验涉及多个功率级别、多次往返航行以及对航线控制精度要求极高等挑战，项目团队充分总结首制船经验，针对 H509 船加长 17.4 米、船舶线型及螺",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "第二艘国产大邮轮完成四项关键试验，计划11月首航。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，信息具体且有官方公众号引用，逻辑清晰。"
-    },
-    {
-      "title": "《刺客信条：黑旗》重制版新增过场动画被批劣质，赶不上原版水平",
-      "link": "https://www.ithome.com/0/954/577.htm",
-      "pubDate": "Sun, 24 May 2026 08:16:23 GMT",
-      "contentSnippet": "IT之家 5 月 24 日消息，育碧在《刺客信条：黑旗》重制版的制作上可谓处处用心。游戏画面迎来精美翻新，战斗机制也经过细微优化，整体体验几乎全面升级。\n\n即便如此，这款重制版依旧遭到玩家诟病。不久前，育碧移除袖剑格斗玩法就引发热议；最新实机演示放出后，部分过场动画的画质表现也遭到大批玩家公开批评。\nIT之家注意到，受动作捕捉技术运用不足影响，育碧近年新作的过场动画质感远不及系列旧作，这一问题在旗下近期推出的角色扮演类刺客信条作品中尤为明显。\n玩家尤其不满新增的露西 · 鲍德温相关剧情线，这段内容是《刺客信条 4：黑旗》原版剧情中没有的全新桥段。\n由于原版并无这段故事，其过场动画沿用了系列新款",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "《刺客信条：黑旗》重制版过场动画被批劣质，玩家不满新增内容。",
+      "aiSummary": "谷歌CEO承认多模态领先但编码能力落后，智能体Spark今夏发布",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体且有玩家反馈支撑，但缺少官方回应和原始数据。"
+      "credibilityReason": "来源钛媒体为知名科技媒体，内容具体有CEO访谈和产品信息，但缺乏原始出处和细节支撑"
     },
     {
-      "title": "大金重工：与荷兰船东签署约10.69亿元船舶建造合同",
-      "link": "https://36kr.com/newsflashes/3823019238838408?f=rss",
-      "pubDate": "2026-05-24 16:16:16  +0800",
-      "contentSnippet": "大金重工5月24日公告，公司下属子公司唐山大金海工海洋工程有限公司，与荷兰知名船东Jumbo下属子公司正式签署新一代绿色智能多用途重吊船建造合同。本合同总金额约1.56亿美元，折合人民币约10.69亿元，两艘船舶计划于2028年、2029年分批次完工交付。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
+      "title": "市值已经跌去2150亿，“中药一哥”究竟怎么了？",
+      "link": "https://www.tmtpost.com/8001064.html",
+      "pubDate": "Mon, 25 May 2026 14:12:41 +0800",
+      "contentSnippet": "片仔癀的市值回落，是核心单品、原料周期与多元化战略的一次集体压力测试。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
       "allSources": [
-        "36氪"
+        "钛媒体"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "大金重工与荷兰船东签署10.69亿元船舶建造合同",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体有金额和交付时间，逻辑清晰"
-    },
-    {
-      "title": "机械革命耀世 16 Ultra 新增酷睿 Ultra 7 251HX 配置：RTX 5060，9999 元",
-      "link": "https://www.ithome.com/0/954/575.htm",
-      "pubDate": "Sun, 24 May 2026 08:12:30 GMT",
-      "contentSnippet": "IT之家 5 月 24 日消息，英特尔今年第一季度悄悄推出了全新酷睿 Ultra 7 251HX 处理器，此前似乎仅有 10499 元的联想拯救者 Y7000X 游戏本搭载。\n不过机械革命也新推出了一款搭载酷睿 Ultra 7 251HX 的耀世 16 Ultra 游戏本，采用 16GB DDR5 5600 内存、1TB 硬盘，且各预留一个拓展位，但不支持水冷。新机已于 5 月 22 日开售，首发价 9999 元，叠加国补后 8499.15 元。\n京东机械革命耀世 16 Ultra 16 英寸 游戏笔记本电脑（英特尔酷睿 U7-251HX 16G 1T RTX5060 灰）券后 9999 元领",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "机械革命耀世16 Ultra新增酷睿Ultra 7 251HX配置，售价9999元",
+      "aiSummary": "片仔癀市值下跌2150亿，核心单品与战略面临压力。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，内容具体有配置和价格信息，但缺少处理器性能数据"
-    },
-    {
-      "title": "别只盯着《GTA 6》，R 星母公司 Take-Two 一半营收来自手游",
-      "link": "https://www.ithome.com/0/954/574.htm",
-      "pubDate": "Sun, 24 May 2026 08:08:00 GMT",
-      "contentSnippet": "IT之家 5 月 24 日消息，在当下竞争纷乱的游戏行业中，Take-Two 是业绩表现顶尖的集团企业。截至 2029 财年末，公司计划推出至少 29 款新作，涵盖全新核心系列与经典续作。依托《GTA 6》预计带来的市场佳绩，企业还计划收购多家游戏工作室。\n\n该集团在电脑与主机游戏领域稳居龙头，但其在手游市场同样具备强劲竞争力，这点却容易被忽视。Take-Two 2026 财年投资者报告显示，手游业务营收占总收入的五成，剩余营收则来自主机与电脑游戏板块。\n凭借《Toon Blast》《Words with Friends》等多款生命周期长久、吸金能力强劲的知名游戏 IP，Take-Two 在手",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "Take-Two手游营收占半，计划推出29款新作并收购工作室。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家较知名，内容具体有数据支撑，但缺乏原始报告链接。"
-    },
-    {
-      "title": "东北超首轮比赛10万人次涌入",
-      "link": "https://36kr.com/newsflashes/3822858473755013?f=rss",
-      "pubDate": "2026-05-24 16:00:36  +0800",
-      "contentSnippet": "5月23日，2026年东北地区城市足球联赛“东北超”在辽宁、吉林、黑龙江、内蒙古同步打响揭幕战。不同于职业赛事，东北超参赛队员涵盖了学生、产业工人、个体商户等来自社会各行各业的足球爱好者。正是因为这样平民草根的属性，在沈阳铁西体育场现场观赛的人数就达到4万人次以上。加上同步开赛的另外3个赛区，首轮比赛的观赛总体人数超过10万人次。为了迎接万千球迷，沈阳把不到20元的球票变成了一张“全能通行证”——目前已成功招募意向合作商户2000多家，串联起餐饮、住宿、文旅、商超、洗浴等九大生活场景。另外，吉林、黑龙江、内蒙古也推出了持票根的减免优惠政策。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "东北超首轮比赛吸引超10万人次观赛，草根足球带动区域消费",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体有数据支撑，但缺乏原始出处和专家评论"
+      "credibilityReason": "来自知名科技媒体钛媒体，内容具体有数据支撑，但缺乏原始出处和深度技术分析。"
     }
   ]
 }
