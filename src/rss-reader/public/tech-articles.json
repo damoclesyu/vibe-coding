@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-05-25T12:53:13.788Z",
+  "generatedAt": "2026-05-26T00:48:37.726Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "5天3板风华高科：未与英伟达直接开展业务合作",
-      "link": "https://36kr.com/newsflashes/3824665348821640?f=rss",
-      "pubDate": "2026-05-25 20:10:47  +0800",
-      "contentSnippet": "36氪获悉，风华高科公告，公司关注到近期有媒体提及公司已切入英伟达供应链，经核查，截至目前，公司未与英伟达直接开展业务合作。公司MLCC产品营业收入占公司整体营业收入的比例约为40%，其中高端MLCC产品营收占MLCC产品总营收的比例约为35%-40%，占公司整体营业收入的比例约为15%。",
+      "title": "华泰证券：SpaceX上市或提升商业航天板块投资情绪",
+      "link": "https://36kr.com/newsflashes/3825363454644871?f=rss",
+      "pubDate": "2026-05-26 08:00:56  +0800",
+      "contentSnippet": "36氪获悉，华泰证券研报表示，近期SpaceX公布了招股说明书，计划6月挂牌上市。公司披露的招股书中详细介绍了公司当前的业务情况，并对后续发展规划进行了乐观展望，其中28.5万亿美元的市场空间叙事或将加强市场对航天产业和AI产业的发展潜力的认知。华泰证券认为，SpaceX作为全球领先的商业航天+AI企业，其上市计划或将提振我国航天产业的投资热情与信心，有望在中美资本市场形成共振，建议关注我国商业航天板块投资机遇。",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -16,101 +16,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "风华高科澄清未与英伟达直接合作，并披露MLCC营收占比。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体36氪，内容基于公司公告，信息具体且客观。"
-    },
-    {
-      "title": "杰瑞股份：燃气轮机发电机组销售价格上涨，与西门子签署SGT燃气轮机合作协议",
-      "link": "https://36kr.com/newsflashes/3824651739714437?f=rss",
-      "pubDate": "2026-05-25 19:56:56  +0800",
-      "contentSnippet": "36氪获悉，杰瑞股份公告，公司燃气轮机发电机组销售价格今年有所上涨。近期，公司与西门子能源围绕其SGT系列工业燃气轮机相关技术与授权合作达成签约，该系列燃气轮机可灵活适配数据中心、工业制造及油气田等多种应用场景，有助于公司提升供应链韧性。未来，公司将持续引入并整合全球优质技术资源，搭建多元化的燃气轮机、内燃机供应体系，为客户提供一体化的电力综合解决方案。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "杰瑞股份公告燃气轮机涨价，并与西门子能源签约合作。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体且有公司公告支撑。"
-    },
-    {
-      "title": "Omdia：2026 年开局疲弱，中东智能手机市场预计将下滑 22%",
-      "link": "https://www.ithome.com/0/954/992.htm",
-      "pubDate": "Mon, 25 May 2026 09:54:11 GMT",
-      "contentSnippet": "IT之家 5 月 25 日消息，Omdia 今日发布最新研究，2026 年第一季度，中东智能手机市场（不含土耳其）同比下降 6% 至 1100 万部。\n报告称，尽管在斋月前以及新品发布周期推动下，渠道进行了显著的库存前置备货，但零售端实际动销疲软以及消费者谨慎情绪持续抑制了换机需求。与此同时，全球内存成本持续通胀推动智能手机价格在新旧产品线中全面上涨，促销空间受到明显压缩。季度末地缘政治紧张局势进一步扰乱区域供应链运作，并对消费者信心形成额外压力。\n\nIT之家附具体排名如下：\n\n三星 370 万部，同比增长 1%，市场份额 34%；\n\n荣耀 200 万部，同比增长 73%，市场份额 18%；",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "Omdia预测中东智能手机市场2026年开局疲弱，预计下滑22%。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，引用Omdia权威报告，数据具体且逻辑清晰。"
-    },
-    {
-      "title": "上海出台 AI 微短剧新政：支持企业租用智能算力，对优秀剧本给予奖励",
-      "link": "https://www.ithome.com/0/954/989.htm",
-      "pubDate": "Mon, 25 May 2026 09:43:44 GMT",
-      "contentSnippet": "IT之家 5 月 25 日消息，上海市文旅局今日发文称，为深入实施“人工智能 +”行动，加快推进人工智能技术赋能微短剧产业高质量发展，市文化旅游局会同相关部门研究制定《上海市加快推进人工智能赋能微短剧高质量发展的若干措施》（以下简称《若干措施》）。\nIT之家从公告获悉，当前，AIGC 技术已成为微短剧产业发展的核心驱动力，AI 微短剧供给量呈高速增长态势，全流程 AI 创作模式逐步成型，成为内容产业创新发展的前沿阵地。上海作为影视产业和人工智能产业重镇，发展 AI 微短剧具备产业链完备、要素资源丰富的独特优势，但同时也存在公共服务平台支撑不足、企业生产成本较高等突出问题，制约了产业规模化、高质",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "上海出台AI微短剧新政，支持智能算力租用和剧本奖励。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有政策细节，逻辑清晰，时效性好。"
-    },
-    {
-      "title": "研究建议为保护心血管健康每周运动 10 小时",
-      "link": "https://www.solidot.org/story?sid=84383",
-      "pubDate": "Sun, 24 May 2026 21:22:34 +0800",
-      "contentSnippet": "澳门理工大学在《British Journal of Sports Medicine》期刊上发表报告，认为成年人应尽量每周进行约 560至610分钟（约10小时）的运动，从而显著降低心肌梗死、中风或心力衰竭等心血管疾病的风险。研究人员分析了英国健康数据库“英国生物银行”（UK Biobank）中 一万七千多名参与者的数据。这些参与者连续一周佩戴加速度传感器，用于记录其日常活动水平。研究还通过骑行测试测量并估算其最大摄氧量。随后在约 8 年的时间内，跟踪观察参与者罹患疾病的情况。研究的核心结果是：遵循世卫组织建议（每周至少 150 分钟运动）可将心血管疾病风险降低约 8%-9%；而每周运动 56",
-      "sourceName": "Solidot",
-      "sourceWeight": 75,
-      "allSources": [
-        "Solidot"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "研究建议每周运动10小时以降低心血管疾病风险。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体Solidot，引用权威期刊和数据库，数据具体，逻辑清晰。"
-    },
-    {
-      "title": "行云科技：签订3.22亿元企业级SSD硬盘销售框架协议",
-      "link": "https://36kr.com/newsflashes/3824702688367238?f=rss",
-      "pubDate": "2026-05-25 20:48:46  +0800",
-      "contentSnippet": "36氪获悉，行云科技公告，公司控股子公司行云存算与浙江甚湖签署《设备销售框架协议》，行云存算拟向浙江甚湖出售企业级SSD硬盘，含税总金额3.22亿元。若合同顺利实施，预计对公司未来的经营业绩产生一定影响。本订单销售的产品为公司自有品牌企业级PCIe SSD产品，主要面向AI服务器相关业务，未来可配套公司相关业务。该合同有利于加速公司自研产品扩大销售并提升品牌行业影响力。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "行云科技子公司签3.22亿元企业级SSD销售协议",
+      "aiSummary": "华泰证券称SpaceX上市或提振商业航天板块投资情绪",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源知名科技媒体36氪，信息具体有金额和产品细节，但缺少技术验证和原始出处链接"
+      "credibilityReason": "来源为知名科技媒体36氪，内容基于华泰证券研报，逻辑清晰，但缺乏具体数据支撑"
     },
     {
-      "title": "荣耀平板 20 发布：12.1 英寸 3K 全彩类纸屏，国补到手价 1614.15-2804.15 元",
-      "link": "https://www.ithome.com/0/955/036.htm",
-      "pubDate": "Mon, 25 May 2026 12:46:44 GMT",
-      "contentSnippet": "IT之家 5 月 25 日消息，荣耀平板 20 今晚正式发布，提供灵悦版、柔光版、标准版等多款配置，建议零售价区间为 2099-3399 元，首销优惠价 1899-3299 元，国补到手价 1614.15-2804.15 元。\n\n\n\n京东荣耀平板 20  8+128 森林绿券后 1727.1 元领 180 元券\n据IT之家了解，荣耀平板 20 主打多彩配色，拥有超常发灰、森林绿、耀眼粉三种配色可选，后置小圆镜组，将配备 12.1 英寸 3K 荣耀全彩类纸屏，支持类纸笔记体验、AI 备考智能体等。\n这款平板搭载 12.1 英寸 3K 16:10 LCD 屏幕，支持 120Hz 高刷。配备 101",
+      "title": "平台工程如何利用“黄金砖块”实现快速、顺畅的交付",
+      "link": "https://www.infoq.cn/article/7kRNbfNHJmyeVikxo5x4?utm_source=rss&utm_medium=article",
+      "pubDate": "Mon, 25 May 2026 19:00:00 GMT",
+      "contentSnippet": "点击查看原文>",
+      "sourceName": "InfoQ中文",
+      "sourceWeight": 78,
+      "allSources": [
+        "InfoQ中文"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "平台工程通过“黄金砖块”模式加速软件交付流程",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "InfoQ为知名技术媒体，内容聚焦平台工程实践，但缺少具体数据支撑"
+    },
+    {
+      "title": "微信鸿蒙版 App 发布 8.0.18.17 邀测升级",
+      "link": "https://www.ithome.com/0/955/101.htm",
+      "pubDate": "Tue, 26 May 2026 00:47:31 GMT",
+      "contentSnippet": "IT之家 5 月 26 日消息，微信鸿蒙版 App 今早发布了 8.0.18.17（8393233）版本邀测升级（需收到短信通知后点击链接跳转安装，未收到短信需继续等待），测试时间为 2026/5/26-2026/6/25。\n\n和往常一样，本次更新的说明依旧为“修复了一些已知问题”。不过，微信昨晚还发布了一个 8.0.18.16 版本的邀测升级，而该版本出现了一个 BUG，部分用户在升级后会遇到“该账号尚未获得体验资格”的提示。\n\nIT之家提醒：系统 / 软件升级尝鲜需谨慎，建议提前做好数据备份。已经升级 8.0.18.16 版本且无法正常登录的用户也无需着急，可以直接回退至最新正式版本解决该",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -118,34 +50,188 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "荣耀平板20发布，12.1英寸3K类纸屏，国补价1614-2804元",
+      "aiSummary": "微信鸿蒙版发布8.0.18.17邀测升级，修复了8.0.18.16版本的部分BUG。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，内容具体有价格和配置细节，逻辑清晰"
+      "credibilityReason": "来自知名科技媒体IT之家，内容具体，有版本号和测试时间，逻辑清晰。"
     },
     {
-      "title": "Take-Two CEO 泽尔尼克：AI 未能降低游戏制作成本，反而会推高成本",
-      "link": "https://www.ithome.com/0/955/034.htm",
-      "pubDate": "Mon, 25 May 2026 12:42:28 GMT",
-      "contentSnippet": "IT之家 5 月 25 日消息，游戏巨头 Take-Two Interactive 公司首席执行官施特劳斯 · 泽尔尼克近期接受 CNBC 采访时表示，人工智能并未降低游戏制作开支，未来也难以实现这一效果。相反，为满足玩家需求，人工智能反而会推高研发成本。\n\n泽尔尼克称，“娱乐产业的技术应用规律向来如此：技术固然提升制作效率，但创作诉求同步拓宽，整体投入也随之上涨。技术让创作团队能够实现更多构想，团队自然追求突破，玩家也期待更优质的内容，多方因素相互制衡。仅有唱片音乐这一项娱乐产业，曾凭借技术进步切实降低了制作成本，这是客观事实。”\nIT之家注意到，泽尔尼克还提到，行业核心宗旨是打造优质作品、",
+      "title": "中原内配：公司暂无储能电站业务",
+      "link": "https://36kr.com/newsflashes/3825408724537984?f=rss",
+      "pubDate": "2026-05-26 08:46:59  +0800",
+      "contentSnippet": "36氪获悉，中原内配在互动平台表示，公司暂无储能电站业务，公司主营业务聚焦于汽车零部件领域，并积极关注新能源产业链发展机会。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中原内配澄清暂无储能电站业务，聚焦汽车零部件。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体36氪，信息直接引用公司官方互动平台声明，内容具体明确。"
+    },
+    {
+      "title": "甘咨询：子公司承接中国电信甘肃庆阳智能算力中心二期土建工程第三方检测采购项目",
+      "link": "https://36kr.com/newsflashes/3825408106762881?f=rss",
+      "pubDate": "2026-05-26 08:46:21  +0800",
+      "contentSnippet": "36氪获悉，甘咨询在互动平台表示，子公司土木工程院承接的中国电信甘肃庆阳智能算力中心二期土建工程第三方检测采购项目，该业务属于公司主营业务中的工程检测类业务。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "甘咨询子公司承接中国电信甘肃庆阳算力中心检测项目",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪可信，信息具体有公司互动平台出处，但技术细节较少"
+    },
+    {
+      "title": "悉尼灯光节表演发生技术故障，近 90 架无人机坠海",
+      "link": "https://www.ithome.com/0/955/100.htm",
+      "pubDate": "Tue, 26 May 2026 00:45:36 GMT",
+      "contentSnippet": "IT之家 5 月 26 日消息，据央视新闻报道，当地时间 25 日晚，澳大利亚悉尼灯光节的无人机表演因技术故障被迫取消，多架无人机从空中坠落。当地时间 25 日 19 时 30 分，无人机表演开始不久，近 90 架无人机开始脱离编队，坠入附近的海港。\n有现场目击者向媒体表示，有人看到无人机掉在码头上，险些伤及一些工作人员。目击者称，虽然在夜间很难分辨无人机的大小，但它们坠入海湾时激起不小的水花。\n悉尼灯光节主办方表示，后续将调查事故发生原因，目前可以排除“蓄意干扰”的可能。\n\nIT之家注：悉尼灯光节（Vivid Sydney）是每年 5 月底至 6 月在澳大利亚悉尼举办的年度大型灯光、音乐与创",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "悉尼灯光节无人机表演故障，近90架无人机坠海。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家，引用央视报道，信息具体有目击者描述，逻辑清晰。"
+    },
+    {
+      "title": "中信建投：海外AI行业核心投资逻辑呈现两条主线",
+      "link": "https://36kr.com/newsflashes/3825406731146119?f=rss",
+      "pubDate": "2026-05-26 08:44:57  +0800",
+      "contentSnippet": "36氪获悉，中信建投证券研报称，海外AI行业核心投资逻辑呈现两条主线：在硬件与基础设施端，大模型推理的“两相结构”与Agent编排工作流导致通用GPU的边际收益下降，算力军备竞赛正向能源与电网要素的竞争演变，并驱动服务器架构向高数据复用率的ASIC（如谷歌TPU）、高性能指挥层CPU（CPU:GPU配比迈向1:1）以及因扩容刚需价格暴涨的DDR5 DRAM发生结构性倾斜；在模型与云生态端，随着OpenAI GPT-5.5的发布，其Codex生态的下载安装量正缩小与Anthropic Claude Code的差距，鉴于模型技术领先到市场份额变化存在3—6个月的滞后效应 ，Microsoft、Or",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中信建投指出海外AI投资两条主线：硬件转向ASIC/CPU/DRAM，模型生态竞争加剧。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名券商研报，内容具体有技术细节，但缺乏原始数据支撑。"
+    },
+    {
+      "title": "扫码扔垃圾能赚钱？我国 297 城居民小区垃圾分类基本实现全覆盖，智能回收与 AI 焚烧加速推进",
+      "link": "https://www.ithome.com/0/955/099.htm",
+      "pubDate": "Tue, 26 May 2026 00:44:53 GMT",
+      "contentSnippet": "IT之家 5 月 26 日消息，据央视今日报道，中国垃圾分类进入“提质增效”新阶段。\n此外，北京朝阳区的居民在家门口扫码扔垃圾即可按重量获得现金收益，商务楼宇借助 AI 智能计量系统将日均垃圾产量从 65 桶压缩至 55 桶以下，后端焚烧环节则通过 AI 控制将蒸汽稳定性提升 36% 以上。\n\n根据住房城乡建设部昨日最新发布的数据，全国 297 个地级及以上城市居民小区垃圾分类已基本实现全覆盖。\n截至 2025 年底，全国垃圾焚烧设施达 1137 座，日处理能力提升至 118 万吨，北京、浙江、山东等 15 个省市已实现原生生活垃圾“零填埋”，主要污染物排放控制水平位居世界领先地位。\n与此同时",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国297城垃圾分类全覆盖，智能回收与AI焚烧推进。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源权威（IT之家转央视），数据具体，逻辑清晰。"
+    },
+    {
+      "title": "日本计划编制3万亿日元补充预算应对能源涨价冲击",
+      "link": "https://36kr.com/newsflashes/3825406296937091?f=rss",
+      "pubDate": "2026-05-26 08:44:31  +0800",
+      "contentSnippet": "日本政府25日宣布将编制补充预算，以应对中东局势导致的能源价格上涨。不过，这一计划引发了关于财政压力的担忧。日本政府称，编制补充预算将通过增发赤字国债筹资，用于电力和燃气补贴、延续汽油价格补贴以及通过地方政府向液化石油气用户提供补贴等，规模略高于3万亿日元（约合1287亿元人民币），计划最早于下周提交国会审议。（央视新闻）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "日本计划编制3万亿日元补充预算应对能源涨价",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为36氪转载央视新闻，信息具体有数据支撑，逻辑清晰"
+    },
+    {
+      "title": "肉鸡养殖行业景气度高，4股获融资资金净买入",
+      "link": "https://36kr.com/newsflashes/3825404284408453?f=rss",
+      "pubDate": "2026-05-26 08:42:28  +0800",
+      "contentSnippet": "5月以来，受优质鸡苗稀缺、禽肉消费持续向好影响，白羽鸡养殖行业高景气持续，上游鸡苗与下游鸡肉产品同步回暖。据钢联数据统计，春节后至目前，毛鸡价格多维持在3.5元—3.7元/斤。在大多数时段内，商品代毛鸡的出栏利润稳定保持在1.3元—1.7元/斤区间内。二季度以来，融资资金加仓多只肉鸡养殖股。据数据宝统计，截至5月22日，益生股份、立华股份、圣农发展和民和股份4股获得融资资金净买入，金额依次为5391.58万元、1624.78万元、1054.36万元、564.14万元。业绩方面。圣农发展、仙坛股份一季度净利润同比大幅增长，增幅分别为71.41%、38.02%；益生股份、益客食品同比实现扭亏为盈。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "肉鸡养殖行业景气度高，4股获融资资金净买入",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体36氪，数据引用钢联和数据宝，内容具体有数据支撑"
+    },
+    {
+      "title": "中信证券下半年投资策略：农产品周期蓄势向上，关注细分赛道景气变化",
+      "link": "https://36kr.com/newsflashes/3825400823976834?f=rss",
+      "pubDate": "2026-05-26 08:38:57  +0800",
+      "contentSnippet": "36氪获悉，中信证券发布2026年下半年投资策略称，2026年为大宗农产品价格磨底、蓄势向上的元年。其中，在国际冲突、气候扰动下，种植链玉米、大豆等价格先行上涨，粮食安全属性凸显。生猪仍处深亏阶段，亏损+政策去产能持续下，2027年周期景气可期。肉禽产业链关注海外引种、消费等边际变化，目前处于弱复苏中。后周期动保略有承压，饲料龙头强者恒强，加大出海布局。其余细分赛道中，宠物经营低点或已过，关注后续外销&国内改善情况。代糖景气高位，且大单品阿洛酮糖落地。菌菇景气高位，关注后续大单品等扩容。整体来看，建议布局五条主线。1.左侧布局生猪周期反转。2.推荐经营稳健、穿越周期的公司。3.布局农产品周期向",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中信证券预测2026年农产品价格磨底，建议布局生猪、种植链等五条主线。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体36氪，内容具体有数据支撑，逻辑清晰，但无原始报告链接。"
+    },
+    {
+      "title": "消息称 Anthropic 酝酿公开上线最强模型 Mythos，短暂现身 Claude Code",
+      "link": "https://www.ithome.com/0/955/098.htm",
+      "pubDate": "Tue, 26 May 2026 00:35:33 GMT",
+      "contentSnippet": "IT之家 5 月 26 日消息，科技媒体 Testingcatalog 于 5 月 24 日发布博文，报道称 Anthropic 似乎准备公开上线 Claude Mythos 预览版。\n消息源透露在 Claude Code 和 Claude Security 的公开版本中，曾短暂出现名为“claude-mythos-1-preview”的模型选项，随后又被撤下，表明 Anthropic 很可能已进入上线前测试阶段。IT之家附上相关截图如下：\n\nClaude Mythos 可追溯到 4 月 7 日，官方定位为面向计算机安全任务的前沿模型，相比现有旗舰模型 Opus 4.7，明显提升代码推理和自主",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
         "IT之家",
-        "钛媒体"
+        "钛媒体",
+        "InfoQ中文"
       ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "Take-Two CEO称AI未能降低游戏成本，反而会推高研发成本。",
-      "credibilityScore": 90,
+      "coverageCount": 3,
+      "coverageBoost": 10,
+      "aiSummary": "Anthropic或即将上线最强模型Claude Mythos预览版。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体，引用CEO在CNBC的采访，内容具体且逻辑清晰。（多源覆盖 +5）"
+      "credibilityReason": "来源为知名科技媒体，信息具体且有截图佐证，但依赖单一消息源。（多源覆盖 +10）"
     },
     {
-      "title": "米奥会展：拟1.5亿元认购上海阶跃星辰智能科技股份",
-      "link": "https://36kr.com/newsflashes/3824694921188227?f=rss",
-      "pubDate": "2026-05-25 20:40:52  +0800",
-      "contentSnippet": "36氪获悉，米奥会展公告，公司拟以自有资金1.5亿元认购上海阶跃星辰智能科技股份有限公司发行的股份，获得少数股东权益。本次投资不涉及关联交易，不构成重大资产重组。公司主营境外会展业务，与标的公司无业务往来，且不参与其日常经营管理。投资存在技术研判偏差、收益未达预期及本金损失等风险，但不会影响公司现有业务及资产安全。",
+      "title": "直播间摆拍绑架？公安部网安局集中通报 5 起网络谣言典型案例",
+      "link": "https://www.ithome.com/0/955/097.htm",
+      "pubDate": "Tue, 26 May 2026 00:35:09 GMT",
+      "contentSnippet": "IT之家 5 月 26 日消息，公安部网安局今日集中通报 5 起网络谣言典型案例，包括直播间摆拍“绑架”博流量、用 AI 工具编造景区塌桥事故、恶意捏造校园不实信息等等，均为自导自演的网络闹剧，不断消耗公众的善意和警力资源。\n5 起案例中最具代表性的当属江西上栗的直播间摆拍“绑架”案。今年 4 月 24 日晚，违法行为人彭某为博取网络流量、增加粉丝关注，伙同郭某、李某、刘某等人编造虚构剧情，在直播期间制造虚假警情，甚至煽动网友报警。多名网友在看到“救命！直播间里有人被绑架了”等内容后信以为真，出于善意纷纷向警方报警。经调查，这场“绑架”实为自导自演的闹剧，上述 4 人因故意扰乱公共秩序、扰乱公",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "公安部通报5起网络谣言案例，含直播摆拍绑架。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源权威（IT之家），内容具体有案例细节，引用官方通报。"
+    },
+    {
+      "title": "银河证券：词元成为智能时代的价值锚点，建议围绕核心AI产业受益方向布局",
+      "link": "https://36kr.com/newsflashes/3825396762202752?f=rss",
+      "pubDate": "2026-05-26 08:34:49  +0800",
+      "contentSnippet": "36氪获悉，银河证券研报表示，词元已经成为智能时代的价值锚点，其广泛用于AI行业的结算单位。从需求侧来看，全球词元的调用量高速增长，推动AI产业从模型迭代走向商业化落地，这将有望从底层重构传媒行业的生产要素、产业逻辑和商业模式。词元经济赋能传统内容生产行业，在AIGC工具加持下，向着无限供给不断迈进，有望实现内容行业的繁荣。建议围绕核心AI产业受益方向布局，重点关注：AI综合布局加码的互联网大厂；AI视频工具产品力领先的厂商；受益于AI应用的细分领域头部公司；技术迭代不断推进的大模型厂商。",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -153,16 +239,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "米奥会展拟1.5亿元认购上海阶跃星辰智能科技股份",
+      "aiSummary": "银河证券称词元是智能时代价值锚点，建议布局核心AI受益方向。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体但缺乏技术细节和原始出处"
+      "credibilityReason": "来源为知名科技媒体36氪，内容具体且有研报支撑，但缺乏原始数据细节。"
     },
     {
-      "title": "和仁科技：筹划控制权变更事项，股票停牌",
-      "link": "https://36kr.com/newsflashes/3824690529342339?f=rss",
-      "pubDate": "2026-05-25 20:36:24  +0800",
-      "contentSnippet": "36氪获悉，和仁科技公告，公司控股股东杭州磐源投资有限公司及其一致行动人杭州磐鸿投资管理合伙企业（有限合伙），实际控制人杨一兵、杨波以及大股东通策医疗股份有限公司正在筹划涉及公司控制权变更的重大事项。为保证公平信息披露，避免股价异常波动，公司股票自2026年5月26日开市起停牌，预计停牌时间不超过2个交易日。",
+      "title": "韩国KOSPI指数站上8100点",
+      "link": "https://36kr.com/newsflashes/3825396301419395?f=rss",
+      "pubDate": "2026-05-26 08:34:20  +0800",
+      "contentSnippet": "36氪获悉，韩国KOSPI指数站上8100点，续创历史新高，日内涨3.24%。",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -170,95 +256,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "和仁科技因控制权变更筹划停牌，预计不超过2个交易日。",
-      "credibilityScore": 85,
+      "aiSummary": "韩国KOSPI指数创新高，站上8100点。",
+      "credibilityScore": 70,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，内容具体且引用公司公告，信息清晰。"
-    },
-    {
-      "title": "Anthropic 联合创始人奥拉：人工智能的发展不能仅由科技公司主导",
-      "link": "https://www.ithome.com/0/955/033.htm",
-      "pubDate": "Mon, 25 May 2026 12:34:37 GMT",
-      "contentSnippet": "IT之家 5 月 25 日消息，Anthropic 联合创始人克里斯・奥拉（Chris Olah）于当地时间周一表示，人工智能的发展不能完全交由科技公司，他呼吁宗教领袖、政府和民间社会加强监督。\n\nIT之家注意到，奥拉在教皇利奥十四世（Pope Leo XIV）首份关于人工智能的通谕发布仪式上发言称，人工智能极有可能在极大规模上取代人类劳动力。\n“倘若这一情况发生，为失业群体提供支持将是一项具有历史意义的道德责任。”他在教皇身边落座时如是说。\n他补充道，像他所在的公司这类企业，面临着巨大的商业、地缘政治及个人压力，这些压力有时会与社会整体利益相悖。\n“每一家前沿人工智能实验室…… 都处于一套激",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "Anthropic联合创始人呼吁多方监督AI发展，非仅科技公司主导。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有引用，但缺乏原始出处链接。"
-    },
-    {
-      "title": "小米米家洗衣机 Pro 波轮 12kg 开售：首发价 1099 元，1.3 洗净比",
-      "link": "https://www.ithome.com/0/955/032.htm",
-      "pubDate": "Mon, 25 May 2026 12:30:44 GMT",
-      "contentSnippet": "IT之家 5 月 25 日消息，小米米家洗衣机 Pro 波轮 12kg 今晚正式开售，建议零售价为 1299 元，首发价 1099 元。其具备 1.3 洗净比、99.99% 抗菌，并支持小米澎湃智联。\n\n京东米家波轮洗衣机 Pro 12 公斤 1099 元直达链接\n商品页面显示，这款洗衣机采用了全新的 DDM 变频直驱电机，减少机身摩擦；拥有 1.3 洗净比，省水 3.57%，洗涤噪音降低 12.9%，脱水噪音降低 8.3%，磨损率降低 43.5%。\n据IT之家了解，这款洗衣机采用抗菌波轮盘，拥有 99.99% 抑菌能力，大肠埃希氏菌去除率 99.96%、金黄色葡萄球菌金黄亚种去除率 99.9",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "小米米家洗衣机Pro波轮12kg开售，首发1099元，1.3洗净比。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，信息具体有数据支撑，逻辑清晰。"
-    },
-    {
-      "title": "宇树科技：第一季度扣非净利润同比下降52.55%至4025.36万元",
-      "link": "https://36kr.com/newsflashes/3824682311127684?f=rss",
-      "pubDate": "2026-05-25 20:28:02  +0800",
-      "contentSnippet": "36氪获悉，宇树科技股份有限公司首次公开发行股票并在科创板上市申请文件审核中心意见落实函回复中提到，报告期内，公司2026年1-3月实现营业收入4.23亿元，同比增幅由上年度的332.64%回落至68.49%，同时因研发费用、销售费用等期间费用大幅增加，扣非后净利润由上年同期的8483.65万元降至4025.36万元，同比下降幅度为52.55%。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "宇树科技一季度扣非净利润同比下降52.55%至4025万元",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体36氪，引用官方上市申请文件，数据具体"
-    },
-    {
-      "title": "飞亚达：长空齿轮机器人及商业航天业务收入占比较低，未来发展存在较大不确定性",
-      "link": "https://36kr.com/newsflashes/3824676346466944?f=rss",
-      "pubDate": "2026-05-25 20:21:58  +0800",
-      "contentSnippet": "36氪获悉，飞亚达公告，长空齿轮目前主要产品为精密齿轮、精密减速器，主要应用于航空航天、工程机械、高端装备等领域，其中机器人、商业航天等领域业务处在前期市场培育及探索阶段，未来发展及经营业绩存在较大不确定性。2026年一季度，长空齿轮机器人领域业务收入占其营业收入总额的比例不足10％，占公司营业收入总额的比例不足1％；商业航天领域业务收入占其营业收入总额的比例不足5％，占公司营业收入总额的比例不足0.5％。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "飞亚达公告称其机器人及商业航天业务收入占比低，未来不确定。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体36氪，内容基于公司公告，数据具体，逻辑清晰。"
-    },
-    {
-      "title": "荣耀 600 元气版手机发布：第四代骁龙 7，售 2699 元起",
-      "link": "https://www.ithome.com/0/955/031.htm",
-      "pubDate": "Mon, 25 May 2026 12:21:15 GMT",
-      "contentSnippet": "IT之家 5 月 25 日消息，除了超级版、Pro 版外，荣耀 600 元气版手机也在今晚发布，售价 2699 元起，国补价 2294.15 元起，今晚开启预约，6 月 3 日 10:05 开启首销。\nIT之家附价格如下：\n\n8GB+256GB 版 2699 元，国补价 2294.15 元\n\n12GB+256GB 版 2999 元，国补价 2549.15 元\n\n12GB+512GB 版 3399 元，国补价 2899 元\n\n\n据介绍，荣耀 600 元气版手机采用一体冷雕工艺、精研雾面金属中框、圆润 R 角过渡设计，拥有行业最窄 0.98mm 等距黑边。该机搭载第四代骁龙 7 移动平台，内置 7",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "荣耀600元气版发布，搭载第四代骁龙7，起售价2699元。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，信息具体包括价格、配置和发布时间，逻辑清晰。"
+      "credibilityReason": "来源为知名科技媒体36氪，信息具体有数据支撑，但非原始出处。"
     }
   ]
 }
