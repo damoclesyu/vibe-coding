@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-05-26T00:48:37.726Z",
+  "generatedAt": "2026-05-27T12:40:59.020Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "华泰证券：SpaceX上市或提升商业航天板块投资情绪",
-      "link": "https://36kr.com/newsflashes/3825363454644871?f=rss",
-      "pubDate": "2026-05-26 08:00:56  +0800",
-      "contentSnippet": "36氪获悉，华泰证券研报表示，近期SpaceX公布了招股说明书，计划6月挂牌上市。公司披露的招股书中详细介绍了公司当前的业务情况，并对后续发展规划进行了乐观展望，其中28.5万亿美元的市场空间叙事或将加强市场对航天产业和AI产业的发展潜力的认知。华泰证券认为，SpaceX作为全球领先的商业航天+AI企业，其上市计划或将提振我国航天产业的投资热情与信心，有望在中美资本市场形成共振，建议关注我国商业航天板块投资机遇。",
+      "title": "李强在浙江舟山宁波调研时强调，加快建设大宗商品资源配置枢，为统筹发展和安全提供可靠保障",
+      "link": "https://36kr.com/newsflashes/3827466009498505?f=rss",
+      "pubDate": "2026-05-27 19:39:45  +0800",
+      "contentSnippet": "中共中央政治局常委、国务院总理李强5月25日至27日在浙江省舟山市、宁波市调研。他强调，要深入贯彻落实习近平总书记关于构建大国储备体系的重要论述和指示精神，坚持政府主导、社会共建、多元互补，做好大宗商品和重要物资储备调节，强化战略保障、宏观调控和应对急需功能，持续提升产业链供应链韧性，加快建设大宗商品资源配置枢纽，为统筹发展和安全提供可靠保障。（新华社）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -16,33 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "华泰证券称SpaceX上市或提振商业航天板块投资情绪",
-      "credibilityScore": 75,
+      "aiSummary": "李强调研浙江，要求加快建设大宗商品资源配置枢纽。",
+      "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，内容基于华泰证券研报，逻辑清晰，但缺乏具体数据支撑"
+      "credibilityReason": "来源为权威媒体36氪，内容引用新华社，信息具体且客观。"
     },
     {
-      "title": "平台工程如何利用“黄金砖块”实现快速、顺畅的交付",
-      "link": "https://www.infoq.cn/article/7kRNbfNHJmyeVikxo5x4?utm_source=rss&utm_medium=article",
-      "pubDate": "Mon, 25 May 2026 19:00:00 GMT",
-      "contentSnippet": "点击查看原文>",
-      "sourceName": "InfoQ中文",
-      "sourceWeight": 78,
-      "allSources": [
-        "InfoQ中文"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "平台工程通过“黄金砖块”模式加速软件交付流程",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "InfoQ为知名技术媒体，内容聚焦平台工程实践，但缺少具体数据支撑"
-    },
-    {
-      "title": "微信鸿蒙版 App 发布 8.0.18.17 邀测升级",
-      "link": "https://www.ithome.com/0/955/101.htm",
-      "pubDate": "Tue, 26 May 2026 00:47:31 GMT",
-      "contentSnippet": "IT之家 5 月 26 日消息，微信鸿蒙版 App 今早发布了 8.0.18.17（8393233）版本邀测升级（需收到短信通知后点击链接跳转安装，未收到短信需继续等待），测试时间为 2026/5/26-2026/6/25。\n\n和往常一样，本次更新的说明依旧为“修复了一些已知问题”。不过，微信昨晚还发布了一个 8.0.18.16 版本的邀测升级，而该版本出现了一个 BUG，部分用户在升级后会遇到“该账号尚未获得体验资格”的提示。\n\nIT之家提醒：系统 / 软件升级尝鲜需谨慎，建议提前做好数据备份。已经升级 8.0.18.16 版本且无法正常登录的用户也无需着急，可以直接回退至最新正式版本解决该",
+      "title": "拼多多今年 Q1 营收 1062 亿元同比增长 11%，净利润 125 亿元同比下降 15%",
+      "link": "https://www.ithome.com/0/956/178.htm",
+      "pubDate": "Wed, 27 May 2026 11:09:08 GMT",
+      "contentSnippet": "IT之家 5 月 27 日消息，拼多多今日发布截至 3 月 31 日的 2026 年第一季度财报。财报显示，拼多多该季度营收 1062 亿元，同比增长 11%；净利润 125 亿元，同比下降 15%，IT之家从财报中获悉，净利下降主要源于“千亿扶持”及重仓供应链的持续投入，一定程度上影响了短期的业绩表现。\n拼多多集团联席董事长兼联席 CEO 赵佳臻表示，我们要求公司从上到下，必须以安全合规为前提、以社会责任为基石，以高质量发展为核心，久久为功，推动业务、团队、内部流程和组织管理的深刻变革，积极承担起平台型企业的责任和担当，为用户、产业和社会创造更多正向价值。\n拼多多集团联席董事长兼联席 CEO",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -50,50 +33,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "微信鸿蒙版发布8.0.18.17邀测升级，修复了8.0.18.16版本的部分BUG。",
+      "aiSummary": "拼多多Q1营收1062亿元增11%，净利125亿元降15%。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，内容具体，有版本号和测试时间，逻辑清晰。"
+      "credibilityReason": "来自知名科技媒体IT之家，引用财报数据，内容具体客观。"
     },
     {
-      "title": "中原内配：公司暂无储能电站业务",
-      "link": "https://36kr.com/newsflashes/3825408724537984?f=rss",
-      "pubDate": "2026-05-26 08:46:59  +0800",
-      "contentSnippet": "36氪获悉，中原内配在互动平台表示，公司暂无储能电站业务，公司主营业务聚焦于汽车零部件领域，并积极关注新能源产业链发展机会。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中原内配澄清暂无储能电站业务，聚焦汽车零部件。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，信息直接引用公司官方互动平台声明，内容具体明确。"
-    },
-    {
-      "title": "甘咨询：子公司承接中国电信甘肃庆阳智能算力中心二期土建工程第三方检测采购项目",
-      "link": "https://36kr.com/newsflashes/3825408106762881?f=rss",
-      "pubDate": "2026-05-26 08:46:21  +0800",
-      "contentSnippet": "36氪获悉，甘咨询在互动平台表示，子公司土木工程院承接的中国电信甘肃庆阳智能算力中心二期土建工程第三方检测采购项目，该业务属于公司主营业务中的工程检测类业务。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "甘咨询子公司承接中国电信甘肃庆阳算力中心检测项目",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪可信，信息具体有公司互动平台出处，但技术细节较少"
-    },
-    {
-      "title": "悉尼灯光节表演发生技术故障，近 90 架无人机坠海",
-      "link": "https://www.ithome.com/0/955/100.htm",
-      "pubDate": "Tue, 26 May 2026 00:45:36 GMT",
-      "contentSnippet": "IT之家 5 月 26 日消息，据央视新闻报道，当地时间 25 日晚，澳大利亚悉尼灯光节的无人机表演因技术故障被迫取消，多架无人机从空中坠落。当地时间 25 日 19 时 30 分，无人机表演开始不久，近 90 架无人机开始脱离编队，坠入附近的海港。\n有现场目击者向媒体表示，有人看到无人机掉在码头上，险些伤及一些工作人员。目击者称，虽然在夜间很难分辨无人机的大小，但它们坠入海湾时激起不小的水花。\n悉尼灯光节主办方表示，后续将调查事故发生原因，目前可以排除“蓄意干扰”的可能。\n\nIT之家注：悉尼灯光节（Vivid Sydney）是每年 5 月底至 6 月在澳大利亚悉尼举办的年度大型灯光、音乐与创",
+      "title": "Formula V Line 预告 Air Power G10 机箱：前置风扇支持角度调节",
+      "link": "https://www.ithome.com/0/956/165.htm",
+      "pubDate": "Wed, 27 May 2026 10:08:35 GMT",
+      "contentSnippet": "IT之家 5 月 27 日消息，中国台湾地区 PC 硬件品牌 Formula V Line 昨日宣布，将在 COMPUTEX 2026 台北国际电脑展上抢先展示全塔机箱新品 Air Power G10。这一型号的最大特色为具备可调整倾斜角度的前进气风扇安装架。\n\nFormula V Line 提到，PC 机箱的前进气设计多采用固定式风扇平贴前面板的方式，而 Air Power G10 的三组前进气风扇都搭载独立可倾斜支架，玩家可依需求调整每颗风扇的角度，将气流导向所需区域。\n该机箱的前部风扇支架还采用快速释放设计并配有独立的尼龙防尘过滤器，装机者可以拆除单个滤网进行清洁或将原装风扇更换为自己喜",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -101,33 +50,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "悉尼灯光节无人机表演故障，近90架无人机坠海。",
-      "credibilityScore": 85,
+      "aiSummary": "Formula V Line预告Air Power G10机箱，前置风扇支持角度调节。",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家，引用央视报道，信息具体有目击者描述，逻辑清晰。"
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体且逻辑清晰，但缺乏原始出处和更多技术细节。"
     },
     {
-      "title": "中信建投：海外AI行业核心投资逻辑呈现两条主线",
-      "link": "https://36kr.com/newsflashes/3825406731146119?f=rss",
-      "pubDate": "2026-05-26 08:44:57  +0800",
-      "contentSnippet": "36氪获悉，中信建投证券研报称，海外AI行业核心投资逻辑呈现两条主线：在硬件与基础设施端，大模型推理的“两相结构”与Agent编排工作流导致通用GPU的边际收益下降，算力军备竞赛正向能源与电网要素的竞争演变，并驱动服务器架构向高数据复用率的ASIC（如谷歌TPU）、高性能指挥层CPU（CPU:GPU配比迈向1:1）以及因扩容刚需价格暴涨的DDR5 DRAM发生结构性倾斜；在模型与云生态端，随着OpenAI GPT-5.5的发布，其Codex生态的下载安装量正缩小与Anthropic Claude Code的差距，鉴于模型技术领先到市场份额变化存在3—6个月的滞后效应 ，Microsoft、Or",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中信建投指出海外AI投资两条主线：硬件转向ASIC/CPU/DRAM，模型生态竞争加剧。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名券商研报，内容具体有技术细节，但缺乏原始数据支撑。"
-    },
-    {
-      "title": "扫码扔垃圾能赚钱？我国 297 城居民小区垃圾分类基本实现全覆盖，智能回收与 AI 焚烧加速推进",
-      "link": "https://www.ithome.com/0/955/099.htm",
-      "pubDate": "Tue, 26 May 2026 00:44:53 GMT",
-      "contentSnippet": "IT之家 5 月 26 日消息，据央视今日报道，中国垃圾分类进入“提质增效”新阶段。\n此外，北京朝阳区的居民在家门口扫码扔垃圾即可按重量获得现金收益，商务楼宇借助 AI 智能计量系统将日均垃圾产量从 65 桶压缩至 55 桶以下，后端焚烧环节则通过 AI 控制将蒸汽稳定性提升 36% 以上。\n\n根据住房城乡建设部昨日最新发布的数据，全国 297 个地级及以上城市居民小区垃圾分类已基本实现全覆盖。\n截至 2025 年底，全国垃圾焚烧设施达 1137 座，日处理能力提升至 118 万吨，北京、浙江、山东等 15 个省市已实现原生生活垃圾“零填埋”，主要污染物排放控制水平位居世界领先地位。\n与此同时",
+      "title": "华为郑俊谈中美 AI 竞争：模型整体水平差距仅 2.7%，今年 2 月以来中国模型的调用量持续碾压美国",
+      "link": "https://www.ithome.com/0/956/104.htm",
+      "pubDate": "Wed, 27 May 2026 09:10:21 GMT",
+      "contentSnippet": "IT之家 5 月 27 日消息，据凤凰网财经报道，在 2026 凤凰湾区财经论坛 · 金融峰会上，华为技术有限公司金融系统部 CTO 郑俊表示，在中美 AI 行业竞争中，双方在模型层面的差距已十分微小。根据斯坦福最新报告数据，中国 AI 模型整体水平仅落后美国 2.7%，整体实力已无限接近国际先进水平。\n\n郑俊指出，自今年 2 月份以来，中国模型的调用量持续碾压美国模型。他分析称，这一现象主要源于两大核心原因，一是国内开源模型能力大幅提升，已逼近美国闭源模型水平；二是依托中国基础设施优势，叠加算力、电力资源优势，国产 AI 模型具备更强的价格经济性。\n据IT之家今日早些时候报道，国务院新闻办公",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -135,86 +67,103 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国297城垃圾分类全覆盖，智能回收与AI焚烧推进。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源权威（IT之家转央视），数据具体，逻辑清晰。"
-    },
-    {
-      "title": "日本计划编制3万亿日元补充预算应对能源涨价冲击",
-      "link": "https://36kr.com/newsflashes/3825406296937091?f=rss",
-      "pubDate": "2026-05-26 08:44:31  +0800",
-      "contentSnippet": "日本政府25日宣布将编制补充预算，以应对中东局势导致的能源价格上涨。不过，这一计划引发了关于财政压力的担忧。日本政府称，编制补充预算将通过增发赤字国债筹资，用于电力和燃气补贴、延续汽油价格补贴以及通过地方政府向液化石油气用户提供补贴等，规模略高于3万亿日元（约合1287亿元人民币），计划最早于下周提交国会审议。（央视新闻）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "日本计划编制3万亿日元补充预算应对能源涨价",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为36氪转载央视新闻，信息具体有数据支撑，逻辑清晰"
-    },
-    {
-      "title": "肉鸡养殖行业景气度高，4股获融资资金净买入",
-      "link": "https://36kr.com/newsflashes/3825404284408453?f=rss",
-      "pubDate": "2026-05-26 08:42:28  +0800",
-      "contentSnippet": "5月以来，受优质鸡苗稀缺、禽肉消费持续向好影响，白羽鸡养殖行业高景气持续，上游鸡苗与下游鸡肉产品同步回暖。据钢联数据统计，春节后至目前，毛鸡价格多维持在3.5元—3.7元/斤。在大多数时段内，商品代毛鸡的出栏利润稳定保持在1.3元—1.7元/斤区间内。二季度以来，融资资金加仓多只肉鸡养殖股。据数据宝统计，截至5月22日，益生股份、立华股份、圣农发展和民和股份4股获得融资资金净买入，金额依次为5391.58万元、1624.78万元、1054.36万元、564.14万元。业绩方面。圣农发展、仙坛股份一季度净利润同比大幅增长，增幅分别为71.41%、38.02%；益生股份、益客食品同比实现扭亏为盈。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "肉鸡养殖行业景气度高，4股获融资资金净买入",
+      "aiSummary": "华为高管称中美AI模型差距仅2.7%，中国模型调用量碾压美国。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，数据引用钢联和数据宝，内容具体有数据支撑"
+      "credibilityReason": "来源IT之家较知名，引用斯坦福报告和具体数据，但缺乏原始出处验证。"
     },
     {
-      "title": "中信证券下半年投资策略：农产品周期蓄势向上，关注细分赛道景气变化",
-      "link": "https://36kr.com/newsflashes/3825400823976834?f=rss",
-      "pubDate": "2026-05-26 08:38:57  +0800",
-      "contentSnippet": "36氪获悉，中信证券发布2026年下半年投资策略称，2026年为大宗农产品价格磨底、蓄势向上的元年。其中，在国际冲突、气候扰动下，种植链玉米、大豆等价格先行上涨，粮食安全属性凸显。生猪仍处深亏阶段，亏损+政策去产能持续下，2027年周期景气可期。肉禽产业链关注海外引种、消费等边际变化，目前处于弱复苏中。后周期动保略有承压，饲料龙头强者恒强，加大出海布局。其余细分赛道中，宠物经营低点或已过，关注后续外销&国内改善情况。代糖景气高位，且大单品阿洛酮糖落地。菌菇景气高位，关注后续大单品等扩容。整体来看，建议布局五条主线。1.左侧布局生猪周期反转。2.推荐经营稳健、穿越周期的公司。3.布局农产品周期向",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
+      "title": "华为余承东“剧透”：尊界百万级 MPV、高定版 S800 都会亮相粤港澳车展",
+      "link": "https://www.ithome.com/0/956/087.htm",
+      "pubDate": "Wed, 27 May 2026 08:44:05 GMT",
+      "contentSnippet": "IT之家 5 月 27 日消息，鸿蒙智行问界 M9 系列新品发布会已落下帷幕，全新一代问界 M9 正式发布，带来了超 140 项全新技术、40 项行业首创，标准版 47.98 万元起、Ultimate 领世加长版 64.98 万元起。\n\nIT之家在发布会现场听到了华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东的“剧透”，鸿蒙智行全系将亮相粤港澳车展，会重点展出新一代问界 M9，届时尊界尚未发布的百万级 MPV（预计是尊界 V800）、高定版 S800 也会在车展上进行展出。\n\n相关阅读：\n\n《6 月见：华为余承东揭晓尊界超高端豪华系列新作，S800 Grand Design 典",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "36氪"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中信证券预测2026年农产品价格磨底，建议布局生猪、种植链等五条主线。",
+      "aiSummary": "华为余承东透露尊界百万级MPV和高定版S800将亮相粤港澳车展。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，内容具体有数据支撑，逻辑清晰，但无原始报告链接。"
+      "credibilityReason": "来源为知名科技媒体IT之家，内容具体且有直接引用，逻辑清晰。"
     },
     {
-      "title": "消息称 Anthropic 酝酿公开上线最强模型 Mythos，短暂现身 Claude Code",
-      "link": "https://www.ithome.com/0/955/098.htm",
-      "pubDate": "Tue, 26 May 2026 00:35:33 GMT",
-      "contentSnippet": "IT之家 5 月 26 日消息，科技媒体 Testingcatalog 于 5 月 24 日发布博文，报道称 Anthropic 似乎准备公开上线 Claude Mythos 预览版。\n消息源透露在 Claude Code 和 Claude Security 的公开版本中，曾短暂出现名为“claude-mythos-1-preview”的模型选项，随后又被撤下，表明 Anthropic 很可能已进入上线前测试阶段。IT之家附上相关截图如下：\n\nClaude Mythos 可追溯到 4 月 7 日，官方定位为面向计算机安全任务的前沿模型，相比现有旗舰模型 Opus 4.7，明显提升代码推理和自主",
+      "title": "工信部：重点开展汽车质量可靠性、车用固态电池标准体系研究",
+      "link": "https://www.ithome.com/0/956/070.htm",
+      "pubDate": "Wed, 27 May 2026 08:27:01 GMT",
+      "contentSnippet": "IT之家 5 月 27 日消息，据央视新闻，工业和信息化部《2026 年度汽车标准化体系》制定完成，这一体系涵盖诸多方面的内容，强化了标准体系的顶层设计，赋能汽车产业高质量发展。\nIT之家从报道中获悉，2026 年度汽车标准化体系将健全完善智能网联汽车、汽车芯片、新能源汽车、汽车低碳发展等重点领域标准体系，重点开展汽车质量可靠性、车用固态电池标准体系研究，更新和完善数据治理及应用、汽车人工智能等标准子体系，前瞻布局前沿领域标准研究。\n在促进新兴领域创新发展方面，重点围绕驾驶自动化、网联功能与应用、信息安全与数据安全、资源管理与信息服务、汽车软件、汽车数据、“车路云一体化”等领域加速标准研制与迭",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "工信部制定2026年汽车标准化体系，重点研究固态电池标准。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，内容具体且引用央视新闻，信息清晰。"
+    },
+    {
+      "title": "LG“27GM950B”27 英寸显示器国行 5 月 30 日开启预约：5K 180Hz/2K 330Hz 双模 Mini LED + 双扬",
+      "link": "https://www.ithome.com/0/956/196.htm",
+      "pubDate": "Wed, 27 May 2026 12:37:45 GMT",
+      "contentSnippet": "IT之家 5 月 27 日消息，LG 旗下型号为“27GM950B”的 27 英寸显示器国行将于 5 月 30 日开启预约，该机配备了总计 9216 颗 Mini LED 灯珠，核心规格为 5K 180Hz/2K 330Hz 双模，海外定价为 1200 美元（IT之家注：现汇率约合 8158 元人民币）。\n\n\n该机配备的 Mini LED 背光面板支持以 5120x2880 分辨率 180Hz 或者 2560x1440 分辨率 330Hz 显示，其拥有 2304 个独立控光分区，总计 9216 颗 Mini-LED 灯珠，峰值亮度最高可达 1250 尼特。\n此外，该显示器采用“Zero Opt",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
         "IT之家",
-        "钛媒体",
-        "InfoQ中文"
+        "钛媒体"
       ],
-      "coverageCount": 3,
-      "coverageBoost": 10,
-      "aiSummary": "Anthropic或即将上线最强模型Claude Mythos预览版。",
-      "credibilityScore": 85,
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "LG 27英寸5K/2K双模Mini LED显示器国行5月30日预约。",
+      "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，信息具体且有截图佐证，但依赖单一消息源。（多源覆盖 +10）"
+      "credibilityReason": "来自IT之家和钛媒体，信息具体有规格数据，来源可信。（多源覆盖 +5）"
     },
     {
-      "title": "直播间摆拍绑架？公安部网安局集中通报 5 起网络谣言典型案例",
-      "link": "https://www.ithome.com/0/955/097.htm",
-      "pubDate": "Tue, 26 May 2026 00:35:09 GMT",
-      "contentSnippet": "IT之家 5 月 26 日消息，公安部网安局今日集中通报 5 起网络谣言典型案例，包括直播间摆拍“绑架”博流量、用 AI 工具编造景区塌桥事故、恶意捏造校园不实信息等等，均为自导自演的网络闹剧，不断消耗公众的善意和警力资源。\n5 起案例中最具代表性的当属江西上栗的直播间摆拍“绑架”案。今年 4 月 24 日晚，违法行为人彭某为博取网络流量、增加粉丝关注，伙同郭某、李某、刘某等人编造虚构剧情，在直播期间制造虚假警情，甚至煽动网友报警。多名网友在看到“救命！直播间里有人被绑架了”等内容后信以为真，出于善意纷纷向警方报警。经调查，这场“绑架”实为自导自演的闹剧，上述 4 人因故意扰乱公共秩序、扰乱公",
+      "title": "全新问界M9正式发布",
+      "link": "https://36kr.com/newsflashes/3827520794006402?f=rss",
+      "pubDate": "2026-05-27 20:35:29  +0800",
+      "contentSnippet": "36氪获悉，5月27日，全新问界M9正式发布，售价47.98-65.98万元。据了解，新一代问界M9全系标配华为乾崑ADS 5.0，全车一共6颗激光雷达、5颗4D毫米波雷达、12个摄像头、16个超声波雷达，主雷达从192线升级至896线。问界M9纯电版搭载120kWh巨鲸电池CLTC续航最高750km；增程版提供60/75kWh电池包，WLTC纯电续航最高335km，CLTC 综合续航最高1474km。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪",
+        "IT之家"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "全新问界M9发布，售价47.98万起，搭载华为ADS 5.0和896线激光雷达。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体36氪和IT之家，信息具体且有数据支撑，技术细节清晰。（多源覆盖 +5）"
+    },
+    {
+      "title": "雷鸟 GT Max 体验：267 英寸的私人影院，搬家带走只需一秒",
+      "link": "https://www.ifanr.com/1667059?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pubDate": "Wed, 27 May 2026 12:32:33 +0000",
+      "contentSnippet": "巨幕体验，也能在狭小空间里发生，我想这就够了。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "sourceName": "爱范儿",
+      "sourceWeight": 82,
+      "allSources": [
+        "爱范儿"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "雷鸟GT Max提供267英寸巨幕体验，便携易带。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体爱范儿，内容具体但缺乏技术细节和原始出处。"
+    },
+    {
+      "title": "【IT之家评测室】把 267 吋巨幕戴在头上、将 AI 融入日常：雷鸟 GT Max / V4 智能眼镜评测",
+      "link": "https://www.ithome.com/0/956/195.htm",
+      "pubDate": "Wed, 27 May 2026 12:30:20 GMT",
+      "contentSnippet": "2025 年，全球 AR 眼镜彻底迎来了“爆发期”。CounterPoint 数据显示，2025 年全球 AR 智能眼镜出货量同比增长 98%，创下历史新高，下半年增速更是狂飙至 148%。\n在这场热潮中，雷鸟以 29% 的份额稳居全球第一，成了名副其实的“头号玩家”。\n稳固了“观影 AR 一哥”的地位后，就在 5 月 27 日晚间，雷鸟再次放招，带来了两款重磅新品：\n定位行业首款专业影视级 AR 眼镜的 —— 雷鸟 GT 系列和 V4。前者售价 2599 元，叠加国补后仅需 2209 元起；而雷鸟 V4 售价 2199 元起，国补价更是来到了 1869 元。\n\n雷鸟 GT Max\n据介绍，雷",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -222,33 +171,50 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "公安部通报5起网络谣言案例，含直播摆拍绑架。",
+      "aiSummary": "IT之家评测雷鸟GT Max/V4智能眼镜，称其将巨幕戴头上并融入AI。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源权威（IT之家），内容具体有案例细节，引用官方通报。"
+      "credibilityReason": "来自知名科技媒体IT之家，内容具体有数据支撑，逻辑清晰。"
     },
     {
-      "title": "银河证券：词元成为智能时代的价值锚点，建议围绕核心AI产业受益方向布局",
-      "link": "https://36kr.com/newsflashes/3825396762202752?f=rss",
-      "pubDate": "2026-05-26 08:34:49  +0800",
-      "contentSnippet": "36氪获悉，银河证券研报表示，词元已经成为智能时代的价值锚点，其广泛用于AI行业的结算单位。从需求侧来看，全球词元的调用量高速增长，推动AI产业从模型迭代走向商业化落地，这将有望从底层重构传媒行业的生产要素、产业逻辑和商业模式。词元经济赋能传统内容生产行业，在AIGC工具加持下，向着无限供给不断迈进，有望实现内容行业的繁荣。建议围绕核心AI产业受益方向布局，重点关注：AI综合布局加码的互联网大厂；AI视频工具产品力领先的厂商；受益于AI应用的细分领域头部公司；技术迭代不断推进的大模型厂商。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
+      "title": "一个要第二曲线，一个要曲线上市：嘉戎技术与杭州蓝然的“双向奔赴”|并购一线",
+      "link": "https://www.tmtpost.com/8004659.html",
+      "pubDate": "Wed, 27 May 2026 20:29:59 +0800",
+      "contentSnippet": "这是一场环保老炮的突围战。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
       "allSources": [
-        "36氪"
+        "钛媒体"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "银河证券称词元是智能时代价值锚点，建议布局核心AI受益方向。",
+      "aiSummary": "嘉戎技术与杭州蓝然通过并购实现双向战略需求。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，内容具体且有研报支撑，但缺乏原始数据细节。"
+      "credibilityReason": "来源为知名科技媒体，内容具体但缺少数据支撑。"
     },
     {
-      "title": "韩国KOSPI指数站上8100点",
-      "link": "https://36kr.com/newsflashes/3825396301419395?f=rss",
-      "pubDate": "2026-05-26 08:34:20  +0800",
-      "contentSnippet": "36氪获悉，韩国KOSPI指数站上8100点，续创历史新高，日内涨3.24%。",
+      "title": "雷柏推出 VT3 V2 系列中大手版本鼠标：可选原相 3950/3955 Ultimate 传感器，199-299 元",
+      "link": "https://www.ithome.com/0/956/194.htm",
+      "pubDate": "Wed, 27 May 2026 12:25:54 GMT",
+      "contentSnippet": "IT之家 5 月 27 日消息，雷柏现已在京东上架 VT3 V2 系列中大手版本鼠标，定价为 199 元起，IT之家整理价格信息如下：\n\n标准版（原相 3950）黑色版 / 黑白版：199 元\n\n标准版（原相 3950）炽黄色 / 树莓粉：219 元\n\nPRO 版（原相 3955）炽黄色：299 元\n\n\n\n该鼠标整体重量约 55g，专为中大手用户设计，采用非对称人体工学模具，适合抓握、趴握或抓趴混合握姿，长时间使用依然舒适。\n该鼠标搭载原相 3950/3955 Ultimate 传感器，同时配备 Nordic 54L5 芯片，其中 Pro 版本提供至高 8KHz 按键扫描率、1.2 亿次雷柏特",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "雷柏发布VT3 V2系列鼠标，199-299元，可选原相3950/3955传感器。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体含价格、传感器型号等细节，逻辑清晰。"
+    },
+    {
+      "title": "*ST英飞：因金融借款合同纠纷被起诉 法院已查封公司英飞拓大楼",
+      "link": "https://36kr.com/newsflashes/3827510901445248?f=rss",
+      "pubDate": "2026-05-27 20:25:25  +0800",
+      "contentSnippet": "36氪获悉，*ST英飞公告，公司收到深圳市龙岗区人民法院送达的起诉材料，因金融借款合同纠纷，中国银行深圳布吉支行对公司提起诉讼，涉案金额合计1.76亿元。目前案件尚未开庭审理。此外，法院已查封公司位于深圳市宝安区观澜街道的英飞拓大楼，查封期限为2026年5月12日至2029年5月11日。",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -256,10 +222,44 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "韩国KOSPI指数创新高，站上8100点。",
-      "credibilityScore": 70,
+      "aiSummary": "*ST英飞因1.76亿借款纠纷被起诉，法院查封其英飞拓大楼。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，信息具体有数据支撑，但非原始出处。"
+      "credibilityReason": "来源为知名科技媒体36氪，内容具体有数据支撑，信息清晰客观。"
+    },
+    {
+      "title": "段永平增持泡泡玛特",
+      "link": "https://36kr.com/newsflashes/3827506114433928?f=rss",
+      "pubDate": "2026-05-27 20:20:33  +0800",
+      "contentSnippet": "36氪获悉，5月27日，港交所信息显示，泡泡玛特迎来主要股东权益变动，段永平与H&H International Investment, LLC同步增持公司股份，一致行动人持股比例达5.69%，触发强制披露要求。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "段永平增持泡泡玛特，持股达5.69%触发披露",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪为知名科技媒体，信息具体有港交所数据支撑，逻辑清晰"
+    },
+    {
+      "title": "余承东公布问界成绩单：问界M7累计交付45万辆",
+      "link": "https://36kr.com/newsflashes/3827505377629056?f=rss",
+      "pubDate": "2026-05-27 20:19:48  +0800",
+      "contentSnippet": "36氪获悉，5月27日问界M9发布会上，华为常务董事余承东公布问界成绩单：问界M5累计交付15.5万辆；问界M6上市首月交付破2万；问界M7累计交付45万辆；问界M8交付18万辆；问界M9累计交付28.5万辆。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "余承东公布问界多款车型累计交付数据，M7达45万辆。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪为知名科技媒体，内容具体有数据支撑，引用高管公开发言。"
     }
   ]
 }
