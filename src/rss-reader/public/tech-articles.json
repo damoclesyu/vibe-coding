@@ -1,31 +1,14 @@
 {
-  "generatedAt": "2026-05-28T04:01:49.757Z",
+  "generatedAt": "2026-05-29T04:04:20.844Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "半日主力资金加仓电子股，抛售非银金融股",
-      "link": "https://36kr.com/newsflashes/3828414945038985?f=rss",
-      "pubDate": "2026-05-28 11:51:00  +0800",
-      "contentSnippet": "主力资金早间净流入电子、机械设备、公用事业、通信、国防军工等板块，净流出非银金融、计算机、家用电器、医药生物、食品饮料等板块。具体到个股来看，风华高科、中芯国际、云南诸业获净流入23.07亿元、21.82亿元、19.68亿元。净流出方面，东山精密、长电科技、胜宏科技遭抛售17.26亿元、17.23亿元、12.85亿元。（第一财经）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "主力资金早间加仓电子股，抛售非银金融股。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容引用第一财经数据，具体个股金额详实。"
-    },
-    {
-      "title": "鸿蒙智行尚界 H5 改款预售：新增 15.6 英寸随动屏、W-HUD 抬头显示等，16.98 万元起",
-      "link": "https://www.ithome.com/0/956/317.htm",
-      "pubDate": "Thu, 28 May 2026 02:42:04 GMT",
-      "contentSnippet": "IT之家 5 月 28 日消息，尚界汽车今日宣布，尚界 H5 改款正式预售，预售价 16.98 万元起：\n\n尚界 H5 Pro：增程 16.98 万元起，535km 纯电 17.58 万元起\n\n尚界 H5 Pro 长续航版：655km 纯电 18.98 万元起\n\n尚界 H5 Max+：增程 18.98 万元起，525km 纯电 19.58 万元起\n\n尚界 H5 Max+ 长续航版：640km 纯电 20.98 万元起\n\n官方表示，尚界 H5 新增原野绿和馥蕾红两款车色，即将亮相粤港澳车展，全新展车正在陆续到店。\n\n官方公布了新车的七大升级，IT之家整理如下：\n\n前排舒享升级：新增主副驾座椅 8",
+      "title": "新乐道 L60 预售：6 月 11 日上市，激光雷达 / 神玑 NX9031 芯片 / 蔚来世界模型加持",
+      "link": "https://www.ithome.com/0/956/977.htm",
+      "pubDate": "Fri, 29 May 2026 03:23:06 GMT",
+      "contentSnippet": "IT之家 5 月 29 日消息，在今天上午的粤港澳大湾区车展期间，蔚来新款乐道 L60 正式发布并开启预售。新车具有 106 项升级，展车已到达全国门店，6 月 6 日开放试驾，6 月 11 日正式上市。\n\n据IT之家了解，新车外观基本与现款车型一致，车顶配备了激光雷达，尾标则由“ONVO”字标换成了乐道 Logo。新车长宽高分别为 4828/1930/1616mm，轴距 2950mm，定位中型 SUV。\n配置上，新车升级了 17.3 英寸 3K 后排吸顶式折叠屏，增设天窗遮阳帘、超纤绒顶棚，配备 6L 智能冷暖箱。\n新乐道 L60 搭载蔚来自研 5nm 车规级智驾芯片神玑 NX9031 及蔚",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -33,50 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "尚界H5改款预售16.98万起，新增随动屏和W-HUD等配置。",
+      "aiSummary": "蔚来乐道L60预售，6月11日上市，搭载激光雷达和自研芯片。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，信息具体有数据支撑，逻辑清晰。"
+      "credibilityReason": "来源IT之家为知名科技媒体，信息具体有数据支撑，逻辑清晰。"
     },
     {
-      "title": "澳大利亚政府就“永久化学品”污染起诉3M公司",
-      "link": "https://36kr.com/newsflashes/3828338828333696?f=rss",
-      "pubDate": "2026-05-28 10:33:33  +0800",
-      "contentSnippet": "澳大利亚政府正在起诉3M公司并索赔逾14亿美元，指控这家制造企业隐瞒了所谓“永久化学品”的相关信息，这些化学品曾被用于澳大利亚28个国防基地。澳大利亚政府周四表示，由于消防泡沫中的化学物质引发污染，正寻求超过20亿澳元、折合14.3亿美元的损害赔偿。（新浪财经）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "澳大利亚政府起诉3M公司，索赔14亿美元，指控其隐瞒永久化学品污染。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，内容具体有数据支撑，引用新浪财经原始出处。"
-    },
-    {
-      "title": "自然资源部：力争到2030年海洋创新药产业增加值突破1300亿元",
-      "link": "https://36kr.com/newsflashes/3828337308504706?f=rss",
-      "pubDate": "2026-05-28 10:26:05  +0800",
-      "contentSnippet": "5月28日，自然资源部召开5月例行新闻发布会，发布并解读《关于加快海洋药物和功能制品高质量发展的指导意见》。《指导意见》的工作目标是，力争到2030年，多项海洋创新药上市，产业增加值突破1300亿元，创新能力和集聚水平显著提升，综合实力进入国际前列。（证券时报）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "自然资源部目标2030年海洋创新药产业增加值达1300亿元",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为36氪转载证券时报，信息具体有政策文件支撑，但缺少原始文件细节"
-    },
-    {
-      "title": "西班牙推进 AI 使用领域立法：未来违规面临最高 3500 万欧元罚款",
-      "link": "https://www.ithome.com/0/956/288.htm",
-      "pubDate": "Thu, 28 May 2026 02:09:34 GMT",
-      "contentSnippet": "IT之家 5 月 28 日消息，西班牙部长会议当地时间 26 日批准了该国数字化转型和公共管理部提议的《人工智能合理使用和管理组织法》草案，这一法案草案将交由西班牙众议院审议。\n该草案旨在将欧盟层面的《欧洲人工智能法案》纳入西班牙本国法律体系，将监管手段与促进安全、人道和基于权利的创新相结合。草案还明确了西班牙 AI 监管机构并建立了相应的制裁机制，鼓励国家公共部门采用 AI 技术。\n\n图源：Pexels\n《人工智能合理使用和管理组织法》把违法行为按程度划分为非常严重、严重、轻微三类。“非常严重”面临最高 3500 万欧元或营业额 7% 的罚金；“轻微”一档的惩罚上限则是 50 万欧元或营业额",
+      "title": "全新猛士 M817 预售：底盘对标百万级路虎卫士、华为乾崑智驾，37 万元起",
+      "link": "https://www.ithome.com/0/956/918.htm",
+      "pubDate": "Fri, 29 May 2026 02:37:36 GMT",
+      "contentSnippet": "IT之家 5 月 29 日消息，在今日的 2026 粤港澳大湾区车展上，全新猛士 M817 开启预售，37 万元起。\n\n\n\n\n\n全新猛士 M817 可选六款配色，官方主推一款“乌兰橙”，色彩取自内蒙古乌兰哈达火山群。\n\n动力方面，全新猛士 M817 搭载 2.0T 极猛动力，迎来 43 项技术升级，实现 9 项同级第一。\n全新猛士 M817 系统综合功率可达 715kW，轮边扭矩 13685N·m，宣称高速 161km/h 不掉电。\n\n\n续航方面，全新猛士 M817 配备 62.5kWh 电池，纯电续航最长 301km，综合续航最长 1450km，馈电油耗最低 6.99L/100km，行业首搭",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -84,169 +33,85 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "西班牙批准AI法案草案，违规最高罚3500万欧元。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，内容具体有数据支撑，逻辑清晰。"
-    },
-    {
-      "title": "2026 粤港澳大湾区车展官方展位图公布：张雪机车参展，比亚迪首设芯片展区，近百台老爷车首次同台亮相",
-      "link": "https://www.ithome.com/0/956/275.htm",
-      "pubDate": "Thu, 28 May 2026 01:22:42 GMT",
-      "contentSnippet": "IT之家 5 月 28 日消息，第 30 届粤港澳大湾区车展于 2026 年 5 月 29 日至 6 月 7 日在深圳国际会展中心（宝安）举办，拥有 11 个展馆 + 户外展区、30 万㎡展场、100+ 品牌、1300+ 款车型。\n第 30 届粤港澳大湾区车展官方 5 月 27 日晚公布了展位图，透露了本次车展的几大看点，IT之家汇总如下：\n1-7 号馆整车展区\n各大车企携全系车型登台，新车发布会轮番上演，比亚迪集团、鸿蒙智行、华为乾崑都有独立的展馆。\n值得关注的是，比亚迪集团专馆中首次出现了“比亚迪芯片”展区，可能会有惊喜。而比亚迪智能化战略发布会将在今晚（5 月 28 日晚）举行，大家可以",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "2026粤港澳大湾区车展展位图公布，比亚迪首设芯片展区。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，信息具体有数据支撑，逻辑清晰。"
-    },
-    {
-      "title": "优衣库、沪上阿姨、汉堡王、可口可乐、迪卡侬等被通报，App 或小程序涉及收集非必要个人信息等",
-      "link": "https://www.ithome.com/0/956/378.htm",
-      "pubDate": "Thu, 28 May 2026 04:00:39 GMT",
-      "contentSnippet": "IT之家 5 月 28 日消息，上海市网信办 5 月 25 日发布关于属地 App 个人信息收集使用问题的通报（2026 年第二批-消费零售专项），优衣库、沪上阿姨、汉堡王、可口可乐、迪卡侬等被通报。\nIT之家附名单如下：\n\n应用名称运营者应用来源版本号\n识货上海识致信息科技有限责任公司华为应用市场8.73.0\n优衣库迅销（中国）商贸有限公司华为应用市场5.7.5\n95 分上海置潮信息科技有限公司华为应用市场3.31.50\n网鱼上海网鱼信息科技有限公司华为应用市场3.8.9\n波奇宠物光橙（上海）信息科技有限公司华为应用市场4.7.28\n齐家装修上海齐屹信息科技有限公司华为应用市场5.6.5\n沪",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "上海网信办通报优衣库等App违规收集个人信息。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有官方通报依据。"
-    },
-    {
-      "title": "vivo 首款无线头戴降噪耳机卖点公布：75 小时续航、58dB 降噪，5 月 29 日发布",
-      "link": "https://www.ithome.com/0/956/376.htm",
-      "pubDate": "Thu, 28 May 2026 03:52:41 GMT",
-      "contentSnippet": "IT之家 5 月 28 日消息，vivo 首款无线头戴降噪耳机将于 5 月 29 日 19:30 发布，官方今日公布新品的 6 大卖点。\n\nIT之家从官方介绍获悉，该产品支持高沉浸主动降噪，降噪最大深度达 58dB；采用超软皮质耳罩，238g 轻盈佩戴；跨生态无缝三连接，可同时连接手机、平板、电脑。\n此外，该产品还拥有 Hi-Res 金标高清音质，40mm 大动圈单元；影院级空间音频，360° 环绕声效；至长 75 小时续航，告别电量焦虑。\n外观方面，该产品提供云雾白、微风紫两款配色。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "vivo首款无线头戴降噪耳机5月29日发布，主打58dB降噪和75小时续航。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容具体有数据支撑，但缺少原始出处和第三方验证。"
-    },
-    {
-      "title": "比亚迪全新腾势 Z9GT 两个半月累计交付超 1 万台，26.98 万元起",
-      "link": "https://www.ithome.com/0/956/375.htm",
-      "pubDate": "Thu, 28 May 2026 03:52:07 GMT",
-      "contentSnippet": "IT之家 5 月 28 日消息，比亚迪旗下腾势汽车今日宣布，全新腾势 Z9GT 累计交付超 10000 台。\n\n据IT之家此前报道，3 月 13 日，全新腾势 Z9GT 正式交付，距今已有两个半月，官方指导价 26.98 万元起：\n纯电\n\n闪充尊荣型：26.98 万元\n\n闪充旗舰型：29.98 万元\n\n易三方闪充性能型：36.98 万元\n\n插混\n\n易三方闪充尊荣型：30.98 万元\n\n易三方闪充旗舰型：33.98 万元\n\n\n全新腾势 Z9GT 是全球首台搭载比亚迪第二代刀片电池及闪充技术的量产交付车型，纯电版车型 CLTC 续航最高 1036 公里，插混版车型纯电续航 401 公里，综合续航",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "腾势Z9GT两个半月交付超1万台，起售价26.98万元。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，信息具体有数据支撑，逻辑清晰。"
-    },
-    {
-      "title": "海韵 2026 台北国际电脑展将展 80 PLUS Ruby 认证 5200W 电源",
-      "link": "https://www.ithome.com/0/956/374.htm",
-      "pubDate": "Thu, 28 May 2026 03:50:21 GMT",
-      "contentSnippet": "IT之家 5 月 28 日消息，海韵 (Seasonic) 昨日宣布将在 COMPUTEX 2026 台北国际电脑展上展出一系列的电源新品。\n\n在服务器产品线方面，海韵将带来 1300~5200W 的多款 CRPS（通用冗余电源），其中 5200W 型号通过 80 PLUS 最为严苛的 Ruby 红宝石级别能效认证，峰值转换效率可达 96.5%。\n对于工作站，海韵在现有 PRIME 系列之上提供了 PRIME ENTERPRISE 系列。其具备 Zero-DOA 零故障出厂目标、EDPP 高动态负载反应、＜0.5% 电压偏移、强化 EMI / EMC 抗干扰设计，包括 TX-1600、PX-3",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "海韵将在2026台北电脑展展示80 PLUS Ruby认证5200W电源。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家知名科技媒体，内容具体有产品细节和认证信息，逻辑清晰。"
-    },
-    {
-      "title": "蔚来CEO李斌：原材料价格上涨，整车成本已涨了1万元左右",
-      "link": "https://36kr.com/newsflashes/3828419004404609?f=rss",
-      "pubDate": "2026-05-28 11:49:12  +0800",
-      "contentSnippet": "36氪获悉，5月28日，蔚来CEO李斌在“蔚来ES9媒体面对面”交流中提到，今年以来，包括镍、钴、碳酸锂等原材料价格上涨，一辆车的成本涨了一万多元。李斌提到，涉及大宗商品、内存芯片等产品，不止影响汽车汽车行业，也会影响增长更猛、更有钱的行业，所以车企没什么议价权。今年以来内存涨价后还没降下来，原材料带来的成本上升再短期内也难以下降，这些成本都得企业自行消化。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "蔚来CEO称原材料涨价致单车成本上涨约1万元。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体36氪，内容具体且有直接引用，逻辑清晰。"
-    },
-    {
-      "title": "腾讯：《王者荣耀》将与阅文集团继续开展战略合作，并积极探索游戏AI应用",
-      "link": "https://36kr.com/newsflashes/3828413545304966?f=rss",
-      "pubDate": "2026-05-28 11:43:38  +0800",
-      "contentSnippet": "36氪获悉，5月27日，SPARK2026腾讯游戏发布会举行，42款游戏公布最新动态。其中，《王者荣耀》宣布将与阅文集团继续开展战略合作，并积极探索游戏AI应用，AI解说已经上线。《和平精英》公布2026暑期版本革新计划，涵盖暑期玩法升级、绿洲启元创作生态、AI明星队友、IP联动、IP影视计划及刺激之夜城市官宣等模块。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "腾讯游戏发布会宣布《王者荣耀》与阅文集团合作并探索AI应用。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体有发布会信息，但缺少技术细节和原始出处。"
-    },
-    {
-      "title": "《揭秘日》电影终极预告放出，导演斯皮尔伯格称人类并非宇宙唯一智慧文明",
-      "link": "https://www.ithome.com/0/956/373.htm",
-      "pubDate": "Thu, 28 May 2026 03:40:36 GMT",
-      "contentSnippet": "IT之家 5 月 28 日消息，环球影业发布《揭秘日》（Disclosure Day）终极预告，进一步交代角色关系和剧情主线，该片已确认引入中国内地，目前档期待定。\nIT之家附上相关视频如下：\n\n影片围绕外星生命与人类社会的碰撞展开：气象主播玛格丽特（艾米莉 · 布朗特饰）突获超能力，与黑客丹尼尔（乔什 · 奥康纳饰）揭露政府掩盖的“外星人存在”真相，两人因此被影子政府追杀。\n\n预告还暗示两名主角从童年起就有联系，且可能都曾接受外星实验。影片将于 2026 年 6 月 12 日在北美上映。\n相比此前物料，这支终极预告补了更多剧情细节。丹尼尔偷走了政府机密，准备吹哨公开外星人存在的证据。\n预告再",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "《揭秘日》电影预告发布，斯皮尔伯格称人类非唯一智慧文明。",
-      "credibilityScore": 70,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家较知名，内容具体但为电影宣传，技术准确性低。"
-    },
-    {
-      "title": "开源鸿蒙 OpenHarmony 6.1 LTS 长期维护版发布，明确 7.X 版本 9 月商用",
-      "link": "https://www.ithome.com/0/956/372.htm",
-      "pubDate": "Thu, 28 May 2026 03:39:22 GMT",
-      "contentSnippet": "IT之家 5 月 28 日消息，根据博主 @Adak封狼居胥 晒出的照片，在今日的开源鸿蒙开发者大会 2026 上，开源鸿蒙 OpenHarmony 6.1 LTS 长期维护版本正式发布，同步明确 OpenHarmony 7.X 将于今年 9 月商用。\n\nOpenHarmony 6.1 LTS 版本开放更多 SDK 支持北向应用生态共享，6.1/7.x 将新增 19 个 SDK 开源。\n\nIT之家查询发现，开源鸿蒙官网暂未列出 6.1 LTS 版本，而今年 3 月发布的 OpenHarmony 6.1 Release 版本迎来多项能力提升：\n\n进一步增强应用开发功能，支持对应用更精细化的控制，",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "开源鸿蒙6.1 LTS发布，7.X版本9月商用。",
+      "aiSummary": "猛士M817预售37万起，搭载华为智驾，底盘对标路虎卫士。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，内容具体，有出处但细节有限。"
+      "credibilityReason": "来源IT之家较知名，内容具体但部分数据夸张，缺少技术细节验证。"
     },
     {
-      "title": "京东方减资至约370.4亿",
-      "link": "https://36kr.com/newsflashes/3828388243575425?f=rss",
-      "pubDate": "2026-05-28 11:38:46  +0800",
-      "contentSnippet": "36氪获悉，天眼查App显示，近日，京东方科技集团股份有限公司发生工商变更，注册资本由约374.1亿人民币减至约370.4亿人民币。 该公司成立于1993年4月，法定代表人为陈炎顺，经营范围包括制造电子计算机软硬件、经营电信业务、计算机数据处理等，由北京国有资本运营管理有限公司、香港中央结算有限公司、北京京东方投资发展有限公司等共同持股。",
+      "title": "Epic CEO 斯威尼喷 Steam Deck 涨价，暗讽 G 胖买游艇",
+      "link": "https://www.ithome.com/0/956/904.htm",
+      "pubDate": "Fri, 29 May 2026 02:29:38 GMT",
+      "contentSnippet": "IT之家 5 月 29 日消息，Epic Games CEO 蒂姆 · 斯威尼今天在 X 平台发文，就 Steam Deck 涨价一事发表个人见解。\n蒂姆 · 斯威尼对此表示：\n\n大家对这件事都有点太苛刻了。毕竟，最终由 Steam 用户买单的零部件成本已经大幅上涨，而当前经济形势也对超级游艇的零部件供应链造成严重冲击。\n\n\n虽然蒂姆 · 斯威尼并没有在帖文中指明任何人。但V社（Valve）创始人兼首席执行官 G 胖（IT之家注：加布 · 纽维尔）因喜欢乘坐大型豪华游艇而闻名，这些游艇也被视作其巨额财富的象征。从目前情况来看，斯威尼言语间暗讽了 G 胖的游艇消费。\n虽然外界对V社的反对声浪不小",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "Epic CEO暗讽Steam Deck涨价与G胖买游艇有关",
+      "credibilityScore": 70,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家可信，内容具体但缺乏原始出处和细节支撑"
+    },
+    {
+      "title": "沃尔沃全新 EX90/ES90 车型上市，38.99 万元起",
+      "link": "https://www.ithome.com/0/956/903.htm",
+      "pubDate": "Fri, 29 May 2026 02:26:37 GMT",
+      "contentSnippet": "IT之家 5 月 29 日消息，在今日举行的 2026 粤港澳大湾区车展上，沃尔沃全新 EX90/ES90 车型上市，38.99 万元起：\n沃尔沃全新 EX90 纯电 SUV\n\n双电机四驱版：45.99 万元\n\n双电机四驱高性能版 Ultra：52.99 万元\n\n沃尔沃全新 ES90 纯电轿车\n\n后驱长续航版 Plus：38.99 万元\n\n双电机四驱高性能版 Ultra：45.99 万元\n\n\nIT之家获悉，全新 EX90 纯电旗舰 SUV 基于 SPA2 原生豪华纯电架构打造，搭载全域 800 伏平台。新车 CLTC 续航最高 756 公里，采用 2+3+2 式七座布局。新车尺寸为 5037×",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "沃尔沃EX90/ES90上市，起售价38.99万元",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，信息具体含价格、续航、架构等细节"
+    },
+    {
+      "title": "东风猛士 M817 Ultimate 中文定名“大师版”：首搭华为乾崑智驾 NCA 越野版、同级唯一超 1000 匹马力",
+      "link": "https://www.ithome.com/0/956/891.htm",
+      "pubDate": "Fri, 29 May 2026 02:12:41 GMT",
+      "contentSnippet": "IT之家 5 月 29 日消息，在今日的 2026 粤港澳大湾区车展上，东风猛士今日正式公布了猛士 M817 Ultimate 车型，宣布该车定名“大师版”。\n\n猛士 M817 Ultimate 大师版搭载同级唯一超 1000 匹马力、最大扭矩 1281N·m，还有同级唯一赛级氮气减震。\n猛士 M817 Ultimate 大师版还配备同级唯一华为乾崑智驾，包括新一代双光路图像级激光雷达、首搭乾崑智驾 NCA 越野版。\n\nIT之家从发布会获悉，猛士 M817 Ultimate 大师版将于下个月（2026 年 6 月）公布更多信息，官方称定位 60 万级。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家",
+        "Solidot"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "东风猛士M817大师版定名，首搭华为智驾NCA越野版，马力超1000匹。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自IT之家，信息具体有数据支撑，逻辑清晰，但缺少原始出处引用。（多源覆盖 +5）"
+    },
+    {
+      "title": "英伟达黄仁勋谈 AI 应用、Token 消耗：浪费一点钱没关系，千万别浪费时间",
+      "link": "https://www.ithome.com/0/956/884.htm",
+      "pubDate": "Fri, 29 May 2026 02:01:40 GMT",
+      "contentSnippet": "IT之家 5 月 29 日消息，据中国台湾地区媒体《经济日报》昨天报道，英伟达 CEO 黄仁勋日前在员工大会上回答提问，其中有员工担忧，每天高强度跑 AI 只是白白浪费 Token（IT之家注：词元），只做表面功夫而没有提升生产力。\n\n黄仁勋对此表示，人们面对任何新技术、新工具时都有不够熟悉、无法运用自如的现象，但并不需要一开始就追求完美，只需要先踏出第一步去拥抱新科技，“稍微浪费一点钱没关系，但千万不要浪费时间”。\n黄仁勋就此表达期许，并要求同事们积极拥抱 AI。大家绝对有能力兼顾做好每一件事，但重点是必须采取行动，开始全面善用 AI。\n当有人问到 AI 是否会引发裁员时，黄仁勋回应道，如果",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "黄仁勋鼓励员工积极使用AI，称浪费钱比浪费时间好。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体IT之家，内容具体有直接引述，但缺乏原始出处链接。"
+    },
+    {
+      "title": "「卡玺CardChic」  获天使轮融资，以中国文化IP＋精品化打造收藏卡品牌 | 36氪首发",
+      "link": "https://36kr.com/p/3829202710045827?f=rss",
+      "pubDate": "2026-05-29 09:01:06  +0800",
+      "contentSnippet": "文 | 小葵\n编辑 | 刘士武\n36氪获悉，专注于中国文化IP的精品卡牌发行品牌「卡玺CardChic」近日已完成近千万级人民币天使轮融资。本轮资金将用于重磅IP的签约储备、产品工艺升级以及新一代TCG对战卡牌的研发与推广。 \n卡玺CardChic创办于2025年，总部位于杭州。核心团队中，创始人李昌林毕业于新加坡南洋理工大学，高中起连续创业，研究生期间创办广告公司并实现年营收近千万元，成功退出后曾加入腾讯；供应链合伙人拥有20年印刷行业经验；运营合伙人在国内卡牌圈深耕四年，个人收藏卡价值达数千万元；团队具备球星卡、PTCG、国产卡等多种卡牌品类的丰富经验。公司主要业务为影视、动漫等中国文化I",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -254,10 +119,146 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "京东方注册资本减少约3.7亿元至370.4亿。",
-      "credibilityScore": 80,
+      "aiSummary": "卡玺CardChic获近千万天使轮融资，专注中国文化IP精品卡牌。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪较知名，信息具体有数据，但无技术细节和原始出处链接。"
+      "credibilityReason": "36氪为知名科技媒体，信息详实有团队背景和融资细节，逻辑清晰。"
+    },
+    {
+      "title": "全球每10台人形机器人9台出自中国，下一个电动汽车行业来了？",
+      "link": "https://www.tmtpost.com/8003072.html",
+      "pubDate": "Fri, 29 May 2026 08:00:00 +0800",
+      "contentSnippet": "从供应链溢出、成本极限下探到资本加速聚拢，中国正以极其熟悉的配方，将人形机器人复刻为“下一个电动汽车”。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国占全球人形机器人产量90%，或成下一个电动汽车行业。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源知名科技媒体，内容有数据支撑，但缺乏具体出处和细节。"
+    },
+    {
+      "title": "【钛晨报】事关城市更新，国务院最新规划；比亚迪发布中国首款4nm智驾芯片“璇玑A3”；太空经济市场规模或将超万亿美元",
+      "link": "https://www.tmtpost.com/8006406.html",
+      "pubDate": "Fri, 29 May 2026 07:20:00 +0800",
+      "contentSnippet": "中国车企首次突破产销量1亿大关；丰田4月全球销量连续3个月同比减少；澳大利亚起诉美国3M公司，索赔20亿澳元；马斯克：SpaceX尚未承诺长期租赁Colossus；两部门联手，系统布局人工智能计量能力建设；明年6月起实施，光伏组件两项强制性国家标准发布；《国家基本医疗保险医疗服务项目目录（第一批）制定工作方案》公开征求意见；工信部：正在抓紧编制《医药工业发展“十五五”规划》；《煤矿重大事故隐患判定标准》修订，今年7月1日起施行；中国首部海洋生物医药产业发展的政策文件发布；深交所：将稳步拓展互联互通机制，研究细化QFII制度优化落实举措",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体汇总多项科技与政策新闻，涉及比亚迪芯片、国务院规划等。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体，内容具体但部分细节待验证，逻辑清晰。"
+    },
+    {
+      "title": "恒指午间休盘涨1.11%，恒生科技指数涨1.66%",
+      "link": "https://36kr.com/newsflashes/3829847496927113?f=rss",
+      "pubDate": "2026-05-29 12:02:20  +0800",
+      "contentSnippet": "36氪获悉，恒指午间休盘涨1.11%，恒生科技指数涨1.66%；GEO、光模块概念领涨，智谱、长飞光纤光缆涨超11%，MINIMAX-WP涨超4%；消费股走强，泡泡玛特涨超9%，东方甄选张超7%，蜜雪集团涨超5%；南向资金净买入70.02亿港元。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "恒指午盘涨1.11%，科技指数涨1.66%，光模块概念领涨。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪为知名科技媒体，信息具体有数据支撑，逻辑清晰。"
+    },
+    {
+      "title": "莫言：人工智能无法取代作家的创作，是靠一代又一代作家写出来的东西“喂”出来的",
+      "link": "https://www.ithome.com/0/956/989.htm",
+      "pubDate": "Fri, 29 May 2026 03:57:50 GMT",
+      "contentSnippet": "IT之家 5 月 29 日消息，据新华社报道，中国作家莫言近日接受专访时再次强调作家原创能力的不可替代性。他认为，人工智能或许会让许多职业面临挑战，但终究取代不了文学创作。\nIT之家注：莫言是中国当代著名作家，也是首位获得诺贝尔文学奖的中国籍作家，著有长篇小说《红高粱家族》《蛙》《生死疲劳》等多部作品，多次获得国内和国际文学奖。\n莫言说，作家最宝贵的就是原创能力 —— 写自己没有写过的、别人也没有写过的小说或诗歌，创造在别人的作品中从未出现过的典型人物形象，“这才是一个作家能够存在的理由和价值”。\n莫言认为，“AI 是靠一代又一代作家写出来的东西‘喂’出来的，它在海量作品基础上可以重新组合，让",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "莫言称AI无法取代作家创作，因AI依赖作家作品训练。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，引用新华社报道，内容具体且逻辑清晰。"
+    },
+    {
+      "title": "OpenAI：正在调查影响用户登录和使用ChatGPT的故障",
+      "link": "https://36kr.com/newsflashes/3829840530007941?f=rss",
+      "pubDate": "2026-05-29 11:55:15  +0800",
+      "contentSnippet": "OpenAI在网站上表示，公司正在调查可能导致用户无法与ChatGPT对话、登录或创建帐户的问题。 根据网络状况监控网站Downdetector的数据，截至美东时间晚上11:04，已有约5000起相关故障的报告。（财联社）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "OpenAI正调查ChatGPT登录及使用故障，已报告约5000起。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪为知名科技媒体，内容具体且有Downdetector数据支撑。"
+    },
+    {
+      "title": "不加油不充电跑完京沪：理想 L9 Livis 实测纯电续航 327.4 公里，亏电油耗 6 升 / 百公里",
+      "link": "https://www.ithome.com/0/956/988.htm",
+      "pubDate": "Fri, 29 May 2026 03:55:08 GMT",
+      "contentSnippet": "IT之家 5 月 29 日消息，昨日，理想汽车完成了理想 L9 Livis 北京至上海的零补能长途实测，全程不加油、不充电，从北京出发后一次性行驶至上海浦东理想 5C 超充站。\n测试于 5 月 28 日清晨 6 时 30 分开始，全程以直播形式公开进行。实测显示，这辆车高速纯电续航 327.4 公里，剩余电量 3% 启动增程器，车辆最终总行驶里程为 1422.8 公里，全程总耗时 14 小时 42 分钟，实测亏电油耗为 6.0 升 / 百公里。\n\n本次测试全程贴近日常用车场景，车内乘坐 4 名乘员，携带约 50 公斤行李与设备，空调设定为 24℃。行驶路段以高速为主，全程平均车速为 100.7",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "理想L9 Livis京沪零补能实测，纯电续航327.4公里，亏电油耗6升/百公里。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道有具体数据、直播公开，逻辑清晰。"
+    },
+    {
+      "title": "段永平举牌！持仓超120亿港元，泡泡玛特究竟有何“魔力”？",
+      "link": "https://www.tmtpost.com/8006719.html",
+      "pubDate": "Fri, 29 May 2026 11:53:29 +0800",
+      "contentSnippet": "段永平举牌！持仓超120亿港元，泡泡玛特究竟有何“魔力”？",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "段永平举牌泡泡玛特，持仓超120亿港元引关注。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源钛媒体为知名科技媒体，内容具体但缺少数据细节支撑。"
+    },
+    {
+      "title": "沈涤凡手里的牌，不够大",
+      "link": "https://www.tmtpost.com/8006865.html",
+      "pubDate": "Fri, 29 May 2026 11:53:27 +0800",
+      "contentSnippet": "阿里健康斗地主，手里没有大小王。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "分析阿里健康沈涤凡面临的挑战与资源不足。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体，内容具体但缺乏数据支撑。"
     }
   ]
 }
