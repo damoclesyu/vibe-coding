@@ -1,32 +1,14 @@
 {
-  "generatedAt": "2026-06-01T04:43:53.841Z",
+  "generatedAt": "2026-06-02T04:23:30.286Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "英伟达新一代平台Vera Rubin已全面投产",
-      "link": "https://36kr.com/newsflashes/3834124762589061?f=rss",
-      "pubDate": "2026-06-01 12:33:23  +0800",
-      "contentSnippet": "据报道，英伟达CEO黄仁勋6月1日宣布，英伟达新一代平台Vera Rubin已全面投产。Vera Rubin采用美光、SK海力士和三星的HBM（高带宽内存），提供机柜级（POD）一体化AI工厂底座。英伟达为Rubin搭建的供应链是上一代Blackwell的“两倍大”，以往需要花两个小时组装一个巨大的Blackwell机架，现在（Vera Rubin）只需要5分钟。此外，英伟达CEO黄仁勋发布新AI模型Nemotron 3 Ultra。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪",
-        "IT之家"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "英伟达新一代AI平台Vera Rubin已全面投产，采用HBM内存。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体但缺少原始出处和细节验证。（多源覆盖 +5）"
-    },
-    {
-      "title": "英伟达CEO黄仁勋：从产业的角度来看，Token就是资产、已经成为获利的营收单位",
-      "link": "https://36kr.com/newsflashes/3834080621848451?f=rss",
-      "pubDate": "2026-06-01 11:48:29  +0800",
-      "contentSnippet": "英伟达CEO黄仁勋6月1日在Gtc Taipei 2026大会上表示，从产业的角度来看，Token就是资产，Token已经成为获利的营收单位。因为它可以制造利润。AI公司会想要建造更多Token，生成更多Token，生产更多的AI工厂，这也是为什么台湾的运算需求已经火箭式飙升。（财联社）",
+      "title": "中央财政下达育儿补贴补助资金999亿元支持实施育儿补贴制度",
+      "link": "https://36kr.com/newsflashes/3835504617174149?f=rss",
+      "pubDate": "2026-06-02 11:57:03  +0800",
+      "contentSnippet": "36氪获悉，据财政部为贯彻落实党中央、国务院决策部署，财政部近期下达2026年育儿补贴补助资金999亿元，较上年增长10.6%，支持各地为符合条件的婴幼儿发放育儿补贴。预计全年各级财政共安排补贴资金约1100亿元。目前，2026年育儿补贴发放工作正在平稳有序开展。根据相关管理规定，各级卫生健康部门负责育儿补贴审核发放的组织实施，原则上每季度至少集中发放一批；��个季度审核通过的申请，应当于本季度末前发放到位。",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -34,16 +16,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "黄仁勋称Token已成为AI产业获利单位，推动台湾算力需求飙升。",
+      "aiSummary": "财政部下达999亿元育儿补贴，较上年增长10.6%",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体36氪，信息具体有数据支撑，内容客观"
+    },
+    {
+      "title": "华硕 ROG 首款全息光显风扇整机“枪神 10X”国行发售，R9 9950X3D2 + 64G + 4T + RTX5080 售 69999 元",
+      "link": "https://www.ithome.com/0/958/644.htm",
+      "pubDate": "Tue, 02 Jun 2026 04:22:17 GMT",
+      "contentSnippet": "IT之家 6 月 2 日消息，华硕现已在京东上架“ROG 首款全息光显风扇整机”枪神 10X 台式机国行版，该机型最大亮点在于搭载了名为“AniMe Holo”的新型全息显示技术，采用“R9 9950X3D2 + 64GB RAM + 4TB SSD + RTX5080”规格，定价为 69999 元。\n\n\n这款整机采用 104L 容量全塔侧透机箱，搭载三颗（前 2 左 1）AniMe Holo 全息光显风扇，支持独立、组合、同步显示模式，技术层面本质上就是近年来各大商圈 / 地铁里常见的全息风扇，利用视觉暂留原理产生全息图像效果。\n\n该机选用 AMD 锐龙 9 9950X3D2 处理器、华硕",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "华硕ROG枪神10X国行发售，搭载全息风扇，顶配售价69999元。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，内容具体且有原始出处（财联社），但时间标注为2026年存疑。"
+      "credibilityReason": "来自IT之家，内容具体，但处理器型号存疑，缺乏官方确认。"
     },
     {
-      "title": "获国家队采购、联名比音勒芬，「PLAYTOP」想用东方美学演绎户外功能服饰｜早期项目",
-      "link": "https://36kr.com/p/3824416083825027?f=rss",
-      "pubDate": "2026-06-01 11:19:10  +0800",
-      "contentSnippet": "当户外运动品牌纷纷在“防晒”“速干”“保暖”等参数上展开竞赛时，一家成立仅三年的新锐品牌，开始在功能的基础上，将“东方美学”元素融入一件功能衣中。\n成立于2022年的「PLAYTOP」，是一家将东方美学与天然功能材料融合的户外品牌，瞄准25-40岁追求颜值与舒适体验的高智菁英人群。2025年雪季，PLAYTOP做到了小红书滑雪速干衣用户主动搜索排名第一。\n目前，PLAYTOP已获得12项独家专利及多国环保创意新材料奖，产品被国家队和军事科学院采购，也是首个连续登上中国国际时装周的户外针织品牌。\nPLAYTOP的诞生，源于一个“奢品+供应链”的组合。创始人梁辰是服装设计出身，曾任职香奈儿和巴宝莉",
+      "title": "长安汽车：5月交付209100辆，海外同比增长38%",
+      "link": "https://36kr.com/newsflashes/3835524829214088?f=rss",
+      "pubDate": "2026-06-02 12:17:37  +0800",
+      "contentSnippet": "36氪获悉，6月1日，长安汽车公布5月交付209100辆，其中海外交付70700辆，同比增长38%，新能源交付92400辆，同比增长5.8%。",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -51,16 +50,118 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "PLAYTOP获国家队采购，融合东方美学与功能材料，打造户外服饰新品牌。",
+      "aiSummary": "长安汽车5月交付20.9万辆，海外交付同比增38%。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体36氪，数据具体且有同比增长率，逻辑清晰。"
+    },
+    {
+      "title": "三星在 2026 台北电脑展期间展示全球首款 HBM5 内存",
+      "link": "https://www.ithome.com/0/958/643.htm",
+      "pubDate": "Tue, 02 Jun 2026 04:12:12 GMT",
+      "contentSnippet": "IT之家 6 月 2 日消息，韩媒 Edaily 今天（6 月 2 日）发布博文，报道称在 2026 年台北国际电脑展上，三星展示了全球首款 HBM5 内存。\n\nIT之家注：HBM5 是面向未来高性能计算（HPC）和人工智能（AI）训练需求设计的第八代存储技术。\nHBM5 预计在 2029 年至 2031 年间推出市场，采用更先进的制造工艺，预计使用 2nm 基础裸片搭配 1c nm DRAM。\n散热方面，为了应对超高功耗，HBM5 将采用浸没式冷却技术 (Immersion Cooling)，即直接将裸片和封装整体浸泡在冷却液中。\n性能方面，行业预测 HBM5 将 I/O 通道提升至 409",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "三星在2026台北电脑展展示全球首款HBM5内存，但预计2029年后上市。",
+      "credibilityScore": 55,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为IT之家转载韩媒，内容具体但缺乏官方确认，且展示时间与上市时间矛盾。"
+    },
+    {
+      "title": "微星超神 MEG MAESTRO 900R 海景房旗舰机箱发售：支持显卡竖装、配可拆卸式主板支架，3999 元",
+      "link": "https://www.ithome.com/0/958/642.htm",
+      "pubDate": "Tue, 02 Jun 2026 04:11:51 GMT",
+      "contentSnippet": "IT之家 6 月 2 日消息，微星旗下超神 MEG MAESTRO 900R 机箱国行现已在京东发售，定价为 3999 元，首发晒单赠 100E 卡。\n\n\n该机箱整体尺寸为 695 x 379 x 671 mm，可支持 Mini-ITX、Micro-ATX、ATX 和 E-ATX 规格的主板，也支持 ATX 背插产品。其整体使用三面侧透设计，玻璃为一体式弯曲，能全方位地展示内部硬件。机箱内部同时采用分离式热区及垂直风道设计，并搭载 EZ Rotatable Motherboard Tray 可拆卸式主板旋转支架，还提供 PCIe 5.0 延长线便于显卡竖装。\n\n\n\n该机箱 I/O 采用模块化设",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微星发布3999元旗舰机箱，支持显卡竖装和可拆卸主板支架。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体IT之家，内容具体有产品规格和价格细节。"
+    },
+    {
+      "title": "半日主力资金加仓电子股，抛售传媒股",
+      "link": "https://36kr.com/newsflashes/3835511594595719?f=rss",
+      "pubDate": "2026-06-02 12:10:04  +0800",
+      "contentSnippet": "主力资金早间净流入电子、通信等板块，净流出传媒、计算机等板块。具体到个股来看，亨通光电、风华高科、长飞光纤获净流入44.03亿元、26.4亿元、25.08亿元。净流出方面，蓝色光标、佰维存储、同花顺遭抛售8.37亿元、5.49亿元、5.17亿元。（第一财经）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "主力资金半日净流入电子通信，净流出传媒板块。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源知名科技媒体，数据具体有原始出处，内容客观。"
+    },
+    {
+      "title": "华硕在 2026 台北国际电脑展上展示 ROG 48V GPU 供电架构",
+      "link": "https://www.ithome.com/0/958/641.htm",
+      "pubDate": "Tue, 02 Jun 2026 04:09:15 GMT",
+      "contentSnippet": "IT之家 6 月 2 日消息，参考华硕 (ASUS) 官方今日新闻稿，玩家国度 (ROG) 在其 COMPUTEX 2026 展区中展示了 ROG 48V GPU 供电架构。\n\nPC DIY 行业目前在电源供应器和用电器之间主要使用 +12V DC 电源轨。而根据物理定律，在为用电器提供相同电能的时候，线材 / 端子上施加的电压越高则发热越低。提升电压有利于降低线材 / 端子发热，从而保障显卡供电系统安全运行，化解持续不断的 12+N Pin 供电熔毁危机。\n\nIT之家注：这也是汽车低压电气架构从 12V 转向 48V 的原因之一。\n\n华硕 ROG 48V GPU 供电架构由定制电源供应器和",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "华硕在COMPUTEX 2026展示ROG 48V GPU供电架构，旨在降低发热、解决供电熔毁问题。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有技术细节和官方新闻稿支撑，逻辑清晰。"
+    },
+    {
+      "title": "凯恩股份：现有主营业务不包括超级电容或超级电容隔膜纸业务",
+      "link": "https://36kr.com/newsflashes/3835511874876802?f=rss",
+      "pubDate": "2026-06-02 12:04:26  +0800",
+      "contentSnippet": "36氪获悉，凯恩股份在互动平台表示，公司现有主营业务产品包括烟用配套用纸、特种食品包装纸、工业配套用纸等，不包括超级电容或超级电容隔膜纸业务。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "凯恩股份澄清主营业务不含超级电容业务",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体36氪，内容直接引用公司官方互动平台声明，信息具体且客观中立。"
+    },
+    {
+      "title": "蓝色起源新格伦火箭试车爆炸，NASA 称发射台或到 2028 年才能修复",
+      "link": "https://www.ithome.com/0/958/639.htm",
+      "pubDate": "Tue, 02 Jun 2026 04:04:20 GMT",
+      "contentSnippet": "IT之家 6 月 2 日消息，美国国家航空航天局（NASA）局长贾里德 · 艾萨克曼于当地时间本周一接受 CNBC 采访时透露，上周蓝色起源公司巨型新格伦火箭在发动机点火试车时发生剧烈爆炸，发射台受损严重，修复工作“需要耗费大量时间”。\n\n艾萨克曼表示，发射台可能 2028 年才会完成修复。“我们所有人总体上都围绕着一个目标在推进，那就是我们无疑希望蓝色起源公司能够取得巨大成功，”艾萨克曼说。“所以我们要进行恢复工作，把发射台修复好，同时提供专业知识支持，开展根本原因分析。我们一定要找出问题所在，然后继续向前推进。”\n上周四，这款运力强劲的二级运载火箭被固定在发射塔架上，原定开展常规静态热试车",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "蓝色起源新格伦火箭试车爆炸，NASA称发射台或2028年修复",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪知名科技媒体，内容具体有数据支撑，但缺乏独立验证。"
+      "credibilityReason": "来源IT之家为知名科技媒体，引用NASA局长采访，信息具体但缺乏原始链接"
     },
     {
-      "title": "“微光医疗”完成数亿元融资",
-      "link": "https://36kr.com/newsflashes/3834001383384708?f=rss",
-      "pubDate": "2026-06-01 10:27:53  +0800",
-      "contentSnippet": "36氪获悉，近日，“微光医疗”完成新一轮数亿元融资。本轮融资由中美绿色长三角和倚锋资本共同领投，中银资本、汇誉投资共同跟投。此次融资将重点用于公司核心产品的全球商业化布局，以及创新管线的研发、注册与临床推进，进一步夯实微光医疗在智能介入领域的战略布局。",
+      "title": "恒指午间休盘涨1.46%，恒生科技指数涨3.48%",
+      "link": "https://36kr.com/newsflashes/3835509598287237?f=rss",
+      "pubDate": "2026-06-02 12:02:07  +0800",
+      "contentSnippet": "36氪获悉，恒指午间休盘涨1.46%，恒生科技指数涨3.48%；软件服务、汽车、传媒板块领涨，腾讯控股、美团涨超7%，比亚迪股份涨超6%，B站、蔚来涨超5%；煤炭、医药生物、耐用消费品板块跌幅居前，中煤能源、亚盛医药跌超3%，德林国际跌超2%；南向资金净买入83.12亿港元。",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -68,190 +169,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "微光医疗获数亿元融资，用于全球商业化及研发。",
+      "aiSummary": "恒指午盘涨1.46%，恒生科技指数涨3.48%。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "36氪为知名科技媒体，融资信息具体且有领投方，逻辑清晰。"
+      "credibilityReason": "来源36氪为知名科技媒体，数据具体且逻辑清晰。"
     },
     {
-      "title": "硬氪观察 | 苹果代工厂开造人形机器人，一场豪赌未来的产能大迁移",
-      "link": "https://36kr.com/p/3833985105782402?f=rss",
-      "pubDate": "2026-06-01 10:12:48  +0800",
-      "contentSnippet": "作者 | 邱晓芬\n编辑 | 袁斯来\n在龙旗位于南昌的智能制造工厂中，两台智元精灵G2人形机器人已融入平板产线，承担起多媒体集成测试（MMIT）工站的上下料作业。\n其工作节拍已接近熟练产线员工——依托腰部的三个运动自由度与全向移动底盘，机器人精准从传送带抓取生产完成的平板，送入检测机箱；待测试完毕，又能迅速取出合格产品、利落放回传送带分流。\n据现场实测数据，单台机器人每小时可稳定处理约310台平板设备，峰值达316台，8小时连续作业整体成功率超99.5%\n这并非一次单纯的展示。\n2026年，中国的具身智能机器人热潮中，一大波市值百亿、千亿手机供应链巨头躬身入局，成为机器人行业里无法忽视的关键玩家",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "苹果代工厂龙旗引入人形机器人，每小时处理310台平板，成功率超99.5%。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容有具体数据支撑，逻辑清晰，技术细节可信。"
-    },
-    {
-      "title": "英伟达 RTX Spark PC 处理器正式发布：联发科 20 核 CPU + 英伟达 RTX GPU，首批电脑秋季推出",
-      "link": "https://www.ithome.com/0/958/088.htm",
-      "pubDate": "Mon, 01 Jun 2026 04:39:21 GMT",
-      "contentSnippet": "IT之家 6 月 1 日消息，在今日的 2026 台北国际电脑展主题演讲中，英伟达 CEO 黄仁勋正式宣布推出 RTX Spark PC 处理器。\n\n英伟达 RTX Spark 由联发科 20 核 Grace CPU + 英伟达 Blackwell RTX GPU 组成（6144 CUDA 核心），AI 性能达到 1petaFLOP。\n\n\n\n英伟达 RTX Spark 采用台积电 3nm 工艺打造，配备 128GB 统一内存。英伟达宣称将与微软一起开启 PC 新世代。\n\n\n\n黄仁勋谈到了适配英伟达 RTX Spark 的应用，表示 Adobe Premiere 和 Photoshop 在 RT",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家",
-        "量子位"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "英伟达发布RTX Spark处理器，联发科20核CPU+RTX GPU，AI性能1petaFLOP。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体有技术细节，但缺乏原始出处验证。（多源覆盖 +5）"
-    },
-    {
-      "title": "爱国者星璨 EV Quiet 静音系列白金全模组电源发售：可选 850W / 1000W 版本，569 元起",
-      "link": "https://www.ithome.com/0/958/087.htm",
-      "pubDate": "Mon, 01 Jun 2026 04:37:24 GMT",
-      "contentSnippet": "IT之家 6 月 1 日消息，爱国者（aigo）星璨 EV Quiet 80Plus 白金认证电源现已在京东发售，提供 850W / 1000W 两种规格可选，售价 569 元起：\n\nEV Quiet 850W 黑色：569 元\n\nEV Quiet 850W 白色：579 元\n\nEV Quiet 1000W 黑色：699 元\n\nEV Quiet 1000W 白色：709 元\n\n京东爱国者（aigo）星璨 EV Quiet 静音版 额定 850W 黑色 569 元直达链接\n\n这款电源通过 PPLP 双 S 级静音认证，重载情况下噪音 25dBA；搭载 135mm 台系悦伦 FDB 动压轴承风扇，",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "爱国者发布星璨EV Quiet静音电源，850W/1000W可选，569元起。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，信息具体包括型号、价格和认证细节，逻辑清晰。"
-    },
-    {
-      "title": "酷态科 10 号电能基站“万象屏套装”发售，299 元",
-      "link": "https://www.ithome.com/0/958/084.htm",
-      "pubDate": "Mon, 01 Jun 2026 04:29:09 GMT",
-      "contentSnippet": "IT之家 6 月 1 日消息，酷态科 10 号电能基站「万象屏套装」现已在京东发售，套装版售价 329 元，618 大促首发价 299 元。\n京东酷态科 10 号“万象屏套装”299 元直达链接\n\n这款产品提供了 AC+USB 八口集成，最高 2500W MAX AC 供电、120W MAX USB 大功率输出，支持自研 OPC 放心充 2.0，配备 ADC 智能协议助手；而且支持 ADC 2.0 可实现多品牌设备兼容，还支持小米 120W MAX 澎湃秒充。\n其他方面，这款充电站可拓展磁吸 Pogo Pin，轻松对接其他酷态科拓展模块；提供 2.8 英寸多功能万象屏，支持米家 Wi-Fi /",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "酷态科10号电能基站万象屏套装京东开售，首发价299元。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，产品参数具体，信息清晰，来源可靠。"
-    },
-    {
-      "title": "英伟达 Vera 处理器发布：专为 AI 智能体打造，OpenAI、SpaceXAI、字节跳动都要用",
-      "link": "https://www.ithome.com/0/958/082.htm",
-      "pubDate": "Mon, 01 Jun 2026 04:23:39 GMT",
-      "contentSnippet": "IT之家 6 月 1 日消息，在今日的 2026 台北国际电脑展主题演讲中，英伟达 CEO 黄仁勋宣布正式推出 Vera 处理器。\n\n英伟达 Vera 是一款专为 AI 智能体打造的 CPU，速度比 x86 处理器快 1.8 倍，可驱动各行各业的多样化工作负载，Vera 现已全面投产。\n\nVera 以 Grace CPU 的成功为基础（迄今为止，Grace CPU 的出货量已接近 250 万片），计划采用 Vera CPU 的客户包括金融巨头纽约证券交易所、Anthropic、OpenAI 和 SpaceXAI，以及字节跳动、CoreWeave、Lambda、Nebius、Nscale 和 O",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家",
-        "钛媒体"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "英伟达发布专为AI智能体打造的Vera处理器，速度比x86快1.8倍，已获多家客户采用。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体且有客户名单，但缺少技术细节和原始出处。（多源覆盖 +5）"
-    },
-    {
-      "title": "半日主力资金加仓计算机股，抛售电子股",
-      "link": "https://36kr.com/newsflashes/3834112233285508?f=rss",
-      "pubDate": "2026-06-01 12:20:39  +0800",
-      "contentSnippet": "主力资金早间净流入计算机、基础化工、电力设备等板块，净流出电子、通信、公用事业等板块。具体到个股来看，京东方A、晋控电力、中京电子获净流入18.49亿元、12.01亿元、10.39亿元。净流出方面，东山精密、工业富联、云南锗业遭抛售58.09亿元、24.48亿元、20.03亿元。（第一财经）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "主力资金半日净流入计算机等板块，净流出电子板块。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容引用第一财经数据，信息具体有数据支撑。"
-    },
-    {
-      "title": "英伟达：Anthropic、OpenAI等企业将率先采用新款Vera芯片",
-      "link": "https://36kr.com/newsflashes/3834111706834560?f=rss",
-      "pubDate": "2026-06-01 12:20:07  +0800",
-      "contentSnippet": "据报道，英伟达表示，Anthropic、OpenAI以及SpaceX将成为其新款Vera处理器的首批主要客户。黄仁勋在6月1日演讲中点名提及上述几家企业。他称，这些企业将率先在自有数据中心部署英伟达Vera系列中央处理器。该新品将于今年第三季度全面投产。（界面）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪",
-        "少数派"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "英伟达Vera芯片首批客户包括Anthropic、OpenAI和SpaceX。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体但缺乏原始出处和细节支撑。（多源覆盖 +5）"
-    },
-    {
-      "title": "小鹏集团：5月共交付新车32158辆，较上月增长4%",
-      "link": "https://36kr.com/newsflashes/3834108371527301?f=rss",
-      "pubDate": "2026-06-01 12:16:43  +0800",
-      "contentSnippet": "36氪获悉，小鹏集团公告，2026年5月，小鹏集团共交付新车32158辆，较上月增长4%。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪",
-        "IT之家"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "小鹏5月交付32158辆新车，环比增长4%。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源知名科技媒体，数据具体且逻辑清晰。（多源覆盖 +5）"
-    },
-    {
-      "title": "微软以证书过期为借口让 Mac 版 Office 2019 进入只读模式",
-      "link": "https://www.solidot.org/story?sid=84445",
-      "pubDate": "Mon, 01 Jun 2026 12:13:11 +0800",
-      "contentSnippet": "微软于 2018 年 9 月 24 日宣布推出 Windows 和 Mac 的 Office 2019，售价 149.99 美元，可永久使用，但不会引入新功能。但到了 2026 年 5 月 15 日微软更新了支持文档，不再保证 Office 2019 能正常运行。Mac 版本的 Office 2019 的支持于 2023 年 10 月 10 日结束，微软使用数字证书去验证 Mac 版本的许可，该证书将于 2026 年 7 月 13 日到期。微软不打算更新证书，而是就让证书过期，而证书过期之后软件将无法正常使用，进入只读模式。微软向受影响用户提供了三种选择：继续以只读模式使用 Mac 版 Off",
-      "sourceName": "Solidot",
-      "sourceWeight": 75,
-      "allSources": [
-        "Solidot"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "微软让Mac版Office 2019证书过期，进入只读模式。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源可靠，信息具体，有明确时间线和官方文档引用。"
-    },
-    {
-      "title": "辅助驾驶≠自动驾驶！司机开“智驾”40 秒后追尾致 3 死，曾双手脱离方向盘",
-      "link": "https://www.ithome.com/0/958/080.htm",
-      "pubDate": "Mon, 01 Jun 2026 04:11:29 GMT",
-      "contentSnippet": "IT之家 6 月 1 日消息，江西赣州市应急管理局近日公布《赣州瑞金济广高速“10·2”较大道路交通事故调查报告》。2025 年 10 月 2 日 4 时许，在赣州瑞金市境内济广高速公路 1408km+721m 处，一辆小型轿车撞上一辆重型货车，造成一起死亡 3 人的较大道路交通事故。\n\n《报告》显示，10 月 2 日 3 时 59 分 34 秒，驾驶员主动激活 IACC 功能（进入智能驾驶辅助模式）。从 4 时 0 分 0 秒至 4 时 0 分 13 秒，该车辆处于方向盘脱手状态；从 4 时 0 分 9 秒至 4 时 0 分 14 秒事故发生，驾驶员未踩加速踏板和制动踏板。IT之家附此次事故",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "司机开启智驾后脱手40秒追尾货车致3死，报告确认事故责任。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自IT之家，引用官方调查报告，细节具体，逻辑清晰。"
-    },
-    {
-      "title": "AI投入暂未兑现红利：复刻百年电气化，产业变革将至拐点",
-      "link": "https://www.tmtpost.com/8009771.html",
-      "pubDate": "Mon, 01 Jun 2026 12:05:13 +0800",
-      "contentSnippet": "当技术与产业体系完成深度融合的那一刻，AI 积蓄多年的生产力红利将会集中爆发。",
+      "title": "对话魏建军：长城跑环塔，赚的是看不见的声量钱",
+      "link": "https://www.tmtpost.com/8011183.html",
+      "pubDate": "Tue, 02 Jun 2026 11:58:16 +0800",
+      "contentSnippet": "长城重返越野赛事，押注的是技术验证和中国赛事标准，它想赚“看不见的声量钱”。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -259,10 +186,78 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "AI投入尚未产生红利，产业变革接近拐点。",
+      "aiSummary": "长城跑环塔赛事，赚取技术验证和品牌声量。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "钛媒体是知名科技媒体，内容有分析逻辑，但缺乏具体数据支撑。"
+      "credibilityReason": "来源知名科技媒体，内容具体有逻辑，但缺乏数据支撑。"
+    },
+    {
+      "title": "多家地方性银行推出微信提现手续费补贴活动，争夺用户零钱存款",
+      "link": "https://www.ithome.com/0/958/632.htm",
+      "pubDate": "Tue, 02 Jun 2026 03:55:01 GMT",
+      "contentSnippet": "IT之家 6 月 2 日消息，据界面新闻今日报道，多家银行近日宣布推出微信提现补贴活动。\n广西农商联合银行介绍，活动期间，储蓄卡持卡人访问“微信支付提现笔笔省”小程序，有机会随机领取 1666 元、6666 元额度的广西农商专属提现券，持卡人将微信零钱提现至该行储蓄卡时可抵扣相应额度的提现服务费。\n衡南农商银行表示，在该行手机银行成功签约微信提现手续费补贴业务后，客户在提现至签约的借记卡（含社保卡）时，可享受提现手续费补贴。该行明确，当月可补贴提现额度为签约借记卡上月活期存款日均余额的 2 倍。\n将补贴额度与存款规模挂钩的还有永兴农村商业银行。该行称，符合补贴条件的客户可享受微信提现手续费补贴",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "多家地方银行推微信提现补贴，争夺用户零钱存款。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家，引用界面新闻，信息具体有数据，逻辑清晰。"
+    },
+    {
+      "title": "豆包公司已注册豆包老师商标",
+      "link": "https://36kr.com/newsflashes/3835487236044161?f=rss",
+      "pubDate": "2026-06-02 11:46:17  +0800",
+      "contentSnippet": "36氪获悉，天眼查App显示，豆包关联公司北京春田知韵科技有限公司成立于2023年7月，法定代表人为严林，注册资本100万人民币，经营范围包括计算机系统服务、数据处理服务、软件开发等，由北京抖音信息服务有限公司全资持股。知识产权信息显示，该公司已成功注册多枚“豆包老师”“豆包输入法”“豆包轻服务”等商标，国际分类涉及通讯服务、广告销售等。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "豆包公司已注册多枚“豆包老师”等商标",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪知名科技媒体，信息具体有数据支撑，引用天眼查数据"
+    },
+    {
+      "title": "天猫618开门红：成交破亿品牌数增长40%",
+      "link": "https://36kr.com/newsflashes/3835493492471170?f=rss",
+      "pubDate": "2026-06-02 11:45:44  +0800",
+      "contentSnippet": "截至5月31日，天猫618第一阶段，超40000个品牌成交额翻倍，破亿品牌数同比增长40%，破亿且双位数增长的直播间同比增长50%。今年天猫618，美妆、服饰的复购率均超过40%。第一次参加天猫618的新品牌，成交破千万的数量同比增长67%。入驻天猫不超过3年的新品牌中，有329个成为了细分赛道冠军。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "天猫618首阶段成交破亿品牌数增40%，新品牌表现亮眼。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体36氪，数据具体且逻辑清晰，但缺少独立验证。"
+    },
+    {
+      "title": "阿里要全面转入「战时状态」了？",
+      "link": "https://www.tmtpost.com/8010614.html",
+      "pubDate": "Tue, 02 Jun 2026 11:43:32 +0800",
+      "contentSnippet": "一切都是为了 AI 变现。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "阿里宣布全面进入“战时状态”，聚焦AI变现。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体，内容具体但缺乏数据支撑和原始出处。"
     }
   ]
 }
