@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-02T04:23:30.286Z",
+  "generatedAt": "2026-06-03T04:43:08.235Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "中央财政下达育儿补贴补助资金999亿元支持实施育儿补贴制度",
-      "link": "https://36kr.com/newsflashes/3835504617174149?f=rss",
-      "pubDate": "2026-06-02 11:57:03  +0800",
-      "contentSnippet": "36氪获悉，据财政部为贯彻落实党中央、国务院决策部署，财政部近期下达2026年育儿补贴补助资金999亿元，较上年增长10.6%，支持各地为符合条件的婴幼儿发放育儿补贴。预计全年各级财政共安排补贴资金约1100亿元。目前，2026年育儿补贴发放工作正在平稳有序开展。根据相关管理规定，各级卫生健康部门负责育儿补贴审核发放的组织实施，原则上每季度至少集中发放一批；��个季度审核通过的申请，应当于本季度末前发放到位。",
+      "title": "美团在竞争中看清自己",
+      "link": "https://36kr.com/p/3835814792492416?f=rss",
+      "pubDate": "2026-06-02 17:20:31  +0800",
+      "contentSnippet": "作者｜任彩茹\n编辑｜乔芊\n参与外卖大战的三家公司中，美团最晚发出一季度财报，但给出了最超预期的“减亏”成果。\n2026年一季度，美团实现收入910亿元，同比增长5.6%，基本符合预期。亮点在于经营亏损的大幅收窄，由上季度的161亿元减至65亿元，其中最受关注的核心本地商业，经营亏损从上季度的100亿元减少到20亿元，明显好于投行预测的40-45亿元。\n业绩提振下，6月2日港股开盘后，美团盘中最高涨幅超9%，截至发稿，报85.25港元/股。\n值得关注的是，本季财报中美团还更新了两个关键的收入口径：\n一方面，将“商品销售收入”单列，主要来自食杂零售业务（以小象超市、快驴为主）以及药品、酒类等其他自",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -16,33 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "财政部下达999亿元育儿补贴，较上年增长10.6%",
+      "aiSummary": "美团一季度减亏超预期，核心本地商业亏损大幅收窄。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，信息具体有数据支撑，内容客观"
+      "credibilityReason": "来自知名科技媒体36氪，数据具体有出处，逻辑清晰，时效性好。"
     },
     {
-      "title": "华硕 ROG 首款全息光显风扇整机“枪神 10X”国行发售，R9 9950X3D2 + 64G + 4T + RTX5080 售 69999 元",
-      "link": "https://www.ithome.com/0/958/644.htm",
-      "pubDate": "Tue, 02 Jun 2026 04:22:17 GMT",
-      "contentSnippet": "IT之家 6 月 2 日消息，华硕现已在京东上架“ROG 首款全息光显风扇整机”枪神 10X 台式机国行版，该机型最大亮点在于搭载了名为“AniMe Holo”的新型全息显示技术，采用“R9 9950X3D2 + 64GB RAM + 4TB SSD + RTX5080”规格，定价为 69999 元。\n\n\n这款整机采用 104L 容量全塔侧透机箱，搭载三颗（前 2 左 1）AniMe Holo 全息光显风扇，支持独立、组合、同步显示模式，技术层面本质上就是近年来各大商圈 / 地铁里常见的全息风扇，利用视觉暂留原理产生全息图像效果。\n\n该机选用 AMD 锐龙 9 9950X3D2 处理器、华硕",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "华硕ROG枪神10X国行发售，搭载全息风扇，顶配售价69999元。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自IT之家，内容具体，但处理器型号存疑，缺乏官方确认。"
-    },
-    {
-      "title": "长安汽车：5月交付209100辆，海外同比增长38%",
-      "link": "https://36kr.com/newsflashes/3835524829214088?f=rss",
-      "pubDate": "2026-06-02 12:17:37  +0800",
-      "contentSnippet": "36氪获悉，6月1日，长安汽车公布5月交付209100辆，其中海外交付70700辆，同比增长38%，新能源交付92400辆，同比增长5.8%。",
+      "title": "普渡机器人CEO称公司正在为香港上市做准备",
+      "link": "https://36kr.com/newsflashes/3836959792018567?f=rss",
+      "pubDate": "2026-06-03 12:37:20  +0800",
+      "contentSnippet": "日经新闻报道称，普渡机器人创始人和首席执行官张涛接受采访时表示，公司正在为香港上市做准备。（新浪财经）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -50,135 +33,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "长安汽车5月交付20.9万辆，海外交付同比增38%。",
-      "credibilityScore": 85,
+      "aiSummary": "普渡机器人CEO称公司正筹备香港上市。",
+      "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体36氪，数据具体且有同比增长率，逻辑清晰。"
+      "credibilityReason": "来源为36氪转载日经新闻，信息具体且有原始出处，但细节较少。"
     },
     {
-      "title": "三星在 2026 台北电脑展期间展示全球首款 HBM5 内存",
-      "link": "https://www.ithome.com/0/958/643.htm",
-      "pubDate": "Tue, 02 Jun 2026 04:12:12 GMT",
-      "contentSnippet": "IT之家 6 月 2 日消息，韩媒 Edaily 今天（6 月 2 日）发布博文，报道称在 2026 年台北国际电脑展上，三星展示了全球首款 HBM5 内存。\n\nIT之家注：HBM5 是面向未来高性能计算（HPC）和人工智能（AI）训练需求设计的第八代存储技术。\nHBM5 预计在 2029 年至 2031 年间推出市场，采用更先进的制造工艺，预计使用 2nm 基础裸片搭配 1c nm DRAM。\n散热方面，为了应对超高功耗，HBM5 将采用浸没式冷却技术 (Immersion Cooling)，即直接将裸片和封装整体浸泡在冷却液中。\n性能方面，行业预测 HBM5 将 I/O 通道提升至 409",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "三星在2026台北电脑展展示全球首款HBM5内存，但预计2029年后上市。",
-      "credibilityScore": 55,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为IT之家转载韩媒，内容具体但缺乏官方确认，且展示时间与上市时间矛盾。"
-    },
-    {
-      "title": "微星超神 MEG MAESTRO 900R 海景房旗舰机箱发售：支持显卡竖装、配可拆卸式主板支架，3999 元",
-      "link": "https://www.ithome.com/0/958/642.htm",
-      "pubDate": "Tue, 02 Jun 2026 04:11:51 GMT",
-      "contentSnippet": "IT之家 6 月 2 日消息，微星旗下超神 MEG MAESTRO 900R 机箱国行现已在京东发售，定价为 3999 元，首发晒单赠 100E 卡。\n\n\n该机箱整体尺寸为 695 x 379 x 671 mm，可支持 Mini-ITX、Micro-ATX、ATX 和 E-ATX 规格的主板，也支持 ATX 背插产品。其整体使用三面侧透设计，玻璃为一体式弯曲，能全方位地展示内部硬件。机箱内部同时采用分离式热区及垂直风道设计，并搭载 EZ Rotatable Motherboard Tray 可拆卸式主板旋转支架，还提供 PCIe 5.0 延长线便于显卡竖装。\n\n\n\n该机箱 I/O 采用模块化设",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "微星发布3999元旗舰机箱，支持显卡竖装和可拆卸主板支架。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，内容具体有产品规格和价格细节。"
-    },
-    {
-      "title": "半日主力资金加仓电子股，抛售传媒股",
-      "link": "https://36kr.com/newsflashes/3835511594595719?f=rss",
-      "pubDate": "2026-06-02 12:10:04  +0800",
-      "contentSnippet": "主力资金早间净流入电子、通信等板块，净流出传媒、计算机等板块。具体到个股来看，亨通光电、风华高科、长飞光纤获净流入44.03亿元、26.4亿元、25.08亿元。净流出方面，蓝色光标、佰维存储、同花顺遭抛售8.37亿元、5.49亿元、5.17亿元。（第一财经）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "主力资金半日净流入电子通信，净流出传媒板块。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源知名科技媒体，数据具体有原始出处，内容客观。"
-    },
-    {
-      "title": "华硕在 2026 台北国际电脑展上展示 ROG 48V GPU 供电架构",
-      "link": "https://www.ithome.com/0/958/641.htm",
-      "pubDate": "Tue, 02 Jun 2026 04:09:15 GMT",
-      "contentSnippet": "IT之家 6 月 2 日消息，参考华硕 (ASUS) 官方今日新闻稿，玩家国度 (ROG) 在其 COMPUTEX 2026 展区中展示了 ROG 48V GPU 供电架构。\n\nPC DIY 行业目前在电源供应器和用电器之间主要使用 +12V DC 电源轨。而根据物理定律，在为用电器提供相同电能的时候，线材 / 端子上施加的电压越高则发热越低。提升电压有利于降低线材 / 端子发热，从而保障显卡供电系统安全运行，化解持续不断的 12+N Pin 供电熔毁危机。\n\nIT之家注：这也是汽车低压电气架构从 12V 转向 48V 的原因之一。\n\n华硕 ROG 48V GPU 供电架构由定制电源供应器和",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "华硕在COMPUTEX 2026展示ROG 48V GPU供电架构，旨在降低发热、解决供电熔毁问题。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有技术细节和官方新闻稿支撑，逻辑清晰。"
-    },
-    {
-      "title": "凯恩股份：现有主营业务不包括超级电容或超级电容隔膜纸业务",
-      "link": "https://36kr.com/newsflashes/3835511874876802?f=rss",
-      "pubDate": "2026-06-02 12:04:26  +0800",
-      "contentSnippet": "36氪获悉，凯恩股份在互动平台表示，公司现有主营业务产品包括烟用配套用纸、特种食品包装纸、工业配套用纸等，不包括超级电容或超级电容隔膜纸业务。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "凯恩股份澄清主营业务不含超级电容业务",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，内容直接引用公司官方互动平台声明，信息具体且客观中立。"
-    },
-    {
-      "title": "蓝色起源新格伦火箭试车爆炸，NASA 称发射台或到 2028 年才能修复",
-      "link": "https://www.ithome.com/0/958/639.htm",
-      "pubDate": "Tue, 02 Jun 2026 04:04:20 GMT",
-      "contentSnippet": "IT之家 6 月 2 日消息，美国国家航空航天局（NASA）局长贾里德 · 艾萨克曼于当地时间本周一接受 CNBC 采访时透露，上周蓝色起源公司巨型新格伦火箭在发动机点火试车时发生剧烈爆炸，发射台受损严重，修复工作“需要耗费大量时间”。\n\n艾萨克曼表示，发射台可能 2028 年才会完成修复。“我们所有人总体上都围绕着一个目标在推进，那就是我们无疑希望蓝色起源公司能够取得巨大成功，”艾萨克曼说。“所以我们要进行恢复工作，把发射台修复好，同时提供专业知识支持，开展根本原因分析。我们一定要找出问题所在，然后继续向前推进。”\n上周四，这款运力强劲的二级运载火箭被固定在发射塔架上，原定开展常规静态热试车",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "蓝色起源新格伦火箭试车爆炸，NASA称发射台或2028年修复",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，引用NASA局长采访，信息具体但缺乏原始链接"
-    },
-    {
-      "title": "恒指午间休盘涨1.46%，恒生科技指数涨3.48%",
-      "link": "https://36kr.com/newsflashes/3835509598287237?f=rss",
-      "pubDate": "2026-06-02 12:02:07  +0800",
-      "contentSnippet": "36氪获悉，恒指午间休盘涨1.46%，恒生科技指数涨3.48%；软件服务、汽车、传媒板块领涨，腾讯控股、美团涨超7%，比亚迪股份涨超6%，B站、蔚来涨超5%；煤炭、医药生物、耐用消费品板块跌幅居前，中煤能源、亚盛医药跌超3%，德林国际跌超2%；南向资金净买入83.12亿港元。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "恒指午盘涨1.46%，恒生科技指数涨3.48%。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，数据具体且逻辑清晰。"
-    },
-    {
-      "title": "对话魏建军：长城跑环塔，赚的是看不见的声量钱",
-      "link": "https://www.tmtpost.com/8011183.html",
-      "pubDate": "Tue, 02 Jun 2026 11:58:16 +0800",
-      "contentSnippet": "长城重返越野赛事，押注的是技术验证和中国赛事标准，它想赚“看不见的声量钱”。",
+      "title": "张小龙猛拉了马化腾一把",
+      "link": "https://www.tmtpost.com/8012665.html",
+      "pubDate": "Wed, 03 Jun 2026 12:30:00 +0800",
+      "contentSnippet": "必须顶上。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -186,33 +50,51 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "长城跑环塔赛事，赚取技术验证和品牌声量。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源知名科技媒体，内容具体有逻辑，但缺乏数据支撑。"
+      "aiSummary": "张小龙在关键时刻支持马化腾，具体内容不详。",
+      "credibilityScore": 50,
+      "credibilityLevel": "low",
+      "credibilityReason": "标题夸张，正文简略，缺乏技术细节和事实依据。"
     },
     {
-      "title": "多家地方性银行推出微信提现手续费补贴活动，争夺用户零钱存款",
-      "link": "https://www.ithome.com/0/958/632.htm",
-      "pubDate": "Tue, 02 Jun 2026 03:55:01 GMT",
-      "contentSnippet": "IT之家 6 月 2 日消息，据界面新闻今日报道，多家银行近日宣布推出微信提现补贴活动。\n广西农商联合银行介绍，活动期间，储蓄卡持卡人访问“微信支付提现笔笔省”小程序，有机会随机领取 1666 元、6666 元额度的广西农商专属提现券，持卡人将微信零钱提现至该行储蓄卡时可抵扣相应额度的提现服务费。\n衡南农商银行表示，在该行手机银行成功签约微信提现手续费补贴业务后，客户在提现至签约的借记卡（含社保卡）时，可享受提现手续费补贴。该行明确，当月可补贴提现额度为签约借记卡上月活期存款日均余额的 2 倍。\n将补贴额度与存款规模挂钩的还有永兴农村商业银行。该行称，符合补贴条件的客户可享受微信提现手续费补贴",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "豆包、千问618 购物实测：这届AI还没学会卖货",
+      "link": "https://www.tmtpost.com/8012608.html",
+      "pubDate": "Wed, 03 Jun 2026 12:24:00 +0800",
+      "contentSnippet": "8000元预算推7元玩具？AI购物或许有用，但不多。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
       "allSources": [
-        "IT之家"
+        "钛媒体"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "多家地方银行推微信提现补贴，争夺用户零钱存款。",
-      "credibilityScore": 82,
+      "aiSummary": "实测豆包、千问AI购物推荐不精准，实用性有限。",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家，引用界面新闻，信息具体有数据，逻辑清晰。"
+      "credibilityReason": "来自知名科技媒体，内容具体有实测案例，但缺乏数据支撑。"
     },
     {
-      "title": "豆包公司已注册豆包老师商标",
-      "link": "https://36kr.com/newsflashes/3835487236044161?f=rss",
-      "pubDate": "2026-06-02 11:46:17  +0800",
-      "contentSnippet": "36氪获悉，天眼查App显示，豆包关联公司北京春田知韵科技有限公司成立于2023年7月，法定代表人为严林，注册资本100万人民币，经营范围包括计算机系统服务、数据处理服务、软件开发等，由北京抖音信息服务有限公司全资持股。知识产权信息显示，该公司已成功注册多枚“豆包老师”“豆包输入法”“豆包轻服务”等商标，国际分类涉及通讯服务、广告销售等。",
+      "title": "DeepSeek计划在首轮融资中募资约70亿美元",
+      "link": "https://36kr.com/newsflashes/3836944039228549?f=rss",
+      "pubDate": "2026-06-03 12:21:18  +0800",
+      "contentSnippet": "知情人士透露，DeepSeek计划在首轮融资中募资约70亿美元，这家人工智能初创企业估值将达到最高590亿美元。腾讯和宁德时代将成为DeepSeek最大的外部投资者；网易和京东也计划参与投资。（新浪财经）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪",
+        "IT之家"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "DeepSeek计划首轮融资70亿美元，估值达590亿美元。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体，信息具体且有知情人士透露，但未提供原始出处。（多源覆盖 +5）"
+    },
+    {
+      "title": "汤臣倍健等在天津成立新合伙企业，出资额6.8亿",
+      "link": "https://36kr.com/newsflashes/3836933583189384?f=rss",
+      "pubDate": "2026-06-03 12:20:39  +0800",
+      "contentSnippet": "36氪获悉，天眼查App显示，近日，天津砺思星灵创业投资合伙企业（有限合伙）成立，执行事务合伙人为天津砺思明棠企业管理咨询合伙企业（有限合伙），出资额6.8亿人民币，经营范围为创业投资、以自有资金从事投资活动。合伙人信息显示，该合伙企业由汤臣倍健、宁波浦润投资合伙企业（有限合伙）、上海众源二期私募投资基金（有限合伙）、南京华泰洋河股权投资母基金（有限合伙）等共同出资。",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -220,33 +102,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "豆包公司已注册多枚“豆包老师”等商标",
+      "aiSummary": "汤臣倍健等成立6.8亿创投合伙企业",
       "credibilityScore": 85,
       "credibilityLevel": "high",
       "credibilityReason": "来源36氪知名科技媒体，信息具体有数据支撑，引用天眼查数据"
     },
     {
-      "title": "天猫618开门红：成交破亿品牌数增长40%",
-      "link": "https://36kr.com/newsflashes/3835493492471170?f=rss",
-      "pubDate": "2026-06-02 11:45:44  +0800",
-      "contentSnippet": "截至5月31日，天猫618第一阶段，超40000个品牌成交额翻倍，破亿品牌数同比增长40%，破亿且双位数增长的直播间同比增长50%。今年天猫618，美妆、服饰的复购率均超过40%。第一次参加天猫618的新品牌，成交破千万的数量同比增长67%。入驻天猫不超过3年的新品牌中，有329个成为了细分赛道冠军。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
+      "title": "智元开源行业首个聚焦物理交互的具身数据集",
+      "link": "https://www.ithome.com/0/959/248.htm",
+      "pubDate": "Wed, 03 Jun 2026 04:16:04 GMT",
+      "contentSnippet": "IT之家 6 月 3 日消息，今天，智元正式开源 AGIBOT WORLD 2026 数据集第二期主题“多样交互（Rich Interaction）”。\n\n据介绍，这是行业首个聚焦物理交互的开源具身数据集，面向世界模型、神经仿真器、物理感知以及表征学习等具身智能研究，系统记录机器人与真实物理世界之间复杂、高密度、非理想的交互过程，旨在补齐当前世界模型训练中长期缺失的真实物理交互数据。\n官方称，本期“多样交互”数据集，是首次将具身智能的数据范式从“学习成功动作”推进到“理解完整的物理分布”。唯有汲取真实而丰富的交互数据，机器人才能洞悉物理世界的运行法则。\nIT之家注意到，目前本期数据集已在 Hu",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "36氪"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "天猫618首阶段成交破亿品牌数增40%，新品牌表现亮眼。",
-      "credibilityScore": 85,
+      "aiSummary": "智元开源行业首个聚焦物理交互的具身数据集，推动机器人理解物理世界。",
+      "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体36氪，数据具体且逻辑清晰，但缺少独立验证。"
+      "credibilityReason": "来自知名科技媒体IT之家，内容具体且有官方引用，但缺乏独立验证。"
     },
     {
-      "title": "阿里要全面转入「战时状态」了？",
-      "link": "https://www.tmtpost.com/8010614.html",
-      "pubDate": "Tue, 02 Jun 2026 11:43:32 +0800",
-      "contentSnippet": "一切都是为了 AI 变现。",
+      "title": "柠季，救得了哈根达斯？",
+      "link": "https://www.tmtpost.com/8012600.html",
+      "pubDate": "Wed, 03 Jun 2026 12:15:00 +0800",
+      "contentSnippet": "大众茶饮与高端冰淇淋如何融合？",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -254,10 +136,129 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "阿里宣布全面进入“战时状态”，聚焦AI变现。",
+      "aiSummary": "分析柠季能否拯救哈根达斯，探讨大众茶饮与高端冰淇淋融合。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体，内容具体但缺乏数据支撑和原始出处。"
+      "credibilityReason": "来自知名科技媒体，内容具体但缺少数据支撑和原始出处。"
+    },
+    {
+      "title": "零跑破8万、蔚来超理想，硬仗6月才开始",
+      "link": "https://www.tmtpost.com/8012570.html",
+      "pubDate": "Wed, 03 Jun 2026 12:11:00 +0800",
+      "contentSnippet": "3万辆成了及格线。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "零跑销量破8万，蔚来超理想，6月竞争激烈。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体，内容具体有数据，但缺乏原始出处和细节支撑。"
+    },
+    {
+      "title": "杭州4宗涉宅用地46.23亿元成交 最高溢价率超61%",
+      "link": "https://36kr.com/newsflashes/3836926842467463?f=rss",
+      "pubDate": "2026-06-03 12:10:49  +0800",
+      "contentSnippet": "杭州4宗涉宅用地出让，总土地出让面积106196平方米，总规划建筑面积249801.70平方米，总起始价32.58亿元。最终4宗地块中，2宗溢价近25%成交，1宗溢价近36%成交，1宗溢价超61%成交，总成交金额46.23亿元。（证券时报）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "杭州4宗涉宅用地46.23亿元成交，最高溢价率超61%。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体36氪，引用证券时报数据，信息具体有数据支撑。"
+    },
+    {
+      "title": "智谱与MiniMax的科创板攻防战：未来 12 个月，紧盯三组关键观测信号",
+      "link": "https://www.tmtpost.com/8012543.html",
+      "pubDate": "Wed, 03 Jun 2026 12:06:00 +0800",
+      "contentSnippet": "智谱市值6295亿，MiniMax仅2094亿——差距不是由营收决定的，而是由组织基因决定的。当财务数据失效时，运营能力才是分水岭。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "分析智谱与MiniMax科创板竞争，指出组织基因决定市值差距。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体，内容具体有数据支撑，但缺乏原始出处和细节验证。"
+    },
+    {
+      "title": "机器人公司帕西尼据悉正考虑在香港上市",
+      "link": "https://36kr.com/newsflashes/3836925919425928?f=rss",
+      "pubDate": "2026-06-03 12:02:53  +0800",
+      "contentSnippet": "机器人公司帕西尼据悉正考虑在香港上市。（新浪财经）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "机器人公司帕西尼正考虑在香港上市。",
+      "credibilityScore": 70,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体36氪，内容具体但缺乏细节和原始出处。"
+    },
+    {
+      "title": "恒指午间休盘跌1.69%，恒生科技指数跌2.35%",
+      "link": "https://36kr.com/newsflashes/3836925025695107?f=rss",
+      "pubDate": "2026-06-03 12:01:58  +0800",
+      "contentSnippet": "36氪获悉，恒指午间休盘跌1.69%，恒生科技指数跌2.35%；半导体、硬件设备、电气设备板块领涨，剑桥科技涨超14%，英诺赛科涨超11%，亿华通涨超2%；零售、传媒、医药生物板块跌幅居前，东阳光药跌超7%，美团跌超6%，快手跌超5%；南向资金净买入68.8亿港元。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "恒指午盘跌1.69%，科技指数跌2.35%，半导体板块领涨。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体36氪，数据具体且逻辑清晰，但缺乏原始出处链接。"
+    },
+    {
+      "title": "《翘楚》《莫离》大女主权谋打前站，2026暑期档剧集战事提前升温",
+      "link": "https://www.tmtpost.com/8012523.html",
+      "pubDate": "Wed, 03 Jun 2026 12:01:00 +0800",
+      "contentSnippet": "这个六月，优酷和腾讯用两部气质迥异但赛道重合的大女主权谋剧，完成了一次对暑期档开局的诠释。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "优酷腾讯大女主权谋剧预热2026暑期档",
+      "credibilityScore": 70,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体，内容具体但缺乏技术细节，偏向行业分析"
+    },
+    {
+      "title": "网友反馈微软 Win11 新功能测试机制：落地滞后，消磨热情",
+      "link": "https://www.ithome.com/0/959/234.htm",
+      "pubDate": "Wed, 03 Jun 2026 04:00:23 GMT",
+      "contentSnippet": "IT之家 6 月 3 日消息，科技媒体 NeoWin 昨日（6 月 2 日）发布博文，报道称 Windows 11 系统的“持续功能推出”（CFR）机制引发用户不满，认为微软高调宣传的诸多新功能 / 新特性严重滞后。\n在 Windows 11 现行的 CFR 测试机制中，微软在会邀请部分 Windows Insider 频道用户，灰度测试各种新功能和新特性。\n但用户认为即便升级到 Windows 11 最新预览版，并开启“立即获取最新更新”选项，可能依然无法第一时间体验到官方预告的新功能 / 新特性。\nReddit 用户 horizon936 认为，Windows Insider 测试频道已经",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "Win11新功能测试机制滞后，用户不满微软高调宣传。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，引用NeoWin报道和Reddit用户反馈，内容具体逻辑清晰。"
     }
   ]
 }

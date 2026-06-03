@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-02T04:22:12.123Z",
+  "generatedAt": "2026-06-03T04:41:49.808Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "中央财政下达育儿补贴补助资金999亿元 较上年增长10.6%",
-      "link": "https://www.chinanews.com.cn/cj/2026/06-02/10632729.shtml",
-      "pubDate": "Tue, 2 Jun 2026 12:09:43 +0800",
-      "contentSnippet": "中新网6月2日电 据财政部网站消息，为贯彻落实党中央、国务院决策部署，财政部近期下达2026年育儿补贴补助资金999亿元，较上年增长10.6%，支持各地为符合条件的婴幼儿发放育儿补贴。预计全年各级财政共安排补贴资金约1100亿元。",
+      "title": "再购114架！印度推进大手笔采购法国“阵风”战机",
+      "link": "https://www.chinanews.com.cn/gj/2026/06-03/10633475.shtml",
+      "pubDate": "Wed, 3 Jun 2026 12:22:00 +0800",
+      "contentSnippet": "中新网6月3日电 综合印度媒体2日报道，作为推进“阵风”战机采购协议的又一重要步骤，印度已向法国发出采购意向书，以敲定这笔价值约3.25万亿卢比的巨额国防协议，该协议涉及为印度空军采购114架“阵风”战斗机。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -16,120 +16,34 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中央财政下达2026年育儿补贴999亿元，同比增长10.6%。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，引用财政部官方数据，信息具体且客观。"
-    },
-    {
-      "title": "香港“国货大王”余国春：凝聚全球侨力，为中国品牌赋能",
-      "link": "https://www.chinanews.com.cn/hr/2026/06-02/10632718.shtml",
-      "pubDate": "Tue, 2 Jun 2026 11:35:36 +0800",
-      "contentSnippet": "中新社成都6月2日电 (王利文)“在全球经济格局深刻调整的当下，共建‘一带一路’为深化国际合作开辟了新空间。”香港裕华集团主席余国春2日在成都接受中新社专访时表示，海外华侨华人正从传统的“架桥者”升级为“共建者”，既是经贸合作的“连接器”，更是文化互鉴的“融合器”。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "余国春称海外侨胞从“架桥者”升级为“共建者”，助力中国品牌。",
+      "aiSummary": "印度向法国发出采购114架阵风战机意向书，价值约3.25万亿卢比。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威媒体；有直接引述；内容具体、客观。"
+      "credibilityReason": "来源为中国新闻网，引用印度媒体，信息具体有数据，用词客观。"
     },
     {
-      "title": "从“中国特色”到“中国自主”，为什么“中国之问”摆在首位",
-      "link": "https://m.thepaper.cn/detail/33288917",
-      "pubDate": "Tue, 02 Jun 2026 03:30:51 GMT",
-      "contentSnippet": "2026年5月17日，在哲学社会科学工作座谈会召开十周年之际，习近平总书记就推动哲学社会科学高质量发展再次作出重要指示，强调“加快构建中国哲学社会科学自主知识体系，更好回答中国之问、世界之问、人民之问、时代之问”。从2016年5月17日重要讲话提出“加快构建中国特色哲学社会科学”，到2026年强调“加快构建中国哲学社会科学自主知识体系”，十年两次讲话的核心表述完成了从中国特色到中国自主的转变，折射出新时代中国哲学社会科学话语逻辑的演进取向。而“中国之问、世界之问、人民之问、时代之问”这一固定排序中，“中国之问”始终居于首位，绝非随意排列，其背后蕴含着深厚的本体论逻辑、方法论逻辑、叙事学逻辑和系",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "习近平指示加快构建中国哲学社会科学自主知识体系，强调回答中国之问等。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源澎湃新闻较权威，内容具体有直接引述，事实可查证，用词客观。"
-    },
-    {
-      "title": "直播丨上海警方通报“治理制售假劣肉制品问题”等有关情况",
-      "link": "https://m.thepaper.cn/detail/33282092",
-      "pubDate": "Tue, 02 Jun 2026 03:26:22 GMT",
-      "contentSnippet": "6月4日，上海市公安局召开新闻发布会，通报上海警方深入推进“群腐”集中整治，聚焦“治理制售假劣肉制品问题”“治理网络餐饮食品安全问题”两项民生实事，攻坚食品安全突出问题，守护群众餐桌安全的有关情况和典型案例。",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "上海警方通报治理制售假劣肉制品等食品安全问题情况。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源澎湃新闻较权威，内容具体且有官方发布会信息，用词客观。"
-    },
-    {
-      "title": "特朗普被曝同内塔尼亚胡通话时爆粗口",
-      "link": "https://www.chinanews.com.cn/gj/2026/06-02/10632721.shtml",
-      "pubDate": "Tue, 2 Jun 2026 11:26:12 +0800",
-      "contentSnippet": "中新网6月2日电 据美国阿克西奥斯新闻网站报道，美国总统特朗普1日与以色列总理内塔尼亚胡通话时，就以色列升级在黎巴嫩军事行动一事严厉斥责对方，措辞激烈，言语间夹杂粗口。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "特朗普与内塔尼亚胡通话时因以色列军事行动爆粗口。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名媒体中国新闻网，转引美国阿克西奥斯新闻网站，信息具体但缺乏直接引述。"
-    },
-    {
-      "title": "老挝人革党中央总书记、国家主席通伦抵达杭州开始访华",
-      "link": "https://www.chinanews.com.cn/gn/2026/06-02/10632701.shtml",
-      "pubDate": "Tue, 2 Jun 2026 11:01:08 +0800",
-      "contentSnippet": "老挝人革党中央总书记、国家主席通伦今天(6月2日)抵达浙江杭州，开始对中国进行为期五天的国事访问。",
+      "title": "内蒙古自治区政府原主席王莉霞涉嫌受贿被公诉",
+      "link": "https://www.chinanews.com.cn/gn/2026/06-03/10633477.shtml",
+      "pubDate": "Wed, 3 Jun 2026 12:06:35 +0800",
+      "contentSnippet": "中新社北京6月3日电 (记者 张素)中国官方3日通报内蒙古自治区党委原副书记、自治区政府原主席王莉霞涉案进展。最高人民检察院依法以涉嫌受贿罪对王莉霞作出逮捕决定，并指定由黑龙江省大庆市人民检察院审查起诉。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
         "中国新闻网",
-        "澎湃新闻",
-        "联合早报·中港台"
+        "澎湃新闻"
       ],
-      "coverageCount": 3,
-      "coverageBoost": 10,
-      "aiSummary": "老挝领导人通伦抵达杭州开始为期五天的国事访问",
-      "credibilityScore": 100,
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "内蒙古原主席王莉霞因涉嫌受贿被最高检逮捕并指定起诉。",
+      "credibilityScore": 95,
       "credibilityLevel": "high",
-      "credibilityReason": "来源权威（中新网、澎湃、联合早报），信息具体，用词客观（多源覆盖 +10）"
+      "credibilityReason": "来源权威（中新社、澎湃新闻），有具体时间、机构及直接引述，信息可交叉验证。（多源覆盖 +5）"
     },
     {
-      "title": "中央生态环境保护督察集中通报四省份典型案例",
-      "link": "https://www.chinanews.com.cn/gn/2026/06-02/10632663.shtml",
-      "pubDate": "Tue, 2 Jun 2026 10:58:46 +0800",
-      "contentSnippet": "中新网6月2日电 据生态环境部微信公众号消息，第三轮第六批中央生态环境保护督察严格落实《生态环境保护督察工作条例》，树立和践行正确政绩观，统筹推进经济高质量发展和生态环境高水平保护，精准科学依法开展督察。各督察组深入一线、深入现场，查实了一批突出生态环境问题，核实了一批不作为、慢作为，不担当、不碰硬，甚至敷衍应对、弄虚作假等形式主义、官僚主义问题。为发挥警示作用，切实推动问题整改，现对第三批次典型案例进行公开通报。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中央环保督察通报四省份典型案例，聚焦生态问题与形式主义。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，引用官方微信公众号，信息具体且客观。"
-    },
-    {
-      "title": "董军赴南非与国防和退伍军人部部长举行会谈",
-      "link": "https://www.zaobao.com/news/china/story20260602-9140672",
-      "pubDate": "Tue, 02 Jun 2026 02:56:43 GMT",
-      "contentSnippet": "中国官方披露，未出席上周举行的香格里拉对话的中国国防部长董军访问南非，与南非国防和退伍军人部部长举行会谈。\n据中国国防部网站消息，董军星期一（6月1日）与南非国防和退伍军人部部长莫采卡举行会谈；双方就两国两军关系、国际地区形势和共同关心的问题深入交换意见，称将落实好两国元首重要共识，持续深化全方位务实合作。\n会谈前，莫采卡为董军举行欢迎仪式，并陪同检阅仪仗队。\n香格里拉对话（简称香会）从上星期五（5月29日）起，一连三天在新加坡举行；董军并未出席，这是他连续第二年不出席香会。",
+      "title": "海峡论坛6月中旬在福建举办",
+      "link": "https://www.zaobao.com/news/china/story20260603-9146926",
+      "pubDate": "Wed, 03 Jun 2026 03:53:04 GMT",
+      "contentSnippet": "中国大陆国台办宣布海峡论坛将于6月中旬在福建举办，将邀请台湾政党代表参加。\n中国大陆国台办发言人朱凤莲星期三（6月3日）在例行记者会上宣布，第18届海峡论坛于6月中旬在福建举办，论坛大会在13日召开，主会场设在厦门。\n她说，本届海峡论坛坚持民间性、草根性、广泛性定位，延续扩大民间交流，深化融合发展主题，设置四大板块58项活动。\n她说，本届海峡论坛邀请台湾有关政党代表以及青年、妇女、民间信仰、农民、水利、文化、旅游、卫生、工商、金融等各界人士参加。目前论坛各项筹备工作稳步推进。\n台湾前总统马英九去年曾出席海峡论坛，并在与会前与中国大陆全国政协主席王沪宁会面。民众党党中央委员张凯钧则称自己以个人名",
       "sourceName": "联合早报·中港台",
       "sourceWeight": 80,
       "allSources": [
@@ -137,67 +51,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国国防部长董军访问南非，与南非国防部长会谈。",
+      "aiSummary": "国台办宣布第18届海峡论坛6月中旬在福建举办，邀请台湾各界人士参加。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源联合早报较权威，内容具体，有官方消息和直接引述。"
+      "credibilityReason": "来源为知名媒体联合早报，信息具体且有直接引述国台办发言人，内容客观可查证。"
     },
     {
-      "title": "人民领袖｜一份特别的捐款",
-      "link": "https://www.chinanews.com.cn/gn/2026/06-02/10632693.shtml",
-      "pubDate": "Tue, 2 Jun 2026 10:51:17 +0800",
-      "contentSnippet": "1985年5月，习近平离开正定赴厦门任职前，专程来到北贾村小学询问校舍改造工程进展。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "习近平离任正定前视察小学，关注校舍改造。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网较权威，内容具体有时间地点，用词客观。"
-    },
-    {
-      "title": "印尼华裔总会总主席黄印华：看好川渝发展潜力 冀深化中印尼合作",
-      "link": "https://www.chinanews.com.cn/hr/2026/06-02/10632683.shtml",
-      "pubDate": "Tue, 2 Jun 2026 10:51:07 +0800",
-      "contentSnippet": "中新网成都6月2日电 (记者 岳依桐)“东南亚侨商扎根当地、融通中外，是共建‘一带一路’不可替代的天然桥梁。”近日，专程赴蓉出席2026“一带一路”华侨华人合作发展大会的印尼华裔总会总主席、印尼FBL有限公司董事长黄印华在接受中新网记者专访时如是说。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "印尼华裔总会主席黄印华看好川渝发展，冀深化中印尼合作。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，权威媒体；有直接引述和具体活动背景，信息可查证。"
-    },
-    {
-      "title": "消息：中国外交事务繁忙 习近平6月初访问朝鲜可能性不大",
-      "link": "https://www.zaobao.com/news/china/story20260602-9140448",
-      "pubDate": "Tue, 02 Jun 2026 02:39:27 GMT",
-      "contentSnippet": "韩国媒体报道，中国外交事务繁忙，中国国家主席习近平6月初访问朝鲜可能性不大。\n韩联社星期一（6月1日）引述北京外交消息人士称，“习主席访问朝鲜是一件大事，我们正通过官方和非官方渠道密切关注，但我们预计访问安排不会那么容易，因为中国6月初有几项外交活动与访问朝鲜行程重叠。”\n消息人士以老挝国家主席通伦访华为依据，判断习近平6月初出访朝鲜可能性不大。\n中国官方上周宣布，通伦应习近平邀请，在6月2日至6日对中国进行国事访问。消息人士说，按照惯例，习近平这段期间将留在国内。\n消息人士也指，通常陪同习近平出访的中国外长王毅6月初的行程安排密集，因此研判习近平这期间访朝可能性较低。\n据中国外交部官网消息，",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "韩媒称因外交活动重叠，习近平6月初访朝可能性不大。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源较权威（联合早报），有韩联社引述消息人士，信息具体可查证。"
-    },
-    {
-      "title": "美英两名士兵在伊拉克空军基地训练中身亡",
-      "link": "https://www.zaobao.com/news/world/story20260602-9140497",
-      "pubDate": "Tue, 02 Jun 2026 02:30:20 GMT",
-      "contentSnippet": "一名美军士兵和一名英军士兵星期天（5月31日）在伊拉克北部埃尔比勒空军基地的一次训练中身亡。\n综合美国媒体和新华社报道，美国陆军星期一（6月1日）在社媒发布声明说，美军士兵的身份将在通知其家人24小时后公布。\n英国国防部在社交媒体发表声明说，英军士兵家属已获悉相关情况，并请求在公布更多细节前基于“一段缓冲期”。",
+      "title": "俄罗斯禁止五名英国人入境 包括《华盛顿邮报》记者",
+      "link": "https://www.zaobao.com/news/world/story20260603-9146963",
+      "pubDate": "Wed, 03 Jun 2026 03:51:25 GMT",
+      "contentSnippet": "俄罗斯外交部星期二发声明说，俄方已决定禁止五名英国媒体和学界人士入境，理由是他们散布涉俄虚假信息。\n综合路透社和新华社报道，声明说，俄方决定扩充入境禁令名单，将数名英国媒体和学界人士列入其中。\n其中，包括《华盛顿邮报》记者贝尔顿（Catherine Belton）以及英国《i报》的记者霍姆斯（Richard Holmes）。\n贝尔顿是一名专注于俄罗斯事务的调查记者，此前曾为《金融时报》和路透社等多家媒体报道俄罗斯相关新闻；霍姆斯是一位屡获殊荣的调查记者，曾入围普利策奖决赛，目前担任《i报》的安全事务记者。\n其他被列入禁令名单的英国公民包括：政策智库“亨利·杰克逊协会”的撰稿人布劳德（Alexa",
       "sourceName": "联合早报·国际",
       "sourceWeight": 80,
       "allSources": [
@@ -205,61 +68,197 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "美英两名士兵在伊拉克空军基地训练中身亡。",
+      "aiSummary": "俄罗斯禁止五名英国人入境，包括《华盛顿邮报》记者，理由为散布虚假信息。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报，综合美国媒体和新华社报道，有直接引述，信息具体可查证。"
+      "credibilityReason": "来源为联合早报，综合路透社和新华社报道，信息具体，有直接引述。"
     },
     {
-      "title": "台军官校教练机坠机两人殉职",
-      "link": "https://www.zaobao.com/news/china/story20260602-9140286",
-      "pubDate": "Tue, 02 Jun 2026 01:44:30 GMT",
-      "contentSnippet": "台湾空军官校一架教练机星期二（6月2日）早上坠机，造成机上两名飞官殉职。\n据台湾《联合报》报道，坠机事故发生在高雄市冈山区空军官校。一架隶属飞行训练部的T-34C教练机，在执行任务时坠落于校区内跑道头。军方人士称，机上共有两名人员。\n报道引述消息人士称，事故发生后，空军官校立即启动紧急应变机制，消防、医疗及军方相关人员陆续进入现场处置，由于事故发生在校区内部，现场已实施管制，详细坠落原因及事故经过仍有待军方厘清。",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
+      "title": "国内首部潮玩国家标准编制工作启动",
+      "link": "https://www.chinanews.com.cn/cj/2026/06-03/10633465.shtml",
+      "pubDate": "Wed, 3 Jun 2026 11:41:17 +0800",
+      "contentSnippet": "中新网北京6月3日电 (记者 刘亮)记者3日从中国消费品质量安全促进会获悉，我国首部潮玩领域国家标准《潮流玩偶及类似用途产品通用技术要求》编制工作日前正式启动，这标志着我国千亿级潮玩产业正式迈入标准化、规范化、高质量发展的新阶段。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
       "allSources": [
-        "联合早报·中港台"
+        "中国新闻网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "台湾空军官校T-34C教练机坠毁，两名飞官殉职。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报，引用台湾《联合报》报道，信息具体，有直接引述，但未多源交叉验证。"
-    },
-    {
-      "title": "与军方有关联中国实验室 寻求获取英伟达AI晶片",
-      "link": "https://www.zaobao.com/news/china/story20260602-9140251",
-      "pubDate": "Tue, 02 Jun 2026 01:39:17 GMT",
-      "contentSnippet": "彭博社查阅采购记录后发现，至少有七所支持中国军方和防务领域的中国高校，在寻求获得美国英伟达H200晶片。这是美国迄今允许向中国销售的性能最强大人工智能（AI）处理器。\n这些高校包括属于“国防七子”的北京航空航天大学和西北工业大学。彭博社报道，美国商务部以推进中国军事发展相关工作为由，将这两所高校列入黑名单。\n彭博社查阅到的记录显示，北京航空航天大学网络空间安全学院正在寻求租用英伟达晶片。西北工业大学的网络空间安全学院也在寻求租用H200。\n报道也引述追溯至2011年的记录称，发现有超过25个与中国军方及防卫领域有合作的中国高校和实验室，正在使用或寻求获取英伟达的旧一代晶片，其中有六所大学被列入",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "彭博社称七所中国军方关联高校寻求获取英伟达H200晶片。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为彭博社，有采购记录和直接引述，信息具体，但未多源交叉验证。"
-    },
-    {
-      "title": "王毅吁中国巴西共同抵御外部挑战",
-      "link": "https://www.zaobao.com/news/china/story20260602-9140085",
-      "pubDate": "Tue, 02 Jun 2026 00:42:52 GMT",
-      "contentSnippet": "中国外交部长王毅在与巴西外长维埃拉对话时说，呼吁两国共同抵御外部挑战，推动全球南方国家联合自强。\n据中国外交部官网消息，中共政治局委员、中国外交部长王毅星期一（6月1日）在北京同巴西外长维埃拉举行第五次中巴外长级全面战略对话。\n王毅指出，百年变局正在加速演进，国际社会对和平稳定的期待更加迫切，因此呼吁双方要共同抵御各种外部挑战，为推进各自现代化进程和全球南方国家联合自强形成更多合力，为动荡世界提供更多确定性。\n王毅表示，中方赞赏巴政府长期恪守一个中国原则，支持巴方捍卫国家主权、维护独立自主、实现更大发展。双方要统筹用好中巴高层协调与合作委员会和发展战略对接等机制，发挥各自优势，打造更多合作成果",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "王毅呼吁中国与巴西共同抵御外部挑战，推动全球南方联合自强。",
+      "aiSummary": "中国启动首部潮玩国家标准编制，推动产业标准化发展。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报，引用中国外交部官网消息，信息具体且客观。"
+      "credibilityReason": "来源为中国新闻网，权威媒体；信息具体，有直接引述和官方机构背书。"
+    },
+    {
+      "title": "国台办：越来越多台湾有识之士为“两制”台湾方案建言献策",
+      "link": "https://m.thepaper.cn/detail/33297931",
+      "pubDate": "Wed, 03 Jun 2026 03:30:34 GMT",
+      "contentSnippet": "6月3日上午，国台办在新闻发布厅举行例行新闻发布会，发言人朱凤莲就近期两岸热点问题回答记者提问。\n会上有记者提问：台陆委会副主委沈有忠近日称，民调显示，多数台湾民众不愿接受“一国两制”，且不认同“中共对台湾的打压”，坚持台湾的未来应由2300万台湾人民共同决定。请问对此有何评论？\n国台办发言人朱凤莲表示，台湾是中国的台湾，台湾的未来只能也必须由包括台湾同胞在内的14亿多中国人民共同决定。“和平统一、一国两制”是实现国家统一的最佳方式，最符合包括台湾同胞在内的中华民族根本利益，也是维护台湾同胞现有社会制度和生活方式的最佳选择。民进党当局出于“台独”分裂图谋，处心积虑拒绝和平统一、抹黑“一国两制”",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "6月3日上午，国台办在新闻发布厅举行例行新闻发布会，发言人朱凤莲就近期两岸热点问",
+      "credibilityScore": 49,
+      "credibilityLevel": "low",
+      "credibilityReason": "因内容合规限制，使用来源权重作为默认评分"
+    },
+    {
+      "title": "安徽、山西、湖南、辽宁省长深入矿区井下，检查安全生产情况",
+      "link": "https://m.thepaper.cn/detail/33297530",
+      "pubDate": "Wed, 03 Jun 2026 03:27:49 GMT",
+      "contentSnippet": "据“安徽新闻联播”微信公众号消息，6月2日，安徽省委副书记、省长王清宪深入淮南市煤矿企业督导检查安全生产工作。他强调，要深入贯彻习近平总书记关于安全生产的重要指示批示精神，认真落实全国安全生产视频会议部署和省委工作要求，深刻汲取近期重特大事故教训，坚持人民至上、生命至上，时刻绷紧安全生产这根弦，持续提升隐患排查质效，守牢煤矿等各领域的生产安全底线，坚决防范和遏制重特大事故发生，确保人民群众生命财产安全。\n\n6月2日，安徽省委副书记、省长王清宪深入淮南市煤矿企业督导检查安全生产工作。\n\n\n消息提到，安徽省现有在产煤矿36座，绝大多数为高瓦斯或煤与瓦斯突出矿井，安全风险高、监管难度大。王清宪来到淮",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "安徽、山西、湖南、辽宁省长深入矿区井下检查安全生产。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为澎湃新闻，引用官方媒体消息，内容具体，用词客观。"
+    },
+    {
+      "title": "郑丽文访美 强调台湾在亚太安全架构绝非任人摆布棋子",
+      "link": "https://www.zaobao.com/news/china/story20260603-9146779",
+      "pubDate": "Wed, 03 Jun 2026 03:22:01 GMT",
+      "contentSnippet": "台湾在野的国民党主席郑丽文在美国访问期间强调，台湾在亚太安全架构中绝非任人摆布的棋子，而是能够积极定义自身未来、并向国际社会承诺和平的重要行为者。\n据国民党官网新闻稿，郑丽文星期三（6月3日）在旧金山史丹佛大学胡佛研究所，和印太专家学者进行座谈交流。她在会上说，当前东亚格局正迎来大战略环境的转变，美中合作、两岸降温、中日关系稳定所交织出的东亚新局正悄然成型，台湾必须双手紧抓这个历史性和平窗口，从第一岛链开始，将对战争的焦虑转化为建设和平的推动力。\n面对未来挑战，郑丽文提出三项主张：一是构建台湾的人工智能（AI）国防战略，将台湾的科技和半导体产业优势延伸至国防领域，在军事决策指挥、情报分析、无人",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
+      "allSources": [
+        "联合早报·中港台"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国民党主席郑丽文访美称台湾非棋子，提出AI国防战略等主张。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源联合早报较权威，内容具体有直接引述，但仅单方来源，无交叉验证。"
+    },
+    {
+      "title": "国台办：台当局甘当美国军工复合体提款机 将广大台胞推入兵凶战危的险境",
+      "link": "https://www.chinanews.com.cn/gn/2026/06-03/10633440.shtml",
+      "pubDate": "Wed, 3 Jun 2026 11:19:46 +0800",
+      "contentSnippet": "中新网6月3日电 6月3日，国务院台办举行例行新闻发布会。有记者问：近日，台民意机构审查近3000亿元新台币的新一批对美军购特别预算。岛内多个政党团体抗议民进党当局一味对美军购，呼吁加强两岸对话，共享和平红利。对此有何评论？",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国台办批评台当局对美军购，称其将台湾推向危险境地。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，属官方媒体，内容具体有直接引述，用词客观。"
+    },
+    {
+      "title": "缅甸川渝总商会荣誉会长赵章傲：发挥侨商桥梁作用 推动中缅合作走深走实",
+      "link": "https://www.chinanews.com.cn/hr/2026/06-03/10633419.shtml",
+      "pubDate": "Wed, 3 Jun 2026 11:19:18 +0800",
+      "contentSnippet": "中新网成都6月3日电 (记者 王鹏)“海外华侨华人既熟悉中国市场，也了解住在国的发展环境，是推动中缅合作的重要桥梁纽带。”6月2日，来川参加2026“一带一路”华侨华人合作发展大会的缅甸中国海外企业联合会荣誉会长、缅甸川渝总商会荣誉会长赵章傲接受记者采访时表示，在中缅共建“一带一路”和中缅经济走廊建设过程中，华侨华人和缅籍华商能够有效连接两地市场，促进项目落地和民心相通。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "缅甸侨领赵章傲称华侨华人是中缅合作桥梁，促项目落地。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网较权威，内容具体有直接引述，信息可查证。"
+    },
+    {
+      "title": "国台办：赖清德当局罔顾岛内民生，是不折不扣的“金元外交”",
+      "link": "https://m.thepaper.cn/detail/33297783",
+      "pubDate": "Wed, 03 Jun 2026 03:17:29 GMT",
+      "contentSnippet": "6月3日上午，国台办在新闻发布厅举行例行新闻发布会，发言人朱凤莲就近期两岸热点问题回答记者提问。\n会上有记者提问：多家台媒报道，赖清德5月初以“偷渡”方式窜访斯威士兰，为此付出的代价竟高达250亿元新台币。双方签署的投资计划显示，台湾将在斯威士兰投资250亿元新台币修建一座燃料储备设施，而建成后的全部收益将归斯威士兰王室所有。请问对此有何评论？\n国台办发言人朱凤莲表示，赖清德当局为谋“独”政治私利，罔顾岛内民生福祉，大肆挥霍百姓血汗钱，是不折不扣的“金元外交”、“无良政客”。",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国台办批评赖清德当局以高额投资换取窜访，称其“金元外交”损害民生。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为澎湃新闻，引用国台办官方发言，内容具体但单方立场明显。"
+    },
+    {
+      "title": "国台办：民进党当局抹黑大陆应用软件到了反科技反时代地步",
+      "link": "https://www.chinanews.com.cn/gn/2026/06-03/10633443.shtml",
+      "pubDate": "Wed, 3 Jun 2026 11:16:10 +0800",
+      "contentSnippet": "中新网6月3日电 6月3日，国务院台办举行例行新闻发布会。有记者问：近日，民进党当局称，高德地图、哔哩哔哩、爱奇艺及BIMOBIMO等4款大陆研制应用软件均存在实时行为监测、撷取系统信息、资料传输及分享等风险，提醒台湾民众提高警觉，以保障自身数位安全。对此有何评论？",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国台办批评民进党当局抹黑大陆应用软件，称其反科技反时代。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，官方发布会内容，有直接引述，信息具体可查证。"
+    },
+    {
+      "title": "孟加拉国外长卡利勒当选第81届联大主席",
+      "link": "https://www.chinanews.com.cn/gj/2026/06-03/10633448.shtml",
+      "pubDate": "Wed, 3 Jun 2026 11:14:44 +0800",
+      "contentSnippet": "中新网6月3日电 综合外媒报道，当地时间6月2日，联合国大会选举孟加拉国外长卡利勒·拉赫曼为第81届联合国大会主席。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "孟加拉国外长卡利勒·拉赫曼当选第81届联大主席。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，引用综合外媒报道，信息具体且可查证。"
+    },
+    {
+      "title": "赖清德“偷渡”窜访代价250亿新台币 国台办回应",
+      "link": "https://www.chinanews.com.cn/gn/2026/06-03/10633446.shtml",
+      "pubDate": "Wed, 3 Jun 2026 11:12:56 +0800",
+      "contentSnippet": "中新网6月3日电 6月3日，国台办举行例行新闻发布会。有记者问：多家台媒报道，赖清德5月初以“偷渡”方式窜访斯威士兰，为此付出的代价竟高达250亿元新台币。双方签署的投资计划显示，台湾将在斯威士兰投资250亿元新台币修建一座燃料储备设施，而建成后的全部收益将归斯威士兰王室所有。请问对此有何评论？",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国台办回应赖清德窜访斯威士兰代价250亿新台币。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，权威媒体；内容具体，有直接引述和具体数据。"
+    },
+    {
+      "title": "国台办：一个中国原则是人心所向、大势所趋",
+      "link": "https://www.chinanews.com.cn/gn/2026/06-03/10633435.shtml",
+      "pubDate": "Wed, 3 Jun 2026 11:12:32 +0800",
+      "contentSnippet": "中新网6月3日电 6月3日，国务院台办举行例行新闻发布会。有记者问：近日，俄罗斯、加拿大、泰国等多国政府、政要持续发声，强调坚持一个中国的立场。对此有何评论？",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国台办回应多国支持一个中国原则，称其是人心所向。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网较权威，内容具体有直接引述，用词客观。"
     }
   ]
 }
