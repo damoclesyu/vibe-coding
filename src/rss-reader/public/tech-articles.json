@@ -1,82 +1,14 @@
 {
-  "generatedAt": "2026-06-03T04:43:08.235Z",
+  "generatedAt": "2026-06-04T04:27:54.976Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "美团在竞争中看清自己",
-      "link": "https://36kr.com/p/3835814792492416?f=rss",
-      "pubDate": "2026-06-02 17:20:31  +0800",
-      "contentSnippet": "作者｜任彩茹\n编辑｜乔芊\n参与外卖大战的三家公司中，美团最晚发出一季度财报，但给出了最超预期的“减亏”成果。\n2026年一季度，美团实现收入910亿元，同比增长5.6%，基本符合预期。亮点在于经营亏损的大幅收窄，由上季度的161亿元减至65亿元，其中最受关注的核心本地商业，经营亏损从上季度的100亿元减少到20亿元，明显好于投行预测的40-45亿元。\n业绩提振下，6月2日港股开盘后，美团盘中最高涨幅超9%，截至发稿，报85.25港元/股。\n值得关注的是，本季财报中美团还更新了两个关键的收入口径：\n一方面，将“商品销售收入”单列，主要来自食杂零售业务（以小象超市、快驴为主）以及药品、酒类等其他自",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "美团一季度减亏超预期，核心本地商业亏损大幅收窄。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体36氪，数据具体有出处，逻辑清晰，时效性好。"
-    },
-    {
-      "title": "普渡机器人CEO称公司正在为香港上市做准备",
-      "link": "https://36kr.com/newsflashes/3836959792018567?f=rss",
-      "pubDate": "2026-06-03 12:37:20  +0800",
-      "contentSnippet": "日经新闻报道称，普渡机器人创始人和首席执行官张涛接受采访时表示，公司正在为香港上市做准备。（新浪财经）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "普渡机器人CEO称公司正筹备香港上市。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为36氪转载日经新闻，信息具体且有原始出处，但细节较少。"
-    },
-    {
-      "title": "张小龙猛拉了马化腾一把",
-      "link": "https://www.tmtpost.com/8012665.html",
-      "pubDate": "Wed, 03 Jun 2026 12:30:00 +0800",
-      "contentSnippet": "必须顶上。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "张小龙在关键时刻支持马化腾，具体内容不详。",
-      "credibilityScore": 50,
-      "credibilityLevel": "low",
-      "credibilityReason": "标题夸张，正文简略，缺乏技术细节和事实依据。"
-    },
-    {
-      "title": "豆包、千问618 购物实测：这届AI还没学会卖货",
-      "link": "https://www.tmtpost.com/8012608.html",
-      "pubDate": "Wed, 03 Jun 2026 12:24:00 +0800",
-      "contentSnippet": "8000元预算推7元玩具？AI购物或许有用，但不多。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "实测豆包、千问AI购物推荐不精准，实用性有限。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体，内容具体有实测案例，但缺乏数据支撑。"
-    },
-    {
-      "title": "DeepSeek计划在首轮融资中募资约70亿美元",
-      "link": "https://36kr.com/newsflashes/3836944039228549?f=rss",
-      "pubDate": "2026-06-03 12:21:18  +0800",
-      "contentSnippet": "知情人士透露，DeepSeek计划在首轮融资中募资约70亿美元，这家人工智能初创企业估值将达到最高590亿美元。腾讯和宁德时代将成为DeepSeek最大的外部投资者；网易和京东也计划参与投资。（新浪财经）",
+      "title": "中国信通院：即将召开研讨会，启动高质量Token服务能力攀登计划",
+      "link": "https://36kr.com/newsflashes/3838303496342019?f=rss",
+      "pubDate": "2026-06-04 11:24:13  +0800",
+      "contentSnippet": "为深入贯彻落实国家关于推动人工智能高质量发展的战略部署，推动产业加快高质量Token服务能力建设，中国信息通信研究院人工智能研究所、人工智能大模型与软硬件评测工业和信息化部重点实验室、中国人工智能产业发展联盟（AIIA）模型服务（MaaS）工作组将于6月16日在北京联合召开“高质量Token服务研讨会”。论坛将成立“高质量Token服务特别研究组”，并启动“高质量Token服务能力攀登计划”，从组织机制、能力提升方面系统布局，凝聚行业力量共同推动Token服务服务高质量发展，为Token服务产业规范化发展提供坚实底座。（证券时报）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -85,33 +17,16 @@
       ],
       "coverageCount": 2,
       "coverageBoost": 5,
-      "aiSummary": "DeepSeek计划首轮融资70亿美元，估值达590亿美元。",
-      "credibilityScore": 85,
+      "aiSummary": "中国信通院将启动高质量Token服务能力攀登计划",
+      "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，信息具体且有知情人士透露，但未提供原始出处。（多源覆盖 +5）"
+      "credibilityReason": "来源权威（36氪、IT之家），内容具体有会议细节，符合官方信息风格（多源覆盖 +5）"
     },
     {
-      "title": "汤臣倍健等在天津成立新合伙企业，出资额6.8亿",
-      "link": "https://36kr.com/newsflashes/3836933583189384?f=rss",
-      "pubDate": "2026-06-03 12:20:39  +0800",
-      "contentSnippet": "36氪获悉，天眼查App显示，近日，天津砺思星灵创业投资合伙企业（有限合伙）成立，执行事务合伙人为天津砺思明棠企业管理咨询合伙企业（有限合伙），出资额6.8亿人民币，经营范围为创业投资、以自有资金从事投资活动。合伙人信息显示，该合伙企业由汤臣倍健、宁波浦润投资合伙企业（有限合伙）、上海众源二期私募投资基金（有限合伙）、南京华泰洋河股权投资母基金（有限合伙）等共同出资。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "汤臣倍健等成立6.8亿创投合伙企业",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪知名科技媒体，信息具体有数据支撑，引用天眼查数据"
-    },
-    {
-      "title": "智元开源行业首个聚焦物理交互的具身数据集",
-      "link": "https://www.ithome.com/0/959/248.htm",
-      "pubDate": "Wed, 03 Jun 2026 04:16:04 GMT",
-      "contentSnippet": "IT之家 6 月 3 日消息，今天，智元正式开源 AGIBOT WORLD 2026 数据集第二期主题“多样交互（Rich Interaction）”。\n\n据介绍，这是行业首个聚焦物理交互的开源具身数据集，面向世界模型、神经仿真器、物理感知以及表征学习等具身智能研究，系统记录机器人与真实物理世界之间复杂、高密度、非理想的交互过程，旨在补齐当前世界模型训练中长期缺失的真实物理交互数据。\n官方称，本期“多样交互”数据集，是首次将具身智能的数据范式从“学习成功动作”推进到“理解完整的物理分布”。唯有汲取真实而丰富的交互数据，机器人才能洞悉物理世界的运行法则。\nIT之家注意到，目前本期数据集已在 Hu",
+      "title": "台积电董事长魏哲家：客户持续看好人工智能行业发展前景，公司对未来充满信心",
+      "link": "https://www.ithome.com/0/959/632.htm",
+      "pubDate": "Thu, 04 Jun 2026 02:10:01 GMT",
+      "contentSnippet": "IT之家 6 月 4 日消息，据路透社报道，全球最大晶圆代工厂台积电今日表示，受人工智能热潮带动，算力与先进半导体需求旺盛，公司对未来几年的增长充满信心。\n\n台积电董事长魏哲家在台湾地区北部城市新竹举办的年度股东大会上称，客户持续看好人工智能行业发展前景。\n魏哲家表示：“我们看到人工智能模型在消费级、企业级以及国家级人工智能应用领域的采用率不断上升。这一发展趋势催生了更高的算力需求，进而拉动先进半导体芯片的订单需求持续走高。”\nIT之家注意到，作为英伟达的核心芯片供应商，台积电在 4 月上调了全年营收预期，并宣布加大本年度资本开支，用以满足市场对其产品源源不断的需求。",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -119,135 +34,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "智元开源行业首个聚焦物理交互的具身数据集，推动机器人理解物理世界。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，内容具体且有官方引用，但缺乏独立验证。"
-    },
-    {
-      "title": "柠季，救得了哈根达斯？",
-      "link": "https://www.tmtpost.com/8012600.html",
-      "pubDate": "Wed, 03 Jun 2026 12:15:00 +0800",
-      "contentSnippet": "大众茶饮与高端冰淇淋如何融合？",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "分析柠季能否拯救哈根达斯，探讨大众茶饮与高端冰淇淋融合。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体，内容具体但缺少数据支撑和原始出处。"
-    },
-    {
-      "title": "零跑破8万、蔚来超理想，硬仗6月才开始",
-      "link": "https://www.tmtpost.com/8012570.html",
-      "pubDate": "Wed, 03 Jun 2026 12:11:00 +0800",
-      "contentSnippet": "3万辆成了及格线。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "零跑销量破8万，蔚来超理想，6月竞争激烈。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体，内容具体有数据，但缺乏原始出处和细节支撑。"
-    },
-    {
-      "title": "杭州4宗涉宅用地46.23亿元成交 最高溢价率超61%",
-      "link": "https://36kr.com/newsflashes/3836926842467463?f=rss",
-      "pubDate": "2026-06-03 12:10:49  +0800",
-      "contentSnippet": "杭州4宗涉宅用地出让，总土地出让面积106196平方米，总规划建筑面积249801.70平方米，总起始价32.58亿元。最终4宗地块中，2宗溢价近25%成交，1宗溢价近36%成交，1宗溢价超61%成交，总成交金额46.23亿元。（证券时报）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "杭州4宗涉宅用地46.23亿元成交，最高溢价率超61%。",
+      "aiSummary": "台积电董事长称客户看好AI前景，公司对未来增长充满信心。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，引用证券时报数据，信息具体有数据支撑。"
+      "credibilityReason": "来源为知名科技媒体IT之家，引用路透社报道，信息具体且有原始出处。"
     },
     {
-      "title": "智谱与MiniMax的科创板攻防战：未来 12 个月，紧盯三组关键观测信号",
-      "link": "https://www.tmtpost.com/8012543.html",
-      "pubDate": "Wed, 03 Jun 2026 12:06:00 +0800",
-      "contentSnippet": "智谱市值6295亿，MiniMax仅2094亿——差距不是由营收决定的，而是由组织基因决定的。当财务数据失效时，运营能力才是分水岭。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "分析智谱与MiniMax科创板竞争，指出组织基因决定市值差距。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体，内容具体有数据支撑，但缺乏原始出处和细节验证。"
-    },
-    {
-      "title": "机器人公司帕西尼据悉正考虑在香港上市",
-      "link": "https://36kr.com/newsflashes/3836925919425928?f=rss",
-      "pubDate": "2026-06-03 12:02:53  +0800",
-      "contentSnippet": "机器人公司帕西尼据悉正考虑在香港上市。（新浪财经）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "机器人公司帕西尼正考虑在香港上市。",
-      "credibilityScore": 70,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，内容具体但缺乏细节和原始出处。"
-    },
-    {
-      "title": "恒指午间休盘跌1.69%，恒生科技指数跌2.35%",
-      "link": "https://36kr.com/newsflashes/3836925025695107?f=rss",
-      "pubDate": "2026-06-03 12:01:58  +0800",
-      "contentSnippet": "36氪获悉，恒指午间休盘跌1.69%，恒生科技指数跌2.35%；半导体、硬件设备、电气设备板块领涨，剑桥科技涨超14%，英诺赛科涨超11%，亿华通涨超2%；零售、传媒、医药生物板块跌幅居前，东阳光药跌超7%，美团跌超6%，快手跌超5%；南向资金净买入68.8亿港元。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "恒指午盘跌1.69%，科技指数跌2.35%，半导体板块领涨。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体36氪，数据具体且逻辑清晰，但缺乏原始出处链接。"
-    },
-    {
-      "title": "《翘楚》《莫离》大女主权谋打前站，2026暑期档剧集战事提前升温",
-      "link": "https://www.tmtpost.com/8012523.html",
-      "pubDate": "Wed, 03 Jun 2026 12:01:00 +0800",
-      "contentSnippet": "这个六月，优酷和腾讯用两部气质迥异但赛道重合的大女主权谋剧，完成了一次对暑期档开局的诠释。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "优酷腾讯大女主权谋剧预热2026暑期档",
-      "credibilityScore": 70,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体，内容具体但缺乏技术细节，偏向行业分析"
-    },
-    {
-      "title": "网友反馈微软 Win11 新功能测试机制：落地滞后，消磨热情",
-      "link": "https://www.ithome.com/0/959/234.htm",
-      "pubDate": "Wed, 03 Jun 2026 04:00:23 GMT",
-      "contentSnippet": "IT之家 6 月 3 日消息，科技媒体 NeoWin 昨日（6 月 2 日）发布博文，报道称 Windows 11 系统的“持续功能推出”（CFR）机制引发用户不满，认为微软高调宣传的诸多新功能 / 新特性严重滞后。\n在 Windows 11 现行的 CFR 测试机制中，微软在会邀请部分 Windows Insider 频道用户，灰度测试各种新功能和新特性。\n但用户认为即便升级到 Windows 11 最新预览版，并开启“立即获取最新更新”选项，可能依然无法第一时间体验到官方预告的新功能 / 新特性。\nReddit 用户 horizon936 认为，Windows Insider 测试频道已经",
+      "title": "黄仁勋为英伟达 GTX 1080 显卡签名：称其是自己的最爱之一，改变了一切",
+      "link": "https://www.ithome.com/0/959/628.htm",
+      "pubDate": "Thu, 04 Jun 2026 01:59:55 GMT",
+      "contentSnippet": "IT之家 6 月 4 日消息，据 Videocardz 报道，有人拍到英伟达首席执行官黄仁勋现身中国台湾地区，在一张老款 GTX 1080 公版显卡上签名。视频里能听到黄仁勋称这款显卡他的最爱之一，还表示它“改变了一切”。\n\n有部分报道把这款显卡错认成 GTX 1080 Ti，但并不属实。视频无法看清完整型号标识（画面仅能看到 GTX 1080 字样），不过依靠背板外接接口布局就能轻松区分两款公版显卡。\nGTX 1080 公版配备 3 个 DP 接口、1 个 HDMI 接口与 1 个双通道 DVI-D 接口；而 GTX 1080 Ti 公版取消了 DVI 接口，仅保留 3 个 DP 接口加 1",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -255,10 +51,215 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "Win11新功能测试机制滞后，用户不满微软高调宣传。",
+      "aiSummary": "黄仁勋签名GTX 1080显卡，称其改变一切。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有视频证据，但缺乏原始出处链接。"
+    },
+    {
+      "title": "深创投领投，这家微型关节模组企业完成数千万融资丨36氪首发",
+      "link": "https://36kr.com/p/3837650456430851?f=rss",
+      "pubDate": "2026-06-04 09:30:00  +0800",
+      "contentSnippet": "作者丨欧雪\n编辑丨袁斯来\n硬氪获悉，微型高性能电机企业指尖智擎近期完成数千万元Pre-A轮融资，由深创投领投，天启资本与卓源亚洲跟投。资金将主要用于新一代微型轴向磁通电机的量产爬坡、空心杯电机产线建设及全球头部客户的供应链交付保障。多维资本担任本轮独家财务顾问。\n指尖智擎成立于2024年8月，公司主打产品包括微型轴向磁通关节模组与空心杯电机，核心应用场景覆盖灵巧手、消费级机器人、轻型机械臂及医疗设备等领域。公司创始人张杨拥有12年电机行业经验，曾就职于美的、威孚高科、图达通等企业。\n\nφ16mm微型关节模组（图源/企业）\n目前，人形机器人灵巧手的主流技术路径存在精度、自由度、扭矩密度及成本方面",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "深创投领投指尖智擎数千万Pre-A轮融资，用于微型电机量产。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪为知名科技媒体，信息具体含融资细节、产品应用及创始人背景。"
+    },
+    {
+      "title": "联合国报告警示：AI 驱动下，2030 年数据中心水电消耗将翻倍",
+      "link": "https://www.ithome.com/0/959/607.htm",
+      "pubDate": "Thu, 04 Jun 2026 00:50:46 GMT",
+      "contentSnippet": "IT之家 6 月 4 日消息，据路透社报道，联合国研究人员于当地时间周三表示，受人工智能需求激增驱动，数据中心规模持续扩张，预计到 2030 年，其耗电量与耗水量将增至目前的两倍。\n\n联合国大学水、环境与健康研究所在一份报告中警示：倘若各国政府忽视人工智能日益攀升的环境成本，人工智能的快速落地普及还会加剧土地资源紧缺问题，并产生巨量电子废弃物。\nIT之家注意到，去年全球数据中心耗电量达 448 太瓦时，超过沙特阿拉伯全国用电总量，其中人工智能算力耗电占总耗电量的五分之一。\n同期数据中心耗水量达 4.5 万亿升，足以满足撒哈拉以南非洲 6 亿多人的用水需求，二氧化碳排放量则达到 1.89 亿吨。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "联合国报告：AI驱动下，2030年数据中心水电消耗将翻倍。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家转引路透社，引用联合国报告数据，信息具体且有出处。"
+    },
+    {
+      "title": "铁路端午假期运输首日火车票开售，今天可买 6 月 18 日",
+      "link": "https://www.ithome.com/0/959/605.htm",
+      "pubDate": "Thu, 04 Jun 2026 00:31:57 GMT",
+      "contentSnippet": "IT之家 6 月 4 日消息，据国铁集团，今年端午假期铁路运输从 6 月 18 日开始到 6 月 22 日，按照火车票提前 15 天预售的规定，今天起，全国铁路开始发售 6 月 18 日的火车票，旅客可以登录铁路 12306 网站或 App 购票，购票前建议先查询出发车站的车票起售时间。\n\nIT之家整理购票对应时间如下：\n\n6 月 4 日 → 6 月 18 日\n\n6 月 5 日 → 6 月 19 日\n\n6 月 6 日 → 6 月 20 日\n\n6 月 7 日 → 6 月 21 日\n\n6 月 8 日 → 6 月 22 日\n\n依据国务院办公厅《关于 2026 年部分节假日安排的通知》，2026 年端",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "铁路端午假期首日火车票今日开售，可买6月18日票",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源权威（IT之家），引用国铁集团信息，数据具体，逻辑清晰"
+    },
+    {
+      "title": "刚刚，Windows「梦中神机」来了，把你的 PC 变成 Agent 工位",
+      "link": "https://www.ifanr.com/1667971?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pubDate": "Wed, 03 Jun 2026 06:12:42 +0000",
+      "contentSnippet": "微软自研模型发布， MAI 补上 AI 供应链最关键一环\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "sourceName": "爱范儿",
+      "sourceWeight": 82,
+      "allSources": [
+        "爱范儿"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微软发布自研MAI模型，补全AI供应链关键环节",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体爱范儿，内容具体但缺少技术细节和原始出处"
+    },
+    {
+      "title": "诚迈科技在西安成立智慧科技公司，注册资本1000万",
+      "link": "https://36kr.com/newsflashes/3838314251225604?f=rss",
+      "pubDate": "2026-06-04 12:25:20  +0800",
+      "contentSnippet": "36氪获悉，天眼查App显示，近日，诚迈智慧科技（西安）有限公司成立，法定代表人为刘冰冰，注册资本1000万人民币，经营范围包括软件开发、软件销售、信息系统集成服务等。股东信息显示，该公司由诚迈科技全资持股。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "诚迈科技在西安成立全资智慧科技子公司，注册资本1000万",
       "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引用NeoWin报道和Reddit用户反馈，内容具体逻辑清晰。"
+      "credibilityReason": "来源为知名科技媒体36氪，信息具体且有天眼查数据支撑，内容客观"
+    },
+    {
+      "title": "双欣材料：公司PVB树脂产品正在推进MLCC行业认证",
+      "link": "https://36kr.com/newsflashes/3838333964110336?f=rss",
+      "pubDate": "2026-06-04 12:18:08  +0800",
+      "contentSnippet": "36氪获悉，双欣材料在互动平台表示，公司部分特殊型号聚乙烯醇产品已应用于电子玻纤等高附加值领域；PVB树脂产品正在积极推进MLCC行业认证，目前处于认证阶段；PVB树脂也可以作为粘结剂应用在芯片领域。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "双欣材料PVB树脂正推进MLCC行业认证，部分产品已用于电子玻纤。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体36氪，内容具体且来自公司官方互动平台，但缺乏技术细节和第三方验证。"
+    },
+    {
+      "title": "隆扬电子：公司HVLP5铜箔在配合客户交付部分样品订单",
+      "link": "https://36kr.com/newsflashes/3838332517583110?f=rss",
+      "pubDate": "2026-06-04 12:15:38  +0800",
+      "contentSnippet": "36氪获悉，隆扬电子在互动平台表示，公司HVLP5铜箔目前在配合客户交付部分样品订单，尚未有批量化订单，产品尚在验证之中。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "隆扬电子HVLP5铜箔正交付样品，尚未批量订单。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源知名科技媒体36氪，内容具体且引用公司官方互动平台信息。"
+    },
+    {
+      "title": "法拉利首款纯电车型 Luce 遭群嘲，马自达、日产也来玩梗调侃",
+      "link": "https://www.ithome.com/0/959/732.htm",
+      "pubDate": "Thu, 04 Jun 2026 04:14:53 GMT",
+      "contentSnippet": "IT之家 6 月 4 日消息，法拉利首款纯电车型 Luce 发布后，成了全网群嘲的对象。网友纷纷吐槽该车外观，各类 AI 魔改图在网上流传，受舆论影响，法拉利股价甚至出现短时下跌。\n就连法拉利功勋前总裁卢卡 · 迪 · 蒙特泽莫罗也直言，Luce 可能会毁掉这个传奇品牌。此后马自达、日产也针对这款争议满满的电动汽车发表了调侃言论。\n率先发声的是马自达，其发布了一张上世纪 60 年代推出的初代马自达 Luce SS 车型的照片。原来马自达早年停用“Luce”商标、商标到期失效后，法拉利在今年悄悄拿下了该名称的全球商标使用权。虽说马自达现已无权使用这个车名，但初代马自达 Luce 的颜值明显优于新",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "法拉利首款纯电车型Luce因外观遭群嘲，马自达和日产也加入调侃。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有细节，但缺乏官方数据支撑。"
+    },
+    {
+      "title": "“AI 养马”出桌面端了：Hermes Desktop 公测发布",
+      "link": "https://www.ithome.com/0/959/729.htm",
+      "pubDate": "Thu, 04 Jun 2026 04:11:02 GMT",
+      "contentSnippet": "IT之家 6 月 4 日消息，Nous Research 昨日（6 月 3 日）发布公告，宣布以公开预览版形式，发布 Hermes Desktop 桌面版，支持 Windows、macOS 以及 Linux 平台。\n\nHermes Desktop 共享 Hermes Agent 配置、API 密钥、会话、技能和记忆。用户在桌面端发起的会话，可在 CLI 或 TUI 中继续，反向切换也保持同样状态。\nHermes Agent 在国内也被称为“养马”，定位是一个能随用户使用而不断自我演进、具备长期记忆的数字员工。\n \nHermes Agent 可规划任务、调用工具、观察结果，并在会话间保留状态。桌",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家",
+        "InfoQ中文"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "Nous Research发布Hermes Desktop桌面版，支持多平台，具备长期记忆功能。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家和InfoQ，内容具体，有发布方和功能细节。（多源覆盖 +5）"
+    },
+    {
+      "title": "国机精工：未来重点推进金刚石散热商业化落地等",
+      "link": "https://36kr.com/newsflashes/3838331581516291?f=rss",
+      "pubDate": "2026-06-04 12:10:42  +0800",
+      "contentSnippet": "36氪获悉，国机精工在机构调研时表示，超硬材料业务板块正迎来半导体行业发展的历史性机遇，随着国内晶圆厂持续扩产及先进制程迭代，划片刀、封装刀、陶瓷载盘等关键耗材需求放量。公司依托超硬材料磨具国家重点实验室技术积淀，已实现倒边轮减薄磨砂轮、划片刀、封装刀及陶瓷载盘/卡盘等高端产品批量供货，打破日系厂商垄断。金刚石功能化应用加速突破，以2025年千万级收入为起点，重点推进金刚石散热商业化落地、光学级金刚石大尺寸制备及应用，以及第四代半导体材料研发，持续打造国家战略科技力量。轴承领域着力提升航天轴承的产能和智能化转型，满足配套商业航天重点主机需求。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国机精工重点推进金刚石散热商业化，超硬材料业务受益半导体机遇。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪为知名科技媒体，内容具体有技术细节，但缺少原始调研报告引用。"
+    },
+    {
+      "title": "恒指午间休盘跌1.4%，恒生科技指数跌1.43%",
+      "link": "https://36kr.com/newsflashes/3838341851466245?f=rss",
+      "pubDate": "2026-06-04 12:03:14  +0800",
+      "contentSnippet": "36氪获悉，恒指午间休盘跌1.4%，恒生科技指数跌1.43%；有色金属、零售板块领跌，中广核矿业跌超10%，洛阳钼业跌超5%，高鑫零售跌超4%；半导体逆势上涨，兆易创新涨近10%，英诺赛科涨超5%，华虹半导体涨超4%；南向资金净买入29.39亿港元。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "恒指午盘跌1.4%，科技指数跌1.43%，半导体逆势上涨。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪为知名科技媒体，数据具体且时效性强，内容客观。"
+    },
+    {
+      "title": "今年最值得升级的生产力工具，可能是一整张 AI 工位",
+      "link": "https://www.ifanr.com/1667995?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pubDate": "Thu, 04 Jun 2026 04:02:29 +0000",
+      "contentSnippet": "照顾好自己，就是 AI 时代最实在的生产力。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "sourceName": "爱范儿",
+      "sourceWeight": 82,
+      "allSources": [
+        "爱范儿"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "爱范儿推荐AI工位作为今年最值得升级的生产力工具。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体爱范儿，内容具体但缺乏技术细节和原始出处。"
     }
   ]
 }
