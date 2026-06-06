@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-05T04:11:21.357Z",
+  "generatedAt": "2026-06-06T03:54:59.341Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "恒指午间休盘跌0.81%，恒生科技指数跌1.23%",
-      "link": "https://36kr.com/newsflashes/3839756609210884?f=rss",
-      "pubDate": "2026-06-05 12:02:24  +0800",
-      "contentSnippet": "36氪获悉，恒指午间休盘跌0.81%，恒生科技指数跌1.23%；交通运输、国防军工板块领涨，中远海控涨超7%，中航科工涨超1%；半导体、硬件设备板块跌幅居前，胜宏科技跌超9%，澜起科技跌超7%；南向资金净买入44.4亿港元。",
+      "title": "英伟达新品被指内存容量“缩水”海内外存储股应声重挫",
+      "link": "https://36kr.com/newsflashes/3841116245854468?f=rss",
+      "pubDate": "2026-06-06 11:05:30  +0800",
+      "contentSnippet": "2026年以来，存储上市公司市值不断创新高，市场正在尝试将存储资产从传统“周期股”转变为“AI时代核心基础设施资产”。在此估值切换窗口，海外调研机构SemiAnalysis一则关于英伟达新一代Vera Rubin AI服务器平台的内存降配、成本下降的研报，引发海内外存储概念股集体回调。据业内分析，本次报告中所指降配仅限于CPU侧系统内存，与GPU算力核心并无关系，这是基于英伟达兼顾供应链、功耗、成本的多重战略选择。 (证券时报)",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -16,68 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "恒指午盘跌0.81%，科技指数跌1.23%，板块分化明显。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，数据具体且时效性强，内容客观。"
-    },
-    {
-      "title": "深圳出台新能源车险高质量发展“深十条”",
-      "link": "https://36kr.com/newsflashes/3839683855682056?f=rss",
-      "pubDate": "2026-06-05 10:48:24  +0800",
-      "contentSnippet": "为进一步深化新能源车险改革，提升保险服务新能源汽车产业发展水平，近期，深圳金融监管局联合深圳市工信局、深圳市交通运输局、深圳市商务局印发《关于促进深圳新能源车险高质量发展若干措施的通知》，推出十项政策举措。其中，围绕《措施》提出的“探索智能驾驶综合保险”“创新‘基本+变动’组合产品”等方向，深圳金融监管局已指导行��成立新能源车险专项工作组，系统性推进专业能力建设，加深与新能源汽车产业链合作，积极争取各项创新试点在深落地。（证券时报）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "深圳出台十项政策推动新能源车险高质量发展",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，信息具体有政策细节，引用证券时报"
-    },
-    {
-      "title": "早报｜苹果App Store四成头部应用已支持AI/千问上线肯德基skill/奈雪擦边LABUBU被判赔32万",
-      "link": "https://www.ifanr.com/1668169?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pubDate": "Fri, 05 Jun 2026 00:36:28 +0000",
-      "contentSnippet": "· 字节 AI 今年押注世界模型、Coding 和豆包商业化\r\n· 联合国大学报告：AI 扩张正在推高能源、水资源压力\r\n· 中国信通院将启动高质量 Token 服务能力计划\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "sourceName": "爱范儿",
-      "sourceWeight": 82,
-      "allSources": [
-        "爱范儿",
-        "量子位"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "苹果App Store四成头部应用已支持AI，千问上线肯德基skill。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体爱范儿和量子位，内容具体且有数据支撑。（多源覆盖 +5）"
-    },
-    {
-      "title": "8点1氪丨分析师曝苹果Vision Pro产品线被移除；黄仁勋将首次亮相综艺节目；粉笔CEO就骂人大学生“活该找不到工作”道歉",
-      "link": "https://36kr.com/p/3839505332161026?f=rss",
-      "pubDate": "2026-06-05 07:46:55  +0800",
-      "contentSnippet": "今日热点导览\n微信正与手机厂商合作推出Agent-to-Agent助手能力\n擅用“LABUBU”相近标识商业推广，泡泡玛特告奈雪的茶获赔32万\n腾讯客服回应与华为、小米等合作\n神农旅游集团就国道收费进行道歉\n苹果智能眼镜推迟至2029年，无显示屏AI眼镜仍将于2027年推出\nTOP 3 大新闻\n分析师曝苹果Vision Pro产品线被移除，2027年推AI眼镜\n知名苹果分析师郭明錤发布最新供应链调查称，苹果已正式从其XR头显与智能眼镜路线图中移除Vision Pro系列后续产品，资源全面转向更具大众市场潜力的AI眼镜品类。据悉，这一重大战略调整已获苹果下一任CEO约翰·特努斯批准。\n郭明錤表示",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "苹果移除Vision Pro产品线，转向AI眼镜，黄仁勋首秀综艺。",
+      "aiSummary": "英伟达新品内存降配致存储股重挫，但仅限CPU侧系统内存。",
       "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪知名媒体，引用分析师郭明錤，信息具体但部分内容待验证。"
+      "credibilityReason": "来源为知名科技媒体36氪，内容具体且有业内分析，但缺乏原始研报细节。"
     },
     {
-      "title": "NZXT 推出 2026 款 H6 机箱：为背插主板设计，简洁利落",
-      "link": "https://www.ithome.com/0/960/406.htm",
-      "pubDate": "Fri, 05 Jun 2026 04:09:23 GMT",
-      "contentSnippet": "IT之家 6 月 5 日消息，NZXT（恩杰）本月 1 日发布了 2026 款 H6 机箱。这一型号在设计上优先考虑背插主板，整体效果简洁利落，无预装风扇、集线器的标准版本售价 99.99 美元（IT之家注：现汇率约合 678.8 元人民币）。\n\n2026 款 H6 机箱三维 448 × 292 × 420 (mm)，体积 55L。其属于中塔类型，采用左右双舱布局，支持到 ATX 主板，提供 7 条扩展槽。\n该型号兼容 390mm 显卡、200mm 电源、165mm 处理器散热器；提供 10 个 120mm 风扇位，顶部可容纳 360 冷排；包含 2 个 2.5\" 硬盘位和 1 个 3.5\"",
+      "title": "乘联分会崔东树：4 月中国海外市场自主品牌销量 41 万台，同比增长 60%",
+      "link": "https://www.ithome.com/0/960/769.htm",
+      "pubDate": "Sat, 06 Jun 2026 00:00:22 GMT",
+      "contentSnippet": "IT之家 6 月 6 日消息，乘联分会秘书长崔东树今日公布数据，2026 年 4 月的中国海外市场自主品牌销量 41 万台，同比增长 60%，1-4 月的中国海外市场自主品牌销量 151 万台，同比增长 58%。\nIT之家从文中获悉，我国总体汽车销量在海外市场的份额差异巨大，南半球 20%，欧洲 11%，东南亚和中东在 8% 左右，主流地区份额达到 10% 左右，但出口美国、日、韩还是很谨慎的。中国新能源车的世界表现超强，海外溢出效应明显，2026 年 1-4 月达到 61% 的全球份额，其中欧洲 17%，南半球 79%，东南亚和西亚的份额在 46% 左右，部分区域已经是绝对优势。\n文章称，目",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -85,16 +33,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "NZXT发布2026款H6机箱，专为背插主板设计，售价99.99美元。",
+      "aiSummary": "4月中国海外自主品牌销量41万台，同比增长60%。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，内容具体有尺寸、价格等细节，逻辑清晰。"
+      "credibilityReason": "来源IT之家，引用乘联分会秘书长数据，内容具体有数据支撑。"
     },
     {
-      "title": "奇瑞汽车旗下得壹能源科技公司增资至23亿，增幅约28%",
-      "link": "https://36kr.com/newsflashes/3839762913905154?f=rss",
-      "pubDate": "2026-06-05 12:08:49  +0800",
-      "contentSnippet": "36氪获悉，天眼查App显示，近日，安徽得壹能源科技有限公司发生工商变更，原股东芜湖埃科泰克动力总成有限公司、芜湖震用企业管理中心（有限合伙）退出，新增奇瑞汽车旗下芜湖奇达动力电池系统有限公司为股东，同时，注册资本由18亿人民币增至23亿人民币，增幅约28%。 该公司成立于2022年3月，法定代表人为李中兵，经营范围含资源再生利用技术研发、电池制造、电池销售，现由枞阳恒越新能源产业投资中心（有限合伙）及上述新增股东共同持股。",
+      "title": "十部门：2028 年底前，高速公路服务区新建、改建 60kW 以上功率充电设施 3 万个",
+      "link": "https://www.ithome.com/0/960/742.htm",
+      "pubDate": "Fri, 05 Jun 2026 14:30:47 GMT",
+      "contentSnippet": "IT之家 6 月 5 日消息，交通运输部等十部门于 6 月 1 日印发《促进小微型客车租赁高质量发展三年行动方案》，方案提出，完善停车充电等配套服务设施。\n具体来看，方案提到，鼓励租赁企业投放新能源汽车。加快推动高速公路服务区充电设施建设，2028 年底前高速公路服务区新建改建 60 千瓦以上功率电动汽车充电设施 3 万个，围绕旅游公路、国省干线、“四好农村路”等规划布局充换电设施。引导民航机场、高铁车站、汽车客运站等与租赁企业加强合作，为租赁车辆停放和充电提供便利。\nIT之家获悉，其中还提到，推进客运枢纽租赁服务覆盖。有序推动民航机场、高铁车站租赁网点覆盖，具备条件的年吞吐量 100 万人次",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "十部门计划2028年底前在高速服务区新建改建3万个60kW以上充电设施。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源权威（IT之家），引用官方文件，信息具体有数据支撑，逻辑清晰。"
+    },
+    {
+      "title": "住建部就《住房公积金管理条例（修订征求意见稿）》公开征求意见",
+      "link": "https://36kr.com/newsflashes/3840263251364100?f=rss",
+      "pubDate": "2026-06-05 20:37:47  +0800",
+      "contentSnippet": "36氪获悉，住房城乡建设部发布关于《住房公积金管理条例（修订征求意见稿）》公开征求意见的通知。职工有下列情形之一的，可以提取职工住房公积金账户内的存储余额：（一）支付房租的；（二）购买、建造、翻建、大修自住住房的；（三）偿还购房贷款本息的；（四）装修自住住房不超过一定额度的；（五）支付自住住房物业费的；（六）离休、退休的；（七）完全丧失劳动能力，并与单位终止劳动（人事）关系的；（八）出境定居的；（九）经国务院批准的其他住房消费情形。",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -102,16 +67,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "奇瑞旗下得壹能源增资至23亿，增幅28%",
+      "aiSummary": "住建部就公积金管理条例修订征求意见，新增多项提取情形。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪，信息具体有数据支撑，引用天眼查工商变更记录"
+      "credibilityReason": "来源为知名科技媒体36氪，内容具体引用官方通知，信息准确客观。"
     },
     {
-      "title": "汤道生姚顺雨一小时对谈：腾讯AI的下半场，靠什么赢？",
-      "link": "https://www.tmtpost.com/8016235.html",
-      "pubDate": "Fri, 05 Jun 2026 12:06:38 +0800",
-      "contentSnippet": "腾讯AI的下半场，究竟怎么打？",
+      "title": "活久见！奥特曼Dario哈萨比斯同仇敌忾：DNA得查了",
+      "link": "https://www.qbitai.com/2026/06/429711.html",
+      "pubDate": "Fri, 05 Jun 2026 06:56:03 +0000",
+      "contentSnippet": "科技领袖呼吁DNA安全立法",
+      "sourceName": "量子位",
+      "sourceWeight": 80,
+      "allSources": [
+        "量子位"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "科技领袖呼吁加强DNA安全立法，引发关注。",
+      "credibilityScore": 60,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体，但标题夸张，内容简略，缺乏具体细节和数据支撑。"
+    },
+    {
+      "title": "韩国的工业与日本相比，差别和差距在哪里？",
+      "link": "https://www.tmtpost.com/8017465.html",
+      "pubDate": "Sat, 06 Jun 2026 11:40:19 +0800",
+      "contentSnippet": "日本工业最核心的优势在于基础工业的厚度。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -119,50 +101,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "腾讯AI战略转向应用落地，强调务实与长期主义。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体且逻辑清晰，但缺乏数据支撑。"
-    },
-    {
-      "title": "腾讯云TokenHub：连续多月翻倍，日Token消耗量跃升至5万亿",
-      "link": "https://36kr.com/newsflashes/3839759776025096?f=rss",
-      "pubDate": "2026-06-05 12:05:37  +0800",
-      "contentSnippet": "36氪获悉，在今天举行的腾讯云AI产业应用大会上，腾讯云总经理、TokenHub负责人高航透露，腾讯云大模型服务平台TokenHub上线3个月，保持每月翻倍的增长态势，目前日Token消耗量已突破5万亿。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "腾讯云TokenHub日Token消耗量突破5万亿，连续多月翻倍增长。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，信息具体有数据支撑，但缺乏独立验证。"
-    },
-    {
-      "title": "不再反抗，底特律三巨头躲进关税墙",
-      "link": "https://www.tmtpost.com/8015946.html",
-      "pubDate": "Fri, 05 Jun 2026 12:03:00 +0800",
-      "contentSnippet": "通用、福特、Stellantis从反抗关税墙，到躲进墙里。堡垒护住了它们最赚钱的旧业务，保护了底特律的今天，却未必制造美国汽车的明天。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "底特律三巨头从反抗到依赖关税保护，短期获益但长期创新受阻。",
+      "aiSummary": "分析韩国与日本工业差距，强调日本基础工业厚度优势。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体，内容具体有分析，但缺乏数据支撑和原始出处。"
+      "credibilityReason": "来自知名科技媒体钛媒体，内容具体有分析，但缺少数据支撑。"
     },
     {
-      "title": "暴涨50%，89岁“药神”刚刚敲钟了",
-      "link": "https://www.tmtpost.com/8016094.html",
-      "pubDate": "Fri, 05 Jun 2026 11:59:00 +0800",
-      "contentSnippet": "来自苏州常熟。",
+      "title": "《控制：共振》全新预告片“异象曼哈顿”公开，9 月 24 日发售",
+      "link": "https://www.ithome.com/0/960/810.htm",
+      "pubDate": "Sat, 06 Jun 2026 03:39:56 GMT",
+      "contentSnippet": "IT之家 6 月 6 日消息，Remedy 工作室今天公布了《控制：共振》游戏全新预告片“异象曼哈顿”，新作将于 9 月 24 日发售，登陆 PC、PS5、Xbox Series X|S 及 Mac 等平台，支持中文字幕、配音。\nIT之家附全新预告视频如下：\n \n不过需要注意的是，该预告片包含实机及引擎内画面，部分镜头有所调整。\n目前《控制：共振》已开启预购。本作在 Steam 国区标准版定价为 268 元，豪华版 328 元，购买数字豪华版的玩家，可以提前 48 小时抢先体验游戏，并获得数字艺术设定集、原声音乐等额外内容。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "《控制：共振》9月24日发售，登陆多平台，支持中文。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家可信，信息具体含价格和平台，但缺乏官方确认细节。"
+    },
+    {
+      "title": "AIDC储能放量起势，谁已悄悄冲在了最前面？",
+      "link": "https://www.tmtpost.com/8017585.html",
+      "pubDate": "Sat, 06 Jun 2026 11:38:26 +0800",
+      "contentSnippet": "AIDC的电化学储能，正在从传统机房备电，成为算力基础设施的能源基座。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -170,33 +135,118 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "苏州常熟89岁药神公司上市，股价暴涨50%。",
+      "aiSummary": "AIDC储能从备电转向算力基座，行业放量在即。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "钛媒体为知名科技媒体，内容有行业趋势分析，但缺乏具体数据支撑。"
+    },
+    {
+      "title": "鸿蒙智行智界 V9 今日首批交付，上市 21 天大定突破 18000 台",
+      "link": "https://www.ithome.com/0/960/806.htm",
+      "pubDate": "Sat, 06 Jun 2026 03:35:59 GMT",
+      "contentSnippet": "IT之家 6 月 6 日消息，今日，鸿蒙智行智界 V9 全国首批交付仪式开启。官方透露，这款 MPV 上市 21 天，大定订单突破 18000 台。\n\n该车于 5 月 15 日上市，售价区间为 38.98 万-51.98 万元。该车长宽高分别为 5359mm*2009mm*1879mm，轴距达到 3250mm，拥有辉光紫、雪域白、深海蓝、鎏金黑四款外观配色，以及绒霞紫、韶华杏、赤茶橘三款内饰配色。新车全系标配 38 个传感器，是行业首款搭载 896 线激光雷达的 MPV。\n\n\n座舱方面，智界 V9 车内配备了 12.3 英寸液晶仪表盘、双 17.2 英寸智能中控大屏以及 21.4 英寸吸顶屏，",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "智界V9上市21天大定超1.8万台，今日开启首批交付。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息具体含价格、尺寸、配置等细节，逻辑清晰。"
+    },
+    {
+      "title": "淘宝闪购“冰冰节”全面开启，联合百万商家共拓即时零售夏日增量市场",
+      "link": "https://36kr.com/newsflashes/3841144920459784?f=rss",
+      "pubDate": "2026-06-06 11:34:40  +0800",
+      "contentSnippet": "淘宝闪购数据显示，品牌商家门店数量较去年同比增长近四成。除了盒马、沃尔玛等大型商超外，平台还吸引了赵一鸣、好想来、丝芙兰等上万家涵盖零食、美妆、个护等领域的头部品牌入驻，并进一步拓展了防晒、宠物消暑等细分场景。此外，美的、海尔等家电品牌也跨界入局，不仅提供产品直供，更配套提供空调上门安装服务，为消费者带来“即买、即送、即装”的一站式清凉消费体验。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "淘宝闪购启动“冰冰节”，联合百万商家拓展即时零售夏日市场。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体36氪，内容具体有数据支撑，逻辑清晰。"
+    },
+    {
+      "title": "赛力斯牵手字节跳动，能复制问界吗？",
+      "link": "https://www.tmtpost.com/8017566.html",
+      "pubDate": "Sat, 06 Jun 2026 11:30:21 +0800",
+      "contentSnippet": "赛力斯想要第二曲线，字节跳动想要新标杆。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "赛力斯与字节跳动合作，能否复制问界成功模式？",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体，内容具体有分析，但缺少数据支撑和原始出处。"
+    },
+    {
+      "title": "姚顺雨，给出腾讯AI“隆中对”",
+      "link": "https://www.tmtpost.com/8017576.html",
+      "pubDate": "Sat, 06 Jun 2026 11:30:19 +0800",
+      "contentSnippet": "腾讯AI的下半场，还得看微信。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "姚顺雨为腾讯AI提出战略建议，强调微信在AI下半场的关键作用。",
       "credibilityScore": 70,
       "credibilityLevel": "high",
-      "credibilityReason": "来源知名科技媒体，但标题有煽动性，内容简略缺乏技术细节。"
+      "credibilityReason": "来源为知名科技媒体，内容具体有战略分析，但缺少数据支撑和原始出处。"
     },
     {
-      "title": "华为云发布新一代ModelArts Next模型训推平台",
-      "link": "https://36kr.com/newsflashes/3839749039802626?f=rss",
-      "pubDate": "2026-06-05 11:54:42  +0800",
-      "contentSnippet": "36氪获悉，华为云正式发布新一代模型训推平台ModelArts Next，提供RL服务、机密推理、模型路由、模型矩阵四大核心能力。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
+      "title": "《我的世界：地下城》终极版 Steam 新史低，国区 71 元",
+      "link": "https://www.ithome.com/0/960/805.htm",
+      "pubDate": "Sat, 06 Jun 2026 03:27:17 GMT",
+      "contentSnippet": "IT之家 6 月 6 日消息，《我的世界：地下城》终极版现已在 Steam 平台进行史低促销优惠，收录下界烈焰、丛林觉醒、回荡虚空、怒号山峰等 10 款 DLC，原价 284 元的游戏国区折后售价 71 元（商店页链接：https://store.steampowered.com/app/1672970/Minecraft_Dungeons/）。\n\n\n作为参考，《我的世界：地下城》游戏于 2021 年 9 月 22 日上线 Steam，支持 4 名玩家组队游玩，可解锁超 250 种独特神器、装备及附魔。\nIT之家附本作简介如下：\n\n在这款以经典的地牢爬行者为灵感、以《我的世界》为背景的动作冒险",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "36氪"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "华为云发布新一代模型训推平台ModelArts Next，提供四大核心能力。",
+      "aiSummary": "《我的世界：地下城》终极版Steam国区史低价71元",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体有产品细节，逻辑清晰。"
+      "credibilityReason": "来自知名科技媒体IT之家，信息具体有价格和链接，内容客观"
     },
     {
-      "title": "粉笔张小龙，骂跑了客户",
-      "link": "https://www.tmtpost.com/8016039.html",
-      "pubDate": "Fri, 05 Jun 2026 11:52:00 +0800",
-      "contentSnippet": "信任一旦裂开，不是一封道歉信能修复的。",
+      "title": "曝《我的世界：地下城 2》游戏 9 月 29 日登陆 Switch 2",
+      "link": "https://www.ithome.com/0/960/804.htm",
+      "pubDate": "Sat, 06 Jun 2026 03:25:29 GMT",
+      "contentSnippet": "IT之家 6 月 6 日消息，消息源 @Wario64 今天（6 月 6 日）在 X 平台发布推文，爆料称任天堂 eShop 页面短暂上线《我的世界：地下城 2》（Minecraft Dungeons 2）游戏，显示 2026 年 9 月 29 日在 Switch 2 等平台发行。\n从开发阵容看，Mojang 与 Double Eleven 再度合作，延续前作路线。若不通过 Xbox Game Pass 订阅游玩，玩家需支付 29.99 美元（IT之家注：现汇率约合 203.7 元人民币）购买。\n\n本作也大概率会在首日进入 Xbox Game Pass（Xbox 游戏订阅服务），其中 Game",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "爆料称《我的世界：地下城2》将于2026年9月29日登陆Switch 2等平台。",
+      "credibilityScore": 65,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为IT之家，信息基于单一爆料源，缺乏官方确认，细节较简略。"
+    },
+    {
+      "title": "砍掉独立编码器：Gemma 4 12B推翻多模态\"拼接设计\"",
+      "link": "https://www.tmtpost.com/8017427.html",
+      "pubDate": "Sat, 06 Jun 2026 11:22:04 +0800",
+      "contentSnippet": "无编码器架构，12B硬刚26B",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -204,61 +254,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "粉笔CEO张小龙言论引发客户不满，信任危机难修复。",
+      "aiSummary": "Gemma 4 12B采用无编码器架构，性能超越26B模型。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体钛媒体，内容具体但缺乏数据支撑。"
-    },
-    {
-      "title": "上海集成电路产投基金入股此芯科技",
-      "link": "https://36kr.com/newsflashes/3839746148043008?f=rss",
-      "pubDate": "2026-06-05 11:51:46  +0800",
-      "contentSnippet": "36氪获悉，天眼查App显示，近日，此芯科技（上海）有限公司发生工商变更，新增上海集成电路产业投资基金（二期）有限公司为股东，注册资本由约1056.8万人民币增至约1311.8万人民币。此芯科技（上海）有限公司成立于2021年10月，法定代表人为孙文剑，经营范围含集成电路科技、电子科技、通讯科技、计算机软硬件科技领域内的技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广，网络技术服务，集成电路设计，软件开发等，现由孙文剑、合肥蔚来产业发展股权投资合伙企业（有限合伙）及上述新增股东等共同持股。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "上海集成电路产投基金二期入股此芯科技，注册资本增加。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，信息具体有工商变更数据支撑，逻辑清晰。"
-    },
-    {
-      "title": "成本仅 DUV 光刻 1/10：璞璘气压式纳米压印设备量产 8\" 光芯片晶圆",
-      "link": "https://www.ithome.com/0/960/400.htm",
-      "pubDate": "Fri, 05 Jun 2026 03:49:52 GMT",
-      "contentSnippet": "IT之家 6 月 5 日消息，据璞璘科技 (PRINANO) 消息，该企业近日与客户力策科技合作，采用真空气压式晶圆级 NIL（纳米压印）图案化设备 PL-AS，配合定制化双层压印胶材料体系与核心工艺，完全绕开 DUV 光刻路线实现 8 英寸光芯片晶圆可规模化量产，并将芯片制造成本压缩至传统 DUV 方案的 1/10。\n\nIT之家了解到，PL-AS 机台支持＜10nm 的线宽分辨率，晶圆整面压印压力均匀性误差低于 0.5%，支持无残余层压印工艺，对准精度可定制至百纳米级。同时其支持平面或曲面衬底，兼容硬质与柔性模板。\n相较传统的辊压法晶圆级 NIL，PL-AS 通过面施力保障晶圆上每一个纳米级",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "璞璘科技实现8英寸光芯片晶圆纳米压印量产，成本降至DUV光刻1/10。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家可信，技术细节具体，但缺乏第三方验证和独立数据支撑。"
-    },
-    {
-      "title": "网易游戏《蛋仔派对》PC 版今日上线，Mac 端也在筹备中",
-      "link": "https://www.ithome.com/0/960/398.htm",
-      "pubDate": "Fri, 05 Jun 2026 03:47:10 GMT",
-      "contentSnippet": "IT之家 6 月 5 日消息，网易游戏《蛋仔派对》今日官宣 PC 版上线 Windows 端，游戏账号支持双端互通。\n\n据介绍，目前，《蛋仔派对》PC 端支持巅峰派对、休闲派对、蛋仔农场、疯狂农场等多款人气玩法，同步融入 PC 编辑器。据悉，PC 版的 Mac 端也正在同步筹备中，将于近期与玩家见面。\n据官方介绍，《蛋仔派对》是一款拥有 5 亿玩家的乐园游戏，玩家将化身 Q 萌的蛋仔，在盲盒机背后的神秘世界 —— 蛋仔岛，展开一段奇妙的闯关之旅。游戏内含上百张风格各异的地图关卡、数十种休闲娱乐玩法；还有自由度极高的乐园编辑器，可打造独一无二的乐园地图；更有充满脑洞与想象的蛋仔乐园，集结上亿张玩",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "网易《蛋仔派对》PC版上线Windows端，支持双端互通，Mac端筹备中。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，信息具体明确，有官方宣布和细节支撑。"
+      "credibilityReason": "来自知名科技媒体，内容具体但缺乏技术细节和原始出处。"
     }
   ]
 }
