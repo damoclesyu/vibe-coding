@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-07T04:21:10.311Z",
+  "generatedAt": "2026-06-08T04:25:29.627Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "国家外汇局：截至5月末我国外汇储备规模为34422亿美元，升幅0.93%",
-      "link": "https://36kr.com/newsflashes/3842487443507458?f=rss",
-      "pubDate": "2026-06-07 11:05:13  +0800",
-      "contentSnippet": "国家外汇管理局统计数据显示，截至2026年5月末，我国外汇储备规模为34422亿美元，较4月末上升317亿美元，升幅为0.93%。\n\n2026年5月，受全球宏观经济环境、主要经济体货币政策预期等因素影响，美元指数上升，全球主要金融资产价格总体上涨。汇率折算和资产价格变化等因素综合作用，当月外汇储备规模上升。我国经济保持稳中有进发展态势，高质量发展扎实推进，为外汇储备规模保持基本稳定提供支撑。",
+      "title": "半日主力资金加仓机械设备股，抛售国防军工股",
+      "link": "https://36kr.com/newsflashes/3843980476172544?f=rss",
+      "pubDate": "2026-06-08 11:39:08  +0800",
+      "contentSnippet": "主力资金早间净流入机械设备、通信、计算机等板块，净流出国防军工、交通运输、食品饮料等板块。具体到个股来看，中天科技、兆易创新、神剑股份获净流入54.76亿元、15.60亿元、14.30亿元。净流出方面，中兴通讯、光迅科技、佰维存储遭抛售11.28亿元、9.92亿元、8.99亿元。（第一财经）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -16,16 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "截至5月末我国外汇储备34422亿美元，升幅0.93%",
-      "credibilityScore": 90,
+      "aiSummary": "半日主力资金加仓机械设备，抛售国防军工。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源权威（36氪），数据具体且引用国家外汇局官方信息，逻辑清晰"
+      "credibilityReason": "来源36氪为知名科技媒体，内容具体有数据支撑，引用第一财经。"
     },
     {
-      "title": "广州南沙与深圳宝安拟启动住房公积金异地使用",
-      "link": "https://36kr.com/newsflashes/3842447807645952?f=rss",
-      "pubDate": "2026-06-07 10:14:51  +0800",
-      "contentSnippet": "近日，广州南沙区政府与宝安区政府签署战略合作框架协议。两地将在产业协作、科技创新、人才交流、基础设施、优质生活圈等多个领域推进全面合作，联手打造大湾区协同发展新典范，共同支撑“黄金内湾”高质量发展脊梁。在民生领域，两地将在优质教育资源共享、跨区域医疗协作、社保权益互认互通、住房公积金异地使用等方面先行先试。（深圳特区报）",
+      "title": "住建部：国家层面正在研究制定城市更新相关法规",
+      "link": "https://36kr.com/newsflashes/3843943798229506?f=rss",
+      "pubDate": "2026-06-08 11:01:50  +0800",
+      "contentSnippet": "6月8日，住房城乡建设部副部长秦海翔在国务院政策例行吹风会上表示，国家层面正在研究制定城市更新相关法规，住建部支持各地出台地方性法规。目前，全国已有4个省份和20个城市出台城市更新的地方性条例。（证券时报）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -33,16 +33,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "广州南沙与深圳宝安拟推住房公积金异地使用。",
+      "aiSummary": "住建部称国家层面正研究制定城市更新法规。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，信息具体且有原始出处（深圳特区报），内容客观。"
+      "credibilityReason": "来源为36氪转载证券时报，信息具体且有官方吹风会出处。"
     },
     {
-      "title": "美国全面推进 AI 军事应用，特朗普要求 90 天内修订自主武器规则",
-      "link": "https://www.ithome.com/0/961/014.htm",
-      "pubDate": "Sun, 07 Jun 2026 01:18:44 GMT",
-      "contentSnippet": "IT之家 6 月 7 日消息，据路透社报道，美国政府当地时间周五表示，将加快人工智能在国家安全领域的研发与应用，同时强调该技术不得用于非法监控活动。\n\nIT之家注意到，美国政府本周早些时候称，鉴于华盛顿方面对新型强大人工智能系统的安全担忧日益加剧，将要求头部人工智能开发商在向公众发布其最高性能模型前，自愿提交给政府开展网络安全测试。\n特朗普在一份国家安全备忘录中写道：“在本届政府的领导下，美国能够也必将本着美国价值观，负责任地加快人工智能在情报与作战领域的应用。”\n特朗普指示美国国防部长皮特 · 赫格塞斯在 90 天内，修订现有关于武器系统自主性的指令，“确保审慎采用尊重指挥链的人工智能系统”",
+      "title": "自然资源部：坚持存量优先供地导向，经营性项目优先使用存量用地",
+      "link": "https://36kr.com/newsflashes/3843938540603650?f=rss",
+      "pubDate": "2026-06-08 10:56:29  +0800",
+      "contentSnippet": "6月8日，自然资源部国土空间规划局局长谢海霞在国务院政策例行吹风会上表示，要创新用地支持政策。坚持存量优先的供地导向，经营性项目优先使用存量用地，新增用地重点要保障市政基础设施。针对经营主体反映的盘活存量资金压力大，自然资源部推出了过渡期政策。（证券时报）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "自然资源部强调存量优先供地，经营性项目优先使用存量用地。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为36氪转载证券时报，信息具体有政策细节和出处，内容客观。"
+    },
+    {
+      "title": "2026 粤港澳大湾区车展闭幕，下一届明年 6 月 5 日举行",
+      "link": "https://www.ithome.com/0/961/217.htm",
+      "pubDate": "Mon, 08 Jun 2026 00:17:43 GMT",
+      "contentSnippet": "IT之家 6 月 8 日消息，6 月 7 日，2026（第三十届）粤港澳大湾区车展于深圳国际会展中心（宝安）闭幕。\n据悉，粤港澳大湾区车展前身为“深港澳国际汽车博览会”，经批准 2020 年正式升级为“粤港澳大湾区车展”。本届展会启用 11 个展馆及户外展区，规模 30 万平方米，展期吸引 81 万人次观展，预定成交车辆 39253 辆，预定成交金额约 82.5 亿元。\n\nIT之家注意到，本届车展亮点诸多：尊界 S800 Grand Design 典藏大观完成全球首秀；上汽奥迪 E7X、上汽大众 ID.ERA 9X、沃尔沃 ES90 及 EX90 等车型集中上市；零跑 D99 内饰全球首秀；东",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -50,16 +67,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "美国加速AI军事应用，特朗普要求90天内修订自主武器规则。",
+      "aiSummary": "2026粤港澳大湾区车展闭幕，下届明年6月5日举行。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，引用路透社报道，信息具体且有官方出处。"
+      "credibilityReason": "来自知名科技媒体IT之家，信息具体有数据支撑，内容客观。"
     },
     {
-      "title": "红魔姜超谈新品 PAD：目前内部还没定具体发布日期，但本月上市目标没有变",
-      "link": "https://www.ithome.com/0/961/012.htm",
-      "pubDate": "Sun, 07 Jun 2026 00:58:30 GMT",
-      "contentSnippet": "IT之家 6 月 7 日消息，红魔游戏手机产品总经理姜超昨日发文谈及了新品 PAD 以及和平精英封号的问题。\n\n1.关于新品 PAD\n（1）我每天都在跟进，知道大家着急，我也着急。的确也没法跟大家一一回复所有疑惑或质疑，很多人问上市时间，目前内部确实还没定具体日期，后续以官方消息为准。（我即使知道，个人也没法私自公布，有规章制度要求），虽然困难和阻力重重，但我身后有 n 多研发和生产供应链同事在不分昼夜的全力推进中，截止目前，本月上市的目标没有变。\n（2）价格问题，我觉得无需多说，手机行业任何品牌在今年任何时候上市的任何新品，只要不偷工减料不降配涨价都是必然的，涨价跟 PAD 上市时间没有任何",
+      "title": "vivo X Fold6 折叠屏真机曝光，已定档本月发布",
+      "link": "https://www.ithome.com/0/961/305.htm",
+      "pubDate": "Mon, 08 Jun 2026 04:22:53 GMT",
+      "contentSnippet": "IT之家 6 月 8 日消息，据新浪娱乐，演员、歌手朱珠今日亮相法网女单决赛现场，手中这款折叠屏手机格外抢镜，预计为尚未发布的 vivo X Fold6。\n\n\n\n\n可以看到，这款新机配色格外明亮，搭载圆形后置镜头模组，蔡司小蓝标位于镜头中部。与上代相比，新机整理外观更加圆润。\nIT之家注意到，vivo 今日早些时候已经官宣 vivo X Fold6 折叠屏手机 6 月发布，将原子工作台升级，主任务视野更开阔，分屏布局利用率更高，显示面积提升 15%。\n另据 vivo 产品副总裁黄韬透露，vivo X Fold6 折叠屏手机将带来全新的 OriginOS 6 Fold。围绕折叠大屏和 AI 生产",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -67,16 +84,152 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "红魔新品PAD本月上市目标不变，具体日期未定。",
+      "aiSummary": "vivo X Fold6折叠屏真机曝光，定档本月发布，外观更圆润。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来自IT之家，内容具体且引用官方人员发言，但缺乏具体技术细节。"
+      "credibilityReason": "来自知名科技媒体IT之家，内容具体有细节，但部分信息源自娱乐报道，权威性略降。"
     },
     {
-      "title": "IT早报 0607：字节跳动否认造车传闻；比亚迪腾势 Z 超跑“黑武士”实车曝光；减少礼貌用语可让 AI 能耗降低 25%；曝苹果 iOS 27 将改善 iPhone 17 等机型续航...",
-      "link": "https://www.ithome.com/0/960/995.htm",
-      "pubDate": "Sat, 06 Jun 2026 23:22:54 GMT",
-      "contentSnippet": "“IT早报”时间，大家好，现在是 2026 年 6 月 7 日星期日，今天的重要科技资讯有：\n1、字节跳动：没有造车或推出汽车品牌的计划，和赛豆没有股权合作\n字节跳动发布声明，明确否认有造车或推出“豆包汽车”品牌的计划，并澄清与“赛豆”无股权合作。公司强调其汽车业务核心是向行业伙伴提供豆包大模型、火山引擎等技术支持，以提升智能座舱体验。>> 查看详情\n2、比亚迪腾势 Z 超跑“黑武士”实车曝光\n比亚迪旗下腾势 Z 超跑于 4 月 24 日在 2026 北京车展迎来全球首秀，当时发布会主要展示了翡冷翠配色。>> 查看详情\n\n3、联合国大学报告：精简 AI 指令中“谢谢”等礼貌用语，可让 Chat",
+      "title": "蚂蚁集团推出海外AI支付解决方案",
+      "link": "https://36kr.com/newsflashes/3844021085620738?f=rss",
+      "pubDate": "2026-06-08 12:20:27  +0800",
+      "contentSnippet": "36氪获悉，近日，蚂蚁国际面向全球电子钱包、超级应用和数字银行等移动支付服务正式推出移动智能体协议（Agentic Mobile Protocol，简称AMP），解决全球消费者在AI智能体（agents）中购物时支付便捷、安全、有保障，以及商家跨市场互联互通等智能体商业全球化运营的关键难题。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "蚂蚁集团发布AMP协议，解决AI支付难题。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪知名科技媒体，内容具体有技术细节，逻辑清晰。"
+    },
+    {
+      "title": "开市客北京国际商业发展公司注销",
+      "link": "https://36kr.com/newsflashes/3844018424269316?f=rss",
+      "pubDate": "2026-06-08 12:17:45  +0800",
+      "contentSnippet": "36氪获悉，天眼查App显示，近日，开市客（北京）国际商业发展有限公司登记状态由存续变更为注销。 该公司成立于今年4月，法定代表人为黄寿苏，注册资本1亿美元，经营范围包括日用百货销售、普通货物仓储服务、仓储设备租赁服务等，由COSTCO WHOLESALE INTERNATIONAL,INC.全资持股。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "开市客北京新公司成立两月后注销，注册资本1亿美元。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "信息来自天眼查工商数据，36氪报道，内容具体且来源可靠。"
+    },
+    {
+      "title": "经典经营游戏续作《动物园之星 2》实机视频公布，10 月 13 日发售",
+      "link": "https://www.ithome.com/0/961/301.htm",
+      "pubDate": "Mon, 08 Jun 2026 04:11:58 GMT",
+      "contentSnippet": "IT之家 6 月 8 日消息，索尼 PlayStation 中国今日公布《动物园之星 2》官方实机游戏宣传视频，将登陆 PS5 平台。\n\n\n放飞创意，建造环球特色动物园，守护自然生灵百态。系列首次收录水生、飞行物种，动物阵容全面升级。践行自然保育使命，将动物放归至广袤无垠、支持自由规划的野生动物保护区。\n\n《动物园之星 2》是经典模拟经营游戏《动物园之星》的续作，将于 2026 年 10 月 13 日登陆 PlayStation 5、Xbox Series X|S、以及 PC 平台。\n\n\n\n\n\nIT之家注意到，目前《动物园之星 2》页面已经在 Steam 上线并开启预购，国区标准版价格 200",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "《动物园之星2》实机视频公布，10月13日发售，登陆多平台。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体IT之家，信息具体且有官方来源，但缺少技术细节。"
+    },
+    {
+      "title": "暖芯迦完成重大突破，我国首例高分辨率视觉脑机GCP临床试验取得成功",
+      "link": "https://36kr.com/newsflashes/3844010006202629?f=rss",
+      "pubDate": "2026-06-08 12:09:11  +0800",
+      "contentSnippet": "近日，暖芯迦视觉脑机技术实现重大突破，失明二十年的患者在接受我国首例高分辨率视觉脑机GCP临床试验后，初步恢复功能性视力。患者在术后开机调试的第二天就能识别字母，创造了视觉重建的最快记录。据了解，暖芯迦是国内当前唯一的高分辨率视觉脑机接口。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "暖芯迦视觉脑机GCP临床试验成功，失明患者恢复视力。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪知名媒体，内容具体但缺少技术细节和原始出处。"
+    },
+    {
+      "title": "万达商业转让莆田万达广场",
+      "link": "https://36kr.com/newsflashes/3843988385237511?f=rss",
+      "pubDate": "2026-06-08 12:09:03  +0800",
+      "contentSnippet": "36氪获悉，天眼查App显示，近日，莆田万达广场有限公司发生工商变更，原股东万达商业旗下大连万锐企业管理有限公司、大连万达锐驰企业管理有限公司退出，新增大连智新盟商业管理有限公司为全资股东，吴华卸任法定代表人，由彭欣接任。该公司成立于2011年5月，注册资本约1.3亿人民币，经营范围为商业运营管理、房屋租赁服务、物业管理。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "万达商业转让莆田万达广场，股东和法定代表人变更。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪为知名科技媒体，信息具体有工商数据支撑，逻辑清晰。"
+    },
+    {
+      "title": "产品观察 | 小米创始员工范典创业AI硬件，做了台“无摩擦”的睡眠床头灯",
+      "link": "https://36kr.com/p/3844006775360002?f=rss",
+      "pubDate": "2026-06-08 12:07:08  +0800",
+      "contentSnippet": "作者 | 邱晓芬\n编辑 | 袁斯来\n「格物科技」的创始人范典，是当下智能硬件赛道的一个“异类”。\n作为喝过小米粥的小米创始员工，范典曾任曾小米物联网平台部总经理、AIoT战略委员会主席。以大厂高管履历拿笔钱，以最短时间做出款硬件上众筹，依托媒体造势，再滚动更多融资是这两年硬件赛道创业很常见的打法。\n但范典做第一款产品用了三年。\n2024年，智能硬件还是很冷僻的赛道，范典的选择更是小众中的小众。 他没做当时已被市场验证过的AI可穿戴设备、AI床垫，转而做起一个 全新的品类—— AI睡眠床头灯（Sleepal AI Lamp）。\n很少人清楚这三年发生了什么。范典几乎不接受采访，也鲜少见投资人。低调",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "小米创始员工范典创业三年推出AI睡眠床头灯，专注无摩擦睡眠硬件。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪为知名科技媒体，内容具体有细节，但缺少技术数据和原始出处。"
+    },
+    {
+      "title": "恒指午间休盘跌1.18%，恒生科技指数跌2.4%",
+      "link": "https://36kr.com/newsflashes/3844003226454530?f=rss",
+      "pubDate": "2026-06-08 12:02:17  +0800",
+      "contentSnippet": "36氪获悉，恒指午间休盘跌1.18%，恒生科技指数跌2.4%；煤炭、银行、石油石化板块领涨，山东墨龙涨超15%，兖矿能源涨超2%，工商银行涨超1%；有色金属、钢铁、半导体板块跌幅居前，上海复旦跌超7%，灵宝黄金跌超6%，重庆钢铁股份跌超5%；南向资金净买入49.35亿港元。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "恒指午盘跌1.18%，恒生科技指数跌2.4%",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体36氪，数据具体且逻辑清晰"
+    },
+    {
+      "title": "英伟达：带领 PC，重铸 PC｜硬哲学",
+      "link": "https://www.ifanr.com/1668041?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pubDate": "Mon, 08 Jun 2026 03:59:44 +0000",
+      "contentSnippet": "将人类从人类中解放出来\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "sourceName": "爱范儿",
+      "sourceWeight": 82,
+      "allSources": [
+        "爱范儿"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "英伟达引领PC行业变革，重塑个人计算机形态。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "爱范儿是知名科技媒体，但正文摘要过于简略，缺乏技术细节和数据支撑。"
+    },
+    {
+      "title": "消息称英伟达 GeForce RTX 50 系列显卡 SUPER 版本最快 2027 年初推出",
+      "link": "https://www.ithome.com/0/961/296.htm",
+      "pubDate": "Mon, 08 Jun 2026 03:59:03 GMT",
+      "contentSnippet": "IT之家 6 月 8 日消息，台媒 BenchLife.info 本月 5 日根据其“认知”爆料称，NVIDIA（英伟达）GeForce RTX 50 系列显卡的 SUPER 版本最快也要到 2027 年初才会推出，发布时间最早也是 CES 2027。\nGeForce RTX 50 SUPER 的最大升级点是将 16Gb (2GB) 的 GDDR7 更新至 24Gb (3GB) 版本，这会带来 50% 的显存容量提升。根据最新消息，桌面端将推出 60 / 70 / 70 Ti / 80 级别的 SUPER 型号；移动端则暂无消息。\n\nIT之家注意到，NVIDIA 近年 GeForce 游戏显卡",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -85,181 +238,27 @@
       ],
       "coverageCount": 2,
       "coverageBoost": 5,
-      "aiSummary": "IT早报汇总：字节否认造车，腾势Z超跑曝光，AI节能新发现。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体，有原始声明和车展信息，但部分细节待核实。（多源覆盖 +5）"
+      "aiSummary": "英伟达RTX 50 SUPER显卡最快2027年初推出，显存容量提升50%。",
+      "credibilityScore": 70,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为IT之家和钛媒体，内容基于台媒爆料，缺乏官方确认，细节较简略。（多源覆盖 +5）"
     },
     {
-      "title": "蜂巢能源1-4月动力电池装车量同比增长37.2%，排名升至全球第九",
-      "link": "https://36kr.com/newsflashes/3841563903740162?f=rss",
-      "pubDate": "2026-06-06 18:40:53  +0800",
-      "contentSnippet": "日前，SNE Research发布2026年1-4月全球动力电池装车量数据。1-4月全球装机总量352.7GWh，同比增长13.8%。蜂巢能源装车量9.3GWh，同比增长37.2%，增速在TOP10中位列第二，排名升至全球第九。蜂巢能源叠片短刀累计出货超百万套，混合固液电池三季度达成量产。公司已进入Stellantis、VinFast等国际供应链，海外出货占比持续提升；储能产品覆盖30余国，持续入围BNEF Tier1。动力+储能双轮驱动，全年盈利目标可期。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
+      "title": "仙工智能IPO通过聆讯，“机器人大脑第一股”成色几何？",
+      "link": "https://www.tmtpost.com/8018649.html",
+      "pubDate": "Mon, 08 Jun 2026 11:58:08 +0800",
+      "contentSnippet": "控制器+软件+机器人+配件",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
       "allSources": [
-        "36氪"
+        "钛媒体"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "蜂巢能源1-4月动力电池装车量增37.2%，排名升至全球第九。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，数据引用SNE Research，信息具体有细节。"
-    },
-    {
-      "title": "领普超薄触屏智能开关 S5 上架：配 3.52 英寸彩屏，接入小米米家 App，129 元起",
-      "link": "https://www.ithome.com/0/961/054.htm",
-      "pubDate": "Sun, 07 Jun 2026 04:16:47 GMT",
-      "contentSnippet": "IT之家 6 月 7 日消息，小米现已在有品上架领普超薄触屏智能开关 S5（点此访问），其接入了小米米家 App，白色定价为 129 元，灰色 / 黑色定价为 139 元。\n\n该开关提供白 / 灰 / 黑三种配色可选，提供三个实体按键（内含 3 路继电器，支持 3 路灯控），配备一块 3.52 英寸 320x480 分辨率京东方触控面板，提供多款动态主题可选，内置传感器支持靠近显示、自动调节屏幕亮度等特性。\n\n\nIT之家附产品参数：",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "领普S5智能开关上架，配3.52英寸彩屏，接入米家，129元起。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家是知名科技媒体，信息具体有产品参数和价格，来源可靠。"
-    },
-    {
-      "title": "OpenAI芯片元老“002号员工”转投Anthropic",
-      "link": "https://36kr.com/newsflashes/3842586501466625?f=rss",
-      "pubDate": "2026-06-07 12:15:56  +0800",
-      "contentSnippet": "OpenAI自研芯片项目的“002号员工”Clive Chan在X平台发文宣布，自己已离开OpenAI，并于本周正式加入Anthropic。这一消息迅速引发业界广泛关注，被视为AI领域大模型竞争从模型、产品层面向芯片和算力基础设施层延伸的又一信号。Chan的履历令人瞩目，曾在OpenAI、特斯拉、谷歌、SpaceX等多家明星公司工作或实习，长期深耕AI基础设施。他于2021年毕业于加拿大滑铁卢大学，毕业后加入特斯拉Autopilot深度学习基础设施团队，在近三年时间里负责GPU优化、集群调度、数据中心软件及训练基础设施等工作。2024年1月，Chan正式加入OpenAI，担任技术团队成员，参与",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "OpenAI芯片项目002号员工Clive Chan跳槽Anthropic，引发AI芯片人才竞争关注。",
+      "aiSummary": "仙工智能IPO过聆讯，分析其“机器人大脑第一股”价值。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体有个人履历细节，但缺乏原始出处链接和官方确认。"
-    },
-    {
-      "title": "2026 高考各地作文题公布，上海卷聚焦“科技改造世界时，也改造着我们的想象”",
-      "link": "https://www.ithome.com/0/961/053.htm",
-      "pubDate": "Sun, 07 Jun 2026 04:10:28 GMT",
-      "contentSnippet": "IT之家 6 月 7 日消息，2026 年全国统一高考今天开考，今天上午进行的是语文科目考试，教育部教育考试院命制的语文作文试题共 2 道，北京、上海、天津采用自主命题。目前各地作文题已公布。其中，老人与 AI 的相关话题登上北京卷微写作，而“科技改造世界时，也改造着我们的想象”被写入了上海卷。\n\n图源：Pexels\nIT之家现汇总各地高考作文试题如下：\n全国 I 卷\n\n阅读下面的材料，根据要求写作。（60 分）\n词语是表达思想情感的载体，也是展现社会生活变化的窗口。当前，世界之变、时代之变、历史之变正以前所未有的方式展开。青年是常为新的，在你的成长过程中，你对哪一个词语的理解发生了变化？这变",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "2026年高考作文题公布，上海卷聚焦科技与想象的关系。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，内容具体且引用官方命题，时效性强。"
-    },
-    {
-      "title": "节约施工周期近 70%，全球首个“预制算力中心底座”在青岛投用",
-      "link": "https://www.ithome.com/0/961/052.htm",
-      "pubDate": "Sun, 07 Jun 2026 04:09:00 GMT",
-      "contentSnippet": "IT之家 6 月 7 日消息，据央视新闻报道，昨天（6 日），全球首个预制算力中心底座在山东青岛正式启用。相较于传统算力中心节约施工周期近 70%，为当前算力基础设施建设提供更高效、更低碳的新方案。\n据介绍，算力中心底座，简单来说就是算力中心的能源枢纽和电力堡垒，也可以称为算力中心的“心脏”，为算力中心提供持续稳定的电力。而底座的供电稳定性、能效利用率则直接关系到算力中心的整体工作能力。\n算力中心底座外形酷似集装箱，长约 53 米，宽约 41 米，占地面积大概 2200 平方米。相较于传统的算力中心底座，它的占地面积减少了超 30%，整体成本也下降了 20%，最快 5 个月就可以完成施工，为算",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "全球首个预制算力中心底座在青岛投用，节约工期近70%。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家，引用央视报道，信息具体有数据支撑。"
-    },
-    {
-      "title": "2026年度电影总票房已突破160亿元",
-      "link": "https://36kr.com/newsflashes/3842558673242628?f=rss",
-      "pubDate": "2026-06-07 12:00:42  +0800",
-      "contentSnippet": "据网络平台数据，截至目前，2026年度电影总票房已突破160亿元。《飞驰人生3》《给阿嬷的情书》《镖人》暂列前三位。其中，影片《给阿嬷的情书》票房已超15.87亿元（含预售），并将于6月18日在中国香港、中国澳门、新加坡、马来西亚、文莱上映。同时，2026年暑期档已全面开启，目前已有超60部影片锁定暑期档，涵盖历史、科幻、青春、动画等多元类型，共同点燃夏日的光影热情。(央视财经)",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪",
-        "IT之家"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "2026年电影总票房突破160亿元，暑期档开启。",
-      "credibilityScore": 95,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自权威媒体36氪和IT之家，引用央视财经数据，信息具体有出处。（多源覆盖 +5）"
-    },
-    {
-      "title": "华硕破晓 7 Pro 笔记本 14/16 英寸发售：至高可选锐龙 AI 7 445 处理器，7999 元起",
-      "link": "https://www.ithome.com/0/961/047.htm",
-      "pubDate": "Sun, 07 Jun 2026 03:57:15 GMT",
-      "contentSnippet": "IT之家 6 月 7 日消息，华硕破晓 7 Pro 笔记本 14/16 英寸版本已在京东开售，新品最高可选 AMD 锐龙 AI 7 445 处理器，具备 2.5K 144Hz 屏幕，14 英寸版本定价 9499 元起，16 英寸版本售价 7999 元起，IT之家附该笔记本 SKU 如下：\n\n14 英寸 AI 5 430 32GB+1TB：9499 元\n\n14 英寸 AI 7 445 32GB+1TB：9999 元\n\n16 英寸 AI 5 430 16GB+1TB：7999 元\n\n16 英寸 AI 7 445 16GB+1TB：8499 元\n\n京东华硕破晓 7 Pro 笔记本 7999 元起直达",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "华硕破晓7 Pro笔记本开售，最高可选锐龙AI 7 445，7999元起。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，信息具体有价格和配置细节，逻辑清晰。"
-    },
-    {
-      "title": "多家低成本航空公司对登机箱登机收费",
-      "link": "https://36kr.com/newsflashes/3842556634778113?f=rss",
-      "pubDate": "2026-06-07 11:45:37  +0800",
-      "contentSnippet": "近期，不少民航旅客反映自己携带20英寸“登机箱”乘坐飞机，却在登机口被拦，航空公司要求支付相应的行李费用才能把行李箱带上飞机，而且不同的航空公司执行的标准还不一样。记者搜索发现，旅客反映的情况主要集中在春秋、祥鹏、首都航空等低成本航空公司。业内人士介绍，目前我国航空公司大致分为全服务航空公司和低成本航空公司。所谓全服务航空公司，就是在票价里含有很多的服务项目。比如比较大的免费行李额、飞机上的免费餐食，以及航班延误后安排免费住宿等。而低成本航空公司则票价相对更低，但是行李、餐食等服务需要单独付费。\n\n行李差异化服务并非国内首创，在欧美市场不少航司也在推行，为不需要这些服务的旅客提供更加低廉的票价",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "多家低成本航空对登机箱收费，行李服务差异化。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源可靠（36氪），内容具体，有行业背景和案例支撑。"
-    },
-    {
-      "title": "韩国今年1至5月化妆品出口额突破56亿美元",
-      "link": "https://36kr.com/newsflashes/3842527743052037?f=rss",
-      "pubDate": "2026-06-07 11:37:10  +0800",
-      "contentSnippet": "据韩国产业部周日发布的数据，今年前五个月，韩国化妆品出口同比大幅增长，美妆产品一跃成为韩国第一大消费类出口商品。韩国产业部数据显示，1至5月韩国化妆品出口总额达56亿美元，去年同期为46亿美元。韩国化妆品出口额在2024年首次突破100亿美元，2025年更是创下114亿美元的历史新高。（新浪财经）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "韩国1-5月化妆品出口额56亿美元，同比增长。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为36氪，引用韩国产业部数据，信息具体且有出处。"
-    },
-    {
-      "title": "华硕 ROG 飞龙四代 360 ARGB LCD 一体式水冷散热器发售：冷头配 5.08 英寸面板，1699 元起",
-      "link": "https://www.ithome.com/0/961/046.htm",
-      "pubDate": "Sun, 07 Jun 2026 03:34:22 GMT",
-      "contentSnippet": "IT之家 6 月 7 日消息，华硕 ROG 飞龙四代 360 ARGB LCD 一体式水冷散热器现已在京东发售，这是业界首款支持无线水冷技术的水冷，搭配 ROG X870E Glacial 等新一代主板可实现水冷 0 线材安装。其提供了标准版（LC）和颜值版（SLC）可选，区别就是颜值版采用中置短管隐藏水管设计，前者定价为 1699 元，后者定价为 1799 元。\n\n▲ 白色为 LC、黑色为 SLC\n系列散热器冷头配备一块 5.08 英寸 720x720 分辨率 60Hz IPS LCD 面板，亮度 300 尼特，支持显示系统监控 / GIF 视频 / 图片。散热器匹配 ROG 一体式 ARG",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "华硕发布ROG飞龙四代水冷，冷头配5.08英寸屏，支持无线技术，1699元起",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，信息具体有产品细节和定价，逻辑清晰"
+      "credibilityReason": "来源为知名科技媒体钛媒体，内容具体但缺少数据支撑和原始出处。"
     }
   ]
 }
