@@ -1,253 +1,14 @@
 {
-  "generatedAt": "2026-06-08T04:25:29.627Z",
+  "generatedAt": "2026-06-09T03:57:13.063Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "半日主力资金加仓机械设备股，抛售国防军工股",
-      "link": "https://36kr.com/newsflashes/3843980476172544?f=rss",
-      "pubDate": "2026-06-08 11:39:08  +0800",
-      "contentSnippet": "主力资金早间净流入机械设备、通信、计算机等板块，净流出国防军工、交通运输、食品饮料等板块。具体到个股来看，中天科技、兆易创新、神剑股份获净流入54.76亿元、15.60亿元、14.30亿元。净流出方面，中兴通讯、光迅科技、佰维存储遭抛售11.28亿元、9.92亿元、8.99亿元。（第一财经）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "半日主力资金加仓机械设备，抛售国防军工。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体有数据支撑，引用第一财经。"
-    },
-    {
-      "title": "住建部：国家层面正在研究制定城市更新相关法规",
-      "link": "https://36kr.com/newsflashes/3843943798229506?f=rss",
-      "pubDate": "2026-06-08 11:01:50  +0800",
-      "contentSnippet": "6月8日，住房城乡建设部副部长秦海翔在国务院政策例行吹风会上表示，国家层面正在研究制定城市更新相关法规，住建部支持各地出台地方性法规。目前，全国已有4个省份和20个城市出台城市更新的地方性条例。（证券时报）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "住建部称国家层面正研究制定城市更新法规。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为36氪转载证券时报，信息具体且有官方吹风会出处。"
-    },
-    {
-      "title": "自然资源部：坚持存量优先供地导向，经营性项目优先使用存量用地",
-      "link": "https://36kr.com/newsflashes/3843938540603650?f=rss",
-      "pubDate": "2026-06-08 10:56:29  +0800",
-      "contentSnippet": "6月8日，自然资源部国土空间规划局局长谢海霞在国务院政策例行吹风会上表示，要创新用地支持政策。坚持存量优先的供地导向，经营性项目优先使用存量用地，新增用地重点要保障市政基础设施。针对经营主体反映的盘活存量资金压力大，自然资源部推出了过渡期政策。（证券时报）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "自然资源部强调存量优先供地，经营性项目优先使用存量用地。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为36氪转载证券时报，信息具体有政策细节和出处，内容客观。"
-    },
-    {
-      "title": "2026 粤港澳大湾区车展闭幕，下一届明年 6 月 5 日举行",
-      "link": "https://www.ithome.com/0/961/217.htm",
-      "pubDate": "Mon, 08 Jun 2026 00:17:43 GMT",
-      "contentSnippet": "IT之家 6 月 8 日消息，6 月 7 日，2026（第三十届）粤港澳大湾区车展于深圳国际会展中心（宝安）闭幕。\n据悉，粤港澳大湾区车展前身为“深港澳国际汽车博览会”，经批准 2020 年正式升级为“粤港澳大湾区车展”。本届展会启用 11 个展馆及户外展区，规模 30 万平方米，展期吸引 81 万人次观展，预定成交车辆 39253 辆，预定成交金额约 82.5 亿元。\n\nIT之家注意到，本届车展亮点诸多：尊界 S800 Grand Design 典藏大观完成全球首秀；上汽奥迪 E7X、上汽大众 ID.ERA 9X、沃尔沃 ES90 及 EX90 等车型集中上市；零跑 D99 内饰全球首秀；东",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "2026粤港澳大湾区车展闭幕，下届明年6月5日举行。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，信息具体有数据支撑，内容客观。"
-    },
-    {
-      "title": "vivo X Fold6 折叠屏真机曝光，已定档本月发布",
-      "link": "https://www.ithome.com/0/961/305.htm",
-      "pubDate": "Mon, 08 Jun 2026 04:22:53 GMT",
-      "contentSnippet": "IT之家 6 月 8 日消息，据新浪娱乐，演员、歌手朱珠今日亮相法网女单决赛现场，手中这款折叠屏手机格外抢镜，预计为尚未发布的 vivo X Fold6。\n\n\n\n\n可以看到，这款新机配色格外明亮，搭载圆形后置镜头模组，蔡司小蓝标位于镜头中部。与上代相比，新机整理外观更加圆润。\nIT之家注意到，vivo 今日早些时候已经官宣 vivo X Fold6 折叠屏手机 6 月发布，将原子工作台升级，主任务视野更开阔，分屏布局利用率更高，显示面积提升 15%。\n另据 vivo 产品副总裁黄韬透露，vivo X Fold6 折叠屏手机将带来全新的 OriginOS 6 Fold。围绕折叠大屏和 AI 生产",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "vivo X Fold6折叠屏真机曝光，定档本月发布，外观更圆润。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，内容具体有细节，但部分信息源自娱乐报道，权威性略降。"
-    },
-    {
-      "title": "蚂蚁集团推出海外AI支付解决方案",
-      "link": "https://36kr.com/newsflashes/3844021085620738?f=rss",
-      "pubDate": "2026-06-08 12:20:27  +0800",
-      "contentSnippet": "36氪获悉，近日，蚂蚁国际面向全球电子钱包、超级应用和数字银行等移动支付服务正式推出移动智能体协议（Agentic Mobile Protocol，简称AMP），解决全球消费者在AI智能体（agents）中购物时支付便捷、安全、有保障，以及商家跨市场互联互通等智能体商业全球化运营的关键难题。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "蚂蚁集团发布AMP协议，解决AI支付难题。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪知名科技媒体，内容具体有技术细节，逻辑清晰。"
-    },
-    {
-      "title": "开市客北京国际商业发展公司注销",
-      "link": "https://36kr.com/newsflashes/3844018424269316?f=rss",
-      "pubDate": "2026-06-08 12:17:45  +0800",
-      "contentSnippet": "36氪获悉，天眼查App显示，近日，开市客（北京）国际商业发展有限公司登记状态由存续变更为注销。 该公司成立于今年4月，法定代表人为黄寿苏，注册资本1亿美元，经营范围包括日用百货销售、普通货物仓储服务、仓储设备租赁服务等，由COSTCO WHOLESALE INTERNATIONAL,INC.全资持股。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "开市客北京新公司成立两月后注销，注册资本1亿美元。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "信息来自天眼查工商数据，36氪报道，内容具体且来源可靠。"
-    },
-    {
-      "title": "经典经营游戏续作《动物园之星 2》实机视频公布，10 月 13 日发售",
-      "link": "https://www.ithome.com/0/961/301.htm",
-      "pubDate": "Mon, 08 Jun 2026 04:11:58 GMT",
-      "contentSnippet": "IT之家 6 月 8 日消息，索尼 PlayStation 中国今日公布《动物园之星 2》官方实机游戏宣传视频，将登陆 PS5 平台。\n\n\n放飞创意，建造环球特色动物园，守护自然生灵百态。系列首次收录水生、飞行物种，动物阵容全面升级。践行自然保育使命，将动物放归至广袤无垠、支持自由规划的野生动物保护区。\n\n《动物园之星 2》是经典模拟经营游戏《动物园之星》的续作，将于 2026 年 10 月 13 日登陆 PlayStation 5、Xbox Series X|S、以及 PC 平台。\n\n\n\n\n\nIT之家注意到，目前《动物园之星 2》页面已经在 Steam 上线并开启预购，国区标准版价格 200",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "《动物园之星2》实机视频公布，10月13日发售，登陆多平台。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，信息具体且有官方来源，但缺少技术细节。"
-    },
-    {
-      "title": "暖芯迦完成重大突破，我国首例高分辨率视觉脑机GCP临床试验取得成功",
-      "link": "https://36kr.com/newsflashes/3844010006202629?f=rss",
-      "pubDate": "2026-06-08 12:09:11  +0800",
-      "contentSnippet": "近日，暖芯迦视觉脑机技术实现重大突破，失明二十年的患者在接受我国首例高分辨率视觉脑机GCP临床试验后，初步恢复功能性视力。患者在术后开机调试的第二天就能识别字母，创造了视觉重建的最快记录。据了解，暖芯迦是国内当前唯一的高分辨率视觉脑机接口。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "暖芯迦视觉脑机GCP临床试验成功，失明患者恢复视力。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪知名媒体，内容具体但缺少技术细节和原始出处。"
-    },
-    {
-      "title": "万达商业转让莆田万达广场",
-      "link": "https://36kr.com/newsflashes/3843988385237511?f=rss",
-      "pubDate": "2026-06-08 12:09:03  +0800",
-      "contentSnippet": "36氪获悉，天眼查App显示，近日，莆田万达广场有限公司发生工商变更，原股东万达商业旗下大连万锐企业管理有限公司、大连万达锐驰企业管理有限公司退出，新增大连智新盟商业管理有限公司为全资股东，吴华卸任法定代表人，由彭欣接任。该公司成立于2011年5月，注册资本约1.3亿人民币，经营范围为商业运营管理、房屋租赁服务、物业管理。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "万达商业转让莆田万达广场，股东和法定代表人变更。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，信息具体有工商数据支撑，逻辑清晰。"
-    },
-    {
-      "title": "产品观察 | 小米创始员工范典创业AI硬件，做了台“无摩擦”的睡眠床头灯",
-      "link": "https://36kr.com/p/3844006775360002?f=rss",
-      "pubDate": "2026-06-08 12:07:08  +0800",
-      "contentSnippet": "作者 | 邱晓芬\n编辑 | 袁斯来\n「格物科技」的创始人范典，是当下智能硬件赛道的一个“异类”。\n作为喝过小米粥的小米创始员工，范典曾任曾小米物联网平台部总经理、AIoT战略委员会主席。以大厂高管履历拿笔钱，以最短时间做出款硬件上众筹，依托媒体造势，再滚动更多融资是这两年硬件赛道创业很常见的打法。\n但范典做第一款产品用了三年。\n2024年，智能硬件还是很冷僻的赛道，范典的选择更是小众中的小众。 他没做当时已被市场验证过的AI可穿戴设备、AI床垫，转而做起一个 全新的品类—— AI睡眠床头灯（Sleepal AI Lamp）。\n很少人清楚这三年发生了什么。范典几乎不接受采访，也鲜少见投资人。低调",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "小米创始员工范典创业三年推出AI睡眠床头灯，专注无摩擦睡眠硬件。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体有细节，但缺少技术数据和原始出处。"
-    },
-    {
-      "title": "恒指午间休盘跌1.18%，恒生科技指数跌2.4%",
-      "link": "https://36kr.com/newsflashes/3844003226454530?f=rss",
-      "pubDate": "2026-06-08 12:02:17  +0800",
-      "contentSnippet": "36氪获悉，恒指午间休盘跌1.18%，恒生科技指数跌2.4%；煤炭、银行、石油石化板块领涨，山东墨龙涨超15%，兖矿能源涨超2%，工商银行涨超1%；有色金属、钢铁、半导体板块跌幅居前，上海复旦跌超7%，灵宝黄金跌超6%，重庆钢铁股份跌超5%；南向资金净买入49.35亿港元。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "恒指午盘跌1.18%，恒生科技指数跌2.4%",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体36氪，数据具体且逻辑清晰"
-    },
-    {
-      "title": "英伟达：带领 PC，重铸 PC｜硬哲学",
-      "link": "https://www.ifanr.com/1668041?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pubDate": "Mon, 08 Jun 2026 03:59:44 +0000",
-      "contentSnippet": "将人类从人类中解放出来\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "sourceName": "爱范儿",
-      "sourceWeight": 82,
-      "allSources": [
-        "爱范儿"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "英伟达引领PC行业变革，重塑个人计算机形态。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "爱范儿是知名科技媒体，但正文摘要过于简略，缺乏技术细节和数据支撑。"
-    },
-    {
-      "title": "消息称英伟达 GeForce RTX 50 系列显卡 SUPER 版本最快 2027 年初推出",
-      "link": "https://www.ithome.com/0/961/296.htm",
-      "pubDate": "Mon, 08 Jun 2026 03:59:03 GMT",
-      "contentSnippet": "IT之家 6 月 8 日消息，台媒 BenchLife.info 本月 5 日根据其“认知”爆料称，NVIDIA（英伟达）GeForce RTX 50 系列显卡的 SUPER 版本最快也要到 2027 年初才会推出，发布时间最早也是 CES 2027。\nGeForce RTX 50 SUPER 的最大升级点是将 16Gb (2GB) 的 GDDR7 更新至 24Gb (3GB) 版本，这会带来 50% 的显存容量提升。根据最新消息，桌面端将推出 60 / 70 / 70 Ti / 80 级别的 SUPER 型号；移动端则暂无消息。\n\nIT之家注意到，NVIDIA 近年 GeForce 游戏显卡",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家",
-        "钛媒体"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "英伟达RTX 50 SUPER显卡最快2027年初推出，显存容量提升50%。",
-      "credibilityScore": 70,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为IT之家和钛媒体，内容基于台媒爆料，缺乏官方确认，细节较简略。（多源覆盖 +5）"
-    },
-    {
-      "title": "仙工智能IPO通过聆讯，“机器人大脑第一股”成色几何？",
-      "link": "https://www.tmtpost.com/8018649.html",
-      "pubDate": "Mon, 08 Jun 2026 11:58:08 +0800",
-      "contentSnippet": "控制器+软件+机器人+配件",
+      "title": "东北发现新重稀土矿，南北资源格局或调整，两大国企具备独家开采资质",
+      "link": "https://www.tmtpost.com/8019344.html",
+      "pubDate": "Tue, 09 Jun 2026 11:00:37 +0800",
+      "contentSnippet": "\"冻碎\"出来的新型矿床，如何重塑稀土供应链格局？",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -255,10 +16,248 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "仙工智能IPO过聆讯，分析其“机器人大脑第一股”价值。",
+      "aiSummary": "东北发现新重稀土矿，或调整南北资源格局，两大国企获独家开采权。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体钛媒体，内容具体但缺少数据支撑和原始出处。"
+      "credibilityReason": "来自知名科技媒体钛媒体，内容具体有技术细节，但缺乏原始出处和独立验证。"
+    },
+    {
+      "title": "消息称德法决定停止联合研发战斗机",
+      "link": "https://www.ithome.com/0/961/793.htm",
+      "pubDate": "Tue, 09 Jun 2026 02:22:23 GMT",
+      "contentSnippet": "IT之家 6 月 9 日消息，据央视新闻今日援引德国方面消息，因合作企业间分歧难以弥合，德国和法国已决定停止“未来空中作战系统（FCAS）”框架下的战斗机联合研发项目。\n据政府知情人士的话说，德国总理默茨与法国总统马克龙已达成共识，项目合作方法国达索公司与代表德国、西班牙两国利益的空中客车公司未能在联合研制战斗机问题上达成一致。默茨向马克龙提议叫停该战斗机研发计划。\n消息称，虽然联合研发被叫停，但德法两国仍计划继续推进该框架下的“战斗云”系统开发。该系统旨在通过网络将各种武器系统、平台和传感器进行连接。\n德法两国于 2017 年宣布将联合研发包括下一代战机等在内的“未来空中作战系统”，西班牙之",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "德法因企业分歧停止FCAS战斗机联合研发，但继续推进战斗云系统。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家转引央视新闻，信息具体有政府知情人士出处，逻辑清晰。"
+    },
+    {
+      "title": "两部门印发《服务业发展资金管理办法》",
+      "link": "https://36kr.com/newsflashes/3845293621266696?f=rss",
+      "pubDate": "2026-06-09 09:54:57  +0800",
+      "contentSnippet": "36氪获悉，为加强服务业发展资金管理，充分发挥中央财政资金在引导促进服务业加快发展方面的作用，财政部、商务部修订印发《服务业发展资金管理办法》。其中提到，服务业发展资金的支持范围包括：加快培育消费新增长点。主要包括促进服务消费提质惠民、激发下沉市场消费活力、推动人工智能等新兴技术在消费领域的普及应用等。提升商贸流通业竞争力。补齐流通设施短板，增强流通保供能力，大力发展现代供应链，提升产业集成和协同化水平。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "两部门修订服务业发展资金管理办法，支持消费新增长点。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体36氪，内容具体且引用官方文件，但缺乏原文链接。"
+    },
+    {
+      "title": "两部门：到 2026 年底，人形机器人等重点产品在一批代表性场景中率先完成应用验证和常态部署",
+      "link": "https://www.ithome.com/0/961/749.htm",
+      "pubDate": "Tue, 09 Jun 2026 01:15:30 GMT",
+      "contentSnippet": "IT之家 6 月 9 日消息，工业和信息化部办公厅、国务院国资委办公厅 6 月 8 日发布关于联合开展 2026 年度人形机器人与具身智能实景实训专项行动的通知。\n通知提到，到 2026 年底，人形机器人等重点产品在一批代表性场景中率先完成应用验证和常态部署，开启“作业模式”；凝练形成百个以上高价值应用场景，进一步丰富具身智能应用谱系，带动形成万台级规模落地能力。\n\nIT之家附主要任务如下：\n（一）打造实景实训空间。围绕工业、服务、特种领域，聚焦生产制造、检测分析、维修维护、仓储物流、餐饮零售、医疗康养、安全生产、应急救援、防灾减灾等重点场景的人形机器人、四足机器人应用需求，组织相关企事业单位",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "两部门计划到2026年底人形机器人完成应用验证和常态部署。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体IT之家，引用官方通知，内容具体且逻辑清晰。"
+    },
+    {
+      "title": "世界杯官方比赛用球再度“中国制造”：全球产业链迁移下，广东工厂为何仍留在赛场中央？｜最前线",
+      "link": "https://36kr.com/p/3844185422400008?f=rss",
+      "pubDate": "2026-06-08 23:09:52  +0800",
+      "contentSnippet": "2026年美加墨世界杯进入倒计时，对于普通球迷而言，世界杯意味着绿茵场上的竞争与激情；但对于体育装备制造业来说，这项全球顶级赛事同样是检验供应链实力与技术能力的重要时刻。\n2025年10月，阿迪达斯正式发布2026年世界杯官方比赛用球\"三重浪（TRIONDA）\"。据阿迪达斯方面介绍，这款比赛用球在中国广东的一家代工厂完成生产与检测，每一颗出厂用球均印有\"MADE IN CHINA\"字样。\n值得说明的是，全球足球制造的版图并非由单一地区主导。公开资料显示，巴基斯坦锡亚尔科特一城便生产了全球约七成足球，历届世界杯的大量用球亦出自当地的Forward Sports等代工企业。世界杯用球的供给，实际上",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "2026年世界杯官方用球由中国广东工厂制造，分析全球产业链迁移下的中国制造优势。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪为知名科技媒体，内容具体有产品发布和代工细节，逻辑清晰，但缺少原始出处链接。"
+    },
+    {
+      "title": "2025 年国际 Ｃ语言混乱代码大赛公布获奖结果",
+      "link": "https://www.solidot.org/story?sid=84513",
+      "pubDate": "Mon, 08 Jun 2026 17:05:19 +0800",
+      "contentSnippet": "2025 年第 29 届国际 Ｃ 语言混乱代码大赛（IOCCC, The International Obfuscated C Code Contest）公布了获奖作品。IOCCC 是一项国际程序设计赛事，旨在写出最有创意和最让人难以理解的 C 语言代码。IOCCC29 的 22 部获奖作品包括：Nick Craig-Wood 开发的 GBA 模拟器，其源代码就像一部 GBA 游戏机；虚拟机的代码规模通常比较大，比如 QEMU 有大约 200 万行代码，而 Adrian Cable 开发的虚拟机只有 366 个字节，它能运行 DOOM；台湾开发者 jingp49 获奖作品的源代码形状来自《神秘",
+      "sourceName": "Solidot",
+      "sourceWeight": 75,
+      "allSources": [
+        "Solidot"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "2025年IOCCC公布22部获奖作品，包括微型虚拟机和GBA模拟器。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体Solidot，内容具体有技术细节，信息可靠。"
+    },
+    {
+      "title": "AI 威胁数十亿人的自然资源",
+      "link": "https://www.solidot.org/story?sid=84511",
+      "pubDate": "Mon, 08 Jun 2026 15:34:28 +0800",
+      "contentSnippet": "联合国大学水、环境与健康研究所发布了报告《AI 能耗的环境成本：碳、水和土地足迹》。报告预计到 2030 年，为全球人工智能（AI）提供支持的数据中心，每年将消耗 945 TWh 的电力，相关用水量将相当于 13 亿人一年的基本生活用水需求，而土地占用面积将超过 14500 平方公里。研究发现，支撑 AI 运行的每 1 千瓦时电力，都同时对应3种环境足迹，即来自能源生产过程的碳足迹、来自发电和冷却过程的水足迹，以及能源基础设施建设和资源开采带来的土地足迹。报告显示，训练 GPT-5 预计需要约 100 GWh 电力，相当于撒哈拉以南非洲约 77 万人一年的居民用电量，相关用水量约为 10 亿升",
+      "sourceName": "Solidot",
+      "sourceWeight": 75,
+      "allSources": [
+        "Solidot"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "联合国报告称AI数据中心2030年能耗将达945TWh，用水量相当于13亿人需求。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体Solidot，引用联合国大学报告，数据具体且有出处。"
+    },
+    {
+      "title": "多家银行将公司列为高风险客户，收紧信贷额度？电科院澄清：不存在所述情形",
+      "link": "https://36kr.com/newsflashes/3845410578139400?f=rss",
+      "pubDate": "2026-06-09 11:53:55  +0800",
+      "contentSnippet": "36氪获悉，就“近期市场传言多家银行已将贵公司列为高风险客户，纷纷收紧信贷额度，甚至要求提前偿还贷款。这一传言是否属实？”的问题，电科院在互动平台回复称，公司不存在上述情形，公司有权追究造谣者及散布不实信息者的法律责任。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "电科院否认银行将其列为高风险客户及收紧信贷的传言。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪为知名科技媒体，内容基于公司官方回应，信息具体且逻辑清晰。"
+    },
+    {
+      "title": "晓程科技：暂无并购芯片、电路板或晶圆企业的计划",
+      "link": "https://36kr.com/newsflashes/3845406959389186?f=rss",
+      "pubDate": "2026-06-09 11:50:14  +0800",
+      "contentSnippet": "36氪获悉，晓程科技在互动平台表示，截至目前，公司暂无并购芯片、电路板或晶圆企业的计划。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "晓程科技称暂无并购芯片等企业计划",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体36氪，信息源自公司官方互动平台，内容明确具体"
+    },
+    {
+      "title": "明基带来专业色准显示器 PD2732U：99% Adobe RGB / Display P3 色域",
+      "link": "https://www.ithome.com/0/961/841.htm",
+      "pubDate": "Tue, 09 Jun 2026 03:48:57 GMT",
+      "contentSnippet": "IT之家 6 月 9 日消息，明基 (BenQ) 近日为其专业色准显示器产品线 Creative Pro 引入了一款新品：采用 27\" UHD (3840×2160) 60Hz 400nits 抗反射面板的 PD2732U。该产品目前在电商平台上处于无货状态，标价 5999 元。\n\nPD2732U 色域覆盖 100% sRGB、100% Rec.709、99% Adobe RGB、99% Display P3 / DCI-P3，ΔE≤2，获得 Pantone、Calman 认证。其经过 25 区均匀性管控，Gamma 曲线平滑精确，随附 AQCOLOR Pilot 色彩管理软件，支持苹果设备色",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "明基发布27寸4K专业色准显示器PD2732U，色域覆盖99% Adobe RGB/P3。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体IT之家，信息具体有技术参数和认证细节。"
+    },
+    {
+      "title": "AI淘汰赛：谁才是公司里“杀不死的”那个？",
+      "link": "https://www.tmtpost.com/8020059.html",
+      "pubDate": "Tue, 09 Jun 2026 11:44:00 +0800",
+      "contentSnippet": "无论技术如何进化，创造力、复杂判断和共情能力依然属于人类。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "AI无法替代人类的创造力、复杂判断和共情能力。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体，观点明确但缺乏具体数据支撑。"
+    },
+    {
+      "title": "Steam Frame VR 头显设置引导视频泄露，界面与操作逻辑首次曝光",
+      "link": "https://www.ithome.com/0/961/838.htm",
+      "pubDate": "Tue, 09 Jun 2026 03:42:35 GMT",
+      "contentSnippet": "IT之家 6 月 9 日消息，Valve 公司确认 Steam Machine 与 Steam Frame 头显仍计划于今年夏季推出后不久，一段名为《Steam Frame 上手导览》的视频便出现在了 Reddit 上。\n\n \n这段视频内容疑似为用户首次佩戴该头显时出现的初始设置引导教程，目前官方尚未证实视频的真实性。视频发布者用户 u/Goggodboss 表示，该画面由 Valve Index 头显录制。由于视频内容可信度较高，且与此前曝光的 Steam 后台文件信息吻合，多数玩家社群认为这段素材属实。\n\nIT之家注意到，这段影像也是目前为止，外界所能看到的该款头显软件界面最详尽的画面。其",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "Steam Frame VR头显设置引导视频泄露，界面首次曝光",
+      "credibilityScore": 65,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为IT之家，内容具体但视频真实性未证实，缺少官方确认"
+    },
+    {
+      "title": "智元：未来五年将投入20亿元专项资金，用于科研创新等",
+      "link": "https://36kr.com/newsflashes/3845398601435648?f=rss",
+      "pubDate": "2026-06-09 11:41:44  +0800",
+      "contentSnippet": "36氪获悉，6月9日，智元在其发布的《致全体开发者伙伴的一封信》中指出，未来五年，智元将投入20亿元专项资金，用于科研创新、人才培养、伙伴发展及社区运营。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "智元宣布未来五年投入20亿元用于科研创新等。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪为知名科技媒体，内容具体有数据支撑，但缺乏技术细节和原始出处链接。"
+    },
+    {
+      "title": "文档基金会炮轰 Euro-Office：披着数字主权外衣，技术路线贴近微软",
+      "link": "https://www.ithome.com/0/961/837.htm",
+      "pubDate": "Tue, 09 Jun 2026 03:35:42 GMT",
+      "contentSnippet": "IT之家 6 月 9 日消息，科技媒体 NeoWin 昨日（6 月 8 日）发布博文，报道称 LibreOffice 维护方文档基金会公开发信，点名批评即将上线的 Euro-Office，称其借“数字主权”话术营销，却沿用微软式路线。\nIT之家注：Euro-Office 于今天上线，被包装为面向欧洲的开源“数字主权”替代方案，实际上是 OnlyOffice 的直接分支，由 Nextcloud、IONOS、Tuta 等欧洲企业联合推动。\n\n文档基金会并不认同“首个欧洲主权开源办公套件”定位，并指出欧洲开源办公套件的历史起点应追溯到 2001 年的 OpenOffice.org。\n\n文档基金会在公",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "文档基金会批评Euro-Office借数字主权营销，技术路线贴近微软。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，引用原始报道，内容具体且逻辑清晰。"
+    },
+    {
+      "title": "困兽哈啰，全面失控 | 钛媒体深度",
+      "link": "https://www.tmtpost.com/8020300.html",
+      "pubDate": "Tue, 09 Jun 2026 11:35:00 +0800",
+      "contentSnippet": "站在在快要被上市计划压垮的悬崖边缘，哈啰正经历着竞争、监管、财务和安全的加速失控。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体深度报道哈啰面临竞争、监管、财务和安全多重失控危机。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "钛媒体为知名科技媒体，内容具体有深度，但缺乏原始数据支撑。"
     }
   ]
 }
