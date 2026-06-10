@@ -1,48 +1,14 @@
 {
-  "generatedAt": "2026-06-09T03:57:13.063Z",
+  "generatedAt": "2026-06-10T04:08:40.799Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "东北发现新重稀土矿，南北资源格局或调整，两大国企具备独家开采资质",
-      "link": "https://www.tmtpost.com/8019344.html",
-      "pubDate": "Tue, 09 Jun 2026 11:00:37 +0800",
-      "contentSnippet": "\"冻碎\"出来的新型矿床，如何重塑稀土供应链格局？",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "东北发现新重稀土矿，或调整南北资源格局，两大国企获独家开采权。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体钛媒体，内容具体有技术细节，但缺乏原始出处和独立验证。"
-    },
-    {
-      "title": "消息称德法决定停止联合研发战斗机",
-      "link": "https://www.ithome.com/0/961/793.htm",
-      "pubDate": "Tue, 09 Jun 2026 02:22:23 GMT",
-      "contentSnippet": "IT之家 6 月 9 日消息，据央视新闻今日援引德国方面消息，因合作企业间分歧难以弥合，德国和法国已决定停止“未来空中作战系统（FCAS）”框架下的战斗机联合研发项目。\n据政府知情人士的话说，德国总理默茨与法国总统马克龙已达成共识，项目合作方法国达索公司与代表德国、西班牙两国利益的空中客车公司未能在联合研制战斗机问题上达成一致。默茨向马克龙提议叫停该战斗机研发计划。\n消息称，虽然联合研发被叫停，但德法两国仍计划继续推进该框架下的“战斗云”系统开发。该系统旨在通过网络将各种武器系统、平台和传感器进行连接。\n德法两国于 2017 年宣布将联合研发包括下一代战机等在内的“未来空中作战系统”，西班牙之",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "德法因企业分歧停止FCAS战斗机联合研发，但继续推进战斗云系统。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家转引央视新闻，信息具体有政府知情人士出处，逻辑清晰。"
-    },
-    {
-      "title": "两部门印发《服务业发展资金管理办法》",
-      "link": "https://36kr.com/newsflashes/3845293621266696?f=rss",
-      "pubDate": "2026-06-09 09:54:57  +0800",
-      "contentSnippet": "36氪获悉，为加强服务业发展资金管理，充分发挥中央财政资金在引导促进服务业加快发展方面的作用，财政部、商务部修订印发《服务业发展资金管理办法》。其中提到，服务业发展资金的支持范围包括：加快培育消费新增长点。主要包括促进服务消费提质惠民、激发下沉市场消费活力、推动人工智能等新兴技术在消费领域的普及应用等。提升商贸流通业竞争力。补齐流通设施短板，增强流通保供能力，大力发展现代供应链，提升产业集成和协同化水平。",
+      "title": "36氪首发 | 清华团队做出全球首个实时理解生理与情绪的基座模型，进一步布局硬件",
+      "link": "https://36kr.com/p/3846789531404549?f=rss",
+      "pubDate": "2026-06-10 11:18:51  +0800",
+      "contentSnippet": "作者 | 乔钰杰\n编辑 | 袁斯来\n硬氪获悉，北京微面科技有限公司（以下简称“微面科技”）近日完成数百万美元融资，由顺为资本投资。\n微面科技聚焦自研人类感知理解基座模型，打造新一代人机交互范式，创始团队主要来自清华大学，具备大模型、人机交互、软件工程与医学复合背景。\n当前，AI交互存在一个隐形天花板：极度依赖用户显性输入，缺乏对隐性非语言信息的感知。研究表明，人类表达中非语言信息高达55%，但现有的机器视觉只看见动作，却无法穿透皮肤洞察情绪波动或生理疲劳。\n无论是物理世界的具身机器人还是数字世界的语言大模型，由于缺乏高精度多模态人类状态数据的输入，都只能做机械的被动响应，缺乏主动共情的闭环能力",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -50,214 +16,253 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "两部门修订服务业发展资金管理办法，支持消费新增长点。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，内容具体且引用官方文件，但缺乏原文链接。"
-    },
-    {
-      "title": "两部门：到 2026 年底，人形机器人等重点产品在一批代表性场景中率先完成应用验证和常态部署",
-      "link": "https://www.ithome.com/0/961/749.htm",
-      "pubDate": "Tue, 09 Jun 2026 01:15:30 GMT",
-      "contentSnippet": "IT之家 6 月 9 日消息，工业和信息化部办公厅、国务院国资委办公厅 6 月 8 日发布关于联合开展 2026 年度人形机器人与具身智能实景实训专项行动的通知。\n通知提到，到 2026 年底，人形机器人等重点产品在一批代表性场景中率先完成应用验证和常态部署，开启“作业模式”；凝练形成百个以上高价值应用场景，进一步丰富具身智能应用谱系，带动形成万台级规模落地能力。\n\nIT之家附主要任务如下：\n（一）打造实景实训空间。围绕工业、服务、特种领域，聚焦生产制造、检测分析、维修维护、仓储物流、餐饮零售、医疗康养、安全生产、应急救援、防灾减灾等重点场景的人形机器人、四足机器人应用需求，组织相关企事业单位",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "两部门计划到2026年底人形机器人完成应用验证和常态部署。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，引用官方通知，内容具体且逻辑清晰。"
-    },
-    {
-      "title": "世界杯官方比赛用球再度“中国制造”：全球产业链迁移下，广东工厂为何仍留在赛场中央？｜最前线",
-      "link": "https://36kr.com/p/3844185422400008?f=rss",
-      "pubDate": "2026-06-08 23:09:52  +0800",
-      "contentSnippet": "2026年美加墨世界杯进入倒计时，对于普通球迷而言，世界杯意味着绿茵场上的竞争与激情；但对于体育装备制造业来说，这项全球顶级赛事同样是检验供应链实力与技术能力的重要时刻。\n2025年10月，阿迪达斯正式发布2026年世界杯官方比赛用球\"三重浪（TRIONDA）\"。据阿迪达斯方面介绍，这款比赛用球在中国广东的一家代工厂完成生产与检测，每一颗出厂用球均印有\"MADE IN CHINA\"字样。\n值得说明的是，全球足球制造的版图并非由单一地区主导。公开资料显示，巴基斯坦锡亚尔科特一城便生产了全球约七成足球，历届世界杯的大量用球亦出自当地的Forward Sports等代工企业。世界杯用球的供给，实际上",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "2026年世界杯官方用球由中国广东工厂制造，分析全球产业链迁移下的中国制造优势。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体有产品发布和代工细节，逻辑清晰，但缺少原始出处链接。"
-    },
-    {
-      "title": "2025 年国际 Ｃ语言混乱代码大赛公布获奖结果",
-      "link": "https://www.solidot.org/story?sid=84513",
-      "pubDate": "Mon, 08 Jun 2026 17:05:19 +0800",
-      "contentSnippet": "2025 年第 29 届国际 Ｃ 语言混乱代码大赛（IOCCC, The International Obfuscated C Code Contest）公布了获奖作品。IOCCC 是一项国际程序设计赛事，旨在写出最有创意和最让人难以理解的 C 语言代码。IOCCC29 的 22 部获奖作品包括：Nick Craig-Wood 开发的 GBA 模拟器，其源代码就像一部 GBA 游戏机；虚拟机的代码规模通常比较大，比如 QEMU 有大约 200 万行代码，而 Adrian Cable 开发的虚拟机只有 366 个字节，它能运行 DOOM；台湾开发者 jingp49 获奖作品的源代码形状来自《神秘",
-      "sourceName": "Solidot",
-      "sourceWeight": 75,
-      "allSources": [
-        "Solidot"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "2025年IOCCC公布22部获奖作品，包括微型虚拟机和GBA模拟器。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体Solidot，内容具体有技术细节，信息可靠。"
-    },
-    {
-      "title": "AI 威胁数十亿人的自然资源",
-      "link": "https://www.solidot.org/story?sid=84511",
-      "pubDate": "Mon, 08 Jun 2026 15:34:28 +0800",
-      "contentSnippet": "联合国大学水、环境与健康研究所发布了报告《AI 能耗的环境成本：碳、水和土地足迹》。报告预计到 2030 年，为全球人工智能（AI）提供支持的数据中心，每年将消耗 945 TWh 的电力，相关用水量将相当于 13 亿人一年的基本生活用水需求，而土地占用面积将超过 14500 平方公里。研究发现，支撑 AI 运行的每 1 千瓦时电力，都同时对应3种环境足迹，即来自能源生产过程的碳足迹、来自发电和冷却过程的水足迹，以及能源基础设施建设和资源开采带来的土地足迹。报告显示，训练 GPT-5 预计需要约 100 GWh 电力，相当于撒哈拉以南非洲约 77 万人一年的居民用电量，相关用水量约为 10 亿升",
-      "sourceName": "Solidot",
-      "sourceWeight": 75,
-      "allSources": [
-        "Solidot"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "联合国报告称AI数据中心2030年能耗将达945TWh，用水量相当于13亿人需求。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体Solidot，引用联合国大学报告，数据具体且有出处。"
-    },
-    {
-      "title": "多家银行将公司列为高风险客户，收紧信贷额度？电科院澄清：不存在所述情形",
-      "link": "https://36kr.com/newsflashes/3845410578139400?f=rss",
-      "pubDate": "2026-06-09 11:53:55  +0800",
-      "contentSnippet": "36氪获悉，就“近期市场传言多家银行已将贵公司列为高风险客户，纷纷收紧信贷额度，甚至要求提前偿还贷款。这一传言是否属实？”的问题，电科院在互动平台回复称，公司不存在上述情形，公司有权追究造谣者及散布不实信息者的法律责任。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "电科院否认银行将其列为高风险客户及收紧信贷的传言。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容基于公司官方回应，信息具体且逻辑清晰。"
-    },
-    {
-      "title": "晓程科技：暂无并购芯片、电路板或晶圆企业的计划",
-      "link": "https://36kr.com/newsflashes/3845406959389186?f=rss",
-      "pubDate": "2026-06-09 11:50:14  +0800",
-      "contentSnippet": "36氪获悉，晓程科技在互动平台表示，截至目前，公司暂无并购芯片、电路板或晶圆企业的计划。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "晓程科技称暂无并购芯片等企业计划",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体36氪，信息源自公司官方互动平台，内容明确具体"
-    },
-    {
-      "title": "明基带来专业色准显示器 PD2732U：99% Adobe RGB / Display P3 色域",
-      "link": "https://www.ithome.com/0/961/841.htm",
-      "pubDate": "Tue, 09 Jun 2026 03:48:57 GMT",
-      "contentSnippet": "IT之家 6 月 9 日消息，明基 (BenQ) 近日为其专业色准显示器产品线 Creative Pro 引入了一款新品：采用 27\" UHD (3840×2160) 60Hz 400nits 抗反射面板的 PD2732U。该产品目前在电商平台上处于无货状态，标价 5999 元。\n\nPD2732U 色域覆盖 100% sRGB、100% Rec.709、99% Adobe RGB、99% Display P3 / DCI-P3，ΔE≤2，获得 Pantone、Calman 认证。其经过 25 区均匀性管控，Gamma 曲线平滑精确，随附 AQCOLOR Pilot 色彩管理软件，支持苹果设备色",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "明基发布27寸4K专业色准显示器PD2732U，色域覆盖99% Adobe RGB/P3。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，信息具体有技术参数和认证细节。"
-    },
-    {
-      "title": "AI淘汰赛：谁才是公司里“杀不死的”那个？",
-      "link": "https://www.tmtpost.com/8020059.html",
-      "pubDate": "Tue, 09 Jun 2026 11:44:00 +0800",
-      "contentSnippet": "无论技术如何进化，创造力、复杂判断和共情能力依然属于人类。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "AI无法替代人类的创造力、复杂判断和共情能力。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体，观点明确但缺乏具体数据支撑。"
-    },
-    {
-      "title": "Steam Frame VR 头显设置引导视频泄露，界面与操作逻辑首次曝光",
-      "link": "https://www.ithome.com/0/961/838.htm",
-      "pubDate": "Tue, 09 Jun 2026 03:42:35 GMT",
-      "contentSnippet": "IT之家 6 月 9 日消息，Valve 公司确认 Steam Machine 与 Steam Frame 头显仍计划于今年夏季推出后不久，一段名为《Steam Frame 上手导览》的视频便出现在了 Reddit 上。\n\n \n这段视频内容疑似为用户首次佩戴该头显时出现的初始设置引导教程，目前官方尚未证实视频的真实性。视频发布者用户 u/Goggodboss 表示，该画面由 Valve Index 头显录制。由于视频内容可信度较高，且与此前曝光的 Steam 后台文件信息吻合，多数玩家社群认为这段素材属实。\n\nIT之家注意到，这段影像也是目前为止，外界所能看到的该款头显软件界面最详尽的画面。其",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "Steam Frame VR头显设置引导视频泄露，界面首次曝光",
-      "credibilityScore": 65,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为IT之家，内容具体但视频真实性未证实，缺少官方确认"
-    },
-    {
-      "title": "智元：未来五年将投入20亿元专项资金，用于科研创新等",
-      "link": "https://36kr.com/newsflashes/3845398601435648?f=rss",
-      "pubDate": "2026-06-09 11:41:44  +0800",
-      "contentSnippet": "36氪获悉，6月9日，智元在其发布的《致全体开发者伙伴的一封信》中指出，未来五年，智元将投入20亿元专项资金，用于科研创新、人才培养、伙伴发展及社区运营。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "智元宣布未来五年投入20亿元用于科研创新等。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体有数据支撑，但缺乏技术细节和原始出处链接。"
-    },
-    {
-      "title": "文档基金会炮轰 Euro-Office：披着数字主权外衣，技术路线贴近微软",
-      "link": "https://www.ithome.com/0/961/837.htm",
-      "pubDate": "Tue, 09 Jun 2026 03:35:42 GMT",
-      "contentSnippet": "IT之家 6 月 9 日消息，科技媒体 NeoWin 昨日（6 月 8 日）发布博文，报道称 LibreOffice 维护方文档基金会公开发信，点名批评即将上线的 Euro-Office，称其借“数字主权”话术营销，却沿用微软式路线。\nIT之家注：Euro-Office 于今天上线，被包装为面向欧洲的开源“数字主权”替代方案，实际上是 OnlyOffice 的直接分支，由 Nextcloud、IONOS、Tuta 等欧洲企业联合推动。\n\n文档基金会并不认同“首个欧洲主权开源办公套件”定位，并指出欧洲开源办公套件的历史起点应追溯到 2001 年的 OpenOffice.org。\n\n文档基金会在公",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "文档基金会批评Euro-Office借数字主权营销，技术路线贴近微软。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，引用原始报道，内容具体且逻辑清晰。"
-    },
-    {
-      "title": "困兽哈啰，全面失控 | 钛媒体深度",
-      "link": "https://www.tmtpost.com/8020300.html",
-      "pubDate": "Tue, 09 Jun 2026 11:35:00 +0800",
-      "contentSnippet": "站在在快要被上市计划压垮的悬崖边缘，哈啰正经历着竞争、监管、财务和安全的加速失控。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体深度报道哈啰面临竞争、监管、财务和安全多重失控危机。",
+      "aiSummary": "清华团队研发全球首个实时理解生理与情绪的基座模型，获顺为资本投资。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容具体有深度，但缺乏原始数据支撑。"
+      "credibilityReason": "来源为知名科技媒体36氪，内容具体且有融资信息支撑，但缺少技术细节和原始出处。"
+    },
+    {
+      "title": "分析显示美国约三分之二拟建数据中心选址干旱区，加剧用水危机",
+      "link": "https://www.ithome.com/0/962/209.htm",
+      "pubDate": "Wed, 10 Jun 2026 01:52:25 GMT",
+      "contentSnippet": "IT之家 6 月 10 日消息，英国《卫报》本周一项分析发现，美国规划建设的 809 座数据中心中，约三分之二选址在过去一年遭遇干旱的区域。结合美国国家海洋和大气管理局旗下全国综合干旱信息系统的数据，共有 517 座拟建数据中心落地于去年划定的干旱受灾地区。\n\nIT之家注意到，Xylem 公司与全球水务情报机构今年 1 月联合发布的报告显示，到 2050 年，人工智能产业新增用水需求中，数据中心冷却用水仅占约 4%，发电用水占比约 54%，半导体制造用水则达到 42%。联合国大学上周发布的报告也得出了相近的用水占比结论，该报告测算，2025 年全球数据中心耗电量约为 448 太瓦时。\n机柜内的",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "美国约三分之二拟建数据中心选址干旱区，加剧用水危机。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，引用《卫报》及权威机构数据，信息具体且有原始出处。"
+    },
+    {
+      "title": "8点1氪丨致3人永久失明，膳魔师紧急召回百万件产品；发布会后苹果市值蒸发超1.587万亿；Anthropic发布最强模型：Claude Fable 5正式上线",
+      "link": "https://36kr.com/p/3846601462073600?f=rss",
+      "pubDate": "2026-06-10 08:08:16  +0800",
+      "contentSnippet": "今日热点导览\n清仓美高梅国际持股，何超琼套现逾1.4亿美元\n任天堂在法国遭2.7亿元重罚\n王传福回应股价被低估：还没能反映比亚迪潜力\n5月汽车销量公布：前十已无燃油车\nTOP3大新闻\n已致3人永久失明，膳魔师紧急召回百万件产品\n因产品瓶塞存在弹出的风险，近段时间，德国知名真空保温品牌膳魔师（Thermos）在中美多国各召回百万件食物罐等产品，据美国消费品安全委员会披露的公告，有三名消费者因眼睛被击中而导致永久性视力丧失。\n5月29日，国家市场监管总局官网发布公告称，日前，膳魔师（中国）家庭制品有限公司召回2011年-2023年期间制造的部分SK3000、SK3020型高真空不锈钢食物罐，涉及数",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪",
+        "IT之家",
+        "钛媒体",
+        "量子位",
+        "Solidot"
+      ],
+      "coverageCount": 5,
+      "coverageBoost": 20,
+      "aiSummary": "膳魔师召回百万件产品致3人失明，苹果市值蒸发超1.5万亿，Anthropic发布Claude Fable 5模型。",
+      "credibilityScore": 100,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体，信息具体且有官方公告引用，但缺乏技术细节。（多源覆盖 +20）"
+    },
+    {
+      "title": "联合国报告警告海洋承受巨大压力",
+      "link": "https://www.solidot.org/story?sid=84531",
+      "pubDate": "Tue, 09 Jun 2026 18:25:29 +0800",
+      "contentSnippet": "最新发布的《世界海洋评估》报告警告，气候变化、污染、过度开发等多重压力正在持续削弱海洋健康，而海洋的未来与人类的未来紧密相连。报告指出，即便远离海岸，海洋依然深刻影响着每个人的生活。海洋吸收了地球大部分额外热量和温室气体，在减缓气候变化方面发挥关键作用。海洋还为全球数十亿人口提供食物、氧气和药物资源，并支撑着全球贸易、旅游业和大量就业岗位。报告强调，海洋环境恶化不仅会影响沿海地区，还将波及粮食安全、供应链稳定以及全球经济发展。评估显示，海洋变暖和海平面上升正在加速。由于冰盖融化和海水热膨胀，全球海平面上升速度已从 2015 年前每年最高 1.9 毫米增加到 2023 年的 4.3 毫米。北极升",
+      "sourceName": "Solidot",
+      "sourceWeight": 75,
+      "allSources": [
+        "Solidot"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "联合国报告称气候变化等压力削弱海洋健康，影响人类未来。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源可靠（Solidot），引用权威报告，数据具体（海平面上升速度），内容客观。"
+    },
+    {
+      "title": "苹果 CEO 库克挥泪告别：主持 WWDC26 频频拭泪，连说 18 声“谢谢”",
+      "link": "https://www.ithome.com/0/962/367.htm",
+      "pubDate": "Wed, 10 Jun 2026 04:05:02 GMT",
+      "contentSnippet": "IT之家 6 月 10 日消息，北京时间 6 月 9 日凌晨，库克最后一次以苹果 CEO 身份站上 WWDC26（2026 苹果全球开发者大会）舞台，说出“Good morning”。\n据IT之家此前报道，今年 4 月，苹果公司宣布，蒂姆 · 库克将出任苹果董事会执行董事长，硬件工程高级副总裁约翰 · 特努斯将担任苹果下一任首席执行官，该任命自 2026 年 9 月 1 日起生效。\n\n根据网上今日曝光的一段视频，库克本人出现在 WWDC26 面向开发者的舞台上，发表了一段感言，在说出经典的“Good morning”之前，库克连续说了 18 声“谢谢”，并且双手合掌鞠躬，频频拭泪。\n库克表示，",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "库克在WWDC26上含泪告别，连说18声谢谢。",
+      "credibilityScore": 70,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家较知名，但内容基于网络视频，缺少官方确认。"
+    },
+    {
+      "title": "恒指午间休盘跌1.1%，恒生科技指数跌1.69%",
+      "link": "https://36kr.com/newsflashes/3846835457313288?f=rss",
+      "pubDate": "2026-06-10 12:03:23  +0800",
+      "contentSnippet": "36氪获悉，恒指午间休盘跌1.1%，恒生科技指数跌1.69%；光模块、GEO概念领跌，长飞光纤光缆跌超10%，MINIMAX-WP、智谱跌超8%，剑桥科技跌超6%；医药生物板块走强，迈威生物涨超18%，轩竹生物涨超6%；南向资金净买入60.32亿港元。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "恒指午盘跌1.1%，科技指数跌1.69%，医药板块走强。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪为知名科技媒体，内容具体有数据支撑，但缺乏原始出处。"
+    },
+    {
+      "title": "智界RX正式官宣，系华为首款超跑SUV",
+      "link": "https://36kr.com/newsflashes/3846830924368393?f=rss",
+      "pubDate": "2026-06-10 11:58:46  +0800",
+      "contentSnippet": "近日，智界RX正式官宣，这也是华为旗下首款超跑SUV。智界汽车董事长兼首席执行官郭锐博士表示，智界RX旨在重新定义行业标准，字母X象征突破、未知与无限可能。新车将依托超200亿元研发投入、3万余项专利及华为全栈技术能力，在设计、体系、智能化三大维度进行重构。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪",
+        "IT之家"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "华为首款超跑SUV智界RX官宣，主打全栈技术重构。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体36氪和IT之家，内容具体且有官方引述，但缺乏技术细节验证。（多源覆盖 +5）"
+    },
+    {
+      "title": "今年前5月居民境外收入补税约130亿元",
+      "link": "https://36kr.com/newsflashes/3846826439789061?f=rss",
+      "pubDate": "2026-06-10 11:54:12  +0800",
+      "contentSnippet": "6月10日，税务总局公开相关信息显示，税务机关不断加强对居民个人境外所得的宣传引导和政策辅导，取得境外收入的纳税人遵从度明显提高，1—5月份累计补缴税款约130亿元。（第一财经）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "今年前5月居民境外收入补税约130亿元",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体36氪，引用第一财经，信息具体有数据支撑"
+    },
+    {
+      "title": "微软 XBOX CEO 夏尔马：上任不到四个月存储器已涨价 50%",
+      "link": "https://www.ithome.com/0/962/334.htm",
+      "pubDate": "Wed, 10 Jun 2026 03:51:20 GMT",
+      "contentSnippet": "IT之家 6 月 10 日消息，Microsoft（微软）XBOX 首席执行官 Asha Sharma（阿莎・夏尔马）近日在接受《财富》采访时表示，自其今年 2 月上任以来内存和存储器价格已出现了 50% 的上涨。\nSharma 表示，此轮存储器价格上行周期已导致 275% 涨幅，最终可能会上涨 750%。在此背景下 XBOX 硬件部门面临巨大成本压力，如何在盈利能力和生态建设中取得平衡是其考虑的重大课题。\n这位微软游戏部门掌门人表示，很难想象普通大众能为一个主机世代支付数千美元的硬件成本。她认为在延续高端定位的 \"Project Helix\" 外，将有一种从未预料到、截然不同的商业模式在今年",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微软XBOX CEO称上任不到四月存储器涨价50%",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体IT之家，内容具体有数据支撑，但缺乏原始采访链接"
+    },
+    {
+      "title": "用户反馈苹果 macOS 27 大幅提升流畅度，“像是换了台 Mac”",
+      "link": "https://www.ithome.com/0/962/325.htm",
+      "pubDate": "Wed, 10 Jun 2026 03:47:28 GMT",
+      "contentSnippet": "IT之家 6 月 10 日消息，科技媒体 Wccftech 昨日（6 月 9 日）发布博文，报道称苹果 macOS 27 Golden Gate Beta 1 赢得社区用户积极反馈，多名用户称其大幅改善老设备的运行流畅度。\n名为 u/Pilingo 的用户在 Reddit 社区发帖，称其 M1 Pro MacBook Pro 在升级 macOS 27 后，没有遇到 macOS 26 Tahoe 稳定版存在的卡顿、掉帧和整体反应迟缓问题，系统响应速度与完整体验都有明显提升。\n\n另一位用户 u/EffectiveDaikon1457 表示，他在 M3 芯片、8GB 内存、256GB SSD 的 M",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "macOS 27 Beta 1 获用户好评，称老设备流畅度显著提升。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，引用Wccftech和Reddit用户反馈，但缺乏官方数据或技术细节。"
+    },
+    {
+      "title": "半日主力资金加仓基础化工股，抛售电子股",
+      "link": "https://36kr.com/newsflashes/3846819591112967?f=rss",
+      "pubDate": "2026-06-10 11:47:14  +0800",
+      "contentSnippet": "主力资金早间净流入基础化工、银行、非银金融等板块，净流出电子、通信、电力设备等板块。具体到个股来看，天娱数科、昊华科技、雅克科技获净流入12.73亿元、11.42亿元、10.19亿元。净流出方面，中天科技、工业富联、天孚通信遭抛售31.88亿元、14.69亿元、13.79亿元。（第一财经）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "半日主力资金流向：基础化工获加仓，电子遭抛售。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪，引用第一财经数据，信息具体有金额支撑。"
+    },
+    {
+      "title": "零百加速 2.6 秒，奥迪 Nuvolari 超跑纽博格林路试",
+      "link": "https://www.ithome.com/0/962/324.htm",
+      "pubDate": "Wed, 10 Jun 2026 03:47:12 GMT",
+      "contentSnippet": "IT之家 6 月 10 日消息，奥迪 Nuvolari 这款车型可谓横空出世，品牌既没有发布预热宣传，也没有流出大量路试谍照，而是直接正式亮相，并宣布车辆将于 2027 年上半年开启交付。\n\n目前，这款全新超跑已驶上纽博格林赛道开展测试。车身采用了特殊伪装，上格栅位置加装了前脸遮盖件，将奥迪车标巧妙隐藏。\n\nIT之家注意到，该车本月初以准量产原型车的身份亮相，并未先行推出概念版，因此整车设计不会再有大幅改动。不过能看出，车上不少零部件都只是临时装配的替代件。\n虽然伪装遮挡了大部分外观细节，但已知 Nuvolari 搭载高性能插电式混合动力系统：配备中置 4.0 升双涡轮增压 V8 发动机、7.",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "奥迪Nuvolari超跑零百加速2.6秒，已开始纽博格林路试。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，内容具体但缺少官方数据来源和细节支撑。"
+    },
+    {
+      "title": "尚界 Z7 宣布 6 月 11 日全网首拆，五大板块边拆边讲",
+      "link": "https://www.ithome.com/0/962/318.htm",
+      "pubDate": "Wed, 10 Jun 2026 03:44:30 GMT",
+      "contentSnippet": "IT之家 6 月 10 日消息，尚界汽车今日宣布，将于 6 月 11 日 18:00 播出尚界 Z7 全网首拆。\n\n尚界汽车表示：“车身安全、智能、电池、底盘、座舱 —— 五大板块边拆边讲，业内大咖联合解读，每处细节逐一揭晓！”\n\n据IT之家此前报道，鸿蒙智行尚界 Z7/Z7T 于今年 4 月正式上市，尚界 Z7 推出 Max、Max+ 和 Ultra 三个版本，售价区间为 21.98 万元至 29.98 万元；尚界 Z7T 同样推出三款车型，售价区间为 22.98 万元至 30.98 万元。\n尚界 Z7 与尚界 Z7T 均定位为中大型新能源轿车，两者车身尺寸完全一致，长宽高分别为 5036",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "尚界Z7将于6月11日全网首拆，五大板块边拆边讲。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有产品细节和发布时间，逻辑清晰。"
+    },
+    {
+      "title": "智元发布“元苼生态发展计划”：2026年先行投入1亿元，五年规划20亿元",
+      "link": "https://36kr.com/newsflashes/3846798425180419?f=rss",
+      "pubDate": "2026-06-10 11:38:40  +0800",
+      "contentSnippet": "36氪获悉，6月10日，智元（AGIBOT）正式发布“元苼生态发展计划”，面向具身智能“部署态”发展的关键机遇，宣布2026年先行落地1亿元生态扶持资金，未来五年规划投入20亿元专项资金，围绕科研学术创新、教育人才培养、生态伙伴发展、开发社区运营四大维度，系统赋能产学研及开发者群体，携手全球伙伴共建开放、协同、共生的具身智能生态。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "智元发布具身智能生态计划，2026年投入1亿元，五年规划20亿元。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体36氪，信息具体有数据支撑，逻辑清晰。"
+    },
+    {
+      "title": "世纪数码：增收降利，低研发、低毛利并存，募资扩产遭问询｜IPO观察",
+      "link": "https://www.tmtpost.com/8020768.html",
+      "pubDate": "Wed, 10 Jun 2026 11:35:50 +0800",
+      "contentSnippet": "笔者注意到，2025年世纪数码出现营收上升、净利润反向回落的态势，上市前夕业绩已然走弱，也因此触发监管针对公司盈利稳定性的专项问询。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "世纪数码增收降利，低研发低毛利，募资扩产遭问询。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体钛媒体，内容具体有数据支撑，逻辑清晰。"
     }
   ]
 }
