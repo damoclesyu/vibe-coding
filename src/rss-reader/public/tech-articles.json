@@ -1,14 +1,31 @@
 {
-  "generatedAt": "2026-06-11T04:22:02.158Z",
+  "generatedAt": "2026-06-12T04:24:05.715Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "因大规模数据泄露，韩国电商巨头 Coupang 被处以创纪录的 6246 亿韩元罚款",
-      "link": "https://www.ithome.com/0/962/828.htm",
-      "pubDate": "Thu, 11 Jun 2026 03:50:25 GMT",
-      "contentSnippet": "IT之家 6 月 11 日消息，韩国电商巨头 Coupang 因去年发生大规模客户信息泄露事件，且存在非法收集个人信息的行为，将被处以 6250 亿韩元（IT之家注：现汇率约合 27.85 亿元人民币）的罚款。这也是韩国有史以来针对企业数据泄露开出的最高罚单。\n\n韩国个人信息保护委员会表示，这家在纽约上市的企业泄露了超 3300 万名用户的个人信息，且未能按照法律要求在 72 小时内发现数据泄露问题。\n据路透社测算，这笔罚款相当于 Coupang 2025 年 45 万亿韩元营收的 1.4%。\n韩国个人信息保护委员会委员长 Song Kyung-hee 于周四在新闻发布会上表示：“此次事件并非",
+      "title": "36氪研究院 | 2026年中国工业用品制造与流通报告",
+      "link": "https://36kr.com/p/3846798967818752?f=rss",
+      "pubDate": "2026-06-12 12:00:00  +0800",
+      "contentSnippet": "当前，中国制造业正进入以智能化、绿色化、融合化为主要特征的高质量发展新阶段。随着市场需求日趋多元、产品迭代加快、交付要求提升，叠加成本与合规压力的多重约束，传统“大而全”的内部一体化模式边际效率递减，制造企业愈发聚焦研发、制造、工艺等核心能力，并将采购、仓配和供应链协同等非核心职能加速向外部专业服务体系转移，推动生产性服务业深度嵌入制造业运行体系。作为制造企业日常运营中高频、分散、复杂的基础物料，工业用品尤其是MRO物料，直接关系设备维护、产线运行、安全生产和综合运营效率。然而，长期以来，工业用品采购普遍存在供应商分散、商品参数不统一、选型比价困难、履约稳定性不足、库存管理粗放等问题，成为制造",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "报告分析中国工业用品制造与流通智能化、绿色化趋势及MRO物料挑战。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体36氪，内容具体、逻辑清晰，具行业分析深度。"
+    },
+    {
+      "title": "阿里云创始人王坚：我坚定地不相信 AI 会替代人",
+      "link": "https://www.ithome.com/0/963/377.htm",
+      "pubDate": "Fri, 12 Jun 2026 03:50:51 GMT",
+      "contentSnippet": "IT之家 6 月 12 日消息，据新浪科技报道，在今日举办的 2026 第八届北京智源大会上，之江实验室主任、阿里云创始人王坚分享表示：“我是一个坚定的不相信人工智能会替代人的人”。\n“狗的鼻子比人灵很多，但这并不会对我们造成伤害。”王坚直言，今天，我们都在讲人工智能，但这其实都有意无意地被人工智能这个词给限制住了，事实上任何一件事情，我们都应该给予自己一个超出现有框架的思考方式，不能盲从。\n\nIT之家注：王坚于 1962 年 10 月出生在浙江杭州，毕业于杭州大学，曾任第十四届全国政协委员 、曾任浙江省人大代表，之江实验室主任。他开创了“以数据为中心”的分布式云计算体系架构，主持研发拥有自主",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,16 +33,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "Coupang因大规模数据泄露被罚6250亿韩元，创韩国纪录。",
-      "credibilityScore": 85,
+      "aiSummary": "王坚在智源大会表示不相信AI会替代人，强调独立思考。",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，引用官方机构数据，信息具体有出处。"
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有直接引用，但缺乏技术细节和原始出处链接。"
     },
     {
-      "title": "770亿合肥芯片“黑马”，冲刺港股IPO",
-      "link": "https://www.tmtpost.com/8023216.html",
-      "pubDate": "Thu, 11 Jun 2026 10:59:50 +0800",
-      "contentSnippet": "顺利通过港股上市聆讯，是晶合集成迈向国际化的重要一步，但相较于资本市场的布局扩容，摆脱传统代工短板、优化业务结构、筑牢盈利基本盘，才是企业实现高质量发展的核心路径，也将直接决定其港股上市后的长期市场价值。",
+      "title": "我国件杂货国际物流发展整体稳健",
+      "link": "https://36kr.com/newsflashes/3849621359121411?f=rss",
+      "pubDate": "2026-06-12 11:17:21  +0800",
+      "contentSnippet": "中国物流与采购联合会今天（12日）发布《中国件杂货国际物流发展报告（2026）》。根据报告，随着国际贸易结构持续调整和高质量共建“一带一路”深入推进，我国件杂货国际物流行业整体保持稳健发展态势，专业化服务能力显著增强，国际物流通道更加多元通畅，综合保障服务能力明显提升。据介绍，2025年我国件杂货出口整体保持较高规模。对外工程项目、电力设备、工程机械、农业机械等主要件杂货的出口总额突破2950亿美元，同比增长12%，带动我国件杂货国际物流规模大幅提升。从品类结构看，机电设备等出口量最大，占比约三成。（央视新闻）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "我国件杂货国际物流发展稳健，2025年出口总额突破2950亿美元。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源权威（央视新闻、36氪），数据具体且有报告支撑，信息客观。"
+    },
+    {
+      "title": "【钛晨报】国常会最新部署：营造有利于原始创新的科研生态；7家涉火车票销售第三方平台、5家电商平台被约谈；六氟化钨概念火爆，多家上市公司回应相关问题",
+      "link": "https://www.tmtpost.com/8024919.html",
+      "pubDate": "Fri, 12 Jun 2026 07:20:00 +0800",
+      "contentSnippet": "钉钉换帅，李书福卸任极氪董事长，贵州茅台选举陈华为董事长；京东方Ａ：公司被美国国防部列入“中国军事企业清单”并无正当理由；宁德时代首次投资核聚变企业；OpenAI据悉正考虑大幅降价，SK海力士多家设备供应商提出涨价要求；两部门约谈提醒涉嫌非理性竞争汽车生产企业。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -33,84 +67,118 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "合肥晶合集成通过港股聆讯，冲刺IPO。",
+      "aiSummary": "国常会部署科研生态，多家企业被约谈，科技新闻汇总。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体钛媒体，内容具体但多为汇总，缺乏深度分析。"
+    },
+    {
+      "title": "东亚最高的树",
+      "link": "https://www.solidot.org/story?sid=84555",
+      "pubDate": "Fri, 12 Jun 2026 00:24:01 +0800",
+      "contentSnippet": "研究人员在台大安溪附近发现了东亚已知最高的树，他们根据金庸小说将其命名为大安溪倚天劍。倚天劍高 84.1 米，树龄约一千年。世界上已知最高的树是加州红杉国家公园的 Hyperion，其高度约 116 米。台湾约 60% 的面积被森林覆盖，岛上估计有 9.5 亿棵树，其中有很多参天巨树。研究团队使用传统方法测量了倚天劍的高度：爬上树，从树顶垂下卷尺。",
+      "sourceName": "Solidot",
+      "sourceWeight": 75,
+      "allSources": [
+        "Solidot"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "台湾发现东亚最高树，高84.1米，命名为大安溪倚天劍",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源可靠（Solidot），内容具体有数据，但缺少原始研究引用"
+    },
+    {
+      "title": "SK海力士回应厂区火灾：已初步控制，生��设备运行正常",
+      "link": "https://36kr.com/newsflashes/3849684512019457?f=rss",
+      "pubDate": "2026-06-12 12:21:35  +0800",
+      "contentSnippet": "6月12日，消息显示韩国SK海力士清州第四园区爆发火情。对于最新情况和影响，SK海力士方面向记者表示，已完成初步控制，正调查具体情况。目前生产设备运行正常。（证券时报）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "SK海力士清州厂区火灾已初步控制，生产设备运行正常。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体36氪，信息具体且有企业官方回应，逻辑清晰。"
+    },
+    {
+      "title": "布伦特原油期货跌幅扩大至2%",
+      "link": "https://36kr.com/newsflashes/3849679090439424?f=rss",
+      "pubDate": "2026-06-12 12:16:04  +0800",
+      "contentSnippet": "36氪获悉，布伦特原油期货跌幅扩大至2%，报88.55美元/桶。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "布伦特原油期货价格下跌2%至88.55美元/桶。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "36氪为知名科技媒体，信息简洁但缺乏分析或数据支撑。"
+    },
+    {
+      "title": "微软宣布 Edge 浏览器 152 开始，提速至双周更新节奏",
+      "link": "https://www.ithome.com/0/963/409.htm",
+      "pubDate": "Fri, 12 Jun 2026 04:14:40 GMT",
+      "contentSnippet": "IT之家 6 月 12 日消息，微软昨日（6 月 11 日）发布公告，宣布调整 Microsoft Edge 浏览器的更新节奏，从原有每月更新缩短至每隔 2 周更新 1 次。\n微软 Edge 浏览器调整更新节奏后，每次更新包含的变更量约为此前的一半。微软表示，更小、更频繁的更新包有助于降低企业 IT 部门的验证负担，同时加快部署安全修复。IT之家附上相关截图如下：\n\n对于不希望频繁更新的企业用户，微软提供 Stable Extended 通道，该通道维持每 2 个月更新 1 次的节奏不变。\n本次调整将于 Microsoft Edge 152 版本（预估 8 月 27 日发布）生效，届时稳定版将",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微软Edge浏览器更新节奏从每月改为双周一次。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体IT之家，信息具体且有官方公告引用。"
+    },
+    {
+      "title": "顶流偶像“空空”匿名作序的《浮生别院》，究竟有何魔力？",
+      "link": "https://36kr.com/p/3849664394204419?f=rss",
+      "pubDate": "2026-06-12 12:06:46  +0800",
+      "contentSnippet": "2017年，周志峰卖掉北京的一处房产，把它换成了菜市口附近的一处院子。\n院子不到180平米。但在设计师的巧思下，它被切分成茶室、餐厅、厨房、小花园和主卧等多个独立又连通的空间，曲径通幽。盛夏时，旁边一棵活了一百二十年的国槐展露出枝繁叶茂，几乎将小院的大部分笼罩在它的“势力”之下。\n国槐另一边，一街之隔，是有1300年历史的法源寺——法源寺的丁香四月初开，满寺如雪。而“居于庙前、庙左”成为周志峰买下院子最主要的理由。\n\n来源：崛貌国际艺术设计\n他小时候住过寺庙。祖父辈是乡绅地主，也算是事实性“阔过”，后来这种成功成为了鉴定“坏身份”的缘由，祖宅大院被分给了乡亲们住，他们家则被安置到一座废弃的寺庙",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "文章介绍周志峰改造北京菜市口小院，强调其设计与历史背景。",
+      "credibilityScore": 65,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为36氪，内容具体但缺乏技术细节，偏向人文叙事。"
+    },
+    {
+      "title": "阿里云创始人王坚：AI 对科研的影响，与对程序员的冲击逻辑一致",
+      "link": "https://www.ithome.com/0/963/401.htm",
+      "pubDate": "Fri, 12 Jun 2026 04:04:34 GMT",
+      "contentSnippet": "6 月 12 日上午消息，今日举办的 2026 第八届北京智源大会上，之江实验室主任、阿里云创始人王坚在谈及 AI 对科学研究的影响时指出，人工智能对于科学研究的影响已经发生质的变化，它对科学的影响是非常长远的。\n在王坚看来，从最早的大语言模型只能理解文本内容，到如今开始能理解多模态数据，理解代码，这些变化的背后，核心是因为 AI 能够理解不同类型的数据。\n“今天 AI 已经改变了程序员工作的方式，人工智能往前走了一大步，他真的在某种意义上能够区分出什么是语言文本，什么是代码文本。”王坚直言，“所有科学的数据都会因为人工智能的出现被重新理解，你可以想象这个时候的变化会有多大”。\n“就像 AI",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "王坚称AI对科研影响深远，与对程序员冲击逻辑一致",
       "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源钛媒体为知名科技媒体，内容具体且有分析，但缺少原始数据支撑。"
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体引用专家观点，逻辑清晰"
     },
     {
-      "title": "加拿大立法禁止 16 岁以下儿童使用社交媒体，并监管 AI 聊天机器人",
-      "link": "https://www.ithome.com/0/962/762.htm",
-      "pubDate": "Thu, 11 Jun 2026 02:00:21 GMT",
-      "contentSnippet": "IT之家 6 月 11 日消息，据路透社报道，加拿大政府于当地时间周三出台了一项数字安全法案，禁止 16 岁以下未成年人使用社交媒体；达到特定安全标准的平台可获豁免。数月前，澳大利亚已率先在全球实施未成年人社交媒体禁令。\n\n一名加拿大政府官员表示，该法案还计划设立数字监管机构、制定安全标准，以此规范人工智能聊天机器人，提升其使用安全性。\n相关企业若拒不遵守规定，将面临处罚：取全球营收的 3% 与最高 1000 万加元（IT之家注：现汇率约合 4869.4 万元人民币）两者中的较高金额。\n加拿大文化与身份事务部长马克・米勒表示：“社交媒体平台和人工智能聊天机器人本质以博取用户注意力为目的，不利于",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "加拿大立法禁止16岁以下儿童使用社交媒体并监管AI聊天机器人。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家引用路透社报道，信息具体有数据支撑，逻辑清晰。"
-    },
-    {
-      "title": "英特尔披露 Firefly 项目细节：整合手机供应链，打造性价比 Wildcat Lake 笔记本",
-      "link": "https://www.ithome.com/0/962/723.htm",
-      "pubDate": "Thu, 11 Jun 2026 00:38:35 GMT",
-      "contentSnippet": "IT之家 6 月 11 日消息，科技媒体 videocardz 今天（6 月 11 日）发布博文，报道称英特尔披露了 Project Firefly（萤火虫计划）的更多细节。\n \n定位方面，英特尔认为主流笔记本买家追求性价比，希望拥有长续航、快响应和丰富的接口兼容性。Project Firefly 在处理器基础上，围绕着统一成本目标，对屏幕、机身、散热、电池、接口和系统支持做整体设计。\n\n该计划的独特之处，在于引入手机和平板供应链资源。手机市场规模更大，ODM（原始设计制造商）更成熟，零部件更便宜，产品迭代更快。Project Firefly 为合作伙伴提供了一套参考设计方案，厂商可以在此基础",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "英特尔披露Firefly项目，整合手机供应链打造性价比笔记本。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，引用videocardz报道，内容具体且有技术细节。"
-    },
-    {
-      "title": "台积电 CFO 黄仁昭：通胀带来成本压力，不排除调升晶圆代工价格",
-      "link": "https://www.ithome.com/0/962/835.htm",
-      "pubDate": "Thu, 11 Jun 2026 04:17:39 GMT",
-      "contentSnippet": "IT之家 6 月 11 日消息，台积电 (TSMC) 资深副总经理暨财务长兼发言人黄仁昭近日接受英媒 BBC 专访，他表示通货膨胀正令企业成本上升，台积电的定价策略展现了其领先技术与卓越生产的价值。\n这位 CFO 表示不排除提高晶圆代工服务价格之可能，同时也强调台积电不会突然涨价“四、五倍”。\n\n▲ 黄仁昭图源：台积电\n面对 AI 产业大繁荣带来的芯片需求，黄仁昭称台积电正竭尽所能满足客户订单，企业唯一能做的就是尽可能快速提升前后端产能，台积电仍在努力过程中。\n对于外界对 AI 发展泡沫化的质疑，黄仁昭表示公司正同以超大型云服务供应商为主的直接与间接客户交流，台积电相信客户的财力足以支持持续投",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "台积电CFO称通胀推高成本，可能调升晶圆代工价格。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容具体有直接采访引用，逻辑清晰。"
-    },
-    {
-      "title": "雷军宣布 6 月 13 日直播小米 YU7 八项测试挑战，一镜到底",
-      "link": "https://www.ithome.com/0/962/834.htm",
-      "pubDate": "Thu, 11 Jun 2026 04:16:10 GMT",
-      "contentSnippet": "IT之家 6 月 11 日消息，小米创办人、董事长兼 CEO 雷军今日宣布，将于 6 月 13 日上午 9 点在江苏盐城测试场进行小米 YU7 八项测试挑战直播。\n\n根据雷军和网友的评论互动，雷军可能会亲自上车测试。此外，标准版的交叉轴测试已经安排上了。\n\nIT之家注意到，小米汽车官方则表示，本次测试的车型包括 YU7 标准版、YU7 GT，全程 8 大环节实测，一镜到底。\n\n\n延伸阅读\n江苏盐城测试场，即江苏盐城汽车试验场，是中汽中心旗下的整车综合试验场之一，小米汽车的 24 小时耐力挑战赛曾在此开展。\n小米汽车在盐城试验场进行过极限测试，例如 2026 年 1 月公布的新一代 SU7 Ma",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "雷军宣布6月13日直播小米YU7八项测试挑战，一镜到底。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，信息具体，有明确时间地点和测试细节。"
-    },
-    {
-      "title": "IDC：第一季度全球智能手表市场出货量3703万台，同比增长4.8%",
-      "link": "https://36kr.com/newsflashes/3848261958145027?f=rss",
-      "pubDate": "2026-06-11 12:14:29  +0800",
-      "contentSnippet": "36氪获悉，根据国际数据公司（IDC）最新发布的《全球可穿戴设备市场季度跟踪报告》，2026年第一季度全球腕戴设备市场出货量为4,705万台，同比增长2.2%。腕戴设备市场包含智能手表和手环产品。其中，全球智能手表市场出货量3,703万台，同比增长4.8%。手环市场出货量1,002万台，同比下滑6.1%。",
+      "title": "恒指午间休盘涨2.02%，恒生科技指数涨1.72%",
+      "link": "https://36kr.com/newsflashes/3849664781358343?f=rss",
+      "pubDate": "2026-06-12 12:01:31  +0800",
+      "contentSnippet": "36氪获悉，恒指午间休盘涨2.02%，恒生科技指数涨1.72%；有色金属、非银金融、钢铁板块领涨，弘业期货涨超11%，赤峰黄金涨超8%，鞍钢股份涨超3%；电信服务板块跌幅居前，中国电信、中国联通跌超1%；南向资金净买入21.3亿港元。",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -118,147 +186,78 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "IDC报告：一季度全球智能手表出货量同比增长4.8%",
+      "aiSummary": "恒指午盘涨2.02%，科技指数涨1.72%。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪为知名科技媒体，数据具体且逻辑清晰。"
+    },
+    {
+      "title": "47.98 万元起，鸿蒙智行全新一代问界 M9 明日开启全国首交",
+      "link": "https://www.ithome.com/0/963/393.htm",
+      "pubDate": "Fri, 12 Jun 2026 04:01:02 GMT",
+      "contentSnippet": "IT之家 6 月 12 日消息，问界汽车今日宣布，6 月 13 日，全新一代问界 M9 开启全国首交，首批车主将走进赛力斯超级工厂（龙兴），开启全新一代问界 M9 交付之旅。届时，官方将于当日 10:00-12:00 进行直播。\n\n鸿蒙智行全新一代问界 M9 于 5 月 27 日正式发布，新车提供标准尺寸及 Ultimate 领世加长版两款车型，带来超 140 项全新技术、超 40 项行业首创。\n\nMax+ 阔五座：增程版 47.98 万元，纯电版 49.98 万元\n\nMax+ 享六座：增程版 48.98 万元，纯电版 50.98 万元\n\nUltra 享六座：54.98 万元\n\nUltimat",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "问界M9明日全国首交，售价47.98万元起，搭载超140项新技术。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息具体有价格和配置细节，来源可靠。"
+    },
+    {
+      "title": "前行者 S9 Master V2 鼠标发售：PAW3955，中大手，到手 299.2 元",
+      "link": "https://www.ithome.com/0/963/387.htm",
+      "pubDate": "Fri, 12 Jun 2026 03:57:19 GMT",
+      "contentSnippet": "IT之家 6 月 12 日消息，前行者 (EWEADN) 昨日上午发售了 S9 Master V2 三模无线电竞鼠标，到手价 299.2 元。\n这一型号延续了 S9 V2 系列的亚洲用户友好型中大手模具，支持全部三种握姿；同时传感器升级至原相 PAW3955。\n\nS9 Master V2 三维 127×64×40.5 (mm)，表面覆盖冰凝肤感涂层，内置 300+hr 续航 500mAh 电池，质量 63±2g。\n其采用 Nordic nRF54L15 主控和“量子锋刃”竞技固件，结合凯华 150M 光学微动和 TTC 1M 防尘金滚轮编码器，支持“双 8kHz”轮询率，按键延迟低至 0.18",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "前行者发布S9 Master V2鼠标，售价299.2元，升级PAW3955传感器。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体IT之家，产品参数详实，逻辑清晰，但缺少第三方评测或原始出处链接。"
+    },
+    {
+      "title": "钉钉发布DingTalk A1豆蔻医生版",
+      "link": "https://36kr.com/newsflashes/3849659696337924?f=rss",
+      "pubDate": "2026-06-12 11:56:21  +0800",
+      "contentSnippet": "36氪获悉，钉钉正式发布DingTalk A1豆蔻医生版，售价999元。DingTalk A1豆蔻医生版深度融合豆蔻医疗大模型及豆蔻医生超级助理，为医生提供语音记录、临床决策辅助、医学文献检索等全流程AI辅助功能。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钉钉发布DingTalk A1豆蔻医生版，售价999元，集成AI医疗功能。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪为知名科技媒体，内容具体但缺少技术细节和原始出处。"
+    },
+    {
+      "title": "两部门约谈提醒涉嫌非理性竞争汽车生产企业",
+      "link": "https://36kr.com/newsflashes/3849652745065479?f=rss",
+      "pubDate": "2026-06-12 11:49:16  +0800",
+      "contentSnippet": "近日，工业和信息化部、市场监管总局对涉嫌存在非理性竞争行为的汽车生产企业进行约谈提醒，要求企业严格遵守《中华人民共和国价格法》《关于制止低价倾销行为的规定》等法律法规规章，按照《汽车行业价格行为合规指南》要求，加强价格合规建设，强化产品质量管控，切实保护消费者合法权益，共同维护优质优价、良性竞争的市场秩序。（央视新闻）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "两部门约谈涉嫌非理性竞争的汽车企业，要求合规经营。",
       "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "权威机构IDC数据，来源36氪，信息具体且有出处"
-    },
-    {
-      "title": "最赚钱的酒店“床垫一哥”，为何失控？",
-      "link": "https://www.tmtpost.com/8022507.html",
-      "pubDate": "Thu, 11 Jun 2026 12:08:00 +0800",
-      "contentSnippet": "失控的喜临门如何自救？",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体分析喜临门经营困境与自救策略",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容具体有分析，但缺乏原始数据支撑"
-    },
-    {
-      "title": "招金黄金：公司有对外销售尾矿交易，不存在经营决策失误",
-      "link": "https://36kr.com/newsflashes/3848254247425033?f=rss",
-      "pubDate": "2026-06-11 12:06:39  +0800",
-      "contentSnippet": "36氪获悉，有投资者提问，根据披露信息，斐济瓦矿有1800万吨尾矿，每吨含金品位1克左右，每天处理尾矿矿石1300吨。按此处理能力，约需40年才能处理完毕。目前黄金价格处于相对高位，为何不对外出售尾矿增加收入和利润？是否存在经营决策失误？这1800万吨尾矿是否真实存在？对此，招金黄金在互动平台表示，公司有对外销售尾矿交易，不存在经营决策失误。公司尾矿资源已通过第三方专业机构核实并在定期报告及相关公告中进行了披露。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "招金黄金回应投资者：尾矿交易正常，否认经营决策失误",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪知名媒体，内容基于公司官方回应，信息具体但缺乏独立验证"
-    },
-    {
-      "title": "恒指午间休盘跌1.11%，恒生科技指数跌2.01%",
-      "link": "https://36kr.com/newsflashes/3848250368250888?f=rss",
-      "pubDate": "2026-06-11 12:02:42  +0800",
-      "contentSnippet": "36氪获悉，恒指午间休盘跌1.09%，恒生科技指数跌1.98%；半导体、汽车、纺织服饰领跌，极兔速递跌超8%，小鹏集团跌超6%，英诺赛科跌超5%，老铺黄金跌超3%；耐用消费品、化工、地产板块走强，中科生物涨超15%，龙蟠科技涨超4%，北大资源涨超3%；南向资金净买入2.95亿港元。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "恒指午盘跌1.11%，科技指数跌2.01%，半导体汽车领跌。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体36氪，数据具体且逻辑清晰，但缺乏原始出处链接。"
-    },
-    {
-      "title": "3个月亏掉1个亿，千店连锁餐饮品牌宣布换帅",
-      "link": "https://www.tmtpost.com/8023587.html",
-      "pubDate": "Thu, 11 Jun 2026 12:01:00 +0800",
-      "contentSnippet": "一边是亏损过亿，一边是股东再掏5500万美元、换帅救火，Tims天好中国站在十字路口。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "Tims天好中国亏损过亿，股东注资换帅自救。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体钛媒体，内容具体有数据支撑，但缺乏原始出处。"
-    },
-    {
-      "title": "IDC 报告：2026Q1 全球腕戴设备出货量 4705 万台同比增长 2.2%，华为、苹果、小米前三",
-      "link": "https://www.ithome.com/0/962/833.htm",
-      "pubDate": "Thu, 11 Jun 2026 04:00:54 GMT",
-      "contentSnippet": "IT之家 6 月 11 日消息，今日，根据国际数据公司（IDC）最新发布的《全球可穿戴设备市场季度跟踪报告》，2026 年第一季度全球腕戴设备市场出货量为 4,705 万台，同比增长 2.2%。\n据悉，腕戴设备市场包含智能手表和手环产品。其中，全球智能手表市场出货量 3,703 万台，同比增长 4.8%。手环市场出货量 1,002 万台，同比下滑 6.1%。\n\nIT之家附排名如下：\n\n华为出货量 950 万台，同比下降 4.6%，市场份额 20.2%；\n\n苹果出货量 800 万台，同比增长 13.2%，市场份额 17%；\n\n小米出货量 800 万台，同比下降 6.9%，市场份额 16.9%；",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "IDC报告：2026Q1全球腕戴设备出货量4705万台，华为、苹果、小米前三。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源权威（IT之家引用IDC报告），数据具体，逻辑清晰，时效性强。"
-    },
-    {
-      "title": "报告称微软 6 月 Win11 更新已修复 Microsoft Store 应用商店限速问题",
-      "link": "https://www.ithome.com/0/962/832.htm",
-      "pubDate": "Thu, 11 Jun 2026 04:00:00 GMT",
-      "contentSnippet": "IT之家 6 月 11 日消息，科技媒体 Windows Latest 今天（6 月 11 日）发布博文，报道称在适用于 Windows 11 的 6 月累积更新 KB5094126 中，微软修复了 Microsoft Store 应用商店下载限速问题。\nIT之家援引博文介绍，微软 Windows 11 系统应用商店 Microsoft Store 长期存在限速问题，即便在万兆网络配置情况下，其应用商店的下载速度也会被限制在 200 KB/s 至 4 MB/s 之间。\n\n在 6 月累积更新中，微软表示通过 BITS（后台智能传输服务）配置、下载优先级分配或带宽分配机制等底层优化，从而改善应用商",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "微软6月更新修复Win11应用商店下载限速问题",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用Windows Latest博文，内容具体有数据支撑"
-    },
-    {
-      "title": "英特尔 Z990 芯片组实物照曝光，消息称峰值功耗可达 14W",
-      "link": "https://www.ithome.com/0/962/831.htm",
-      "pubDate": "Thu, 11 Jun 2026 03:59:23 GMT",
-      "contentSnippet": "IT之家 6 月 11 日消息，X 平台用户 @laurentschoice 近日曝光了英特尔 Z990 平台控制器中枢（即 PCH，俗称“芯片组”）的实物照片。\n\n▲ 图源：@laurentschoice\n综合 @laurentschoice 与另一位 X 用户 @jaykihn0 的补充，由于功能上的改进，Z990 基础功耗从上代的 6W 提升至 7.9W，而其“火力全开”模式下的功耗则能达到 14W，这意味着至少部分 Z990 主板将配备 PCH 主动散热（类似情况也出现在 AMD 的 X570 上），此外其最高结温也从 Z890 的 108℃ 增至 113℃。\n\n▲ 图源：@jayki",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "英特尔Z990芯片组功耗升至14W，需主动散热。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有数据支撑，但依赖X平台用户爆料，缺乏官方确认。"
-    },
-    {
-      "title": "国家邮政局依法对极兔速递有限公司立案调查",
-      "link": "https://36kr.com/newsflashes/3848245803963399?f=rss",
-      "pubDate": "2026-06-11 11:58:03  +0800",
-      "contentSnippet": "今年以来，使用“极兔速递”商标、字号、快递运单经营快递业务的企业多发生产安全事故，场所内多次被检查发现生产安全事故隐患。极兔速递有限公司对极兔速递相关企业安全生产管理缺位，未按规定实行安全保障统一管理，国家邮政局依法对极兔速递有限公司进行立案调查。（央视新闻）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪",
-        "IT之家"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "国家邮政局因极兔速递安全生产管理缺位立案调查。",
-      "credibilityScore": 100,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源权威（央视新闻、36氪、IT之家），信息具体有官方依据。（多源覆盖 +5）"
+      "credibilityReason": "来源权威（央视新闻），内容具体有法规引用，信息客观。"
     }
   ]
 }
