@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-12T04:24:05.715Z",
+  "generatedAt": "2026-06-13T04:13:08.021Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "36氪研究院 | 2026年中国工业用品制造与流通报告",
-      "link": "https://36kr.com/p/3846798967818752?f=rss",
-      "pubDate": "2026-06-12 12:00:00  +0800",
-      "contentSnippet": "当前，中国制造业正进入以智能化、绿色化、融合化为主要特征的高质量发展新阶段。随着市场需求日趋多元、产品迭代加快、交付要求提升，叠加成本与合规压力的多重约束，传统“大而全”的内部一体化模式边际效率递减，制造企业愈发聚焦研发、制造、工艺等核心能力，并将采购、仓配和供应链协同等非核心职能加速向外部专业服务体系转移，推动生产性服务业深度嵌入制造业运行体系。作为制造企业日常运营中高频、分散、复杂的基础物料，工业用品尤其是MRO物料，直接关系设备维护、产线运行、安全生产和综合运营效率。然而，长期以来，工业用品采购普遍存在供应商分散、商品参数不统一、选型比价困难、履约稳定性不足、库存管理粗放等问题，成为制造",
+      "title": "A股本周缩量震荡，能源金属板块指数涨逾7%",
+      "link": "https://36kr.com/newsflashes/3850991875200000?f=rss",
+      "pubDate": "2026-06-13 11:34:22  +0800",
+      "contentSnippet": "本周，A股整体低开高走，上证指数4000点失而复得，科创综指坚守2000点大关，深证成指则跌破15000点，创业板指也未能守住3900点。全周成交13.95万亿元，创近5周新低。 两融资金本周大幅减仓，融资净卖出逾330亿元。大部分申万一级行业都遭融资净卖出，其中电子行业净卖出逾47亿元，电力设备行业净卖出逾41亿元，计算机、医药生物、汽车三行业净卖出超30亿元，通信、国防军工、非银金融等行业被净卖出超20亿元。基础化工、机械设备两行业逆市获得超20亿元净买入，建筑材料、交通运输、综合三行业也获得小幅净买入。（证券时报）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -16,33 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "报告分析中国工业用品制造与流通智能化、绿色化趋势及MRO物料挑战。",
+      "aiSummary": "A股本周缩量震荡，能源金属板块涨逾7%，两融资金大幅减仓。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，内容具体、逻辑清晰，具行业分析深度。"
+      "credibilityReason": "来源为36氪，内容具体有数据支撑，逻辑清晰，符合知名科技媒体标准。"
     },
     {
-      "title": "阿里云创始人王坚：我坚定地不相信 AI 会替代人",
-      "link": "https://www.ithome.com/0/963/377.htm",
-      "pubDate": "Fri, 12 Jun 2026 03:50:51 GMT",
-      "contentSnippet": "IT之家 6 月 12 日消息，据新浪科技报道，在今日举办的 2026 第八届北京智源大会上，之江实验室主任、阿里云创始人王坚分享表示：“我是一个坚定的不相信人工智能会替代人的人”。\n“狗的鼻子比人灵很多，但这并不会对我们造成伤害。”王坚直言，今天，我们都在讲人工智能，但这其实都有意无意地被人工智能这个词给限制住了，事实上任何一件事情，我们都应该给予自己一个超出现有框架的思考方式，不能盲从。\n\nIT之家注：王坚于 1962 年 10 月出生在浙江杭州，毕业于杭州大学，曾任第十四届全国政协委员 、曾任浙江省人大代表，之江实验室主任。他开创了“以数据为中心”的分布式云计算体系架构，主持研发拥有自主",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "王坚在智源大会表示不相信AI会替代人，强调独立思考。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有直接引用，但缺乏技术细节和原始出处链接。"
-    },
-    {
-      "title": "我国件杂货国际物流发展整体稳健",
-      "link": "https://36kr.com/newsflashes/3849621359121411?f=rss",
-      "pubDate": "2026-06-12 11:17:21  +0800",
-      "contentSnippet": "中国物流与采购联合会今天（12日）发布《中国件杂货国际物流发展报告（2026）》。根据报告，随着国际贸易结构持续调整和高质量共建“一带一路”深入推进，我国件杂货国际物流行业整体保持稳健发展态势，专业化服务能力显著增强，国际物流通道更加多元通畅，综合保障服务能力明显提升。据介绍，2025年我国件杂货出口整体保持较高规模。对外工程项目、电力设备、工程机械、农业机械等主要件杂货的出口总额突破2950亿美元，同比增长12%，带动我国件杂货国际物流规模大幅提升。从品类结构看，机电设备等出口量最大，占比约三成。（央视新闻）",
+      "title": "一季度全球前十大晶圆代工商营收季增3.7%",
+      "link": "https://36kr.com/newsflashes/3850890624849156?f=rss",
+      "pubDate": "2026-06-13 09:53:27  +0800",
+      "contentSnippet": "据机构统计，今年一季度全球前十大晶圆代工商产值季增3.7%至479.5亿美元，再创新高，预计全球前十大晶圆代工商第二季产值将再创高峰。从排名来看，第一季度晶合集成排名从第九名提升至第八名。 根据TrendForce集邦咨询最新报告，晶圆代工厂商受益于AI HPC（高性能计算）与相关周边订单出货，第一季电视、电脑、笔记本电脑等供应链提前生产出货，提高周边IC库存，厂商陆续接获客户提前生产或加单订单。第一季全球前十大晶圆代工商产值季增3.7%至479.5亿美元，再创新高。（证券时报）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -50,16 +33,50 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "我国件杂货国际物流发展稳健，2025年出口总额突破2950亿美元。",
-      "credibilityScore": 90,
+      "aiSummary": "一季度全球前十大晶圆代工商营收环比增长3.7%创新高",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源权威（央视新闻、36氪），数据具体且有报告支撑，信息客观。"
+      "credibilityReason": "来源知名科技媒体，引用TrendForce报告，数据具体且逻辑清晰"
     },
     {
-      "title": "【钛晨报】国常会最新部署：营造有利于原始创新的科研生态；7家涉火车票销售第三方平台、5家电商平台被约谈；六氟化钨概念火爆，多家上市公司回应相关问题",
-      "link": "https://www.tmtpost.com/8024919.html",
-      "pubDate": "Fri, 12 Jun 2026 07:20:00 +0800",
-      "contentSnippet": "钉钉换帅，李书福卸任极氪董事长，贵州茅台选举陈华为董事长；京东方Ａ：公司被美国国防部列入“中国军事企业清单”并无正当理由；宁德时代首次投资核聚变企业；OpenAI据悉正考虑大幅降价，SK海力士多家设备供应商提出涨价要求；两部门约谈提醒涉嫌非理性竞争汽车生产企业。",
+      "title": "美瑞新材：目前PPDA产品已成功产出合格产品，正处于下游客户开发及产品验证阶段",
+      "link": "https://36kr.com/newsflashes/3851000746087432?f=rss",
+      "pubDate": "2026-06-13 12:09:26  +0800",
+      "contentSnippet": "36氪获悉，美瑞新材在互动平台表示，PPDA（对苯二胺）属于芳香二胺，是对位芳纶及聚酰亚胺的核心原材料，同时也可用于制取偶氮染料、硫化染料等。目前PPDA产品已成功产出合格产品，性能指标达到预定目标，正处于下游客户开发及产品验证阶段，公司销售团队正积极对接芳纶等领域的目标客户，力争早日实现市场突破。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "美瑞新材PPDA产品已产出合格品，正进行客户开发与验证。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体，内容具体且有公司官方互动平台信息支撑。"
+    },
+    {
+      "title": "读懂SpaceX的两万亿故事：为什么马斯克每一手棋，永远都可以提前摆好？",
+      "link": "https://36kr.com/p/3851073239372809?f=rss",
+      "pubDate": "2026-06-13 12:08:19  +0800",
+      "contentSnippet": "飞向宇宙、浩瀚无垠\n作者｜曹思颀\n编辑｜靖宇\n6 月 12 日，在 SpaceX 正式挂牌当天，马斯克选择前往得州的星舰基地，和数百名员工一起，远程敲响了纳斯达克的开市钟。\n在现场，他用熟悉的那股自嘲范儿说：「如果当年有人告诉我会有今天，我大概率觉得那个人嗑嗨了。因为当时我自己都认为这家公司会黄。」\n这一天，SpaceX 正式登陆纳斯达克，发行价 135 美元，募资约 750 亿美元；开盘即涨，盘中一度冲过 176 美元，市值短暂站上 2 万亿美元。\n从 2002 年因为买不到火箭而被迫创业，到如今完成人类商业史上最大的 IPO，这 24 年的旅程里，有大量反直觉、反共识的故事。\n这家公司名义",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "SpaceX上市市值2万亿，分析马斯克战略布局与反直觉成功故事。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪知名科技媒体，内容具体有数据支撑，但缺乏原始出处引用。"
+    },
+    {
+      "title": "4万店规模反噬：3个月点名2次，美宜佳管理失控的真相",
+      "link": "https://www.tmtpost.com/8026639.html",
+      "pubDate": "Sat, 13 Jun 2026 12:04:47 +0800",
+      "contentSnippet": "“以加盟之名、行甩手之实”的跑马圈地时代，已经彻底翻篇。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -67,67 +84,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国常会部署科研生态，多家企业被约谈，科技新闻汇总。",
-      "credibilityScore": 75,
+      "aiSummary": "美宜佳4万店规模致管理失控，3月内被点名2次。",
+      "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体钛媒体，内容具体但多为汇总，缺乏深度分析。"
+      "credibilityReason": "来自知名科技媒体钛媒体，内容具体有数据支撑，逻辑清晰。"
     },
     {
-      "title": "东亚最高的树",
-      "link": "https://www.solidot.org/story?sid=84555",
-      "pubDate": "Fri, 12 Jun 2026 00:24:01 +0800",
-      "contentSnippet": "研究人员在台大安溪附近发现了东亚已知最高的树，他们根据金庸小说将其命名为大安溪倚天劍。倚天劍高 84.1 米，树龄约一千年。世界上已知最高的树是加州红杉国家公园的 Hyperion，其高度约 116 米。台湾约 60% 的面积被森林覆盖，岛上估计有 9.5 亿棵树，其中有很多参天巨树。研究团队使用传统方法测量了倚天劍的高度：爬上树，从树顶垂下卷尺。",
-      "sourceName": "Solidot",
-      "sourceWeight": 75,
-      "allSources": [
-        "Solidot"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "台湾发现东亚最高树，高84.1米，命名为大安溪倚天劍",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源可靠（Solidot），内容具体有数据，但缺少原始研究引用"
-    },
-    {
-      "title": "SK海力士回应厂区火灾：已初步控制，生��设备运行正常",
-      "link": "https://36kr.com/newsflashes/3849684512019457?f=rss",
-      "pubDate": "2026-06-12 12:21:35  +0800",
-      "contentSnippet": "6月12日，消息显示韩国SK海力士清州第四园区爆发火情。对于最新情况和影响，SK海力士方面向记者表示，已完成初步控制，正调查具体情况。目前生产设备运行正常。（证券时报）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "SK海力士清州厂区火灾已初步控制，生产设备运行正常。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，信息具体且有企业官方回应，逻辑清晰。"
-    },
-    {
-      "title": "布伦特原油期货跌幅扩大至2%",
-      "link": "https://36kr.com/newsflashes/3849679090439424?f=rss",
-      "pubDate": "2026-06-12 12:16:04  +0800",
-      "contentSnippet": "36氪获悉，布伦特原油期货跌幅扩大至2%，报88.55美元/桶。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "布伦特原油期货价格下跌2%至88.55美元/桶。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "36氪为知名科技媒体，信息简洁但缺乏分析或数据支撑。"
-    },
-    {
-      "title": "微软宣布 Edge 浏览器 152 开始，提速至双周更新节奏",
-      "link": "https://www.ithome.com/0/963/409.htm",
-      "pubDate": "Fri, 12 Jun 2026 04:14:40 GMT",
-      "contentSnippet": "IT之家 6 月 12 日消息，微软昨日（6 月 11 日）发布公告，宣布调整 Microsoft Edge 浏览器的更新节奏，从原有每月更新缩短至每隔 2 周更新 1 次。\n微软 Edge 浏览器调整更新节奏后，每次更新包含的变更量约为此前的一半。微软表示，更小、更频繁的更新包有助于降低企业 IT 部门的验证负担，同时加快部署安全修复。IT之家附上相关截图如下：\n\n对于不希望频繁更新的企业用户，微软提供 Stable Extended 通道，该通道维持每 2 个月更新 1 次的节奏不变。\n本次调整将于 Microsoft Edge 152 版本（预估 8 月 27 日发布）生效，届时稳定版将",
+      "title": "消息称 OPPO、vivo、荣耀测试 144Hz/165Hz 高刷屏",
+      "link": "https://www.ithome.com/0/963/796.htm",
+      "pubDate": "Sat, 13 Jun 2026 04:02:45 GMT",
+      "contentSnippet": "IT之家 6 月 13 日消息，博主 @数码闲聊站 今天在微博透露，“OVh”三家厂商正在测试 144Hz/165Hz 高刷屏幕，另外两家厂商“MH”则还是 120Hz。\n\n结合博主过往发文和评论区用户猜测，这其中的“OVh”大概率指的是 OPPO、vivo 和荣耀，而“MH”则是小米、华为。\n后续有用户在评论区询问：“不能全局应用就别尬吹”，博主回复道：“日常大家都是 120Hz，仅游戏支持超高刷”。\n\n据IT之家此前援引博主消息，某厂新机搭载 6.89 英寸 ±2K+185Hz OLED 超高刷大直屏，并且尝试做四等边。目前尚不清楚新机的具体型号，评论区有网友推测为荣耀 WIN 系列。",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -135,33 +101,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "微软Edge浏览器更新节奏从每月改为双周一次。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，信息具体且有官方公告引用。"
-    },
-    {
-      "title": "顶流偶像“空空”匿名作序的《浮生别院》，究竟有何魔力？",
-      "link": "https://36kr.com/p/3849664394204419?f=rss",
-      "pubDate": "2026-06-12 12:06:46  +0800",
-      "contentSnippet": "2017年，周志峰卖掉北京的一处房产，把它换成了菜市口附近的一处院子。\n院子不到180平米。但在设计师的巧思下，它被切分成茶室、餐厅、厨房、小花园和主卧等多个独立又连通的空间，曲径通幽。盛夏时，旁边一棵活了一百二十年的国槐展露出枝繁叶茂，几乎将小院的大部分笼罩在它的“势力”之下。\n国槐另一边，一街之隔，是有1300年历史的法源寺——法源寺的丁香四月初开，满寺如雪。而“居于庙前、庙左”成为周志峰买下院子最主要的理由。\n\n来源：崛貌国际艺术设计\n他小时候住过寺庙。祖父辈是乡绅地主，也算是事实性“阔过”，后来这种成功成为了鉴定“坏身份”的缘由，祖宅大院被分给了乡亲们住，他们家则被安置到一座废弃的寺庙",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "文章介绍周志峰改造北京菜市口小院，强调其设计与历史背景。",
+      "aiSummary": "OPPO、vivo、荣耀测试144Hz/165Hz高刷屏，仅游戏支持。",
       "credibilityScore": 65,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为36氪，内容具体但缺乏技术细节，偏向人文叙事。"
+      "credibilityReason": "来源为IT之家，但信息依赖博主爆料，缺乏官方确认和具体数据。"
     },
     {
-      "title": "阿里云创始人王坚：AI 对科研的影响，与对程序员的冲击逻辑一致",
-      "link": "https://www.ithome.com/0/963/401.htm",
-      "pubDate": "Fri, 12 Jun 2026 04:04:34 GMT",
-      "contentSnippet": "6 月 12 日上午消息，今日举办的 2026 第八届北京智源大会上，之江实验室主任、阿里云创始人王坚在谈及 AI 对科学研究的影响时指出，人工智能对于科学研究的影响已经发生质的变化，它对科学的影响是非常长远的。\n在王坚看来，从最早的大语言模型只能理解文本内容，到如今开始能理解多模态数据，理解代码，这些变化的背后，核心是因为 AI 能够理解不同类型的数据。\n“今天 AI 已经改变了程序员工作的方式，人工智能往前走了一大步，他真的在某种意义上能够区分出什么是语言文本，什么是代码文本。”王坚直言，“所有科学的数据都会因为人工智能的出现被重新理解，你可以想象这个时候的变化会有多大”。\n“就像 AI",
+      "title": "“东半球最强法务部”受挫：《幻兽帕鲁》游戏纠纷走向尾声，任天堂最高索赔恐只有 500 万日元",
+      "link": "https://www.ithome.com/0/963/795.htm",
+      "pubDate": "Sat, 13 Jun 2026 04:00:51 GMT",
+      "contentSnippet": "IT之家 6 月 13 日消息，游戏媒体 gamesfray 昨日（6 月 12 日）发布博文，报道称围绕着《幻兽帕鲁》游戏的相关法律争议，历经近 2 年后接近尾声，任天堂的索赔上限仅为 500 万日元（IT之家注：现汇率约合 21.1 万元人民币）。\nIT之家援引博文介绍，任天堂和《幻兽帕鲁》游戏开发商 Pocketpair 的专利诉讼已接近收尾阶段，双方已经提交证据与书状，案件将于 2026 年 10 月 1 日进入庭审程序，法院预计在 2026 年 11 月 9 日给出最终意见。\n这场诉讼可以追溯到 2024 年《幻兽帕鲁》游戏蹿红，拥有“东半球最强法务部”之称的任天堂随即发动起诉，试图",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -169,16 +118,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "王坚称AI对科研影响深远，与对程序员冲击逻辑一致",
+      "aiSummary": "任天堂诉《幻兽帕鲁》案接近尾声，索赔上限仅500万日元。",
       "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体引用专家观点，逻辑清晰"
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有日期和出处，逻辑清晰。"
     },
     {
-      "title": "恒指午间休盘涨2.02%，恒生科技指数涨1.72%",
-      "link": "https://36kr.com/newsflashes/3849664781358343?f=rss",
-      "pubDate": "2026-06-12 12:01:31  +0800",
-      "contentSnippet": "36氪获悉，恒指午间休盘涨2.02%，恒生科技指数涨1.72%；有色金属、非银金融、钢铁板块领涨，弘业期货涨超11%，赤峰黄金涨超8%，鞍钢股份涨超3%；电信服务板块跌幅居前，中国电信、中国联通跌超1%；南向资金净买入21.3亿港元。",
+      "title": "2026 年，AI 长出了四个轮子，驶向物理世界",
+      "link": "https://www.ifanr.com/1668845?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pubDate": "Sat, 13 Jun 2026 04:00:04 +0000",
+      "contentSnippet": "车不再是拼凑出来的机械，而是从 AI 里长出来的载体。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "sourceName": "爱范儿",
+      "sourceWeight": 82,
+      "allSources": [
+        "爱范儿"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "AI技术将融入汽车，使车辆成为AI的物理载体。",
+      "credibilityScore": 70,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体爱范儿，内容有观点但缺乏具体技术细节。"
+    },
+    {
+      "title": "中基协发布公募基金主题投资风格管理指引，严重偏离投资方向将被纳入负面考核指标",
+      "link": "https://36kr.com/newsflashes/3850990241043462?f=rss",
+      "pubDate": "2026-06-13 11:51:46  +0800",
+      "contentSnippet": "6月12日，中国证券投资基金业协会发布《公开募集证券投资基金主题投资风格管理指引》（下称“指引”）。指引要求，主题投资基金的名称必须明示投资方向，不得出现“名实不符”的情形，并明确基金管理人应加强对基金经理投资交易行为的监控、分析和评估，将严重偏离投资方向的情形纳入负面考核指标。业内人士认为，指引的出台是为了解决部分主题基金“伪主题”、风格漂移等问题。对投资者而言，强调“名实相符”“清晰界定”，将降低信息的不对称性，让投资选择更加简单和理性，投资者能够对产品形成稳定的预期，这种确定性的回归正是修复和提升投资者信任的基石。（上证报）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -186,78 +152,112 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "恒指午盘涨2.02%，科技指数涨1.72%。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，数据具体且逻辑清晰。"
-    },
-    {
-      "title": "47.98 万元起，鸿蒙智行全新一代问界 M9 明日开启全国首交",
-      "link": "https://www.ithome.com/0/963/393.htm",
-      "pubDate": "Fri, 12 Jun 2026 04:01:02 GMT",
-      "contentSnippet": "IT之家 6 月 12 日消息，问界汽车今日宣布，6 月 13 日，全新一代问界 M9 开启全国首交，首批车主将走进赛力斯超级工厂（龙兴），开启全新一代问界 M9 交付之旅。届时，官方将于当日 10:00-12:00 进行直播。\n\n鸿蒙智行全新一代问界 M9 于 5 月 27 日正式发布，新车提供标准尺寸及 Ultimate 领世加长版两款车型，带来超 140 项全新技术、超 40 项行业首创。\n\nMax+ 阔五座：增程版 47.98 万元，纯电版 49.98 万元\n\nMax+ 享六座：增程版 48.98 万元，纯电版 50.98 万元\n\nUltra 享六座：54.98 万元\n\nUltimat",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "问界M9明日全国首交，售价47.98万元起，搭载超140项新技术。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体有价格和配置细节，来源可靠。"
-    },
-    {
-      "title": "前行者 S9 Master V2 鼠标发售：PAW3955，中大手，到手 299.2 元",
-      "link": "https://www.ithome.com/0/963/387.htm",
-      "pubDate": "Fri, 12 Jun 2026 03:57:19 GMT",
-      "contentSnippet": "IT之家 6 月 12 日消息，前行者 (EWEADN) 昨日上午发售了 S9 Master V2 三模无线电竞鼠标，到手价 299.2 元。\n这一型号延续了 S9 V2 系列的亚洲用户友好型中大手模具，支持全部三种握姿；同时传感器升级至原相 PAW3955。\n\nS9 Master V2 三维 127×64×40.5 (mm)，表面覆盖冰凝肤感涂层，内置 300+hr 续航 500mAh 电池，质量 63±2g。\n其采用 Nordic nRF54L15 主控和“量子锋刃”竞技固件，结合凯华 150M 光学微动和 TTC 1M 防尘金滚轮编码器，支持“双 8kHz”轮询率，按键延迟低至 0.18",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "前行者发布S9 Master V2鼠标，售价299.2元，升级PAW3955传感器。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，产品参数详实，逻辑清晰，但缺少第三方评测或原始出处链接。"
-    },
-    {
-      "title": "钉钉发布DingTalk A1豆蔻医生版",
-      "link": "https://36kr.com/newsflashes/3849659696337924?f=rss",
-      "pubDate": "2026-06-12 11:56:21  +0800",
-      "contentSnippet": "36氪获悉，钉钉正式发布DingTalk A1豆蔻医生版，售价999元。DingTalk A1豆蔻医生版深度融合豆蔻医疗大模型及豆蔻医生超级助理，为医生提供语音记录、临床决策辅助、医学文献检索等全流程AI辅助功能。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钉钉发布DingTalk A1豆蔻医生版，售价999元，集成AI医疗功能。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体但缺少技术细节和原始出处。"
-    },
-    {
-      "title": "两部门约谈提醒涉嫌非理性竞争汽车生产企业",
-      "link": "https://36kr.com/newsflashes/3849652745065479?f=rss",
-      "pubDate": "2026-06-12 11:49:16  +0800",
-      "contentSnippet": "近日，工业和信息化部、市场监管总局对涉嫌存在非理性竞争行为的汽车生产企业进行约谈提醒，要求企业严格遵守《中华人民共和国价格法》《关于制止低价倾销行为的规定》等法律法规规章，按照《汽车行业价格行为合规指南》要求，加强价格合规建设，强化产品质量管控，切实保护消费者合法权益，共同维护优质优价、良性竞争的市场秩序。（央视新闻）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "两部门约谈涉嫌非理性竞争的汽车企业，要求合规经营。",
+      "aiSummary": "中基协发布指引，要求主题基金名实相符，防风格漂移。",
       "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源权威（央视新闻），内容具体有法规引用，信息客观。"
+      "credibilityReason": "来源权威（36氪转自上证报），内容具体有政策细节，时效性强。"
+    },
+    {
+      "title": "Day-0 支持，摩尔线程完成 MiniMax M3 大模型适配",
+      "link": "https://www.ithome.com/0/963/794.htm",
+      "pubDate": "Sat, 13 Jun 2026 03:51:09 GMT",
+      "contentSnippet": "IT之家 6 月 13 日消息，6 月 12 日，MiniMax 新一代原生多模态旗舰模型 M3 正式开源。同日，摩尔线程宣布旗舰级 AI 训推一体智算卡 MTT S5000 已完成对该模型的 Day-0 适配。\n\nIT之家从官方介绍获悉，针对 MiniMax M3 的核心技术特性，MTT S5000 从硬件算力、软件栈到开源框架进行了全链路精准匹配与深度优化：\n支撑超长上下文：高密度算力与大显存提供坚实支撑。\n\nMSA 架构带来的超长上下文窗口，对推理阶段的 KV Cache 存储和访存带宽提出了极高要求。MTT S5000 凭借硬件级原生 FP8 加速，单卡 AI 算力（稠密）高达 100",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "摩尔线程MTT S5000显卡完成MiniMax M3大模型Day-0适配。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有技术细节，但缺乏独立验证。"
+    },
+    {
+      "title": "AMD 肾上腺素 26.6.1 显卡驱动新特性：支持高级着色器交付功能",
+      "link": "https://www.ithome.com/0/963/793.htm",
+      "pubDate": "Sat, 13 Jun 2026 03:47:42 GMT",
+      "contentSnippet": "IT之家 6 月 13 日消息，微软今天宣布推出高级着色器交付（ASD）功能，允许开发者直接向用户提供预编译着色器，大幅减少游戏加载时间，《极限竞速：地平线 6》游戏将首发支持。\n\n在现代游戏中，着色器通常需要在首次启动时进行编译工作。这一过程通常会耗费较长时间，玩家需要等比较久才能玩上游戏。\n为了解决这一问题，微软已在 Xbox PC 应用中开发高级着色器交付功能。不过这项功能除了软件适配外，还需要显卡厂商共同配合才能支持。\n\nAMD 透露，近期发布的肾上腺素（IT之家注：Adrenalin）26.6.1 显卡驱动已经支持 Xbox PC 应用的高级着色器交付功能。开发者可以借助这一技术，预",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "AMD新驱动支持微软高级着色器交付，减少游戏加载时间。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体IT之家，内容具体有技术细节，引用官方信息。"
+    },
+    {
+      "title": "《幽灵行动》新作被曝深陷开发危机，育碧空降 3 位高管接管游戏项目",
+      "link": "https://www.ithome.com/0/963/792.htm",
+      "pubDate": "Sat, 13 Jun 2026 03:39:12 GMT",
+      "contentSnippet": "IT之家 6 月 13 日消息，游戏媒体 Insider-gaming 昨日（6 月 12 日）披露一份育碧内部备忘录，称代号为 Project OVR 的《幽灵行动》（Ghost Recon）新作遇到开发问题，未能达成内部 Alpha 阶段目标，育碧已更换项目领导层。\n根据披露的这份备忘录，育碧为了应对 Project OVR 项目开发窘境，紧急调任 Bruno Galet 担任高级制作人领导团队，同时让制作副总裁 Jean-Baptiste Duval 与全球创意办公室副总裁 Julien Sansalone 更频繁地深入一线。\nIT之家援引博文介绍，关于该项目未达标的原因，据匿名员工反映",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "《幽灵行动》新作开发遇阻，育碧更换三位高管接管项目。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，引用游戏媒体Insider-gaming的备忘录，信息具体且有匿名员工反映，但缺乏官方确认。"
+    },
+    {
+      "title": "国产动画剧《凡人修仙传》新年番“慕兰之战”B站开播，超 77 万人在线观看",
+      "link": "https://www.ithome.com/0/963/791.htm",
+      "pubDate": "Sat, 13 Jun 2026 03:30:14 GMT",
+      "contentSnippet": "IT之家 6 月 13 日消息，国产动画剧《凡人修仙传》新年番“慕兰之战”（年番第 177 集更新）今日 11:00 在B站开播，截至IT之家发文有超 50 万人在线观看。另据网友反馈，巅峰时段有超 77 万人在线观看。\n\n\n\n据官方公布追番日历，《凡人修仙传》新年番“慕兰之战”于 6 月 13 日起每周六中午 11:00 在B站独播，非会员可免费观看一集（第 177 集），B站大会员可抢先看一集（第 177-178 集）。该剧共 52 集，单集时长约 20 分钟。\n\nIT之家注：原版《凡人修仙传》是连载于起点中文网的一部仙侠修真小说，作者忘语开书于 2007 年，完结于 2017 年。动画剧",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "《凡人修仙传》新年番B站开播，峰值超77万人在线观看。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，信息具体有数据支撑，内容客观无夸大。"
+    },
+    {
+      "title": "专家：日本央行或上调利率以抑制通胀",
+      "link": "https://36kr.com/newsflashes/3850991171933192?f=rss",
+      "pubDate": "2026-06-13 11:24:41  +0800",
+      "contentSnippet": "据日本方面消息，日本央行可能在本月15日到16日召开的货币政策会议上，将政策利率从目前的0.75%上调至1.0%。日本东短研究公司总裁加藤出认为，加息将给中小企业和普通日本家庭的生活带来压力，对于日元汇率的影响有待进一步观察。如果继续维持过低利率，恐怕会进一步助长通胀。日本央行判断，即便只是小幅度，也应把利率上调一些。随着日本银行持续加息，确实有可能出现一些有住房贷款的家庭以及部分中小企业感到越来越大的压力，但是从整体平衡来看，利率不得不上调。（央视新闻）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "日本央行或于6月会议加息至1.0%以抑制通胀",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为央视新闻，信息具体有数据支撑，逻辑清晰"
+    },
+    {
+      "title": "“润华系”交班加速，润华保险股权收拢",
+      "link": "https://www.tmtpost.com/8026291.html",
+      "pubDate": "Sat, 13 Jun 2026 11:17:00 +0800",
+      "contentSnippet": "净利润下降50%。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "润华系加速交班，润华保险股权集中。",
+      "credibilityScore": 70,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体，内容具体但缺乏数据支撑。"
     }
   ]
 }
