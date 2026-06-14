@@ -1,65 +1,31 @@
 {
-  "generatedAt": "2026-06-13T04:13:08.021Z",
+  "generatedAt": "2026-06-14T04:29:55.972Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "A股本周缩量震荡，能源金属板块指数涨逾7%",
-      "link": "https://36kr.com/newsflashes/3850991875200000?f=rss",
-      "pubDate": "2026-06-13 11:34:22  +0800",
-      "contentSnippet": "本周，A股整体低开高走，上证指数4000点失而复得，科创综指坚守2000点大关，深证成指则跌破15000点，创业板指也未能守住3900点。全周成交13.95万亿元，创近5周新低。 两融资金本周大幅减仓，融资净卖出逾330亿元。大部分申万一级行业都遭融资净卖出，其中电子行业净卖出逾47亿元，电力设备行业净卖出逾41亿元，计算机、医药生物、汽车三行业净卖出超30亿元，通信、国防军工、非银金融等行业被净卖出超20亿元。基础化工、机械设备两行业逆市获得超20亿元净买入，建筑材料、交通运输、综合三行业也获得小幅净买入。（证券时报）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
+      "title": "猛士汽车 CEO 万良渝：价格战正在反噬消费者信心，不跟风降价",
+      "link": "https://www.ithome.com/0/964/046.htm",
+      "pubDate": "Sun, 14 Jun 2026 03:36:04 GMT",
+      "contentSnippet": "IT之家 6 月 14 日消息，据新浪汽车报道，6 月 13 日，在 2026 中国汽车重庆论坛上，猛士汽车 CEO 万良渝指出：“豪华品牌的护城河不是价格，而是用户认可的不可替代的价值。”\n他直言，价格战正在反噬消费者信心，对价格战持消极态度的购车者比例已高于积极态度。猛士的选择是不跟风降价，聚焦豪华智能越野赛道，把资源投入到为客户价值赋能的点上。\n\nIT之家注意到，全新猛士 M817 上个月在 2026 粤港澳大湾区车展开启预售，价格为 37 万元起。该车搭载 2.0T 极猛动力，迎来 43 项技术升级，实现 9 项同级第一。全新猛士 M817 系统综合功率可达 715kW，轮边扭矩 13",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "36氪"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "A股本周缩量震荡，能源金属板块涨逾7%，两融资金大幅减仓。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为36氪，内容具体有数据支撑，逻辑清晰，符合知名科技媒体标准。"
-    },
-    {
-      "title": "一季度全球前十大晶圆代工商营收季增3.7%",
-      "link": "https://36kr.com/newsflashes/3850890624849156?f=rss",
-      "pubDate": "2026-06-13 09:53:27  +0800",
-      "contentSnippet": "据机构统计，今年一季度全球前十大晶圆代工商产值季增3.7%至479.5亿美元，再创新高，预计全球前十大晶圆代工商第二季产值将再创高峰。从排名来看，第一季度晶合集成排名从第九名提升至第八名。 根据TrendForce集邦咨询最新报告，晶圆代工厂商受益于AI HPC（高性能计算）与相关周边订单出货，第一季电视、电脑、笔记本电脑等供应链提前生产出货，提高周边IC库存，厂商陆续接获客户提前生产或加单订单。第一季全球前十大晶圆代工商产值季增3.7%至479.5亿美元，再创新高。（证券时报）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "一季度全球前十大晶圆代工商营收环比增长3.7%创新高",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源知名科技媒体，引用TrendForce报告，数据具体且逻辑清晰"
-    },
-    {
-      "title": "美瑞新材：目前PPDA产品已成功产出合格产品，正处于下游客户开发及产品验证阶段",
-      "link": "https://36kr.com/newsflashes/3851000746087432?f=rss",
-      "pubDate": "2026-06-13 12:09:26  +0800",
-      "contentSnippet": "36氪获悉，美瑞新材在互动平台表示，PPDA（对苯二胺）属于芳香二胺，是对位芳纶及聚酰亚胺的核心原材料，同时也可用于制取偶氮染料、硫化染料等。目前PPDA产品已成功产出合格产品，性能指标达到预定目标，正处于下游客户开发及产品验证阶段，公司销售团队正积极对接芳纶等领域的目标客户，力争早日实现市场突破。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "美瑞新材PPDA产品已产出合格品，正进行客户开发与验证。",
+      "aiSummary": "猛士汽车CEO称价格战反噬消费者信心，不跟风降价。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体且有公司官方互动平台信息支撑。"
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有直接引述，但缺乏独立数据验证。"
     },
     {
-      "title": "读懂SpaceX的两万亿故事：为什么马斯克每一手棋，永远都可以提前摆好？",
-      "link": "https://36kr.com/p/3851073239372809?f=rss",
-      "pubDate": "2026-06-13 12:08:19  +0800",
-      "contentSnippet": "飞向宇宙、浩瀚无垠\n作者｜曹思颀\n编辑｜靖宇\n6 月 12 日，在 SpaceX 正式挂牌当天，马斯克选择前往得州的星舰基地，和数百名员工一起，远程敲响了纳斯达克的开市钟。\n在现场，他用熟悉的那股自嘲范儿说：「如果当年有人告诉我会有今天，我大概率觉得那个人嗑嗨了。因为当时我自己都认为这家公司会黄。」\n这一天，SpaceX 正式登陆纳斯达克，发行价 135 美元，募资约 750 亿美元；开盘即涨，盘中一度冲过 176 美元，市值短暂站上 2 万亿美元。\n从 2002 年因为买不到火箭而被迫创业，到如今完成人类商业史上最大的 IPO，这 24 年的旅程里，有大量反直觉、反共识的故事。\n这家公司名义",
+      "title": "联合国专家：国际社会应采取实际行动应对气候变化",
+      "link": "https://36kr.com/newsflashes/3852346353194243?f=rss",
+      "pubDate": "2026-06-14 10:00:14  +0800",
+      "contentSnippet": "《联合国气候变化框架公约》附属机构第64届会议——即联合国六月气候会议正在德国波恩举行。联合国专家表示，当前极端天气正变得越来越频繁，国际社会应采取实际行动应对气候变化。",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -67,16 +33,221 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "SpaceX上市市值2万亿，分析马斯克战略布局与反直觉成功故事。",
+      "aiSummary": "联合国专家呼吁国际社会采取实际行动应对气候变化。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪知名科技媒体，内容具体有数据支撑，但缺乏原始出处引用。"
+      "credibilityReason": "来源知名科技媒体，内容具体且引用联合国会议，但缺乏数据细节。"
     },
     {
-      "title": "4万店规模反噬：3个月点名2次，美宜佳管理失控的真相",
-      "link": "https://www.tmtpost.com/8026639.html",
-      "pubDate": "Sat, 13 Jun 2026 12:04:47 +0800",
-      "contentSnippet": "“以加盟之名、行甩手之实”的跑马圈地时代，已经彻底翻篇。",
+      "title": "高瓴出手了一家消费级柔性机器人公司，要把“大白”从电影搬进现实家庭｜硬氪首发",
+      "link": "https://36kr.com/p/3851572421432324?f=rss",
+      "pubDate": "2026-06-14 09:30:00  +0800",
+      "contentSnippet": "作者｜黄楠\n编辑｜袁斯来\n硬氪获悉，消费级柔性机器人公司SoulX日前已完成数千万元天使轮融资，投资方为高瓴创投，向阳资本担任独家财务顾问。资金将重点投入产品持续迭代、技术研发，并加快供应链与规模化交付体系搭建。首款机器人产品MoYa将于2026年下半年正式发布。\nSoulX隶属于深圳市弘火智能科技有限公司，团队长期专注于柔性机器人技术与睡眠、压力与家庭健康关护。公司以睡眠场景为切入点，自主研发了睡眠安抚机器人MoYa。该产品融合机器人技术、神经科学与心理学，采用无摄像头设计，通过模拟拥抱帮助用户缓解身心压力。\n家庭场景下的情感与健康关护，长期面临一个“人机关系”设计上的根本问题：在需要身心双",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "高瓴投资柔性机器人公司SoulX，首款产品MoYa将于2026下半年发布。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体36氪，内容具体有融资细节、产品信息，但缺乏技术验证和独立来源。"
+    },
+    {
+      "title": "原特斯拉厂长宋钢首次代表小米发言：特斯拉真正的护城河是它的制造，是保持竞争力的关键",
+      "link": "https://www.ithome.com/0/964/000.htm",
+      "pubDate": "Sat, 13 Jun 2026 23:56:32 GMT",
+      "contentSnippet": "IT之家 6 月 14 日消息，据新浪汽车报道，6 月 13 日，在 2026 中国汽车重庆论坛上，小米汽车部副总裁、参谋长宋钢发表演讲，这也是宋钢首次代表小米发言。\n\n宋钢在演讲中表示，提到汽车制造与供应链，很多人会联想到传统生产流水线、工业焊枪，但如今行业逻辑已经发生改变。\n宋钢提到，特斯拉真正的护城河是它的制造，特斯拉在持续创新的同时，始终深耕制造能力，以此快速响应新材料、新技术的落地应用，这也是其保持竞争力的关键。对于小米汽车而言，制造与供应链，是支撑企业稳步前行的重要支柱。\n\n▲ 小米汽车工厂\n据IT之家此前报道，宋钢曾担任特斯拉上海工厂厂长，今年 4 月出任小米汽车副总裁、参谋长。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "原特斯拉厂长宋钢称制造是特斯拉护城河，小米也重视制造。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家较知名，内容具体有出处，但缺少技术细节支撑。"
+    },
+    {
+      "title": "深开鸿参展华为 HDC 2026：KaihongOS 与 HarmonyOS 同根同源同生态，实现南北向生态全面兼容",
+      "link": "https://www.ithome.com/0/964/055.htm",
+      "pubDate": "Sun, 14 Jun 2026 04:28:10 GMT",
+      "contentSnippet": "IT之家 6 月 14 日消息，6 月 12-14 日，华为开发者大会 HDC 2026 在东莞松山湖举行。深开鸿携 KaihongOS 系列技术成果及解决方案参展。\n\n▲ IT之家 HDC 2026 现场实拍：鸿蒙街区\n据介绍，开鸿 Bot 系列已完成 OpenHarmony 6.1 新版本适配，同步上线石墨文档、红莲花安全浏览器、Coremail 邮箱等原生应用。同时，开鸿 Bot 系列可与 HarmonyOS 手机互联互通，支持用户在不同的开源鸿蒙设备间进行无缝操作。\n\n▲ 图源：深开鸿官方 | 开鸿 Bot 系列演示\n另外，深开鸿现场展示基于开源鸿蒙的车机系统解决方案，搭载 Kaiho",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "深开鸿在华为HDC 2026展示KaihongOS与HarmonyOS生态兼容。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体IT之家，内容具体有现场实拍和官方图源，但缺少独立验证。"
+    },
+    {
+      "title": "光荣特库摩授权无双动作手游《真 · 三国无双天下》定档 6 月 24 日上线",
+      "link": "https://www.ithome.com/0/964/054.htm",
+      "pubDate": "Sun, 14 Jun 2026 04:24:45 GMT",
+      "contentSnippet": "IT之家 6 月 14 日消息，由光荣特库摩正版授权的无双动作手游《真 · 三国无双 天下》现已公开定档宣传片，本作正式定档 6 月 24 日上线，登陆移动端平台。\n\n根据介绍，本作由盛天游戏开发并运营，于 2024 年 8 月获得游戏版号，游戏现已在 TapTap 开启预约，IT之家附游戏商品页（https://www.taptap.cn/app/792018?os=android）。\n游戏介绍：\n沉浸体验无双战场\n\n黄巾起义、虎牢关吕布、长坂坡赵云…… 多种关卡战役重现！无双动作玩法、地图场景最大程度复刻，只为沉浸式呈现无双战场！\n\n1V100 万夫莫开\n\n自由走位，无拘迎战！体验百人同屏",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "光荣授权手游《真·三国无双天下》定档6月24日上线。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体IT之家，信息具体有版号、预约链接等细节，但缺乏官方直接确认。"
+    },
+    {
+      "title": "先马推出黑洞 Turbo 机箱：内置高分子树脂吸音棉、标配 3 把风扇，299 元",
+      "link": "https://www.ithome.com/0/964/053.htm",
+      "pubDate": "Sun, 14 Jun 2026 04:20:45 GMT",
+      "contentSnippet": "IT之家 6 月 14 日消息，先马现已在京东上架一款黑洞 Turbo 机箱，该机箱主打主动式吸音降噪能力，定价为 299 元。\n\n该机箱尺寸为 473x230x490mm，兼容 ITX/M-ATX/ ATX/E-ATX 主板，采用定向导风散热设计，三面钢板厚度 0.7mm，同时带有高分子树脂吸音棉，I/O 方面提供了 1 个 USB-C 20Gbps、2 个 USB-A 3.0、2 个 3.5mm 音频接口。\n\n该机箱显卡限长 390mm、CPU 散热器限高 180mm，最多可安装 9 把风扇，其中机箱前部已标配 2 把 160mm 风扇（风量至高 72.07 CFM），后部标配 1 把 1",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "先马发布黑洞Turbo机箱，299元，主打吸音降噪。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体IT之家，信息具体有产品规格和价格。"
+    },
+    {
+      "title": "刚果（金）埃博拉确诊病例超过700例",
+      "link": "https://36kr.com/newsflashes/3852441657316360?f=rss",
+      "pubDate": "2026-06-14 12:15:12  +0800",
+      "contentSnippet": "刚果（金）卫生部13日发布的数据显示，本轮埃博拉疫情中该国累计确诊病例升至710例，其中149例死亡。数据还显示，目前有324名患者处于隔离或住院状态，累计治愈病例为35例。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "刚果（金）埃博拉确诊病例超700例，149人死亡。",
+      "credibilityScore": 70,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体，数据具体且有官方出处，但非专业医学媒体。"
+    },
+    {
+      "title": "微信 iOS 版 8.0.75 最新官方正式版下载发布",
+      "link": "https://www.ithome.com/0/964/052.htm",
+      "pubDate": "Sun, 14 Jun 2026 04:05:17 GMT",
+      "contentSnippet": "IT之家 6 月 14 日消息，微信 iOS 平台迎来了 8.0.75 正式版更新，包体积为 813.1 MB。\n\n官方更新日志为：\n本次更新：\n- 解决了一些已知问题。\n\n大家在IT之家微信号回复“微信”两字，即可获取当前最新官方内部版微信下载。\n\n\n本文由机器人发布，IT之家稍后将为大家带来具体更新内容。如果你发现了日志中未提及的更新点，欢迎发在评论区供大家参考 ~[微笑]",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微信iOS版8.0.75正式版发布，包体积813.1MB，仅修复已知问题。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，信息具体但官方日志简略，无技术细节。"
+    },
+    {
+      "title": "中老铁路今年以来运输货物突破1000万吨",
+      "link": "https://36kr.com/newsflashes/3852441250780169?f=rss",
+      "pubDate": "2026-06-14 12:00:47  +0800",
+      "contentSnippet": "截至6月13日，今年以来中老铁路全线累计运输货物突破1000万吨，日均运输货物超6.7万吨，运输跨境货物突破250万吨。跨境货物列车每日开行数量由开通初期的2列增至最高23列，列车牵引吨位由2000吨提升至2800吨，单列运能提升40%。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中老铁路今年货运量突破1000万吨，日均超6.7万吨。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体36氪，数据具体且逻辑清晰，时效性强。"
+    },
+    {
+      "title": "马斯克：特斯拉 AI6 芯片有望创下单块晶圆可用算力的纪录",
+      "link": "https://www.ithome.com/0/964/051.htm",
+      "pubDate": "Sun, 14 Jun 2026 03:55:58 GMT",
+      "contentSnippet": "IT之家 6 月 14 日消息，特斯拉早已着手研发支撑其未来自动驾驶愿景的芯片。本周，埃隆 · 马斯克在社交平台 X 上分享了 AI6 芯片的工程评审进展，并透露了对这款下一代芯片平台的预期。\n\n马斯克在 X 上发文称：“特斯拉 AI 芯片的设计工程评审进展十分顺利，团队表现出色。综合良率来看，AI6 芯片有望创下单块晶圆可用算力的新纪录。”\n特斯拉为 AI6 芯片规划了庞大的应用生态，涵盖商用自动驾驶出租车、民用乘用车搭载的 FSD 软件、Optimus 人形机器人，甚至太空数据中心相关业务。目前 AI6 仍处于工程设计阶段，而即将推出的 AI5 芯片已完成流片，计划于 2027 年下半年量",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "马斯克称特斯拉AI6芯片有望创单块晶圆算力纪录",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体且有马斯克原话引用，但缺乏技术细节和独立验证"
+    },
+    {
+      "title": "漫威动画《X 战警 97》第二季全新预告和海报发布：更多角色登场，7 月 1 日开播",
+      "link": "https://www.ithome.com/0/964/050.htm",
+      "pubDate": "Sun, 14 Jun 2026 03:49:09 GMT",
+      "contentSnippet": "IT之家 6 月 14 日消息，漫威动画剧集《X 战警 97》第二季发布了全新预告和海报，更多角色登场。本片目前烂番茄新鲜度开分 100%，已确认将于 7 月 1 日在迪士尼 Disney+ 平台独播。\n\n《X 战警 97》第二季距离第一季上线已过去约三年，此次续作共包含 9 集，将以每周更新的形式播出。在第二季，变种人队伍被分散到了不同的时间线上，琴 · 葛雷与镭射眼被困在了公元 3960 年的未来世界，而 X 教授、万磁王、小淘气、蓝魔鬼等则被送往了约公元前 3000 年的古埃及。\n\n在配音方面，第二季延续了第一季的主要班底。罗斯 · 马昆德继续为 X 教授献声，马修 · 沃特森饰演万磁王",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "IT之家 6 月 14 日消息，漫威动画剧集《X 战警 97》第二季发布了全新预",
+      "credibilityScore": 51,
+      "credibilityLevel": "low",
+      "credibilityReason": "因内容合规限制，使用来源权重作为默认评分"
+    },
+    {
+      "title": "香港五年规划公众咨询将于6月15日展开",
+      "link": "https://36kr.com/newsflashes/3852440880092161?f=rss",
+      "pubDate": "2026-06-14 11:45:21  +0800",
+      "contentSnippet": "香港特区政府将于6月15日起展开为期两个月的香港五年规划公众咨询，当日将发表公众咨询文件。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "香港五年规划公众咨询将于6月15日启动",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体36氪，信息具体且有时效性"
+    },
+    {
+      "title": "BIGME 大我 E10 电纸书新增“12G+256G”版本：搭 10.3 英寸彩色墨水屏面板、支持 4G 全网通，5399 元",
+      "link": "https://www.ithome.com/0/964/048.htm",
+      "pubDate": "Sun, 14 Jun 2026 03:43:34 GMT",
+      "contentSnippet": "IT之家 6 月 14 日消息，BIGME 大我现已为旗下 BIGME M10 彩色墨水屏电纸书新增一款“12GB RAM + 256GB 存储空间”版本，定价为 5399 元，部分地区国补后低至 4559.05 元。\n京东 BIGME B10 大我 E10 彩色墨水屏平板 12GB RAM + 256GB 存储空间 5399 元直达链接\n\n该机整体尺寸 225.4 x 196.5 x 6.1mm，重量 438g，正面配备一块 10.3 英寸彩色墨水屏面板（支持以 2480x1860 分辨率黑白显示或以 1240x930 分辨率彩色显示），提供 36 级冷暖前光，同时带有 5MP 自拍摄像头。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家",
+        "钛媒体"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "BIGME大我E10电纸书新增12G+256G版本，售价5399元。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自IT之家和钛媒体，信息具体有规格和价格，但无原始出处。（多源覆盖 +5）"
+    },
+    {
+      "title": "市值暴增790亿！PCB“卖铲人”大族激光，赚麻了",
+      "link": "https://www.tmtpost.com/8027117.html",
+      "pubDate": "Sun, 14 Jun 2026 11:39:38 +0800",
+      "contentSnippet": "市值暴增790亿！PCB“卖铲人”大族激光，赚麻了",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -84,180 +255,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "美宜佳4万店规模致管理失控，3月内被点名2次。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体钛媒体，内容具体有数据支撑，逻辑清晰。"
-    },
-    {
-      "title": "消息称 OPPO、vivo、荣耀测试 144Hz/165Hz 高刷屏",
-      "link": "https://www.ithome.com/0/963/796.htm",
-      "pubDate": "Sat, 13 Jun 2026 04:02:45 GMT",
-      "contentSnippet": "IT之家 6 月 13 日消息，博主 @数码闲聊站 今天在微博透露，“OVh”三家厂商正在测试 144Hz/165Hz 高刷屏幕，另外两家厂商“MH”则还是 120Hz。\n\n结合博主过往发文和评论区用户猜测，这其中的“OVh”大概率指的是 OPPO、vivo 和荣耀，而“MH”则是小米、华为。\n后续有用户在评论区询问：“不能全局应用就别尬吹”，博主回复道：“日常大家都是 120Hz，仅游戏支持超高刷”。\n\n据IT之家此前援引博主消息，某厂新机搭载 6.89 英寸 ±2K+185Hz OLED 超高刷大直屏，并且尝试做四等边。目前尚不清楚新机的具体型号，评论区有网友推测为荣耀 WIN 系列。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "OPPO、vivo、荣耀测试144Hz/165Hz高刷屏，仅游戏支持。",
-      "credibilityScore": 65,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为IT之家，但信息依赖博主爆料，缺乏官方确认和具体数据。"
-    },
-    {
-      "title": "“东半球最强法务部”受挫：《幻兽帕鲁》游戏纠纷走向尾声，任天堂最高索赔恐只有 500 万日元",
-      "link": "https://www.ithome.com/0/963/795.htm",
-      "pubDate": "Sat, 13 Jun 2026 04:00:51 GMT",
-      "contentSnippet": "IT之家 6 月 13 日消息，游戏媒体 gamesfray 昨日（6 月 12 日）发布博文，报道称围绕着《幻兽帕鲁》游戏的相关法律争议，历经近 2 年后接近尾声，任天堂的索赔上限仅为 500 万日元（IT之家注：现汇率约合 21.1 万元人民币）。\nIT之家援引博文介绍，任天堂和《幻兽帕鲁》游戏开发商 Pocketpair 的专利诉讼已接近收尾阶段，双方已经提交证据与书状，案件将于 2026 年 10 月 1 日进入庭审程序，法院预计在 2026 年 11 月 9 日给出最终意见。\n这场诉讼可以追溯到 2024 年《幻兽帕鲁》游戏蹿红，拥有“东半球最强法务部”之称的任天堂随即发动起诉，试图",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "任天堂诉《幻兽帕鲁》案接近尾声，索赔上限仅500万日元。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有日期和出处，逻辑清晰。"
-    },
-    {
-      "title": "2026 年，AI 长出了四个轮子，驶向物理世界",
-      "link": "https://www.ifanr.com/1668845?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pubDate": "Sat, 13 Jun 2026 04:00:04 +0000",
-      "contentSnippet": "车不再是拼凑出来的机械，而是从 AI 里长出来的载体。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "sourceName": "爱范儿",
-      "sourceWeight": 82,
-      "allSources": [
-        "爱范儿"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "AI技术将融入汽车，使车辆成为AI的物理载体。",
+      "aiSummary": "大族激光市值暴增790亿，PCB业务表现强劲。",
       "credibilityScore": 70,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体爱范儿，内容有观点但缺乏具体技术细节。"
-    },
-    {
-      "title": "中基协发布公募基金主题投资风格管理指引，严重偏离投资方向将被纳入负面考核指标",
-      "link": "https://36kr.com/newsflashes/3850990241043462?f=rss",
-      "pubDate": "2026-06-13 11:51:46  +0800",
-      "contentSnippet": "6月12日，中国证券投资基金业协会发布《公开募集证券投资基金主题投资风格管理指引》（下称“指引”）。指引要求，主题投资基金的名称必须明示投资方向，不得出现“名实不符”的情形，并明确基金管理人应加强对基金经理投资交易行为的监控、分析和评估，将严重偏离投资方向的情形纳入负面考核指标。业内人士认为，指引的出台是为了解决部分主题基金“伪主题”、风格漂移等问题。对投资者而言，强调“名实相符”“清晰界定”，将降低信息的不对称性，让投资选择更加简单和理性，投资者能够对产品形成稳定的预期，这种确定性的回归正是修复和提升投资者信任的基石。（上证报）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中基协发布指引，要求主题基金名实相符，防风格漂移。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源权威（36氪转自上证报），内容具体有政策细节，时效性强。"
-    },
-    {
-      "title": "Day-0 支持，摩尔线程完成 MiniMax M3 大模型适配",
-      "link": "https://www.ithome.com/0/963/794.htm",
-      "pubDate": "Sat, 13 Jun 2026 03:51:09 GMT",
-      "contentSnippet": "IT之家 6 月 13 日消息，6 月 12 日，MiniMax 新一代原生多模态旗舰模型 M3 正式开源。同日，摩尔线程宣布旗舰级 AI 训推一体智算卡 MTT S5000 已完成对该模型的 Day-0 适配。\n\nIT之家从官方介绍获悉，针对 MiniMax M3 的核心技术特性，MTT S5000 从硬件算力、软件栈到开源框架进行了全链路精准匹配与深度优化：\n支撑超长上下文：高密度算力与大显存提供坚实支撑。\n\nMSA 架构带来的超长上下文窗口，对推理阶段的 KV Cache 存储和访存带宽提出了极高要求。MTT S5000 凭借硬件级原生 FP8 加速，单卡 AI 算力（稠密）高达 100",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "摩尔线程MTT S5000显卡完成MiniMax M3大模型Day-0适配。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有技术细节，但缺乏独立验证。"
-    },
-    {
-      "title": "AMD 肾上腺素 26.6.1 显卡驱动新特性：支持高级着色器交付功能",
-      "link": "https://www.ithome.com/0/963/793.htm",
-      "pubDate": "Sat, 13 Jun 2026 03:47:42 GMT",
-      "contentSnippet": "IT之家 6 月 13 日消息，微软今天宣布推出高级着色器交付（ASD）功能，允许开发者直接向用户提供预编译着色器，大幅减少游戏加载时间，《极限竞速：地平线 6》游戏将首发支持。\n\n在现代游戏中，着色器通常需要在首次启动时进行编译工作。这一过程通常会耗费较长时间，玩家需要等比较久才能玩上游戏。\n为了解决这一问题，微软已在 Xbox PC 应用中开发高级着色器交付功能。不过这项功能除了软件适配外，还需要显卡厂商共同配合才能支持。\n\nAMD 透露，近期发布的肾上腺素（IT之家注：Adrenalin）26.6.1 显卡驱动已经支持 Xbox PC 应用的高级着色器交付功能。开发者可以借助这一技术，预",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "AMD新驱动支持微软高级着色器交付，减少游戏加载时间。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，内容具体有技术细节，引用官方信息。"
-    },
-    {
-      "title": "《幽灵行动》新作被曝深陷开发危机，育碧空降 3 位高管接管游戏项目",
-      "link": "https://www.ithome.com/0/963/792.htm",
-      "pubDate": "Sat, 13 Jun 2026 03:39:12 GMT",
-      "contentSnippet": "IT之家 6 月 13 日消息，游戏媒体 Insider-gaming 昨日（6 月 12 日）披露一份育碧内部备忘录，称代号为 Project OVR 的《幽灵行动》（Ghost Recon）新作遇到开发问题，未能达成内部 Alpha 阶段目标，育碧已更换项目领导层。\n根据披露的这份备忘录，育碧为了应对 Project OVR 项目开发窘境，紧急调任 Bruno Galet 担任高级制作人领导团队，同时让制作副总裁 Jean-Baptiste Duval 与全球创意办公室副总裁 Julien Sansalone 更频繁地深入一线。\nIT之家援引博文介绍，关于该项目未达标的原因，据匿名员工反映",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "《幽灵行动》新作开发遇阻，育碧更换三位高管接管项目。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，引用游戏媒体Insider-gaming的备忘录，信息具体且有匿名员工反映，但缺乏官方确认。"
-    },
-    {
-      "title": "国产动画剧《凡人修仙传》新年番“慕兰之战”B站开播，超 77 万人在线观看",
-      "link": "https://www.ithome.com/0/963/791.htm",
-      "pubDate": "Sat, 13 Jun 2026 03:30:14 GMT",
-      "contentSnippet": "IT之家 6 月 13 日消息，国产动画剧《凡人修仙传》新年番“慕兰之战”（年番第 177 集更新）今日 11:00 在B站开播，截至IT之家发文有超 50 万人在线观看。另据网友反馈，巅峰时段有超 77 万人在线观看。\n\n\n\n据官方公布追番日历，《凡人修仙传》新年番“慕兰之战”于 6 月 13 日起每周六中午 11:00 在B站独播，非会员可免费观看一集（第 177 集），B站大会员可抢先看一集（第 177-178 集）。该剧共 52 集，单集时长约 20 分钟。\n\nIT之家注：原版《凡人修仙传》是连载于起点中文网的一部仙侠修真小说，作者忘语开书于 2007 年，完结于 2017 年。动画剧",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "《凡人修仙传》新年番B站开播，峰值超77万人在线观看。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，信息具体有数据支撑，内容客观无夸大。"
-    },
-    {
-      "title": "专家：日本央行或上调利率以抑制通胀",
-      "link": "https://36kr.com/newsflashes/3850991171933192?f=rss",
-      "pubDate": "2026-06-13 11:24:41  +0800",
-      "contentSnippet": "据日本方面消息，日本央行可能在本月15日到16日召开的货币政策会议上，将政策利率从目前的0.75%上调至1.0%。日本东短研究公司总裁加藤出认为，加息将给中小企业和普通日本家庭的生活带来压力，对于日元汇率的影响有待进一步观察。如果继续维持过低利率，恐怕会进一步助长通胀。日本央行判断，即便只是小幅度，也应把利率上调一些。随着日本银行持续加息，确实有可能出现一些有住房贷款的家庭以及部分中小企业感到越来越大的压力，但是从整体平衡来看，利率不得不上调。（央视新闻）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "日本央行或于6月会议加息至1.0%以抑制通胀",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为央视新闻，信息具体有数据支撑，逻辑清晰"
-    },
-    {
-      "title": "“润华系”交班加速，润华保险股权收拢",
-      "link": "https://www.tmtpost.com/8026291.html",
-      "pubDate": "Sat, 13 Jun 2026 11:17:00 +0800",
-      "contentSnippet": "净利润下降50%。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "润华系加速交班，润华保险股权集中。",
-      "credibilityScore": 70,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体，内容具体但缺乏数据支撑。"
+      "credibilityReason": "来自知名科技媒体钛媒体，内容具体但缺乏数据支撑和原始出处。"
     }
   ]
 }
