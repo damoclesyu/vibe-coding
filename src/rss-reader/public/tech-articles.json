@@ -1,48 +1,14 @@
 {
-  "generatedAt": "2026-06-15T04:53:25.820Z",
+  "generatedAt": "2026-06-16T04:50:51.430Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "香港首份五年规划展开公众咨询：拟提升香港作为内地企业首选出海平台的功能",
-      "link": "https://36kr.com/newsflashes/3853956876915968?f=rss",
-      "pubDate": "2026-06-15 12:47:40  +0800",
-      "contentSnippet": "香港特别行政区政府今日就香港经济和社会发展第一个五年规划（2026—2030）展开公众咨询。其中提到，提升国际贸易中心地位。拓展国际经贸网络，提升香港作为内地企业首选出海平台的功能，持续优化外商投资环境，引导产业发展。构建高增值供应链服务中心，强化香港作为国际商贸平台及专业服务枢纽的角色，推动贸易融资、保险、检测认证、法律及仲裁等配套服务协同发展。积极推进《内地与香港关于建立更紧密经贸关系的安排》，以进一步开放服务贸易为重点，助力国家高水平对外开放；积极促进区域数字贸易合作，加快贸易文件电子化进程；强化会展业双向平台功能，助力国家品牌拓展国际版图；吸引海外企业将优质产品和服务引进内地市场。（证",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "香港首份五年规划咨询，拟提升内地企业出海平台功能。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，信息具体有政策细节，逻辑清晰。"
-    },
-    {
-      "title": "香港首份五年规划展开公众咨询：拟加强与内地资本市场互联互通，扩大跨境投融资渠道",
-      "link": "https://36kr.com/newsflashes/3853955810989312?f=rss",
-      "pubDate": "2026-06-15 12:46:35  +0800",
-      "contentSnippet": "香港特别行政区政府今日就香港经济和社会发展第一个五年规划（2026—2030）展开公众咨询。其中提到，推动国际金融中心高质量发展。深化股票、债券、资产管理及财富管理、保险及风险管理市场的联动发展，巩固香港作为全球离岸人民币中心的地位。构建大宗商品交易生态圈，加强与内地资本市场互联互通，扩大跨境投融资渠道，便利国家企业“走出去”及海外资本“引进来”。巩固提升香港作为国际金融中心的地位，深度推展“金融+”赋能各业（包括金融科技、绿色金融、贸易融资等），贡献国家“加快建设金融强国”的战略目标。（证券时报）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "香港首份五年规划咨询，拟加强内地资本市场互联互通。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，内容具体且引用证券时报，信息详实。"
-    },
-    {
-      "title": "消息称三星显示投注 RGB OLEDoS 技术：有望为 XR 设备带来更佳视效",
-      "link": "https://www.ithome.com/0/964/321.htm",
-      "pubDate": "Mon, 15 Jun 2026 03:49:17 GMT",
-      "contentSnippet": "IT之家 6 月 15 日消息，韩媒 ETNEWS 当地时间昨日报道称，三星显示 (SDC) 正与供应商洽谈，计划在 2026H2 订购 RGB OLEDoS 沉积设备，目标 2027 年导入、2028 年量产。\n目前唯一商业化的硅基 OLED (OLEDoS) 微显示器技术路线为 WOLED，即在白色发光器件上叠加彩色滤光片实现三色光。这一方案工艺难度较低，但在光损耗上存在天然劣势。\nRGB OLEDoS 则直接沉积三原色发光器件，可实现更高的亮度和能效，从而改善 XR 设备的视觉体验。不过这一方案需要超精细掩模版和 ＜1μm 的对准误差，成熟度尚不足以量产。中国台湾地区创王光电的 uNEE",
+      "title": "蔚来李斌：今年是我进入汽车行业以来最难的一年，新乐道 L60 不至于卖一辆亏一辆",
+      "link": "https://www.ithome.com/0/964/686.htm",
+      "pubDate": "Tue, 16 Jun 2026 02:25:56 GMT",
+      "contentSnippet": "IT之家 6 月 16 日消息，据每日经济新闻 6 月 15 日报道，蔚来创始人、董事长李斌在接受采访时直言：“我进入汽车行业这么多年，今年是真正最难的一年。”\n新乐道 L60 汽车于 6 月 11 日上市，整车购买方案 19.28 万-22.28 万元，较老款车型下探了 1.41 万元。\n李斌坦言：“新乐道 L60 还有毛利，不至于卖一辆亏一辆，但比较‘惨’，现在供应链端涨价太多。”\n\n李斌认为，目前汽车经销商和二手车商的压力都非常大，车市整体处于临界点。“接下来几个月，不确定因素非常多。如何度过这段时间，对每家企业来讲都是要回答的重要课题。”\n据李斌介绍，乐道汽车的用户中，有 35% 曾是",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -50,16 +16,169 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "三星显示计划2028年量产RGB OLEDoS，提升XR设备视效。",
+      "aiSummary": "蔚来李斌称今年是汽车业最难一年，新乐道L60有毛利但供应链涨价压力大。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自IT之家转载每日经济新闻，内容具体有数据支撑，但缺乏原始采访链接。"
+    },
+    {
+      "title": "2026 年二季度机械硬盘供给短缺加剧，市场批发价环比上涨 10%",
+      "link": "https://www.ithome.com/0/964/665.htm",
+      "pubDate": "Tue, 16 Jun 2026 01:33:52 GMT",
+      "contentSnippet": "IT之家 6 月 16 日消息，全球存储设备短缺危机正全面爆发，且供需失衡局面还将进一步恶化。众所周知，人工智能产业的爆发式增长已造成全球 DRAM 内存芯片与 NAND 闪存芯片严重紧缺，机械硬盘市场同样未能幸免。来自中国台湾地区供应链的消息称，过去一个季度机械硬盘的供货短缺情况持续加剧，硬盘售价也将随之迎来新一轮上涨。\n\n据 DigiTimes 报道，2026 年第二季度机械硬盘供应缺口进一步扩大，市场批发价环比上涨 10%。本次涨幅远高于往年同期，根源在于全球各地新建、扩容的 AI 数据中心带来了海量存储需求。\n报道称，面向普通消费者的 1TB、2TB 机械硬盘依旧货源紧张；而超大规模云",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "机械硬盘供应短缺加剧，2026年Q2批发价环比涨10%",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，引用DigiTimes报道，信息具体有数据支撑"
+    },
+    {
+      "title": "润和软件在浙江成立新科技公司，注册资本1000万",
+      "link": "https://36kr.com/newsflashes/3855364544877577?f=rss",
+      "pubDate": "2026-06-16 12:46:31  +0800",
+      "contentSnippet": "36氪获悉，天眼查App显示，近日，浙江润和智源科技有限公司成立，法定代表人为于萍，注册资本1000万人民币，经营范围包括软件开发、软件销售、信息系统运行维护服务、信息系统集成服务等。股东信息显示，该公司由润和软件全资持股。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "润和软件全资子公司浙江润和智源科技成立，注册资本1000万",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体36氪，信息具体有数据支撑，来源可靠"
+    },
+    {
+      "title": "英伟达员工考公上岸引热议，黄仁勋曾称“尽力给员工支付尽可能高的薪水”",
+      "link": "https://www.ithome.com/0/964/753.htm",
+      "pubDate": "Tue, 16 Jun 2026 04:43:56 GMT",
+      "contentSnippet": "IT之家 6 月 16 日消息，根据“合肥先锋”公众号 6 月 14 日发布的《合肥市 2026 年度考试录用公务员拟录用人员名单公示（三）》，一位曾在英伟达半导体科技（上海）有限公司工作的男性“考公上岸”，入选拟录用人员名单。\n\n这一消息被发现后，引发了网络热议。多个财经、科技类大 V 账号转发并评论，“英伟达再牛，终点还是上岸”成为热门话题。网友感慨：“果然男人一过 35，不是财务自由，就是上岸。”\n英伟达作为全球 AI 芯片龙头企业，近年来业绩爆发式增长，2027 财年第一财季（2026 年 1 月 26 日～2026 年 4 月 26 日）营业总收入 816.15 亿美元（IT之家注：",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "英伟达员工考公上岸引热议，网友感叹“终点还是上岸”。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有原始公示出处，但部分数据年份存疑。"
+    },
+    {
+      "title": "东土科技：公司在物理AI和具身智能领域已进行系统性布局",
+      "link": "https://36kr.com/newsflashes/3855362680116226?f=rss",
+      "pubDate": "2026-06-16 12:37:43  +0800",
+      "contentSnippet": "36氪获悉，东土科技在互动平台表示，公司在物理AI和具身智能领域已进行了系统性布局，主要依托自主工业操作系统、确定性网络与智能控制器等产品构建支撑物理AI的底层底座，并面向广泛的工业场景提供解决方案，例如：在智能建造领域，公司无人驾驶塔机方案通过AI视觉与自主控制，实现了作业的自动化与智能化；在电力领域，为智能变电站提供确定性AI调度与故障诊断方案，保障电网运行的安全高效；在具身机器人领域，公司提供“OS+总线+控制器”全国产化电子架构解决方案，为机器人的功能安全与性能表现保驾护航。上述仅为部分典型应用场景，公司相关技术方案已在多个行业实现落地。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "东土科技在物理AI和具身智能领域已系统性布局，提供工业解决方案。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为36氪，内容具体有技术细节，但缺乏原始数据支撑。"
+    },
+    {
+      "title": "830kW 功率 + 三电机四驱 + 差速锁，吉利银河战舰 700 核心技术参数公布",
+      "link": "https://www.ithome.com/0/964/751.htm",
+      "pubDate": "Tue, 16 Jun 2026 04:36:36 GMT",
+      "contentSnippet": "IT之家 6 月 16 日消息，吉利银河今日通过官方社交平台发布了旗下全新中大型 SUV—— 银河战舰 700 的核心技术参数与产品定位。这款被定义为“AI 全地形硬核 SUV”的新车，计划年内正式上市。\n\n\n\n官方称，银河战舰 700 拥有全球量产越野第一推重比、全球量产插混越野第一系统综合功率、全球量产插混唯一三电机四驱 + 差速锁。\n具体来看，银河战舰 700 搭载三电机四驱插电式混合动力系统，并配备差速锁，系统综合功率达到 830 千瓦（约合 1128.8 马力），推重比高达 392 马力 / 吨。\n外观方面，银河战舰 700 采用硬朗的线条勾勒与方盒子车身造型，塑造出鲜明的硬派越野视",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "吉利银河战舰700公布830kW功率等参数，定位AI全地形硬核SUV。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体IT之家，内容具体有数据支撑，但缺乏独立验证。"
+    },
+    {
+      "title": "五分钟到清华，一座楼里的AI创业众生相",
+      "link": "https://www.tmtpost.com/8028997.html",
+      "pubDate": "Tue, 16 Jun 2026 12:34:13 +0800",
+      "contentSnippet": "离清华近一点，就离未来近一点？",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "报道清华周边AI创业生态，展现创业者的众生相。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体钛媒体，内容具体但缺乏数据支撑和原始出处。"
+    },
+    {
+      "title": "连环舆情突袭，遇见小面招牌蒙尘",
+      "link": "https://www.tmtpost.com/8029325.html",
+      "pubDate": "Tue, 16 Jun 2026 12:34:11 +0800",
+      "contentSnippet": "不断冲击品牌亲民的大众口碑",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "遇见小面因连环舆情冲击品牌口碑",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "钛媒体为知名科技媒体，内容具体但缺少数据支撑"
+    },
+    {
+      "title": "为了看世界杯，球迷把GitHub刷爆了",
+      "link": "https://www.tmtpost.com/8029651.html",
+      "pubDate": "Tue, 16 Jun 2026 12:34:09 +0800",
+      "contentSnippet": "一款名为IPTV的开源项目突然爆火",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "世界杯期间IPTV开源项目因球迷需求在GitHub爆火。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体钛媒体，内容具体但缺乏技术细节和原始数据支撑。"
+    },
+    {
+      "title": "富奥股份：物理AI机器人相关合资公司正筹备设立，暂未形成规模化订单",
+      "link": "https://36kr.com/newsflashes/3855347036640261?f=rss",
+      "pubDate": "2026-06-16 12:31:43  +0800",
+      "contentSnippet": "36氪获悉，富奥股份在互动平台表示，飞行汽车方面，公司相关配套产品已完成可靠性验证，即将进入量产供货阶段，目前该业务对公司整体营收贡献有限。物理AI机器人相关合资公司正筹备设立，前期商务对接工作稳步开展，暂未形成规模化订单。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "富奥股份飞行汽车产品将量产，物理AI机器人合资公司筹备中",
       "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有技术细节和出处，逻辑清晰。"
+      "credibilityReason": "来源36氪知名科技媒体，内容具体有公司官方表态，但缺乏数据支撑"
     },
     {
-      "title": "新加坡拟推出黄金清算系统，摩根大通等银行势将参与其中",
-      "link": "https://36kr.com/newsflashes/3853898844886273?f=rss",
-      "pubDate": "2026-06-15 11:48:38  +0800",
-      "contentSnippet": "新加坡计划于今年推出黄金清算系统，摩根大通和德意志银行等银行势将参与其中，助力这个城市国家成为全球黄金市场的枢纽。新加坡副总理兼新加坡金融管理局主席颜金勇表示，新加坡交易所将在2026年底前建立场外清算机制，银行间交易预计将从明年开始逐步展开。（新浪财经）",
+      "title": "新宙邦：暂时没有产品涉及MLCC概念板块",
+      "link": "https://36kr.com/newsflashes/3855342021088516?f=rss",
+      "pubDate": "2026-06-16 12:27:43  +0800",
+      "contentSnippet": "36氪获悉，新宙邦在互动平台表示，公司在电容化学品产品方面进行了较为全面的布局，主要有铝电解电容化学品、铝箔化学品、钽电容化学品及功能材料、电容器封装材料及部件等，暂时没有产品涉及MLCC概念板块。",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -67,118 +186,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "新加坡拟年底推黄金清算系统，摩根大通等银行参与。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体且有原始出处（新浪财经），信息逻辑清晰。"
-    },
-    {
-      "title": "硬氪首发 | 海洋具身智能公司「世航智能」拿下创纪录10亿融资，朱啸虎押注",
-      "link": "https://36kr.com/p/3853011900142848?f=rss",
-      "pubDate": "2026-06-15 09:50:00  +0800",
-      "contentSnippet": "作者 | 邱晓芬\n编辑 | 袁斯来\n硬氪获悉，海洋具身智能公司「世航智能」完成A轮融资，融资金额超过10亿元，这也是目前全球海洋机器人领域规模最大的单轮融资。本轮融资由两家芯片公司「摩尔线程」和「昆仑芯」的产业投资方上河动量基金、新加坡国有投资平台Vertex Growth 、上市公司大洋电机等资方出资。\n另外，金沙江创投也在本轮追加投资，这已是其创始人朱啸虎第五轮投资「世航智能」，祥峰中国、华映资本、长石资本等老股东亦全部超额跟投。\n「世航智能」创始人兼CEO陈晓博为1989年出生的哈尔滨工程大学校友，长期深耕水下机器人领域，在28岁时获得国防科技进步一等奖，是该奖项最年轻获奖者，并主导研发",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "世航智能获10亿融资，朱啸虎押注海洋具身智能。",
+      "aiSummary": "新宙邦称暂无产品涉及MLCC概念板块。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪知名科技媒体，信息具体含金额、资方、创始人背景，逻辑清晰。"
+      "credibilityReason": "来自知名科技媒体36氪，信息源自公司官方互动平台，内容具体明确。"
     },
     {
-      "title": "智谱：公司已推出最新一代旗舰模型GLM-5.2",
-      "link": "https://36kr.com/newsflashes/3853947992921094?f=rss",
-      "pubDate": "2026-06-15 12:38:37  +0800",
-      "contentSnippet": "36氪获悉，智谱港交所公告，董事会欣然宣布，本公司已推出最新一代旗舰模型GLM-5.2，模型提供达到1M的长上下文，并在长程任务中继续保持领先，将遵循MIT协议开源。预计该模型将助益本公司后续开放平台及API业务的调用量提升。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "智谱发布旗舰模型GLM-5.2，支持1M长上下文并开源。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体但缺少技术细节和原始出处。"
-    },
-    {
-      "title": "英国广播公司下周启动裁员计划，料将裁撤2000人",
-      "link": "https://36kr.com/newsflashes/3853944918185225?f=rss",
-      "pubDate": "2026-06-15 12:35:30  +0800",
-      "contentSnippet": "媒体援引多位知情人士消息报道，英国广播公司（BBC）将于下周在核心新闻部门裁减数百个岗位，这也是其整体裁员计划的第一步。根据整体改革方案，各部门需削减约一成开支。BBC预计总计裁员约2000人，部分广播节目也将受到此次裁员影响。（新浪财经）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "BBC下周启动裁员，预计裁撤2000人。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为36氪，引用新浪财经，信息具体但缺乏原始出处确认。"
-    },
-    {
-      "title": "工信部披露小鹏 G9L 续航信息：纯电车型最大续航 805km",
-      "link": "https://www.ithome.com/0/964/357.htm",
-      "pubDate": "Mon, 15 Jun 2026 04:28:16 GMT",
-      "contentSnippet": "IT之家 6 月 15 日消息，小鹏汽车全新中大型 SUV 小鹏 G9L 正式现身工信部《减免车辆购置税的新能源汽车车型目录（第三十一批）》，作为小鹏品牌旗下的全新旗舰 SUV，G9L 同时推出纯电与增程两种动力版本，并首次采用 5 座布局。\n小鹏 G9L 提供纯电与增程两套动力体系，且均支持两驱和四驱版本选择。\n纯电版车型搭载 91.9kWh 和 110kWh 两种规格电池包，提供三元锂和磷酸铁锂两种电池配方。根据 CLTC 工况测试，新车纯电续航里程覆盖 672km 至 805km 共六个版本，具体包括 672km、702km、725km、755km、775km 和 805km。动力输出方",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "工信部披露小鹏G9L纯电版续航最高805km，提供增程版。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，信息具体有工信部目录支撑，逻辑清晰。"
-    },
-    {
-      "title": "汇丰及恒生应用程序部分服务受影响，银行方面称正努力修复",
-      "link": "https://36kr.com/newsflashes/3853932622582793?f=rss",
-      "pubDate": "2026-06-15 12:22:59  +0800",
-      "contentSnippet": "据报道，汇丰及恒生银行的应用程序早上出现技术故障。汇丰平台显示，由于技术故障，服务暂时受影响。恒生平台显示，应用程序或网上银行服务可能出现回应速度较慢或间歇中断情况。对此，汇丰发言人表示，早上部分客户未能正常使用银行某些服务，公司正努力处理以尽快恢复正常运作。恒生表示，由于技术原因，部分银行服务暂时受到影响，相关部门正努力修复。（界面）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "汇丰及恒生银行应用出现技术故障，正努力修复。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，内容具体且有银行官方回应，但缺乏技术细节。"
-    },
-    {
-      "title": "长城推出阿基米德 KM16 海景房机箱：无立柱 270° 全景设计，169 元",
-      "link": "https://www.ithome.com/0/964/356.htm",
-      "pubDate": "Mon, 15 Jun 2026 04:16:00 GMT",
-      "contentSnippet": "IT之家 6 月 15 日消息，长城现已在京东上架一款阿基米德 KM16 海景房机箱，该机箱采用无立柱 270° 全景设计，定价为 169 元。\n\n该机箱尺寸为 435x275x355mm，兼容 M-ATX / ITX 主板，侧板使用翻门玻璃侧透设计，提供了 1 个 USB-A 3.0、2 个 USB-A 2.0、1 个 3.5mm 音频接口。\n\n\n兼容性方面，该机显卡限长 410mm，CPU 散热器限高 157mm，可安装 1 块 3.5 英寸和 2 块 2.5 英寸硬盘。\n该机箱最多可安装 9 把风扇，其中顶部可安装 3 把 120mm 风扇（兼容 280/360 水冷），侧面可安装 2",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "长城推出169元无立柱270°全景海景房机箱，兼容M-ATX/ITX主板。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，信息具体且有数据支撑，逻辑清晰。"
-    },
-    {
-      "title": "我国成功发射吉星高分07C04星等8颗卫星",
-      "link": "https://36kr.com/newsflashes/3853922595591428?f=rss",
-      "pubDate": "2026-06-15 12:12:47  +0800",
-      "contentSnippet": "我国成功发射吉星高分07C04星等8颗卫星。（央视新闻）",
+      "title": "阿里发布首个具身大模型Qwen-Robot系列",
+      "link": "https://36kr.com/newsflashes/3855340769563907?f=rss",
+      "pubDate": "2026-06-16 12:26:55  +0800",
+      "contentSnippet": "6月16日，阿里巴巴发布千问具身智能大模型Qwen-Robot系列，包含VLA操作模型 Qwen-RobotManip、VLN移动模型Qwen-RobotNav和世界模型Qwen-RobotWorld三大模型。这是千问大模型家族首个完整的具身智能模型系列——三个模型分别为机器人装上灵巧的手、认路的脚和会思考的大脑，既可单独部署，也能协同运转。",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -187,16 +204,35 @@
       ],
       "coverageCount": 2,
       "coverageBoost": 5,
-      "aiSummary": "我国成功发射吉星高分07C04星等8颗卫星。",
-      "credibilityScore": 100,
+      "aiSummary": "阿里发布首个具身大模型Qwen-Robot系列，含三大模型。",
+      "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源权威（央视新闻），信息具体且时效性强。（多源覆盖 +5）"
+      "credibilityReason": "来自知名科技媒体，内容具体，信息详实，逻辑清晰。（多源覆盖 +5）"
     },
     {
-      "title": "《太吾异世劫》免费试玩 Demo 登陆 Steam：《太吾绘卷》IP 衍生，支持中文配音",
-      "link": "https://www.ithome.com/0/964/353.htm",
-      "pubDate": "Mon, 15 Jun 2026 04:12:15 GMT",
-      "contentSnippet": "IT之家 6 月 15 日消息，国产现象级独立游戏《太吾绘卷》IP 衍生新作《太吾异世劫》现已在 Steam 平台推出免费试玩 Demo，玩家可直接下载体验。该作由《太吾绘卷》开发方螺舟工作室授权，《墨境》开发团队犁浦工作室（Leap Studio）开发，4Divinity 发行，完整版发售日期尚未公布。IT之家附游戏商品页（https://store.steampowered.com/app/3452720/Realm_of_Taiwu/）。\n\n\n《太吾异世劫》故事基于《太吾绘卷》世界观衍生平行 if 线：太吾未至，伏虞剑惜败于相枢，天地崩入黑暗。在此危局中，玩家将化身不同门派的幸存者，在剑",
+      "title": "谷歌更新安卓开发最佳 AI 模型榜单：Gemini 3.5 Flash 成本最贵，约为 DeepSeek V4 Flash 的 17.5 倍",
+      "link": "https://www.ithome.com/0/964/750.htm",
+      "pubDate": "Tue, 16 Jun 2026 04:21:56 GMT",
+      "contentSnippet": "IT之家 6 月 16 日消息，谷歌昨日（6 月 15 日）更新其 Android Bench 榜单，自家 Gemini 3.5 Flash 模型成绩明显低于外界预期。\nIT之家注：Android Bench 是谷歌官方推出的安卓开发任务基准测试，用来评估不同 AI 模型在代码编写、问题解决与开发辅助方面的实际能力。\n该测试更贴近真实开发场景，专门衡量 AI 模型完成安卓开发任务的能力，因此对开发者选择模型有较强参考价值。\n根据谷歌官方更新的 Android Bench 榜单，OpenAI 的 GPT-5.5 模型以 74 得分位居榜首，GPT-5.4 模型以 72.4 得分位居第二。\n谷歌自",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家",
+        "钛媒体",
+        "Solidot"
+      ],
+      "coverageCount": 3,
+      "coverageBoost": 10,
+      "aiSummary": "谷歌更新Android Bench榜单，Gemini 3.5 Flash成本是DeepSeek V4 Flash的17.5倍。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体，内容具体有数据，但未提供原始链接，时效性好。（多源覆盖 +10）"
+    },
+    {
+      "title": "宁德时代曾毓群称 2030 年前固态电池百万级装车可能性很小，不能为了固态电池而固态电池",
+      "link": "https://www.ithome.com/0/964/749.htm",
+      "pubDate": "Tue, 16 Jun 2026 04:21:21 GMT",
+      "contentSnippet": "IT之家 6 月 16 日消息，据《财经》上周报道，宁德时代董事长曾毓群在接受采访时，谈到了固态电池的未来发展预测。\n曾毓群表示，目前大家都在说固态电池，到底什么是固态电池？只有电解质是全固态的电池叫固态电池。那什么叫全固态？常温常压下全固态。接下来为什么要做固态电池？不能为了固态电池而固态电池。\n曾毓群还认为，2030 年前固态电池百万级装车可能性很小。“达到百万级，车要足够便宜，这在性能跟成本上都会有一些困难。”\n曾毓群表示，固态电池商业化，还是要等着几个重要的科学跟技术问题的突破。\n在技术成熟度方面，从 1 到 9 路线排列，曾毓群认为现在固态电池处在 4。“技术路线里面才处在 4，我还",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -204,16 +240,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "《太吾绘卷》IP衍生新作《太吾异世劫》免费试玩Demo登陆Steam。",
+      "aiSummary": "宁德时代曾毓群称2030年前固态电池百万级装车可能性小",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，信息具体且有Steam商品页链接，逻辑清晰。"
+      "credibilityReason": "来源为知名科技媒体IT之家，引用宁德时代董事长原话，内容具体有数据支撑"
     },
     {
-      "title": "美团龙珠等入股核聚变装置研发商诺瓦聚变",
-      "link": "https://36kr.com/newsflashes/3853920790549508?f=rss",
-      "pubDate": "2026-06-15 12:10:57  +0800",
-      "contentSnippet": "36氪获悉，天眼查App显示，近日，诺瓦聚变能源科技（上海）有限公司发生工商变更，新增福建省龙珠文旅数创股权投资基金合伙企业（有限合伙）、北京龙珠股权投资基金合伙企业（有限合伙）等为股东，同时注册资本由约219万人民币增至约234万人民币。\n该公司成立于2025年4月，法定代表人为HOUYANG GUO，经营范围包括新材料技术研发、核电设备成套及工程技术研发、发电技术服务等，现由上海瞻日就云企业管理合伙企业（有限合伙）、上海云聚融光企业管理合伙企业（有限合伙）及上述新增股东等共同持股。公开资料显示，该公司专注于研发小型、分布式、模块化核聚变装置。",
+      "title": "欧洲智库：石油市场供需失衡将延续至2027年",
+      "link": "https://36kr.com/newsflashes/3855331553645827?f=rss",
+      "pubDate": "2026-06-16 12:14:57  +0800",
+      "contentSnippet": "欧洲智库布鲁盖尔研究所6月15日发布研究报告说，即使霍尔木兹海峡短期内重新开放，全球石油市场供需失衡也将延续至2027年。报告指出，中东战事引发霍尔木兹海峡实际关闭，造成史上最大规模能源供应冲击。国际能源署估计，自海峡航运受阻以来，全球石油供应缺口达日均1280万桶。（新华社）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -221,45 +257,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "美团龙珠等投资核聚变初创公司诺瓦聚变",
-      "credibilityScore": 75,
+      "aiSummary": "欧洲智库预测石油供需失衡将持续至2027年。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪可信，信息具体有工商变更细节，但缺乏技术细节和原始出处"
-    },
-    {
-      "title": "PCIe Gen5 ×8 高带宽，TOPC 预热 Ultra 7 255H 款 MCIO 接口迷你主机",
-      "link": "https://www.ithome.com/0/964/352.htm",
-      "pubDate": "Mon, 15 Jun 2026 04:08:19 GMT",
-      "contentSnippet": "IT之家 6 月 15 日消息，GPD 今年 4 月宣布了品类首发 PCIe Gen5 规格 MCIO 8i (SFF-1016) 接口的 Ultra 7 356H 版 GPD BOX 迷你主机。而根据 TOPC 的动态，该厂商也将推出具备该高带宽接口的产品。\n\nTOPC 此前曾推出过配备 MCIO 8i 接口的多款 AMD 平台迷你主机。不过由于处理器的限制，上述机型的 MCIO 仅可运行在 PCIe Gen4 模式下。而基于英特尔酷睿 Ultra 7 255H 的新型号则解锁了更高的带宽，支持显卡等 PCIe AIC 外接高速运行。\nTOPC 官方表示英特尔酷睿 Ultra 7 255H",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "TOPC将推出支持PCIe Gen5 MCIO接口的Ultra 7 255H迷你主机",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，内容具体有产品细节，但缺少原始出处和实测数据"
-    },
-    {
-      "title": "中国“纯硅”成功突破，我国攻克硅基量子芯片关键材料",
-      "link": "https://36kr.com/newsflashes/3853914162992134?f=rss",
-      "pubDate": "2026-06-15 12:04:13  +0800",
-      "contentSnippet": "记者今天（15日）从中核集团了解到，我国科学家在稳定同位素富集领域取得关键性突破，首次成功实现丰度超过99.99%的硅-28同位素自主量产，产品关键指标达国际先进水平。标志着我国在构建自主可控、协同高效的稳定同位素产业格局方面迈出实质性步伐。（央视新闻）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪",
-        "IT之家"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "我国成功量产高丰度硅-28，为硅基量子芯片提供关键材料。",
-      "credibilityScore": 95,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源权威（央视新闻、36氪），信息具体且有数据支撑，技术细节明确。（多源覆盖 +5）"
+      "credibilityReason": "来源为知名科技媒体36氪，引用欧洲智库报告和国际能源署数据，信息具体有出处。"
     }
   ]
 }
