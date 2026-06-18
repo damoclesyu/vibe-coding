@@ -1,82 +1,14 @@
 {
-  "generatedAt": "2026-06-17T04:41:30.477Z",
+  "generatedAt": "2026-06-18T04:24:03.029Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "国产大飞机 C919 发动机国内也能修了，四川国际成为全球首家获 PremierMRO 资质企业",
-      "link": "https://www.ithome.com/0/965/300.htm",
-      "pubDate": "Wed, 17 Jun 2026 03:54:54 GMT",
-      "contentSnippet": "IT之家 6 月 17 日消息，据中国航空新闻网报道，在上月底的首届 MRO 及航材供应链展会上，四川国际航空发动机维修有限公司（以下简称“四川国际”）正式成为 CFM 国际公司（以下简称“CFM 国际”）PremierMRO 服务商，为 CFMLEAP 发动机提供维护、维修和大修（MRO）服务。\n此次授权也标志着，四川国际正式成为中国首家 CFMLEAP 发动机 PremierMRO 服务商，也是全球首家获得中国商飞 C919 飞机配套 LEAP-1C 发动机 PremierMRO 资质的企业。\n此外，四川国际还将获得 LEAP-1A 和 LEAP-1B 发动机的维修授权，分别服务于空客 A",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "四川国际获全球首家C919发动机PremierMRO资质",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家，引用中国航空新闻网，信息具体且逻辑清晰"
-    },
-    {
-      "title": "国内首个：腾讯、淘天、淘宝闪购、美团、京东、拼多多、抖音等 11 家平台企业在广州成立反内卷平台联盟",
-      "link": "https://www.ithome.com/0/965/220.htm",
-      "pubDate": "Wed, 17 Jun 2026 02:30:45 GMT",
-      "contentSnippet": "IT之家 6 月 17 日消息，据广州市场监管消息，6 月 15 日，“反内卷式竞争促高质量发展”平台联盟成立仪式暨平台合规培训活动在广州举办。\n活动现场宣布成立国内首个“反内卷式竞争促高质量发展”平台联盟，联盟成员包括唯品会、腾讯、淘天、淘宝闪购、美团、京东、抖音、小红书、快手、拼多多、远方好物等 11 家平台企业。\n联盟成员代表共同签署了《广东省网络交易平台企业协同共治共赢发展承诺书》，明确平台企业将建立常态化沟通联络、信息共享、合规指导、协同监管、支持发展等五项机制共 20 条细则，以公平竞争取代恶性竞争，共同推动行业合规发展。\nIT之家获悉，联盟承诺：\n\n全面规范竞争行为，守牢公平竞争",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "11家平台企业在广州成立反内卷联盟，签署承诺书推动公平竞争。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家，引用广州市场监管官方信息，内容具体且有承诺书细节。"
-    },
-    {
-      "title": "台积电与 Amkor 围绕亚利桑那先进封装产能达成 10 年期合作",
-      "link": "https://www.ithome.com/0/965/212.htm",
-      "pubDate": "Wed, 17 Jun 2026 02:15:47 GMT",
-      "contentSnippet": "IT之家 6 月 17 日消息，全球第二大 OSAT（外包封测）企业 Amkor（安靠）本月 16 日宣布与台积电 (TSMC) 达成一份 10 年长期合作协议，提升美国亚利桑那州的先进半导体封装能力，加强并加速对美国半导体供应链生态系统的投资。\n这一协议为台积电从 Amkor 采购先进封装和测试服务建立了合作框架。通过携手扩大产能，两家公司旨在建立更高效、互惠互利的运营模式，打造一个更加一体化、更具韧性的半导体供应链，增强满足客户不断变化的需求的能力。\n\n台积电资深副总经理兼副联席首席运营官张晓强表示：\n\n我们很高兴与合作伙伴 Amkor 签署这项协议。我们与 Amkor 在全球先进封装领域",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "台积电与Amkor达成10年合作，提升美国亚利桑那州先进封装产能。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，内容具体且有高管引述，逻辑清晰。"
-    },
-    {
-      "title": "古尔曼爆料苹果布局 2028 款 iPhone：升级 1.4nm 工艺，性能较 2nm 提升 15%",
-      "link": "https://www.ithome.com/0/965/205.htm",
-      "pubDate": "Wed, 17 Jun 2026 01:59:01 GMT",
-      "contentSnippet": "IT之家 6 月 17 日消息，在今天发布的 Power On 实时通讯中，彭博社马克 · 古尔曼（Mark Gurman）透露苹果公司计划为 2028 年的 iPhone 高端机型，规划使用 1.4nm 工艺的 A22 Pro 芯片，性能较 2nm 工艺最高提升 15%。\n代工厂商方面，台积电依然是苹果公司的首选合作伙伴，不过古尔曼透露苹果公司有意分流部分订单给英特尔，从而进一步多元化供应链生态。\n在工艺方面，苹果 iPhone 17 系列使用第 3 代 N3P 3 纳米工艺，而今年 9 月登场的 iPhone 18 Pro、iPhone 18 Pro Max 以及折叠 iPhone（预估名",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "古尔曼爆料苹果2028年iPhone将用1.4nm工艺，性能比2nm提升15%。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，引用彭博社古尔曼爆料，但缺乏官方确认和具体数据支撑。"
-    },
-    {
-      "title": "鸿蒙智行全面引入电池二供，国轩高科将上车问界｜36氪独家",
-      "link": "https://36kr.com/p/3855879311823873?f=rss",
-      "pubDate": "2026-06-16 21:24:26  +0800",
-      "contentSnippet": "今年以来，市场竞争进一步加剧，内存等供应链成本大幅攀升，寻求供应链降本、使产品定价更具竞争力，成了汽车行业更为迫切的课题。\n在这样的背景下，36氪从多位产业人士处了解到，稳居中高端市场的鸿蒙智行也开始全面引入多家动力电池供应商。\n“除了尊界短期内规模支撑不了第二家，其他界可能都会引入多元电池供应商。”有知情人士透露。\n据36氪了解，其中，长期由宁德时代独供的问界品牌，将引入中创新航、国轩高科两家二线电池供应商，问界M6现已定点了国轩高科的81度电池包，有知情人士透露，去年国轩高科便已收到了鸿蒙智行的定点信，中创新航也将进入问界的供应体系。\n而就在2022年8月，赛力斯曾与宁德时代签署了五年长期",
+      "title": "宗馥莉任职上海焱橙贸易公司",
+      "link": "https://36kr.com/newsflashes/3858166794818820?f=rss",
+      "pubDate": "2026-06-18 12:14:55  +0800",
+      "contentSnippet": "36氪获悉，天眼查工商信息显示，近日，上海焱橙贸易有限公司发生工商变更，祝丽丹卸任执行董事，陈佳卸任法定代表人、总经理，新进宗馥莉担任法定代表人、经理、董事。\n该公司成立于2024年3月，注册资本100万人民币，经营范围包括食品销售、供应链管理服务、婴幼儿配方乳粉及其他婴幼儿配方食品销售等。股东信息显示，该公司由浙江宏翊控股集团有限公司全资持股。",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -84,101 +16,34 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "鸿蒙智行引入国轩高科等二供，问界M6将用其81度电池包。",
+      "aiSummary": "宗馥莉接任上海焱橙贸易公司法定代表人及高管。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，信息具体且有产业人士透露，逻辑清晰。"
+      "credibilityReason": "来源36氪为知名科技媒体，信息基于天眼查工商数据，具体且客观。"
     },
     {
-      "title": "乘新浪潮之势，建智造创新之城，2026年番禺产业高质量发展招商大会圆满举行",
-      "link": "https://36kr.com/p/3855628692001799?f=rss",
-      "pubDate": "2026-06-16 17:31:45  +0800",
-      "contentSnippet": "潮起湾区新机遇，科创赋能新番禺。6月16日上午，2026年番禺产业高质量发展招商大会在广州番禺良仓新造创意园举行，大会以“新浪潮·新番禺”为主题，旨在搭建高效政企对接、企企交流、资本赋能平台。\n大会由广州市番禺信息技术投资发展有限公司（下称“番禺信投”）、广州市番禺交通建设投资集团有限公司（下称“番禺交投”）、广州市番禺区新造镇房地产开发公司主办（下称“新造房地产公司”），中国农业银行股份有限公司广州华南支行协办（下称“农行广州华南支行”），36氪承办，汇聚行业智库、龙头企业、优质��目、头部投资机构等多方代表逾百人，以科创为媒、以产业为桥、以资本为翼，共商发展大计，共绘产业新篇。\n与此同时，",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "番禺举办产业招商大会，聚焦智造创新与政企合作。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，内容具体但缺乏技术细节和数据支撑。"
-    },
-    {
-      "title": "步步高在湘潭成立新公司，注册资本1000万",
-      "link": "https://36kr.com/newsflashes/3856764609451015?f=rss",
-      "pubDate": "2026-06-17 12:38:45  +0800",
-      "contentSnippet": "36氪获悉，天眼查App显示，近日，湘潭大信京迪科技发展有限公司成立，法定代表人为刘军，注册资本1000万人民币，经营范围包括房地产开发经营、建设工程施工、建设工程设计等，由步步高全资持股。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "步步高全资持股在湘潭成立新公司，注册资本1000万",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪知名科技媒体，信息具体有数据支撑，但内容较简略"
-    },
-    {
-      "title": "谷歌前CEO支持的创企Genesis推出AI工业机器人",
-      "link": "https://36kr.com/newsflashes/3856762798003202?f=rss",
-      "pubDate": "2026-06-17 12:30:56  +0800",
-      "contentSnippet": "当地时间6月16日，谷歌前CEO埃里克·施密特支持的初创公司Genesis AI宣布推出AI驱动的工业机器人Eno，这款通用机器人将能够推理、适应环境并承担超出预设任务范围的工作。Genesis计划今年年底开始生产Eno并向目标客户部署。（界面）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "谷歌前CEO支持的Genesis推出AI工业机器人Eno。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，内容具体且有原始出处（界面），但技术细节较少。"
-    },
-    {
-      "title": "“车顶维权”女车主就特斯拉名誉权案再审申请被驳回，法院认定“刹车失灵”无客观事实依据、构成诽谤行为",
-      "link": "https://www.ithome.com/0/965/329.htm",
-      "pubDate": "Wed, 17 Jun 2026 04:29:35 GMT",
-      "contentSnippet": "IT之家 6 月 17 日消息，据钱江晚报今日报道，上海车展特斯拉女车主车顶“维权”相关名誉权案再审审查结果出炉，河南张女士及封某的再审申请均被驳回。\n法院认定，张女士宣称的“特斯拉刹车失灵”并无客观事实依据，其行为方式已超出善意、合理、客观评论的限度，背离了监督、批评的目的，不能以消费者批评权为由免除侵权责任，构成诽谤行为。经一审、二审及再审审查，所有结论一致。\n对于此前被判决认定在该事件中起组织策划作用的封某所提起的再审申请，法院也予以驳回。同时，对于封某多次通过微博对特斯拉发表的相关言论，法院认定其侵犯了特斯拉名誉权，构成诽谤行为，需向特斯拉公开道歉。\n\n据IT之家此前报道，2021 年",
+      "title": "CounterPoint 报告 2026 年第 20 周全球手机销量：华为涨 23% 同比增幅最大",
+      "link": "https://www.ithome.com/0/965/897.htm",
+      "pubDate": "Thu, 18 Jun 2026 04:14:13 GMT",
+      "contentSnippet": "IT之家 6 月 18 日消息，市场调研机构 Counterpoint Research 于 6 月 16 日发布博文，报告称 2026 年第 20 周（5 月 11 日至 17 日）全球智能手机销量同比下降 8%，已连续 9 周负增长。\n细分到品牌方面，在前 6 名中，仅有苹果（同比增长 10%）和华为（同比增长 23%）两家公司实现正增长。\n该机构认为得益于苹果强大的供应链体系掌控力，以及更灵活的定价和促销策略，在今年第 20 周销量同比增长 10%。\n\n根据图表数据显示，华为在今年第 20 周销量同比增长 23%。该机构副总监 Sujeong Lim 表示：“华为凭借国内政策支持和本地化",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
-        "IT之家"
+        "IT之家",
+        "InfoQ中文"
       ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "法院驳回特斯拉维权女车主再审申请，认定刹车失灵无依据构成诽谤。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，引用钱江晚报报道，内容具体有法院判决细节，逻辑清晰。"
-    },
-    {
-      "title": "我国成功发射卫星互联网低轨 22 组卫星",
-      "link": "https://www.ithome.com/0/965/328.htm",
-      "pubDate": "Wed, 17 Jun 2026 04:26:18 GMT",
-      "contentSnippet": "IT之家 6 月 17 日消息，据央视新闻报道，北京时间 2026 年 6 月 17 日 10 时 44 分，我国在海南商业航天发射场使用长征十二号运载火箭，成功将卫星互联网低轨 22 组卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。\n\n据IT之家了解，卫星互联网低轨卫星是中国星网（GW）星座的组成部分。GW 星座是我国首个巨型卫星互联网计划，规划 12992 颗卫星，为全球第二大规模低轨星座，采用极低轨（500km 以下）+ 近地轨（1145km）双层架构，兼顾低时延与广覆盖需求；预计 2026 年底可建成骨干网，率先实现全国覆盖。\n2026 年政府工作报告提出，打造航空航天、低",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "我国成功发射卫星互联网低轨22组卫星，推进GW星座建设。",
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "CounterPoint报告显示2026年第20周全球手机销量同比降8%，华为增23%领涨。",
       "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源权威（央视、IT之家），信息具体有数据支撑，时效性强。"
+      "credibilityReason": "来源为知名科技媒体，引用权威机构CounterPoint数据，信息具体有出处。（多源覆盖 +5）"
     },
     {
-      "title": "四维图新：目前和特斯拉没有合作",
-      "link": "https://36kr.com/newsflashes/3856766858499337?f=rss",
-      "pubDate": "2026-06-17 12:26:07  +0800",
-      "contentSnippet": "36氪获悉，四维图新在互动平台表示，公司目前和特斯拉没有合作。",
+      "title": "顺丰同城在海南成立供应链公司",
+      "link": "https://36kr.com/newsflashes/3858137178461193?f=rss",
+      "pubDate": "2026-06-18 11:47:57  +0800",
+      "contentSnippet": "36氪获悉，天眼查App显示，近日，山海食集（海南）供应链有限公司成立，法定代表人为李政道，注册资本1500万人民币，经营范围包括供应链管理服务、航空国际货物运输代理、陆路国际货物运输代理等。股东信息显示，该公司由顺丰同城旗下深圳市顺丰同城物流有限公司全资持股。",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -186,16 +51,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "四维图新澄清与特斯拉暂无合作。",
+      "aiSummary": "顺丰同城在海南成立供应链公司，注册资本1500万。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体36氪，内容明确引用公司官方声明，信息具体且客观。"
+      "credibilityReason": "来源为知名科技媒体36氪，信息具体有数据支撑，逻辑清晰。"
     },
     {
-      "title": "迎接新世代平台：消息称宝马将从 7 月份开始停产所有的国产纯电车型，包含 i3、i5、iX1",
-      "link": "https://www.ithome.com/0/965/327.htm",
-      "pubDate": "Wed, 17 Jun 2026 04:23:53 GMT",
-      "contentSnippet": "IT之家 6 月 17 日消息，据宝马客消息，相关渠道透露，宝马将从 7 月份开始停产所有的国产纯电车型 ——i3、i5、iX1。这意味着华晨宝马所有国产纯电车型即将全部下架。\n随着新世代平台的推进，这三款基于 CLAR 油电共生平台打造的车型，即将在 7 月同步迎来生命周期终点。\n\n▲ 宝马 i3，图源 BMW 中国官网、下同\n据IT之家此前报道，2022 年 5 月 5 日，国产宝马 i3 于宝马集团位于沈阳生产基地的第三座整车工厂“里达工厂”下线，是宝马首款国产纯电轿车。\n新世代宝马 i3 长轴距版于今年 4 月完成全球首秀，新车基于 Neue Klasse（新世代）原生纯电平台开发，计",
+      "title": "教育部发布全国高校最新名单：共计 3196 所，含本科学校 1412 所",
+      "link": "https://www.ithome.com/0/965/826.htm",
+      "pubDate": "Thu, 18 Jun 2026 03:00:14 GMT",
+      "contentSnippet": "IT之家 6 月 18 日消息，教育部今日发布全国高等学校名单，截至 2026 年 6 月 17 日，全国高等学校共计 3196 所，其中：\n\n普通高等学校 2952 所，含本科学校 1412 所、高职（专科）学校 1540 所；\n\n成人高等学校 244 所。\n\n本名单未包含港澳台地区高等学校。\n\nIT之家小伙伴可以通过教育部的全国高等学校名单查询页面（https://hudong.moe.gov.cn/qggxmd/），查找某个学校是否在名单中，以及对应的办学层次，更好地避开“野鸡大学”。",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -203,16 +68,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "宝马7月起停产所有国产纯电车型，包括i3、i5、iX1。",
-      "credibilityScore": 70,
+      "aiSummary": "教育部公布全国高校名单，共3196所，含本科1412所。",
+      "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，内容具体但缺乏官方确认和细节支撑。"
+      "credibilityReason": "来源权威（IT之家引用教育部官方数据），信息具体且有查询链接。"
     },
     {
-      "title": "小米携手金山办公正式发布MiMo Claw",
-      "link": "https://36kr.com/newsflashes/3856752470529284?f=rss",
-      "pubDate": "2026-06-17 12:23:24  +0800",
-      "contentSnippet": "36氪获悉，6月16日晚，Xiaomi MiMo开放平台宣布，智能体产品MiMo Claw正式版全面上线。此次迭代更新联动金山办公，打造全链路文档办公闭环提效方案；新增多项 OpenClaw核心便捷能力；同时升级免费用户权益，并面向高频、专业用户上线 TokenPlan分层订阅，满足不同使用需求。",
+      "title": "2026 世界人工智能大会今年 7 月在上海举办，超 300 款 AI 产品全球首发",
+      "link": "https://www.ithome.com/0/965/775.htm",
+      "pubDate": "Thu, 18 Jun 2026 02:21:18 GMT",
+      "contentSnippet": "IT之家 6 月 18 日消息，据央视新闻报道，国务院新闻办公室于 6 月 17 日举行新闻发布会。会上介绍，今年 7 月中国将在上海举办 2026 世界人工智能大会暨人工智能全球治理高级别会议，期待以本次大会为契机，同各方进一步加强国际人工智能合作。\n今年的大会以“智能伙伴，共创未来”为主题，将于 7 月 17 日至 20 日举办，由外交部、科技部、工信部等 10 个部门与上海市政府共同主办。\n本届大会首次创办高水平国际学术会议“WAIC Academic”。图灵奖得主姚期智担任大会主席，“强化学习之父”理查德 · 萨顿任国际联席主席。会议已收到来自 11 个国家和地区的 284 篇有效投稿",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "2026世界人工智能大会7月在上海举办，超300款AI产品首发。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家，引用央视新闻和国务院发布会，信息具体且权威。"
+    },
+    {
+      "title": "福建东南西北科技集团完成亿元B轮、B+轮融资",
+      "link": "https://36kr.com/newsflashes/3858046998696962?f=rss",
+      "pubDate": "2026-06-18 10:08:21  +0800",
+      "contentSnippet": "36氪获悉，国内纺织AI与工业互联网企业福建东南西北科技集团（辅布司）宣布完成亿元B轮、B+轮融资。本轮融资由兴证创新资本、清远基金、马尾国资、广发乾和、榕投资本、鼓楼国投投资。依托本轮资本加持，公司将全面加速纺织行业AI大模型与AI智能体落地、智能制造基地升级及全球化布局，夯实企业高质量发展根基。",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -220,16 +102,68 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "小米与金山办公合作推出MiMo Claw智能体，提升文档办公效率。",
-      "credibilityScore": 75,
+      "aiSummary": "福建纺织AI企业获亿元B轮、B+轮融资，加速AI大模型落地。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体但缺乏技术细节和原始出处。"
+      "credibilityReason": "来源为知名科技媒体36氪，信息具体包括融资金额、投资方及用途，逻辑清晰。"
     },
     {
-      "title": "阿里入局具身智能：创业公司正在失去定义权",
-      "link": "https://www.tmtpost.com/8030653.html",
-      "pubDate": "Wed, 17 Jun 2026 12:22:00 +0800",
-      "contentSnippet": "阿里发布Qwen-Robot入局具身智能，行业在讨论模型参数——但大厂真正在卖的，从来不是模型，是标准。当接口规范被定义、数据飞轮开始转动，创业公司正在失去什么？",
+      "title": "氪星晚报｜菜鸟将在荷兰建设欧洲供应链履约中心；有道词典笔获2026 EdTech Breakthrough Award年度K-12教育科技应用大奖；国务院：深入实施“人工智能+”行动，探索人机协同的新型工作形态",
+      "link": "https://36kr.com/p/3857175761081348?f=rss",
+      "pubDate": "2026-06-17 20:08:32  +0800",
+      "contentSnippet": "大公司：\n监管约谈山姆后，沃尔玛中国多位高管变动\n36氪了解到，山姆会员商店中国 CMO（首席采购官）张青已于近日提交辞呈。此外，据36氪独家了解，沃尔玛中国本次人事变动还包括：Tony Paladinetti，现任沃尔玛国际部战略副总裁，将加入沃尔玛中国，担任沃尔玛中国战略副总裁，直接向朱晓静汇报。内部邮件称，Tony将在完成工作签证流程后于2026年8月正式加入中国团队，并与妻子Meg及孩子一起搬迁至深圳。现任沃尔玛中国战略副总裁杨智安将直接向Tony汇报。过渡期间，Neil Maffey，前任山姆会员商店首席采购官及现任全职顾问，将担任代理山姆会员商店首席采购官，直接向刘鹏，山姆会员商店",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪",
+        "钛媒体"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "菜鸟在荷兰建欧洲供应链中心，有道词典笔获奖，国务院推人工智能+行动。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体36氪和钛媒体，内容具体有细节，但部分信息为独家报道需核实。（多源覆盖 +5）"
+    },
+    {
+      "title": "恶意墙纸瞄准中俄 Steam 用户窃取其账号",
+      "link": "https://www.solidot.org/story?sid=84609",
+      "pubDate": "Wed, 17 Jun 2026 19:01:13 +0800",
+      "contentSnippet": "俄罗斯安全公司卡巴斯基对中俄 Steam 用户发出警告，恶意墙纸正在 Steam 创意工坊快速扩散，其目的是劫持他们的账号。攻击者利用了热门墙纸应用 Wallpaper Engine 创意工坊分享功能的漏洞，恶意程序隐藏在分享的壁纸包中。运行被感染的壁纸会导致 Steam 账号被盗，或者系统被植入后门或加密货币挖矿程序。安全研究人员在创意工坊发现了数十款恶意壁纸，每一款都被下载了数千次，甚至数万次。黑客主要针对中国 Steam 用户，墙纸的艺术风格和标题都专门针对中国玩家量身定制，中国玩家的下载量最多，占到了总下载量的  89.4%，其次是俄罗斯的 5.5%，新加坡 (1.4%)、香港 (0.",
+      "sourceName": "Solidot",
+      "sourceWeight": 75,
+      "allSources": [
+        "Solidot"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "卡巴斯基警告中俄Steam用户，恶意墙纸通过创意工坊窃取账号。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源可靠（Solidot），引用卡巴斯基报告，数据具体，逻辑清晰。"
+    },
+    {
+      "title": "吉利银河 TT 黑色款官图公布，全新 C 级 AI 纯电轿车",
+      "link": "https://www.ithome.com/0/965/909.htm",
+      "pubDate": "Thu, 18 Jun 2026 04:22:24 GMT",
+      "contentSnippet": "IT之家 6 月 18 日消息，吉利银河 TT 黑色款官图今日公布，定位“全新 C 级 AI 纯电轿车”，激光雷达、电动尾翼清晰可见。\n\n\n\n\n\n\nIT之家注意到，吉利银河官方昨日宣布，其全新 AI 科技 C 级纯电运动轿车正式命名吉利银河 TT。该车此前已完成工信部申报，采用全新的设计语言，封闭式前格栅搭配两侧狭长且圆润的前大灯组，整体造型呈现出年轻化的视觉效果。车尾部分配备贯穿式尾灯，两侧进行独特造型处理，配合造型夸张的后保险杠，进一步强化了整车的运动气质。\n车身尺寸方面，银河 TT 的长宽高分别为 4999mm、1919mm、1479mm，轴距 2920mm，定位中大型纯电轿车。动力系统",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "吉利银河TT黑色款官图发布，定位C级AI纯电轿车。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有尺寸和设计细节，但缺少技术参数和原始出处。"
+    },
+    {
+      "title": "执中者银联",
+      "link": "https://www.tmtpost.com/8029838.html",
+      "pubDate": "Thu, 18 Jun 2026 12:12:22 +0800",
+      "contentSnippet": "支付的本质是流动，资金、信息、数据，无一不在流动。然天下水流万殊，要让这些彼此隔绝的水流通成一片，靠的不是再添一条更汹涌的大河，而是有一处肯海纳百川的所在。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -237,28 +171,95 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "阿里发布Qwen-Robot入局具身智能，大厂定义标准，创业公司面临挑战。",
+      "aiSummary": "银联作为支付枢纽，整合资金信息数据流动。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体钛媒体，内容具体有深度分析，但缺乏技术细节和原始数据支撑。"
+      "credibilityReason": "钛媒体为知名科技媒体，内容逻辑清晰，但缺乏具体数据支撑。"
     },
     {
-      "title": "降幅 37.5%：英伟达上线 RTX Remix 1.5，《半条命 2：光追版》游戏从 80GB 压至 50GB",
-      "link": "https://www.ithome.com/0/965/326.htm",
-      "pubDate": "Wed, 17 Jun 2026 04:21:56 GMT",
-      "contentSnippet": "IT之家 6 月 17 日消息，英伟达昨日（6 月 16 日）发布公告，宣布正式推出 RTX Remix 1.5，新增 RTX IO 压缩技术，让《半条命 2：光追版》（Half-Life 2 RTX）游戏从 80GB 缩至 50GB（降幅 37.5%）。\nIT之家注：RTX Remix 是英伟达推出的经典游戏 Mod 制作平台，包含替换材质、重绘光源和添加光追特效的完整工具链，让 Modder 捕获场景、重建资产、添加光线追踪效果，将老旧游戏转化为现代画质。\n \n而 RTX IO 是英伟达的高性能存储技术，通过 GPU 直接解压缩游戏数据，降低 CPU 负载并加速加载速度。它支持从 NVMe",
+      "title": "Omdia 报告：XR 头戴设备市场预计 2027 年重返增长，行业重心从头显转向眼镜形态",
+      "link": "https://www.ithome.com/0/965/888.htm",
+      "pubDate": "Thu, 18 Jun 2026 04:10:05 GMT",
+      "contentSnippet": "IT之家 6 月 18 日消息，Omdia 今日发布最新预测，全球 XR 头戴设备（XR headwear）出货量将在 2026 年下降 12%，降至 620 万台。然而，市场预计将在 2027 年恢复增长，达到 650 万台，同比增长 4.8%。此次复苏主要将由 XR 眼镜的快速扩张推动，并抵消 XR 头显出货下滑的影响。消费者和厂商正越来越倾向于更轻便的眼镜形态，而不是体积更大的头显设备。\n\n报告提到，由雷鸟创新（RayNeo）和 Xreal 等中国厂商引领的外接式 XR 眼镜（tethered XR glasses）细分市场预计在 2026 年达到 90 万台，同比增长 19%，并保持双",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
-        "IT之家",
-        "Solidot"
+        "IT之家"
       ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "英伟达发布RTX Remix 1.5，通过RTX IO技术将《半条命2：光追版》从80GB压缩至50GB。",
-      "credibilityScore": 90,
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "Omdia预测XR头戴设备市场2027年恢复增长，眼镜形态成新趋势。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，信息具体有数据支撑，技术描述准确。（多源覆盖 +5）"
+      "credibilityReason": "来源IT之家为知名科技媒体，引用Omdia报告，数据具体且逻辑清晰。"
+    },
+    {
+      "title": "半日主力资金加仓电子股，抛售银行股",
+      "link": "https://36kr.com/newsflashes/3858164612273158?f=rss",
+      "pubDate": "2026-06-18 12:07:59  +0800",
+      "contentSnippet": "主力资金早间净流入电子、机械设备等板块，净流出公用事业、银行等板块。具体到个股来看，寒武纪、兆易创新、江西铜业获加仓43.64亿元、22.73亿元、20.51亿元；净流出方面，巨化股份、宁德时代、佰维存储遭抛售11.56亿元、8.62亿元、8.32亿元。（第一财经）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "半日主力资金加仓电子股，抛售银行股",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪为知名科技媒体，内容具体有数据支撑，引用第一财经原始出处"
+    },
+    {
+      "title": "玩了一天AI支付宝，张嘴就能点麦当劳、收能量，超级App开始卷Agent OS了",
+      "link": "https://www.ifanr.com/1669294?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pubDate": "Thu, 18 Jun 2026 04:05:50 +0000",
+      "contentSnippet": "一个新 App 时代开始了\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "sourceName": "爱范儿",
+      "sourceWeight": 82,
+      "allSources": [
+        "爱范儿"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "支付宝推出AI Agent OS，支持语音点餐和收能量。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体爱范儿，内容具体且逻辑清晰。"
+    },
+    {
+      "title": "恒指午间休盘跌1.7%，恒生科技指数跌1.38%",
+      "link": "https://36kr.com/newsflashes/3858159288751106?f=rss",
+      "pubDate": "2026-06-18 12:02:35  +0800",
+      "contentSnippet": "36氪获悉，恒指午间休盘跌1.7%，恒生科技指数跌1.38%；耐用消费品、汽车、食品板块领跌，泡泡玛特、赛力斯、小鹏集团跌超3%，百威亚太跌超2%；半导体、医药生物、软件服务板块走强，天数智芯涨超15%，复旦张江涨超11%，群核科技涨超3%；南向资金净流出7.23亿港元。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "恒指午盘跌1.7%，科技指数跌1.38%，半导体板块逆势走强。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪为知名科技媒体，数据具体、逻辑清晰，符合市场报道规范。"
+    },
+    {
+      "title": "1699 元起：猫头鹰首款处理器 AIO 液冷散热器 NL-LC1 国行发售",
+      "link": "https://www.ithome.com/0/965/871.htm",
+      "pubDate": "Thu, 18 Jun 2026 04:01:59 GMT",
+      "contentSnippet": "IT之家 6 月 18 日消息，Noctua（猫头鹰）首款处理器一体式 (AIO) 液冷散热器 NL-LC1 现已上架国内电商平台，定价为 240mm 款 1699 元、360mm 款 1899 元、420mm 款 2099 元，另可选配 NL-ACF1 辅助散热风扇。\n\nNL-LC1 系列基于 Asetek 广受认可的 Emma V2 高端平台打造，引入了猫头鹰专门开发的 NL-PNA1 水泵噪音吸收器结构。\n\n其支持三种水泵运行模式切换，搭载采用转速偏移设计的 NF-A12x25 G2 / NF-A14x25 G2 PWM 风扇，配套 SecuFirm2+ 安装系统、NT-H2 导热膏，享",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "猫头鹰首款AIO液冷散热器NL-LC1国行开售，定价1699元起",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，信息具体含价格、技术细节，逻辑清晰"
     }
   ]
 }
