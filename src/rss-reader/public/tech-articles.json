@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-19T04:51:37.046Z",
+  "generatedAt": "2026-06-20T04:06:28.866Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "传音控股正式递表港交所，2025 年营收近 656 亿元",
-      "link": "https://www.ithome.com/0/966/259.htm",
-      "pubDate": "Thu, 18 Jun 2026 13:45:24 GMT",
-      "contentSnippet": "IT之家 6 月 18 日消息，港交所文件显示：深圳传音控股股份有限公司向港交所提交上市申请书，独家保荐人为中信证券。\n\n传音控股 2025 年营业收入 655.91 亿元，同比下降 4.55%。净利润 25.81 亿元，同比下降 53.49%。\n公告称，其主要原因是：（1）受市场竞争及供应链成本影响，存储等元器件价格上涨较多，公司营业收入和毛利率有所下降；（2）公司持续科技创新、加大产品等研发投入，提升手机用户的终端体验及产品竞争力，研发费用较上年同期增加；同时，公司加大市场开拓及品牌宣传推广力度，销售费用较上年同期增加。\n\nIT之家从公告获悉，2025 年，该公司手机整体出货量约 1.69",
+      "title": "加拿大向特朗普“推销”中国电动汽车进口配额制，获对方点头称赞",
+      "link": "https://www.ithome.com/0/966/436.htm",
+      "pubDate": "Fri, 19 Jun 2026 15:02:37 GMT",
+      "contentSnippet": "IT之家 6 月 19 日消息，在法国举行的七国集团（G7）领导人峰会期间，美国总统特朗普与加拿大总理马克 · 卡尼（Mark Carney）的一段对话意外被现场麦克风记录了下来。特朗普对加拿大以配额方式允许中国电动汽车以较低关税进口的做法表达了认可。\n据加拿大媒体 Global News 及彭博社报道，在 G7 峰会圆桌讨论期间，加拿大总理马克 · 卡尼靠近特朗普，向他介绍了加拿大的电动汽车配额安排。\n卡尼告诉特朗普，加拿大设置了一个“不到我们市场 3%、49000 辆车”的上限，“这是个上限，硬性上限…… 我觉得你实际上会喜欢这个”。随后，特朗普点头回应说：“挺好的，我喜欢。”\n\n会后面对",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,85 +16,84 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "传音控股递表港交所，2025年营收656亿，净利降53%。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家较知名，引用港交所文件，数据具体，逻辑清晰。"
-    },
-    {
-      "title": "对垒高通骁龙最强芯片，曝三星酝酿 Exynos 2700 多个内存 / 频率版本",
-      "link": "https://www.ithome.com/0/966/326.htm",
-      "pubDate": "Fri, 19 Jun 2026 04:44:21 GMT",
-      "contentSnippet": "IT之家 6 月 19 日消息，科技媒体 Wccftech 昨日（6 月 18 日）发布博文，报道称三星为挑战高通，计划调整 Exynos 2700 芯片布局，提供 LPDDR6 与 LPDDR5X 内存选项，以及多种核心和频率配置。\nIT之家昨日（6 月 18 日）报道，高通正测试至少 6 款骁龙 8 Elite Gen 6 Pro 芯片样品，采用 2nm 工艺。而消息源 @phonefuturist 昨日爆料，三星 LSI 也计划对标高通，为 Exynos 2700 提供丰富的产品线。\n\n在技术方面，Exynos 2700 芯片计划采用三星最先进工艺 SF2P，搭载 ARM 最新的 C2",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "三星计划推出Exynos 2700多版本芯片，对标高通骁龙。",
+      "aiSummary": "加拿大向特朗普推销中国电动汽车进口配额制获认可。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体但依赖单一爆料，缺乏官方确认。"
+      "credibilityReason": "来源IT之家为知名科技媒体，引用Global News和彭博社，内容具体但缺乏原始音频或官方确认。"
     },
     {
-      "title": "端午假期首日，长三角铁路预计发送旅客415万人",
-      "link": "https://36kr.com/newsflashes/3859573474268166?f=rss",
-      "pubDate": "2026-06-19 12:37:00  +0800",
-      "contentSnippet": "从中国铁路上海局集团有限公司获悉，今日是端午小长假第一天，长三角铁路迎来假期客流高峰，预计发送旅客415万人。上铁集团在启用高峰运行图的基础上，加大对重点区段、重点时段和热门方向运力投放，计划增开长三角地区去往武汉、南昌、西安、洛阳、青岛等直通方向旅客列车65列，上海开往徐州、连云港、合肥、阜阳、温州等管内方向旅客列车152列，组织重联动车组列车312列，加挂普速客车64辆，努力满足假期旅客出行需要。（央视新闻）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
+      "title": "PCB 价格因中东冲突一月内上涨四成",
+      "link": "https://www.solidot.org/story?sid=84625",
+      "pubDate": "Fri, 19 Jun 2026 21:30:32 +0800",
+      "contentSnippet": "在内存和 SSD 之后，又一个计算机核心元件面临价格快速上涨。这一次是因为中东冲突导致生产高纯度树脂的沙特工厂停产。树脂是制造电路板（PCB）的基本原材料，位于沙特阿拉伯 Jubail 的一家工厂为陶氏化学与沙特阿美的合资企业，它供应了全球七成的高纯度 PPE 树脂。该公司于三月下旬因中东冲突关闭，4 月 6 日和 7 日还遭到导弹袭击。陶氏化学 CEO Jim Fitterling 此前表示公司预计物流和供应链恢复正常至少需要 275 天。高盛报告称 3 月到 4 月间 PCB 价格上涨了 40%。全球最大 PCB 制造商之一的胜宏科技警告中东冲突可能会推高铜和树脂的价格。替代树脂需要重新设",
+      "sourceName": "Solidot",
+      "sourceWeight": 75,
       "allSources": [
-        "36氪"
+        "Solidot"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "端午首日长三角铁路预计发送旅客415万人。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为36氪转载央视新闻，信息具体有数据支撑，权威可靠。"
-    },
-    {
-      "title": "美对德国药品定价启动301调查",
-      "link": "https://36kr.com/newsflashes/3859572611322886?f=rss",
-      "pubDate": "2026-06-19 12:14:08  +0800",
-      "contentSnippet": "美国贸易代表格里尔当地时间6月18日表示，美国已依据《1974年贸易法》第301条对德国启动调查。美国贸易代表办公室发声明称，调查将确定“德国对创新药品持续压低支付价格是否构成不合理或歧视性行为，并对美国商业造成负担或限制”。格里尔称：“特朗普总统已明确表示，不应让美国患者不成比例地承担全球药物研发的主要成本。”据彭博社报道，这为美国未来对德国商品征收报复性关税铺平道路。德国驻华盛顿大使馆未立即回应置评请求。（CCTV国际时讯）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "美国对德国药品定价启动301调查，可能加征关税。",
+      "aiSummary": "中东冲突致PCB原料树脂短缺，价格一月涨四成",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为36氪转载CCTV国际时讯，信息具体有原始出处，内容客观。"
+      "credibilityReason": "来源可靠(Solidot)，引用陶氏化学、高盛等具体数据，逻辑清晰"
     },
     {
-      "title": "Newzoo 报告 2025 年全球游戏收入首破 2000 亿美元，同比增长 9.1%",
-      "link": "https://www.ithome.com/0/966/325.htm",
-      "pubDate": "Fri, 19 Jun 2026 04:08:19 GMT",
-      "contentSnippet": "IT之家 6 月 19 日消息，市场分析机构 Newzoo 最新报告称 2025 年全球游戏市场收入首次突破 2000 亿美元，达到 2016 亿美元（IT之家注：现汇率约合 1.37 万亿元人民币），同比增长 9.1%。\n根据平台划分，PC 平台表现最为亮眼，得益于多款优质付费游戏，收入达 436 亿美元，同比增长 12%，刷新该平台有记录以来最大增幅纪录。\n\n而手游端依然是最大细分市场，收入 1133 亿美元，同比增长 10.7%，尽管下载量下降，但用户付费深度提升。\n主机端收入 447 亿美元，仅增长 2.8%，完整游戏购买和订阅服务贡献部分增长，但直播服务游戏表现疲软及任天堂生态收入下",
+      "title": "国家邮政局：加快推进无人车、无人机在邮政快递行业试点应用",
+      "link": "https://www.ithome.com/0/966/422.htm",
+      "pubDate": "Fri, 19 Jun 2026 12:46:48 GMT",
+      "contentSnippet": "IT之家 6 月 19 日消息，6 月 18 日，国家邮政局召开党组会议，审议《邮政业发展“十五五”规划》等文件。会议强调，要进一步强化邮政快递企业科技创新主体地位，深化科教融合、产教融合，培育壮大行业科技领军企业。要推动大数据、互联网、人工智能等新技术与邮政快递业更深度融合，加快推进无人车、无人机等在行业试点应用，加快智能派件、智能路由等先进技术应用。要加强高素质人才队伍建设，为推动行业高质量发展提供强有力的人才支撑。\n\n据IT之家此前报道，今年 1 月，国家邮政局在 2026 年全国邮政工作会议上明确，2026 年邮政行业将出台加快推广应用无人配送技术政策文件，深化无人车、无人机等在行业试",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
-        "IT之家",
-        "量子位"
+        "IT之家"
       ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "Newzoo报告2025年全球游戏收入首破2000亿美元，同比增长9.1%。",
-      "credibilityScore": 90,
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国家邮政局推动无人车无人机在快递业试点应用",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，引用权威机构Newzoo报告，数据具体且逻辑清晰。（多源覆盖 +5）"
+      "credibilityReason": "来源为知名科技媒体IT之家，内容具体且引用官方会议信息，逻辑清晰"
     },
     {
-      "title": "手机告别“白菜价”，苹果618顺势收割",
-      "link": "https://www.tmtpost.com/8033985.html",
-      "pubDate": "Fri, 19 Jun 2026 12:08:18 +0800",
-      "contentSnippet": "手机告别“白菜价”，已成了既定事实。对于多数“高不成”的国产品牌，更为严峻的课题是，拼不了价格，未来还能拼什么？",
+      "title": "奕境 X9 亮相香港车展并启动右舵版本开发，东风宣布五年推 55 款专属海外车型",
+      "link": "https://www.ithome.com/0/966/410.htm",
+      "pubDate": "Fri, 19 Jun 2026 12:19:23 GMT",
+      "contentSnippet": "IT之家 6 月 19 日消息，2026 国际汽车及供应链博览会（香港）昨日在香港亚洲国际博览馆揭幕。本届车博会以“驭电出海港通全球”为主题，汇聚了众多内地整车企业、供应链龙头及科技创新力量。\n东风汽车集团副总经理尤峥在展会现场发表主题演讲，正式发布了东风“天际扬帆”全球化战略。他表示，香港是联通内地与全球的国际化战略枢纽，是链接资本、市场与全球汽车产业的核心平台，东风将以香港为支点，加速全球右舵车型研发布局，全面覆盖全球右舵交通体系国家和地区。他同时宣布，未来五年东风将面向全球推出 55 款专属海外车型。\n作为“天际扬帆”战略下首款面向全球市场的旗舰车型，东风与华为乾崑“全栈原生共创”的高端",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "东风发布全球化战略，五年推55款海外车型，奕境X9亮相香港车展。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家可信，信息具体有数据支撑，但缺乏原始出处和细节验证。"
+    },
+    {
+      "title": "美联储释放“鹰派”信号 本周金价微涨银价大跌",
+      "link": "https://36kr.com/newsflashes/3860905883178248?f=rss",
+      "pubDate": "2026-06-20 11:52:39  +0800",
+      "contentSnippet": "受美元走强等因素推动，国际金价和银价周五下跌。纽约商品交易所8月交割的黄金期货价格尾盘跌幅超过1.7%；7月交割的白银期货价格下跌超2%。因纽商所提前结束交易，纽约黄金和白银期货当天没有收盘价。本周来看，由于美联储释放强于预期的“鹰派”信号，美元指数显著走强，令无息资产承压，纽约商品交易所黄金期货主力合约价格本周小幅上涨0.17%；纽约商品交易所白银期货主力合约价格本周下跌2.43%。由于白银兼具金融与工业双重属性，在美联储加息预期升温和全球工业需求走弱的双重打击下，银价跌幅更为显著。（央视财经）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "美联储鹰派信号致美元走强，金价微涨银价大跌。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体36氪，内容引用央视财经，信息具体有数据支撑。"
+    },
+    {
+      "title": "三天内连失两位传奇：谷歌的AI人才大坝，正在决堤？",
+      "link": "https://www.tmtpost.com/8034755.html",
+      "pubDate": "Sat, 20 Jun 2026 11:51:19 +0800",
+      "contentSnippet": "Google顶尖AI人才接连流向OpenAI与Anthropic，暴露其广告商业模式与AI使命的根本错位，人才版图正经历不可逆重组。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -102,16 +101,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "苹果在618促销中顺势收割，国产手机面临价格战失效困境。",
+      "aiSummary": "谷歌AI人才流失加剧，商业模式与使命错位导致人才版图重组。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体钛媒体，内容具体但缺少数据支撑和原始出处。"
+      "credibilityReason": "来自知名科技媒体，分析有逻辑，但缺乏具体数据和原始出处支撑。"
     },
     {
-      "title": "Waymo因存在驶入施工路段风险，召回3800余辆自动驾驶出租车",
-      "link": "https://36kr.com/newsflashes/3859411565532422?f=rss",
-      "pubDate": "2026-06-19 11:59:17  +0800",
-      "contentSnippet": "Waymo宣布召回数千辆自动驾驶出租车，隐患为车辆可能高速闯入高速公路施工路段。这家隶属于字母表集团、与谷歌同属兄弟企业的自动驾驶公司，针对旗下部分搭载第五代自动驾驶系统的车辆发起召回。此前已发生多起安全事件：车辆未能识别匝道封闭标识，径直驶入规划中的高速公路施工区域。（新浪财经）",
+      "title": "魔声推出 Open Ear AC229 开放式耳机：15x7mm 动圈、32 小时续航，209 元",
+      "link": "https://www.ithome.com/0/966/492.htm",
+      "pubDate": "Sat, 20 Jun 2026 03:50:58 GMT",
+      "contentSnippet": "IT之家 6 月 20 日消息，魔声旗下 Open Ear AC229 开放式耳机现已在京东发售，定价为 209 元，部分地区国补后低至 169.2 元。\n京东魔声 Open Ear AC229 耳机 209 元直达链接\n\n该耳机采用开放式设计，整体重量 5.6g，外覆亲肤液态硅胶材质，同时支持触控操作。耳机搭载 15x7mm 动圈，支持四麦克风 ENC 降噪通话，配备蓝牙 6.0 技术，单耳续航 8 小时，在搭配充电盒的情况下至高拥有 32 小时续航。\n\nIT之家附耳机参数：",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "魔声发布Open Ear AC229开放式耳机，售价209元，续航32小时。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体IT之家，信息具体有参数和价格，逻辑清晰。"
+    },
+    {
+      "title": "锦兴电厂1号机组一次并网成功",
+      "link": "https://36kr.com/newsflashes/3860902754555141?f=rss",
+      "pubDate": "2026-06-20 11:37:46  +0800",
+      "contentSnippet": "华电能源消息，6月18日18时，锦兴电厂1号机组顺利完成首次并网操作，实现一次并网圆满成功。机组炉、机、电、热控各系统运行平稳，各项关键运行参数优良可控。下一步，锦兴电厂将有序开展后续涉网试验及168小时满负荷试运行，同步加快推进2号机组整套启动各项筹备工作，按照已取得的排污许可，按量排污，按需排污，全力保障机组按期投产发电。（财联社）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -119,147 +135,132 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "Waymo因驶入施工路段风险召回3800余辆自动驾驶出租车。",
-      "credibilityScore": 80,
+      "aiSummary": "锦兴电厂1号机组首次并网成功，系统运行平稳。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，信息具体有数据支撑，引用新浪财经原始出处。"
+      "credibilityReason": "来源为36氪转载财联社，信息具体且引用华电能源官方消息。"
     },
     {
-      "title": "视频转码性能最高提升 215%：AMD 线程撕裂者 Threadripper 处理器突破 HandBrake 瓶颈",
-      "link": "https://www.ithome.com/0/966/324.htm",
-      "pubDate": "Fri, 19 Jun 2026 03:57:24 GMT",
-      "contentSnippet": "IT之家 6 月 19 日消息，AMD 昨日（6 月 17 日）发布公告，通过修复 HandBrake 软件的线程管理限制，线程撕裂者（Threadripper）系列处理器视频转码性能最高提升 215%。\nIT之家注：HandBrake 是一款免费开源的视频转码软件，支持转换视频编码格式（如 H.264 转 HEVC），广泛应用于视频压缩、调整格式兼容性等方面。\nHandBrake 原本仅设计支持最多 64 个逻辑处理器，在 Threadripper 拥有 64 核以上后，大量核心处于空闲状态。同时，部分任务被分割成过小的作业单元，导致 CPU 耗费大量时间在调度协调上，上述 2 个问题导致性",
+      "title": "“大学生维权”促使海南航空修改运输规定：只要航司原因造成航班提前，无论时长多少都能全额退票",
+      "link": "https://www.ithome.com/0/966/491.htm",
+      "pubDate": "Sat, 20 Jun 2026 03:28:39 GMT",
+      "contentSnippet": "IT之家 6 月 20 日消息，近期海南航空修改旗下运输规则，只要航司原因造成航班提前，无论时长多少，旅客都能办理非自愿变更或全额退票。作为比较，此前海航设置有所谓“15 分钟门槛”，也就是航班提前超 15 分钟才可免费退改签。\n\nIT之家综合新浪财经报道，本次海南航空修改旗下运输规则由一位广东金融学院大学生力争而来。这名学生购买了深圳飞往呼和浩特的早班机票，不过由于航司临时发通知将起飞时间提前 10 分钟，导致该学生额外花费百元在机场附近住宿。\n事后他向海航申请免费退改签，或是报销住宿开销，却被对方以“航班提前不足十五分钟不予赔付”为由拒绝。学生认为规则存在明显不公：旅客迟到会被判定违约、机",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "大学生维权促使海航修改规则，航司原因航班提前可全额退票。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体IT之家，内容具体有案例支撑，逻辑清晰，但缺少官方文件或原始出处。"
+    },
+    {
+      "title": "安卓最强 2nm 芯片：高通骁龙 8 Elite Gen 6 Pro 曝测试类三星 HPB 散热方案，但效果不如 Exynos",
+      "link": "https://www.ithome.com/0/966/490.htm",
+      "pubDate": "Sat, 20 Jun 2026 03:18:50 GMT",
+      "contentSnippet": "IT之家 6 月 20 日消息，科技媒体 Wccftech 昨日（6 月 19 日）发布博文，报道称在骁龙 8 Elite Gen 6 Pro 芯片上，高通尝试类似三星 HPB 的散热技术，但实施后效果不如 Exynos 芯片。\nIT之家注：HPB 全称为 Heat Path Block，是三星在 Exynos 2600 芯片中引入的散热技术，通过铜基散热块直接接触应用处理器（AP），利用铜的高导热性迅速传导芯片热量至散热结构，从而降低芯片温度、提升性能稳定性。\n\n消息源 @Reptalicant 昨日在 X 平台发布推文，爆料称高通有意模仿三星的 HPB 技术，来进一步增强骁龙 8 Elit",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "高通骁龙8 Elite Gen 6 Pro测试类似三星HPB散热技术，效果不及Exynos。",
+      "credibilityScore": 65,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为IT之家转载Wccftech，信息具体但依赖单一X平台爆料，缺乏官方确认。"
+    },
+    {
+      "title": "微星“MAG 321UP QD-OLED X24”31.5 英寸显示器发售：4K 240Hz QD-OLED，5999 元",
+      "link": "https://www.ithome.com/0/966/483.htm",
+      "pubDate": "Sat, 20 Jun 2026 03:10:04 GMT",
+      "contentSnippet": "IT之家 6 月 20 日消息，微星旗下“MAG 321UP QD-OLED X24”31.5 英寸显示器目前已在京东发售，该机主打 4K 240Hz，定价为 5999 元。\n京东微星 流光 X24 MAG 321UP5999 元直达链接\n\nMAG 321UP QD-OLED X24 基于第 4 代 QD-OLED 面板（3840x2160 分辨率 240Hz 刷新率），因此其仍采用了 Square-Stripe 子像素排列、5 层 Tandem OLED、EL Gen 3 技术。\n该显示器 SDR 亮度 300nits、HDR 峰值亮度 1300nits，GtG 响应时间 0.03ms，获得",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
         "IT之家",
-        "InfoQ中文"
+        "钛媒体",
+        "Solidot"
+      ],
+      "coverageCount": 3,
+      "coverageBoost": 10,
+      "aiSummary": "微星发布31.5英寸4K 240Hz QD-OLED显示器，售价5999元",
+      "credibilityScore": 95,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自IT之家等知名科技媒体，信息具体有技术参数和价格，逻辑清晰（多源覆盖 +10）"
+    },
+    {
+      "title": "韩媒：韩国股市总市值首次突破8000万亿韩元",
+      "link": "https://36kr.com/newsflashes/3860901354148867?f=rss",
+      "pubDate": "2026-06-20 11:09:14  +0800",
+      "contentSnippet": "据韩联社报道，随着韩国综合股价指数（KOSPI）延续前一交易日的上涨势头，韩国股市总市值于19日史上首次突破8000万亿韩元（约合人民币35.3万亿元）。（中新经纬）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "韩国股市总市值首次突破8000万亿韩元",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体36氪，引用韩联社报道，信息具体且有数据支撑"
+    },
+    {
+      "title": "英特尔 AMD 世纪破冰完善 x86 生态，ACE 规范 1.15 公布增强 AI 算力",
+      "link": "https://www.ithome.com/0/966/482.htm",
+      "pubDate": "Sat, 20 Jun 2026 03:05:48 GMT",
+      "contentSnippet": "IT之家 6 月 20 日消息，科技媒体 Wccftech 昨日（6 月 19 日）发布博文，报道称 x86 生态系统咨询小组（EAG）发布 ACE 规范 1.15 版本，通过原生矩阵乘法引擎和低精度格式增强 x86 架构的 AI 性能。\n\nIT之家注：为应对 AI 任务的挑战，英特尔和 AMD 公司于 2024 年“世纪破冰”，联合成立了 EAG 小组，协调 x86 架构的未来演进方向，进一步推动 x86 生态规范化和标准化。\nACE 全称为 AI Compute Extensions，是一组专为加速人工智能与机器学习负载设计的 x86 指令集，其核心目标是优化矩阵乘法运算（深度学习中最频繁",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "英特尔与AMD合作发布ACE 1.15规范，增强x86架构AI算力。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，引用Wccftech报道，内容具体且逻辑清晰。"
+    },
+    {
+      "title": "“NAS 型迷你主机”铭凡 N5 MAX 发售：锐龙 AI Max+ 395、配 64G RAM + 128G SSD 售 16999 元",
+      "link": "https://www.ithome.com/0/966/481.htm",
+      "pubDate": "Sat, 20 Jun 2026 02:55:21 GMT",
+      "contentSnippet": "IT之家 6 月 20 日消息，铭凡（Minisforum）旗下 N5 MAX 迷你主机现已在京东发售，该机搭载 AMD Ryzen AI Max+ 395 处理器，匹配 64GB RAM 和 128GB 存储空间，定价为 16999 元。\n\n\n这款主机可同时安装 5 块 M.2 固态硬盘（总计 40TB）和 5 块机械硬盘（总计 150TB），整体存储规模最高可达 190TB。同时设备提供 1 个 PCIe 4.0 x4 的 M.2 2280 插槽、1 个 PCIe 4.0 x1 的 M.2 2230/2280 插槽，以及 3 个 PCIe 4.0 x1 的 M.2 2280 插槽。\n\n接口",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家",
+        "钛媒体"
       ],
       "coverageCount": 2,
       "coverageBoost": 5,
-      "aiSummary": "AMD修复HandBrake线程限制，Threadripper视频转码性能最高提升215%。",
+      "aiSummary": "铭凡N5 MAX迷你主机发售，搭载锐龙AI Max+ 395，64G RAM+128G SSD售16999元。",
       "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来自IT之家和InfoQ中文，内容具体有数据支撑，逻辑清晰，技术细节准确。（多源覆盖 +5）"
+      "credibilityReason": "来源为知名科技媒体IT之家和钛媒体，内容具体有产品细节和价格，但缺少原始出处链接。（多源覆盖 +5）"
     },
     {
-      "title": "Meta或同数据中心公司Crusoe签署AI算力协议",
-      "link": "https://36kr.com/newsflashes/3859409018770438?f=rss",
-      "pubDate": "2026-06-19 11:47:43  +0800",
-      "contentSnippet": "据报道，Meta与数据中心公司Crusoe签署AI算力合作协议，预计将获得约1.6吉瓦算力。（界面）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
+      "title": "年内累跌27%后评级上调，最神秘大数据公司Palantir被高估了吗？",
+      "link": "https://www.tmtpost.com/8034822.html",
+      "pubDate": "Sat, 20 Jun 2026 10:54:34 +0800",
+      "contentSnippet": "华尔街认可它的业务，却恐惧它的价格。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
       "allSources": [
-        "36氪"
+        "钛媒体"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "Meta与Crusoe签署AI算力协议，预计获1.6吉瓦算力。",
+      "aiSummary": "Palantir年内跌27%后获评级上调，分析其估值是否合理。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，信息具体有数据支撑，但为转载报道，缺乏原始出处细节。"
-    },
-    {
-      "title": "亚马逊员工遭公司内部调查，曾公开批评数据中心扩张",
-      "link": "https://36kr.com/newsflashes/3859409625256963?f=rss",
-      "pubDate": "2026-06-19 11:47:18  +0800",
-      "contentSnippet": "一群亚马逊工程师公开批评企业疯狂扩张人工智能数据中心，并呼吁政府加强监管，如今他们正遭到公司内部调查。本月早些时候，美国西雅图市议会就一项政策征集公众意见：当地计划暂停新建大型数据中心项目为期一年，为城市完善相关监管规则留出时间。共有五名亚马逊员工出席听证会并作证。6月9日，西雅图市议会全票通过了这项暂停建设的禁令。（新浪财经）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "亚马逊员工因批评AI数据中心扩张遭内部调查，西雅图通过暂停建设禁令。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体有事件细节和引用，但缺乏原始出处链接。"
-    },
-    {
-      "title": "奖金差距逼近 100 倍：三星内部矛盾激化，部分员工身着黑衣集体抗议",
-      "link": "https://www.ithome.com/0/966/322.htm",
-      "pubDate": "Fri, 19 Jun 2026 03:41:37 GMT",
-      "contentSnippet": "IT之家 6 月 19 日消息，科技媒体 Wccftech 昨日（6 月 18 日）发布博文，报道称由于部门间奖金差距逼近 100 倍，导致三星公司内部矛盾激化，部分员工于昨日身着黑衣，佩戴黑色口罩集体抗议。\n\n\n消息称参与本次抗议的员工主要来自三星设备体验（DX）部门，该部门涵盖移动设备、显示器和数字家电等业务。在韩国文化中，黑色虽可象征智慧，但也常用于表达死亡、哀悼和悲痛。鉴于当前的劳资冲突，这一行为被普遍解读为对不公待遇的抗议。\n基于市场对三星今年经营利润可达 300 万亿韩元的预期，每位三星半导体（Device Solutions）的员工今年仅奖金一项就能获得约 6 亿韩元（IT之家注",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "三星因奖金差距近100倍引发员工黑衣抗议。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有部门细节，但缺少原始数据验证。"
-    },
-    {
-      "title": "深圳传音控股股份有限公司递表港交所",
-      "link": "https://36kr.com/newsflashes/3859407547257856?f=rss",
-      "pubDate": "2026-06-19 11:33:13  +0800",
-      "contentSnippet": "36氪获悉，据港交所文件，深圳传音控股股份有限公司向港交所提交上市申请书，独家保荐人为中信证券。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "传音控股向港交所提交上市申请，独家保荐人为中信证券。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体36氪，信息具体且有港交所文件出处，内容客观。"
-    },
-    {
-      "title": "因AI安全隐患遭监管，Anthropic承诺加强与美政府沟通",
-      "link": "https://36kr.com/newsflashes/3859408242004996?f=rss",
-      "pubDate": "2026-06-19 11:23:56  +0800",
-      "contentSnippet": "据报道，Anthropic高管向商务部长霍华德·卢特尼克提交一份方案，承诺与白宫展开更深度合作，力求尽快消除各类安全隐患；正是相关安全问题，使得该公司高性能AI模型“Mythos”与“Fable”遭到监管整治。一位知情人士周四透露，双方仍在进行整改磋商，Anthropic在会谈中承诺将加强与特朗普政府的沟通，未来更快处置各类安全风险。（新浪财经）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "Anthropic因AI安全隐患遭监管，承诺加强与美政府沟通。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体且有新浪财经引用，但缺乏原始出处细节。"
-    },
-    {
-      "title": "Link 卫星 6 月 27 日发射：10 个月打造，拯救 5 亿美元价值雨燕天文卫星",
-      "link": "https://www.ithome.com/0/966/321.htm",
-      "pubDate": "Fri, 19 Jun 2026 03:23:33 GMT",
-      "contentSnippet": "IT之家 6 月 19 日消息，科技媒体 Ars Technica 昨日（6 月 18 日）发布博文，报道称造价约 3000 万美元的 Link 卫星计划 6 月 27 日发射，前往太空拯救价值约 5 亿美元（IT之家注：现汇率约合 33.92 亿元人民币）的尼尔 · 格雷尔斯雨燕天文台。\n\nIT之家注：尼尔 · 格雷尔斯雨燕天文台（Neil Gehrels Swift Observatory）于 2004 年 11 月发射，主要任务是探测宇宙中最强烈的伽马射线暴。\n由于雨燕天文台没有自身推进器维持轨道，在太阳活动高峰导致大气层膨胀的背景下，其轨道高度从初始的 585 千米持续衰减至目前的 3",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "Link卫星6月27日发射，拯救价值5亿美元的雨燕天文台。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用Ars Technica，信息具体有数据支撑。"
-    },
-    {
-      "title": "英国6月份消费者信心持续低迷",
-      "link": "https://36kr.com/newsflashes/3859407273448709?f=rss",
-      "pubDate": "2026-06-19 11:16:54  +0800",
-      "contentSnippet": "周五公布的一项调查显示，英国6月份消费者信心持续低迷。在政治不确定性的背景下，年轻人对经济和个人财务状况的悲观情绪有所加剧。GfK的英国6月份消费者信心指数维持在-23，与5月份持平，略高于路透社调查的经济学家预测的-24。（新浪财经）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "英国6月消费者信心指数维持-23，年轻人悲观加剧。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，内容具体有数据支撑，引用GfK指数和路透社预测。"
+      "credibilityReason": "来源为知名科技媒体钛媒体，内容具体有数据支撑，但缺乏原始出处引用。"
     }
   ]
 }
