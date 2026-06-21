@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-20T04:06:28.866Z",
+  "generatedAt": "2026-06-21T04:47:47.114Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "加拿大向特朗普“推销”中国电动汽车进口配额制，获对方点头称赞",
-      "link": "https://www.ithome.com/0/966/436.htm",
-      "pubDate": "Fri, 19 Jun 2026 15:02:37 GMT",
-      "contentSnippet": "IT之家 6 月 19 日消息，在法国举行的七国集团（G7）领导人峰会期间，美国总统特朗普与加拿大总理马克 · 卡尼（Mark Carney）的一段对话意外被现场麦克风记录了下来。特朗普对加拿大以配额方式允许中国电动汽车以较低关税进口的做法表达了认可。\n据加拿大媒体 Global News 及彭博社报道，在 G7 峰会圆桌讨论期间，加拿大总理马克 · 卡尼靠近特朗普，向他介绍了加拿大的电动汽车配额安排。\n卡尼告诉特朗普，加拿大设置了一个“不到我们市场 3%、49000 辆车”的上限，“这是个上限，硬性上限…… 我觉得你实际上会喜欢这个”。随后，特朗普点头回应说：“挺好的，我喜欢。”\n\n会后面对",
+      "title": "全球仅 19 台的日产 GT-R50 将在日本拍卖，预估成交价最高达 1.55 亿日元",
+      "link": "https://www.ithome.com/0/966/631.htm",
+      "pubDate": "Sun, 21 Jun 2026 04:32:45 GMT",
+      "contentSnippet": "IT之家 6 月 21 日消息，当年日产联合意大利设计公司 Italdesign 发布 GT-R50 时，外界都以为这款概念车只会常年在各大车展的旋转展台上循环展出。可出人意料的是，这款车短暂实现了量产，如今，为数不多落地投产的实车之一即将在日本开拍。\n\nGT-R50 诞生于 2018 年，是一款限量定制车型，用以纪念日产 GT-R 车系与意大利设计公司 Italdesign 双双问世 50 周年。最初规划全球限量 50 台，但实际生产并未如愿。据消息称，项目提前终止时，仅生产了 19 台整车。\n疫情带来的供应链冲击，加上近百万美元的定价，让这款车很难集齐足够买家。这一点其实并不难理解：普通版",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,67 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "加拿大向特朗普推销中国电动汽车进口配额制获认可。",
+      "aiSummary": "日产GT-R50限量19台将拍卖，预估成交价高达1.55亿日元。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，引用Global News和彭博社，内容具体但缺乏原始音频或官方确认。"
+      "credibilityReason": "来源IT之家可信，内容具体有数据支撑，但缺乏官方拍卖行确认。"
     },
     {
-      "title": "PCB 价格因中东冲突一月内上涨四成",
-      "link": "https://www.solidot.org/story?sid=84625",
-      "pubDate": "Fri, 19 Jun 2026 21:30:32 +0800",
-      "contentSnippet": "在内存和 SSD 之后，又一个计算机核心元件面临价格快速上涨。这一次是因为中东冲突导致生产高纯度树脂的沙特工厂停产。树脂是制造电路板（PCB）的基本原材料，位于沙特阿拉伯 Jubail 的一家工厂为陶氏化学与沙特阿美的合资企业，它供应了全球七成的高纯度 PPE 树脂。该公司于三月下旬因中东冲突关闭，4 月 6 日和 7 日还遭到导弹袭击。陶氏化学 CEO Jim Fitterling 此前表示公司预计物流和供应链恢复正常至少需要 275 天。高盛报告称 3 月到 4 月间 PCB 价格上涨了 40%。全球最大 PCB 制造商之一的胜宏科技警告中东冲突可能会推高铜和树脂的价格。替代树脂需要重新设",
-      "sourceName": "Solidot",
-      "sourceWeight": 75,
-      "allSources": [
-        "Solidot"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中东冲突致PCB原料树脂短缺，价格一月涨四成",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源可靠(Solidot)，引用陶氏化学、高盛等具体数据，逻辑清晰"
-    },
-    {
-      "title": "国家邮政局：加快推进无人车、无人机在邮政快递行业试点应用",
-      "link": "https://www.ithome.com/0/966/422.htm",
-      "pubDate": "Fri, 19 Jun 2026 12:46:48 GMT",
-      "contentSnippet": "IT之家 6 月 19 日消息，6 月 18 日，国家邮政局召开党组会议，审议《邮政业发展“十五五”规划》等文件。会议强调，要进一步强化邮政快递企业科技创新主体地位，深化科教融合、产教融合，培育壮大行业科技领军企业。要推动大数据、互联网、人工智能等新技术与邮政快递业更深度融合，加快推进无人车、无人机等在行业试点应用，加快智能派件、智能路由等先进技术应用。要加强高素质人才队伍建设，为推动行业高质量发展提供强有力的人才支撑。\n\n据IT之家此前报道，今年 1 月，国家邮政局在 2026 年全国邮政工作会议上明确，2026 年邮政行业将出台加快推广应用无人配送技术政策文件，深化无人车、无人机等在行业试",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国家邮政局推动无人车无人机在快递业试点应用",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，内容具体且引用官方会议信息，逻辑清晰"
-    },
-    {
-      "title": "奕境 X9 亮相香港车展并启动右舵版本开发，东风宣布五年推 55 款专属海外车型",
-      "link": "https://www.ithome.com/0/966/410.htm",
-      "pubDate": "Fri, 19 Jun 2026 12:19:23 GMT",
-      "contentSnippet": "IT之家 6 月 19 日消息，2026 国际汽车及供应链博览会（香港）昨日在香港亚洲国际博览馆揭幕。本届车博会以“驭电出海港通全球”为主题，汇聚了众多内地整车企业、供应链龙头及科技创新力量。\n东风汽车集团副总经理尤峥在展会现场发表主题演讲，正式发布了东风“天际扬帆”全球化战略。他表示，香港是联通内地与全球的国际化战略枢纽，是链接资本、市场与全球汽车产业的核心平台，东风将以香港为支点，加速全球右舵车型研发布局，全面覆盖全球右舵交通体系国家和地区。他同时宣布，未来五年东风将面向全球推出 55 款专属海外车型。\n作为“天际扬帆”战略下首款面向全球市场的旗舰车型，东风与华为乾崑“全栈原生共创”的高端",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "东风发布全球化战略，五年推55款海外车型，奕境X9亮相香港车展。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家可信，信息具体有数据支撑，但缺乏原始出处和细节验证。"
-    },
-    {
-      "title": "美联储释放“鹰派”信号 本周金价微涨银价大跌",
-      "link": "https://36kr.com/newsflashes/3860905883178248?f=rss",
-      "pubDate": "2026-06-20 11:52:39  +0800",
-      "contentSnippet": "受美元走强等因素推动，国际金价和银价周五下跌。纽约商品交易所8月交割的黄金期货价格尾盘跌幅超过1.7%；7月交割的白银期货价格下跌超2%。因纽商所提前结束交易，纽约黄金和白银期货当天没有收盘价。本周来看，由于美联储释放强于预期的“鹰派”信号，美元指数显著走强，令无息资产承压，纽约商品交易所黄金期货主力合约价格本周小幅上涨0.17%；纽约商品交易所白银期货主力合约价格本周下跌2.43%。由于白银兼具金融与工业双重属性，在美联储加息预期升温和全球工业需求走弱的双重打击下，银价跌幅更为显著。（央视财经）",
+      "title": "澳大利亚延长燃油消费税减免政策，缓解居民生活成本压力",
+      "link": "https://36kr.com/newsflashes/3862264032334854?f=rss",
+      "pubDate": "2026-06-21 09:38:08  +0800",
+      "contentSnippet": "澳大利亚总理周日表示，将把燃油消费税减免政策再延长一个月。受伊朗战事影响，澳大利亚国内燃油价格持续高企，民众负担加重。澳大利亚总理在一份声明中称：“政府将燃油消费税减免政策再延长一个月，7月汽油、柴油每升将比常规售价便宜16澳分，澳洲民众加满一箱油大约能省下11澳元。”他表示：“这项临时扶持举措能够缓解油价上涨带来的冲击，减轻澳大利亚民众的生活开支压力。”（新浪财经）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -84,16 +33,84 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "美联储鹰派信号致美元走强，金价微涨银价大跌。",
-      "credibilityScore": 85,
+      "aiSummary": "澳大利亚延长燃油消费税减免政策一个月，缓解油价上涨压力。",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，内容引用央视财经，信息具体有数据支撑。"
+      "credibilityReason": "来源为知名科技媒体36氪，内容具体有数据支撑，但缺少原始出处链接。"
     },
     {
-      "title": "三天内连失两位传奇：谷歌的AI人才大坝，正在决堤？",
-      "link": "https://www.tmtpost.com/8034755.html",
-      "pubDate": "Sat, 20 Jun 2026 11:51:19 +0800",
-      "contentSnippet": "Google顶尖AI人才接连流向OpenAI与Anthropic，暴露其广告商业模式与AI使命的根本错位，人才版图正经历不可逆重组。",
+      "title": "《GTA6》游戏物料引“显微镜式扒皮”，玩家调侃因“封面鳄鱼牙齿数量不对”而“放弃预订”",
+      "link": "https://www.ithome.com/0/966/603.htm",
+      "pubDate": "Sun, 21 Jun 2026 01:01:23 GMT",
+      "contentSnippet": "IT之家 6 月 21 日消息，R 星于 6 月 18 日官宣《GTA6》将于 6 月 25 日开启预购，并放出封面图。而早已等得不耐烦的粉丝们开始观察这张封面，试图找出任何关于游戏的线索，其中封面右下角代表佛罗里达州（游戏内罪恶城 / 罪恶都市原型地）图腾的短吻鳄，竟然因为“牙齿数量不对”在 Reddit 论坛上引发了轩然大波。\n\n参考 Reddit，有用户 ITehJelleh 发现这只短吻鳄的牙齿大约只有 60 颗，作为参考，现实中美洲短吻鳄通常有 74 到 80 颗牙齿，这立刻引发粉丝们的讨论：一些人认为是 R 星画师忽略了真实细节、一些人认为短吻鳄本身生命周期中会换牙，60 颗牙齿在",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "玩家因《GTA6》封面鳄鱼牙齿数量不符现实而热议。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家可信，内容具体有Reddit引用，但属娱乐性讨论。"
+    },
+    {
+      "title": "台积电加速研发 CoPoS 封装以取代 CoWoS：玻璃核心基板可降低 30% 成本并将晶圆利用率提升至 90% 以上",
+      "link": "https://www.ithome.com/0/966/590.htm",
+      "pubDate": "Sat, 20 Jun 2026 23:32:06 GMT",
+      "contentSnippet": "IT之家 6 月 21 日消息，随着玻璃核心基板成为行业核心方案，台积电正全力研发面板级封装技术 CoPoS，用以替代现有 CoWoS 工艺，应对持续增长的算力需求。\n\nIT之家注意到，人工智能与算力需求持续暴涨，市场亟需新一代先进封装技术。英特尔与台积电均在全力攻关相关方案，而玻璃核心基板将成为双方技术路线中的核心一环。\n据台湾地区《工商时报》近期报道，台积电正大力推进 CoPoS（基板载面板覆芯片）技术，计划以此取代 CoWoS（基板载晶圆覆芯片）方案；玻璃核心基板是实现该技术路线的关键，这家台湾地区晶圆代工厂因此大幅提速该技术的研发与量产进程。\n报道称，“台积电全力落地 CoPoS 技术",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "台积电研发CoPoS封装替代CoWoS，玻璃基板降本30%提升利用率。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，内容具体有数据支撑，但缺少原始出处验证。"
+    },
+    {
+      "title": "华硕 ROG Astral RTX 5090 显卡被曝使用半年致主板散热片变色",
+      "link": "https://www.ithome.com/0/966/583.htm",
+      "pubDate": "Sat, 20 Jun 2026 23:01:19 GMT",
+      "contentSnippet": "IT之家 6 月 21 日消息，据 Tweaktown 报道，台湾地区一家硬件论坛的用户反馈，其华硕 ROG Astral GeForce RTX 5090 显卡在使用约六个月后，致使华硕 ProArt X870E-Creator WiFi 主板的 PCH 散热片出现明显变色痕迹。整套主机全部采用华硕硬件，机箱选用华硕 ProArt PA602。\n\n变色区域位于主板上显卡正下方的位置。该用户表示，用湿布用力擦拭能擦掉一部分印记，但散热片无法恢复出厂原貌；显卡本体外观无任何异常，依旧可以正常运行。如果主机内显卡周边风道设计不佳，出现这类问题的概率会大幅升高。\nRTX 5090 显卡功耗极高，常规",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "华硕RTX 5090显卡使用半年致主板散热片变色，疑因高功耗和风道不佳。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自IT之家转载Tweaktown报道，有具体用户案例和细节，但缺乏官方确认和广泛验证。"
+    },
+    {
+      "title": "AI投资热潮向上游扩散，美股多家半导体设备龙头今年翻倍",
+      "link": "https://36kr.com/newsflashes/3862419587781894?f=rss",
+      "pubDate": "2026-06-21 12:38:21  +0800",
+      "contentSnippet": "回顾年初至今的美股市场，不仅半导体、光通信等AI硬件板块集体狂飙，产业链上游的半导体设备赛道亦同步走出亮眼升势。据统计，美股总市值超百亿美元的9家半导体设备公司，今年以来股价涨幅均已超过75%。其中，应用材料、拉姆研究、科磊、泰瑞达、MKS Inc、英特格、Onto Innovation Inc这7只个股年内股价实现翻倍。就产业逻辑而言，种种迹象表明，半导体设备正迎来机构所谓的“卖方市场”。（财联社）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "AI投资热潮向半导体设备扩散，美股7家设备公司股价翻倍。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪为知名科技媒体，内容具体有数据支撑，逻辑清晰，但未提供原始出处。"
+    },
+    {
+      "title": "GPT-5.6倒计时：放弃单一API幻想，算力迭代再快也敌不过一纸合规",
+      "link": "https://www.tmtpost.com/8035108.html",
+      "pubDate": "Sun, 21 Jun 2026 12:35:27 +0800",
+      "contentSnippet": "AI大模型基座正步入闭源受控与本地开源的“双轨制”时代。当合规与可用性超越纯技术指标，企业亟需加速底层模型解耦，以应对常态化的断供风险。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -101,33 +118,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "谷歌AI人才流失加剧，商业模式与使命错位导致人才版图重组。",
+      "aiSummary": "GPT-5.6发布前，AI模型进入闭源与开源双轨制，合规成关键。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体，分析有逻辑，但缺乏具体数据和原始出处支撑。"
+      "credibilityReason": "来源钛媒体为知名科技媒体，内容具体有行业洞察，但缺乏数据支撑。"
     },
     {
-      "title": "魔声推出 Open Ear AC229 开放式耳机：15x7mm 动圈、32 小时续航，209 元",
-      "link": "https://www.ithome.com/0/966/492.htm",
-      "pubDate": "Sat, 20 Jun 2026 03:50:58 GMT",
-      "contentSnippet": "IT之家 6 月 20 日消息，魔声旗下 Open Ear AC229 开放式耳机现已在京东发售，定价为 209 元，部分地区国补后低至 169.2 元。\n京东魔声 Open Ear AC229 耳机 209 元直达链接\n\n该耳机采用开放式设计，整体重量 5.6g，外覆亲肤液态硅胶材质，同时支持触控操作。耳机搭载 15x7mm 动圈，支持四麦克风 ENC 降噪通话，配备蓝牙 6.0 技术，单耳续航 8 小时，在搭配充电盒的情况下至高拥有 32 小时续航。\n\nIT之家附耳机参数：",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "魔声发布Open Ear AC229开放式耳机，售价209元，续航32小时。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，信息具体有参数和价格，逻辑清晰。"
-    },
-    {
-      "title": "锦兴电厂1号机组一次并网成功",
-      "link": "https://36kr.com/newsflashes/3860902754555141?f=rss",
-      "pubDate": "2026-06-20 11:37:46  +0800",
-      "contentSnippet": "华电能源消息，6月18日18时，锦兴电厂1号机组顺利完成首次并网操作，实现一次并网圆满成功。机组炉、机、电、热控各系统运行平稳，各项关键运行参数优良可控。下一步，锦兴电厂将有序开展后续涉网试验及168小时满负荷试运行，同步加快推进2号机组整套启动各项筹备工作，按照已取得的排污许可，按量排污，按需排污，全力保障机组按期投产发电。（财联社）",
+      "title": "富国银行：预测标普500指数到2027年底将升至8600-8800点",
+      "link": "https://36kr.com/newsflashes/3862376847709189?f=rss",
+      "pubDate": "2026-06-21 12:18:52  +0800",
+      "contentSnippet": "富国银行表示，极度看好后市，预测标普500指数到2027年底将升至8600-8800点。（财联社）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -135,16 +135,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "锦兴电厂1号机组首次并网成功，系统运行平稳。",
-      "credibilityScore": 85,
+      "aiSummary": "富国银行预测标普500指数2027年底达8600-8800点。",
+      "credibilityScore": 70,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为36氪转载财联社，信息具体且引用华电能源官方消息。"
+      "credibilityReason": "来源为知名财经媒体36氪，内容具体有数据，但缺乏分析依据。"
     },
     {
-      "title": "“大学生维权”促使海南航空修改运输规定：只要航司原因造成航班提前，无论时长多少都能全额退票",
-      "link": "https://www.ithome.com/0/966/491.htm",
-      "pubDate": "Sat, 20 Jun 2026 03:28:39 GMT",
-      "contentSnippet": "IT之家 6 月 20 日消息，近期海南航空修改旗下运输规则，只要航司原因造成航班提前，无论时长多少，旅客都能办理非自愿变更或全额退票。作为比较，此前海航设置有所谓“15 分钟门槛”，也就是航班提前超 15 分钟才可免费退改签。\n\nIT之家综合新浪财经报道，本次海南航空修改旗下运输规则由一位广东金融学院大学生力争而来。这名学生购买了深圳飞往呼和浩特的早班机票，不过由于航司临时发通知将起飞时间提前 10 分钟，导致该学生额外花费百元在机场附近住宿。\n事后他向海航申请免费退改签，或是报销住宿开销，却被对方以“航班提前不足十五分钟不予赔付”为由拒绝。学生认为规则存在明显不公：旅客迟到会被判定违约、机",
+      "title": "特斯拉 Cybercab 侧视摄像头配备喷淋清洗装置，解决自动驾驶大痛点",
+      "link": "https://www.ithome.com/0/966/629.htm",
+      "pubDate": "Sun, 21 Jun 2026 04:04:58 GMT",
+      "contentSnippet": "IT之家 6 月 21 日消息，美国马萨诸塞州皮博迪市拍摄的一张 Cybercab 工程车特写照片显示，车辆配备了小巧的三角形侧视摄像头外壳，外壳内置一套清洗喷淋装置。\n\n这一看似不起眼的硬件升级，或将成为实现稳定、无人工干预 FSD 最关键的部件之一，该装置不仅专供无人驾驶出租车使用，现有搭载 AI4 硬件的车型未来也有望装配。\n在特斯拉纯视觉自动驾驶方案中，这套喷淋清洗系统非常重要。摄像头是驱动 FSD 系统神经网络唯一的感知输入设备，依靠摄像头持续识别周边环境，保障车辆安全行驶。但在真实路况下，镜头极易积攒雨水、积雪、泥浆、灰尘或是路面飞溅的泥水。\n不少特斯拉车主，尤其是冬季经常驾车的用",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -152,52 +152,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "大学生维权促使海航修改规则，航司原因航班提前可全额退票。",
-      "credibilityScore": 82,
+      "aiSummary": "特斯拉Cybercab侧视摄像头配备喷淋清洗装置，解决自动驾驶摄像头脏污痛点。",
+      "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，内容具体有案例支撑，逻辑清晰，但缺少官方文件或原始出处。"
+      "credibilityReason": "来自知名科技媒体IT之家，内容具体有照片依据，逻辑清晰，但缺乏官方确认。"
     },
     {
-      "title": "安卓最强 2nm 芯片：高通骁龙 8 Elite Gen 6 Pro 曝测试类三星 HPB 散热方案，但效果不如 Exynos",
-      "link": "https://www.ithome.com/0/966/490.htm",
-      "pubDate": "Sat, 20 Jun 2026 03:18:50 GMT",
-      "contentSnippet": "IT之家 6 月 20 日消息，科技媒体 Wccftech 昨日（6 月 19 日）发布博文，报道称在骁龙 8 Elite Gen 6 Pro 芯片上，高通尝试类似三星 HPB 的散热技术，但实施后效果不如 Exynos 芯片。\nIT之家注：HPB 全称为 Heat Path Block，是三星在 Exynos 2600 芯片中引入的散热技术，通过铜基散热块直接接触应用处理器（AP），利用铜的高导热性迅速传导芯片热量至散热结构，从而降低芯片温度、提升性能稳定性。\n\n消息源 @Reptalicant 昨日在 X 平台发布推文，爆料称高通有意模仿三星的 HPB 技术，来进一步增强骁龙 8 Elit",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "高通骁龙8 Elite Gen 6 Pro测试类似三星HPB散热技术，效果不及Exynos。",
-      "credibilityScore": 65,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为IT之家转载Wccftech，信息具体但依赖单一X平台爆料，缺乏官方确认。"
-    },
-    {
-      "title": "微星“MAG 321UP QD-OLED X24”31.5 英寸显示器发售：4K 240Hz QD-OLED，5999 元",
-      "link": "https://www.ithome.com/0/966/483.htm",
-      "pubDate": "Sat, 20 Jun 2026 03:10:04 GMT",
-      "contentSnippet": "IT之家 6 月 20 日消息，微星旗下“MAG 321UP QD-OLED X24”31.5 英寸显示器目前已在京东发售，该机主打 4K 240Hz，定价为 5999 元。\n京东微星 流光 X24 MAG 321UP5999 元直达链接\n\nMAG 321UP QD-OLED X24 基于第 4 代 QD-OLED 面板（3840x2160 分辨率 240Hz 刷新率），因此其仍采用了 Square-Stripe 子像素排列、5 层 Tandem OLED、EL Gen 3 技术。\n该显示器 SDR 亮度 300nits、HDR 峰值亮度 1300nits，GtG 响应时间 0.03ms，获得",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家",
-        "钛媒体",
-        "Solidot"
-      ],
-      "coverageCount": 3,
-      "coverageBoost": 10,
-      "aiSummary": "微星发布31.5英寸4K 240Hz QD-OLED显示器，售价5999元",
-      "credibilityScore": 95,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自IT之家等知名科技媒体，信息具体有技术参数和价格，逻辑清晰（多源覆盖 +10）"
-    },
-    {
-      "title": "韩媒：韩国股市总市值首次突破8000万亿韩元",
-      "link": "https://36kr.com/newsflashes/3860901354148867?f=rss",
-      "pubDate": "2026-06-20 11:09:14  +0800",
-      "contentSnippet": "据韩联社报道，随着韩国综合股价指数（KOSPI）延续前一交易日的上涨势头，韩国股市总市值于19日史上首次突破8000万亿韩元（约合人民币35.3万亿元）。（中新经纬）",
+      "title": "科技赋能，全国夏播粮食进度近七成",
+      "link": "https://36kr.com/newsflashes/3862375326176262?f=rss",
+      "pubDate": "2026-06-21 11:59:19  +0800",
+      "contentSnippet": "农业农村部最新农情调度显示，目前全国夏播粮食进度近七成。今年，粮食主产区大力推广种肥同播技术，有效提升种植质量。（央视新闻）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -205,16 +169,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "韩国股市总市值首次突破8000万亿韩元",
+      "aiSummary": "夏播粮食进度近七成，种肥同播技术提升种植质量。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，引用韩联社报道，信息具体且有数据支撑"
+      "credibilityReason": "来源权威（央视新闻），信息具体有数据支撑，内容客观。"
     },
     {
-      "title": "英特尔 AMD 世纪破冰完善 x86 生态，ACE 规范 1.15 公布增强 AI 算力",
-      "link": "https://www.ithome.com/0/966/482.htm",
-      "pubDate": "Sat, 20 Jun 2026 03:05:48 GMT",
-      "contentSnippet": "IT之家 6 月 20 日消息，科技媒体 Wccftech 昨日（6 月 19 日）发布博文，报道称 x86 生态系统咨询小组（EAG）发布 ACE 规范 1.15 版本，通过原生矩阵乘法引擎和低精度格式增强 x86 架构的 AI 性能。\n\nIT之家注：为应对 AI 任务的挑战，英特尔和 AMD 公司于 2024 年“世纪破冰”，联合成立了 EAG 小组，协调 x86 架构的未来演进方向，进一步推动 x86 生态规范化和标准化。\nACE 全称为 AI Compute Extensions，是一组专为加速人工智能与机器学习负载设计的 x86 指令集，其核心目标是优化矩阵乘法运算（深度学习中最频繁",
+      "title": "Anthropic首席执行官：人工智能公司需要“数千亿美元”收入，否则将面临生存风险",
+      "link": "https://36kr.com/newsflashes/3862373538386952?f=rss",
+      "pubDate": "2026-06-21 11:40:32  +0800",
+      "contentSnippet": "Anthropic首席执行官表示，人工智能公司需要“数千亿美元”收入，否则将面临生存风险。（财联社）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "Anthropic CEO称AI公司需数千亿美元收入否则生存风险。",
+      "credibilityScore": 60,
+      "credibilityLevel": "general",
+      "credibilityReason": "来源为36氪转载财联社，内容简略缺乏具体数据支撑。"
+    },
+    {
+      "title": "京东京造推出泰坦 A5 升降式电竞桌：桌板翻板可翻可锁、4AC+2A+1C 嵌入式插座，1199 元起",
+      "link": "https://www.ithome.com/0/966/628.htm",
+      "pubDate": "Sun, 21 Jun 2026 03:36:07 GMT",
+      "contentSnippet": "IT之家 6 月 21 日消息，京东京造现已推出一款泰坦 A5 电竞桌，该产品主打“三形态桌板自由切换、嵌入式插座”设计，定价为 1199 元起，部分地区国补后低至 849.15 元起，众筹晒单返 50 元后到手价低至 799 元起。\n\n1.6 x 0.75m：1358 元，国补后 984.3 元\n\n1.4 x 0.75m：1258 元，国补后 899.3 元\n\n1.2 x 0.75m：1199 元，国补后 849.15 元\n\n京东京东京造泰坦 A5 电竞桌国补后 849.15 元起 1199 元起领 200 元券\n\n系列电竞桌采用 ENF 级进口南洋楹木芯，承载重量 70 千克，内置电机升降",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -222,45 +203,62 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "英特尔与AMD合作发布ACE 1.15规范，增强x86架构AI算力。",
-      "credibilityScore": 85,
+      "aiSummary": "京东京造推出泰坦A5升降电竞桌，1199元起，支持桌板翻锁和嵌入式插座。",
+      "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，引用Wccftech报道，内容具体且逻辑清晰。"
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有价格和规格细节，但缺少技术验证和原始出处。"
     },
     {
-      "title": "“NAS 型迷你主机”铭凡 N5 MAX 发售：锐龙 AI Max+ 395、配 64G RAM + 128G SSD 售 16999 元",
-      "link": "https://www.ithome.com/0/966/481.htm",
-      "pubDate": "Sat, 20 Jun 2026 02:55:21 GMT",
-      "contentSnippet": "IT之家 6 月 20 日消息，铭凡（Minisforum）旗下 N5 MAX 迷你主机现已在京东发售，该机搭载 AMD Ryzen AI Max+ 395 处理器，匹配 64GB RAM 和 128GB 存储空间，定价为 16999 元。\n\n\n这款主机可同时安装 5 块 M.2 固态硬盘（总计 40TB）和 5 块机械硬盘（总计 150TB），整体存储规模最高可达 190TB。同时设备提供 1 个 PCIe 4.0 x4 的 M.2 2280 插槽、1 个 PCIe 4.0 x1 的 M.2 2230/2280 插槽，以及 3 个 PCIe 4.0 x1 的 M.2 2280 插槽。\n\n接口",
+      "title": "字节跳动 Pico“Project Swan”头显设计曝光：背面头带类似苹果 Vision Pro、正面酷似三星 Galaxy XR",
+      "link": "https://www.ithome.com/0/966/627.htm",
+      "pubDate": "Sun, 21 Jun 2026 03:23:32 GMT",
+      "contentSnippet": "IT之家 6 月 21 日消息，据外媒 UploadVR 报道，字节跳动旗下 Pico 下一代头显“Project Swan”的演示视频已意外从公开 SDK 中曝光。\n从演示视频来看，这款头显后部头带几乎和 Vision Pro 的单圈编织头带一模一样，而前部遮光垫以及额头缓冲垫部分则明显类似三星 Galaxy XR。\n\n▲ Pico 新头显的头带\n\n▲ 苹果 Vision Pro 的单圈编织头带\n\n▲ Pico 新头显的前部设计\n\n▲ 三星 Galaxy XR 的正面设计\n视频中还展示了头显随附的外接模块，相应模块设计风格类似苹果 Vision Pro 的电池单元，不过目前暂不知悉其用途，既",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
         "IT之家",
-        "钛媒体"
+        "爱范儿"
       ],
       "coverageCount": 2,
       "coverageBoost": 5,
-      "aiSummary": "铭凡N5 MAX迷你主机发售，搭载锐龙AI Max+ 395，64G RAM+128G SSD售16999元。",
-      "credibilityScore": 90,
+      "aiSummary": "Pico下一代头显设计曝光，头带类似Vision Pro，正面似三星Galaxy XR。",
+      "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家和钛媒体，内容具体有产品细节和价格，但缺少原始出处链接。（多源覆盖 +5）"
+      "credibilityReason": "来源为知名科技媒体，内容具体有视频证据，但缺乏官方确认和细节支撑。（多源覆盖 +5）"
     },
     {
-      "title": "年内累跌27%后评级上调，最神秘大数据公司Palantir被高估了吗？",
-      "link": "https://www.tmtpost.com/8034822.html",
-      "pubDate": "Sat, 20 Jun 2026 10:54:34 +0800",
-      "contentSnippet": "华尔街认可它的业务，却恐惧它的价格。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "日本三大巨型银行年度分红总额将首次突破2万亿日元",
+      "link": "https://36kr.com/newsflashes/3862364977288454?f=rss",
+      "pubDate": "2026-06-21 11:20:49  +0800",
+      "contentSnippet": "日本三大巨型银行年度分红总额将首次突破2万亿日元。（新浪财经）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
       "allSources": [
-        "钛媒体"
+        "36氪"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "Palantir年内跌27%后获评级上调，分析其估值是否合理。",
+      "aiSummary": "日本三大银行年度分红总额首破2万亿日元。",
+      "credibilityScore": 70,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体，内容具体但缺乏细节和原始出处。"
+    },
+    {
+      "title": "NASA 启动史无前例太空救援，拯救即将坠落的 Swift 空间天文台",
+      "link": "https://www.ithome.com/0/966/626.htm",
+      "pubDate": "Sun, 21 Jun 2026 03:10:34 GMT",
+      "contentSnippet": "IT之家 6 月 21 日消息，二十多年来，美国国家航空航天局（NASA）的雨燕空间天文台（Swift space observatory）一直在轨道上开展大量前沿科研工作，搜寻宇宙中最强能量爆发 —— 伽马射线暴的踪迹。如今，受轨道衰减影响，这座天文台将在今年年底坠入地球大气层，在烈火中终结使命。\n\n但事情或许尚有转机。NASA 正在筹备一项大胆的救援任务，这是人类太空史上从未尝试过的行动：雨燕抬升任务。该计划由亚利桑那州加泰利斯特太空技术公司（Katalyst Space Technologies）打造一艘未经实地验证的航天器，在雨燕天文台坠落地球前，与其完成轨道交会对接，而这座天文台从设",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "NASA计划用未验证航天器救援即将坠落的Swift天文台",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体钛媒体，内容具体有数据支撑，但缺乏原始出处引用。"
+      "credibilityReason": "来源知名科技媒体，内容具体但缺乏原始出处和官方确认"
     }
   ]
 }
