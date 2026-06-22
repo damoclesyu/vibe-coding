@@ -1,31 +1,14 @@
 {
-  "generatedAt": "2026-06-21T04:47:47.114Z",
+  "generatedAt": "2026-06-22T04:54:08.232Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "全球仅 19 台的日产 GT-R50 将在日本拍卖，预估成交价最高达 1.55 亿日元",
-      "link": "https://www.ithome.com/0/966/631.htm",
-      "pubDate": "Sun, 21 Jun 2026 04:32:45 GMT",
-      "contentSnippet": "IT之家 6 月 21 日消息，当年日产联合意大利设计公司 Italdesign 发布 GT-R50 时，外界都以为这款概念车只会常年在各大车展的旋转展台上循环展出。可出人意料的是，这款车短暂实现了量产，如今，为数不多落地投产的实车之一即将在日本开拍。\n\nGT-R50 诞生于 2018 年，是一款限量定制车型，用以纪念日产 GT-R 车系与意大利设计公司 Italdesign 双双问世 50 周年。最初规划全球限量 50 台，但实际生产并未如愿。据消息称，项目提前终止时，仅生产了 19 台整车。\n疫情带来的供应链冲击，加上近百万美元的定价，让这款车很难集齐足够买家。这一点其实并不难理解：普通版",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "日产GT-R50限量19台将拍卖，预估成交价高达1.55亿日元。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家可信，内容具体有数据支撑，但缺乏官方拍卖行确认。"
-    },
-    {
-      "title": "澳大利亚延长燃油消费税减免政策，缓解居民生活成本压力",
-      "link": "https://36kr.com/newsflashes/3862264032334854?f=rss",
-      "pubDate": "2026-06-21 09:38:08  +0800",
-      "contentSnippet": "澳大利亚总理周日表示，将把燃油消费税减免政策再延长一个月。受伊朗战事影响，澳大利亚国内燃油价格持续高企，民众负担加重。澳大利亚总理在一份声明中称：“政府将燃油消费税减免政策再延长一个月，7月汽油、柴油每升将比常规售价便宜16澳分，澳洲民众加满一箱油大约能省下11澳元。”他表示：“这项临时扶持举措能够缓解油价上涨带来的冲击，减轻澳大利亚民众的生活开支压力。”（新浪财经）",
+      "title": "通过苏晶向台积电供应半导体靶材？阿石创：传闻不实",
+      "link": "https://36kr.com/newsflashes/3863846971987200?f=rss",
+      "pubDate": "2026-06-22 12:40:18  +0800",
+      "contentSnippet": "36氪获悉，针对投资者关于“ 近期市场传闻公司通过苏晶向台积电供应半导体靶材，切入CoWoS封装材料供应链。公司各类靶材是否已实现对台积电批量出货；若尚未供货，目前送样、认证进度如何；是否有明确导入台积电产线的时间规划？ ”的提问，阿石创在互动平台表示，以上传闻不实。",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -33,152 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "澳大利亚延长燃油消费税减免政策一个月，缓解油价上涨压力。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，内容具体有数据支撑，但缺少原始出处链接。"
-    },
-    {
-      "title": "《GTA6》游戏物料引“显微镜式扒皮”，玩家调侃因“封面鳄鱼牙齿数量不对”而“放弃预订”",
-      "link": "https://www.ithome.com/0/966/603.htm",
-      "pubDate": "Sun, 21 Jun 2026 01:01:23 GMT",
-      "contentSnippet": "IT之家 6 月 21 日消息，R 星于 6 月 18 日官宣《GTA6》将于 6 月 25 日开启预购，并放出封面图。而早已等得不耐烦的粉丝们开始观察这张封面，试图找出任何关于游戏的线索，其中封面右下角代表佛罗里达州（游戏内罪恶城 / 罪恶都市原型地）图腾的短吻鳄，竟然因为“牙齿数量不对”在 Reddit 论坛上引发了轩然大波。\n\n参考 Reddit，有用户 ITehJelleh 发现这只短吻鳄的牙齿大约只有 60 颗，作为参考，现实中美洲短吻鳄通常有 74 到 80 颗牙齿，这立刻引发粉丝们的讨论：一些人认为是 R 星画师忽略了真实细节、一些人认为短吻鳄本身生命周期中会换牙，60 颗牙齿在",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "玩家因《GTA6》封面鳄鱼牙齿数量不符现实而热议。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家可信，内容具体有Reddit引用，但属娱乐性讨论。"
-    },
-    {
-      "title": "台积电加速研发 CoPoS 封装以取代 CoWoS：玻璃核心基板可降低 30% 成本并将晶圆利用率提升至 90% 以上",
-      "link": "https://www.ithome.com/0/966/590.htm",
-      "pubDate": "Sat, 20 Jun 2026 23:32:06 GMT",
-      "contentSnippet": "IT之家 6 月 21 日消息，随着玻璃核心基板成为行业核心方案，台积电正全力研发面板级封装技术 CoPoS，用以替代现有 CoWoS 工艺，应对持续增长的算力需求。\n\nIT之家注意到，人工智能与算力需求持续暴涨，市场亟需新一代先进封装技术。英特尔与台积电均在全力攻关相关方案，而玻璃核心基板将成为双方技术路线中的核心一环。\n据台湾地区《工商时报》近期报道，台积电正大力推进 CoPoS（基板载面板覆芯片）技术，计划以此取代 CoWoS（基板载晶圆覆芯片）方案；玻璃核心基板是实现该技术路线的关键，这家台湾地区晶圆代工厂因此大幅提速该技术的研发与量产进程。\n报道称，“台积电全力落地 CoPoS 技术",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "台积电研发CoPoS封装替代CoWoS，玻璃基板降本30%提升利用率。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，内容具体有数据支撑，但缺少原始出处验证。"
-    },
-    {
-      "title": "华硕 ROG Astral RTX 5090 显卡被曝使用半年致主板散热片变色",
-      "link": "https://www.ithome.com/0/966/583.htm",
-      "pubDate": "Sat, 20 Jun 2026 23:01:19 GMT",
-      "contentSnippet": "IT之家 6 月 21 日消息，据 Tweaktown 报道，台湾地区一家硬件论坛的用户反馈，其华硕 ROG Astral GeForce RTX 5090 显卡在使用约六个月后，致使华硕 ProArt X870E-Creator WiFi 主板的 PCH 散热片出现明显变色痕迹。整套主机全部采用华硕硬件，机箱选用华硕 ProArt PA602。\n\n变色区域位于主板上显卡正下方的位置。该用户表示，用湿布用力擦拭能擦掉一部分印记，但散热片无法恢复出厂原貌；显卡本体外观无任何异常，依旧可以正常运行。如果主机内显卡周边风道设计不佳，出现这类问题的概率会大幅升高。\nRTX 5090 显卡功耗极高，常规",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "华硕RTX 5090显卡使用半年致主板散热片变色，疑因高功耗和风道不佳。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自IT之家转载Tweaktown报道，有具体用户案例和细节，但缺乏官方确认和广泛验证。"
-    },
-    {
-      "title": "AI投资热潮向上游扩散，美股多家半导体设备龙头今年翻倍",
-      "link": "https://36kr.com/newsflashes/3862419587781894?f=rss",
-      "pubDate": "2026-06-21 12:38:21  +0800",
-      "contentSnippet": "回顾年初至今的美股市场，不仅半导体、光通信等AI硬件板块集体狂飙，产业链上游的半导体设备赛道亦同步走出亮眼升势。据统计，美股总市值超百亿美元的9家半导体设备公司，今年以来股价涨幅均已超过75%。其中，应用材料、拉姆研究、科磊、泰瑞达、MKS Inc、英特格、Onto Innovation Inc这7只个股年内股价实现翻倍。就产业逻辑而言，种种迹象表明，半导体设备正迎来机构所谓的“卖方市场”。（财联社）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "AI投资热潮向半导体设备扩散，美股7家设备公司股价翻倍。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体有数据支撑，逻辑清晰，但未提供原始出处。"
-    },
-    {
-      "title": "GPT-5.6倒计时：放弃单一API幻想，算力迭代再快也敌不过一纸合规",
-      "link": "https://www.tmtpost.com/8035108.html",
-      "pubDate": "Sun, 21 Jun 2026 12:35:27 +0800",
-      "contentSnippet": "AI大模型基座正步入闭源受控与本地开源的“双轨制”时代。当合规与可用性超越纯技术指标，企业亟需加速底层模型解耦，以应对常态化的断供风险。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "GPT-5.6发布前，AI模型进入闭源与开源双轨制，合规成关键。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源钛媒体为知名科技媒体，内容具体有行业洞察，但缺乏数据支撑。"
-    },
-    {
-      "title": "富国银行：预测标普500指数到2027年底将升至8600-8800点",
-      "link": "https://36kr.com/newsflashes/3862376847709189?f=rss",
-      "pubDate": "2026-06-21 12:18:52  +0800",
-      "contentSnippet": "富国银行表示，极度看好后市，预测标普500指数到2027年底将升至8600-8800点。（财联社）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "富国银行预测标普500指数2027年底达8600-8800点。",
-      "credibilityScore": 70,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名财经媒体36氪，内容具体有数据，但缺乏分析依据。"
-    },
-    {
-      "title": "特斯拉 Cybercab 侧视摄像头配备喷淋清洗装置，解决自动驾驶大痛点",
-      "link": "https://www.ithome.com/0/966/629.htm",
-      "pubDate": "Sun, 21 Jun 2026 04:04:58 GMT",
-      "contentSnippet": "IT之家 6 月 21 日消息，美国马萨诸塞州皮博迪市拍摄的一张 Cybercab 工程车特写照片显示，车辆配备了小巧的三角形侧视摄像头外壳，外壳内置一套清洗喷淋装置。\n\n这一看似不起眼的硬件升级，或将成为实现稳定、无人工干预 FSD 最关键的部件之一，该装置不仅专供无人驾驶出租车使用，现有搭载 AI4 硬件的车型未来也有望装配。\n在特斯拉纯视觉自动驾驶方案中，这套喷淋清洗系统非常重要。摄像头是驱动 FSD 系统神经网络唯一的感知输入设备，依靠摄像头持续识别周边环境，保障车辆安全行驶。但在真实路况下，镜头极易积攒雨水、积雪、泥浆、灰尘或是路面飞溅的泥水。\n不少特斯拉车主，尤其是冬季经常驾车的用",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "特斯拉Cybercab侧视摄像头配备喷淋清洗装置，解决自动驾驶摄像头脏污痛点。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，内容具体有照片依据，逻辑清晰，但缺乏官方确认。"
-    },
-    {
-      "title": "科技赋能，全国夏播粮食进度近七成",
-      "link": "https://36kr.com/newsflashes/3862375326176262?f=rss",
-      "pubDate": "2026-06-21 11:59:19  +0800",
-      "contentSnippet": "农业农村部最新农情调度显示，目前全国夏播粮食进度近七成。今年，粮食主产区大力推广种肥同播技术，有效提升种植质量。（央视新闻）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "夏播粮食进度近七成，种肥同播技术提升种植质量。",
+      "aiSummary": "阿石创否认通过苏晶向台积电供应半导体靶材的传闻。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源权威（央视新闻），信息具体有数据支撑，内容客观。"
+      "credibilityReason": "来源为知名科技媒体36氪，内容基于公司官方互动平台回应，信息具体且客观。"
     },
     {
-      "title": "Anthropic首席执行官：人工智能公司需要“数千亿美元”收入，否则将面临生存风险",
-      "link": "https://36kr.com/newsflashes/3862373538386952?f=rss",
-      "pubDate": "2026-06-21 11:40:32  +0800",
-      "contentSnippet": "Anthropic首席执行官表示，人工智能公司需要“数千亿美元”收入，否则将面临生存风险。（财联社）",
+      "title": "马来西亚将下调补贴柴油价格",
+      "link": "https://36kr.com/newsflashes/3863810980303879?f=rss",
+      "pubDate": "2026-06-22 12:18:40  +0800",
+      "contentSnippet": "马来西亚总理安瓦尔·易卜拉欣表示，政府将从下月起下调补贴柴油价格，并称这是基于美伊高级谈判所取得的进展。据报道，安瓦尔在当地时间周日表示：“我宣布推行定向补贴柴油，并非为了涨价，而是为了降低柴油价格，尽管当前局势仍存在不确定性。”（财联社）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -186,68 +33,34 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "Anthropic CEO称AI公司需数千亿美元收入否则生存风险。",
-      "credibilityScore": 60,
-      "credibilityLevel": "general",
-      "credibilityReason": "来源为36氪转载财联社，内容简略缺乏具体数据支撑。"
-    },
-    {
-      "title": "京东京造推出泰坦 A5 升降式电竞桌：桌板翻板可翻可锁、4AC+2A+1C 嵌入式插座，1199 元起",
-      "link": "https://www.ithome.com/0/966/628.htm",
-      "pubDate": "Sun, 21 Jun 2026 03:36:07 GMT",
-      "contentSnippet": "IT之家 6 月 21 日消息，京东京造现已推出一款泰坦 A5 电竞桌，该产品主打“三形态桌板自由切换、嵌入式插座”设计，定价为 1199 元起，部分地区国补后低至 849.15 元起，众筹晒单返 50 元后到手价低至 799 元起。\n\n1.6 x 0.75m：1358 元，国补后 984.3 元\n\n1.4 x 0.75m：1258 元，国补后 899.3 元\n\n1.2 x 0.75m：1199 元，国补后 849.15 元\n\n京东京东京造泰坦 A5 电竞桌国补后 849.15 元起 1199 元起领 200 元券\n\n系列电竞桌采用 ENF 级进口南洋楹木芯，承载重量 70 千克，内置电机升降",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "京东京造推出泰坦A5升降电竞桌，1199元起，支持桌板翻锁和嵌入式插座。",
-      "credibilityScore": 80,
+      "aiSummary": "马来西亚将下调补贴柴油价格，基于美伊谈判进展。",
+      "credibilityScore": 70,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有价格和规格细节，但缺少技术验证和原始出处。"
+      "credibilityReason": "来源为知名科技媒体36氪，内容具体且有原始出处（财联社），但技术相关性低。"
     },
     {
-      "title": "字节跳动 Pico“Project Swan”头显设计曝光：背面头带类似苹果 Vision Pro、正面酷似三星 Galaxy XR",
-      "link": "https://www.ithome.com/0/966/627.htm",
-      "pubDate": "Sun, 21 Jun 2026 03:23:32 GMT",
-      "contentSnippet": "IT之家 6 月 21 日消息，据外媒 UploadVR 报道，字节跳动旗下 Pico 下一代头显“Project Swan”的演示视频已意外从公开 SDK 中曝光。\n从演示视频来看，这款头显后部头带几乎和 Vision Pro 的单圈编织头带一模一样，而前部遮光垫以及额头缓冲垫部分则明显类似三星 Galaxy XR。\n\n▲ Pico 新头显的头带\n\n▲ 苹果 Vision Pro 的单圈编织头带\n\n▲ Pico 新头显的前部设计\n\n▲ 三星 Galaxy XR 的正面设计\n视频中还展示了头显随附的外接模块，相应模块设计风格类似苹果 Vision Pro 的电池单元，不过目前暂不知悉其用途，既",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "黄仁勋：中国是世界上重要的科技与产业中心之一",
+      "link": "https://36kr.com/newsflashes/3863814861132800?f=rss",
+      "pubDate": "2026-06-22 11:55:43  +0800",
+      "contentSnippet": "6月22日，第四届链博会在北京开幕，英伟达首席执行官黄仁勋用视频方式发表致辞。他表示：“链博会所关注的是世界上最重要的体系之一：供应链。供应链连接着能源、工厂、物流、企业和客户，进而连接着整个世界。中国是世界上重要的科技与产业中心之一，这里的工程师表现卓越，开发者行动敏捷，企业也以非凡的规模实现发展。再次祝贺2026年链博会开幕，祝愿本届博览会取得圆满成功！”（央视财经）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
       "allSources": [
-        "IT之家",
-        "爱范儿"
+        "36氪",
+        "IT之家"
       ],
       "coverageCount": 2,
       "coverageBoost": 5,
-      "aiSummary": "Pico下一代头显设计曝光，头带类似Vision Pro，正面似三星Galaxy XR。",
-      "credibilityScore": 80,
+      "aiSummary": "黄仁勋称中国为重要科技与产业中心，祝贺链博会开幕。",
+      "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体有视频证据，但缺乏官方确认和细节支撑。（多源覆盖 +5）"
+      "credibilityReason": "来源为央视财经，经36氪和IT之家转载，内容具体且权威。（多源覆盖 +5）"
     },
     {
-      "title": "日本三大巨型银行年度分红总额将首次突破2万亿日元",
-      "link": "https://36kr.com/newsflashes/3862364977288454?f=rss",
-      "pubDate": "2026-06-21 11:20:49  +0800",
-      "contentSnippet": "日本三大巨型银行年度分红总额将首次突破2万亿日元。（新浪财经）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "日本三大银行年度分红总额首破2万亿日元。",
-      "credibilityScore": 70,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体但缺乏细节和原始出处。"
-    },
-    {
-      "title": "NASA 启动史无前例太空救援，拯救即将坠落的 Swift 空间天文台",
-      "link": "https://www.ithome.com/0/966/626.htm",
-      "pubDate": "Sun, 21 Jun 2026 03:10:34 GMT",
-      "contentSnippet": "IT之家 6 月 21 日消息，二十多年来，美国国家航空航天局（NASA）的雨燕空间天文台（Swift space observatory）一直在轨道上开展大量前沿科研工作，搜寻宇宙中最强能量爆发 —— 伽马射线暴的踪迹。如今，受轨道衰减影响，这座天文台将在今年年底坠入地球大气层，在烈火中终结使命。\n\n但事情或许尚有转机。NASA 正在筹备一项大胆的救援任务，这是人类太空史上从未尝试过的行动：雨燕抬升任务。该计划由亚利桑那州加泰利斯特太空技术公司（Katalyst Space Technologies）打造一艘未经实地验证的航天器，在雨燕天文台坠落地球前，与其完成轨道交会对接，而这座天文台从设",
+      "title": "广汽与华为乾崑联合打造：启境 GT7 车型 6 月 26 日上市，预售 21.99 万起",
+      "link": "https://www.ithome.com/0/966/864.htm",
+      "pubDate": "Mon, 22 Jun 2026 03:43:47 GMT",
+      "contentSnippet": "IT之家 6 月 22 日消息，据易车今日报道，启境 GT7 将于 6 月 26 日迎来正式上市。新车在 2026 第三十届粤港澳大湾区车展上正式开启预售，预售价区间 21.99-30.99 万元。\n\n\n“启境”品牌由广汽集团与华为乾崑联合打造，定位为高端智能新能源汽车品牌。根据双方的规划，启境汽车将全系搭载华为乾崑最先进的智能技术。\n目前，启境 GT7 已官宣华为六大汽车智能化解决方案上车。该车搭载全新一代鸿蒙座舱 HarmonySpace，全系搭载华为乾崑智驾 ADS 5，标配闭式双腔空悬，首发华为乾崑赤兔平台，零百公里加速 2.98 秒，续航至高 900km。\n\nIT之家汇总车型信息如下",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -255,10 +68,198 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "NASA计划用未验证航天器救援即将坠落的Swift天文台",
+      "aiSummary": "广汽与华为联合打造启境GT7，6月26日上市，预售价21.99万起。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，信息具体且有数据支撑，逻辑清晰。"
+    },
+    {
+      "title": "36氪首发｜红杉中国、Brizan Ventures领投，AI厨房机器人品牌「栗上LISSOME」完成数千万元A轮融资",
+      "link": "https://36kr.com/p/3863779663320069?f=rss",
+      "pubDate": "2026-06-22 11:20:24  +0800",
+      "contentSnippet": "作者 | 张子怡\n编辑 | 袁斯来\n硬氪获悉，AI厨房机器人品牌「栗上LISSOME」（以下简称“栗上”）近日完成数千万元人民币A轮融资。本轮融资由红杉中国、Brizan Ventures领投，老股东及HKX等机构跟投。\n此前，栗上已累计获得来自李泽湘教授的清水湾基金、高秉强教授、挑战者资本、高锋耐心资本、XbotPark宁波基地等机构的数千万元融资。\n据悉，本轮融资资金将主要用于现有产品的迭代与品类扩展、新一代AI厨房机器人的研发、全球市场拓展、供应链体系与规模化量产能力建设，以及核心团队的扩充。\n栗上创新孵化于XbotPark宁波基地，是一家聚焦AI厨房电器与美食科技的创新品牌。公司希望将",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "AI厨房机器人品牌栗上获红杉中国等数千万元A轮融资",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体36氪，信息具体，有融资细节和投资方，逻辑清晰"
+    },
+    {
+      "title": "鸿海刘扬伟：1GW 英伟达 Vera Rubin AI 数据中心需 470 亿美元",
+      "link": "https://www.ithome.com/0/966/801.htm",
+      "pubDate": "Mon, 22 Jun 2026 02:21:12 GMT",
+      "contentSnippet": "IT之家 6 月 22 日消息，鸿海 (Hon Hai / Foxconn) 董事长刘扬伟本月 18 日在台湾地区工商协进会会员大会上表示，基于 NVIDIA（英伟达）Vera Rubin 平台打造 1GW 规模的 AI 数据中心需要 470 亿美元（IT之家注：现汇率约合 3190.83 亿元人民币）的资本支出。\n刘扬伟提到，单一个 Vera Rubin 机架 / 机柜的价格就达到 910 万美元，而 1GW 数据中心总共需要约 3557 个各类机架 / 机柜。与此同时，1GW AI 数据中心每年电力支出即达 13 亿美元，而硬件折旧费用更是电力成本六倍。\n\n▲ NVIDIA Vera Ru",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "鸿海董事长称1GW英伟达Vera Rubin数据中心需470亿美元。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源知名科技媒体，内容具体但缺乏原始出处和官方确认"
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有数据支撑，但缺乏原始出处链接。"
+    },
+    {
+      "title": "第四届链博会今日开幕，首次设立人工智能专区",
+      "link": "https://www.ithome.com/0/966/799.htm",
+      "pubDate": "Mon, 22 Jun 2026 02:16:13 GMT",
+      "contentSnippet": "IT之家 6 月 22 日消息，据央视新闻报道，第四届中国国际供应链促进博览会（第四届链博会）今天在北京开幕。\n本届链博会共设置数智科技、先进制造、绿色农业、健康生活、智能汽车、清洁能源等六大链条和供应链服务展区。目前，展台搭建等各项准备工作已全面完成。\n\n本届链博会共吸引 676 家中外链主企业、专精特新企业和行业机构参展，来自 85 个国家、地区和国际组织，世界 500 强及行业龙头企业占比超过 65%。连同参展商带来的产供链上下游合作伙伴，实际参展商有望超过 1200 家。\n人工智能是本届链博会的一大亮点，数智科技链首次设立人工智能专区，汇聚了中外人工智能领域的领军企业。\n各大展区也都能",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "第四届链博会开幕，首次设立人工智能专区。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家，引用央视新闻，信息具体且逻辑清晰。"
+    },
+    {
+      "title": "限时礼遇 25.98 万元起，电动 MINI JCW 缎光特别版上市",
+      "link": "https://www.ithome.com/0/966/885.htm",
+      "pubDate": "Mon, 22 Jun 2026 04:51:52 GMT",
+      "contentSnippet": "IT之家 6 月 22 日消息，宝马集团旗下 MINI 品牌今日宣布，电动 MINI JCW 缎光特别版正式登陆中国市场，官方限时礼遇价 25.98 万元起。该车型基于电动 MINI JCW 打造，首次将缎光银磨砂车漆引入 JCW 产品线。\n\n\nIT之家注意到，新车外观延续了 JCW 家族的运动基因，车头两侧配备红色“獠牙”装饰，与轮毂内若隐若现的红色高性能卡钳形成视觉呼应。值得关注的是，该特别版首次采用专属缎光银磨砂漆面，通过漫反射原理主动削弱高光，呈现出丝缎般柔和、克制的哑光质感，为 MINI JCW 系列注入了独特的视觉辨识度。\n\n\n\n座舱内部大面积铺设红色赛道方格旗纹理环保织物，营造出",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "电动MINI JCW缎光特别版上市，限时价25.98万元起。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有产品细节，逻辑清晰。"
+    },
+    {
+      "title": "机构：存储芯片价格负担可能从消费电子产品传导至AI",
+      "link": "https://36kr.com/newsflashes/3863815623857411?f=rss",
+      "pubDate": "2026-06-22 12:50:23  +0800",
+      "contentSnippet": "Bernstein的分析师在一份研究报告中表示，存储芯片价格上涨的负担可能会从消费电子产品传导至AI。受大量供应向HBM转移以支持AI计算的推动，传统DRAM价格在最近几个季度大幅上涨。然而，HBM的价格受年度合同锁定，并未发生变动。Bernstein的分析师表示，存储芯片供应商和GPU/XPU公司正在就提高2027年HBM价格进行谈判，以缩小与传统DRAM的盈利差距。（新浪财经）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "存储芯片涨价压力或从消费电子转向AI领域",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体36氪，引用Bernstein分析师报告，内容具体且有数据支撑"
+    },
+    {
+      "title": "2026 款一汽红旗天工 08 SUV 开启早鸟预订：支付 99 元可享 21 英寸轮毂 + 倍耐力 P ZERO E 轮胎等权益",
+      "link": "https://www.ithome.com/0/966/884.htm",
+      "pubDate": "Mon, 22 Jun 2026 04:47:33 GMT",
+      "contentSnippet": "IT之家 6 月 22 日消息，一汽红旗宣布旗下新款天工 08 车型开启早鸟预订。消费者支付 99 元预订金，可享 21 英寸轮毂、倍耐力 P ZERO E 轮胎、999 元公共桩充电卡、指定充电桩及安装服务（或 1599 元等值红旗智联 App 积分）、三年畅享流量、健康权益、专属交付礼包、717 粉丝盛典活动机会。\n\n\n官方同步介绍了新款天工 08 的产品核心配置，新车搭载全面升级灵犀座舱，配备 15.6 英寸双联大屏、主副驾双云享座椅，同时新增黛夜蓝专属车身配色。\n规格方面，IT之家获悉目前在售的天工 08 长宽高分别为 4925x1950x1680mm，轴距为 3000mm。动力上有单",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "红旗天工08 SUV开启早鸟预订，支付99元享多项权益。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体但缺少技术细节和原始出处。"
+    },
+    {
+      "title": "消息称 3 家主流品牌迭代线新机上 7 英寸大屏，至高万级大电池、潜望长焦",
+      "link": "https://www.ithome.com/0/966/883.htm",
+      "pubDate": "Mon, 22 Jun 2026 04:46:58 GMT",
+      "contentSnippet": "IT之家 6 月 22 日消息，博主 @数码闲聊站 今日爆料：\n目前有 3 家主流品牌的迭代线新机会上 7 英寸，涵盖中端线和旗舰线，有直屏和等深四曲屏，至高有旗舰芯，至高有 10000mAh 级大电池，至高有潜望长焦。另外还有头部大厂也在评估 7 英寸。\n\n该博主表示，阔直板新机暂时只有 6.4 英寸左右的，没有 7 英寸大屏。\n博主还透露，小屏大马达安卓新机今年就有机会推出。\nIT之家注意到，该博主今年 2 月曾爆料有 2 家厂商在评估 7 英寸巨屏新机，不过并未透露具体品牌名称以及产品型号。\n随后，该博主又在 4 月 2 日爆料，某厂子系迭代新机在评估 7 英寸左右大直屏 + 万级大电池",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "爆料称3家主流品牌将推7英寸大屏新机，配备万级电池和潜望长焦",
+      "credibilityScore": 55,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为博主爆料，非官方信息，缺乏具体品牌和型号，可信度一般"
+    },
+    {
+      "title": "英矽智能：与SK生物制药达成一项价值高达25亿美元的AI驱动研发合作",
+      "link": "https://36kr.com/newsflashes/3863855544898817?f=rss",
+      "pubDate": "2026-06-22 12:44:01  +0800",
+      "contentSnippet": "36氪获悉，英矽智能在港交所公告，英矽智能已与SK生物制药公司达成一项研发合作，旨在发掘AI驱动的针对中枢神经系统神经免疫疾病领域的创新候选药物。根据相关协议条款，英矽智能将有资格获得最高1800万美元的首付款及近期里程碑付款。该合作的潜在交易总金额超过25亿美元，涵盖开发、监管及商业化里程碑付款，及产品商业化后基于净销售额的个位数比例销售分成。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "英矽智能与SK生物制药达成25亿美元AI药物研发合作",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪为知名科技媒体，内容具体有金额和条款细节，逻辑清晰"
+    },
+    {
+      "title": "豆包APP灰测打车出行",
+      "link": "https://36kr.com/newsflashes/3863856278869000?f=rss",
+      "pubDate": "2026-06-22 12:37:51  +0800",
+      "contentSnippet": "豆包App在北京、杭州两地灰测一键打车服务，由曹操出行提供打车服务。 （财联社）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪",
+        "IT之家"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "豆包App在北京杭州灰测打车服务，由曹操出行提供。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体36氪和IT之家，信息具体且有原始出处（财联社）。（多源覆盖 +5）"
+    },
+    {
+      "title": "迈克生物：暂无相关海洋生物、海洋毒素检测相关业务及研发规划",
+      "link": "https://36kr.com/newsflashes/3863846052156675?f=rss",
+      "pubDate": "2026-06-22 12:36:01  +0800",
+      "contentSnippet": "36氪获悉，迈克生物在互动平台表示，公司暂无相关海洋生物、海洋毒素检测相关业务及研发规划。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "迈克生物称暂无海洋生物毒素检测业务及研发规划。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体36氪，内容直接引用公司官方互动平台声明，信息具体且客观。"
+    },
+    {
+      "title": "HD 现代基于英伟达平台研发造船 AI 机器人，将率先应用于焊接工序",
+      "link": "https://www.ithome.com/0/966/881.htm",
+      "pubDate": "Mon, 22 Jun 2026 04:31:41 GMT",
+      "contentSnippet": "IT之家 6 月 22 日消息，据 Herald Economy 报道，HD 现代（韩国现代集团旗下的综合型重工业企业）正基于英伟达机器人仿真平台 Isaac Sim 研发实体人工智能机器人。HD 现代计划将这类机器人投用于焊接等船舶制造核心工序。\n\nHD 现代目前正推动基于英伟达 Isaac Sim 平台训练的实体人工智能机器人在其造船流程中的应用。HD 现代一名负责人表示：“我们研发这款机器人的目标是投入厂区作业，会先应用于焊接、涂装、板材折弯工序，后续再评估拓展至更多工序的可行性。”\n据IT之家了解，HD 现代旗下造船厂现阶段在建造作业中使用协作机器人，但这类机器人存在局限，必须依靠人工",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "HD现代基于英伟达平台研发造船AI机器人，将先用于焊接工序。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体且有原始报道引用，技术细节清晰。"
     }
   ]
 }
