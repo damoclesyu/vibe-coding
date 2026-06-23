@@ -1,254 +1,117 @@
 {
-  "generatedAt": "2026-06-22T04:54:08.232Z",
+  "generatedAt": "2026-06-23T03:57:34.482Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "通过苏晶向台积电供应半导体靶材？阿石创：传闻不实",
-      "link": "https://36kr.com/newsflashes/3863846971987200?f=rss",
-      "pubDate": "2026-06-22 12:40:18  +0800",
-      "contentSnippet": "36氪获悉，针对投资者关于“ 近期市场传闻公司通过苏晶向台积电供应半导体靶材，切入CoWoS封装材料供应链。公司各类靶材是否已实现对台积电批量出货；若尚未供货，目前送样、认证进度如何；是否有明确导入台积电产线的时间规划？ ”的提问，阿石创在互动平台表示，以上传闻不实。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
+      "title": "2025 年我国交通固定资产投资超 3.67 万亿元，公路里程首次突破 550 万公里",
+      "link": "https://www.ithome.com/0/967/350.htm",
+      "pubDate": "Tue, 23 Jun 2026 03:26:52 GMT",
+      "contentSnippet": "IT之家 6 月 23 日消息，据央视新闻报道，昨天（22 日），交通运输部发布《2025 年交通运输行业发展统计公报》。2025 年我国完成交通固定资产投资超 3.67 万亿元，继续保持高位。\n《公报》数据显示，2025 年我国交通固定资产投资超 3.67 万亿元，其中公路里程首次突破 550 万公里，特别是快速交通网建设取得新进展，京津冀、长三角、粤港澳大湾区、成渝这些重点城市之间的出行都实现了 2 小时通达。2025 年我国农村公路里程达 471.12 万公里，增加 6.75 万公里。\n交通运输部科学研究院信息中心副主任周健介绍，“八纵八横”高铁主骨架进一步完善，高铁营业里程首次突破 5",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "36氪"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "阿石创否认通过苏晶向台积电供应半导体靶材的传闻。",
+      "aiSummary": "2025年交通固定资产投资超3.67万亿元，公路里程突破550万公里",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，内容基于公司官方互动平台回应，信息具体且客观。"
+      "credibilityReason": "来源为IT之家转载央视新闻，数据来自官方统计公报，信息具体且权威"
     },
     {
-      "title": "马来西亚将下调补贴柴油价格",
-      "link": "https://36kr.com/newsflashes/3863810980303879?f=rss",
-      "pubDate": "2026-06-22 12:18:40  +0800",
-      "contentSnippet": "马来西亚总理安瓦尔·易卜拉欣表示，政府将从下月起下调补贴柴油价格，并称这是基于美伊高级谈判所取得的进展。据报道，安瓦尔在当地时间周日表示：“我宣布推行定向补贴柴油，并非为了涨价，而是为了降低柴油价格，尽管当前局势仍存在不确定性。”（财联社）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
+      "title": "2026“合规大考”：决定科技企业生存的四重挑战",
+      "link": "https://www.tmtpost.com/8036636.html",
+      "pubDate": "Tue, 23 Jun 2026 10:53:01 +0800",
+      "contentSnippet": "2026年，新修订的《网络安全法》《数据出境安全评估办法》《商业秘密保护规定》相继施行，监管框架全面升级。本文从公司治理、数据出境、商业秘密保护、税务合规四个维度，系统梳理科技企业创始人必须直面的合规挑战，提出将合规前置作为企业高质量发展的制度基础。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
       "allSources": [
-        "36氪"
+        "钛媒体"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "马来西亚将下调补贴柴油价格，基于美伊谈判进展。",
-      "credibilityScore": 70,
+      "aiSummary": "2026年科技企业面临四重合规挑战，需前置合规管理。",
+      "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，内容具体且有原始出处（财联社），但技术相关性低。"
+      "credibilityReason": "来源为知名科技媒体，内容具体有法规依据，逻辑清晰，但缺少原始出处链接。"
     },
     {
-      "title": "黄仁勋：中国是世界上重要的科技与产业中心之一",
-      "link": "https://36kr.com/newsflashes/3863814861132800?f=rss",
-      "pubDate": "2026-06-22 11:55:43  +0800",
-      "contentSnippet": "6月22日，第四届链博会在北京开幕，英伟达首席执行官黄仁勋用视频方式发表致辞。他表示：“链博会所关注的是世界上最重要的体系之一：供应链。供应链连接着能源、工厂、物流、企业和客户，进而连接着整个世界。中国是世界上重要的科技与产业中心之一，这里的工程师表现卓越，开发者行动敏捷，企业也以非凡的规模实现发展。再次祝贺2026年链博会开幕，祝愿本届博览会取得圆满成功！”（央视财经）",
+      "title": "索尼新策略曝光：为保利润缩减 PS5 出货量，短期难有降价促销",
+      "link": "https://www.ithome.com/0/967/315.htm",
+      "pubDate": "Tue, 23 Jun 2026 02:00:18 GMT",
+      "contentSnippet": "IT之家 6 月 23 日消息，这一代游戏主机的发展之路多少有些坎坷。主机发售恰逢疫情时期，全球供应链受阻，芯片、配件大规模缺货。如今受人工智能产业爆发的影响，内存价格暴涨，进一步推高了主机整体售价。\n\n索尼自然也未能幸免，今年早些时候该公司就已上调了 PS5 的售价。一份新曝光的内部文件显示，索尼打算通过缩减 PS5 出货量来缓解当前的成本压力。\n一份外泄的商业文件披露，索尼认为，想要控制 PS5 不断上涨的成本、改善盈利，只能减少出货量，同时取消各类促销活动。因此，短期内大家很难再买到降价优惠的 PS5 主机。\nIT之家注意到，往年节假日期间，游戏主机都会推出力度可观的促销活动，但今年这类",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "索尼为保利润将缩减PS5出货量，短期难有降价促销。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有内部文件引用，但缺乏原始出处验证。"
+    },
+    {
+      "title": "8点1氪丨SpaceX跌破IPO首日收盘价，市值蒸发4000亿美元；英国首相斯塔默宣布辞职；SK海力士市值首超三星电子",
+      "link": "https://36kr.com/p/3865001641006081?f=rss",
+      "pubDate": "2026-06-23 08:06:15  +0800",
+      "contentSnippet": "今日热点导览\n三星电子向韩国所有员工开放ChatGPT和Codex\n港股智谱暴涨，总市值突破1万亿港元\n何小鹏、曾顺福、白重恩出任蚂蚁集团独立董事\n杨子卸任巨力集团职务\n供应链公司：已向苹果首款折叠屏iPhone小批量供货\nTOP3大新闻\n纳指收跌1.3%，SpaceX下挫16%并跌破IPO首日收盘价\n美股三大指数收盘涨跌不一，道指涨0.29%，纳指跌1.32%，标普500指数跌0.37%。SpaceX股价大跌16%，市值蒸发4000亿美元并跌破首日收盘价。\n谷歌收跌5%，此前AI负责人Jumper离职。亚马逊下跌4.8%，为2月初以来的最大单日跌幅。芯片股涨跌不一，美光科技涨超6%，英特尔涨",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
         "36氪",
-        "IT之家"
+        "Solidot"
       ],
       "coverageCount": 2,
       "coverageBoost": 5,
-      "aiSummary": "黄仁勋称中国为重要科技与产业中心，祝贺链博会开幕。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为央视财经，经36氪和IT之家转载，内容具体且权威。（多源覆盖 +5）"
-    },
-    {
-      "title": "广汽与华为乾崑联合打造：启境 GT7 车型 6 月 26 日上市，预售 21.99 万起",
-      "link": "https://www.ithome.com/0/966/864.htm",
-      "pubDate": "Mon, 22 Jun 2026 03:43:47 GMT",
-      "contentSnippet": "IT之家 6 月 22 日消息，据易车今日报道，启境 GT7 将于 6 月 26 日迎来正式上市。新车在 2026 第三十届粤港澳大湾区车展上正式开启预售，预售价区间 21.99-30.99 万元。\n\n\n“启境”品牌由广汽集团与华为乾崑联合打造，定位为高端智能新能源汽车品牌。根据双方的规划，启境汽车将全系搭载华为乾崑最先进的智能技术。\n目前，启境 GT7 已官宣华为六大汽车智能化解决方案上车。该车搭载全新一代鸿蒙座舱 HarmonySpace，全系搭载华为乾崑智驾 ADS 5，标配闭式双腔空悬，首发华为乾崑赤兔平台，零百公里加速 2.98 秒，续航至高 900km。\n\nIT之家汇总车型信息如下",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "广汽与华为联合打造启境GT7，6月26日上市，预售价21.99万起。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，信息具体且有数据支撑，逻辑清晰。"
-    },
-    {
-      "title": "36氪首发｜红杉中国、Brizan Ventures领投，AI厨房机器人品牌「栗上LISSOME」完成数千万元A轮融资",
-      "link": "https://36kr.com/p/3863779663320069?f=rss",
-      "pubDate": "2026-06-22 11:20:24  +0800",
-      "contentSnippet": "作者 | 张子怡\n编辑 | 袁斯来\n硬氪获悉，AI厨房机器人品牌「栗上LISSOME」（以下简称“栗上”）近日完成数千万元人民币A轮融资。本轮融资由红杉中国、Brizan Ventures领投，老股东及HKX等机构跟投。\n此前，栗上已累计获得来自李泽湘教授的清水湾基金、高秉强教授、挑战者资本、高锋耐心资本、XbotPark宁波基地等机构的数千万元融资。\n据悉，本轮融资资金将主要用于现有产品的迭代与品类扩展、新一代AI厨房机器人的研发、全球市场拓展、供应链体系与规模化量产能力建设，以及核心团队的扩充。\n栗上创新孵化于XbotPark宁波基地，是一家聚焦AI厨房电器与美食科技的创新品牌。公司希望将",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "AI厨房机器人品牌栗上获红杉中国等数千万元A轮融资",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体36氪，信息具体，有融资细节和投资方，逻辑清晰"
-    },
-    {
-      "title": "鸿海刘扬伟：1GW 英伟达 Vera Rubin AI 数据中心需 470 亿美元",
-      "link": "https://www.ithome.com/0/966/801.htm",
-      "pubDate": "Mon, 22 Jun 2026 02:21:12 GMT",
-      "contentSnippet": "IT之家 6 月 22 日消息，鸿海 (Hon Hai / Foxconn) 董事长刘扬伟本月 18 日在台湾地区工商协进会会员大会上表示，基于 NVIDIA（英伟达）Vera Rubin 平台打造 1GW 规模的 AI 数据中心需要 470 亿美元（IT之家注：现汇率约合 3190.83 亿元人民币）的资本支出。\n刘扬伟提到，单一个 Vera Rubin 机架 / 机柜的价格就达到 910 万美元，而 1GW 数据中心总共需要约 3557 个各类机架 / 机柜。与此同时，1GW AI 数据中心每年电力支出即达 13 亿美元，而硬件折旧费用更是电力成本六倍。\n\n▲ NVIDIA Vera Ru",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "鸿海董事长称1GW英伟达Vera Rubin数据中心需470亿美元。",
+      "aiSummary": "SpaceX股价大跌16%，市值蒸发4000亿美元，跌破IPO首日收盘价。",
       "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有数据支撑，但缺乏原始出处链接。"
-    },
-    {
-      "title": "第四届链博会今日开幕，首次设立人工智能专区",
-      "link": "https://www.ithome.com/0/966/799.htm",
-      "pubDate": "Mon, 22 Jun 2026 02:16:13 GMT",
-      "contentSnippet": "IT之家 6 月 22 日消息，据央视新闻报道，第四届中国国际供应链促进博览会（第四届链博会）今天在北京开幕。\n本届链博会共设置数智科技、先进制造、绿色农业、健康生活、智能汽车、清洁能源等六大链条和供应链服务展区。目前，展台搭建等各项准备工作已全面完成。\n\n本届链博会共吸引 676 家中外链主企业、专精特新企业和行业机构参展，来自 85 个国家、地区和国际组织，世界 500 强及行业龙头企业占比超过 65%。连同参展商带来的产供链上下游合作伙伴，实际参展商有望超过 1200 家。\n人工智能是本届链博会的一大亮点，数智科技链首次设立人工智能专区，汇聚了中外人工智能领域的领军企业。\n各大展区也都能",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "第四届链博会开幕，首次设立人工智能专区。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家，引用央视新闻，信息具体且逻辑清晰。"
-    },
-    {
-      "title": "限时礼遇 25.98 万元起，电动 MINI JCW 缎光特别版上市",
-      "link": "https://www.ithome.com/0/966/885.htm",
-      "pubDate": "Mon, 22 Jun 2026 04:51:52 GMT",
-      "contentSnippet": "IT之家 6 月 22 日消息，宝马集团旗下 MINI 品牌今日宣布，电动 MINI JCW 缎光特别版正式登陆中国市场，官方限时礼遇价 25.98 万元起。该车型基于电动 MINI JCW 打造，首次将缎光银磨砂车漆引入 JCW 产品线。\n\n\nIT之家注意到，新车外观延续了 JCW 家族的运动基因，车头两侧配备红色“獠牙”装饰，与轮毂内若隐若现的红色高性能卡钳形成视觉呼应。值得关注的是，该特别版首次采用专属缎光银磨砂漆面，通过漫反射原理主动削弱高光，呈现出丝缎般柔和、克制的哑光质感，为 MINI JCW 系列注入了独特的视觉辨识度。\n\n\n\n座舱内部大面积铺设红色赛道方格旗纹理环保织物，营造出",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "电动MINI JCW缎光特别版上市，限时价25.98万元起。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有产品细节，逻辑清晰。"
-    },
-    {
-      "title": "机构：存储芯片价格负担可能从消费电子产品传导至AI",
-      "link": "https://36kr.com/newsflashes/3863815623857411?f=rss",
-      "pubDate": "2026-06-22 12:50:23  +0800",
-      "contentSnippet": "Bernstein的分析师在一份研究报告中表示，存储芯片价格上涨的负担可能会从消费电子产品传导至AI。受大量供应向HBM转移以支持AI计算的推动，传统DRAM价格在最近几个季度大幅上涨。然而，HBM的价格受年度合同锁定，并未发生变动。Bernstein的分析师表示，存储芯片供应商和GPU/XPU公司正在就提高2027年HBM价格进行谈判，以缩小与传统DRAM的盈利差距。（新浪财经）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "存储芯片涨价压力或从消费电子转向AI领域",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，引用Bernstein分析师报告，内容具体且有数据支撑"
-    },
-    {
-      "title": "2026 款一汽红旗天工 08 SUV 开启早鸟预订：支付 99 元可享 21 英寸轮毂 + 倍耐力 P ZERO E 轮胎等权益",
-      "link": "https://www.ithome.com/0/966/884.htm",
-      "pubDate": "Mon, 22 Jun 2026 04:47:33 GMT",
-      "contentSnippet": "IT之家 6 月 22 日消息，一汽红旗宣布旗下新款天工 08 车型开启早鸟预订。消费者支付 99 元预订金，可享 21 英寸轮毂、倍耐力 P ZERO E 轮胎、999 元公共桩充电卡、指定充电桩及安装服务（或 1599 元等值红旗智联 App 积分）、三年畅享流量、健康权益、专属交付礼包、717 粉丝盛典活动机会。\n\n\n官方同步介绍了新款天工 08 的产品核心配置，新车搭载全面升级灵犀座舱，配备 15.6 英寸双联大屏、主副驾双云享座椅，同时新增黛夜蓝专属车身配色。\n规格方面，IT之家获悉目前在售的天工 08 长宽高分别为 4925x1950x1680mm，轴距为 3000mm。动力上有单",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "红旗天工08 SUV开启早鸟预订，支付99元享多项权益。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体但缺少技术细节和原始出处。"
-    },
-    {
-      "title": "消息称 3 家主流品牌迭代线新机上 7 英寸大屏，至高万级大电池、潜望长焦",
-      "link": "https://www.ithome.com/0/966/883.htm",
-      "pubDate": "Mon, 22 Jun 2026 04:46:58 GMT",
-      "contentSnippet": "IT之家 6 月 22 日消息，博主 @数码闲聊站 今日爆料：\n目前有 3 家主流品牌的迭代线新机会上 7 英寸，涵盖中端线和旗舰线，有直屏和等深四曲屏，至高有旗舰芯，至高有 10000mAh 级大电池，至高有潜望长焦。另外还有头部大厂也在评估 7 英寸。\n\n该博主表示，阔直板新机暂时只有 6.4 英寸左右的，没有 7 英寸大屏。\n博主还透露，小屏大马达安卓新机今年就有机会推出。\nIT之家注意到，该博主今年 2 月曾爆料有 2 家厂商在评估 7 英寸巨屏新机，不过并未透露具体品牌名称以及产品型号。\n随后，该博主又在 4 月 2 日爆料，某厂子系迭代新机在评估 7 英寸左右大直屏 + 万级大电池",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "爆料称3家主流品牌将推7英寸大屏新机，配备万级电池和潜望长焦",
-      "credibilityScore": 55,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为博主爆料，非官方信息，缺乏具体品牌和型号，可信度一般"
+      "credibilityReason": "来源为知名科技媒体36氪，内容具体但缺乏原始数据出处，时效性好。（多源覆盖 +5）"
     },
     {
-      "title": "英矽智能：与SK生物制药达成一项价值高达25亿美元的AI驱动研发合作",
-      "link": "https://36kr.com/newsflashes/3863855544898817?f=rss",
-      "pubDate": "2026-06-22 12:44:01  +0800",
-      "contentSnippet": "36氪获悉，英矽智能在港交所公告，英矽智能已与SK生物制药公司达成一项研发合作，旨在发掘AI驱动的针对中枢神经系统神经免疫疾病领域的创新候选药物。根据相关协议条款，英矽智能将有资格获得最高1800万美元的首付款及近期里程碑付款。该合作的潜在交易总金额超过25亿美元，涵盖开发、监管及商业化里程碑付款，及产品商业化后基于净销售额的个位数比例销售分成。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
+      "title": "美国芯片安全法案将强制性要求位置跟踪 AI 芯片",
+      "link": "https://www.solidot.org/story?sid=84641",
+      "pubDate": "Mon, 22 Jun 2026 15:53:11 +0800",
+      "contentSnippet": "美国国会正在审议芯片安全法案（Chip Security Act），该法案将为先进 AI 芯片加入更严格的安全验证功能，将要求芯片出口商通过定制的位置验证硬件或软件追踪先进芯片的流向，确保先进芯片不会进入中国等国家。美国众议院外交事务委员会于 3 月下旬以 42 比 0 的投票结果一致通过了芯片安全法案，将其提交到众议院全体会议审议。参议院的配套立法则尚处于审议的第一个阶段。美国芯片行业组织反对这项法案，认为会阻碍芯片出口。最大的 AI 芯片制造商英伟达去年 12 月宣布它已开发出能满足该法案部分要求的技术。",
+      "sourceName": "Solidot",
+      "sourceWeight": 75,
       "allSources": [
-        "36氪"
+        "Solidot"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "英矽智能与SK生物制药达成25亿美元AI药物研发合作",
-      "credibilityScore": 85,
+      "aiSummary": "美国芯片安全法案要求追踪AI芯片流向，防止进入中国等国家。",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体有金额和条款细节，逻辑清晰"
+      "credibilityReason": "来源为知名科技媒体Solidot，内容具体有投票细节和行业反应，但缺乏官方文件直接引用。"
     },
     {
-      "title": "豆包APP灰测打车出行",
-      "link": "https://36kr.com/newsflashes/3863856278869000?f=rss",
-      "pubDate": "2026-06-22 12:37:51  +0800",
-      "contentSnippet": "豆包App在北京、杭州两地灰测一键打车服务，由曹操出行提供打车服务。 （财联社）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
+      "title": "智谱万亿市值，要感谢马斯克",
+      "link": "https://www.tmtpost.com/8037253.html",
+      "pubDate": "Tue, 23 Jun 2026 11:50:00 +0800",
+      "contentSnippet": "马斯克可能不知道自己在帮智谱。 但他确实帮了。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
       "allSources": [
-        "36氪",
-        "IT之家"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "豆包App在北京杭州灰测打车服务，由曹操出行提供。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪和IT之家，信息具体且有原始出处（财联社）。（多源覆盖 +5）"
-    },
-    {
-      "title": "迈克生物：暂无相关海洋生物、海洋毒素检测相关业务及研发规划",
-      "link": "https://36kr.com/newsflashes/3863846052156675?f=rss",
-      "pubDate": "2026-06-22 12:36:01  +0800",
-      "contentSnippet": "36氪获悉，迈克生物在互动平台表示，公司暂无相关海洋生物、海洋毒素检测相关业务及研发规划。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
+        "钛媒体"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "迈克生物称暂无海洋生物毒素检测业务及研发规划。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，内容直接引用公司官方互动平台声明，信息具体且客观。"
+      "aiSummary": "智谱万亿市值得益于马斯克间接推动。",
+      "credibilityScore": 60,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体，但内容标题党倾向明显，缺乏具体技术细节和数据支撑。"
     },
     {
-      "title": "HD 现代基于英伟达平台研发造船 AI 机器人，将率先应用于焊接工序",
-      "link": "https://www.ithome.com/0/966/881.htm",
-      "pubDate": "Mon, 22 Jun 2026 04:31:41 GMT",
-      "contentSnippet": "IT之家 6 月 22 日消息，据 Herald Economy 报道，HD 现代（韩国现代集团旗下的综合型重工业企业）正基于英伟达机器人仿真平台 Isaac Sim 研发实体人工智能机器人。HD 现代计划将这类机器人投用于焊接等船舶制造核心工序。\n\nHD 现代目前正推动基于英伟达 Isaac Sim 平台训练的实体人工智能机器人在其造船流程中的应用。HD 现代一名负责人表示：“我们研发这款机器人的目标是投入厂区作业，会先应用于焊接、涂装、板材折弯工序，后续再评估拓展至更多工序的可行性。”\n据IT之家了解，HD 现代旗下造船厂现阶段在建造作业中使用协作机器人，但这类机器人存在局限，必须依靠人工",
+      "title": "微软 XBOX 确认影视化《盗贼之海》，《蜘蛛侠：崭新之日》导演担任制片人",
+      "link": "https://www.ithome.com/0/967/362.htm",
+      "pubDate": "Tue, 23 Jun 2026 03:47:02 GMT",
+      "contentSnippet": "IT之家 6 月 23 日消息，媒体 Entertainment Weekly 昨日（6 月 22 日）发布博文，确认微软 XBOX 正推进《盗贼之海》电影改编，《蜘蛛侠：崭新之日》导演德斯汀 · 丹尼尔 · 克雷顿（Destin Daniel Cretton）已加入项目，担任制片人。\n\n微软 XBOX 首席执行官阿莎 · 夏尔马（Asha Sharma）在采访中表示，微软 XBOX 的愿景不仅仅是成为全球最大的游戏公司，更希望成为全球最大的娱乐公司。\n微软 XBOX 希望借助《我的世界》电影、《辐射》电视剧等多媒体内容，进一步扩展 XBOX 在好莱坞的影响力，目前正在筹备众多其他电影和电视剧",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -256,10 +119,146 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "HD现代基于英伟达平台研发造船AI机器人，将先用于焊接工序。",
+      "aiSummary": "微软XBOX确认《盗贼之海》电影改编，蜘蛛侠导演任制片人。",
       "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体且有原始报道引用，技术细节清晰。"
+      "credibilityReason": "来源IT之家为知名科技媒体，引用原始报道，信息具体有细节。"
+    },
+    {
+      "title": "晓程科技：加纳炸药厂目前仍在建，暂未投产、未实现销售收入",
+      "link": "https://36kr.com/newsflashes/3865221516645640?f=rss",
+      "pubDate": "2026-06-23 11:46:39  +0800",
+      "contentSnippet": "36氪获悉，晓程科技在互动平台表示，加纳炸药厂目前仍在建，暂未投产、未实现销售收入；雷管芯片现阶段以内部自用为主。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "晓程科技称加纳炸药厂在建未投产，雷管芯片自用。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体36氪，内容具体且引用公司官方互动平台信息，逻辑清晰。"
+    },
+    {
+      "title": "金山办公 WPS 回应 C 盘占用问题：已成立专项组核查，优化正在推进",
+      "link": "https://www.ithome.com/0/967/361.htm",
+      "pubDate": "Tue, 23 Jun 2026 03:46:26 GMT",
+      "contentSnippet": "IT之家 6 月 23 日消息，据 21 世纪经济报道今日消息，不少网友反映金山办公旗下产品 WPS 占用 C 盘空间较多、影响电脑使用，也有用户对如何清理、如何避免占用感到困惑。\n对此，金山办公回应该媒体称：已成立专项组核查，对用户关切问题作出说明，并提供具体的解决办法。\n金山办公明确表示，针对 C 盘占用的情况，以下操作均免费、无需开通会员：\n\n一是修改存储位置，在 WPS 云盘功能设置以及“文件 — 备份与恢复 — 备份中心”的设置入口中，可将缓存和备份的保存位置改到其他磁盘；\n\n二是清理本地缓存与备份，这部分可由用户手动操作完成，清理本地副本不会影响已保存在云端的文件。安装 WPS 时",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "金山办公回应WPS占用C盘问题，已成立专项组核查并优化。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家知名科技媒体，内容具体有官方回应和操作细节，逻辑清晰。"
+    },
+    {
+      "title": "精准抄底中信证券，陕西煤老板今天赚麻了",
+      "link": "https://www.tmtpost.com/8037182.html",
+      "pubDate": "Tue, 23 Jun 2026 11:46:00 +0800",
+      "contentSnippet": "越来越多的自然人、超级牛散，正在从“跟风者”变成“定价者”。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "陕西煤老板精准抄底中信证券，获利丰厚。",
+      "credibilityScore": 55,
+      "credibilityLevel": "low",
+      "credibilityReason": "来源一般，内容简略，缺乏具体数据和原始出处，有标题党倾向。"
+    },
+    {
+      "title": "宁德时代发布天恒钠电储能系统解决方案：与锂电尺寸兼容，9 月首批交付",
+      "link": "https://www.ithome.com/0/967/360.htm",
+      "pubDate": "Tue, 23 Jun 2026 03:44:10 GMT",
+      "contentSnippet": "IT之家 6 月 23 日消息，昨日，在 2026 宁德时代储能新品发布会上，宁德时代向全球发布天恒钠电储能系统解决方案 ——CATL TENER Sodium。\n\n据官方介绍，该系统围绕“更强的灵活性、更高的运行稳定性与更高的系统可用性”进行彻底重构：\n\n灵活与高效：额定容量超 30MWh，能量与功率解耦支持 1-8 小时灵活配置。首创 Bi-DC 双向控压系统，系统 RTE 提升近 2%。\n\n稳定与安全：实现 15,000 次超长循环，在-20℃ 至 45℃ 宽温域稳定运行。极端工况下系统也能抑制起火和爆炸。\n\n高可用性：独创毫秒级自愈系统，集电线路任意点故障 350 毫秒内完成闭环处理。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "宁德时代发布天恒钠电储能系统，兼容锂电尺寸，9月交付。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体IT之家，内容具体有技术细节，但缺少第三方验证。"
+    },
+    {
+      "title": "小米旗下瀚星创投等入股破壳时刻",
+      "link": "https://36kr.com/newsflashes/3865214724134145?f=rss",
+      "pubDate": "2026-06-23 11:39:44  +0800",
+      "contentSnippet": "36氪获悉，天眼查App显示，近日，破壳时刻（上海）智能科技有限责任公司发生工商变更，新增小米旗下瀚星创业投资有限公司、星海图（北京）人工智能科技股份有限公司等为股东，同时，注册资本由100万人民币增至约118.7万人民币。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "小米旗下瀚星创投等入股破壳时刻智能科技公司",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体36氪，信息具体有工商变更数据，但缺乏技术细节和原始出处链接"
+    },
+    {
+      "title": "微星推出 MAG 274CQPDF X32 显示器：1500R 27\" QHD 320Hz",
+      "link": "https://www.ithome.com/0/967/359.htm",
+      "pubDate": "Tue, 23 Jun 2026 03:36:52 GMT",
+      "contentSnippet": "IT之家 6 月 23 日消息，微星 (MSI) 现已上线曲面 Rapid VA 电竞显示器 MAG 274CQPDF X32。其采用 1500R 曲率 27\" 面板，支持 QHD 320Hz，还提供了一个聊胜于无的 HD 400Hz 模式。\n\nMAG 274CQPDF X32 获得 VESA DisplayHDR 400 认证，HDR 亮度 450nits，静态对比度 5000:1；灰阶 (GtG) 响应时间 0.5ms；色深 8-bit + FRC，色域 95% DCI-P3；兼容 AMD FreeSync Premium 可变刷新率；支持防闪烁减蓝光护眼。\n其采用外置电源设计，提供 1",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微星发布27寸曲面电竞显示器，支持QHD 320Hz和HD 400Hz模式。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体IT之家，参数具体且逻辑清晰，技术细节可信。"
+    },
+    {
+      "title": "瓷瓷乐玩 ：当传统文化遇上新消费浪潮 | 36氪WAVES2026新浪潮",
+      "link": "https://36kr.com/p/3865208157738247?f=rss",
+      "pubDate": "2026-06-23 11:35:03  +0800",
+      "contentSnippet": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。\n每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。”\n曹光洋 | 瓷瓷乐玩创始人\n以下为对话内容，经36氪整理编辑：\n\n主持",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "36氪WAVES2026大会聚焦AI与硬科技，瓷瓷乐玩创始人谈传统文化与新消费融合。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体36氪，内容具体有大会细节和创始人对话，逻辑清晰。"
+    },
+    {
+      "title": "豆包为什么选中了曹操出行？",
+      "link": "https://www.tmtpost.com/8037106.html",
+      "pubDate": "Tue, 23 Jun 2026 11:35:00 +0800",
+      "contentSnippet": "雷声大，雨点小。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "豆包与曹操出行合作，但实际效果未达预期。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体，内容具体但缺乏详细数据支撑。"
     }
   ]
 }
