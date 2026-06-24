@@ -1,264 +1,264 @@
 {
-  "generatedAt": "2026-06-23T03:56:10.040Z",
+  "generatedAt": "2026-06-24T03:57:42.231Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "2026年四川“一带一路”国际民间友好组织交流活动在蓉启幕",
-      "link": "https://www.chinanews.com.cn/ydyl/2026/06-23/10645531.shtml",
-      "pubDate": "Tue, 23 Jun 2026 11:48:22 +0800",
-      "contentSnippet": "中新网成都6月23日电 (记者 岳依桐)以“心联通聚合力 民相亲向未来”为主题的2026年四川“一带一路”国际民间友好组织交流活动23日在成都启幕。本次活动由四川省人民对外友好协会主办，来自老挝、越南、马来西亚等9个国家的国际民间友好组织代表参加活动。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
+      "title": "韩媒：与中国企业界人士座谈时，韩总理称希望韩中各行业合作大幅扩展",
+      "link": "https://world.huanqiu.com/article/4S6gk2g6UVp",
+      "pubDate": "(Wed,24 Jun 2026 11:42:33 CST)",
+      "contentSnippet": "综合韩国《朝鲜日报》、韩联社等媒体报道，韩国国务总理金民锡22日在北京与中国企业界人士座谈，谈及韩国与中国合作等话题。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
       "allSources": [
-        "中国新闻网"
+        "环球网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "2026年四川“一带一路”国际民间友好组织交流活动在成都开幕。",
+      "aiSummary": "韩总理金民锡在京与中国企业座谈，呼吁扩大韩中各行业合作。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为环球网，引述韩媒报道，信息具体且可交叉验证。"
+    },
+    {
+      "title": "苹果首款折叠iPhone屏幕供应链细节披露，三星提供专属OLED面板",
+      "link": "https://tech.huanqiu.com/article/4S6gdk92MCk",
+      "pubDate": "(Wed,24 Jun 2026 11:39:43 CST)",
+      "contentSnippet": "【环球网科技综合报道】6月24日消息，据Wccftech报道，市场供应链相关信息显示，苹果首款折叠式iPhone机型（市场预估上市定名iPhone Ultra）屏幕配套方案已基本明确，整机将采用内外双OLED面板搭配设计，两块面板均由三星供应，内外屏选用不同规格面板实现性能与成本平衡",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "苹果首款折叠iPhone屏幕由三星供应，采用内外双OLED面板设计。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网为知名媒体，引用Wccftech报道，信息具体但未多源交叉验证。"
+    },
+    {
+      "title": "民进党当局规划建构所谓“即侦即打”不对称战力，国台办驳斥！",
+      "link": "https://taiwan.huanqiu.com/article/4S6fnqU0P9d",
+      "pubDate": "(Wed,24 Jun 2026 11:16:17 CST)",
+      "contentSnippet": "6月24日上午，国台办举行例行新闻发布会，发言人张晗就近期两岸热点问题回答记者提问。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国台办驳斥民进党当局“即侦即打”不对称战力规划。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，权威媒体；信息具体，有明确时间、地点、主办方和参与国。"
+      "credibilityReason": "来源环球网较权威，内容具体有直接引述，事实可查证。"
     },
     {
-      "title": "最高检：4.4万余名检察官在8万余所学校担任法治副校长",
-      "link": "https://www.chinanews.com.cn/gn/2026/06-23/10645498.shtml",
-      "pubDate": "Tue, 23 Jun 2026 11:24:58 +0800",
-      "contentSnippet": "中新网6月23日电 最高人民检察院23日举行新闻发布会，发布《中国未成年人检察工作40年发展报告》并通报有关情况。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
+      "title": "《给阿嬷的情书》引港澳市民共鸣——“成为当代港澳青年生动通俗的家族历史教材”",
+      "link": "https://lx.huanqiu.com/article/4S6fYjNDdWT",
+      "pubDate": "(Wed,24 Jun 2026 11:09:28 CST)",
+      "contentSnippet": "这部影片也勾起港澳青年对家族历史的探索、对民族文化的认同。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
       "allSources": [
-        "中国新闻网"
+        "环球网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "最高检发布报告，4.4万余名检察官担任法治副校长。",
+      "aiSummary": "《给阿嬷的情书》引发港澳青年共鸣，被视为家族历史教材。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网较权威，内容具体有引述，但缺乏多源交叉验证。"
+    },
+    {
+      "title": "竞相布局人工智能 全球企业“链”上中国机遇",
+      "link": "https://capital.huanqiu.com/article/4S6fV4HyAeM",
+      "pubDate": "(Wed,24 Jun 2026 11:07:49 CST)",
+      "contentSnippet": "在今年链博会现场，原有的“数字科技链”升级成为“数智科技链”。这一字之变，背后体现的是人工智能正在成为产业链上的主角。现场首设的人工智能专区集聚了中外AI领军企",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "全球企业竞相布局人工智能，链博会升级展示中国机遇。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网较权威，内容具体有展会细节，但缺乏多源交叉验证。"
+    },
+    {
+      "title": "商务部：中国将迎来汽车后市场快速增长期",
+      "link": "https://capital.huanqiu.com/article/4S6fTYYxKwg",
+      "pubDate": "(Wed,24 Jun 2026 11:07:08 CST)",
+      "contentSnippet": "6月23日，中国国务院新闻办公室在北京举行新闻发布会，商务部副部长盛秋平，工业和信息化部装备工业一司负责人郭守刚，商务部市场运行和消费促进司司长杨沐，文化和旅游",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "商务部预测中国汽车后市场将快速增长，发布会透露政策支持。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为环球网，引用官方发布会及官员发言，信息具体可查证。"
+    },
+    {
+      "title": "梁文杰发表“台湾人几乎不吃凤梨释迦”言论引发岛内舆论哗然，国台办回应",
+      "link": "https://taiwan.huanqiu.com/article/4S6fGiBAdpx",
+      "pubDate": "(Wed,24 Jun 2026 11:01:20 CST)",
+      "contentSnippet": "6月24日上午，国台办举行例行新闻发布会，发言人张晗就近期两岸热点问题回答记者提问。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "梁文杰称台湾人几乎不吃凤梨释迦，国台办回应引发岛内争议。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网较权威，内容具体有直接引述，事实可查证。"
+    },
+    {
+      "title": "国台办：我们有坚定意志、坚强决心、强大能力，粉碎一切“台独”分裂图谋",
+      "link": "https://taiwan.huanqiu.com/article/4S6f5mEg41R",
+      "pubDate": "(Wed,24 Jun 2026 10:56:23 CST)",
+      "contentSnippet": "6月24日上午，国台办举行例行新闻发布会，发言人张晗就近期两岸热点问题回答记者提问。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "6月24日上午，国台办举行例行新闻发布会，发言人张晗就近期两岸热点问题回答记者提",
+      "credibilityScore": 51,
+      "credibilityLevel": "low",
+      "credibilityReason": "因内容合规限制，使用来源权重作为默认评分"
+    },
+    {
+      "title": "国台办：在强大的人民军队面前，民进党当局装腔作势纯属徒劳，只会害台毁台、自取灭亡",
+      "link": "https://taiwan.huanqiu.com/article/4S6f20hjp5O",
+      "pubDate": "(Wed,24 Jun 2026 10:54:41 CST)",
+      "contentSnippet": "6月24日上午，国台办举行例行新闻发布会，发言人张晗就近期两岸热点问题回答记者提问。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国台办警告民进党当局，在解放军面前装腔作势只会自取灭亡。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为官方媒体环球网，直接引述国台办发言人，内容具体且权威。"
+    },
+    {
+      "title": "台媒称台军正在进行所谓“立即备战操演”，国台办：包藏民进党当局“以武谋独”祸心",
+      "link": "https://taiwan.huanqiu.com/article/4S6f1vvrDt1",
+      "pubDate": "(Wed,24 Jun 2026 10:54:39 CST)",
+      "contentSnippet": "6月24日上午，国台办举行例行新闻发布会，发言人张晗就近期两岸热点问题回答记者提问。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国台办批评台军操演是“以武谋独”祸心。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网较权威，内容具体有直接引述，用词客观。"
+    },
+    {
+      "title": "台东县长以视频方式参与海峡论坛活动后，台陆委会主委扬言要对其进行查处，国台办回应",
+      "link": "https://taiwan.huanqiu.com/article/4S6f0QJ5VoL",
+      "pubDate": "(Wed,24 Jun 2026 10:53:58 CST)",
+      "contentSnippet": "6月24日上午，国台办举行例行新闻发布会，发言人张晗就近期两岸热点问题回答记者提问。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "台东县长视频参与海峡论坛，台陆委会扬言查处，国台办回应。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网较权威，内容具体有直接引述，事实可查证。"
+    },
+    {
+      "title": "博鳌大健康链接全球资源 聚力打造国际医疗旅游产业新标杆",
+      "link": "https://health.huanqiu.com/article/4S6exSjO5Kv",
+      "pubDate": "(Wed,24 Jun 2026 10:52:38 CST)",
+      "contentSnippet": "她表示，集团将借力链博会这一国际展示交流平台，面向全球擦亮博鳌特许医疗特色品牌，深度释放海南自贸港医疗创新发展潜力，持续深耕博鳌乐城国际医疗旅游先行区，主动融入",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "博鳌借链博会推动国际医疗旅游产业，打造全球医疗标杆。",
+      "credibilityScore": 70,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网较权威，内容具体但缺少直接引述和交叉验证。"
+    },
+    {
+      "title": "国台办：不管赖清德散布什么谬论、买多少武器，都改变不了台湾前途只能由包括台湾同胞在内的全体中国人民共同决定的铁律",
+      "link": "https://taiwan.huanqiu.com/article/4S6etMNyypv",
+      "pubDate": "(Wed,24 Jun 2026 10:50:47 CST)",
+      "contentSnippet": "6月24日上午，国台办举行例行新闻发布会，发言人张晗就近期两岸热点问题回答记者提问。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国台办重申台湾前途由全体中国人民共同决定，批驳赖清德言论和军购。",
       "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源权威（中国新闻网），内容具体有数据，官方发布会信息可查证。"
+      "credibilityReason": "来源环球网为知名媒体，内容直接引述国台办官方表态，权威性高。"
     },
     {
-      "title": "日美军演搅动地区局势 日本民众强烈反对",
-      "link": "https://www.chinanews.com.cn/gj/2026/06-23/10645518.shtml",
-      "pubDate": "Tue, 23 Jun 2026 11:22:18 +0800",
-      "contentSnippet": "原标题：日美军演搅动地区局势 日本民众强烈反对",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
+      "title": "岛内民调显示选择“对大陆释出善意”的比例远高于“与美国深化合作”，国台办回应",
+      "link": "https://taiwan.huanqiu.com/article/4S6eofSZrOa",
+      "pubDate": "(Wed,24 Jun 2026 10:48:40 CST)",
+      "contentSnippet": "6月24日上午，国台办举行例行新闻发布会，发言人张晗就近期两岸热点问题回答记者提问。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
       "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "日美军演引发日本民众强烈反对，地区局势紧张。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网较权威，内容具体有民众反对细节，但缺乏多源交叉验证。"
-    },
-    {
-      "title": "日本频繁参加军演引强烈不满 专家：“谋战”意图昭然若揭",
-      "link": "https://www.chinanews.com.cn/gj/2026/06-23/10645517.shtml",
-      "pubDate": "Tue, 23 Jun 2026 11:22:14 +0800",
-      "contentSnippet": "原标题：视频丨日本频繁参加军演引强烈不满 专家：“谋战”意图昭然若揭",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "日本频繁军演引发不满，专家称其谋战意图明显。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网较权威，有专家引述，但观点偏主观，缺乏多源验证。"
-    },
-    {
-      "title": "最高检：将进一步明确未成年人严重暴力犯罪核准追诉标准",
-      "link": "https://www.chinanews.com.cn/gn/2026/06-23/10645494.shtml",
-      "pubDate": "Tue, 23 Jun 2026 11:21:52 +0800",
-      "contentSnippet": "中新网6月23日电 最高人民检察院23日举行新闻发布会，发布《中国未成年人检察工作40年发展报告》并通报有关情况。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网",
+        "环球网",
         "澎湃新闻"
       ],
       "coverageCount": 2,
       "coverageBoost": 5,
-      "aiSummary": "最高检将明确未成年人严重暴力犯罪核准追诉标准。",
-      "credibilityScore": 95,
+      "aiSummary": "岛内民调显示多数人愿对大陆释善意，国台办回应称体现主流民意。",
+      "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源权威（中新网、澎湃新闻），内容具体，有直接引述官方发布会信息。（多源覆盖 +5）"
+      "credibilityReason": "来源为环球网和澎湃新闻，属权威媒体；内容具体，有官方发言人直接引述。（多源覆盖 +5）"
     },
     {
-      "title": "中国海军编队将赴俄罗斯访问 拓展两军务实合作",
-      "link": "https://www.zaobao.com/news/china/story20260623-9249017",
-      "pubDate": "Tue, 23 Jun 2026 03:21:38 GMT",
-      "contentSnippet": "中国军方通报，应俄罗斯军方邀请，中国海军编队将在本月赴俄罗斯访问，拓展两军务实合作。\n中国国防部星期一（6月22日）在官网发布消息，应俄罗斯海军邀请，中国人民解放军海军戚继光舰、昆仑山舰组成的舰艇编队将于6月下旬赴俄罗斯符拉迪沃斯托克访问。\n中俄两军将认真落实两国元首共识，不断拓展各领域务实合作，为深化两国新时代全面战略协作伙伴关系发挥积极作用。\n据央视军事报道，由远洋航海训练舰戚继光舰、综合登陆舰昆仑山舰组成的中国海军83舰编队，6月15日搭载400余名海军院校师生，从山东青岛一座军港解缆起航，执行远海综合实习访问任务。\n戚继光舰是中国目前自主研制、吨位最大、现代化水平最高的专业训练舰，昆仑",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
+      "title": "链通全球 数智生态｜北京银行参展第四届链博会",
+      "link": "https://capital.huanqiu.com/article/4S6ecDxOIgJ",
+      "pubDate": "(Wed,24 Jun 2026 10:43:03 CST)",
+      "contentSnippet": "6月22日，第四届中国国际供应链促进博览会在北京中国国际展览中心启幕。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
       "allSources": [
-        "联合早报·中港台"
+        "环球网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国海军编队应俄邀请本月赴符拉迪沃斯托克访问，拓展两军务实合作。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名媒体联合早报，信息具体（时间、舰艇、人数），有国防部官方引述。"
-    },
-    {
-      "title": "中国大陆更新台湾以东海域濒危物种分布特征",
-      "link": "https://www.zaobao.com/news/china/story20260623-9249036",
-      "pubDate": "Tue, 23 Jun 2026 03:19:08 GMT",
-      "contentSnippet": "中国大陆官媒称，大陆自然资源部在台湾以东海域开展海洋环境调查后，更新了该海域珍稀濒危物种的分布特征。官媒报道还指，调查期间，科考行动两次被日本飞机干扰。\n中国大陆央视旗下媒体《玉渊谭天》星期一（6月22日）晚上传视频称，此次海洋环境调查布设多个调查站位，获取水文环境等现场数据，采集各类样品，并更新了该海域珍稀濒危物种的分布特征。\n视频画面显示，在6月16日至18日的调查期间，科考船“向阳红22”的甲板工作人员穿戴安全头盔与安全带，投放海洋采样设备及下放水文探测仪。\n据《环球时报》报道，本次调查最大特点是首次在台湾东海域开展海鸟、鲸豚类专题生态调查，打破过去仅做单项一次性专业勘测的模式，转为年度",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "大陆更新台湾以东海域濒危物种分布，科考两次遭日本飞机干扰。",
+      "aiSummary": "北京银行参展第四届链博会，展示供应链金融与数智生态服务。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报，内容具体有直接引述，但依赖官媒且无多源验证。"
-    },
-    {
-      "title": "王毅：美伊打开和平大门就不应再次关上",
-      "link": "https://www.zaobao.com/news/china/story20260623-9248962",
-      "pubDate": "Tue, 23 Jun 2026 03:00:00 GMT",
-      "contentSnippet": "中国外长王毅星期一（6月22日）会见埃及国家安全委员会秘书长埃尔丁，表示美伊签署谅解备忘录打开和平大门，就不应再次关上，尽管谈判进程难以一帆风顺，还会出现各种干扰甚至反复，但无论出现什么困难和挑战，都应坚持和平方向，坚持对话协商。\n应印度国家安全顾问多瓦尔（Ajit Doval）邀请，王毅星期一至星期二（23日）出席在印度举行的第16次金砖国家安全事务高级代表会议。\n据中国外交部官网消息，王毅星期一在新德里会见埃及国家安全委员会秘书长埃尔丁（Youssef Alaa El-Deen），双方会上就中东局势交换意见。埃尔丁介绍最新形势和埃及等四方机制的斡旋努力，赞赏北京为止战促和发挥重要作用。\n王",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "王毅呼吁美伊坚持和平对话，不应关闭谈判大门。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报，引用中国外交部官网消息，内容具体，用词客观。"
-    },
-    {
-      "title": "新竹空军基地传出巨响 事发原因待查",
-      "link": "https://www.zaobao.com/news/china/story20260623-9248888",
-      "pubDate": "Tue, 23 Jun 2026 02:46:13 GMT",
-      "contentSnippet": "台湾新竹一处空军基地传出巨响，现场不断冒出阵阵黑烟，事发原因仍有待调查。\n据台湾《联合报》报道，有民众星期二（6月23日）早上在社交媒体发文称，听到新竹空军基地疑似传出巨大爆炸声，随后现场不断窜出黑烟。\n新竹市消防局接获报案后，已派员前往支援，救援人员从位于市区北区成功路的基地侧门进入。据悉，疑似是基地内的油槽发生意外而传出巨响，现场无明火但有大量浓烟。目前暂无人员伤亡报告，详细事发原因及细节仍待进一步厘清。",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "台湾新竹空军基地传出巨响冒黑烟，疑油槽意外，原因待查。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报，较权威；有具体时间地点和消防局行动，但细节待查。"
-    },
-    {
-      "title": "金正恩：美韩行为严重恶化朝鲜半岛局势，将加强国防力量建设",
-      "link": "https://m.thepaper.cn/detail/33434342",
-      "pubDate": "Tue, 23 Jun 2026 02:36:20 GMT",
-      "contentSnippet": "据朝中社23日报道，朝鲜劳动党第九届中央委员会第二次扩大全会6月20日至22日举行。朝鲜劳动党总书记金正恩在会上指出，今年以来美韩种种行为严重恶化朝鲜半岛局势，朝鲜将进一步加强国防力量建设。\n金正恩说，今年以来，美国和韩国日益推进域内增兵等活动，甚至推进韩国核潜艇计划，以及再次召开“核磋商小组会议”，种种行为严重恶化朝鲜半岛局势。\n金正恩强调，要加快推动1万吨级战略导弹巡洋舰建造项目，并致力于研发和生产对提升朝军战斗力具有重要意义的常规武器。他还指出，要保质完成正在进行的南部边境要塞化工程，新建海军舰队基地，以加强国防力量。\n金正恩重申朝鲜对外政策立场。他指出，某些“特定国家”凌驾于国际法之上",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "金正恩指责美韩恶化半岛局势，朝鲜将加强国防建设。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为澎湃新闻，引用朝中社官方报道，内容具体但缺乏多源验证。"
-    },
-    {
-      "title": "最高检：强制报告制度已发现案件1.7万件",
-      "link": "https://m.thepaper.cn/detail/33434321",
-      "pubDate": "Tue, 23 Jun 2026 02:36:20 GMT",
-      "contentSnippet": "最高人民检察院6月23日发布的中国未成年人检察工作40年发展报告显示，各级检察机关先后探索建立了社会调查、亲情会见、合适成年人到场、附条件不起诉、分案起诉、心理疏导、监护干预、强制报告、入职查询等一系列特殊制度。2018年以来，全国检察机关共开展亲情会见9.6万次，落实合适成年人到场9.5万次，申请法律援助34.7万人。2020年5月强制报告制度建立以来，通过强制报告发现案件1.7万件，对不履行强制报告义务造成严重后果的，督促追责1900余人。",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "最高检报告显示强制报告制度已发现1.7万件案件。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源澎湃新闻较权威，内容具体有数据支撑，用词客观。"
-    },
-    {
-      "title": "2018年以来检察机关共起诉侵害未成年人犯罪53.1万人",
-      "link": "https://m.thepaper.cn/detail/33434319",
-      "pubDate": "Tue, 23 Jun 2026 02:36:20 GMT",
-      "contentSnippet": "今年是我国未成年人检察工作创建‌40周年，最高人民检察院今天（23日）发布未成年人检察工作40年发展报告‌。报告显示我国未成年人检察工作机制更加健全，制度体系更加完善，落实“双向保护”原则更加有力。\n2018年以来，检察机关共起诉侵害未成年人犯罪53.1万人。严厉打击性侵害未成年人犯罪，加强未成年被害人关爱救助，推动建立集“询问、取证、身体检查、心理疏导”等功能于一体的“一站式”办案区2600余个，一次性询问10万余人，提供心理疏导11.9万次，发放救助金8.6亿元。",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "最高检报告：2018年来起诉侵害未成年人犯罪53.1万人。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名媒体澎湃新闻，引用最高检官方报告，数据具体，用词客观。"
-    },
-    {
-      "title": "最高检：2025年核准追诉12到14周岁严重暴力犯罪24人",
-      "link": "https://m.thepaper.cn/detail/33434309",
-      "pubDate": "Tue, 23 Jun 2026 02:11:56 GMT",
-      "contentSnippet": "今年是我国未成年人检察工作创建‌40周年，最高人民检察院今天（23日）发布未成年人检察工作40年发展报告‌。报告显示，我国未成年人检察工作机制更加健全，制度体系更加完善，依法惩治和帮教涉罪未成年人更加精准。对于主观恶性大、犯罪性质恶劣、手段残忍、后果严重的涉罪未成年人，坚决依法惩治。\n2018年以来，检察机关共起诉34.9万人。2025年，最高检依法核准追诉已满12周岁不满14周岁未成年人严重暴力犯罪24人。对于犯罪情节较轻、社会危害性较小的未成年人犯罪，依法从宽，附条件不起诉14.4万人，95%以上的未成年人没有再犯。近五年来，7100余名涉罪未成年人经检察机关帮教考上大学。",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "最高检报告称2025年核准追诉12-14岁严重暴力犯罪24人。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源澎湃新闻较权威，内容具体有数据，用词客观，可查证。"
-    },
-    {
-      "title": "王毅：将中印边界问题放到适当位置 避免影响双边关系",
-      "link": "https://www.zaobao.com/news/china/story20260623-9248492",
-      "pubDate": "Tue, 23 Jun 2026 01:41:27 GMT",
-      "contentSnippet": "中共政治局委员、中央外办主任王毅在与印度国家安全顾问多瓦尔会面时说，双方共同努力，促进中印各领域交往逐步恢复，交流合作有序推进，边境保持安宁，因此要将中印边界问题放到适当位置，避免影响双边关系大局。\n应多瓦尔邀请，王毅于6月22日至23日出席在印度举行的第十六次金砖国家安全事务高级代表会议。\n据中国外交部官网消息，王毅当地时间星期一（6月22日）在新德里与多瓦尔会面。\n王毅表示，在中国国家主席习近平和印度总理莫迪共同指引下，中印关系逐渐走出低谷，回到恢复改善轨道。两国领导人一致认为中印是合作伙伴而非竞争对手，这形成了双方最重要的战略共识，为中印关系健康稳定发展提供了重要动力和战略保障。\n他指出",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "王毅称中印边界问题应适当处理，避免影响双边关系大局。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报，引用中国外交部官网信息，内容具体且有直接引述。"
-    },
-    {
-      "title": "学习进行时丨习近平总书记关心致敬老党员的故事",
-      "link": "https://h.xinhuaxmt.com/vh512/share/13161872?newstype=1001&homeshow=1",
-      "pubDate": "Tue, 23 Jun 2026 01:14:34 GMT",
-      "contentSnippet": "学习进行时丨习近平总书记关心致敬老党员的故事",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "习近平总书记关心致敬老党员的故事报道。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源澎湃新闻较权威，内容正面具体，但缺乏多源交叉验证。"
+      "credibilityReason": "来源环球网较权威，内容具体有展会时间地点，但无直接引述或交叉验证。"
     }
   ]
 }
