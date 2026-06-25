@@ -1,264 +1,263 @@
 {
-  "generatedAt": "2026-06-24T03:57:42.231Z",
+  "generatedAt": "2026-06-25T03:58:32.367Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "韩媒：与中国企业界人士座谈时，韩总理称希望韩中各行业合作大幅扩展",
-      "link": "https://world.huanqiu.com/article/4S6gk2g6UVp",
-      "pubDate": "(Wed,24 Jun 2026 11:42:33 CST)",
-      "contentSnippet": "综合韩国《朝鲜日报》、韩联社等媒体报道，韩国国务总理金民锡22日在北京与中国企业界人士座谈，谈及韩国与中国合作等话题。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
+      "title": "两岸媒体川渝行走进荣昌清江 探访乡村振兴多元实践",
+      "link": "https://www.chinanews.com.cn/txy/2026/06-25/10646932.shtml",
+      "pubDate": "Thu, 25 Jun 2026 11:50:39 +0800",
+      "contentSnippet": "中新网重庆6月25日电 (记者 钟旖)时值初夏，重庆市荣昌区清江镇竹林村的稻田翠色绵延，稻波轻漾。台湾资深媒体人、台湾大学教授苑举正行走田埂一侧，远眺连片良田，一架农用植保无人机穿梭田间开展管护作业。一幅乡村振兴的鲜活图景徐徐铺展。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
       "allSources": [
-        "环球网"
+        "中国新闻网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "韩总理金民锡在京与中国企业座谈，呼吁扩大韩中各行业合作。",
+      "aiSummary": "两岸媒体参访重庆荣昌清江镇，聚焦乡村振兴实践。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网，权威媒体；内容具体，有直接引述和细节描述。"
+    },
+    {
+      "title": "海外华文媒体走进山西沁水：百年谷柿醋如何香飘海外？",
+      "link": "https://www.chinanews.com.cn/sh/2026/06-25/10646889.shtml",
+      "pubDate": "Thu, 25 Jun 2026 11:42:21 +0800",
+      "contentSnippet": "中新网晋城6月25日电 (杨杰英 丁雨彤)在山西晋城沁河两岸的明清古堡群间，一种结合谷物与柿子酿造的老味道已传承数百年。6月24日，“世界目光·晋城机遇”2026海外华文媒体晋城行采访团走进山西涌泉香醋业股份有限公司，探访这项省级非物质文化遗产代表性项目——谷柿醋酿造技艺的传承与新生。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "海外华文媒体探访山西沁水谷柿醋酿造技艺，关注其传承与海外推广。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，权威性较高；内容具体，有明确时间、地点和活动细节。"
+    },
+    {
+      "title": "粤黔东西部协作赋能 镇宁蜂糖李走俏湾区市场",
+      "link": "https://www.chinanews.com.cn/cj/2026/06-25/10646826.shtml",
+      "pubDate": "Thu, 25 Jun 2026 11:35:30 +0800",
+      "contentSnippet": "中新网广州6月25日电 (记者 程景伟)贵州镇宁蜂糖李24日亮相广州北京路天河城，开启为期一个月的专场展销活动。产地直采、空运直达的新鲜蜂糖李，搭配镇宁黄牛肉丸、风味香肠等特色农特产品集中展出，让来自贵州深山的优质农特产品走上粤港澳大湾区市民餐桌。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "贵州镇宁蜂糖李在广州展销，通过东西部协作进入大湾区市场。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，有具体时间、地点和活动细节，内容客观可查证。"
+    },
+    {
+      "title": "黄河畔品台湾风味 两岸共叙匠心同源",
+      "link": "https://www.chinanews.com.cn/txy/2026/06-25/10646903.shtml",
+      "pubDate": "Thu, 25 Jun 2026 11:34:24 +0800",
+      "contentSnippet": "中新网济南6月25日电 (李明芮 祁建月)“一杯米酒、一杯麻油、一杯冰糖，比例对了，火候到了，味道就有了。”台湾厨师戚冠钧24日在济南表示，三杯鸡两岸做法有差别，但说到底还是同一道菜。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "台湾厨师在济南分享三杯鸡做法，强调两岸烹饪同源。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，有直接引述和具体细节，内容客观。"
+    },
+    {
+      "title": "最高法：正牵头起草“两高一部”办理新型毒品犯罪案件有关规范性文件",
+      "link": "https://www.chinanews.com.cn/gn/2026/06-25/10646923.shtml",
+      "pubDate": "Thu, 25 Jun 2026 11:33:20 +0800",
+      "contentSnippet": "中新网6月25日电 6月25日，最高人民法院举行“依法惩治新型毒品犯罪，防范未成年人药物滥用”新闻发布会。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "最高法正起草新型毒品犯罪案件规范性文件。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源权威（中国新闻网），内容具体，有直接引述新闻发布会信息。"
+    },
+    {
+      "title": "最高检：对涉未列管成瘾性物质犯罪“零容忍”",
+      "link": "https://www.chinanews.com.cn/gn/2026/06-25/10646881.shtml",
+      "pubDate": "Thu, 25 Jun 2026 11:26:34 +0800",
+      "contentSnippet": "中新网6月25日电 最高人民检察院25日举行“强化毒品案件法律监督 依法从严惩治毒品犯罪”新闻发布会，通报检察机关惩治毒品犯罪工作情况。会上，有记者问，当前未列管成瘾性物质滥用问题受到广泛关注，检察机关如何应对？",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "最高检表示对未列管成瘾性物质犯罪采取零容忍态度。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，转载最高检官方发布会内容，信息具体且有直接引述。"
+    },
+    {
+      "title": "韩国瑜访美与40多位参众议员会面",
+      "link": "https://www.zaobao.com/news/china/story20260625-9260935",
+      "pubDate": "Thu, 25 Jun 2026 02:29:31 GMT",
+      "contentSnippet": "正在美国访问的台湾立法院长韩国瑜，星期三（6月24日）与多达40多位参众议员会面。美国一名议员称，希望台湾总统赖清德有一天能访问美国。\n赖清德上任后出访邦交国时，曾过境美国夏威夷、关岛，但从未过境美国本土。\n据台湾《联合报》报道，韩国瑜所率的跨党派立委访美团，星期二（23日）晚间飞抵华府，星期三展开拜会行程；访团上午听取完台湾驻美代表处的业务工作报告之后，随即前往美国国会山庄，与美国跨党派议员座谈与交流。\n韩国瑜一行人拜访参议院，之后前往众院朗沃斯办公大楼（Longworth House Office Building）参加美国国会台湾连线酒会。\n酒会现场邀请到众院荣誉议长佩洛西 （Nancy",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
+      "allSources": [
+        "联合早报·中港台"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "韩国瑜访美与40多位议员会面，美议员盼赖清德访美。",
       "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为环球网，引述韩媒报道，信息具体且可交叉验证。"
+      "credibilityReason": "来源联合早报较权威，报道具体有直接引述，但未多源交叉验证。"
     },
     {
-      "title": "苹果首款折叠iPhone屏幕供应链细节披露，三星提供专属OLED面板",
-      "link": "https://tech.huanqiu.com/article/4S6gdk92MCk",
-      "pubDate": "(Wed,24 Jun 2026 11:39:43 CST)",
-      "contentSnippet": "【环球网科技综合报道】6月24日消息，据Wccftech报道，市场供应链相关信息显示，苹果首款折叠式iPhone机型（市场预估上市定名iPhone Ultra）屏幕配套方案已基本明确，整机将采用内外双OLED面板搭配设计，两块面板均由三星供应，内外屏选用不同规格面板实现性能与成本平衡",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
+      "title": "检察机关批捕、起诉毒品犯罪人数同比下降",
+      "link": "https://m.thepaper.cn/detail/33449717",
+      "pubDate": "Thu, 25 Jun 2026 02:15:06 GMT",
+      "contentSnippet": "最高人民检察院今天召开新闻发布会，通报依法惩治毒品犯罪情况。最高检副检察长苗生明介绍，在依法从严惩处高压态势下，毒品犯罪得到进一步遏制，毒情形势持续稳中向好，呈现出案件数量减少、犯罪人数减少、规模化制贩毒活动减少等良好态势。2025年1月至2026年5月，全国检察机关共批捕毒品犯罪2.9万余人，同比下降36%；起诉毒品犯罪4.6万余人，同比下降30%。从办案情况看，受境外毒品渗透等多方面因素影响，新型毒品犯罪和未列管成瘾性物质滥用问题突出，惩治毒品犯罪仍需持续发力。如江苏检察机关办理的陈某燕贩卖、运输毒品案，陈某燕利用经营药房之便，贩卖国家管制的精神药品复方曲马多口服制剂30余次，被依法判处七",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
       "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "苹果首款折叠iPhone屏幕由三星供应，采用内外双OLED面板设计。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网为知名媒体，引用Wccftech报道，信息具体但未多源交叉验证。"
-    },
-    {
-      "title": "民进党当局规划建构所谓“即侦即打”不对称战力，国台办驳斥！",
-      "link": "https://taiwan.huanqiu.com/article/4S6fnqU0P9d",
-      "pubDate": "(Wed,24 Jun 2026 11:16:17 CST)",
-      "contentSnippet": "6月24日上午，国台办举行例行新闻发布会，发言人张晗就近期两岸热点问题回答记者提问。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国台办驳斥民进党当局“即侦即打”不对称战力规划。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体有直接引述，事实可查证。"
-    },
-    {
-      "title": "《给阿嬷的情书》引港澳市民共鸣——“成为当代港澳青年生动通俗的家族历史教材”",
-      "link": "https://lx.huanqiu.com/article/4S6fYjNDdWT",
-      "pubDate": "(Wed,24 Jun 2026 11:09:28 CST)",
-      "contentSnippet": "这部影片也勾起港澳青年对家族历史的探索、对民族文化的认同。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "《给阿嬷的情书》引发港澳青年共鸣，被视为家族历史教材。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体有引述，但缺乏多源交叉验证。"
-    },
-    {
-      "title": "竞相布局人工智能 全球企业“链”上中国机遇",
-      "link": "https://capital.huanqiu.com/article/4S6fV4HyAeM",
-      "pubDate": "(Wed,24 Jun 2026 11:07:49 CST)",
-      "contentSnippet": "在今年链博会现场，原有的“数字科技链”升级成为“数智科技链”。这一字之变，背后体现的是人工智能正在成为产业链上的主角。现场首设的人工智能专区集聚了中外AI领军企",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "全球企业竞相布局人工智能，链博会升级展示中国机遇。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体有展会细节，但缺乏多源交叉验证。"
-    },
-    {
-      "title": "商务部：中国将迎来汽车后市场快速增长期",
-      "link": "https://capital.huanqiu.com/article/4S6fTYYxKwg",
-      "pubDate": "(Wed,24 Jun 2026 11:07:08 CST)",
-      "contentSnippet": "6月23日，中国国务院新闻办公室在北京举行新闻发布会，商务部副部长盛秋平，工业和信息化部装备工业一司负责人郭守刚，商务部市场运行和消费促进司司长杨沐，文化和旅游",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "商务部预测中国汽车后市场将快速增长，发布会透露政策支持。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为环球网，引用官方发布会及官员发言，信息具体可查证。"
-    },
-    {
-      "title": "梁文杰发表“台湾人几乎不吃凤梨释迦”言论引发岛内舆论哗然，国台办回应",
-      "link": "https://taiwan.huanqiu.com/article/4S6fGiBAdpx",
-      "pubDate": "(Wed,24 Jun 2026 11:01:20 CST)",
-      "contentSnippet": "6月24日上午，国台办举行例行新闻发布会，发言人张晗就近期两岸热点问题回答记者提问。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "梁文杰称台湾人几乎不吃凤梨释迦，国台办回应引发岛内争议。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体有直接引述，事实可查证。"
-    },
-    {
-      "title": "国台办：我们有坚定意志、坚强决心、强大能力，粉碎一切“台独”分裂图谋",
-      "link": "https://taiwan.huanqiu.com/article/4S6f5mEg41R",
-      "pubDate": "(Wed,24 Jun 2026 10:56:23 CST)",
-      "contentSnippet": "6月24日上午，国台办举行例行新闻发布会，发言人张晗就近期两岸热点问题回答记者提问。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "6月24日上午，国台办举行例行新闻发布会，发言人张晗就近期两岸热点问题回答记者提",
-      "credibilityScore": 51,
-      "credibilityLevel": "low",
-      "credibilityReason": "因内容合规限制，使用来源权重作为默认评分"
-    },
-    {
-      "title": "国台办：在强大的人民军队面前，民进党当局装腔作势纯属徒劳，只会害台毁台、自取灭亡",
-      "link": "https://taiwan.huanqiu.com/article/4S6f20hjp5O",
-      "pubDate": "(Wed,24 Jun 2026 10:54:41 CST)",
-      "contentSnippet": "6月24日上午，国台办举行例行新闻发布会，发言人张晗就近期两岸热点问题回答记者提问。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国台办警告民进党当局，在解放军面前装腔作势只会自取灭亡。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为官方媒体环球网，直接引述国台办发言人，内容具体且权威。"
-    },
-    {
-      "title": "台媒称台军正在进行所谓“立即备战操演”，国台办：包藏民进党当局“以武谋独”祸心",
-      "link": "https://taiwan.huanqiu.com/article/4S6f1vvrDt1",
-      "pubDate": "(Wed,24 Jun 2026 10:54:39 CST)",
-      "contentSnippet": "6月24日上午，国台办举行例行新闻发布会，发言人张晗就近期两岸热点问题回答记者提问。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国台办批评台军操演是“以武谋独”祸心。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体有直接引述，用词客观。"
-    },
-    {
-      "title": "台东县长以视频方式参与海峡论坛活动后，台陆委会主委扬言要对其进行查处，国台办回应",
-      "link": "https://taiwan.huanqiu.com/article/4S6f0QJ5VoL",
-      "pubDate": "(Wed,24 Jun 2026 10:53:58 CST)",
-      "contentSnippet": "6月24日上午，国台办举行例行新闻发布会，发言人张晗就近期两岸热点问题回答记者提问。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "台东县长视频参与海峡论坛，台陆委会扬言查处，国台办回应。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体有直接引述，事实可查证。"
-    },
-    {
-      "title": "博鳌大健康链接全球资源 聚力打造国际医疗旅游产业新标杆",
-      "link": "https://health.huanqiu.com/article/4S6exSjO5Kv",
-      "pubDate": "(Wed,24 Jun 2026 10:52:38 CST)",
-      "contentSnippet": "她表示，集团将借力链博会这一国际展示交流平台，面向全球擦亮博鳌特许医疗特色品牌，深度释放海南自贸港医疗创新发展潜力，持续深耕博鳌乐城国际医疗旅游先行区，主动融入",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "博鳌借链博会推动国际医疗旅游产业，打造全球医疗标杆。",
-      "credibilityScore": 70,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体但缺少直接引述和交叉验证。"
-    },
-    {
-      "title": "国台办：不管赖清德散布什么谬论、买多少武器，都改变不了台湾前途只能由包括台湾同胞在内的全体中国人民共同决定的铁律",
-      "link": "https://taiwan.huanqiu.com/article/4S6etMNyypv",
-      "pubDate": "(Wed,24 Jun 2026 10:50:47 CST)",
-      "contentSnippet": "6月24日上午，国台办举行例行新闻发布会，发言人张晗就近期两岸热点问题回答记者提问。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国台办重申台湾前途由全体中国人民共同决定，批驳赖清德言论和军购。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网为知名媒体，内容直接引述国台办官方表态，权威性高。"
-    },
-    {
-      "title": "岛内民调显示选择“对大陆释出善意”的比例远高于“与美国深化合作”，国台办回应",
-      "link": "https://taiwan.huanqiu.com/article/4S6eofSZrOa",
-      "pubDate": "(Wed,24 Jun 2026 10:48:40 CST)",
-      "contentSnippet": "6月24日上午，国台办举行例行新闻发布会，发言人张晗就近期两岸热点问题回答记者提问。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网",
         "澎湃新闻"
       ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "岛内民调显示多数人愿对大陆释善意，国台办回应称体现主流民意。",
-      "credibilityScore": 90,
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "检察机关批捕起诉毒品犯罪人数同比下降，毒情形势向好。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为环球网和澎湃新闻，属权威媒体；内容具体，有官方发言人直接引述。（多源覆盖 +5）"
+      "credibilityReason": "来源澎湃新闻较权威，内容具体有数据，引述最高检发布会，用词客观。"
     },
     {
-      "title": "链通全球 数智生态｜北京银行参展第四届链博会",
-      "link": "https://capital.huanqiu.com/article/4S6ecDxOIgJ",
-      "pubDate": "(Wed,24 Jun 2026 10:43:03 CST)",
-      "contentSnippet": "6月22日，第四届中国国际供应链促进博览会在北京中国国际展览中心启幕。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
+      "title": "今年前5个月上海实现进出口2.1万亿元，增长17.9%",
+      "link": "https://m.thepaper.cn/detail/33449563",
+      "pubDate": "Thu, 25 Jun 2026 01:56:08 GMT",
+      "contentSnippet": "2026年6月25日，澎湃新闻（www.thepaper.cn）记者从上海海关获悉，今年前5个月，上海市累计实现进出口2.1万亿元，增长17.9%，外贸运行稳中向好。其中5月，上海市进出口4204.9亿元，同比增长11.5%，连续16个月保持增长态势；出口2000.1亿元，增长26.7%；进口2204.8亿元，增长0.6%。主要呈现四方面特点：\n一是对主要经济体进出口保持较快增长。5月，上海市对全球主要经济体贸易保持稳定增长。对东盟进出口701.1亿元，增长26.4%，其中对越南增速高达110.4%；对欧盟进出口695.7亿元，增长2.6%；对美国进出口359.3亿元，增长14.8%，其中出口",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
       "allSources": [
-        "环球网"
+        "澎湃新闻"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "北京银行参展第四届链博会，展示供应链金融与数智生态服务。",
+      "aiSummary": "上海前5月进出口2.1万亿元，同比增长17.9%，外贸稳中向好。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源澎湃新闻较权威，内容具体有数据支撑，发布时间明确，用词客观。"
+    },
+    {
+      "title": "台官方感谢美英法德关切中国大陆在台东部海域活动",
+      "link": "https://www.zaobao.com/news/china/story20260625-9260622",
+      "pubDate": "Thu, 25 Jun 2026 01:42:07 GMT",
+      "contentSnippet": "台湾外交部星期三（6月24日）发文感谢美、英、法、德四方关切中国大陆在台湾东部海域的活动。\n英国在台办事处、法国在台协会与德国在台协会同日发表联合声明称，对于中国大陆在台湾东部海域的新活动表示关切，并指这些行动威胁区域稳定、航行自由和国际航运安全。\n联合声明称：“我们重申反对任何单方面改变现状的行为，尤其反对以威胁、武力或胁迫手段进行改变。所有航行权利和自由以及海员和船舶的安全必须得到保障和尊重，这一点至关重要。”\n美国在台协会（AIT）发言人也在星期三回复台媒记者询问时说，美国对有报道指大陆海警及海事管理机关船只在台湾东部海域活动期间，骚扰商业船舶，并声称其是在中国大陆管辖海域内执法一事表示",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
+      "allSources": [
+        "联合早报·中港台"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "台湾感谢美英法德关切大陆在台东部海域活动，四方发声明反对单方面改变现状。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为联合早报，较权威；内容具体，有直接引述；但未多源交叉验证。"
+    },
+    {
+      "title": "日媒：两名日本人被拘加剧在华日企不安",
+      "link": "https://www.zaobao.com/news/china/story20260625-9260584",
+      "pubDate": "Thu, 25 Jun 2026 01:34:17 GMT",
+      "contentSnippet": "中国政府拘留了两名涉嫌走私稀土相关产品的日本公民，日媒报道称，此次事件加剧在华日企不安。\n据共同社报道，近年来接连有日本人在中国被拘留或逮捕，越来越多的日企开始避免派驻员工及其家属同行，在华日本人持续减少。本次事件后，已有日企考虑暂停赴华出差。\n在大连设有分支机构的日资企业一名高管称“不得不考虑采取减少赴华出差等应对措施”。一名从事半导体业务的日资企业男性也表示“越来越多的派驻员工对在中国工作感到不安。”\n中国外交部发言人郭嘉昆星期三（6月24日）在例行记者会上通报，两名日本人因违反中国法律被中方主管部门拘留，中方并已向日本通报有关个案。\n郭嘉昆没有透露两名被拘的日本人违反了什么法律，但日本内",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
+      "allSources": [
+        "联合早报·中港台"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "两名日本人因涉嫌走私稀土被中国拘留，引发在华日企不安。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为联合早报，引用共同社报道，有直接引述和官方回应，信息具体可查证。"
+    },
+    {
+      "title": "胡诚林、彭纯辞去中国政协委员",
+      "link": "https://www.zaobao.com/news/china/story20260625-9260427",
+      "pubDate": "Thu, 25 Jun 2026 01:09:35 GMT",
+      "contentSnippet": "中国全国政协常委会本周召开会议，会议通过关于撤销湖北原省长王晓东委员资格，以及接受陕西道协前会长胡诚林、中投公司董事长彭纯辞去委员的决定。\n据新华社报道，全国政协常委会会议星期二（6月23日）开幕，星期三（24日）闭幕。\n经表决，会议决定增补李晓红为全国政协委员、教科卫体委员会副主任，增补肖培为全国政协委员、社会和法制委员会副主任；通过关于接受陈群请辞全国政协常委、委员的决定。\n会议也通过关于免去王晓东全国政协常委、农业和农村委员会副主任职务并撤销其委员资格的决定；通过关于接受胡诚林、彭纯辞去全国政协委员的决定。\n此外，会议也追认关于撤销魏小东、侯贵松全国政协委员资格的决定。\n冠病疫情暴发后，",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
+      "allSources": [
+        "联合早报·中港台"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "胡诚林、彭纯辞去中国政协委员职务，政协常委会通过相关决定。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为联合早报，引用新华社报道，信息具体且可查证。"
+    },
+    {
+      "title": "美官方鼓励各州和企业领袖扩大与台湾贸易投资交流",
+      "link": "https://www.zaobao.com/news/china/story20260625-9260300",
+      "pubDate": "Thu, 25 Jun 2026 00:29:13 GMT",
+      "contentSnippet": "美国在台协会（AIT）星期三（6月24日）发文公布，美国国务院、农业部及商务部联合致函各州州长与美国企业领袖，鼓励进一步扩大与台湾在贸易、投资、教育、观光及灾害防备方面的交流。\nAIT在脸书强调，此类合作完全符合《台湾关系法》下的美国政策，并说：“致州长的信函中，特别强调了州政府与地方政府在深化双边关系中所扮演的独特角色，包括在灾害防备及关键基础设施韧性方面的合作。致企业领袖的信函则着重于双方广泛的商业机会，并鼓励各公司积极运用美国政府资源以获取正确讯息。”\n美国在台协会说，两份信函皆强调了美台伙伴关系的重要性与深度。“台湾目前是美国第四大贸易伙伴、全球先进制造与数位经济的领头羊，同时也是双方",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
+      "allSources": [
+        "联合早报·中港台"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "美国官方鼓励各州和企业扩大与台湾的贸易投资交流",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为联合早报，信息具体，有直接引述AIT声明，内容可查证"
+    },
+    {
+      "title": "王毅：美伊绝不能重燃战火",
+      "link": "https://www.zaobao.com/news/china/story20260625-9260115",
+      "pubDate": "Wed, 24 Jun 2026 23:38:00 GMT",
+      "contentSnippet": "中共中央政治局委员、外交部长王毅说，美国和伊朗要巩固全面停火止战局面，绝不能重燃战火。\n据中新社报道，王毅星期三（6月24日）晚应约同巴基斯坦副总理兼外长达尔通电话。\n达尔通报了伊朗与美国开启新阶段谈判有关情况，感谢中方始终坚定支持巴方和平斡旋努力，巴方期待同中方继续密切协调配合，共同为实现地区持久和平稳定发挥建设性作用。\n王毅感谢巴方第一时间通报伊美新阶段谈判情况，表示伊美签署谅备是国际社会共同努力的结果，巴基斯坦在其中发挥了关键和独特作用。和平进程刚刚开始，今后还有很长甚至曲折艰难的路要走。但中方将一如既往支持巴基斯坦和志同道合的国家继续发挥建设性作用，愿同巴方保持密切沟通协调。\n王毅说，",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
+      "allSources": [
+        "联合早报·中港台"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "王毅称美伊绝不能重燃战火，应巩固停火局面。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为联合早报，引述中新社报道，内容具体，有直接引述，可信度较高。"
+    },
+    {
+      "title": "言短意长｜一台全骨科手术机器人的“国产朋友圈”",
+      "link": "https://m.thepaper.cn/detail/33447117",
+      "pubDate": "Wed, 24 Jun 2026 23:31:30 GMT",
+      "contentSnippet": "第四届链博会上，一台人工智能全骨科手术机器人被称为“皇冠上的明珠”。在现场，它展示了膝关节置换手术，机械臂精准操作，整个流程一气呵成。这台设备背后是300多家国产供应链伙伴的支撑。",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "链博会展示国产全骨科手术机器人，由300多家供应链支撑。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体有展会时间地点，但无直接引述或交叉验证。"
+      "credibilityReason": "来源澎湃新闻较权威，内容具体有细节，但缺乏直接引述和多源验证。"
     }
   ]
 }
