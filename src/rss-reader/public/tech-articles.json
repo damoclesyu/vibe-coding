@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-25T03:59:50.670Z",
+  "generatedAt": "2026-06-26T04:06:55.897Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "国产航电黑马8个月融三轮，要做中国版霍尼韦尔｜36氪首发",
-      "link": "https://36kr.com/p/3868030861645058?f=rss",
-      "pubDate": "2026-06-25 11:25:46  +0800",
-      "contentSnippet": "文 | 阿至\n给飞行器做“大脑”，从来不是一件容易事，在国内尤其如此。\n这是一个长期被欧美巨头垄断的赛道，霍尼韦尔、柯林斯宇航、泰雷兹和GE四家吃下超过八成市场份额。从当下的产业背景来看，自主航电不仅关乎中国航空产业的供应链安全，也是国产民机、eVTOL等新机型实现成本可控和商业化闭环的重要前提之一。\n在这一核心环节，一家成立不到4年的创业公司，想通过全栈自研打破国际垄断，做自主可控的综合航电系统，沿着“先国家队后民营”的路径，推动一场自上而下的市场卡位。\n我们了解到，云际航电已于近期连续完成pre-A和pre-A+两轮融资，规模为数千万元，投资方包括海河产业基金、亦庄新城实业、厚天资本、成都",
+      "title": "半日主力资金加仓国防军工股，抛售通信股",
+      "link": "https://36kr.com/newsflashes/3869470411330823?f=rss",
+      "pubDate": "2026-06-26 11:54:47  +0800",
+      "contentSnippet": "主力资金早间净流入国防军工、建筑装饰、房地产等板块，净流出通信、电子、有色金属等板块。具体到个股来看，京东方A、太极实业、TCL中环获净流入32.32亿元、25.36亿元、22.16亿元。净流出方面，中际旭创、新易盛、中天科技遭抛售43.39亿元、43.33亿元、43.33亿元。（第一财经）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -16,69 +16,169 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "云际航电8个月融三轮，欲做中国版霍尼韦尔，打破航电垄断。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪知名科技媒体，内容具体有融资细节，但缺乏技术验证数据。"
-    },
-    {
-      "title": "36氪首发 | 固态变压器领域累计出货超50MW，功率半导体模组厂商完成数千万元融资",
-      "link": "https://36kr.com/p/3867975570035717?f=rss",
-      "pubDate": "2026-06-25 10:29:39  +0800",
-      "contentSnippet": "作者 | 乔钰杰\n编辑 | 袁斯来\n硬氪获悉，矽迪半导体近日完成数千万元人民币天使轮+融资，由苏创投和婧嘉投资共同投资，后浪资本担任战略财务顾问。本轮融资资金将主要用于固态变压器（SST）功率模组研发、产品迭代以及供应链体系建设。\n矽迪半导体成立于2023年，主要从事功率半导体模组的研发、制造与销售，产品覆盖全碳化硅（SiC）功率模组、IGBT+SiC混合模组以及定制化功率解决方案，应用方向包括光伏储能、数据中心电源以及固态变压器等场景。\n据介绍，公司目前已累计开发约60款产品，其中近50余款产品进入量产阶段，量产产品以碳化硅三电平功率模组为主，主要面向新型电力、绿色能源、智能终端三大领域供货",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "矽迪半导体获数千万元融资，用于固态变压器功率模组研发。",
+      "aiSummary": "半日主力资金流入国防军工，流出通信板块。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，内容具体，包含融资细节、产品数据及技术方向，逻辑清晰。"
+      "credibilityReason": "来源36氪为知名科技媒体，内容引用第一财经数据，信息具体有细节。"
     },
     {
-      "title": "2025 中国开源年度报告：OpenHarmony 登顶全球，7 年后中国开发者贡献度有望超过美国",
-      "link": "https://www.ithome.com/0/968/251.htm",
-      "pubDate": "Thu, 25 Jun 2026 01:02:00 GMT",
-      "contentSnippet": "IT之家 6 月 25 日消息，开源社（开源促进会 OSI 在中国的首个成员）于 6 月 22 日发布《2025 中国开源年度报告》，指出中国开源生态迎来历史性跃升。\n\n2016~2025 各国新增活跃开发者变化趋势（GitHub 平台），图源：《2025 中国开源年度报告》\nIT之家援引《2025 中国开源年度报告》报告内容，梳理其中几个关键信息如下：\n\n中国在 GitHub 平台的活跃开发者超 210 万，稳居全球第三；\n\nOpenHarmony 以 60089 的 OpenRank 值登顶全球开源项目影响力榜首；\n\n中美贡献度增速差已超过 10%，按当前态势，7 年后中国开发者贡献度有望",
+      "title": "链博会上的新共识：链式投资正形成闭环",
+      "link": "https://www.tmtpost.com/8042310.html",
+      "pubDate": "Fri, 26 Jun 2026 11:40:23 +0800",
+      "contentSnippet": "三重视角彼此印证，构成了链式投资从理念到实践的完整拼图。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "链博会报道链式投资形成闭环，三重视角印证理念到实践。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体，内容具体但缺乏数据支撑和原始出处。"
+    },
+    {
+      "title": "国家能源局：未来西部地区不仅要向外送电、送煤、送气，还要向外送产品、送Token（词元）",
+      "link": "https://36kr.com/newsflashes/3869422174737672?f=rss",
+      "pubDate": "2026-06-26 10:59:47  +0800",
+      "contentSnippet": "6月26日，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，介绍“十五五”时期加快新型能源体系建设有关规划情况。国家能源局新闻发言人、副局长万劲松表示，“十五五”时期将切实保障东中部地区用能需求，同时还将推动东中部重点用能地区挖掘潜力，加强本地非化石能源的就近开发利用，合理布局新增支撑电源，推动电从远方来，也从身边来。此外，还将有序引导高载能产业有序向西部转移，推动先进制造业、算力、氢能等产业布局与清洁能源基地协同，促进用能产业空间布局优化，未来西部地区不仅要向外送电、送煤、送气，还要向外送产品、送Token（词元）。（证券时报）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国家能源局称西部将向外送产品、Token，推动产业与清洁能源协同。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为36氪转载证券时报，引用官方发布会内容，信息具体且逻辑清晰。"
+    },
+    {
+      "title": "世界额定水头最高、我国单机容量最大抽蓄电站在浙江天台投产",
+      "link": "https://www.ithome.com/0/968/799.htm",
+      "pubDate": "Fri, 26 Jun 2026 02:52:14 GMT",
+      "contentSnippet": "IT之家 6 月 26 日消息，中国三峡建工宣布，6 月 25 日 23 点 59 分，随着最后一台机组顺利完成 15 天考核试运行，总装机容量 170 万千瓦的浙江天台抽水蓄能电站实现全面投产发电。\n\nIT之家从官方介绍获悉，该电站是世界额定水头最高、国内单机容量最大的抽水蓄能电站，也是“十五五”时期国内首个全面投产的抽水蓄能电站。电站全面投产，标志着我国在超高水头、大容量抽水蓄能技术领域实现重大跨越，对我国抽水蓄能产业高质量发展具有重要意义，也为加速建设新型电力系统增添了一座“调节器”。\n天台抽水蓄能电站位于浙江省台州市天台县，是国家“十四五”重点实施项目，由三峡集团投资建设。电站主体工程",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
-        "IT之家",
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "浙江天台抽水蓄能电站全面投产，创世界额定水头最高纪录。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体IT之家，信息具体有数据支撑，引用官方宣布，逻辑清晰。"
+    },
+    {
+      "title": "广汽启境 GT7 今晚上市，启境 GX7 同步亮相",
+      "link": "https://www.ithome.com/0/968/775.htm",
+      "pubDate": "Fri, 26 Jun 2026 01:56:43 GMT",
+      "contentSnippet": "IT之家 6 月 26 日消息，广汽与华为乾崑联合打造启境 GT7 车型将于今晚 19:00 上市，据官方最新消息，启境 GX7 也会在本次发布会同步亮相。\n\n\n启境 GT7 在 2026 第三十届粤港澳大湾区车展上正式开启预售，预售价区间 21.99-30.99 万元。启境 GT7 已官宣华为六大汽车智能化解决方案上车。该车搭载全新一代鸿蒙座舱 HarmonySpace，全系搭载华为乾崑智驾 ADS 5，标配闭式双腔空悬，首发华为乾崑赤兔平台，零百公里加速 2.98 秒，续航至高 900km。\n\n启境首款大五座 SUV—— 启境 GX7 的实车预告图现已公布，新车覆盖了伪装贴纸，整体用大量曲",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "广汽启境GT7今晚上市，GX7同步亮相，搭载华为智驾系统。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，信息具体且有数据支撑，逻辑清晰。"
+    },
+    {
+      "title": "白宫应用自动下载到政府配发手机上且无法卸载",
+      "link": "https://www.solidot.org/story?sid=84674",
+      "pubDate": "Thu, 25 Jun 2026 16:02:17 +0800",
+      "contentSnippet": "美国白宫今年五月宣布其白宫应用将自动下载到政府配发手机上。该应用无法卸载，即使政府雇员尝试卸载，应用也会很快重新安装。美国农业部、国务院和劳工部员工匿名接受采访时表示，这款应用出现在手机上时让他们感到不安，有人试图删除它，但失败了。“我把它删了，测试下，结果它立刻又出现了，”一位美国农业部雇员说。白宫应用内有一个按钮，允许用户“给特朗普总统发短消息”，点击后会自动弹出一个写着“史上最伟大总统”的文本框。应用的社交部分可看到来自白宫 X 账号推文、特朗普 Truth Social 账号发布的帖子，以及官方账号在 TikTok 和 Instagram 等平台上分享的视频。新闻部分包含了白宫新闻稿、",
+      "sourceName": "Solidot",
+      "sourceWeight": 75,
+      "allSources": [
         "Solidot"
       ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "报告称OpenHarmony登顶全球开源项目，中国开发者贡献度7年后或超美国。",
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "白宫应用强制安装至政府手机且无法卸载，引发员工不安。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源Solidot为知名科技媒体，内容具体有员工匿名采访，但缺乏官方确认和细节。"
+    },
+    {
+      "title": "恒指午间休盘跌1.87%，恒生科技指数跌3.32%",
+      "link": "https://36kr.com/newsflashes/3869483761767683?f=rss",
+      "pubDate": "2026-06-26 12:02:26  +0800",
+      "contentSnippet": "36氪获悉，恒指午间休盘跌1.87%，恒生科技指数跌3.32%；科技、光模块、GEO概念领跌，长飞光纤光缆跌近14%，智谱、澜起科技跌超10%，MINIMAX-WP跌超8%；阿里巴巴跌超4%。南向资金净买入4.93亿港元。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "恒指午盘跌1.87%，科技板块领跌。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪知名科技媒体，数据具体且时效性强。"
+    },
+    {
+      "title": "格力电器：七人侵权被判有期徒刑，今年前五月收 91 起侵权裁判文书",
+      "link": "https://www.ithome.com/0/968/848.htm",
+      "pubDate": "Fri, 26 Jun 2026 03:56:38 GMT",
+      "contentSnippet": "IT之家 6 月 26 日消息，格力电器今日发布“知识产权维权进展通报”称，针对“空调、风扇、浴霸等家电商标侵权、不正当竞争”“压缩机虚假宣传”等知识产权侵权行为，格力电器坚决采取法律措施维护自身权益。\n通报显示，在 2026 年 1 月至 5 月期间，格力电器收到 91 起“侵害商标权”“不正当竞争纠纷”等民事案件的裁判文书，涉案侵权主体依法均已受到惩处，合计判赔金额 254.25 万元。\n据格力电器进一步透露，2024 年 1 月至 2026 年 5 月，因侵权产生的刑事案件结案 6 起，有 7 人被判处有期徒刑 6 个月至 3 年不等、罚金总计 30 万元；民事案件结案 675 起，判赔",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "格力电器维权通报：前五月91起侵权案，7人获刑。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有数据支撑，引用格力官方通报。"
+    },
+    {
+      "title": "蔚来李斌：2030 年纯电车型在中国新车市场渗透率将超 80%",
+      "link": "https://www.ithome.com/0/968/844.htm",
+      "pubDate": "Fri, 26 Jun 2026 03:50:48 GMT",
+      "contentSnippet": "IT之家 6 月 26 日消息，据新浪科技今日报道，蔚来创始人、董事长、CEO 李斌在 2026 蔚来合作伙伴日上表示，2030 年纯电车型在中国新车市场渗透率将超 80%。具体而言，新能源汽车在中国新车市场渗透率将超过 90%，而纯电在新能源汽车市场占比将超过 90%。\nIT之家注意到，乘联分会数据显示，5 月 1 日-31 日，全国乘用车市场零售 151.0 万辆，同比下降 22.1%，环比增长 9.2%；今年以来累计零售 709.9 万辆，同比下降 19.5%。然而，高油价、消费转型等因素加速“油电替代”过程，5 月新能源零售渗透率持续突破 60%，达到 62.9% 的历史高位。\n在本月",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "蔚来李斌预测2030年纯电车型在中国渗透率超80%。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，内容引用企业高管言论及乘联会数据，逻辑清晰，但预测性内容缺乏独立验证。"
+    },
+    {
+      "title": "4.18 万元起，张雪机车 820R 街车、820RR-R 仿赛摩托车发售",
+      "link": "https://www.ithome.com/0/968/841.htm",
+      "pubDate": "Fri, 26 Jun 2026 03:43:10 GMT",
+      "contentSnippet": "IT之家 6 月 26 日消息，张雪机车今日发布了 820R 和 820RR-R 两款摩托车新品。\n\n820R 街车\n张雪 820R 街车统一零售价 4.18 万元，可选黑白两款配色。\n\n该车搭载直列三缸发动机，最大功率 99kW@12000rpm，最大扭矩 80N·m@9500rpm，最高转速可达 13750rpm。\n\n\n\n\n820RR-R 仿赛\n张雪 820RR-R 仿赛摩托车统一零售价 6.198 万元，可选黑白红三款配色；直列三缸发动机最高转速可达 14750rpm，最大功率 107kW，最大扭矩 85N·m。\n\n该车采用轻量化设计，整备质量仅 186kg，零百加速 2.81 秒，配有",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "张雪机车发布820R街车和820RR-R仿赛，售价4.18万起。",
       "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，引用开源社报告，但缺乏原始数据链接和独立验证。（多源覆盖 +5）"
+      "credibilityReason": "来源IT之家为知名科技媒体，信息具体含价格、参数，但缺乏原始出处。"
     },
     {
-      "title": "阿里巴巴已起诉美国防部：要求将其从“中国军事企业名单”中移除",
-      "link": "https://www.ithome.com/0/968/250.htm",
-      "pubDate": "Thu, 25 Jun 2026 00:52:03 GMT",
-      "contentSnippet": "IT之家 6 月 25 日消息，多家外媒 6 月 23 日报道称，阿里巴巴起诉美国国防部，要求将其从“中国军事企业名单”中移除。6 月 24 日，阿里巴巴向《环球时报》记者证实了上述消息。\n阿里巴巴在声明中表示：“我们已正式对美国国防部提起诉讼，要求将公司从‘中国军事企业名单’中移除。”阿里巴巴强调，公司并非中国军工企业，亦未参与任何“军民融合”战略。将阿里巴巴列入名单的决定毫无事实依据，武断且反复无常。\nIT之家注意到，6 月 8 日，美国国防部更新“中国军事企业名单”，将阿里巴巴、百度、比亚迪等中国企业列入其中。随后，阿里巴巴等多家公司发表声明表示强烈反对。\n\n阿里巴巴 6 月 9 日在港",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家",
-        "Solidot"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "阿里巴巴起诉美国防部，要求移除出中国军事企业名单。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家和Solidot，信息具体且有阿里巴巴声明和环球时报证实，逻辑清晰。（多源覆盖 +5）"
-    },
-    {
-      "title": "氪星晚报 ｜豆包专业版正式上线；消息称苹果将于7月下旬量产首款可折叠iPhone；华泰证券：海外高成本支撑 远期铝价不宜悲观",
-      "link": "https://36kr.com/p/3867032586867972?f=rss",
-      "pubDate": "2026-06-24 18:35:25  +0800",
-      "contentSnippet": "大公司：\n华东医药：全资子公司获得注射用HDM2005药物临床试验批准通知书\n36氪获悉，华东医药公告，全资子公司杭州中美华东制药有限公司收到国家药监局核准签发的《药物临床试验批准通知书》，注射用HDM2005联合PD-1单抗和AD用于治疗经典型霍奇金淋巴瘤的临床试验申请获批。该药物为靶向ROR1的ADC药物，目前正围绕恶性肿瘤开展多适应症临床开发。本次获批将提升公司在肿瘤治疗领域的核心竞争力，但药物从临床试验到上市存在不确定性，对近期业绩无重大影响。\nSK海力士已提交美国IPO申请\n据报道，据报道，SK海力士已提交美国IPO申请，计划在纳斯达克上市。富邦证券、花旗集团、高盛、摩根大通为其首次",
+      "title": "“深度机智”再获数亿元融资",
+      "link": "https://36kr.com/newsflashes/3869464585442305?f=rss",
+      "pubDate": "2026-06-26 11:42:55  +0800",
+      "contentSnippet": "36氪获悉，近日，“深度机智”宣布完成新一轮数亿元融资。本轮由国寿长三角科创基金领投，老股东普华资本、诚通科创基金持续加注，蓝湖资本、博彦科技、磐谷创投、朝晖资本、财鑫资本、道禾长期投资、易高资本、明德资本等多家市场化与产业资本共同参与。目前下一轮融资已进入收尾阶段。此前深度机智全产品线均已实现商业订单，累计签约金额达数千万元。",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -86,16 +186,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "36氪报道豆包专业版上线、苹果折叠iPhone量产及铝价分析。",
-      "credibilityScore": 75,
+      "aiSummary": "深度机智完成数亿元融资，多家机构参与，累计签约数千万元。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体但部分信息未提供原始出处。"
+      "credibilityReason": "来源36氪为知名科技媒体，信息具体（融资额、领投方、签约金额），逻辑清晰。"
     },
     {
-      "title": "IDC 报告：2026Q1 全球手持智能相机市场出货量同比增长 33% 至 414 万台，大疆、影石前二",
-      "link": "https://www.ithome.com/0/968/375.htm",
-      "pubDate": "Thu, 25 Jun 2026 03:58:11 GMT",
-      "contentSnippet": "IT之家 6 月 25 日消息，今日，国际数据公司（IDC）最新发布的《2026 年第一季度全球手持智能相机市场跟踪报告》显示，2026Q1 全球手持智能相机市场出货量达到 414 万台，同比增长 33%。销售额超过 105 亿元人民币，同比增长 20%。IDC 预计，至 2030 年，全球手持智能相机市场规模将会超过 4000 万台，五年复合增长率接近 18%。\n\n运动相机市场：26Q1 全球运动相机出货量接近 201 万台，同比增长 39%。平均单价 2149 人民币，同比下降 11%。推动市场高速增长的主升浪来自于大疆和影石爆款明星产品热销，同时上一代产品的强势调价促销也为厂家贡献了良好",
+      "title": "特斯拉中国为员工子女设奖学金：考上 985、211 最高奖 5000 元",
+      "link": "https://www.ithome.com/0/968/840.htm",
+      "pubDate": "Fri, 26 Jun 2026 03:40:55 GMT",
+      "contentSnippet": "IT之家 6 月 26 日消息，今日，特斯拉公司副总裁陶琳微博发文表示，为特斯拉员工子女设立的“星河奖学金”正式上线。\n据其介绍，“每年，我们都会收到许多来自员工子女的喜报：无论是被国内外顶尖高校录取，还是在全国性科学竞赛中摘得桂冠，或是在顶级期刊上发表论文…… 这些闪光的时刻，我们发自内心地感到开心。从今年开始，我们想用一份实实在在的奖励，为孩子们的优异表现喝彩。符合条件的员工即可申请，单项奖金最高 5000 元。”\nIT之家注意到，她还表示：“特斯拉始终相信，每一份努力，都值得被看见。员工陪伴公司一路成长，我们也希望能助力孩子追逐梦想。愿每个人都能奔赴属于自己的星辰大海。”\n\n\n延伸阅读",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -103,50 +203,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "IDC报告：2026Q1手持智能相机出货414万台，同比增长33%。",
+      "aiSummary": "特斯拉中国设奖学金，员工子女考上985/211最高奖5000元。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，引用IDC权威数据，信息具体且有出处。"
+      "credibilityReason": "来自知名科技媒体IT之家，内容具体有官方微博引用，信息清晰可信。"
     },
     {
-      "title": "天邑股份：公司在CPO领域目前没有应用技术",
-      "link": "https://36kr.com/newsflashes/3868038743053576?f=rss",
-      "pubDate": "2026-06-25 11:55:24  +0800",
-      "contentSnippet": "36氪获悉，天邑股份在互动平台表示，公司在CPO领域目前没有应用技术。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "天邑股份称目前无CPO应用技术",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，信息来自公司官方互动平台，内容明确具体"
-    },
-    {
-      "title": "企业微信5.0.9版本推出服务总结等AI功能",
-      "link": "https://36kr.com/newsflashes/3868060552909827?f=rss",
-      "pubDate": "2026-06-25 11:54:40  +0800",
-      "contentSnippet": "36氪获悉，企业微信5.0.9版本推出服务总结等AI功能。据了解，该能力可根据成员与客户的服务记录，每天自动总结客户需求、意向和成交卡点等关键信息。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "企业微信5.0.9版新增AI服务总结功能",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体但缺乏技术细节和原始出处"
-    },
-    {
-      "title": "上海滩大佬为了分红，和徽商银行杠上了",
-      "link": "https://www.tmtpost.com/8040211.html",
-      "pubDate": "Thu, 25 Jun 2026 11:53:00 +0800",
-      "contentSnippet": "徽商银行股东大会前夕，第二大股东“中静系”提交临时提案，要求将分红率从22%提高至30%，与董事会公开叫板，这已是双方十年来的第五次内斗。中静系因债务危机急需“回血”，而董事会则以资本充足为由坚持低分红。尽管银行经营面正逐步修复，但这场持续多年的股东内斗，已严重拖累其A股上市进程。",
+      "title": "迪卡侬“keep化”？骑行奖牌背后藏着“高端梦”",
+      "link": "https://www.tmtpost.com/8041926.html",
+      "pubDate": "Fri, 26 Jun 2026 11:40:41 +0800",
+      "contentSnippet": "不差钱的迪卡侬，怎么也玩起了奖牌经济？",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -154,16 +220,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "徽商银行股东因分红率内斗，拖累A股上市进程。",
+      "aiSummary": "迪卡侬推骑行奖牌，探索高端化转型路径",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体有细节，但缺少原始数据引用。"
+      "credibilityReason": "钛媒体为知名科技媒体，内容具体有分析，但缺乏数据支撑"
     },
     {
-      "title": "248亿，中原银行房地产“清雷”",
-      "link": "https://www.tmtpost.com/8039891.html",
-      "pubDate": "Thu, 25 Jun 2026 11:50:00 +0800",
-      "contentSnippet": "将帅齐换后加速化险。",
+      "title": "比海底捞贵四成，巴奴为什么赚得少",
+      "link": "https://www.tmtpost.com/8041897.html",
+      "pubDate": "Fri, 26 Jun 2026 11:40:39 +0800",
+      "contentSnippet": "比海底捞贵四成，巴奴为什么赚得少？",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -171,84 +237,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中原银行投入248亿化解房地产风险。",
+      "aiSummary": "分析巴奴火锅定价高于海底捞但利润较低的原因。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体，内容具体有数据，但缺少原始出处和细节。"
+      "credibilityReason": "来自知名科技媒体，内容具体，逻辑清晰，但缺乏详细数据支撑。"
     },
     {
-      "title": "谷歌安卓 17 测试新特性：除手电筒外，锁屏限制操控所有快速设置控件",
-      "link": "https://www.ithome.com/0/968/373.htm",
-      "pubDate": "Thu, 25 Jun 2026 03:49:57 GMT",
-      "contentSnippet": "IT之家 6 月 25 日消息，科技媒体 Android Authority 昨日（6 月 24 日）发布博文，通过挖掘安卓 17 QPR1 Beta 5 代码，发现谷歌正测试快速设置（Quick Settings）新特性，支持锁屏状态下限制使用相关控件。\n在现有安卓系统锁屏状态下，用户可以操作部分快速设置部分控件，可以直接切换蓝牙、热点等控件，但 Wallet、Quick Share 这类功能依然会要求解锁后使用。\n而根据最新发现的字符串，谷歌计划引入“Require unlock for Quick Settings”特性，用户启用后，除了手电筒外，用户操控其它所有控件，均需要解锁后才能生",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "谷歌安卓17测试锁屏限制快速设置控件，除手电筒外需解锁。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用Android Authority博文及代码细节，信息具体可信。"
-    },
-    {
-      "title": "Akko 推出无摇杆街机控制器 FUNBOX：凯华矮磁轴，集成 2.0\" LCD 屏幕",
-      "link": "https://www.ithome.com/0/968/371.htm",
-      "pubDate": "Thu, 25 Jun 2026 03:42:59 GMT",
-      "contentSnippet": "IT之家 6 月 25 日消息，Akko（艾酷）近日推出了街机控制器（手台）新品 FUNBOX。这一型号搭载凯华矮磁轴，支持 8kHz 回报率、50kHz 扫描率，Rapid Trigger 精度可达 0.005mm。\n\nAkko FUNBOX 采用 17 游戏按键 + 6 系统按键设计，侧面提供多功能铝制旋钮，集成 2.0\" 多功能全彩 LCD 屏幕，顶面采用电火花哑光处理。\n其采用支持轴体热插拔的 PCB，标配凯华 Star Mini Magnetic 矮磁轴，同时还兼容凯华的多款矮机械轴。原装轴体总行程 2.8mm，初始力度 30gf，结合了 POM、PC、尼龙 3 种材料，使用寿命超",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "Akko推出无摇杆街机控制器FUNBOX，搭载凯华矮磁轴和LCD屏幕。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道内容具体，包含技术参数和产品细节。"
-    },
-    {
-      "title": "宁德时代在柳州成立新能源公司",
-      "link": "https://36kr.com/newsflashes/3868030356722691?f=rss",
-      "pubDate": "2026-06-25 11:42:52  +0800",
-      "contentSnippet": "36氪获悉，天眼查App显示，近日，时代骐骥新能源科技（柳州）有限公司成立，法定代表人为曾凡清，注册资本500万人民币，经营范围包括新兴能源技术研发、新能源汽车换电设施销售、在线能源计量技术研发、合同能源管理等，由时代骐骥新能源科技（南宁）有限公司全资持股。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "宁德时代在柳州成立新能源公司，注册资本500万。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪较权威，信息具体有数据支撑，但无原始出处链接。"
-    },
-    {
-      "title": "主题圆桌：当所有人都看到泡沫，机器人何时走入真实场景 | 36氪WAVES2026新浪潮",
-      "link": "https://36kr.com/p/3867998907667462?f=rss",
-      "pubDate": "2026-06-25 11:42:26  +0800",
-      "contentSnippet": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。\n每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。”\n以下为对话内容，经36氪整理编辑：\n\n巴芮｜暗涌副主编（主持）\n李晓飞",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "36氪WAVES大会探讨机器人产业泡沫与落地前景",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源知名科技媒体，内容为行业圆桌讨论，但缺乏具体数据支撑"
-    },
-    {
-      "title": "“AI 拉胯” 亚马逊：会上演逆袭大戏吗？",
-      "link": "https://www.tmtpost.com/8039768.html",
-      "pubDate": "Thu, 25 Jun 2026 11:41:00 +0800",
-      "contentSnippet": "Athropic当下一枝独秀，哪个云厂商会受益。",
+      "title": "传可灵最新估值150亿美元，腾讯阿里红杉领投",
+      "link": "https://www.tmtpost.com/8041867.html",
+      "pubDate": "Fri, 26 Jun 2026 11:40:37 +0800",
+      "contentSnippet": "投可灵更像是投一个仍然处在高速判断和高速执行中的研究团队，而不是投一家已经进入成熟阶段的公司。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -256,10 +254,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "分析亚马逊AI能否逆袭，聚焦Anthropic对云厂商影响。",
-      "credibilityScore": 75,
+      "aiSummary": "可灵估值150亿美元，腾讯阿里红杉领投。",
+      "credibilityScore": 70,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体钛媒体，内容具体但缺乏数据支撑。"
+      "credibilityReason": "来源为知名科技媒体，内容具体但缺乏官方确认和细节支撑。"
     }
   ]
 }

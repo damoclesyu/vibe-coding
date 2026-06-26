@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-25T03:58:32.367Z",
+  "generatedAt": "2026-06-26T04:05:36.534Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "两岸媒体川渝行走进荣昌清江 探访乡村振兴多元实践",
-      "link": "https://www.chinanews.com.cn/txy/2026/06-25/10646932.shtml",
-      "pubDate": "Thu, 25 Jun 2026 11:50:39 +0800",
-      "contentSnippet": "中新网重庆6月25日电 (记者 钟旖)时值初夏，重庆市荣昌区清江镇竹林村的稻田翠色绵延，稻波轻漾。台湾资深媒体人、台湾大学教授苑举正行走田埂一侧，远眺连片良田，一架农用植保无人机穿梭田间开展管护作业。一幅乡村振兴的鲜活图景徐徐铺展。",
+      "title": "深刻认识习近平党建思想里程碑意义",
+      "link": "https://www.chinanews.com.cn/ll/2026/06-26/10647676.shtml",
+      "pubDate": "Fri, 26 Jun 2026 11:42:05 +0800",
+      "contentSnippet": "【光明论坛】深刻认识习近平党建思想里程碑意义",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -16,16 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "两岸媒体参访重庆荣昌清江镇，聚焦乡村振兴实践。",
+      "aiSummary": "文章阐述习近平党建思想的理论与实践意义。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威媒体；内容具体，有直接引述和细节描述。"
+      "credibilityReason": "来源为中国新闻网，内容理论性强，用词客观，符合官方表述。"
     },
     {
-      "title": "海外华文媒体走进山西沁水：百年谷柿醋如何香飘海外？",
-      "link": "https://www.chinanews.com.cn/sh/2026/06-25/10646889.shtml",
-      "pubDate": "Thu, 25 Jun 2026 11:42:21 +0800",
-      "contentSnippet": "中新网晋城6月25日电 (杨杰英 丁雨彤)在山西晋城沁河两岸的明清古堡群间，一种结合谷物与柿子酿造的老味道已传承数百年。6月24日，“世界目光·晋城机遇”2026海外华文媒体晋城行采访团走进山西涌泉香醋业股份有限公司，探访这项省级非物质文化遗产代表性项目——谷柿醋酿造技艺的传承与新生。",
+      "title": "金观平：用好增量空间促进青年就业",
+      "link": "https://www.chinanews.com.cn/sh/2026/06-26/10647672.shtml",
+      "pubDate": "Fri, 26 Jun 2026 11:38:09 +0800",
+      "contentSnippet": "国务院近期印发的《实施就业优先战略“十五五”规划》提出，拓展高校毕业生等青年就业成才渠道。当前，新质生产力蓬勃发展、产业迭代升级加快，青年就业还有不少增量空间可挖。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -33,231 +33,231 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "海外华文媒体探访山西沁水谷柿醋酿造技艺，关注其传承与海外推广。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，权威性较高；内容具体，有明确时间、地点和活动细节。"
-    },
-    {
-      "title": "粤黔东西部协作赋能 镇宁蜂糖李走俏湾区市场",
-      "link": "https://www.chinanews.com.cn/cj/2026/06-25/10646826.shtml",
-      "pubDate": "Thu, 25 Jun 2026 11:35:30 +0800",
-      "contentSnippet": "中新网广州6月25日电 (记者 程景伟)贵州镇宁蜂糖李24日亮相广州北京路天河城，开启为期一个月的专场展销活动。产地直采、空运直达的新鲜蜂糖李，搭配镇宁黄牛肉丸、风味香肠等特色农特产品集中展出，让来自贵州深山的优质农特产品走上粤港澳大湾区市民餐桌。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "贵州镇宁蜂糖李在广州展销，通过东西部协作进入大湾区市场。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，有具体时间、地点和活动细节，内容客观可查证。"
-    },
-    {
-      "title": "黄河畔品台湾风味 两岸共叙匠心同源",
-      "link": "https://www.chinanews.com.cn/txy/2026/06-25/10646903.shtml",
-      "pubDate": "Thu, 25 Jun 2026 11:34:24 +0800",
-      "contentSnippet": "中新网济南6月25日电 (李明芮 祁建月)“一杯米酒、一杯麻油、一杯冰糖，比例对了，火候到了，味道就有了。”台湾厨师戚冠钧24日在济南表示，三杯鸡两岸做法有差别，但说到底还是同一道菜。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "台湾厨师在济南分享三杯鸡做法，强调两岸烹饪同源。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，有直接引述和具体细节，内容客观。"
-    },
-    {
-      "title": "最高法：正牵头起草“两高一部”办理新型毒品犯罪案件有关规范性文件",
-      "link": "https://www.chinanews.com.cn/gn/2026/06-25/10646923.shtml",
-      "pubDate": "Thu, 25 Jun 2026 11:33:20 +0800",
-      "contentSnippet": "中新网6月25日电 6月25日，最高人民法院举行“依法惩治新型毒品犯罪，防范未成年人药物滥用”新闻发布会。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "最高法正起草新型毒品犯罪案件规范性文件。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源权威（中国新闻网），内容具体，有直接引述新闻发布会信息。"
-    },
-    {
-      "title": "最高检：对涉未列管成瘾性物质犯罪“零容忍”",
-      "link": "https://www.chinanews.com.cn/gn/2026/06-25/10646881.shtml",
-      "pubDate": "Thu, 25 Jun 2026 11:26:34 +0800",
-      "contentSnippet": "中新网6月25日电 最高人民检察院25日举行“强化毒品案件法律监督 依法从严惩治毒品犯罪”新闻发布会，通报检察机关惩治毒品犯罪工作情况。会上，有记者问，当前未列管成瘾性物质滥用问题受到广泛关注，检察机关如何应对？",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "最高检表示对未列管成瘾性物质犯罪采取零容忍态度。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，转载最高检官方发布会内容，信息具体且有直接引述。"
-    },
-    {
-      "title": "韩国瑜访美与40多位参众议员会面",
-      "link": "https://www.zaobao.com/news/china/story20260625-9260935",
-      "pubDate": "Thu, 25 Jun 2026 02:29:31 GMT",
-      "contentSnippet": "正在美国访问的台湾立法院长韩国瑜，星期三（6月24日）与多达40多位参众议员会面。美国一名议员称，希望台湾总统赖清德有一天能访问美国。\n赖清德上任后出访邦交国时，曾过境美国夏威夷、关岛，但从未过境美国本土。\n据台湾《联合报》报道，韩国瑜所率的跨党派立委访美团，星期二（23日）晚间飞抵华府，星期三展开拜会行程；访团上午听取完台湾驻美代表处的业务工作报告之后，随即前往美国国会山庄，与美国跨党派议员座谈与交流。\n韩国瑜一行人拜访参议院，之后前往众院朗沃斯办公大楼（Longworth House Office Building）参加美国国会台湾连线酒会。\n酒会现场邀请到众院荣誉议长佩洛西 （Nancy",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "韩国瑜访美与40多位议员会面，美议员盼赖清德访美。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源联合早报较权威，报道具体有直接引述，但未多源交叉验证。"
-    },
-    {
-      "title": "检察机关批捕、起诉毒品犯罪人数同比下降",
-      "link": "https://m.thepaper.cn/detail/33449717",
-      "pubDate": "Thu, 25 Jun 2026 02:15:06 GMT",
-      "contentSnippet": "最高人民检察院今天召开新闻发布会，通报依法惩治毒品犯罪情况。最高检副检察长苗生明介绍，在依法从严惩处高压态势下，毒品犯罪得到进一步遏制，毒情形势持续稳中向好，呈现出案件数量减少、犯罪人数减少、规模化制贩毒活动减少等良好态势。2025年1月至2026年5月，全国检察机关共批捕毒品犯罪2.9万余人，同比下降36%；起诉毒品犯罪4.6万余人，同比下降30%。从办案情况看，受境外毒品渗透等多方面因素影响，新型毒品犯罪和未列管成瘾性物质滥用问题突出，惩治毒品犯罪仍需持续发力。如江苏检察机关办理的陈某燕贩卖、运输毒品案，陈某燕利用经营药房之便，贩卖国家管制的精神药品复方曲马多口服制剂30余次，被依法判处七",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "检察机关批捕起诉毒品犯罪人数同比下降，毒情形势向好。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源澎湃新闻较权威，内容具体有数据，引述最高检发布会，用词客观。"
-    },
-    {
-      "title": "今年前5个月上海实现进出口2.1万亿元，增长17.9%",
-      "link": "https://m.thepaper.cn/detail/33449563",
-      "pubDate": "Thu, 25 Jun 2026 01:56:08 GMT",
-      "contentSnippet": "2026年6月25日，澎湃新闻（www.thepaper.cn）记者从上海海关获悉，今年前5个月，上海市累计实现进出口2.1万亿元，增长17.9%，外贸运行稳中向好。其中5月，上海市进出口4204.9亿元，同比增长11.5%，连续16个月保持增长态势；出口2000.1亿元，增长26.7%；进口2204.8亿元，增长0.6%。主要呈现四方面特点：\n一是对主要经济体进出口保持较快增长。5月，上海市对全球主要经济体贸易保持稳定增长。对东盟进出口701.1亿元，增长26.4%，其中对越南增速高达110.4%；对欧盟进出口695.7亿元，增长2.6%；对美国进出口359.3亿元，增长14.8%，其中出口",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "上海前5月进出口2.1万亿元，同比增长17.9%，外贸稳中向好。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源澎湃新闻较权威，内容具体有数据支撑，发布时间明确，用词客观。"
-    },
-    {
-      "title": "台官方感谢美英法德关切中国大陆在台东部海域活动",
-      "link": "https://www.zaobao.com/news/china/story20260625-9260622",
-      "pubDate": "Thu, 25 Jun 2026 01:42:07 GMT",
-      "contentSnippet": "台湾外交部星期三（6月24日）发文感谢美、英、法、德四方关切中国大陆在台湾东部海域的活动。\n英国在台办事处、法国在台协会与德国在台协会同日发表联合声明称，对于中国大陆在台湾东部海域的新活动表示关切，并指这些行动威胁区域稳定、航行自由和国际航运安全。\n联合声明称：“我们重申反对任何单方面改变现状的行为，尤其反对以威胁、武力或胁迫手段进行改变。所有航行权利和自由以及海员和船舶的安全必须得到保障和尊重，这一点至关重要。”\n美国在台协会（AIT）发言人也在星期三回复台媒记者询问时说，美国对有报道指大陆海警及海事管理机关船只在台湾东部海域活动期间，骚扰商业船舶，并声称其是在中国大陆管辖海域内执法一事表示",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "台湾感谢美英法德关切大陆在台东部海域活动，四方发声明反对单方面改变现状。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报，较权威；内容具体，有直接引述；但未多源交叉验证。"
-    },
-    {
-      "title": "日媒：两名日本人被拘加剧在华日企不安",
-      "link": "https://www.zaobao.com/news/china/story20260625-9260584",
-      "pubDate": "Thu, 25 Jun 2026 01:34:17 GMT",
-      "contentSnippet": "中国政府拘留了两名涉嫌走私稀土相关产品的日本公民，日媒报道称，此次事件加剧在华日企不安。\n据共同社报道，近年来接连有日本人在中国被拘留或逮捕，越来越多的日企开始避免派驻员工及其家属同行，在华日本人持续减少。本次事件后，已有日企考虑暂停赴华出差。\n在大连设有分支机构的日资企业一名高管称“不得不考虑采取减少赴华出差等应对措施”。一名从事半导体业务的日资企业男性也表示“越来越多的派驻员工对在中国工作感到不安。”\n中国外交部发言人郭嘉昆星期三（6月24日）在例行记者会上通报，两名日本人因违反中国法律被中方主管部门拘留，中方并已向日本通报有关个案。\n郭嘉昆没有透露两名被拘的日本人违反了什么法律，但日本内",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "两名日本人因涉嫌走私稀土被中国拘留，引发在华日企不安。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报，引用共同社报道，有直接引述和官方回应，信息具体可查证。"
-    },
-    {
-      "title": "胡诚林、彭纯辞去中国政协委员",
-      "link": "https://www.zaobao.com/news/china/story20260625-9260427",
-      "pubDate": "Thu, 25 Jun 2026 01:09:35 GMT",
-      "contentSnippet": "中国全国政协常委会本周召开会议，会议通过关于撤销湖北原省长王晓东委员资格，以及接受陕西道协前会长胡诚林、中投公司董事长彭纯辞去委员的决定。\n据新华社报道，全国政协常委会会议星期二（6月23日）开幕，星期三（24日）闭幕。\n经表决，会议决定增补李晓红为全国政协委员、教科卫体委员会副主任，增补肖培为全国政协委员、社会和法制委员会副主任；通过关于接受陈群请辞全国政协常委、委员的决定。\n会议也通过关于免去王晓东全国政协常委、农业和农村委员会副主任职务并撤销其委员资格的决定；通过关于接受胡诚林、彭纯辞去全国政协委员的决定。\n此外，会议也追认关于撤销魏小东、侯贵松全国政协委员资格的决定。\n冠病疫情暴发后，",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "胡诚林、彭纯辞去中国政协委员职务，政协常委会通过相关决定。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报，引用新华社报道，信息具体且可查证。"
-    },
-    {
-      "title": "美官方鼓励各州和企业领袖扩大与台湾贸易投资交流",
-      "link": "https://www.zaobao.com/news/china/story20260625-9260300",
-      "pubDate": "Thu, 25 Jun 2026 00:29:13 GMT",
-      "contentSnippet": "美国在台协会（AIT）星期三（6月24日）发文公布，美国国务院、农业部及商务部联合致函各州州长与美国企业领袖，鼓励进一步扩大与台湾在贸易、投资、教育、观光及灾害防备方面的交流。\nAIT在脸书强调，此类合作完全符合《台湾关系法》下的美国政策，并说：“致州长的信函中，特别强调了州政府与地方政府在深化双边关系中所扮演的独特角色，包括在灾害防备及关键基础设施韧性方面的合作。致企业领袖的信函则着重于双方广泛的商业机会，并鼓励各公司积极运用美国政府资源以获取正确讯息。”\n美国在台协会说，两份信函皆强调了美台伙伴关系的重要性与深度。“台湾目前是美国第四大贸易伙伴、全球先进制造与数位经济的领头羊，同时也是双方",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "美国官方鼓励各州和企业扩大与台湾的贸易投资交流",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报，信息具体，有直接引述AIT声明，内容可查证"
-    },
-    {
-      "title": "王毅：美伊绝不能重燃战火",
-      "link": "https://www.zaobao.com/news/china/story20260625-9260115",
-      "pubDate": "Wed, 24 Jun 2026 23:38:00 GMT",
-      "contentSnippet": "中共中央政治局委员、外交部长王毅说，美国和伊朗要巩固全面停火止战局面，绝不能重燃战火。\n据中新社报道，王毅星期三（6月24日）晚应约同巴基斯坦副总理兼外长达尔通电话。\n达尔通报了伊朗与美国开启新阶段谈判有关情况，感谢中方始终坚定支持巴方和平斡旋努力，巴方期待同中方继续密切协调配合，共同为实现地区持久和平稳定发挥建设性作用。\n王毅感谢巴方第一时间通报伊美新阶段谈判情况，表示伊美签署谅备是国际社会共同努力的结果，巴基斯坦在其中发挥了关键和独特作用。和平进程刚刚开始，今后还有很长甚至曲折艰难的路要走。但中方将一如既往支持巴基斯坦和志同道合的国家继续发挥建设性作用，愿同巴方保持密切沟通协调。\n王毅说，",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "王毅称美伊绝不能重燃战火，应巩固停火局面。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报，引述中新社报道，内容具体，有直接引述，可信度较高。"
-    },
-    {
-      "title": "言短意长｜一台全骨科手术机器人的“国产朋友圈”",
-      "link": "https://m.thepaper.cn/detail/33447117",
-      "pubDate": "Wed, 24 Jun 2026 23:31:30 GMT",
-      "contentSnippet": "第四届链博会上，一台人工智能全骨科手术机器人被称为“皇冠上的明珠”。在现场，它展示了膝关节置换手术，机械臂精准操作，整个流程一气呵成。这台设备背后是300多家国产供应链伙伴的支撑。",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "链博会展示国产全骨科手术机器人，由300多家供应链支撑。",
+      "aiSummary": "中国新闻网报道国务院规划拓展青年就业渠道，挖掘增量空间。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源澎湃新闻较权威，内容具体有细节，但缺乏直接引述和多源验证。"
+      "credibilityReason": "来源为官方媒体，内容具体有政策依据，但缺乏多源交叉验证。"
+    },
+    {
+      "title": "澳大利亚驻华商务公使：链博会助力澳中两国“双向奔赴” | 世界观",
+      "link": "http://www.chinanews.com.cn/gj/shipin/2026/06-26/news1059460.shtml",
+      "pubDate": "Fri, 26 Jun 2026 11:37:50 +0800",
+      "contentSnippet": "6月22日至26日，第四届中国国际供应链促进博览会(以下简称“链博会”)在北京中国国际展览中心顺义馆举行。澳大利亚贸易投资委员会大中华区总经理、澳大利亚驻华大使馆商务公使戴德明(Dominic Trindade)在接受中新网专访时表示，澳中两国是彼此重要的贸易伙伴，成为伙伴，离不开开放的交流以及澳中自由贸易协定的支撑，更离不开两国间强大、可靠且富有韧性的供应链网络。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "澳大利亚驻华商务公使称链博会促进中澳贸易合作与供应链韧性。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，有直接引述官方人物，内容具体且客观。"
+    },
+    {
+      "title": "习近平会见柬埔寨人民党主席、参议院主席洪森",
+      "link": "https://www.chinanews.com.cn/gn/2026/06-26/10647667.shtml",
+      "pubDate": "Fri, 26 Jun 2026 11:34:23 +0800",
+      "contentSnippet": "新华社快讯：6月26日，国家主席习近平在北京会见柬埔寨人民党主席、参议院主席洪森。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "习近平在北京会见柬埔寨人民党主席洪森。",
+      "credibilityScore": 95,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为权威官方媒体新华社，内容具体、客观，可交叉验证。"
+    },
+    {
+      "title": "第五届“一带一路”百校结好艺术展在兰州启幕",
+      "link": "http://www.chinanews.com.cn/sh/shipin/cns-d/2026/06-26/news1059456.shtml",
+      "pubDate": "Fri, 26 Jun 2026 11:27:37 +0800",
+      "contentSnippet": "6月25日，第五届“一带一路”百校结好艺术展在甘肃兰州开展，展览共征集到中国、俄罗斯、白俄罗斯等9个国家青少年艺术作品894幅，本次从中精选200幅集中展出。此次展览主题为“艺联丝路 　共颂和平”，涵盖绘画、书法、版画、剪纸、摄影等多元艺术门类。既有黄土高原的丹霞光影，也有异国他乡#8204;的岸畔晚风，展现各国青少年对自然万物的热忱、对日常生活的热爱。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "第五届“一带一路”百校结好艺术展在兰州开幕，展出9国青少年200幅作品。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，权威性较高；信息具体（时间、地点、作品数量、国家），用词客观。"
+    },
+    {
+      "title": "吴钊燮助理涉大陆间谍案改判无罪 在野批民进党搞双标",
+      "link": "https://www.zaobao.com/news/china/story20260626-9267710",
+      "pubDate": "Fri, 26 Jun 2026 03:07:57 GMT",
+      "contentSnippet": "台湾前外交部长吴钊燮助理何仁杰涉大陆间谍案，一审被判八年两个月。台湾高等法院星期四（6月25日）裁定他无罪。在野党批评民进党政府搞双标，也希望检方提出上诉。\n综合台湾《自由时报》《太报》《中国时报》等报道，涉及大陆间谍案的民进党前党工黄取荣与邱世元，以及总统府前咨议吴尚雨和前外交部长吴钊燮助理何仁杰，一审时分别被判10年、六年两个月、四年和八年两个月刑期。\n台湾高等法院星期四撤销原判，四人刑期全降，其中何仁杰改判无罪。黄取荣、邱世元和吴尚雨分别判处六年、五年和三年监禁。\n检调查出，黄取荣2003年遭陆方吸收，2017年吸收邱世元、2022年接触何仁杰；黄取荣将机密等资料交付陆方，并透过地下汇兑",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
+      "allSources": [
+        "联合早报·中港台"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "吴钊燮助理何仁杰涉间谍案改判无罪，在野党批民进党双标。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为联合早报，较权威；引用多家台媒，信息具体；但涉及政治争议，需交叉验证。"
+    },
+    {
+      "title": "中国重申“坚定支持”阿根廷对马岛主权的正当要求",
+      "link": "https://www.zaobao.com/news/china/story20260626-9267660",
+      "pubDate": "Fri, 26 Jun 2026 03:00:10 GMT",
+      "contentSnippet": "中国常驻联合国副代表孙磊重申，中国坚定支持阿根廷对马尔维纳斯群岛（英国称福克兰群岛）主权的正当要求，希望英国积极回应阿根廷的要求，尽早重启对话谈判。\n据新华社报道，孙磊当地时间星期四（6月25日）在联合国大会非殖化特委会审议马尔维纳斯群岛问题时，作出上述表态。\n孙磊说，中国在马尔维纳斯群岛问题上的立场是一贯的、明确的。中方始终主张根据《联合国宪章》宗旨和原则，通过和平谈判解决国与国之间的领土争端。希望英国积极回应阿根廷的要求，尽早重启对话谈判，根据联合国有关决议找到和平、公正、持久的解决办法。\n孙磊称，马尔维纳斯群岛问题从本质上讲是殖民主义的历史遗留问题。当前，殖民占领虽已结束，殖民体系虽已瓦",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
+      "allSources": [
+        "联合早报·中港台"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国重申支持阿根廷对马岛主权，呼吁英阿对话。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为联合早报，引述新华社报道，有具体人物、时间、地点和直接引语，信息可查证。"
+    },
+    {
+      "title": "环太平洋军演启动 韩军首任联合部队司令",
+      "link": "https://www.zaobao.com/news/world/story20260626-9267546",
+      "pubDate": "Fri, 26 Jun 2026 02:54:02 GMT",
+      "contentSnippet": "美国主导的全球最大规模多国海上联合军演“环太平洋军事演习”于美东时间星期三（6月24日）在夏威夷群岛及周边海域拉开帷幕，韩国军官首次在系列演习中担任联合海上部队司令，负责指挥多国参演部队作战。\n据美国战争部消息，此次军演共有来自30个国家与地区的约三万兵力参演。美国战争部说，此次演习是盟友和伙伴维护“自由开放的印太”、提升联合行动能力的重要训练机会。\n韩联社报道，根据公布的指挥架构，美国海军第三舰队司令担任联合特遣部队司令，韩国海军军官首次出任联合海上部队司令，负责统筹参演多国海上部队行动。这不仅是韩国首次担任这一职务，也是亚洲国家首次担任这一职务。\n韩国海军自1990年起正式参加环太平洋军演",
+      "sourceName": "联合早报·国际",
+      "sourceWeight": 80,
+      "allSources": [
+        "联合早报·国际"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "环太平洋军演启动，韩国军官首次担任联合海上部队司令。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为联合早报，信息具体，有直接引述和多源验证，可信度较高。"
+    },
+    {
+      "title": "南通文旅“热力十足” ，量质齐升彰显“江海魅力”",
+      "link": "https://m.thepaper.cn/detail/33457391",
+      "pubDate": "Fri, 26 Jun 2026 02:53:32 GMT",
+      "contentSnippet": "刚刚过去的端午假期，南通文旅市场供需两旺、人气爆棚。濠河之上龙舟竞渡尽展民俗魅力，河畔特色市集点燃夏日烟火；各大景区迭代游玩体验，文博场馆奉上文化大餐；城市街区活力涌动，乡村田园闲适怡人。全域文旅业态百花齐放，满足不同群体多元化出游需求。\n近年来，南通锚定江海特色文化强市、全国知名江海文化旅游目的地建设目标，持续加码文旅优质产品供给与服务升级，推动文旅产业规模与发展质量双向提升，为全市经济社会高质量发展注入持久强劲的文旅动能。\n\n文化赋能传统焕新\n织就江海特色城市肌理\n濠河穿城而过，文脉绵延千年，形成了南通城市文化的核心脉络。这个端午，濠河水岸联动更新升级核心项目“濠河夜画”再迎客流高峰。众多",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "南通端午文旅市场供需两旺，推动江海特色文旅发展。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源澎湃新闻较权威，内容具体有细节，但无直接引述或交叉验证。"
+    },
+    {
+      "title": "火箭军：“东风快递使命必达”成战略导弹部队响亮名片",
+      "link": "https://www.zaobao.com/news/china/story20260626-9267454",
+      "pubDate": "Fri, 26 Jun 2026 02:35:44 GMT",
+      "contentSnippet": "中国战略导弹部队组建60周年，近年爆发大规模贪腐案的火箭军以党委名义发文，除了强调火箭军永远忠于中共，“宁可透支生命、决不辜负使命”之外，也提到“东风快递使命必达成为战略导弹部队的响亮名片”，部队“拓展常导打击台独嚣张气焰，撑起了民族尊严的腰杆子”。\n中共中央党校主办的《学习时报》星期五（6月26日）在头版刊登火箭军党委文章，题目是《努力建设一支强大的现代化火箭军》。\n文章首先回顾，中共成立105周年之际，也是中国战略导弹部队组建60周年。1966年7月1日，第二炮兵正式成立，“在维护国家安全、捍卫民族尊严上发挥了极为特殊的作用”。2015年12月，中国最高领导人习近平亲自决策将第二炮兵更名为",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
+      "allSources": [
+        "联合早报·中港台"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国战略导弹部队组建60周年，近年爆发大规模贪腐案的火箭军以党委名义发文，除了强",
+      "credibilityScore": 48,
+      "credibilityLevel": "low",
+      "credibilityReason": "因内容合规限制，使用来源权重作为默认评分"
+    },
+    {
+      "title": "习近平：我提的18亿亩耕地红线不能破 14亿人吃饭靠谁都靠不住",
+      "link": "https://www.zaobao.com/news/china/story20260626-9267186",
+      "pubDate": "Fri, 26 Jun 2026 01:44:53 GMT",
+      "contentSnippet": "中国国家主席习近平本周在山东考察，官媒报道称“得知今年小麦亩产又有提高，习近平很高兴”后，又披露他的更多考察细节。习近平称“我提出18亿亩的耕地红线不能破”，良田必须种粮食，因为14亿人吃饭靠谁都靠不住。\n据新华社早前报道，习近平星期三（6月24日）到山东省德州市考察调研，走进农田同种粮大户、农机手、农技人员交流，“得知今年小麦亩产又有提高，玉米播种不误农时、进度很快，习近平很高兴”。\n新华社星期四（25日）晚再刊出习近平此次考察的纪实文章，披露他的更多考察和讲话细节。\n习近平说：“这次专程来德州，就是为了看看‘三夏’（夏收、夏种、夏管）生产工作的情况，看看农村的庄稼地，看看村里的乡亲们。”",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
+      "allSources": [
+        "联合早报·中港台"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "习近平强调18亿亩耕地红线不可破，称14亿人吃饭靠谁都靠不住。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为联合早报，引述新华社报道，内容具体且有直接引语，可信度较高。"
+    },
+    {
+      "title": "受限于网联汽车规则 极星新一代车型被禁销往美国",
+      "link": "https://www.zaobao.com/news/china/story20260626-9267184",
+      "pubDate": "Fri, 26 Jun 2026 01:43:00 GMT",
+      "contentSnippet": "受限于网联汽车规则，瑞典汽车品牌极星的新一代车型将被禁止销往美国。\n据路透社报道，极星（Polestar）星期四（6月25日）说，美国特朗普政府加大对中国汽车的打压力度，迫使公司从明年起禁止向美国市场出售新一代车型。\n截至星期四下午，极星股价在纳斯达克下跌6.3%。\n美国商务部以网联汽车规则为由，不批准极星2027年新车输出美国市场。\n网联汽车规则（Connected Vehicles Rule）指的是美国商务部工业与安全局（BIS）发布的针对网联汽车（CV）供应链中信息通信技术和服务（ICTS）的限制规定。规则旨在以国家安全为由，限制或禁止在美国境内使用来自特定国家（如中国和俄罗斯）的技术，",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
+      "allSources": [
+        "联合早报·中港台"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "极星新一代车型因美国网联汽车规则被禁销往美国，股价下跌6.3%。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为联合早报，引用路透社报道，信息具体且有股价数据，可信度较高。"
+    },
+    {
+      "title": "委内瑞拉强震已致235人死亡",
+      "link": "https://www.zaobao.com/news/world/story20260626-9267034",
+      "pubDate": "Fri, 26 Jun 2026 01:34:28 GMT",
+      "contentSnippet": "委内瑞拉卫生部星期四（6月25日）晚（新加坡时间26日早上）通报，委内瑞拉强震遇难人数已增至235人。\n新华社报道，委内瑞拉全国代表大会主席罗德里格斯当天说，为应对强震灾情，委方请求国际救援力量通过专门开辟的空中通道入境，与委内瑞拉救援队协同开展救灾工作。\n截至25日中午，来自美国、墨西哥、西班牙、卡塔尔等国以及联合国的救援力量已陆续抵达。\n罗德里格斯呼吁委内瑞拉民众积极捐赠物资，“目前急需的物资包括水、药品、床垫和毛毯”。",
+      "sourceName": "联合早报·国际",
+      "sourceWeight": 80,
+      "allSources": [
+        "联合早报·国际"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "委内瑞拉强震致235人死亡，请求国际救援。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为联合早报，引用新华社报道，信息具体且有多国救援细节。"
+    },
+    {
+      "title": "金正恩视察瞄准韩国主要设施的新型火箭炮和导弹",
+      "link": "https://www.zaobao.com/news/world/story20260626-9266949",
+      "pubDate": "Fri, 26 Jun 2026 01:30:41 GMT",
+      "contentSnippet": "朝鲜领导人金正恩视察瞄准韩国主要设施的新型火箭炮和导弹等武器试验。\n朝中社星期五（6月26日）报道，金正恩25日视察了国防科学研究机构的重要武器试验。试验重点分析和评估升级版240毫米口径24管火箭炮系统的作战性能、战术弹道导弹特殊使命弹头的威力，以及155毫米口径自行榴弹炮延程炮弹的精准打击能力。\n报道称，朝鲜升级版240毫米口径24管式火箭炮的射程延长至90公里，特殊使命弹头旨在精准打击敌方机场、港口和电力设施等重要设施。\n韩联社推测，此次试验重点测试了射程范围覆盖韩国的改良版武器性能。\n金正恩对试验结果表示满意，称试验证明朝鲜落实应对南部边境火力态势变化的建军方针，并在自动化、远程化和超",
+      "sourceName": "联合早报·国际",
+      "sourceWeight": 80,
+      "allSources": [
+        "联合早报·国际"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "金正恩视察新型火箭炮和导弹试验，旨在打击韩国主要设施。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为联合早报，引用朝中社报道，信息具体，可交叉验证。"
+    },
+    {
+      "title": "时政微纪录丨沃野田畴绘新景——习近平总书记赴山东德州考察纪实",
+      "link": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=14356213694910774095&toc_style_id=feeds_default&share_to=wechat&track_id=a3727c3f-2e73-43ad-a2bc-656f9353471c",
+      "pubDate": "Fri, 26 Jun 2026 01:09:59 GMT",
+      "contentSnippet": "时政微纪录丨沃野田畴绘新景——习近平总书记赴山东德州考察纪实",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "习近平总书记赴山东德州考察农业，强调粮食安全。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源澎湃新闻较权威，内容具体纪实，用词客观。"
     }
   ]
 }
