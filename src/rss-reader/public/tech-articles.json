@@ -1,14 +1,48 @@
 {
-  "generatedAt": "2026-06-26T04:06:55.897Z",
+  "generatedAt": "2026-06-27T03:52:40.654Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "半日主力资金加仓国防军工股，抛售通信股",
-      "link": "https://36kr.com/newsflashes/3869470411330823?f=rss",
-      "pubDate": "2026-06-26 11:54:47  +0800",
-      "contentSnippet": "主力资金早间净流入国防军工、建筑装饰、房地产等板块，净流出通信、电子、有色金属等板块。具体到个股来看，京东方A、太极实业、TCL中环获净流入32.32亿元、25.36亿元、22.16亿元。净流出方面，中际旭创、新易盛、中天科技遭抛售43.39亿元、43.33亿元、43.33亿元。（第一财经）",
+      "title": "京东在欧洲推出机器人维修服务，“救护车”上门服务覆盖英国、德国、法国等地",
+      "link": "https://www.ithome.com/0/969/325.htm",
+      "pubDate": "Sat, 27 Jun 2026 02:41:05 GMT",
+      "contentSnippet": "IT之家 6 月 27 日消息，京东今天宣布在欧洲推出 JoyRobocare 机器人维修服务，并在英国贝德福德、德国杜伊斯堡等地建立了机器人维修中心，“机器人救护车”上门服务可覆盖英国、德国、法国、荷兰等多个国家主要城市。\n\nIT之家从“京东黑板报”公众号了解到，JoyRobocare 在欧洲主要针对具身智能机器人、四足机器人提供上门送货、调试配置和使用辅导等服务。通过海外本地化“机器人救护车”上门及维修中心服务，机器人未来将无需跨国返厂即可解决大部分故障，大幅降低了企业、消费者的维修售后成本。\n同时，欧洲 JoyRobocare 服务还进一步补足了全球机器人供应链物流及售后链条，不仅帮助机",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "京东在欧洲推出机器人维修服务，覆盖英德法等国。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家可信，内容具体有细节，但缺乏独立验证。"
+    },
+    {
+      "title": "遏制“声音刺客”：美国加州 7 月起限制流媒体广告音量",
+      "link": "https://www.ithome.com/0/969/316.htm",
+      "pubDate": "Sat, 27 Jun 2026 01:59:19 GMT",
+      "contentSnippet": "IT之家 6 月 27 日消息，科技媒体 Ars Technica 昨日（6 月 26 日）发布博文，报道称美国加州计划 7 月 1 日开始，明确约束流媒体平台广告音量，规定广告音量不得高于流媒体内容播放音量。\n该法案编号 SB 576，由加州州长加文 · 纽森（Gavin Newsom）于 2025 年 10 月签署，主要减少用户在观看过程中遭遇突兀高音量广告的情况。\nIT之家援引博文介绍，美国联邦现行法律早已要求广告音量与所播放内容的平均音量保持一致，但适用对象主要是电视广播机构和有线电视运营商。加州这次立法，把类似要求进一步覆盖到流媒体平台。\n安伯格去年在声明中说，这项法案是为“每一个好",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "加州7月起限制流媒体广告音量不得高于内容音量。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，引用Ars Technica原始报道，信息具体且有法案编号和签署日期。"
+    },
+    {
+      "title": "G7易流发布货运行业首款穿戴式AI硬件「拍拍豆」，填平物流交付的“最后两米”｜最前线",
+      "link": "https://36kr.com/p/3869740772316162?f=rss",
+      "pubDate": "2026-06-27 09:40:53  +0800",
+      "contentSnippet": "作者｜黄楠\n编辑｜袁斯来\n6月25日，G7易流发布货运行业首款穿戴式AI硬件“拍拍豆”。这款产品克重仅30克，采用磁吸设计，当车辆熄火停稳后，司机可直接将设备从挡风玻璃底座取下，佩戴于胸前即可自动启动录制；放回底座瞬间，录制文件将自动同步上传云端存储。\n从“看见车上”到“看见车下”，物流AI的应用场景正在完成一次关键跨越。\n物流行业的AI化进程加速。据中国物流与采购联合会等机构统计，2025年全球物流与供应链管理AI市场规模已超过340亿美元，预计2026年将增长至479.2亿美元，年复合增长率高达40.8%。其中在中国，AI于物流供应链领域的渗透率已超过37%\n过去几年，行业花了大量精力把车",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -16,84 +50,84 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "半日主力资金流入国防军工，流出通信板块。",
+      "aiSummary": "G7易流发布货运行业首款穿戴式AI硬件拍拍豆，填补物流交付最后两米。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容引用第一财经数据，信息具体有细节。"
+      "credibilityReason": "来源36氪知名科技媒体，内容具体有数据支撑，逻辑清晰。"
     },
     {
-      "title": "链博会上的新共识：链式投资正形成闭环",
-      "link": "https://www.tmtpost.com/8042310.html",
-      "pubDate": "Fri, 26 Jun 2026 11:40:23 +0800",
-      "contentSnippet": "三重视角彼此印证，构成了链式投资从理念到实践的完整拼图。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "国家邮政局：推动电商平台、寄递企业 App 设置“绿色包装”选项",
+      "link": "https://www.ithome.com/0/969/288.htm",
+      "pubDate": "Sat, 27 Jun 2026 00:16:49 GMT",
+      "contentSnippet": "IT之家 6 月 27 日消息，6 月 26 日，国家邮政局举行 2026 年第二季度例行新闻发布会，介绍《快递暂行条例》（以下简称《条例》）修改实施一周年邮政快递业绿色低碳发展成效。\nIT之家从官方介绍获悉，《条例》作为我国邮政快递业首部专门行政法规，于 2018 年 5 月 1 日起施行，核心作用在于规范市场秩序、保障寄递安全、维护用户权益，并推动行业绿色高质量发展。2025 年 6 月 1 日，新修改的《条例》正式实施，增加了“快递包装”专章。\n《条例》修改实施一年以来，全行业包装标准化率达 86%，同城快递使用循环包装数量占比超 10%，企业使用绿色认证的包装数量占比超 5%。回收复用",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "钛媒体"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "链博会报道链式投资形成闭环，三重视角印证理念到实践。",
+      "aiSummary": "国家邮政局推动电商和快递App设置绿色包装选项。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，引用官方发布会信息，数据具体。"
+    },
+    {
+      "title": "630.4GB 超 20 万个文件泄露：苹果联手塔塔调查供应链安全事件",
+      "link": "https://www.ithome.com/0/969/286.htm",
+      "pubDate": "Sat, 27 Jun 2026 00:15:59 GMT",
+      "contentSnippet": "IT之家 6 月 27 日消息，路透社昨日（6 月 26 日）发布博文，报道称苹果公司已携手印度供应商塔塔电子（Tata Electronics），共同调查、应对本月初发生的数据泄露事件，已收紧敏感系统的内部访问权限，并聘请全球顾问展开取证审计。\n在泄露数据方面，勒索软件组织 World Leaks 本周在暗网发布数据，公开文件总数已超过 204341 份，总数据量超过 630.4 GB。泄露内容据称包含苹果和特斯拉的零部件设计文件，但真实性尚未得到独立核实。\n路透社在深入调查后，指出在公开的泄露数据中，至少包含 16 个来自 TSMC（台积电）的文件或文件夹，以及 23 个来自 Qualco",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "苹果与塔塔电子联合调查数据泄露事件，超630GB文件被公开。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，引用路透社报道，信息具体且有数据支撑。"
+    },
+    {
+      "title": "VS Code 1.123 新增两小时插件更新缓冲，防范供应链恶意攻击",
+      "link": "https://www.infoq.cn/article/iZskGZVEV04jivWZtR00?utm_source=rss&utm_medium=article",
+      "pubDate": "Fri, 26 Jun 2026 12:44:00 GMT",
+      "contentSnippet": "点击查看原文>",
+      "sourceName": "InfoQ中文",
+      "sourceWeight": 78,
+      "allSources": [
+        "InfoQ中文"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "VS Code 1.123引入两小时插件更新缓冲机制，防范供应链攻击。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "InfoQ是知名技术媒体，内容具体且逻辑清晰，但缺少原始出处链接。"
+    },
+    {
+      "title": "《走进AIE》，谁是下一个主角",
+      "link": "https://36kr.com/p/3869838577620231?f=rss",
+      "pubDate": "2026-06-26 18:28:31  +0800",
+      "contentSnippet": "一展两地，链接全球    AIE 电子展成为龙头企业的必选舞台\n全球智能制造产业加速演进，粤港澳大湾区正成为打造世界级科技展会的核心阵地。2026全球智能制造与电子产品博览会（AIE）依托大湾区完备的产业生态，致力于打造中国智能制造首发平台。\n技术创新的源头既来自产业一线的龙头力量，也来自科研院所的前沿探索，更来自真实场景中的实战检验。为此，AIE 组委会联合南方财经、新华网、南方+等权威媒体，重磅推出《走进AIE》专题栏目，全维度挖掘产业、科研与场景应用的创新价值，彰显湾区智造硬实力，吸引全球产业资源加速汇聚。\n走进企业，解码产业 用专业内容讲好\"中国智造\"\n围绕行业前沿趋势，从实验室到生产",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "介绍AIE电子展作为大湾区智能制造首发平台，聚焦产业创新。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体但缺乏数据支撑和原始出处。"
+      "credibilityReason": "来源36氪知名科技媒体，内容具体但缺少技术细节和数据支撑。"
     },
     {
-      "title": "国家能源局：未来西部地区不仅要向外送电、送煤、送气，还要向外送产品、送Token（词元）",
-      "link": "https://36kr.com/newsflashes/3869422174737672?f=rss",
-      "pubDate": "2026-06-26 10:59:47  +0800",
-      "contentSnippet": "6月26日，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，介绍“十五五”时期加快新型能源体系建设有关规划情况。国家能源局新闻发言人、副局长万劲松表示，“十五五”时期将切实保障东中部地区用能需求，同时还将推动东中部重点用能地区挖掘潜力，加强本地非化石能源的就近开发利用，合理布局新增支撑电源，推动电从远方来，也从身边来。此外，还将有序引导高载能产业有序向西部转移，推动先进制造业、算力、氢能等产业布局与清洁能源基地协同，促进用能产业空间布局优化，未来西部地区不仅要向外送电、送煤、送气，还要向外送产品、送Token（词元）。（证券时报）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国家能源局称西部将向外送产品、Token，推动产业与清洁能源协同。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为36氪转载证券时报，引用官方发布会内容，信息具体且逻辑清晰。"
-    },
-    {
-      "title": "世界额定水头最高、我国单机容量最大抽蓄电站在浙江天台投产",
-      "link": "https://www.ithome.com/0/968/799.htm",
-      "pubDate": "Fri, 26 Jun 2026 02:52:14 GMT",
-      "contentSnippet": "IT之家 6 月 26 日消息，中国三峡建工宣布，6 月 25 日 23 点 59 分，随着最后一台机组顺利完成 15 天考核试运行，总装机容量 170 万千瓦的浙江天台抽水蓄能电站实现全面投产发电。\n\nIT之家从官方介绍获悉，该电站是世界额定水头最高、国内单机容量最大的抽水蓄能电站，也是“十五五”时期国内首个全面投产的抽水蓄能电站。电站全面投产，标志着我国在超高水头、大容量抽水蓄能技术领域实现重大跨越，对我国抽水蓄能产业高质量发展具有重要意义，也为加速建设新型电力系统增添了一座“调节器”。\n天台抽水蓄能电站位于浙江省台州市天台县，是国家“十四五”重点实施项目，由三峡集团投资建设。电站主体工程",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "浙江天台抽水蓄能电站全面投产，创世界额定水头最高纪录。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，信息具体有数据支撑，引用官方宣布，逻辑清晰。"
-    },
-    {
-      "title": "广汽启境 GT7 今晚上市，启境 GX7 同步亮相",
-      "link": "https://www.ithome.com/0/968/775.htm",
-      "pubDate": "Fri, 26 Jun 2026 01:56:43 GMT",
-      "contentSnippet": "IT之家 6 月 26 日消息，广汽与华为乾崑联合打造启境 GT7 车型将于今晚 19:00 上市，据官方最新消息，启境 GX7 也会在本次发布会同步亮相。\n\n\n启境 GT7 在 2026 第三十届粤港澳大湾区车展上正式开启预售，预售价区间 21.99-30.99 万元。启境 GT7 已官宣华为六大汽车智能化解决方案上车。该车搭载全新一代鸿蒙座舱 HarmonySpace，全系搭载华为乾崑智驾 ADS 5，标配闭式双腔空悬，首发华为乾崑赤兔平台，零百公里加速 2.98 秒，续航至高 900km。\n\n启境首款大五座 SUV—— 启境 GX7 的实车预告图现已公布，新车覆盖了伪装贴纸，整体用大量曲",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "广汽启境GT7今晚上市，GX7同步亮相，搭载华为智驾系统。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，信息具体且有数据支撑，逻辑清晰。"
-    },
-    {
-      "title": "白宫应用自动下载到政府配发手机上且无法卸载",
-      "link": "https://www.solidot.org/story?sid=84674",
-      "pubDate": "Thu, 25 Jun 2026 16:02:17 +0800",
-      "contentSnippet": "美国白宫今年五月宣布其白宫应用将自动下载到政府配发手机上。该应用无法卸载，即使政府雇员尝试卸载，应用也会很快重新安装。美国农业部、国务院和劳工部员工匿名接受采访时表示，这款应用出现在手机上时让他们感到不安，有人试图删除它，但失败了。“我把它删了，测试下，结果它立刻又出现了，”一位美国农业部雇员说。白宫应用内有一个按钮，允许用户“给特朗普总统发短消息”，点击后会自动弹出一个写着“史上最伟大总统”的文本框。应用的社交部分可看到来自白宫 X 账号推文、特朗普 Truth Social 账号发布的帖子，以及官方账号在 TikTok 和 Instagram 等平台上分享的视频。新闻部分包含了白宫新闻稿、",
+      "title": "美国国防部恢复了疫苗强制接种要求",
+      "link": "https://www.solidot.org/story?sid=84682",
+      "pubDate": "Fri, 26 Jun 2026 14:14:36 +0800",
+      "contentSnippet": "在美国一个空军基地逾 200 名新兵感染流感之后，美国海陆空兵种恢复了新兵疫苗接种要求。两个月前国防部长 Pete Hegseth 取消了数十年来一直沿用的流感疫苗接种强制令，理由是不合理，取消强制令将恢复军人的“自由”。但历史早就证明，兵营等封闭环境容易滋生病菌，而传染病一直是军队战斗力的大敌。最近德州 Lackland  空军基地报告了 222 例确诊流感病例和 4 例住院病例，其中新兵 Keon McDaniel 死亡，但暂时不清楚其死因是否与流感有关。该基地只有约 40% 的新兵接种了疫苗，这波疫情爆发始于 6 月初。五角大楼发言人称，五角大楼已批准陆军、海军、空军、国家安全局和国防卫",
       "sourceName": "Solidot",
       "sourceWeight": 75,
       "allSources": [
@@ -101,101 +135,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "白宫应用强制安装至政府手机且无法卸载，引发员工不安。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源Solidot为知名科技媒体，内容具体有员工匿名采访，但缺乏官方确认和细节。"
-    },
-    {
-      "title": "恒指午间休盘跌1.87%，恒生科技指数跌3.32%",
-      "link": "https://36kr.com/newsflashes/3869483761767683?f=rss",
-      "pubDate": "2026-06-26 12:02:26  +0800",
-      "contentSnippet": "36氪获悉，恒指午间休盘跌1.87%，恒生科技指数跌3.32%；科技、光模块、GEO概念领跌，长飞光纤光缆跌近14%，智谱、澜起科技跌超10%，MINIMAX-WP跌超8%；阿里巴巴跌超4%。南向资金净买入4.93亿港元。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "恒指午盘跌1.87%，科技板块领跌。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪知名科技媒体，数据具体且时效性强。"
-    },
-    {
-      "title": "格力电器：七人侵权被判有期徒刑，今年前五月收 91 起侵权裁判文书",
-      "link": "https://www.ithome.com/0/968/848.htm",
-      "pubDate": "Fri, 26 Jun 2026 03:56:38 GMT",
-      "contentSnippet": "IT之家 6 月 26 日消息，格力电器今日发布“知识产权维权进展通报”称，针对“空调、风扇、浴霸等家电商标侵权、不正当竞争”“压缩机虚假宣传”等知识产权侵权行为，格力电器坚决采取法律措施维护自身权益。\n通报显示，在 2026 年 1 月至 5 月期间，格力电器收到 91 起“侵害商标权”“不正当竞争纠纷”等民事案件的裁判文书，涉案侵权主体依法均已受到惩处，合计判赔金额 254.25 万元。\n据格力电器进一步透露，2024 年 1 月至 2026 年 5 月，因侵权产生的刑事案件结案 6 起，有 7 人被判处有期徒刑 6 个月至 3 年不等、罚金总计 30 万元；民事案件结案 675 起，判赔",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "格力电器维权通报：前五月91起侵权案，7人获刑。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有数据支撑，引用格力官方通报。"
-    },
-    {
-      "title": "蔚来李斌：2030 年纯电车型在中国新车市场渗透率将超 80%",
-      "link": "https://www.ithome.com/0/968/844.htm",
-      "pubDate": "Fri, 26 Jun 2026 03:50:48 GMT",
-      "contentSnippet": "IT之家 6 月 26 日消息，据新浪科技今日报道，蔚来创始人、董事长、CEO 李斌在 2026 蔚来合作伙伴日上表示，2030 年纯电车型在中国新车市场渗透率将超 80%。具体而言，新能源汽车在中国新车市场渗透率将超过 90%，而纯电在新能源汽车市场占比将超过 90%。\nIT之家注意到，乘联分会数据显示，5 月 1 日-31 日，全国乘用车市场零售 151.0 万辆，同比下降 22.1%，环比增长 9.2%；今年以来累计零售 709.9 万辆，同比下降 19.5%。然而，高油价、消费转型等因素加速“油电替代”过程，5 月新能源零售渗透率持续突破 60%，达到 62.9% 的历史高位。\n在本月",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "蔚来李斌预测2030年纯电车型在中国渗透率超80%。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，内容引用企业高管言论及乘联会数据，逻辑清晰，但预测性内容缺乏独立验证。"
-    },
-    {
-      "title": "4.18 万元起，张雪机车 820R 街车、820RR-R 仿赛摩托车发售",
-      "link": "https://www.ithome.com/0/968/841.htm",
-      "pubDate": "Fri, 26 Jun 2026 03:43:10 GMT",
-      "contentSnippet": "IT之家 6 月 26 日消息，张雪机车今日发布了 820R 和 820RR-R 两款摩托车新品。\n\n820R 街车\n张雪 820R 街车统一零售价 4.18 万元，可选黑白两款配色。\n\n该车搭载直列三缸发动机，最大功率 99kW@12000rpm，最大扭矩 80N·m@9500rpm，最高转速可达 13750rpm。\n\n\n\n\n820RR-R 仿赛\n张雪 820RR-R 仿赛摩托车统一零售价 6.198 万元，可选黑白红三款配色；直列三缸发动机最高转速可达 14750rpm，最大功率 107kW，最大扭矩 85N·m。\n\n该车采用轻量化设计，整备质量仅 186kg，零百加速 2.81 秒，配有",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "张雪机车发布820R街车和820RR-R仿赛，售价4.18万起。",
+      "aiSummary": "美国国防部因空军基地流感疫情恢复新兵疫苗强制接种。",
       "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，信息具体含价格、参数，但缺乏原始出处。"
+      "credibilityReason": "来源为知名科技媒体Solidot，内容具体有数据支撑，逻辑清晰，但缺少原始出处链接。"
     },
     {
-      "title": "“深度机智”再获数亿元融资",
-      "link": "https://36kr.com/newsflashes/3869464585442305?f=rss",
-      "pubDate": "2026-06-26 11:42:55  +0800",
-      "contentSnippet": "36氪获悉，近日，“深度机智”宣布完成新一轮数亿元融资。本轮由国寿长三角科创基金领投，老股东普华资本、诚通科创基金持续加注，蓝湖资本、博彦科技、磐谷创投、朝晖资本、财鑫资本、道禾长期投资、易高资本、明德资本等多家市场化与产业资本共同参与。目前下一轮融资已进入收尾阶段。此前深度机智全产品线均已实现商业订单，累计签约金额达数千万元。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "深度机智完成数亿元融资，多家机构参与，累计签约数千万元。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，信息具体（融资额、领投方、签约金额），逻辑清晰。"
-    },
-    {
-      "title": "特斯拉中国为员工子女设奖学金：考上 985、211 最高奖 5000 元",
-      "link": "https://www.ithome.com/0/968/840.htm",
-      "pubDate": "Fri, 26 Jun 2026 03:40:55 GMT",
-      "contentSnippet": "IT之家 6 月 26 日消息，今日，特斯拉公司副总裁陶琳微博发文表示，为特斯拉员工子女设立的“星河奖学金”正式上线。\n据其介绍，“每年，我们都会收到许多来自员工子女的喜报：无论是被国内外顶尖高校录取，还是在全国性科学竞赛中摘得桂冠，或是在顶级期刊上发表论文…… 这些闪光的时刻，我们发自内心地感到开心。从今年开始，我们想用一份实实在在的奖励，为孩子们的优异表现喝彩。符合条件的员工即可申请，单项奖金最高 5000 元。”\nIT之家注意到，她还表示：“特斯拉始终相信，每一份努力，都值得被看见。员工陪伴公司一路成长，我们也希望能助力孩子追逐梦想。愿每个人都能奔赴属于自己的星辰大海。”\n\n\n延伸阅读",
+      "title": "外媒在 AMD RDNA 3 显卡上测试：FSR 4.1 超分比 3.1 最多慢 14.5%",
+      "link": "https://www.ithome.com/0/969/336.htm",
+      "pubDate": "Sat, 27 Jun 2026 03:49:58 GMT",
+      "contentSnippet": "IT之家 6 月 27 日消息，科技媒体 ComputerBase 测试显示，在 RDNA 3 显卡平台上测试 9 款游戏，发现相比较 FSR 3.1 超分技术，FSR 4.1 在质量模式下帧率低 11%，性能模式低 14.5%。\nIT之家注：FSR 4.1 是 AMD 推出的新一代图像超分技术，通过较低分辨率渲染画面，再重建出更高分辨率图像，以提升游戏帧率。\nRDNA 3 是 AMD Radeon 显卡采用的一代 GPU 架构，该媒体测试了采用该架构 Radeon RX 7900 XTX、RX 7800 XT、RX 7600 三款显卡的 FSR 4.1 与 FSR 3.1 表现，同时加入 R",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -203,61 +152,112 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "特斯拉中国设奖学金，员工子女考上985/211最高奖5000元。",
-      "credibilityScore": 85,
+      "aiSummary": "外媒测试AMD FSR 4.1在RDNA 3上比3.1慢11%-14.5%。",
+      "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，内容具体有官方微博引用，信息清晰可信。"
+      "credibilityReason": "来源IT之家转述知名科技媒体ComputerBase测试，数据具体，逻辑清晰。"
     },
     {
-      "title": "迪卡侬“keep化”？骑行奖牌背后藏着“高端梦”",
-      "link": "https://www.tmtpost.com/8041926.html",
-      "pubDate": "Fri, 26 Jun 2026 11:40:41 +0800",
-      "contentSnippet": "不差钱的迪卡侬，怎么也玩起了奖牌经济？",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "阿里千问输入法上线 macOS 版：最快 300 字 / 分，AI 自动润色",
+      "link": "https://www.ithome.com/0/969/334.htm",
+      "pubDate": "Sat, 27 Jun 2026 03:39:06 GMT",
+      "contentSnippet": "IT之家 6 月 27 日消息，阿里旗下千问输入法 macOS 版今日已上线官网，官方预告 iOS 版、Android 版、Windows 版将于近日发布。\n官网显示，该产品号称“说完即成稿”，支持最快 300 字 / 分，AI 自动润色，说话秒变工整文字。支持 9 种方言，纯净无广告。\n\n此前有消息称，千问团队将推出名为“千问输入法”的独立 App，与 PC 端的千问语音输入法有一定区别，AI 功能、键盘会更贴合手机端操作，填补千问在移动端 AI 输入法赛道的空白。\nIT之家查询发现，这并不是千问第一次尝试进入输入法领域。千问官网显示，千问语音输入法是阿里千问今年 5 月上线的 AI 语音输",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "钛媒体"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "迪卡侬推骑行奖牌，探索高端化转型路径",
+      "aiSummary": "阿里千问输入法macOS版上线，支持AI润色和方言。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容具体有分析，但缺乏数据支撑"
+      "credibilityReason": "来源IT之家较知名，内容具体有数据，但缺乏第三方验证。"
     },
     {
-      "title": "比海底捞贵四成，巴奴为什么赚得少",
-      "link": "https://www.tmtpost.com/8041897.html",
-      "pubDate": "Fri, 26 Jun 2026 11:40:39 +0800",
-      "contentSnippet": "比海底捞贵四成，巴奴为什么赚得少？",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "马斯克称 IBM“0.7 纳米芯片”命名有误导性，认为制程节点应按原子数量命名",
+      "link": "https://www.ithome.com/0/969/333.htm",
+      "pubDate": "Sat, 27 Jun 2026 03:28:27 GMT",
+      "contentSnippet": "IT之家 6 月 27 日消息，据科技媒体 Wccftech 昨天报道，亿万富翁埃隆 · 马斯克认为，IBM 前天公布的“0.7 纳米芯片”命名具有误导性质，并不能反映晶体管的真实尺寸。\n\n马斯克认为，未来芯片制程节点应当根据最小特征尺寸对应的原子数量命名，而不是沿用现有命名方式。\nIBM 表示，公司的 0.7 纳米工艺是 Nanosheet（IT之家注：纳米片）基础上的进一步升级，并采用全新 Nanostack（纳米堆叠）技术。该公司宣称纳米堆叠技术可将晶体管垂直堆叠，提高芯片的晶体管密度，晶圆键合（Wafer Bonding）也是 0.7 纳米工艺的重要组成部分。\n至于命名方式，IBM 解",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "钛媒体"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "分析巴奴火锅定价高于海底捞但利润较低的原因。",
+      "aiSummary": "马斯克批评IBM 0.7纳米芯片命名误导，建议按原子数量命名。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体，内容具体，逻辑清晰，但缺乏详细数据支撑。"
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体且有原始报道引用，但缺乏独立验证。"
     },
     {
-      "title": "传可灵最新估值150亿美元，腾讯阿里红杉领投",
-      "link": "https://www.tmtpost.com/8041867.html",
-      "pubDate": "Fri, 26 Jun 2026 11:40:37 +0800",
-      "contentSnippet": "投可灵更像是投一个仍然处在高速判断和高速执行中的研究团队，而不是投一家已经进入成熟阶段的公司。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "消息称某厂新机搭载 6.59 英寸中屏、骁龙 8 系处理器，预计为 vivo X500E",
+      "link": "https://www.ithome.com/0/969/332.htm",
+      "pubDate": "Sat, 27 Jun 2026 03:26:36 GMT",
+      "contentSnippet": "IT之家 6 月 27 日消息，据博主 @数码闲聊站 今日爆料，某厂 X 系列 E 新成员搭载 6.59 英寸中屏，左上角小方块 Deco，配备骁龙 8 系处理器，后置蔡司影像 +IMX8 中底潜望长焦。据评论区网友推测，该机为 vivo X500E。\n\n\nIT之家注意到，vivo 新一代旗舰预计由 X300 系列跳过“数字 4”，直接命名为 X500 系列，至于“E”成员，评论区网友推测为 S 系列升级款。vivo 这一命名策略已在此前的系列机型中得到印证，比如 Y300 的下一代直接是 Y500，X Fold3 的下一代是 X Fold5。\n\n▲ vivo S60\n作为参考，今年 5 月发",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "钛媒体"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "可灵估值150亿美元，腾讯阿里红杉领投。",
-      "credibilityScore": 70,
+      "aiSummary": "爆料称vivo X500E将搭载6.59英寸屏和骁龙8系处理器。",
+      "credibilityScore": 65,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体，但信息基于博主爆料和网友推测，缺乏官方确认和具体数据支撑。"
+    },
+    {
+      "title": "索尼西野秀明表态：继续押注实时服务游戏，视 PS5 和 PC 为主要发行平台",
+      "link": "https://www.ithome.com/0/969/331.htm",
+      "pubDate": "Sat, 27 Jun 2026 03:17:09 GMT",
+      "contentSnippet": "IT之家 6 月 27 日消息，在接受 famitsu 采访时，索尼互动娱乐（SIE）总裁兼首席执行官西野秀明表示，公司将大力推行实时服务游戏，并视 PS5 和 PC 为此类作品的主要发行平台。\nIT之家注：实时服务游戏指通过长期更新内容、活动、赛季或在线运营持续吸引玩家的游戏类型。这类产品通常依赖稳定的用户活跃度和多人互动生态，常见于射击、动作或竞技类游戏，商业模式也往往与长期付费内容绑定。\n西野秀明在采访中强调，实时服务游戏吸引全球海量玩家，PlayStation 希望通过第一方与第三方内容，继续激活和深耕该市场，团队不仅关注推广新游戏，更注重评估老作品的中长期运营空间。\n在发行策略方面，",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "索尼将继续押注实时服务游戏，PS5和PC是主要平台。",
+      "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体但缺乏官方确认和细节支撑。"
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有采访引用，但缺乏原始采访链接。"
+    },
+    {
+      "title": "谷歌 Gemini 助手新功能：直接帮用户安装 Play 商店内的应用",
+      "link": "https://www.ithome.com/0/969/330.htm",
+      "pubDate": "Sat, 27 Jun 2026 03:04:54 GMT",
+      "contentSnippet": "IT之家 6 月 27 日消息，据科技媒体 Android Authority 今天报道，谷歌 Play 商店有数百万款应用程序等待用户下载。不过如此庞大的应用库也是一种累赘，用户有时在寻找真正适合自己的应用时，感觉往往如同大海捞针。\n\n为了让寻找应用更加方便，谷歌今年 5 月宣布将 Play 商店集成至 Gemini 助手，帮助用户快速筛选出合适的 App。\n如今谷歌表示，这项功能已经开始逐步推送，用户启用后可以直接在 Gemini 聊天窗口中搜索应用、安装应用，或进行内购，整个过程无需离开 Gemini。\nIT之家从原报道获悉，用户可以向 Gemini 提问：“帮我找一款可以规划每周吃什么",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "谷歌Gemini助手集成Play商店，可直接搜索安装应用。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，引用Android Authority报道，内容具体有细节。"
+    },
+    {
+      "title": "Steam Machine 短期难降价：Valve 称期望该硬件越便宜越好",
+      "link": "https://www.ithome.com/0/969/329.htm",
+      "pubDate": "Sat, 27 Jun 2026 03:03:48 GMT",
+      "contentSnippet": "IT之家 6 月 27 日消息，在接受数毛社（Digital Foundry）采访时，Valve 工程师表示如果未来内存和存储等零部件成本回落，旗下 Steam Machine 游戏主机价格也会下调，但短期内几乎看不到降价可能。\n在接受采访时，皮埃尔-卢 · 格里菲斯（Pierre-Loup Griffais）和亚赞 · 阿尔德哈亚特（Yazan Aldehayyat）表示，只要未来零部件价格下降，Valve 愿意下调 Steam Machine 售价（目前起价 1049 美元）。\nIT之家翻译格里菲斯的部分回应内容如下：\n\n我们没必要把硬件价格定得那么高，推出 [Steam Machine]",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "Valve称Steam Machine短期难降价，期待零部件成本回落。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有工程师采访引用，逻辑清晰。"
     }
   ]
 }
