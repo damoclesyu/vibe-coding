@@ -1,48 +1,31 @@
 {
-  "generatedAt": "2026-06-27T03:52:40.654Z",
+  "generatedAt": "2026-06-28T04:14:38.114Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "京东在欧洲推出机器人维修服务，“救护车”上门服务覆盖英国、德国、法国等地",
-      "link": "https://www.ithome.com/0/969/325.htm",
-      "pubDate": "Sat, 27 Jun 2026 02:41:05 GMT",
-      "contentSnippet": "IT之家 6 月 27 日消息，京东今天宣布在欧洲推出 JoyRobocare 机器人维修服务，并在英国贝德福德、德国杜伊斯堡等地建立了机器人维修中心，“机器人救护车”上门服务可覆盖英国、德国、法国、荷兰等多个国家主要城市。\n\nIT之家从“京东黑板报”公众号了解到，JoyRobocare 在欧洲主要针对具身智能机器人、四足机器人提供上门送货、调试配置和使用辅导等服务。通过海外本地化“机器人救护车”上门及维修中心服务，机器人未来将无需跨国返厂即可解决大部分故障，大幅降低了企业、消费者的维修售后成本。\n同时，欧洲 JoyRobocare 服务还进一步补足了全球机器人供应链物流及售后链条，不仅帮助机",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "【ESG-V评级观察】A股信任体检：从公益叙事走向利益相关方治理",
+      "link": "https://www.tmtpost.com/8044237.html",
+      "pubDate": "Sun, 28 Jun 2026 09:47:52 +0800",
+      "contentSnippet": "近日，济安金信发布A股上市公司ESG-V社会（S）评级结果。数据显示，在4764家参评A股上市公司中，社会维度整体呈现中部等级为主体、两端分化并存的结构特征。多数企业已具备一定社会责任管理基础，但不同公司在投资者保护、信息披露真实性、员工权益、产品责任和供应链稳定性等方面仍存在明显差异。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
       "allSources": [
-        "IT之家"
+        "钛媒体"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "京东在欧洲推出机器人维修服务，覆盖英德法等国。",
-      "credibilityScore": 80,
+      "aiSummary": "济安金信发布A股ESG-V社会评级，揭示企业社会责任管理分化。",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家可信，内容具体有细节，但缺乏独立验证。"
+      "credibilityReason": "来源钛媒体较知名，内容有具体数据支撑，但缺少原始报告链接。"
     },
     {
-      "title": "遏制“声音刺客”：美国加州 7 月起限制流媒体广告音量",
-      "link": "https://www.ithome.com/0/969/316.htm",
-      "pubDate": "Sat, 27 Jun 2026 01:59:19 GMT",
-      "contentSnippet": "IT之家 6 月 27 日消息，科技媒体 Ars Technica 昨日（6 月 26 日）发布博文，报道称美国加州计划 7 月 1 日开始，明确约束流媒体平台广告音量，规定广告音量不得高于流媒体内容播放音量。\n该法案编号 SB 576，由加州州长加文 · 纽森（Gavin Newsom）于 2025 年 10 月签署，主要减少用户在观看过程中遭遇突兀高音量广告的情况。\nIT之家援引博文介绍，美国联邦现行法律早已要求广告音量与所播放内容的平均音量保持一致，但适用对象主要是电视广播机构和有线电视运营商。加州这次立法，把类似要求进一步覆盖到流媒体平台。\n安伯格去年在声明中说，这项法案是为“每一个好",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "加州7月起限制流媒体广告音量不得高于内容音量。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，引用Ars Technica原始报道，信息具体且有法案编号和签署日期。"
-    },
-    {
-      "title": "G7易流发布货运行业首款穿戴式AI硬件「拍拍豆」，填平物流交付的“最后两米”｜最前线",
-      "link": "https://36kr.com/p/3869740772316162?f=rss",
-      "pubDate": "2026-06-27 09:40:53  +0800",
-      "contentSnippet": "作者｜黄楠\n编辑｜袁斯来\n6月25日，G7易流发布货运行业首款穿戴式AI硬件“拍拍豆”。这款产品克重仅30克，采用磁吸设计，当车辆熄火停稳后，司机可直接将设备从挡风玻璃底座取下，佩戴于胸前即可自动启动录制；放回底座瞬间，录制文件将自动同步上传云端存储。\n从“看见车上”到“看见车下”，物流AI的应用场景正在完成一次关键跨越。\n物流行业的AI化进程加速。据中国物流与采购联合会等机构统计，2025年全球物流与供应链管理AI市场规模已超过340亿美元，预计2026年将增长至479.2亿美元，年复合增长率高达40.8%。其中在中国，AI于物流供应链领域的渗透率已超过37%\n过去几年，行业花了大量精力把车",
+      "title": "功率半导体再启阶梯式调价，有厂商表示“AI相关的电源功率订单爆满，根本做不过来”",
+      "link": "https://36kr.com/newsflashes/3871215128237313?f=rss",
+      "pubDate": "2026-06-27 17:23:40  +0800",
+      "contentSnippet": "据《科创板日报》27日消息，由于AI算力集群功耗激增，功率半导体正成为存储之后的产业新增长引擎，行业再掀起一轮涨价潮。“我们AI相关的电源功率订单‘爆满’，现在订单根本做不过来”。一家功率半导体厂商人士向《科创板日报》记者表示，“因为公司算是少数具备量产能力的国产厂商，无论是面向数据中心800V HVDC等一次电源、服务器二次电源等产品，都已进入多家头部客户供应链并实现规模量产，所以订单需求十分旺盛。”多位业内人士判断，本轮成本驱动的涨价周期仍将持续一段时间，并且行业将加速功率器件低端产能的出清，市场份额将向具备IDM全链条能力或与上游深度绑定，且涉足高景气赛道的头部芯片企业集中。（财联社）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -50,67 +33,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "G7易流发布货运行业首款穿戴式AI硬件拍拍豆，填补物流交付最后两米。",
+      "aiSummary": "AI算力需求激增推动功率半导体涨价，厂商订单爆满。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪知名科技媒体，内容具体有数据支撑，逻辑清晰。"
+      "credibilityReason": "来源为知名科技媒体36氪，引用业内人士和《科创板日报》，信息具体且有数据支撑。"
     },
     {
-      "title": "国家邮政局：推动电商平台、寄递企业 App 设置“绿色包装”选项",
-      "link": "https://www.ithome.com/0/969/288.htm",
-      "pubDate": "Sat, 27 Jun 2026 00:16:49 GMT",
-      "contentSnippet": "IT之家 6 月 27 日消息，6 月 26 日，国家邮政局举行 2026 年第二季度例行新闻发布会，介绍《快递暂行条例》（以下简称《条例》）修改实施一周年邮政快递业绿色低碳发展成效。\nIT之家从官方介绍获悉，《条例》作为我国邮政快递业首部专门行政法规，于 2018 年 5 月 1 日起施行，核心作用在于规范市场秩序、保障寄递安全、维护用户权益，并推动行业绿色高质量发展。2025 年 6 月 1 日，新修改的《条例》正式实施，增加了“快递包装”专章。\n《条例》修改实施一年以来，全行业包装标准化率达 86%，同城快递使用循环包装数量占比超 10%，企业使用绿色认证的包装数量占比超 5%。回收复用",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国家邮政局推动电商和快递App设置绿色包装选项。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，引用官方发布会信息，数据具体。"
-    },
-    {
-      "title": "630.4GB 超 20 万个文件泄露：苹果联手塔塔调查供应链安全事件",
-      "link": "https://www.ithome.com/0/969/286.htm",
-      "pubDate": "Sat, 27 Jun 2026 00:15:59 GMT",
-      "contentSnippet": "IT之家 6 月 27 日消息，路透社昨日（6 月 26 日）发布博文，报道称苹果公司已携手印度供应商塔塔电子（Tata Electronics），共同调查、应对本月初发生的数据泄露事件，已收紧敏感系统的内部访问权限，并聘请全球顾问展开取证审计。\n在泄露数据方面，勒索软件组织 World Leaks 本周在暗网发布数据，公开文件总数已超过 204341 份，总数据量超过 630.4 GB。泄露内容据称包含苹果和特斯拉的零部件设计文件，但真实性尚未得到独立核实。\n路透社在深入调查后，指出在公开的泄露数据中，至少包含 16 个来自 TSMC（台积电）的文件或文件夹，以及 23 个来自 Qualco",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "苹果与塔塔电子联合调查数据泄露事件，超630GB文件被公开。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，引用路透社报道，信息具体且有数据支撑。"
-    },
-    {
-      "title": "VS Code 1.123 新增两小时插件更新缓冲，防范供应链恶意攻击",
-      "link": "https://www.infoq.cn/article/iZskGZVEV04jivWZtR00?utm_source=rss&utm_medium=article",
-      "pubDate": "Fri, 26 Jun 2026 12:44:00 GMT",
-      "contentSnippet": "点击查看原文>",
-      "sourceName": "InfoQ中文",
-      "sourceWeight": 78,
-      "allSources": [
-        "InfoQ中文"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "VS Code 1.123引入两小时插件更新缓冲机制，防范供应链攻击。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "InfoQ是知名技术媒体，内容具体且逻辑清晰，但缺少原始出处链接。"
-    },
-    {
-      "title": "《走进AIE》，谁是下一个主角",
-      "link": "https://36kr.com/p/3869838577620231?f=rss",
-      "pubDate": "2026-06-26 18:28:31  +0800",
-      "contentSnippet": "一展两地，链接全球    AIE 电子展成为龙头企业的必选舞台\n全球智能制造产业加速演进，粤港澳大湾区正成为打造世界级科技展会的核心阵地。2026全球智能制造与电子产品博览会（AIE）依托大湾区完备的产业生态，致力于打造中国智能制造首发平台。\n技术创新的源头既来自产业一线的龙头力量，也来自科研院所的前沿探索，更来自真实场景中的实战检验。为此，AIE 组委会联合南方财经、新华网、南方+等权威媒体，重磅推出《走进AIE》专题栏目，全维度挖掘产业、科研与场景应用的创新价值，彰显湾区智造硬实力，吸引全球产业资源加速汇聚。\n走进企业，解码产业 用专业内容讲好\"中国智造\"\n围绕行业前沿趋势，从实验室到生产",
+      "title": "富信科技：公司近期未新增通信领域重大客户 亦未获取新增大额订单",
+      "link": "https://36kr.com/newsflashes/3872268617897217?f=rss",
+      "pubDate": "2026-06-28 12:02:13  +0800",
+      "contentSnippet": "富信科技6月28日发布声明，《破局与重塑：Micro-TEC国产化浪潮》是公司销售周志奇在CFCF2026光连接大会（6.27苏州）的演讲主题，其在该演讲中仅对公司产品和技术进行了介绍；网传《<破局与重塑：Micro-TEC国产化浪潮>周志奇演讲完整原文》为杜撰文章，此文与公司无关并完全不代表公司立场。公司生产的Micro TEC产品所使用的碲化铋材料无需使用纯度达6N级及以上的碲、铋等单质原料；公司近期未新增通信领域重大客户，亦未获取新增大额订单。据了解，行业内生产Micro TEC产品所使用的碲化铋材料亦无需使用纯度达6N级及以上的碲、铋等单质原料。公司已就此文涉及的虚假信息内容和传播线索",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -118,50 +50,68 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "介绍AIE电子展作为大湾区智能制造首发平台，聚焦产业创新。",
+      "aiSummary": "富信科技澄清网传演讲原文为杜撰，否认新增重大客户及订单。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为36氪，内容具体且引用公司官方声明，逻辑清晰。"
+    },
+    {
+      "title": "仅 20% 家庭有空调，央视揭秘欧洲“缺”空调背后的原因",
+      "link": "https://www.ithome.com/0/969/587.htm",
+      "pubDate": "Sun, 28 Jun 2026 03:56:10 GMT",
+      "contentSnippet": "IT之家 6 月 28 日消息，欧洲多地连日来遭遇高温，多地打破高温纪录。然而，欧洲国家空调普及率远低于其他地区主要经济体。央视财经揭秘了欧洲“缺”空调背后的原因。\n\n据介绍，在经济较为发达的欧洲，民众却较少使用空调等制冷设备的原因主要有三，分别是历史天气因素、空调安装难度和成本以及欧洲制定的绿色发展目标。\n\n\n欧洲仅有约 20% 的家庭配备空调等制冷设备。主要原因是，以往欧洲的夏天，尤其是在欧洲北部，天气不那么炎热，尽管有热浪，但长时间高温天气并不频繁，因此人们安装空调的需求并不多。\n\n其次，欧洲许多地方空调安装难度大、成本高。欧洲建筑普遍较为老旧，还有大量列入保护名录的老建筑物，申请安装空",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "欧洲空调普及率低，原因包括历史天气、安装难度和环保目标。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪知名科技媒体，内容具体但缺少技术细节和数据支撑。"
+      "credibilityReason": "来源为知名科技媒体IT之家，内容具体有数据支撑，逻辑清晰。"
     },
     {
-      "title": "美国国防部恢复了疫苗强制接种要求",
-      "link": "https://www.solidot.org/story?sid=84682",
-      "pubDate": "Fri, 26 Jun 2026 14:14:36 +0800",
-      "contentSnippet": "在美国一个空军基地逾 200 名新兵感染流感之后，美国海陆空兵种恢复了新兵疫苗接种要求。两个月前国防部长 Pete Hegseth 取消了数十年来一直沿用的流感疫苗接种强制令，理由是不合理，取消强制令将恢复军人的“自由”。但历史早就证明，兵营等封闭环境容易滋生病菌，而传染病一直是军队战斗力的大敌。最近德州 Lackland  空军基地报告了 222 例确诊流感病例和 4 例住院病例，其中新兵 Keon McDaniel 死亡，但暂时不清楚其死因是否与流感有关。该基地只有约 40% 的新兵接种了疫苗，这波疫情爆发始于 6 月初。五角大楼发言人称，五角大楼已批准陆军、海军、空军、国家安全局和国防卫",
-      "sourceName": "Solidot",
-      "sourceWeight": 75,
+      "title": "日本游戏 / 娱乐行业 2025 年专利排行榜出炉：万代南梦宫夺冠，任天堂排第五",
+      "link": "https://www.ithome.com/0/969/586.htm",
+      "pubDate": "Sun, 28 Jun 2026 03:49:50 GMT",
+      "contentSnippet": "IT之家 6 月 28 日消息，据雅虎新闻报道，专利调查机构 Patent Result 前天发布《2025 年游戏与娱乐行业专利牵制力排行榜》，其中万代南梦宫娱乐位列榜首。\n\n据报道，所谓“专利牵制力”指的是一家企业持有的专利、在其他企业申请专利时，被专利审查员作为现有技术文献引用，以说明不符合申请条件的频率。被引用的次数越多，就说明该企业拥有越多能影响竞争对手的关键技术，因此在行业内拥有更强竞争优势。\n本次调查统计了 2025 年日本游戏与娱乐行业的“被引用专利驳回”次数，结果显示，万代南梦宫娱乐排名第一。该公司被引用最多的专利是“虚拟三维空间中实现个性化演出效果的活动演出控制系统”，曾在",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "Solidot"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "美国国防部因空军基地流感疫情恢复新兵疫苗强制接种。",
+      "aiSummary": "日本游戏娱乐行业2025年专利排行榜发布，万代南梦宫夺冠。",
       "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体Solidot，内容具体有数据支撑，逻辑清晰，但缺少原始出处链接。"
+      "credibilityReason": "来源为知名科技媒体IT之家，引用雅虎新闻和专利调查机构，信息具体有数据支撑。"
     },
     {
-      "title": "外媒在 AMD RDNA 3 显卡上测试：FSR 4.1 超分比 3.1 最多慢 14.5%",
-      "link": "https://www.ithome.com/0/969/336.htm",
-      "pubDate": "Sat, 27 Jun 2026 03:49:58 GMT",
-      "contentSnippet": "IT之家 6 月 27 日消息，科技媒体 ComputerBase 测试显示，在 RDNA 3 显卡平台上测试 9 款游戏，发现相比较 FSR 3.1 超分技术，FSR 4.1 在质量模式下帧率低 11%，性能模式低 14.5%。\nIT之家注：FSR 4.1 是 AMD 推出的新一代图像超分技术，通过较低分辨率渲染画面，再重建出更高分辨率图像，以提升游戏帧率。\nRDNA 3 是 AMD Radeon 显卡采用的一代 GPU 架构，该媒体测试了采用该架构 Radeon RX 7900 XTX、RX 7800 XT、RX 7600 三款显卡的 FSR 4.1 与 FSR 3.1 表现，同时加入 R",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "《给阿嬷的情书》总票房已突破19亿元",
+      "link": "https://36kr.com/newsflashes/3872220264879105?f=rss",
+      "pubDate": "2026-06-28 11:45:00  +0800",
+      "contentSnippet": "据网络平台数据，截至6月27日16时17分，上映59天的电影《给阿嬷的情书》总票房已突破19亿元。此前，该片官宣密钥延期，延长放映至7月31日。（上海证券报）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
       "allSources": [
+        "36氪",
         "IT之家"
       ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "外媒测试AMD FSR 4.1在RDNA 3上比3.1慢11%-14.5%。",
-      "credibilityScore": 82,
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "《给阿嬷的情书》上映59天票房破19亿元",
+      "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家转述知名科技媒体ComputerBase测试，数据具体，逻辑清晰。"
+      "credibilityReason": "来源权威（36氪、IT之家、上海证券报），数据具体且有出处（多源覆盖 +5）"
     },
     {
-      "title": "阿里千问输入法上线 macOS 版：最快 300 字 / 分，AI 自动润色",
-      "link": "https://www.ithome.com/0/969/334.htm",
-      "pubDate": "Sat, 27 Jun 2026 03:39:06 GMT",
-      "contentSnippet": "IT之家 6 月 27 日消息，阿里旗下千问输入法 macOS 版今日已上线官网，官方预告 iOS 版、Android 版、Windows 版将于近日发布。\n官网显示，该产品号称“说完即成稿”，支持最快 300 字 / 分，AI 自动润色，说话秒变工整文字。支持 9 种方言，纯净无广告。\n\n此前有消息称，千问团队将推出名为“千问输入法”的独立 App，与 PC 端的千问语音输入法有一定区别，AI 功能、键盘会更贴合手机端操作，填补千问在移动端 AI 输入法赛道的空白。\nIT之家查询发现，这并不是千问第一次尝试进入输入法领域。千问官网显示，千问语音输入法是阿里千问今年 5 月上线的 AI 语音输",
+      "title": "小鹏 MONA L03 公布 23 处拓展接口，可架设运动相机、手机支架等",
+      "link": "https://www.ithome.com/0/969/584.htm",
+      "pubDate": "Sun, 28 Jun 2026 03:36:50 GMT",
+      "contentSnippet": "IT之家 6 月 28 日消息，小鹏 MONA L03 车型将于 7 月正式亮相，号称“年轻人的第一台智能时尚 SUV”，官方今日透露这款新车全车拥有 23 处拓展接口。\n\n4 个后备厢洞洞板接口：可安装洞洞板，适合露营、后备厢集市等\n\n5 个 1/4 标准螺纹接口：可架设运动相机、手机支架等\n\n8 个无痕磁吸接口：可磁吸灵动按键、玩偶和墨镜盒等\n\n2 个座椅靠背接口：可转接平板电脑、化妆镜等\n\n3 个智能 Pin 口：可安装智能香氛、净化器等\n\n\n\n\n\n\n小鹏此前已公布这款新车的内饰设计，软包面积超 72%，提供拉丝金属工艺扬声器网罩，车顶还配备双层镀银全景天幕，前排配备超大面积柔光美妆镜。",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -169,16 +119,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "阿里千问输入法macOS版上线，支持AI润色和方言。",
+      "aiSummary": "小鹏MONA L03公布23处拓展接口，支持多种配件安装。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，信息具体且有官方数据支撑，逻辑清晰。"
+    },
+    {
+      "title": "红魔游戏平板 5 Pro 软件功能首曝：支持 AI 战术教练陪玩指导、投屏助手可投 1080P 185Hz 画面等",
+      "link": "https://www.ithome.com/0/969/583.htm",
+      "pubDate": "Sun, 28 Jun 2026 03:35:13 GMT",
+      "contentSnippet": "IT之家 6 月 28 日消息，红魔游戏手机官方今日继续预热红魔游戏平板 5 Pro，此次公开了新平板的软件功能亮点。\n\n据介绍，红魔游戏平板 5 Pro 内置了 AI 战术教练和 AI 魔姬嘴替两大功能，前者支持赛前赛中提供选英雄、出装战术等游戏指导，后者支持 DeepSeek 自然回复交流，让对手“破防”。\n另外，红魔游戏平板 5 Pro 还带来了投屏助手、剪辑应用以及电子书模式。其中，红魔投屏助手支持无黑边投屏、1080P 185Hz / 4K 144Hz 投屏、低延迟投屏；剪辑应用可用于剪辑精彩直播片段；电子书模式提供彩墨和黑白两种方案，可指定 App 进行开启。\n\nIT之家注意到，这",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "红魔游戏平板5 Pro软件功能曝光，含AI教练和投屏助手。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家较知名，内容具体有数据，但缺乏第三方验证。"
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体但缺少技术细节和原始出处。"
     },
     {
-      "title": "马斯克称 IBM“0.7 纳米芯片”命名有误导性，认为制程节点应按原子数量命名",
-      "link": "https://www.ithome.com/0/969/333.htm",
-      "pubDate": "Sat, 27 Jun 2026 03:28:27 GMT",
-      "contentSnippet": "IT之家 6 月 27 日消息，据科技媒体 Wccftech 昨天报道，亿万富翁埃隆 · 马斯克认为，IBM 前天公布的“0.7 纳米芯片”命名具有误导性质，并不能反映晶体管的真实尺寸。\n\n马斯克认为，未来芯片制程节点应当根据最小特征尺寸对应的原子数量命名，而不是沿用现有命名方式。\nIBM 表示，公司的 0.7 纳米工艺是 Nanosheet（IT之家注：纳米片）基础上的进一步升级，并采用全新 Nanostack（纳米堆叠）技术。该公司宣称纳米堆叠技术可将晶体管垂直堆叠，提高芯片的晶体管密度，晶圆键合（Wafer Bonding）也是 0.7 纳米工艺的重要组成部分。\n至于命名方式，IBM 解",
+      "title": "苹果 Mac 用户集体力挺微软 Edge 浏览器：比 Chrome 更快、更省内存",
+      "link": "https://www.ithome.com/0/969/582.htm",
+      "pubDate": "Sun, 28 Jun 2026 03:31:50 GMT",
+      "contentSnippet": "IT之家 6 月 28 日消息，一名苹果用户在社交平台 X 上发布了一张微软 Edge 浏览器 Mac 版下载页面的截图，并发文吐槽：“到底是什么奇葩，会在苹果 Mac 电脑上用微软 Edge 浏览器？”这条推文收获了 38 万余次浏览量。往常，这类吐槽微软产品的帖子底下，往往会涌入大批跟风嘲讽的网友，但这次却一反常态。\n\nIT之家注意到，评论区非但没有一面倒地吐槽，反而意外变成了网友集体为 Edge 辩解的阵地，一众 Mac 用户纷纷晒出自己在苹果设备上使用这款浏览器的真实理由。微软 Edge 官方账号注意到了这条动态，转发原文并回复：“最牛浏览器。”\n\n这种随性又自信的回应，微软以往几乎从",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -186,50 +153,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "马斯克批评IBM 0.7纳米芯片命名误导，建议按原子数量命名。",
+      "aiSummary": "Mac用户力挺Edge浏览器，称其比Chrome更快更省内存。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体且有原始报道引用，但缺乏独立验证。"
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有用户反馈，但缺少技术细节和原始数据支撑。"
     },
     {
-      "title": "消息称某厂新机搭载 6.59 英寸中屏、骁龙 8 系处理器，预计为 vivo X500E",
-      "link": "https://www.ithome.com/0/969/332.htm",
-      "pubDate": "Sat, 27 Jun 2026 03:26:36 GMT",
-      "contentSnippet": "IT之家 6 月 27 日消息，据博主 @数码闲聊站 今日爆料，某厂 X 系列 E 新成员搭载 6.59 英寸中屏，左上角小方块 Deco，配备骁龙 8 系处理器，后置蔡司影像 +IMX8 中底潜望长焦。据评论区网友推测，该机为 vivo X500E。\n\n\nIT之家注意到，vivo 新一代旗舰预计由 X300 系列跳过“数字 4”，直接命名为 X500 系列，至于“E”成员，评论区网友推测为 S 系列升级款。vivo 这一命名策略已在此前的系列机型中得到印证，比如 Y300 的下一代直接是 Y500，X Fold3 的下一代是 X Fold5。\n\n▲ vivo S60\n作为参考，今年 5 月发",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "博世集团：董事会人事调整不会对博世中国各项业务运营产生任何影响",
+      "link": "https://36kr.com/newsflashes/3872219380094217?f=rss",
+      "pubDate": "2026-06-28 11:30:09  +0800",
+      "contentSnippet": "6月27日晚，博世集团官微发文表示，此次集团董事会人事调整不会对博世中国各项业务运营产生任何影响。中国始终是博世全球最重要的战略市场之一，也是集团重要的创新基地。未来，博世将一如既往携手广大客户和合作伙伴，持续深耕中国市场。公告显示，经与股东充分沟通并达成一致，史蒂凡·哈通（Dr. Stefan Hartung）主动申请于2026年6月30日卸任博世集团董事会主席职务。他也将同时退出博世集团董事会及罗伯特·博世工业信托公司管理层。2026年7月1日起，董事会副主席克里斯蒂安·菲舍尔（Dr. Christian Fischer）将接任该职务。同时，董事会成员马库斯·福施纳（Dr. Markus",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
       "allSources": [
-        "IT之家"
+        "36氪"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "爆料称vivo X500E将搭载6.59英寸屏和骁龙8系处理器。",
-      "credibilityScore": 65,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体，但信息基于博主爆料和网友推测，缺乏官方确认和具体数据支撑。"
-    },
-    {
-      "title": "索尼西野秀明表态：继续押注实时服务游戏，视 PS5 和 PC 为主要发行平台",
-      "link": "https://www.ithome.com/0/969/331.htm",
-      "pubDate": "Sat, 27 Jun 2026 03:17:09 GMT",
-      "contentSnippet": "IT之家 6 月 27 日消息，在接受 famitsu 采访时，索尼互动娱乐（SIE）总裁兼首席执行官西野秀明表示，公司将大力推行实时服务游戏，并视 PS5 和 PC 为此类作品的主要发行平台。\nIT之家注：实时服务游戏指通过长期更新内容、活动、赛季或在线运营持续吸引玩家的游戏类型。这类产品通常依赖稳定的用户活跃度和多人互动生态，常见于射击、动作或竞技类游戏，商业模式也往往与长期付费内容绑定。\n西野秀明在采访中强调，实时服务游戏吸引全球海量玩家，PlayStation 希望通过第一方与第三方内容，继续激活和深耕该市场，团队不仅关注推广新游戏，更注重评估老作品的中长期运营空间。\n在发行策略方面，",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "索尼将继续押注实时服务游戏，PS5和PC是主要平台。",
-      "credibilityScore": 80,
+      "aiSummary": "博世集团称董事会调整不影响中国业务运营。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有采访引用，但缺乏原始采访链接。"
+      "credibilityReason": "来源为知名科技媒体36氪，内容具体且引用官方公告，逻辑清晰。"
     },
     {
-      "title": "谷歌 Gemini 助手新功能：直接帮用户安装 Play 商店内的应用",
-      "link": "https://www.ithome.com/0/969/330.htm",
-      "pubDate": "Sat, 27 Jun 2026 03:04:54 GMT",
-      "contentSnippet": "IT之家 6 月 27 日消息，据科技媒体 Android Authority 今天报道，谷歌 Play 商店有数百万款应用程序等待用户下载。不过如此庞大的应用库也是一种累赘，用户有时在寻找真正适合自己的应用时，感觉往往如同大海捞针。\n\n为了让寻找应用更加方便，谷歌今年 5 月宣布将 Play 商店集成至 Gemini 助手，帮助用户快速筛选出合适的 App。\n如今谷歌表示，这项功能已经开始逐步推送，用户启用后可以直接在 Gemini 聊天窗口中搜索应用、安装应用，或进行内购，整个过程无需离开 Gemini。\nIT之家从原报道获悉，用户可以向 Gemini 提问：“帮我找一款可以规划每周吃什么",
+      "title": "数毛社称 R 星《GTA6》截图可能不是实机截取",
+      "link": "https://www.ithome.com/0/969/581.htm",
+      "pubDate": "Sun, 28 Jun 2026 03:25:37 GMT",
+      "contentSnippet": "IT之家 6 月 28 日消息，数毛社本周（6 月 25 日）发文称，R 星公布的《GTA6》新一批截图可能并非实机截取。\n\n众所周知，从初代《看门狗》以后，玩家们就对实机画面对不上宣传视频画面耿耿于怀。对于玩家来说，手里的游戏达不到宣传片画面效果自然令人失望，因此许多玩家面对新游戏预告视频时，都会采取谨慎态度看待。\n数毛社（IT之家注：Digital Foundry）在分析《侠盗猎车手 6》最新官方截图时表示：“这些画面保真程度如此之高，不禁让人怀疑 R 星到底是在哪个平台截取的。坦率地说，我们认为这些画面不太可能是从 PS5、Xbox Series X，或者性能最强的 PS5 Pro 实时",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -237,16 +187,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "谷歌Gemini助手集成Play商店，可直接搜索安装应用。",
-      "credibilityScore": 80,
+      "aiSummary": "数毛社质疑R星《GTA6》截图非实机截取，可能来自高配PC。",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，引用Android Authority报道，内容具体有细节。"
+      "credibilityReason": "来源IT之家为知名科技媒体，引用数毛社专业分析，内容具体但缺乏原始出处链接。"
     },
     {
-      "title": "Steam Machine 短期难降价：Valve 称期望该硬件越便宜越好",
-      "link": "https://www.ithome.com/0/969/329.htm",
-      "pubDate": "Sat, 27 Jun 2026 03:03:48 GMT",
-      "contentSnippet": "IT之家 6 月 27 日消息，在接受数毛社（Digital Foundry）采访时，Valve 工程师表示如果未来内存和存储等零部件成本回落，旗下 Steam Machine 游戏主机价格也会下调，但短期内几乎看不到降价可能。\n在接受采访时，皮埃尔-卢 · 格里菲斯（Pierre-Loup Griffais）和亚赞 · 阿尔德哈亚特（Yazan Aldehayyat）表示，只要未来零部件价格下降，Valve 愿意下调 Steam Machine 售价（目前起价 1049 美元）。\nIT之家翻译格里菲斯的部分回应内容如下：\n\n我们没必要把硬件价格定得那么高，推出 [Steam Machine]",
+      "title": "两年深耕：全国首个开源鸿蒙机器人操作系统 M-Robots OS 完整捐献至开放原子开源基金会",
+      "link": "https://www.ithome.com/0/969/580.htm",
+      "pubDate": "Sun, 28 Jun 2026 03:23:03 GMT",
+      "contentSnippet": "IT之家 6 月 28 日消息，深圳开鸿数字产业发展有限公司 CEO 王成录宣布，经过两年深耕，M-Robots OS 正式完整捐献至开放原子开源基金会，专属一级根社区同步启动运营。\n\n他表示，无数个日夜打磨代码、打磨架构，从雏形到完整机器人操作系统底座，是整个团队一步一步熬出来的心血。\nIT之家注： M-Robots OS 是全国首个开源鸿蒙机器人操作系统，1.0 版本已于 2025 年 4 月发布，今年 5 月发布了 2.0 版本。系统具备多机实时协同、多硬件形态兼容、AI 原生以及丰富 API 与开发工具链四大核心能力，是可以提供“底层统一、场景多元”的全栈式系统平台。\n全新升级的 M-",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -254,10 +204,62 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "Valve称Steam Machine短期难降价，期待零部件成本回落。",
-      "credibilityScore": 80,
+      "aiSummary": "全国首个开源鸿蒙机器人操作系统M-Robots OS完整捐献至开放原子开源基金会。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有工程师采访引用，逻辑清晰。"
+      "credibilityReason": "来源为知名科技媒体IT之家，信息具体有版本细节和核心能力描述，逻辑清晰。"
+    },
+    {
+      "title": "消息称追觅超 200 个业务单元整合为四大板块，估算人员优化约 2400 人",
+      "link": "https://www.ithome.com/0/969/579.htm",
+      "pubDate": "Sun, 28 Jun 2026 03:18:17 GMT",
+      "contentSnippet": "IT之家 6 月 28 日消息，据中国经营网今日报道，近日，追觅系各大业务单元（BU）正在收缩和调整，将旗下超过 200 个业务单元（BU）大幅收缩整合为四大主营业务板块，并同步启动人员优化。\n追觅相关业务负责人接受《中国经营报》记者采访时表示，近期，追觅科技完成新一轮核心战略调整，正式锁定智能家庭、户外庭院、智能出行、具身智能四大核心赛道，对旗下业务体系进行系统性梳理与优化。此次战略迭代是企业发展逻辑的深度重塑，全面回归硬核科技研发与技术落地的核心赛道。\n报道提到，与业务调整同步进行的是人员优化，这也是追觅成立以来最大规模的组织人事精简。据悉，此次公司总体裁撤比例约为 12%。据估算，目前追",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "追觅整合超200业务单元为四大板块，人员优化约2400人",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，引用中国经营网报道，内容具体有数据支撑"
+    },
+    {
+      "title": "蔚来 ES8 创始版汽车“0001 号”入驻北京汽车博物馆",
+      "link": "https://www.ithome.com/0/969/577.htm",
+      "pubDate": "Sun, 28 Jun 2026 03:14:18 GMT",
+      "contentSnippet": "IT之家 6 月 28 日消息，安徽蔚来总经理余东明今日分享了蔚来 ES8 交付八周年纪念暨 0001 号车捐赠仪式现场画面。上海蔚来汽车有限公司高级副总裁、产品体验资深专家李天舒，向北京汽车博物馆正式捐赠了蔚来 ES8 创始版“0001 号”车。\n\n另外，蔚来 ES8 大五座版今日也开启预订，展车现已到店。这款纯电 SUV 将于 7 月 9 日正式发布上市。\n\n据IT之家此前报道，本月早些时候（6 月 22 日），蔚来官方宣布，历时 275 天，蔚来在上海完成 ES8 第 120,000 台新车交付。\n\n2026 年 5 月，蔚来 ES8 零售销量达 11,472 台，连续六个月斩获大型 S",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "蔚来ES8创始版0001号车捐赠北京汽车博物馆",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有细节，逻辑清晰"
+    },
+    {
+      "title": "五菱印尼与Grab战略签约，Grab租赁平台将批量导入缤果车型",
+      "link": "https://36kr.com/newsflashes/3872217703077120?f=rss",
+      "pubDate": "2026-06-28 11:13:25  +0800",
+      "contentSnippet": "6月27日，上汽通用五菱宣布，五菱印尼与东南亚出行平台Grab日前在雅加达完成战略合作签约及车辆交付，Grab租赁平台批量导入缤果车型，全面投入印尼网约车营运。在本次Grab合作落地前，五菱印尼已于6月17日与本土头部租赁公司MPM完成战略合作签约及批量交车。（界面）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪",
+        "IT之家"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "五菱印尼与Grab签约，缤果车型将批量用于印尼网约车运营。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体36氪和IT之家，信息具体且有原始出处（界面）。（多源覆盖 +5）"
     }
   ]
 }
