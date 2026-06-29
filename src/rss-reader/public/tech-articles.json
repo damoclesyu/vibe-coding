@@ -1,14 +1,48 @@
 {
-  "generatedAt": "2026-06-28T04:14:38.114Z",
+  "generatedAt": "2026-06-29T04:21:16.495Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "【ESG-V评级观察】A股信任体检：从公益叙事走向利益相关方治理",
-      "link": "https://www.tmtpost.com/8044237.html",
-      "pubDate": "Sun, 28 Jun 2026 09:47:52 +0800",
-      "contentSnippet": "近日，济安金信发布A股上市公司ESG-V社会（S）评级结果。数据显示，在4764家参评A股上市公司中，社会维度整体呈现中部等级为主体、两端分化并存的结构特征。多数企业已具备一定社会责任管理基础，但不同公司在投资者保护、信息披露真实性、员工权益、产品责任和供应链稳定性等方面仍存在明显差异。",
+      "title": "36氪首发 | Ebike公司获Brizan Ventures、高秉强参与超数亿融资，要进军外骨骼市场",
+      "link": "https://36kr.com/p/3873706225751296?f=rss",
+      "pubDate": "2026-06-29 11:38:16  +0800",
+      "contentSnippet": "作者 | 张子怡\n编辑 | 袁斯来\n硬氪获悉，全球智能电助力自行车品牌「URTOPIA」近日已完成B轮融资，融资总额超2亿元人民币。本轮融资由Brizan Ventures与桐乡市政府产业基金领投，高秉强、Kungho Fund、光远和声等机构持续加注。\n本轮融资完成后，URTOPIA将继续加大在核心技术研发、全球市场拓展、供应链建设和组织能力升级方面的投入，并推动公司从智能电助力自行车品牌，向以户外具身智能和人机耦合智能运动技术为核心的公司发展。\n在URTOPIA的长期规划中，智能E-bike并不是其业务的终点，而是其拓展“户外具身智能”领域的切入点。\n在URTOPIA创始人兼CEO张波看来",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "Ebike公司URTOPIA获超2亿元B轮融资，计划进军外骨骼市场。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪为知名科技媒体，融资信息具体，有创始人及投资方细节。"
+    },
+    {
+      "title": "中国—上海合作组织科技创新合作大会在青岛举行",
+      "link": "https://36kr.com/newsflashes/3873667680326664?f=rss",
+      "pubDate": "2026-06-29 10:58:32  +0800",
+      "contentSnippet": "6月29日，首届中国—上海合作组织科技创新合作大会在山东青岛举行。会议期间，发布了中国与上合组织国家间百项科技成果与百项需求、上合组织国家科技创新合作项目集中签约、上合组织成员国青年创新创业大赛等一系列活动。（央视新闻）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "首届中国-上合组织科技创新合作大会在青岛举行",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为36氪，内容引用央视新闻，信息具体有活动细节"
+    },
+    {
+      "title": "超盒算 NB 落地北京六店齐发，盒马加速布局社区硬折扣",
+      "link": "https://www.tmtpost.com/8044301.html",
+      "pubDate": "Mon, 29 Jun 2026 10:23:24 +0800",
+      "contentSnippet": "在这场品牌、渠道、供应链、配送能力的综合较量中，社区硬折扣超市这门利润稀薄的生意，正在迎来愈发激烈的竞争。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -16,50 +50,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "济安金信发布A股ESG-V社会评级，揭示企业社会责任管理分化。",
+      "aiSummary": "盒马旗下超盒算NB在北京六店同开，加速社区硬折扣布局。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源钛媒体较知名，内容有具体数据支撑，但缺少原始报告链接。"
+      "credibilityReason": "来源为知名科技媒体钛媒体，内容具体但缺乏详细数据支撑。"
     },
     {
-      "title": "功率半导体再启阶梯式调价，有厂商表示“AI相关的电源功率订单爆满，根本做不过来”",
-      "link": "https://36kr.com/newsflashes/3871215128237313?f=rss",
-      "pubDate": "2026-06-27 17:23:40  +0800",
-      "contentSnippet": "据《科创板日报》27日消息，由于AI算力集群功耗激增，功率半导体正成为存储之后的产业新增长引擎，行业再掀起一轮涨价潮。“我们AI相关的电源功率订单‘爆满’，现在订单根本做不过来”。一家功率半导体厂商人士向《科创板日报》记者表示，“因为公司算是少数具备量产能力的国产厂商，无论是面向数据中心800V HVDC等一次电源、服务器二次电源等产品，都已进入多家头部客户供应链并实现规模量产，所以订单需求十分旺盛。”多位业内人士判断，本轮成本驱动的涨价周期仍将持续一段时间，并且行业将加速功率器件低端产能的出清，市场份额将向具备IDM全链条能力或与上游深度绑定，且涉足高景气赛道的头部芯片企业集中。（财联社）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "AI算力需求激增推动功率半导体涨价，厂商订单爆满。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，引用业内人士和《科创板日报》，信息具体且有数据支撑。"
-    },
-    {
-      "title": "富信科技：公司近期未新增通信领域重大客户 亦未获取新增大额订单",
-      "link": "https://36kr.com/newsflashes/3872268617897217?f=rss",
-      "pubDate": "2026-06-28 12:02:13  +0800",
-      "contentSnippet": "富信科技6月28日发布声明，《破局与重塑：Micro-TEC国产化浪潮》是公司销售周志奇在CFCF2026光连接大会（6.27苏州）的演讲主题，其在该演讲中仅对公司产品和技术进行了介绍；网传《<破局与重塑：Micro-TEC国产化浪潮>周志奇演讲完整原文》为杜撰文章，此文与公司无关并完全不代表公司立场。公司生产的Micro TEC产品所使用的碲化铋材料无需使用纯度达6N级及以上的碲、铋等单质原料；公司近期未新增通信领域重大客户，亦未获取新增大额订单。据了解，行业内生产Micro TEC产品所使用的碲化铋材料亦无需使用纯度达6N级及以上的碲、铋等单质原料。公司已就此文涉及的虚假信息内容和传播线索",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "富信科技澄清网传演讲原文为杜撰，否认新增重大客户及订单。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为36氪，内容具体且引用公司官方声明，逻辑清晰。"
-    },
-    {
-      "title": "仅 20% 家庭有空调，央视揭秘欧洲“缺”空调背后的原因",
-      "link": "https://www.ithome.com/0/969/587.htm",
-      "pubDate": "Sun, 28 Jun 2026 03:56:10 GMT",
-      "contentSnippet": "IT之家 6 月 28 日消息，欧洲多地连日来遭遇高温，多地打破高温纪录。然而，欧洲国家空调普及率远低于其他地区主要经济体。央视财经揭秘了欧洲“缺”空调背后的原因。\n\n据介绍，在经济较为发达的欧洲，民众却较少使用空调等制冷设备的原因主要有三，分别是历史天气因素、空调安装难度和成本以及欧洲制定的绿色发展目标。\n\n\n欧洲仅有约 20% 的家庭配备空调等制冷设备。主要原因是，以往欧洲的夏天，尤其是在欧洲北部，天气不那么炎热，尽管有热浪，但长时间高温天气并不频繁，因此人们安装空调的需求并不多。\n\n其次，欧洲许多地方空调安装难度大、成本高。欧洲建筑普遍较为老旧，还有大量列入保护名录的老建筑物，申请安装空",
+      "title": "重拳整治恶意抢注、“零添加”酱油等乱象，新修订的商标法明年起施行",
+      "link": "https://www.ithome.com/0/969/798.htm",
+      "pubDate": "Mon, 29 Jun 2026 02:22:51 GMT",
+      "contentSnippet": "IT之家 6 月 29 日消息，据央视新闻报道，6 月 26 日，十四届全国人大常委会第二十三次会议表决通过新修订的商标法，将于 2027 年 1 月 1 日起施行。\n新修订的商标法共 9 章 87 条，聚焦商标领域突出问题，明确商标工作的总体要求，规范商标注册，优化商标授权确权程序，强化商标管理，加强商标专用权保护。\n针对近年来频发的“心机商标”误导公众、扰乱市场的突出问题，新法补齐制度短板、细化监管规则、加大惩处力度。\n所谓“心机商标”，即法律意义上的欺骗性商标标志。部分经营者钻制度漏洞，刻意设计带有误导性的商标标识，通过文字、组合、释义等巧妙包装，刻意制造认知偏差，诱导消费者对商品的质量",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -67,16 +67,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "欧洲空调普及率低，原因包括历史天气、安装难度和环保目标。",
-      "credibilityScore": 75,
+      "aiSummary": "新修订商标法将于2027年施行，整治恶意抢注和误导性商标。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，内容具体有数据支撑，逻辑清晰。"
+      "credibilityReason": "来源IT之家为知名科技媒体，引用央视新闻，内容具体且逻辑清晰。"
     },
     {
-      "title": "日本游戏 / 娱乐行业 2025 年专利排行榜出炉：万代南梦宫夺冠，任天堂排第五",
-      "link": "https://www.ithome.com/0/969/586.htm",
-      "pubDate": "Sun, 28 Jun 2026 03:49:50 GMT",
-      "contentSnippet": "IT之家 6 月 28 日消息，据雅虎新闻报道，专利调查机构 Patent Result 前天发布《2025 年游戏与娱乐行业专利牵制力排行榜》，其中万代南梦宫娱乐位列榜首。\n\n据报道，所谓“专利牵制力”指的是一家企业持有的专利、在其他企业申请专利时，被专利审查员作为现有技术文献引用，以说明不符合申请条件的频率。被引用的次数越多，就说明该企业拥有越多能影响竞争对手的关键技术，因此在行业内拥有更强竞争优势。\n本次调查统计了 2025 年日本游戏与娱乐行业的“被引用专利驳回”次数，结果显示，万代南梦宫娱乐排名第一。该公司被引用最多的专利是“虚拟三维空间中实现个性化演出效果的活动演出控制系统”，曾在",
+      "title": "中国战机大片上新！运-20 飞机列装空军十周年，央视军事 8K 视觉片《扶摇直上九万里》发布",
+      "link": "https://www.ithome.com/0/969/751.htm",
+      "pubDate": "Mon, 29 Jun 2026 00:59:50 GMT",
+      "contentSnippet": "IT之家 6 月 29 日消息，在运-20 飞机列装空军十周年之际，央视军事《军迷之眼》推出了“制胜空天的铁翼鲲鹏”空军航空兵某团建设风采 8K 视觉片《扶摇直上九万里》。\n\n据介绍，该片采用 8K 电影机，通过空对地、空对空的镜头，精准捕捉了运-20 实战化训练风采。\nIT之家注：运-20 是中国自主研发的一种大型、多用途运输机，也是中国自主研发的首款大型运输机，可在复杂气象条件下执行各种物资和人员的长距离航空运输任务，是中国人民解放军空军战略性、标志性、引领性装备。\n运-20 飞机采用常规布局，悬臂式上单翼、前缘后掠、无翼梢小翼，最大起飞重量 220 吨，载重超过 66 吨，最大时速≥80",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -84,34 +84,118 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "日本游戏娱乐行业2025年专利排行榜发布，万代南梦宫夺冠。",
+      "aiSummary": "央视发布8K视觉片庆祝运-20列装空军十周年。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体且有官方出处，技术描述准确。"
+    },
+    {
+      "title": "韩国计划训练所有军人熟练操作无人机",
+      "link": "https://www.solidot.org/story?sid=84696",
+      "pubDate": "Sun, 28 Jun 2026 20:06:24 +0800",
+      "contentSnippet": "韩国计划训练所有军人像使用枪支一样熟练操作无人机。国防部长官安圭伯表示，目标是通过训练士兵像使用“第二件个人武器”一样使用无人机，让无人机成为所有部队的“通用作战工具”。韩国还计划为军事单位配备更多廉价且可消耗的无人机，用于侦察和打击任务，部署更多反无人机激光武器和微波武器。很多国家都在效仿乌克兰训练和装备无人机，韩国并非个例。乌克兰利用无人机和军用机器人弥补其在战场上与俄罗斯庞大军力对抗的劣势。韩国国防部今年将首先向军人提供 1.1 万架训练无人机，目标是到 2029 年部署 6 万架无人机。出于安全考虑，韩国军方希望采购 100% 国产零部件的无人机。",
+      "sourceName": "Solidot",
+      "sourceWeight": 75,
+      "allSources": [
+        "Solidot"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "韩国计划训练所有军人熟练操作无人机，将其作为通用作战工具。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源可靠（Solidot），内容具体有数据支撑，逻辑清晰，时效性好。"
+    },
+    {
+      "title": "GitLab 19.0将Agentic AI嵌入凭证、合并请求与供应链安全",
+      "link": "https://www.infoq.cn/article/ICdHZotGllYog0ocIrxA?utm_source=rss&utm_medium=article",
+      "pubDate": "Sun, 28 Jun 2026 09:00:00 GMT",
+      "contentSnippet": "点击查看原文>",
+      "sourceName": "InfoQ中文",
+      "sourceWeight": 78,
+      "allSources": [
+        "InfoQ中文"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "GitLab 19.0将Agentic AI集成到凭证、合并请求和供应链安全中。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体InfoQ，内容具体且逻辑清晰，但缺少原始出处和详细数据支撑。"
+    },
+    {
+      "title": "苹果 2027 年产品线曝光，消息称 iPhone 19 Pro 系列、Ultra 2 阔折叠已开模测试",
+      "link": "https://www.ithome.com/0/969/886.htm",
+      "pubDate": "Mon, 29 Jun 2026 04:17:24 GMT",
+      "contentSnippet": "IT之家 6 月 29 日消息，博主 @数码闲聊站 今日发文曝光了苹果 2027 年产品线：\n\niPhone Air 2 6.55\"1.5K 120Hz LTPO OLED✓\niPhone 18 6.3\"1.5K 120Hz LTPO OLED✓\niPhone 18e 6.12\"1.5K 60Hz LTPS OLED✓\niPhone 19 Pro 系列已开模测试✓\niPhone Ultra 2 阔折叠已开模测试✓\n\n\n据IT之家此前报道，天风国际证券分析师郭明錤表示 2027 年上半年低端 iPhone 机型（预估指 iPhone 18 和 iPhone 18e）均采用 9GB DRAM 内存",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "博主曝光苹果2027年产品线，含iPhone 19 Pro和Ultra 2折叠机已开模测试。",
+      "credibilityScore": 40,
+      "credibilityLevel": "low",
+      "credibilityReason": "来源为博主而非官方，信息缺乏具体细节和原始出处，可信度低。"
+    },
+    {
+      "title": "泰国5月国内汽车销量同比增10.6%",
+      "link": "https://36kr.com/newsflashes/3873743496484103?f=rss",
+      "pubDate": "2026-06-29 12:15:39  +0800",
+      "contentSnippet": "泰国工业联合会（FTI）6月29日发布的数据显示，今年5月泰国国内汽车销量达到57,765辆，同比增长10.6%。在出口和生产方面，泰国汽车产业上月均出现明显下滑：5月泰国汽车出口量为59,434辆，同比大幅下降26.7%；5月泰国汽车总产量为114,214辆，同比下降17.9%。（界面）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "泰国5月国内汽车销量同比增长10.6%，但出口和产量下滑。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体36氪，引用泰国工业联合会数据，信息具体且有原始出处。"
+    },
+    {
+      "title": "中国交建等在合肥成立产业发展公司，注册资本8000万",
+      "link": "https://36kr.com/newsflashes/3873733797942280?f=rss",
+      "pubDate": "2026-06-29 12:11:41  +0800",
+      "contentSnippet": "36氪获悉，天眼查App显示，近日，合肥交智科技产业发展有限公司成立，法定代表人为原野，注册资本8000万人民币，经营范围包括房地产开发经营、园区管理服务、工程管理服务等。股东信息显示，该公司由中交投资有限公司、合肥智融产业园管理有限公司共同持股。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国交建等成立合肥产业发展公司，注册资本8000万",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪可信，信息具体有数据支撑，但内容较简略"
+    },
+    {
+      "title": "字节跳动考虑合作百度昆仑芯？接近人士回应",
+      "link": "https://36kr.com/newsflashes/3873735817024773?f=rss",
+      "pubDate": "2026-06-29 12:07:50  +0800",
+      "contentSnippet": "6月29日，有消息称百度旗下昆仑芯计划赴港上市，腾讯已成为昆仑芯客户，字节跳动亦在考虑采用其AI芯片。今日接近人士回应，字节跳动目前没有和昆仑芯片合作的意向。（第一财经）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "字节跳动否认与百度昆仑芯合作意向。",
       "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，引用雅虎新闻和专利调查机构，信息具体有数据支撑。"
+      "credibilityReason": "来源36氪较权威，引用接近人士回应，信息具体但无原始出处。"
     },
     {
-      "title": "《给阿嬷的情书》总票房已突破19亿元",
-      "link": "https://36kr.com/newsflashes/3872220264879105?f=rss",
-      "pubDate": "2026-06-28 11:45:00  +0800",
-      "contentSnippet": "据网络平台数据，截至6月27日16时17分，上映59天的电影《给阿嬷的情书》总票房已突破19亿元。此前，该片官宣密钥延期，延长放映至7月31日。（上海证券报）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪",
-        "IT之家"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "《给阿嬷的情书》上映59天票房破19亿元",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源权威（36氪、IT之家、上海证券报），数据具体且有出处（多源覆盖 +5）"
-    },
-    {
-      "title": "小鹏 MONA L03 公布 23 处拓展接口，可架设运动相机、手机支架等",
-      "link": "https://www.ithome.com/0/969/584.htm",
-      "pubDate": "Sun, 28 Jun 2026 03:36:50 GMT",
-      "contentSnippet": "IT之家 6 月 28 日消息，小鹏 MONA L03 车型将于 7 月正式亮相，号称“年轻人的第一台智能时尚 SUV”，官方今日透露这款新车全车拥有 23 处拓展接口。\n\n4 个后备厢洞洞板接口：可安装洞洞板，适合露营、后备厢集市等\n\n5 个 1/4 标准螺纹接口：可架设运动相机、手机支架等\n\n8 个无痕磁吸接口：可磁吸灵动按键、玩偶和墨镜盒等\n\n2 个座椅靠背接口：可转接平板电脑、化妆镜等\n\n3 个智能 Pin 口：可安装智能香氛、净化器等\n\n\n\n\n\n\n小鹏此前已公布这款新车的内饰设计，软包面积超 72%，提供拉丝金属工艺扬声器网罩，车顶还配备双层镀银全景天幕，前排配备超大面积柔光美妆镜。",
+      "title": "拿下大满贯：“小孩”曾卓君夺得美国 EVO 2026《饿狼传说：群狼之城》冠军",
+      "link": "https://www.ithome.com/0/969/885.htm",
+      "pubDate": "Mon, 29 Jun 2026 04:07:48 GMT",
+      "contentSnippet": "IT之家 6 月 29 日消息，“小孩”曾卓君今日在美国 EVO 2026《饿狼传说：群狼之城》项目中夺得冠军，将个人第七座 EVO 赛事冠军收入囊中。目前他已拿下日本、美国、法国三国 EVO 2026 冠军。\n曾卓君也在自己的微博高调宣布：\n\n王者归来！拿下大满贯！EVO 美国饿狼夺冠！\n\n\n值得一提的是，赛事官方 EVO 账号也发文盛赞了“小孩”曾卓君，称他的胜利无可避免（He is inevitable）。\n\nIT之家注：中国格斗游戏玩家曾卓君 1989 年 4 月 26 日出生于广东省广州市，主要参加《拳皇》《街头霸王》等格斗游戏项目，其游戏 ID 为 Xiaohai。\n去年 11 月",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -119,33 +203,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "小鹏MONA L03公布23处拓展接口，支持多种配件安装。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，信息具体且有官方数据支撑，逻辑清晰。"
-    },
-    {
-      "title": "红魔游戏平板 5 Pro 软件功能首曝：支持 AI 战术教练陪玩指导、投屏助手可投 1080P 185Hz 画面等",
-      "link": "https://www.ithome.com/0/969/583.htm",
-      "pubDate": "Sun, 28 Jun 2026 03:35:13 GMT",
-      "contentSnippet": "IT之家 6 月 28 日消息，红魔游戏手机官方今日继续预热红魔游戏平板 5 Pro，此次公开了新平板的软件功能亮点。\n\n据介绍，红魔游戏平板 5 Pro 内置了 AI 战术教练和 AI 魔姬嘴替两大功能，前者支持赛前赛中提供选英雄、出装战术等游戏指导，后者支持 DeepSeek 自然回复交流，让对手“破防”。\n另外，红魔游戏平板 5 Pro 还带来了投屏助手、剪辑应用以及电子书模式。其中，红魔投屏助手支持无黑边投屏、1080P 185Hz / 4K 144Hz 投屏、低延迟投屏；剪辑应用可用于剪辑精彩直播片段；电子书模式提供彩墨和黑白两种方案，可指定 App 进行开启。\n\nIT之家注意到，这",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "红魔游戏平板5 Pro软件功能曝光，含AI教练和投屏助手。",
+      "aiSummary": "中国选手曾卓君夺得美国EVO 2026《饿狼传说》冠军，实现大满贯。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体但缺少技术细节和原始出处。"
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有细节，但缺乏原始赛事数据或官方链接。"
     },
     {
-      "title": "苹果 Mac 用户集体力挺微软 Edge 浏览器：比 Chrome 更快、更省内存",
-      "link": "https://www.ithome.com/0/969/582.htm",
-      "pubDate": "Sun, 28 Jun 2026 03:31:50 GMT",
-      "contentSnippet": "IT之家 6 月 28 日消息，一名苹果用户在社交平台 X 上发布了一张微软 Edge 浏览器 Mac 版下载页面的截图，并发文吐槽：“到底是什么奇葩，会在苹果 Mac 电脑上用微软 Edge 浏览器？”这条推文收获了 38 万余次浏览量。往常，这类吐槽微软产品的帖子底下，往往会涌入大批跟风嘲讽的网友，但这次却一反常态。\n\nIT之家注意到，评论区非但没有一面倒地吐槽，反而意外变成了网友集体为 Edge 辩解的阵地，一众 Mac 用户纷纷晒出自己在苹果设备上使用这款浏览器的真实理由。微软 Edge 官方账号注意到了这条动态，转发原文并回复：“最牛浏览器。”\n\n这种随性又自信的回应，微软以往几乎从",
+      "title": "任天堂（香港）：Switch 2 游戏机建议售价自 9 月 1 日起上调至 3700 港币",
+      "link": "https://www.ithome.com/0/969/884.htm",
+      "pubDate": "Mon, 29 Jun 2026 04:04:19 GMT",
+      "contentSnippet": "IT之家 6 月 29 日消息，任天堂（香港）有限公司官方今日发布公告，宣布 Nintendo Switch 2 游戏主机的建议售价将自 2026 年 9 月 1 日起从 3450 港币上涨至 3700 港币（IT之家注：现汇率约合 3210 元人民币），涨幅约 7.25%。\n\n任天堂（香港）有限公司表示，本次价格调整是各种市场环境变化影响的结果，经过了对今后全球业务发展性的评估。\n相关阅读：\n\n《任天堂宣布 Switch 2 游戏机涨价：上调 50 美元 / 1 万日元、9 月 1 日 / 5 月 25 日生效》",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -153,16 +220,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "Mac用户力挺Edge浏览器，称其比Chrome更快更省内存。",
-      "credibilityScore": 75,
+      "aiSummary": "任天堂香港宣布Switch 2售价9月起涨至3700港币",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有用户反馈，但缺少技术细节和原始数据支撑。"
+      "credibilityReason": "来源为知名科技媒体IT之家，信息具体且有官方公告依据，逻辑清晰"
     },
     {
-      "title": "博世集团：董事会人事调整不会对博世中国各项业务运营产生任何影响",
-      "link": "https://36kr.com/newsflashes/3872219380094217?f=rss",
-      "pubDate": "2026-06-28 11:30:09  +0800",
-      "contentSnippet": "6月27日晚，博世集团官微发文表示，此次集团董事会人事调整不会对博世中国各项业务运营产生任何影响。中国始终是博世全球最重要的战略市场之一，也是集团重要的创新基地。未来，博世将一如既往携手广大客户和合作伙伴，持续深耕中国市场。公告显示，经与股东充分沟通并达成一致，史蒂凡·哈通（Dr. Stefan Hartung）主动申请于2026年6月30日卸任博世集团董事会主席职务。他也将同时退出博世集团董事会及罗伯特·博世工业信托公司管理层。2026年7月1日起，董事会副主席克里斯蒂安·菲舍尔（Dr. Christian Fischer）将接任该职务。同时，董事会成员马库斯·福施纳（Dr. Markus",
+      "title": "恒指午间休盘涨2.12%，恒生科技指数涨3.68%",
+      "link": "https://36kr.com/newsflashes/3873730653082627?f=rss",
+      "pubDate": "2026-06-29 12:02:35  +0800",
+      "contentSnippet": "36氪获悉，恒指午间休盘涨2.12%，恒生科技指数涨3.68%；医药生物、零售、传媒板块领涨，荣昌生物涨超15%，美团涨超7%，腾讯音乐涨超5%；硬件设备、机械、化工板块跌幅居前，联想集团跌超9%，潍柴动力跌超8%，东岳集团跌超4%；南向资金净买入7.2亿港元。",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -170,96 +237,27 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "博世集团称董事会调整不影响中国业务运营。",
+      "aiSummary": "恒指午盘涨2.12%，恒生科技指数涨3.68%。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，内容具体且引用官方公告，逻辑清晰。"
+      "credibilityReason": "来自知名科技媒体36氪，数据具体且逻辑清晰。"
     },
     {
-      "title": "数毛社称 R 星《GTA6》截图可能不是实机截取",
-      "link": "https://www.ithome.com/0/969/581.htm",
-      "pubDate": "Sun, 28 Jun 2026 03:25:37 GMT",
-      "contentSnippet": "IT之家 6 月 28 日消息，数毛社本周（6 月 25 日）发文称，R 星公布的《GTA6》新一批截图可能并非实机截取。\n\n众所周知，从初代《看门狗》以后，玩家们就对实机画面对不上宣传视频画面耿耿于怀。对于玩家来说，手里的游戏达不到宣传片画面效果自然令人失望，因此许多玩家面对新游戏预告视频时，都会采取谨慎态度看待。\n数毛社（IT之家注：Digital Foundry）在分析《侠盗猎车手 6》最新官方截图时表示：“这些画面保真程度如此之高，不禁让人怀疑 R 星到底是在哪个平台截取的。坦率地说，我们认为这些画面不太可能是从 PS5、Xbox Series X，或者性能最强的 PS5 Pro 实时",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "因为这个功能，我都不想合上屏幕了｜vivo X Fold6 评测",
+      "link": "https://www.ifanr.com/1670204?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pubDate": "Mon, 29 Jun 2026 04:00:48 +0000",
+      "contentSnippet": "生产力才是折叠屏的唯一意义\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "sourceName": "爱范儿",
+      "sourceWeight": 82,
       "allSources": [
-        "IT之家"
+        "爱范儿"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "数毛社质疑R星《GTA6》截图非实机截取，可能来自高配PC。",
+      "aiSummary": "vivo X Fold6评测：折叠屏生产力功能令人爱不释手",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，引用数毛社专业分析，内容具体但缺乏原始出处链接。"
-    },
-    {
-      "title": "两年深耕：全国首个开源鸿蒙机器人操作系统 M-Robots OS 完整捐献至开放原子开源基金会",
-      "link": "https://www.ithome.com/0/969/580.htm",
-      "pubDate": "Sun, 28 Jun 2026 03:23:03 GMT",
-      "contentSnippet": "IT之家 6 月 28 日消息，深圳开鸿数字产业发展有限公司 CEO 王成录宣布，经过两年深耕，M-Robots OS 正式完整捐献至开放原子开源基金会，专属一级根社区同步启动运营。\n\n他表示，无数个日夜打磨代码、打磨架构，从雏形到完整机器人操作系统底座，是整个团队一步一步熬出来的心血。\nIT之家注： M-Robots OS 是全国首个开源鸿蒙机器人操作系统，1.0 版本已于 2025 年 4 月发布，今年 5 月发布了 2.0 版本。系统具备多机实时协同、多硬件形态兼容、AI 原生以及丰富 API 与开发工具链四大核心能力，是可以提供“底层统一、场景多元”的全栈式系统平台。\n全新升级的 M-",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "全国首个开源鸿蒙机器人操作系统M-Robots OS完整捐献至开放原子开源基金会。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，信息具体有版本细节和核心能力描述，逻辑清晰。"
-    },
-    {
-      "title": "消息称追觅超 200 个业务单元整合为四大板块，估算人员优化约 2400 人",
-      "link": "https://www.ithome.com/0/969/579.htm",
-      "pubDate": "Sun, 28 Jun 2026 03:18:17 GMT",
-      "contentSnippet": "IT之家 6 月 28 日消息，据中国经营网今日报道，近日，追觅系各大业务单元（BU）正在收缩和调整，将旗下超过 200 个业务单元（BU）大幅收缩整合为四大主营业务板块，并同步启动人员优化。\n追觅相关业务负责人接受《中国经营报》记者采访时表示，近期，追觅科技完成新一轮核心战略调整，正式锁定智能家庭、户外庭院、智能出行、具身智能四大核心赛道，对旗下业务体系进行系统性梳理与优化。此次战略迭代是企业发展逻辑的深度重塑，全面回归硬核科技研发与技术落地的核心赛道。\n报道提到，与业务调整同步进行的是人员优化，这也是追觅成立以来最大规模的组织人事精简。据悉，此次公司总体裁撤比例约为 12%。据估算，目前追",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "追觅整合超200业务单元为四大板块，人员优化约2400人",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，引用中国经营网报道，内容具体有数据支撑"
-    },
-    {
-      "title": "蔚来 ES8 创始版汽车“0001 号”入驻北京汽车博物馆",
-      "link": "https://www.ithome.com/0/969/577.htm",
-      "pubDate": "Sun, 28 Jun 2026 03:14:18 GMT",
-      "contentSnippet": "IT之家 6 月 28 日消息，安徽蔚来总经理余东明今日分享了蔚来 ES8 交付八周年纪念暨 0001 号车捐赠仪式现场画面。上海蔚来汽车有限公司高级副总裁、产品体验资深专家李天舒，向北京汽车博物馆正式捐赠了蔚来 ES8 创始版“0001 号”车。\n\n另外，蔚来 ES8 大五座版今日也开启预订，展车现已到店。这款纯电 SUV 将于 7 月 9 日正式发布上市。\n\n据IT之家此前报道，本月早些时候（6 月 22 日），蔚来官方宣布，历时 275 天，蔚来在上海完成 ES8 第 120,000 台新车交付。\n\n2026 年 5 月，蔚来 ES8 零售销量达 11,472 台，连续六个月斩获大型 S",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "蔚来ES8创始版0001号车捐赠北京汽车博物馆",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有细节，逻辑清晰"
-    },
-    {
-      "title": "五菱印尼与Grab战略签约，Grab租赁平台将批量导入缤果车型",
-      "link": "https://36kr.com/newsflashes/3872217703077120?f=rss",
-      "pubDate": "2026-06-28 11:13:25  +0800",
-      "contentSnippet": "6月27日，上汽通用五菱宣布，五菱印尼与东南亚出行平台Grab日前在雅加达完成战略合作签约及车辆交付，Grab租赁平台批量导入缤果车型，全面投入印尼网约车营运。在本次Grab合作落地前，五菱印尼已于6月17日与本土头部租赁公司MPM完成战略合作签约及批量交车。（界面）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪",
-        "IT之家"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "五菱印尼与Grab签约，缤果车型将批量用于印尼网约车运营。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪和IT之家，信息具体且有原始出处（界面）。（多源覆盖 +5）"
+      "credibilityReason": "来自知名科技媒体爱范儿，内容具体有评测细节，但缺少技术数据支撑"
     }
   ]
 }
