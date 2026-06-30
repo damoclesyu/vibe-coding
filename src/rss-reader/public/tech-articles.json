@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-29T04:21:16.495Z",
+  "generatedAt": "2026-06-30T04:02:00.321Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "36氪首发 | Ebike公司获Brizan Ventures、高秉强参与超数亿融资，要进军外骨骼市场",
-      "link": "https://36kr.com/p/3873706225751296?f=rss",
-      "pubDate": "2026-06-29 11:38:16  +0800",
-      "contentSnippet": "作者 | 张子怡\n编辑 | 袁斯来\n硬氪获悉，全球智能电助力自行车品牌「URTOPIA」近日已完成B轮融资，融资总额超2亿元人民币。本轮融资由Brizan Ventures与桐乡市政府产业基金领投，高秉强、Kungho Fund、光远和声等机构持续加注。\n本轮融资完成后，URTOPIA将继续加大在核心技术研发、全球市场拓展、供应链建设和组织能力升级方面的投入，并推动公司从智能电助力自行车品牌，向以户外具身智能和人机耦合智能运动技术为核心的公司发展。\n在URTOPIA的长期规划中，智能E-bike并不是其业务的终点，而是其拓展“户外具身智能”领域的切入点。\n在URTOPIA创始人兼CEO张波看来",
+      "title": "中国贸促会：超5成受访中资企业看好欧盟",
+      "link": "https://36kr.com/newsflashes/3875047227642886?f=rss",
+      "pubDate": "2026-06-30 10:21:53  +0800",
+      "contentSnippet": "中国贸促会在6月30日上午举行的6月例行新闻发布会上表示，近期发布的《欧盟营商环境报告2025》显示，过去一年中欧工商界积极互动交流，合作成果丰硕、意愿增强。受访中资企业里，53%对欧盟营商环境评价积极，48.8%拟增加与欧盟企业间供应链合作。同时，企业也反映欧盟存在“泛安全化”倾向加重、贸易投资壁垒增多、企业生产成本上升等问题。在欧中资企业重点关注欧盟数字经济、金融和绿色经济领域。在绿色经济领域，受访中资企业普遍反映，欧盟绿色产业前景广阔，但密集的绿色立法显著推高外资企业市场准入和运营成本，尤其《欧盟碳边境调节机制》实施，增加企业运营成本和经营不确定性。（央视财经）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -16,237 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "Ebike公司URTOPIA获超2亿元B轮融资，计划进军外骨骼市场。",
+      "aiSummary": "超半数受访中资企业看好欧盟营商环境，但反映壁垒增多。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，融资信息具体，有创始人及投资方细节。"
+      "credibilityReason": "来源为36氪转载央视财经，信息具体有数据支撑，内容客观中立。"
     },
     {
-      "title": "中国—上海合作组织科技创新合作大会在青岛举行",
-      "link": "https://36kr.com/newsflashes/3873667680326664?f=rss",
-      "pubDate": "2026-06-29 10:58:32  +0800",
-      "contentSnippet": "6月29日，首届中国—上海合作组织科技创新合作大会在山东青岛举行。会议期间，发布了中国与上合组织国家间百项科技成果与百项需求、上合组织国家科技创新合作项目集中签约、上合组织成员国青年创新创业大赛等一系列活动。（央视新闻）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "首届中国-上合组织科技创新合作大会在青岛举行",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为36氪，内容引用央视新闻，信息具体有活动细节"
-    },
-    {
-      "title": "超盒算 NB 落地北京六店齐发，盒马加速布局社区硬折扣",
-      "link": "https://www.tmtpost.com/8044301.html",
-      "pubDate": "Mon, 29 Jun 2026 10:23:24 +0800",
-      "contentSnippet": "在这场品牌、渠道、供应链、配送能力的综合较量中，社区硬折扣超市这门利润稀薄的生意，正在迎来愈发激烈的竞争。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "盒马旗下超盒算NB在北京六店同开，加速社区硬折扣布局。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体钛媒体，内容具体但缺乏详细数据支撑。"
-    },
-    {
-      "title": "重拳整治恶意抢注、“零添加”酱油等乱象，新修订的商标法明年起施行",
-      "link": "https://www.ithome.com/0/969/798.htm",
-      "pubDate": "Mon, 29 Jun 2026 02:22:51 GMT",
-      "contentSnippet": "IT之家 6 月 29 日消息，据央视新闻报道，6 月 26 日，十四届全国人大常委会第二十三次会议表决通过新修订的商标法，将于 2027 年 1 月 1 日起施行。\n新修订的商标法共 9 章 87 条，聚焦商标领域突出问题，明确商标工作的总体要求，规范商标注册，优化商标授权确权程序，强化商标管理，加强商标专用权保护。\n针对近年来频发的“心机商标”误导公众、扰乱市场的突出问题，新法补齐制度短板、细化监管规则、加大惩处力度。\n所谓“心机商标”，即法律意义上的欺骗性商标标志。部分经营者钻制度漏洞，刻意设计带有误导性的商标标识，通过文字、组合、释义等巧妙包装，刻意制造认知偏差，诱导消费者对商品的质量",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "新修订商标法将于2027年施行，整治恶意抢注和误导性商标。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，引用央视新闻，内容具体且逻辑清晰。"
-    },
-    {
-      "title": "中国战机大片上新！运-20 飞机列装空军十周年，央视军事 8K 视觉片《扶摇直上九万里》发布",
-      "link": "https://www.ithome.com/0/969/751.htm",
-      "pubDate": "Mon, 29 Jun 2026 00:59:50 GMT",
-      "contentSnippet": "IT之家 6 月 29 日消息，在运-20 飞机列装空军十周年之际，央视军事《军迷之眼》推出了“制胜空天的铁翼鲲鹏”空军航空兵某团建设风采 8K 视觉片《扶摇直上九万里》。\n\n据介绍，该片采用 8K 电影机，通过空对地、空对空的镜头，精准捕捉了运-20 实战化训练风采。\nIT之家注：运-20 是中国自主研发的一种大型、多用途运输机，也是中国自主研发的首款大型运输机，可在复杂气象条件下执行各种物资和人员的长距离航空运输任务，是中国人民解放军空军战略性、标志性、引领性装备。\n运-20 飞机采用常规布局，悬臂式上单翼、前缘后掠、无翼梢小翼，最大起飞重量 220 吨，载重超过 66 吨，最大时速≥80",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "央视发布8K视觉片庆祝运-20列装空军十周年。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体且有官方出处，技术描述准确。"
-    },
-    {
-      "title": "韩国计划训练所有军人熟练操作无人机",
-      "link": "https://www.solidot.org/story?sid=84696",
-      "pubDate": "Sun, 28 Jun 2026 20:06:24 +0800",
-      "contentSnippet": "韩国计划训练所有军人像使用枪支一样熟练操作无人机。国防部长官安圭伯表示，目标是通过训练士兵像使用“第二件个人武器”一样使用无人机，让无人机成为所有部队的“通用作战工具”。韩国还计划为军事单位配备更多廉价且可消耗的无人机，用于侦察和打击任务，部署更多反无人机激光武器和微波武器。很多国家都在效仿乌克兰训练和装备无人机，韩国并非个例。乌克兰利用无人机和军用机器人弥补其在战场上与俄罗斯庞大军力对抗的劣势。韩国国防部今年将首先向军人提供 1.1 万架训练无人机，目标是到 2029 年部署 6 万架无人机。出于安全考虑，韩国军方希望采购 100% 国产零部件的无人机。",
-      "sourceName": "Solidot",
-      "sourceWeight": 75,
-      "allSources": [
-        "Solidot"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "韩国计划训练所有军人熟练操作无人机，将其作为通用作战工具。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源可靠（Solidot），内容具体有数据支撑，逻辑清晰，时效性好。"
-    },
-    {
-      "title": "GitLab 19.0将Agentic AI嵌入凭证、合并请求与供应链安全",
-      "link": "https://www.infoq.cn/article/ICdHZotGllYog0ocIrxA?utm_source=rss&utm_medium=article",
-      "pubDate": "Sun, 28 Jun 2026 09:00:00 GMT",
-      "contentSnippet": "点击查看原文>",
-      "sourceName": "InfoQ中文",
-      "sourceWeight": 78,
-      "allSources": [
-        "InfoQ中文"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "GitLab 19.0将Agentic AI集成到凭证、合并请求和供应链安全中。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体InfoQ，内容具体且逻辑清晰，但缺少原始出处和详细数据支撑。"
-    },
-    {
-      "title": "苹果 2027 年产品线曝光，消息称 iPhone 19 Pro 系列、Ultra 2 阔折叠已开模测试",
-      "link": "https://www.ithome.com/0/969/886.htm",
-      "pubDate": "Mon, 29 Jun 2026 04:17:24 GMT",
-      "contentSnippet": "IT之家 6 月 29 日消息，博主 @数码闲聊站 今日发文曝光了苹果 2027 年产品线：\n\niPhone Air 2 6.55\"1.5K 120Hz LTPO OLED✓\niPhone 18 6.3\"1.5K 120Hz LTPO OLED✓\niPhone 18e 6.12\"1.5K 60Hz LTPS OLED✓\niPhone 19 Pro 系列已开模测试✓\niPhone Ultra 2 阔折叠已开模测试✓\n\n\n据IT之家此前报道，天风国际证券分析师郭明錤表示 2027 年上半年低端 iPhone 机型（预估指 iPhone 18 和 iPhone 18e）均采用 9GB DRAM 内存",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "博主曝光苹果2027年产品线，含iPhone 19 Pro和Ultra 2折叠机已开模测试。",
-      "credibilityScore": 40,
-      "credibilityLevel": "low",
-      "credibilityReason": "来源为博主而非官方，信息缺乏具体细节和原始出处，可信度低。"
-    },
-    {
-      "title": "泰国5月国内汽车销量同比增10.6%",
-      "link": "https://36kr.com/newsflashes/3873743496484103?f=rss",
-      "pubDate": "2026-06-29 12:15:39  +0800",
-      "contentSnippet": "泰国工业联合会（FTI）6月29日发布的数据显示，今年5月泰国国内汽车销量达到57,765辆，同比增长10.6%。在出口和生产方面，泰国汽车产业上月均出现明显下滑：5月泰国汽车出口量为59,434辆，同比大幅下降26.7%；5月泰国汽车总产量为114,214辆，同比下降17.9%。（界面）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "泰国5月国内汽车销量同比增长10.6%，但出口和产量下滑。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，引用泰国工业联合会数据，信息具体且有原始出处。"
-    },
-    {
-      "title": "中国交建等在合肥成立产业发展公司，注册资本8000万",
-      "link": "https://36kr.com/newsflashes/3873733797942280?f=rss",
-      "pubDate": "2026-06-29 12:11:41  +0800",
-      "contentSnippet": "36氪获悉，天眼查App显示，近日，合肥交智科技产业发展有限公司成立，法定代表人为原野，注册资本8000万人民币，经营范围包括房地产开发经营、园区管理服务、工程管理服务等。股东信息显示，该公司由中交投资有限公司、合肥智融产业园管理有限公司共同持股。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国交建等成立合肥产业发展公司，注册资本8000万",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪可信，信息具体有数据支撑，但内容较简略"
-    },
-    {
-      "title": "字节跳动考虑合作百度昆仑芯？接近人士回应",
-      "link": "https://36kr.com/newsflashes/3873735817024773?f=rss",
-      "pubDate": "2026-06-29 12:07:50  +0800",
-      "contentSnippet": "6月29日，有消息称百度旗下昆仑芯计划赴港上市，腾讯已成为昆仑芯客户，字节跳动亦在考虑采用其AI芯片。今日接近人士回应，字节跳动目前没有和昆仑芯片合作的意向。（第一财经）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "字节跳动否认与百度昆仑芯合作意向。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪较权威，引用接近人士回应，信息具体但无原始出处。"
-    },
-    {
-      "title": "拿下大满贯：“小孩”曾卓君夺得美国 EVO 2026《饿狼传说：群狼之城》冠军",
-      "link": "https://www.ithome.com/0/969/885.htm",
-      "pubDate": "Mon, 29 Jun 2026 04:07:48 GMT",
-      "contentSnippet": "IT之家 6 月 29 日消息，“小孩”曾卓君今日在美国 EVO 2026《饿狼传说：群狼之城》项目中夺得冠军，将个人第七座 EVO 赛事冠军收入囊中。目前他已拿下日本、美国、法国三国 EVO 2026 冠军。\n曾卓君也在自己的微博高调宣布：\n\n王者归来！拿下大满贯！EVO 美国饿狼夺冠！\n\n\n值得一提的是，赛事官方 EVO 账号也发文盛赞了“小孩”曾卓君，称他的胜利无可避免（He is inevitable）。\n\nIT之家注：中国格斗游戏玩家曾卓君 1989 年 4 月 26 日出生于广东省广州市，主要参加《拳皇》《街头霸王》等格斗游戏项目，其游戏 ID 为 Xiaohai。\n去年 11 月",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国选手曾卓君夺得美国EVO 2026《饿狼传说》冠军，实现大满贯。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有细节，但缺乏原始赛事数据或官方链接。"
-    },
-    {
-      "title": "任天堂（香港）：Switch 2 游戏机建议售价自 9 月 1 日起上调至 3700 港币",
-      "link": "https://www.ithome.com/0/969/884.htm",
-      "pubDate": "Mon, 29 Jun 2026 04:04:19 GMT",
-      "contentSnippet": "IT之家 6 月 29 日消息，任天堂（香港）有限公司官方今日发布公告，宣布 Nintendo Switch 2 游戏主机的建议售价将自 2026 年 9 月 1 日起从 3450 港币上涨至 3700 港币（IT之家注：现汇率约合 3210 元人民币），涨幅约 7.25%。\n\n任天堂（香港）有限公司表示，本次价格调整是各种市场环境变化影响的结果，经过了对今后全球业务发展性的评估。\n相关阅读：\n\n《任天堂宣布 Switch 2 游戏机涨价：上调 50 美元 / 1 万日元、9 月 1 日 / 5 月 25 日生效》",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "任天堂香港宣布Switch 2售价9月起涨至3700港币",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，信息具体且有官方公告依据，逻辑清晰"
-    },
-    {
-      "title": "恒指午间休盘涨2.12%，恒生科技指数涨3.68%",
-      "link": "https://36kr.com/newsflashes/3873730653082627?f=rss",
-      "pubDate": "2026-06-29 12:02:35  +0800",
-      "contentSnippet": "36氪获悉，恒指午间休盘涨2.12%，恒生科技指数涨3.68%；医药生物、零售、传媒板块领涨，荣昌生物涨超15%，美团涨超7%，腾讯音乐涨超5%；硬件设备、机械、化工板块跌幅居前，联想集团跌超9%，潍柴动力跌超8%，东岳集团跌超4%；南向资金净买入7.2亿港元。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "恒指午盘涨2.12%，恒生科技指数涨3.68%。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体36氪，数据具体且逻辑清晰。"
-    },
-    {
-      "title": "因为这个功能，我都不想合上屏幕了｜vivo X Fold6 评测",
-      "link": "https://www.ifanr.com/1670204?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pubDate": "Mon, 29 Jun 2026 04:00:48 +0000",
-      "contentSnippet": "生产力才是折叠屏的唯一意义\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "title": "早报｜Switch2港版官宣涨价/三星SK联手官宣投万亿韩元扩产存储芯片/大疆否认7月全系涨价",
+      "link": "https://www.ifanr.com/1670457?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pubDate": "Tue, 30 Jun 2026 00:35:13 +0000",
+      "contentSnippet": "· 丰田 5 月全球销量同比降 7.2%，中国市场跌幅达 31.7% \r\n· 首个联合国自动驾驶系统全球技术法规获批发布\r\n· Momenta 赴港上市，奔驰押注\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
       "sourceName": "爱范儿",
       "sourceWeight": 82,
       "allSources": [
@@ -254,10 +33,236 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "vivo X Fold6评测：折叠屏生产力功能令人爱不释手",
+      "aiSummary": "Switch2港版涨价，三星SK存储扩产，大疆否认涨价",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体爱范儿，内容具体有评测细节，但缺少技术数据支撑"
+      "credibilityReason": "来自知名科技媒体爱范儿，内容具体但缺乏原始出处和细节支撑"
+    },
+    {
+      "title": "【钛晨报】国常会最新部署：要加力推进人工智能创新突破；美团、淘宝闪购、京东外卖达成共识；三星、SK海力士和美光在美遭集体诉讼",
+      "link": "https://www.tmtpost.com/8046236.html",
+      "pubDate": "Tue, 30 Jun 2026 07:20:00 +0800",
+      "contentSnippet": "消息称长鑫存储与腾讯签署价值近30亿美元内存供应合同；豆包回应“内测社交功能”传闻；多位DeepSeek API用户确认已收到调价邮件；谷歌算力告急，限制Meta对其人工智能大模型Gemini的使用；同程旅行拟全面要约收购嘀嗒出行；国务院：推进人工智能全学段教育，提升学生人工智能素养。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国常会部署推进AI创新突破，美团等达成共识，存储巨头在美遭诉讼。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体钛媒体，内容具体且包含多项事实，但部分信息需进一步核实。"
+    },
+    {
+      "title": "氪星晚报｜百度OCR模型Unlimited OCR在HuggingFace、GitHub四榜登顶；国务院印发《教育发展“十五五”规划》；美国养老金即将被动调仓，300亿美元卖盘“已在路上”",
+      "link": "https://36kr.com/p/3873626425332743?f=rss",
+      "pubDate": "2026-06-29 19:00:26  +0800",
+      "contentSnippet": "大公司：\n蜜雪冰城吉尔吉斯斯坦三店同开，已进入海外16个国家\n36氪获悉，近日，蜜雪冰城三家门店在吉尔吉斯斯坦首都比什凯克营业，正式进入吉尔吉斯斯坦市场。吉尔吉斯斯坦是蜜雪冰城在中亚的第二站。2025年4月，蜜雪冰城哈萨克斯坦首店落地阿拉木图。在这之后，又相继进入美国、巴西、墨西哥等新市场，持续推进全球化布局。截至目前，蜜雪冰城已进入海外16个国家。\n中国移动确认设立Token办公室\n6月28日晚间，有消息称，中国移动继设立数智事业部、算力办之后，又设立了Token办公室，旨在打通“创造Token、输送Token、应用Token”的全流程，打破多个二级部门“各管一摊”的局面。6月29日下午，从",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪",
+        "IT之家",
+        "钛媒体",
+        "量子位",
+        "InfoQ中文",
+        "Solidot"
+      ],
+      "coverageCount": 6,
+      "coverageBoost": 25,
+      "aiSummary": "百度OCR模型在HuggingFace和GitHub四榜登顶，蜜雪冰城进入吉尔吉斯斯坦。",
+      "credibilityScore": 100,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为36氪等知名科技媒体，信息具体但缺少技术细节和原始出处。（多源覆盖 +25）"
+    },
+    {
+      "title": "国家队+千亿产业+头部财投集体入局，智平方200亿估值筑就大湾区具身智能名片",
+      "link": "https://www.qbitai.com/2026/06/439861.html",
+      "pubDate": "Mon, 29 Jun 2026 08:29:08 +0000",
+      "contentSnippet": "大湾区首个200亿具身智能独角兽诞生！“最像特斯拉”智平方吸金50亿，全矩阵顶级资本重仓",
+      "sourceName": "量子位",
+      "sourceWeight": 80,
+      "allSources": [
+        "量子位"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "智平方获50亿融资，估值200亿成具身智能独角兽",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源知名科技媒体，内容具体但缺乏技术细节和原始出处"
+    },
+    {
+      "title": "Claude Code 负责人切尔尼：未来员工将身兼数职，工程、产品、设计正融为一体",
+      "link": "https://www.ithome.com/0/970/432.htm",
+      "pubDate": "Tue, 30 Jun 2026 04:00:12 GMT",
+      "contentSnippet": "IT之家 6 月 30 日消息，据《商业内幕》29 日报道，AI 正在模糊不同岗位之间的界限，企业使用的职位名称也随之改变。有些人开始被称为“构建者”，另一些职位则加入“前线部署”等新标签。Claude Code 负责人鲍里斯 · 切尔尼认为，工程、产品和设计等职能正逐渐融为一体，而他本人所在的团队，或已展现出未来产品岗位的雏形。\n切尔尼认为，Claude Code 团队成员大致可以分为五种类型：\n\n原型设计者：不断提出并验证新想法，但许多想法最终不会成为正式产品。\n\n构建者：把初步原型打磨成可以稳定投入使用的成熟产品。\n\n清理者：精简系统、清理遗留问题并提升运行效率。\n\n增长者：持续扩展和迭",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "Claude Code负责人称工程、产品、设计岗位正融合，未来员工将身兼多职。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家转载《商业内幕》，内容具体但缺乏原始数据支撑。"
+    },
+    {
+      "title": "雷蛇妖狐全按键街机控制器《街头霸王》隆限定款发售，2499 元",
+      "link": "https://www.ithome.com/0/970/431.htm",
+      "pubDate": "Tue, 30 Jun 2026 04:00:00 GMT",
+      "contentSnippet": "IT之家 6 月 30 日消息，Razer（雷蛇）全按键街机控制器 Kitsune（妖狐）《街头霸王》隆限定版现已国行发售，到手价 2499 元。\n\n这款联名产品拥有隆主题铝制顶版，采用低调的黑白全幅染料升华图案，映射出隆坚韧不屈的意志，搭配鲜艳的红色点缀，彰显其每一个动作中展现出的斗志，呈现震撼美学。\n其采用精准的四向按键式布局，搭载线性光学矮轴，支持 4 种 SOCD 清空模式，含按键厚度仅约 19.2mm，配有线缆锁和赛事锁定开关，搭载雷蛇幻彩灯效。\n\n天猫雷蛇 妖狐 手台 《街头霸王》隆 限定款 6 月 30 日 12:00 发售 2499 元直达链接",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "雷蛇推出《街头霸王》隆限定款街机控制器，售价2499元。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体详实，有产品细节和价格信息。"
+    },
+    {
+      "title": "小米 REDMI 头戴降噪耳机现已上市：标价 349 元，补贴后到手 296.65 元",
+      "link": "https://www.ithome.com/0/970/430.htm",
+      "pubDate": "Tue, 30 Jun 2026 03:56:07 GMT",
+      "contentSnippet": "IT之家 6 月 30 日消息，小米 REDMI 头戴降噪耳机现已在电商平台上架接受购买。这款耳机标价 349 元，补贴后到手价则是 296.65 元。\n\nREDMI 头戴降噪耳机获得 Hi·Res AUDIO 认证，搭载 40mm 镀钛动圈单元，支持自定义 EQ 调节、空间音频；主动降噪深度至高 42dB，还拥有 5m/s 通话抗风噪。\n其采用多轴向设计，配备慢回弹海绵、亲肤蛋白皮耳罩、多档调节金属头梁；单次续航可达 72hr；支持小米澎湃智联。\n京东小米 REDMI 头戴降噪耳机 296.65 元直达链接",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "小米REDMI头戴降噪耳机上市，补贴后296.65元",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，内容具体有价格和参数细节，但无原始出处链接"
+    },
+    {
+      "title": "一加 15 系列手机迎来第二轮调价：累计已上涨 1100 元，现价 5099~6499 元",
+      "link": "https://www.ithome.com/0/970/424.htm",
+      "pubDate": "Tue, 30 Jun 2026 03:50:38 GMT",
+      "contentSnippet": "IT之家 6 月 30 日消息，一加 15 系列手机今日迎来第二轮官方调价，现价 5099~6499 元，同时可领 1100 元以旧换新折扣券。\n\n12+256GB 版本：3999 → 5099 元\n\n16+256GB 版本：4299 → 5399 元\n\n12+512GB 版本：4599 → 5699 元\n\n16+512GB 版本：4899 → 5999 元\n\n16+1TB 版本：5399 → 6499 元\n\n这是该机型继 2026 年 3 月首轮涨价 500 元后的又一次价格调整。至此，一加 15 各版本相较 2025 年 10 月发布时的原始起售价累计涨幅已达 1100 元。\n京东一加 1",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "一加15系列手机第二轮调价，累计上涨1100元，现价5099-6499元。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体IT之家，信息具体有数据支撑，逻辑清晰。"
+    },
+    {
+      "title": "我国首个550兆瓦F级燃机项目全容量投产发电",
+      "link": "https://36kr.com/newsflashes/3875134133458179?f=rss",
+      "pubDate": "2026-06-30 11:50:17  +0800",
+      "contentSnippet": "6月30日凌晨，我国首个550兆瓦F级燃机项目——华电重庆潼南燃机项目实现全容量投产发电，为成渝地区双城经济圈迎峰度夏电力保供、绿色低碳转型注入清洁能源动能。据介绍，华电重庆潼南燃机项目规划建设两台550.12兆瓦分轴燃气—蒸汽联合循环调峰发电机组，总装机容量达1100兆瓦，年发电量可达21亿千瓦时，能满足约175万个家庭一年的用电需求，每年可节约标准煤20万吨，减少二氧化碳排放86万吨。（新华社）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "我国首个550兆瓦F级燃机项目全容量投产发电",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源权威（新华社、36氪），信息详实有具体数据支撑，技术描述准确"
+    },
+    {
+      "title": "比亚迪：西咸基地第二代刀片电池产能稳步爬坡，产线节奏越跑越顺",
+      "link": "https://www.ithome.com/0/970/419.htm",
+      "pubDate": "Tue, 30 Jun 2026 03:50:03 GMT",
+      "contentSnippet": "IT之家 6 月 30 日消息，6 月 29 日下午，比亚迪执行副总裁何志奇在微博透露，西咸基地的第二代刀片电池，产能一直在稳步爬坡，产线节奏越跑越顺；7 月 2 号上市的海豹 08，也在西安生产，目前量产也很顺利。从 7 月份开始，草堂园区的整车产能会有比较明显的提升。\n\nIT之家查询获悉，比亚迪新能源汽车动力电池项目（西咸基地）坐落于西咸新区 · 秦汉自动驾驶产业园，主要建设新能源汽车动力电池 CELL、PACK 生产线及相关配套设施。\n比亚迪本月早些时候发布的投资者关系活动记录表披露，3 月公司第二代刀片电池及闪充技术推出后，订单出现爆发式增长，目前产能供不应求，公司正努力提升第二代刀片",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "比亚迪西咸基地第二代刀片电池产能稳步爬坡，海豹08量产顺利。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，信息具体有高管微博和官方记录支撑，逻辑清晰。"
+    },
+    {
+      "title": "29岁香港博士入局具身智能，一年时间融资四轮",
+      "link": "https://www.tmtpost.com/8046162.html",
+      "pubDate": "Tue, 30 Jun 2026 11:42:55 +0800",
+      "contentSnippet": "仿生柔性机械臂的破解关键是什么？",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "29岁香港博士创立的具身智能公司一年内完成四轮融资。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体钛媒体，内容具体但缺少技术细节和原始出处。"
+    },
+    {
+      "title": "IT之家 iOS / macOS 版 9.30 更新：支持搜索我的投稿 / 帖子 / 评论 / 回帖、改进私密访问照片图库",
+      "link": "https://www.ithome.com/0/970/405.htm",
+      "pubDate": "Tue, 30 Jun 2026 03:41:27 GMT",
+      "contentSnippet": "各位老哥老姐们上午好！IT之家客户端 iOS 版今日迎来 9.30 版更新，敬请下载升级！[抱拳]\n本次更新主要改进点如下：\n❶ 支持搜索我的投稿、帖子、评论、回帖（入口：评论 / 帖子管理 / 个人中心右上角搜索按钮）；\n❷ 支持私密访问照片图库，即调用系统相册选择照片。该功能在 iOS 14 及以上版本中支持，目前需前往【设置 - 界面与交互 - 图片设置】手动开启。如果选图片时拒绝访问存储，也会自动调用系统相册。\n除此之外，还有其他一些细节改进和问题修正，详细更新历史参考下方。当前最新版本已在应用商店上架，可前往检查升级。\nIT之家 iOS / iPadOS 版 9.30 更新日志：",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "IT之家iOS/macOS 9.30版更新，新增搜索和私密访问照片功能。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体IT之家，内容具体、逻辑清晰，有版本号和功能细节。"
+    },
+    {
+      "title": "聚辰股份全系列Nor Flash产品涨价25%",
+      "link": "https://36kr.com/newsflashes/3875123974312963?f=rss",
+      "pubDate": "2026-06-30 11:39:57  +0800",
+      "contentSnippet": "据蓝鲸新闻，从经销商处获悉，近期受全球半导体产业链波动影响，Nor Flash芯片核心原材料及晶圆、封测等生产环节成本持续走高，推高聚辰股份整体生产成本。基于此，聚辰股份已向其经销商下发通知，全系列Nor Flash产品价格，将于2026年7月6日起适度上调，调整幅度为在现有价格基础上调25%。聚辰股份表示，所有新签订单及未交付订单的未执行部分均按新价格执行。 （财联社）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "聚辰股份全系列Nor Flash产品因成本上涨将涨价25%。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为36氪，引用蓝鲸新闻和财联社，信息具体且有明确时间节点。"
+    },
+    {
+      "title": "成立9个月，在手订单4.4亿，「谱星航天」连续完成两轮数亿元融资｜36氪首发",
+      "link": "https://36kr.com/p/3875120747942913?f=rss",
+      "pubDate": "2026-06-30 11:39:04  +0800",
+      "contentSnippet": "文 | 阿至\n光谱定量遥感赛道跑出一匹黑马。\n36氪未来产业独家获悉，光学载荷与微纳卫星系统解决方案提供商上海谱星航天科技有限公司（下简称“谱星航天”）已于近期连续完成天使+、Pre-A两轮融资，累计规模为数亿元。\nPre-A轮由国泰海通、尚融资本、司南基金联合领投，徐汇资本、联融志道、金浦投资跟投，老股东联想控股、鼎农科技、普华资本追投。天使+轮投资方为联想控股、普华资本。\n谱星航天是我们长期关注的企业，成立9个月内，共完成3轮融资，累计资金规模近3亿元。创始人贺小军透露，其新一轮融资已经开启，年内预计还将完成两轮融资，为公司1024颗谱星星座建设及后续发展提供资金保障。\n这家成立不到1年的",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "谱星航天9个月获3轮融资近3亿，在手订单4.4亿，加速星座建设。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体36氪，信息具体有融资细节和订单数据，但缺乏技术细节验证。"
     }
   ]
 }
