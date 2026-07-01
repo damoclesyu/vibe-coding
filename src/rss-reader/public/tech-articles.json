@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-30T04:02:00.321Z",
+  "generatedAt": "2026-07-01T04:17:30.602Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "中国贸促会：超5成受访中资企业看好欧盟",
-      "link": "https://36kr.com/newsflashes/3875047227642886?f=rss",
-      "pubDate": "2026-06-30 10:21:53  +0800",
-      "contentSnippet": "中国贸促会在6月30日上午举行的6月例行新闻发布会上表示，近期发布的《欧盟营商环境报告2025》显示，过去一年中欧工商界积极互动交流，合作成果丰硕、意愿增强。受访中资企业里，53%对欧盟营商环境评价积极，48.8%拟增加与欧盟企业间供应链合作。同时，企业也反映欧盟存在“泛安全化”倾向加重、贸易投资壁垒增多、企业生产成本上升等问题。在欧中资企业重点关注欧盟数字经济、金融和绿色经济领域。在绿色经济领域，受访中资企业普遍反映，欧盟绿色产业前景广阔，但密集的绿色立法显著推高外资企业市场准入和运营成本，尤其《欧盟碳边境调节机制》实施，增加企业运营成本和经营不确定性。（央视财经）",
+      "title": "宁德时代旗下巧克力换电落地2000座，覆盖180城",
+      "link": "https://36kr.com/newsflashes/3876519322120450?f=rss",
+      "pubDate": "2026-07-01 11:19:22  +0800",
+      "contentSnippet": "宁德时代旗下巧克力换电今日宣布，上半年全国换电站累计落地2000座，覆盖31个省份180座城市，中小城市覆盖率突破80%，高速网络同步破局。网络已从重点城市连片延伸至县域市场，香港首批换电站投入实质性运营。下半年站点总量将冲击3000座，覆盖城市超190座。此外，全国首个标准化轻卡换电生态同步成型，大湾区已建成52座轻卡专用站，年底将增至140座，核心区形成15分钟城配换电服务圈。",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -16,33 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "超半数受访中资企业看好欧盟营商环境，但反映壁垒增多。",
+      "aiSummary": "宁德时代巧克力换电上半年落地2000座，覆盖180城，下半年目标3000座。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为36氪转载央视财经，信息具体有数据支撑，内容客观中立。"
+      "credibilityReason": "来源为知名科技媒体36氪，信息具体有数据支撑，逻辑清晰，时效性强。"
     },
     {
-      "title": "早报｜Switch2港版官宣涨价/三星SK联手官宣投万亿韩元扩产存储芯片/大疆否认7月全系涨价",
-      "link": "https://www.ifanr.com/1670457?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pubDate": "Tue, 30 Jun 2026 00:35:13 +0000",
-      "contentSnippet": "· 丰田 5 月全球销量同比降 7.2%，中国市场跌幅达 31.7% \r\n· 首个联合国自动驾驶系统全球技术法规获批发布\r\n· Momenta 赴港上市，奔驰押注\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "sourceName": "爱范儿",
-      "sourceWeight": 82,
-      "allSources": [
-        "爱范儿"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "Switch2港版涨价，三星SK存储扩产，大疆否认涨价",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体爱范儿，内容具体但缺乏原始出处和细节支撑"
-    },
-    {
-      "title": "【钛晨报】国常会最新部署：要加力推进人工智能创新突破；美团、淘宝闪购、京东外卖达成共识；三星、SK海力士和美光在美遭集体诉讼",
-      "link": "https://www.tmtpost.com/8046236.html",
-      "pubDate": "Tue, 30 Jun 2026 07:20:00 +0800",
-      "contentSnippet": "消息称长鑫存储与腾讯签署价值近30亿美元内存供应合同；豆包回应“内测社交功能”传闻；多位DeepSeek API用户确认已收到调价邮件；谷歌算力告急，限制Meta对其人工智能大模型Gemini的使用；同程旅行拟全面要约收购嘀嗒出行；国务院：推进人工智能全学段教育，提升学生人工智能素养。",
+      "title": "大湾区首家200亿估值之争，自变量与智平方“撞车”",
+      "link": "https://www.tmtpost.com/8047665.html",
+      "pubDate": "Wed, 01 Jul 2026 10:50:00 +0800",
+      "contentSnippet": "具身智能开始卷头衔。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -50,55 +33,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国常会部署推进AI创新突破，美团等达成共识，存储巨头在美遭诉讼。",
+      "aiSummary": "大湾区两家具身智能企业争夺200亿估值头衔。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体钛媒体，内容具体且包含多项事实，但部分信息需进一步核实。"
+      "credibilityReason": "来源为知名科技媒体钛媒体，内容具体但缺乏数据支撑。"
     },
     {
-      "title": "氪星晚报｜百度OCR模型Unlimited OCR在HuggingFace、GitHub四榜登顶；国务院印发《教育发展“十五五”规划》；美国养老金即将被动调仓，300亿美元卖盘“已在路上”",
-      "link": "https://36kr.com/p/3873626425332743?f=rss",
-      "pubDate": "2026-06-29 19:00:26  +0800",
-      "contentSnippet": "大公司：\n蜜雪冰城吉尔吉斯斯坦三店同开，已进入海外16个国家\n36氪获悉，近日，蜜雪冰城三家门店在吉尔吉斯斯坦首都比什凯克营业，正式进入吉尔吉斯斯坦市场。吉尔吉斯斯坦是蜜雪冰城在中亚的第二站。2025年4月，蜜雪冰城哈萨克斯坦首店落地阿拉木图。在这之后，又相继进入美国、巴西、墨西哥等新市场，持续推进全球化布局。截至目前，蜜雪冰城已进入海外16个国家。\n中国移动确认设立Token办公室\n6月28日晚间，有消息称，中国移动继设立数智事业部、算力办之后，又设立了Token办公室，旨在打通“创造Token、输送Token、应用Token”的全流程，打破多个二级部门“各管一摊”的局面。6月29日下午，从",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪",
-        "IT之家",
-        "钛媒体",
-        "量子位",
-        "InfoQ中文",
-        "Solidot"
-      ],
-      "coverageCount": 6,
-      "coverageBoost": 25,
-      "aiSummary": "百度OCR模型在HuggingFace和GitHub四榜登顶，蜜雪冰城进入吉尔吉斯斯坦。",
-      "credibilityScore": 100,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为36氪等知名科技媒体，信息具体但缺少技术细节和原始出处。（多源覆盖 +25）"
-    },
-    {
-      "title": "国家队+千亿产业+头部财投集体入局，智平方200亿估值筑就大湾区具身智能名片",
-      "link": "https://www.qbitai.com/2026/06/439861.html",
-      "pubDate": "Mon, 29 Jun 2026 08:29:08 +0000",
-      "contentSnippet": "大湾区首个200亿具身智能独角兽诞生！“最像特斯拉”智平方吸金50亿，全矩阵顶级资本重仓",
-      "sourceName": "量子位",
-      "sourceWeight": 80,
-      "allSources": [
-        "量子位"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "智平方获50亿融资，估值200亿成具身智能独角兽",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源知名科技媒体，内容具体但缺乏技术细节和原始出处"
-    },
-    {
-      "title": "Claude Code 负责人切尔尼：未来员工将身兼数职，工程、产品、设计正融为一体",
-      "link": "https://www.ithome.com/0/970/432.htm",
-      "pubDate": "Tue, 30 Jun 2026 04:00:12 GMT",
-      "contentSnippet": "IT之家 6 月 30 日消息，据《商业内幕》29 日报道，AI 正在模糊不同岗位之间的界限，企业使用的职位名称也随之改变。有些人开始被称为“构建者”，另一些职位则加入“前线部署”等新标签。Claude Code 负责人鲍里斯 · 切尔尼认为，工程、产品和设计等职能正逐渐融为一体，而他本人所在的团队，或已展现出未来产品岗位的雏形。\n切尔尼认为，Claude Code 团队成员大致可以分为五种类型：\n\n原型设计者：不断提出并验证新想法，但许多想法最终不会成为正式产品。\n\n构建者：把初步原型打磨成可以稳定投入使用的成熟产品。\n\n清理者：精简系统、清理遗留问题并提升运行效率。\n\n增长者：持续扩展和迭",
+      "title": "国家医保局公开征求意见：中药饮片将实现“一物一码、全程可溯”",
+      "link": "https://www.ithome.com/0/970/857.htm",
+      "pubDate": "Wed, 01 Jul 2026 01:18:42 GMT",
+      "contentSnippet": "IT之家 7 月 1 日消息，国家医保局今日发布公告，为健全中药饮片全链条追溯体系，提升药品质量安全保障能力，强化医保基金使用监管效能，国家医保局组织力量开展中药饮片追溯码编码要求的研究制定工作，秉持“实用性、唯一性、可扩展性、通用性”基本原则，形成《中药饮片追溯码编码要求》，拟联合国家药监局印发，以实现中药饮片“一物一码、全程可溯”，现面向社会公开征求意见建议。\n中药饮片追溯码由中药饮片标识码和生产标识码两部分组成，具有唯一性、通用性、实用性、可扩展性。\n\n中药饮片标识码是对应中药饮片生产企业、中药饮片品名、执行标准、装量、包装级别的唯一代码。\n\n生产标识码是识别中药饮片生产过程中相关数据的",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -106,67 +50,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "Claude Code负责人称工程、产品、设计岗位正融合，未来员工将身兼多职。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家转载《商业内幕》，内容具体但缺乏原始数据支撑。"
-    },
-    {
-      "title": "雷蛇妖狐全按键街机控制器《街头霸王》隆限定款发售，2499 元",
-      "link": "https://www.ithome.com/0/970/431.htm",
-      "pubDate": "Tue, 30 Jun 2026 04:00:00 GMT",
-      "contentSnippet": "IT之家 6 月 30 日消息，Razer（雷蛇）全按键街机控制器 Kitsune（妖狐）《街头霸王》隆限定版现已国行发售，到手价 2499 元。\n\n这款联名产品拥有隆主题铝制顶版，采用低调的黑白全幅染料升华图案，映射出隆坚韧不屈的意志，搭配鲜艳的红色点缀，彰显其每一个动作中展现出的斗志，呈现震撼美学。\n其采用精准的四向按键式布局，搭载线性光学矮轴，支持 4 种 SOCD 清空模式，含按键厚度仅约 19.2mm，配有线缆锁和赛事锁定开关，搭载雷蛇幻彩灯效。\n\n天猫雷蛇 妖狐 手台 《街头霸王》隆 限定款 6 月 30 日 12:00 发售 2499 元直达链接",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "雷蛇推出《街头霸王》隆限定款街机控制器，售价2499元。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体详实，有产品细节和价格信息。"
-    },
-    {
-      "title": "小米 REDMI 头戴降噪耳机现已上市：标价 349 元，补贴后到手 296.65 元",
-      "link": "https://www.ithome.com/0/970/430.htm",
-      "pubDate": "Tue, 30 Jun 2026 03:56:07 GMT",
-      "contentSnippet": "IT之家 6 月 30 日消息，小米 REDMI 头戴降噪耳机现已在电商平台上架接受购买。这款耳机标价 349 元，补贴后到手价则是 296.65 元。\n\nREDMI 头戴降噪耳机获得 Hi·Res AUDIO 认证，搭载 40mm 镀钛动圈单元，支持自定义 EQ 调节、空间音频；主动降噪深度至高 42dB，还拥有 5m/s 通话抗风噪。\n其采用多轴向设计，配备慢回弹海绵、亲肤蛋白皮耳罩、多档调节金属头梁；单次续航可达 72hr；支持小米澎湃智联。\n京东小米 REDMI 头戴降噪耳机 296.65 元直达链接",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "小米REDMI头戴降噪耳机上市，补贴后296.65元",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容具体有价格和参数细节，但无原始出处链接"
-    },
-    {
-      "title": "一加 15 系列手机迎来第二轮调价：累计已上涨 1100 元，现价 5099~6499 元",
-      "link": "https://www.ithome.com/0/970/424.htm",
-      "pubDate": "Tue, 30 Jun 2026 03:50:38 GMT",
-      "contentSnippet": "IT之家 6 月 30 日消息，一加 15 系列手机今日迎来第二轮官方调价，现价 5099~6499 元，同时可领 1100 元以旧换新折扣券。\n\n12+256GB 版本：3999 → 5099 元\n\n16+256GB 版本：4299 → 5399 元\n\n12+512GB 版本：4599 → 5699 元\n\n16+512GB 版本：4899 → 5999 元\n\n16+1TB 版本：5399 → 6499 元\n\n这是该机型继 2026 年 3 月首轮涨价 500 元后的又一次价格调整。至此，一加 15 各版本相较 2025 年 10 月发布时的原始起售价累计涨幅已达 1100 元。\n京东一加 1",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "一加15系列手机第二轮调价，累计上涨1100元，现价5099-6499元。",
+      "aiSummary": "国家医保局拟推中药饮片“一物一码”追溯体系，公开征求意见。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，信息具体有数据支撑，逻辑清晰。"
+      "credibilityReason": "来源为知名科技媒体IT之家，内容具体、逻辑清晰，引用官方公告。"
     },
     {
-      "title": "我国首个550兆瓦F级燃机项目全容量投产发电",
-      "link": "https://36kr.com/newsflashes/3875134133458179?f=rss",
-      "pubDate": "2026-06-30 11:50:17  +0800",
-      "contentSnippet": "6月30日凌晨，我国首个550兆瓦F级燃机项目——华电重庆潼南燃机项目实现全容量投产发电，为成渝地区双城经济圈迎峰度夏电力保供、绿色低碳转型注入清洁能源动能。据介绍，华电重庆潼南燃机项目规划建设两台550.12兆瓦分轴燃气—蒸汽联合循环调峰发电机组，总装机容量达1100兆瓦，年发电量可达21亿千瓦时，能满足约175万个家庭一年的用电需求，每年可节约标准煤20万吨，减少二氧化碳排放86万吨。（新华社）",
+      "title": "震裕科技在厦门成立汽车部件公司，注册资本5000万",
+      "link": "https://36kr.com/newsflashes/3876572395991049?f=rss",
+      "pubDate": "2026-07-01 12:13:21  +0800",
+      "contentSnippet": "36氪获悉，天眼查App显示，近日，厦门震裕汽车部件有限公司成立，法定代表人为陈达华，注册资本5000万人民币，经营范围包括汽车零部件及配件制造、有色金属压延加工、电池零配件生产、模具制造、汽车零部件研发等，由震裕科技全资持股。",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -174,16 +67,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "我国首个550兆瓦F级燃机项目全容量投产发电",
-      "credibilityScore": 90,
+      "aiSummary": "震裕科技在厦门成立汽车部件公司，注册资本5000万",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源权威（新华社、36氪），信息详实有具体数据支撑，技术描述准确"
+      "credibilityReason": "来源36氪为知名科技媒体，信息具体且有天眼查数据支撑"
     },
     {
-      "title": "比亚迪：西咸基地第二代刀片电池产能稳步爬坡，产线节奏越跑越顺",
-      "link": "https://www.ithome.com/0/970/419.htm",
-      "pubDate": "Tue, 30 Jun 2026 03:50:03 GMT",
-      "contentSnippet": "IT之家 6 月 30 日消息，6 月 29 日下午，比亚迪执行副总裁何志奇在微博透露，西咸基地的第二代刀片电池，产能一直在稳步爬坡，产线节奏越跑越顺；7 月 2 号上市的海豹 08，也在西安生产，目前量产也很顺利。从 7 月份开始，草堂园区的整车产能会有比较明显的提升。\n\nIT之家查询获悉，比亚迪新能源汽车动力电池项目（西咸基地）坐落于西咸新区 · 秦汉自动驾驶产业园，主要建设新能源汽车动力电池 CELL、PACK 生产线及相关配套设施。\n比亚迪本月早些时候发布的投资者关系活动记录表披露，3 月公司第二代刀片电池及闪充技术推出后，订单出现爆发式增长，目前产能供不应求，公司正努力提升第二代刀片",
+      "title": "20 年来首次：受爱泼斯坦案影响，巴菲特“断供”盖茨基金会",
+      "link": "https://www.ithome.com/0/971/012.htm",
+      "pubDate": "Wed, 01 Jul 2026 04:07:35 GMT",
+      "contentSnippet": "IT之家 7 月 1 日消息，据新华社 1 日（今天）报道，知情人士透露，美国知名投资人沃伦 · 巴菲特 20 年来首次暂缓向比尔及梅琳达 · 盖茨基金会进行年度捐赠，将等该基金会与美国已故富商杰弗里 · 爱泼斯坦一案关联的审查结果公布后再作定夺。\n美国《华尔街日报》6 月 29 日援引知情人士的话报道，按照巴菲特此前向盖茨基金会许下的一项终身承诺，巴菲特每年 6 月或 7 月初都会向盖茨基金会捐赠旗下投资机构伯克希尔-哈撒韦公司股票，但今年首次中断了这一惯例。\n这名知情人士说，巴菲特可能会等到今年年底发表感恩节公开信时再宣布相关决定。\n盖茨基金会近期因主席比尔 · 盖茨与爱泼斯坦的交往深陷舆",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -191,16 +84,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "比亚迪西咸基地第二代刀片电池产能稳步爬坡，海豹08量产顺利。",
-      "credibilityScore": 85,
+      "aiSummary": "巴菲特因爱泼斯坦案暂停向盖茨基金会捐赠，20年来首次。",
+      "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，信息具体有高管微博和官方记录支撑，逻辑清晰。"
+      "credibilityReason": "来源为IT之家，引用新华社和华尔街日报，信息具体有出处，但缺乏直接原始文件。"
     },
     {
-      "title": "29岁香港博士入局具身智能，一年时间融资四轮",
-      "link": "https://www.tmtpost.com/8046162.html",
-      "pubDate": "Tue, 30 Jun 2026 11:42:55 +0800",
-      "contentSnippet": "仿生柔性机械臂的破解关键是什么？",
+      "title": "国资下场“接盘”药企：一场资本与产业的双向奔赴？",
+      "link": "https://www.tmtpost.com/8048045.html",
+      "pubDate": "Wed, 01 Jul 2026 12:07:00 +0800",
+      "contentSnippet": "买方的“国进”与卖方的“被迫”。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -208,16 +101,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "29岁香港博士创立的具身智能公司一年内完成四轮融资。",
+      "aiSummary": "国资收购药企，资本与产业双向互动。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体钛媒体，内容具体但缺少技术细节和原始出处。"
+      "credibilityReason": "来源为知名科技媒体，内容具体但缺少数据支撑。"
     },
     {
-      "title": "IT之家 iOS / macOS 版 9.30 更新：支持搜索我的投稿 / 帖子 / 评论 / 回帖、改进私密访问照片图库",
-      "link": "https://www.ithome.com/0/970/405.htm",
-      "pubDate": "Tue, 30 Jun 2026 03:41:27 GMT",
-      "contentSnippet": "各位老哥老姐们上午好！IT之家客户端 iOS 版今日迎来 9.30 版更新，敬请下载升级！[抱拳]\n本次更新主要改进点如下：\n❶ 支持搜索我的投稿、帖子、评论、回帖（入口：评论 / 帖子管理 / 个人中心右上角搜索按钮）；\n❷ 支持私密访问照片图库，即调用系统相册选择照片。该功能在 iOS 14 及以上版本中支持，目前需前往【设置 - 界面与交互 - 图片设置】手动开启。如果选图片时拒绝访问存储，也会自动调用系统相册。\n除此之外，还有其他一些细节改进和问题修正，详细更新历史参考下方。当前最新版本已在应用商店上架，可前往检查升级。\nIT之家 iOS / iPadOS 版 9.30 更新日志：",
+      "title": "澳大利亚考虑拆分四大会计师事务所",
+      "link": "https://36kr.com/newsflashes/3876566002413576?f=rss",
+      "pubDate": "2026-07-01 12:06:51  +0800",
+      "contentSnippet": "澳大利亚政府周三表示，鉴于该行业近期爆出一些备受瞩目的丑闻，政府正在考虑拆分四大会计师事务所，并将其纳入企业监管机构的监管范围。澳大利亚财政部的一份文件概述了这些提议，其中包括将合伙制事务所的规模上限从1000人降至400人。该文件指出，四大会计师事务所——德勤、安永、毕马威和普华永道——近期的行为暴露了澳大利亚监管框架的漏洞。文件还对比了英国和美国的监管方式。（新浪财经）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "澳大利亚拟拆分四大会计师事务所并加强监管。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪转载新浪财经，内容具体有文件细节，但非一手来源。"
+    },
+    {
+      "title": "AMD EXPO ULL 内存首发价远超预期，芝奇 DDR5-6000 CL28 新品溢价高达 79%",
+      "link": "https://www.ithome.com/0/971/009.htm",
+      "pubDate": "Wed, 01 Jul 2026 04:05:52 GMT",
+      "contentSnippet": "IT之家 7 月 1 日消息，AMD 上个月在 Computex 2026 台北国际电脑展上正式发布了 EXPO Ultra Low Latency（简称 EXPO ULL）超低延迟内存技术规范。\n该技术面向 DDR5-6000 频率内存，通过在内存 SPD 配置文件中集成更精细的子时序参数来进一步降低延迟，相比 JEDEC 标准可实现平均帧率提升 13%、1% low 帧率提升 15%，相较于标准 EXPO 内存提升也有 1%~4%。\nAMD 锐龙与 Radeon 业务副总裁 David McAfee 当时表示，根据与内存合作伙伴的沟通，EXPO ULL 内存套装的定价将“与现有 EXPO",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -225,16 +135,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "IT之家iOS/macOS 9.30版更新，新增搜索和私密访问照片功能。",
-      "credibilityScore": 85,
+      "aiSummary": "AMD EXPO ULL内存技术发布，芝奇DDR5-6000 CL28新品溢价79%",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，内容具体、逻辑清晰，有版本号和功能细节。"
+      "credibilityReason": "IT之家为知名科技媒体，内容具体有技术细节和官方引用，但缺少完整数据支撑"
     },
     {
-      "title": "聚辰股份全系列Nor Flash产品涨价25%",
-      "link": "https://36kr.com/newsflashes/3875123974312963?f=rss",
-      "pubDate": "2026-06-30 11:39:57  +0800",
-      "contentSnippet": "据蓝鲸新闻，从经销商处获悉，近期受全球半导体产业链波动影响，Nor Flash芯片核心原材料及晶圆、封测等生产环节成本持续走高，推高聚辰股份整体生产成本。基于此，聚辰股份已向其经销商下发通知，全系列Nor Flash产品价格，将于2026年7月6日起适度上调，调整幅度为在现有价格基础上调25%。聚辰股份表示，所有新签订单及未交付订单的未执行部分均按新价格执行。 （财联社）",
+      "title": "孤军奋战十余年，嘀嗒终归同程",
+      "link": "https://www.tmtpost.com/8048030.html",
+      "pubDate": "Wed, 01 Jul 2026 12:00:00 +0800",
+      "contentSnippet": "嘀嗒拿到了一颗流量焦虑症的解药。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "嘀嗒出行与同程旅行合并，结束十余年独立发展。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体钛媒体，内容具体有分析，但缺乏原始数据支撑。"
+    },
+    {
+      "title": "机构：2026年第一季度美国PC出货量同比下滑7%，创2023年以来最大跌幅",
+      "link": "https://36kr.com/newsflashes/3876553479352585?f=rss",
+      "pubDate": "2026-07-01 11:54:07  +0800",
+      "contentSnippet": "36氪获悉，Omdia最新研究显示，2026年第一季度，美国PC（不含平板电脑）出货量同比下降7.0%，降至1580万台，为2023年第三季度以来最大的同比跌幅。此次市场下滑主要受到多重因素影响，包括PC内存和存储价格大幅上涨带来的供应受限及成本压力，以及Windows 11升级周期结束后需求提前释放，导致短期商用市场需求明显回落。此外，基数效应也进一步放大了同比降幅。2025年第一季度，由于企业为应对关税预期提前备货，市场出货量处于较高水平；而2026年第一季度，渠道商仅因预期内存价格上涨而进行了有限的提前备货，进一步加剧了同比下滑的表现。",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -242,16 +169,50 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "聚辰股份全系列Nor Flash产品因成本上涨将涨价25%。",
+      "aiSummary": "Omdia报告称2026年Q1美国PC出货量同比降7%，创近三年最大跌幅。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为36氪，引用蓝鲸新闻和财联社，信息具体且有明确时间节点。"
+      "credibilityReason": "来源为知名科技媒体36氪，引用Omdia研究数据，分析具体且逻辑清晰。"
     },
     {
-      "title": "成立9个月，在手订单4.4亿，「谱星航天」连续完成两轮数亿元融资｜36氪首发",
-      "link": "https://36kr.com/p/3875120747942913?f=rss",
-      "pubDate": "2026-06-30 11:39:04  +0800",
-      "contentSnippet": "文 | 阿至\n光谱定量遥感赛道跑出一匹黑马。\n36氪未来产业独家获悉，光学载荷与微纳卫星系统解决方案提供商上海谱星航天科技有限公司（下简称“谱星航天”）已于近期连续完成天使+、Pre-A两轮融资，累计规模为数亿元。\nPre-A轮由国泰海通、尚融资本、司南基金联合领投，徐汇资本、联融志道、金浦投资跟投，老股东联想控股、鼎农科技、普华资本追投。天使+轮投资方为联想控股、普华资本。\n谱星航天是我们长期关注的企业，成立9个月内，共完成3轮融资，累计资金规模近3亿元。创始人贺小军透露，其新一轮融资已经开启，年内预计还将完成两轮融资，为公司1024颗谱星星座建设及后续发展提供资金保障。\n这家成立不到1年的",
+      "title": "微软Teams免费版退出中国：巨头的减法，本土的乘法",
+      "link": "https://www.tmtpost.com/8048459.html",
+      "pubDate": "Wed, 01 Jul 2026 11:54:00 +0800",
+      "contentSnippet": "九年过去，它从未真正打开局面。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微软Teams免费版退出中国，本土竞争加剧。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体，内容具体，逻辑清晰，但缺乏数据支撑和原始出处。"
+    },
+    {
+      "title": "咖啡店背后的“巨人”：从制造到智造的“番禺样本”",
+      "link": "https://www.tmtpost.com/8048024.html",
+      "pubDate": "Wed, 01 Jul 2026 11:54:00 +0800",
+      "contentSnippet": "番禺已经构成了核心竞争力。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "番禺咖啡店产业从制造向智造转型的案例。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体，内容具体但缺少数据支撑。"
+    },
+    {
+      "title": "半日主力资金加仓基础化工股，抛售通信股",
+      "link": "https://36kr.com/newsflashes/3876548486885377?f=rss",
+      "pubDate": "2026-07-01 11:49:02  +0800",
+      "contentSnippet": "主力资金早间净流入基础化工、非银金融、计算机、医药生物等板块，净流出通信、电子、电力设备、建筑材料板块。具体到个股来看，昊华科技、TCL科技、多氟多、东方财富、三美股份获净流入18.09亿元、16.58亿元、16.05亿元、15.99亿元、15.05亿元。净流出方面，阳光电源、中天科技、天孚通信、华工科技、寒武纪遭抛售32.01亿元、18.26亿元、17亿元、16.53亿元、14.74亿元。（第一财经）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -259,10 +220,44 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "谱星航天9个月获3轮融资近3亿，在手订单4.4亿，加速星座建设。",
+      "aiSummary": "半日主力资金加仓基础化工，抛售通信股。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，信息具体有融资细节和订单数据，但缺乏技术细节验证。"
+      "credibilityReason": "来源知名科技媒体36氪，数据引自第一财经，信息具体有金额支撑。"
+    },
+    {
+      "title": "“互联网之父”温顿 · 瑟夫下周退休，曾参与开发 TCP / IP 协议",
+      "link": "https://www.ithome.com/0/970/992.htm",
+      "pubDate": "Wed, 01 Jul 2026 03:47:26 GMT",
+      "contentSnippet": "IT之家 7 月 1 日消息，据外媒 TechCrunch 今天（1 日）报道，互联网奠基者之一、谷歌副总裁兼首席互联网布道师温顿 · 瑟夫将于下周退休，为科技史上一段极具影响力的职业生涯画上句号。\n\n▲ 图源谷歌\n在劳德研究所主办的 Open Frontier 大会上，加州大学伯克利分校教授、参与开创 RISC 处理器架构的大卫 · 帕特森在台上宣布了这一消息：“瑟夫已经在谷歌任职超过 20 年，并将在一周后正式退休，我认为我们应该为他这段还算不错的职业生涯鼓掌。”现场随即响起欢呼声。\n现年 83 岁的瑟夫与罗伯特 · 卡恩被公认为现代互联网网络协议的主要设计者。瑟夫从 20 世纪 70 年",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "互联网之父温顿·瑟夫下周从谷歌退休，曾参与开发TCP/IP协议。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，引用外媒TechCrunch报道，信息具体且逻辑清晰。"
+    },
+    {
+      "title": "仍需安装经典版：微软 Win10/Win11 新版 Outlook 完善 .pst 文件支持",
+      "link": "https://www.ithome.com/0/970/991.htm",
+      "pubDate": "Wed, 01 Jul 2026 03:46:01 GMT",
+      "contentSnippet": "IT之家 7 月 1 日消息，科技媒体 Windows Latest 今天（7 月 1 日）发布博文，报道称在 Windows 10、Windows 11 新版 Outlook 应用中，微软进一步补齐和经典版差异，完善支持 .pst 文件。\nIT之家注：Outlook 数据文件（.pst）也称个人存储表文件（Personal Storage Tables files），包含 Outlook 用户邮件，以及联系人、约会、任务、笔记和日记条目等其它项目，常见于邮件归档、账户迁移和离线保存场景。\n\n在最新公告中，微软确认 Windows 10、Windows 11 新版 Outlook 已完整发布增",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微软新版Outlook完善.pst文件支持，但仍需经典版。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体IT之家，信息具体有细节，引用科技媒体Windows Latest。"
     }
   ]
 }
