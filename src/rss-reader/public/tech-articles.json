@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-07-01T04:17:30.602Z",
+  "generatedAt": "2026-07-02T03:57:50.522Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "宁德时代旗下巧克力换电落地2000座，覆盖180城",
-      "link": "https://36kr.com/newsflashes/3876519322120450?f=rss",
-      "pubDate": "2026-07-01 11:19:22  +0800",
-      "contentSnippet": "宁德时代旗下巧克力换电今日宣布，上半年全国换电站累计落地2000座，覆盖31个省份180座城市，中小城市覆盖率突破80%，高速网络同步破局。网络已从重点城市连片延伸至县域市场，香港首批换电站投入实质性运营。下半年站点总量将冲击3000座，覆盖城市超190座。此外，全国首个标准化轻卡换电生态同步成型，大湾区已建成52座轻卡专用站，年底将增至140座，核心区形成15分钟城配换电服务圈。",
+      "title": "苹果拟于今明两年推出至少五款新iPhone，折叠屏出货量超预期",
+      "link": "https://36kr.com/newsflashes/3877934900441353?f=rss",
+      "pubDate": "2026-07-02 11:19:22  +0800",
+      "contentSnippet": "7月2日消息，据报道，苹果公司正计划在今年下半年至2027年上半年期间，发起一项雄心勃勃的iPhone新品发布计划，预计将推出至少五款新机型。尽管目前整个科技行业正面临供应链零部件短缺的困境，但苹果仍决定加大折叠屏手机的出货量，超出市场此前预期。（界面）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -16,16 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "宁德时代巧克力换电上半年落地2000座，覆盖180城，下半年目标3000座。",
-      "credibilityScore": 85,
+      "aiSummary": "苹果计划两年内推出至少五款新iPhone，折叠屏出货量超预期。",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，信息具体有数据支撑，逻辑清晰，时效性强。"
+      "credibilityReason": "来源36氪为知名科技媒体，内容具体但缺少原始出处和细节支撑。"
     },
     {
-      "title": "大湾区首家200亿估值之争，自变量与智平方“撞车”",
-      "link": "https://www.tmtpost.com/8047665.html",
-      "pubDate": "Wed, 01 Jul 2026 10:50:00 +0800",
-      "contentSnippet": "具身智能开始卷头衔。",
+      "title": "【钛晨报】新能源汽车6月交付情况速览：13家交付量超3万，5家同比增超50%；世界黄金协会：预计黄金投资将在下半年步入关键期；国内航线燃油附加费7月5日起下调",
+      "link": "https://www.tmtpost.com/8049458.html",
+      "pubDate": "Thu, 02 Jul 2026 07:20:00 +0800",
+      "contentSnippet": "王毅同美国国务卿鲁比奥通电话；孙天祥正式加入百度，出任基础模型研发部负责人；美联储主席沃什：希望利率政策成为关键政策工具；中基协“摸底”头部量化私募，涉及同质化交易等内容；行云科技：控股子公司签订55.08亿元算力服务合同；洋河股份：董事长顾宇不再兼任总裁，陈军当选副董事长并接任总裁",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -33,33 +33,50 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "大湾区两家具身智能企业争夺200亿估值头衔。",
+      "aiSummary": "钛媒体汇总新能源汽车交付、黄金投资及燃油附加费下调等财经科技动态。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体钛媒体，内容具体但缺乏数据支撑。"
+      "credibilityReason": "来源为知名科技媒体，内容具体但部分信息非原创，综合评分中等偏上。"
     },
     {
-      "title": "国家医保局公开征求意见：中药饮片将实现“一物一码、全程可溯”",
-      "link": "https://www.ithome.com/0/970/857.htm",
-      "pubDate": "Wed, 01 Jul 2026 01:18:42 GMT",
-      "contentSnippet": "IT之家 7 月 1 日消息，国家医保局今日发布公告，为健全中药饮片全链条追溯体系，提升药品质量安全保障能力，强化医保基金使用监管效能，国家医保局组织力量开展中药饮片追溯码编码要求的研究制定工作，秉持“实用性、唯一性、可扩展性、通用性”基本原则，形成《中药饮片追溯码编码要求》，拟联合国家药监局印发，以实现中药饮片“一物一码、全程可溯”，现面向社会公开征求意见建议。\n中药饮片追溯码由中药饮片标识码和生产标识码两部分组成，具有唯一性、通用性、实用性、可扩展性。\n\n中药饮片标识码是对应中药饮片生产企业、中药饮片品名、执行标准、装量、包装级别的唯一代码。\n\n生产标识码是识别中药饮片生产过程中相关数据的",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "Argo CD 3.5 推出内部双向 TLS 与源码完整性校验支持，强化软件供应链安全",
+      "link": "https://www.infoq.cn/article/MfHAiaeQbq6VWPHLD4pB?utm_source=rss&utm_medium=article",
+      "pubDate": "Wed, 01 Jul 2026 17:32:00 GMT",
+      "contentSnippet": "点击查看原文>",
+      "sourceName": "InfoQ中文",
+      "sourceWeight": 78,
       "allSources": [
-        "IT之家"
+        "InfoQ中文"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国家医保局拟推中药饮片“一物一码”追溯体系，公开征求意见。",
+      "aiSummary": "Argo CD 3.5 新增双向TLS和源码校验，提升供应链安全",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，内容具体、逻辑清晰，引用官方公告。"
+      "credibilityReason": "来自知名技术媒体InfoQ，内容具体且技术细节清晰"
     },
     {
-      "title": "震裕科技在厦门成立汽车部件公司，注册资本5000万",
-      "link": "https://36kr.com/newsflashes/3876572395991049?f=rss",
-      "pubDate": "2026-07-01 12:13:21  +0800",
-      "contentSnippet": "36氪获悉，天眼查App显示，近日，厦门震裕汽车部件有限公司成立，法定代表人为陈达华，注册资本5000万人民币，经营范围包括汽车零部件及配件制造、有色金属压延加工、电池零配件生产、模具制造、汽车零部件研发等，由震裕科技全资持股。",
+      "title": "大湾区首个200亿具身大脑来了！自变量两个月连融四轮，完成交割",
+      "link": "https://www.qbitai.com/2026/07/441140.html",
+      "pubDate": "Wed, 01 Jul 2026 06:26:06 +0000",
+      "contentSnippet": "四大互联网分别领投",
+      "sourceName": "量子位",
+      "sourceWeight": 80,
+      "allSources": [
+        "量子位"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "大湾区首个200亿具身大脑项目获投，自变量两月四轮融资。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源量子位为知名科技媒体，内容具体但缺乏技术细节和原始出处。"
+    },
+    {
+      "title": "半日主力资金抛售非银金融、电子股",
+      "link": "https://36kr.com/newsflashes/3877967342841862?f=rss",
+      "pubDate": "2026-07-02 11:52:22  +0800",
+      "contentSnippet": "主力资金早间净流入机械设备、基础化工、有色金属、电力设备、汽车等板块，净流出非银金融、电子、通信、医药生物、建筑装饰等板块。具体到个股来看，永太科技、先导基电、宁德时代获净流入13.34亿元、13.09亿元、12.32亿元。净流出方面，深科技、长电科技、雅克科技遭抛售24.74亿元、21.35亿元、19.33亿元。（第一财经）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -67,50 +84,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "震裕科技在厦门成立汽车部件公司，注册资本5000万",
+      "aiSummary": "半日主力资金流向：流入机械设备等，流出非银金融等。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，信息具体且有天眼查数据支撑"
+      "credibilityReason": "来源36氪为知名科技媒体，内容具体有数据支撑，引用第一财经。"
     },
     {
-      "title": "20 年来首次：受爱泼斯坦案影响，巴菲特“断供”盖茨基金会",
-      "link": "https://www.ithome.com/0/971/012.htm",
-      "pubDate": "Wed, 01 Jul 2026 04:07:35 GMT",
-      "contentSnippet": "IT之家 7 月 1 日消息，据新华社 1 日（今天）报道，知情人士透露，美国知名投资人沃伦 · 巴菲特 20 年来首次暂缓向比尔及梅琳达 · 盖茨基金会进行年度捐赠，将等该基金会与美国已故富商杰弗里 · 爱泼斯坦一案关联的审查结果公布后再作定夺。\n美国《华尔街日报》6 月 29 日援引知情人士的话报道，按照巴菲特此前向盖茨基金会许下的一项终身承诺，巴菲特每年 6 月或 7 月初都会向盖茨基金会捐赠旗下投资机构伯克希尔-哈撒韦公司股票，但今年首次中断了这一惯例。\n这名知情人士说，巴菲特可能会等到今年年底发表感恩节公开信时再宣布相关决定。\n盖茨基金会近期因主席比尔 · 盖茨与爱泼斯坦的交往深陷舆",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "巴菲特因爱泼斯坦案暂停向盖茨基金会捐赠，20年来首次。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家，引用新华社和华尔街日报，信息具体有出处，但缺乏直接原始文件。"
-    },
-    {
-      "title": "国资下场“接盘”药企：一场资本与产业的双向奔赴？",
-      "link": "https://www.tmtpost.com/8048045.html",
-      "pubDate": "Wed, 01 Jul 2026 12:07:00 +0800",
-      "contentSnippet": "买方的“国进”与卖方的“被迫”。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国资收购药企，资本与产业双向互动。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体但缺少数据支撑。"
-    },
-    {
-      "title": "澳大利亚考虑拆分四大会计师事务所",
-      "link": "https://36kr.com/newsflashes/3876566002413576?f=rss",
-      "pubDate": "2026-07-01 12:06:51  +0800",
-      "contentSnippet": "澳大利亚政府周三表示，鉴于该行业近期爆出一些备受瞩目的丑闻，政府正在考虑拆分四大会计师事务所，并将其纳入企业监管机构的监管范围。澳大利亚财政部的一份文件概述了这些提议，其中包括将合伙制事务所的规模上限从1000人降至400人。该文件指出，四大会计师事务所——德勤、安永、毕马威和普华永道——近期的行为暴露了澳大利亚监管框架的漏洞。文件还对比了英国和美国的监管方式。（新浪财经）",
+      "title": "现货白银日内涨幅达2%",
+      "link": "https://36kr.com/newsflashes/3877959956328449?f=rss",
+      "pubDate": "2026-07-02 11:44:51  +0800",
+      "contentSnippet": "36氪获悉，现货白银日内涨幅达2.00%，现报60.27美元/盎司。",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -118,33 +101,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "澳大利亚拟拆分四大会计师事务所并加强监管。",
+      "aiSummary": "现货白银价格日内上涨2%，报60.27美元/盎司。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪转载新浪财经，内容具体有文件细节，但非一手来源。"
+      "credibilityReason": "来自知名科技媒体36氪，信息具体但缺乏分析或数据支撑。"
     },
     {
-      "title": "AMD EXPO ULL 内存首发价远超预期，芝奇 DDR5-6000 CL28 新品溢价高达 79%",
-      "link": "https://www.ithome.com/0/971/009.htm",
-      "pubDate": "Wed, 01 Jul 2026 04:05:52 GMT",
-      "contentSnippet": "IT之家 7 月 1 日消息，AMD 上个月在 Computex 2026 台北国际电脑展上正式发布了 EXPO Ultra Low Latency（简称 EXPO ULL）超低延迟内存技术规范。\n该技术面向 DDR5-6000 频率内存，通过在内存 SPD 配置文件中集成更精细的子时序参数来进一步降低延迟，相比 JEDEC 标准可实现平均帧率提升 13%、1% low 帧率提升 15%，相较于标准 EXPO 内存提升也有 1%~4%。\nAMD 锐龙与 Radeon 业务副总裁 David McAfee 当时表示，根据与内存合作伙伴的沟通，EXPO ULL 内存套装的定价将“与现有 EXPO",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "AMD EXPO ULL内存技术发布，芝奇DDR5-6000 CL28新品溢价79%",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容具体有技术细节和官方引用，但缺少完整数据支撑"
-    },
-    {
-      "title": "孤军奋战十余年，嘀嗒终归同程",
-      "link": "https://www.tmtpost.com/8048030.html",
-      "pubDate": "Wed, 01 Jul 2026 12:00:00 +0800",
-      "contentSnippet": "嘀嗒拿到了一颗流量焦虑症的解药。",
+      "title": "灵光一号位转岗，蚂蚁阿福收兵",
+      "link": "https://www.tmtpost.com/8049526.html",
+      "pubDate": "Thu, 02 Jul 2026 11:40:03 +0800",
+      "contentSnippet": "阿里不再需要“蚂蚁奇兵”",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -152,16 +118,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "嘀嗒出行与同程旅行合并，结束十余年独立发展。",
-      "credibilityScore": 80,
+      "aiSummary": "蚂蚁集团高管转岗，阿里战略调整。",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体钛媒体，内容具体有分析，但缺乏原始数据支撑。"
+      "credibilityReason": "钛媒体为知名科技媒体，内容具体但缺乏数据支撑。"
     },
     {
-      "title": "机构：2026年第一季度美国PC出货量同比下滑7%，创2023年以来最大跌幅",
-      "link": "https://36kr.com/newsflashes/3876553479352585?f=rss",
-      "pubDate": "2026-07-01 11:54:07  +0800",
-      "contentSnippet": "36氪获悉，Omdia最新研究显示，2026年第一季度，美国PC（不含平板电脑）出货量同比下降7.0%，降至1580万台，为2023年第三季度以来最大的同比跌幅。此次市场下滑主要受到多重因素影响，包括PC内存和存储价格大幅上涨带来的供应受限及成本压力，以及Windows 11升级周期结束后需求提前释放，导致短期商用市场需求明显回落。此外，基数效应也进一步放大了同比降幅。2025年第一季度，由于企业为应对关税预期提前备货，市场出货量处于较高水平；而2026年第一季度，渠道商仅因预期内存价格上涨而进行了有限的提前备货，进一步加剧了同比下滑的表现。",
+      "title": "英伟达为GPU采购提供融资支持，并从云计算收入中抽取一定比例分成",
+      "link": "https://36kr.com/newsflashes/3877951264239877?f=rss",
+      "pubDate": "2026-07-02 11:36:01  +0800",
+      "contentSnippet": "据报道，英伟达为GPU采购提供融资支持，并从云计算收入中抽取一定比例分成。（财联社）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -169,50 +135,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "Omdia报告称2026年Q1美国PC出货量同比降7%，创近三年最大跌幅。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，引用Omdia研究数据，分析具体且逻辑清晰。"
-    },
-    {
-      "title": "微软Teams免费版退出中国：巨头的减法，本土的乘法",
-      "link": "https://www.tmtpost.com/8048459.html",
-      "pubDate": "Wed, 01 Jul 2026 11:54:00 +0800",
-      "contentSnippet": "九年过去，它从未真正打开局面。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "微软Teams免费版退出中国，本土竞争加剧。",
+      "aiSummary": "英伟达为GPU采购提供融资，并从云计算收入分成。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体，内容具体，逻辑清晰，但缺乏数据支撑和原始出处。"
+      "credibilityReason": "来源为知名科技媒体36氪，内容具体但缺乏细节和原始出处。"
     },
     {
-      "title": "咖啡店背后的“巨人”：从制造到智造的“番禺样本”",
-      "link": "https://www.tmtpost.com/8048024.html",
-      "pubDate": "Wed, 01 Jul 2026 11:54:00 +0800",
-      "contentSnippet": "番禺已经构成了核心竞争力。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "番禺咖啡店产业从制造向智造转型的案例。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体但缺少数据支撑。"
-    },
-    {
-      "title": "半日主力资金加仓基础化工股，抛售通信股",
-      "link": "https://36kr.com/newsflashes/3876548486885377?f=rss",
-      "pubDate": "2026-07-01 11:49:02  +0800",
-      "contentSnippet": "主力资金早间净流入基础化工、非银金融、计算机、医药生物等板块，净流出通信、电子、电力设备、建筑材料板块。具体到个股来看，昊华科技、TCL科技、多氟多、东方财富、三美股份获净流入18.09亿元、16.58亿元、16.05亿元、15.99亿元、15.05亿元。净流出方面，阳光电源、中天科技、天孚通信、华工科技、寒武纪遭抛售32.01亿元、18.26亿元、17亿元、16.53亿元、14.74亿元。（第一财经）",
+      "title": "A股三大指数午间休盘集体下跌，汽车股领涨",
+      "link": "https://36kr.com/newsflashes/3877947098230793?f=rss",
+      "pubDate": "2026-07-02 11:31:47  +0800",
+      "contentSnippet": "36氪获悉，A股三大指数午间休盘集体下跌，沪指跌0.9%，深成指跌2.09%，创业板指跌3.47%；通信设备、半导体、券商板块领跌，中科飞测跌超12%，新易盛跌超8%，长江证券跌超4%；贵金属、林木、汽车板块涨幅居前，招金黄金涨停，比亚迪涨超4%，康欣新材涨超3%。",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -220,44 +152,112 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "半日主力资金加仓基础化工，抛售通信股。",
+      "aiSummary": "A股三大指数午盘集体下跌，汽车板块逆势领涨。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源知名科技媒体36氪，数据引自第一财经，信息具体有金额支撑。"
+      "credibilityReason": "来自知名科技媒体36氪，数据具体、时效性强，内容客观。"
     },
     {
-      "title": "“互联网之父”温顿 · 瑟夫下周退休，曾参与开发 TCP / IP 协议",
-      "link": "https://www.ithome.com/0/970/992.htm",
-      "pubDate": "Wed, 01 Jul 2026 03:47:26 GMT",
-      "contentSnippet": "IT之家 7 月 1 日消息，据外媒 TechCrunch 今天（1 日）报道，互联网奠基者之一、谷歌副总裁兼首席互联网布道师温顿 · 瑟夫将于下周退休，为科技史上一段极具影响力的职业生涯画上句号。\n\n▲ 图源谷歌\n在劳德研究所主办的 Open Frontier 大会上，加州大学伯克利分校教授、参与开创 RISC 处理器架构的大卫 · 帕特森在台上宣布了这一消息：“瑟夫已经在谷歌任职超过 20 年，并将在一周后正式退休，我认为我们应该为他这段还算不错的职业生涯鼓掌。”现场随即响起欢呼声。\n现年 83 岁的瑟夫与罗伯特 · 卡恩被公认为现代互联网网络协议的主要设计者。瑟夫从 20 世纪 70 年",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "ChatGPT 这些翻车回答，居然是 Meta 找外包干的",
+      "link": "https://www.ifanr.com/1670735?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pubDate": "Thu, 02 Jul 2026 03:24:11 +0000",
+      "contentSnippet": "美其名曰是安全测试\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "sourceName": "爱范儿",
+      "sourceWeight": 82,
       "allSources": [
-        "IT之家"
+        "爱范儿"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "互联网之父温顿·瑟夫下周从谷歌退休，曾参与开发TCP/IP协议。",
-      "credibilityScore": 85,
+      "aiSummary": "Meta外包安全测试导致ChatGPT出现翻车回答。",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，引用外媒TechCrunch报道，信息具体且逻辑清晰。"
+      "credibilityReason": "来自知名科技媒体爱范儿，内容具体但缺少原始数据支撑。"
     },
     {
-      "title": "仍需安装经典版：微软 Win10/Win11 新版 Outlook 完善 .pst 文件支持",
-      "link": "https://www.ithome.com/0/970/991.htm",
-      "pubDate": "Wed, 01 Jul 2026 03:46:01 GMT",
-      "contentSnippet": "IT之家 7 月 1 日消息，科技媒体 Windows Latest 今天（7 月 1 日）发布博文，报道称在 Windows 10、Windows 11 新版 Outlook 应用中，微软进一步补齐和经典版差异，完善支持 .pst 文件。\nIT之家注：Outlook 数据文件（.pst）也称个人存储表文件（Personal Storage Tables files），包含 Outlook 用户邮件，以及联系人、约会、任务、笔记和日记条目等其它项目，常见于邮件归档、账户迁移和离线保存场景。\n\n在最新公告中，微软确认 Windows 10、Windows 11 新版 Outlook 已完整发布增",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "AI营销“引擎”已就位，但企业的“燃油泵”准备好了么？",
+      "link": "https://www.tmtpost.com/8049807.html",
+      "pubDate": "Thu, 02 Jul 2026 11:22:24 +0800",
+      "contentSnippet": "把AI当成同事，远比把AI当成工具复杂得多。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
       "allSources": [
-        "IT之家"
+        "钛媒体"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "微软新版Outlook完善.pst文件支持，但仍需经典版。",
+      "aiSummary": "探讨企业将AI视为同事而非工具面临的挑战。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体钛媒体，内容有深度分析，但缺少具体数据支撑。"
+    },
+    {
+      "title": "恒生指数公司联同数码港推出主题指数探索计划，促进以人工智能驱动指数创新",
+      "link": "https://36kr.com/newsflashes/3877929435082752?f=rss",
+      "pubDate": "2026-07-02 11:13:48  +0800",
+      "contentSnippet": "36氪获悉，恒生指数公司与数码港于2026年6月30日宣布推出主题指数探索计划，与创科公司共同开发人工智能解决方案，加快主题指数的设计流程。本次计划为指数创新实验室第二阶段项目。实验室由恒生指数公司与数码港于2024年成立，旨在探索利用人工智能等前沿技术支援恒生指数公司的指数营运，并提供更切合市场需求的指数方案。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "恒生指数公司与数码港合作推出AI主题指数探索计划",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，信息具体有细节，引用科技媒体Windows Latest。"
+      "credibilityReason": "来源36氪为知名科技媒体，内容具体且有明确时间、合作方和项目背景"
+    },
+    {
+      "title": "沪深两市成交额突破2万亿元",
+      "link": "https://36kr.com/newsflashes/3877915705094144?f=rss",
+      "pubDate": "2026-07-02 10:59:50  +0800",
+      "contentSnippet": "36氪获悉，沪深两市成交额突破2万亿元，较上一日此时缩量超1300亿元。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "沪深两市成交额突破2万亿元，较前日缩量超1300亿。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪为知名科技财经媒体，数据具体，但缺乏原始出处和深度分析。"
+    },
+    {
+      "title": "库迪咖啡旗下安徽高科技公司增资至1亿",
+      "link": "https://36kr.com/newsflashes/3877908765552640?f=rss",
+      "pubDate": "2026-07-02 10:52:47  +0800",
+      "contentSnippet": "36氪获悉天眼查App显示，近日，库迪高科技（安徽）有限公司发生工商变更，王亮卸任法定代表人、董事、经理，张钧接任法定代表人、董事，方存泽接任经理，新增库蜂智能科技（贵州）有限公司为股东，同时，注册资本由1000万人民币增至1亿人民币，增幅900%。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "库迪咖啡旗下安徽公司增资至1亿，增幅900%",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪权威，引用天眼查数据，信息具体且逻辑清晰"
+    },
+    {
+      "title": "印度坑了苹果",
+      "link": "https://www.tmtpost.com/8049834.html",
+      "pubDate": "Thu, 02 Jul 2026 10:47:10 +0800",
+      "contentSnippet": "任何试图用短路方式复制中国产业链的尝试，最终都会在最基础的效率和安全问题上露出破绽。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "印度产业链短板导致苹果制造遇挫，复制中国模式失败。",
+      "credibilityScore": 65,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体，但标题有煽动性，内容缺乏具体数据支撑。"
     }
   ]
 }
