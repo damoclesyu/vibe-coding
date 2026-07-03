@@ -1,14 +1,31 @@
 {
-  "generatedAt": "2026-07-02T03:57:50.522Z",
+  "generatedAt": "2026-07-03T03:40:15.978Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "苹果拟于今明两年推出至少五款新iPhone，折叠屏出货量超预期",
-      "link": "https://36kr.com/newsflashes/3877934900441353?f=rss",
-      "pubDate": "2026-07-02 11:19:22  +0800",
-      "contentSnippet": "7月2日消息，据报道，苹果公司正计划在今年下半年至2027年上半年期间，发起一项雄心勃勃的iPhone新品发布计划，预计将推出至少五款新机型。尽管目前整个科技行业正面临供应链零部件短缺的困境，但苹果仍决定加大折叠屏手机的出货量，超出市场此前预期。（界面）",
+      "title": "消息称韩国政府将利用 AI 税收红利加速主权人工智能发展",
+      "link": "https://www.ithome.com/0/972/036.htm",
+      "pubDate": "Fri, 03 Jul 2026 02:30:31 GMT",
+      "contentSnippet": "IT之家 7 月 3 日消息，综合《首尔新闻》《韩国经济日报》两家韩媒报道，韩国政府计划利用 AI 浪潮带来的税收红利加速韩国主权人工智能发展。\n韩国两大半导体巨头三星电子和 SK 海力士及一些上下游相关企业在这一波 AI 革命中可以说是赚得盆满钵满，而这也间接为韩国政府创造了一大笔额外税金收入。\n而近期 Anthropic、OpenAI 旗下前沿模型遭遇出口 / 发布管制也为韩国政府敲响了一记警钟：国家间的传统盟友关系在当前 AI 时代出现了新的裂痕，发展自有模型、减少对海外模型的依赖是保障国家 AI 供应链安全的不二妙法。\n\n图源：Pexels\n报道指出，韩国政府此前也有国内 AI 开发促",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "韩国政府拟用AI税收红利加速主权AI发展",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，引用韩媒报道，内容具体有逻辑，但缺乏原始出处细节"
+    },
+    {
+      "title": "日本6月份服务业活动恢复增长",
+      "link": "https://36kr.com/newsflashes/3879241442242569?f=rss",
+      "pubDate": "2026-07-03 09:34:24  +0800",
+      "contentSnippet": "周五公布的一项私人调查显示，日本服务业在经历了5月份的停滞后，于6月恢复扩张。然而，由于对中东紧张局势和成本压力加剧的担忧，企业信心依然低迷。标普全球6月份日本服务业采购经理人指数（PMI）终值从5月的50.0升至52.2，表明商业活动再次活跃起来。PMI高于50.0表明经济活动增长，低于50.0则表明经济活动萎缩。除5月份外，这是过去15个月中日本服务业活动的第14次扩张，但增速较为温和，略低于过去一年的平均水平。（新浪财经）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -16,16 +33,50 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "苹果计划两年内推出至少五款新iPhone，折叠屏出货量超预期。",
+      "aiSummary": "日本6月服务业PMI回升至52.2，恢复扩张但信心低迷。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体但缺少原始出处和细节支撑。"
+      "credibilityReason": "来源为36氪转载新浪财经，数据引用标普全球PMI，信息具体但非一手来源。"
     },
     {
-      "title": "【钛晨报】新能源汽车6月交付情况速览：13家交付量超3万，5家同比增超50%；世界黄金协会：预计黄金投资将在下半年步入关键期；国内航线燃油附加费7月5日起下调",
-      "link": "https://www.tmtpost.com/8049458.html",
-      "pubDate": "Thu, 02 Jul 2026 07:20:00 +0800",
-      "contentSnippet": "王毅同美国国务卿鲁比奥通电话；孙天祥正式加入百度，出任基础模型研发部负责人；美联储主席沃什：希望利率政策成为关键政策工具；中基协“摸底”头部量化私募，涉及同质化交易等内容；行云科技：控股子公司签订55.08亿元算力服务合同；洋河股份：董事长顾宇不再兼任总裁，陈军当选副董事长并接任总裁",
+      "title": "欧盟拟出台未成年人社媒禁令",
+      "link": "https://www.ithome.com/0/971/982.htm",
+      "pubDate": "Fri, 03 Jul 2026 00:33:40 GMT",
+      "contentSnippet": "IT之家 7 月 3 日消息，据央视新闻报道，“欧洲动态”网站 7 月 2 日援引多名欧盟官员的表态披露称，欧盟委员会主席冯德莱恩计划于 9 月 16 日在欧洲议会发表年度“盟情咨文”时公布在欧盟范围内禁止未成年人使用社交媒体的计划。一个未成年人上网安全研究咨询小组预计本月 13 日提交相关报告，为欧委会提供建议。\n报道说，尚不清楚欧委会将把使用社交媒体的年龄门槛定在多少岁，以及这项计划具体如何落实。目前，欧盟各国政府已就如何实行社媒禁令提出不同方案，包括彻底限制特定年龄以下未成年人使用社媒平台，或要求未成年人必须首先获得家长同意。这一计划将为欧盟通过立法或采取其他措施限制未成年人使用社交媒体",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "欧盟拟9月公布未成年人社媒禁令计划",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家，转载央视新闻及欧洲动态，信息具体且有官员表态，逻辑清晰"
+    },
+    {
+      "title": "A股三大指数午间收盘集体上涨，机器人概念领涨",
+      "link": "https://36kr.com/newsflashes/3879363635769350?f=rss",
+      "pubDate": "2026-07-03 11:32:45  +0800",
+      "contentSnippet": "36氪获悉，A股三大指数午间收盘集体上涨，沪指涨0.69%，深成指涨1.39%，创业板指涨1.58%；贵金属、汽车、机器人概念领涨，晓程科技涨超12%，比亚迪涨超3%，奥比中光涨超11%；林木、文化传媒、互联网板块走弱，康欣新材跌超4%，佳云科技跌超3%，光云科技跌超2%。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "A股午盘三大指数上涨，机器人概念领涨。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪为知名科技媒体，内容具体有数据支撑，逻辑清晰。"
+    },
+    {
+      "title": "万亿GDP、千万人口的合肥，居然没有一家顶奢酒店",
+      "link": "https://www.tmtpost.com/8051445.html",
+      "pubDate": "Fri, 03 Jul 2026 11:31:00 +0800",
+      "contentSnippet": "顶奢缺位的遗憾。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -33,84 +84,84 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体汇总新能源汽车交付、黄金投资及燃油附加费下调等财经科技动态。",
+      "aiSummary": "合肥经济人口规模大但缺乏顶级奢华酒店。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体但部分信息非原创，综合评分中等偏上。"
+      "credibilityReason": "来自知名科技媒体，内容具体有数据支撑，但非纯技术报道。"
     },
     {
-      "title": "Argo CD 3.5 推出内部双向 TLS 与源码完整性校验支持，强化软件供应链安全",
-      "link": "https://www.infoq.cn/article/MfHAiaeQbq6VWPHLD4pB?utm_source=rss&utm_medium=article",
-      "pubDate": "Wed, 01 Jul 2026 17:32:00 GMT",
-      "contentSnippet": "点击查看原文>",
-      "sourceName": "InfoQ中文",
-      "sourceWeight": 78,
+      "title": "《苏丹的游戏》即将推出移动版，针对设备优化 UI 和操作体验",
+      "link": "https://www.ithome.com/0/972/091.htm",
+      "pubDate": "Fri, 03 Jul 2026 03:30:01 GMT",
+      "contentSnippet": "IT之家 7 月 3 日消息，卡牌元素回合制模拟剧情游戏《苏丹的游戏》开发方双头龙工作室昨晚宣布，该作移动版即将推出。\n\n《苏丹的游戏》移动版由 GameTree 发行，囊括桌面版游戏的全部内容，得到了针对移动端的许多优化。该版本将登陆 Google Play、App Store、TapTap、QooApp 等平台，7 月 24 日率先发布繁体中文版和英文版。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "InfoQ中文"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "Argo CD 3.5 新增双向TLS和源码校验，提升供应链安全",
+      "aiSummary": "《苏丹的游戏》移动版7月24日发布，优化UI和操作。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，信息具体含日期、平台和优化细节，逻辑清晰。"
+    },
+    {
+      "title": "三星首款 AI 眼镜 Galaxy Glasses 爆料：1200 万摄像头、光致变色镜片",
+      "link": "https://www.ithome.com/0/972/090.htm",
+      "pubDate": "Fri, 03 Jul 2026 03:29:55 GMT",
+      "contentSnippet": "IT之家 7 月 3 日消息，科技媒体 Android Authority 昨日（7 月 2 日）发布博文，分享了一段渲染视频，展示了三星首款 AI 眼镜 Galaxy Glasses，其整体风格接近于 Meta x Ray-Ban 智能眼镜。\nIT之家附上演示视频如下：\n\n外观方面，三星 Galaxy Glasses 采用简约镜框，大部分元件集中在厚镜腿部分，整体佩戴体验更接近于传统太阳镜。\n\n系统方面，三星 Galaxy Glasses 运行谷歌 Android XR 系统，并深度集成谷歌的 Gemini AI 模型，核心功能围绕免提 AI 交互展开，包括拍照、录像、语音问答、实时翻译、音",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "三星首款AI眼镜Galaxy Glasses曝光，采用1200万摄像头和光致变色镜片。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，内容具体有细节，但缺乏原始出处和官方确认。"
+    },
+    {
+      "title": "阿里达摩院：AI 智能体发现 4 种全新超导材料，已获实验验证",
+      "link": "https://www.ithome.com/0/972/089.htm",
+      "pubDate": "Fri, 03 Jul 2026 03:27:15 GMT",
+      "contentSnippet": "IT之家 7 月 3 日消息，阿里达摩院通过公众号宣布，7 月 3 日（今天），阿里达摩院联合中国人民大学、中国科学院大学等发布首个超导材料发现 AI 智能体 Elements Claw，预测出 6.8 万个可能的超导材料，其中 4 种全新材料已合成并证实存在超导性。相关数据已全部开放。\n\n目前，国际主流超导数据库 SuperCon 历经数十年积累，仅收录约 2000 种材料。为此，阿里达摩院发挥 AI for Science 技术优势，联合中国人民大学、中国科学院大学等机构研发 ElementsClaw，不仅可预测材料是否具有超导性，更能像人类材料学家一样查阅文献、评估合成可行性、设计实验方",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "阿里达摩院AI发现4种全新超导材料，已获实验验证。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名技术媒体InfoQ，内容具体且技术细节清晰"
+      "credibilityReason": "来源知名科技媒体，信息具体有数据支撑，但缺少独立验证。"
     },
     {
-      "title": "大湾区首个200亿具身大脑来了！自变量两个月连融四轮，完成交割",
-      "link": "https://www.qbitai.com/2026/07/441140.html",
-      "pubDate": "Wed, 01 Jul 2026 06:26:06 +0000",
-      "contentSnippet": "四大互联网分别领投",
-      "sourceName": "量子位",
-      "sourceWeight": 80,
+      "title": "育碧新作《刺客信条：黑旗 记忆重置》预载时间公布：PC 版 7 月 7 日晚 10 点开始",
+      "link": "https://www.ithome.com/0/972/083.htm",
+      "pubDate": "Fri, 03 Jul 2026 03:25:02 GMT",
+      "contentSnippet": "IT之家 7 月 3 日消息，育碧官方今天公布了《刺客信条：黑旗 记忆重置》游戏的详细信息。\n\nIT之家附《刺客信条：黑旗 记忆重置》游戏各版本预载 / 解锁时间（以下均为北京时间）：\n预载：\n\nXbox Series X|S：现已开启\n\nPS5：7 月 7 日上午 8 点整\n\nPC（Steam、Epic、Ubiconnect）：7 月 7 日晚 22 点整\n\n解锁：\n\n主机：7 月 9 日 00:00\n\nPC（Steam、Epic、Ubiconnect）：7 月 9 日晚 22 点整\n\n\nIT之家注意到，《刺客信条：黑旗 记忆重置》在 Steam 平台还将完整支持成就、集换式卡牌、徽章及个人",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "量子位"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "大湾区首个200亿具身大脑项目获投，自变量两月四轮融资。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源量子位为知名科技媒体，内容具体但缺乏技术细节和原始出处。"
-    },
-    {
-      "title": "半日主力资金抛售非银金融、电子股",
-      "link": "https://36kr.com/newsflashes/3877967342841862?f=rss",
-      "pubDate": "2026-07-02 11:52:22  +0800",
-      "contentSnippet": "主力资金早间净流入机械设备、基础化工、有色金属、电力设备、汽车等板块，净流出非银金融、电子、通信、医药生物、建筑装饰等板块。具体到个股来看，永太科技、先导基电、宁德时代获净流入13.34亿元、13.09亿元、12.32亿元。净流出方面，深科技、长电科技、雅克科技遭抛售24.74亿元、21.35亿元、19.33亿元。（第一财经）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "半日主力资金流向：流入机械设备等，流出非银金融等。",
+      "aiSummary": "育碧公布《刺客信条：黑旗 记忆重置》预载和解锁时间。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体有数据支撑，引用第一财经。"
+      "credibilityReason": "来自IT之家，信息具体且逻辑清晰，但缺少官方原始链接。"
     },
     {
-      "title": "现货白银日内涨幅达2%",
-      "link": "https://36kr.com/newsflashes/3877959956328449?f=rss",
-      "pubDate": "2026-07-02 11:44:51  +0800",
-      "contentSnippet": "36氪获悉，现货白银日内涨幅达2.00%，现报60.27美元/盎司。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "现货白银价格日内上涨2%，报60.27美元/盎司。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体36氪，信息具体但缺乏分析或数据支撑。"
-    },
-    {
-      "title": "灵光一号位转岗，蚂蚁阿福收兵",
-      "link": "https://www.tmtpost.com/8049526.html",
-      "pubDate": "Thu, 02 Jul 2026 11:40:03 +0800",
-      "contentSnippet": "阿里不再需要“蚂蚁奇兵”",
+      "title": "国产 AI 算力革命，走向「让子弹飞」时刻",
+      "link": "https://www.tmtpost.com/8051440.html",
+      "pubDate": "Fri, 03 Jul 2026 11:25:00 +0800",
+      "contentSnippet": "道阻且长，行则能至。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -118,67 +169,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "蚂蚁集团高管转岗，阿里战略调整。",
+      "aiSummary": "国产AI算力发展进入关键突破期，前景可期。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容具体但缺乏数据支撑。"
+      "credibilityReason": "来源钛媒体为知名科技媒体，内容有行业分析，但缺乏具体数据支撑。"
     },
     {
-      "title": "英伟达为GPU采购提供融资支持，并从云计算收入中抽取一定比例分成",
-      "link": "https://36kr.com/newsflashes/3877951264239877?f=rss",
-      "pubDate": "2026-07-02 11:36:01  +0800",
-      "contentSnippet": "据报道，英伟达为GPU采购提供融资支持，并从云计算收入中抽取一定比例分成。（财联社）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "英伟达为GPU采购提供融资，并从云计算收入分成。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，内容具体但缺乏细节和原始出处。"
-    },
-    {
-      "title": "A股三大指数午间休盘集体下跌，汽车股领涨",
-      "link": "https://36kr.com/newsflashes/3877947098230793?f=rss",
-      "pubDate": "2026-07-02 11:31:47  +0800",
-      "contentSnippet": "36氪获悉，A股三大指数午间休盘集体下跌，沪指跌0.9%，深成指跌2.09%，创业板指跌3.47%；通信设备、半导体、券商板块领跌，中科飞测跌超12%，新易盛跌超8%，长江证券跌超4%；贵金属、林木、汽车板块涨幅居前，招金黄金涨停，比亚迪涨超4%，康欣新材涨超3%。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "A股三大指数午盘集体下跌，汽车板块逆势领涨。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体36氪，数据具体、时效性强，内容客观。"
-    },
-    {
-      "title": "ChatGPT 这些翻车回答，居然是 Meta 找外包干的",
-      "link": "https://www.ifanr.com/1670735?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pubDate": "Thu, 02 Jul 2026 03:24:11 +0000",
-      "contentSnippet": "美其名曰是安全测试\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "sourceName": "爱范儿",
-      "sourceWeight": 82,
-      "allSources": [
-        "爱范儿"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "Meta外包安全测试导致ChatGPT出现翻车回答。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体爱范儿，内容具体但缺少原始数据支撑。"
-    },
-    {
-      "title": "AI营销“引擎”已就位，但企业的“燃油泵”准备好了么？",
-      "link": "https://www.tmtpost.com/8049807.html",
-      "pubDate": "Thu, 02 Jul 2026 11:22:24 +0800",
-      "contentSnippet": "把AI当成同事，远比把AI当成工具复杂得多。",
+      "title": "游戏在巨头面前彻底“失宠”了？",
+      "link": "https://www.tmtpost.com/8051431.html",
+      "pubDate": "Fri, 03 Jul 2026 11:22:51 +0800",
+      "contentSnippet": "游戏行业正在失去光环。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -186,67 +186,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "探讨企业将AI视为同事而非工具面临的挑战。",
+      "aiSummary": "分析游戏行业在科技巨头中吸引力下降的趋势。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体钛媒体，内容有深度分析，但缺少具体数据支撑。"
+      "credibilityReason": "来自知名科技媒体，内容具体但缺乏数据支撑和原始出处。"
     },
     {
-      "title": "恒生指数公司联同数码港推出主题指数探索计划，促进以人工智能驱动指数创新",
-      "link": "https://36kr.com/newsflashes/3877929435082752?f=rss",
-      "pubDate": "2026-07-02 11:13:48  +0800",
-      "contentSnippet": "36氪获悉，恒生指数公司与数码港于2026年6月30日宣布推出主题指数探索计划，与创科公司共同开发人工智能解决方案，加快主题指数的设计流程。本次计划为指数创新实验室第二阶段项目。实验室由恒生指数公司与数码港于2024年成立，旨在探索利用人工智能等前沿技术支援恒生指数公司的指数营运，并提供更切合市场需求的指数方案。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "恒生指数公司与数码港合作推出AI主题指数探索计划",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体且有明确时间、合作方和项目背景"
-    },
-    {
-      "title": "沪深两市成交额突破2万亿元",
-      "link": "https://36kr.com/newsflashes/3877915705094144?f=rss",
-      "pubDate": "2026-07-02 10:59:50  +0800",
-      "contentSnippet": "36氪获悉，沪深两市成交额突破2万亿元，较上一日此时缩量超1300亿元。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "沪深两市成交额突破2万亿元，较前日缩量超1300亿。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技财经媒体，数据具体，但缺乏原始出处和深度分析。"
-    },
-    {
-      "title": "库迪咖啡旗下安徽高科技公司增资至1亿",
-      "link": "https://36kr.com/newsflashes/3877908765552640?f=rss",
-      "pubDate": "2026-07-02 10:52:47  +0800",
-      "contentSnippet": "36氪获悉天眼查App显示，近日，库迪高科技（安徽）有限公司发生工商变更，王亮卸任法定代表人、董事、经理，张钧接任法定代表人、董事，方存泽接任经理，新增库蜂智能科技（贵州）有限公司为股东，同时，注册资本由1000万人民币增至1亿人民币，增幅900%。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "库迪咖啡旗下安徽公司增资至1亿，增幅900%",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪权威，引用天眼查数据，信息具体且逻辑清晰"
-    },
-    {
-      "title": "印度坑了苹果",
-      "link": "https://www.tmtpost.com/8049834.html",
-      "pubDate": "Thu, 02 Jul 2026 10:47:10 +0800",
-      "contentSnippet": "任何试图用短路方式复制中国产业链的尝试，最终都会在最基础的效率和安全问题上露出破绽。",
+      "title": "股价跌幅达59.71%，港股创新药公司药捷安康遭遇“滑铁卢”了？",
+      "link": "https://www.tmtpost.com/8051433.html",
+      "pubDate": "Fri, 03 Jul 2026 11:22:34 +0800",
+      "contentSnippet": "一次“合法合规”的市值屠杀。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -254,10 +203,61 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "印度产业链短板导致苹果制造遇挫，复制中国模式失败。",
-      "credibilityScore": 65,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体，但标题有煽动性，内容缺乏具体数据支撑。"
+      "aiSummary": "药捷安康股价暴跌59.71%，钛媒体分析其市值蒸发原因。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体，内容具体但缺乏原始数据支撑。"
+    },
+    {
+      "title": "沪深两市成交额突破2万亿",
+      "link": "https://36kr.com/newsflashes/3879353568194568?f=rss",
+      "pubDate": "2026-07-03 11:22:31  +0800",
+      "contentSnippet": "36氪获悉，沪深两市成交额突破2万亿。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "沪深两市成交额突破2万亿，市场活跃。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体36氪，信息具体且有时效性。"
+    },
+    {
+      "title": "腾讯游戏暑期未保行动：每周限玩3小时",
+      "link": "https://36kr.com/newsflashes/3879352352731139?f=rss",
+      "pubDate": "2026-07-03 11:21:16  +0800",
+      "contentSnippet": "36氪获悉，7月3日，腾讯游戏发布“2026年暑期未成年人保护专项行动”，每周限玩3小时，升级“AI双引擎防沉迷”模式：游戏外，成长守护焕新AI版本，接入腾讯混元与DeepSeek双模型，家长可通过对话式交互完成信息查询与账号管控，提升管理便捷度；游戏内，健康系统推出AI巡航功能，内置“AI守卫”，基于玩家行为进行动态风险分级，并在人脸识别基础上，新增声纹检测、年龄识别等多模态验证，实现全链路干预，提高冒用、代过门槛。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "腾讯游戏暑期未成年人保护行动，每周限玩3小时，升级AI防沉迷。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪知名媒体，信息具体有技术细节，逻辑清晰，可信度高。"
+    },
+    {
+      "title": "英伟达 RTX 5080 公版显卡将在 BW2026 限量发售，8299 元",
+      "link": "https://www.ithome.com/0/972/080.htm",
+      "pubDate": "Fri, 03 Jul 2026 03:20:09 GMT",
+      "contentSnippet": "IT之家 7 月 3 日消息，英伟达今日官宣，7 月 10 日 ~7 月 12 日，GeForce RTX 超级玩家体验站将以“神秘造型”登陆 BilibiliWorld 2026 上海国家会展中心 5.1H - 5A25 展位。\n\nGeForce RTX 5080 公版显卡将于现场限量发售，售价 8299 元。\n\n此外，RTX Spark 笔记本和桌面主机也将亮相 BilibiliWorld 2026。\n\nIT之家从活动介绍获悉，现场购买 RTX 5080 公版显卡需要先获取必购券，获取途径包括在线预约、现场打卡、合作游戏展台互动。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "英伟达RTX 5080公版显卡将在BW2026限量发售，售价8299元。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，信息具体且有官方活动细节，但缺乏技术参数和原始出处。"
     }
   ]
 }
