@@ -1,31 +1,14 @@
 {
-  "generatedAt": "2026-07-03T03:40:15.978Z",
+  "generatedAt": "2026-07-04T03:33:26.734Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "消息称韩国政府将利用 AI 税收红利加速主权人工智能发展",
-      "link": "https://www.ithome.com/0/972/036.htm",
-      "pubDate": "Fri, 03 Jul 2026 02:30:31 GMT",
-      "contentSnippet": "IT之家 7 月 3 日消息，综合《首尔新闻》《韩国经济日报》两家韩媒报道，韩国政府计划利用 AI 浪潮带来的税收红利加速韩国主权人工智能发展。\n韩国两大半导体巨头三星电子和 SK 海力士及一些上下游相关企业在这一波 AI 革命中可以说是赚得盆满钵满，而这也间接为韩国政府创造了一大笔额外税金收入。\n而近期 Anthropic、OpenAI 旗下前沿模型遭遇出口 / 发布管制也为韩国政府敲响了一记警钟：国家间的传统盟友关系在当前 AI 时代出现了新的裂痕，发展自有模型、减少对海外模型的依赖是保障国家 AI 供应链安全的不二妙法。\n\n图源：Pexels\n报道指出，韩国政府此前也有国内 AI 开发促",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "韩国政府拟用AI税收红利加速主权AI发展",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用韩媒报道，内容具体有逻辑，但缺乏原始出处细节"
-    },
-    {
-      "title": "日本6月份服务业活动恢复增长",
-      "link": "https://36kr.com/newsflashes/3879241442242569?f=rss",
-      "pubDate": "2026-07-03 09:34:24  +0800",
-      "contentSnippet": "周五公布的一项私人调查显示，日本服务业在经历了5月份的停滞后，于6月恢复扩张。然而，由于对中东紧张局势和成本压力加剧的担忧，企业信心依然低迷。标普全球6月份日本服务业采购经理人指数（PMI）终值从5月的50.0升至52.2，表明商业活动再次活跃起来。PMI高于50.0表明经济活动增长，低于50.0则表明经济活动萎缩。除5月份外，这是过去15个月中日本服务业活动的第14次扩张，但增速较为温和，略低于过去一年的平均水平。（新浪财经）",
+      "title": "进一步明确平台经济各方权利义务 新版电子商务法公开征求意见",
+      "link": "https://36kr.com/newsflashes/3880654226337797?f=rss",
+      "pubDate": "2026-07-04 09:41:45  +0800",
+      "contentSnippet": "为深入贯彻党中央、国务院关于平台经济的决策部署，更好地保障电子商务各方主体的合法权益，进一步规范电子商务平台经营者行为，促进电子商务持续健康发展，近日，市场监管总局、商务部研究起草了《中华人民共和国电子商务法（修正草案征求意见稿）》，并向社会公开征求意见。 (央视新闻)",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -33,33 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "日本6月服务业PMI回升至52.2，恢复扩张但信心低迷。",
-      "credibilityScore": 75,
+      "aiSummary": "新版电子商务法修正草案公开征求意见，规范平台经济。",
+      "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为36氪转载新浪财经，数据引用标普全球PMI，信息具体但非一手来源。"
+      "credibilityReason": "来源权威（央视新闻），内容具体，涉及政策法规，信息可靠。"
     },
     {
-      "title": "欧盟拟出台未成年人社媒禁令",
-      "link": "https://www.ithome.com/0/971/982.htm",
-      "pubDate": "Fri, 03 Jul 2026 00:33:40 GMT",
-      "contentSnippet": "IT之家 7 月 3 日消息，据央视新闻报道，“欧洲动态”网站 7 月 2 日援引多名欧盟官员的表态披露称，欧盟委员会主席冯德莱恩计划于 9 月 16 日在欧洲议会发表年度“盟情咨文”时公布在欧盟范围内禁止未成年人使用社交媒体的计划。一个未成年人上网安全研究咨询小组预计本月 13 日提交相关报告，为欧委会提供建议。\n报道说，尚不清楚欧委会将把使用社交媒体的年龄门槛定在多少岁，以及这项计划具体如何落实。目前，欧盟各国政府已就如何实行社媒禁令提出不同方案，包括彻底限制特定年龄以下未成年人使用社媒平台，或要求未成年人必须首先获得家长同意。这一计划将为欧盟通过立法或采取其他措施限制未成年人使用社交媒体",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "欧盟拟9月公布未成年人社媒禁令计划",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家，转载央视新闻及欧洲动态，信息具体且有官员表态，逻辑清晰"
-    },
-    {
-      "title": "A股三大指数午间收盘集体上涨，机器人概念领涨",
-      "link": "https://36kr.com/newsflashes/3879363635769350?f=rss",
-      "pubDate": "2026-07-03 11:32:45  +0800",
-      "contentSnippet": "36氪获悉，A股三大指数午间收盘集体上涨，沪指涨0.69%，深成指涨1.39%，创业板指涨1.58%；贵金属、汽车、机器人概念领涨，晓程科技涨超12%，比亚迪涨超3%，奥比中光涨超11%；林木、文化传媒、互联网板块走弱，康欣新材跌超4%，佳云科技跌超3%，光云科技跌超2%。",
+      "title": "对话傲鲨创始人徐振华：当科幻机甲成为户外装备，外骨骼如何重新定义人机关系？",
+      "link": "https://36kr.com/p/3880770270425089?f=rss",
+      "pubDate": "2026-07-04 11:25:22  +0800",
+      "contentSnippet": "《流浪地球2》与游戏《死亡搁浅》中，主角身穿外骨骼行走的人类未来图景，正在成为户外爱好者的真实装备。\n7月4日，阳澄湖半岛度假区，十几个人身穿“机甲”在湖畔徒步。他们穿的是傲鲨VIATRIX增程动力外骨骼机器人，走几步后很快步伐变得轻盈，这是外骨骼通过学习他们的行走姿态，在抬腿瞬间加上一定推力，使6公里的徒步体验更像一次悠闲的City walk。\n当天的机甲徒步活动由傲鲨联合户外平台一帐之地共同策划，路线串联沿湖步道、度假空间与生态公园，沿途设置多个观景和换装点位，将前沿科技、户外美学与湖岸风光融为一体，让参与者沉浸式解锁人机协同的徒步方式，感受徒步的松弛感与探索感。\n作为人类身体力量的延伸，",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -67,33 +33,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "A股午盘三大指数上涨，机器人概念领涨。",
-      "credibilityScore": 85,
+      "aiSummary": "傲鲨外骨骼机器人用于户外徒步，探索人机协同新体验。",
+      "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体有数据支撑，逻辑清晰。"
+      "credibilityReason": "来源36氪知名科技媒体，内容具体有活动细节，但缺少技术参数和独立验证。"
     },
     {
-      "title": "万亿GDP、千万人口的合肥，居然没有一家顶奢酒店",
-      "link": "https://www.tmtpost.com/8051445.html",
-      "pubDate": "Fri, 03 Jul 2026 11:31:00 +0800",
-      "contentSnippet": "顶奢缺位的遗憾。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "合肥经济人口规模大但缺乏顶级奢华酒店。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体，内容具体有数据支撑，但非纯技术报道。"
-    },
-    {
-      "title": "《苏丹的游戏》即将推出移动版，针对设备优化 UI 和操作体验",
-      "link": "https://www.ithome.com/0/972/091.htm",
-      "pubDate": "Fri, 03 Jul 2026 03:30:01 GMT",
-      "contentSnippet": "IT之家 7 月 3 日消息，卡牌元素回合制模拟剧情游戏《苏丹的游戏》开发方双头龙工作室昨晚宣布，该作移动版即将推出。\n\n《苏丹的游戏》移动版由 GameTree 发行，囊括桌面版游戏的全部内容，得到了针对移动端的许多优化。该版本将登陆 Google Play、App Store、TapTap、QooApp 等平台，7 月 24 日率先发布繁体中文版和英文版。",
+      "title": "奇瑞南非罗斯林工厂正式启用：从日产手中购得，计划明年年中投产",
+      "link": "https://www.ithome.com/0/972/515.htm",
+      "pubDate": "Sat, 04 Jul 2026 03:23:08 GMT",
+      "contentSnippet": "IT之家 7 月 4 日消息，当地时间 7 月 3 日，奇瑞汽车南非罗斯林工厂正式启用。根据介绍，这座始建于 1963 年的老牌汽车制造工厂将在奇瑞手中迎来新生，也标志着奇瑞在南非完成从进口商到本地制造商的跨越，实现全球化布局中的关键落子。\n\n奇瑞汽车股份有限公司董事长尹同跃表示：“依据‘In somewhere,For somewhere,Be somewhere（在哪里、为哪里、成为当地一分子）’的理念，无论在何处投资，奇瑞进入每个市场，都将竭力融入当地经济，融入当地社区，融入这个国家的未来。”\n罗斯林工厂是奇瑞从外企手中收购的。奇瑞承诺保留工厂现有全部 692 名员工，并将带动产业链上下",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -101,67 +50,67 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "《苏丹的游戏》移动版7月24日发布，优化UI和操作。",
+      "aiSummary": "奇瑞南非罗斯林工厂启用，从日产收购，计划明年投产。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体IT之家，信息具体，有明确时间、地点和引述。"
+    },
+    {
+      "title": "“生命炼金术”重要一步：人类首次成功构建可生长和分裂的细胞 SpudCell",
+      "link": "https://www.ithome.com/0/972/514.htm",
+      "pubDate": "Sat, 04 Jul 2026 03:19:05 GMT",
+      "contentSnippet": "IT之家 7 月 4 日消息，纽约时报于 7 月 1 日发布博文，报道称来自明尼苏达大学的科研团队朝着“将化学物质转化为生命的炼金术”愿景迈出重要一步，发布人造合成细胞 SpudCell 研究成果。\n该团队由 Kate Adamala  带领，构建出一种可生长、复制 DNA（脱氧核糖核酸）并分裂的合成细胞 SpudCell，是首个由非细胞材料从零构建、并验证基本细胞分裂循环的人工细胞。\n\nSpudCell 由 36 种纯化酶、9 个 DNA 分子上的 9 万碱基对基因组以及脂质膜组成，可在多代中完成增殖、基因组复制与分裂。\n团队将多种优化后的成分装入带脂质双层的 liposome（脂质体）中，",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "人类首次成功构建可生长和分裂的合成细胞SpudCell",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，引用纽约时报和明尼苏达大学研究，信息具体有数据支撑"
+    },
+    {
+      "title": "曾重制《GTA 三部曲》的格罗夫街工作室近况曝光：打造原创游戏《BeastLink》",
+      "link": "https://www.ithome.com/0/972/513.htm",
+      "pubDate": "Sat, 04 Jul 2026 03:19:04 GMT",
+      "contentSnippet": "IT之家 7 月 4 日消息，据科技媒体 Wccftech 昨天报道，曾负责开发《GTA：三部曲 – 最终版》的格罗夫街工作室（Grove Street Games），正在押注全新原创作品《BeastLink》。\n\nIT之家从原报道获悉，格罗夫街工作室此前主要负责移植经典游戏，而《BeastLink》是该工作室成立十多年来的首个原创 IP，也是他们迄今为止最具野心的作品。\n\n剧情方面，本作故事发生在一个文明几近毁灭的世界，幸存的人类只能生活在残存的据点之中，而庞大的怪兽则统治着废墟。玩家需要搜集资源、与其他势力交战。并与沉睡中的怪兽建立“连接”，亲自操控这些巨兽作战。\n本作最大的卖点是打造了格",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "格罗夫街工作室正开发原创游戏《BeastLink》，是其首个原创IP。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，引用Wccftech报道，信息具体但缺乏原始出处验证。"
+    },
+    {
+      "title": "4nm近售罄、部分8nm接近满载 三星晶圆代工开始选择性接单",
+      "link": "https://36kr.com/newsflashes/3880717381382148?f=rss",
+      "pubDate": "2026-07-04 11:16:30  +0800",
+      "contentSnippet": "据报道，业内人士称，随着AI半导体需求升温、全球大型科技公司订单增加，三星电子晶圆代工部门已针对部分制程启动配额机制（allocation），将有限产能集中分配给较重要的客户和制程，将产能优先分配给现有客户，新客户订单则选择性承接。（新浪财经）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "三星晶圆代工因AI需求升温，部分制程启动配额机制选择性接单。",
       "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，信息具体含日期、平台和优化细节，逻辑清晰。"
+      "credibilityReason": "来源为知名科技媒体36氪，内容具体且引用新浪财经，信息逻辑清晰。"
     },
     {
-      "title": "三星首款 AI 眼镜 Galaxy Glasses 爆料：1200 万摄像头、光致变色镜片",
-      "link": "https://www.ithome.com/0/972/090.htm",
-      "pubDate": "Fri, 03 Jul 2026 03:29:55 GMT",
-      "contentSnippet": "IT之家 7 月 3 日消息，科技媒体 Android Authority 昨日（7 月 2 日）发布博文，分享了一段渲染视频，展示了三星首款 AI 眼镜 Galaxy Glasses，其整体风格接近于 Meta x Ray-Ban 智能眼镜。\nIT之家附上演示视频如下：\n\n外观方面，三星 Galaxy Glasses 采用简约镜框，大部分元件集中在厚镜腿部分，整体佩戴体验更接近于传统太阳镜。\n\n系统方面，三星 Galaxy Glasses 运行谷歌 Android XR 系统，并深度集成谷歌的 Gemini AI 模型，核心功能围绕免提 AI 交互展开，包括拍照、录像、语音问答、实时翻译、音",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "三星首款AI眼镜Galaxy Glasses曝光，采用1200万摄像头和光致变色镜片。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，内容具体有细节，但缺乏原始出处和官方确认。"
-    },
-    {
-      "title": "阿里达摩院：AI 智能体发现 4 种全新超导材料，已获实验验证",
-      "link": "https://www.ithome.com/0/972/089.htm",
-      "pubDate": "Fri, 03 Jul 2026 03:27:15 GMT",
-      "contentSnippet": "IT之家 7 月 3 日消息，阿里达摩院通过公众号宣布，7 月 3 日（今天），阿里达摩院联合中国人民大学、中国科学院大学等发布首个超导材料发现 AI 智能体 Elements Claw，预测出 6.8 万个可能的超导材料，其中 4 种全新材料已合成并证实存在超导性。相关数据已全部开放。\n\n目前，国际主流超导数据库 SuperCon 历经数十年积累，仅收录约 2000 种材料。为此，阿里达摩院发挥 AI for Science 技术优势，联合中国人民大学、中国科学院大学等机构研发 ElementsClaw，不仅可预测材料是否具有超导性，更能像人类材料学家一样查阅文献、评估合成可行性、设计实验方",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "阿里达摩院AI发现4种全新超导材料，已获实验验证。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源知名科技媒体，信息具体有数据支撑，但缺少独立验证。"
-    },
-    {
-      "title": "育碧新作《刺客信条：黑旗 记忆重置》预载时间公布：PC 版 7 月 7 日晚 10 点开始",
-      "link": "https://www.ithome.com/0/972/083.htm",
-      "pubDate": "Fri, 03 Jul 2026 03:25:02 GMT",
-      "contentSnippet": "IT之家 7 月 3 日消息，育碧官方今天公布了《刺客信条：黑旗 记忆重置》游戏的详细信息。\n\nIT之家附《刺客信条：黑旗 记忆重置》游戏各版本预载 / 解锁时间（以下均为北京时间）：\n预载：\n\nXbox Series X|S：现已开启\n\nPS5：7 月 7 日上午 8 点整\n\nPC（Steam、Epic、Ubiconnect）：7 月 7 日晚 22 点整\n\n解锁：\n\n主机：7 月 9 日 00:00\n\nPC（Steam、Epic、Ubiconnect）：7 月 9 日晚 22 点整\n\n\nIT之家注意到，《刺客信条：黑旗 记忆重置》在 Steam 平台还将完整支持成就、集换式卡牌、徽章及个人",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "育碧公布《刺客信条：黑旗 记忆重置》预载和解锁时间。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自IT之家，信息具体且逻辑清晰，但缺少官方原始链接。"
-    },
-    {
-      "title": "国产 AI 算力革命，走向「让子弹飞」时刻",
-      "link": "https://www.tmtpost.com/8051440.html",
-      "pubDate": "Fri, 03 Jul 2026 11:25:00 +0800",
-      "contentSnippet": "道阻且长，行则能至。",
+      "title": "阿维塔二次递表，有三个价值锚点被低估了",
+      "link": "https://www.tmtpost.com/8052616.html",
+      "pubDate": "Sat, 04 Jul 2026 11:03:57 +0800",
+      "contentSnippet": "阿维塔二次递表，市场还有三笔账没算明白",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -169,16 +118,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国产AI算力发展进入关键突破期，前景可期。",
+      "aiSummary": "阿维塔二次递表，市场低估其三个价值锚点。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源钛媒体为知名科技媒体，内容有行业分析，但缺乏具体数据支撑。"
+      "credibilityReason": "来自知名科技媒体，内容具体但缺少数据支撑和原始出处。"
     },
     {
-      "title": "游戏在巨头面前彻底“失宠”了？",
-      "link": "https://www.tmtpost.com/8051431.html",
-      "pubDate": "Fri, 03 Jul 2026 11:22:51 +0800",
-      "contentSnippet": "游戏行业正在失去光环。",
+      "title": "24岁斯坦福天才，冲刺“国产DPU第一股”，腾讯是第一大股东",
+      "link": "https://www.tmtpost.com/8052654.html",
+      "pubDate": "Sat, 04 Jul 2026 11:03:54 +0800",
+      "contentSnippet": "云豹智能冲刺创业板IPO。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -186,16 +135,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "分析游戏行业在科技巨头中吸引力下降的趋势。",
+      "aiSummary": "云豹智能冲刺创业板，24岁斯坦福天才创办，腾讯为第一大股东。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体，内容具体但缺乏数据支撑和原始出处。"
+      "credibilityReason": "来源为知名科技媒体钛媒体，内容具体但缺少技术细节和原始出处。"
     },
     {
-      "title": "股价跌幅达59.71%，港股创新药公司药捷安康遭遇“滑铁卢”了？",
-      "link": "https://www.tmtpost.com/8051433.html",
-      "pubDate": "Fri, 03 Jul 2026 11:22:34 +0800",
-      "contentSnippet": "一次“合法合规”的市值屠杀。",
+      "title": "阿里禁用Anthropic全系产品：不是保守排外，而是理性风控决策",
+      "link": "https://www.tmtpost.com/8052766.html",
+      "pubDate": "Sat, 04 Jul 2026 11:03:53 +0800",
+      "contentSnippet": "你怎么看？",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -203,16 +152,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "药捷安康股价暴跌59.71%，钛媒体分析其市值蒸发原因。",
+      "aiSummary": "阿里禁用Anthropic产品，称是理性风控而非保守排外。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体但缺乏原始数据支撑。"
+      "credibilityReason": "来自知名科技媒体钛媒体，内容具体且逻辑清晰，但缺乏技术细节和原始数据支撑。"
     },
     {
-      "title": "沪深两市成交额突破2万亿",
-      "link": "https://36kr.com/newsflashes/3879353568194568?f=rss",
-      "pubDate": "2026-07-03 11:22:31  +0800",
-      "contentSnippet": "36氪获悉，沪深两市成交额突破2万亿。",
+      "title": "WPS：整改之后，才是大考",
+      "link": "https://www.tmtpost.com/8052708.html",
+      "pubDate": "Sat, 04 Jul 2026 11:03:51 +0800",
+      "contentSnippet": "WPS因C盘占用和会员权益问题面临信任危机，用户怨气集中爆发，体验与技术之间出现裂痕。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "WPS信任危机后整改，面临用户与市场大考。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体，内容具体分析问题，但缺乏数据支撑。"
+    },
+    {
+      "title": "国家统计局发布2026年6月下旬流通领域重要生产资料市场价格变动情况",
+      "link": "https://36kr.com/newsflashes/3880713984782601?f=rss",
+      "pubDate": "2026-07-04 11:00:17  +0800",
+      "contentSnippet": "36氪获悉，7月4日，国家统计局发布2026年6月下旬流通领域重要生产资料市场价格变动情况。据对全国流通领域9大类50种重要生产资料市场价格的监测显示，2026年6月下旬与6月中旬相比，13种产品价格上涨，34种下降，3种持平。",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -220,33 +186,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "沪深两市成交额突破2万亿，市场活跃。",
-      "credibilityScore": 85,
+      "aiSummary": "国家统计局发布6月下旬生产资料价格变动，13涨34降3平。",
+      "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体36氪，信息具体且有时效性。"
+      "credibilityReason": "来源为国家统计局权威数据，36氪转载信息具体且客观。"
     },
     {
-      "title": "腾讯游戏暑期未保行动：每周限玩3小时",
-      "link": "https://36kr.com/newsflashes/3879352352731139?f=rss",
-      "pubDate": "2026-07-03 11:21:16  +0800",
-      "contentSnippet": "36氪获悉，7月3日，腾讯游戏发布“2026年暑期未成年人保护专项行动”，每周限玩3小时，升级“AI双引擎防沉迷”模式：游戏外，成长守护焕新AI版本，接入腾讯混元与DeepSeek双模型，家长可通过对话式交互完成信息查询与账号管控，提升管理便捷度；游戏内，健康系统推出AI巡航功能，内置“AI守卫”，基于玩家行为进行动态风险分级，并在人脸识别基础上，新增声纹检测、年龄识别等多模态验证，实现全链路干预，提高冒用、代过门槛。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "腾讯游戏暑期未成年人保护行动，每周限玩3小时，升级AI防沉迷。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪知名媒体，信息具体有技术细节，逻辑清晰，可信度高。"
-    },
-    {
-      "title": "英伟达 RTX 5080 公版显卡将在 BW2026 限量发售，8299 元",
-      "link": "https://www.ithome.com/0/972/080.htm",
-      "pubDate": "Fri, 03 Jul 2026 03:20:09 GMT",
-      "contentSnippet": "IT之家 7 月 3 日消息，英伟达今日官宣，7 月 10 日 ~7 月 12 日，GeForce RTX 超级玩家体验站将以“神秘造型”登陆 BilibiliWorld 2026 上海国家会展中心 5.1H - 5A25 展位。\n\nGeForce RTX 5080 公版显卡将于现场限量发售，售价 8299 元。\n\n此外，RTX Spark 笔记本和桌面主机也将亮相 BilibiliWorld 2026。\n\nIT之家从活动介绍获悉，现场购买 RTX 5080 公版显卡需要先获取必购券，获取途径包括在线预约、现场打卡、合作游戏展台互动。",
+      "title": "《对马岛之魂》全新动画《冥人奇谭》细节公布：水野贵信担任导演，三名角色视觉图公开",
+      "link": "https://www.ithome.com/0/972/509.htm",
+      "pubDate": "Sat, 04 Jul 2026 02:55:58 GMT",
+      "contentSnippet": "IT之家 7 月 4 日消息，由《对马岛之魂》线上模式《Legends／冥人奇谭》改编的全新动画《对马岛之魂：冥人奇谭》细节今天公开，本片将由水野贵信担任导演，动画制作则由神风动画（IT之家注：曾制作《JOJO 的奇妙冒险》《POP TEAM EPIC》等）负责。\n\n据介绍，本片将由 Aniplex 与 Crunchyroll 共同出资，并由双方设立的新公司 HAYATE 负责企划与制作。虚渊玄与前岛贤共同负责剧本创作，冈崎能士担任角色设计。与此同时，官方还公开了刺客、弓手、浪人三位角色的视觉图。\n\n\n\n作为参考，《对马岛之魂》是一款由 Sucker Punch Productions 开发制",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -254,10 +203,61 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "英伟达RTX 5080公版显卡将在BW2026限量发售，售价8299元。",
+      "aiSummary": "《对马岛之魂》动画《冥人奇谭》细节公布，水野贵信导演，神风动画制作。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有细节，但缺乏原始出处链接。"
+    },
+    {
+      "title": "宫本茂：任天堂将继续拓展 IP，触达游戏外更多人群",
+      "link": "https://www.ithome.com/0/972/508.htm",
+      "pubDate": "Sat, 04 Jul 2026 02:50:33 GMT",
+      "contentSnippet": "IT之家 7 月 4 日消息，在 2026 年 6 月发布的投资者问答英文稿中，任天堂执行董事宫本茂表示公司希望进一步扩大知识产权（IP）触达人群，计划在游戏之外，通过电影等各种形式扩展角色。\n在最新投资者问答稿中，任天堂董事会收到 19 个提问，其中第 14 问聚焦“扩大接触任天堂 IP 人群”的长期战略，涉及通过电影、主题公园、非游戏产品等扩展游戏 IP。\nIT之家翻译相关内容如下：\n\nQ14：关于“扩大可接触任天堂 IP 的人群数量”这一基本战略，任天堂如何看待迄今为止所采取的举措，以及未来将如何发展这一战略？\n宫本茂：十五年来，我一直与当时的社长岩田聪先生探讨任天堂的未来发展方向。起初",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "宫本茂称任天堂将拓展IP至电影等非游戏领域",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，内容引用官方投资者问答，信息具体且逻辑清晰"
+    },
+    {
+      "title": "史上最强的 MacBook 要来了，苹果要 All in AI",
+      "link": "https://www.ifanr.com/1670819?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pubDate": "Sat, 04 Jul 2026 02:43:11 +0000",
+      "contentSnippet": "近 5 年 MacBook Pro 最大升级即将到来\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "sourceName": "爱范儿",
+      "sourceWeight": 82,
+      "allSources": [
+        "爱范儿"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "苹果将推出史上最强MacBook，全面投入AI领域。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，信息具体且有官方活动细节，但缺乏技术参数和原始出处。"
+      "credibilityReason": "来自知名科技媒体爱范儿，内容具体但缺乏数据支撑。"
+    },
+    {
+      "title": "7-11起诉耐克 指控其新鞋配色抄袭7-11标志性颜色",
+      "link": "https://36kr.com/newsflashes/3880710005256451?f=rss",
+      "pubDate": "2026-07-04 10:41:06  +0800",
+      "contentSnippet": "据报道，跨国连锁零售公司7-Eleven（7-11）已在美国得克萨斯州联邦法院起诉运动品牌耐克，指控该公司计划于7月11日推出的运动鞋抄袭了7-11便利店标志性的橙、绿���红三色条纹设计。7-11在2日向法院提交的诉状中称，耐克即将推出的Air Max 95运动鞋采用的颜色与7-11品牌商标极易混淆，消费者会将该设计与7-11品牌联系起来。此外，耐克将该运动鞋的发售日期定为7月11日，这一天恰逢该零售商一年一度的促销活动。（财联社）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "7-11起诉耐克，指控其新鞋配色抄袭标志性颜色。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体36氪，内容具体且有原始出处（财联社），信息清晰。"
     }
   ]
 }
