@@ -1,66 +1,14 @@
 {
-  "generatedAt": "2026-07-05T03:51:22.049Z",
+  "generatedAt": "2026-07-06T03:58:38.628Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "加速走向全球，今年前5个月我国机器人出口近200亿元",
-      "link": "https://36kr.com/newsflashes/3882054748090626?f=rss",
-      "pubDate": "2026-07-05 09:10:18  +0800",
-      "contentSnippet": "今年以来，我国机器人出口规模持续扩大，品类结构不断优化，为高端制造出海注入新动能。据海关统计，今年前5个月，国产机器人加速走向全球。各类单独列名的机器人合计出口1037.7万台，出口总值达199.9亿元，产品远销全球150多个国家和地区。其中，欧盟和东盟为主要出口目的地。从细分品类看，我国机器人出口已形成多元矩阵格局。清洁机器人领跑全品类，出口额达140亿元，占机器人出口总值的七成以上。依托自主导航、自动集尘、智能污水循环等核心技术，国产清洁机器人精准匹配海外差异化的居住环境，优势显著。在工业应用赛道，前5个月国产工业机器人出口约7万台，海外落地场景持续拓展。搭载视觉识别与智能算法的搬运机器人",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪",
-        "IT之家"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "今年前5月我国机器人出口近200亿元，清洁机器人领跑。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，数据具体且有海关统计支撑，逻辑清晰。（多源覆盖 +5）"
-    },
-    {
-      "title": "是亮剑也是突破：我国东风-5 洲际导弹首射历史影像公开",
-      "link": "https://www.ithome.com/0/972/698.htm",
-      "pubDate": "Sun, 05 Jul 2026 00:37:41 GMT",
-      "contentSnippet": "IT之家 7 月 5 日消息，没有硬核能力，就没有真正的国家安全主动权。据央视新闻报道，1980 年，在技术封锁、外部禁运层层施压的环境下，我国第一型洲际弹道导弹全程试验成功发射。\n \n在央视《砺剑壮歌》 第 2 集“大国剑锋”节目中，东风-5 洲际导弹首射历史影像公开。据介绍，这一次导弹发射，是一次亮剑，也是一次突破。但那时的战略导弹部队，根基还很薄弱，技术落后、流程复杂。\n\nIT之家注：东风-5 洲际导弹是中国人民解放军火箭军装备的一型洲际弹道导弹，全长 32.6 米，弹径 3.35 米，起飞重量 183 吨，采用二级液体燃料火箭发动机，最大射程 12000 千米，命中精度 500 米。东",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "我国东风-5洲际导弹1980年首射历史影像公开",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容基于央视报道，技术参数具体"
-    },
-    {
-      "title": "小鹏 CEO 何小鹏：辅助驾驶中国走在全球前面，L2 级将加速出海",
-      "link": "https://www.ithome.com/0/972/660.htm",
-      "pubDate": "Sat, 04 Jul 2026 13:47:54 GMT",
-      "contentSnippet": "IT之家 7 月 4 日消息，据第一财经报道，小鹏汽车董事长、CEO 何小鹏接受采访时表示，“我认为中国的辅助驾驶，无论是企业的技术产品，还是相关法律法规的制定，都走在全球前面。”\n何小鹏称，过去只有中国和美国真正实现了 L2 级辅助驾驶的大规模落地，包括欧盟在内的全球大部分地区尚未跟进。\n据IT之家此前报道，6 月 25 日，由我国牵头制定，联合国自动驾驶系统全球技术法规获批发布。何小鹏对此表示，“这意味着今年 12 月起，NGP、NOA 等 L2 级驾驶辅助功能可以在全球范围内使用和落地，这是一个非常重要的节点。”\n何小鹏坦言，他一直期待公司的技术架构能够走向世界，但在全球推广辅助驾驶面临",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "何小鹏称中国辅助驾驶领先全球，L2级将加速出海。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家，引用第一财经报道，内容具体且有法规依据，但缺乏技术细节和独立验证。"
-    },
-    {
-      "title": "宁德时代与北京绿交所等签署战略合作协议",
-      "link": "https://36kr.com/newsflashes/3881011627258116?f=rss",
-      "pubDate": "2026-07-04 16:07:03  +0800",
-      "contentSnippet": "近日，宁德时代与北京绿色交易所、宁德交投集团、宁波亿衡碳签署战略合作协议。其中，宁德时代与北京绿交所将围绕碳减排方法学开发、供应链绿色金融创新以及国际绿色规则对接进行深度合作，助力产业高质量发展。（人民财讯）",
+      "title": "南向资金净买入额达100亿港元",
+      "link": "https://36kr.com/newsflashes/3883634140033281?f=rss",
+      "pubDate": "2026-07-06 11:56:56  +0800",
+      "contentSnippet": "36氪获悉，截至目前，南向资金净买入额达100亿港元。",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -68,67 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "宁德时代与北京绿交所等合作，聚焦碳减排与绿色金融。",
-      "credibilityScore": 85,
+      "aiSummary": "南向资金当日净买入达100亿港元",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体且有原始出处（人民财讯），信息清晰。"
+      "credibilityReason": "来源36氪为知名科技财经媒体，信息具体但缺乏数据来源和上下文"
     },
     {
-      "title": "高温催生制冷刚需，中国品���空调海外热销",
-      "link": "https://36kr.com/newsflashes/3882209832120585?f=rss",
-      "pubDate": "2026-07-05 11:48:03  +0800",
-      "contentSnippet": "今年夏天 ，受厄尔尼诺事件影响，欧洲频繁出现极端高温天气，给民众的生活带来困扰，但受老式建筑保护法规、人工成本高昂、安装资源紧缺等因素影响，欧洲空调的家庭保有率仅约20%。高温引发的空调需求集中爆发，多个中国品牌空调在欧洲销量迎来明显上涨。其中，易安装空调成为主流选择。（央视新闻）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国空调因欧洲高温热销，易安装型号成主流。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体且有央视新闻原始出处。"
-    },
-    {
-      "title": "今年我国电影全产业链产值超2000亿元",
-      "link": "https://36kr.com/newsflashes/3882206933709058?f=rss",
-      "pubDate": "2026-07-05 11:45:06  +0800",
-      "contentSnippet": "7月5日消息，2026年暑期消费市场活力涌动，“光影经济”亮眼出圈。在这个“电影的夏天”，超90部类型丰富的影片集中上映，持续点燃大众观影热情。一张小票根连接文旅、商圈、餐饮等多元业态，影院商圈 “双向引流”，观影流量拉动消费增量。今年我国电影全产业链产值已超2000亿元。为持续释放行业动能，国家电影局、市场监管总局出台新规，支持影院业态融合、特色化经营与视听技术升级，推动传统放映厅向沉浸式综合文化空间迭代。内容供给、产业联动、政策赋能多重红利叠加，持续为暑期消费市场注入强劲新活力。（央视财经）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "我国电影全产业链产值今年已超2000亿元，政策推动业态融合。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为36氪转载央视财经，信息具体有数据支撑，逻辑清晰。"
-    },
-    {
-      "title": "超520亿元资金，撤离9只科技股",
-      "link": "https://36kr.com/newsflashes/3882205411373062?f=rss",
-      "pubDate": "2026-07-05 11:43:33  +0800",
-      "contentSnippet": "最近一周（6月29日—7月3日），A股市场表现分化，低位板块崛起，高位科技板块调整，5个交易日成交额合计超17万亿元。行业板块中，医药生物、美容护理、汽车行业领涨。资金层面，当周主力资金大幅流出高位科技股，天孚通信、兆易创新、京东方A、中际旭创、东山精密、深科技、香农芯创、德明利、江波龙主力资金合计净流出超520亿元。（中国证券报）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "A股科技股遭主力资金撤离，一周净流出超520亿元",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，引用中国证券报数据，信息具体有数据支撑"
-    },
-    {
-      "title": "电弹已就位、阻拦索已安装！我国 076 型两栖攻击舰“四川舰”最新进展公布",
-      "link": "https://www.ithome.com/0/972/725.htm",
-      "pubDate": "Sun, 05 Jul 2026 03:37:41 GMT",
-      "contentSnippet": "IT之家 7 月 5 日消息，我国 076 型两栖攻击舰 —— 四川舰已于 2024 年 12 月 27 日下水，2025 年 11 月完成首次航行试验。\n\n据央视新闻最新公布，如今，四川舰甲板已划线，电弹已就位，阻拦索已安装。未来已来，静候佳音！值得一提的是，这也是四川舰甲板划线后首次公开亮相。\n\n综合IT之家此前报道，四川舰外观上最引人注目的设计是其独特的双舰岛式上层建筑和全纵通飞行甲板。传统的单舰岛设计在功能划分上存在一定限制，而四川舰采用的双舰岛设计，实现了前舰岛专注于航行指挥和编队协同，后舰岛则专门负责航空管制，包括无人机、直升机及友舰战机的指挥调度。\n\n四川舰最核心的技术亮点在于其",
+      "title": "华为官宣万茜成为天生会画品牌大使",
+      "link": "https://www.ithome.com/0/972/981.htm",
+      "pubDate": "Mon, 06 Jul 2026 03:54:55 GMT",
+      "contentSnippet": "IT之家 7 月 6 日消息，华为终端今日宣布，万茜成为华为天生会画的品牌大使。\n\n2024 年 4 月，华为发布天生会画 App，这款应用主要围绕华为鸿蒙平板电脑等设备优化，号称能够打造平板的“真实数字创作体验”。华为天生会画 App 正式版预置超 150 款笔刷，拥有 80 种以上笔刷参数可调。同时新增拟真画布风格，包括水彩、水墨、油画、岩彩等。\n在今年 6 月举行的华为开发者大会 HDC 2026 上，华为终端平板与 PC 产品线总裁朱懂东谈起了华为做大型应用工具软件背后的原因，他坦言就是因为没找到合适能做的，所以华为只能自己做了。\n\n朱懂东提到，华为每年几千万的投资砸下去，天生会画还会",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -136,16 +33,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "我国076型两栖攻击舰四川舰完成电弹和阻拦索安装，甲板划线后首次公开亮相。",
+      "aiSummary": "华为官宣万茜为天生会画品牌大使，该应用已预置超150款笔刷。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，引用央视新闻，内容具体且逻辑清晰。"
+      "credibilityReason": "来自知名科技媒体IT之家，信息具体且有官方宣布和产品细节。"
     },
     {
-      "title": "丰田将借助 AI 把各部门 4.5 万个专业术语精简至 5000 个，以提升生产效率",
-      "link": "https://www.ithome.com/0/972/724.htm",
-      "pubDate": "Sun, 05 Jul 2026 03:37:27 GMT",
-      "contentSnippet": "IT之家 7 月 5 日消息，据日经亚洲报道，丰田汽车将统一企划、生产、销售各部门规格清单的专用术语，削减 30% 中间流程，为更快地生产汽车铺平道路。\n\n据IT之家了解，丰田各部门对零部件规格的叫法各不相同：企划部门标注为“A1AC 无音响配置”的配件，在生产系统中可能录入代码“136S”；同一款零部件，会根据车型、生产工序出现多种不同表述。从车型企划到车辆交付销售的全流程里，共有 195 道工序（约占总流程三成）需要跨部门术语转译。\n丰田正在搭建一套覆盖企划至销售全链路的一体化系统，计划 2028 年前实现各部门项目协同。这套总控系统将搭载人工智能，把分散在各部门的 4.5 万个专业术语精",
+      "title": "GTA 6 没有杀死实体游戏，因为它已经死了",
+      "link": "https://www.ifanr.com/1669985?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pubDate": "Mon, 06 Jul 2026 03:53:32 +0000",
+      "contentSnippet": "实体游戏，将何去何从？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "sourceName": "爱范儿",
+      "sourceWeight": 82,
+      "allSources": [
+        "爱范儿"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "GTA 6 未终结实体游戏，因其早已式微。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体爱范儿，观点明确但缺乏具体数据支撑。"
+    },
+    {
+      "title": "CHERRY 推出《蔚蓝档案》联名“爱丽丝游戏时光”主题外设",
+      "link": "https://www.ithome.com/0/972/975.htm",
+      "pubDate": "Mon, 06 Jul 2026 03:51:47 GMT",
+      "contentSnippet": "IT之家 7 月 6 日消息，CHERRY（樱桃）现已推出《蔚蓝档案》联名“爱丽丝游戏时光”主题外设，包括无线机械键盘、无线鼠标、桌垫。\n\n其中联名键盘基于 MX3.0S WIRELESS 打造，配备 MX Lumina 红轴，拥有阳极氧化铝制外壳，配备整套爱丽丝主题键帽，随附像素风爱丽丝替换键帽和游戏开发部主题 3D 键帽特典。\n\n联名鼠标则基于 MW5500 PRO，配备了先进的原相 PAW3955 光学传感器，三维 119×61×38 (mm)，质量 62g，无线模式支持 8kHz 回报率，随附爱丽丝限定闪底徽章特典。\n\n“爱丽丝游戏时光”桌垫三维 900×400×4 (mm)，表面采用",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -153,68 +67,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "丰田计划用AI将4.5万个专业术语精简至5000个，提升生产效率。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，引用日经亚洲报道，信息具体且有数据支撑。"
-    },
-    {
-      "title": "港科大牵头研制的“天韵相机”上岗，神舟二十三乘组在轨工作报告上新",
-      "link": "https://www.ithome.com/0/972/723.htm",
-      "pubDate": "Sun, 05 Jul 2026 03:32:26 GMT",
-      "contentSnippet": "IT之家 7 月 5 日消息，据央视新闻今天报道，在 400 公里外的中国空间站内，“神舟二十三号”乘组成员朱杨柱、张志远、黎家盈正在有序推进各项在轨任务。\n\n据报道，三名航天员从上周开始与地面科研人员协作，完成“天韵相机”舱内组装、测试及出舱安装任务。据悉，“天韵相机”此前随天舟十号货运飞船上行到中国空间站，这也是首个登上国家空间站的香港科学载荷。\n“天韵相机”是全球首款轻小型、高分辨率二氧化碳与甲烷点源协同探测仪。它能够从距离地面约 400 公里的太空轨道，对全球温室气体排放源进行高精度成像，精准定位排放位置并量化排放强度，清晰掌握谁在排放、排放了多少。\nIT之家注：天韵相机全称 Mult",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "港科大研制天韵相机在空间站上岗，用于温室气体监测。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家可信，引用央视新闻，技术细节具体，逻辑清晰。"
-    },
-    {
-      "title": "华为：截至目前，搭载乾崑智驾的车辆已超过 190 万辆",
-      "link": "https://www.ithome.com/0/972/722.htm",
-      "pubDate": "Sun, 05 Jul 2026 03:24:08 GMT",
-      "contentSnippet": "IT之家 7 月 5 日消息，工信部在 7 月 2 日正式发布《智能网联汽车组合驾驶辅助系统安全要求》（GB 47955—2026）强制性国家标准，拟于 2027 年 1 月 1 日起正式实施。\n\nIT之家注意到，华为乾崑智能汽车解决方案官方微博发布长文，谈及了《智能网联汽车组合驾驶辅助系统安全要求》。\n据介绍，工信部相关数据显示，2026 年以来，我国搭载组合驾驶辅助功能的乘用车新车市场渗透率达到 70%，配备领航驾驶辅助功能的车型渗透率超过 30%。截至目前，搭载华为乾崑智驾的车辆已超过 190 万辆，累计辅助驾驶行驶里程超过 120 亿公里。\n\n根据推算，中国市场车辆平均每 180 万公",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "华为称搭载乾崑智驾车辆超190万辆，行驶里程超120亿公里",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，引用工信部数据和华为官方微博，信息具体且有出处"
-    },
-    {
-      "title": "AYANEO：Pocket PLAY 手机项目仍在调优改进，将继续加快开发进程",
-      "link": "https://www.ithome.com/0/972/720.htm",
-      "pubDate": "Sun, 05 Jul 2026 03:15:28 GMT",
-      "contentSnippet": "IT之家 7 月 5 日消息，AYANEO 在 7 月 3 日晚举行了新一期产品分享会，介绍了多款已公布产品的最新进展，同时带来近期新品预告。\n\nIT之家注意到，在此次 AYANEO 产品分享会上，官方还提及了 Pocket PLAY 手机项目。AYANEO 官方表示，项目整体研发进展顺利，团队仍在不断打磨产品细节、调优改进，同时也将继续加快开发进程。\n\n目前 Pocket PLAY 项目整体研发进展顺利，但为了坚持品牌一直以来精益求精的产品理念，团队仍在不断打磨产品细节。从配色方案优化，到滑轨结构调校；从触控板手感提升，到摄像头调校、信号优化以及整机散热控制，每一个细节都在持续完善，只希望最",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家",
-        "钛媒体"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "AYANEO称Pocket PLAY手机研发顺利，正调优细节加快开发。",
+      "aiSummary": "CHERRY推出《蔚蓝档案》联名外设，含键盘、鼠标和桌垫。",
       "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体但缺乏技术细节和原始出处。（多源覆盖 +5）"
+      "credibilityReason": "IT之家为知名科技媒体，内容具体有产品细节，逻辑清晰。"
     },
     {
-      "title": "消息称荣耀 MagicOS 七月系统升级将解除 Magic UI + 华为电脑管家时代投屏 60FPS 限制",
-      "link": "https://www.ithome.com/0/972/719.htm",
-      "pubDate": "Sun, 05 Jul 2026 03:01:15 GMT",
-      "contentSnippet": "IT之家 7 月 5 日消息，博主 @睿哥玩数码 今日发文透露，荣耀 MagicOS 七月系统升级有个非常厉害的技术落地，解决了一个从分家以来就一直遗留的待优化细节，创造了一个新的行业首发。\n据其透露，升级新版本后，荣耀智慧互联屏幕共享将新增 120FPS 高刷投屏，解除了 Magic UI + 华为电脑管家时代投屏 60FPS 的限制。\n\n有网友询问手机 + 平板是否也支持该新特性。博主回复称：“一样的，行业首发三端 120FPS 投屏。”\n目前，荣耀 MagicOS 七月更新内容已曝光。据介绍，荣耀 MagicOS 本月将带来动态图片水印拍摄、TOP 级游戏应用分身等功能。\n另外，Magi",
+      "title": "SpaceX 半年内销毁 260 颗星链卫星，引环保担忧",
+      "link": "https://www.ithome.com/0/972/970.htm",
+      "pubDate": "Mon, 06 Jul 2026 03:48:13 GMT",
+      "contentSnippet": "IT之家 7 月 6 日消息，SpaceX 本月上旬向美国联邦通信委员会（FCC）提交了半年度报告，报告中证实：2025 年 12 月至 2026 年 5 月期间，该公司处置了 260 颗星链卫星，通过受控再入地球大气层的方式，让卫星在大气层中完全汽化销毁。报告显示，这 260 颗卫星里有 176 颗属于第一代星链卫星星座，剩余均为第二代卫星。在这六个月内，另有 349 颗卫星完成退役流程，将在未来数月内陆续销毁。\n\n撰写本报告时，星链在轨卫星总数已超一万颗，构成庞大卫星星座；与此同时，公司还在推进星链直连手机卫星互联网项目。但每颗卫星设计寿命仅约 5 年，这是刻意设定的方案，方便后续迭代更换",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -222,44 +84,180 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "荣耀MagicOS七月升级将解除投屏60FPS限制，新增120FPS高刷投屏。",
-      "credibilityScore": 70,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，信息具体且有博主引用，但缺乏官方确认。"
-    },
-    {
-      "title": "国安部披露：外包运维人员下载核心科研数据提供给间谍被抓，合规要求不能松懈",
-      "link": "https://www.ithome.com/0/972/718.htm",
-      "pubDate": "Sun, 05 Jul 2026 02:57:55 GMT",
-      "contentSnippet": "IT之家 7 月 5 日消息，据“国家安全部”公众号今日发文，随着数字政务、智慧办公深入推进，越来越多单位开始选择第三方外包服务，开展系统运维、数据归集、信息整理、平台保障等工作。\n但在实际过程中，个别单位和个人存在监管弱化、思想松懈等问题，简单将业务、数据、权限一并交给服务承包商，当起“甩手掌柜”。这种缺乏有效监管的粗放模式，可能引发系统性安全风险。\n\n近年来，国家安全机关及有关部门先后通报多起“数据外包”失泄密的典型案件，暴露出部分单位重业务推进、轻安全管控，重服务效率、轻风险防范的问题，IT之家附具体案例如下：\n\n案例一：国家安全机关工作发现，某科研单位将实验数据库运维外包给第三方企业，",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国安部披露外包运维人员窃取核心科研数据给间谍，强调合规要求。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为国家安全部官方公众号，内容具体有案例支撑，权威性高。"
-    },
-    {
-      "title": "投资 25 万亿韩元，三星 SDI 扩产全固态、钠电池",
-      "link": "https://www.ithome.com/0/972/717.htm",
-      "pubDate": "Sun, 05 Jul 2026 02:50:24 GMT",
-      "contentSnippet": "IT之家 7 月 5 日消息，据 The Elec 报道，三星 SDI 将向其蔚山、天安两大生产基地合计投资 25 万亿韩元（IT之家注：现汇率约合 1100.75 亿元人民币），扩产下一代电池。\n\n该企业于 7 月 3 日披露了此项计划；此前一日，其刚宣布将向天安厂区投资 9 万亿韩元，本次再向蔚山制造园区投入 16 万亿韩元。\n蔚山与天安两地的投资周期长达 14 年，资金投放将持续至 2040 年。\n蔚山工厂将通过建设全固态电池、储能系统（ESS）用磷酸铁锂（LFP）电池以及钠离子电池的量产产线，发展成为三星 SDI 下一代电池的核心生产基地。\n三星 SDI 计划于明年下半年实现全固态电池",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "三星SDI投资25万亿韩元扩产全固态、钠电池等下一代电池",
+      "aiSummary": "SpaceX半年销毁260颗星链卫星，引发环保担忧。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，引用The Elec报道，信息具体有数据支撑"
+      "credibilityReason": "来源IT之家可信，引用FCC报告，数据具体，逻辑清晰。"
+    },
+    {
+      "title": "转向手感也可以 OTA：东风首款自主线控转向系统进入量产倒计时",
+      "link": "https://www.ithome.com/0/972/969.htm",
+      "pubDate": "Mon, 06 Jul 2026 03:47:34 GMT",
+      "contentSnippet": "IT之家 7 月 6 日消息，据东风汽车研发总院分享，东风首款搭载自主线控转向（SBW）系统的量产车型近日正式通过工信部公告，宣告这一技术已满足国家法规准入要求，为批量投产铺平了道路。\n\n据介绍，转向系统“线控化”，意味着方向盘与车轮之间的机械连接束缚彻底解除。转向指令完全由电信号传递，转向手感、响应特性甚至未来新功能，都可以通过 OTA 远程升级，像手机系统一样持续更新优化。\n线控转向是继机械、液压、电液、电动助力之后的第五代转向技术。它彻底取消方向盘与车轮间的机械连接，依靠电信号传递转向指令、重构转向手感。IT之家附优势如下：\n\n\n电信号传输速度远超机械传动，转向系统响应延迟低于 40ms",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "东风自主线控转向系统获工信部公告，支持OTA升级转向手感。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，内容具体有技术细节和官方出处，但缺乏独立验证。"
+    },
+    {
+      "title": "富国基金换帅完成工商变更",
+      "link": "https://36kr.com/newsflashes/3883610741174535?f=rss",
+      "pubDate": "2026-07-06 11:41:00  +0800",
+      "contentSnippet": "36氪获悉，天眼查App显示，近日，富国基金管理有限公司发生工商变更，裴长江卸任法定代表人、董事长，陈戈接任法定代表人，王苏龙接任董事长。该公司成立于1999年4月，注册资本5.2亿人民币，经营范围为公开募集证券投资基金管理、基金销售、特定客户资产管理，由国泰海通证券股份有限公司、申万宏源证券有限公司、加拿大蒙特利尔银行、山东省金融资产管理股份有限公司共同持股。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "富国基金完成法定代表人及董事长工商变更",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体36氪，信息具体有数据支撑，引用天眼查工商信息"
+    },
+    {
+      "title": "荣耀 WIN 游戏本 H9 三角洲行动职业赛事联名款外观公布，7 月 10 日全球限量开售",
+      "link": "https://www.ithome.com/0/972/963.htm",
+      "pubDate": "Mon, 06 Jul 2026 03:38:15 GMT",
+      "contentSnippet": "IT之家 7 月 6 日消息，荣耀 WIN 游戏本 H9 三角洲行动职业赛事联名款已定档 7 月 10 日发售。荣耀官方今日公布了这款笔记本的外观。\n\n画面显示，荣耀 WIN 游戏本 H9 三角洲行动职业赛事联名款采用 A 面专属浮雕设计，金属机身镌刻经典战斗道具和战术地图。\n另外，这款新笔记本搭载了 RTX 5070 显卡 +300Hz 高刷护眼屏，并配备荣耀东风尾喷散热引擎。\n\n参考IT之家此前报道，今年 4 月发布的荣耀 WIN 游戏本 H9 至高配备英特尔酷睿 Ultra 9 处理器 290HX Plus 和 NVIDIA GeForce RTX 5070 Ti 笔记本电脑 GPU，拥",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "荣耀WIN H9联名款外观公布，7月10日限量发售。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家是知名科技媒体，内容具体有产品细节，逻辑清晰。"
+    },
+    {
+      "title": "A股三大指数午间休盘涨跌不一，通信设备板块走弱",
+      "link": "https://36kr.com/newsflashes/3883609876099081?f=rss",
+      "pubDate": "2026-07-06 11:32:15  +0800",
+      "contentSnippet": "36氪获悉，A股三大指数午间休盘涨跌不一，沪指涨0.08%，深成指跌0.36%，创业板指跌0.51%；能源设备、制药、食品板块领涨，杰瑞股份涨超7%，美诺华涨超6%，牧原股份涨超3%；建材、互联网、通信设备板块走弱，中材科技跌超8%，数据港跌超6%，长飞光纤跌超5%。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "A股午盘涨跌不一，通信设备板块走弱。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪是知名科技媒体，内容具体有数据支撑，逻辑清晰。"
+    },
+    {
+      "title": "德国全球最大电子游戏典藏馆因资金断裂关停，6 万款游戏档案面临危机",
+      "link": "https://www.ithome.com/0/972/960.htm",
+      "pubDate": "Mon, 06 Jul 2026 03:29:18 GMT",
+      "contentSnippet": "IT之家 7 月 6 日消息，德国国际电子游戏典藏馆（ICS）本是旨在打造全球规模最大、可供公众查阅电子游戏档案的项目。今年 4 月底约 150 万欧元（IT之家注：现汇率约合 1163.3 万元人民币）公共资助到期，且德国联邦政府拒绝续资，该项目现已进入关停流程。据行业媒体《GamesWirtschaft》7 月 3 日报道，项目全体股东已全票表决通过闭馆决议，馆内收录超 6 万款游戏的数据库未来何去何从，目前尚无定论。就在该消息传出的同一周，索尼官方确认将停产 PlayStation 实体游戏光盘。\n\n国际电子游戏典藏馆自 2012 年起开始藏品收集工作，馆藏总计六万余款游戏，载体涵盖游戏",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "德国最大电子游戏典藏馆因资金断裂关停，6万款游戏档案面临危机。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，信息具体有数据支撑，引用行业媒体报道。"
+    },
+    {
+      "title": "EPOMAKER HE65 V2 TMR 磁轴键盘上市：649 元，PCB 兼容机械轴体",
+      "link": "https://www.ithome.com/0/972/958.htm",
+      "pubDate": "Mon, 06 Jul 2026 03:28:28 GMT",
+      "contentSnippet": "IT之家 7 月 6 日消息，EPOMAKER 现已在国内电商平台上架 HE65 V2 TMR 键盘，到手价 649 元。该三模型号拥有轴体热插拔 PCB，预装 TMR（隧道磁阻）开关，同时也兼容机械触点式开关。\n\nHE65 V2 TMR 采用 66 按键 + 1 旋钮的 65% 紧凑配列，外壳为 ABS 材质，内部则是 Gasket 结构。其 PCB 内嵌下灯位 RGB 灯珠，拥有 FR4 定位板，四层阻尼填充分别是夹层乳胶棉、IXPE 轴下垫、EPDM 底部粘棉、底部硅胶。\n\n该键盘搭载总行程 3.5±0.1mm 的云玉磁轴，初始压力 35gf、触底压力 55gf；整体支持 0.001mm",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "EPOMAKER HE65 V2 TMR磁轴键盘上市，售价649元，兼容机械轴体。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有技术参数，逻辑清晰，但缺少原始出处链接。"
+    },
+    {
+      "title": "零跑汽车正式进入北美市场，登陆墨西哥",
+      "link": "https://www.ithome.com/0/972/957.htm",
+      "pubDate": "Mon, 06 Jul 2026 03:26:16 GMT",
+      "contentSnippet": "IT之家 7 月 6 日消息，零跑汽车今日官宣，2026 年 7 月，零跑 B10 完成墨西哥本土化认证，正式登陆当地市场并启动交付，开启北美市场拓展进程。\n\n目前，零跑 B10 已进入墨西哥各地门店。在此之前，该车型已在 Stellantis 墨西哥汽车工程研发测试中心完成本土化适配验证。\n零跑汽车表示，零跑 C10、C16 将随后进入市场，覆盖家庭出行、多人乘坐等细分场景需求。\n零跑依托 Stellantis 集团在墨西哥的渠道资源，推进本地化网络布局，由服务商 Mopar 提供售后支持。\n在销售网络方面，零跑已在墨西哥核心城市布局超 40 家授权网点，并持续推进渠道拓展，逐步覆盖更多二三",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "零跑汽车2026年7月进入墨西哥市场，开启北美拓展。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自IT之家，内容具体，有产品认证和渠道细节，但缺乏独立数据验证。"
+    },
+    {
+      "title": "豆包又一功能下线，“应用生成”已停止服务",
+      "link": "https://www.ithome.com/0/972/954.htm",
+      "pubDate": "Mon, 06 Jul 2026 03:20:36 GMT",
+      "contentSnippet": "IT之家 7 月 6 日消息，据《读佳》今日消息，豆包在宣布全面下线“智能体”功能之前，其“应用生成”功能已于 5 月 31 日率先停止服务。\n目前，用户此前通过该功能创建的历史应用，仍可在豆包会话中进行查看、复制、下载及分享，但无法再新建或更新。不过，其编程功能依然保留。\n\n豆包应用生成能让普通人不用写代码，靠描述需求就能做出可运行的小应用或小游戏。它主要面向非技术背景用户，把创意直接变成能体验的产品。\n\nIT之家查询发现，豆包-应用生成曾在 2025 年底联合英特尔发起“一点都不技术”创作挑战赛，宣称无需编程基础、不写一行代码，只要有想法与创意，就能玩转 AI。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "豆包“应用生成”功能于5月31日停止服务，历史应用可查看但无法新建。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有日期和功能细节，但缺少官方公告引用。"
+    },
+    {
+      "title": "海力士半导体大连公司法定代表人变更",
+      "link": "https://36kr.com/newsflashes/3883596510146562?f=rss",
+      "pubDate": "2026-07-06 11:18:39  +0800",
+      "contentSnippet": "36氪获悉，天眼查App显示，近日，爱思开海力士半导体（大连）有限公司发生工商变更，朴元星卸任法定代表人、董事，由李秉起接任。该公司成立于2021年5月，注册资本31亿美元，经营范围包括集成电路制造、集成电路芯片及产品制造、电子元器件制造、集成电路芯片设计及服务等，由SK海力士株式会社全资持股。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "海力士大连公司法定代表人变更为李秉起",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪为知名科技媒体，信息具体有工商数据支撑"
+    },
+    {
+      "title": "消息称华为下半年还有 Mate XT 2 三折叠手机新品：形态有创新，将搭载最新旗舰处理器",
+      "link": "https://www.ithome.com/0/972/952.htm",
+      "pubDate": "Mon, 06 Jul 2026 03:17:36 GMT",
+      "contentSnippet": "IT之家 7 月 6 日消息，博主 @数码闲聊站 今日曝光了华为下半年的折叠屏手机新品相关信息，包括三折叠和常规大折叠，都将搭载最新一代的旗舰处理器，定位万元档超高端。结合评论区讨论来看，预计是华为 Mate XT 2 和 Mate X8。\n\n博主透露，三折叠手机的形态又有创新，大折叠手机则是常规比例，尺寸做到了 8.15\"+ 6.5\"± 英寸，影像部分采用最高 1/1.3\" 超大底 + 潜望镜 + 小型化镜组，电池来到 6000mAh 级别。\n\n▲ IT之家开箱：华为 Mate XT 非凡大师图赏\n有网友询问华为直板旗舰机是否有配置加料，博主表示：“新芯片就是史诗级看点，会同步落地新的散热技",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "华为下半年将推Mate XT 2三折叠手机，形态创新，搭载最新旗舰处理器。",
+      "credibilityScore": 65,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体IT之家，但信息基于博主爆料，缺乏官方确认和具体数据支撑。"
     }
   ]
 }
