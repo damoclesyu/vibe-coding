@@ -1,116 +1,31 @@
 {
-  "generatedAt": "2026-07-07T03:49:31.584Z",
+  "generatedAt": "2026-07-08T03:17:13.153Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "我国规上工业企业人工智能应用普及率已超30%",
-      "link": "https://36kr.com/newsflashes/3884995291246599?f=rss",
-      "pubDate": "2026-07-07 11:01:34  +0800",
-      "contentSnippet": "工业和信息化部科技司副司长甘小斌在7月7日举行的上海市新闻发布会上表示，今年人形机器人全年整机产量有望突破10万台。制造业是人工智能赋能应用的主战场。目前，我国规上工业企业人工智能应用普及率已超30%，人形机器人开始“进工厂、下车间”。目前工业和信息化部正会同各方深入实施“模数共振”“人形机器人与具身智能实景实训”等专项行动，挖掘高价值应用场景。大会期间，中国—金砖国家人工智能发展与合作中心将发布“国际人工智能伦理治理行动计划”。（界面）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
+      "title": "安森美将出售两座芯片制造工厂，分别位于菲律宾和美国",
+      "link": "https://www.ithome.com/0/973/856.htm",
+      "pubDate": "Wed, 08 Jul 2026 01:24:22 GMT",
+      "contentSnippet": "IT之家 7 月 8 日消息，onsemi（安森美）当地时间 7 日宣布，已就出售两座分别位于菲律宾和美国的芯片制造工厂与交易对方达成最终协议。此举是其 \"Fab Right\" 战略的一部分，旨在改善整体制造成本结构、推动毛利率持续增长。\n安森美表示，两笔交易预计可为该企业每年节省约 3500 万美元的成本（IT之家注：现汇率约合 2.38 亿元人民币），初步节省将于 2027 年开始，全部节省将于 2028 年实现。\n\n菲律宾\n安森美将把其位于菲律宾 Tarlac 的一座工厂出售给力成集团旗下的中国台湾地区 OSAT 业者超丰电子。该交易预计将在未来三到六个月内完成，但需满足惯例成交条件并获",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "36氪"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "我国规上工业企业AI应用普及率超30%，人形机器人产量有望突破10万台。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，引用工信部官方数据，信息具体且逻辑清晰。"
-    },
-    {
-      "title": "在联合国，这家中国公司给AI“减负”：不堆算力，而是给机器人装了个“类脑”",
-      "link": "https://www.qbitai.com/2026/07/444733.html",
-      "pubDate": "Mon, 06 Jul 2026 10:40:27 +0000",
-      "contentSnippet": "",
-      "sourceName": "量子位",
-      "sourceWeight": 80,
-      "allSources": [
-        "量子位"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国公司展示类脑AI技术，降低算力依赖。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "量子位是知名科技媒体，内容具体但缺少技术细节和原始出处。"
-    },
-    {
-      "title": "战争模糊了企业安全和国家安全",
-      "link": "https://www.solidot.org/story?sid=84761",
-      "pubDate": "Mon, 06 Jul 2026 15:28:02 +0800",
-      "contentSnippet": "海底光缆、发电站、炼油厂，机场、海水淡化厂甚至亚马逊数据中心，都已成为战争期间的攻击目标。企业安全和国家安全之间的界限日益模糊。北大西洋公约组织（NATO）32 个成员国去年达成协议，将经济产出的 5% 用于国防和安全，其中 1.5% 用于军事相关需求，包括保护关键基础设施和网络。支出目标涵盖网络安全、工业产能，以及军事后勤所需的铁路、桥梁和港口等等。NATO 军事委员会主席、意大利海军上将 Giuseppe Cavo Dragone 表示我们需要一个更全面的国防概念——国防不再仅仅指军事。曾在美国交通部和国土安全部任职的 Marc Glasser 表示私营业主能投资冗余、监控和维修能力，但只",
-      "sourceName": "Solidot",
-      "sourceWeight": 75,
-      "allSources": [
-        "Solidot"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "战争模糊企业安全与国家安全界限，NATO要求成员国增加国防支出。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源可靠（Solidot），引用NATO官方声明和专家观点，内容具体有数据支撑。"
-    },
-    {
-      "title": "Meta称美国四个州在8月的青少年安全诉讼中寻求1.4万亿美元罚款",
-      "link": "https://36kr.com/newsflashes/3885040380194818?f=rss",
-      "pubDate": "2026-07-07 11:47:26  +0800",
-      "contentSnippet": "Meta周一在一份法庭文件中表示，美国四个州正寻求对其处以1.4万亿美元的罚款，指控该公司设计其Facebook和Instagram平台旨在使年轻用户上瘾，并误导公众对其安全性存在误解。Meta在回应各州总检察长提交的关于如果各州胜诉应如何计算罚款的文件时提出了这一数字。（新浪财经）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "Meta称美国四州在青少年安全诉讼中寻求1.4万亿美元罚款。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为36氪转载新浪财经，内容具体有法庭文件引用，但缺乏原始文件验证。"
-    },
-    {
-      "title": "中国中煤在安徽成立新公司",
-      "link": "https://36kr.com/newsflashes/3885029294796801?f=rss",
-      "pubDate": "2026-07-07 11:46:03  +0800",
-      "contentSnippet": "36氪获悉，天眼查App显示，近日，中煤（安徽）能源有限公司成立，法定代表人为刘峰，注册资本1亿人民币，经营范围包括煤炭开采、煤炭及制品销售、矿物洗选加工、新兴能源技术研发、储能技术服务等，由中国中煤能源集团有限公司全资持股。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国中煤在安徽成立全资能源子公司，注册资本1亿。",
+      "aiSummary": "安森美出售菲律宾和美国两座芯片厂，预计年省3500万美元。",
       "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，信息具体有数据支撑，但无原始出处链接。"
+      "credibilityReason": "来源IT之家为知名科技媒体，信息具体有数据支撑，逻辑清晰。"
     },
     {
-      "title": "AI资本周期思辨：相似狂欢下的本质分野，AI与科网泡沫三大核心区别",
-      "link": "https://www.tmtpost.com/8055021.html",
-      "pubDate": "Tue, 07 Jul 2026 11:33:00 +0800",
-      "contentSnippet": "AI热潮与科网泡沫仅有表层狂欢特征重合，成熟巨头主导、真实算力需求、初步商业化变现三大底层差异，为行业提供了基础韧性。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "AI热潮与科网泡沫有三大核心区别，行业更具韧性。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体，内容有逻辑分析，但缺乏具体数据支撑。"
-    },
-    {
-      "title": "A股三大指数午间休盘集体收跌，半导体板块走强",
-      "link": "https://36kr.com/newsflashes/3885025040084997?f=rss",
-      "pubDate": "2026-07-07 11:31:50  +0800",
-      "contentSnippet": "36氪获悉，A股三大指数午间休盘集体收跌，沪指跌1.04%，深成指跌1.02%，创业板指跌0.78%；能源、制药、餐饮旅游板块领跌，恒力石化跌超8%，科伦药业跌超7%，西藏旅游跌超3%；工程机械、半导体、休闲用品板块走强，三一重工、华虹宏力涨超4%，奥飞娱乐涨超1%。",
+      "title": "报道称特朗普政府解除对OpenAI的GPT 5.6的限制",
+      "link": "https://36kr.com/newsflashes/3886425178271744?f=rss",
+      "pubDate": "2026-07-08 11:16:08  +0800",
+      "contentSnippet": "据报道，特朗普政府解除对OpenAI的GPT 5.6的限制，美国商务部已批准OpenAI广泛推出其先进的GPT 5.6模型。（财联社）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -118,33 +33,67 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "A股三大指数午盘收跌，半导体板块逆势走强。",
+      "aiSummary": "特朗普政府解除对OpenAI GPT 5.6的限制，商务部批准广泛推出。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪为知名科技媒体，内容引用财联社，但GPT 5.6版本号存疑，缺乏技术细节。"
+    },
+    {
+      "title": "珠海万达商管入股一合伙企业",
+      "link": "https://36kr.com/newsflashes/3886424403718146?f=rss",
+      "pubDate": "2026-07-08 11:15:20  +0800",
+      "contentSnippet": "36氪获悉，天眼查App显示，近日，苏州银翼投资合伙企业（有限合伙）发生工商变更，原合伙人广东银翼投资有限公司、珠海银翼企业管理有限公司退出，新增珠海万达商业管理集团股份有限公司、珠海宽智企业管理有限公司、广东横琴宽益企业管理有限公司为合伙人，同时注册资本由2万人民币增至1000万人民币。该合伙企业成立于2025年7月，执行事务合伙人为广东横琴宽益企业管理有限公司，出资额1000万人民币，经营范围包括以自有资金从事投资活动、企业总部管理、企业管理咨询。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "珠海万达商管入股苏州银翼投资合伙企业，注册资本增至1000万",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，内容具体有数据支撑，逻辑清晰。"
+      "credibilityReason": "来源36氪知名科技媒体，信息具体有工商变更细节，逻辑清晰"
     },
     {
-      "title": "AI资本周期思辨：行情严重分化，AI市场再现科网泡沫预警信号",
-      "link": "https://www.tmtpost.com/8054944.html",
-      "pubDate": "Tue, 07 Jul 2026 11:28:00 +0800",
-      "contentSnippet": "每一轮颠覆性技术革命，都会催生全民资本狂欢。",
-      "sourceName": "钛媒体",
+      "title": "Taycan 和纯电 Macan 断档，保时捷纯电悬了",
+      "link": "https://www.ifanr.com/1671212?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pubDate": "Wed, 08 Jul 2026 03:13:36 +0000",
+      "contentSnippet": "起了大早的保时捷快赶不上晚集了。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "sourceName": "爱范儿",
       "sourceWeight": 82,
       "allSources": [
-        "钛媒体"
+        "爱范儿"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "AI市场分化加剧，科网泡沫预警信号再现",
+      "aiSummary": "保时捷纯电车型Taycan和Macan面临断档危机",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容有分析逻辑，但缺乏具体数据支撑"
+      "credibilityReason": "爱范儿是知名科技媒体，内容具体但缺少数据支撑"
     },
     {
-      "title": "蚂蚁灵波发布空间感知模型LingBot-Depth 2.0",
-      "link": "https://36kr.com/newsflashes/3885019659202566?f=rss",
-      "pubDate": "2026-07-07 11:26:21  +0800",
-      "contentSnippet": "7月7日，蚂蚁集团旗下具身智能公司灵波科技发布空间感知模型LingBot-Depth 2.0。该模型基于1.5亿规模数据进行训练，在边缘清晰度、细小物体识别、远距离深度估计以及复杂场景鲁棒性等方面实现全面升级。此外，灵波还同步推出了LingBot-Depth 2.0的视觉基座模型——LingBot-Vision，构建起机器人从“看懂”到“看准”的能力链路，旨在应对机器人视觉在空间感知、精细识别和复杂环境适应等方面的核心挑战。",
+      "title": "标致 CEO 法维重申东风平台新车是“真标致”，但不会卖到欧洲",
+      "link": "https://www.ithome.com/0/973/894.htm",
+      "pubDate": "Wed, 08 Jul 2026 03:10:36 GMT",
+      "contentSnippet": "IT之家 7 月 8 日消息，标致此前官宣了两款全新旗舰纯电车型“狮锐”“琉明”，均基于东风平台打造。据外媒 Autocar 当地时间 7 日报道，标致 CEO 阿兰 · 法维重申，将确保新车保留“真正的标致”质感，不过不会进入欧洲市场。\n标致今年早些时候在北京车展发布了两款全新概念车，面向高端市场，将由标致与合资伙伴东风联合开发，并采用东风的架构和动力系统。其中一款是风格接近 508 的旅行车，另一款则是 SUV，尺寸大于标致目前在欧洲销售的所有车型。\n\n标致 CEO 阿兰 · 法维确认，两款量产车型计划在中国和部分出口市场销售，但不会登陆欧洲。双方是在共同开发新车，“这样的话，就意味着它是",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "标致CEO确认东风平台新车为真标致，但不会销往欧洲。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，引用外媒Autocar报道，信息具体且逻辑清晰。"
+    },
+    {
+      "title": "B站内测上线网页内容发布平台“Toy”，使用量已突破850万次",
+      "link": "https://36kr.com/newsflashes/3886418726449155?f=rss",
+      "pubDate": "2026-07-08 11:09:34  +0800",
+      "contentSnippet": "36氪获悉，B站已从6月起启动小范围内测，上线网页内容发布平台“Toy”。该平台支持将本地创意网页一键发布为站内可直接访问、可玩的互动作品（即Toy作品，简称Toy）。据了解，内测启动一个多月以来，UP主已上传超300件作品，涵盖游戏、互动叙事、工具、测试、报告、画册等多个品类。同时站内公开数据显示，平台用户体验量已累计超850万次。",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -152,112 +101,163 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "蚂蚁灵波发布空间感知模型LingBot-Depth 2.0，提升机器人视觉能力。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体有数据支撑，但缺乏独立验证。"
-    },
-    {
-      "title": "高碳α-烯烃的国产替代：三条技术路线，一场尚未决出的胜负",
-      "link": "https://www.tmtpost.com/8054940.html",
-      "pubDate": "Tue, 07 Jul 2026 11:24:00 +0800",
-      "contentSnippet": "光伏胶膜、高端润滑油、高性能塑料——这些产品的核心原料，中国36万吨需求中95%依赖进口。2026年7月，三条国产技术路线同时进入关键节点。一场百亿级的替代竞赛，胜负未决。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "高碳α-烯烃国产替代三条技术路线竞争，百亿市场胜负未分。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容具体有数据支撑，但缺乏原始出处引用。"
-    },
-    {
-      "title": "万亿车抵贷，狂欢背后暗流隐现",
-      "link": "https://www.tmtpost.com/8054936.html",
-      "pubDate": "Tue, 07 Jul 2026 11:19:00 +0800",
-      "contentSnippet": "各路玩家抢食“肥肉”。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "车抵贷市场火爆，但背后存在风险与隐忧。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体但缺少数据支撑。"
-    },
-    {
-      "title": "深圳同城德比开打：大疆VS影石，产品趋同、基因分化",
-      "link": "https://www.tmtpost.com/8054928.html",
-      "pubDate": "Tue, 07 Jul 2026 11:15:00 +0800",
-      "contentSnippet": "文化稀缺性可能会影响竞争格局。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "分析大疆与影石深圳同城竞争，产品趋同但基因分化。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体钛媒体，内容具体分析企业竞争，逻辑清晰，但缺乏数据支撑。"
-    },
-    {
-      "title": "狂揽近250亿，锂电行业上演扩产与资本“双响炮”",
-      "link": "https://www.tmtpost.com/8054778.html",
-      "pubDate": "Tue, 07 Jul 2026 11:12:00 +0800",
-      "contentSnippet": "看看钱到底流向了哪里？",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "锂电行业扩产与资本涌入，近250亿资金流向分析",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体钛媒体，内容具体有数据支撑，但缺少原始出处引用"
-    },
-    {
-      "title": "丰田纺织、华勤技术在上海成立汽车电子公司",
-      "link": "https://36kr.com/newsflashes/3885004857094409?f=rss",
-      "pubDate": "2026-07-07 11:11:18  +0800",
-      "contentSnippet": "36氪获悉，天眼查App显示，近日，丰田纺织华勤（上海）汽车电子有限公司成立，法定代表人为八百市信一，注册资本1000万人民币，经营范围包括汽车零部件研发、技术进出口、货物进出口、软件开发等。股东信息显示，该公司由丰田纺织（中国）有限公司、华勤技术股份有限公司共同持股。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "丰田纺织与华勤技术合资成立汽车电子公司",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，信息具体有数据支撑，但缺少技术细节和原始出处"
-    },
-    {
-      "title": "沪深两市成交额突破1.5万亿",
-      "link": "https://36kr.com/newsflashes/3885004180484352?f=rss",
-      "pubDate": "2026-07-07 11:10:37  +0800",
-      "contentSnippet": "36氪获悉，沪深两市成交额突破1.5万亿。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "沪深两市成交额突破1.5万亿，市场活跃。",
+      "aiSummary": "B站内测网页内容发布平台Toy，用户量已超850万次",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体36氪，信息具体有数据支撑，逻辑清晰。"
+      "credibilityReason": "来源36氪知名科技媒体，信息具体有数据支撑，逻辑清晰"
+    },
+    {
+      "title": "AI 视频全面成熟：Seedance 2.0 领衔，6 款主流工具深度横评",
+      "link": "https://36kr.com/p/3886403765596418?f=rss",
+      "pubDate": "2026-07-08 11:03:34  +0800",
+      "contentSnippet": "2026年，AI视频生成赛道已迈入全面爆发的成熟竞速期，Seedance 2.0 的出圈更是让AI视频变成一场“全民狂欢”。\n短短两年间，AI视频从最初几秒的碎片化模糊画面，到如今分钟级长视频的连贯叙事、真实物理世界的精准还原，AI视频工具的迭代速度远超预期，AI视频工具完成了从“能用”到“好用”再到“专业”的三级跳，让创意落地的门槛降至新低——专业团队能用它预演大片，普通用户也能一键生成爆款短视频。\n在这场全球竞速中，每一款工具都在以独特的优势，定义着下一代视频创作的未来。\n为了让不同需求的读者都能选到适配的工具，我们耗时两周实测了国内外数十款AI视频生成产品，最终筛选出6款主流选手形成榜单",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "2026年AI视频工具成熟，Seedance 2.0领衔，6款主流产品横评。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪权威，内容具体有实测细节，逻辑清晰，但缺乏原始数据引用。"
+    },
+    {
+      "title": "三星近 5 万名员工喜提 108.34 万股股票，人均价值约 700 万韩元",
+      "link": "https://www.ithome.com/0/973/893.htm",
+      "pubDate": "Wed, 08 Jul 2026 03:02:03 GMT",
+      "contentSnippet": "IT之家 7 月 8 日消息，据中国证券报报道，7 月 7 日晚间，三星电子通过韩国金融监督院电子公示系统（DART）披露，公司董事会决议将 108.34 万股库存普通股划转给员工，用于支付股票薪酬。\n按 7 月 6 日收盘价每股 31.8 万韩元计算，此次股票激励涉及金额约 3445 亿韩元（IT之家注：现汇率约合 15.3 亿元人民币）。\n这意味着，相关部门的员工人均将获得价值约 700 万韩元（现汇率约合 31094 元人民币）的三星电子股票。\n\n公告显示，此次库存股划转对象为三星电子 DX（消费电子）部门及 CSS 事业团队的 49345 名员工，目的是兑现 2026 年成果奖劳资协议",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "三星近5万员工获108.34万股股票激励，人均价值约700万韩元。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，引用官方公示数据，信息具体且逻辑清晰。"
+    },
+    {
+      "title": "用美国豆包做了个 app，停不下来了！",
+      "link": "https://www.ifanr.com/1671236?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pubDate": "Wed, 08 Jul 2026 03:00:48 +0000",
+      "contentSnippet": "AI：授人以鱼，不如授人以渔。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "sourceName": "爱范儿",
+      "sourceWeight": 82,
+      "allSources": [
+        "爱范儿"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "爱范儿报道用美国AI工具开发应用，强调授人以渔。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体，内容具体但缺少技术细节和原始出处。"
+    },
+    {
+      "title": "超威控股集团增资至5亿，增幅约67%",
+      "link": "https://36kr.com/newsflashes/3886408666509570?f=rss",
+      "pubDate": "2026-07-08 10:59:20  +0800",
+      "contentSnippet": "36氪获悉，天眼查App显示，近日，超威控股集团有限公司发生工商变更，注册资本由3亿人民币增至5亿人民币，增幅约67%。该公司成立于2017年7月，法定代表人为李星辰，经营范围包括企业总部管理、新兴能源技术研发、太阳能发电技术服务、电池销售等，由超威电源集团有限公司全资持股。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "超威控股集团注册资本由3亿增至5亿，增幅约67%。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪为知名科技媒体，信息具体有数据支撑，引用天眼查数据。"
+    },
+    {
+      "title": "AI猜球总翻车？世界杯给了大模型一次压力测试",
+      "link": "https://www.tmtpost.com/8052191.html",
+      "pubDate": "Wed, 08 Jul 2026 10:58:07 +0800",
+      "contentSnippet": "赛场之外，一场关于国产AI大模型的淘汰赛也进入到了考验期。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "世界杯成国产AI大模型压力测试，预测准确率低暴露技术短板",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体钛媒体，内容具体但缺乏数据支撑和原始引用"
+    },
+    {
+      "title": "将多色3D打印提速5倍，消费级3D打印赛道迎来今年最大融资",
+      "link": "https://www.tmtpost.com/8056823.html",
+      "pubDate": "Wed, 08 Jul 2026 10:57:52 +0800",
+      "contentSnippet": "用户不再需要打印一批单色的零件进行组装，而是可以直接得到一个彩色成品。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "消费级3D打印获大额融资，多色打印提速5倍。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源知名科技媒体，内容具体有技术亮点，但缺乏数据细节和原始出处。"
+    },
+    {
+      "title": "姚顺雨 OpenAI 前同事田永龙被曝加入腾讯，混元多模态有望迎来新负责人",
+      "link": "https://www.ithome.com/0/973/892.htm",
+      "pubDate": "Wed, 08 Jul 2026 02:57:08 GMT",
+      "contentSnippet": "IT之家 7 月 8 日消息，据雷峰网昨日报道，OpenAI 前研究员 Yonglong Tian（田永龙）已于近期加入腾讯。\n据称，田永龙将成为腾讯混元多模态模型方向的负责人，其后续或将参与 VLM（视觉语言模型）相关研发。不过，这笔人事变动尚未最终落定。若顺利成行，这将是继姚顺雨之后，又一位从 OpenAI 核心研究团队转投腾讯混元的研究人员。\n\n田永龙与姚顺雨的渊源可追溯至 OpenAI 共事时期。2025 年 9 月，28 岁的姚顺雨从 OpenAI 离职，加入腾讯担任“CEO / 总裁办公室”首席 AI 科学家，直接向总裁刘炽平汇报。在 OpenAI 期间，田永龙与姚顺雨在同一时期效",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "OpenAI前研究员田永龙或加入腾讯，负责混元多模态模型方向。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体且有原始报道引用，但人事变动尚未最终确认。"
+    },
+    {
+      "title": "SpaceX 申请部署最多 10 万颗卫星，拟打造 AI 时代太空通信底座",
+      "link": "https://www.ithome.com/0/973/891.htm",
+      "pubDate": "Wed, 08 Jul 2026 02:57:00 GMT",
+      "contentSnippet": "IT之家 7 月 8 日消息，据外媒 Wccftech 今天（8 日）报道，SpaceX 开始把充裕资金投入 Starlink 第三代卫星星座扩张。根据最近提交给美国联邦通信委员会（FCC）的一份文件，SpaceX 计划大幅提高 Gen3（V3）星座的发射节奏，并寻求最多发射 10 万颗卫星的授权。\n\n目前在轨的第二代 Starlink 卫星已经比第一代提供更高容量和更低延迟，并带来多项能力升级：\n\n吞吐量提高 20 倍。\n\n支持直连手机，第二代卫星可以与未经改装的蜂窝手机连接。\n\n具备更强轨道机动能力和自主防撞系统。\n\nSpaceX 最近还公布了首款面向 AI 计算的专用卫星设计。AI1 卫",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "SpaceX申请部署最多10万颗卫星，打造AI时代太空通信底座。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，引用外媒Wccftech和FCC文件，信息具体且有数据支撑。"
+    },
+    {
+      "title": "缺水缺电：报道称韩国 1350 万亿韩元半导体集群建设遇基建挑战",
+      "link": "https://www.ithome.com/0/973/890.htm",
+      "pubDate": "Wed, 08 Jul 2026 02:54:31 GMT",
+      "contentSnippet": "IT之家 7 月 8 日消息，科技媒体 Tom's Hardware 昨日（7 月 7 日）发布博文，报道称在 6 月 29 日官宣为期 10 年的韩国产业投资计划，面临配套基础设施滞后问题，配套输电与供水存在较大挑战。\nIT之家曾于 6 月 29 日报道，韩国总统李在明在首尔发表电视讲话，宣布一项总规模 1350 万亿韩元（IT之家注：现汇率约合 6 万亿元人民币）的 10 年公私合作计划，覆盖半导体、AI 数据中心和机器人领域。\n在电力缺口方面，据韩国国会研究服务处报告显示，位于京畿道的龙仁半导体国家产业集群（三星和 SK 海力士的超级产业集群）全面运营时预计需要 15 至 16 吉瓦的电",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "韩国半导体集群面临水电基建挑战，需15-16吉瓦电力。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体IT之家，引用Tom's Hardware和韩国国会报告，信息具体有数据支撑。"
     }
   ]
 }
