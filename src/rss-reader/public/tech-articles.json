@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-07-08T03:17:13.153Z",
+  "generatedAt": "2026-07-09T03:41:26.040Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "安森美将出售两座芯片制造工厂，分别位于菲律宾和美国",
-      "link": "https://www.ithome.com/0/973/856.htm",
-      "pubDate": "Wed, 08 Jul 2026 01:24:22 GMT",
-      "contentSnippet": "IT之家 7 月 8 日消息，onsemi（安森美）当地时间 7 日宣布，已就出售两座分别位于菲律宾和美国的芯片制造工厂与交易对方达成最终协议。此举是其 \"Fab Right\" 战略的一部分，旨在改善整体制造成本结构、推动毛利率持续增长。\n安森美表示，两笔交易预计可为该企业每年节省约 3500 万美元的成本（IT之家注：现汇率约合 2.38 亿元人民币），初步节省将于 2027 年开始，全部节省将于 2028 年实现。\n\n菲律宾\n安森美将把其位于菲律宾 Tarlac 的一座工厂出售给力成集团旗下的中国台湾地区 OSAT 业者超丰电子。该交易预计将在未来三到六个月内完成，但需满足惯例成交条件并获",
+      "title": "商务部等九部门：推动消费券发放、结算等环节使用数字人民币",
+      "link": "https://www.ithome.com/0/974/317.htm",
+      "pubDate": "Thu, 09 Jul 2026 01:17:40 GMT",
+      "contentSnippet": "IT之家 7 月 9 日消息，商务部等九部门今日联合印发《关于加快零售业创新发展的意见》（以下简称《意见》），力争到 2030 年，基本形成布局合理、供给优质、业态多元、智慧便捷、竞争有序的现代零售体系，打造一批带动性强的零售场景，推出一批融合创新的业态模式，培育一批具有国际竞争力的零售企业，推广零售好经验好做法，使线下零售成为购物休闲、沉浸体验、娱乐社交的承载之地，线上零售成为商品丰富、品质优良、规范经营的购物之所。\n\n《意见》明确重点新任务。包括系统规划新布局，引领零售新供给，创造消费新需求，激发零售新动能，支持做强做优做大零售企业，为零售业创新转型和高质量发展提供方向指导，助力提升行业综",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,16 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "安森美出售菲律宾和美国两座芯片厂，预计年省3500万美元。",
-      "credibilityScore": 80,
+      "aiSummary": "九部门推动消费券发放使用数字人民币，目标2030年形成现代零售体系。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，信息具体有数据支撑，逻辑清晰。"
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有政策文件引用，逻辑清晰。"
     },
     {
-      "title": "报道称特朗普政府解除对OpenAI的GPT 5.6的限制",
-      "link": "https://36kr.com/newsflashes/3886425178271744?f=rss",
-      "pubDate": "2026-07-08 11:16:08  +0800",
-      "contentSnippet": "据报道，特朗普政府解除对OpenAI的GPT 5.6的限制，美国商务部已批准OpenAI广泛推出其先进的GPT 5.6模型。（财联社）",
+      "title": "A股三大指数午间休盘涨跌不一，山东墨龙涨停",
+      "link": "https://36kr.com/newsflashes/3887855534668296?f=rss",
+      "pubDate": "2026-07-09 11:31:10  +0800",
+      "contentSnippet": "36氪获悉，A股三大指数午间休盘涨跌不一，沪指跌0.46%，深成指跌0.35%，创业板指涨0.13%；半导体、电脑硬件、能源设备板块领涨，浪潮信息、山东墨龙涨停，摩尔线程涨超14%；金属、发电设备、化工板块跌幅居前，盛新锂能、天赐材料跌停，金风科技跌超5%。",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -33,16 +33,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "特朗普政府解除对OpenAI GPT 5.6的限制，商务部批准广泛推出。",
-      "credibilityScore": 75,
+      "aiSummary": "A股午盘涨跌不一，半导体能源板块领涨，山东墨龙涨停。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容引用财联社，但GPT 5.6版本号存疑，缺乏技术细节。"
+      "credibilityReason": "来源36氪为知名科技媒体，内容具体有数据支撑，逻辑清晰。"
     },
     {
-      "title": "珠海万达商管入股一合伙企业",
-      "link": "https://36kr.com/newsflashes/3886424403718146?f=rss",
-      "pubDate": "2026-07-08 11:15:20  +0800",
-      "contentSnippet": "36氪获悉，天眼查App显示，近日，苏州银翼投资合伙企业（有限合伙）发生工商变更，原合伙人广东银翼投资有限公司、珠海银翼企业管理有限公司退出，新增珠海万达商业管理集团股份有限公司、珠海宽智企业管理有限公司、广东横琴宽益企业管理有限公司为合伙人，同时注册资本由2万人民币增至1000万人民币。该合伙企业成立于2025年7月，执行事务合伙人为广东横琴宽益企业管理有限公司，出资额1000万人民币，经营范围包括以自有资金从事投资活动、企业总部管理、企业管理咨询。",
+      "title": "沐曦股份涨超19%，股价站上1000元关口",
+      "link": "https://36kr.com/newsflashes/3887852772407808?f=rss",
+      "pubDate": "2026-07-09 11:28:21  +0800",
+      "contentSnippet": "36氪获悉，沐曦股份涨超19%，股价站上1000元关口。",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -50,33 +50,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "珠海万达商管入股苏州银翼投资合伙企业，注册资本增至1000万",
-      "credibilityScore": 85,
+      "aiSummary": "沐曦股份股价大涨超19%，突破1000元。",
+      "credibilityScore": 70,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪知名科技媒体，信息具体有工商变更细节，逻辑清晰"
+      "credibilityReason": "来自知名科技媒体36氪，但内容简略，缺乏技术细节和数据支撑。"
     },
     {
-      "title": "Taycan 和纯电 Macan 断档，保时捷纯电悬了",
-      "link": "https://www.ifanr.com/1671212?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pubDate": "Wed, 08 Jul 2026 03:13:36 +0000",
-      "contentSnippet": "起了大早的保时捷快赶不上晚集了。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "sourceName": "爱范儿",
-      "sourceWeight": 82,
-      "allSources": [
-        "爱范儿"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "保时捷纯电车型Taycan和Macan面临断档危机",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "爱范儿是知名科技媒体，内容具体但缺少数据支撑"
-    },
-    {
-      "title": "标致 CEO 法维重申东风平台新车是“真标致”，但不会卖到欧洲",
-      "link": "https://www.ithome.com/0/973/894.htm",
-      "pubDate": "Wed, 08 Jul 2026 03:10:36 GMT",
-      "contentSnippet": "IT之家 7 月 8 日消息，标致此前官宣了两款全新旗舰纯电车型“狮锐”“琉明”，均基于东风平台打造。据外媒 Autocar 当地时间 7 日报道，标致 CEO 阿兰 · 法维重申，将确保新车保留“真正的标致”质感，不过不会进入欧洲市场。\n标致今年早些时候在北京车展发布了两款全新概念车，面向高端市场，将由标致与合资伙伴东风联合开发，并采用东风的架构和动力系统。其中一款是风格接近 508 的旅行车，另一款则是 SUV，尺寸大于标致目前在欧洲销售的所有车型。\n\n标致 CEO 阿兰 · 法维确认，两款量产车型计划在中国和部分出口市场销售，但不会登陆欧洲。双方是在共同开发新车，“这样的话，就意味着它是",
+      "title": "7 月 16 日见，新一代理想 L6 座舱及“沙丘黄”车色公布",
+      "link": "https://www.ithome.com/0/974/424.htm",
+      "pubDate": "Thu, 09 Jul 2026 03:25:13 GMT",
+      "contentSnippet": "IT之家 7 月 9 日消息，今天上午，理想汽车宣布：新一代理想 L6 产品发布会定档 7 月 16 日 19:30。\n与此同时，官方公布了新车的“沙丘黄”车色，并放出了座舱官图。新车长宽高为 4935/1960/1735mm，轴距为 2920mm，与在售车型保持一致。车内依然搭载 1.5T 涡轮增压增程器，发动机最大功率 113 千瓦，同时升级了 51 度容量电池。\n新车内饰基本延续现款车型布局，手机无线充电区域稍稍下移，车内大屏调整为横贯中控、副驾的一体式，整体依旧主打简约风格。同时，新车在门板等处设置了氛围灯。\n\n\n\n新款车型前脸延续家族式贯穿灯带，不过前包围区取消一体式贯穿设计，下部格",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -84,16 +67,50 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "标致CEO确认东风平台新车为真标致，但不会销往欧洲。",
-      "credibilityScore": 80,
+      "aiSummary": "理想L6新款7月16日发布，升级51度电池和一体式大屏。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，引用外媒Autocar报道，信息具体且逻辑清晰。"
+      "credibilityReason": "来自知名科技媒体IT之家，信息具体含尺寸、电池等细节，逻辑清晰。"
     },
     {
-      "title": "B站内测上线网页内容发布平台“Toy”，使用量已突破850万次",
-      "link": "https://36kr.com/newsflashes/3886418726449155?f=rss",
-      "pubDate": "2026-07-08 11:09:34  +0800",
-      "contentSnippet": "36氪获悉，B站已从6月起启动小范围内测，上线网页内容发布平台“Toy”。该平台支持将本地创意网页一键发布为站内可直接访问、可玩的互动作品（即Toy作品，简称Toy）。据了解，内测启动一个多月以来，UP主已上传超300件作品，涵盖游戏、互动叙事、工具、测试、报告、画册等多个品类。同时站内公开数据显示，平台用户体验量已累计超850万次。",
+      "title": "《碧蓝幻想 Relink：无尽黄昏》发售：登陆 NS2/PS5/PS4/PC，Steam 国区 128 元",
+      "link": "https://www.ithome.com/0/974/271.htm",
+      "pubDate": "Thu, 09 Jul 2026 03:21:04 GMT",
+      "contentSnippet": "IT之家 7 月 9 日消息，Cygames 动作角色扮演游戏《碧蓝幻想 Relink》大型升级扩展包《无尽黄昏》今日正式发售，登陆任天堂 Switch 2、PS5、PS4 及 PC（Steam）平台，支持简体中文界面与字幕。\n \n \n价格方面，Steam 国区普通版升级扩展包定价为 128 元，需拥有本体游戏方可游玩。商店页还提供包含本体游戏与扩展包的同捆版本：普通版同捆定价 258 元，特别版同捆包含本体 + 扩展包 + 追加动作套装等额外内容，定价 375 元。\n\n据介绍，《碧蓝幻想 Relink 无尽黄昏》是原作的大型内容扩展，继承并深化此前备受好评的多人联机内容，同时追加大量单人离线",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "《碧蓝幻想 Relink》扩展包《无尽黄昏》多平台发售，Steam国区128元。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，信息具体（价格、平台、内容），逻辑清晰。"
+    },
+    {
+      "title": "DeepSeek R1 推理测试：英特尔 Arc Pro B70 显卡吞吐最高 2320.76 token/s",
+      "link": "https://www.ithome.com/0/974/422.htm",
+      "pubDate": "Thu, 09 Jul 2026 03:19:00 GMT",
+      "contentSnippet": "IT之家 7 月 9 日消息，科技媒体 Wccftech 昨日（7 月 8 日）发布博文，报道称显卡厂商蓝戟（GUNNIR）测试英特尔 Arc Pro B70 GPU，在 DeepSeek R1 模型推理表现上超过英伟达的 RTX 5090D 和 RTX 4090D 显卡。\n测试环境均为 4 张显卡配置，主要对比英特尔 Arc Pro B70 32GB、英伟达 RTX 5090D 32GB 与 RTX 4090D 24GB 三款显卡的 AI LLM 大语言模型推理性能表现。\n测试模型为 DeepSeek R1-Distill Qwen 32B FP16，该模型固定输入 / 输出长度为 128",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "蓝戟测试英特尔Arc Pro B70在DeepSeek R1推理上超越英伟达RTX 5090D。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家转述Wccftech，内容具体有测试数据，但缺乏原始测试报告链接。"
+    },
+    {
+      "title": "深成指跌超1%",
+      "link": "https://36kr.com/newsflashes/3887843227482624?f=rss",
+      "pubDate": "2026-07-09 11:18:38  +0800",
+      "contentSnippet": "36氪获悉，深成指跌超1%。",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -101,16 +118,84 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "B站内测网页内容发布平台Toy，用户量已超850万次",
-      "credibilityScore": 85,
+      "aiSummary": "深成指跌幅超过1%，市场表现疲软。",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪知名科技媒体，信息具体有数据支撑，逻辑清晰"
+      "credibilityReason": "来自知名科技媒体36氪，信息简洁但缺乏具体数据支撑。"
     },
     {
-      "title": "AI 视频全面成熟：Seedance 2.0 领衔，6 款主流工具深度横评",
-      "link": "https://36kr.com/p/3886403765596418?f=rss",
-      "pubDate": "2026-07-08 11:03:34  +0800",
-      "contentSnippet": "2026年，AI视频生成赛道已迈入全面爆发的成熟竞速期，Seedance 2.0 的出圈更是让AI视频变成一场“全民狂欢”。\n短短两年间，AI视频从最初几秒的碎片化模糊画面，到如今分钟级长视频的连贯叙事、真实物理世界的精准还原，AI视频工具的迭代速度远超预期，AI视频工具完成了从“能用”到“好用”再到“专业”的三级跳，让创意落地的门槛降至新低——专业团队能用它预演大片，普通用户也能一键生成爆款短视频。\n在这场全球竞速中，每一款工具都在以独特的优势，定义着下一代视频创作的未来。\n为了让不同需求的读者都能选到适配的工具，我们耗时两周实测了国内外数十款AI视频生成产品，最终筛选出6款主流选手形成榜单",
+      "title": "眼睛会发光：日本 TAITO 推出《JOJO 的奇妙冒险》“石鬼面”鼠标",
+      "link": "https://www.ithome.com/0/974/421.htm",
+      "pubDate": "Thu, 09 Jul 2026 03:16:29 GMT",
+      "contentSnippet": "IT之家 7 月 9 日消息，日本企业 TAITO 宣布计划本月中旬开始在该国线上线下抓娃娃机中投放采用知名漫画 IP《JOJO 的奇妙冒险：幻影之血》中道具“石鬼面”外形设计的鼠标。\n\n从官方公布的图片来看，这款 PC 鼠标采用有线设计，长约 11cm，在连接至电脑后一双眼睛会发射红色光效，展现了其在设定中的危险性。不过由于其凹凸不平的外形，“石鬼面”鼠标并不适合日常使用。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "日本TAITO推出《JOJO》石鬼面造型鼠标，眼睛发光但不宜日常使用。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体IT之家，信息具体有产品细节和官方来源。"
+    },
+    {
+      "title": "厨电大厂万和电气全员公开信曝光：有史以来最严峻生存关口，宣布“壮士断腕式”组织变革",
+      "link": "https://www.ithome.com/0/974/420.htm",
+      "pubDate": "Thu, 09 Jul 2026 03:15:40 GMT",
+      "contentSnippet": "IT之家 7 月 9 日消息，据蓝鲸新闻 7 月 8 日报道，有消息称万和电气发布《凝心聚力深耕实干，提质增效破局前行 —— 致全体万和同仁的一封信》，直言企业正处在有史以来最严峻的生存关口，坦言部分同事将告别公司，留存伙伴也将更严苛考核。\n针对内部信情况，万和电气董秘办回应称：这是一份给公司内部员工的一份告知函。告知所有员工当前公司正面临困境，或者是行业都在面临同样的情况。\n信中指出，站在 2026 年的当下，我们必须坦诚地告诉大家：公司正身处有史以来最严峻的生存关口。今日之困，堪称空前。厨卫行业整体已然步入行业冰河期：房地产市场深度调整，新房配套需求大幅收缩；存量换新赛道竞争白热化，彻底陷",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "万和电气内部信称面临最严峻生存危机，将进行组织变革。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家转载蓝鲸新闻，有董秘办回应，内容具体但缺少原始信函全文。"
+    },
+    {
+      "title": "32 岁程序员过劳猝死案开庭，家属起诉公司索赔精神损失并追责知乎造谣者",
+      "link": "https://www.ithome.com/0/974/419.htm",
+      "pubDate": "Thu, 09 Jul 2026 03:14:58 GMT",
+      "contentSnippet": "IT之家 7 月 9 日消息，7 月 8 日，广州 32 岁程序员高广辉家中猝死案在广州市黄埔区人民法院开庭审理。逝者妻子杨华思作为原告出庭参与审理。当天上午的两场案件均未当庭宣判。\n\n公开报道显示，高广辉生前就职于广州视源电子科技股份有限公司（CVTE）的全资子公司广州视琨电子科技有限公司，担任部门经理。\n悲剧发生在 2025 年 11 月 29 日，一个周六的早晨。高广辉早起后感到身体不适，在客厅休息时突然晕倒，送医后于当日 13 时被宣告临床死亡，死因为呼吸心跳骤停，疑似阿斯综合征（心源性脑缺血综合征）。其 2024 年 6 月的体检心电图仍显示正常。\n据高广辉妻子讲述，猝死前一周的工作",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "32岁程序员过劳猝死案开庭，家属索赔并追责造谣者。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，报道具体有日期、细节和公开信息，逻辑清晰。"
+    },
+    {
+      "title": "IT之家鸿蒙版 8.30 发布：接收外部分享、评论半模态、多项改进修复",
+      "link": "https://www.ithome.com/0/974/418.htm",
+      "pubDate": "Thu, 09 Jul 2026 03:12:59 GMT",
+      "contentSnippet": "家友们，IT之家鸿蒙版 8.30 正式发布上线了！支持接收外部分享，评论展开改为半模态样式，新闻分享选择微信方式时可在链接和小程序之间选择，发帖插入的链接支持长按重新编辑，并带来投稿关联完善、多视频文章播放、流畅度和 UI 显示等多项优化修复。快来下载体验。\n继 8.20 版本带来 AI HDR、渐变模糊视觉和悬浮工具栏体验升级后，本次 8.30 继续围绕分享、评论半模态、视频播放、多形态适配和细节稳定性做了一轮打磨，敬请体验。\n更新亮点总结：\n新增\n\n支持接收系统分享，可通过系统分享面板快速发布圈子动态、投递线索\n\n新闻评论展开转场改为半模态转场（从页面底部弹出非全屏的面板，可上下拖动。返回",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "IT之家鸿蒙版8.30发布，支持外部分享、评论半模态等多项改进。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体IT之家，内容具体描述版本更新细节，但缺少技术验证和原始出处。"
+    },
+    {
+      "title": "上半年私募指增产品平均超额收益显著下降",
+      "link": "https://36kr.com/newsflashes/3887836603447809?f=rss",
+      "pubDate": "2026-07-09 11:11:54  +0800",
+      "contentSnippet": "根据第三方机构私募排排网最新监测数据，2026年上半年，有业绩展示的1236只指数增强产品平均收益为16.25%，与去年同期的17.32%基本持平；然而，平均超额收益仅3.11%，较去年同期的14.17%显著下降。这意味着，上半年指增产品的收益高度依赖指数上涨带来的Beta，获取Alpha的难度显著加大。（中证报）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -118,16 +203,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "2026年AI视频工具成熟，Seedance 2.0领衔，6款主流产品横评。",
+      "aiSummary": "上半年私募指增产品超额收益大幅下滑至3.11%",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪权威，内容具体有实测细节，逻辑清晰，但缺乏原始数据引用。"
+      "credibilityReason": "来源36氪为知名科技媒体，数据来自私募排排网，有具体数值和对比"
     },
     {
-      "title": "三星近 5 万名员工喜提 108.34 万股股票，人均价值约 700 万韩元",
-      "link": "https://www.ithome.com/0/973/893.htm",
-      "pubDate": "Wed, 08 Jul 2026 03:02:03 GMT",
-      "contentSnippet": "IT之家 7 月 8 日消息，据中国证券报报道，7 月 7 日晚间，三星电子通过韩国金融监督院电子公示系统（DART）披露，公司董事会决议将 108.34 万股库存普通股划转给员工，用于支付股票薪酬。\n按 7 月 6 日收盘价每股 31.8 万韩元计算，此次股票激励涉及金额约 3445 亿韩元（IT之家注：现汇率约合 15.3 亿元人民币）。\n这意味着，相关部门的员工人均将获得价值约 700 万韩元（现汇率约合 31094 元人民币）的三星电子股票。\n\n公告显示，此次库存股划转对象为三星电子 DX（消费电子）部门及 CSS 事业团队的 49345 名员工，目的是兑现 2026 年成果奖劳资协议",
+      "title": "小米米家洗烘套装 Pro 超电解智投“热泵烘 10kg+10kg”预售，国补到手 5599 元",
+      "link": "https://www.ithome.com/0/974/413.htm",
+      "pubDate": "Thu, 09 Jul 2026 03:09:44 GMT",
+      "contentSnippet": "IT之家 7 月 9 日消息，小米米家洗烘套装 Pro 超电解智投“热泵烘 10kg+10kg”今起开启预售，定价为 6587 元（IT之家注：国补到手价 5599 元）。\n\n京东米家洗烘套装 Pro 超电解智投 热泵烘 10kg+10kg 6587 元直达链接\n该套装包含 10kg 滚筒洗衣机 + 10kg 热泵烘干机，支持超电解护衣洗技术，可解决彩衣串色、白衣泛黄、污渍难洗、消毒不到位等常见洗衣难题，利用金刚石电极电解水生成活性氧分子，可祛除 20 种特殊污渍，一次洗白泛黄衣物，防串色效果提升 4 倍，实现全水路杀菌 99.99%。\n其支持双路智能投放，可精准感知衣物重量投放洗衣液和柔顺剂",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -135,33 +220,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "三星近5万员工获108.34万股股票激励，人均价值约700万韩元。",
+      "aiSummary": "小米米家洗烘套装Pro预售，国补到手价5599元",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用官方公示数据，信息具体且逻辑清晰。"
+      "credibilityReason": "来源IT之家知名科技媒体，信息具体有价格和技术细节"
     },
     {
-      "title": "用美国豆包做了个 app，停不下来了！",
-      "link": "https://www.ifanr.com/1671236?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pubDate": "Wed, 08 Jul 2026 03:00:48 +0000",
-      "contentSnippet": "AI：授人以鱼，不如授人以渔。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "sourceName": "爱范儿",
-      "sourceWeight": 82,
-      "allSources": [
-        "爱范儿"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "爱范儿报道用美国AI工具开发应用，强调授人以渔。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体但缺少技术细节和原始出处。"
-    },
-    {
-      "title": "超威控股集团增资至5亿，增幅约67%",
-      "link": "https://36kr.com/newsflashes/3886408666509570?f=rss",
-      "pubDate": "2026-07-08 10:59:20  +0800",
-      "contentSnippet": "36氪获悉，天眼查App显示，近日，超威控股集团有限公司发生工商变更，注册资本由3亿人民币增至5亿人民币，增幅约67%。该公司成立于2017年7月，法定代表人为李星辰，经营范围包括企业总部管理、新兴能源技术研发、太阳能发电技术服务、电池销售等，由超威电源集团有限公司全资持股。",
+      "title": "韩国KOSPI指数跌幅扩大至2%，失守7100点",
+      "link": "https://36kr.com/newsflashes/3887832628148998?f=rss",
+      "pubDate": "2026-07-09 11:07:51  +0800",
+      "contentSnippet": "36氪获悉，韩国KOSPI指数跌幅扩大至2%，失守7100点；此前一度涨超4%。",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -169,95 +237,27 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "超威控股集团注册资本由3亿增至5亿，增幅约67%。",
+      "aiSummary": "韩国KOSPI指数跌幅扩大至2%，失守7100点。",
+      "credibilityScore": 70,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体，信息具体但缺乏数据支撑和原始出处。"
+    },
+    {
+      "title": "欧莱雅集团与开云集团就古驰品牌，签署为期50年的独家美妆授权协议",
+      "link": "https://36kr.com/newsflashes/3887829383838215?f=rss",
+      "pubDate": "2026-07-09 11:04:33  +0800",
+      "contentSnippet": "当地时间7月7日，继今日开云集团（Kering）宣布提前回购科蒂集团（Coty）持有的古驰（Gucci）美妆授权协议后，依据开云集团与欧莱雅集团于2025年10月19日达成的战略联盟条款，欧莱雅宣布签署一项为期50年的独家美妆授权协议，负责古驰品牌香氛和美妆产品的研发、生产与分销业务。据欧莱雅介绍，该新授权协议将在获得相关监管批准后，于2027年7月1日起正式生效。届时，欧莱雅将全面接管古驰美妆（Gucci Beauty）全球业务的发展与运营管理。（界面）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "欧莱雅与开云集团签署古驰50年独家美妆授权协议。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，信息具体有数据支撑，引用天眼查数据。"
-    },
-    {
-      "title": "AI猜球总翻车？世界杯给了大模型一次压力测试",
-      "link": "https://www.tmtpost.com/8052191.html",
-      "pubDate": "Wed, 08 Jul 2026 10:58:07 +0800",
-      "contentSnippet": "赛场之外，一场关于国产AI大模型的淘汰赛也进入到了考验期。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "世界杯成国产AI大模型压力测试，预测准确率低暴露技术短板",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体钛媒体，内容具体但缺乏数据支撑和原始引用"
-    },
-    {
-      "title": "将多色3D打印提速5倍，消费级3D打印赛道迎来今年最大融资",
-      "link": "https://www.tmtpost.com/8056823.html",
-      "pubDate": "Wed, 08 Jul 2026 10:57:52 +0800",
-      "contentSnippet": "用户不再需要打印一批单色的零件进行组装，而是可以直接得到一个彩色成品。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "消费级3D打印获大额融资，多色打印提速5倍。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源知名科技媒体，内容具体有技术亮点，但缺乏数据细节和原始出处。"
-    },
-    {
-      "title": "姚顺雨 OpenAI 前同事田永龙被曝加入腾讯，混元多模态有望迎来新负责人",
-      "link": "https://www.ithome.com/0/973/892.htm",
-      "pubDate": "Wed, 08 Jul 2026 02:57:08 GMT",
-      "contentSnippet": "IT之家 7 月 8 日消息，据雷峰网昨日报道，OpenAI 前研究员 Yonglong Tian（田永龙）已于近期加入腾讯。\n据称，田永龙将成为腾讯混元多模态模型方向的负责人，其后续或将参与 VLM（视觉语言模型）相关研发。不过，这笔人事变动尚未最终落定。若顺利成行，这将是继姚顺雨之后，又一位从 OpenAI 核心研究团队转投腾讯混元的研究人员。\n\n田永龙与姚顺雨的渊源可追溯至 OpenAI 共事时期。2025 年 9 月，28 岁的姚顺雨从 OpenAI 离职，加入腾讯担任“CEO / 总裁办公室”首席 AI 科学家，直接向总裁刘炽平汇报。在 OpenAI 期间，田永龙与姚顺雨在同一时期效",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "OpenAI前研究员田永龙或加入腾讯，负责混元多模态模型方向。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体且有原始报道引用，但人事变动尚未最终确认。"
-    },
-    {
-      "title": "SpaceX 申请部署最多 10 万颗卫星，拟打造 AI 时代太空通信底座",
-      "link": "https://www.ithome.com/0/973/891.htm",
-      "pubDate": "Wed, 08 Jul 2026 02:57:00 GMT",
-      "contentSnippet": "IT之家 7 月 8 日消息，据外媒 Wccftech 今天（8 日）报道，SpaceX 开始把充裕资金投入 Starlink 第三代卫星星座扩张。根据最近提交给美国联邦通信委员会（FCC）的一份文件，SpaceX 计划大幅提高 Gen3（V3）星座的发射节奏，并寻求最多发射 10 万颗卫星的授权。\n\n目前在轨的第二代 Starlink 卫星已经比第一代提供更高容量和更低延迟，并带来多项能力升级：\n\n吞吐量提高 20 倍。\n\n支持直连手机，第二代卫星可以与未经改装的蜂窝手机连接。\n\n具备更强轨道机动能力和自主防撞系统。\n\nSpaceX 最近还公布了首款面向 AI 计算的专用卫星设计。AI1 卫",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "SpaceX申请部署最多10万颗卫星，打造AI时代太空通信底座。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，引用外媒Wccftech和FCC文件，信息具体且有数据支撑。"
-    },
-    {
-      "title": "缺水缺电：报道称韩国 1350 万亿韩元半导体集群建设遇基建挑战",
-      "link": "https://www.ithome.com/0/973/890.htm",
-      "pubDate": "Wed, 08 Jul 2026 02:54:31 GMT",
-      "contentSnippet": "IT之家 7 月 8 日消息，科技媒体 Tom's Hardware 昨日（7 月 7 日）发布博文，报道称在 6 月 29 日官宣为期 10 年的韩国产业投资计划，面临配套基础设施滞后问题，配套输电与供水存在较大挑战。\nIT之家曾于 6 月 29 日报道，韩国总统李在明在首尔发表电视讲话，宣布一项总规模 1350 万亿韩元（IT之家注：现汇率约合 6 万亿元人民币）的 10 年公私合作计划，覆盖半导体、AI 数据中心和机器人领域。\n在电力缺口方面，据韩国国会研究服务处报告显示，位于京畿道的龙仁半导体国家产业集群（三星和 SK 海力士的超级产业集群）全面运营时预计需要 15 至 16 吉瓦的电",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "韩国半导体集群面临水电基建挑战，需15-16吉瓦电力。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，引用Tom's Hardware和韩国国会报告，信息具体有数据支撑。"
+      "credibilityReason": "来源为知名科技媒体36氪，信息具体有日期和细节，逻辑清晰。"
     }
   ]
 }
