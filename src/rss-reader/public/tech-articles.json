@@ -1,150 +1,14 @@
 {
-  "generatedAt": "2026-07-10T03:42:55.913Z",
+  "generatedAt": "2026-07-11T02:57:06.107Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "消息称台积电持续提升 CoWoS 制造能力：2027 年月产至少 20 万片",
-      "link": "https://www.ithome.com/0/974/929.htm",
-      "pubDate": "Fri, 10 Jul 2026 03:10:36 GMT",
-      "contentSnippet": "IT之家 7 月 10 日消息，台媒《电子时报》今日表示，台积电 (TSMC) 正持续提升 2.5D 先进封装技术 CoWoS 的产能规模，已定下 2027 年月产 20 万片晶圆的目标，而这很可能只是下限。\n台积电在今年的技术论坛上曾表示，CoWoS 产能在 2022~2027 年期间的 CAGR（复合年增长率）超过 80%，今年正同步进行 4 座先进封装厂的产能扩张。\n\n上游半导体设备供应商透露，台积电原计划在 2026 年达到月产 11 万片 CoWoS 的目标，但当前已调整到超 13 万片；而 2027 年底的实际 CoWoS 月产能有望达到 24~26 万片。\n不过供应链业者认为，即",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "台积电计划2027年CoWoS月产能至少20万片，复合年增长率超80%。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，引用台媒《电子时报》和供应链数据，信息具体且有技术细节。"
-    },
-    {
-      "title": "小米手环 11 系列入网，电池容量与前代一致",
-      "link": "https://www.ithome.com/0/974/919.htm",
-      "pubDate": "Fri, 10 Jul 2026 02:59:15 GMT",
-      "contentSnippet": "IT之家 7 月 10 日消息，型号为 M2616B1 和 M2617B1 的小米蓝牙设备于今年 6 月通过工信部无线电核准。\n\n\n博主 @体验more 表示，这两款设备对应小米手环 11 和小米手环 11 NFC 版，电池容量 233mAh，与前代一致。\n\n博主 @智慧皮卡丘 则表示，小米手环 11 将在今年下半年发布。\n\nIT之家注意到，小米曾使用 M2551B1 和 M2553B1 两个型号，对应小米手环 10 Pro、小米手环 10 Pro NFC 版。\n今年 5 月，型号为 M2561B1 的小米穿戴设备出现在新加坡 IMDA 与中国台湾地区 NCC 认证数据库中，在两个认证数据库中",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "小米手环11系列入网，电池容量与前代一致，预计下半年发布。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家较知名，信息具体有型号和电池数据，但依赖博主爆料，缺乏官方确认。"
-    },
-    {
-      "title": "元坝气田累计生产天然气突破400亿立方米",
-      "link": "https://36kr.com/newsflashes/3889231897541384?f=rss",
-      "pubDate": "2026-07-10 10:51:16  +0800",
-      "contentSnippet": "今天（10日），全球首个超深层高含硫生物礁大气田——元坝气田累计生产天然气量突破400亿立方米，通过“川气东送”管道惠及长江沿线6省2市近2亿居民，为保障国家能源安全、支撑长江经济带高质量发展注入了清洁能源动能。（央视新闻）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "元坝气田累计产气突破400亿立方米，惠及长江沿线2亿居民。",
-      "credibilityScore": 95,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源权威（央视新闻），数据具体，信息详实，技术准确。"
-    },
-    {
-      "title": "李斌：因为原材料涨价，蔚来 ES8 每辆车成本涨了近 2 万元",
-      "link": "https://www.ithome.com/0/974/877.htm",
-      "pubDate": "Fri, 10 Jul 2026 02:30:28 GMT",
-      "contentSnippet": "7 月 10 日上午消息，蔚来 ES8 大五座版上市发布会后，蔚来创始人、董事长、CEO 李斌，蔚来联合创始人、总裁秦力洪与媒体对话。\n提到存储涨价一事，李斌表示，因为原材料涨价，蔚来 ES8 每辆车的成本涨了近 2 万元，售价上按理说要涨 3 万才能覆盖，压力非常大。\n他表示，蔚来在与供应链伙伴一起想办法，对冲一部分，争取保持价格稳定；另外蔚来 ES8 还是有一定的毛利空间，可以自己吸收一部分，“短期还在我们能够承受的范围内”，他说。\n\n相关阅读：\n\n《蔚来 ES8 大五座版纯电 SUV 上市：全域 900V 高压架构，整车购买 38.28 万元起》",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "蔚来CEO称原材料涨价致ES8成本涨近2万元，压力大。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体且有直接引述，但缺乏原始数据支撑。"
-    },
-    {
-      "title": "美国新泽西州拟禁止纯视觉自动驾驶汽车，特斯拉 Robotaxi 或被拒之门外",
-      "link": "https://www.ithome.com/0/974/836.htm",
-      "pubDate": "Fri, 10 Jul 2026 02:04:37 GMT",
-      "contentSnippet": "IT之家 7 月 10 日消息，据科技媒体 The Verge 前天报道，自动驾驶行业十多年来始终在争论：仅凭摄像头是否能取代人类驾驶员，还是说真正的无人驾驶汽车必须配备毫米波雷达、激光雷达等冗余传感器，才能可靠地感知环境？\n\n特斯拉已经在纯视觉智驾方案投资数十亿美元，并坚定地在这条路上前进。但与此同时，其他自动驾驶企业都选择了截然不同的技术路线。\n而美国新泽西州似乎想为这场争端画一个句号。该州立法者已经在起草法案，意图让新泽西州所有运营自动驾驶汽车的企业，都必须使用摄像头和另外两种环境感知技术。\n目前，该法案还在起草过程中，预计将于今年晚些时候表决。如果最终通过，新泽西成为全美首个禁止 Ro",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "新泽西州拟立法要求自动驾驶汽车配备多种传感器，纯视觉方案或遭禁。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，引用The Verge报道，信息具体且逻辑清晰。"
-    },
-    {
-      "title": "7 月 1 日铁路暑运启动以来，全国铁路累计发送旅客超 1 亿人次",
-      "link": "https://www.ithome.com/0/974/835.htm",
-      "pubDate": "Fri, 10 Jul 2026 02:03:30 GMT",
-      "contentSnippet": "IT之家 7 月 10 日消息，据央视新闻今天（10 日）援引国铁集团数据，自 7 月 1 日铁路暑运启动以来，截至 9 日，全国铁路累计发送旅客 12366.3 万人次。京津冀、长三角、粤港澳大湾区、成渝地区客流量较为集中。\n国铁成都局累计发送旅客突破千万人次，较去年同期大幅上涨，为应对即将到来的暑期出行高峰，今天（10 日）至 12 日，加开夜间高铁 11 对，辐射华北、华中、华南、西北、西南多地重点城市。\n作为对比，据IT之家了解，2025 年 7 月 1 日至 8 月 31 日，全国铁路累计发送旅客 9.43 亿人次（首破 9 亿人次），同比增长 4.7%，国家铁路累计发送货物 7.0",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "铁路暑运9天发送旅客超1.2亿人次，加开夜间高铁应对高峰。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源权威（央视新闻、国铁集团数据），信息具体有对比，逻辑清晰。"
-    },
-    {
-      "title": "三星电子会长李在镕拟于本月底赴美，会见英伟达 CEO 黄仁勋",
-      "link": "https://www.ithome.com/0/974/828.htm",
-      "pubDate": "Fri, 10 Jul 2026 01:47:36 GMT",
-      "contentSnippet": "IT之家 7 月 10 日消息，据韩媒《东亚日报》今天报道，三星电子会长李在镕预计将于本月底奔赴美国，会见英伟达创始人兼 CEO 黄仁勋。\n\n据业内人士透露，李在镕正在和黄仁勋协调硅谷会面的相关安排。如果会面成行，两人将在时隔九个月后会晤，他们上一次会面是在去年 10 月的 APEC 会议。\n同时，本次会谈将进一步促进韩国国内的“三大超级计划”。根据该计划，韩国各大企业将在光州投资 800 万亿韩元（IT之家注：现汇率约合 3.62 万亿元人民币）建设半导体园区，并在国内投资超 1000 万亿韩元（现汇率约合 4.52 万亿元人民币）建立 AI 数据中心，而英伟达预计将在其中发挥关键作用。\n并",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "三星李在镕拟月底赴美会晤英伟达黄仁勋，推动韩国AI投资计划。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体且有韩媒引用，逻辑清晰。"
-    },
-    {
-      "title": "开启“算力自主”，粤港澳大湾区国产智算超万卡集群发布",
-      "link": "https://www.ithome.com/0/974/822.htm",
-      "pubDate": "Fri, 10 Jul 2026 01:29:28 GMT",
-      "contentSnippet": "IT之家 7 月 10 日消息，据央视新闻今天（10 日）报道，昨天（9 日），粤港澳大湾区国产智算超万卡集群在韶关上线启用，重点服务于粤港澳大湾区人工智能产业，标志着国产大模型研发正式进入“算力自主”新阶段。\n\nIT之家从报道中获悉，该集群总投资 55 亿元，总计部署 11520 张昇腾国产 AI 加速算力芯片卡，总算力达 9000P，整体性能达国际领先水平，它是全国一体化算力网络粤港澳大湾区枢纽的组成部分。通过联动国产芯片、操作系统、算法框架等上下游企业，完善从基础设施到产业应用的完整算力生态链，推动国产芯片、国产训练框架的规模化应用。\n中国电信广东分公司云网发展部总经理刘志军介绍，这个集",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "粤港澳大湾区国产智算超万卡集群发布，总投资55亿元，总算力9000P。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家，引用央视新闻，信息具体有数据支撑，技术描述清晰。"
-    },
-    {
-      "title": "【钛晨报】事关“十五五”时期碳达峰工作，国务院部署5方面重点任务；微信6月密集更新AI功能：开发者可接入AI生态，企业微信\"大圆\"内测；商务部等9部门：支持符合条件的新型优质零售企业上市",
-      "link": "https://www.tmtpost.com/8059200.html",
-      "pubDate": "Fri, 10 Jul 2026 07:20:00 +0800",
-      "contentSnippet": "阶跃星辰将发布AI智能体手机；比亚迪储能与阿联酋Masdar签署11.275GWh储能合作协议；SpaceXAI联手Cursor发布Grok 4.5，面向编程与智能体任务；英伟达将与Hugging Face合作开发机器人开源模型；雀巢将斥资6.88亿美元在泰国新建咖啡工厂和配送中心；未来5年，城镇新增就业将保持相当规模；国家基本药物目录迎来新调整；中国城乡三级养老服务网络2029年基本建成；中办、国办：统筹推进防洪排涝工程设施建设，做好防汛关键期暴雨洪涝灾害防范应对；财政部将发行2026年第五期和第六期储蓄国债；燧原科技科创板IPO申请获证监会同意注册批复；2026年度票房破180亿；国家统计",
+      "title": "中国的自有品牌，更像供应链故事，而非渠道故事",
+      "link": "https://www.tmtpost.com/8060582.html",
+      "pubDate": "Sat, 11 Jul 2026 10:43:00 +0800",
+      "contentSnippet": "一种融合了渠道做自有品牌、制造业实现C2M升级、平台数字基建延伸的复合形态。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -152,33 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国务院部署十五五碳达峰重点任务，微信更新AI功能。",
-      "credibilityScore": 85,
+      "aiSummary": "中国自有品牌是供应链与C2M融合的复合形态",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体钛媒体，内容具体且包含多项政策与技术细节。"
+      "credibilityReason": "钛媒体为知名科技媒体，内容有具体分析，但缺乏数据支撑和原始出处"
     },
     {
-      "title": "电动自行车区间测速，深圳开始试点",
-      "link": "https://www.ithome.com/0/974/941.htm",
-      "pubDate": "Fri, 10 Jul 2026 03:40:00 GMT",
-      "contentSnippet": "IT之家 7 月 10 日消息，据“深圳大件事”今日报道，深圳交警于近日在罗湖区试点 RFID 区间测速抓拍电动车超速违法。\n深圳市罗湖区启动试点的路段为笋岗彩虹桥段，目前已在大桥布设智能设备自动采集、抓拍。\n\n深圳交警依托智能设备自动采集、抓拍电动车超速违法行为，进一步提升违法行为感知能力，压缩交通违法空间。试点以来，彩虹桥路段电动车整体违法率下降，通行秩序得到提升。接下来，交管部门将持续加大路面执法力度，逐步推广智能测速执法覆盖范围。\n除了深圳，北京主要路口已推出“电子警察”抓拍电动自行车违法行为，IT之家附主要抓拍内容如下：\n\n乱道行驶：电动自行车应在非机动车道内行驶，没有施划非机动车道",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "深圳试点RFID区间测速抓拍电动车超速，提升交通秩序。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源知名科技媒体IT之家，信息具体有试点细节，但缺少数据支撑。"
-    },
-    {
-      "title": "半日主力资金加仓医药、计算机股，抛售电子股",
-      "link": "https://36kr.com/newsflashes/3889279349111300?f=rss",
-      "pubDate": "2026-07-10 11:39:32  +0800",
-      "contentSnippet": "主力资金早间净流入医药生物、计算机、传媒、机械设备、汽车、有色金属板块，净流出电子、通信、基础化工、非银金融、建筑材料、综合等板块。具体到个股来看，深科技、中兴通讯、中科曙光获净流入33.55亿元、28.09亿元、19.07亿元。净流出方面，兆易创新、中际旭创、中天科技遭抛售55.42亿元、28.95亿元、14.71亿元。（第一财经）",
+      "title": "市场发行热度大幅升温，熊猫债存量规模首超5000亿元",
+      "link": "https://36kr.com/newsflashes/3890587699198473?f=rss",
+      "pubDate": "2026-07-11 10:25:21  +0800",
+      "contentSnippet": "今年以来，熊猫债发行热度显著上升。Wind数据显示，截至7月9日，以缴款截止日为统计口径，年内熊猫债发行规模已突破1700亿元，同比增长超七成；市场存量规模首次迈上5000亿元。与此同时，熊猫债发行主体结构持续优化，境外主权机构、跨国龙头企业、多边开发机构纷纷入场，为市场发展注入新动能。受访业内人士表示，熊猫债市场发行火热，主要受益于中美利差倒挂、人民币融资成本优势突出、人民币汇率趋稳等因素。熊猫债市场规模稳步扩张，将有助于推动人民币从贸易结算货币向国际投融资货币转型，持续提升人民币在全球资本市场的话语权，也是我国推进金融高水平对外开放的成果。（证券时报）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -186,34 +33,135 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "半日主力资金流向：加仓医药计算机，抛售电子股。",
+      "aiSummary": "熊猫债存量规模首超5000亿元，年内发行增超七成。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体有数据支撑，引用第一财经。"
+      "credibilityReason": "来源为知名科技媒体36氪，引用Wind数据，信息具体且逻辑清晰。"
     },
     {
-      "title": "AI 仓库调用漏洞 HalluSquatting 披露，攻击“龙虾”成功率约 80-100%",
-      "link": "https://www.ithome.com/0/974/940.htm",
-      "pubDate": "Fri, 10 Jul 2026 03:38:36 GMT",
-      "contentSnippet": "IT之家 7 月 10 日消息，科技媒体 Tom's Hardware 昨日（7 月 9 日）发布博文，报道称研究人员发现名为 HalluSquatting 的新型 AI 漏洞，放大模型在调用工具时的“幻觉”，将不存在或错误的代码仓库地址当作真实地址使用。\nIT之家注：AI 幻觉是 AI 模型生成的不正确或具有误导性的结果。这些错误可能由多种因素造成，包括训练数据不足、模型做出不正确的假设，或用于训练模型的数据存在偏差。\n该研究由特拉维夫大学、以色列理工学院和 Intuit 研究人员发布，指出智能体 AI 在遇到陌生项目、仓库或工具名称后，可能自行补全出看似合理但实际错误的地址。\n\n例如新仓库",
+      "title": "美国五角大楼发布第 4 批 UFO 文件：共 40 份文件",
+      "link": "https://www.ithome.com/0/975/368.htm",
+      "pubDate": "Fri, 10 Jul 2026 22:52:19 GMT",
+      "contentSnippet": "IT之家 7 月 11 日消息，科技媒体 The Hill 今天（7 月 11 日）发布博文，报道称美国国防部昨日（10 日周五）公布第四批不明飞行物（UFO）解密文件，共计 40 份文件，其中包括 14 个书面文档、19 个视频、4 段音频和 3 张图像。\n \nIT之家查询公开资料，这是美国五角大楼第四次公开 UFO 解密文件：\n\n第一批于 5 月 8 日解密，公布不明飞行物（UFO）或不明空中现象（UAP）的相关文件，首批公布的文件共有 162 份，内容包括旧国务院电报、联邦调查局（FBI）文件、NASA 载人航天通讯记录以及军方飞行员的遭遇记录等\n\n第二批于 5 月 22 日解密，包括",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
-        "IT之家",
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "美国五角大楼发布第四批UFO解密文件，共40份。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，引用The Hill报道，内容具体有数据支撑。"
+    },
+    {
+      "title": "三星 Galaxy Z Flip8/Fold8 折叠手机渲染图再曝",
+      "link": "https://www.ithome.com/0/975/410.htm",
+      "pubDate": "Sat, 11 Jul 2026 02:55:13 GMT",
+      "contentSnippet": "IT之家 7 月 11 日消息，消息源 Roland Quandt 今天（7 月 11 日）在 Bluesky 平台发布动态，分享了三星 Galaxy Z Flip8 和 Galaxy Z Fold8 两款手机渲染图。\n本次曝光的渲染图并未透露更多新线索，但没有水印，看起来像是三星官方的宣传图。IT之家附上相关截图如下：\n\n\n\n延伸阅读\n三星 Galaxy Z Flip8 折叠手机此前已有多组渲染图流出，包括三款官方配色（奶油色、石墨色、粉色）的渲染图，其外观设计与前代 Galaxy Z Flip7 相比几乎没有变化。\n三星 Galaxy Z Fold8 系列将包括 Galaxy Z Fold",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "三星Galaxy Z Flip8/Fold8渲染图再曝，外观与前代几乎无变化。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体但缺乏技术细节和原始出处。"
+    },
+    {
+      "title": "摩托罗拉预热 Edge 70 Max 手机，确认搭载骁龙 8 Gen 5 芯片、支持 25W 磁吸无线充",
+      "link": "https://www.ithome.com/0/975/409.htm",
+      "pubDate": "Sat, 11 Jul 2026 02:48:54 GMT",
+      "contentSnippet": "IT之家 7 月 11 日消息，摩托罗拉现已在印度电商平台 Flipkart 公布 Edge 70 Max 手机的核心配置，确认搭载高通骁龙 8 Gen 5 芯片，支持磁吸无线充电功能。\n\nIT之家了解到，这款手机将使用 3nm 工艺打造的高通骁龙 8 Gen 5 芯片，最高可选 12GB LPDDR5X 内存，并配备 5500 mm² 的 VC 均热板散热系统，安兔兔跑分超 300 万分。\n\n屏幕方面，这款手机将配备一块 QHD+ LTPO 面板，支持 144Hz 高刷，峰值亮度可达 7000nits。具备 10bit 色深、DCI-P3 广色域覆盖，屏幕表面带有康宁大猩猩玻璃 7i，屏占比",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "摩托罗拉Edge 70 Max搭载骁龙8 Gen 5芯片，支持25W磁吸无线充。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家较可靠，内容具体有配置细节，但未来芯片命名存疑。"
+    },
+    {
+      "title": "曝三星为消化内存成本压力，Galaxy S27/S27+ 手机将配第三方显示驱动芯片",
+      "link": "https://www.ithome.com/0/975/408.htm",
+      "pubDate": "Sat, 11 Jul 2026 02:45:29 GMT",
+      "contentSnippet": "IT之家 7 月 11 日消息，科技媒体 Zdnet Korea 昨日（7 月 10 日）发布博文，报道称三星为消化内存等元件上涨的成本压力，在 Galaxy S27 系列的 4 款机型中，可能会区分使用不同的显示驱动芯片（DDI）。\nIT之家注：DDI 作用是把主控输出的显示信号转换为面板可执行的驱动指令，并精确控制像素点亮、亮度与刷新过程。\n在 Galaxy S 系列旗舰机型中，DDI 历年均由三星集团 System LSI 部门供应，而最新消息称三星正在为 Galaxy S27 标准版和 Galaxy S27 Plus 两款机型评估第三方 DDI，而 Pro 和 Ultra 版所用 DD",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "三星为降成本，S27/S27+或采用第三方显示驱动芯片",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，引用Zdnet Korea报道，内容具体有技术细节"
+    },
+    {
+      "title": "“鹰瞰智翼”完成数千万元A轮融资",
+      "link": "https://36kr.com/newsflashes/3890588865886723?f=rss",
+      "pubDate": "2026-07-11 10:41:29  +0800",
+      "contentSnippet": "36氪获悉，具身智能仿生扑翼飞行机器人公司“鹰瞰智翼”已于近期完成数千万元A轮融资。本轮融资是公司在三个月内完成的第三轮融资，由元禾璞华领投，孚腾资本、厚雪资本跟投。资金将主要用于首款消费级产品的量产备货、市场拓展，团队扩充以及下一代具身智能扑翼机器人与流体仿真引擎的研发。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "鹰瞰智翼获数千万元A轮融资，用于量产和研发。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体36氪，信息具体，包含融资方、用途等细节。"
+    },
+    {
+      "title": "阿根廷 3 比 2 逆转埃及后，阿根廷足协邮箱疑遭埃及黑客攻击",
+      "link": "https://www.ithome.com/0/975/407.htm",
+      "pubDate": "Sat, 11 Jul 2026 02:39:30 GMT",
+      "contentSnippet": "IT之家 7 月 11 日消息，据《纽约时报》今天（11 日）报道，阿根廷足球协会（AFA）正在调查内部系统是否遭到黑客入侵。\n本周早些时候，阿根廷队在世界杯 16 强赛中戏剧性逆转埃及队。赛后，多名记者突然收到由 AFA 账户发出的邮件，要求为埃及队及主教练霍萨姆 · 哈桑“讨回公道”。\n\n▲ 图源纽约时报\n至少一名《The Athletic》记者收到邮件。邮件以英文写成，主题为“系统遭入侵：不公正的判罚”，开头宣称：“这场抢劫不会无人追究。”AFA 证实，协会已经介入调查。\n阿根廷队与埃及队的比赛堪称世界杯历史上最具戏剧性的淘汰赛之一。阿根廷队一度落后两球，却在最后 13 分钟连进三球，最",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "阿根廷足协邮箱疑遭埃及黑客攻击，调查中。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，引用纽约时报，信息具体但缺乏技术细节。"
+    },
+    {
+      "title": "赴美双重上市，途虎真正的考题不在华尔街",
+      "link": "https://www.tmtpost.com/8060567.html",
+      "pubDate": "Sat, 11 Jul 2026 10:37:00 +0800",
+      "contentSnippet": "一家全球门店第一的公司，为什么还要去美股重新证明自己？",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
         "钛媒体"
       ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "披露AI仓库调用漏洞HalluSquatting，攻击成功率约80-100%。",
-      "credibilityScore": 90,
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "途虎赴美双重上市，核心挑战在国内市场而非华尔街。",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，引用学术研究，信息具体有数据支撑。（多源覆盖 +5）"
+      "credibilityReason": "钛媒体为知名科技媒体，内容有具体分析，但缺少数据支撑和原始出处。"
     },
     {
-      "title": "vivo 印度与 Dixon 设立合资企业获批，将在当地制造手机等产品",
-      "link": "https://www.ithome.com/0/974/939.htm",
-      "pubDate": "Fri, 10 Jul 2026 03:38:31 GMT",
-      "contentSnippet": "IT之家 7 月 10 日消息，印度 EMS（电子制造服务）企业 Dixon 当地时间昨日表示，印度商务和工业部工业和国内贸易促进署正式批准 Dixon 与 vivo 印度设立一家 51:49 合资企业。\n这家合资企业将在印度开展包括智能手机在内的电子设备 OEM 业务，处理来自 vivo 印度甚至其它电子产品企业的订单。\n\nIT之家注意到，Dixon 与 vivo 印度早在 2024 年就为设立合资企业签署了意向书，但相关审核工作经历了复杂而漫长的行政流程。\nDixon 创始人兼董事长 Sunil Vachani 在今年 5 月曾表示，这一合资企业将承接 vivo 在印智能手机销量的约 2/",
+      "title": "三星 One UI 9 版录音机应用曝光：加入云端转录，增强文件管理",
+      "link": "https://www.ithome.com/0/975/406.htm",
+      "pubDate": "Sat, 11 Jul 2026 02:33:27 GMT",
+      "contentSnippet": "IT之家 7 月 11 日消息，科技媒体 SamMobile 昨日（7 月 10 日）发布博文，通过挖掘 One UI 9 系统，发现三星录音机（Voice Recorder）应用将加入云端转录、转换录音格式和独立存储管理入口，并同步调整播放列表与设置页界面。\n根据最新曝光的截图，三星计划在 One UI 9 版录音机应用中，引入“云端转录”（Cloud transcription），该功能会将语音录音上传至三星服务器，再由云端 AI 生成转录文本，可以提供更高的转录准确性。IT之家附上相关截图如下：\n\n在目前应用中，仅在录音摘要功能中使用云端 AI，录音转写目前仅依赖设备端 AI，新加入的云",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -221,16 +169,67 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "vivo印度与Dixon合资获批，将在印度制造手机等产品。",
+      "aiSummary": "三星One UI 9录音机将支持云端转录和文件管理增强",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，引用SamMobile挖掘信息，有截图佐证，内容具体"
+    },
+    {
+      "title": "温州“烂尾楼富豪”，摊上事儿了？",
+      "link": "https://www.tmtpost.com/8060563.html",
+      "pubDate": "Sat, 11 Jul 2026 10:30:00 +0800",
+      "contentSnippet": "胡兴荣请辞上市公司职务，或已“失联”大半年。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "温州富豪胡兴荣失联，请辞上市公司职务。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体，内容具体但缺乏原始出处和细节支撑。"
+    },
+    {
+      "title": "空调火到欧洲，但美的的全球化还差一口气",
+      "link": "https://www.tmtpost.com/8060554.html",
+      "pubDate": "Sat, 11 Jul 2026 10:25:00 +0800",
+      "contentSnippet": "出海尴尬期。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "美的空调欧洲热销但全球化仍存短板",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体，内容具体有分析，但缺少数据支撑和原始出处"
+    },
+    {
+      "title": "SK 海力士联合研发忆阻器 AI 芯片：理论峰值约 2.54 TOPS，能效 21.3 TOPS/W",
+      "link": "https://www.ithome.com/0/975/403.htm",
+      "pubDate": "Sat, 11 Jul 2026 02:20:30 GMT",
+      "contentSnippet": "IT之家 7 月 11 日消息，科技媒体 Tom's Hardware 昨日（7 月 10 日）发布博文，报道称 SK 海力士携手 TetraMem、南加州大学，为提升边缘 AI 设备神经网络推理能效，联合开发忆阻器（memristor）存内计算 SoC。\nIT之家注：忆阻器是一种电阻状态可按历史电流或电压变化而改变并保留的非易失性器件，可同时承担存储与计算相关功能。在 AI 芯片中，忆阻器常用于构成交叉阵列，以直接存放神经网络权重，适用于低功耗推理、边缘计算与新型存算一体架构研究。\n存内计算指把部分计算直接放在存储阵列内部完成，而非在处理器与存储器之间反复搬运数据。该方式可显著降低数据移动带",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "SK海力士联合开发忆阻器AI芯片，能效达21.3 TOPS/W",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家较知名，内容具体有企业名称、股权比例和背景信息，逻辑清晰。"
+      "credibilityReason": "来源IT之家转述Tom's Hardware，技术细节具体，逻辑清晰"
     },
     {
-      "title": "荣耀手表 6 Plus 张雪机车联名款预售：专属机车模式，国补到手 1359.15 元起",
-      "link": "https://www.ithome.com/0/974/938.htm",
-      "pubDate": "Fri, 10 Jul 2026 03:36:58 GMT",
-      "contentSnippet": "IT之家 7 月 10 日消息，荣耀手表 6 Plus 张雪机车联名款于现已开启预售，厂商指导价为 1699 元，国家补贴后到手价 1359.15 元起。\n京东荣耀手表 6Plus【张雪机车联名款】1359.15 元直达链接\n\n\n\n\n\n\n手表表带采用黑蓝红撞色设计，自带专属机车定制表盘，搭配酷炫开机动画与机车联动提示音，产品整体视觉风格硬朗，凸显机车骑士本色。\n联名款支持专属机车模式，可实时掌控骑行中数据，提供智能超速提醒，骑行结束后自动生成专业骑行报告，还支持一键分享骑行数据与路线，生成专属机车海报。\n\n\n\n\n核心配置方面，荣耀手表 6 Plus 搭载 1000 mAh 青海湖电池，长续航使",
+      "title": "路透社实测发现，Meta 检测工具面对裁剪后的自家 AI 生成图片竟然“失灵”",
+      "link": "https://www.ithome.com/0/975/402.htm",
+      "pubDate": "Sat, 11 Jul 2026 02:19:46 GMT",
+      "contentSnippet": "IT之家 7 月 11 日消息，路透社 10 日披露的测试结果显示，Meta 本周公布的一款 AI 图像检测工具存在明显局限：部分由 Meta 自家模型 Muse Image 生成的图片只要经过裁剪，检测工具便无法确认其 AI 来源。\nMeta 在推出 Muse Image 的同时介绍了这款检测工具，并声称即使图片经过裁剪，工具仍可识别由 Meta AI 生成的内容。不过，路透社的测试结果显示，常见的图片修改操作就可能削弱检测能力。\n路透社使用 Muse Image 生成了 40 张图片。检测工具成功识别了全部原图，但同一批图片被裁剪至原图约三分之一至二分之一大小后，55% 的图片无法通过验证",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -238,27 +237,27 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "荣耀手表6 Plus张雪机车联名款预售，国补后1359.15元起。",
-      "credibilityScore": 75,
+      "aiSummary": "路透社测试发现Meta AI图像检测工具经裁剪后失灵。",
+      "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体但缺少技术细节和原始出处。"
+      "credibilityReason": "来源为知名科技媒体IT之家，引用路透社实测数据，内容具体但缺乏官方回应。"
     },
     {
-      "title": "李斌：蔚来品牌 6 月均价超 44 万元，已全面超越 BBA",
-      "link": "https://www.ithome.com/0/974/937.htm",
-      "pubDate": "Fri, 10 Jul 2026 03:32:49 GMT",
-      "contentSnippet": "7 月 10 日上午消息，蔚来 ES8 大五座版上市发布会后，蔚来创始人、董事长、CEO 李斌，蔚来联合创始人、总裁秦力洪与媒体对话。\n终端数据显示，今年 5 月蔚来公司在全国 48 个城市和地区销量超越 BBA。价格方面，5 月蔚来品牌成交均价 38.22 万元，同时超越 BBA 等豪华品牌；6 月均价进一步升至 44.3 万元，领先幅度持续扩大。\n李斌表示，这意味着蔚来不光在量上取得了成绩，在单价上也全面超越了 BBA。\n他还提到，从蔚来 ES8 的用户来源来说，超过 68% 来自宝马、奔驰、奥迪和保时捷这四个品牌用户的增购，如果把别的二线豪华品牌加进来就更多了。“我们的用户经常开玩笑说，",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "“祸从口出”的粉笔创始人，“撂挑子”不干了",
+      "link": "https://www.tmtpost.com/8060551.html",
+      "pubDate": "Sat, 11 Jul 2026 10:16:00 +0800",
+      "contentSnippet": "此时接班的盛海燕，肩上的担子并不轻松。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
       "allSources": [
-        "IT之家"
+        "钛媒体"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "蔚来6月均价44.3万元，李斌称已全面超越BBA。",
+      "aiSummary": "粉笔创始人因言论争议辞职，盛海燕接任面临挑战。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家较知名，内容具体有数据支撑，但缺乏独立验证和原始出处。"
+      "credibilityReason": "来自知名科技媒体钛媒体，内容具体但缺乏数据支撑和原始出处。"
     }
   ]
 }
