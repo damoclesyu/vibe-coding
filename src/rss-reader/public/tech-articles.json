@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-07-13T03:25:22.956Z",
+  "generatedAt": "2026-07-14T02:49:16.948Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "头部人形机器人关节公司半年再获新融资，同创伟业领投数亿元｜硬氪首发",
-      "link": "https://36kr.com/p/3885232033378308?f=rss",
-      "pubDate": "2026-07-13 10:37:39  +0800",
-      "contentSnippet": "作者｜黄楠\n编辑｜袁斯来\n硬氪获悉，零差云控（深圳）科技股份有限公司（以下简称“零差云控”）近日完成C++轮融资数亿元，本轮由同创伟业领投、国泰君安创新投资跟投，老股东华控基金追加投资。本轮资金将用于产能扩张和全球市场布局。源式资本担任本轮独家财务顾问，并由一苇资本和源式资本共同担任后续融资财务顾问。\n人形机器人赛道在经历了概念爆火与资本狂热后，行业关键词正在悄然转变，供应链的产能与可靠性成为真正的瓶颈。当本体厂商进入量产焦虑，上游核心零部件公司的选择与判断，或许更能反映赛道的真实水温。\n零差云控是硬氪长期关注的企业。公司成立于2016年，长期专注高可靠、高精度、标准化的机器人关键核心零部件的",
+      "title": "上半年我国体育用品及设备出口675.3亿元",
+      "link": "https://36kr.com/newsflashes/3894887747992583?f=rss",
+      "pubDate": "2026-07-14 10:44:42  +0800",
+      "contentSnippet": "国务院新闻办公室今天（14日）举行发布会，介绍今年以来我国外贸运行情况并回答记者提问。世界杯是当前全球瞩目的体育赛事，给广大球迷带来精彩观赛体验的同时，也掀起了全球对各类体育用品的消费热情。近年来，中国一直保持全球最大体育用品出口国地位，占全球出口比重超4成。上半年，我国体育用品及设备出口675.3亿元，其中球类出口30.8亿元。（央视新闻）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -16,16 +16,101 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "零差云控获数亿元C++轮融资，用于产能扩张和全球市场布局。",
-      "credibilityScore": 85,
+      "aiSummary": "上半年我国体育用品及设备出口675.3亿元，球类出口30.8亿元。",
+      "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体36氪，信息具体，有融资细节和行业背景分析。"
+      "credibilityReason": "来源为36氪转载央视新闻，信息源自国务院新闻发布会，权威可靠。"
     },
     {
-      "title": "【钛晨报】加快推进新一代通信网、算力网建设，国常会最新部署；三星电子计划将龙仁首座芯片工厂的投产时间提前至2029年；美国消费信贷自2024年以来首次下降",
-      "link": "https://www.tmtpost.com/8061844.html",
-      "pubDate": "Mon, 13 Jul 2026 07:20:00 +0800",
-      "contentSnippet": "中国石化完成对中国航油重组，发力绿色航空燃料产业；京东首个RoboBase项目落地广州黄埔；中国一汽：完成国7混动专用汽油机技术攻关，将应用于红旗品牌车型；Meta紧急下线争议AI生图功能；OpenAI安全系统负责人据悉将离职；新修改的《医疗机构水污染物排放标准》发布；国家金融监督管理总局发布 《国家金融监督管理总局关于严重失信主体名单管理的规定（试行）》；国务院原则同意《中医药振兴发展“十五五”规划》；国家能源局：稳妥有序关停一批具备条件的30万千瓦级及以下煤电机组，推动实施一批60万千瓦级煤电机组超（超）临界跨代升级改造；SK海力士美股上市首日收涨近13%，溢价正股15.5%，市值1.22",
+      "title": "上半年我国电动汽车、电动摩托车及脚踏车出口分别增长 68.7%、31.5%",
+      "link": "https://www.ithome.com/0/976/342.htm",
+      "pubDate": "Tue, 14 Jul 2026 02:42:48 GMT",
+      "contentSnippet": "IT之家 7 月 14 日消息，国务院新闻办公室于 2026 年 7 月 14 日（星期二）上午 10 时举行新闻发布会，请海关总署副署长王军，海关总署新闻发言人、统计分析司司长吕大良介绍 2026 年上半年进出口情况，并答记者问。\nIT之家从国新办官网获悉，海关总署副署长王军介绍，今年以来，中国出口增速超过 10%，已连续 11 个季度保持增长。\n\n上半年，我国电子元件、电脑零部件等产品出口均两位数增长，合计拉动出口增长 6.9 个百分点；与 AI 技术深度融合的智能仿生机器人出口超万台，遍及全球 90 多个国家和地区。\n当前，全球绿色低碳转型深入推进，新能源建设、消费需求上升与我国绿色产品",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "上半年我国电动车辆出口增长显著，智能仿生机器人出口超万台。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家，引用国新办官方发布会数据，信息具体且有出处。"
+    },
+    {
+      "title": "海关总署：中国出口连续11季度保持增长，贸易增量集中于AI领域",
+      "link": "https://36kr.com/newsflashes/3894871537449989?f=rss",
+      "pubDate": "2026-07-14 10:28:12  +0800",
+      "contentSnippet": "7月14日，海关总署副署长王军在国新办新闻发布会上表示，截至目前，中国出口已经连续11个季度保持增长，出口增长根本原因在于中国制造与全球各类需求的精准适配。联合国报告显示，今年以来，全球货物贸易增长主要集中于人工智能相关领域。王军指出，全球算力数据中心及终端设备需求持续扩张，促进了我国相关产品出口；上半年我国电子元件、电脑零部件等产品出口均呈两位数增长，合计拉动出口增长6.9个百分点。（证券时报）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国出口连续11季度增长，AI领域成主要增量来源。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪为知名科技媒体，内容引用海关总署官方数据和联合国报告，信息具体且逻辑清晰。"
+    },
+    {
+      "title": "今年上半年我国货物贸易进出口同比增长16.9%",
+      "link": "https://36kr.com/newsflashes/3894845564353801?f=rss",
+      "pubDate": "2026-07-14 10:01:47  +0800",
+      "contentSnippet": "国务院新闻办公室今天举行发布会，海关总署相关负责人介绍了今年以来我国外贸运行情况并回答记者提问，同时公布了上半年外贸数据，我国货物贸易进出口同比增长16.9%，外贸保持良好运营态势。据海关统计，今年上半年，我国货物贸易进出口25.47万亿元，同比增长16.9%，其中，出口14.73万亿元，增长13.4%，进口10.74万亿元，增长22.1%。其中，6月进出口4.78万亿元，同比增长24.2%，连续17个月保持增长。（央视新闻）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "我国上半年货物贸易进出口同比增长16.9%，外贸保持良好态势。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为权威媒体36氪，数据引自央视新闻和海关总署官方发布会，信息详实有具体数据支撑。"
+    },
+    {
+      "title": "36氪首发 | 前博世自动驾驶算法工程师创业，用合成数据做触觉大模型",
+      "link": "https://36kr.com/p/3894821059918855?f=rss",
+      "pubDate": "2026-07-14 09:38:13  +0800",
+      "contentSnippet": "触觉手套（图源/企业）\n本文约2400字，建议阅读6分钟\n作者丨欧雪\n编辑丨袁斯来\n硬氪获悉，空间智能公司「大衍科技」近期完成数千万元天使轮融资，由松禾资本领投，浙江省省金控与广州番禺创新基金等国资背景机构参与。资金将主要用于触觉大模型研发、机器人数据产线建设及团队扩张。\n「大衍科技」2025年5月成立于浙江桐乡，是一家专注于4D世界重建、世界模型及可控扩散模型技术的空间智能公司。\n创始人兼CEO杨林是新加坡国立大学计算机博士，曾在速腾、酷睿程、比亚迪、苏州博世等企业深耕自动驾驶算法7-8年。此外，公司核心技术源自首席科学家、联合国科学院院士、加拿大工程院院士埃尔萨迪克团队二十余年的数字孪生与",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "大衍科技获数千万元天使轮融资，专注触觉大模型研发",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪为知名科技媒体，内容具体有融资细节和团队背景，但技术细节较少"
+    },
+    {
+      "title": "漫威电影《复仇者联盟 5：毁灭之日》片长 165 分钟，仅次于《终局之战》",
+      "link": "https://www.ithome.com/0/976/279.htm",
+      "pubDate": "Tue, 14 Jul 2026 00:51:19 GMT",
+      "contentSnippet": "IT之家 7 月 14 日消息，《好莱坞报道者》今日报道称，《复仇者联盟 5：毁灭之日》片长为 165 分钟（即 2 小时 45 分钟），北美地区预售将于 7 月 20 日（下周一）正式启动。\n\n这部影片由安东尼 · 罗素与乔 · 罗素兄弟执导，定于 2026 年 12 月 18 日在北美公映，12 月 16 日在中国台湾公映，中国大陆暂未定档。\n165 分钟的时长将使《毁灭之日》位列漫威电影宇宙（MCU）片长第二，仅次于 2019 年《复仇者联盟 4：终局之战》的 181 分钟，超过 2018 年《复仇者联盟 3：无限战争》的 149 分钟。不过《好莱坞报道者》也指出，由于距离上映尚有五个月",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "《复联5》片长165分钟，MCU第二长，预售7月20日启动。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，引用《好莱坞报道者》原始出处，信息具体且逻辑清晰。"
+    },
+    {
+      "title": "【钛晨报】李强主持召开经济形势专家和企业家座谈会；Meta宣布将追加400亿美元投资路易斯安那州数据中心；字节跳动回应：没有做智能驾驶业务的计划",
+      "link": "https://www.tmtpost.com/8063498.html",
+      "pubDate": "Tue, 14 Jul 2026 07:20:00 +0800",
+      "contentSnippet": "国务院批复同意《扩大消费“十五五”规划》；国务院印发《国民健康“十五五”规划》；中办、国办发布关于完善自然资源资产管理制度体系的意见；民政部等14部门联合发文，推动中国康复辅具产业扩能提质；内部人士：菜鸟供应链定位独立公司，将继续加大投入；阶跃星辰发布大模型原生智能体手机；苹果调整Mac芯片路线图，加速AI芯片研发；中国首个禁售燃油车省份确认：海南",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -33,16 +118,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国常会部署通信算力网建设，三星芯片厂提前至2029年投产。",
+      "aiSummary": "钛媒体晨报汇总多领域政策与企业动态，含Meta投资及字节辟谣。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源钛媒体为知名科技媒体，内容具体但部分信息缺乏原始出处。"
+      "credibilityReason": "来源知名科技媒体，内容具体但部分信息缺乏原始出处。"
     },
     {
-      "title": "家长花 3 万打造“少年马斯克”，有研学营标榜让孩子“6 天创办 AI 公司”",
-      "link": "https://www.ithome.com/0/975/841.htm",
-      "pubDate": "Sun, 12 Jul 2026 23:17:12 GMT",
-      "contentSnippet": "IT之家 7 月 13 日消息，据中国新闻周刊今日报道，“少年马斯克”是今年被不少家长和从业者关注的科创教育品牌，每期课程费用接近 3 万元。一群还没进入青春期的孩子被推上创业路演台，是近些年 AI 等技术迅猛发展后出现的新现象。\n大湾区港澳人才协会研学教育发展委员会主席陈重捷发现：“家长们的 AI 焦虑十分明显，迫切希望参与研学的孩子能在三五天内了解 AI，甚至熟练使用 AI。”\n\n图源：Pexels\n报道提到，不少此前做户外营、英语营的机构突然转型开设 AI 研学营，甚至有从业者选择在深山或是野外组织几天的闭门 AI 研学，这些所谓 AI 研学营，很多都是从第三方打包购买的服务。\n北京一家",
+      "title": "美的：20 万台空调急运欧洲",
+      "link": "https://www.ithome.com/0/976/344.htm",
+      "pubDate": "Tue, 14 Jul 2026 02:46:56 GMT",
+      "contentSnippet": "IT之家 7 月 14 日消息，美的空调官方今日发文，宣布 20 万台空调急运欧洲。\n\n受欧洲持续极端高温天气影响，多国空调需求爆发式增长。近日，美的空调芜湖工厂承接了法国客户 3 万台移动空调紧急订单，其中 2 万台全部发运完毕，从订单确认到首批货物发运仅用时 7 天。\n与此同时， “网红”产品 PortaSplit 移动分体空调自 6 月以来新增接单超 16 万台，正通过广州南沙工厂批量交付欧洲市场。\n美的空调芜湖工厂工程部长倪海波介绍，接到紧急订单后，工厂于 7 月 7 日迅速将另一条多能产线转产移动空调，单日产能从 3000 台提升至 6000 台，除去备料时间，仅用 3.5 天便完成",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -50,68 +135,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "AI研学营标榜6天创办公司，家长花3万打造“少年马斯克”，引发教育焦虑。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，内容具体有数据支撑，但部分细节需核实。"
-    },
-    {
-      "title": "古尔曼：苹果 M7 Ultra 芯片最高支持 1.5TB 内存，是 M5 Ultra 的两倍",
-      "link": "https://www.ithome.com/0/975/833.htm",
-      "pubDate": "Sun, 12 Jul 2026 15:16:38 GMT",
-      "contentSnippet": "IT之家 7 月 12 日消息，彭博社的马克 · 古尔曼（Mark Gurman）今日发文透露，在 M6 芯片流片仅仅六个月后，苹果就已经开始了 M7 芯片的流片工作。这意味着 M7 芯片有望在 2027 年上半年亮相，紧随其后的是 2027 年底的 M7 Pro 和 M7 Max，以及 2028 年的 M7 Ultra。\n据悉，M7 Ultra 芯片在设计上最高可支持 1.5 TB 内存 —— 是 M5 Ultra 的两倍（M5 Ultra 最高测试了 768GB 内存）。\n古尔曼表示，苹果最终是否会提供这种配置，仍需视供应链的实际状况而定。目前全行业普遍面临内存芯片短缺的问题，导致此类元器",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家",
-        "爱范儿"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "古尔曼称苹果M7 Ultra芯片最高支持1.5TB内存，为M5 Ultra两倍",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，引用彭博社古尔曼，但信息为预测且缺细节（多源覆盖 +5）"
-    },
-    {
-      "title": "腾讯重仓一个IPO",
-      "link": "https://36kr.com/p/3892352153942530?f=rss",
-      "pubDate": "2026-07-12 15:59:37  +0800",
-      "contentSnippet": "图片来源：视觉中国\n作者/杨继云\n报道/投资界PEdaily\n深圳超级IPO来了。\n日前，深圳云豹智能股份有限公司（简称“云豹智能”）创业板IPO申请正式获深交所受理，成为又一家选用创业板第四套上市标准申报上市的企业，冲刺“国产DPU第一股”。\n回想6年前，斯坦福博士萧启阳在深圳创办云豹智能，专注于DPU赛道。这个团队启航两个月后，千亿DPU赛道开始爆发。至今，他背后站着腾讯等一支长长的投资人队伍。\n腾讯无疑最为重仓，已成为云豹智能最大股东。与广东国资押注的粤芯半导体一起，云豹智能成为大湾区又一标志性的半导体案例。\n斯坦福博士，干出深圳独角兽快IPO了\n先从创始人萧启阳说起。\n他出生于中国香港",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "腾讯重仓的DPU公司云豹智能冲刺创业板IPO。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "36氪为知名科技媒体，内容具体且有数据支撑，但缺少技术细节和原始出处。"
-    },
-    {
-      "title": "“趋境科技”完成A轮融资，半年内募资10亿元",
-      "link": "https://36kr.com/newsflashes/3893500332669697?f=rss",
-      "pubDate": "2026-07-13 11:19:17  +0800",
-      "contentSnippet": "36氪获悉，7月13日，全球高效能AI Token生产服务商“趋境科技”（Approaching.AI）宣布完成A轮融资。半年内，公司累计融资金额超过10亿元。本轮融资由河南投资集团汇融基金领投，真知资本、尚势资本、星连资本、上海国方创新、弘晖基金、华控基金、杭州福成等老股东持续超额跟投。资金将主要用于扩大高品质AI Token产能储备、升级自研高效能AI Token生产服务平台ATaaS，推动国产异构算力在核心生产场景中的规模化投产。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "趋境科技半年内完成10亿元A轮融资，用于AI Token产能和平台升级。",
+      "aiSummary": "美的20万台空调紧急运往欧洲应对极端高温。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，信息具体且有投资方和用途细节，逻辑清晰。"
+      "credibilityReason": "来自知名科技媒体IT之家，信息具体有数据支撑，逻辑清晰。"
     },
     {
-      "title": "五一视界与环天智慧正式达成空天领域战略合作",
-      "link": "https://36kr.com/newsflashes/3893500374350338?f=rss",
-      "pubDate": "2026-07-13 11:13:23  +0800",
-      "contentSnippet": "36氪获悉，五一视界公告，公司与环天智慧正式达成空天领域战略合作，将围绕高精度卫星遥感数据的采集与“物理级可用”数据资产重建展开合作，联合定制全球首颗专为物理AI训练与仿真应用设计的商业遥感卫星——地球克隆之星“ECS-1”。据公告显示，地球克隆之星“ECS-1”是全球首颗针对物理AI数据需求专项定制的商业遥感卫星。",
+      "title": "海关总署：中国6月出口（以美元计价）同比增27%",
+      "link": "https://36kr.com/newsflashes/3894884368055301?f=rss",
+      "pubDate": "2026-07-14 10:41:15  +0800",
+      "contentSnippet": "36氪获悉，海关总署公布数据显示，中国6月出口（以美元计价）同比增27%；进口同比增36%。",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -119,50 +152,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "五一视界与环天智慧合作，定制全球首颗物理AI训练遥感卫星。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪知名科技媒体，内容具体有公告细节，但缺乏第三方验证。"
-    },
-    {
-      "title": "鑫谷昆仑山海 MU-850GD 电源新增白色版，899 元",
-      "link": "https://www.ithome.com/0/975/902.htm",
-      "pubDate": "Mon, 13 Jul 2026 03:08:14 GMT",
-      "contentSnippet": "IT之家 7 月 13 日消息，鑫谷昆仑山海 MU-850GD 电源现已新增白色版本，新品主打 125mm 短盾架构、支持 ATX 3.1，具备 80 PLUS 金牌认证，售价 899 元。\n\n\n据介绍，这款电源采用双 MCU 微控制器架构，可为消费级用户带来更纯净电能。支持 HiMOS2 统一智慧生态，5 大重点指标实时可读。支持连接鑫谷生态水冷、机箱和 HiPHANT 幻智副屏，可实时阅览电源数据。\n\n\n规格方面，这款电源配备 12V-2X6 PCIe 5.1 显卡供电线材，支持 ATX 3.1 标准，拥有 80 PLUS 金牌认证，配备低噪音 FDB 轴承风扇，预设多种工况模式。\n\n\n此",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "鑫谷昆仑山海MU-850GD电源推出白色版，售价899元。",
+      "aiSummary": "中国6月出口同比增27%，进口增36%。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，内容具体有产品规格和价格信息。"
+      "credibilityReason": "来源为知名科技媒体36氪，内容具体有数据支撑，但缺乏原始出处链接。"
     },
     {
-      "title": "2026 最值得期待的 AI 硬件，是卡片｜AI 器物志",
-      "link": "https://www.ifanr.com/1671775?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pubDate": "Mon, 13 Jul 2026 03:07:58 +0000",
-      "contentSnippet": "AI 应该少偷点个人信息，多帮打工人干活\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "sourceName": "爱范儿",
-      "sourceWeight": 82,
-      "allSources": [
-        "爱范儿"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "爱范儿预测2026年AI硬件趋势：卡片式设备，强调隐私与效率",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体爱范儿，内容具体有观点，但缺乏技术细节和数据支撑"
-    },
-    {
-      "title": "lululemon「割不动」中国人了",
-      "link": "https://36kr.com/p/3893430641703429?f=rss",
-      "pubDate": "2026-07-13 11:07:43  +0800",
-      "contentSnippet": "作者 | 谢芸子\n编辑 | 张帆\n在中国市场，lululemon开始被人们拿着放大镜审视。\n6月中旬，lululemon在上海北外滩举办了一场大型户外瑜伽活动，中途遭遇暴雨。lululemon并未取消活动，而是让上千人在湿滑的瑜伽垫上完成了全套动作。\n现场画面被社交网络疯传。整齐划一的雨中静坐，被人们诟病为“矫揉造作”“品牌不为用户着想”，甚至被部分网友拿来与《周处除三害》中的邪教作对比。\n这一比喻的杀伤力是巨大的，lululemon最核心的商业密码恰恰是“类宗教”式的社群营销。\n公共叙事中，lululemon把自己的店员称为Educator教育家。\n创始人Chip Wilson在自传中解释过",
+      "title": "上半年我国专用装备、船舶和海洋工程装备出口5402.4亿元和2149.9亿元",
+      "link": "https://36kr.com/newsflashes/3894883453418499?f=rss",
+      "pubDate": "2026-07-14 10:40:20  +0800",
+      "contentSnippet": "海关总署副署长王军在国新办新闻发布会上表示，上半年，我国专用装备、船舶和海洋工程装备出口5402.4亿元和2149.9亿元，分别增长24.4%和19.9%。从智能挖掘机到重型燃气轮机，再到海上作业平台，一批批中国装备在各国重大项目中发挥关键作用。“中国制造”为不同国家地区、不同应用场景提供了优选方案。（证券时报）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -170,51 +169,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "lululemon因雨中强行举办瑜伽活动引发争议，被指品牌营销过度。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体36氪，内容具体有事件细节，但缺乏数据支撑和官方回应。"
-    },
-    {
-      "title": "现代汽车工会启动为期三天的罢工，要求延长退休年龄并保障就业",
-      "link": "https://www.ithome.com/0/975/895.htm",
-      "pubDate": "Mon, 13 Jul 2026 03:05:32 GMT",
-      "contentSnippet": "IT之家 7 月 13 日消息，据 BusinessKorea 报道，随着韩国现代汽车工会于当地时间 7 月 13 日启动为期三天的部分罢工，要求延长退休年龄并保障就业，现代汽车生产基地的劳资矛盾进一步升级。\n\n韩国金属工人工会现代汽车分会决定，于 7 月 13 日至 7 月 15 日期间，各班组每日停工两小时。\n此次罢工安排在每个 8 小时总工时的最后两小时进行，因此三天累计将导致生产线停工 12 小时。由于多个班次将在下午时段同时参与罢工，预计届时生产受到的影响将达到峰值。\n汽车制造属于连续生产流程，即使是短时间停工，也会对整个生产体系造成较大冲击。\n作为参考，现代汽车工会去年曾举行连续三",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "现代汽车工会罢工三天，要求延长退休年龄并保障就业。",
+      "aiSummary": "上半年我国专用装备和船舶海工装备出口增长显著。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，引用BusinessKorea报道，信息具体且逻辑清晰。"
+      "credibilityReason": "来源为36氪转载证券时报，引用海关总署官方数据，信息具体且权威。"
     },
     {
-      "title": "Beyond the Chatbot: Big Tech’s Pragmatic Pivot to the Enterprise Agent",
-      "link": "https://www.tmtpost.com/8062327.html",
-      "pubDate": "Mon, 13 Jul 2026 11:04:03 +0800",
-      "contentSnippet": "As consumer AI fatigue sets in, tech giants are racing to integrate autonomous intelligent agents into legacy corporate infrastructure—trading viral novelty for engineering reliability.",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体",
-        "InfoQ中文"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "科技巨头从聊天机器人转向企业级智能代理，注重工程可靠性。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体但缺少数据支撑和原始出处。（多源覆盖 +5）"
-    },
-    {
-      "title": "金星啤酒回应招股书失效：仍按既定节奏推进上市工作",
-      "link": "https://36kr.com/newsflashes/3893486405810690?f=rss",
-      "pubDate": "2026-07-13 11:02:57  +0800",
-      "contentSnippet": "查询港交所披露信息注意到，由于招股书提交6个月后未有进展，河南金星啤酒股份有限公司的招股书已经显示为“失效”状态。后续金星啤酒会否继续推进上市、再次递表？金星啤酒方面13日上午回应：“招股书失效不是IPO失败，公司仍在按照既定节奏安排相关工作。”（21财经）",
+      "title": "金山云在武汉成立数智科技公司，注册资本1000万",
+      "link": "https://36kr.com/newsflashes/3894879658999048?f=rss",
+      "pubDate": "2026-07-14 10:36:28  +0800",
+      "contentSnippet": "36氪获悉，天眼查App显示，近日，武汉汉擎数智科技有限公司成立，法定代表人为吕沛杰，注册资本1000万人民币，经营范围包括互联网数据服务、计算机系统服务、软件开发、云计算设备销售等。股东信息显示，该公司由凌穹瞬联（庆阳）数据科技有限公司全资持股，后者由北京金山云网络技术有限公司全资持股。",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -222,16 +186,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "金星啤酒回应招股书失效，称仍按节奏推进上市。",
-      "credibilityScore": 85,
+      "aiSummary": "金山云在武汉成立数智科技公司，注册资本1000万",
+      "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体且有原始出处（21财经），信息客观。"
+      "credibilityReason": "来源36氪可信，信息具体有数据支撑，逻辑清晰"
     },
     {
-      "title": "“人工骨”研发企业奥精医疗上演内部“逼宫”大戏，83 岁女董事长遭女儿女婿提议罢免",
-      "link": "https://www.ithome.com/0/975/893.htm",
-      "pubDate": "Mon, 13 Jul 2026 03:01:02 GMT",
-      "contentSnippet": "IT之家 7 月 13 日消息，据科创板日报报道，奥精医疗上演实控人家族内部“逼宫”大戏。\n报道称，股东崔菡与丈夫胡刚 7 月 5 日联合提议罢免 83 岁公司董事长黄晚兰的董事职务，并谋求增补胡刚重回董事会，而黄晚兰正是崔菡的母亲。\n\n7 月 11 日，奥精医疗发布关于股东临时提案不予提交股东会审议的公告，公司第三届董事会任期自 2025 年 11 月 26 日起至 2028 年 11 月 26 日止。目前，公司尚在任期内的现任第三届董事共计 9 名，任职资格均符合《公司法》《上海证券交易所科创板上市公司自律监管指引第 1 号 —— 规范运作》等法律、行政法规、部门规章、规范性文件及《公司章",
+      "title": "吉利银河全球首款“雷霆 16 合 1 智能电驱”宣布 7 月 16 日发布",
+      "link": "https://www.ithome.com/0/976/337.htm",
+      "pubDate": "Tue, 14 Jul 2026 02:32:02 GMT",
+      "contentSnippet": "IT之家 7 月 14 日消息，吉利银河今日宣布，吉利银河全球首款“雷霆 16 合 1 智能电驱”将于 7 月 16 日发布。\n\n\n\n延伸阅读\n吉利银河是吉利汽车集团旗下新能源品牌，于 2023 年 2 月 23 日正式发布。\n在电驱技术方面，吉利银河此前已在 L 系列车型上搭载了由 P1+P2 双电机组成的 3 挡 DHT Pro 智能电驱变速箱，该技术属于雷神电混系统的一部分。\n吉利银河品牌在 2026 年已推出或公布了多款新车型，包括定于 4 月 16 日开启预售的银河星耀 7，以及一款在 6 月开启全球征名的 C 级纯电轿车（此前申报的银河 TT）。",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -239,27 +203,61 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "奥精医疗83岁女董事长遭女儿女婿提议罢免，上演家族内部权力斗争。",
+      "aiSummary": "吉利银河宣布7月16日发布全球首款雷霆16合1智能电驱。",
       "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家，引用科创板日报，信息具体且有时效性，但缺少技术细节。"
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体且有时效性，但缺少技术细节和原始出处。"
     },
     {
-      "title": "AI家庭智能硬件公司获数千万元融资，首款产品今年上线海外｜硬氪首发",
-      "link": "https://36kr.com/p/3879780282495236?f=rss",
-      "pubDate": "2026-07-13 11:00:00  +0800",
-      "contentSnippet": "作者｜黄楠\n编辑｜袁斯来\n硬氪获悉，威联机器人科技（深圳）有限公司（以下简称“MOVA LINCO”）近日完成数千万元天使融资。融资资金将主要用于AI算法底层技术研发、完善产品量产体系，以及全球化渠道布局和家庭AI生态的持续建设。\nMOVA LINCO核心团队来自头部网络通信与智能硬件企业，在路由器、NAS存储及AI算力设备等方面拥有深厚的技术积累与产品经验。公司产品矩阵以AI智能语音路由器、AI NAS及AI算力盒子三大品类为核心，构建“连接+存储+算力”三位一体的家庭AI基础设施架构，覆盖从智能家居中枢、数据存储及本地算力分配等全场景需求，专注为全球用户提供智能化、主动化的家庭AI服务体验",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
+      "title": "微软预告 PowerPoint 改进：新增 13 个 SmartArt，优化文件打开体验",
+      "link": "https://www.ithome.com/0/976/335.htm",
+      "pubDate": "Tue, 14 Jul 2026 02:30:47 GMT",
+      "contentSnippet": "IT之家 7 月 14 日消息，微软昨日（7 月 13 日）发布博文，预告介绍了适用于 PowerPoint（微软演示文稿应用）的 4 项更新，包括扩展新增 13 个 SmartArt、新增 13 个主题等等，目前处于 Beta 测试状态，将于 7 月 ~8 月期间上线。\nIT之家注： SmartArt 是微软 Office 应用中的可视化图示功能，用于把文本信息转换为流程图、层级图、时间线、列表等结构化图形。\n在 SmartArt 方面，微软表示在过去几周时间里，为 PowerPoint 新增 13 个新版式，涵盖时间轴、列表和“团队介绍”模板等，并承诺后续会推出更多版式。\n\n微软同时调整了",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "36氪"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "MOVA LINCO获数千万元天使融资，用于AI家庭硬件研发与全球化布局。",
-      "credibilityScore": 80,
+      "aiSummary": "微软预告PowerPoint将新增13个SmartArt版式等4项更新，处于Beta测试。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪知名科技媒体，信息具体有团队背景和产品细节，但缺少融资方和金额具体数据。"
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体且有官方博文引用，逻辑清晰。"
+    },
+    {
+      "title": "红魔官方就游戏平板 5 Pro 缺货致歉：产能预计 8 月中下旬有所改善，严打黄牛、刷单",
+      "link": "https://www.ithome.com/0/976/333.htm",
+      "pubDate": "Tue, 14 Jul 2026 02:28:46 GMT",
+      "contentSnippet": "IT之家 7 月 14 日消息，今天（14 日）上午，红魔游戏手机官微发布《关于红魔游戏平板 5Pro 发售情况的致歉声明》。\nIT之家附声明全文如下：\n\n关于红魔游戏平板 5 Pro 发售情况的致歉声明\n亲爱的红魔玩家：\n首先，跟大家说一声：对不起。\n红魔游戏平板 5Pro 开售以来，因为供货紧张，让很多一直支持我们的玩家一次次落空。这是我们的问题，向每一位期待的玩家，致以最诚挚的歉意。\n为什么会缺货？\n这次新品搭载了多项全新定制的旗舰硬件，全新技术部件的量产难度远超我们的预期，导致产能爬坡非常缓慢。我们选择了“产一批、销一批”的方式来尽量满足需求，以致购买体验不佳，我们对此深感自责。\n我们",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "红魔就游戏平板5Pro缺货致歉，称产能预计8月中下旬改善。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家知名科技媒体，内容具体有官方声明，逻辑清晰。"
+    },
+    {
+      "title": "联想拯救者官宣 Y700 无极平板电脑搭载高通第五代骁龙 8 至尊领先版",
+      "link": "https://www.ithome.com/0/976/332.htm",
+      "pubDate": "Tue, 14 Jul 2026 02:28:22 GMT",
+      "contentSnippet": "IT之家 7 月 14 日消息，联想 (Lenovo) 拯救者 (Legion) 官方今日宣布，将于 8 月发布的 Y700 无极平板电脑配备了高通第五代骁龙 8 至尊领先版 (8 Elite Gen 5 Leading Version)，处理器 CPU 最高主频可达 4.74GHz。\nIT之家注意到，这一标定频率的第五代骁龙 8 至尊版此前也曾出现在三星电子多型今年款智能手机和红魔 11S Pro 智能手机上。\n\nY700 无极平板电脑还将配备支持 10667MT/s 传输速率的 LPDDR5T 内存和 UFS 4.1 Pro 存储。此前消息显示，该产品支持内置流量卡和可插拔 SIM 卡，支",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "联想Y700平板将搭载高通第五代骁龙8至尊领先版，主频4.74GHz。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体但缺乏原始出处和细节验证。"
     }
   ]
 }
