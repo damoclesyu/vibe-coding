@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-07-14T02:49:16.948Z",
+  "generatedAt": "2026-07-15T02:47:46.442Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "上半年我国体育用品及设备出口675.3亿元",
-      "link": "https://36kr.com/newsflashes/3894887747992583?f=rss",
-      "pubDate": "2026-07-14 10:44:42  +0800",
-      "contentSnippet": "国务院新闻办公室今天（14日）举行发布会，介绍今年以来我国外贸运行情况并回答记者提问。世界杯是当前全球瞩目的体育赛事，给广大球迷带来精彩观赛体验的同时，也掀起了全球对各类体育用品的消费热情。近年来，中国一直保持全球最大体育用品出口国地位，占全球出口比重超4成。上半年，我国体育用品及设备出口675.3亿元，其中球类出口30.8亿元。（央视新闻）",
+      "title": "国家统计局：下阶段要加大逆周期和跨周期调节力度，加紧培育壮大新动能",
+      "link": "https://36kr.com/newsflashes/3896280962696832?f=rss",
+      "pubDate": "2026-07-15 10:21:57  +0800",
+      "contentSnippet": "据国家统计局，总的来看，上半年国民经济运行在合理区间，新质生产力培育壮大，高质量发展向新向优。也要看到，外部不稳定不确定因素较多，国内供强需弱矛盾突出，经济向好基础还需巩固。下阶段，要坚持稳中求进、提质增效，加大逆周期和跨周期调节力度，持续扩大内需、优化供给，做优增量、盘活存量，着力建设强大国内市场，加紧培育壮大新动能，加力稳就业、稳企业、稳市场、稳预期，推动经济实现质的有效提升和量的合理增长。（证券时报）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -16,16 +16,50 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "上半年我国体育用品及设备出口675.3亿元，球类出口30.8亿元。",
-      "credibilityScore": 90,
+      "aiSummary": "国家统计局称将加大逆周期调节，培育新动能。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为36氪转载央视新闻，信息源自国务院新闻发布会，权威可靠。"
+      "credibilityReason": "来源为知名科技媒体36氪，内容引用官方数据，信息具体且逻辑清晰。"
     },
     {
-      "title": "上半年我国电动汽车、电动摩托车及脚踏车出口分别增长 68.7%、31.5%",
-      "link": "https://www.ithome.com/0/976/342.htm",
-      "pubDate": "Tue, 14 Jul 2026 02:42:48 GMT",
-      "contentSnippet": "IT之家 7 月 14 日消息，国务院新闻办公室于 2026 年 7 月 14 日（星期二）上午 10 时举行新闻发布会，请海关总署副署长王军，海关总署新闻发言人、统计分析司司长吕大良介绍 2026 年上半年进出口情况，并答记者问。\nIT之家从国新办官网获悉，海关总署副署长王军介绍，今年以来，中国出口增速超过 10%，已连续 11 个季度保持增长。\n\n上半年，我国电子元件、电脑零部件等产品出口均两位数增长，合计拉动出口增长 6.9 个百分点；与 AI 技术深度融合的智能仿生机器人出口超万台，遍及全球 90 多个国家和地区。\n当前，全球绿色低碳转型深入推进，新能源建设、消费需求上升与我国绿色产品",
+      "title": "国家统计局：上半年国内生产总值695704亿元，同比增长4.7%",
+      "link": "https://36kr.com/newsflashes/3896260766975872?f=rss",
+      "pubDate": "2026-07-15 10:01:24  +0800",
+      "contentSnippet": "国务院新闻办今天上午召开新闻发布会，国家统计局发布上半年经济数据。数据显示，今年上半年，我国经济顶住压力运行在合理区间，生产供给较快增长，就业形势总体稳定，物价温和上涨，对外贸易增势良好，新动能快速成长，民生保障有力有效，���展韧性持续彰显。初步核算，上半年国内生产总值695704亿元，按不变价格计算，同比增长4.7%。（央视新闻）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国家统计局发布上半年GDP为695704亿元，同比增长4.7%。",
+      "credibilityScore": 95,
+      "credibilityLevel": "high",
+      "credibilityReason": "数据源自国家统计局官方发布，央视新闻权威报道，信息准确可靠。"
+    },
+    {
+      "title": "中信证券：继续全面看好国产算力产业链",
+      "link": "https://36kr.com/newsflashes/3896189224781440?f=rss",
+      "pubDate": "2026-07-15 09:12:32  +0800",
+      "contentSnippet": "36氪获悉，中信证券研报指出，继续全面看好国产算力产业链，从稀缺的先进制程能力，到百花齐放的设计公司，到超节点预计均会迎来放量机会，同时先进制程、先进封装、先进存储以及配套产业链有望迎来强劲增长动能。国产算力订单预期清晰度显著增强，供应链备货节奏加速，相关公司报表预计将显著改善。建议关注：（1）AI芯片设计公司。（2）晶圆代工与先进封装。（3）其他。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中信证券看好国产算力产业链，预计先进制程和封装将强劲增长。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名媒体36氪，内容具体有数据支撑，逻辑清晰，但缺乏原始研报细节。"
+    },
+    {
+      "title": "俄美制定联合计划，国际空间站运行拟于 2030 年底结束",
+      "link": "https://www.ithome.com/0/976/789.htm",
+      "pubDate": "Wed, 15 Jul 2026 00:16:58 GMT",
+      "contentSnippet": "IT之家 7 月 15 日消息，据央视新闻，当地时间 7 月 14 日，俄罗斯第一副总理曼图罗夫秘书处方面发布消息称，在美国国家航空航天局局长艾萨克曼到访后，俄美双方已制定联合计划，国际空间站运行拟于 2030 年底结束。\n双方还讨论了国家轨道站紧急互助合作、探月合作项目，以及太空医学和生物学联合实验。\n据IT之家了解，国际空间站于 1998 年开始建造，最初设计寿命为 15 年，后多次延长。俄罗斯舱段核心模块“星辰”号服务舱自 2019 年起持续存在漏气问题。\n今年 6 月，由于国际空间站空气泄漏问题加剧，两名俄罗斯宇航员展开了维修行动，另外 5 名宇航员一度进入“龙”飞船避险。而在维修行动",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -33,67 +67,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "上半年我国电动车辆出口增长显著，智能仿生机器人出口超万台。",
+      "aiSummary": "俄美计划2030年底结束国际空间站运行。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家，引用国新办官方发布会数据，信息具体且有出处。"
+      "credibilityReason": "来源为IT之家，引用央视新闻，信息具体且有官方消息支撑。"
     },
     {
-      "title": "海关总署：中国出口连续11季度保持增长，贸易增量集中于AI领域",
-      "link": "https://36kr.com/newsflashes/3894871537449989?f=rss",
-      "pubDate": "2026-07-14 10:28:12  +0800",
-      "contentSnippet": "7月14日，海关总署副署长王军在国新办新闻发布会上表示，截至目前，中国出口已经连续11个季度保持增长，出口增长根本原因在于中国制造与全球各类需求的精准适配。联合国报告显示，今年以来，全球货物贸易增长主要集中于人工智能相关领域。王军指出，全球算力数据中心及终端设备需求持续扩张，促进了我国相关产品出口；上半年我国电子元件、电脑零部件等产品出口均呈两位数增长，合计拉动出口增长6.9个百分点。（证券时报）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
+      "title": "欧盟考虑限制青少年使用社交媒体",
+      "link": "https://www.solidot.org/story?sid=84825",
+      "pubDate": "Tue, 14 Jul 2026 15:33:09 +0800",
+      "contentSnippet": "欧盟考虑限制青少年使用社交媒体，包括年龄限制、分阶段开放访问以及彻底禁止。社交媒体平台可能还需在青少年获准使用其服务前，证明自身服务无害。欧洲委员会主席 Ursula von der Leyen 表示，在审查了专家小组建议后，欧盟委员会可能会在数月内提出新立法提案。专家小组建议采用分阶段的方法，包括 3 岁以下儿童“完全不接触屏幕”、13 岁以下儿童需在监督下使用互联网，以及对年龄更大的青少年设置一些限制。专家小组还表示，社交媒体平台应证明其服务对年轻用户是安全的，von der Leye 表示她支持这一做法。欧盟委员会将研究这份报告，在“夏季之后”提出相关提案。任何立法需获得欧洲议会及欧盟",
+      "sourceName": "Solidot",
+      "sourceWeight": 75,
       "allSources": [
-        "36氪"
+        "Solidot"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国出口连续11季度增长，AI领域成主要增量来源。",
+      "aiSummary": "欧盟考虑限制青少年使用社交媒体，包括年龄限制和平台责任。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容引用海关总署官方数据和联合国报告，信息具体且逻辑清晰。"
+      "credibilityReason": "来源可靠（Solidot），信息具体（年龄分段、专家建议），有官方引用（欧盟委员会主席）。"
     },
     {
-      "title": "今年上半年我国货物贸易进出口同比增长16.9%",
-      "link": "https://36kr.com/newsflashes/3894845564353801?f=rss",
-      "pubDate": "2026-07-14 10:01:47  +0800",
-      "contentSnippet": "国务院新闻办公室今天举行发布会，海关总署相关负责人介绍了今年以来我国外贸运行情况并回答记者提问，同时公布了上半年外贸数据，我国货物贸易进出口同比增长16.9%，外贸保持良好运营态势。据海关统计，今年上半年，我国货物贸易进出口25.47万亿元，同比增长16.9%，其中，出口14.73万亿元，增长13.4%，进口10.74万亿元，增长22.1%。其中，6月进出口4.78万亿元，同比增长24.2%，连续17个月保持增长。（央视新闻）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "我国上半年货物贸易进出口同比增长16.9%，外贸保持良好态势。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为权威媒体36氪，数据引自央视新闻和海关总署官方发布会，信息详实有具体数据支撑。"
-    },
-    {
-      "title": "36氪首发 | 前博世自动驾驶算法工程师创业，用合成数据做触觉大模型",
-      "link": "https://36kr.com/p/3894821059918855?f=rss",
-      "pubDate": "2026-07-14 09:38:13  +0800",
-      "contentSnippet": "触觉手套（图源/企业）\n本文约2400字，建议阅读6分钟\n作者丨欧雪\n编辑丨袁斯来\n硬氪获悉，空间智能公司「大衍科技」近期完成数千万元天使轮融资，由松禾资本领投，浙江省省金控与广州番禺创新基金等国资背景机构参与。资金将主要用于触觉大模型研发、机器人数据产线建设及团队扩张。\n「大衍科技」2025年5月成立于浙江桐乡，是一家专注于4D世界重建、世界模型及可控扩散模型技术的空间智能公司。\n创始人兼CEO杨林是新加坡国立大学计算机博士，曾在速腾、酷睿程、比亚迪、苏州博世等企业深耕自动驾驶算法7-8年。此外，公司核心技术源自首席科学家、联合国科学院院士、加拿大工程院院士埃尔萨迪克团队二十余年的数字孪生与",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "大衍科技获数千万元天使轮融资，专注触觉大模型研发",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体有融资细节和团队背景，但技术细节较少"
-    },
-    {
-      "title": "漫威电影《复仇者联盟 5：毁灭之日》片长 165 分钟，仅次于《终局之战》",
-      "link": "https://www.ithome.com/0/976/279.htm",
-      "pubDate": "Tue, 14 Jul 2026 00:51:19 GMT",
-      "contentSnippet": "IT之家 7 月 14 日消息，《好莱坞报道者》今日报道称，《复仇者联盟 5：毁灭之日》片长为 165 分钟（即 2 小时 45 分钟），北美地区预售将于 7 月 20 日（下周一）正式启动。\n\n这部影片由安东尼 · 罗素与乔 · 罗素兄弟执导，定于 2026 年 12 月 18 日在北美公映，12 月 16 日在中国台湾公映，中国大陆暂未定档。\n165 分钟的时长将使《毁灭之日》位列漫威电影宇宙（MCU）片长第二，仅次于 2019 年《复仇者联盟 4：终局之战》的 181 分钟，超过 2018 年《复仇者联盟 3：无限战争》的 149 分钟。不过《好莱坞报道者》也指出，由于距离上映尚有五个月",
+      "title": "国家统计局：今年上半年，以高端制造、数字经济、现代服务为代表的新动能对经济增长作出超四成贡献",
+      "link": "https://www.ithome.com/0/976/846.htm",
+      "pubDate": "Wed, 15 Jul 2026 02:43:15 GMT",
+      "contentSnippet": "IT之家 7 月 15 日消息，国家统计局副局长毛盛勇今天（15 日）上午在国新办新闻发布会上表示，初步测算，今年上半年以高端制造、数字经济、现代服务为代表的新动能（不包括对传统行业的改造升级）对经济增长的贡献率超过四成。\n数据显示，今年上半年，全国规模以上工业增加值同比增长 5.4%。分三大门类看，采矿业增加值同比增长 3.6%，制造业增长 5.6%，电力、热力、燃气及水生产和供应业增长 5.5%。分产品看，3D 打印设备、锂离子电池、工业机器人产品产量同比分别增长 48.5%、39.3%、28.0%。\n\nIT之家从数据中获悉，社会消费品零售总额 248722 亿元，同比增长 1.3%。其中",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -101,16 +101,122 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "《复联5》片长165分钟，MCU第二长，预售7月20日启动。",
+      "aiSummary": "国家统计局称上半年新动能对经济增长贡献超四成。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，引用《好莱坞报道者》原始出处，信息具体且逻辑清晰。"
+      "credibilityReason": "来源为IT之家，引用国家统计局官方数据，信息具体且有数据支撑。"
     },
     {
-      "title": "【钛晨报】李强主持召开经济形势专家和企业家座谈会；Meta宣布将追加400亿美元投资路易斯安那州数据中心；字节跳动回应：没有做智能驾驶业务的计划",
-      "link": "https://www.tmtpost.com/8063498.html",
-      "pubDate": "Tue, 14 Jul 2026 07:20:00 +0800",
-      "contentSnippet": "国务院批复同意《扩大消费“十五五”规划》；国务院印发《国民健康“十五五”规划》；中办、国办发布关于完善自然资源资产管理制度体系的意见；民政部等14部门联合发文，推动中国康复辅具产业扩能提质；内部人士：菜鸟供应链定位独立公司，将继续加大投入；阶跃星辰发布大模型原生智能体手机；苹果调整Mac芯片路线图，加速AI芯片研发；中国首个禁售燃油车省份确认：海南",
+      "title": "36氪首发 | 前非夕科技核心业务合伙人创业，做垂域工业智能体，获数千万元种子轮融资",
+      "link": "https://36kr.com/p/3896298534520705?f=rss",
+      "pubDate": "2026-07-15 10:40:40  +0800",
+      "contentSnippet": "作者 | 乔钰杰\n编辑 | 袁斯来\n硬氪获悉，上海追知工程科技有限公司（以下简称“追知工科”）近日完成数千万元种子轮融资，由L2F光源创业者基金、尚融资本、一村资本联合投资。本轮融资将主要用于核心产品研发、团队建设及市场拓展。\n追知工科成立于2024年2月，是一家聚焦垂域工业智能体的科技企业，同时也是上海交通大学成果转化企业、上海人工智能研究院战略孵化企业。公司希望通过将人工智能技术引入工业制造场景，提升复杂基石工艺制程环节的自动化和智能化水平，重点解决制造业柔性生产和熟练工人严重短缺等问题。\n公司创始人袁琳，曾作为非夕科技业务合伙人，推动该公司成长为独角兽；此前担任上市智能装备集团华昌达董事",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "前非夕科技合伙人创业追知工科，获数千万元种子轮融资",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体36氪，信息具体有创始人背景和融资细节，逻辑清晰"
+    },
+    {
+      "title": "分期买 iPhone 17 Pro 不再自动解锁：苹果确认 T-Mobile 和 Verizon 分期用户不再享受无锁待遇",
+      "link": "https://www.ithome.com/0/976/841.htm",
+      "pubDate": "Wed, 15 Jul 2026 02:38:36 GMT",
+      "contentSnippet": "IT之家 7 月 15 日消息，大家可能经常能在电商平台见到一些特别便宜的 iPhone“水货”机型，而这些机型多数来源于海外用户在运营商处购买的“无锁”合约机。\nReddit 用户 Shrinra 今日发现，苹果公司悄然调整了 iPhone 17 Pro 系列的分期购机政策，收紧了此前针对 T-Mobile 和 Verizon 两家运营商的解锁条款。\n根据苹果官网更新的 FAQ 说明，用户若通过 AT&T 分期付款计划、T-Mobile 设备分期付款计划或 Verizon 设备支付计划购买 iPhone，设备将在还清全款前保持“有锁”状态。\n\n在此之前，用户在这两家运营商通过分期付款的方式购",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家",
+        "钛媒体",
+        "InfoQ中文"
+      ],
+      "coverageCount": 3,
+      "coverageBoost": 10,
+      "aiSummary": "苹果收紧T-Mobile和Verizon分期购机解锁政策，还清全款前保持有锁。",
+      "credibilityScore": 95,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体，信息具体有官方FAQ引用，逻辑清晰。（多源覆盖 +10）"
+    },
+    {
+      "title": "魏建军回应长城汽车 2026 上半年净利润腰斩：更在意企业的健康发展",
+      "link": "https://www.ithome.com/0/976/840.htm",
+      "pubDate": "Wed, 15 Jul 2026 02:38:07 GMT",
+      "contentSnippet": "IT之家 7 月 15 日消息，长城汽车 7 月 14 日发布 2026 年半年度（2026 年 1 月～2026 年 6 月）业绩预告报告，归母净利润 23.50 亿元～26 亿元，同比下降 58.97%~62.92%。\n对此，长城汽车董事长魏建军回应称，关于利润下降的真实原因，也给大家如实反馈一下。\n\n第一个是海外税收政策补贴收益收回延期；\n第二个是受汇率波动影响。\n特别要说明的是，表面的数字虽然重要，但我们更在意企业的健康发展。\n在渠道经营层面，我们卖得多、发得少。国内库销比优于行业平均水平，确保企业和经销商健康经营。\n在当前市场复杂多变、竞争激烈的大环境下，长城汽车能取得这样来之不易的",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "魏建军回应长城汽车2026上半年净利润腰斩，称更关注企业健康发展。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自IT之家，引用官方业绩预告和董事长回应，信息具体且逻辑清晰。"
+    },
+    {
+      "title": "36氪首发 | 前阿里平头哥半导体高管创业，RISC-V芯片厂商获新一轮融资",
+      "link": "https://36kr.com/p/3896295689569922?f=rss",
+      "pubDate": "2026-07-15 10:37:46  +0800",
+      "contentSnippet": "作者 | 乔钰杰\n编辑 | 袁斯来\n硬氪获悉，深圳市智创芯微电子有限公司（简称“智创芯”）完成 Pre-A轮融资。本轮融资由启迪之星创投、深圳开鸿数字产业发展有限公司（简称“深开鸿”）发起的产业基金、珠海正菱集团、以及应广科技等机构共同参与。\n本轮融资完成后，智创芯将与深开鸿围绕开源鸿蒙（OpenHarmony）与开源RISC-V的融合展开战略合作，共同推进“双开源”软硬件生态建设，加速相关技术在智能终端等产业场景落地。\n智创芯成立于2022年，由前阿里巴巴平头哥高管陈昊创立，核心团队来自阿里平头哥、中兴、海思等半导体企业，拥有多年的行业经验，聚焦RISC-V处理器及SoC芯片研发。\n近年来，",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "前阿里平头哥高管创立的RISC-V芯片公司获Pre-A轮融资",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体36氪，信息具体包括融资方、参与机构及合作细节，逻辑清晰"
+    },
+    {
+      "title": "微软希望靠内嵌 Planner 任务管理，推动用户迁移 Win10/Win11 新版 Outlook",
+      "link": "https://www.ithome.com/0/976/837.htm",
+      "pubDate": "Wed, 15 Jul 2026 02:37:08 GMT",
+      "contentSnippet": "IT之家 7 月 15 日消息，科技媒体 Windows Latest 昨日（7 月 14 日）发布博文，报道称微软为引导经典版 Outlook 用户迁移升级，在 Windows 10、Windows 11 新版 Outlook 中内置整合 Planner 功能。\n在微软官方更新日志中，微软表示在整合 Planner 后，让用户减少上下文切换，可以查看和管理电子邮件、日历和 Copilot 体验的同时，查看和管理任务和计划。IT之家附上相关截图如下：\n\n微软表示在 Microsoft 365 生态中，Planner 是最受用户欢迎的应用之一，目前已着手在 Microsoft 365 Copil",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家",
+        "Solidot"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "微软在新版Outlook中整合Planner，推动经典版用户迁移。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家和Solidot，引用Windows Latest报道，信息具体且有官方更新日志支撑。（多源覆盖 +5）"
+    },
+    {
+      "title": "支付宝与OPPO达成智能体跨端互联合作",
+      "link": "https://36kr.com/newsflashes/3896292852795269?f=rss",
+      "pubDate": "2026-07-15 10:34:03  +0800",
+      "contentSnippet": "36氪获悉，支付宝与OPPO达成智能体跨端互联合作，旗下智能体“阿宝”和“小布”可以联手办事。合作首期阿宝集合了 近200项生活服务，包括观影、点餐、出行，办理社保、公积金、养老金等，都能一句话搞定。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪",
+        "IT之家"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "支付宝与OPPO合作，智能体跨端互联，提供近200项生活服务。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体36氪和IT之家，内容具体有数据支撑，逻辑清晰。（多源覆盖 +5）"
+    },
+    {
+      "title": "WAIC 2026前夕，优必选先交一份“走不稳”的答卷？",
+      "link": "https://www.tmtpost.com/8064555.html",
+      "pubDate": "Wed, 15 Jul 2026 10:31:00 +0800",
+      "contentSnippet": "未来物种遭祛魅。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -118,16 +224,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体晨报汇总多领域政策与企业动态，含Meta投资及字节辟谣。",
+      "aiSummary": "优必选在WAIC 2026前展示机器人技术，但表现不佳引发质疑。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源知名科技媒体，内容具体但部分信息缺乏原始出处。"
+      "credibilityReason": "来自知名科技媒体钛媒体，内容具体但带有主观评价，技术细节不足。"
     },
     {
-      "title": "美的：20 万台空调急运欧洲",
-      "link": "https://www.ithome.com/0/976/344.htm",
-      "pubDate": "Tue, 14 Jul 2026 02:46:56 GMT",
-      "contentSnippet": "IT之家 7 月 14 日消息，美的空调官方今日发文，宣布 20 万台空调急运欧洲。\n\n受欧洲持续极端高温天气影响，多国空调需求爆发式增长。近日，美的空调芜湖工厂承接了法国客户 3 万台移动空调紧急订单，其中 2 万台全部发运完毕，从订单确认到首批货物发运仅用时 7 天。\n与此同时， “网红”产品 PortaSplit 移动分体空调自 6 月以来新增接单超 16 万台，正通过广州南沙工厂批量交付欧洲市场。\n美的空调芜湖工厂工程部长倪海波介绍，接到紧急订单后，工厂于 7 月 7 日迅速将另一条多能产线转产移动空调，单日产能从 3000 台提升至 6000 台，除去备料时间，仅用 3.5 天便完成",
+      "title": "Pulsar × Noctua 联名鼠标即将发售：内置 4010 风扇，约 73g",
+      "link": "https://www.ithome.com/0/976/830.htm",
+      "pubDate": "Wed, 15 Jul 2026 02:30:51 GMT",
+      "contentSnippet": "IT之家 7 月 15 日消息，韩国外设品牌 Pulsar（派世）今日宣布，由其与知名散热厂商 Noctua（猫头鹰）联合打造的 Pulsar Feinmann F01 Noctua Edition 鼠标即将于北京时间 7 月 21 日 15:00 全球发售。\n\nPulsar Feinmann F01 Noctua Edition 采用镂空透气模具和 Noctua 标志性的褐色系外观，内置 Noctua NF-A4x10 5V PWM。这颗 4010 风扇支持 5 档 PWM 调速，即使在炎热的天气中也能带来凉爽手感。\n这款鼠标外部为碳纤维复合材质，配备 Nordic nRF54L15 SoC",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -135,16 +241,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "美的20万台空调紧急运往欧洲应对极端高温。",
-      "credibilityScore": 85,
+      "aiSummary": "Pulsar与猫头鹰联名鼠标内置4010风扇，7月21日发售。",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，信息具体有数据支撑，逻辑清晰。"
+      "credibilityReason": "来源IT之家较知名，内容具体有产品细节，但缺乏原始出处和实测数据。"
     },
     {
-      "title": "海关总署：中国6月出口（以美元计价）同比增27%",
-      "link": "https://36kr.com/newsflashes/3894884368055301?f=rss",
-      "pubDate": "2026-07-14 10:41:15  +0800",
-      "contentSnippet": "36氪获悉，海关总署公布数据显示，中国6月出口（以美元计价）同比增27%；进口同比增36%。",
+      "title": "创业板指涨超1%",
+      "link": "https://36kr.com/newsflashes/3896287382816647?f=rss",
+      "pubDate": "2026-07-15 10:28:29  +0800",
+      "contentSnippet": "36氪获悉，创业板指涨超1%，沪指涨0.19%，深成指涨0.53%，医药医疗、白酒、宠物经济、美容护理等方向涨幅居前，沪深京三市上涨个股超4100只。",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -152,112 +258,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国6月出口同比增27%，进口增36%。",
+      "aiSummary": "创业板指涨超1%，医药白酒等板块领涨。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，内容具体有数据支撑，但缺乏原始出处链接。"
-    },
-    {
-      "title": "上半年我国专用装备、船舶和海洋工程装备出口5402.4亿元和2149.9亿元",
-      "link": "https://36kr.com/newsflashes/3894883453418499?f=rss",
-      "pubDate": "2026-07-14 10:40:20  +0800",
-      "contentSnippet": "海关总署副署长王军在国新办新闻发布会上表示，上半年，我国专用装备、船舶和海洋工程装备出口5402.4亿元和2149.9亿元，分别增长24.4%和19.9%。从智能挖掘机到重型燃气轮机，再到海上作业平台，一批批中国装备在各国重大项目中发挥关键作用。“中国制造”为不同国家地区、不同应用场景提供了优选方案。（证券时报）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "上半年我国专用装备和船舶海工装备出口增长显著。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为36氪转载证券时报，引用海关总署官方数据，信息具体且权威。"
-    },
-    {
-      "title": "金山云在武汉成立数智科技公司，注册资本1000万",
-      "link": "https://36kr.com/newsflashes/3894879658999048?f=rss",
-      "pubDate": "2026-07-14 10:36:28  +0800",
-      "contentSnippet": "36氪获悉，天眼查App显示，近日，武汉汉擎数智科技有限公司成立，法定代表人为吕沛杰，注册资本1000万人民币，经营范围包括互联网数据服务、计算机系统服务、软件开发、云计算设备销售等。股东信息显示，该公司由凌穹瞬联（庆阳）数据科技有限公司全资持股，后者由北京金山云网络技术有限公司全资持股。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "金山云在武汉成立数智科技公司，注册资本1000万",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪可信，信息具体有数据支撑，逻辑清晰"
-    },
-    {
-      "title": "吉利银河全球首款“雷霆 16 合 1 智能电驱”宣布 7 月 16 日发布",
-      "link": "https://www.ithome.com/0/976/337.htm",
-      "pubDate": "Tue, 14 Jul 2026 02:32:02 GMT",
-      "contentSnippet": "IT之家 7 月 14 日消息，吉利银河今日宣布，吉利银河全球首款“雷霆 16 合 1 智能电驱”将于 7 月 16 日发布。\n\n\n\n延伸阅读\n吉利银河是吉利汽车集团旗下新能源品牌，于 2023 年 2 月 23 日正式发布。\n在电驱技术方面，吉利银河此前已在 L 系列车型上搭载了由 P1+P2 双电机组成的 3 挡 DHT Pro 智能电驱变速箱，该技术属于雷神电混系统的一部分。\n吉利银河品牌在 2026 年已推出或公布了多款新车型，包括定于 4 月 16 日开启预售的银河星耀 7，以及一款在 6 月开启全球征名的 C 级纯电轿车（此前申报的银河 TT）。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "吉利银河宣布7月16日发布全球首款雷霆16合1智能电驱。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体且有时效性，但缺少技术细节和原始出处。"
-    },
-    {
-      "title": "微软预告 PowerPoint 改进：新增 13 个 SmartArt，优化文件打开体验",
-      "link": "https://www.ithome.com/0/976/335.htm",
-      "pubDate": "Tue, 14 Jul 2026 02:30:47 GMT",
-      "contentSnippet": "IT之家 7 月 14 日消息，微软昨日（7 月 13 日）发布博文，预告介绍了适用于 PowerPoint（微软演示文稿应用）的 4 项更新，包括扩展新增 13 个 SmartArt、新增 13 个主题等等，目前处于 Beta 测试状态，将于 7 月 ~8 月期间上线。\nIT之家注： SmartArt 是微软 Office 应用中的可视化图示功能，用于把文本信息转换为流程图、层级图、时间线、列表等结构化图形。\n在 SmartArt 方面，微软表示在过去几周时间里，为 PowerPoint 新增 13 个新版式，涵盖时间轴、列表和“团队介绍”模板等，并承诺后续会推出更多版式。\n\n微软同时调整了",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "微软预告PowerPoint将新增13个SmartArt版式等4项更新，处于Beta测试。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体且有官方博文引用，逻辑清晰。"
-    },
-    {
-      "title": "红魔官方就游戏平板 5 Pro 缺货致歉：产能预计 8 月中下旬有所改善，严打黄牛、刷单",
-      "link": "https://www.ithome.com/0/976/333.htm",
-      "pubDate": "Tue, 14 Jul 2026 02:28:46 GMT",
-      "contentSnippet": "IT之家 7 月 14 日消息，今天（14 日）上午，红魔游戏手机官微发布《关于红魔游戏平板 5Pro 发售情况的致歉声明》。\nIT之家附声明全文如下：\n\n关于红魔游戏平板 5 Pro 发售情况的致歉声明\n亲爱的红魔玩家：\n首先，跟大家说一声：对不起。\n红魔游戏平板 5Pro 开售以来，因为供货紧张，让很多一直支持我们的玩家一次次落空。这是我们的问题，向每一位期待的玩家，致以最诚挚的歉意。\n为什么会缺货？\n这次新品搭载了多项全新定制的旗舰硬件，全新技术部件的量产难度远超我们的预期，导致产能爬坡非常缓慢。我们选择了“产一批、销一批”的方式来尽量满足需求，以致购买体验不佳，我们对此深感自责。\n我们",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "红魔就游戏平板5Pro缺货致歉，称产能预计8月中下旬改善。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家知名科技媒体，内容具体有官方声明，逻辑清晰。"
-    },
-    {
-      "title": "联想拯救者官宣 Y700 无极平板电脑搭载高通第五代骁龙 8 至尊领先版",
-      "link": "https://www.ithome.com/0/976/332.htm",
-      "pubDate": "Tue, 14 Jul 2026 02:28:22 GMT",
-      "contentSnippet": "IT之家 7 月 14 日消息，联想 (Lenovo) 拯救者 (Legion) 官方今日宣布，将于 8 月发布的 Y700 无极平板电脑配备了高通第五代骁龙 8 至尊领先版 (8 Elite Gen 5 Leading Version)，处理器 CPU 最高主频可达 4.74GHz。\nIT之家注意到，这一标定频率的第五代骁龙 8 至尊版此前也曾出现在三星电子多型今年款智能手机和红魔 11S Pro 智能手机上。\n\nY700 无极平板电脑还将配备支持 10667MT/s 传输速率的 LPDDR5T 内存和 UFS 4.1 Pro 存储。此前消息显示，该产品支持内置流量卡和可插拔 SIM 卡，支",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "联想Y700平板将搭载高通第五代骁龙8至尊领先版，主频4.74GHz。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体但缺乏原始出处和细节验证。"
+      "credibilityReason": "来自知名科技媒体36氪，内容具体有数据支撑，但缺乏深度分析。"
     }
   ]
 }

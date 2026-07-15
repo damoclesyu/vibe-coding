@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-07-14T02:47:55.821Z",
+  "generatedAt": "2026-07-15T02:46:26.763Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "总理座谈会传递稳经济稳消费信号",
-      "link": "https://www.chinanews.com.cn/cj/2026/07-14/10658876.shtml",
-      "pubDate": "Tue, 14 Jul 2026 10:32:17 +0800",
-      "contentSnippet": "在中国经济半年报即将发布之际，一场高规格座谈会召开。",
+      "title": "国台办：民进党当局搞再多演习都是装腔作势徒劳无功",
+      "link": "https://www.chinanews.com.cn/gn/2026/07-15/10659577.shtml",
+      "pubDate": "Wed, 15 Jul 2026 10:36:28 +0800",
+      "contentSnippet": "7月15日，国务院台办举行例行新闻发布会。有记者问，台媒报道称，由于大陆近年不断“对台文攻武吓”，台军本周举行首次“联合防御操演”，模拟“侦获敌军发航并进入领海等威胁情境”，以因应可能的潜在威胁。请问对此有何评论？",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -16,16 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "总理座谈会释放稳经济稳消费信号，为半年报发布预热。",
+      "aiSummary": "国台办回应台军演习，称民进党当局行为徒劳无功。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，权威性较高；内容具体，用词客观，符合官方报道风格。"
+      "credibilityReason": "来源为中国新闻网，官方发布会内容，有直接引述，信息具体客观。"
     },
     {
-      "title": "国际社会期待习近平主席就全球人工智能发展与治理发表主旨讲话",
-      "link": "https://www.chinanews.com.cn/gn/2026/07-14/10658809.shtml",
-      "pubDate": "Tue, 14 Jul 2026 10:21:48 +0800",
-      "contentSnippet": "新华社北京7月13日电#8195;题：为加强全球人工智能发展治理注入中国动力——国际社会期待习近平主席出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
+      "title": "国台办：“新两国论”界定台海现状违背法理历史现实",
+      "link": "https://www.chinanews.com.cn/gn/2026/07-15/10659576.shtml",
+      "pubDate": "Wed, 15 Jul 2026 10:35:44 +0800",
+      "contentSnippet": "7月15日，国务院台办举行例行新闻发布会。有记者问，有民进党政客称，大陆以各种不同的军事与非军事行动来改变台海现状，国际社会应密切关注大陆行动，否则目前的台海现状会逐渐消失。请问对此有何评论？",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -33,16 +33,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国际社会期待习近平主席在AI大会发表主旨讲话。",
+      "aiSummary": "国台办驳斥民进党政客“新两国论”，指其违背法理历史现实。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，内容具体，引用新华社，用词客观。"
+      "credibilityReason": "来源为中国新闻网，官方发布会内容，有直接引述，信息具体客观。"
     },
     {
-      "title": "外媒所谓的“文化灭绝”，如何在全世界面前被打了脸？",
-      "link": "https://www.chinanews.com.cn/cul/2026/07-14/10658855.shtml",
-      "pubDate": "Tue, 14 Jul 2026 10:18:26 +0800",
-      "contentSnippet": "2026年7月1日起，备受瞩目的《中华人民共和国民族团结进步促进法》正式实施。这部以“促进”和“保障”为核心的法律，从立法之初便被一些外媒盯上，预先扣上“同化少数民族”甚至“文化灭绝”的帽子。",
+      "title": "国台办：对受“巴威”影响的岛内受灾同胞表示慰问",
+      "link": "https://www.chinanews.com.cn/gn/2026/07-15/10659569.shtml",
+      "pubDate": "Wed, 15 Jul 2026 10:33:15 +0800",
+      "contentSnippet": "7月15日，国务院台办举行例行新闻发布会，有记者问：近日，广西、湖北、甘肃等地遭受风灾与洪涝灾害。请问有无台胞台企受到影响？可否介绍有关情况？",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -50,34 +50,135 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国新闻网驳斥外媒对《民族团结进步促进法》的“文化灭绝”指控。",
+      "aiSummary": "国台办对受“巴威”影响的岛内受灾同胞表示慰问。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为官方媒体中国新闻网，内容具体且有直接引述，可信度较高。"
+    },
+    {
+      "title": "脑机接口应用加速推广 投资迎来爆发式增长",
+      "link": "https://www.chinanews.com.cn/cj/2026/07-15/10659563.shtml",
+      "pubDate": "Wed, 15 Jul 2026 10:29:07 +0800",
+      "contentSnippet": "在政策端，国务院日前印发的《国民健康“十五五”规划》提出，加强脑机接口等领域科技攻关；在融资端，上半年脑机接口投资数量和融资金额大幅度超过去年全年；在企业端，脑虎科技自主研发的“植入式脑机接口手部运动功能代偿系统”正式启动GCP注册临床试验，格式塔科技超级工厂项目投入运营……",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国脑机接口领域政策、融资、企业进展全面加速，投资爆发式增长。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网较权威，信息具体（政策、融资数据、企业案例），但缺乏多源交叉验证。"
+    },
+    {
+      "title": "国台办：民进党当局跟风鼓噪“非红供应链” 损害的是台湾未来",
+      "link": "https://www.chinanews.com.cn/gn/2026/07-15/10659560.shtml",
+      "pubDate": "Wed, 15 Jul 2026 10:24:39 +0800",
+      "contentSnippet": "7月15日，国务院台办举行例行新闻发布会，有记者就近日台经济部门负责人再度炒作所谓“非红供应链”提问。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国台办批评民进党当局炒作“非红供应链”损害台湾未来。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源权威（中国新闻网），官方发布会直接引述，内容具体客观。"
+    },
+    {
+      "title": "中欧绿色转型合作研讨会在布鲁塞尔举行",
+      "link": "https://www.chinanews.com.cn/gj/2026/07-15/10659482.shtml",
+      "pubDate": "Wed, 15 Jul 2026 10:24:09 +0800",
+      "contentSnippet": "中新网布鲁塞尔7月15日电 中欧绿色转型合作研讨会13日在布鲁塞尔举行，以“可持续且公正的零碳经济转型：中欧海上交通运输合作与创新”为主题，围绕推动中欧绿色转型合作进行深入研讨。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中欧绿色转型合作研讨会在布鲁塞尔举行，聚焦零碳经济与海上交通合作。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，信息具体，有明确时间地点主题，用词客观。"
+    },
+    {
+      "title": "台湾民众赴陆交流意愿持续高涨 国台办：热忱欢迎",
+      "link": "https://www.chinanews.com.cn/gn/2026/07-15/10659544.shtml",
+      "pubDate": "Wed, 15 Jul 2026 10:18:47 +0800",
+      "contentSnippet": "7月15日，国务院台办举行例行新闻发布会，有记者问：尽管民进党当局以各种方式恐吓台湾民众不要来大陆，但今年上半年台湾民众来大陆交流的意愿持续高涨，不少两岸交流活动的人数屡创新高，很多台湾青年热议“来大陆值不值”，请问对此有何评论？",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "台湾民众赴陆交流意愿高涨，国台办表示欢迎。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，属权威媒体；内容具体，有直接引述和官方发布会信息。"
+    },
+    {
+      "title": "国台办：欢迎台湾民众党青年交流团到大陆参访",
+      "link": "https://www.chinanews.com.cn/gn/2026/07-15/10659541.shtml",
+      "pubDate": "Wed, 15 Jul 2026 10:16:25 +0800",
+      "contentSnippet": "7月15日，国务院台办举行例行新闻发布会。有记者问，据报道，台湾民众党青年交流团于14日抵达上海参访交流，请问他们此行将参访哪些地方？国台办对该团访陆有何评论？",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国台办欢迎台湾民众党青年交流团到大陆参访。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，权威媒体；内容具体，有直接引述和官方回应。"
+    },
+    {
+      "title": "人工智能发展的中国之道：前瞻布局 健康发展",
+      "link": "https://www.chinanews.com.cn/gn/2026/07-15/10659493.shtml",
+      "pubDate": "Wed, 15 Jul 2026 10:11:24 +0800",
+      "contentSnippet": "2026世界人工智能大会暨人工智能全球治理高级别会议，将于7月17日至20日在上海举行。习近平总书记将出席大会开幕式并发表主旨讲话。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国将举办2026世界人工智能大会，习近平将出席并发表讲话。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，权威性高；内容具体，有明确时间、地点和人物。"
+    },
+    {
+      "title": "伊拉克总理到访白宫，特朗普：他年轻又帅，这我就不高兴了",
+      "link": "https://m.thepaper.cn/detail/33588226",
+      "pubDate": "Wed, 15 Jul 2026 01:37:15 GMT",
+      "contentSnippet": "当地时间7月14日，美国总统特朗普在白宫会见到访的伊拉克总理扎伊迪，打趣说不喜欢他“年轻帅气”。现年40岁的扎伊迪2026年5月刚就任伊拉克总理。",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "特朗普在白宫会见伊拉克总理，调侃其年轻帅气。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，内容具体且引用法律，但缺乏外媒原话和多源验证。"
+      "credibilityReason": "来源澎湃新闻较权威，内容具体有直接引述，但标题略带情绪化。"
     },
     {
-      "title": "王沪宁将访问朝鲜",
-      "link": "https://www.chinanews.com.cn/gn/2026/07-14/10658850.shtml",
-      "pubDate": "Tue, 14 Jul 2026 10:14:20 +0800",
-      "contentSnippet": "中新社北京7月14日电　中共中央对外联络部发言人14日宣布：应朝鲜劳动党中央委员会和朝鲜民主主义人民共和国政府邀请，中共中央政治局常委、全国政协主席王沪宁将率中国党政代表团于7月15日至17日对朝鲜进行正式友好访问。（完）",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网",
-        "澎湃新闻"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "王沪宁将率团于7月15日至17日正式访问朝鲜。",
-      "credibilityScore": 100,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源权威（中新社、澎湃新闻），有直接引述官方声明，信息具体可查证。（多源覆盖 +5）"
-    },
-    {
-      "title": "国新办发布会丨介绍2026年上半年进出口情况",
-      "link": "https://m.thepaper.cn/detail/33560050",
-      "pubDate": "Tue, 14 Jul 2026 02:01:58 GMT",
-      "contentSnippet": "7月14日，国务院新闻办公室举行新闻发布会，请海关总署副署长王军介绍2026年上半年进出口情况，并答记者问。",
+      "title": "国新办发布会丨介绍2026年上半年国民经济运行情况",
+      "link": "https://m.thepaper.cn/detail/33574510",
+      "pubDate": "Wed, 15 Jul 2026 01:30:45 GMT",
+      "contentSnippet": "7月15日，国务院新闻办公室举行新闻发布会，请国家统计局副局长毛盛勇介绍2026年上半年国民经济运行情况，并答记者问。",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -85,33 +186,50 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国新办发布会介绍2026年上半年进出口情况，海关总署副署长王军答记者问。",
+      "aiSummary": "国新办发布会介绍2026年上半年国民经济运行情况。",
       "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为澎湃新闻，内容涉及官方发布会，信息具体且可查证。"
+      "credibilityReason": "来源为澎湃新闻，引用国新办发布会及官方发言人，信息具体且权威。"
     },
     {
-      "title": "江西检察机关依法对韩占武涉嫌受贿案提起公诉",
-      "link": "https://www.chinanews.com.cn/gn/2026/07-14/10658840.shtml",
-      "pubDate": "Tue, 14 Jul 2026 10:01:17 +0800",
-      "contentSnippet": "中新网7月14日电 据最高检官方微博消息，国家烟草专卖局原党组成员、副局长韩占武涉嫌受贿一案，由国家监察委员会调查终结，移送检察机关审查起诉。经最高人民检察院指定管辖，江西省人民检察院以涉嫌受贿罪对韩占武作出逮捕决定。近日，江西省九江市人民检察院已向九江市中级人民法院提起公诉。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
+      "title": "日本关西经济联合会拟10月派团访华",
+      "link": "https://www.zaobao.com/news/china/story20260715-9365685",
+      "pubDate": "Wed, 15 Jul 2026 01:17:37 GMT",
+      "contentSnippet": "日中关系紧张之际，日本关西经济联合会会长松本正义说，正在协调派遣关西经济界代表团在10月访华。\n据日本共同社报道，松本正义星期二（7月14日）在记者会上说，正在协调派遣关西经济界代表团于10月18日至23日访华。他称，关西经济界与中国的联系牢固，即使在日中关系恶化长期持续的情况下，也将基于政经分离的想法推进交流。\n松本正义说，正在寻求与中国政府要人会晤，但“从目前的情况来看，也有可能会被说‘不’”。\n松本正义曾在6月前往中国，参加在北京举办的中国国际供应链促进博览会。据称，他向主办方、中国国际贸易促进委员会会长任鸿斌表达了派遣访华团的意愿。\n根据中国贸促会微信公众号，贸促会副会长李兴乾6月21",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
       "allSources": [
-        "中国新闻网"
+        "联合早报·中港台"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国家烟草专卖局原副局长韩占武涉嫌受贿被江西检察机关提起公诉。",
-      "credibilityScore": 95,
+      "aiSummary": "日本关西经济联合会计划10月派团访华，旨在促进日中经济交流。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源权威（中国新闻网），信息具体，有最高检官方消息，事实可查证。"
+      "credibilityReason": "来源为联合早报，引用共同社报道，有直接引述和具体时间，信息可查证。"
     },
     {
-      "title": "受贿数额特别巨大，国家烟草专卖局原副局长韩占武被提起公诉",
-      "link": "https://m.thepaper.cn/detail/33580883",
-      "pubDate": "Tue, 14 Jul 2026 02:01:16 GMT",
-      "contentSnippet": "记者今天（14日）从最高人民检察院获悉，国家烟草专卖局原党组成员、副局长韩占武涉嫌受贿一案，由国家监察委员会调查终结，移送检察机关审查起诉。经最高人民检察院指定管辖，江西省人民检察院以涉嫌受贿罪对韩占武作出逮捕决定。近日，江西省九江市人民检察院已向九江市中级人民法院提起公诉。\n检察机关在审查起诉阶段，依法告知了被告人韩占武享有的诉讼权利，并讯问了被告人，听取了辩护人的意见。检察机关起诉指控：被告人韩占武利用担任中国机电设备招标中心党委书记、主任，工业和信息化部人事教育司司长、办公厅主任，国家烟草专卖局党组成员、副局长等职务上的便利以及职权或者地位形成的便利条件，为他人谋取利益，非法收受他人财物",
+      "title": "香港选委会界别分组选举将在11月举行",
+      "link": "https://www.zaobao.com/news/china/story20260715-9365585",
+      "pubDate": "Wed, 15 Jul 2026 00:54:11 GMT",
+      "contentSnippet": "香港政制及内地事务局局长谢小华说，将在今年11月22日举行选举委员会（简称选委会）界别分组选举。\n据香港特区政府新闻公报，谢小华星期二（7月14日）在香港立法会政制事务委员会会议上说，香港自2021年完善选举制度以来，已顺利举行多场重要选举，成功贯彻落实“爱国者治港”的原则，确保香港的管治权牢牢掌握在爱国者手中。\n谢小华并说，将在11月22日举行选委会界别分组选举，以选出新一届选委会。她称，选委会是香港选举制度的重要组成部分，由1500人组成。根据《基本法》附件一及附件二，选委会负责选举行政长官候任人、立法会部分议员，以及提名行政长官候选人和立法会议员候选人。\n另据星岛头条报道，民建联议员陈永",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
+      "allSources": [
+        "联合早报·中港台"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "香港选委会界别分组选举将于11月22日举行，由政制局长宣布。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为联合早报，引用官方新闻公报和具体日期，信息可查证。"
+    },
+    {
+      "title": "“沪九条”一周年：让创作被看见，让期待有回响",
+      "link": "https://m.thepaper.cn/detail/33585948",
+      "pubDate": "Tue, 14 Jul 2026 23:09:34 GMT",
+      "contentSnippet": "让创作被看见，让期待有回响。\n2025年7月15日，《上海市关于支持互联网优质内容创作的若干举措》（简称“沪九条”）正式发布，这也被视为全国首个省级互联网优质内容创作专项政策。\n\n一年后的今天，这场关于“好内容”的化学反应，已在黄浦江畔悄然发生。自由、创新、多元、包容，是很多创作者谈到上海时脱口而出的词汇。这里不只有取景框里的繁华，还有烟火日常中的灵感。更重要的是，创作者们可以真正在这座城市落下脚来。“沪九条”一周年只是起点，更多双向奔赴的故事，正在浦江两岸的日夜里，一笔一画，继续生长。\n从“流量个体”到被城市真正“看见”\n优质内容创作者为什么选择上海？\n对音乐人王搏来说，这是一次义无反顾的奔",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -119,51 +237,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国家烟草专卖局原副局长韩占武因受贿被提起公诉。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源澎湃新闻较权威，信息具体，有最高检官方出处，用词客观。"
-    },
-    {
-      "title": "学习卡丨推动人工智能健康有序发展、共享发展红利，习近平这样阐释",
-      "link": "https://www.chinanews.com.cn/gn/2026/07-14/10658828.shtml",
-      "pubDate": "Tue, 14 Jul 2026 09:52:40 +0800",
-      "contentSnippet": "2026世界人工智能大会暨人工智能全球治理高级别会议将于7月17日至20日在上海举行。国家主席习近平将出席大会开幕式并发表主旨讲话。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网",
-        "澎湃新闻"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "习近平将出席2026世界人工智能大会并发表主旨讲话",
-      "credibilityScore": 95,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网和澎湃新闻，均为权威媒体，内容具体且可交叉验证（多源覆盖 +5）"
-    },
-    {
-      "title": "中国抗议日海保船因台风退避台海 日本拒不接受",
-      "link": "https://www.zaobao.com/news/china/story20260714-9359710",
-      "pubDate": "Tue, 14 Jul 2026 01:00:48 GMT",
-      "contentSnippet": "中国抗议日本海保船因台风退避至台湾海峡，在公海待命，日本表明拒不接受。\n日本共同社星期一（7月13日）引述多名日中外交消息人士称，日本海上保安厅多艘巡逻船上周为了躲避接近冲绳先岛诸岛的第九号台风“巴威”而退避到台湾海峡，在公海上待命。\n中国政府通过外交渠道向日本提出了抗议。日方反驳称，不接受中方抗议。\n据日本政府相关人士称，海保巡逻船此前也曾因台风接近而退避到台湾海峡。据悉，除日本海保巡逻船外，这次也有其他国家的船舶退避到台海。\n上述人士分析称，“由于日中关系恶化，中方可能因此变得过于敏感”。\n日本首相高市早苗去年11月发表“台湾有事”言论，触怒北京，令两国关系陷入低谷，从官方至民间的互动交流",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国抗议日本海保船因台风退避台湾海峡，日本拒绝接受。",
+      "aiSummary": "上海“沪九条”发布一周年，支持互联网优质内容创作，促进创作者与城市双向奔赴。",
       "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报，引用共同社及外交消息人士，信息具体，用词客观。"
+      "credibilityReason": "来源澎湃新闻较权威，内容具体有政策背景和案例，用词客观中性。"
     },
     {
-      "title": "美籍华裔地震学家据报涉间谍罪在华被拘 曾发表朝鲜核试验研究",
-      "link": "https://www.zaobao.com/news/china/story20260714-9359630",
-      "pubDate": "Tue, 14 Jul 2026 00:41:51 GMT",
-      "contentSnippet": "曾发表受美国资助的朝鲜核试验探测研究的美籍华裔地震学家陈有林（Youlin Chen，音译），据报已被中国政府拘押近两年，并将面临间谍罪审判。此案为中美紧张关系增添了新的摩擦点。\n路透社星期二（7月14日）引述陈有林妻子荣玉芳（Yufang Rong，音译）、多名美国议员和两个人质倡导组织，报道了上述消息。\n综合荣玉芳与人质倡导组织“Global Reach”负责人莱布森透露，陈有林于2024年11月5日在北京首都国际机场被中国国家安全人员逮捕。当时他刚结束探亲，并在两所大学发表演讲，正准备乘机返回波士顿。陈有林于2025年5月1日被正式指控犯有间谍罪，但目前尚未受审。\n陈有林于2011年入籍",
+      "title": "台湾行政院长卓荣泰表示为致癌食用油事件检讨与反省",
+      "link": "https://www.zaobao.com/news/china/story20260714-9364518",
+      "pubDate": "Tue, 14 Jul 2026 15:54:40 GMT",
+      "contentSnippet": "台湾行政院长卓荣泰星期二（7月14日）在立法院对中联油脂致癌事件说明处理始末，表达“造成国人不安、下游业者焦虑，深感遗憾，会深切自我检讨与反省”。\n卓荣泰在“中联油脂大豆沙拉油事件及食安监管机制缺失检讨”专案报告中，强调政府从6月30日接获通报后，每天都有实际积极作为，“绝对没有盖牌，只有趋严处理”。\n不过，从报告内容到答复立委的质询，卓荣泰并未清楚说明中联油脂的油品验出第一级致癌物“苯骈芘”（BaP）超标原因，也无法厘清究竟是原料还是制程出了问题。他表示，“这些都待司法与行政进一步调查”。\n由福寿、福懋和泰山三家老牌大厂合资成立的中联油脂公司，所供应的大豆沙拉油验出第一级致癌物苯骈芘（BaP",
       "sourceName": "联合早报·中港台",
       "sourceWeight": 80,
       "allSources": [
@@ -171,95 +254,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "美籍华裔地震学家陈有林据报因间谍罪在华被拘近两年，加剧中美紧张。",
+      "aiSummary": "台湾行政院长卓荣泰就中联油脂致癌事件致歉，称将检讨反省。",
       "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报，转引路透社，有直接引述和多方信息，但未获中方证实。"
-    },
-    {
-      "title": "王毅：中国欢迎哈萨克斯坦加入国际调解院",
-      "link": "https://www.zaobao.com/news/china/story20260714-9359594",
-      "pubDate": "Tue, 14 Jul 2026 00:24:52 GMT",
-      "contentSnippet": "时隔九个月，中国外交部长王毅再与哈萨克斯坦外长科舍尔巴耶夫举行会谈。王毅在这次会谈中表示，中方欢迎哈方加入国际调解院。\n据中国外交部官网消息，王毅星期一（7月13日）在北京同科舍尔巴耶夫举行会谈。\n王毅表示，哈萨克斯坦总统托卡耶夫即将赴华出席2026世界人工智能大会暨人工智能全球治理高级别会议，两国元首将进行深入战略沟通，为双边关系发展注入新动力。\n他指出，中方愿同哈方保持各层级往来，加强治国理政经验交流，推进全方位务实合作，不断丰富中哈永久全面战略伙伴关系内涵。\n王毅说，中方欢迎哈方加入国际调解院，赞赏哈方在中国—中亚机制、上海合作组织、亚信等多边平台中发挥的建设性作用，愿同哈方携手捍卫国际",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "王毅欢迎哈萨克斯坦加入国际调解院，双方会谈深化合作。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报，引述中国外交部官网信息，内容具体且客观。"
-    },
-    {
-      "title": "阿联酋两艘油轮遭袭 一名印度籍船员死亡",
-      "link": "https://www.zaobao.com/news/world/story20260714-9359540",
-      "pubDate": "Tue, 14 Jul 2026 00:10:50 GMT",
-      "contentSnippet": "阿拉伯联合酋长国国防部说，两艘阿联酋国家油轮星期二（7月14日）在霍尔木兹海峡遭两枚伊朗巡航导弹袭击，造成一名印度籍船员死亡，另有八人受伤。\n路透社报道，遇袭的两艘油轮分别为蒙巴萨号（Mombasa）和巴希亚号（Al Bahiyah），在海峡南部航道、阿曼领海内遭袭，遇难者为蒙巴萨号的船员。\n阿联酋国防部说，八名伤者中的四人伤势严重，其中六人为印度籍，两人为乌克兰籍。\n袭击导致两艘油轮起火，造成物资损失。阿联酋交通部说，火势已被控制。\n阿联酋国防部对伊朗“公然袭击”表示谴责，并称阿联酋保留“对事态升级作出回应的全部权利”。",
-      "sourceName": "联合早报·国际",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·国际"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "阿联酋两油轮在霍尔木兹海峡遭伊朗导弹袭击，致一名印度船员死亡。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报，引用路透社报道，有具体时间、地点、伤亡数据及官方声明。"
-    },
-    {
-      "title": "德国总理默茨：人民币多年来被低估25%",
-      "link": "https://www.zaobao.com/news/china/story20260714-9359423",
-      "pubDate": "Mon, 13 Jul 2026 23:40:00 GMT",
-      "contentSnippet": "德国总理默茨再次呼吁与中国展开对话，以解决对于中国通过压低汇率来巩固不公平贸易优势的担忧。\n据彭博社报道，默茨星期一（7月13日）在科隆大学对学生发表讲话时被问及中国贸易问题，表示人民币“多年来”被低估25%。\n“我们已在欧洲理事会启动密集讨论，”默茨表示，并称欧洲长期低估了中国在全球的政治和经济作用，“我们需要与中国开展政治性汇率对话。”\n默茨说，在如何确定对华政策方向方面，欧洲面临一个非常重大的问题，“我们需要在这方面降低依赖。”\n报道称，随着欧盟领导人加大力度应对对华贸易逆差问题，默茨多次将人民币汇率列为中国贸易优势的来源之一。这位德国领导人上月曾呼吁就人民币低估问题开展国际对话。",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "德国总理默茨称人民币被低估25%，呼吁与中国展开汇率对话。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报转载彭博社，有直接引述和具体数据，信息可查证。"
-    },
-    {
-      "title": "中使馆：日本在南中国海问题上负历史罪责 没资格说三道四",
-      "link": "https://www.zaobao.com/news/china/story20260714-9359416",
-      "pubDate": "Mon, 13 Jul 2026 23:15:16 GMT",
-      "contentSnippet": "包括日本在内的14个国家发表联合声明重申南中国海仲裁案裁决具“最终性与法律拘束力”，中国驻日本大使馆称，日本在南中国海问题上负有历史罪责，没资格说三道四。\n据新华社报道，中国驻日本大使馆公使施泳星期一（7月13日）就联合声明一事，向日本外务省亚洲大洋洲局局长金井正彰提出严正交涉和强烈抗议。\n中方称，所谓“裁决”违反国际法基本准则，严重损害《联合国海洋法公约》严肃性和权威性，严重冲击国际法治，是一张非法无效没有约束力的废纸，中方反对且不接受任何基于该“裁决”的主张和行动。中国在南中国海的领土主权和海洋权益任何情况下不受该“裁决”影响。\n中方还称，日本在南中国海问题上负有历史罪责且并未清算，没有资",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国驻日使馆就南海仲裁案声明向日本抗议，称日本无资格评论。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报，引述新华社报道，有具体人物和事件，内容可查证。"
-    },
-    {
-      "title": "日经：受政经风险等影响 越来越多中小日企撤出中国",
-      "link": "https://www.zaobao.com/news/world/story20260713-9358457",
-      "pubDate": "Mon, 13 Jul 2026 14:15:43 GMT",
-      "contentSnippet": "（大版讯）鉴于中美关系持续紧张、中国经济增长放缓以及中国《反间谍法》带来的风险，越来越多日本中小企业撤资离开中国。\n《日经亚洲》报道，日本帝国数据银行的数据显示，2024年在华运营的日本企业约有1万3000家，比2012年巅峰时期少了近10%，日企“向中国市场扩张的兴趣似乎已见顶”。\n日本贸易振兴机构（JETRO）2025财年进行调查，了解在华日企未来一两年内的业务计划。\n在受访的784家日企中，仅21.3%计划扩大在华业务，是自2007财年有关调查开始以来的最低水平；14.4%的企业打算缩小规模、搬迁或撤离中国，创下历史新高；其余64.3%企业计划维持现状。\n受访日企把工资上涨和竞争加剧列为",
-      "sourceName": "联合早报·国际",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·国际"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "日经报道，受政经风险影响，越来越多日本中小企业撤出中国。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报转载日经，有具体数据和时间，内容客观可查证。"
+      "credibilityReason": "来源为联合早报，较权威；内容具体，有直接引述；但事件细节待查，评分略降。"
     }
   ]
 }
