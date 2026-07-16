@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-07-15T02:46:26.763Z",
+  "generatedAt": "2026-07-16T02:52:52.654Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "国台办：民进党当局搞再多演习都是装腔作势徒劳无功",
-      "link": "https://www.chinanews.com.cn/gn/2026/07-15/10659577.shtml",
-      "pubDate": "Wed, 15 Jul 2026 10:36:28 +0800",
-      "contentSnippet": "7月15日，国务院台办举行例行新闻发布会。有记者问，台媒报道称，由于大陆近年不断“对台文攻武吓”，台军本周举行首次“联合防御操演”，模拟“侦获敌军发航并进入领海等威胁情境”，以因应可能的潜在威胁。请问对此有何评论？",
+      "title": "向新向优！透过半年“成绩单”看中国经济的韧性和活力",
+      "link": "https://www.chinanews.com.cn/cj/2026/07-16/10660290.shtml",
+      "pubDate": "Thu, 16 Jul 2026 10:49:41 +0800",
+      "contentSnippet": "国家统计局今天发布的数据显示，初步核算，上半年国内生产总值695704亿元，按不变价格计算，同比增长4.7%。面对复杂局面，今年以来中国经济顶住压力，延续了总体平稳、向新向优的发展态势，展现出强大的韧性和活力。中国经济上半年的韧性和活力来自哪里？下一步要推动经济高质量发展，完成全年经济社会发展目标，还应做哪些工作？一起来关注。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -16,16 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国台办回应台军演习，称民进党当局行为徒劳无功。",
+      "aiSummary": "中国上半年GDP同比增长4.7%，经济展现韧性和活力。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，官方发布会内容，有直接引述，信息具体客观。"
+      "credibilityReason": "来源为中国新闻网，引用国家统计局数据，内容具体客观。"
     },
     {
-      "title": "国台办：“新两国论”界定台海现状违背法理历史现实",
-      "link": "https://www.chinanews.com.cn/gn/2026/07-15/10659576.shtml",
-      "pubDate": "Wed, 15 Jul 2026 10:35:44 +0800",
-      "contentSnippet": "7月15日，国务院台办举行例行新闻发布会。有记者问，有民进党政客称，大陆以各种不同的军事与非军事行动来改变台海现状，国际社会应密切关注大陆行动，否则目前的台海现状会逐渐消失。请问对此有何评论？",
+      "title": "西藏党校召开专题研讨 学习“七一”重要讲话精神回望和平解放75载",
+      "link": "https://www.chinanews.com.cn/gn/2026/07-16/10660233.shtml",
+      "pubDate": "Thu, 16 Jul 2026 10:47:57 +0800",
+      "contentSnippet": "中新网拉萨7月16日电(贡确)15日，由中共西藏自治区委员会党校(西藏自治区行政学院)主办的“学习贯彻习近平总书记在庆祝中国共产党成立105周年大会上的重要讲话精神暨庆祝西藏和平解放75周年”理论研讨会在拉萨举办，活动同步纪念青藏铁路全线通车20周年。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -33,16 +33,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国台办驳斥民进党政客“新两国论”，指其违背法理历史现实。",
+      "aiSummary": "西藏党校举办研讨会，学习习近平讲话并纪念和平解放75周年。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，官方发布会内容，有直接引述，信息具体客观。"
+      "credibilityReason": "来源中国新闻网，权威媒体；内容具体，有明确时间、地点和事件。"
     },
     {
-      "title": "国台办：对受“巴威”影响的岛内受灾同胞表示慰问",
-      "link": "https://www.chinanews.com.cn/gn/2026/07-15/10659569.shtml",
-      "pubDate": "Wed, 15 Jul 2026 10:33:15 +0800",
-      "contentSnippet": "7月15日，国务院台办举行例行新闻发布会，有记者问：近日，广西、湖北、甘肃等地遭受风灾与洪涝灾害。请问有无台胞台企受到影响？可否介绍有关情况？",
+      "title": "2026面向东盟文化交流合作论坛在广西举办",
+      "link": "https://www.chinanews.com.cn/aseaninfo/2026/07-16/10660269.shtml",
+      "pubDate": "Thu, 16 Jul 2026 10:44:26 +0800",
+      "contentSnippet": "中新网崇左7月16日电(张广权 韦佳秀)2026面向东盟文化交流合作论坛15日在广西崇左市举办。来自中国和东盟各国文旅主管部门、文博机构、文化遗产保护领域的专家学者及企业代表，围绕世界文化遗产创新保护与区域联合推广展开对话。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -50,50 +50,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国台办对受“巴威”影响的岛内受灾同胞表示慰问。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为官方媒体中国新闻网，内容具体且有直接引述，可信度较高。"
-    },
-    {
-      "title": "脑机接口应用加速推广 投资迎来爆发式增长",
-      "link": "https://www.chinanews.com.cn/cj/2026/07-15/10659563.shtml",
-      "pubDate": "Wed, 15 Jul 2026 10:29:07 +0800",
-      "contentSnippet": "在政策端，国务院日前印发的《国民健康“十五五”规划》提出，加强脑机接口等领域科技攻关；在融资端，上半年脑机接口投资数量和融资金额大幅度超过去年全年；在企业端，脑虎科技自主研发的“植入式脑机接口手部运动功能代偿系统”正式启动GCP注册临床试验，格式塔科技超级工厂项目投入运营……",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国脑机接口领域政策、融资、企业进展全面加速，投资爆发式增长。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网较权威，信息具体（政策、融资数据、企业案例），但缺乏多源交叉验证。"
-    },
-    {
-      "title": "国台办：民进党当局跟风鼓噪“非红供应链” 损害的是台湾未来",
-      "link": "https://www.chinanews.com.cn/gn/2026/07-15/10659560.shtml",
-      "pubDate": "Wed, 15 Jul 2026 10:24:39 +0800",
-      "contentSnippet": "7月15日，国务院台办举行例行新闻发布会，有记者就近日台经济部门负责人再度炒作所谓“非红供应链”提问。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国台办批评民进党当局炒作“非红供应链”损害台湾未来。",
+      "aiSummary": "2026面向东盟文化交流合作论坛在广西崇左举办，聚焦文化遗产保护与推广。",
       "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源权威（中国新闻网），官方发布会直接引述，内容具体客观。"
+      "credibilityReason": "来源为中国新闻网，权威性高；信息具体（时间、地点、主题），用词客观。"
     },
     {
-      "title": "中欧绿色转型合作研讨会在布鲁塞尔举行",
-      "link": "https://www.chinanews.com.cn/gj/2026/07-15/10659482.shtml",
-      "pubDate": "Wed, 15 Jul 2026 10:24:09 +0800",
-      "contentSnippet": "中新网布鲁塞尔7月15日电 中欧绿色转型合作研讨会13日在布鲁塞尔举行，以“可持续且公正的零碳经济转型：中欧海上交通运输合作与创新”为主题，围绕推动中欧绿色转型合作进行深入研讨。",
+      "title": "第二届中国—东盟大学生数字经济人工智能应用创新邀请赛决赛落幕",
+      "link": "https://www.chinanews.com.cn/aseaninfo/2026/07-16/10660214.shtml",
+      "pubDate": "Thu, 16 Jul 2026 10:42:56 +0800",
+      "contentSnippet": "中新网南宁7月16日电(韦佳秀 李彦坤)7月15日，以“数智赋能·创联未来”为主题的第二届中国(广西)—东盟大学生数字经济人工智能应用创新邀请赛决赛在广西南宁举办并落下帷幕。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -101,50 +67,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中欧绿色转型合作研讨会在布鲁塞尔举行，聚焦零碳经济与海上交通合作。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，信息具体，有明确时间地点主题，用词客观。"
-    },
-    {
-      "title": "台湾民众赴陆交流意愿持续高涨 国台办：热忱欢迎",
-      "link": "https://www.chinanews.com.cn/gn/2026/07-15/10659544.shtml",
-      "pubDate": "Wed, 15 Jul 2026 10:18:47 +0800",
-      "contentSnippet": "7月15日，国务院台办举行例行新闻发布会，有记者问：尽管民进党当局以各种方式恐吓台湾民众不要来大陆，但今年上半年台湾民众来大陆交流的意愿持续高涨，不少两岸交流活动的人数屡创新高，很多台湾青年热议“来大陆值不值”，请问对此有何评论？",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "台湾民众赴陆交流意愿高涨，国台办表示欢迎。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，属权威媒体；内容具体，有直接引述和官方发布会信息。"
-    },
-    {
-      "title": "国台办：欢迎台湾民众党青年交流团到大陆参访",
-      "link": "https://www.chinanews.com.cn/gn/2026/07-15/10659541.shtml",
-      "pubDate": "Wed, 15 Jul 2026 10:16:25 +0800",
-      "contentSnippet": "7月15日，国务院台办举行例行新闻发布会。有记者问，据报道，台湾民众党青年交流团于14日抵达上海参访交流，请问他们此行将参访哪些地方？国台办对该团访陆有何评论？",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国台办欢迎台湾民众党青年交流团到大陆参访。",
+      "aiSummary": "第二届中国-东盟大学生AI应用创新赛在南宁落幕。",
       "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，权威媒体；内容具体，有直接引述和官方回应。"
+      "credibilityReason": "来源为中国新闻网，权威性高；内容具体，有时间地点和主题。"
     },
     {
-      "title": "人工智能发展的中国之道：前瞻布局 健康发展",
-      "link": "https://www.chinanews.com.cn/gn/2026/07-15/10659493.shtml",
-      "pubDate": "Wed, 15 Jul 2026 10:11:24 +0800",
-      "contentSnippet": "2026世界人工智能大会暨人工智能全球治理高级别会议，将于7月17日至20日在上海举行。习近平总书记将出席大会开幕式并发表主旨讲话。",
+      "title": "人民之心｜渔船里的政绩观答卷",
+      "link": "https://www.chinanews.com.cn/gn/2026/07-16/10660258.shtml",
+      "pubDate": "Thu, 16 Jul 2026 10:39:12 +0800",
+      "contentSnippet": "编者按：政绩观，是世界观、人生观、价值观在为政实践中的集中体现。在全党开展树立和践行正确政绩观学习教育之际，央视网《天天学习》栏目特别推出系列报道，从习近平总书记在地方工作时期的生动实践切入，聚焦阐释“立党为公、为民造福、科学决策、真抓实干”的总要求。在“十五五”开局之年，让我们一起重温这些跨越时空的故事，感悟正确政绩观的理论源头与实践根基。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -152,50 +84,51 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国将举办2026世界人工智能大会，习近平将出席并发表讲话。",
-      "credibilityScore": 90,
+      "aiSummary": "中国新闻网报道习近平政绩观，强调为民造福和真抓实干。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，权威性高；内容具体，有明确时间、地点和人物。"
+      "credibilityReason": "来源权威（中国新闻网），内容具体，引用官方表述，用词客观。"
     },
     {
-      "title": "伊拉克总理到访白宫，特朗普：他年轻又帅，这我就不高兴了",
-      "link": "https://m.thepaper.cn/detail/33588226",
-      "pubDate": "Wed, 15 Jul 2026 01:37:15 GMT",
-      "contentSnippet": "当地时间7月14日，美国总统特朗普在白宫会见到访的伊拉克总理扎伊迪，打趣说不喜欢他“年轻帅气”。现年40岁的扎伊迪2026年5月刚就任伊拉克总理。",
-      "sourceName": "澎湃新闻",
+      "title": "一见·再看基层党建，读懂总书记的关切",
+      "link": "https://www.chinanews.com.cn/gn/2026/07-16/10660250.shtml",
+      "pubDate": "Thu, 16 Jul 2026 10:37:00 +0800",
+      "contentSnippet": "基层，习近平总书记心之所系、情之所牵。从地方到中央，一路走来，一直“对基层工作非常牵挂，对基层干部充满感情”。",
+      "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
+        "中国新闻网",
         "澎湃新闻"
       ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "特朗普在白宫会见伊拉克总理，调侃其年轻帅气。",
-      "credibilityScore": 75,
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "习近平关注基层党建，强调基层工作重要性。",
+      "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源澎湃新闻较权威，内容具体有直接引述，但标题略带情绪化。"
+      "credibilityReason": "来源为中国新闻网和澎湃新闻，权威性高，内容具体，用词客观。（多源覆盖 +5）"
     },
     {
-      "title": "国新办发布会丨介绍2026年上半年国民经济运行情况",
-      "link": "https://m.thepaper.cn/detail/33574510",
-      "pubDate": "Wed, 15 Jul 2026 01:30:45 GMT",
-      "contentSnippet": "7月15日，国务院新闻办公室举行新闻发布会，请国家统计局副局长毛盛勇介绍2026年上半年国民经济运行情况，并答记者问。",
-      "sourceName": "澎湃新闻",
+      "title": "同心同行聚青春 第六届海峡两岸青年文化月在苏州开幕",
+      "link": "https://www.chinanews.com.cn/tp/2026/07-16/10660229.shtml",
+      "pubDate": "Thu, 16 Jul 2026 10:28:48 +0800",
+      "contentSnippet": "图为开幕式文艺表演。中新社记者 泱波 摄\r\n\n图为开幕式文艺表演。中新社记者 泱波 摄\r\n\n图为开幕式文艺表演。中新社记者 泱波 摄\r\n\n图为开幕式文艺表演。中新社记者 泱波 摄\r\n\n图为开幕式文艺表演。中新社记者 泱波 摄\r\n\n图为开幕式文艺表演。中新社记者 泱波 摄\r\n\n图为开幕式文艺表演。中新社记者 泱波 摄",
+      "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
-        "澎湃新闻"
+        "中国新闻网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国新办发布会介绍2026年上半年国民经济运行情况。",
-      "credibilityScore": 90,
+      "aiSummary": "第六届海峡两岸青年文化月在苏州开幕，促进两岸青年交流。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为澎湃新闻，引用国新办发布会及官方发言人，信息具体且权威。"
+      "credibilityReason": "来源中国新闻网，权威媒体；内容具体，有图片佐证，信息可查证。"
     },
     {
-      "title": "日本关西经济联合会拟10月派团访华",
-      "link": "https://www.zaobao.com/news/china/story20260715-9365685",
-      "pubDate": "Wed, 15 Jul 2026 01:17:37 GMT",
-      "contentSnippet": "日中关系紧张之际，日本关西经济联合会会长松本正义说，正在协调派遣关西经济界代表团在10月访华。\n据日本共同社报道，松本正义星期二（7月14日）在记者会上说，正在协调派遣关西经济界代表团于10月18日至23日访华。他称，关西经济界与中国的联系牢固，即使在日中关系恶化长期持续的情况下，也将基于政经分离的想法推进交流。\n松本正义说，正在寻求与中国政府要人会晤，但“从目前的情况来看，也有可能会被说‘不’”。\n松本正义曾在6月前往中国，参加在北京举办的中国国际供应链促进博览会。据称，他向主办方、中国国际贸易促进委员会会长任鸿斌表达了派遣访华团的意愿。\n根据中国贸促会微信公众号，贸促会副会长李兴乾6月21",
+      "title": "台经济部：依规不准张雪机车登陆台湾",
+      "link": "https://www.zaobao.com/news/china/story20260716-9371682",
+      "pubDate": "Thu, 16 Jul 2026 01:36:09 GMT",
+      "contentSnippet": "针对中国大陆摩托车品牌张雪机车期待明年登陆台湾，台湾经济部表明，按照现行规定，张雪机车将不准进入台湾市场，违反规定将被重罚2500万新台币（100万新元）。\n张雪机车创办人张雪上周在台湾《联合报》刊发的专访中称，他非常想在台湾开店，现在正在对接中，最晚不超过明年，“开幕时我一定要亲自到场”。\n大陆国台办朱凤莲星期三（7月15日）在例行记者会回应张雪机车登陆台湾的提问时说，大陆支持两岸企业双向投资、合作共赢。希望两岸业界充分发挥各自优势，深入交流合作，更好服务两岸民众，让两岸民众都能买到和用上质量优良、价格适中的好产品。\n综合台湾《旺报》《联合报》报道，对于张雪机车有意进军台湾市场，台湾经济部星",
       "sourceName": "联合早报·中港台",
       "sourceWeight": 80,
       "allSources": [
@@ -203,33 +136,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "日本关西经济联合会计划10月派团访华，旨在促进日中经济交流。",
+      "aiSummary": "台湾经济部称依规禁止大陆张雪机车进入台湾市场，违者重罚。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报，引用共同社报道，有直接引述和具体时间，信息可查证。"
+      "credibilityReason": "来源为联合早报，引述台湾经济部及国台办回应，信息具体可查证。"
     },
     {
-      "title": "香港选委会界别分组选举将在11月举行",
-      "link": "https://www.zaobao.com/news/china/story20260715-9365585",
-      "pubDate": "Wed, 15 Jul 2026 00:54:11 GMT",
-      "contentSnippet": "香港政制及内地事务局局长谢小华说，将在今年11月22日举行选举委员会（简称选委会）界别分组选举。\n据香港特区政府新闻公报，谢小华星期二（7月14日）在香港立法会政制事务委员会会议上说，香港自2021年完善选举制度以来，已顺利举行多场重要选举，成功贯彻落实“爱国者治港”的原则，确保香港的管治权牢牢掌握在爱国者手中。\n谢小华并说，将在11月22日举行选委会界别分组选举，以选出新一届选委会。她称，选委会是香港选举制度的重要组成部分，由1500人组成。根据《基本法》附件一及附件二，选委会负责选举行政长官候任人、立法会部分议员，以及提名行政长官候选人和立法会议员候选人。\n另据星岛头条报道，民建联议员陈永",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "香港选委会界别分组选举将于11月22日举行，由政制局长宣布。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报，引用官方新闻公报和具体日期，信息可查证。"
-    },
-    {
-      "title": "“沪九条”一周年：让创作被看见，让期待有回响",
-      "link": "https://m.thepaper.cn/detail/33585948",
-      "pubDate": "Tue, 14 Jul 2026 23:09:34 GMT",
-      "contentSnippet": "让创作被看见，让期待有回响。\n2025年7月15日，《上海市关于支持互联网优质内容创作的若干举措》（简称“沪九条”）正式发布，这也被视为全国首个省级互联网优质内容创作专项政策。\n\n一年后的今天，这场关于“好内容”的化学反应，已在黄浦江畔悄然发生。自由、创新、多元、包容，是很多创作者谈到上海时脱口而出的词汇。这里不只有取景框里的繁华，还有烟火日常中的灵感。更重要的是，创作者们可以真正在这座城市落下脚来。“沪九条”一周年只是起点，更多双向奔赴的故事，正在浦江两岸的日夜里，一笔一画，继续生长。\n从“流量个体”到被城市真正“看见”\n优质内容创作者为什么选择上海？\n对音乐人王搏来说，这是一次义无反顾的奔",
+      "title": "总书记考察的老城厢居民区，老邻居过上了新生活",
+      "link": "https://m.thepaper.cn/detail/33594385",
+      "pubDate": "Thu, 16 Jul 2026 01:16:44 GMT",
+      "contentSnippet": "7月15日，习近平总书记来到上海市黄浦区半淞园路街道市民新村居民区，详细了解上海市推进无卫生设施旧房提升改造、历史性解决老城区居民“拎马桶”问题和小区改造等方面工作情况。\n\n上海市黄浦区半淞园路街道市民新村居民区的楼房通过改建更新，设立独立厨卫、加装电梯，居住条件明显改善。澎湃新闻记者 彭友琦 李菁 编辑 何羽茜(01:01)\n市民新村居民区位于黄浦区保屯路211弄，原有4幢建于1957年的楼房。这里镌刻着老上海的烟火记忆，也承载着几代居民的生活期盼。然而岁月侵蚀下，这里的房屋不仅存在严重的结构安全隐患，而且厨卫合用、空间逼仄的居住现状，让居民们对宜居生活的渴望愈发强烈。\n2022年10月，黄",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -237,16 +153,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "上海“沪九条”发布一周年，支持互联网优质内容创作，促进创作者与城市双向奔赴。",
-      "credibilityScore": 80,
+      "aiSummary": "习近平总书记考察上海老城厢，关注旧房改造改善居民生活。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源澎湃新闻较权威，内容具体有政策背景和案例，用词客观中性。"
+      "credibilityReason": "来源澎湃新闻较权威，内容具体有时间地点人物，用词客观。"
     },
     {
-      "title": "台湾行政院长卓荣泰表示为致癌食用油事件检讨与反省",
-      "link": "https://www.zaobao.com/news/china/story20260714-9364518",
-      "pubDate": "Tue, 14 Jul 2026 15:54:40 GMT",
-      "contentSnippet": "台湾行政院长卓荣泰星期二（7月14日）在立法院对中联油脂致癌事件说明处理始末，表达“造成国人不安、下游业者焦虑，深感遗憾，会深切自我检讨与反省”。\n卓荣泰在“中联油脂大豆沙拉油事件及食安监管机制缺失检讨”专案报告中，强调政府从6月30日接获通报后，每天都有实际积极作为，“绝对没有盖牌，只有趋严处理”。\n不过，从报告内容到答复立委的质询，卓荣泰并未清楚说明中联油脂的油品验出第一级致癌物“苯骈芘”（BaP）超标原因，也无法厘清究竟是原料还是制程出了问题。他表示，“这些都待司法与行政进一步调查”。\n由福寿、福懋和泰山三家老牌大厂合资成立的中联油脂公司，所供应的大豆沙拉油验出第一级致癌物苯骈芘（BaP",
+      "title": "匈牙利前外长辞去国会议员职务 转投比亚迪",
+      "link": "https://www.zaobao.com/news/china/story20260716-9371545",
+      "pubDate": "Thu, 16 Jul 2026 01:03:56 GMT",
+      "contentSnippet": "匈牙利前外长西雅尔多星期三（7月15日）宣布辞去国会议员职务，加入中国电动汽车巨头比亚迪任职，此举引发利益冲突质疑。西雅尔多是匈牙利前总理欧尔班的盟友。\n据法新社报道，西雅尔多自2014年起担任匈牙利外长，直至今年5月欧尔班因选举惨败下台。在此期间，他深度参与匈牙利政府推动对华合作的政策，尤其是与比亚迪相关的合作。\n西雅尔多自2002年以来一直担任国会议员。他在脸书上宣布，将离开议会，因为他收到来自比亚迪这家“全球领先企业之一”的“极具声望的工作邀请”。\n西雅尔多在贴文中写道：“从今天起，我将继续担任负责集团对外关系及新业务线拓展的高管。”\n马扎尔在4月匈牙利大选中结束了欧尔班16年的执政。他",
       "sourceName": "联合早报·中港台",
       "sourceWeight": 80,
       "allSources": [
@@ -254,10 +170,95 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "台湾行政院长卓荣泰就中联油脂致癌事件致歉，称将检讨反省。",
+      "aiSummary": "匈牙利前外长西雅尔多辞去议员职务，加入比亚迪任职，引发利益冲突质疑。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为联合早报，引用法新社报道，信息具体且有直接引述，可信度较高。"
+    },
+    {
+      "title": "澎湃早晚报｜早餐湃·习近平在上海考察",
+      "link": "https://m.thepaper.cn/papernews/morningEveningPaper?n=166830",
+      "pubDate": "Thu, 16 Jul 2026 00:25:51 GMT",
+      "contentSnippet": "澎湃早晚报｜早餐湃·习近平在上海考察",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "习近平在上海考察，澎湃新闻发布相关报道。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名媒体澎湃新闻，内容具体且涉及国家领导人活动，可信度较高。"
+    },
+    {
+      "title": "朝鲜劳动党书记赵甬元见王沪宁",
+      "link": "https://www.zaobao.com/news/china/story20260716-9371419",
+      "pubDate": "Thu, 16 Jul 2026 00:22:54 GMT",
+      "contentSnippet": "朝鲜劳动党中央委员会书记赵甬元与中国全国政协主席王沪宁会面时说，要密切两党、两国战略沟通和战术协作，全方位扩大发展双边关系的立场。\n据朝中社报道，赵甬元星期三（7月15日）在平壤议事堂同王沪宁举行会谈。赵甬元说，剧变的当前国际政治形势要求两国本着朝中友好合作互助条约精神，为胜利推动共同的社会主义事业进一步加强战斗团结和支持声援，不断深化发展友好合作关系。\n赵甬元称，在朝鲜领导人金正恩和中国国家主席习近平的领导下，朝中友好关系正在迎来自己发展的新活跃期。他表示要密切两党、两国战略沟通和战术协作，全方位扩大发展双边关系的立场。\n据报道，王沪宁强调，中朝友好合作互助条约的签订为能够巩固用鲜血凝成的战",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
+      "allSources": [
+        "联合早报·中港台"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "朝鲜劳动党书记赵甬元与王沪宁会面，强调加强战略沟通与协作。",
       "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报，较权威；内容具体，有直接引述；但事件细节待查，评分略降。"
+      "credibilityReason": "来源为联合早报，引用朝中社报道，信息具体且客观。"
+    },
+    {
+      "title": "粮农组织：健康饮食成本飙升 全球三分之一人口无力负担",
+      "link": "https://www.zaobao.com/news/world/story20260716-9371351",
+      "pubDate": "Thu, 16 Jul 2026 00:02:03 GMT",
+      "contentSnippet": "联合国周三发布的数据显示，过去五年间，健康饮食的成本上涨了25%，导致全球三分之一的人口无力负担。\n根据联合国粮食及农业组织星期三（7月15日）发布的《2026年世界粮食安全和营养状况》报告，食品成本的上涨意味着，人均每日维持健康饮食所需的费用（按购买力平价计算）已达到4.28美元（约5.51新元）。\n粮农组织首席经济师库伦在纽约联合国总部举行的新闻发布会上说：“结果是，仍有26亿9000万人，相当于全球近三分之一的人口无法负担健康饮食。”\n这份报告的完整版将于7月21日在粮农组织位于罗马的总部发布。\n根据报告，各项成本的构成并不均衡：例如，豆类、谷物等主食仅占健康饮食成本的13%，而动物性食",
+      "sourceName": "联合早报·国际",
+      "sourceWeight": 80,
+      "allSources": [
+        "联合早报·国际"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "粮农组织报告称健康饮食成本五年涨25%，全球近三分之一人口无力负担。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为联合早报，引用粮农组织官方报告和首席经济师直接引述，信息具体可查证。"
+    },
+    {
+      "title": "法国议会通过法案 绝症患者可申请协助死亡",
+      "link": "https://www.zaobao.com/news/world/story20260716-9371298",
+      "pubDate": "Wed, 15 Jul 2026 23:31:07 GMT",
+      "contentSnippet": "法国国民议会周三最终通过一项法案，允许患有不治之症的成年人享有“协助死亡”的合法权利。\n法案规定，在符合严格条件的情况下，患有不治之症的成年人可获得致死药物。药物既可由当事人自行服用，也可在当事人因身体状况无法自行操作的情况下，由医生或护士协助给药。\n申请“协助死亡”（assisted dying）的资格仅限于身为法国公民或在法合法居留的成年人；这些人须患有严重且无法治愈、危及生命并处于晚期或终末阶段的疾病，因疾病承受持续的身心痛苦，并能够作出自由且知情的选择。\n在最终表决中，法国国民议会以291票赞成、241票反对通过法案。\n此次投票意味着法国总统马克龙三年多前提出的这项立法正式完成议会程序",
+      "sourceName": "联合早报·国际",
+      "sourceWeight": 80,
+      "allSources": [
+        "联合早报·国际"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "法国议会通过法案，允许绝症患者申请协助死亡。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名媒体联合早报，内容具体有法案细节和投票数据，用词客观。"
+    },
+    {
+      "title": "经纬度：在上海，WAIC见证人工智能改变未来",
+      "link": "https://m.thepaper.cn/detail/33583299",
+      "pubDate": "Wed, 15 Jul 2026 23:10:52 GMT",
+      "contentSnippet": "盛夏的黄浦江畔，智能浪潮奔涌激荡。一场全球盛会，即将在此拉开帷幕。\n2026世界人工智能大会（WAIC）暨人工智能全球治理高级别会议将于7月17日至20日在上海举行。国家主席习近平将出席大会开幕式并发表主旨讲话，全面系统阐述中方对于人工智能发展和治理的政策立场和理念主张。中方已广泛邀请各国政府官员、产学研界人士及国际组织负责人来华共襄盛举。\n“智能伙伴，共创未来。”历经八载迭代升级，本届世界人工智能大会将成为观测全球智能变革、展示中国AI发展实践、践行科技向善理念的最佳窗口。\n\n7月14日，上海世博展览馆，世界人工智能大会布展进入冲刺阶段。图片均据 澎湃新闻记者吴栋\n\n\n人工智能开启人类新纪元",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "2026世界人工智能大会将在上海举行，习近平将出席并发表讲话。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源澎湃新闻较权威，信息具体（时间、人物），用词客观。"
     }
   ]
 }
