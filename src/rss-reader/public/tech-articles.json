@@ -1,253 +1,48 @@
 {
-  "generatedAt": "2026-07-16T02:54:12.305Z",
+  "generatedAt": "2026-07-17T02:56:41.618Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "任内积极推动中国车企赴匈投资，匈牙利前外长西雅尔多加盟比亚迪",
-      "link": "https://www.ithome.com/0/977/278.htm",
-      "pubDate": "Wed, 15 Jul 2026 23:40:33 GMT",
-      "contentSnippet": "IT之家 7 月 16 日消息，据彭博社当地时间 15 日报道，匈牙利前外交与对外经济部长西雅尔多 · 彼得辞去国会议员职务，转投中国电动汽车制造商比亚迪。\n西雅尔多长期担任匈牙利外交部长，是中国电动汽车企业赴匈投资的积极推动者。加入比亚迪后，他将负责对外关系和新业务拓展。\n当日，西雅尔多在 Facebook 发文称：“比亚迪创造了过去 20 年汽车行业最成功的发展故事之一，也是全球领先的电动汽车制造商。”\n据IT之家了解，比亚迪目前正在匈牙利南部建设其欧洲首座乘用车工厂。\n今年 6 月，比亚迪执行副总裁李柯宣布，将在今年第四季度启动匈牙利新工厂整车组装。匈牙利工厂的投产时间比原计划晚了约一年",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "匈牙利前外长西雅尔多加入比亚迪，负责对外关系。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用彭博社，信息具体有细节，逻辑清晰。"
-    },
-    {
-      "title": "纽约州禁止建造大型数据中心一年",
-      "link": "https://www.solidot.org/story?sid=84837",
-      "pubDate": "Wed, 15 Jul 2026 17:57:17 +0800",
-      "contentSnippet": "纽约州成为美国第一个暂停建造大型数据中心的州。这一禁令适用于用电量 50 MW 或更高的数据中心。随着美国民众越来越担心污染风险、能源成本上涨和水资源短缺，美国各地要求停建数据中心的呼声日益高涨。佛蒙特州参议员 Bernie Sanders 和纽约州民主党众议员 Alexandria Ocasio-Cortez 已提出立法，寻求在全国范围内禁止数据中心建设。但特朗普政府不支持此类禁令。",
-      "sourceName": "Solidot",
-      "sourceWeight": 75,
-      "allSources": [
-        "Solidot"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "纽约州暂停建造大型数据中心一年，为美国首例。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源Solidot较知名，内容具体有数据支撑，但缺乏原始出处引用。"
-    },
-    {
-      "title": "OpenAI GPT-5.6 智商首破 130 天才线，比 99% 人类都聪明",
-      "link": "https://www.ithome.com/0/977/353.htm",
-      "pubDate": "Thu, 16 Jul 2026 02:51:14 GMT",
-      "contentSnippet": "见证历史！如今，全世界 99% 的人类，在 IQ 这方面竟拼不过一个 AI。在 Tracking AI 最新离线 IQ 测试中，GPT-5.6「全家桶」多个版本，齐刷刷地飙到了 136 分。\n\n这是 LLM 第一次，把 IQ 推过了 130 这道坎。在人类的智商分布里，130 分是「天才」的起跑线，全球仅有大约 1% 的人能站上去。换言之，GPT-5.6 要比 99% 的人类还聪明。\n\nGPT-5.6 狂刷 136 分，IQ 首破「天才线」\n这个「智商」，含金量有多高？\n实际上，Tracking AI 手里有两套题。\n一套是公开的 Mensa Norway 风格测试，网上人人能做，模型早就刷到",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "报道称GPT-5.6智商达136分，首次突破人类天才线，但缺乏验证。",
-      "credibilityScore": 35,
-      "credibilityLevel": "low",
-      "credibilityReason": "来源IT之家非权威科技媒体，内容标题党，缺乏原始数据验证和第三方确认。"
-    },
-    {
-      "title": "索尼专利暗示 PS6 弃用液态金属方案，改为密封液体汽化散热",
-      "link": "https://www.ithome.com/0/977/350.htm",
-      "pubDate": "Thu, 16 Jul 2026 02:43:05 GMT",
-      "contentSnippet": "IT之家 7 月 16 日消息，游戏媒体 tech4gamers 昨日（7 月 15 日）发布博文，报道称基于最新获批的技术专利，索尼 PlayStation 6 游戏主机可能放弃液态金属方案，转而使用基于密封液体汽化的散热方案。\n该媒体指出 PlayStation 5 游戏主机在发行初期，曾出现散热问题，在主机直立情况下，液态金属可能出现分布不均情况，减少芯片与热扩散器之间的接触面积，进而影响热传导一致性。\n\n此前报道称早期的 PS5 主机长时间垂直放置，液态金属有时会泄漏\n索尼为了改善散热效果，在后续推出的 PS5 Pro 以及 PlayStation Slim CFI-2116 版本中，",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "索尼专利暗示PS6将改用密封液体汽化散热，替代液态金属方案。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，内容具体且有专利依据，但缺乏官方确认。"
-    },
-    {
-      "title": "专为 MacBook Neo 笔电打造：Sathi 推出多色可选扩展坞与鼠标",
-      "link": "https://www.ithome.com/0/977/347.htm",
-      "pubDate": "Thu, 16 Jul 2026 02:41:51 GMT",
-      "contentSnippet": "IT之家 7 月 16 日消息，外设制造商 Sathi 当地时间昨日宣布推出为苹果 MacBook Neo 笔记本电脑打造的配件阵容。此次推出的三款新品与 MacBook Neo 一样，均可选时尚的银 / 桃粉 / 柑橘黄 / 靛紫配色，能打造和谐统一的视觉效果。\n\nOntheGo 五合一多口适配器采用类飞碟 / 冰球造型和自带线材设计，还支持磁吸固定。其可将 1 个 USB-C 10Gbps 上行接口扩展出 1 个 USB-C 5Gbps、1 个 USB-A 5Gbps、1 个 HDMI 2.1 TMDS、1 个 SD UHS-I 读卡器和 1 个仅 PD-in 供电的 USB-C。\n\n▲",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "Sathi为MacBook Neo推出多色扩展坞和鼠标。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家较知名，内容具体有产品细节，但缺少技术验证和原始出处。"
-    },
-    {
-      "title": "Omdia：2030年全球录制音乐市场规模将突破560亿美元",
-      "link": "https://36kr.com/newsflashes/3897714518001280?f=rss",
-      "pubDate": "2026-07-16 10:40:14  +0800",
-      "contentSnippet": "36氪获悉，根据Omdia最新预测，2026年全球录制音乐零售市场销售额预计将达到483亿美元，并将在2027年突破500亿美元，到2030年进一步增至568亿美元。",
+      "title": "6月份粤港澳大湾区内地9市进出口规模首破万亿元大关",
+      "link": "https://36kr.com/newsflashes/3899138857862790?f=rss",
+      "pubDate": "2026-07-17 10:49:09  +0800",
+      "contentSnippet": "据海关统计，今年上半年，粤港澳大湾区内地9市进出口5.3万亿元，同比增长20.9%，快于全国整体进出口增速4个百分点，占全国进出口总值的20.8%，对同期全国增长的贡献度达24.9%。其中，出口3.12万亿元，增长11.5%；进口2.18万亿元，增长37.5%。今年1月份，大湾区内地9市进出口增长22%至8728.7亿元，创月度历史新高。随后，3月、4月、5月、6月份连续4个月突破前期高点，其中6月份进出口增长31.1%，规模首破万亿元，达1.02万亿元。（央视新闻）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
-        "36氪",
-        "IT之家"
+        "36氪"
       ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "Omdia预测2030年全球录制音乐市场将达568亿美元。",
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "6月粤港澳大湾区内地9市进出口首破万亿元，上半年增长20.9%。",
       "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，引用权威机构Omdia预测，数据具体且逻辑清晰。（多源覆盖 +5）"
+      "credibilityReason": "来自权威媒体36氪，数据源自海关统计，信息详实有具体数字支撑。"
     },
     {
-      "title": "淘宝、京东、拼多多等 12 家网络平台承诺：坚决清理侵权盗版出版物",
-      "link": "https://www.ithome.com/0/977/340.htm",
-      "pubDate": "Thu, 16 Jul 2026 02:37:32 GMT",
-      "contentSnippet": "IT之家 7 月 16 日消息，全国“扫黄打非”工作室公众号今天（16 日）发布公告称，近期，淘宝、京东、拼多多、抖音商城、快手电商、当当、孔夫子旧书网和腾讯、微博、百度、小红书、哔哩哔哩等 12 家网络平台相继发布公告，承诺将切实履行平台主体责任，改进内部规则、健全管理举措，深入清理侵权盗版出版物，坚决纠治违法网络售卖、传播等行为。\nIT之家从公告获悉，各平台表示，将全面加强入驻商家资格核验，及时清理下架侵权盗版图书，高效执行“通知 — 删除”规则，畅通侵权盗版投诉举报渠道，进一步加大对违规商家的处置力度，积极配合执法监管部门，接受社会各界广泛监督。\n\n图源：Pexels",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "Go Pro的穷途末路，揭开大疆影石竞争胜负手",
+      "link": "https://www.tmtpost.com/8068271.html",
+      "pubDate": "Fri, 17 Jul 2026 10:28:00 +0800",
+      "contentSnippet": "诉讼战漫长且充满未知，产品与价格战无法打垮对手，供应链的把控与版图划分，可能是影石与大疆热战背后真正的胜负手。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
       "allSources": [
-        "IT之家"
+        "钛媒体"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "12家网络平台承诺清理侵权盗版出版物，加强监管。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源权威（IT之家），信息具体有官方公告支撑，逻辑清晰。"
-    },
-    {
-      "title": "NASA 阿波罗 11 号“救命笔”拍出 85.76 万美元，奥尔德林 40 余件藏品总成交额超 286 万美元",
-      "link": "https://www.ithome.com/0/977/337.htm",
-      "pubDate": "Thu, 16 Jul 2026 02:35:12 GMT",
-      "contentSnippet": "IT之家 7 月 16 日消息，1969 年，巴兹 · 奥尔德林在月球上用一支毡尖笔成功修好了坏掉的断路器，从而将他及尼尔 · 阿姆斯特朗带回地球。如今，这支毡尖笔 + 断路器损坏拨杆在纽约拍卖会上以 85.76 万美元（IT之家注：现汇率约合 581.3 万元人民币）的价格成交。\n\n当地时间 7 月 15 日，在纽约苏富比拍卖行举行的“太空探索”专场拍卖会上，一支早已干涸的 Duro“Rocket”毡尖记号笔与一枚断裂的黑色塑料电路断路器开关以 85.76 万美元（含佣金）成交。\n\n1969 年 7 月 20 日，登月第一人阿姆斯特朗与第二人奥尔德林成功完成人类首次月面行走，但当他们准备通过",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "阿波罗11号救命笔拍出85.76万美元，奥尔德林藏品总成交超286万美元。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，信息具体有拍卖细节和出处，逻辑清晰。"
-    },
-    {
-      "title": "教育部增设 27 个职业教育新专业：明年开始招生，涉人形机器人、车联网等领域",
-      "link": "https://www.ithome.com/0/977/336.htm",
-      "pubDate": "Thu, 16 Jul 2026 02:30:56 GMT",
-      "contentSnippet": "IT之家 7 月 16 日消息，今天（16 日），教育部发布新增补的 27 个职业教育本专科专业，其中，高职专科专业 9 个、职业本科专业 18 个，涉及 14 个专业大类，20 个专业类。新增专业将于 2027 年开始招生。\n据IT之家了解，此次专业目录增补紧扣国家“十五五”规划纲要和《教育发展“十五五”规划》部署，紧密围绕建设现代化产业体系、促进服务业优质高效发展，精准对接新产业、新业态、新场景、新模式，锚定高技能人才培养，重点增设一批数字经济、低空经济、人工智能、高端装备、城市更新以及民生紧缺等领域专业。\n聚焦服务业扩能提质行动，在生产性服务业领域，新增技术经纪服务、低空运输工程技术等职",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "教育部增设27个职业教育新专业，2027年招生，涉及人形机器人、车联网等领域。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，内容具体有数据支撑，逻辑清晰，时效性高。"
-    },
-    {
-      "title": "恒生科技指数盘中涨逾3%",
-      "link": "https://36kr.com/newsflashes/3897702464276101?f=rss",
-      "pubDate": "2026-07-16 10:27:58  +0800",
-      "contentSnippet": "36氪获悉，恒生科技指数盘中涨逾3%。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "恒生科技指数盘中涨幅超过3%。",
-      "credibilityScore": 70,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，信息具体但缺乏数据支撑和深度分析。"
-    },
-    {
-      "title": "韩国央行行长：将上调韩国央行特别贷款计划的利率",
-      "link": "https://36kr.com/newsflashes/3897699890366342?f=rss",
-      "pubDate": "2026-07-16 10:25:21  +0800",
-      "contentSnippet": "韩国央行行长申铉松表示，将上调韩国央行特别贷款计划的利率。（财联社）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "韩国央行将上调特别贷款计划利率。",
-      "credibilityScore": 70,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，内容具体但缺乏细节和原始出处。"
-    },
-    {
-      "title": "慧荣称已启动研发 PCIe Gen7 SSD 主控，目标 2027 年推出样品",
-      "link": "https://www.ithome.com/0/977/334.htm",
-      "pubDate": "Thu, 16 Jul 2026 02:24:15 GMT",
-      "contentSnippet": "IT之家 7 月 16 日消息，科技媒体 Tom's Hardware 昨日（7 月 15 日）发布博文，报道称慧荣科技（Silicon Motion）企业存储业务负责人周晏逸（Alex Chou）表示，公司已启动开发 PCIe Gen7 企业级 SSD 主控。\nIT之家注：PCIe Gen7 是最新一代高速总线标准，数据速率高达 128 GT/s，x16 配置下双向带宽达到惊人的 512 GB/s（或 1 TB/s 总带宽）。该标准专为 AI、云和 1.6T 网络设计，预计消费级内部样品将于 2027 年问世。\n在企业级 SSD 主控业务方面，Chou 表示公司企业级产品刚开始大规模出货，预",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "慧荣启动PCIe Gen7 SSD主控研发，目标2027年出样品。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家转述Tom's Hardware，信息具体有技术细节和出处，逻辑清晰。"
-    },
-    {
-      "title": "大厂医疗AI战，开始“卷”减重",
-      "link": "https://36kr.com/p/3896639942592134?f=rss",
-      "pubDate": "2026-07-16 10:21:30  +0800",
-      "contentSnippet": "文｜胡香赟\n编辑｜海若镜\n互联网大厂做医疗AI，越来越偏爱“减重”场景。\n近日，蚂蚁集团宣布投资薄荷健康，持股比例超28%，成为薄荷健康最大外部股东。薄荷健康成立于2008年，这家互联网医疗公司通过为用户提供饮食记录、科学减重方案等，聚拢了超2亿用户，收录160万条食物数据条目。\n2021年，薄荷健康完成D轮融资，估值为20亿人民币。本次投资，据接近交易人士介绍，“从战投角度来做，蚂蚁整体投资金额为数亿人民币，价格比较合理”。关于对价，蚂蚁方面并未回应。\n据36氪了解，薄荷健康的主要收入来源包括食品、功效产品等电商销售，会员付费。近两年，在严肃医疗场景，薄荷健康与减重创新药企、CRO公司的合作",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "蚂蚁集团投资薄荷健康，大厂医疗AI聚焦减重场景。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体有数据支撑，但缺乏官方回应细节。"
-    },
-    {
-      "title": "沪深两市成交额突破1万亿",
-      "link": "https://36kr.com/newsflashes/3897695782356611?f=rss",
-      "pubDate": "2026-07-16 10:21:11  +0800",
-      "contentSnippet": "36氪获悉，沪深两市成交额突破1万亿。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "沪深两市成交额突破1万亿元。",
+      "aiSummary": "分析GoPro困境，揭示大疆与影石竞争关键在供应链。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，信息简洁但缺乏数据细节和原始出处。"
+      "credibilityReason": "来自知名科技媒体钛媒体，内容具体有分析深度，但缺乏数据支撑。"
     },
     {
-      "title": "极氪 9X 五座版官宣 7 月 28 日直接开启大定，不举办上市发布会",
-      "link": "https://www.ithome.com/0/977/333.htm",
-      "pubDate": "Thu, 16 Jul 2026 02:18:37 GMT",
-      "contentSnippet": "IT之家 7 月 16 日消息，极氪今日官宣，极氪 9X 五座版将于 7 月 28 日上午 10:00 直接开启大定，不举办上市发布会。\n\n极氪 9X 五座版于 7 月 8 日开启预售，预订新车可享至高 9 万元限时预售权益，其中包含免费赠送 Naim 殿堂之声音响系统、飞翼式滑移屏、电动踏板等，支付 5000 元意向金可抵扣 10000 元购车尾款（预售价暂未公布），号称最尊的 9 系旗舰五座车型。\n\n该车的内饰主打“空间大”和“体验尊”两项特性：1.4 米二排最大腿部空间、左右同享零重力座椅与伊姆斯躺椅模式，号称“旗舰五座头等舱”。\n\n\n官方预热图显示，极氪 9X 的后排安全带在座椅上，中",
+      "title": "英国政府宣布将中国敬业集团旗下英国钢铁公司国有化，商务部回应称中方表示坚决反对和强烈不满",
+      "link": "https://www.ithome.com/0/977/922.htm",
+      "pubDate": "Fri, 17 Jul 2026 02:13:20 GMT",
+      "contentSnippet": "IT之家 7 月 17 日消息，据央视新闻报道，今天（7 月 17 日），商务部新闻发言人就英国政府将英国钢铁国有化答记者问。\n有记者问：7 月 16 日，英国政府宣布已通过相关立法，将中国敬业集团旗下的英国钢铁公司国有化。请问中方对此有何评论？\n答：中方对英政府相关决定表示坚决反对和强烈不满。\n英钢在敬业收购之前就已多年亏损。敬业收购后对英钢注入巨额资金，使公司经营得以维系，就业岗位得以保留。英方罔顾敬业对英经济社会做出的重要贡献，以国家安全之名，强行接管、进而对英钢实施国有化，严重损害了敬业的正当权益，严重挫伤了中国企业对英投资信心。\n中方敦促英国政府遵守相关国际规则，切实履行中英投资保护",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -255,10 +50,214 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "极氪9X五座版7月28日直接开启大定，不举办上市发布会。",
+      "aiSummary": "英国将敬业集团旗下英钢国有化，商务部坚决反对。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，信息具体有细节，内容客观中立。"
+      "credibilityReason": "来源为IT之家，内容引用央视和商务部官方回应，信息具体且权威。"
+    },
+    {
+      "title": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式",
+      "link": "https://36kr.com/newsflashes/3899087542699648?f=rss",
+      "pubDate": "2026-07-17 09:56:57  +0800",
+      "contentSnippet": "7月17日上午，国家主席习近平在上海出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式。（新华社）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "习近平出席2026世界人工智能大会开幕式。",
+      "credibilityScore": 95,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源权威（新华社），内容具体且客观，无技术细节问题。"
+    },
+    {
+      "title": "国货美妆何以高端④：藏在供应链里的“隐形护城河”",
+      "link": "https://www.tmtpost.com/8067908.html",
+      "pubDate": "Fri, 17 Jul 2026 09:55:27 +0800",
+      "contentSnippet": "自建供应链，是国货美妆高端之路的“隐形护城河”。它不是最热闹的那条路，但它是必须走的那条路。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国货美妆高端化需自建供应链作为核心竞争力。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源钛媒体为知名科技媒体，内容逻辑清晰，但缺乏具体数据支撑。"
+    },
+    {
+      "title": "力成拟联手博通在新加坡设立面板级先进封装合资企业",
+      "link": "https://www.ithome.com/0/977/838.htm",
+      "pubDate": "Thu, 16 Jul 2026 23:29:35 GMT",
+      "contentSnippet": "IT之家 7 月 17 日消息，台湾地区集成电路封装测试业者力成 (Powertech, PTI) 昨日宣布，该公司拟与 Broadcomm（博通）于新加坡共同设立面板级先进封装 (PLP) 业务制造合资公司。\n力成表示这项决定基于业务整体国际布局，旨在贴近全球客户供应链。力成预计将向新加坡合资企业投资 4 亿美元（IT之家注：现汇率约合 27.11 亿元人民币）。\n\n\n延伸阅读\n面板级封装（PLP）是一种先进封装技术，与传统的晶圆级封装（如 WLP）相比，它使用更大的方形面板作为基底，能够实现更高的生产效率、更低的单位成本，并支持更大尺寸芯片或更多芯片的集成。台积电等厂商也在积极布局扇出式面",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "力成与博通拟在新加坡合资设立面板级先进封装企业",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，信息具体含投资金额，逻辑清晰"
+    },
+    {
+      "title": "Ubuntu 报告 Linux 7.0.0-28.28 中 AMDGPU 性能下降：9 秒任务拖长至 388 秒，吞吐降至 1/42",
+      "link": "https://www.ithome.com/0/977/956.htm",
+      "pubDate": "Fri, 17 Jul 2026 02:54:45 GMT",
+      "contentSnippet": "IT之家 7 月 17 日消息，Ubuntu 内核团队昨日（7 月 16 日）在社区发帖，指出 Linux 7.0.0-28.28 内核版本由于 AMDGPU 问题，会导致 ROCm 计算负载吞吐性能降至 42 分之一。\nIT之家注：AMDGPU 是 AMD 在 Linux 平台上的官方开源图形驱动，负责图形渲染与 GPU 计算相关硬件调度，广泛用于桌面图形、游戏和通用 GPU 计算场景。\nROCm 是 AMD 面向 GPU 加速计算的软硬件生态，功能接近 NVIDIA 的 CUDA，常用于人工智能训练与推理、高性能计算、科学模拟等需要大量并行运算的场景。\nUbuntu 工程团队表示由于 Li",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "Ubuntu报告Linux 7.0.0-28.28内核因AMDGPU问题导致ROCm性能严重下降。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，内容引用Ubuntu官方社区报告，技术细节具体，逻辑清晰。"
+    },
+    {
+      "title": "创业板指跌破3500点",
+      "link": "https://36kr.com/newsflashes/3899139957688200?f=rss",
+      "pubDate": "2026-07-17 10:50:16  +0800",
+      "contentSnippet": "创业板指跌破3500点，日内跌5.3%，沪指跌1.52%，深成指跌3.7%；医药医疗、算力硬件、半导体芯片等方向跌幅居前，沪深京三市下跌个股近4500只，其中近170股跌超9%",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "创业板指大跌5.3%跌破3500点，近4500只个股下跌。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体36氪，数据具体且时效性强，内容客观。"
+    },
+    {
+      "title": "商业航天大起大落：市场在害怕什么？",
+      "link": "https://www.tmtpost.com/8068414.html",
+      "pubDate": "Fri, 17 Jul 2026 10:43:00 +0800",
+      "contentSnippet": "想象力大于实际。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "商业航天市场波动，担忧实际进展不及预期。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体，内容具体但缺乏数据支撑和原始出处。"
+    },
+    {
+      "title": "Spotify 增强平台治理，去年已下架 7500 万首 AI 生成的歌曲",
+      "link": "https://www.ithome.com/0/977/955.htm",
+      "pubDate": "Fri, 17 Jul 2026 02:42:45 GMT",
+      "contentSnippet": "IT之家 7 月 17 日消息，科技媒体 Neowin 昨日（7 月 16 日）发布博文，报道称流媒体巨头 Spotfiy 加强 AI 音乐管理，去年已下架超过 7500 万首 AI 生成的歌曲。\nSpotify 全球营销与政策负责人萨姆 · 杜博夫（Sam Duboff）表示，Spotify 服务器每天接收 10 万首歌曲上传，且其中越来越多内容由 AI 生成。\nIT之家援引博文介绍，这些上传的 AI 歌曲中，很大一部分都是大规模生产、批量上传，并存在刷量行为，杜博夫表示这挤压平台内容审核与版税分配系统，增加平台治理压力。\n杜博夫表示目前 AI 在参与歌曲创作方面存在模糊地带，越来越多真实艺",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "Spotify去年下架7500万首AI生成歌曲，加强平台治理。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自IT之家转载Neowin，信息具体有数据支撑，来源可信。"
+    },
+    {
+      "title": "比亚迪公布“8 系唐”新车官图：承袭盛唐恢弘气韵，纯电续航超 800km",
+      "link": "https://www.ithome.com/0/977/954.htm",
+      "pubDate": "Fri, 17 Jul 2026 02:41:31 GMT",
+      "contentSnippet": "IT之家 7 月 17 日消息，今天上午，比亚迪王朝网销售事业部总经理路天公布了一组比亚迪“8 系唐”的“定妆照”，并透露新车纯电续航里程将超过 800km。\n\n\n8 系唐承袭了盛唐的恢弘气韵，融合前沿科技美学，尽显高阶豪华格调。前不久上市的 9 系大唐，是一款全尺寸 SUV，采用大七座布局，聚焦商务和大家庭用车；而新公告的 8 系唐定位中大型 SUV，大五座王者聚焦品质家庭用车，全面覆盖不同消费者的用车需求。\n8 系唐和 9 系大唐都拥有超越同级的顶尖科技，将携手重塑王朝旗舰 IP，大家敬请期待。\n\n\n\n据IT之家了解，这款新车此前已在本月的工信部申报公示现身，整体长宽高为 5045 * 1",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "比亚迪公布8系唐官图，纯电续航超800km，定位中大型SUV。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有数据，但缺乏原始出处和细节支撑。"
+    },
+    {
+      "title": "美团王莆中：骑手正在成为专业化的新就业形态劳动者，将持续提升骑手保障",
+      "link": "https://36kr.com/newsflashes/3899131265599362?f=rss",
+      "pubDate": "2026-07-17 10:41:26  +0800",
+      "contentSnippet": "“职业化将是网约配送行业走向成熟的重要标志，也是我们未来长期努力的方向”，7月16日，第九届美团717骑士节年度荣誉盛典在京举行，美团核心本地商业CEO王莆中表示，美团将在有关部门指导下，从“效率优先”向“安全、收入、权益并重”转变。王莆中认为，骑手正在成为专业化的新就业形态劳动者，美团将继续努力，提升骑手保障。活动现场，美团也透露了“等灯停表”的试点进展，目前已与苏州交管部门完成数据对接。同时，美团也宣布了骑手医疗保障的升级计划，美团骑手在冬夏季跑单将额外获得美团提供的专项保障。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "美团称骑手正专业化，将提升保障并试点等灯停表。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体36氪，内容具体有数据细节，逻辑清晰。"
+    },
+    {
+      "title": "百度搭子获评WAIC 2026“镇馆之宝”，智能体全家桶将集中亮相",
+      "link": "https://www.qbitai.com/2026/07/451691.html",
+      "pubDate": "Fri, 17 Jul 2026 02:41:03 +0000",
+      "contentSnippet": "",
+      "sourceName": "量子位",
+      "sourceWeight": 80,
+      "allSources": [
+        "量子位"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "百度搭子获WAIC 2026镇馆之宝，智能体全家桶将亮相。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "量子位是知名科技媒体，内容具体且具时效性，但缺少技术细节和原始出处。"
+    },
+    {
+      "title": "特斯拉首款两轮车：225 美元儿童平衡车上架官网，采用未来感设计",
+      "link": "https://www.ithome.com/0/977/953.htm",
+      "pubDate": "Fri, 17 Jul 2026 02:40:55 GMT",
+      "contentSnippet": "IT之家 7 月 17 日消息，特斯拉又整了个花活，推出一款具有特斯拉设计风格的儿童平衡车。\n目前这款车型已在特斯拉官网上架，定价 225 美元（IT之家注：现汇率约合 1526 元人民币），可以说是“特斯拉首款两轮车”。\n\n这款车型采用轻量镁合金车架、可调节座椅和未来感设计，车身侧面印有特斯拉字标，正面印有特斯拉“T”标志，面向 2 至 5 岁的儿童，最大重量限制 35 公斤。\n\n这款车没有电机，也没有脚蹬子，得靠两只脚滑着向前行驶，百公里“消耗两个馒头”。\n\n\n需要注意的是，这并不是最便宜的特斯拉车型，据IT之家此前报道，特斯拉曾在 2021 年推出一款 Model Y 儿童学步车，首发价",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "特斯拉推出225美元儿童平衡车，未来感设计无电机。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家较知名，信息具体有价格和设计细节，但无原始出处链接。"
+    },
+    {
+      "title": "外汇局：未来外商来华投资有望延续向好态势",
+      "link": "https://36kr.com/newsflashes/3899129651152517?f=rss",
+      "pubDate": "2026-07-17 10:39:47  +0800",
+      "contentSnippet": "7月17日，国家外汇管理局国际收支司负责人赵玉超在国新办新闻发布会上表示，未来外商来华投资有望延续向好态势。一是我国产业优化升级和科技创新将不断带来新的投资机会。二是我国稳步扩大制度型对外开放，健全外商投资服务保障体系，优化金融领域互联互通机制，为外资来华投资营造更加便利政策环境。三是近年来国际形势复杂多变，我国经济韧性增强，人民币币值稳定，将为全球资本分散配置提供更多选择。（证券时报）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "外汇局称外商来华投资有望延续向好态势。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为36氪，内容引用官方发布会，信息具体且有数据支撑。"
     }
   ]
 }
