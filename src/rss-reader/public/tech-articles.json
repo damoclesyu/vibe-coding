@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-07-17T02:56:41.618Z",
+  "generatedAt": "2026-07-18T02:49:20.726Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "6月份粤港澳大湾区内地9市进出口规模首破万亿元大关",
-      "link": "https://36kr.com/newsflashes/3899138857862790?f=rss",
-      "pubDate": "2026-07-17 10:49:09  +0800",
-      "contentSnippet": "据海关统计，今年上半年，粤港澳大湾区内地9市进出口5.3万亿元，同比增长20.9%，快于全国整体进出口增速4个百分点，占全国进出口总值的20.8%，对同期全国增长的贡献度达24.9%。其中，出口3.12万亿元，增长11.5%；进口2.18万亿元，增长37.5%。今年1月份，大湾区内地9市进出口增长22%至8728.7亿元，创月度历史新高。随后，3月、4月、5月、6月份连续4个月突破前期高点，其中6月份进出口增长31.1%，规模首破万亿元，达1.02万亿元。（央视新闻）",
+      "title": "苹果公司在日本提高iPhone售价，部分机型涨价超2万日元",
+      "link": "https://36kr.com/newsflashes/3900511572149890?f=rss",
+      "pubDate": "2026-07-18 10:45:24  +0800",
+      "contentSnippet": "苹果7月18日在日本市场上调iPhone、Apple Watch及AirPods系列产品售价，为近年来首次大范围价格调整。iPhone 17 Pro Max最高存储版本售价由32.98万日元升至35.48万日元，上涨2.5万日元；iPhone 17起售价由12.98万日元升至14.28万日元。Apple Watch Series 11、Ultra 3及AirPods系列产品也同步提价。苹果尚未公布日本市场具体调价原因。市场认为，成本上升、汇率变化及供应链因素可能推动价格调整。",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -16,16 +16,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "6月粤港澳大湾区内地9市进出口首破万亿元，上半年增长20.9%。",
-      "credibilityScore": 90,
+      "aiSummary": "苹果在日本上调iPhone等产品售价，最高涨2.5万日元。",
+      "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来自权威媒体36氪，数据源自海关统计，信息详实有具体数字支撑。"
+      "credibilityReason": "来源36氪为知名科技媒体，信息具体有数据支撑，但未提供原始出处。"
     },
     {
-      "title": "Go Pro的穷途末路，揭开大疆影石竞争胜负手",
-      "link": "https://www.tmtpost.com/8068271.html",
-      "pubDate": "Fri, 17 Jul 2026 10:28:00 +0800",
-      "contentSnippet": "诉讼战漫长且充满未知，产品与价格战无法打垮对手，供应链的把控与版图划分，可能是影石与大疆热战背后真正的胜负手。",
+      "title": "东方算芯首次展出全球首颗软件定义近存计算 3D AI 芯片 DF1000，算力可达 520 TFLOPS",
+      "link": "https://www.ithome.com/0/978/368.htm",
+      "pubDate": "Sat, 18 Jul 2026 02:39:54 GMT",
+      "contentSnippet": "IT之家 7 月 18 日消息，2026 世界人工智能大会（WAIC 2026）今天在上海举行。东方算芯在会上首次展出全球首颗软件定义近存计算 3D AI 芯片 ——DF1000，并荣获 2026 SAIL 奖（卓越人工智能引领者奖）。\n\n据介绍，DF1000 依托全国产供应链打造，通过空间并行与时分复用设计提升硬件利用率，算力可达 520 TFLOPS。采用 3D 混合键合技术实现晶圆级堆叠，有效提升访存带宽，降低供应链依赖，拥有自主编程框架和软件生态，可为 AI 产业提供稳定的国产算力底座。\n同时，该产品以“软件定义＋3D 堆叠近存计算”的东方范式，破解了中国高端算力芯片发展面临的三大核心",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "东方算芯展出全球首颗软件定义近存计算3D AI芯片DF1000，算力520 TFLOPS。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体IT之家，内容具体有技术细节和展会背景，但缺少独立验证。"
+    },
+    {
+      "title": "MLCC产业通史（一）：命脉断供，英美雷达云母军工困局",
+      "link": "https://www.tmtpost.com/8069499.html",
+      "pubDate": "Sat, 18 Jul 2026 10:18:20 +0800",
+      "contentSnippet": "当印度洋的航线被战火封死，当矿石的供给跟不上战争机器的轰鸣，这场看似由云母引发的供应链危机，很快演变为一场席卷全球顶尖实验室的材料竞速。从纽约的贝尔实验室到波士顿的 MIT 辐射楼，从军方直属的研究机构到斯普拉格电气等军工承包商，无数物理学家与陶瓷工程师被推上了同一条赛道 —— 他们要在实验室的炉膛里，烧出一种能替代天然矿物的人工晶体。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -33,33 +50,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "分析GoPro困境，揭示大疆与影石竞争关键在供应链。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体钛媒体，内容具体有分析深度，但缺乏数据支撑。"
-    },
-    {
-      "title": "英国政府宣布将中国敬业集团旗下英国钢铁公司国有化，商务部回应称中方表示坚决反对和强烈不满",
-      "link": "https://www.ithome.com/0/977/922.htm",
-      "pubDate": "Fri, 17 Jul 2026 02:13:20 GMT",
-      "contentSnippet": "IT之家 7 月 17 日消息，据央视新闻报道，今天（7 月 17 日），商务部新闻发言人就英国政府将英国钢铁国有化答记者问。\n有记者问：7 月 16 日，英国政府宣布已通过相关立法，将中国敬业集团旗下的英国钢铁公司国有化。请问中方对此有何评论？\n答：中方对英政府相关决定表示坚决反对和强烈不满。\n英钢在敬业收购之前就已多年亏损。敬业收购后对英钢注入巨额资金，使公司经营得以维系，就业岗位得以保留。英方罔顾敬业对英经济社会做出的重要贡献，以国家安全之名，强行接管、进而对英钢实施国有化，严重损害了敬业的正当权益，严重挫伤了中国企业对英投资信心。\n中方敦促英国政府遵守相关国际规则，切实履行中英投资保护",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "英国将敬业集团旗下英钢国有化，商务部坚决反对。",
+      "aiSummary": "回顾二战期间英美因云母断供而研发人工陶瓷电容器的历史。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家，内容引用央视和商务部官方回应，信息具体且权威。"
+      "credibilityReason": "钛媒体为知名科技媒体，内容有历史细节和机构引用，逻辑清晰。"
     },
     {
-      "title": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式",
-      "link": "https://36kr.com/newsflashes/3899087542699648?f=rss",
-      "pubDate": "2026-07-17 09:56:57  +0800",
-      "contentSnippet": "7月17日上午，国家主席习近平在上海出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式。（新华社）",
+      "title": "“智领新程 融创未来” 两岸人工智能系列活动亮相上海世界人工智能大会",
+      "link": "https://36kr.com/newsflashes/3900456408631171?f=rss",
+      "pubDate": "2026-07-18 09:09:26  +0800",
+      "contentSnippet": "今天（7月18日）上午，两岸人工智能融合发展创新论坛在上海世博中心举行。2026世界人工智能大会框架下，由海峡经济科技合作中心牵头筹办的两岸人工智能融合发展创新论坛及配套展览在上海举办，活动以“智领新程 融创未来”为主题。",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -67,16 +67,152 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "习近平出席2026世界人工智能大会开幕式。",
-      "credibilityScore": 95,
+      "aiSummary": "两岸人工智能论坛在上海世界人工智能大会期间举办。",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源权威（新华社），内容具体且客观，无技术细节问题。"
+      "credibilityReason": "来源36氪为知名科技媒体，内容具体但缺乏技术细节和数据支撑。"
     },
     {
-      "title": "国货美妆何以高端④：藏在供应链里的“隐形护城河”",
-      "link": "https://www.tmtpost.com/8067908.html",
-      "pubDate": "Fri, 17 Jul 2026 09:55:27 +0800",
-      "contentSnippet": "自建供应链，是国货美妆高端之路的“隐形护城河”。它不是最热闹的那条路，但它是必须走的那条路。",
+      "title": "消息称马斯克旗下 SpaceX 正与美国五角大楼洽谈 AI 算力供应，拟通过低价抢市场",
+      "link": "https://www.ithome.com/0/978/333.htm",
+      "pubDate": "Fri, 17 Jul 2026 23:12:16 GMT",
+      "contentSnippet": "IT之家 7 月 18 日消息，据《华尔街日报》昨日援引知情人士消息，埃隆 · 马斯克旗下 SpaceX 正与美国五角大楼洽谈，计划向其提供价值数十亿美元的数据中心算力，以运行 AI 大模型。\n如果这一协议最终达成，SpaceX 与美国国防部之间的合作关系将进一步深化。该公司目前与美国国防部在火箭发射、导弹跟踪等领域保持着重要合作关系。\n据悉，SpaceX 员工还在内部讨论中，设想与 CoreWeave、Neocloud 等公司竞争，拟通过更低价格向 AI 客户出售算力争夺市场。\n与许多大型机构一样，美国国防部也在寻求更多云计算资源，以支援其情报机构和 AI 应用。亚马逊曾于去年年底表示，公司",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "SpaceX正与五角大楼洽谈提供AI算力，拟低价竞争市场。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家，引用华尔街日报消息，内容具体有细节，但缺乏官方确认。"
+    },
+    {
+      "title": "中国科学家首获门捷列夫国际基础科学奖，潘建伟量子通信成果获国际认可",
+      "link": "https://www.ithome.com/0/978/320.htm",
+      "pubDate": "Fri, 17 Jul 2026 15:32:44 GMT",
+      "contentSnippet": "IT之家 7 月 17 日消息，今日，第三届联合国教科文组织 — 俄罗斯门捷列夫国际基础科学奖颁奖典礼在联合国教科文组织巴黎总部举行。\n中国科学院院士、中国科学技术大学教授潘建伟成为首位获此殊荣的中国学者。另一位获奖者为美国北卡罗来纳大学查珀尔希尔校区化学系教授谢尔盖 · 舍伊科（Sergei Sheiko），他因在基础聚合物物理学和材料科学领域的杰出贡献而获奖。\n\n联合国教科文组织在颁奖辞中指出，潘建伟是量子光学、量子通信和量子计算领域的国际领军科学家，因在大尺度安全量子通信和可扩展量子计算方面的开创性贡献而受到表彰。他的团队研制成功“墨子号”量子科学实验卫星，实现了数千公里范围内的量子密钥",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "潘建伟因量子通信成就获门捷列夫国际基础科学奖，成首位中国获奖者。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有颁奖细节和官方引用，技术描述准确。"
+    },
+    {
+      "title": "工信部召开重点车企座谈会，强调抵制非理性竞争、加强自动驾驶安全评估",
+      "link": "https://www.ithome.com/0/978/299.htm",
+      "pubDate": "Fri, 17 Jul 2026 13:09:49 GMT",
+      "contentSnippet": "IT之家 7 月 17 日消息，今日，工业和信息化部装备工业一司组织召开重点汽车生产企业座谈会，部署进一步规范汽车产业竞争秩序、提升汽车产品生产一致性和质量安全水平、开展汽车产品安全风险隐患排查和监督检查等重点工作。\n会议要求，汽车生产企业要坚决抵制非理性竞争，加强产品测试验证与安全评估，守牢产品生产一致性和质量安全底线。\n一是要深入开展产品安全风险隐患排查，对照有关管理要求，系统查找企业自身和关键零部件供应商在产品生产一致性、可靠性、耐久性和新技术测试验证等方面存在的问题，认真做好整改工作，全面加强供应链管理，强化生产一致性保证能力。\n二是要加强产品创新设计测试验证，充分评估有关安全风险，稳",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "工信部召开车企座谈会，强调抵制非理性竞争并加强自动驾驶安全评估。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体IT之家，内容具体且引用官方会议信息，逻辑清晰。"
+    },
+    {
+      "title": "因主角受伤，消息称剧版《战神》将为奎托斯重新选角",
+      "link": "https://www.ithome.com/0/978/373.htm",
+      "pubDate": "Sat, 18 Jul 2026 02:44:17 GMT",
+      "contentSnippet": "IT之家 7 月 18 日消息，Deadline 昨日（7 月 17 日）发布博文，报道称亚马逊 Prime Video 平台《战神》电视剧因主演受伤变动延期。\nIT之家援引博文介绍，饰演奎托斯（Kratos）的瑞恩 · 赫斯特（Ryan Hurst）于今年 6 月下旬拍摄特技镜头（据说当时他正在扛着一棵树）时撕裂肱二头肌，术后恢复期最长达 6 个月。\n\n图源：亚马逊\n消息称剧版《战神》目前已经拍摄 4 集，剧组认为继续等待赫斯特康复并不现实，如果继续等待，饰演阿特柔斯的年轻演员卡勒姆 · 文森可能会失去制片方希望保留的儿童化外形设定，因此决定重新选角。\n受此次换角影响，制作计划改至 10 月",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "剧版《战神》因主演受伤将重新选角奎托斯。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，引用Deadline报道，信息具体有细节。"
+    },
+    {
+      "title": "医疗AI独角兽OpenEvidence再传融资意向，潜在估值升至200亿美元",
+      "link": "https://36kr.com/newsflashes/3900510926276486?f=rss",
+      "pubDate": "2026-07-18 10:30:43  +0800",
+      "contentSnippet": "7月18日消息，据报道，有“医生版ChatGPT”之称的医疗人工智能初创公司OpenEvidence正在酝酿新一轮的融资计划。据悉，由于其在临床决策辅助和医学数据解析领域的强劲表现，外部风险投资机构正开出高达200亿美元的潜在估值，积极争取入股份额。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "OpenEvidence融资意向估值升至200亿美元",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体36氪，内容具体但缺乏原始出处和详细数据支撑"
+    },
+    {
+      "title": "Teams 新功能可显示“在办公室”引争议，微软回应称绝不监视员工",
+      "link": "https://www.ithome.com/0/978/367.htm",
+      "pubDate": "Sat, 18 Jul 2026 02:25:21 GMT",
+      "contentSnippet": "IT之家 7 月 18 日消息，科技媒体 Windows Latest 今天（7 月 18 日）发布博文，报道称针对适用于 Microsoft Teams 中的“工作地点签到”（workplace check-in），微软强调该功能并非用于监控员工。\nIT之家曾于 6 月报道，微软计划今年重启“工作地点签到”功能，基于企业 Wi-Fi、已注册外设等信号更新用户当前工作地点。\n\n微软表示 Teams 现有功能只能显示用户处于空闲（idle）、在线（online）或通话（in a call）状态，而该功能会结合以下 3 个状态，进一步扩展显示“在办公室”或具体办公楼名称：\n\n员工的工作时间\n\n员工",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微软Teams新功能可显示员工在办公室，引发隐私担忧，微软否认用于监视。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体IT之家，内容具体有原始报道引用，逻辑清晰，但缺乏官方直接回应细节。"
+    },
+    {
+      "title": "黄仁勋穿过的皮夹克拍出 96 万美元天价，善款用于支持科技“快闪社区”",
+      "link": "https://www.ithome.com/0/978/365.htm",
+      "pubDate": "Sat, 18 Jul 2026 02:23:59 GMT",
+      "contentSnippet": "IT之家 7 月 18 日消息，据《财富》杂志当地时间 17 日报道，英伟达 CEO 黄仁勋的一件标志性皮夹克以 96 万美元（现汇率约合 651.3 万元人民币）拍出，成交价达到拍前最高估价的 16 倍，全部所得将用于慈善项目。\n黄仁勋衣橱中的不少皮夹克单件售价高达数千美元，公开露面时也几乎总会穿上一件。2016 年，他在主持 Reddit AMA 问答时写道：“你可能更熟悉另一个身份，也就是那个穿皮夹克、同一句话会说三遍的人。”\n此后，皮夹克彻底成为黄仁勋的招牌装束。\n苏富比本月早些时候将皮夹克送上拍卖台，原本只估价 4 万至 6 万美元（现汇率约合 27.1 万至 40.7 万元人民币）",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "黄仁勋皮夹克拍出96万美元，用于科技慈善。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，引用《财富》杂志，信息具体有数据支撑。"
+    },
+    {
+      "title": "英特尔前 CEO 盖尔辛格反思：当年确实看不上英伟达 GPU",
+      "link": "https://www.ithome.com/0/978/364.htm",
+      "pubDate": "Sat, 18 Jul 2026 02:22:44 GMT",
+      "contentSnippet": "IT之家 7 月 18 日消息，英特尔前 CEO 帕特 · 盖尔辛格（Patrick Gelsinger）前天出席 All-In Podcast 播客时承认，英特尔主导整个行业时，公司曾对英伟达的 GPU 产品不屑一顾。\n\n访谈一开始，盖尔辛格就开门见山地批评了英特尔当年的资本配置策略，指出公司在他回归前的五六年里，向股东发放了 1000 亿美元（IT之家注：现汇率约合 6784.58 亿元人民币）股息，而不是将资金投入制造业务。\n他对此说道：“在我回归之前的五六年里，英特尔向股东返还了 1000 亿美元。如果当时这些钱能出现在资产负债表上，那该有多好。我接手公司时，英特尔已经有十年没建新晶圆",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "英特尔前CEO承认曾轻视英伟达GPU，反思资本配置失误。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体IT之家，引用前CEO播客原话，信息具体有数据支撑。"
+    },
+    {
+      "title": "苹果AI终于入华，但iPhone的“智能主权”开始松动",
+      "link": "https://www.tmtpost.com/8070181.html",
+      "pubDate": "Sat, 18 Jul 2026 10:18:24 +0800",
+      "contentSnippet": "从App Store到Agent，苹果的入口危机开始了。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -84,67 +220,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国货美妆高端化需自建供应链作为核心竞争力。",
+      "aiSummary": "苹果AI入华，但iPhone智能主权面临挑战。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源钛媒体为知名科技媒体，内容逻辑清晰，但缺乏具体数据支撑。"
+      "credibilityReason": "来自知名科技媒体钛媒体，内容具体分析苹果AI入华影响，但缺乏数据支撑。"
     },
     {
-      "title": "力成拟联手博通在新加坡设立面板级先进封装合资企业",
-      "link": "https://www.ithome.com/0/977/838.htm",
-      "pubDate": "Thu, 16 Jul 2026 23:29:35 GMT",
-      "contentSnippet": "IT之家 7 月 17 日消息，台湾地区集成电路封装测试业者力成 (Powertech, PTI) 昨日宣布，该公司拟与 Broadcomm（博通）于新加坡共同设立面板级先进封装 (PLP) 业务制造合资公司。\n力成表示这项决定基于业务整体国际布局，旨在贴近全球客户供应链。力成预计将向新加坡合资企业投资 4 亿美元（IT之家注：现汇率约合 27.11 亿元人民币）。\n\n\n延伸阅读\n面板级封装（PLP）是一种先进封装技术，与传统的晶圆级封装（如 WLP）相比，它使用更大的方形面板作为基底，能够实现更高的生产效率、更低的单位成本，并支持更大尺寸芯片或更多芯片的集成。台积电等厂商也在积极布局扇出式面",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "力成与博通拟在新加坡合资设立面板级先进封装企业",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，信息具体含投资金额，逻辑清晰"
-    },
-    {
-      "title": "Ubuntu 报告 Linux 7.0.0-28.28 中 AMDGPU 性能下降：9 秒任务拖长至 388 秒，吞吐降至 1/42",
-      "link": "https://www.ithome.com/0/977/956.htm",
-      "pubDate": "Fri, 17 Jul 2026 02:54:45 GMT",
-      "contentSnippet": "IT之家 7 月 17 日消息，Ubuntu 内核团队昨日（7 月 16 日）在社区发帖，指出 Linux 7.0.0-28.28 内核版本由于 AMDGPU 问题，会导致 ROCm 计算负载吞吐性能降至 42 分之一。\nIT之家注：AMDGPU 是 AMD 在 Linux 平台上的官方开源图形驱动，负责图形渲染与 GPU 计算相关硬件调度，广泛用于桌面图形、游戏和通用 GPU 计算场景。\nROCm 是 AMD 面向 GPU 加速计算的软硬件生态，功能接近 NVIDIA 的 CUDA，常用于人工智能训练与推理、高性能计算、科学模拟等需要大量并行运算的场景。\nUbuntu 工程团队表示由于 Li",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "Ubuntu报告Linux 7.0.0-28.28内核因AMDGPU问题导致ROCm性能严重下降。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容引用Ubuntu官方社区报告，技术细节具体，逻辑清晰。"
-    },
-    {
-      "title": "创业板指跌破3500点",
-      "link": "https://36kr.com/newsflashes/3899139957688200?f=rss",
-      "pubDate": "2026-07-17 10:50:16  +0800",
-      "contentSnippet": "创业板指跌破3500点，日内跌5.3%，沪指跌1.52%，深成指跌3.7%；医药医疗、算力硬件、半导体芯片等方向跌幅居前，沪深京三市下跌个股近4500只，其中近170股跌超9%",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "创业板指大跌5.3%跌破3500点，近4500只个股下跌。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体36氪，数据具体且时效性强，内容客观。"
-    },
-    {
-      "title": "商业航天大起大落：市场在害怕什么？",
-      "link": "https://www.tmtpost.com/8068414.html",
-      "pubDate": "Fri, 17 Jul 2026 10:43:00 +0800",
-      "contentSnippet": "想象力大于实际。",
+      "title": "不能让游客“入戏”的景区，正在被淘汰",
+      "link": "https://www.tmtpost.com/8069495.html",
+      "pubDate": "Sat, 18 Jul 2026 10:18:17 +0800",
+      "contentSnippet": "适配鲜活个体，北京环球影城开放玩法破局沉浸内卷",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -152,50 +237,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "商业航天市场波动，担忧实际进展不及预期。",
+      "aiSummary": "景区需提升沉浸体验，环球影城创新玩法应对内卷。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体，内容具体但缺乏数据支撑和原始出处。"
+      "credibilityReason": "来源钛媒体为知名科技媒体，内容具体有案例，但缺乏数据支撑。"
     },
     {
-      "title": "Spotify 增强平台治理，去年已下架 7500 万首 AI 生成的歌曲",
-      "link": "https://www.ithome.com/0/977/955.htm",
-      "pubDate": "Fri, 17 Jul 2026 02:42:45 GMT",
-      "contentSnippet": "IT之家 7 月 17 日消息，科技媒体 Neowin 昨日（7 月 16 日）发布博文，报道称流媒体巨头 Spotfiy 加强 AI 音乐管理，去年已下架超过 7500 万首 AI 生成的歌曲。\nSpotify 全球营销与政策负责人萨姆 · 杜博夫（Sam Duboff）表示，Spotify 服务器每天接收 10 万首歌曲上传，且其中越来越多内容由 AI 生成。\nIT之家援引博文介绍，这些上传的 AI 歌曲中，很大一部分都是大规模生产、批量上传，并存在刷量行为，杜博夫表示这挤压平台内容审核与版税分配系统，增加平台治理压力。\n杜博夫表示目前 AI 在参与歌曲创作方面存在模糊地带，越来越多真实艺",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "Spotify去年下架7500万首AI生成歌曲，加强平台治理。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自IT之家转载Neowin，信息具体有数据支撑，来源可信。"
-    },
-    {
-      "title": "比亚迪公布“8 系唐”新车官图：承袭盛唐恢弘气韵，纯电续航超 800km",
-      "link": "https://www.ithome.com/0/977/954.htm",
-      "pubDate": "Fri, 17 Jul 2026 02:41:31 GMT",
-      "contentSnippet": "IT之家 7 月 17 日消息，今天上午，比亚迪王朝网销售事业部总经理路天公布了一组比亚迪“8 系唐”的“定妆照”，并透露新车纯电续航里程将超过 800km。\n\n\n8 系唐承袭了盛唐的恢弘气韵，融合前沿科技美学，尽显高阶豪华格调。前不久上市的 9 系大唐，是一款全尺寸 SUV，采用大七座布局，聚焦商务和大家庭用车；而新公告的 8 系唐定位中大型 SUV，大五座王者聚焦品质家庭用车，全面覆盖不同消费者的用车需求。\n8 系唐和 9 系大唐都拥有超越同级的顶尖科技，将携手重塑王朝旗舰 IP，大家敬请期待。\n\n\n\n据IT之家了解，这款新车此前已在本月的工信部申报公示现身，整体长宽高为 5045 * 1",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "比亚迪公布8系唐官图，纯电续航超800km，定位中大型SUV。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有数据，但缺乏原始出处和细节支撑。"
-    },
-    {
-      "title": "美团王莆中：骑手正在成为专业化的新就业形态劳动者，将持续提升骑手保障",
-      "link": "https://36kr.com/newsflashes/3899131265599362?f=rss",
-      "pubDate": "2026-07-17 10:41:26  +0800",
-      "contentSnippet": "“职业化将是网约配送行业走向成熟的重要标志，也是我们未来长期努力的方向”，7月16日，第九届美团717骑士节年度荣誉盛典在京举行，美团核心本地商业CEO王莆中表示，美团将在有关部门指导下，从“效率优先”向“安全、收入、权益并重”转变。王莆中认为，骑手正在成为专业化的新就业形态劳动者，美团将继续努力，提升骑手保障。活动现场，美团也透露了“等灯停表”的试点进展，目前已与苏州交管部门完成数据对接。同时，美团也宣布了骑手医疗保障的升级计划，美团骑手在冬夏季跑单将额外获得美团提供的专项保障。",
+      "title": "国家智慧教育平台全面深化应用试点推进会召开",
+      "link": "https://36kr.com/newsflashes/3900510413899654?f=rss",
+      "pubDate": "2026-07-18 10:15:15  +0800",
+      "contentSnippet": "7月16日，教育部在山东省济南市召开国家智慧教育平台全面深化应用试点推进会。教育部党组成员、副部长王光彦出席会议并讲话。 会议指出，要提高政治站位，以对新形势的准确把握增强国家平台全面深化应用试点的使命感紧迫感，深刻认识人工智能技术发展给教育带来的机遇和挑战，准确理解国家智慧教育平台的战略支撑作用，全面把握国家平台全面深化应用试点工作的重要意义，以点上突破带动教育数字化战略的面上提质和系统跃升，有力支撑教育强国建设。",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -203,61 +254,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "美团称骑手正专业化，将提升保障并试点等灯停表。",
+      "aiSummary": "教育部在济南召开国家智慧教育平台深化应用试点推进会。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体36氪，内容具体有数据细节，逻辑清晰。"
-    },
-    {
-      "title": "百度搭子获评WAIC 2026“镇馆之宝”，智能体全家桶将集中亮相",
-      "link": "https://www.qbitai.com/2026/07/451691.html",
-      "pubDate": "Fri, 17 Jul 2026 02:41:03 +0000",
-      "contentSnippet": "",
-      "sourceName": "量子位",
-      "sourceWeight": 80,
-      "allSources": [
-        "量子位"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "百度搭子获WAIC 2026镇馆之宝，智能体全家桶将亮相。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "量子位是知名科技媒体，内容具体且具时效性，但缺少技术细节和原始出处。"
-    },
-    {
-      "title": "特斯拉首款两轮车：225 美元儿童平衡车上架官网，采用未来感设计",
-      "link": "https://www.ithome.com/0/977/953.htm",
-      "pubDate": "Fri, 17 Jul 2026 02:40:55 GMT",
-      "contentSnippet": "IT之家 7 月 17 日消息，特斯拉又整了个花活，推出一款具有特斯拉设计风格的儿童平衡车。\n目前这款车型已在特斯拉官网上架，定价 225 美元（IT之家注：现汇率约合 1526 元人民币），可以说是“特斯拉首款两轮车”。\n\n这款车型采用轻量镁合金车架、可调节座椅和未来感设计，车身侧面印有特斯拉字标，正面印有特斯拉“T”标志，面向 2 至 5 岁的儿童，最大重量限制 35 公斤。\n\n这款车没有电机，也没有脚蹬子，得靠两只脚滑着向前行驶，百公里“消耗两个馒头”。\n\n\n需要注意的是，这并不是最便宜的特斯拉车型，据IT之家此前报道，特斯拉曾在 2021 年推出一款 Model Y 儿童学步车，首发价",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "特斯拉推出225美元儿童平衡车，未来感设计无电机。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家较知名，信息具体有价格和设计细节，但无原始出处链接。"
-    },
-    {
-      "title": "外汇局：未来外商来华投资有望延续向好态势",
-      "link": "https://36kr.com/newsflashes/3899129651152517?f=rss",
-      "pubDate": "2026-07-17 10:39:47  +0800",
-      "contentSnippet": "7月17日，国家外汇管理局国际收支司负责人赵玉超在国新办新闻发布会上表示，未来外商来华投资有望延续向好态势。一是我国产业优化升级和科技创新将不断带来新的投资机会。二是我国稳步扩大制度型对外开放，健全外商投资服务保障体系，优化金融领域互联互通机制，为外资来华投资营造更加便利政策环境。三是近年来国际形势复杂多变，我国经济韧性增强，人民币币值稳定，将为全球资本分散配置提供更多选择。（证券时报）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "外汇局称外商来华投资有望延续向好态势。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为36氪，内容引用官方发布会，信息具体且有数据支撑。"
+      "credibilityReason": "来源36氪为知名科技媒体，内容具体、逻辑清晰，有明确时间地点和官员讲话。"
     }
   ]
 }
