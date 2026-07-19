@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-07-18T02:49:20.726Z",
+  "generatedAt": "2026-07-19T03:18:46.456Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "苹果公司在日本提高iPhone售价，部分机型涨价超2万日元",
-      "link": "https://36kr.com/newsflashes/3900511572149890?f=rss",
-      "pubDate": "2026-07-18 10:45:24  +0800",
-      "contentSnippet": "苹果7月18日在日本市场上调iPhone、Apple Watch及AirPods系列产品售价，为近年来首次大范围价格调整。iPhone 17 Pro Max最高存储版本售价由32.98万日元升至35.48万日元，上涨2.5万日元；iPhone 17起售价由12.98万日元升至14.28万日元。Apple Watch Series 11、Ultra 3及AirPods系列产品也同步提价。苹果尚未公布日本市场具体调价原因。市场认为，成本上升、汇率变化及供应链因素可能推动价格调整。",
+      "title": "蚂蚁数科WAIC发布“智能体超级工厂”，首批预置近200个岗位级数字专家",
+      "link": "https://36kr.com/newsflashes/3901996167513985?f=rss",
+      "pubDate": "2026-07-19 11:15:45  +0800",
+      "contentSnippet": "7月19日，在2026世界人工智能大会上，蚂蚁数科发布新一代企业 AI 解决方案——智能体超级工厂核心平台 Agentar 2.0。据悉，Agentar2.0首批预置近200个岗位级数字专家模板，并提供数百个可订阅的Skills级开箱可用的智能体工具。企业可以根据具体岗位和经营需求，快速启用具备专业知识、业务流程及工具调用能力的数字专家，无需从零起步。据IDC报告最新披露，在中国智能体开发平台私有化市场份额中，蚂蚁数科位列非云厂商第一，并位列2025年中国金融大模型、智能体应用及服务市场占有率第一。",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -16,50 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "苹果在日本上调iPhone等产品售价，最高涨2.5万日元。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，信息具体有数据支撑，但未提供原始出处。"
-    },
-    {
-      "title": "东方算芯首次展出全球首颗软件定义近存计算 3D AI 芯片 DF1000，算力可达 520 TFLOPS",
-      "link": "https://www.ithome.com/0/978/368.htm",
-      "pubDate": "Sat, 18 Jul 2026 02:39:54 GMT",
-      "contentSnippet": "IT之家 7 月 18 日消息，2026 世界人工智能大会（WAIC 2026）今天在上海举行。东方算芯在会上首次展出全球首颗软件定义近存计算 3D AI 芯片 ——DF1000，并荣获 2026 SAIL 奖（卓越人工智能引领者奖）。\n\n据介绍，DF1000 依托全国产供应链打造，通过空间并行与时分复用设计提升硬件利用率，算力可达 520 TFLOPS。采用 3D 混合键合技术实现晶圆级堆叠，有效提升访存带宽，降低供应链依赖，拥有自主编程框架和软件生态，可为 AI 产业提供稳定的国产算力底座。\n同时，该产品以“软件定义＋3D 堆叠近存计算”的东方范式，破解了中国高端算力芯片发展面临的三大核心",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "东方算芯展出全球首颗软件定义近存计算3D AI芯片DF1000，算力520 TFLOPS。",
+      "aiSummary": "蚂蚁数科发布智能体超级工厂Agentar 2.0，预置近200个数字专家模板。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，内容具体有技术细节和展会背景，但缺少独立验证。"
+      "credibilityReason": "来源36氪为知名科技媒体，内容具体有数据支撑，引用IDC报告。"
     },
     {
-      "title": "MLCC产业通史（一）：命脉断供，英美雷达云母军工困局",
-      "link": "https://www.tmtpost.com/8069499.html",
-      "pubDate": "Sat, 18 Jul 2026 10:18:20 +0800",
-      "contentSnippet": "当印度洋的航线被战火封死，当矿石的供给跟不上战争机器的轰鸣，这场看似由云母引发的供应链危机，很快演变为一场席卷全球顶尖实验室的材料竞速。从纽约的贝尔实验室到波士顿的 MIT 辐射楼，从军方直属的研究机构到斯普拉格电气等军工承包商，无数物理学家与陶瓷工程师被推上了同一条赛道 —— 他们要在实验室的炉膛里，烧出一种能替代天然矿物的人工晶体。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "回顾二战期间英美因云母断供而研发人工陶瓷电容器的历史。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容有历史细节和机构引用，逻辑清晰。"
-    },
-    {
-      "title": "“智领新程 融创未来” 两岸人工智能系列活动亮相上海世界人工智能大会",
-      "link": "https://36kr.com/newsflashes/3900456408631171?f=rss",
-      "pubDate": "2026-07-18 09:09:26  +0800",
-      "contentSnippet": "今天（7月18日）上午，两岸人工智能融合发展创新论坛在上海世博中心举行。2026世界人工智能大会框架下，由海峡经济科技合作中心牵头筹办的两岸人工智能融合发展创新论坛及配套展览在上海举办，活动以“智领新程 融创未来”为主题。",
+      "title": "中信证券与光谷金控签署框架合作协议",
+      "link": "https://36kr.com/newsflashes/3901895756679047?f=rss",
+      "pubDate": "2026-07-19 11:15:30  +0800",
+      "contentSnippet": "7月17日，中信证券与东湖高新区国有企业——光谷金控集团（简称“光谷金控”）签署框架合作协议。此次签约后，双方将聚焦光谷主导产业与新兴赛道，常态化开展优质项目筛选、落地培育、投资赋能等工���，共建企业全生命周期资本市场服务体系，协同开展境内外IPO、股权再融资、债券发行、并购重组、股权投资、产业基金设立等全品类资本市场业务，辐射服务上市后备企业、专精特新企业等各类经营主体，推动科创、产业、金融三类资源高效融合，助力光谷打造万亿级产业集群。（e公司）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -67,84 +33,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "两岸人工智能论坛在上海世界人工智能大会期间举办。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体但缺乏技术细节和数据支撑。"
-    },
-    {
-      "title": "消息称马斯克旗下 SpaceX 正与美国五角大楼洽谈 AI 算力供应，拟通过低价抢市场",
-      "link": "https://www.ithome.com/0/978/333.htm",
-      "pubDate": "Fri, 17 Jul 2026 23:12:16 GMT",
-      "contentSnippet": "IT之家 7 月 18 日消息，据《华尔街日报》昨日援引知情人士消息，埃隆 · 马斯克旗下 SpaceX 正与美国五角大楼洽谈，计划向其提供价值数十亿美元的数据中心算力，以运行 AI 大模型。\n如果这一协议最终达成，SpaceX 与美国国防部之间的合作关系将进一步深化。该公司目前与美国国防部在火箭发射、导弹跟踪等领域保持着重要合作关系。\n据悉，SpaceX 员工还在内部讨论中，设想与 CoreWeave、Neocloud 等公司竞争，拟通过更低价格向 AI 客户出售算力争夺市场。\n与许多大型机构一样，美国国防部也在寻求更多云计算资源，以支援其情报机构和 AI 应用。亚马逊曾于去年年底表示，公司",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "SpaceX正与五角大楼洽谈提供AI算力，拟低价竞争市场。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家，引用华尔街日报消息，内容具体有细节，但缺乏官方确认。"
-    },
-    {
-      "title": "中国科学家首获门捷列夫国际基础科学奖，潘建伟量子通信成果获国际认可",
-      "link": "https://www.ithome.com/0/978/320.htm",
-      "pubDate": "Fri, 17 Jul 2026 15:32:44 GMT",
-      "contentSnippet": "IT之家 7 月 17 日消息，今日，第三届联合国教科文组织 — 俄罗斯门捷列夫国际基础科学奖颁奖典礼在联合国教科文组织巴黎总部举行。\n中国科学院院士、中国科学技术大学教授潘建伟成为首位获此殊荣的中国学者。另一位获奖者为美国北卡罗来纳大学查珀尔希尔校区化学系教授谢尔盖 · 舍伊科（Sergei Sheiko），他因在基础聚合物物理学和材料科学领域的杰出贡献而获奖。\n\n联合国教科文组织在颁奖辞中指出，潘建伟是量子光学、量子通信和量子计算领域的国际领军科学家，因在大尺度安全量子通信和可扩展量子计算方面的开创性贡献而受到表彰。他的团队研制成功“墨子号”量子科学实验卫星，实现了数千公里范围内的量子密钥",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "潘建伟因量子通信成就获门捷列夫国际基础科学奖，成首位中国获奖者。",
+      "aiSummary": "中信证券与光谷金控签约合作，聚焦产业与资本市场服务。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有颁奖细节和官方引用，技术描述准确。"
+      "credibilityReason": "来源36氪为知名科技媒体，内容具体有细节，引用e公司原始出处。"
     },
     {
-      "title": "工信部召开重点车企座谈会，强调抵制非理性竞争、加强自动驾驶安全评估",
-      "link": "https://www.ithome.com/0/978/299.htm",
-      "pubDate": "Fri, 17 Jul 2026 13:09:49 GMT",
-      "contentSnippet": "IT之家 7 月 17 日消息，今日，工业和信息化部装备工业一司组织召开重点汽车生产企业座谈会，部署进一步规范汽车产业竞争秩序、提升汽车产品生产一致性和质量安全水平、开展汽车产品安全风险隐患排查和监督检查等重点工作。\n会议要求，汽车生产企业要坚决抵制非理性竞争，加强产品测试验证与安全评估，守牢产品生产一致性和质量安全底线。\n一是要深入开展产品安全风险隐患排查，对照有关管理要求，系统查找企业自身和关键零部件供应商在产品生产一致性、可靠性、耐久性和新技术测试验证等方面存在的问题，认真做好整改工作，全面加强供应链管理，强化生产一致性保证能力。\n二是要加强产品创新设计测试验证，充分评估有关安全风险，稳",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "工信部召开车企座谈会，强调抵制非理性竞争并加强自动驾驶安全评估。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，内容具体且引用官方会议信息，逻辑清晰。"
-    },
-    {
-      "title": "因主角受伤，消息称剧版《战神》将为奎托斯重新选角",
-      "link": "https://www.ithome.com/0/978/373.htm",
-      "pubDate": "Sat, 18 Jul 2026 02:44:17 GMT",
-      "contentSnippet": "IT之家 7 月 18 日消息，Deadline 昨日（7 月 17 日）发布博文，报道称亚马逊 Prime Video 平台《战神》电视剧因主演受伤变动延期。\nIT之家援引博文介绍，饰演奎托斯（Kratos）的瑞恩 · 赫斯特（Ryan Hurst）于今年 6 月下旬拍摄特技镜头（据说当时他正在扛着一棵树）时撕裂肱二头肌，术后恢复期最长达 6 个月。\n\n图源：亚马逊\n消息称剧版《战神》目前已经拍摄 4 集，剧组认为继续等待赫斯特康复并不现实，如果继续等待，饰演阿特柔斯的年轻演员卡勒姆 · 文森可能会失去制片方希望保留的儿童化外形设定，因此决定重新选角。\n受此次换角影响，制作计划改至 10 月",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "剧版《战神》因主演受伤将重新选角奎托斯。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，引用Deadline报道，信息具体有细节。"
-    },
-    {
-      "title": "医疗AI独角兽OpenEvidence再传融资意向，潜在估值升至200亿美元",
-      "link": "https://36kr.com/newsflashes/3900510926276486?f=rss",
-      "pubDate": "2026-07-18 10:30:43  +0800",
-      "contentSnippet": "7月18日消息，据报道，有“医生版ChatGPT”之称的医疗人工智能初创公司OpenEvidence正在酝酿新一轮的融资计划。据悉，由于其在临床决策辅助和医学数据解析领域的强劲表现，外部风险投资机构正开出高达200亿美元的潜在估值，积极争取入股份额。",
+      "title": "立中集团：预计上半年归母净利润同比增长34.57%-45.78%",
+      "link": "https://36kr.com/newsflashes/3901893488805766?f=rss",
+      "pubDate": "2026-07-19 11:00:13  +0800",
+      "contentSnippet": "36氪获悉，立中集团7月18日公告，预计2026年上半年归母净利润5.4亿元-5.85亿元，同比增长34.57%-45.78%，上年同期盈利4.01亿元。",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -152,50 +50,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "OpenEvidence融资意向估值升至200亿美元",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，内容具体但缺乏原始出处和详细数据支撑"
-    },
-    {
-      "title": "Teams 新功能可显示“在办公室”引争议，微软回应称绝不监视员工",
-      "link": "https://www.ithome.com/0/978/367.htm",
-      "pubDate": "Sat, 18 Jul 2026 02:25:21 GMT",
-      "contentSnippet": "IT之家 7 月 18 日消息，科技媒体 Windows Latest 今天（7 月 18 日）发布博文，报道称针对适用于 Microsoft Teams 中的“工作地点签到”（workplace check-in），微软强调该功能并非用于监控员工。\nIT之家曾于 6 月报道，微软计划今年重启“工作地点签到”功能，基于企业 Wi-Fi、已注册外设等信号更新用户当前工作地点。\n\n微软表示 Teams 现有功能只能显示用户处于空闲（idle）、在线（online）或通话（in a call）状态，而该功能会结合以下 3 个状态，进一步扩展显示“在办公室”或具体办公楼名称：\n\n员工的工作时间\n\n员工",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "微软Teams新功能可显示员工在办公室，引发隐私担忧，微软否认用于监视。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，内容具体有原始报道引用，逻辑清晰，但缺乏官方直接回应细节。"
-    },
-    {
-      "title": "黄仁勋穿过的皮夹克拍出 96 万美元天价，善款用于支持科技“快闪社区”",
-      "link": "https://www.ithome.com/0/978/365.htm",
-      "pubDate": "Sat, 18 Jul 2026 02:23:59 GMT",
-      "contentSnippet": "IT之家 7 月 18 日消息，据《财富》杂志当地时间 17 日报道，英伟达 CEO 黄仁勋的一件标志性皮夹克以 96 万美元（现汇率约合 651.3 万元人民币）拍出，成交价达到拍前最高估价的 16 倍，全部所得将用于慈善项目。\n黄仁勋衣橱中的不少皮夹克单件售价高达数千美元，公开露面时也几乎总会穿上一件。2016 年，他在主持 Reddit AMA 问答时写道：“你可能更熟悉另一个身份，也就是那个穿皮夹克、同一句话会说三遍的人。”\n此后，皮夹克彻底成为黄仁勋的招牌装束。\n苏富比本月早些时候将皮夹克送上拍卖台，原本只估价 4 万至 6 万美元（现汇率约合 27.1 万至 40.7 万元人民币）",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "黄仁勋皮夹克拍出96万美元，用于科技慈善。",
+      "aiSummary": "立中集团预计上半年净利润增长34.57%-45.78%。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用《财富》杂志，信息具体有数据支撑。"
+      "credibilityReason": "来自知名科技媒体36氪，内容具体有数据支撑，逻辑清晰。"
     },
     {
-      "title": "英特尔前 CEO 盖尔辛格反思：当年确实看不上英伟达 GPU",
-      "link": "https://www.ithome.com/0/978/364.htm",
-      "pubDate": "Sat, 18 Jul 2026 02:22:44 GMT",
-      "contentSnippet": "IT之家 7 月 18 日消息，英特尔前 CEO 帕特 · 盖尔辛格（Patrick Gelsinger）前天出席 All-In Podcast 播客时承认，英特尔主导整个行业时，公司曾对英伟达的 GPU 产品不屑一顾。\n\n访谈一开始，盖尔辛格就开门见山地批评了英特尔当年的资本配置策略，指出公司在他回归前的五六年里，向股东发放了 1000 亿美元（IT之家注：现汇率约合 6784.58 亿元人民币）股息，而不是将资金投入制造业务。\n他对此说道：“在我回归之前的五六年里，英特尔向股东返还了 1000 亿美元。如果当时这些钱能出现在资产负债表上，那该有多好。我接手公司时，英特尔已经有十年没建新晶圆",
+      "title": "意大利正经历今年第三次热浪天气，老外说被中国“降温神器”拯救了",
+      "link": "https://www.ithome.com/0/978/645.htm",
+      "pubDate": "Sun, 19 Jul 2026 02:54:33 GMT",
+      "contentSnippet": "IT之家 7 月 19 日消息，据央视新闻今日报道，意大利目前正经历今年第三次热浪天气，多地气温接近甚至超过 40℃。持续的酷暑之下，大量中国制造的降温产品成为当地居民、游客和外国留学生的避暑好物。\n\n报道提到，在本轮高温天气中，意大利有十多座城市发布最高级别红色高温预警。其中，撒丁岛最高气温一度达到创纪录的 47.2℃，罗马、佛罗伦萨、博洛尼亚等主要城市的气温也持续接近 40℃。\n在罗马，受到历史建筑保护、物业规定，以及空调预约安装排队等限制，在这里安装一台分体壁挂式空调不太容易。因此，除了携带大量饮用水之外，不少游客和罗马本地居民选择购买中国生产的各类降温产品。\n一名当地的学生分享自己网购",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -203,50 +67,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "英特尔前CEO承认曾轻视英伟达GPU，反思资本配置失误。",
+      "aiSummary": "意大利热浪中，中国降温产品受当地居民和游客欢迎。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，内容有央视新闻引用，信息具体但缺少技术细节。"
+    },
+    {
+      "title": "阿里开放式世界模型快乐生蚝 HappyOyster 1.0 登陆百炼平台，支持两大核心模式",
+      "link": "https://www.ithome.com/0/978/644.htm",
+      "pubDate": "Sun, 19 Jul 2026 02:53:07 GMT",
+      "contentSnippet": "IT之家 7 月 19 日消息，阿里巴巴今天宣布，开放式世界模型 HappyOyster 1.0（快乐生蚝）现已登陆阿里云百炼，面向企业和开发者开启灰测。\n\nIT之家了解到，HappyOyster 1.0 版本围绕「用户与世界的关系」，提供世界探索（Adventure）与实时导演（Directing）两大核心模式。\n其中，世界探索模式支持用户输入一句话或一张图，生成可实时探索和交互的开放世界。模型能够根据用户输入创建任意角色在任意世界中探索，根据实时交互指令，预测世界的下一步发展，给出响应，支持 1 分钟以上的主体动作和环境交互体验，音画同出。\n而实时导演模式可让用户像拍摄电影一样，用文字指令",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "阿里发布开放式世界模型HappyOyster 1.0，支持探索与导演模式。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，引用前CEO播客原话，信息具体有数据支撑。"
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有技术细节，信息清晰可信。"
     },
     {
-      "title": "苹果AI终于入华，但iPhone的“智能主权”开始松动",
-      "link": "https://www.tmtpost.com/8070181.html",
-      "pubDate": "Sat, 18 Jul 2026 10:18:24 +0800",
-      "contentSnippet": "从App Store到Agent，苹果的入口危机开始了。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "苹果AI入华，但iPhone智能主权面临挑战。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体钛媒体，内容具体分析苹果AI入华影响，但缺乏数据支撑。"
-    },
-    {
-      "title": "不能让游客“入戏”的景区，正在被淘汰",
-      "link": "https://www.tmtpost.com/8069495.html",
-      "pubDate": "Sat, 18 Jul 2026 10:18:17 +0800",
-      "contentSnippet": "适配鲜活个体，北京环球影城开放玩法破局沉浸内卷",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "景区需提升沉浸体验，环球影城创新玩法应对内卷。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源钛媒体为知名科技媒体，内容具体有案例，但缺乏数据支撑。"
-    },
-    {
-      "title": "国家智慧教育平台全面深化应用试点推进会召开",
-      "link": "https://36kr.com/newsflashes/3900510413899654?f=rss",
-      "pubDate": "2026-07-18 10:15:15  +0800",
-      "contentSnippet": "7月16日，教育部在山东省济南市召开国家智慧教育平台全面深化应用试点推进会。教育部党组成员、副部长王光彦出席会议并讲话。 会议指出，要提高政治站位，以对新形势的准确把握增强国家平台全面深化应用试点的使命感紧迫感，深刻认识人工智能技术发展给教育带来的机遇和挑战，准确理解国家智慧教育平台的战略支撑作用，全面把握国家平台全面深化应用试点工作的重要意义，以点上突破带动教育数字化战略的面上提质和系统跃升，有力支撑教育强国建设。",
+      "title": "电影《功夫女足》票房破13亿",
+      "link": "https://36kr.com/newsflashes/3901892952917890?f=rss",
+      "pubDate": "2026-07-19 10:45:34  +0800",
+      "contentSnippet": "据网络平台数据，截至7月19日9时12分，影片《功夫女足》票房突破13亿元。（界面）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -254,10 +101,163 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "教育部在济南召开国家智慧教育平台深化应用试点推进会。",
+      "aiSummary": "《功夫女足》票房破13亿，数据来自网络平台。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪较知名，数据有出处，但内容简略无技术细节。"
+    },
+    {
+      "title": "马斯克：特斯拉 FSD 将记住驾驶员操作习惯，实现个性化自动驾驶",
+      "link": "https://www.ithome.com/0/978/642.htm",
+      "pubDate": "Sun, 19 Jul 2026 02:36:34 GMT",
+      "contentSnippet": "IT之家 7 月 19 日消息，埃隆 · 马斯克已经确认，特斯拉 FSD（Full Self-Driving）软件正在正式从过去的“通用型、一套方案适用于所有用户”的驾驶系统，转变为真正的个性化驾驶系统。\n\n此前，搭载 FSD 的特斯拉车辆在整个车队中基本采用相同的驾驶逻辑。但未来，FSD 背后的神经网络将能够直接学习每位车主的个人驾驶习惯，并记住用户的偏好。\n这一消息来自马斯克本人。近日，一名特斯拉 FSD 用户在 X 平台上抱怨了一个长期存在的问题。用户 @wholemars 表示，车辆经常会在不该离开的位置驶出高载客车道（IT之家注：指在交通高峰时段专门预留给那些除司机外还搭乘有一名或多",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "马斯克称特斯拉FSD将学习用户驾驶习惯，实现个性化自动驾驶。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体IT之家，内容具体且有原始出处（马斯克本人），但缺乏技术细节和验证。"
+    },
+    {
+      "title": "上半年天津实现进出口4059亿元",
+      "link": "https://36kr.com/newsflashes/3901852568929920?f=rss",
+      "pubDate": "2026-07-19 10:30:36  +0800",
+      "contentSnippet": "36氪获悉，据天津日报，从天津海关获悉，今年上半年，天津市外贸进出口总值达4059亿元，同比增长2.4%。其中，出口2266亿元，同比增长9.2%。进出口值、出口值均创下历史同期新高。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "天津上半年进出口4059亿元，创历史新高。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体、逻辑清晰，有明确时间地点和官员讲话。"
+      "credibilityReason": "来源36氪转载天津日报，数据具体且有官方出处。"
+    },
+    {
+      "title": "三星推出 Freestyle+ 便携式投影仪：支持 360 度环绕音效、最大可投射 100 寸 FHD 画面",
+      "link": "https://www.ithome.com/0/978/640.htm",
+      "pubDate": "Sun, 19 Jul 2026 02:29:00 GMT",
+      "contentSnippet": "IT之家 7 月 19 日消息，三星前天在美国市场推出 Freestyle+ 便携式投影仪，新品最大可投射 100 英寸的 Full HD（1080P）画面，支持流媒体服务、云游戏和无线投屏，还能通过 USB-C 移动电源供电，适合露营等场景。\n\nIT之家在此援引官方新闻稿，这款投影仪拥有 3D 自动梯形矫正、墙面校准和画面适配等 AI 优化技术，可帮助投影仪在不平整墙面下投射出正确画面。\n规格方面，这款投影仪的最高亮度可达 430 ISO 流明，支持 PurColor 色彩技术和 HDR10+。内置 360 度扬声器，配备双无源低音单元。用户还可通过 Q-Symphony 连接兼容的 Wi-",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "三星发布Freestyle+便携投影仪，支持100寸FHD画面和360度音效。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体IT之家，引用官方新闻稿，规格细节具体，逻辑清晰。"
+    },
+    {
+      "title": "OPPO 陈希透露 ColorOS 17 没有透明化卡片设计，称可读性有挺大影响",
+      "link": "https://www.ithome.com/0/978/638.htm",
+      "pubDate": "Sun, 19 Jul 2026 02:26:47 GMT",
+      "contentSnippet": "IT之家 7 月 19 日消息，OPPO ColorOS 设计总监陈希昨日在微博分享了 ColorOS 系统的小布建议功能，称到医院后可以自动识别医院，主动推出相关服务，用医保码非常方便。\n\n有网友希望小布建议卡片设计可以更美观，并期待 ColorOS 17 在透明底上显示这些信息的小布建议卡片。对此，陈希回应称：\n\n别期待了，没有。整体上我们并不倾向透明化的卡片设计，对卡片的可读性有挺大影响，甚至功能也要因此受到约束。未来只会考虑在极少极少的非阅读性卡片上尝试，但目前也没有任何规划以及计划。\n\n\n据IT之家此前报道，OPPO 官方已公布 ColorOS 七月体验升级内容和适配机型。该更新于",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "OPPO ColorOS 17 将不采用透明化卡片设计，强调可读性优先。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体IT之家，引用官方设计总监原话，内容具体且逻辑清晰。"
+    },
+    {
+      "title": "央视曝儿童听力下降呈现低龄化趋势，“耳机依赖”正成为无声杀手",
+      "link": "https://www.ithome.com/0/978/637.htm",
+      "pubDate": "Sun, 19 Jul 2026 02:18:33 GMT",
+      "contentSnippet": "IT之家 7 月 19 日消息，据央视网报道，儿童听力下降正呈现低龄化趋势。\n\n报道提到，暑假期间，不少孩子捧着平板电脑、手机玩游戏，为了避免打扰别人，家长往往默许孩子戴上耳机。但这看似安静的背后，却隐藏着听力损伤的危机。事实上，儿童听力近年来下降呈低龄化趋势，“耳机依赖”正在成为无声的杀手。\n\n专家介绍称，造成儿童听力损伤的常见原因包括：噪音性损伤（长期戴耳机听大音量声音，会导致内耳“毛细胞”受损）、药物性损伤（使用了耳毒性抗生素等）。而儿童听力受损后的主要表现就是听不清别人说话，经常要求重复，部分孩子还有耳鸣症状。\nIT之家提醒：预防听力损伤必须从日常习惯抓起，使用耳机时严格遵守“60-6",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "央视报道儿童听力下降低龄化，耳机依赖成主因。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源权威（央视网），内容具体有专家解释和预防建议，逻辑清晰。"
+    },
+    {
+      "title": "导演诺兰称拍完《奥德赛》后至少休息三年，坦言已达体力极限",
+      "link": "https://www.ithome.com/0/978/636.htm",
+      "pubDate": "Sun, 19 Jul 2026 02:16:33 GMT",
+      "contentSnippet": "IT之家 7 月 19 日消息，据《综艺》昨天报道，知名导演克里斯托弗 · 诺兰表示，在完成新片《奥德赛》后，自己至少要休息三年。\n\n诺兰表示，他拍完《奥德赛》后至少要等三年，才会制作下一部电影。他对此解释称：“我确实已经到了自己体力的极限，我想整个剧组的人也是这样。不过毕竟这是《奥德赛》，它本身就非常难拍。如果我们拍摄过程中觉得不难，那说明我们没有把这部电影拍对。”\nIT之家了解到，IMAX 摄影机是诺兰的心头好，而《奥德赛》也毫不意外地全程使用 IMAX 摄影机拍摄。诺兰回忆称，他曾在正式开机前与 IMAX 团队沟通：“如果我们真的要实现 IMAX 摄影机拍摄整部电影的梦想，那就应该是这一",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "诺兰称拍完《奥德赛》后至少休息三年，已达体力极限。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，内容具体有直接引用，但缺乏原始出处链接。"
+    },
+    {
+      "title": "千分一创业板IPO终止审核",
+      "link": "https://36kr.com/newsflashes/3901850165151624?f=rss",
+      "pubDate": "2026-07-19 10:15:10  +0800",
+      "contentSnippet": "7月18日，据深交所网站披露，因深圳市千分一智能技术股份有限公司、保荐人撤回发行上市申请，深交所决定终止其首次公开发行股票并在创业板上市的审核。（界面）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "千分一智能创业板IPO因撤回申请终止审核。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪为知名科技媒体，信息具体有深交所披露出处，逻辑清晰。"
+    },
+    {
+      "title": "微软 Xbox 主机独占策略不局限于单机游戏，也可包含多人游戏",
+      "link": "https://www.ithome.com/0/978/635.htm",
+      "pubDate": "Sun, 19 Jul 2026 02:11:25 GMT",
+      "contentSnippet": "IT之家 7 月 19 日消息，微软 Xbox 的全新独占战略将不仅限于单机游戏，这也让外界开始猜测，未来 Xbox 游戏阵容中的哪些作品会成为独占内容。\n\nIT之家注意到，微软此前已经明确表示，未来将重新重视独占内容，并计划每年至少推出一款面向 Xbox 主机和 PC 的独占游戏。这些作品不会局限于某一种类型，也不会全部都是单机游戏。\n例如，作为这一战略下首款重要主机独占作品的《战争机器：E-Day（Gears of War: E-Day）》，除了单人剧情外，还将提供支持 6 人联机的多人模式。\nXbox 首席内容官 Matt Booty 日前在接受 GamesRadar 采访时再次强调，公",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微软Xbox独占策略扩展至多人游戏，首款作品《战争机器：E-Day》含联机模式。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有高管采访和游戏细节，逻辑清晰。"
+    },
+    {
+      "title": "我国具身智能正加速迈向产业应用阶段",
+      "link": "https://36kr.com/newsflashes/3901848349165441?f=rss",
+      "pubDate": "2026-07-19 10:10:18  +0800",
+      "contentSnippet": "2026世界人工智能大会上，各类人工智能终端令人目不暇接，但记者注意到，行业关注的焦点已经从人工智能技术的展示转向相关技术如何更好地应用在生产和生活中。专家指出，数据规模、评测标准、网联协同——这些“幕后”工作决定着AI能否从展台真正走进工厂和家庭。（央视新闻）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "具身智能从技术展示转向产业应用，数据与标准是关键。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪为知名科技媒体，内容引用央视新闻，信息具体且逻辑清晰。"
     }
   ]
 }
