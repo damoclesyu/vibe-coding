@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-07-20T03:33:20.162Z",
+  "generatedAt": "2026-07-21T02:59:45.967Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "工信部：正在加紧制定培育全国一体化技术市场相关文件，破除交易壁垒和制度障碍",
-      "link": "https://36kr.com/newsflashes/3903409120987008?f=rss",
-      "pubDate": "2026-07-20 11:13:05  +0800",
-      "contentSnippet": "7月20日，国务院新闻办公室举行新闻发布会，介绍2026年上半年工业和信息化发展情况。工业和信息化部总工程师王卫明表示，今年以来，工信部聚焦畅通成果产业化渠道和科技型企业孵化链条，以培育壮大科技服务业为抓手，重点开展了三个方面的工作。一是做强孵化率，建立了从研发到中试再到孵化的全链条服务能力；二是建好交易市场，不少优质成果本身技术过硬，但是受到地区和渠道的限制，难以对接全国市场，酒香也怕巷子深。目前我们正在加紧制定培育全国一体化技术市场的政策文件，着力破除技术交易过程当中的区域壁垒和制度障碍，建设国家统一技术交易服务平台，促进技术要素在全国范围内自由流动；三是畅通供需成果转化。“不能拿着锤子找",
+      "title": "丰田汽车社长：将推进零部件精简以提升盈利能力",
+      "link": "https://36kr.com/newsflashes/3904782891976582?f=rss",
+      "pubDate": "2026-07-21 10:48:03  +0800",
+      "contentSnippet": "据报道，今年4月就任丰田汽车社长的近健太日前表示，将推进精简零部件种类以提升盈利能力，称结合费用的使用方式“有很大改善空间”。关于盈亏分界线的“盈亏平衡产量”，近健太称“目前这一数值偏高，希望能够适当下调”。近健太还表示，希望保持国内的生产水平，强调“日本的制造业和供应链非常重要”。他说明称，为维持供应链，“将继续与供应商合作，一道完善图纸、质量并降低成本”。（界面）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -16,203 +16,34 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "工信部正制定政策文件，推动全国一体化技术市场建设。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为36氪，引用国务院新闻发布会内容，信息具体且权威。"
-    },
-    {
-      "title": "工业和信息化部：今年上半年我国医药工业创新能力显著增强",
-      "link": "https://36kr.com/newsflashes/3903407897167748?f=rss",
-      "pubDate": "2026-07-20 11:11:50  +0800",
-      "contentSnippet": "今天（20日）上午十点，国务院新闻办公室举办新闻发布会，工业和信息化部相关负责人介绍今年上半年工业和信息化发展情况。运行监测协调局局长陶青介绍，今年上半年我国医药工业创新能力显著增强，在首创新药、高端医疗器械等方面取得丰硕成果。今年上半年，38款创新药获批上市，其中国产创新药31款，占比超过80%。我国创新药高质量成果不断涌现，一批“全球首个”创新成果集中获批上市。创新药对外技术授权再创新高，今年上半年交易总额超过1000亿美元，充分展现我国医药产业创新质量实现系统性跃升。（央视新闻）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "工信部称上半年我国医药工业创新能力显著增强，38款创新药获批。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为权威媒体36氪，信息源自国务院新闻发布会，有具体数据支撑。"
-    },
-    {
-      "title": "工信部：将加快出台人工智能+软件行动方案",
-      "link": "https://36kr.com/newsflashes/3903399623542657?f=rss",
-      "pubDate": "2026-07-20 11:03:25  +0800",
-      "contentSnippet": "7月20日，国务院新闻办公室举行新闻发布会，介绍2026年上半年工业和信息化发展情况。工业和信息化部新闻发言人、运行监测协调局局长陶青表示，软件是新一代信息技术的灵魂，是数字经济发展的重要基础，是制造强国、网络强国、数字中国建设的关键支撑。下一步我们将按照国家软件发展战略部署，持续增强关键软件产品和服务供给能力，加快出台人工智能+软件行动方案，推动软件开发智能化转型，软件产品及服务智能化升级和智能体软件新业态的培育，持续提升开源基础设施在项目孵化、供应链安全治理、新兴场景探索、海外市场落地等方面的能力，加快推动国家级人工智能开源社区成长为新兴技术的创新策源地和软硬件产品落地的重要场景。（证券时",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "工信部将加快出台人工智能+软件行动方案，推动软件智能化转型。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体引用官方发布会信息，逻辑清晰。"
-    },
-    {
-      "title": "工信部：将加快光子、时空信息等新兴增长点培育，加速算电一体化布局落地",
-      "link": "https://36kr.com/newsflashes/3903396870211207?f=rss",
-      "pubDate": "2026-07-20 11:00:37  +0800",
-      "contentSnippet": "工业和信息化部新闻发言人、运行监测协调局局长陶青在国新办新闻发布会上表示，下一步，我们将深入推进数字中国建设和智能经济发展，着力加强三方面工作。一是强化政策规划引领，加快《电子信息制造业发展“十五五”规划》《新型电池产业发展“十五五”规划》宣贯落实，夯实“十五五”时期产业高质量发展制度保障。二是深化应用示范带动，开展2026年先进计算、视听电子、智能体育等典型案例征集活动，加速成熟产品和解决方案规模化推广。三是前瞻布局新兴赛道，加快光子、时空信息等新兴增长点培育，加速算电一体化布局落地，不断塑造产业发展新动能新优势，推动电子信息制造业高质量发展。（证券时报）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "工信部将培育光子、时空信息等新兴增长点，加速算电一体化布局。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体且有官方发布会出处，逻辑清晰。"
-    },
-    {
-      "title": "国产大飞机 C919 累计交付 41 架，安全飞行时长突破 13 万小时",
-      "link": "https://www.ithome.com/0/978/906.htm",
-      "pubDate": "Mon, 20 Jul 2026 02:48:47 GMT",
-      "contentSnippet": "IT之家 7 月 20 日消息，国务院新闻办公室于 2026 年 7 月 20 日（星期一）上午 10 时举行新闻发布会，请工业和信息化部总工程师王卫明，工业和信息化部新闻发言人、运行监测协调局局长陶青，工业和信息化部新闻发言人、信息通信管理局局长谢存介绍 2026 年上半年工业和信息化发展情况，并答记者问。\nIT之家从国新办官网获悉，工业和信息化部总工程师王卫明介绍，2026 年上半年以来，我国装备工业运行整体呈现“根基稳、亮点多、外需旺”的特点。\n一是“压舱石”作用持续凸显，智能装备提速扩能。上半年，装备工业增加值同比增长 6.4%，占规模以上工业比重为 20%，对规模以上工业增加值增长的",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国产C919累计交付41架，安全飞行超13万小时。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，引用国新办发布会数据，信息具体且权威。"
-    },
-    {
-      "title": "工信部：将印发算力标准体系建设指南，推动建立算力市场化定价等标准",
-      "link": "https://36kr.com/newsflashes/3903384861771649?f=rss",
-      "pubDate": "2026-07-20 10:48:24  +0800",
-      "contentSnippet": "7月20日，国务院新闻办公室举行新闻发布会，介绍2026年上半年工业和信息化发展情况。工业和信息化部新闻发言人、信息通信发展司司长谢存表示，近两年围绕国家算力枢纽节点建设超70条算力大通道，相关算力枢纽节点间网络性能提升10%。当前人工智能大模型和智能体应用的爆发式增长，使得智能算力需求不断提升。下一步工信部将持续按照点、链、网、面、体系化工作思路，优化算力基础设施资源部署，打造算力互联互通节点，提升算力资源利用效率。在点上发力方面，将优化算力资源供给部署，统筹产业发展和能源供给等因素，推动智算集群建设和算电协同发展，打造梯次化算力布局，加强算力统筹监测。此外，将印发算力标准体系建设指南，推动",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "工信部将发布算力标准体系，推动市场化定价。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容引用官方发布会，信息具体有数据支撑。"
-    },
-    {
-      "title": "工信部：持续实施新一轮机械、汽车等行业稳增长工作方案，全方位扩大优质供给和有效需求",
-      "link": "https://36kr.com/newsflashes/3903369632794241?f=rss",
-      "pubDate": "2026-07-20 10:32:55  +0800",
-      "contentSnippet": "7月20日，国务院新闻办公室举行新闻发布会，介绍2026年上半年工业和信息化发展情况。工业和信息化部总工程师王卫明表示，上半年，装备工业出口交货值同比增长18.2%, 对工业出口增长的贡献率达到了近50%。下一步，工信部将全力推动装备工业转型升级。一是推动行业实现平稳增长，紧扣“十五五”规划，落实各项统筹部署，做好智能网联新能源汽车“十五五”发展规划宣贯和落实，持续实施新一轮机械、汽车、电力装备等行业稳增长工作方案，全方位扩大优质供给和有效需求；二是加快关键核心技术攻关，统筹推进产业技术再造和重大技术装备攻关工程，持续提升重点产业链供应链韧性和安全水平；三是加快国产装备推广应用，深入实施工业母",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "工信部将实施机械汽车等行业稳增长方案，扩大优质供给与需求。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容引用官方发布会信息，数据具体且逻辑清晰。"
-    },
-    {
-      "title": "工信部：将印发实施工信领域行业、专题“十五五”规划",
-      "link": "https://36kr.com/newsflashes/3903361364231808?f=rss",
-      "pubDate": "2026-07-20 10:24:30  +0800",
-      "contentSnippet": "工业和信息化部总工程师王卫明在国新办新闻发布会上表示，当前外部环境复杂严峻，国内供强需弱、结构性矛盾仍然突出，但我国产业体系全、韧性强的优势明显，各项改革举措和支持政策持续发力，工业经济发展稳中向好的基本面没有改变。下一步，我们将聚焦高质量发展这一首要任务，更好统筹发展和安全，印发实施工信领域行业、专题“十五五”规划，加快构建以先进制造业为骨干的现代化产业体系，不断提升工业经济运行质效，保持工业和信息化经济平稳发展，实现“十五五”良好开局。（证券时报）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "工信部将印发实施工信领域行业、专题“十五五”规划。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为36氪转载证券时报，内容具体且引用官方发布会信息，可信度高。"
-    },
-    {
-      "title": "工信部：前5个月规模以上工业企业营业收入利润率5.66%，为2024年以来月度累计最高水平",
-      "link": "https://36kr.com/newsflashes/3903353678546823?f=rss",
-      "pubDate": "2026-07-20 10:16:41  +0800",
-      "contentSnippet": "7月20日，国务院新闻办公室举行新闻发布会，介绍2026年上半年工业和信息化发展情况。工业和信息化部总工程师王卫明表示，上半年工业生产稳定增长，规模以上工业增加值同比增长5.4%，41个工业大类行业当中有32个保持增长，工业企业盈利能力持续改善。前5个月规模以上工业企业营业收入利润率5.66%， 为2024年以来月度累计最高水平。全球人工智能绿色低碳转型等需求旺盛。上半年以人民币计价的集成电路、电子元件、风力发电机组等产品，出口额同比分别增长88.7%，62.6%和35.6%。（证券时报）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "工信部称前5月工业企业利润率5.66%，为2024年来最高。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为36氪，引用工信部发布会数据，信息具体且逻辑清晰。"
-    },
-    {
-      "title": "工信部：上半年规模以上制造业企业AI技术应用普及率超过30%",
-      "link": "https://36kr.com/newsflashes/3903346632787840?f=rss",
-      "pubDate": "2026-07-20 10:09:31  +0800",
-      "contentSnippet": "7月20日，国务院新闻办公室举行新闻发布会，介绍2026年上半年工业和信息化发展情况。工业和信息化部总工程师王卫明表示，上半年，工业和信息化领域创新能力不断增强，深化拓展人工智能+，规模以上制造业企业人工智能技术应用普及率超过30%，人工智能开源大模型全球累计下载量突破100亿次。（证券时报）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "工信部称上半年制造业AI普及率超30%，开源大模型下载量破百亿。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，引用官方发布会信息，数据具体且逻辑清晰。"
-    },
-    {
-      "title": "鸿海首度夺下 SpaceX AI 服务器代工订单，总价高达 520 亿美元",
-      "link": "https://www.ithome.com/0/978/843.htm",
-      "pubDate": "Mon, 20 Jul 2026 01:34:49 GMT",
-      "contentSnippet": "IT之家 7 月 20 日消息，据中国台湾地区媒体《经济日报》今天报道，鸿海首度夺下 SpaceX AI 服务器代工订单。\n\n据悉，SpaceX CEO 埃隆 · 马斯克计划新建超 1.3 万个机柜的英伟达 GB300 服务器，以单机柜 400 万美元（IT之家注：现汇率约合 2712.4 万元人民币）估算，其价值高达 520 亿美元（现汇率约合 3526.07 亿元人民币）。\n截至 2026 年 5 月，SpaceX 的 Colossus 1 数据中心已部署超 22 万颗英伟达 GPU，包括 H100、H200 以及约 3 万颗 GB200 AI 加速器。\n而 Colossus 2 数据中心",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "鸿海获SpaceX AI服务器代工订单，总价520亿美元。",
-      "credibilityScore": 70,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家，引用经济日报，信息具体但缺乏官方确认。"
-    },
-    {
-      "title": "华为靳玉志：“境”和“界”并不冲突、是互补的关系，鸿蒙智行打造 30 万以上汽车的样板点",
-      "link": "https://www.ithome.com/0/978/801.htm",
-      "pubDate": "Sun, 19 Jul 2026 14:03:55 GMT",
-      "contentSnippet": "IT之家 7 月 19 日消息，据 36 氪汽车今日报道，华为公司高级副总裁、引望公司 CEO 靳玉志近日接受采访时再次强调，引望始终坚持“电子螺丝钉”的战略定位，不和整车造车产生冲突，帮助车企造好车、卖好车，使华为乾崑真正成为汽车行业智能化的公共平台。\n靳玉志表示：\n\n“境”和“界”是互补的关系。（IT之家注：“界”指鸿蒙智行中的问界、享界、智界、尊界、尚界，“境”目前有启境、奕境等）网上有人认为二者冲突，实际上是不冲突的，在华为内部很早就达成了共识。\n两年前，当时面临供应链和受制裁的压力，余总在中国电动汽车百人会论坛上发言时谈到：“我们的方案成本还有点偏高，30 万以下的车用我们这块，还是",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "华为高管称鸿蒙智行与引望合作互补，打造30万以上汽车样板。",
+      "aiSummary": "丰田新社长近健太计划精简零部件以提升盈利能力。",
       "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用36氪报道，内容具体有高管原话，但缺少数据支撑。"
+      "credibilityReason": "来源36氪为知名科技媒体，内容具体且有原始出处（界面），逻辑清晰。"
     },
     {
-      "title": "网信办将整治毒动画：利用 AI 技术恶搞经典动画形象，刻意放大暴力恐怖元素",
-      "link": "https://www.ithome.com/0/978/922.htm",
-      "pubDate": "Mon, 20 Jul 2026 03:27:11 GMT",
-      "contentSnippet": "IT之家 7 月 20 日消息，为进一步加强未成年人网络保护，营造风清气正的网络空间，近日，中央网信办印发通知，在全国范围内部署启动为期 4 个月的“清朗 · 未成年人网络保护”专项行动。\n中央网信办有关负责同志表示，本次专项行动分两个阶段开展。第一阶段为“清朗 ·2026 年暑期未成年人网络环境整治”专项行动，抓住暑期这一关键时间节点，聚焦信息内容生产传播全流程、全链条，集中力量整治网上涉未成年人乱象问题，防范化解各环节潜在风险隐患，为未成年人欢度假期营造健康安全的网络环境。第二阶段为“清朗 · 整治侵扰未成年人身心健康的网络信息”专项行动，从严从细排查可能影响未成年人身心健康的各类乱象问题",
+      "title": "小米上调手机出货目标至1.1亿部，增幅约16%",
+      "link": "https://36kr.com/newsflashes/3904739635906178?f=rss",
+      "pubDate": "2026-07-21 09:46:33  +0800",
+      "contentSnippet": "从供应链获悉，小米已将2026年全年智能手机出货目标从约9000万部上调至1.1亿部，增幅约16%，上调的增量部分主要来自低端机型。一位接近小米的人士告诉界面新闻，此次上调出货目标是小米内部认为当前的存储行情有望迎来反转。受上游存储芯片的短期与成本持续上涨，小米在今年曾两次下调其出货目标。 （界面）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪",
+        "IT之家"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "小米上调2026年手机出货目标至1.1亿部，增幅16%，主因存储行情反转。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体36氪和IT之家，信息具体有供应链和内部人士引用，逻辑清晰。（多源覆盖 +5）"
+    },
+    {
+      "title": "导演陆川称 AI 生成像预制菜，自己正利用 AI 同时推进五部电影筹备",
+      "link": "https://www.ithome.com/0/979/311.htm",
+      "pubDate": "Tue, 21 Jul 2026 01:18:17 GMT",
+      "contentSnippet": "IT之家 7 月 21 日消息，据新浪财经报道，美国当地时间 7 月 20 日，新浪财经联合美国中国总商会举办的“超越赛场 —— 中美商业、人工智能与全球协作”私享会在纽约举行。导演、编剧、制片人陆川表示，AI 让他更珍惜现在的工作机会，还能够用传统方式做电影这样一个窗口的时间。\n他表示，AI 生成的影像更像是一种预制菜。由于大部分模型是基于已知数据训练的，其产出的画面非常精准、漂亮，能够有效弥补新手与 20 年老手之间的技术代差。\n然而，他认为做电影最美妙的部分实际上是“错误”。人类在现场的失控、演员最棒的表演往往来源于失控，这些无法复制的瑕疵才是艺术创作最迷人的地方，而 AI 恰恰可能会抹",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -220,33 +51,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "网信办启动专项行动，整治利用AI恶搞经典动画的毒动画。",
-      "credibilityScore": 85,
+      "aiSummary": "陆川称AI生成像预制菜，正用AI推进五部电影筹备。",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有政策细节，逻辑清晰。"
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有原始出处，但观点主观性强。"
     },
     {
-      "title": "百度昆仑芯 M100 实物首次展出：面向大模型推理进行针对性优化，延续自研 XPU 理念",
-      "link": "https://www.ithome.com/0/978/920.htm",
-      "pubDate": "Mon, 20 Jul 2026 03:21:18 GMT",
-      "contentSnippet": "IT之家 7 月 20 日消息，2026 世界人工智能大会正在举行中，央视新闻前天刊播《智汇上海共赴 AI 新未来》，百度昆仑芯科技自主研发新品 M100 芯片实物首次在央视报道中公开亮相。\n\n据介绍，M100 芯片是昆仑芯科技今年推出的第四代 AI 芯片产品，延续自研 XPU 架构理念，面向大模型推理时代需求进行了针对性优化，主打通用、高效和经济产品力，为 AI 计算提供全新选择。\n同时，昆仑芯还在 WAIC 2026 展示了芯片、加速卡、整机和超节点等产品矩阵。其中 32/64 卡超节点产品及 256 卡超节点集群被列为重点展示对象，是国内率先实现量产交付的超节点产品之一。\n\n据IT之家此",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "百度昆仑芯M100芯片实物首次展出，面向大模型推理优化。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，信息具体有产品细节和展会背景，但缺少技术参数和原始出处链接。"
-    },
-    {
-      "title": "工信部：1—5月造船新接订单量占全球总量的81.2%，稳居全球市场份额首位",
-      "link": "https://36kr.com/newsflashes/3903415769417349?f=rss",
-      "pubDate": "2026-07-20 11:19:51  +0800",
-      "contentSnippet": "工业和信息化部总工程师王卫明在国新办新闻发布会上介绍，船舶海工装备领域，1—5月，我国造船新接订单量占全球总量的81.2%，稳居全球市场份额首位。（证券时报）",
+      "title": "加拿大总理回应美加征关税：单边贸易行动的最新举措",
+      "link": "https://36kr.com/newsflashes/3904696511497864?f=rss",
+      "pubDate": "2026-07-21 09:10:41  +0800",
+      "contentSnippet": "】财联社7月21日电，加拿大总理马克·卡尼当地时间7月20日就美政府宣布对多种加拿大商品加征50%关税一事发表声明。卡尼表示，这是美国一系列单边贸易行动中的最新举措，违反了“美国—墨西哥—加拿大协定”（美墨加协定）。加拿大团结一致应对这些“对加拿大主权的威胁”，并正在采取行动保护其经济和公民。卡尼说，过去18个月来，美国一直在改变其各类贸易关系，包括美墨加协定涵盖的贸易关系，因此，加拿大提出了一系列详细而全面的建议，以解决当前争端并使美墨加协定现代化。他表示，“我们随时准备在未来几周内加强相关磋商。” （央视新闻）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -254,10 +68,197 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "我国1-5月造船新接订单量占全球81.2%，居首。",
+      "aiSummary": "加拿大总理回应美国加征关税，称其违反美墨加协定。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为工信部官方数据，经证券时报和36氪转载，信息具体且权威。"
+      "credibilityReason": "来源36氪转载央视新闻，内容具体有直接引用，信息可信度高。"
+    },
+    {
+      "title": "索尼漫威电影《蜘蛛侠：崭新之日》中国独家预告公布，7 月 29 日内地上映",
+      "link": "https://www.ithome.com/0/979/393.htm",
+      "pubDate": "Tue, 21 Jul 2026 02:57:18 GMT",
+      "contentSnippet": "IT之家 7 月 21 日消息，索尼 & 漫威合作的超级英雄电影《蜘蛛侠：崭新之日》将于 7 月 29 日（下周三）在中国内地率先上映，官方今日公布了一段接近一分钟的中国独家预告视频及海报。\n\n《蜘蛛侠：崭新之日》片长 145 分钟，该影片将由德斯汀・克里顿执导，成家班担任动作导演，人气角色“罚叔”首发亮相，同时蝎子、狼蛛、手合会等反派角色也将出现在电影中。\n其主演阵容包括汤姆・霍兰德（彼得・帕克），赞达亚（米歇尔・琼斯-沃森）、雅各布・贝塔隆（内德・利兹）、萨迪・辛克、莉莎・科伦-扎亚斯。\n\nIT之家附官方介绍：\n\n蜘蛛侠遭遇能力变异，宿敌蝎子乘虚而入，绿巨人狂暴失控，神秘劲敌侵扰心智……",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "《蜘蛛侠：崭新之日》7月29日内地上映，发布中国独家预告。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体但缺乏原始出处和细节验证。"
+    },
+    {
+      "title": "乐视在成都成立新影视文化公司",
+      "link": "https://36kr.com/newsflashes/3904806279218824?f=rss",
+      "pubDate": "2026-07-21 10:54:21  +0800",
+      "contentSnippet": "36氪获悉，天眼查App显示，近日，花似火（四川）影视文化有限公司成立，法定代表人为孟宇，注册资本300万人民币，经营范围包括电影摄制服务、文艺创作、广播电视节目制作经营、电视剧制作等。股东信息显示，该公司由东阳花儿影视文化有限公司全资持股，后者由乐视网信息技术（北京）股份有限公司全资持股。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "乐视通过全资子公司成立新影视文化公司，注册资本300万。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪为知名科技媒体，信息基于天眼查工商数据，内容具体但缺乏深度分析。"
+    },
+    {
+      "title": "从4.09跌至2.6，当医保“职退比”再创新低",
+      "link": "https://www.tmtpost.com/8073222.html",
+      "pubDate": "Tue, 21 Jul 2026 10:53:00 +0800",
+      "contentSnippet": "对于“真创新”来说，机遇一定是大于挑战。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "医保职退比创新低，真创新机遇大于挑战。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体，内容有数据支撑，但缺少原始出处和细节。"
+    },
+    {
+      "title": "消息称苹果打样 7 英寸超大屏，有概率用于 iPhone 20 Pro Max",
+      "link": "https://www.ithome.com/0/979/386.htm",
+      "pubDate": "Tue, 21 Jul 2026 02:51:53 GMT",
+      "contentSnippet": "IT之家 7 月 21 日消息，博主 @数码闲聊站 今日爆料，苹果正在打样一块超大屏，物理尺寸 6.96 英寸 ±，标准尺寸是 7 英寸 ±，有概率运用于 iPhone 20 Pro Max？有待进一步确定。\n博主还称，新屏幕的比例和现在的 6.9 英寸差不多，适人握持。\n\n作为参考，最新的 iPhone 17 Pro Max 屏幕尺寸为 6.9 英寸，搭载超视网膜 XDR 显示屏，支持 ProMotion 自适应刷新率技术、全天候显示。\n\nIT之家综合此前爆料，今年苹果预计将推 iPhone 18 系列手机，而明年的“20 周年版 iPhone”有概率跳过 iPhone 19 系列，直接推出",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "苹果或为iPhone 20 Pro Max打样7英寸超大屏，博主爆料待确认。",
+      "credibilityScore": 45,
+      "credibilityLevel": "low",
+      "credibilityReason": "来源为博主爆料，缺乏官方证实和具体技术细节，可信度较低。"
+    },
+    {
+      "title": "佳明无屏幕智能手环 CIRQA 渲染图曝光",
+      "link": "https://www.ithome.com/0/979/385.htm",
+      "pubDate": "Tue, 21 Jul 2026 02:51:23 GMT",
+      "contentSnippet": "IT之家 7 月 21 日消息，科技媒体 Android Authority 昨日（7 月 20 日）发布博文，报道称佳明（Garmin）智能手环 CIRQA 售价可能为 199.99 美元（IT之家注：现汇率约合 1356 元人民币）。\n\n\n\n\n\n\n以上图源：佳明官网\n定位方面，佳明（Garmin）CIRQA 是一款无屏幕健康监测智能手环，被视为佳明对标 Whoop 的产品。它是一款“被动记录者”，专为全天候无干扰佩戴而设计，旨在通过深度健康追踪来优化用户的压力恢复、日常警觉度和整体表现。\n在零件方面，报道称佳明 CIRQA 智能手环零件编号 010-04675-00，会有黑色和灰色两种颜色",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "佳明无屏幕手环CIRQA渲染图曝光，售价199.99美元，对标Whoop。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有售价和零件编号，但缺少原始出处链接。"
+    },
+    {
+      "title": "Kimi K3发布后，最慌的不是英伟达",
+      "link": "https://www.tmtpost.com/8073206.html",
+      "pubDate": "Tue, 21 Jul 2026 10:49:18 +0800",
+      "contentSnippet": "中国大模型开始争夺定价权。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国大模型Kimi K3发布，引发行业定价权争夺。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体钛媒体，内容具体但缺少技术细节和原始数据支撑。"
+    },
+    {
+      "title": "净利润同比暴增1377%，A股“猴茅”昭衍新药大爆发了？",
+      "link": "https://www.tmtpost.com/8073115.html",
+      "pubDate": "Tue, 21 Jul 2026 10:49:11 +0800",
+      "contentSnippet": "猴子凭什么卖这么贵？",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "昭衍新药净利润暴增1377%，分析猴子价格昂贵原因。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体，内容具体有数据支撑，但标题略夸张。"
+    },
+    {
+      "title": "90后清华天才，干崩了美股",
+      "link": "https://www.tmtpost.com/8073198.html",
+      "pubDate": "Tue, 21 Jul 2026 10:49:02 +0800",
+      "contentSnippet": "月之暗面发布Kimi K3，综合能力全球第三，引发美股AI板块72小时蒸发4700亿美元。此前Kimi曾因月活暴跌陷入低谷，后放弃投流竞赛，转向技术驱动，快速迭代模型。K3的成功证明硬实力才是大模型竞赛关键，公司估值已涨至315亿美元。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "清华天才团队Kimi K3模型发布，引发美股AI板块暴跌4700亿美元。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源知名科技媒体，内容具体有数据支撑，但标题略有夸张倾向。"
+    },
+    {
+      "title": "智己汽车声明：个别经销商因民间借贷导致资金链断裂，造成部分车辆无法正常交付",
+      "link": "https://www.ithome.com/0/979/381.htm",
+      "pubDate": "Tue, 21 Jul 2026 02:47:56 GMT",
+      "contentSnippet": "IT之家 7 月 21 日消息，今天（21 日）上午，智己汽车发布关于近期网络不实传言的声明称，近期，关于智己汽车个别经销商的异常情况引发广泛关注，公司就此事阐明现状。\n2026 年 7 月 7 日，云南昆明智合悦行汽车销售服务有限公司（IT之家注：智己昆明两家经销商之一），因民间借贷导致资金链断裂，造成部分用户无法从金融机构取得车辆合格证上牌、车辆无法正常交付。同时，也影响到了该经销商的关联主体 —— 珠海智合悦行汽车销售服务有限公司在珠海地区的车辆交付。\n事件发生当日，智己汽车第一时间成立专项工作组，并于第二天进驻现场，积极配合政府并协调相关方为用户提供后续服务。\n截至 7 月 17 日，",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "智己汽车声明个别经销商因民间借贷资金链断裂，影响车辆交付。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体IT之家，内容具体有日期和公司声明细节，逻辑清晰。"
+    },
+    {
+      "title": "交通运输部：“十五五”交通物流降成本持续发力，社会物流总费用与GDP比率已降至13.9%",
+      "link": "https://36kr.com/newsflashes/3904797457581700?f=rss",
+      "pubDate": "2026-07-21 10:45:22  +0800",
+      "contentSnippet": "7月21日，交通运输部安全总监兼运输服务司司长蔡团结在国新办发布会上表示，2025年交通运输领域带动降低物流成本，有力推动了社会物流总费用与GDP的比率降至了13.9%。“十五五”时期将加快推进物流网的建设，推动完善骨干物流通道建设，深化重要枢纽节点的互联互通，补充城乡物流设施短板，加强国际物流设施布局的建设。（证券时报）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "交通运输部称“十五五”将推进物流降成本，社会物流总费用与GDP比率降至13.9%。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为36氪转载证券时报，信息具体有数据支撑，内容客观中立。"
+    },
+    {
+      "title": "LG Display 首席技术官：Tandem OLED 显示面板将扩展到所有产品类别",
+      "link": "https://www.ithome.com/0/979/378.htm",
+      "pubDate": "Tue, 21 Jul 2026 02:44:24 GMT",
+      "contentSnippet": "IT之家 7 月 21 日消息，据韩媒 ZDNET Korea 报道，LG Display 首席技术官崔荣锡（최영석）当地时间今日在韩国首尔 Display Business Forum 2026 论坛上表示，Tandem OLED 显示面板将扩展到所有产品类别。\nLG Display 此前已有供应面向电视、车辆、IT 设备的 Tandem OLED，此番表态意味着其多层串联式 OLED 显示技术也将来到智能手机等移动终端设备。\n\n崔荣锡提到：“显示产业正在 AI 时代迎来新的转折点”，“由于设备端 AI、环境 AI 等技术对能效要求极高，Tandem  OLED 正作为下一代显示市场的核心支",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "LG Display CTO称Tandem OLED将扩展至所有产品类别。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家转引韩媒，信息具体且有论坛出处，但缺乏原始数据支撑。"
     }
   ]
 }
