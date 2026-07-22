@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-07-21T02:58:27.317Z",
+  "generatedAt": "2026-07-22T02:55:58.001Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "中东局势存在意外升级风险 美国发布“全球安全警示”",
-      "link": "https://www.chinanews.com.cn/gj/2026/07-21/10663389.shtml",
-      "pubDate": "Tue, 21 Jul 2026 10:29:31 +0800",
-      "contentSnippet": "中新网7月21日电 当地时间7月20日，美国国务院发布“全球安全警示”，建议世界各地的美国公民提高警惕。美国国务院称，中东紧张局势加剧，安全环境复杂，存在局势意外升级的风险。",
+      "title": "国台办回应陆配参选资格争议",
+      "link": "https://www.chinanews.com.cn/gn/2026/07-22/10664115.shtml",
+      "pubDate": "Wed, 22 Jul 2026 10:47:06 +0800",
+      "contentSnippet": "中新网7月22日电 7月22日，国务院台办举行例行新闻发布会。有记者问：近日，台“中选会”对于“九合一”候选人资格称，若有原大陆地区人民申请登记为候选人，将查询是否有缴附丧失原籍证明注记，且是否已在台湾地区设籍满10年。有岛内舆论指出，这是变相限缩陆配在台参政权。请问对此有何评论？",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -16,16 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "美国国务院发布全球安全警示，提醒公民警惕中东局势意外升级风险。",
+      "aiSummary": "国台办回应陆配参选资格争议，批评台方变相限缩参政权。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，转载美国国务院官方声明，信息具体且客观。"
+      "credibilityReason": "来源为中国新闻网，官方媒体；内容具体，有直接引述记者提问和国台办评论。"
     },
     {
-      "title": "中国机构在联合国教科文组织办会 推动加强开放科学基础设施合作",
-      "link": "https://www.chinanews.com.cn/gn/2026/07-21/10663351.shtml",
-      "pubDate": "Tue, 21 Jul 2026 10:28:51 +0800",
-      "contentSnippet": "中新网北京7月21日电(记者 孙自法)中国科协7月20日晚向媒体发布信息说，“促进全球开放科学基础设施共享网络：面向科学十年的开放知识与数据”主题研讨会，近日在联合国教科文组织总部巴黎举行，并发布《知识共享与应用的巴黎行动建议》。",
+      "title": "国台办回应台当局限制张雪机车输入",
+      "link": "https://www.chinanews.com.cn/gn/2026/07-22/10664111.shtml",
+      "pubDate": "Wed, 22 Jul 2026 10:43:26 +0800",
+      "contentSnippet": "中新网7月22日电 7月22日，国务院台办举行例行新闻发布会。有记者问：对于“张雪机车”希望在台开店，台经济部门称，依现行海关进口税则规定，中国大陆制机车(整车)属“大陆物品不准输入”项目，依法不得输入台湾。请问对此有何评论？",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -33,170 +33,220 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国机构在联合国教科文组织举办研讨会，推动开放科学基础设施合作。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，信息具体，有直接引述，内容可查证。"
-    },
-    {
-      "title": "特朗普政府被曝考虑退出联合国难民署 多名外交官紧急游说挽留",
-      "link": "https://www.chinanews.com.cn/gj/2026/07-21/10663299.shtml",
-      "pubDate": "Tue, 21 Jul 2026 10:18:04 +0800",
-      "contentSnippet": "中新网7月21日电 据路透社当地时间20日援引知情人士消息，特朗普政府近几周内一直在考虑切断与联合国难民署的联系，此举引发多名外交官和联合国官员展开游说，力劝美方维持对该机构的支持。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "路透社称特朗普政府考虑退出联合国难民署，外交官紧急游说。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为路透社（一线通讯社），有知情人士消息，内容具体可查证。"
-    },
-    {
-      "title": "王卫明任工业和信息化部总工程师",
-      "link": "https://m.thepaper.cn/detail/33626168",
-      "pubDate": "Tue, 21 Jul 2026 01:45:10 GMT",
-      "contentSnippet": "近日，工业和信息化部官网“部领导”栏目更新信息显示，王卫明任工业和信息化部总工程师。\n2026年7月20日上午，国务院新闻办公室举行新闻发布会，介绍2026年上半年工业和信息化发展情况。王卫明已经以工业和信息化部总工程师身份出席活动。\n\n王卫明，汉族，1967年7月生，管理学硕士，中共党员，经济师。他曾任工业和信息化部装备工业一司司长。\n目前工信部共有两位总工程师，分别是钟志红和王卫明。",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "王卫明被任命为工业和信息化部总工程师，已出席发布会。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为澎湃新闻，信息具体（时间、职务、背景），可查证官网更新。"
-    },
-    {
-      "title": "伯纳姆邀请乌克兰总统泽连斯基访问英国",
-      "link": "https://www.zaobao.com/news/world/story20260721-9394695",
-      "pubDate": "Tue, 21 Jul 2026 01:38:20 GMT",
-      "contentSnippet": "英国新首相伯纳姆邀请乌克兰总统泽连斯基访问英国，重申对乌克兰的坚定承诺。 \n英国广播公司（BBC）报道，英国首相府星期一（7月20日）发布消息说，伯纳姆20日下午与泽连斯基通电话，重申了他本人以及英国对乌克兰人民的坚定承诺。\n另一名发言人说，伯纳姆已邀请泽连斯基“尽早安排”到英国访问。\n当晚，伯纳姆还与法国总统马克龙通电话，阐述他将如何继续“巩固英法之间的牢固关系”。两人还讨论了对乌克兰的支持、重新开放霍尔木兹海峡以及在能源与国防领域的合作。\n唐宁街10号此前说，伯纳姆在与美国总统特朗普通电话时说，他希望有机会向特朗普展示“曼彻斯特的魅力”。\n伯纳姆在正式出任英国首相前录制的视频中说，他上任后",
-      "sourceName": "联合早报·国际",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·国际"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "英国新首相伯纳姆邀请乌克兰总统泽连斯基访英，重申对乌支持。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报，引用BBC报道，信息具体且客观，可交叉验证。"
-    },
-    {
-      "title": "卡尼回应美加征关税：团结一致应对这些“对加拿大主权的威胁”",
-      "link": "https://m.thepaper.cn/detail/33625965",
-      "pubDate": "Tue, 21 Jul 2026 01:34:48 GMT",
-      "contentSnippet": "当地时间7月20日，加拿大总理马克·卡尼就美政府宣布对多种加拿大商品加征50%关税一事发表声明。\n卡尼表示，这是美国一系列单边贸易行动中的最新举措，违反了“美国—墨西哥—加拿大协定”（美墨加协定）。加拿大团结一致应对这些“对加拿大主权的威胁”，并正在采取行动保护其经济和公民。\n卡尼说，过去18个月来，美国一直在改变其各类贸易关系，包括美墨加协定涵盖的贸易关系，因此，加拿大提出了一系列详细而全面的建议，以解决当前争端并使美墨加协定现代化。他表示，“我们随时准备在未来几周内加强相关磋商。”\n据美国白宫20日发布消息，美国总统特朗普当天签署命令，对加拿大特定商品加征50%关税。这一措施将于30天后生",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "加拿大总理卡尼回应美国加征50%关税，称其违反美墨加协定，加拿大将团结应对。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源澎湃新闻较权威，内容具体包括时间、人物、直接引述，可交叉验证。"
-    },
-    {
-      "title": "日本首次通报中国驱逐舰在日专属经济区实弹演习",
-      "link": "https://www.zaobao.com/news/china/story20260721-9394739",
-      "pubDate": "Tue, 21 Jul 2026 01:25:45 GMT",
-      "contentSnippet": "日本国防部通报，一艘中国海军驱逐舰星期天（7月19日）清晨在日本冲之鸟岛（中国称冲之鸟礁）西南海域进行实弹演习，期间有俄罗斯海军舰艇伴随行动。这是日本首次通报中国军舰在专属经济区进行实弹演习。\n日本国防部统合幕僚监部星期二（7月21日）在官网发布声明称，海上自卫队于19日凌晨2时左右，在冲之鸟西南约330公里处，发现四艘中俄舰艇正向东北方向航行。\n这四艘舰艇包括：一艘中国055型（北约代号“刃海”级）导弹驱逐舰、一艘052D型（北约代号“旅洋III”级）导弹驱逐舰、一艘903型（北约代号“福池”级）综合补给舰，以及一艘俄罗斯“守护”级护卫舰。\n声明指出，日本国防部随后确认，这艘052D型导弹驱",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "日本首次通报中国驱逐舰在冲之鸟礁附近专属经济区实弹演习，俄舰伴随。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名媒体联合早报，引用日本国防部官方声明，信息具体可查证。"
-    },
-    {
-      "title": "福建检察院修整牡丹社事件将士墓群",
-      "link": "https://www.zaobao.com/news/china/story20260721-9394648",
-      "pubDate": "Tue, 21 Jul 2026 00:59:50 GMT",
-      "contentSnippet": "中国大陆福建省地方检察机关正推动对“福州戍守台湾将士墓群”的修缮与保护工作。该墓群安葬着在1874年日本出兵台湾的牡丹社事件中阵亡的清军将士。\n《检察日报》星期一（7月20日）报道，马尾区检察院近日在位于亭江镇闽安村虎头山的福州戍守台湾将士墓群，履行公益诉讼检察职责时发现，将士墓碑风化严重，部分碑文已无法辨识；墓群位置较隐蔽，缺少引导标识；墓群入口木桥腐朽，存在安全隐患；且周围缺少历史事件介绍。\n针对上述问题，该院制发检察建议，推动戍守台湾将士墓群的修缮与维护工作，以“推动135名戍台将士安息处重焕庄严”。\n文章介绍，福州戍守台湾将士墓群始建于1874年，这里安葬了在牡丹社事件期间，于战斗中阵",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "福建检察院推动修缮1874年牡丹社事件清军将士墓群",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报，引用《检察日报》报道，信息具体，有直接引述和事实细节"
-    },
-    {
-      "title": "英国新首相组建内阁 前国防部长出任财长",
-      "link": "https://www.zaobao.com/news/world/story20260721-9394623",
-      "pubDate": "Tue, 21 Jul 2026 00:44:38 GMT",
-      "contentSnippet": "英国新任首相伯纳姆在上任第一天组建新一届内阁，前国防部长希利被任命为财政部长。\n英国广播公司（BBC）报道，英国首相办公室星期一（7月20日）发布消息说，新一届内阁成员中，前国防部长希利（John Healey）被任命为财政部长。此前，他因不满国防投资计划资金方案，向原任首相斯塔默请辞。\n希利首次以财长身份接受媒体采访时表示，他和伯纳姆将“并肩协作恪守财政规则”。\n在上届政府担任卫生部长的斯特里廷（Wes Streeting）出任国防部长。斯特里廷曾表示有意参选执政党工党党魁，但最终放弃参选并转而支持伯纳姆。\n在其他主要内阁职位方面，马哈茂德（Shabana Mahmood）留任内政部长，原能",
-      "sourceName": "联合早报·国际",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·国际"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "英国新首相伯纳姆组建内阁，前防长希利任财长。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报，引用BBC报道，信息具体有直接引述，可信度较高。"
-    },
-    {
-      "title": "李强祝贺伯纳姆出任英国首相",
-      "link": "https://www.zaobao.com/news/china/story20260721-9394617",
-      "pubDate": "Tue, 21 Jul 2026 00:38:38 GMT",
-      "contentSnippet": "中国总理李强祝贺伯纳姆出任英国首相。\n据中国外交部官网消息，李强星期一（7月20日）致电安迪·伯纳姆，祝贺他就任英国首相。\n李强表示，中英同为联合国安理会常任理事国和世界主要经济体，加强对话合作不仅有利于促进两国各自发展，也将为全球和平注入稳定性。\n李强说，他愿同伯纳姆一道努力，加强交往，增进互信，促进交流合作，推动中英长期稳定的全面战略伙伴关系不断向前发展，更好造福两国和两国人民。\n在英国原首相斯塔默星期一向国王查尔斯三世递交辞呈后，英国工党党魁伯纳姆伯纳姆前往白金汉宫觐见国王，正式接任首相，接受授权组建新政府。\n伯纳姆随后在唐宁街10号首相府外发表讲话，宣布将在本周出台缓解生活成本压力的多",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·中港台",
-        "联合早报·国际"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "中国总理李强致电祝贺伯纳姆就任英国首相，强调中英合作。",
+      "aiSummary": "国台办回应台当局限制大陆机车输入，称不符合两岸经贸合作精神。",
       "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报，引用中国外交部官网消息，信息具体且客观。（多源覆盖 +5）"
+      "credibilityReason": "来源权威（中国新闻网），有直接引述和具体时间、事件，内容客观。"
     },
     {
-      "title": "俄罗斯延长对中国公民免签至明年底",
-      "link": "https://www.zaobao.com/news/china/story20260721-9394597",
-      "pubDate": "Tue, 21 Jul 2026 00:21:42 GMT",
-      "contentSnippet": "俄罗斯官方宣布，对中国公民免签措施延长至明年底。\n据俄罗斯卫星通讯社报道，俄罗斯总统普京星期一（7月20日）签署总统令，将俄罗斯对中国公民的入境免签政策延长至2027年12月31日。相关法令已发布在俄罗斯官方法律信息网站。\n总统令显示，这项措施原本在今年9月14日届满，新法令将期限延长至明年底。\n另据中新社报道，普京去年12月1日签署总统令，持普通护照中国公民赴俄经商、旅游观光、探亲访友，参加科学、文化、社会政治、经济和体育活动以及过境，在俄停留不超过30天，可免办签证入境，直至2026年9月14日。\n中国外交部去年9月2日宣布，为进一步便利中外人员往来，中方决定扩大免签国家范围，自2025年",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
+      "title": "巴布亚新几内亚关闭台北经济办事处 国台办回应",
+      "link": "https://www.chinanews.com.cn/gn/2026/07-22/10664109.shtml",
+      "pubDate": "Wed, 22 Jul 2026 10:42:04 +0800",
+      "contentSnippet": "中新网7月22日电 7月22日，国务院台办举行例行新闻发布会。有记者问：近日，巴布亚新几内亚政府宣布关闭“驻巴新台北经济办事处”。台外事部门对此表示抗议。请问对此有何评论？",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
       "allSources": [
-        "联合早报·中港台"
+        "中国新闻网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "俄罗斯将中国公民免签政策延长至2027年底。",
+      "aiSummary": "巴布亚新几内亚关闭台北经济办事处，国台办回应。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，权威媒体；内容具体，有直接引述和明确时间地点。"
+    },
+    {
+      "title": "国台办回应台积电在美加码投资",
+      "link": "https://www.chinanews.com.cn/gn/2026/07-22/10664113.shtml",
+      "pubDate": "Wed, 22 Jul 2026 10:39:56 +0800",
+      "contentSnippet": "中新网7月22日电 7月22日，国务院台办举行例行新闻发布会。有记者问：据报道，台积电将在美国亚利桑那州加码投资1000亿美元，预估还将再建置4座晶圆厂以及先进封装厂，再度引发岛内舆论对于台积电变“美积电”、台湾半导体产业将被掏空的担忧。请问对此有何评论？",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国台办回应台积电在美加码投资，称将关注产业影响。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，属权威媒体；内容具体，有直接引述官方回应。"
+    },
+    {
+      "title": "国台办回应陆委会炒作赴陆风险",
+      "link": "https://www.chinanews.com.cn/gn/2026/07-22/10664105.shtml",
+      "pubDate": "Wed, 22 Jul 2026 10:39:46 +0800",
+      "contentSnippet": "中新网7月22日电 7月22日，国务院台办举行例行新闻发布会。有记者问：陆委会近日称，今后每周定期公布民众赴大陆失联、遭关押等数据，提醒大众赴大陆要审慎评估，“能不去就不去”。请问对此有何评论？",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国台办回应陆委会炒作赴陆风险，称其别有用心。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报，引用俄卫星通讯社和中新社，有具体法令信息，可信度较高。"
+      "credibilityReason": "来源为中国新闻网，属权威媒体；内容具体，有直接引述，用词客观。"
     },
     {
-      "title": "美国务院谴责中国对菲律宾船采取危险行动",
-      "link": "https://www.zaobao.com/news/china/story20260721-9394587",
-      "pubDate": "Tue, 21 Jul 2026 00:17:19 GMT",
-      "contentSnippet": "美国国务院强烈谴责中国在南中国海阿云津礁（中国称仁爱礁）对菲律宾人员采取“危险且咄咄逼人”的行动，并敦促中国立即停止破坏地区稳定的行为。\n美国国务院星期一（7月20日）在官网发布声明称，中国针对菲律宾合法海上行动的“令人不安的挑衅模式”，破坏了地区和平与稳定，直接违背了中国多次作出的和平解决争端承诺。\n声明强调，美国与盟国菲律宾站在一起，并赞赏菲海军人员在此次事件中展现出的专业精神与克制。“我们重申2016年7月的仲裁庭裁决，该裁决认定中国在南中国海广泛的海洋主张没有国际法依据，且对中菲两国均具有最终的法律约束力。”美国承诺，将继续与盟国伙伴共同捍卫自由开放的印太地区。\n中菲两国船只星期一在仁",
+      "title": "台当局附和菲律宾仁爱礁蓄意挑衅 国台办回应",
+      "link": "https://www.chinanews.com.cn/gn/2026/07-22/10664112.shtml",
+      "pubDate": "Wed, 22 Jul 2026 10:39:16 +0800",
+      "contentSnippet": "中新网7月22日电 7月22日，国务院台办举行例行新闻发布会。有记者问：对于菲律宾近日在仁爱礁蓄意挑衅，暴力袭击中方执法人员，事后还歪曲炒作。台外事部门竟然附和称，“谴责大陆使用武力伤人”，反对任何片面以武力、胁迫及灰色地带袭扰等方式改变现状的企图与行动。请问对此有何评论？",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国台办回应台当局附和菲律宾仁爱礁挑衅，谴责其歪曲事实。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，官方发布会内容，有直接引述，信息具体可查证。"
+    },
+    {
+      "title": "国台办：为台胞在境外提供领事保护是职责所在",
+      "link": "https://www.chinanews.com.cn/gn/2026/07-22/10664101.shtml",
+      "pubDate": "Wed, 22 Jul 2026 10:38:04 +0800",
+      "contentSnippet": "中新网7月22日电 7月22日，国务院台办举行例行新闻发布会。有记者问：近日，有台胞在俄罗斯伊尔库茨克州附近遭遇车祸。中国驻伊尔库茨克总领馆获悉后第一时间协助伤员前往当地医院救治，并探望慰问受伤台胞。请问对此有何评论？",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国台办称保护台胞境外权益是职责，回应俄车祸事件。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源权威（中国新闻网），内容具体，有直接引述和官方发布会背景。"
+    },
+    {
+      "title": "（同心·大调研）聚焦低空经济高质量发展 农工党中央开展2026年度重点考察调研",
+      "link": "https://www.chinanews.com.cn/txy/2026/07-22/10664072.shtml",
+      "pubDate": "Wed, 22 Jul 2026 10:36:28 +0800",
+      "contentSnippet": "中新网广州7月22日电 题：聚焦低空经济高质量发展 农工党中央开展2026年度重点考察调研",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "农工党中央在广州调研低空经济高质量发展。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网较权威，内容具体有明确时间地点，用词客观。"
+    },
+    {
+      "title": "国台办驳斥赖清德“台独”谬论",
+      "link": "https://www.chinanews.com.cn/gn/2026/07-22/10664099.shtml",
+      "pubDate": "Wed, 22 Jul 2026 10:36:22 +0800",
+      "contentSnippet": "中新网7月22日电 7月22日，国务院台办举行例行新闻发布会。有记者问：民进党7月19日举行全代会，兼任民进党主席的台湾地区领导人赖清德在会上再度鼓吹两岸“互不隶属”等分裂言论，大肆渲染大陆对台“威胁”，叫嚣绝不让“民主台湾”变成“中国台湾”等。请问对此有何评论？",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中新网7月22日电 7月22日，国务院台办举行例行新闻发布会。有记者问：民进党7",
+      "credibilityScore": 49,
+      "credibilityLevel": "low",
+      "credibilityReason": "因内容合规限制，使用来源权重作为默认评分"
+    },
+    {
+      "title": "国台办：民进党当局丧失民族立场",
+      "link": "https://www.chinanews.com.cn/gn/2026/07-22/10664091.shtml",
+      "pubDate": "Wed, 22 Jul 2026 10:34:18 +0800",
+      "contentSnippet": "7月22日，国务院台办举行例行新闻发布会。有记者问：对于菲律宾近日在仁爱礁蓄意挑衅，暴力袭击中方执法人员，事后还歪曲炒作。台外事部门竟然附和称，“谴责大陆使用武力伤人”，反对任何片面以武力、胁迫及灰色地带袭扰等方式改变现状的企图与行动。请问对此有何评论？",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国台办批评民进党当局在仁爱礁事件中丧失民族立场，附和菲律宾。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源权威（中国新闻网），内容具体，有直接引述，符合官方发布会信息。"
+    },
+    {
+      "title": "国台办回应卓荣泰涉两岸经贸言论",
+      "link": "https://www.chinanews.com.cn/gn/2026/07-22/10664088.shtml",
+      "pubDate": "Wed, 22 Jul 2026 10:33:18 +0800",
+      "contentSnippet": "中新网7月22日电 7月22日，国务院台办举行例行新闻发布会。有记者问：近日，台湾地区行政机构负责人卓荣泰在出席“亚洲台湾商会联合总会”活动时称，台湾已修正过去对“中国单一市场”的依赖，移转到欧美及南向国家；对于台商在全世界投资也组成了协助平台。请问对此有何评论？",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国台办回应卓荣泰涉两岸经贸言论，指其说法不实。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源权威（中国新闻网），直接引述官方发布会，内容具体客观。"
+    },
+    {
+      "title": "台当局威胁民众审慎赴陆 国台办：其行可耻其心可诛",
+      "link": "https://www.chinanews.com.cn/gn/2026/07-22/10664084.shtml",
+      "pubDate": "Wed, 22 Jul 2026 10:29:43 +0800",
+      "contentSnippet": "7月22日，国务院台办举行例行新闻发布会。有记者问，台陆委会近日称，今后每周定期公布民众赴大陆失联、遭关押等数据，提醒大众赴大陆要审慎评估，“能不去就不去”。请问对此有何评论？",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国台办批评台当局威胁民众审慎赴陆，称其行可耻其心可诛。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为官方媒体中国新闻网，内容具体有直接引述，用词客观但带立场。"
+    },
+    {
+      "title": "国台办：民进党当局迎合外部势力掏空台湾优势产业是不折不扣的害台、祸台行为",
+      "link": "https://www.chinanews.com.cn/gn/2026/07-22/10664080.shtml",
+      "pubDate": "Wed, 22 Jul 2026 10:27:01 +0800",
+      "contentSnippet": "7月22日，国务院台办举行例行新闻发布会。有记者问：近日，台湾地区行政机构负责人卓荣泰在出席“亚洲台湾商会联合总会”活动时称，台湾已修正过去对“中国单一市场”的依赖，移转到欧美及南向国家；对于台商在全世界投资也组成了协助平台。请问对此有何评论？",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国台办批评民进党当局迎合外部势力，掏空台湾优势产业，是害台祸台行为。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，官方发布会内容，有直接引述，信息具体客观。"
+    },
+    {
+      "title": "我国已成为全球160多个国家和地区的主要贸易伙伴",
+      "link": "https://www.chinanews.com.cn/gn/2026/07-22/10664076.shtml",
+      "pubDate": "Wed, 22 Jul 2026 10:22:31 +0800",
+      "contentSnippet": "今天(22日)上午，国务院新闻办举行新闻发布会。介绍贯彻落实“十五五”规划，加快推进海关现代化，服务贸易强国建设有关情况。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国已成为全球160多个国家和地区的主要贸易伙伴。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，信息具体且有官方发布会背景，可信度较高。"
+    },
+    {
+      "title": "王毅：中欧应避免经贸问题政治化 推动贸易实现动态平衡",
+      "link": "https://www.zaobao.com/news/china/story20260722-9400236",
+      "pubDate": "Wed, 22 Jul 2026 02:00:36 GMT",
+      "contentSnippet": "中欧贸易关系持续趋紧之际，中国外长王毅呼吁双方避免将经贸问题政治化、交往泛安全化，并从长远角度促进中欧贸易向上动态平衡。\n据中国外交部网站消息，王毅星期二（7月21日）在北京与欧洲议会外事委员会主席麦克阿里斯特率领的跨党派议员代表团会面时说，希望代表团同中国各界加强交往，了解一个真实、立体和不断发展、进步的中国，推动欧洲树立理性客观对华认知，实施积极正确对华政策，助力中欧关系行稳致远。\n王毅称，历史和现实证明，中欧是伙伴而不是对手；双方应坚持伙伴关系定位主基调，在这一框架内审视和处理双方关系发展过程中出现的具体问题，避免把经贸问题政治化、交往泛安全化，从长远角度促进中欧贸易向上动态平衡，推动中",
       "sourceName": "联合早报·中港台",
       "sourceWeight": 80,
       "allSources": [
@@ -204,61 +254,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "美国国务院谴责中国在仁爱礁对菲律宾采取危险行动，敦促停止破坏稳定。",
-      "credibilityScore": 80,
+      "aiSummary": "王毅呼吁中欧避免经贸问题政治化，推动贸易动态平衡。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报，较权威；内容具体，有直接引述；但未多源交叉验证。"
-    },
-    {
-      "title": "习近平牵挂的“大城小事”",
-      "link": "https://www.peopleapp.com/column/30052702360-500007606039",
-      "pubDate": "Tue, 21 Jul 2026 00:11:17 GMT",
-      "contentSnippet": "习近平牵挂的“大城小事”",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "习近平关注城市治理中的民生细节问题。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源澎湃新闻较权威，内容正面且具体，但缺乏多源交叉验证。"
-    },
-    {
-      "title": "英钢被“强取豪夺”、欧盟密集加码限制措施，中欧经贸摩擦呈上升态势",
-      "link": "https://m.thepaper.cn/detail/33621095",
-      "pubDate": "Mon, 20 Jul 2026 23:21:09 GMT",
-      "contentSnippet": "近来，中国与欧洲在经贸领域呈现出复杂的态势。\n在英国新首相伯纳姆上任前夕，英国政府宣布依据《钢铁产业（国有化）法案》将中国敬业集团控股的英国钢铁公司国有化。即将离任的英国首相斯塔默称，该决定“保障了英国钢铁业的未来”。\n对英国政府这一决定，敬业集团7月19日发表声明，批评英政府“背信弃义”“践踏法治”，并形容此举为“赤裸裸的强取豪夺”。集团要求英方赔偿全部投资损失，并表示已依据相关双边投资协定启动磋商程序，保留包括国际仲裁在内的一切法律权利。\n中国外交部7月18日也表示，英方如何处理此事将直接影响中国投资者对英投资环境的看法，影响中国民众对英国政府信誉的看法。中英签有投资保护协定，投资者的正当",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中欧经贸摩擦加剧，英国国有化中企钢铁资产，欧盟加码限制措施。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源澎湃新闻较权威，有直接引述和具体时间，但未多源交叉验证。"
-    },
-    {
-      "title": "中菲外长料两年来首会晤 南中国海再爆对峙",
-      "link": "https://www.zaobao.com/news/china/story20260721-9393925",
-      "pubDate": "Mon, 20 Jul 2026 16:11:38 GMT",
-      "contentSnippet": "中国外交部长王毅本周赴马尼拉出席亚细安外长会议，预计将与菲律宾外长拉扎罗举行两年来首次双边会晤。但两国星期一（7月20日）在具主权争议的南中国海仁爱礁（菲律宾称阿云津礁）附近海域发生对峙，互指对方挑衅；菲律宾指中国海警殴打菲方人员，中国则反指菲方“歪曲事实、反诬中方”。\n受访学者认为，最新海上冲突将加剧中菲紧张关系，但预计不会影响两国外长会晤。尽管双方短期内难化解南中国海争端，但都希望管控分歧，避免海上摩擦升级为更严重的冲突。\n菲律宾本周主办亚细安外长会议及系列会议。综合菲律宾总统通讯办公室网站和彭博社报道，菲律宾外交部发言人因佩里亚尔说，菲律宾外长将主持亚细安与对话伙伴美国、中国、韩国、欧盟",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中菲外长预计两年来首次会晤，但南中国海再发对峙事件。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名媒体联合早报，信息具体，有直接引述和多源交叉验证。"
+      "credibilityReason": "来源为联合早报，信息具体，有直接引述，内容客观可查证。"
     }
   ]
 }
