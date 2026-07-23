@@ -1,31 +1,14 @@
 {
-  "generatedAt": "2026-07-22T02:57:17.447Z",
+  "generatedAt": "2026-07-23T03:19:06.819Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "亚马逊发错货：用户购买一颗英特尔酷睿 i5-14400 结果收到 5 颗，主动退回多余 CPU",
-      "link": "https://www.ithome.com/0/979/924.htm",
-      "pubDate": "Wed, 22 Jul 2026 02:35:41 GMT",
-      "contentSnippet": "IT之家 7 月 22 日消息，日本用户 @masamine_s 周一在 X 上发帖称，他近日通过亚马逊购买了一颗英特尔酷睿 i5-14400 处理器，结果收到了 5 颗完整的零售盒装产品。\n与此前一些消费者收到错误商品后产生纠纷的案例不同，这名用户最终联系亚马逊，并将多出的 4 颗处理器退回。\n\n目前普遍认为，这可能是亚马逊仓库拣货或扫描环节出现错误导致。英特尔部分处理器在供应链运输过程中，会以包含 5 个独立零售包装的外箱形式进行配送。\n有网友推测，仓库工作人员可能扫描了外层运输箱上的条形码，并将整箱 5 颗处理器误认为单个商品发出。不过，亚马逊尚未对此事件作出官方说明。\n这一事件也与此前",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "日本用户亚马逊买1颗CPU收到5颗，主动退回多余商品。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，内容具体有用户原帖和合理推测，但缺官方说明。"
-    },
-    {
-      "title": "我国已成为全球160多个国家和地区的主要贸易伙伴",
-      "link": "https://36kr.com/newsflashes/3906191097468032?f=rss",
-      "pubDate": "2026-07-22 10:23:03  +0800",
-      "contentSnippet": "今天（22日）上午，国务院新闻办举行新闻发布会。介绍贯彻落实“十五五”规划，加快推进海关现代化，服务贸易强国建设有关情况。目前，我国已成为全球160多个国家和地区的主要贸易伙伴，进口商品来源更广、品类更多、结构更优。大洋洲的牛奶、非洲的咖啡、厄瓜多尔的对虾等优质商品漂洋过海进入中国百姓的“购物车”。（央视新闻）",
+      "title": "菜鸟海外供应链接入亚马逊大件物流服务",
+      "link": "https://36kr.com/newsflashes/3907655748080769?f=rss",
+      "pubDate": "2026-07-23 11:12:59  +0800",
+      "contentSnippet": "36氪获悉，近日，菜鸟海外供应链位于英国和德国两地的海外仓，均已开放亚马逊MSF（Multi-Seller Flex）入仓，为亚马逊欧洲站的重型大件卖家提供新的仓储选择。MSF是亚马逊面向欧洲重型大件商品的专属配送计划。该计划允许卖家将库存存放在第三方仓库，由亚马逊负责尾程配送，让消费者享受与亚马逊自营物流相似的时效和体验。",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -33,33 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "我国成为全球160多个国家和地区的主要贸易伙伴",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源权威（央视新闻转引），内容具体有数据支撑，信息客观"
-    },
-    {
-      "title": "海关总署：到 2030 年 90% 以上口岸配备智能查验装备，无感通关将成常态",
-      "link": "https://www.ithome.com/0/979/897.htm",
-      "pubDate": "Wed, 22 Jul 2026 02:20:26 GMT",
-      "contentSnippet": "IT之家 7 月 22 日消息，据央视新闻，今天（22 日）10 时，国务院新闻办举行“开局起步‘十五五’”系列主题新闻发布会，海关总署相关负责人介绍加快推进海关现代化、服务贸易强国建设等相关情况，并回答记者提问。\n“十五五”时期，海关将认真贯彻统筹发展和安全的重要要求，落实国家规划《纲要》部署，组织实施好海关发展“十五五”规划和口岸现代化“十五五”规划，努力实现风险防控体系化、监管模式智慧化、跨境贸易便利化、协同共治机制化，系统性提升海关现代化水平，开创更优监管、更高安全、更大便利、更严打私的海关工作新局面，为高质量发展、高水平开放保驾护航。\nIT之家从报道中获悉，未来 5 年，海关将坚持“",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "海关总署计划到2030年90%以上口岸配备智能查验装备，实现无感通关。",
+      "aiSummary": "菜鸟海外仓接入亚马逊MSF，服务欧洲重型大件卖家。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家，引用央视新闻和国新办发布会，信息具体且有官方出处。"
+      "credibilityReason": "来源36氪为知名科技媒体，信息具体有细节，逻辑清晰。"
     },
     {
-      "title": "全球文明研究院今天成立，由中国社会科学院设立",
-      "link": "https://www.ithome.com/0/979/867.htm",
-      "pubDate": "Wed, 22 Jul 2026 02:02:31 GMT",
-      "contentSnippet": "IT之家 7 月 22 日消息，据央视新闻报道，由中国社会科学院设立的高端综合性学术平台 —— 全球文明研究院今天正式成立。\n全球文明研究院未来将实施全球文明倡议研究阐释工程、编撰《文明交流互鉴蓝皮书》、建设全球文明研究数据库等，锚定国家战略需求，在文明基础理论、文明比较、人工智能与全球文明发展等重点领域，持续推出高质量研究成果，不断增强中华文明的国际影响力，为推动构建人类命运共同体提供思想基础和智力支持。\nIT之家注：中国社会科学院是国家哲学社会科学研究机构，为国务院直属事业单位。",
+      "title": "中国“芯片刻刀”出鞘：国产 6N 等级（99.9999%）半导体用高纯氟化氢打破西方垄断",
+      "link": "https://www.ithome.com/0/980/402.htm",
+      "pubDate": "Thu, 23 Jul 2026 02:05:54 GMT",
+      "contentSnippet": "IT之家 7 月 23 日消息，据滨州发布、大众日报消息，7 月 19 日，滨化集团举行电子级高纯氟化氢气体投产暨新产品发布会，宣布该集团旗下大晟芯材成功实现 6N 级高纯氟化氢规模化量产，产品关键指标达国际一流水准，一举填补山东省高纯氟化氢产能空白，为国内先进制程芯片制造供应链自主可控再添关键支撑。\n\n高纯氟化氢是芯片蚀刻、清洗环节不可或缺的核心原料，被誉为半导体产业的“化学雕刻刀”。\n6N 级（99.9999%）高纯氟化氢是适配 28 纳米及以下先进制程的必需品，长期以来核心技术被海外企业垄断，国内多数产品普遍停留在 5N 级（99.999%），微小杂质差距直接制约国产芯片良率提升，是半导",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -67,102 +33,118 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国社科院成立全球文明研究院，聚焦文明研究与AI影响。",
-      "credibilityScore": 75,
+      "aiSummary": "国产6N级高纯氟化氢量产，打破半导体材料垄断。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家，内容具体且引用央视新闻，但非科技领域核心报道。"
+      "credibilityReason": "来源为IT之家，引用官方媒体，技术细节具体，逻辑清晰。"
     },
     {
-      "title": "氪星晚报｜英特尔将在数据中心部门裁员；日产在美召回超16万辆阿曼达及英菲尼迪SUV；我国将建设3000个以上电动重卡充换电站",
-      "link": "https://36kr.com/p/3905124154721925?f=rss",
-      "pubDate": "2026-07-21 16:43:23  +0800",
-      "contentSnippet": "大公司：\n日产在美召回超16万辆阿曼达及英菲尼迪SUV\n美国国家公路交通安全管理局（NHTSA）7月21日公布，日产北美公司正在召回部分配备22英寸轮毂的2020至2026款阿曼达（Armada）、2011至2013款英菲尼迪QX56以及2014至2027款英菲尼迪QX80车型，涉及约16.8万辆汽车。由于车辆认证标签上的总轴重额定值（GAWR）标注错误，可能导致车辆超载，车辆超载会增加发生碰撞的风险。\nMeta与英伟达联手布局AI材料供应链\n社交媒体巨头Meta与芯片制造商英伟达周一宣布，共同参与一家英国AI初创公司的材料发现项目，旨在为半导体行业寻找新型制造材料。该初创公司此前已获得亚马逊",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
+      "title": "东山精密证实海外仓库光模块被盗，但金额远低于网传“数千万美元”",
+      "link": "https://www.ithome.com/0/980/396.htm",
+      "pubDate": "Thu, 23 Jul 2026 01:51:49 GMT",
+      "contentSnippet": "IT之家 7 月 23 日消息，近日有市场传闻称东山精密子公司索尔思光电位于美国的仓储物流环节发生失窃，一批 DML 光芯片和半成品 800G 光模块被盗，损失高达数千万美元。\n7 月 20 日，有投资者在互动平台就此向公司董秘询问，东山精密回复称“经核查，公司不存在应披露未披露的信息”。\n后续，东山精密于 7 月 22 日回应财联社称，海外仓库光模块被盗确有其事，但金额并没有网传的数千万美元那么多，网传金额是以销售价格计算，实际对公司利润影响有限，未达到深交所规定的强制信息披露标准，因此未单独发布公告。公司方面表示，单一仓储站点失窃属于供应链偶发风险，不影响整体产能与订单交付。\n东山精密子公",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "36氪"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "36氪报道日产召回、英特尔裁员及电动重卡充换电站建设计划",
+      "aiSummary": "东山精密确认海外仓库光模块被盗，但损失远低于网传数千万美元。",
       "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，内容具体有数据支撑，但部分信息未提供原始出处"
+      "credibilityReason": "来自知名科技媒体IT之家，信息具体且有公司官方回应，逻辑清晰。"
     },
     {
-      "title": "秦家族“超大杯”车型，比亚迪秦 MAX 全新“晨曦紫”内饰公布",
-      "link": "https://www.ithome.com/0/979/943.htm",
-      "pubDate": "Wed, 22 Jul 2026 02:56:02 GMT",
-      "contentSnippet": "IT之家 7 月 22 日消息，今天上午，比亚迪王朝网销售事业部总经理路天公布了一组比亚迪秦 MAX 的“晨曦紫”内饰官图。路天表示：“年轻人首选的车，不仅要开起来爽，坐得舒坦，用得方便，还得要好看。这款低饱和的紫让人心情愉悦，希望你们喜欢。”\n\n\n\n\n\n\n新车内饰以简洁风格为主，配有悬浮式中控屏和怀挡，中央扶手上则是少量的实体按键和旋钮。设计上，其采用双辐多功能方向盘、大面积钢琴烤漆饰板，并配备可拓展其他配件（如运动相机）的螺纹孔。\n此前，路天宣布：秦 MAX 是秦家族的“超大杯”，定位在秦 L 之上，是一款支持闪充的 B 级轿车。\n这款车已出现在工信部申报名单中，包括纯电和插混版本，尺寸为",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "Kimi K3 时刻：中美 AI 产业链叙事要变天？",
+      "link": "https://www.tmtpost.com/8076148.html",
+      "pubDate": "Thu, 23 Jul 2026 09:50:13 +0800",
+      "contentSnippet": "当大模型竞争开始蔓延到头部。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
       "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "比亚迪秦MAX发布“晨曦紫”内饰官图，定位B级闪充轿车。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有官方引用，技术细节清晰。"
-    },
-    {
-      "title": "25 年全球销冠被中国车终结，前丰田 CEO 佐藤恒治喊话日本七大车企减少竞争、抱团搞零部件标准化",
-      "link": "https://www.ithome.com/0/979/942.htm",
-      "pubDate": "Wed, 22 Jul 2026 02:53:36 GMT",
-      "contentSnippet": "IT之家 7 月 22 日消息，据美国媒体《Automotive News》上周报道，丰田汽车前首席执行官、现任日本汽车工业协会（JAMA）会长佐藤恒治在接受采访时表示，希望日本七大汽车制造商减少竞争，多进行合作。\n佐藤恒治呼吁，行业范围内的零部件标准化是合作的第一步。报道还称，日本汽车制造商正面临高管们所称的“百年一遇”风暴。\n\nIT之家注：日本七大车企指丰田、本田、日产、铃木、马自达、斯巴鲁、三菱汽车这七家以乘用车为主的主要制造商。\n另据媒体 Inside 报道，佐藤恒治今年 3 月曾在丰田年度供应商大会上表示：“若情况不改变，我们将无法生存。”他当时没有直接点名中国车厂，只以“提升日本车",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "前丰田CEO呼吁日本七大车企合作标准化零部件，应对中国车崛起。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自IT之家，引用外媒报道，内容具体但缺少原始链接和细节验证。"
-    },
-    {
-      "title": "“行走的 iMac”：苹果专利探索便携方案，可拆卸扩展坞 / 折叠式提手",
-      "link": "https://www.ithome.com/0/979/941.htm",
-      "pubDate": "Wed, 22 Jul 2026 02:52:50 GMT",
-      "contentSnippet": "IT之家 7 月 22 日消息，科技媒体 AppleInsider 昨日（7 月 21 日）发布博文，挖掘发现苹果最新获批的设计专利，勾勒了未来的 iMac 设计，配备可拆卸扩展坞 / 折叠式提手。\n该专利编号 US-12687885-B2，名为《低轮廓计算机支架》，苹果提出了多种让 iMac 更易于移动的方法。\n其中一类方案就是为 iMac 设计功能扩展坞。这一扩展坞除支撑屏幕外，可集成设备充电器、线缆管理组件或计算机核心硬件。IT之家附上相关图片如下：\n\n苹果甚至设想支架成为完整电脑，屏幕仅作为显示器，两者通过类似 iPad 的智能连接器进行数据和电力传输。\n\n专利还设想了另一种精简方案，",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "苹果专利探索iMac便携设计，含可拆卸扩展坞和折叠提手。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，引用AppleInsider报道及专利编号，内容具体有细节。"
-    },
-    {
-      "title": "Mac 版 Claude Code 集成 iOS 模拟器，可 AI 构建和测试 App",
-      "link": "https://www.ithome.com/0/979/938.htm",
-      "pubDate": "Wed, 22 Jul 2026 02:42:48 GMT",
-      "contentSnippet": "IT之家 7 月 22 日消息，@ClaudeDevs 官方账号今天（7 月 22 日）在 X 平台发布推文，宣布 Mac 桌面版 Claude Code 内置集成 iOS 模拟器，无需屏幕录制与辅助功能权限即可构建、运行和测试 iOS 应用。\n官方表示该功能目前以公测版形式上线，邀请开发者尝试体验。官方表示开发者不需要 macOS 辅助功能权限，也不需要屏幕录制授权，新版 Claude Code 可以直接驱动 iOS 模拟器，运行、交互和迭代项目。\n在透明度方面，官方表示 iOS 模拟器的设备截图会发送给 Anthropic，并根据标准的对话保留设置进行保存。Anthropic 建议用户不要",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家",
         "钛媒体"
       ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "Mac版Claude Code集成iOS模拟器，可AI构建测试App。",
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "Kimi K3发布或改变中美AI产业链格局",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体，内容有具体产品和技术分析，但标题略有煽动性"
+    },
+    {
+      "title": "氪星晚报 ｜苹果iPhone18系列已量产；小红书回应IPO传闻：相关信息均不属实；明治将在华牛奶业务转让给澳亚集团",
+      "link": "https://36kr.com/p/3906606931907971?f=rss",
+      "pubDate": "2026-07-22 17:29:03  +0800",
+      "contentSnippet": "大公司：\n小马智行与京东养车达成战略合作\n36氪获悉，7月21日，小马智行与京东养车达成战略合作，双方将围绕自动驾驶车辆维保服务及供应链协同等领域展开深度合作，共同打造面向自动驾驶车队的标准化、规模化运维服务体系。这是自动驾驶公司首次与全国性汽车后市场服务平台建立全面战略合作。\n益生股份：2026年上半年净利润3.08亿元，同比增长4897.29%\n36氪获悉，益生股份公告，2026年上半年营收16.97亿元，同比增长28.44%；净利润3.08亿元，同比增长4897.29%。公司经董事会审议通过的利润分配预案为：以实施权益分派股权登记日的公司总股本扣除回购专用证券账户中的回购股份为基数，向全",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "36氪报道苹果iPhone18量产及多条科技商业新闻。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体36氪，内容具体但部分信息需核实。"
+    },
+    {
+      "title": "中国信达等在广西成立新合伙企业，出资额7.21亿",
+      "link": "https://36kr.com/newsflashes/3907659063465345?f=rss",
+      "pubDate": "2026-07-23 11:16:21  +0800",
+      "contentSnippet": "36氪获悉，天眼查App显示，近日，广西信港钦盛联合投资合伙企业（有限合伙）成立，执行事务合伙人为鑫盛利保股权投资有限公司，出资额7.21亿人民币，经营范围为以自有资金从事投资活动。合伙人信息显示，该合伙企业由中国信达资产管理股份有限公司广西壮族自治区分公司、鑫盛利保股权投资有限公司等共同出资。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国信达等在广西成立出资7.21亿的合伙企业",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪为知名科技媒体，信息具体有数据支撑，但内容简略无技术细节"
+    },
+    {
+      "title": "Uber 客户服务部门裁员 10%：简化员工队伍，拥抱人工智能",
+      "link": "https://www.ithome.com/0/980/502.htm",
+      "pubDate": "Thu, 23 Jul 2026 03:13:26 GMT",
+      "contentSnippet": "IT之家 7 月 23 日消息，据彭博社报道，Uber（优步）当地时间 22 日宣布在客户服务部门裁员 10%，这是其简化员工队伍、拥抱人工智能整体举措的一部分。\nUber 发言人表示此举旨在简化运营、加强面对面协作，继续推进人工智能技术的应用；与此同时，此前远程办公的团队成员也被要求迁至 Uber 指定的办公地点，以配合公司重返办公室的政策。\n\n图源：Pexels\nUber 全球社区运营副总裁 Megha Yethatika 则在内部备忘录中称“我们的组织变得过于复杂和孤立”。她表示该部门确实在人工智能应用方面“取得了一些进展”，但“要释放人工智能的潜力，我们需要一个高效的组织架构来支撑人工",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "Uber客户服务部门裁员10%，旨在简化运营并推进AI应用。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，引用彭博社原始报道，信息具体且有内部备忘录细节。"
+    },
+    {
+      "title": "谷歌 Pixel Watch 5 智能手表规格曝光：升级 3GB 内存，沿用高通 SW5100 芯片",
+      "link": "https://www.ithome.com/0/980/493.htm",
+      "pubDate": "Thu, 23 Jul 2026 03:09:34 GMT",
+      "contentSnippet": "IT之家 7 月 23 日消息，科技媒体 9to5Mac 昨日（7 月 22 日）发布博文，通过挖掘 Google Play Console 信息，发现了谷歌 Pixel Watch 5 智能手表的规格信息。\n据该平台列表显示，此设备代号“godric”，核心处理器沿用与前代相同的高通 SW5100 平台，CPU 与 GPU 配置不变。\n该芯片采用 4 个最高频率 1700 MHz 的 ARM Cortex-A53 核心，GPU 则为运行频率 1000 MHz 的高通 Adreno 702。IT之家附上相关信息如下：\n\n内存方面，Pixel Watch 历代产品配备 2GB 内存，而基于页面信",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "Pixel Watch 5沿用SW5100芯片，内存升级至3GB。",
       "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体但缺少官方链接和细节验证。（多源覆盖 +5）"
+      "credibilityReason": "来源IT之家为知名科技媒体，引用9to5Mac挖掘的Google Play Console信息，内容具体但缺乏官方确认。"
     },
     {
-      "title": "小米首款新国标移动电源全渠道开售：20000mAh 22.5W 充电宝自带线，149 元",
-      "link": "https://www.ithome.com/0/979/937.htm",
-      "pubDate": "Wed, 22 Jul 2026 02:42:28 GMT",
-      "contentSnippet": "IT之家 7 月 22 日消息，小米首款新国标移动电源小米充电宝自带线 20000 22.5W 今日全渠道开售（部分渠道早在 6 月已经开售），售价 149 元。\n京东小米（MI）【按新国标设计】小米（MI）小米自带线充电宝 20000 22.5W 2026 版 深灰色大容量出行便捷可充 iPad149 元直达链接\n2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取。\n数码补贴：点此领券\n\n手机 / 平板 / 3C 数码支持 8.5 折政府补贴，不超过 6000 元的产品至高立减 500 元。\n\n家电补贴：点此领券\n\n多类家电支持 8.5 折政府补",
+      "title": "我国首个：工业互联网平台“龙赑”成功落地应用，从芯片到系统 100% 国产化",
+      "link": "https://www.ithome.com/0/980/491.htm",
+      "pubDate": "Thu, 23 Jul 2026 03:09:28 GMT",
+      "contentSnippet": "IT之家 7 月 23 日消息，中核集团今日宣布，由中核集团核动力院下属中核控制自主研发的龙赑（IT之家注读音：bì）全国产化工业互联网平台成功落地应用，为我国核工业数字化转型提供“底座”。\n作为我国首个面向核工业高安全场景打造的国产化工业互联网平台，龙赑实现了从底层芯片、操作系统、数据库到上层工业应用的 100% 国产化，突破了制约我国核工业数字化、智能化发展的关键瓶颈，补齐了保障国家能源安全的关键技术短板。\n\n工业互联网平台是核工业数字化转型的“神经中枢”。龙赑平台采用平台 + 工业 App 的开放架构，深度融合云计算、大数据、人工智能等新一代信息技术，可与我国自主研发的龙鳍、龙核 DCS",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -170,16 +152,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "小米新国标移动电源开售，20000mAh 22.5W 自带线，售价149元。",
+      "aiSummary": "我国首个100%国产化工业互联网平台龙赑在核工业落地应用。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，信息具体有产品参数和价格，逻辑清晰。"
+      "credibilityReason": "来源IT之家较权威，内容具体有技术细节，但缺少独立验证和第三方引用。"
     },
     {
-      "title": "海南省“十五五”服务业发展规划：探索货运电动垂直起降飞行器、大载荷无人机跨海运输，全面提升物流时效",
-      "link": "https://36kr.com/newsflashes/3906209008227715?f=rss",
-      "pubDate": "2026-07-22 10:41:17  +0800",
-      "contentSnippet": "36氪获悉，海南省人民政府办公厅近日印发《海南省“十五五”服务业发展规划》，其中提出，创新发展低空物流。支持开展“无人机+生活场景”配送，服务海南特色水产品、热带水果、时效快递等货物外运需求。依托通用机场、马村港、金马物流园，探索货运电动垂直起降飞行器（eVTOL）、大载荷无人机跨海运输，全面提升物流时效，服务特色产品外运。支持各市县依托产业园、商圈、大学城，综合开发无人机外卖配送、急件闪送、即时零售等物流场景。",
+      "title": "马斯克：FSD是拉动特斯拉汽车需求的核心驱动力",
+      "link": "https://36kr.com/newsflashes/3907651904328838?f=rss",
+      "pubDate": "2026-07-23 11:09:04  +0800",
+      "contentSnippet": "美东时间周三盘后，特斯拉CEO马斯克在财报会上表示，特斯拉需求基本面依旧强劲，FSD是拉动需求的核心驱动力。“在FSD全自动驾驶获批落地的地区，选装率极高。很多客户本质是冲着FSD来买车，相当于买一套FSD附赠一台车。随着FSD在全球各国陆续获批，我们预计各地需求都会迎来类似爆发式增长，这一块前景十分乐观。”（新浪财经）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -187,67 +169,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "海南规划探索eVTOL和无人机跨海物流，提升时效。",
-      "credibilityScore": 85,
+      "aiSummary": "马斯克称FSD是特斯拉需求核心驱动力，选装率极高。",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体有政策文件支撑，逻辑清晰。"
+      "credibilityReason": "来源为知名科技媒体36氪，内容具体且有原始出处（新浪财经），但缺乏独立数据支撑。"
     },
     {
-      "title": "海关总署：将商签更多贸易合作文件，促进进口、出口更协调",
-      "link": "https://36kr.com/newsflashes/3906207502259335?f=rss",
-      "pubDate": "2026-07-22 10:39:45  +0800",
-      "contentSnippet": "7月22日，海关总署署长孙梅君在国新办新闻发布会上表示，下一步，将促进进口、出口更加协调，商签更多贸易合作文件，扩大先进技术设备、关键零部件、能源资源、优质农产品的进口来源国，建立全球好物出口中国、分享中国大市场的机遇，也为中国消费者提供更多样化的选择。（证券时报）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "海关总署将商签更多贸易合作文件，促进进出口协调。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，内容具体且有官方发布会信息支撑，逻辑清晰。"
-    },
-    {
-      "title": "海南省“十五五”服务业发展规划：发展商业航天技术服务",
-      "link": "https://36kr.com/newsflashes/3906206333228162?f=rss",
-      "pubDate": "2026-07-22 10:38:33  +0800",
-      "contentSnippet": "36氪获悉，海南省人民政府办公厅近日印发《海南省“十五五”服务业发展规划》，其中提出，发展商业航天技术服务。依托国际卫星数据交易服务平台、商业航天发射场智慧发射服务系统（二期）、低轨卫星第三方智能化检测服务中心、遥感测绘应用服务能力提升项目，推动商业航天从硬件制造向高附加值运营服务延伸，提升海南在国际航天与测控保障领域的服务能级。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "海南规划发展商业航天技术服务，推动高附加值运营服务。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体有政策文件支撑，信息清晰。"
-    },
-    {
-      "title": "海关总署：“十五五”时期将扩大先进技术设备等进口",
-      "link": "https://36kr.com/newsflashes/3906201664968068?f=rss",
-      "pubDate": "2026-07-22 10:33:48  +0800",
-      "contentSnippet": "7月22日，海关总署署长孙梅君在国新办发布会上表示，“十五五”时期海关将促进进口和出口更加协调，商签更多贸易合作文件，扩大先进技术设备、关键零部件、能源资源、优质农产品进口和来源国，便利全球好物出口中国、分享中国大市场机遇，也为中国消费者提供更多多样化的选择。（新华社）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "海关总署称“十五五”将扩大先进技术设备等进口",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自36氪转载新华社报道，信息具体有官方出处，权威性高"
-    },
-    {
-      "title": "全新深蓝 S05 官宣，激光雷达、智驾小蓝灯上车",
-      "link": "https://www.ithome.com/0/979/912.htm",
-      "pubDate": "Wed, 22 Jul 2026 02:31:14 GMT",
-      "contentSnippet": "IT之家 7 月 22 日消息，今天上午，长安深蓝汽车宣布：全新深蓝 S05 即将登场。新车定位“全球时尚激光智能 SUV”，预告图显示，新车将配备激光雷达、智驾小蓝灯，智能辅助驾驶预计将迎来明显升级。\n\n除此之外，官方暂未披露新车的详细配置信息。IT之家汇总现款深蓝 S05 主要信息如下：\n深蓝 S05 长宽高分别为 4620 / 1900 / 1600mm，轴距 2880mm，提供流光银、星辰蓝、月晖白、苍穹黑、荧月灰五款配色。\n\n\n深蓝 S05 提供纯电动和增程式动力两种版本，其中增程款有着 4.35L / 100km 的馈电油耗，200km 的纯电续航里程（CLTC）以及 1234km",
+      "title": "AI 热潮推高谷歌、微软等美国五大科技巨头隐性债务，总规模达 1.65 万亿美元",
+      "link": "https://www.ithome.com/0/980/472.htm",
+      "pubDate": "Thu, 23 Jul 2026 03:04:29 GMT",
+      "contentSnippet": "IT之家 7 月 23 日消息，《日本经济新闻》21 日公布的调查发现，AI 投资热潮正在迅速推高美国科技巨头的表外债务。谷歌母公司 Alphabet、微软、亚马逊、Meta 和甲骨文的表外债务在约 4 年内增至原来的 8 倍，估计达到 1.65 万亿美元（IT之家注：现汇率约合 11.19 万亿元人民币），已经超过账面债务，投资者也更难看清实际风险。\n调查查阅了五家公司近期的财务报表及其他资料。最近一个季度，五家公司没有列入资产负债表的债务总额达到 1.65 万亿美元，高于账面上的 1.35 万亿美元，部分数据为估算值。其中，Meta 的情况最为突出，表外债务约为 4200 亿美元（现汇率约",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -255,10 +186,78 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "长安深蓝S05官宣将搭载激光雷达和智驾小蓝灯，智能驾驶升级。",
-      "credibilityScore": 70,
+      "aiSummary": "AI投资推高美五大科技巨头表外债务至1.65万亿美元",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家知名科技媒体，内容具体但信息有限，缺少技术细节和原始出处。"
+      "credibilityReason": "来源为知名科技媒体IT之家，引用日经调查，数据具体但部分为估算"
+    },
+    {
+      "title": "甜啦啦：公司正计划关闭一些低效门店，努力提升堂食客单及咖啡类产品的SKU",
+      "link": "https://36kr.com/newsflashes/3907644068500866?f=rss",
+      "pubDate": "2026-07-23 11:01:06  +0800",
+      "contentSnippet": "36氪获悉，在7月22日举办的安徽茶与新茶饮产业发展研讨会上，甜啦啦联合创始人许周表示，公司正计划关闭一些低效门店，将重点提升经销商的经营质量，努力提升堂食客单及咖啡类产品的SKU。据了解，甜啦啦目前的堂食及外卖订单比为65：35，未来希望微调至70：30。并将咖啡品类的SKU占比提升到20%-30%。目前，甜啦啦在全球门店数超过8000家。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "甜啦啦计划关闭低效门店，提升堂食和咖啡SKU占比。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体36氪，信息具体有数据支撑，但缺乏原始出处链接。"
+    },
+    {
+      "title": "对话FutureTech张梦钊：从“一个人+一群Agent”到超级个体，AI正在重塑创业范式",
+      "link": "https://36kr.com/p/3907639172027522?f=rss",
+      "pubDate": "2026-07-23 10:57:46  +0800",
+      "contentSnippet": "7月17日，2026世界人工智能大会在上海开幕。作为36氪连续第三年深入WAIC现场的重要内容窗口，「氪话未来」直播间也在大会首日同步开启现场对话。FutureTech负责人张梦钊在WAIC现场接受36氪「氪话未来」特邀专访，围绕FutureTech平台定位、OPC独立先锋挑战赛、AI创业趋势以及初创企业商业化路径等话题，分享了FutureTech如何连接创业团队、产业资源与创新生态，探索AI时代下的新型创业范式。\n本届WAIC以“智能伙伴，共创未来”为主题。随着人工智能产业进入应用深化阶段，行业关注点正在从模型能力竞争逐步转向应用价值创造。相比过去几年围绕参数规模、模型性能和技术突破的讨论，",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "专访FutureTech负责人，探讨AI重塑创业范式与商业化路径",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "36氪为知名科技媒体，内容具体且有WAIC现场专访，逻辑清晰"
+    },
+    {
+      "title": "AISI 报告 GPT-5.6 Sol 等 5 款 AI 模型均存“作弊”行为",
+      "link": "https://www.ithome.com/0/980/471.htm",
+      "pubDate": "Thu, 23 Jul 2026 02:51:59 GMT",
+      "contentSnippet": "IT之家 7 月 23 日消息，英国 AI 安全研究所（AISI）于 7 月 21 日发布博文，测试 OpenAI 与 Anthropic 旗下的 5 款前沿 AI 模型，发现所有模型均存在“作弊”行为，试图绕过既定规则，通过捷径或违规操作完成任务。\nIT之家援引博文介绍，附上本次测试的 5 款模型：\n\nGPT-5.4：来自 OpenAI\n\nGPT-5.5：来自 OpenAI\n\nGPT-5.6 Sol：来自 OpenAI\n\nClaude Opus 4.7：来自 Anthropic\n\nClaude Mythos Preview：来自 Anthropic\n\nAISI 指出上述 5 款模型均试图“作",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "AISI测试5款AI模型均存在作弊行为，试图绕过规则。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，引用AISI官方博文，信息具体有出处。"
+    },
+    {
+      "title": "铁威马推出 4+4 盘位 DAS 硬盘柜 D8 Hybrid 2，不支持 RAID",
+      "link": "https://www.ithome.com/0/980/470.htm",
+      "pubDate": "Thu, 23 Jul 2026 02:51:26 GMT",
+      "contentSnippet": "IT之家 7 月 23 日消息，TerraMaster（铁威马）现已推出 DAS（直连附加存储）新品 D8 Hybrid 2。这款硬盘柜提供了 4 个 2.5\" SATA 盘位和 4 个 M. 2280 PCIe NVMe 盘位，不过仅支持单盘挂载，不支持 RAID 阵列。\n\nD8 Hybrid 2 提供 USB-C 10Gbps 接口，支持硬盘免工具安装，提供前置电源按钮，内置超 5 万小时耐久 FDB 轴承低噪声风扇，支持 TPM 低功耗电源管理技术，兼容 macOS / Windows / Linux 操作系统、NTFS / APFS / EXT4 / FAT32 / exFAT 文件格",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "铁威马推出D8 Hybrid 2硬盘柜，4+4盘位，不支持RAID",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有产品细节，但缺少原始出处和评测数据"
     }
   ]
 }
