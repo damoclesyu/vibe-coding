@@ -1,14 +1,82 @@
 {
-  "generatedAt": "2026-07-27T03:31:55.456Z",
+  "generatedAt": "2026-07-28T02:48:43.239Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "习近平同巴西总统卢拉通电话",
-      "link": "https://www.chinanews.com.cn/gn/2026/07-27/10667129.shtml",
-      "pubDate": "Mon, 27 Jul 2026 11:23:26 +0800",
-      "contentSnippet": "新华社快讯：习近平同巴西总统卢拉通电话。",
+      "title": "扎哈罗娃批小泉进次郎涉核言论：可笑又可悲",
+      "link": "https://world.huanqiu.com/article/4SYrGUj8Ok3",
+      "pubDate": "(Tue,28 Jul 2026 10:22:59 CST)",
+      "contentSnippet": "综合俄新社等媒体报道，对于日本防卫大臣小泉进次郎涉核言论，俄罗斯外交部发言人扎哈罗娃27日在记者会上回应称，这可笑又可悲。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "扎哈罗娃批评小泉进次郎涉核言论，称其可笑又可悲。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网较权威，引述俄新社报道，内容具体但未多源交叉验证。"
+    },
+    {
+      "title": "“以最强烈措辞谴责”，印度就“商船在黑海遭袭致一名印度船员死亡”召见乌克兰大使",
+      "link": "https://world.huanqiu.com/article/4SYqw9xCOrM",
+      "pubDate": "(Tue,28 Jul 2026 10:13:49 CST)",
+      "contentSnippet": "综合印度新德里电视台等媒体报道，印度外交部27日发布声明称，对于一艘商船在黑海遭袭致一名印度船员死亡，印度外交部当天召见了乌克兰驻印度大使。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "印度因商船遭袭致船员死亡召见乌克兰大使，强烈谴责事件。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网为知名媒体，引用印度官方声明，信息具体但缺乏多源交叉验证。"
+    },
+    {
+      "title": "我国农业植物实质性派生品种制度落地",
+      "link": "https://capital.huanqiu.com/article/4SYpjIKaTod",
+      "pubDate": "(Tue,28 Jul 2026 09:40:01 CST)",
+      "contentSnippet": "本报北京7月27日电（记者朱隽）从农业农村部27日举行的新闻发布会上获悉，经国务院同意，第一批农业植物实质性派生品种制度实施目录公布，这标志着我国农业植物实质性",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "我国农业植物实质性派生品种制度正式实施，首批目录公布。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网较权威，内容具体，有发布会信息，事实可查证。"
+    },
+    {
+      "title": "新唐山建设五十年 绘就高质量发展新图景",
+      "link": "https://china.huanqiu.com/article/4SYooUP0OwS",
+      "pubDate": "(Tue,28 Jul 2026 09:14:23 CST)",
+      "contentSnippet": "50年来，唐山从满目疮痍崛起成为一座现代化新兴城市，不断绘就高质量发展新图景。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "唐山建设五十年，实现从废墟到现代化城市的转型。",
+      "credibilityScore": 70,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网较权威，内容正面具体，但缺乏直接引述和多源验证。"
+    },
+    {
+      "title": "习近平同斯洛伐克总统佩列格里尼会谈",
+      "link": "https://www.chinanews.com.cn/gn/2026/07-28/10667712.shtml",
+      "pubDate": "Tue, 28 Jul 2026 10:40:52 +0800",
+      "contentSnippet": "新华社北京7月28日电 7月28日，国家主席习近平在北京同来华进行国事访问的斯洛伐克总统佩列格里尼举行会谈。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -16,52 +84,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "习近平与巴西总统卢拉通电话。",
+      "aiSummary": "习近平与斯洛伐克总统佩列格里尼在北京举行国事会谈。",
       "credibilityScore": 95,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为官方通讯社新华社快讯，权威性极高，内容简洁客观。"
+      "credibilityReason": "来源为官方通讯社新华社，内容具体且客观，权威性极高。"
     },
     {
-      "title": "中国残联：我国将研究完善残疾人教育、成年人监护等法律制度",
-      "link": "https://www.chinanews.com.cn/gn/2026/07-27/10667104.shtml",
-      "pubDate": "Mon, 27 Jul 2026 11:11:39 +0800",
-      "contentSnippet": "中新网7月27日电 国务院新闻办公室于2026年7月27日举行“开局起步‘十五五’”系列主题新闻发布会。会上，中国残联主席程凯介绍，我国将研究完善残疾人教育、成年人监护等迫切需要的法律制度。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网",
-        "澎湃新闻"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "中国将研究完善残疾人教育及成年人监护法律制度。",
-      "credibilityScore": 95,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源权威（中国新闻网、澎湃新闻），内容具体且有官方发布会直接引述。（多源覆盖 +5）"
-    },
-    {
-      "title": "台湾新北市发生4.8级地震 福建多地有震感",
-      "link": "https://www.chinanews.com.cn/gn/2026/07-27/10667097.shtml",
-      "pubDate": "Mon, 27 Jul 2026 11:05:53 +0800",
-      "contentSnippet": "中新网福州7月27日电(郑江洛)台湾新北市26日晚发生4.8级地震，与台湾隔海相望的福建多地感受到震感。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网",
-        "联合早报·中港台"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "台湾新北市发生4.8级地震，福建多地有震感。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源权威（中国新闻网、联合早报），信息具体（时间、地点、震级），用词客观。（多源覆盖 +5）"
-    },
-    {
-      "title": "金正恩参谒中国人民志愿军烈士陵园",
-      "link": "https://www.chinanews.com.cn/gj/2026/07-27/10667105.shtml",
-      "pubDate": "Mon, 27 Jul 2026 10:59:48 +0800",
-      "contentSnippet": "中新网7月27日电 据朝中社27日报道，朝鲜劳动党总书记、国务委员长金正恩在朝鲜祖国解放战争胜利73周年之际，于26日前往位于平安南道桧仓郡的中国人民志愿军烈士陵园，向烈士们表示崇高敬意。",
+      "title": "中欧班列累计开行量突破13万列",
+      "link": "https://www.chinanews.com.cn/ydyl/2026/07-28/10667705.shtml",
+      "pubDate": "Tue, 28 Jul 2026 10:30:55 +0800",
+      "contentSnippet": "7月28日，记者从国家发展改革委召开的专题新闻发布会上获悉，截至目前，中欧班列累计开行量已突破13万列，运送货值超5200亿美元，成为丝绸之路经济带上驰而不息的“钢铁驼队”。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -69,119 +101,84 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "金正恩参谒中国人民志愿军烈士陵园，纪念朝鲜战争胜利73周年。",
+      "aiSummary": "中欧班列累计开行突破13万列，货值超5200亿美元。",
       "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为权威媒体中国新闻网，引用朝中社报道，信息具体且客观。"
+      "credibilityReason": "来源为中国新闻网，引用国家发改委官方数据，信息具体且权威。"
     },
     {
-      "title": "台湾台南市发生4.0级地震 震源深度8千米",
-      "link": "https://www.chinanews.com.cn/gn/2026/07-27/10667092.shtml",
-      "pubDate": "Mon, 27 Jul 2026 10:47:48 +0800",
-      "contentSnippet": "中新网7月27日电  中国地震台网正式测定：07月27日10时14分在台湾台南市(北纬23.16度，东经120.59度)发生4.0级地震，震源深度8千米。",
+      "title": "“十五五”开好局起好步丨推动残疾人事业全面发展高质量发展",
+      "link": "https://www.chinanews.com.cn/gn/2026/07-28/10667668.shtml",
+      "pubDate": "Tue, 28 Jul 2026 10:20:43 +0800",
+      "contentSnippet": "国务院新闻办公室今天(7月27日)举行“开局起步‘十五五’”系列主题新闻发布会。中国残联相关负责人介绍了“十五五”时期推进残疾人事业全面发展高质量发展有关情况。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
-        "中国新闻网",
-        "澎湃新闻"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "台湾台南市发生4.0级地震，震源深度8千米。",
-      "credibilityScore": 95,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源权威（中国地震台网、中新网、澎湃新闻），信息具体（时间、地点、震级、深度），用词客观。（多源覆盖 +5）"
-    },
-    {
-      "title": "乌克兰袭击伊朗商船 伊外长：决不罢休",
-      "link": "https://www.zaobao.com/news/world/story20260727-9424443",
-      "pubDate": "Mon, 27 Jul 2026 02:32:38 GMT",
-      "contentSnippet": "伊朗外交部长阿拉格齐指出，乌克兰袭击一艘伊朗商船，伊朗决不会就此罢休。 \n路透社报道，阿拉格齐星期天（7月26日）在X平台发文说，乌克兰袭击了一艘伊朗商船，造成一名船员死亡。他称，此举“是在以色列的授意下公然违反《联合国宪章》的行为，目的是将欧洲拖入战争”。 \n阿拉格齐也说，他与欧盟外交与安全政策高级代表卡拉斯和俄罗斯外长拉夫罗夫通话时，“明确”告诉他们，伊朗决不会就此罢休。\n拉夫罗夫在俄罗斯外交部网站发表声明，对里海袭击造成一名船员死亡表示哀悼。\n拉夫罗夫说，阿拉格齐对这艘船的起航地，即俄罗斯阿斯特拉罕（Astrakhan）的地方政府为船上人员提供帮助表示感谢，“并强调有必要制止基辅政权的此",
-      "sourceName": "联合早报·国际",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·国际"
+        "中国新闻网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "伊朗外长称乌克兰袭击其商船致船员死亡，伊朗不会罢休。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报，转引路透社报道，有直接引述，但事件细节有限，需交叉验证。"
-    },
-    {
-      "title": "国家统计局解读：上半年规模以上工业企业利润实现较快增长",
-      "link": "https://m.thepaper.cn/detail/33665126",
-      "pubDate": "Mon, 27 Jul 2026 01:35:23 GMT",
-      "contentSnippet": "国家统计局工业司首席统计师于卫宁解读2026年1—6月份工业企业利润数据\n上半年，在以习近平同志为核心的党中央坚强领导下，各地区各部门主动作为、综合施策，精准有效实施更加积极有为的宏观政策，因地制宜发展新质生产力，工业生产稳中有进，新动能加快成长壮大，规模以上工业企业利润实现较快增长。\n工业企业利润较快增长。上半年，在工业生产稳定增长、工业品价格持续回升的背景下，规模以上工业企业营业收入同比增长6.5%，较一季度加快1.5个百分点。营业收入加快增长，带动规模以上工业企业利润同比增长18.7%，较一季度加快3.2个百分点。从三大门类看，采矿业、制造业利润分别增长33.5%、20.1%，较一季度分",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国家统计局称上半年规模以上工业企业利润同比增长18.7%，实现较快增长。",
+      "aiSummary": "中国残联介绍“十五五”推动残疾人事业高质量发展计划。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为澎湃新闻，引用国家统计局官方数据，信息具体且客观。"
+      "credibilityReason": "来源中国新闻网较权威，内容具体有发布会信息，用词客观。"
     },
     {
-      "title": "上海，在更高处相见——2026上海城市形象片正式发布",
-      "link": "https://m.thepaper.cn/detail/33664891",
-      "pubDate": "Mon, 27 Jul 2026 01:14:34 GMT",
-      "contentSnippet": "第九届进博会倒计时100天之际，2026上海城市形象片《上海，在更高处相见》（UP! SHANGHAI）正式发布。\n2026年是“十五五”开局之年。“向上”对于个人，是拥抱机遇，走向人生新的高度；对于行业，是推动创新升级，在更高水平实现跨越；对于上海，是能级跃升，不断提升这座城市的世界影响力。\n\n当每个人都在向上奔赴，当每一种可能在高处汇聚，一座城市便拥有不断跃升的力量。第九届进博会相约上海，再次向全球发出“新时代，共享未来”之约，开放共进、合作共赢。\n\n让我们在更高处相见！\nSHANGHAI LET'S MEET!\n《上海，在更高处相见》（UP! SHANGHAI）由上海市人民政府新闻办公室",
-      "sourceName": "澎湃新闻",
+      "title": "台湾茶商在鲁座谈 共话产业合作新机遇",
+      "link": "https://www.chinanews.com.cn/txy/2026/07-28/10667675.shtml",
+      "pubDate": "Tue, 28 Jul 2026 10:18:32 +0800",
+      "contentSnippet": "中新网济南7月28日电 (陈宛婷)台湾南投县茶商代表人士参访团到济阳考察座谈会27日在济南市济阳区举行。多名长期扎根济阳发展的台商代表现场分享兴业安居体会，“高质量发展看山东—台湾茶商齐鲁行”参访团围绕茶产业合作、两岸交流畅谈所思所想。",
+      "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
-        "澎湃新闻"
+        "中国新闻网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "上海发布2026城市形象片，迎接第九届进博会倒计时100天。",
+      "aiSummary": "台湾茶商在济南座谈，探讨茶产业合作与两岸交流。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为澎湃新闻，信息具体，有官方背景，用词客观中性。"
+      "credibilityReason": "来源中国新闻网较权威，内容具体有时间地点人物，用词客观。"
     },
     {
-      "title": "广西壮族自治区政协原副主席莫虚光逝世，享年100岁",
-      "link": "https://m.thepaper.cn/detail/33664920",
-      "pubDate": "Mon, 27 Jul 2026 01:14:34 GMT",
-      "contentSnippet": "澎湃新闻记者从相关方面获悉，广西壮族自治区政协原副主席莫虚光同志，因病医治无效，于2026年7月21日在南宁逝世，享年100岁。\n莫虚光出生于1926年，侗族，广西三江人。抗战时期，莫虚光进入中央军校第四分校学习，编入“中国远征军”。\n抗日战争胜利后，国民党挑起内战，在中共广西党组织发动各地武装起义的影响下，特别是在中国人民解放军挥师南下的鼓舞下，莫虚光于1949年4月25日在良口组织武装暴动，后担任“湘桂黔边区人民解放军”副司令兼第一纵队司令。同年11月，配合中国人民解放军解放三江。在解放军部队主持下，成立三江县治安委员会，莫虚光担任主任。\n1950年4月，莫虚光任三江县人民政府副县长兼县自",
-      "sourceName": "澎湃新闻",
+      "title": "美法在紧急会议上“撕破脸” 法国代表发言时美方公然离场",
+      "link": "https://www.chinanews.com.cn/gj/2026/07-28/10667664.shtml",
+      "pubDate": "Tue, 28 Jul 2026 10:10:30 +0800",
+      "contentSnippet": "中新网7月28日电 据路透社报道，当地时间7月27日，在联合国安理会关于乌克兰问题的紧急公开会上，美国代表团在法国代表发言时公然离场。随后美国代表发言时，更是公开指责这位长期盟友发表“虚伪的作秀言论”。",
+      "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
-        "澎湃新闻"
+        "中国新闻网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "广西政协原副主席莫虚光逝世，享年100岁，曾参加抗战和解放战争。",
+      "aiSummary": "美法在联合国安理会乌克兰问题会议上发生公开争执，美方离场并指责法国。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源澎湃新闻较权威，信息具体有详细生平，用词客观，可交叉验证。"
+      "credibilityReason": "来源为中国新闻网，但引述路透社报道，事件具体且有直接引述，可信度较高。"
     },
     {
-      "title": "习近平总书记重要论述凝聚共同致力民族复兴强大力量",
-      "link": "https://h.xinhuaxmt.com/vh512/share/13214567?newstype=1001&homeshow=1",
-      "pubDate": "Mon, 27 Jul 2026 00:57:08 GMT",
-      "contentSnippet": "习近平总书记重要论述凝聚共同致力民族复兴强大力量",
-      "sourceName": "澎湃新闻",
+      "title": "上半年税务部门累计征收税费收入16.7万亿元",
+      "link": "https://www.chinanews.com.cn/cj/2026/07-28/10667678.shtml",
+      "pubDate": "Tue, 28 Jul 2026 10:08:06 +0800",
+      "contentSnippet": "今天上午，国务院新闻办举行新闻发布会。国家税务总局相关负责人介绍，今年上半年，税务部门累计征收税费收入16.7万亿元。其中，税收收入超过10万亿元，同比增长4.9%。这主要得益于经济运行总体平稳向好，与税收收入密切相关的PPI持续回升，以及部分新兴领域和重点行业发展势头强劲。同时，社会保险费收入完成4.5万亿元，非税收入完成1.8万亿元，国家的财力保障不断夯实。",
+      "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
-        "澎湃新闻"
+        "中国新闻网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "习近平论述凝聚民族复兴力量，澎湃新闻报道。",
+      "aiSummary": "上半年税务部门征收税费收入16.7万亿元，税收超10万亿元，同比增长4.9%。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源澎湃新闻较权威，内容正面且具体，事实可查证。"
+      "credibilityReason": "来源为中国新闻网，引用国新办发布会，信息具体且数据明确，用词客观。"
     },
     {
-      "title": "中国将41沉船事故获救者转交越南 海警再救起两人",
-      "link": "https://www.zaobao.com/news/china/story20260727-9424275",
-      "pubDate": "Mon, 27 Jul 2026 00:13:41 GMT",
-      "contentSnippet": "越南籍船只在南中国海有主权争议的南沙群岛永暑礁附近海域沉没后，中国已将救起的41名遇险人员转交越南。此外，中国海警星期天（7月26日）夜间再救起两名越南遇险船员。\n综合新华社和央视新闻报道，在上述两名越南遇险船员星期天夜间获救前，中方已救起45人。这45人均为越南籍，是遇险船舶“KHOI NGUYEN 18”上的人员。\n现场中国六艘船艇、一架直升机仍在搜寻，越南七艘船艇参与搜寻。\n此外，中国海警宣德舰星期天晚间先后发现两名落水越南籍遇险船员，海警执法员迅速开展施救，分别于晚上10时38分、晚上11时32分成功将两人安全救起，两名获救人员生命体征正常。",
+      "title": "新政府上台后 立陶宛重启与台湾经贸合作谈判",
+      "link": "https://www.zaobao.com/news/china/story20260728-9429808",
+      "pubDate": "Tue, 28 Jul 2026 01:30:32 GMT",
+      "contentSnippet": "新政府上台后，波罗的海国家立陶宛重启与台湾经贸合作的谈判。\n据立陶宛国家广播电视台星期一（7月27日）报道，立陶宛外交部称，立陶宛已在政府改组后，重启与台湾经贸合作的谈判。\n立陶宛外交部上月透露，暂停谈判是因“国内政治环境出现变化”，指的是新联合政府的成立。\n立国外交部称，加强与台湾的经济合作符合立陶宛的长期外交政策目标，因此立陶宛将在完成谈判后与台湾签署经济合作行动计划。\n据介绍，上述谈判重点在于建立可持续的经济联系，借此促进立陶宛高科技产业的发展。不过，立陶宛外交部补充，由于双方目前仍在进行磋商，现阶段暂不公开行动计划的具体细节。\n立陶宛外交部重申对台立场始终如一，并强调极为重视且将寻求进",
       "sourceName": "联合早报·中港台",
       "sourceWeight": 80,
       "allSources": [
@@ -189,33 +186,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国将南沙沉船事故中救起的41名越南籍人员移交越方，海警再救两人。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报，综合新华社和央视报道，信息具体，多源交叉验证。"
-    },
-    {
-      "title": "伊朗外交部：伊朗和美国继续通过调解方交换信息",
-      "link": "https://www.zaobao.com/news/world/story20260727-9424152",
-      "pubDate": "Sun, 26 Jul 2026 23:22:57 GMT",
-      "contentSnippet": "伊朗外交部确认美国正通过巴基斯坦和卡塔尔等调解方与伊朗交换信息。\n伊朗媒体星期天（7月26日）报道，伊朗外交部发言人巴盖伊接受奥地利广播公司ORF访问时强调，任何对话的开展都必须建立“适当的基础”，并指美国已经破坏这一基础。\n他指责华盛顿实际上违反了伊美《谅解备忘录》的“所有条款”。\n巴盖伊说，伊朗眼下的首要任务“是捍卫主权和领土完整，并保护人民免受美国战争罪行的侵害”。\n美国在连续13晚打击伊朗后暂停军事行动，促使伊朗也暂停对波斯湾地区的报复袭击。美国常驻联合国代表沃尔兹26日告诉福克斯新闻，总统特朗普暂停打击伊朗，是为了给外交斡旋预留更多空间。\n伊朗军方发言人阿克拉米尼亚证实，过去两晚美军",
-      "sourceName": "联合早报·国际",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·国际"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "伊朗称通过巴基斯坦和卡塔尔与美国交换信息，指责美方违反备忘录。",
+      "aiSummary": "立陶宛新政府重启与台湾经贸合作谈判，聚焦高科技产业。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报，信息具体有直接引述，但未多源交叉验证，时间设定在未来。"
+      "credibilityReason": "来源为知名媒体联合早报，引用立陶宛国家广播电视台报道，信息具体但缺乏多源交叉验证。"
     },
     {
-      "title": "戴庆成：特朗普11月会访问香港么？",
-      "link": "https://www.zaobao.com/news/china/story20260727-9422678",
-      "pubDate": "Sun, 26 Jul 2026 21:00:00 GMT",
-      "contentSnippet": "前几天去湾仔办事，途中经过人来人往的人行天桥，赫然发现附近的政府大楼外墙悬挂了一幅巨型海报，重点宣传亚太经济合作组织（APEC）财政部长会议，才想起原来距离今年10月举行这场活动的日子，只剩不足100天了。\n1989年成立的APEC，是目前亚太地区最高层级的经济合作论坛，一共有21个成员经济体，每年年底举行领导人非正式会议，云集各经济体的领袖与代表，推动区域自由贸易、经济合作。中国是今年11月APEC领导人峰会的东道主，早前已宣布峰会辖下的财政部长会议交由香港首次承办。\n港府高度重视这项国家任务，很久前就交由财经事务及库务局，专门负责统筹各项筹备及协调工作。过去几个月，相关团队密锣紧鼓地推进场",
+      "title": "大陆科考船赴台东海域调查 官媒称海警拦截日巡视船",
+      "link": "https://www.zaobao.com/news/china/story20260728-9429770",
+      "pubDate": "Tue, 28 Jul 2026 01:20:05 GMT",
+      "contentSnippet": "中国大陆一艘科考船此前在台湾以东海域进行渔业资源调查。大陆官媒报道称，一艘日本巡视船期间曾试图逼近，但被中国海警船拦截。\n《环球时报》星期一（7月27日）报道，中国大陆农业农村部中国水产科学研究院东海水产研究所的“蓝海201”科学调查船，在7月17日至23日期间，前往台湾以东海域展开了为期七天的渔业资源调查。\n报道称，在七天的航程中，不仅有“某国军机”在中国科考船上空盘旋，日本海上保安厅还出动PLH42“春光”号巡视船试图逼近中国科考船。\n报道指出，在周边海域执行常态化执法巡查任务的中国海警2305舰保持高度警惕，将日方“春光”号拦截在中国科考船14海里（25.9公里）范围外，迫使日本巡视船难",
       "sourceName": "联合早报·中港台",
       "sourceWeight": 80,
       "allSources": [
@@ -223,16 +203,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "文章探讨特朗普11月访港参加APEC会议的可能性，分析中美关系影响。",
-      "credibilityScore": 65,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为联合早报，较权威但内容推测性较强，缺少直接引述和官方确认。"
+      "aiSummary": "大陆科考船赴台东海域调查，官媒称海警拦截日本巡视船。",
+      "credibilityScore": 70,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为联合早报，内容具体有时间和细节，但依赖官媒单方报道，缺乏独立验证。"
     },
     {
-      "title": "中国官媒不点名反驳日本外长说法 两国外长有无接触成罗生门",
-      "link": "https://www.zaobao.com/news/china/story20260726-9423696",
-      "pubDate": "Sun, 26 Jul 2026 15:54:21 GMT",
-      "contentSnippet": "日本外长茂木敏充透露与中国外长王毅在马尼拉有过“短暂接触”后，中国官媒称，王毅在参加亚细安外长系列会议期间，并未与日本外交高层会面交谈，间接否认中日外长近九个月来首次接触的说法，使得两国外长在马尼拉有无交集成罗生门。\n受访学者对中日外长上周在马尼拉是否有过接触看法不一，但认为这不影响日本首相高市早苗是否受邀参加年底在深圳举行的亚太经合组织（APEC）峰会，北京也仍未完全关闭对日沟通交流的大门。\n王毅上周到马尼拉出席亚细安外长系列会议期间，缺席数个重要活动，引发舆论解读。中天节目《全球大视野》报道，王毅飞抵马尼拉后未出席菲律宾外长拉扎罗7月21日晚为与会各国外长举办的晚宴。政治评论员介文汲认为，",
+      "title": "第九届进博会步入百日冲刺，驻沪领事眼中的“中国机遇”是什么？",
+      "link": "https://m.thepaper.cn/detail/33669458",
+      "pubDate": "Tue, 28 Jul 2026 00:21:21 GMT",
+      "contentSnippet": "第九届进博会将于2026年11月5日-10日在上海举办。7月27日，进博会倒计时百天驻沪领馆及组展机构宣介招待会在国家会展中心（上海）举行。",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "第九届进博会倒计时百天，驻沪领事探讨中国机遇。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源澎湃新闻较权威，信息具体有时间地点，内容客观。"
+    },
+    {
+      "title": "中国官员促日本提供在华遗留化武线索 加快处置进程",
+      "link": "https://www.zaobao.com/news/china/story20260728-9429541",
+      "pubDate": "Mon, 27 Jul 2026 23:22:40 GMT",
+      "contentSnippet": "日本持续处置在华遗留化学武器之际，中国外交部亚洲司司长刘劲松敦促日本提供有效的埋藏线索，并全方位加大投入，加快处置进程。\n据中国外交部亚洲司微信公众号“亚洲雄风”消息，刘劲松上星期天（7月26日）赴吉林省敦化市，督导哈尔巴岭日遗化武处理作业，实地查看化武挖掘回收和销毁情况，并检查安全管理工作。\n刘劲松与日本作业现场负责人及主要代表会面时说，日遗化武是日本军国主义在侵华战争期间犯下的严重罪行，日本应切实履行国际公约和双边协议义务，向中国提供有效日遗化武埋藏线索信息，加大投入，全链条加快处置进程，“早日彻底清除日遗化武毒害，还中国人民以净土”。\n据日本共同社此前报道，日本内阁府6月17日参加有关日",
       "sourceName": "联合早报·中港台",
       "sourceWeight": 80,
       "allSources": [
@@ -240,16 +237,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中日外长在马尼拉是否接触成谜，中国官媒否认日本说法。",
-      "credibilityScore": 75,
+      "aiSummary": "中国外交部官员敦促日本提供在华遗留化武线索，加快处置进程。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名媒体联合早报，内容具体且引用多方说法，但未直接引述官方声明。"
+      "credibilityReason": "来源为联合早报，内容具体，有直接引述和官方消息，可交叉验证。"
     },
     {
-      "title": "美国扩大对华科研合作黑名单 复旦和上海交通大学上榜",
-      "link": "https://www.zaobao.com/news/china/story20260726-9423583",
-      "pubDate": "Sun, 26 Jul 2026 15:27:30 GMT",
-      "contentSnippet": "美国战争部一份最新名单将88家中国机构列为从事“问题活动”、可能危害美国国家安全和科研诚信的机构。除了具军工背景的高校，复旦大学和上海交通大学这两所顶尖综合性大学也入列。\n受访学者分析，美国对华的去风险范围正扩大，未来更多从事高科技研究的高校也可能受影响，中美科技合作和高端人才交流将受冲击。\n美国战争部星期四（7月23日）公布的“第1286条”名单，依据2019年《国防授权法案》设立，旨在识别对美国科研项目和国家安全构成风险的外国高校和研究机构。这份名单经历数次更新，最新版本将130家外国高校和机构定性为从事“问题活动”，其中88个是中国机构，其余来自俄罗斯和伊朗。\n战争部指出，这些机构从事的",
+      "title": "缪宗翰：凯道呐喊与厨房炊烟",
+      "link": "https://www.zaobao.com/news/china/story20260728-9427795",
+      "pubDate": "Mon, 27 Jul 2026 21:00:00 GMT",
+      "contentSnippet": "7月下旬的台北，烈日将凯达格兰大道的柏油路面烘得微微发晃，路旁绿荫在热风中纹丝不动。湿热的星期六（7月25日）下午，这条象征权力核心的大道再次聚集人群。台上的政党要角仍是熟悉面孔，台下举起的标语却换成“我是人，我反毒台”“还我食安”“我要健康”。 \n隔天的7月26日，恰是一年前台湾首波“大罢免”投票的日子。 \n2025年7月26日，24名国民党立委与停职中的新竹市长高虹安面对罢免投票；到同年8月23日第二波结束，另七名国民党立委也全数过关。31名蓝委加上高虹安，32案无一通过，立法院席次一席未动。激情过后，“朝小野大”的格局，又多经历了一次民意检验。\n一年之间，凯道上的口号从宏大的政治认同，转",
       "sourceName": "联合早报·中港台",
       "sourceWeight": 80,
       "allSources": [
@@ -257,10 +254,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "美国扩大对华科研黑名单，复旦和上海交大上榜，中美科技合作受冲击。",
+      "aiSummary": "台湾凯道集会主题从政治转向民生，回顾一年前罢免投票结果。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源联合早报较权威，内容具体有日期和学者引述，但未多源交叉验证。"
+      "credibilityReason": "来源为联合早报，较权威；内容具体有时间地点，但无直接引述，部分细节需交叉验证。"
     }
   ]
 }

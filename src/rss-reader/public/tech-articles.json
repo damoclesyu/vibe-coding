@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-07-27T03:33:12.924Z",
+  "generatedAt": "2026-07-28T02:50:00.527Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "中核集团等在江苏成立新创业投资合伙企业，出资额27亿",
-      "link": "https://36kr.com/newsflashes/3913296136983685?f=rss",
-      "pubDate": "2026-07-27 10:50:41  +0800",
-      "contentSnippet": "36氪获悉，天眼查App显示，近日，中核（江苏）战新创业投资合伙企业（有限合伙）成立，执行事务合伙人为中核产业基金管理有限公司，出资额27亿人民币，经营范围为股权投资、创业投资。合伙人信息显示，该合伙企业由中国核工业集团有限公司、南京江北新区高质量发展产业投资基金（有限合伙）、诚通科创投资基金（江苏）有限公司等共同出资。",
+      "title": "国家发改委：中欧班列架起中欧经贸快车道，国产空调15天左右直达欧洲",
+      "link": "https://36kr.com/newsflashes/3914682618451331?f=rss",
+      "pubDate": "2026-07-28 10:21:05  +0800",
+      "contentSnippet": "7月28日，国家发展改革委召开中欧班列专题新闻发布会。国家发展改革委开放司司长梁林冲表示，中欧班列已成为密切国际经贸往来的重要桥梁。中欧班列横亘亚欧、连接东西，有效衔接生产和消费，极大促进了沿线国家商品流通与产业互补，运输货物品类覆盖53大类5万多个品种，运送货值占货物贸易额比重逐年提升。今年6月，欧洲地区热浪席卷，最高温度达到40℃以上，对空调制冷需求爆发式增长，中国空调在当地卖到断货，美的、格力等空调厂商从海运切换到中欧班列，运输周期从40天压缩到15天左右，搭建起了中欧贸易快车道。（证券时报）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -16,16 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中核集团等成立27亿创业投资合伙企业",
-      "credibilityScore": 75,
+      "aiSummary": "中欧班列缩短中国空调运欧时间至15天，促进贸易。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪可信，信息具体有数据支撑，但非一手官方公告"
+      "credibilityReason": "来源为36氪转载证券时报，内容具体有数据支撑，逻辑清晰。"
     },
     {
-      "title": "最前线｜加速构建太空大脑，「数字空间一号」试验星工程正式在京启动",
-      "link": "https://36kr.com/p/3912546487637378?f=rss",
-      "pubDate": "2026-07-27 09:00:00  +0800",
-      "contentSnippet": "文｜阿至\n过去十年，中国商业航天完成了“造得出、送得上”的第一阶段目标，卫星产能快速爬坡，可回收火箭验证走向密集验证节点。但当轨道资源从宽松走向拥挤，各国之间的竞争焦点也从发射能力转向运行能力的比拼，“管得住、用得好”至关重要。\n根据国防科技大学的测算，在卫星之间保持50千米最小安全间距的前提下，300-2000公里的全低轨空间最多只能安全容纳约17.5万颗卫星。当卫星数量从几千颗变成上万颗时，地面站排队上下行指令的传统方式就会难以为继，现有的卫星管控模式也正在失效。\n“未来十年，航天发展的主旋律，应该是空间的数字化和智能化。”中国科学院院士魏奉思在上个月的科技创新院士报告厅演讲中曾提及这一核",
+      "title": "上半年税务部门累计征收税费收入16.7万亿元",
+      "link": "https://36kr.com/newsflashes/3914673612772485?f=rss",
+      "pubDate": "2026-07-28 10:11:55  +0800",
+      "contentSnippet": "今天上午，国务院新闻办举行新闻发布会。国家税务总局相关负责人介绍，今年上半年，税务部门累计征收税费收入16.7万亿元。其中，税收收入超过10万亿元，同比增长4.9%。这主要得益于经济运行总体平稳向好，与税收收入密切相关的PPI持续回升，以及部分新兴领域和重点行业发展势头强劲。同时，社会保险费收入完成4.5万亿元，非税收入完成1.8万亿元，国家的财力保障不断夯实。（央视新闻）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -33,16 +33,84 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "36氪报道数字空间一号试验星在京启动，聚焦太空智能化管控。",
+      "aiSummary": "上半年税务部门征收税费收入16.7万亿元，税收收入超10万亿增4.9%。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为央视新闻，数据具体且有官方发布会支撑，信息详实可靠。"
+    },
+    {
+      "title": "微软 Win10/Win11 经典版 Outlook 于 2027 年 3 月启动迁移，维护支持至 2029 年",
+      "link": "https://www.ithome.com/0/982/290.htm",
+      "pubDate": "Mon, 27 Jul 2026 23:36:10 GMT",
+      "contentSnippet": "IT之家 7 月 28 日消息，科技媒体 Windows Latest 昨日（7 月 27 日）发布博文，报道称微软计划 2027 年 3 月推进用户迁移到 Windows 10、Windows 11 新版 Outlook 中。\n根据官方公布的路线图，微软表示：\n\n企业环境的迁移（opt-out）阶段将从 2027 年 3 月开始（此前为 2026 年 4 月），这将为各组织提供 12 个月的准备时间。GCC High 和国防部的具体时间表将在稍后另行通知。\n\nIT之家援引博文介绍，在 2027 年 3 月之后，用户依然可以正常使用经典版 Outlook，不过在使用过程中，打开链接等功能会自动",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微软计划2027年3月启动经典版Outlook迁移至新版。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体IT之家，引用官方路线图，信息具体且有时间节点。"
+    },
+    {
+      "title": "【钛晨报】《疾病预防控制“十五五”规划》印发，提出重大传染病防控6项任务；中上协：上半年全市场新增首发上市公司71家，首发募资总额705.74亿元；57个国家和3个国际组织确认参加今年进博会国家展",
+      "link": "https://www.tmtpost.com/8081318.html",
+      "pubDate": "Tue, 28 Jul 2026 07:20:00 +0800",
+      "contentSnippet": "企业微信AI助理\"大圆\"开启内测，可自动写周报、管待办；腾讯WorkBuddy正式上架鸿蒙电脑应用市场；NAVER、Brookfield与英伟达合作，扩大韩国国家人工智能工厂基础设施建设；软银集团用于投资OpenAI的400亿美元贷款据悉新增21家贷款人；工信部：推动“小快轻准”数字化产品和服务持续迭代优化；《光伏行业成本核算模型通则》发布，引导行业有序竞争；工信部：将加快编制出台智能网联新能源汽车产业发展“十五五”规划；中央结算公司：决定调降部分主营业务收费；英伟达正与OpenAI洽谈，拟为数据中心项目提供2500亿美元融资担保",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体晨报汇总多领域新闻，含疾控规划、IPO数据、企业AI动态等。",
       "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，内容具体，引用国防科技大学测算，逻辑清晰。"
+      "credibilityReason": "来源为知名科技媒体钛媒体，内容具体且包含多源信息，但部分细节未提供原始出处。"
     },
     {
-      "title": "小鹏集团官宣澳大利亚长期战略，未来 6 个月将在当地推出 5 款全新车型",
-      "link": "https://www.ithome.com/0/981/921.htm",
-      "pubDate": "Mon, 27 Jul 2026 03:23:14 GMT",
-      "contentSnippet": "IT之家 7 月 27 日消息，据小鹏汽车官方分享，小鹏集团正式官宣澳大利亚长期战略。\n\n据介绍，小鹏近日在墨尔本举办发布会，宣布未来 6 个月将在澳大利亚推出 5 款全新车型，并持续完善当地销售与服务网络。\n\n七座旗舰小鹏 X9 现已开放预订，小鹏 MONA L03 右舵版首次公开亮相；未来 6 个月，小鹏还将在澳大利亚布局 3 家旗舰智能科技体验中心及 50 个销售网点。\n与此同时，「一车双能」战略正式落地澳洲，鲲鹏超级增程技术将为当地用户带来更多出行选择；小鹏图灵 AI 智驾（NGP）计划于 2027 年登陆澳洲。\n发布会现场，小鹏也首次在澳洲完整展示物理 AI 版图，涵盖 AI 汽车、",
+      "title": "长鑫“芯王”加冕，朋友圈赛博贺喜背后",
+      "link": "https://www.tmtpost.com/8081355.html",
+      "pubDate": "Mon, 27 Jul 2026 22:04:54 +0800",
+      "contentSnippet": "这可能并不是一次简单的同行或供应链伙伴间的客套",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "长鑫存储技术突破获业界祝贺，分析其行业影响",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体，内容具体但缺少技术细节和原始数据支撑"
+    },
+    {
+      "title": "杭州：拟适当超前布局算力网、新型电网、新一代通信网等新型设施",
+      "link": "https://36kr.com/newsflashes/3914706682254473?f=rss",
+      "pubDate": "2026-07-28 10:45:34  +0800",
+      "contentSnippet": "36氪获悉，《杭州市人工智能产业发展促进条例（草案）》公开征求意见。其中提出，市人民政府应当统筹规划人工智能基础设施体系建设，适当超前布局算力网、新型电网、新一代通信网、数据可信空间等新型设施，建立健全市场化运营机制，保障各类设施的高效利用与安全可控；市人民政府应当统筹智能算力设施布局和能源资源配置。建设超大城市新型能源体系，强化电源、电网、负荷、储能协同，推动城市供电可靠性符合智能算力设施使用标准，保障算力用电安全稳定充足。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "杭州拟超前布局算力网等新型基础设施",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪为知名科技媒体，内容具体有政策文件支撑，逻辑清晰"
+    },
+    {
+      "title": "机械革命耀世 15 Air 云杉青版本开售：酷睿 Ultra 7 356H 配 RTX 5060，11999 元（国补 10499 元）",
+      "link": "https://www.ithome.com/0/982/382.htm",
+      "pubDate": "Tue, 28 Jul 2026 02:44:34 GMT",
+      "contentSnippet": "IT之家 7 月 28 日消息，机械革命昨日宣布 —— 机械革命耀世 15 Air 云杉青版本正式开售，配备 32GB LPDDR5X 8533MT/s 高频内存 +1TB PCIe 4.0 固态硬盘，首发价 11999 元，叠加国补后 10499 元。\n京东机械革命耀世 15Air 英特尔酷睿 ultra  国家补贴 游戏笔记本电脑（ Ultra 7 356H 32G 1T RTX5060 OLED 青）11999 元直达链接\n2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取。\n数码补贴：点此领券\n\n手机 / 平板 / 3C 数码支持 8.5",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -50,16 +118,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "小鹏宣布未来6个月在澳推5款新车，含X9和MONA L03，布局销售网络。",
+      "aiSummary": "机械革命耀世15 Air云杉青版开售，配Ultra 7 356H和RTX 5060，售价11999元。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，信息具体含配置和价格，有国补细节，逻辑清晰。"
+    },
+    {
+      "title": "杭州：拟支持企业建设词元生产平台、交易结算平台、对外服务平台",
+      "link": "https://36kr.com/newsflashes/3914705126528133?f=rss",
+      "pubDate": "2026-07-28 10:43:59  +0800",
+      "contentSnippet": "36氪获悉，《杭州市人工智能产业发展促进条例（草案）》公开征求意见。其中提出，拟支持词元经济布局发展。支持企业建设词元生产平台、交易结算平台、对外服务平台，提升本市的词元生产、调度和配置能力。支持词元服务消费市场发展，推动词元服务在制造、政务、教育、医疗、金融、消费等重点行业的示范应用和推广，促进词元服务与实体经济深度融合。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "杭州拟立法支持词元经济，建设生产、交易、服务平台。",
       "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有车型、时间、网络布局细节，但缺乏官方链接或数据支撑。"
+      "credibilityReason": "来源36氪知名科技媒体，内容具体有政策细节，但缺乏原始草案链接。"
     },
     {
-      "title": "华硕 ROG Strix XG27UCMG 三模显示器规格确认，预计近日开售",
-      "link": "https://www.ithome.com/0/981/920.htm",
-      "pubDate": "Mon, 27 Jul 2026 03:21:37 GMT",
-      "contentSnippet": "IT之家 7 月 27 日消息，华硕 (ASUS) 现已在官网公开三模显示器 ROG Strix XG27UCMG 的规格信息。这一产品在此前预告中首发定价 3499 元，本月内开售。\nXG27UCMG 采用 27\" Fast IPS 显示面板，响应时间低至 0.03ms，支持 UHD (3840×2160) 240Hz / QHD (2560×1440) 400Hz（超频） / FHD (1920×1080) 488Hz（超频） 三模切换。\n\n其亮度 400nits，通过 VESA DisplayHDR 400 认证，对比度典型值 1300:1，色域 95% DCI-P3；提供 1 个 HD",
+      "title": "国内首款：钱江 QJMOTOR 闪 600V4 AMT 巡航摩托车上市，32999 元",
+      "link": "https://www.ithome.com/0/982/380.htm",
+      "pubDate": "Tue, 28 Jul 2026 02:41:36 GMT",
+      "contentSnippet": "IT之家 7 月 28 日消息，钱江摩托旗下品牌 QJMOTOR 今日发布了闪 600V4 AMT 新品，售价 32999 元，是国内首款搭载 V4 发动机与 AMT 自动变速箱的巡航摩托车。\n\n该车搭载 V 型四缸水冷 560CC 发动机，最大功率 50 千瓦，最大扭矩 54 牛 · 米；升级 4.1 版 AMT 智能自动挡系统，TCU 智能电控加持，100 毫秒极速换挡。\n\n该车可选三款配色，搭载 LED 大灯、3.6 英寸 TFT 圆形仪表、ABS + TCS、智能车联系统等。\n\n\n\nIT之家从 QJMOTOR 官方公告获悉，QJMOTOR 闪 600V4 AMT 首发可享五大购车权益，",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -67,16 +152,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "华硕ROG Strix XG27UCMG三模显示器规格确认，预计近日开售。",
+      "aiSummary": "钱江发布国内首款V4+AMT巡航摩托闪600V4，售价32999元",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，信息具体有规格细节，逻辑清晰。"
+      "credibilityReason": "IT之家为知名科技媒体，信息具体有数据支撑，来源可靠"
     },
     {
-      "title": "全球首款 AI 智能体手机，努比亚 NaviX Ultra 三色官图公布",
-      "link": "https://www.ithome.com/0/981/916.htm",
-      "pubDate": "Mon, 27 Jul 2026 03:20:23 GMT",
-      "contentSnippet": "IT之家 7 月 27 日消息，努比亚现已公布 NaviX Ultra 的三色官图，三款配色都是较为朴实的纯色，没有过多张扬的元素。\nIT之家附该机官图如下：\n黑色：\n\n\n\n\n白色：\n\n\n\n\n蓝色：\n\n\n\n\n据官方介绍，努比亚 NaviX Ultra 是全球首款 AI 智能体手机，搭载豆包手机助手。这款手机将提供黑、粉、银、紫等配色，配有橙色的“AI 键”，搭载横向后置摄像模组。\n结合IT之家此前援引晚点 LatePost 爆料，这款手机调整了与阿里、腾讯等各家超级应用的合作方式，将不会在用户授权后读取屏幕，模拟点击、像人一样操作应用（所谓 GUI 技术）。\n只有这些应用自行提供 MCP（模型",
+      "title": "三星 Galaxy Z Fold8 手机测试精细化应用缩放，5 档尺寸调节",
+      "link": "https://www.ithome.com/0/982/377.htm",
+      "pubDate": "Tue, 28 Jul 2026 02:38:39 GMT",
+      "contentSnippet": "IT之家 7 月 28 日消息，科技媒体 Android Authority 昨日（7 月 27 日）发布博文，报道称在 Galaxy Z Fold8 等折叠手机上，三星正酝酿精细化应用缩放功能，支持用户为某个应用设置 5 档缩放级别。\n该功能目前仍处于开发阶段，路径位于“设置 → 高级功能 → Labs”下，用户可以针对某个特定应用，设定不同的缩放级别。IT之家附上相关截图如下：\n\n\n\n该功能目前出现在运行 One UI 9 的 Galaxy Z Fold8 手机上，而 Galaxy Z Fold8 Ultra 和 Galaxy Z Flip8 两款折叠手机尚未发现相关选项。\n在安卓系统中，",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -84,16 +169,85 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "努比亚公布全球首款AI智能体手机NaviX Ultra三色官图",
-      "credibilityScore": 75,
+      "aiSummary": "三星Galaxy Z Fold8测试5档应用缩放功能，提升折叠屏体验。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，内容具体但缺少技术细节和原始出处验证"
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有截图和路径描述，但未提供原始博文链接。"
     },
     {
-      "title": "上汽集团与飞书签署合作协议",
-      "link": "https://36kr.com/newsflashes/3913321093616777?f=rss",
-      "pubDate": "2026-07-27 11:16:38  +0800",
-      "contentSnippet": "36氪获悉，近日，上海汽车集团股份有限公司与飞书签署集团层面合作协议。此前，上汽通用、上汽通用五菱、智己汽车、联合汽车电子等上汽旗下及体系内企业已先后与飞书开展合作。目前，双方正围绕上汽研产供销服全链路梳理高价值AI应用场景，部分场景已进入验证或运营阶段。后续，双方将围绕集团全域协同、研发项目管理、AI业务应用和整零协作持续深化合作。",
+      "title": "KKR据悉正在考虑以5亿美元的价格出售LS Automotive India",
+      "link": "https://36kr.com/newsflashes/3914696928925060?f=rss",
+      "pubDate": "2026-07-28 10:35:38  +0800",
+      "contentSnippet": "KKR据悉正在考虑以5亿美元的价格出售LS Automotive India。（新浪财经）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪",
+        "钛媒体"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "KKR考虑以5亿美元出售LS Automotive India。",
+      "credibilityScore": 75,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体，信息具体但缺少原始出处细节。（多源覆盖 +5）"
+    },
+    {
+      "title": "联想来酷斗战者公布战 7000P 锐龙版游戏本：8940HX + 5060",
+      "link": "https://www.ithome.com/0/982/367.htm",
+      "pubDate": "Tue, 28 Jul 2026 02:31:13 GMT",
+      "contentSnippet": "IT之家 7 月 28 日消息，联想 (Lenovo) 来酷 (Lecoo) 斗战者 (BELLATOR) 今日正式公布了战 7000P 锐龙版游戏笔记本电脑。\n这一型号搭载 AMD 锐龙 9 8940HX 处理器和 NVIDIA GeForce RTX 5060 笔记本电脑 GPU，配备 16GB DDR5-4800 SO-DIMM 内存和 512GB PCIe Gen4 SSD 存储，首发优惠价 9799 元、国家补贴后到手价 8329.15 元，8 月 4 日 10:00 开售。\n\n战 7000P 锐龙版搭载至高 215W 性能释放的四热管三风扇飓风 2.0 散热架构，CPU 性能释放可",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "联想来酷发布战7000P锐龙版游戏本，配置8940HX和5060显卡",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体IT之家，信息具体有配置和价格细节，但未来日期需核实"
+    },
+    {
+      "title": "增幅约 14%：曝三星 Galaxy S27 Ultra 手机额定 5534mAh 电池",
+      "link": "https://www.ithome.com/0/982/362.htm",
+      "pubDate": "Tue, 28 Jul 2026 02:23:55 GMT",
+      "contentSnippet": "IT之家 7 月 28 日消息，科技媒体 Galaxy Club 昨日（7 月 27 日）发布博文，分享了三星 Galaxy S27 Pro 和 Galaxy S27 Ultra 两款旗舰手机的电池信息。\nGalaxy S27 Pro 方面，消息称该机额定电池容量为 5087mAh，上市后宣传用的典型值预估为 5200mAh。\nGalaxy S27 Ultra 方面，消息称该机配备额定 5534mAh 容量的电池，上市后宣传用的典型值预估为 5700mAh 或者 5800mAh。\nIT之家查询公开资料，Galaxy S26 Ultra 的额定电池容量为 4855mAh，宣传典型值为 5000m",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "三星Galaxy S27 Ultra电池容量曝光，额定5534mAh，增幅约14%。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，引用科技媒体Galaxy Club，信息具体但缺乏官方确认。"
+    },
+    {
+      "title": "小米米家电动剃须刀开售：环抱锁须结构、双环波纹刀网，199.75 元",
+      "link": "https://www.ithome.com/0/982/360.htm",
+      "pubDate": "Tue, 28 Jul 2026 02:22:24 GMT",
+      "contentSnippet": "IT之家 7 月 28 日消息，小米新款米家电动剃须刀今日正式开售，该产品采用环抱锁须结构，匹配双环波纹刀网，同时支持动力自适应调节，定价为 249 元，首发价 199.75 元。\n京东小米米家电动剃须刀低至 199.75 元直达链接\n2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取。\n数码补贴：点此领券\n\n手机 / 平板 / 3C 数码支持 8.5 折政府补贴，不超过 6000 元的产品至高立减 500 元。\n\n家电补贴：点此领券\n\n多类家电支持 8.5 折政府补贴，单品至高补贴 1500 元。\n\n欢迎下载最会买 App - 好货好价，高额返利",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "小米新款米家电动剃须刀开售，定价249元，首发价199.75元。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体IT之家，信息具体，有产品细节和价格，逻辑清晰。"
+    },
+    {
+      "title": "飞利浦二季度销售增长4%，上调利润和现金流预期",
+      "link": "https://36kr.com/newsflashes/3914681260021121?f=rss",
+      "pubDate": "2026-07-28 10:19:42  +0800",
+      "contentSnippet": "当地时间7月27日，飞利浦公布2026年第二季度业绩，集团销售额达44亿欧元，同比增长4%（可比口径）。受美国关税退款影响，公司营业利润升至6.09亿欧元，调整后EBITA利润率提升至16.4%；自由现金流达2.22亿欧元。飞利浦重申全年销售增长预期，并将调整后EBITA利润率预期由此前的12.5%-13.0%上调至13.5%-14.0%，自由现金流预期提高至15亿至17亿欧元。（界面）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -101,163 +255,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "上汽集团与飞书签署集团层面合作协议，聚焦AI应用场景。",
+      "aiSummary": "飞利浦二季度销售增长4%，上调利润和现金流预期。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体且逻辑清晰，有合作细节和场景描述。"
-    },
-    {
-      "title": "N长鑫涨幅扩大至500%",
-      "link": "https://36kr.com/newsflashes/3913317235103106?f=rss",
-      "pubDate": "2026-07-27 11:12:08  +0800",
-      "contentSnippet": "36氪获悉，N长鑫涨幅扩大至500%，成交额超1160亿元。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "N长鑫股价暴涨500%，成交额超1160亿",
-      "credibilityScore": 70,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪知名科技媒体，但缺乏技术细节和原始出处"
-    },
-    {
-      "title": "曹操出行正式开放 Robotaxi 主驾无安全员测试",
-      "link": "https://www.ithome.com/0/981/907.htm",
-      "pubDate": "Mon, 27 Jul 2026 03:12:03 GMT",
-      "contentSnippet": "IT之家 7 月 27 日消息，曹操出行今日宣布正式开放 Robotaxi 主驾无安全员测试。\n本次测试在浙江省杭州市滨江区的真实城市道路环境开展，以特定站点触发派单的运营机制，在确保安全的基础上，小规模、可控地验证主驾无安全员运营的稳定性与服务可靠性。\n\n测试车辆已全面接入“曹操智行 RAS 远程安全服务平台”。该平台作为 Robotaxi 业务的云端安全与运营中枢，承担着全程安全监控、紧急呼叫响应、远程实时协助及异常情况处置等关键职责。\n今年 4 月，曹操出行获批成为杭州市首家可开展无安全员智能网联汽车道路测试的企业。目前，该公司已在杭州部署百辆规模的 Robotaxi 车队。全球首个“绿",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "曹操出行在杭州开放主驾无安全员Robotaxi测试，接入远程安全平台。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家较权威，内容具体有技术细节和官方背景，逻辑清晰。"
-    },
-    {
-      "title": "雷军公布小米澎程 N90 Max 新车色「远山青」，采用含蓄沉静的灰青色调设计",
-      "link": "https://www.ithome.com/0/981/905.htm",
-      "pubDate": "Mon, 27 Jul 2026 03:11:12 GMT",
-      "contentSnippet": "IT之家 7 月 27 日消息，小米创办人、董事长兼 CEO 雷军刚刚公布了澎程 N90 Max 新车色 ——「远山青」的外观官图。\n\n灵感来自天际线上，远山的那一抹青蓝，含蓄沉静的灰青色调，温润、清雅、克制而高级。细腻的蓝绿色素与金属颗粒，随车身自然流动，光线流转，呈现出不同层次的青蓝质感。\n\n\n\n\n\n据介绍，SkyNomad 小米澎程是小米汽车的第二个系列，定位智能可变大空间的 SUV。其中，小米澎程 N90 Max 是大七座旗舰增程 SUV。另外，小米澎程还有一款大五座四驱增程 SUV —— 小米澎程 N70 Max。\n据IT之家今日早些时候报道，小米官方已宣布，小米澎程 7 月 30",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "小米公布澎程N90 Max新配色“远山青”，灵感源自远山青蓝。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体但缺乏技术细节和原始出处。"
-    },
-    {
-      "title": "联想拯救者云游戏掌机 C700 官宣 8 月登场，主打 10ms 超低延迟串流体验",
-      "link": "https://www.ithome.com/0/981/898.htm",
-      "pubDate": "Mon, 27 Jul 2026 03:09:10 GMT",
-      "contentSnippet": "IT之家 7 月 27 日消息，联想拯救者官方今天宣布云游戏掌机 C700 将于 8 月登场，主打低延迟串流体验 + 软硬件协同。\n\n据介绍，这款掌机采用 PC 端软件支持 + 自研串流协议方案，可实现 10ms 超低延迟串流体验（联想实验室数据，使用拯救者 Y9000P RTX 4060 版，画质 1080P/120Hz）。\n同时，这款掌机还可搭配 Legion Stream 串流坞使用，支持一键配对，体验更简单便捷，并支持在无网络环境中串流本地游戏。\n联想目前还没有公布这款掌机的参数信息，IT之家将持续关注，第一时间带来最新消息。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "联想宣布8月推出云游戏掌机C700，主打10ms低延迟串流。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，内容具体但缺少产品参数和独立验证。"
-    },
-    {
-      "title": "港交所将推出中际旭创股票期权",
-      "link": "https://36kr.com/newsflashes/3913310682977672?f=rss",
-      "pubDate": "2026-07-27 11:05:28  +0800",
-      "contentSnippet": "36氪获悉，港交所今日公告，若中际旭创相关股票成功上市，其中际旭创股票期权将于2026年7月30日开始交易，涵盖每月及每周到期合约，合约买卖单位为50股，持仓限额为5万张。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "港交所将推出中际旭创股票期权，7月30日交易。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体有日期和合约细节，但依赖假设性上市条件。"
-    },
-    {
-      "title": "美团CatPaw全新上线，已在多个真实业务场景中完成验证",
-      "link": "https://36kr.com/newsflashes/3913308658291845?f=rss",
-      "pubDate": "2026-07-27 11:03:25  +0800",
-      "contentSnippet": "36氪获悉，7月27日，美团全场景AI Agent平台CatPaw全新上线。该平台提供开箱即用的AI工作台，以及企业级Agent开发与托管能力，旨在帮助企业和商家构建可协作、可管理的AI帮手，推进日常业务的智能化处理，提升商家经营效率。目前，CatPaw已在美团内部覆盖9万名员工、搭建超过3万个Agent，并在餐饮、美业、宠物医院等多个真实业务场景中完成验证。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "美团发布全场景AI Agent平台CatPaw，已覆盖9万员工和3万Agent。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体有数据支撑，逻辑清晰。"
-    },
-    {
-      "title": "1700 元租车被强加 4000 元保险，悟空租车 CEO 胡显河道歉并宣布整改",
-      "link": "https://www.ithome.com/0/981/891.htm",
-      "pubDate": "Mon, 27 Jul 2026 02:59:42 GMT",
-      "contentSnippet": "IT之家 7 月 27 日消息，据北京商报 7 月 23 日报道，有消费者 1700 元在悟空租车平台（以下简称“悟空平台”）租下 8 天的腾势 D9，却被前来送车的工作人员要求现场加购约 4000 元的保险。\n消费者反馈，自己在悟空平台遇到了“低价引流、高价加收保险费”的租车陷阱。拒绝加购保险后，他收到了来自租车商家的威胁：“出问题不走保险。”\n对此，悟空租车 CEO 胡显河 7 月 26 日发布视频进行回应，表示：“我们道歉、整改，用户已补偿，涉及商户已处罚。请大家继续监督。”\n\n胡显河表示，自己早在一两个月前就呼吁治理行业乱象，但靠悟空租车一家太难了。\n胡显河还提到了行业内卷现象，租金价",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "悟空租车被曝强制加购保险，CEO道歉并宣布整改。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自IT之家，引用北京商报报道，有具体事件细节和CEO回应。"
-    },
-    {
-      "title": "原版诞生 24 年后，Katoki Hajime 款 MAPP 鼠标将迎来复刻",
-      "link": "https://www.ithome.com/0/981/890.htm",
-      "pubDate": "Mon, 27 Jul 2026 02:59:30 GMT",
-      "contentSnippet": "IT之家 7 月 27 日消息，日本硬件制造商 ELECOM（宜丽客）曾在 2002 年邀请《攻壳机动队》漫画家士郎正宗与 ACG 机械设定师 Katoki Hajime 合作打造了两款 MAPP （机械设计师加速外设）系列鼠标。\n而在士郎正宗版 MAPP 鼠标复刻版推出后不久，与 ELECOM 合作的日本模型杂志 Hobby Japan 在当地时间 24 日宣布，Katoki Hajime 版 MAPP 鼠标也将迎来重置复刻。\n\n▲ 2002 年原始鼠标\n相比士郎正宗版，原始的 Katoki Hajime 版 MAPP 鼠标形状更为对称，但仍彰显出属于那个时代的未来感气息，造型硬核。\n\n此外",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "ELECOM将复刻Katoki Hajime版MAPP鼠标，原版于2002年发布。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有历史背景，但缺少官方确认细节。"
-    },
-    {
-      "title": "港股新消费概念股持续走强，小米集团涨近7%",
-      "link": "https://36kr.com/newsflashes/3913303736898691?f=rss",
-      "pubDate": "2026-07-27 10:58:25  +0800",
-      "contentSnippet": "36氪获悉，港股新消费概念股持续走强，小米集团涨近7%，沪上阿姨涨超4%，老铺黄金、蜜雪集团等多股均涨超2%。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "港股新消费概念股走强，小米涨近7%。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪知名科技媒体，内容具体但缺少数据支撑和深度分析。"
+      "credibilityReason": "来源36氪为知名科技媒体，内容具体有数据支撑，引用界面报道。"
     }
   ]
 }
