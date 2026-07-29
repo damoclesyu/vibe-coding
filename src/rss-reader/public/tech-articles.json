@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-07-28T02:50:00.527Z",
+  "generatedAt": "2026-07-29T02:57:02.546Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "国家发改委：中欧班列架起中欧经贸快车道，国产空调15天左右直达欧洲",
-      "link": "https://36kr.com/newsflashes/3914682618451331?f=rss",
-      "pubDate": "2026-07-28 10:21:05  +0800",
-      "contentSnippet": "7月28日，国家发展改革委召开中欧班列专题新闻发布会。国家发展改革委开放司司长梁林冲表示，中欧班列已成为密切国际经贸往来的重要桥梁。中欧班列横亘亚欧、连接东西，有效衔接生产和消费，极大促进了沿线国家商品流通与产业互补，运输货物品类覆盖53大类5万多个品种，运送货值占货物贸易额比重逐年提升。今年6月，欧洲地区热浪席卷，最高温度达到40℃以上，对空调制冷需求爆发式增长，中国空调在当地卖到断货，美的、格力等空调厂商从海运切换到中欧班列，运输周期从40天压缩到15天左右，搭建起了中欧贸易快车道。（证券时报）",
+      "title": "截至6月底，我国高价值发明专利拥有量达236万件",
+      "link": "https://36kr.com/newsflashes/3916093249465735?f=rss",
+      "pubDate": "2026-07-29 10:16:03  +0800",
+      "contentSnippet": "今天（29日），国家知识产权局在国务院新闻办公室举行的发布会上介绍，我国知识产权创造质量稳步提升。截至6月底，我国高价值发明专利拥有量达到236万件，每万人口高价值发明专利拥有量提升至16.8件。高价值专利的稳定增长是我国创新实力持续提升的直接体现。同时，商标结构持续优化，服务类商标占到有效注册商标总量的31%，为现代服务业品牌化发展筑牢了“保护之盾”。（央视新闻）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -16,204 +16,34 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中欧班列缩短中国空调运欧时间至15天，促进贸易。",
-      "credibilityScore": 85,
+      "aiSummary": "我国高价值发明专利达236万件，创新实力提升。",
+      "credibilityScore": 95,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为36氪转载证券时报，内容具体有数据支撑，逻辑清晰。"
+      "credibilityReason": "来源权威（央视新闻），数据具体且有官方发布会支撑，信息准确。"
     },
     {
-      "title": "上半年税务部门累计征收税费收入16.7万亿元",
-      "link": "https://36kr.com/newsflashes/3914673612772485?f=rss",
-      "pubDate": "2026-07-28 10:11:55  +0800",
-      "contentSnippet": "今天上午，国务院新闻办举行新闻发布会。国家税务总局相关负责人介绍，今年上半年，税务部门累计征收税费收入16.7万亿元。其中，税收收入超过10万亿元，同比增长4.9%。这主要得益于经济运行总体平稳向好，与税收收入密切相关的PPI持续回升，以及部分新兴领域和重点行业发展势头强劲。同时，社会保险费收入完成4.5万亿元，非税收入完成1.8万亿元，国家的财力保障不断夯实。（央视新闻）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "上半年税务部门征收税费收入16.7万亿元，税收收入超10万亿增4.9%。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为央视新闻，数据具体且有官方发布会支撑，信息详实可靠。"
-    },
-    {
-      "title": "微软 Win10/Win11 经典版 Outlook 于 2027 年 3 月启动迁移，维护支持至 2029 年",
-      "link": "https://www.ithome.com/0/982/290.htm",
-      "pubDate": "Mon, 27 Jul 2026 23:36:10 GMT",
-      "contentSnippet": "IT之家 7 月 28 日消息，科技媒体 Windows Latest 昨日（7 月 27 日）发布博文，报道称微软计划 2027 年 3 月推进用户迁移到 Windows 10、Windows 11 新版 Outlook 中。\n根据官方公布的路线图，微软表示：\n\n企业环境的迁移（opt-out）阶段将从 2027 年 3 月开始（此前为 2026 年 4 月），这将为各组织提供 12 个月的准备时间。GCC High 和国防部的具体时间表将在稍后另行通知。\n\nIT之家援引博文介绍，在 2027 年 3 月之后，用户依然可以正常使用经典版 Outlook，不过在使用过程中，打开链接等功能会自动",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "微软计划2027年3月启动经典版Outlook迁移至新版。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，引用官方路线图，信息具体且有时间节点。"
-    },
-    {
-      "title": "【钛晨报】《疾病预防控制“十五五”规划》印发，提出重大传染病防控6项任务；中上协：上半年全市场新增首发上市公司71家，首发募资总额705.74亿元；57个国家和3个国际组织确认参加今年进博会国家展",
-      "link": "https://www.tmtpost.com/8081318.html",
-      "pubDate": "Tue, 28 Jul 2026 07:20:00 +0800",
-      "contentSnippet": "企业微信AI助理\"大圆\"开启内测，可自动写周报、管待办；腾讯WorkBuddy正式上架鸿蒙电脑应用市场；NAVER、Brookfield与英伟达合作，扩大韩国国家人工智能工厂基础设施建设；软银集团用于投资OpenAI的400亿美元贷款据悉新增21家贷款人；工信部：推动“小快轻准”数字化产品和服务持续迭代优化；《光伏行业成本核算模型通则》发布，引导行业有序竞争；工信部：将加快编制出台智能网联新能源汽车产业发展“十五五”规划；中央结算公司：决定调降部分主营业务收费；英伟达正与OpenAI洽谈，拟为数据中心项目提供2500亿美元融资担保",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体晨报汇总多领域新闻，含疾控规划、IPO数据、企业AI动态等。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体钛媒体，内容具体且包含多源信息，但部分细节未提供原始出处。"
-    },
-    {
-      "title": "长鑫“芯王”加冕，朋友圈赛博贺喜背后",
-      "link": "https://www.tmtpost.com/8081355.html",
-      "pubDate": "Mon, 27 Jul 2026 22:04:54 +0800",
-      "contentSnippet": "这可能并不是一次简单的同行或供应链伙伴间的客套",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "长鑫存储技术突破获业界祝贺，分析其行业影响",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体，内容具体但缺少技术细节和原始数据支撑"
-    },
-    {
-      "title": "杭州：拟适当超前布局算力网、新型电网、新一代通信网等新型设施",
-      "link": "https://36kr.com/newsflashes/3914706682254473?f=rss",
-      "pubDate": "2026-07-28 10:45:34  +0800",
-      "contentSnippet": "36氪获悉，《杭州市人工智能产业发展促进条例（草案）》公开征求意见。其中提出，市人民政府应当统筹规划人工智能基础设施体系建设，适当超前布局算力网、新型电网、新一代通信网、数据可信空间等新型设施，建立健全市场化运营机制，保障各类设施的高效利用与安全可控；市人民政府应当统筹智能算力设施布局和能源资源配置。建设超大城市新型能源体系，强化电源、电网、负荷、储能协同，推动城市供电可靠性符合智能算力设施使用标准，保障算力用电安全稳定充足。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "杭州拟超前布局算力网等新型基础设施",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体有政策文件支撑，逻辑清晰"
-    },
-    {
-      "title": "机械革命耀世 15 Air 云杉青版本开售：酷睿 Ultra 7 356H 配 RTX 5060，11999 元（国补 10499 元）",
-      "link": "https://www.ithome.com/0/982/382.htm",
-      "pubDate": "Tue, 28 Jul 2026 02:44:34 GMT",
-      "contentSnippet": "IT之家 7 月 28 日消息，机械革命昨日宣布 —— 机械革命耀世 15 Air 云杉青版本正式开售，配备 32GB LPDDR5X 8533MT/s 高频内存 +1TB PCIe 4.0 固态硬盘，首发价 11999 元，叠加国补后 10499 元。\n京东机械革命耀世 15Air 英特尔酷睿 ultra  国家补贴 游戏笔记本电脑（ Ultra 7 356H 32G 1T RTX5060 OLED 青）11999 元直达链接\n2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取。\n数码补贴：点此领券\n\n手机 / 平板 / 3C 数码支持 8.5",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "机械革命耀世15 Air云杉青版开售，配Ultra 7 356H和RTX 5060，售价11999元。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，信息具体含配置和价格，有国补细节，逻辑清晰。"
-    },
-    {
-      "title": "杭州：拟支持企业建设词元生产平台、交易结算平台、对外服务平台",
-      "link": "https://36kr.com/newsflashes/3914705126528133?f=rss",
-      "pubDate": "2026-07-28 10:43:59  +0800",
-      "contentSnippet": "36氪获悉，《杭州市人工智能产业发展促进条例（草案）》公开征求意见。其中提出，拟支持词元经济布局发展。支持企业建设词元生产平台、交易结算平台、对外服务平台，提升本市的词元生产、调度和配置能力。支持词元服务消费市场发展，推动词元服务在制造、政务、教育、医疗、金融、消费等重点行业的示范应用和推广，促进词元服务与实体经济深度融合。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "杭州拟立法支持词元经济，建设生产、交易、服务平台。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪知名科技媒体，内容具体有政策细节，但缺乏原始草案链接。"
-    },
-    {
-      "title": "国内首款：钱江 QJMOTOR 闪 600V4 AMT 巡航摩托车上市，32999 元",
-      "link": "https://www.ithome.com/0/982/380.htm",
-      "pubDate": "Tue, 28 Jul 2026 02:41:36 GMT",
-      "contentSnippet": "IT之家 7 月 28 日消息，钱江摩托旗下品牌 QJMOTOR 今日发布了闪 600V4 AMT 新品，售价 32999 元，是国内首款搭载 V4 发动机与 AMT 自动变速箱的巡航摩托车。\n\n该车搭载 V 型四缸水冷 560CC 发动机，最大功率 50 千瓦，最大扭矩 54 牛 · 米；升级 4.1 版 AMT 智能自动挡系统，TCU 智能电控加持，100 毫秒极速换挡。\n\n该车可选三款配色，搭载 LED 大灯、3.6 英寸 TFT 圆形仪表、ABS + TCS、智能车联系统等。\n\n\n\nIT之家从 QJMOTOR 官方公告获悉，QJMOTOR 闪 600V4 AMT 首发可享五大购车权益，",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钱江发布国内首款V4+AMT巡航摩托闪600V4，售价32999元",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体有数据支撑，来源可靠"
-    },
-    {
-      "title": "三星 Galaxy Z Fold8 手机测试精细化应用缩放，5 档尺寸调节",
-      "link": "https://www.ithome.com/0/982/377.htm",
-      "pubDate": "Tue, 28 Jul 2026 02:38:39 GMT",
-      "contentSnippet": "IT之家 7 月 28 日消息，科技媒体 Android Authority 昨日（7 月 27 日）发布博文，报道称在 Galaxy Z Fold8 等折叠手机上，三星正酝酿精细化应用缩放功能，支持用户为某个应用设置 5 档缩放级别。\n该功能目前仍处于开发阶段，路径位于“设置 → 高级功能 → Labs”下，用户可以针对某个特定应用，设定不同的缩放级别。IT之家附上相关截图如下：\n\n\n\n该功能目前出现在运行 One UI 9 的 Galaxy Z Fold8 手机上，而 Galaxy Z Fold8 Ultra 和 Galaxy Z Flip8 两款折叠手机尚未发现相关选项。\n在安卓系统中，",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "三星Galaxy Z Fold8测试5档应用缩放功能，提升折叠屏体验。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有截图和路径描述，但未提供原始博文链接。"
-    },
-    {
-      "title": "KKR据悉正在考虑以5亿美元的价格出售LS Automotive India",
-      "link": "https://36kr.com/newsflashes/3914696928925060?f=rss",
-      "pubDate": "2026-07-28 10:35:38  +0800",
-      "contentSnippet": "KKR据悉正在考虑以5亿美元的价格出售LS Automotive India。（新浪财经）",
+      "title": "今年前五个月，我国知识产权使用费出口额455亿元",
+      "link": "https://36kr.com/newsflashes/3916092581735810?f=rss",
+      "pubDate": "2026-07-29 10:15:22  +0800",
+      "contentSnippet": "今天（29日），国家知识产权局在国务院新闻办公室举行的发布会上介绍，我国知识产权国际竞争力显著加强。上半年，我国申请人提交的PCT国际专利申请、海牙体系外观设计国际申请、马德里商标国际注册申请均稳居世界前列，整体规模稳中有升。前五个月，我国知识产权使用费出口额455亿元，同比大幅增长64.9%，表明我国企业积极以知识产权塑造国际竞争新优势，推动我国服务贸易向新向优。（央视新闻）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
         "36氪",
-        "钛媒体"
+        "IT之家"
       ],
       "coverageCount": 2,
       "coverageBoost": 5,
-      "aiSummary": "KKR考虑以5亿美元出售LS Automotive India。",
-      "credibilityScore": 75,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体，信息具体但缺少原始出处细节。（多源覆盖 +5）"
-    },
-    {
-      "title": "联想来酷斗战者公布战 7000P 锐龙版游戏本：8940HX + 5060",
-      "link": "https://www.ithome.com/0/982/367.htm",
-      "pubDate": "Tue, 28 Jul 2026 02:31:13 GMT",
-      "contentSnippet": "IT之家 7 月 28 日消息，联想 (Lenovo) 来酷 (Lecoo) 斗战者 (BELLATOR) 今日正式公布了战 7000P 锐龙版游戏笔记本电脑。\n这一型号搭载 AMD 锐龙 9 8940HX 处理器和 NVIDIA GeForce RTX 5060 笔记本电脑 GPU，配备 16GB DDR5-4800 SO-DIMM 内存和 512GB PCIe Gen4 SSD 存储，首发优惠价 9799 元、国家补贴后到手价 8329.15 元，8 月 4 日 10:00 开售。\n\n战 7000P 锐龙版搭载至高 215W 性能释放的四热管三风扇飓风 2.0 散热架构，CPU 性能释放可",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "联想来酷发布战7000P锐龙版游戏本，配置8940HX和5060显卡",
-      "credibilityScore": 80,
+      "aiSummary": "我国前五月知识产权使用费出口额455亿元，同比增长64.9%。",
+      "credibilityScore": 95,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，信息具体有配置和价格细节，但未来日期需核实"
+      "credibilityReason": "来源权威（央视新闻），数据具体且有官方发布会支撑，内容客观。（多源覆盖 +5）"
     },
     {
-      "title": "增幅约 14%：曝三星 Galaxy S27 Ultra 手机额定 5534mAh 电池",
-      "link": "https://www.ithome.com/0/982/362.htm",
-      "pubDate": "Tue, 28 Jul 2026 02:23:55 GMT",
-      "contentSnippet": "IT之家 7 月 28 日消息，科技媒体 Galaxy Club 昨日（7 月 27 日）发布博文，分享了三星 Galaxy S27 Pro 和 Galaxy S27 Ultra 两款旗舰手机的电池信息。\nGalaxy S27 Pro 方面，消息称该机额定电池容量为 5087mAh，上市后宣传用的典型值预估为 5200mAh。\nGalaxy S27 Ultra 方面，消息称该机配备额定 5534mAh 容量的电池，上市后宣传用的典型值预估为 5700mAh 或者 5800mAh。\nIT之家查询公开资料，Galaxy S26 Ultra 的额定电池容量为 4855mAh，宣传典型值为 5000m",
+      "title": "快充配件里程碑：国内首个溜溜线团体标准发布，安克、绿联、华为、荣耀等起草",
+      "link": "https://www.ithome.com/0/982/850.htm",
+      "pubDate": "Wed, 29 Jul 2026 01:52:16 GMT",
+      "contentSnippet": "IT之家 7 月 29 日消息，广东省终端快充行业协会（FCA）今日宣布，由中国信息通信研究院牵头，广东省终端快充行业协会（FCA）联合全产业链 16 家核心单位共同编制的 《移动通信终端用具有卷曲收纳功能的充电线缆模块技术规范》团体标准正式发布。\n\n这是国内首个针对伸缩式、卷曲收纳类快充线缆模块的专项技术规范，彻底终结了该品类长期“无标可依”的发展困境，标志着我国卷曲收纳式快充线缆产业全面迈入标准化、规范化、高质量发展新阶段。\n本标准作为团体标准，适用范围清晰、技术要求全面，覆盖手机、电话手表、平板电脑等移动终端，以及电源适配器、充电宝等供电设备配套使用的卷曲收纳式充电线缆模块，同时明确其他",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -221,33 +51,68 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "三星Galaxy S27 Ultra电池容量曝光，额定5534mAh，增幅约14%。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，引用科技媒体Galaxy Club，信息具体但缺乏官方确认。"
-    },
-    {
-      "title": "小米米家电动剃须刀开售：环抱锁须结构、双环波纹刀网，199.75 元",
-      "link": "https://www.ithome.com/0/982/360.htm",
-      "pubDate": "Tue, 28 Jul 2026 02:22:24 GMT",
-      "contentSnippet": "IT之家 7 月 28 日消息，小米新款米家电动剃须刀今日正式开售，该产品采用环抱锁须结构，匹配双环波纹刀网，同时支持动力自适应调节，定价为 249 元，首发价 199.75 元。\n京东小米米家电动剃须刀低至 199.75 元直达链接\n2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取。\n数码补贴：点此领券\n\n手机 / 平板 / 3C 数码支持 8.5 折政府补贴，不超过 6000 元的产品至高立减 500 元。\n\n家电补贴：点此领券\n\n多类家电支持 8.5 折政府补贴，单品至高补贴 1500 元。\n\n欢迎下载最会买 App - 好货好价，高额返利",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "小米新款米家电动剃须刀开售，定价249元，首发价199.75元。",
+      "aiSummary": "国内首个溜溜线团体标准发布，安克、绿联、华为等起草。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，信息具体，有产品细节和价格，逻辑清晰。"
+      "credibilityReason": "来源权威（IT之家），信息具体，有起草单位和标准细节。"
     },
     {
-      "title": "飞利浦二季度销售增长4%，上调利润和现金流预期",
-      "link": "https://36kr.com/newsflashes/3914681260021121?f=rss",
-      "pubDate": "2026-07-28 10:19:42  +0800",
-      "contentSnippet": "当地时间7月27日，飞利浦公布2026年第二季度业绩，集团销售额达44亿欧元，同比增长4%（可比口径）。受美国关税退款影响，公司营业利润升至6.09亿欧元，调整后EBITA利润率提升至16.4%；自由现金流达2.22亿欧元。飞利浦重申全年销售增长预期，并将调整后EBITA利润率预期由此前的12.5%-13.0%上调至13.5%-14.0%，自由现金流预期提高至15亿至17亿欧元。（界面）",
+      "title": "商务部新闻发言人就美国防部将部分中国科研机构列入制裁清单事答记者问",
+      "link": "https://36kr.com/newsflashes/3916022955208073?f=rss",
+      "pubDate": "2026-07-29 09:04:32  +0800",
+      "contentSnippet": "商务部新闻发言人就美国防部将部分中国科研机构列入制裁清单事答记者问。\n\n有记者问：美东时间7月23日，美国防部更新公布“从事问题活动的外国科研机构清单”（1286清单），对中方部分科研机构实施列单制裁。请问商务部对此有何评论？答：我们注意到这一情况。中方对此强烈不满、坚决反对。美方不断泛化国家安全概念，人为设置歧视性壁垒，将科研合作政治化、武器化、工具化，阻碍中美科研领域交流合作，这与全球科技创新合作大势背道而驰。中方敦促美方停止对中国科研机构无端抹黑，尽快纠正错误做法，为中国科研机构提供公平、公正、非歧视待遇。中方将采取必要措施，维护中方科研机构的正当合法权益，为正常科技交流合作保驾护航。（",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪",
+        "IT之家"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "商务部回应美国防部制裁中国科研机构，表示强烈反对。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为官方商务部新闻发言，内容具体且引用原文，权威性高。（多源覆盖 +5）"
+    },
+    {
+      "title": "美国 FCC 宣布禁止进口外国产人形机器人及电力逆变器",
+      "link": "https://www.ithome.com/0/982/826.htm",
+      "pubDate": "Wed, 29 Jul 2026 00:56:27 GMT",
+      "contentSnippet": "7 月 29 日，据路透社报道，美国联邦通信委员会（FCC）当地时间周二宣布，禁止新的外国产人形机器人、四足机器人以及联网电力逆变器型号进入美国市场。相关措施在公布后立即生效，旨在降低美国人工智能基础设施和关键供应链面临的网络安全及供应中断风险。\n\n此次限制仅适用于尚未在美国获准销售的新型号，已经获得销售授权的机器人和逆变器暂时不受直接影响。不过，FCC 仍有权撤销已获授权产品的销售许可。知情人士称，FCC 后续预计将像此前针对外国无人机和路由器采取的措施一样，对部分非中国供应商给予豁免。\nFCC 表示，相关设备可能形成供应链薄弱环节，不仅可能影响美国经济和国家安全，还可能对关键基础设施构成网",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "FCC禁止进口外国产人形机器人和电力逆变器，降低供应链风险。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，引用路透社报道，内容具体有政策细节和豁免说明。"
+    },
+    {
+      "title": "2nm 芯片成本激增：高通骁龙 8 Elite Gen 6 Pro 预计突破 300 美元，联发科天玑 9600 Pro 单价约 216 美元",
+      "link": "https://www.ithome.com/0/982/811.htm",
+      "pubDate": "Tue, 28 Jul 2026 23:50:22 GMT",
+      "contentSnippet": "IT之家 7 月 29 日消息，高通与联发科将于第三季度推出首批 2nm 旗舰芯片，但其价格预计将迎来大幅上涨。此前，高通已向客户发送涨价通知，并表示新价格将适用于 9 月 1 日之后出货的产品。\n据中国台湾《工商时报》昨日报道，高通骁龙 8 Elite Gen 6 Pro 预计将超过 300 美元（现汇率约合 2032 元人民币）。\n《工商时报》6 月还曾报道称，联发科天玑 9600 Pro 单颗采购价约为 216 美元（现汇率约合 1463 元人民币），按此计算，联发科芯片价格较对手便宜约 28%。\n\n这一价差主要源于双方不同的市场策略。高通骁龙因成本高昂可能仅会被用于各品牌的“Ultra",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "2nm芯片成本飙升，高通骁龙8 Elite Gen 6 Pro或超300美元，联发科天玑9600 Pro约216美元。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，引用台湾《工商时报》报道，信息具体有数据支撑，逻辑清晰。"
+    },
+    {
+      "title": "36氪研究院 | 2026年中国智能硬件行业发展研究报告",
+      "link": "https://36kr.com/p/3915066350327176?f=rss",
+      "pubDate": "2026-07-29 07:30:00  +0800",
+      "contentSnippet": "当前，AI技术正加速向实体经济各领域渗透深化，智能硬件作为AI能力落地实体场景的核心载体，已进入产品能力升级与产业价值提升的关键发展阶段。腾讯研究院2026年3月的调研数据显示，国内已有80.8%的消费者购买或使用过至少一类AI相关硬件产品，其中32.0%的用户表示将在未来三个月增加相关消费支出，消费端市场需求具备稳步向上的支撑基础。与此同时，端侧AI芯片、轻量化大模型、多传感融合等底层技术不断取得突破，推动智能硬件逐步降低对云端算力的依赖，本地自主感知、分析决策与功能迭代的能力持续增强，产业端的数字化赋能效果也得到了较为明显的改善与提升。然而，行业发展仍面临碎片化竞争加剧、供应链成本承压、场",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -255,10 +120,146 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "飞利浦二季度销售增长4%，上调利润和现金流预期。",
+      "aiSummary": "36氪发布2026年智能硬件行业报告，指出AI技术推动产业升级。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体有数据支撑，引用界面报道。"
+      "credibilityReason": "来自知名科技媒体36氪，引用腾讯研究院数据，内容具体有逻辑。"
+    },
+    {
+      "title": "重估老铺黄金",
+      "link": "https://36kr.com/p/3914752931976583?f=rss",
+      "pubDate": "2026-07-28 11:37:18  +0800",
+      "contentSnippet": "撰文｜张晶\n2026年的老铺黄金，正在面对一场严重的割裂。\n一边是线下门店人气未减。7月23日，北京SKP开启七夕预售第一天，老铺黄金门店前再次排起长队，上演了一场疯狂星期四。商场还没开门，已有顾客在大门外排起长队，准备冲一把老铺黄金。熟悉SKP的人曾说，SKP现在的业绩，在老铺。\n另一边割裂的是，老铺黄金在资本市场的持续低迷。从今年年初至今，老铺股价大幅下跌，较2025年7月创下的历史高点已经腰斩有余。同时，2026 年金价出现史诗级宽幅震荡，跌回2025年。\n当然，还有宏观经济下消费二季度低迷。当金价深度回调、前期高基数增长和消费市场偏弱，三种极端情况不约而同来临，老铺黄金也经历了一轮全方",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "老铺黄金线下火爆但股价腰斩，面临金价震荡与消费低迷挑战",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体36氪，内容具体有数据支撑，逻辑清晰"
+    },
+    {
+      "title": "国家知识产权局：预计在“十五五”时期战略性新兴产业专利比重将进一步提升",
+      "link": "https://36kr.com/newsflashes/3916131177328262?f=rss",
+      "pubDate": "2026-07-29 10:54:38  +0800",
+      "contentSnippet": "国家知识产权局战略规划司司长梁心新7月29日在国新办新闻发布会上表示，目前，我国高价值发明专利中，战略性新兴产业的专利占比超过七成，预计在“十五五”时期，这一比重将进一步提升，为新兴产业提质扩容和未来产业布局落地，提供更加有力的创新支撑。（证券时报）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "预计十五五时期战略性新兴产业专利比重将提升",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源权威（国新办发布会），信息具体有数据支撑，逻辑清晰"
+    },
+    {
+      "title": "时隔十年：国产横版动作续作《艾希 2》10 月 1 日开启众筹，售价 48 元",
+      "link": "https://www.ithome.com/0/982/953.htm",
+      "pubDate": "Wed, 29 Jul 2026 02:53:38 GMT",
+      "contentSnippet": "IT之家 7 月 29 日消息，在国产横版动作游戏《艾希》（ICEY）发售十年后，作者老马克肖 7 月 18 日在抖音上宣布其续作《艾希 2》将于 2026 年 10 月 1 日开启众筹。据介绍，《艾希 2》将延续半机械人少女艾希的故事，并回收第一部结局中埋下的伏笔。\n\n据作者透露，新作将大幅拓展原版世界。游戏世界规模将扩大至初代的三倍，流程长度约为初代的两倍。路线和区域的布局将直接取决于玩家在剧情推进中所做的选择。\n另外，剧本方面最大的创新是引入了双旁白系统，两位旁白将以截然不同的方式评论主角的行动，并可能对事件提出完全相反的解释，从而强化该系列的元叙事特色。\n\n战斗系统方面，《艾希 2》将",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国产横版动作游戏《艾希2》10月1日开启众筹，售价48元。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有细节，但缺少官方链接和第三方验证。"
+    },
+    {
+      "title": "长鑫科技：站在周期之巅的周期股",
+      "link": "https://www.tmtpost.com/8082807.html",
+      "pubDate": "Wed, 29 Jul 2026 10:53:00 +0800",
+      "contentSnippet": "3万亿市值，是奖赏还是考验？",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "长鑫科技市值达3万亿，面临周期股考验。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体钛媒体，内容具体但缺少数据支撑。"
+    },
+    {
+      "title": "初探微软最强 Surface 原型笔记本：英伟达 RTX Spark 计算平台，24GB 统一内存",
+      "link": "https://www.ithome.com/0/982/950.htm",
+      "pubDate": "Wed, 29 Jul 2026 02:52:44 GMT",
+      "contentSnippet": "IT之家 7 月 29 日消息，网友 Fouquin 于 7 月 27 日在 TechPowerUp 论坛发帖，分享了微软最强 Surface 笔记本 Surface Laptop Ultra 原型机的使用体验，并初步展示英伟达 RTX Spark 计算平台性能。\n硬件方面，这款 Surface Laptop Ultra 原型机采用英伟达 N1x Arm 芯片，该芯片采用 20 核 CPU 架构，搭载 Blackwell GPU，拥有 6144 个 CUDA 核心，并配备 24GB 统一内存和 512GB 的固态硬盘 SSD。\n\n\n驱动方面，Fouquin 测试了 Game Ready 591",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "网友分享微软最强Surface原型机，搭载英伟达RTX Spark平台和24GB统一内存。",
+      "credibilityScore": 70,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，信息具体有论坛出处，但原型机细节待官方确认。"
+    },
+    {
+      "title": "消息称朴朴超市入驻淘宝闪购，曾被曝阿里有意 15 亿美元收购",
+      "link": "https://www.ithome.com/0/982/947.htm",
+      "pubDate": "Wed, 29 Jul 2026 02:51:23 GMT",
+      "contentSnippet": "IT之家 7 月 29 日消息，据界面新闻今日报道，朴朴超市位于福州的部分门店已开始测试入驻淘宝闪购，预计月底将扩展至福建全省门店。\n报道称，朴朴入驻淘宝闪购后，消费者可在淘宝闪购直接下单购买朴朴的生鲜、快消商品，由朴朴既有前置仓就近履约，延续 30 分钟送达的即时体验。\n彭博社今年 6 月则报道称，阿里巴巴集团拟出价 15 亿美元（IT之家注：现汇率约合 101.68 亿元人民币）竞购朴朴超市，从而与美团竞争。\n\n公开信息显示，即时零售电商平台朴朴超市成立于 2016 年，依托自建前置仓网络，截至目前业务已覆盖福州、厦门、广州、深圳等 10 余个城市，前置仓数量超过 400 个。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "朴朴超市入驻淘宝闪购，此前阿里被曝拟15亿美元收购",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，引用界面新闻和彭博社，信息具体有数据支撑"
+    },
+    {
+      "title": "英国医学会：误导性的“AI 医生”会对公共安全构成巨大威胁",
+      "link": "https://www.ithome.com/0/982/945.htm",
+      "pubDate": "Wed, 29 Jul 2026 02:50:12 GMT",
+      "contentSnippet": "IT之家 7 月 29 日消息，据英国《卫报》27 日报道，数字营销机构 Hallam 的研究显示，AI 生成的医生形象正在 TikTok 散播存疑的健康建议，热门视频观看量可达数百万次。\n英国医学会理事会副主席艾玛 · 伦斯威克医生、英格兰国民医疗服务体系全国医疗主任弗兰基 · 索兹教授、英国皇家全科医师学院主席维多利亚 · 佐齐乌 · 布朗教授、伦敦大学学院健康错误信息研究员亚历克斯 · 鲁阿尼及英格兰健康观察政策与公共事务临时主任威廉 · 佩特等专家警告，网络误导性健康说法对公共安全构成巨大危害。\n\n伦斯威克指出，部分 AI 账号正在兜售医疗谬论，鼓吹所谓的神奇疗法，可能造成严重后果，并",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "英国医学会警告AI医生形象在TikTok传播误导健康信息，威胁公共安全。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自IT之家，引用《卫报》及多位专家观点，内容具体且逻辑清晰。"
+    },
+    {
+      "title": "净利暴增96%，IDM巨头士兰微，跌麻了",
+      "link": "https://www.tmtpost.com/8082747.html",
+      "pubDate": "Wed, 29 Jul 2026 10:49:00 +0800",
+      "contentSnippet": "不可否认IDM模式长期具备发展潜力，但资本市场已经没有足够耐心等待企业漫长的产能兑现周期。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "士兰微净利暴增96%但股价大跌，IDM模式遭市场质疑。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体，内容具体有数据支撑，但标题有标题党倾向。"
     }
   ]
 }

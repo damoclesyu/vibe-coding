@@ -1,82 +1,14 @@
 {
-  "generatedAt": "2026-07-28T02:48:43.239Z",
+  "generatedAt": "2026-07-29T02:55:41.903Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "扎哈罗娃批小泉进次郎涉核言论：可笑又可悲",
-      "link": "https://world.huanqiu.com/article/4SYrGUj8Ok3",
-      "pubDate": "(Tue,28 Jul 2026 10:22:59 CST)",
-      "contentSnippet": "综合俄新社等媒体报道，对于日本防卫大臣小泉进次郎涉核言论，俄罗斯外交部发言人扎哈罗娃27日在记者会上回应称，这可笑又可悲。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "扎哈罗娃批评小泉进次郎涉核言论，称其可笑又可悲。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，引述俄新社报道，内容具体但未多源交叉验证。"
-    },
-    {
-      "title": "“以最强烈措辞谴责”，印度就“商船在黑海遭袭致一名印度船员死亡”召见乌克兰大使",
-      "link": "https://world.huanqiu.com/article/4SYqw9xCOrM",
-      "pubDate": "(Tue,28 Jul 2026 10:13:49 CST)",
-      "contentSnippet": "综合印度新德里电视台等媒体报道，印度外交部27日发布声明称，对于一艘商船在黑海遭袭致一名印度船员死亡，印度外交部当天召见了乌克兰驻印度大使。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "印度因商船遭袭致船员死亡召见乌克兰大使，强烈谴责事件。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网为知名媒体，引用印度官方声明，信息具体但缺乏多源交叉验证。"
-    },
-    {
-      "title": "我国农业植物实质性派生品种制度落地",
-      "link": "https://capital.huanqiu.com/article/4SYpjIKaTod",
-      "pubDate": "(Tue,28 Jul 2026 09:40:01 CST)",
-      "contentSnippet": "本报北京7月27日电（记者朱隽）从农业农村部27日举行的新闻发布会上获悉，经国务院同意，第一批农业植物实质性派生品种制度实施目录公布，这标志着我国农业植物实质性",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "我国农业植物实质性派生品种制度正式实施，首批目录公布。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体，有发布会信息，事实可查证。"
-    },
-    {
-      "title": "新唐山建设五十年 绘就高质量发展新图景",
-      "link": "https://china.huanqiu.com/article/4SYooUP0OwS",
-      "pubDate": "(Tue,28 Jul 2026 09:14:23 CST)",
-      "contentSnippet": "50年来，唐山从满目疮痍崛起成为一座现代化新兴城市，不断绘就高质量发展新图景。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "唐山建设五十年，实现从废墟到现代化城市的转型。",
-      "credibilityScore": 70,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容正面具体，但缺乏直接引述和多源验证。"
-    },
-    {
-      "title": "习近平同斯洛伐克总统佩列格里尼会谈",
-      "link": "https://www.chinanews.com.cn/gn/2026/07-28/10667712.shtml",
-      "pubDate": "Tue, 28 Jul 2026 10:40:52 +0800",
-      "contentSnippet": "新华社北京7月28日电 7月28日，国家主席习近平在北京同来华进行国事访问的斯洛伐克总统佩列格里尼举行会谈。",
+      "title": "国台办：希望台湾方面尽快取消对两岸航空运输的不合理限制",
+      "link": "https://www.chinanews.com.cn/gn/2026/07-29/10668351.shtml",
+      "pubDate": "Wed, 29 Jul 2026 10:51:45 +0800",
+      "contentSnippet": "中新网7月29日电 国务院台办7月29日举行例行新闻发布会。会上，有记者提问：暑期是两岸民间交流的高峰期，为帮助更多台湾青年来大陆交流、研学等，有关航空公司对两岸航班票价进行了优惠打折，获得广泛好评。请介绍有关情况。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -84,33 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "习近平与斯洛伐克总统佩列格里尼在北京举行国事会谈。",
-      "credibilityScore": 95,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为官方通讯社新华社，内容具体且客观，权威性极高。"
-    },
-    {
-      "title": "中欧班列累计开行量突破13万列",
-      "link": "https://www.chinanews.com.cn/ydyl/2026/07-28/10667705.shtml",
-      "pubDate": "Tue, 28 Jul 2026 10:30:55 +0800",
-      "contentSnippet": "7月28日，记者从国家发展改革委召开的专题新闻发布会上获悉，截至目前，中欧班列累计开行量已突破13万列，运送货值超5200亿美元，成为丝绸之路经济带上驰而不息的“钢铁驼队”。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中欧班列累计开行突破13万列，货值超5200亿美元。",
+      "aiSummary": "国台办呼吁台湾取消两岸航空不合理限制，促进交流。",
       "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，引用国家发改委官方数据，信息具体且权威。"
+      "credibilityReason": "来源权威（中国新闻网），内容具体，有直接引述，事实可查证。"
     },
     {
-      "title": "“十五五”开好局起好步丨推动残疾人事业全面发展高质量发展",
-      "link": "https://www.chinanews.com.cn/gn/2026/07-28/10667668.shtml",
-      "pubDate": "Tue, 28 Jul 2026 10:20:43 +0800",
-      "contentSnippet": "国务院新闻办公室今天(7月27日)举行“开局起步‘十五五’”系列主题新闻发布会。中国残联相关负责人介绍了“十五五”时期推进残疾人事业全面发展高质量发展有关情况。",
+      "title": "国台办：所谓“反渗透法”是民进党炮制的恶法",
+      "link": "https://www.chinanews.com.cn/gn/2026/07-29/10668366.shtml",
+      "pubDate": "Wed, 29 Jul 2026 10:48:23 +0800",
+      "contentSnippet": "中新网7月29日电 7月29日，国务院台办举行例行新闻发布会。有记者问：据报道，前桃园市“立委”候选人马治薇涉收大陆资助参选，被认定构成违反岛内“反渗透法”规定，判刑2年8个月。请问对此有何评论？",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -118,16 +33,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国残联介绍“十五五”推动残疾人事业高质量发展计划。",
+      "aiSummary": "国台办称“反渗透法”为民进党炮制的恶法。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网较权威，内容具体有发布会信息，用词客观。"
+      "credibilityReason": "来源为中国新闻网，属权威媒体；内容具体，有直接引述官方表态。"
     },
     {
-      "title": "台湾茶商在鲁座谈 共话产业合作新机遇",
-      "link": "https://www.chinanews.com.cn/txy/2026/07-28/10667675.shtml",
-      "pubDate": "Tue, 28 Jul 2026 10:18:32 +0800",
-      "contentSnippet": "中新网济南7月28日电 (陈宛婷)台湾南投县茶商代表人士参访团到济阳考察座谈会27日在济南市济阳区举行。多名长期扎根济阳发展的台商代表现场分享兴业安居体会，“高质量发展看山东—台湾茶商齐鲁行”参访团围绕茶产业合作、两岸交流畅谈所思所想。",
+      "title": "国台办赞赏泰国坚定支持中国和平统一大业",
+      "link": "https://www.chinanews.com.cn/gn/2026/07-29/10668364.shtml",
+      "pubDate": "Wed, 29 Jul 2026 10:47:59 +0800",
+      "contentSnippet": "中新网7月29日电 7月29日，国务院台办举行例行新闻发布会。有记者问：近期，泰国总理阿努廷对中国进行正式访问，中泰两国发表联合声明，泰方坚定支持中国和平统一大业，不支持任何形式的“台独”，支持中国的“一国两制”方针。对此，台外事部门抗议“中国利用任何国际交往机会矮化台湾地位”，对于“某些国家扈从中国，表达遗憾”。请问对此有何评论？",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -135,16 +50,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "台湾茶商在济南座谈，探讨茶产业合作与两岸交流。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网较权威，内容具体有时间地点人物，用词客观。"
+      "aiSummary": "中新网7月29日电 7月29日，国务院台办举行例行新闻发布会。有记者问：近期，泰",
+      "credibilityScore": 49,
+      "credibilityLevel": "low",
+      "credibilityReason": "因内容合规限制，使用来源权重作为默认评分"
     },
     {
-      "title": "美法在紧急会议上“撕破脸” 法国代表发言时美方公然离场",
-      "link": "https://www.chinanews.com.cn/gj/2026/07-28/10667664.shtml",
-      "pubDate": "Tue, 28 Jul 2026 10:10:30 +0800",
-      "contentSnippet": "中新网7月28日电 据路透社报道，当地时间7月27日，在联合国安理会关于乌克兰问题的紧急公开会上，美国代表团在法国代表发言时公然离场。随后美国代表发言时，更是公开指责这位长期盟友发表“虚伪的作秀言论”。",
+      "title": "国台办回应陆委会抹黑“台青e家”：无脑言论、蓄意抹黑",
+      "link": "https://www.chinanews.com.cn/gn/2026/07-29/10668331.shtml",
+      "pubDate": "Wed, 29 Jul 2026 10:47:12 +0800",
+      "contentSnippet": "中新网7月29日电 国务院台办7月29日举行例行新闻发布会。会上，有记者问：对于大陆推出“台青e家”服务平台，陆委会称，大陆借此拉拢台湾年轻人，而“台青e家”设有在线投递履历、在线报名等功能，有大陆借此搜集、掌握台青个人资料进一步运用、施压的极高风险。请问对此有何评论？",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -152,16 +67,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "美法在联合国安理会乌克兰问题会议上发生公开争执，美方离场并指责法国。",
-      "credibilityScore": 85,
+      "aiSummary": "国台办驳斥陆委会对“台青e家”的指责，称其无脑抹黑。",
+      "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，但引述路透社报道，事件具体且有直接引述，可信度较高。"
+      "credibilityReason": "来源为中国新闻网，权威媒体；内容具体，有直接引述，事实可查证。"
     },
     {
-      "title": "上半年税务部门累计征收税费收入16.7万亿元",
-      "link": "https://www.chinanews.com.cn/cj/2026/07-28/10667678.shtml",
-      "pubDate": "Tue, 28 Jul 2026 10:08:06 +0800",
-      "contentSnippet": "今天上午，国务院新闻办举行新闻发布会。国家税务总局相关负责人介绍，今年上半年，税务部门累计征收税费收入16.7万亿元。其中，税收收入超过10万亿元，同比增长4.9%。这主要得益于经济运行总体平稳向好，与税收收入密切相关的PPI持续回升，以及部分新兴领域和重点行业发展势头强劲。同时，社会保险费收入完成4.5万亿元，非税收入完成1.8万亿元，国家的财力保障不断夯实。",
+      "title": "大陆在台湾岛东部海域调查渔业资源 国台办回应",
+      "link": "https://www.chinanews.com.cn/gn/2026/07-29/10668363.shtml",
+      "pubDate": "Wed, 29 Jul 2026 10:46:56 +0800",
+      "contentSnippet": "中新网7月29日电 7月29日，国务院台办举行例行新闻发布会。有记者问：近期，大陆“蓝海201”科研船在台湾岛东部海域进行渔业资源调查，民进党当局称，“对岸动作是为宣称对该海域有管辖权，恶意进行政治操作及认知作战”，这类状况愈来愈多，海巡和台军面临很大挑战，希望支持相关预算。请问对此有何评论？",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -169,50 +84,169 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "上半年税务部门征收税费收入16.7万亿元，税收超10万亿元，同比增长4.9%。",
+      "aiSummary": "国台办回应大陆科研船在台湾岛东部海域调查渔业资源，驳斥民进党当局指控。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，属权威媒体；内容具体，有直接引述国台办回应，事实可查证。"
+    },
+    {
+      "title": "国台办批民进党当局司法迫害大陆配偶",
+      "link": "https://www.chinanews.com.cn/gn/2026/07-29/10668357.shtml",
+      "pubDate": "Wed, 29 Jul 2026 10:43:20 +0800",
+      "contentSnippet": "中新网7月29日电 7月29日，国务院台办举行例行新闻发布会。有记者问：台媒报道，“台湾新住民关怀总会”理事长、陆配周满芝被控涉所谓“接受大陆指示与资助在台发展组织”，一审被认定罪证不足、判决无罪后，又被二审判决徒刑8年，其上诉被驳回。陆委会称将注销其台湾身份。请问对此有何评论？",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国台办批评民进党当局对大陆配偶进行司法迫害。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，引用国新办发布会，信息具体且数据明确，用词客观。"
+      "credibilityReason": "来源为中国新闻网，权威媒体；内容具体，有直接引述和事件细节。"
     },
     {
-      "title": "新政府上台后 立陶宛重启与台湾经贸合作谈判",
-      "link": "https://www.zaobao.com/news/china/story20260728-9429808",
-      "pubDate": "Tue, 28 Jul 2026 01:30:32 GMT",
-      "contentSnippet": "新政府上台后，波罗的海国家立陶宛重启与台湾经贸合作的谈判。\n据立陶宛国家广播电视台星期一（7月27日）报道，立陶宛外交部称，立陶宛已在政府改组后，重启与台湾经贸合作的谈判。\n立陶宛外交部上月透露，暂停谈判是因“国内政治环境出现变化”，指的是新联合政府的成立。\n立国外交部称，加强与台湾的经济合作符合立陶宛的长期外交政策目标，因此立陶宛将在完成谈判后与台湾签署经济合作行动计划。\n据介绍，上述谈判重点在于建立可持续的经济联系，借此促进立陶宛高科技产业的发展。不过，立陶宛外交部补充，由于双方目前仍在进行磋商，现阶段暂不公开行动计划的具体细节。\n立陶宛外交部重申对台立场始终如一，并强调极为重视且将寻求进",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
+      "title": "国台办谴责台当局拒上海代表团赴台",
+      "link": "https://www.chinanews.com.cn/gn/2026/07-29/10668352.shtml",
+      "pubDate": "Wed, 29 Jul 2026 10:40:00 +0800",
+      "contentSnippet": "中新网7月29日电 7月29日，国务院台办举行例行新闻发布会。有记者问：7月29日，台北市举办“小熊猫与台北市民见面仪式”，上海市原拟派代表团赴台参加，却因民进党当局拒绝代表团团长等入境申请，无法成行。请问对此有何评论？",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
       "allSources": [
-        "联合早报·中港台"
+        "中国新闻网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "立陶宛新政府重启与台湾经贸合作谈判，聚焦高科技产业。",
-      "credibilityScore": 75,
+      "aiSummary": "国台办批评台当局拒绝上海代表团赴台参加活动。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名媒体联合早报，引用立陶宛国家广播电视台报道，信息具体但缺乏多源交叉验证。"
+      "credibilityReason": "来源为中国新闻网，属权威媒体；内容具体，有直接引述和发布会背景。"
     },
     {
-      "title": "大陆科考船赴台东海域调查 官媒称海警拦截日巡视船",
-      "link": "https://www.zaobao.com/news/china/story20260728-9429770",
-      "pubDate": "Tue, 28 Jul 2026 01:20:05 GMT",
-      "contentSnippet": "中国大陆一艘科考船此前在台湾以东海域进行渔业资源调查。大陆官媒报道称，一艘日本巡视船期间曾试图逼近，但被中国海警船拦截。\n《环球时报》星期一（7月27日）报道，中国大陆农业农村部中国水产科学研究院东海水产研究所的“蓝海201”科学调查船，在7月17日至23日期间，前往台湾以东海域展开了为期七天的渔业资源调查。\n报道称，在七天的航程中，不仅有“某国军机”在中国科考船上空盘旋，日本海上保安厅还出动PLH42“春光”号巡视船试图逼近中国科考船。\n报道指出，在周边海域执行常态化执法巡查任务的中国海警2305舰保持高度警惕，将日方“春光”号拦截在中国科考船14海里（25.9公里）范围外，迫使日本巡视船难",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
+      "title": "国台办驳斥赖清德鼓吹捍卫海疆言论",
+      "link": "https://www.chinanews.com.cn/gn/2026/07-29/10668339.shtml",
+      "pubDate": "Wed, 29 Jul 2026 10:34:18 +0800",
+      "contentSnippet": "中新网7月29日电 7月29日，国务院台办举行例行新闻发布会。有记者问：近日，赖清德在参加“丹江舰”成军典礼时称，此举“展现海军面对中国军事及海上灰色地带侵扰，捍卫国家安全与海疆的坚定决心；向国际证明台湾的国家安全政策是以实力达到遏阻目标”。请问对此有何评论？",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
       "allSources": [
-        "联合早报·中港台"
+        "中国新闻网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "大陆科考船赴台东海域调查，官媒称海警拦截日本巡视船。",
-      "credibilityScore": 70,
+      "aiSummary": "国台办驳斥赖清德鼓吹捍卫海疆言论，强调台湾是中国不可分割的一部分。",
+      "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报，内容具体有时间和细节，但依赖官媒单方报道，缺乏独立验证。"
+      "credibilityReason": "来源权威（中国新闻网），内容具体，有直接引述，符合官方立场。"
     },
     {
-      "title": "第九届进博会步入百日冲刺，驻沪领事眼中的“中国机遇”是什么？",
-      "link": "https://m.thepaper.cn/detail/33669458",
-      "pubDate": "Tue, 28 Jul 2026 00:21:21 GMT",
-      "contentSnippet": "第九届进博会将于2026年11月5日-10日在上海举办。7月27日，进博会倒计时百天驻沪领馆及组展机构宣介招待会在国家会展中心（上海）举行。",
+      "title": "国台办谈台胞赴大陆旅游根本挡不住",
+      "link": "https://www.chinanews.com.cn/gn/2026/07-29/10668335.shtml",
+      "pubDate": "Wed, 29 Jul 2026 10:33:12 +0800",
+      "contentSnippet": "中新网7月29日电 7月29日，国务院台办举行例行新闻发布会。有记者问：近段时间以来，台湾民众赴大陆旅游形成热潮，有岛内旅游业者表示，大陆距离相近、风光明媚、语言相通、生活便利、物价便宜等各种优势，到大陆玩根本是挡不住的趋势，就算政治立场偏绿也照去不误，“抗中是口号，亲中才是日常”，引发两岸网友点赞好评。请问对此有何评论？",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国台办回应台胞赴大陆旅游热潮，称趋势不可挡。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为官方媒体中国新闻网，内容具体有直接引述，事实可查证。"
+    },
+    {
+      "title": "台当局拒上海派员参加小熊猫见面仪式 国台办回应",
+      "link": "https://www.chinanews.com.cn/gn/2026/07-29/10668334.shtml",
+      "pubDate": "Wed, 29 Jul 2026 10:31:46 +0800",
+      "contentSnippet": "7月29日，国务院台办举行例行新闻发布会。有记者问，今天，台北市举办“小熊猫与台北市民见面仪式”，上海市原拟派代表团赴台参加，却因民进党当局拒绝代表团团长等入境申请，无法成行。请问对此有何评论？",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "台当局拒上海代表团参加小熊猫活动，国台办回应。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源权威（中国新闻网），内容具体，有直接引述，事实可查证。"
+    },
+    {
+      "title": "国台办回应“给阿嫲的情书将亮相台湾桃园电影节”",
+      "link": "https://www.chinanews.com.cn/gn/2026/07-29/10668332.shtml",
+      "pubDate": "Wed, 29 Jul 2026 10:31:02 +0800",
+      "contentSnippet": "中新网7月29日电 7月29日，国务院台办举行例行新闻发布会。有记者问：大陆电影《给阿嬷的情书》将于8月中旬亮相台湾桃园电影节，受到台湾影迷欢迎和期待。请问对此有何评论？",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国台办回应大陆电影《给阿嬷的情书》将亮相台湾桃园电影节。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，官方发布会直接引述，信息具体且客观。"
+    },
+    {
+      "title": "广西保险业今年累计赔付超15亿元 全力应对地震台风等灾害",
+      "link": "https://www.chinanews.com.cn/cj/2026/07-29/10668323.shtml",
+      "pubDate": "Wed, 29 Jul 2026 10:27:53 +0800",
+      "contentSnippet": "中新网南宁7月29日电(记者 黄艳梅)广西壮族自治区官方28日举行2026年金融支持广西经济高质量发展新闻发布会。记者从会上获悉，截至今年7月24日，广西保险业累计为地震、暴雨、台风等灾害赔付超15亿元(人民币，下同)。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "广西保险业今年已赔付超15亿元应对自然灾害",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，官方新闻发布会信息，内容具体有数据支撑"
+    },
+    {
+      "title": "最高法：事业单位人员脱产学习后违约离职需担责",
+      "link": "https://www.chinanews.com.cn/gn/2026/07-29/10668315.shtml",
+      "pubDate": "Wed, 29 Jul 2026 10:25:47 +0800",
+      "contentSnippet": "中新网7月29日电 据最高人民法院微信公众号消息，7月29日，最高人民法院发布《最高人民法院关于事业单位工作人员脱产参加全日制学历教育后违反服务期约定有关问题的批复》(以下简称《批复》)，维护事业单位人事管理秩序，守护诚信契约精神，助力夯实人力资本，保障人才投资良性循环。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "最高法明确事业单位人员脱产学习后违约离职需担责。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为权威媒体中国新闻网，信息具体且引用官方批复，内容客观。"
+    },
+    {
+      "title": "国台办：民进党当局企图“以武拒统”纯属自不量力",
+      "link": "https://www.chinanews.com.cn/gn/2026/07-29/10668320.shtml",
+      "pubDate": "Wed, 29 Jul 2026 10:24:43 +0800",
+      "contentSnippet": "7月29日，国务院台办举行例行新闻发布会。有记者问：近日，赖清德在参加“丹江舰”成军典礼时称，此举“展现海军面对中国军事及海上灰色地带侵扰，捍卫国家安全与海疆的坚定决心；向国际证明台湾的国家安全政策是以实力达到遏阻目标”。请问对此有何评论？",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国台办回应赖清德言论，称民进党当局“以武拒统”不自量力。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，属权威媒体；内容具体，有直接引述和官方回应。"
+    },
+    {
+      "title": "习言道｜看到一封封侨批，习近平一席话意味深长",
+      "link": "http://www.chinanews.com.cn/gn/2026/07-28/10668163.shtml",
+      "pubDate": "Wed, 29 Jul 2026 01:52:49 GMT",
+      "contentSnippet": "习言道｜看到一封封侨批，习近平一席话意味深长",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -220,44 +254,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "第九届进博会倒计时百天，驻沪领事探讨中国机遇。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源澎湃新闻较权威，信息具体有时间地点，内容客观。"
-    },
-    {
-      "title": "中国官员促日本提供在华遗留化武线索 加快处置进程",
-      "link": "https://www.zaobao.com/news/china/story20260728-9429541",
-      "pubDate": "Mon, 27 Jul 2026 23:22:40 GMT",
-      "contentSnippet": "日本持续处置在华遗留化学武器之际，中国外交部亚洲司司长刘劲松敦促日本提供有效的埋藏线索，并全方位加大投入，加快处置进程。\n据中国外交部亚洲司微信公众号“亚洲雄风”消息，刘劲松上星期天（7月26日）赴吉林省敦化市，督导哈尔巴岭日遗化武处理作业，实地查看化武挖掘回收和销毁情况，并检查安全管理工作。\n刘劲松与日本作业现场负责人及主要代表会面时说，日遗化武是日本军国主义在侵华战争期间犯下的严重罪行，日本应切实履行国际公约和双边协议义务，向中国提供有效日遗化武埋藏线索信息，加大投入，全链条加快处置进程，“早日彻底清除日遗化武毒害，还中国人民以净土”。\n据日本共同社此前报道，日本内阁府6月17日参加有关日",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国外交部官员敦促日本提供在华遗留化武线索，加快处置进程。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报，内容具体，有直接引述和官方消息，可交叉验证。"
-    },
-    {
-      "title": "缪宗翰：凯道呐喊与厨房炊烟",
-      "link": "https://www.zaobao.com/news/china/story20260728-9427795",
-      "pubDate": "Mon, 27 Jul 2026 21:00:00 GMT",
-      "contentSnippet": "7月下旬的台北，烈日将凯达格兰大道的柏油路面烘得微微发晃，路旁绿荫在热风中纹丝不动。湿热的星期六（7月25日）下午，这条象征权力核心的大道再次聚集人群。台上的政党要角仍是熟悉面孔，台下举起的标语却换成“我是人，我反毒台”“还我食安”“我要健康”。 \n隔天的7月26日，恰是一年前台湾首波“大罢免”投票的日子。 \n2025年7月26日，24名国民党立委与停职中的新竹市长高虹安面对罢免投票；到同年8月23日第二波结束，另七名国民党立委也全数过关。31名蓝委加上高虹安，32案无一通过，立法院席次一席未动。激情过后，“朝小野大”的格局，又多经历了一次民意检验。\n一年之间，凯道上的口号从宏大的政治认同，转",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "台湾凯道集会主题从政治转向民生，回顾一年前罢免投票结果。",
+      "aiSummary": "习近平参观侨批展，强调侨批蕴含的家国情怀与历史价值。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报，较权威；内容具体有时间地点，但无直接引述，部分细节需交叉验证。"
+      "credibilityReason": "来源澎湃新闻较权威，内容具体但无多源交叉验证，用词客观。"
     }
   ]
 }
