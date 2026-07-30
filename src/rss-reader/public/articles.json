@@ -1,263 +1,265 @@
 {
-  "generatedAt": "2026-07-29T02:55:41.903Z",
+  "generatedAt": "2026-07-30T02:40:33.851Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "国台办：希望台湾方面尽快取消对两岸航空运输的不合理限制",
-      "link": "https://www.chinanews.com.cn/gn/2026/07-29/10668351.shtml",
-      "pubDate": "Wed, 29 Jul 2026 10:51:45 +0800",
-      "contentSnippet": "中新网7月29日电 国务院台办7月29日举行例行新闻发布会。会上，有记者提问：暑期是两岸民间交流的高峰期，为帮助更多台湾青年来大陆交流、研学等，有关航空公司对两岸航班票价进行了优惠打折，获得广泛好评。请介绍有关情况。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
+      "title": "优化创新环境 赋能高质量发展——国新办发布会聚焦“十五五”时期知识产权工作新图景",
+      "link": "https://china.huanqiu.com/article/4SaWKYzmbEl",
+      "pubDate": "(Thu,30 Jul 2026 10:27:31 CST)",
+      "contentSnippet": "知识产权制度是激励创新的基本保障，在推动科技创新和产业创新深度融合方面，发挥着重要的桥梁纽带作用。“十五五”时期，如何加快建设知识产权强国？如何促进创新成果向现实生产力转化、助力经济高质量发展？",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
       "allSources": [
-        "中国新闻网"
+        "环球网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国台办呼吁台湾取消两岸航空不合理限制，促进交流。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源权威（中国新闻网），内容具体，有直接引述，事实可查证。"
-    },
-    {
-      "title": "国台办：所谓“反渗透法”是民进党炮制的恶法",
-      "link": "https://www.chinanews.com.cn/gn/2026/07-29/10668366.shtml",
-      "pubDate": "Wed, 29 Jul 2026 10:48:23 +0800",
-      "contentSnippet": "中新网7月29日电 7月29日，国务院台办举行例行新闻发布会。有记者问：据报道，前桃园市“立委”候选人马治薇涉收大陆资助参选，被认定构成违反岛内“反渗透法”规定，判刑2年8个月。请问对此有何评论？",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国台办称“反渗透法”为民进党炮制的恶法。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，属权威媒体；内容具体，有直接引述官方表态。"
-    },
-    {
-      "title": "国台办赞赏泰国坚定支持中国和平统一大业",
-      "link": "https://www.chinanews.com.cn/gn/2026/07-29/10668364.shtml",
-      "pubDate": "Wed, 29 Jul 2026 10:47:59 +0800",
-      "contentSnippet": "中新网7月29日电 7月29日，国务院台办举行例行新闻发布会。有记者问：近期，泰国总理阿努廷对中国进行正式访问，中泰两国发表联合声明，泰方坚定支持中国和平统一大业，不支持任何形式的“台独”，支持中国的“一国两制”方针。对此，台外事部门抗议“中国利用任何国际交往机会矮化台湾地位”，对于“某些国家扈从中国，表达遗憾”。请问对此有何评论？",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中新网7月29日电 7月29日，国务院台办举行例行新闻发布会。有记者问：近期，泰",
-      "credibilityScore": 49,
-      "credibilityLevel": "low",
-      "credibilityReason": "因内容合规限制，使用来源权重作为默认评分"
-    },
-    {
-      "title": "国台办回应陆委会抹黑“台青e家”：无脑言论、蓄意抹黑",
-      "link": "https://www.chinanews.com.cn/gn/2026/07-29/10668331.shtml",
-      "pubDate": "Wed, 29 Jul 2026 10:47:12 +0800",
-      "contentSnippet": "中新网7月29日电 国务院台办7月29日举行例行新闻发布会。会上，有记者问：对于大陆推出“台青e家”服务平台，陆委会称，大陆借此拉拢台湾年轻人，而“台青e家”设有在线投递履历、在线报名等功能，有大陆借此搜集、掌握台青个人资料进一步运用、施压的极高风险。请问对此有何评论？",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国台办驳斥陆委会对“台青e家”的指责，称其无脑抹黑。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，权威媒体；内容具体，有直接引述，事实可查证。"
-    },
-    {
-      "title": "大陆在台湾岛东部海域调查渔业资源 国台办回应",
-      "link": "https://www.chinanews.com.cn/gn/2026/07-29/10668363.shtml",
-      "pubDate": "Wed, 29 Jul 2026 10:46:56 +0800",
-      "contentSnippet": "中新网7月29日电 7月29日，国务院台办举行例行新闻发布会。有记者问：近期，大陆“蓝海201”科研船在台湾岛东部海域进行渔业资源调查，民进党当局称，“对岸动作是为宣称对该海域有管辖权，恶意进行政治操作及认知作战”，这类状况愈来愈多，海巡和台军面临很大挑战，希望支持相关预算。请问对此有何评论？",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国台办回应大陆科研船在台湾岛东部海域调查渔业资源，驳斥民进党当局指控。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，属权威媒体；内容具体，有直接引述国台办回应，事实可查证。"
-    },
-    {
-      "title": "国台办批民进党当局司法迫害大陆配偶",
-      "link": "https://www.chinanews.com.cn/gn/2026/07-29/10668357.shtml",
-      "pubDate": "Wed, 29 Jul 2026 10:43:20 +0800",
-      "contentSnippet": "中新网7月29日电 7月29日，国务院台办举行例行新闻发布会。有记者问：台媒报道，“台湾新住民关怀总会”理事长、陆配周满芝被控涉所谓“接受大陆指示与资助在台发展组织”，一审被认定罪证不足、判决无罪后，又被二审判决徒刑8年，其上诉被驳回。陆委会称将注销其台湾身份。请问对此有何评论？",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国台办批评民进党当局对大陆配偶进行司法迫害。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，权威媒体；内容具体，有直接引述和事件细节。"
-    },
-    {
-      "title": "国台办谴责台当局拒上海代表团赴台",
-      "link": "https://www.chinanews.com.cn/gn/2026/07-29/10668352.shtml",
-      "pubDate": "Wed, 29 Jul 2026 10:40:00 +0800",
-      "contentSnippet": "中新网7月29日电 7月29日，国务院台办举行例行新闻发布会。有记者问：7月29日，台北市举办“小熊猫与台北市民见面仪式”，上海市原拟派代表团赴台参加，却因民进党当局拒绝代表团团长等入境申请，无法成行。请问对此有何评论？",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国台办批评台当局拒绝上海代表团赴台参加活动。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，属权威媒体；内容具体，有直接引述和发布会背景。"
-    },
-    {
-      "title": "国台办驳斥赖清德鼓吹捍卫海疆言论",
-      "link": "https://www.chinanews.com.cn/gn/2026/07-29/10668339.shtml",
-      "pubDate": "Wed, 29 Jul 2026 10:34:18 +0800",
-      "contentSnippet": "中新网7月29日电 7月29日，国务院台办举行例行新闻发布会。有记者问：近日，赖清德在参加“丹江舰”成军典礼时称，此举“展现海军面对中国军事及海上灰色地带侵扰，捍卫国家安全与海疆的坚定决心；向国际证明台湾的国家安全政策是以实力达到遏阻目标”。请问对此有何评论？",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国台办驳斥赖清德鼓吹捍卫海疆言论，强调台湾是中国不可分割的一部分。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源权威（中国新闻网），内容具体，有直接引述，符合官方立场。"
-    },
-    {
-      "title": "国台办谈台胞赴大陆旅游根本挡不住",
-      "link": "https://www.chinanews.com.cn/gn/2026/07-29/10668335.shtml",
-      "pubDate": "Wed, 29 Jul 2026 10:33:12 +0800",
-      "contentSnippet": "中新网7月29日电 7月29日，国务院台办举行例行新闻发布会。有记者问：近段时间以来，台湾民众赴大陆旅游形成热潮，有岛内旅游业者表示，大陆距离相近、风光明媚、语言相通、生活便利、物价便宜等各种优势，到大陆玩根本是挡不住的趋势，就算政治立场偏绿也照去不误，“抗中是口号，亲中才是日常”，引发两岸网友点赞好评。请问对此有何评论？",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国台办回应台胞赴大陆旅游热潮，称趋势不可挡。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为官方媒体中国新闻网，内容具体有直接引述，事实可查证。"
-    },
-    {
-      "title": "台当局拒上海派员参加小熊猫见面仪式 国台办回应",
-      "link": "https://www.chinanews.com.cn/gn/2026/07-29/10668334.shtml",
-      "pubDate": "Wed, 29 Jul 2026 10:31:46 +0800",
-      "contentSnippet": "7月29日，国务院台办举行例行新闻发布会。有记者问，今天，台北市举办“小熊猫与台北市民见面仪式”，上海市原拟派代表团赴台参加，却因民进党当局拒绝代表团团长等入境申请，无法成行。请问对此有何评论？",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "台当局拒上海代表团参加小熊猫活动，国台办回应。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源权威（中国新闻网），内容具体，有直接引述，事实可查证。"
-    },
-    {
-      "title": "国台办回应“给阿嫲的情书将亮相台湾桃园电影节”",
-      "link": "https://www.chinanews.com.cn/gn/2026/07-29/10668332.shtml",
-      "pubDate": "Wed, 29 Jul 2026 10:31:02 +0800",
-      "contentSnippet": "中新网7月29日电 7月29日，国务院台办举行例行新闻发布会。有记者问：大陆电影《给阿嬷的情书》将于8月中旬亮相台湾桃园电影节，受到台湾影迷欢迎和期待。请问对此有何评论？",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国台办回应大陆电影《给阿嬷的情书》将亮相台湾桃园电影节。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，官方发布会直接引述，信息具体且客观。"
-    },
-    {
-      "title": "广西保险业今年累计赔付超15亿元 全力应对地震台风等灾害",
-      "link": "https://www.chinanews.com.cn/cj/2026/07-29/10668323.shtml",
-      "pubDate": "Wed, 29 Jul 2026 10:27:53 +0800",
-      "contentSnippet": "中新网南宁7月29日电(记者 黄艳梅)广西壮族自治区官方28日举行2026年金融支持广西经济高质量发展新闻发布会。记者从会上获悉，截至今年7月24日，广西保险业累计为地震、暴雨、台风等灾害赔付超15亿元(人民币，下同)。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "广西保险业今年已赔付超15亿元应对自然灾害",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，官方新闻发布会信息，内容具体有数据支撑"
-    },
-    {
-      "title": "最高法：事业单位人员脱产学习后违约离职需担责",
-      "link": "https://www.chinanews.com.cn/gn/2026/07-29/10668315.shtml",
-      "pubDate": "Wed, 29 Jul 2026 10:25:47 +0800",
-      "contentSnippet": "中新网7月29日电 据最高人民法院微信公众号消息，7月29日，最高人民法院发布《最高人民法院关于事业单位工作人员脱产参加全日制学历教育后违反服务期约定有关问题的批复》(以下简称《批复》)，维护事业单位人事管理秩序，守护诚信契约精神，助力夯实人力资本，保障人才投资良性循环。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "最高法明确事业单位人员脱产学习后违约离职需担责。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为权威媒体中国新闻网，信息具体且引用官方批复，内容客观。"
-    },
-    {
-      "title": "国台办：民进党当局企图“以武拒统”纯属自不量力",
-      "link": "https://www.chinanews.com.cn/gn/2026/07-29/10668320.shtml",
-      "pubDate": "Wed, 29 Jul 2026 10:24:43 +0800",
-      "contentSnippet": "7月29日，国务院台办举行例行新闻发布会。有记者问：近日，赖清德在参加“丹江舰”成军典礼时称，此举“展现海军面对中国军事及海上灰色地带侵扰，捍卫国家安全与海疆的坚定决心；向国际证明台湾的国家安全政策是以实力达到遏阻目标”。请问对此有何评论？",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国台办回应赖清德言论，称民进党当局“以武拒统”不自量力。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，属权威媒体；内容具体，有直接引述和官方回应。"
-    },
-    {
-      "title": "习言道｜看到一封封侨批，习近平一席话意味深长",
-      "link": "http://www.chinanews.com.cn/gn/2026/07-28/10668163.shtml",
-      "pubDate": "Wed, 29 Jul 2026 01:52:49 GMT",
-      "contentSnippet": "习言道｜看到一封封侨批，习近平一席话意味深长",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "习近平参观侨批展，强调侨批蕴含的家国情怀与历史价值。",
+      "aiSummary": "国新办发布会介绍“十五五”时期知识产权工作规划，强调创新环境优化。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源澎湃新闻较权威，内容具体但无多源交叉验证，用词客观。"
+      "credibilityReason": "来源环球网较权威，内容具体但无直接引述，属政策报道，可信度较高。"
+    },
+    {
+      "title": "截至今年6月 中欧班列重箱率连续46个月保持100%",
+      "link": "https://china.huanqiu.com/article/4SaVFnkDUnN",
+      "pubDate": "(Thu,30 Jul 2026 09:57:23 CST)",
+      "contentSnippet": "2016年6月8日，中国铁路正式启用中欧班列统一品牌。国家发展改革委开放司司长梁林冲介绍，10年来，中欧班列高质量发展取得了显著成效，呈现“向好、向上、向优、向实”4个特点。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中欧班列重箱率连续46个月保持100%，高质量发展成效显著。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网较权威，有具体数据和国家发改委官员引述，内容客观可查证。"
+    },
+    {
+      "title": "法治亮剑，严惩网络暴力（今日谈）",
+      "link": "https://china.huanqiu.com/article/4SaVBhxizQy",
+      "pubDate": "(Thu,30 Jul 2026 09:55:32 CST)",
+      "contentSnippet": "人民群众对美好生活有新期待，立法就有新任务。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "环球网评论强调法治严惩网络暴力，回应群众期待。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名媒体环球网，内容客观，但属评论性文章，缺乏具体事实细节。"
+    },
+    {
+      "title": "2026 品艺中欧·中意文化交流意大利系列活动圆满收官",
+      "link": "https://yrd.huanqiu.com/article/4SaUkOKUbvx",
+      "pubDate": "(Thu,30 Jul 2026 09:43:12 CST)",
+      "contentSnippet": "本次交流活动历时七日，先后在意大利罗马、佛罗伦萨、卢卡三地举办欢迎盛典、开幕式音乐会、民族器乐专场音乐会、国际大师课、AWEC第五届中欧国际音乐大赛等多层次艺术",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中意文化交流活动在意大利三地成功举办，历时七日。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网较权威，活动细节具体，但缺乏多源交叉验证。"
+    },
+    {
+      "title": "刚果（金）疫情仍处于持续传播阶段 乌干达未再报告新增确诊病例",
+      "link": "https://health.huanqiu.com/article/4SaU7SeKEUK",
+      "pubDate": "(Thu,30 Jul 2026 09:25:38 CST)",
+      "contentSnippet": "世卫组织持续向疫区部署流行病学调查、实验室检测、院感防控等专业团队，协调合作伙伴支持病例发现、接触者追踪、感染防控和社区健康宣传，并启动针对本迪布焦型埃博拉病毒",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "刚果（金）疫情持续传播，乌干达无新增病例，世卫组织持续支持防控。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网较权威，内容具体，引用世卫组织行动，信息可查证。"
+    },
+    {
+      "title": "浙江海警查获2起非法捕捞水产品案 渔获物近6000斤",
+      "link": "https://www.chinanews.com.cn/sh/2026/07-30/10669071.shtml",
+      "pubDate": "Thu, 30 Jul 2026 10:36:48 +0800",
+      "contentSnippet": "中新网杭州7月30日电 (钱晨菲)30日，记者从浙江海警局获悉，浙江台州海警局近日位当地三门、大陈附近海域先后查处2起海上非法捕捞水产品案，共计查获涉案人员16名、渔获物近6000斤。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "浙江海警查获2起非法捕捞案，渔获物近6000斤。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源权威（中国新闻网），信息具体（时间、地点、数据），用词客观。"
+    },
+    {
+      "title": "2026“一带一路”年度候选汉字发布",
+      "link": "https://www.chinanews.com.cn/ydyl/2026/07-30/10669044.shtml",
+      "pubDate": "Thu, 30 Jul 2026 09:56:46 +0800",
+      "contentSnippet": "昨日，2026“一带一路”年度汉字发布活动在北京启动。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "2026“一带一路”年度候选汉字发布活动在北京启动。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，权威性较高；信息具体，有明确时间和地点。"
+    },
+    {
+      "title": "物流运行平稳 结构优化升级——透视我国上半年物流运行发展",
+      "link": "https://china.huanqiu.com/article/4SaWG5rvUd0",
+      "pubDate": "(Thu,30 Jul 2026 10:25:30 CST)",
+      "contentSnippet": "中国物流与采购联合会29日发布我国上半年物流运行数据。上半年，全国社会物流总额为181.1万亿元，按可比价格计算，同比增长5.1%，整体保持5%以上较快增长。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网",
+        "中国新闻网"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "我国上半年物流总额181.1万亿元，同比增长5.1%，运行平稳结构优化。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为环球网和中国新闻网，数据来自中国物流与采购联合会，内容具体可查证。（多源覆盖 +5）"
+    },
+    {
+      "title": "厚植合规文化根基 筑牢稳健经营底色——平安银行上海分行全面深化合规文化建设",
+      "link": "https://yrd.huanqiu.com/article/4SaW6Uyo2aO",
+      "pubDate": "(Thu,30 Jul 2026 10:21:10 CST)",
+      "contentSnippet": "2026年以来,平安银行上海分行坚持党建引领内控管理,紧扣“省心、省时、省钱”三省服务理念,多层次、全方位推进合规文化建设,通过问题复盘、风险排查、多元宣教、长",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "平安银行上海分行深化合规文化建设，强调党建引领和风险排查。",
+      "credibilityScore": 70,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网较权威，内容具体但缺乏独立验证，属企业宣传稿。"
+    },
+    {
+      "title": "日本熊本地震已致28人死亡",
+      "link": "https://world.huanqiu.com/article/4SaW5qB4fKw",
+      "pubDate": "(Thu,30 Jul 2026 10:20:52 CST)",
+      "contentSnippet": "日本熊本地震已致28人死亡",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网",
+        "中国新闻网"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "日本熊本地震已致28人死亡，来源为环球网和中国新闻网。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名媒体，信息具体，但缺乏细节和多源交叉验证。（多源覆盖 +5）"
+    },
+    {
+      "title": "循着城垣与丝线读姑苏",
+      "link": "https://yrd.huanqiu.com/article/4SaW3HXkmD7",
+      "pubDate": "(Thu,30 Jul 2026 10:19:43 CST)",
+      "contentSnippet": "7月16日，苏州大学商学院“古城焕姑苏·青YOUNG在行动”中外大学生文化传承团走进苏州城墙博物馆、苏州丝绸博物馆、宋锦文化园和中国蔡梅英刺绣艺术研究所",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "苏州大学中外学生探访古城文化，了解城墙与丝绸历史。",
+      "credibilityScore": 70,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网较权威，内容具体但无直接引述，属活动报道。"
+    },
+    {
+      "title": "又慷慨解囊？美媒爆料：马斯克计划斥巨资助力共和党中期选举",
+      "link": "https://world.huanqiu.com/article/4SaVxmpOU2h",
+      "pubDate": "(Thu,30 Jul 2026 10:17:14 CST)",
+      "contentSnippet": "美国Axios新闻网当地时间7月29日爆料称，美国企业家马斯克计划斥巨资，助力共和党中期选举。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "美媒爆料马斯克计划斥巨资支持共和党中期选举。",
+      "credibilityScore": 70,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为环球网转载Axios，非一线通讯社，爆料性质，缺乏直接引述和多源验证。"
+    },
+    {
+      "title": "此间烟火醉远客 暑期入境游走俏",
+      "link": "https://go.huanqiu.com/article/4SaVntHlsnP",
+      "pubDate": "(Thu,30 Jul 2026 10:12:46 CST)",
+      "contentSnippet": "然而，随着免签政策红利持续释放、航线网络加密以及海外游客对中国深度体验需求的增长，今年暑期入境游市场呈现出“淡季不淡”的态势",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "暑期入境游市场因免签政策和航线加密而火热。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网较权威，内容具体但缺乏直接引述和交叉验证。"
+    },
+    {
+      "title": "一条条道路，解锁一道道风景",
+      "link": "https://go.huanqiu.com/article/4SaVkNcNpuv",
+      "pubDate": "(Thu,30 Jul 2026 10:11:11 CST)",
+      "contentSnippet": "规划先行织密路网日照市编制《日照市旅游公路专项规划》，规划建设总长1100公里的“四廊一环十九支”慢游旅游公路网，串联全市64处重点文旅资源、58个乡村振兴片区",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "日照规划1100公里旅游公路网，串联文旅与乡村振兴资源。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网较权威，内容具体有数据，但缺少直接引述和多源验证。"
+    },
+    {
+      "title": "24岁小伙用剪刀给自己做“手术”，大量鲜血涌出！踉踉跄跄冲进医院……医生提醒",
+      "link": "https://society.huanqiu.com/article/4SaVjiUi2gY",
+      "pubDate": "(Thu,30 Jul 2026 10:10:53 CST)",
+      "contentSnippet": "攥着裆部的手指缝里不断有血珠渗出，额头上的冷汗顺着鬓角往下淌，齿缝里不断倒抽着凉气，整个身子都因为剧烈的疼痛和失血后的脱力而微微打颤！",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "24岁小伙自行用剪刀做手术致大出血，送医急救。",
+      "credibilityScore": 70,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网较权威，内容具体但缺少多源交叉验证。"
     }
   ]
 }
