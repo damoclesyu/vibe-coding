@@ -1,14 +1,31 @@
 {
-  "generatedAt": "2026-07-30T02:41:52.511Z",
+  "generatedAt": "2026-07-31T03:23:07.736Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "商务部新闻发言人就美国联邦通信委员会将外国电力逆变器和先进机器人设备列入“覆盖清单”事答记者问",
-      "link": "https://36kr.com/newsflashes/3917475931958921?f=rss",
-      "pubDate": "2026-07-30 09:42:35  +0800",
-      "contentSnippet": "36氪获悉，据商务部消息，有记者问：美东时间7月28日，美国联邦通信委员会（FCC）宣布，将外国生产的电力逆变器和先进机器人设备列入“覆盖清单”，相关新型号产品将无法获得FCC认证授权，不得进入美市场销售。请问商务部对此有何评论？答：我们注意到有关情况。美国联邦通信委员会相关措施表面上打着“非歧视”的旗号，实质上歧视性对待和打压中国企业和产品。这已不是美国联邦通信委员会第一次采取类似措施，此前其已多次对其他中国商品实施限制。一段时间以来，美国联邦通信委员会无视中方反复交涉和克制态度，持续出台、不断升级限制措施，严重损害中方正当贸易利益，严重破坏中美经贸稳定局面，严重扰乱全球产业链供应链稳定，中",
+      "title": "国家发改委：将加快《人工智能法》立法进程",
+      "link": "https://www.ithome.com/0/983/974.htm",
+      "pubDate": "Fri, 31 Jul 2026 02:48:12 GMT",
+      "contentSnippet": "IT之家 7 月 31 日消息，国家发展改革委政策研究室主任、新闻发言人蒋毅在今天（31 日）的新闻发布会上表示，上半年，我国人工智能自主创新步伐加快，在全产业链、多环节实现突破。深度求索、月之暗面等本土企业先后发布参数规模达到“万亿”级别的开源大模型，国产大模型全球下载量突破 100 亿次。\n蒋毅指出，下一步，国家发展改革委将统筹高质量发展和高水平安全，让人工智能这匹“千里马”既跑得快又跑得稳。\n\n一是加快自主创新，聚焦大模型的基础理论、训练、推理效率、多模态、智能体等前沿方向，加强基础研究和技术创新；\n\n二是突出应用，加快推动国家人工智能应用中试基地布局建设；\n\n三是深化生态系统，大力培育",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "发改委称将加快《人工智能法》立法，推动AI创新与应用。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，内容具体，引用官方发布会，信息可靠，但细节有限。"
+    },
+    {
+      "title": "国家发展改革委：共建“一带一路”投资合作向高科技等领域延伸",
+      "link": "https://36kr.com/newsflashes/3918925412773504?f=rss",
+      "pubDate": "2026-07-31 10:17:04  +0800",
+      "contentSnippet": "在今天举行的国家发展改革委7月份新闻发布会上，国家发展改革委新闻发言人表示，今年上半年，共建“一带一路”取得扎实进展，共建“一带一路”投资合作持续向高科技、绿色低碳等领域延伸。国家发展改革委政策研究室主任、新闻发言人蒋毅介绍，经贸合作方面，与共建国家货物进出口总额达到12.97万亿元、同比增长14.8%，占外贸总额的50.9%，共建“一带一路”投资合作持续向高科技、绿色低碳等领域延伸。互联互通方面，匈塞铁路匈牙利段开通货运，中吉乌铁路全线开工。中欧班列保持强劲发展态势，上半年共开行11186列、同比增长20.2%。（央视新闻）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -16,16 +33,186 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "商务部回应FCC将中国电力逆变器和机器人列入限制清单",
+      "aiSummary": "发改委称一带一路投资向高科技绿色领域延伸，上半年贸易增长14.8%。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为36氪转载商务部官方声明，内容权威且信息具体"
+      "credibilityReason": "来源为36氪转载央视新闻，内容具体有数据支撑，官方发布会信息，权威性较高。"
     },
     {
-      "title": "A股运营效率百强榜：谁能真正把资产转起来？",
-      "link": "https://www.tmtpost.com/8084617.html",
-      "pubDate": "Thu, 30 Jul 2026 09:00:48 +0800",
-      "contentSnippet": "基于济安金信最新发布的上市公司竞争力评级数据，我们整理出“A股运营效率”维度排名前100的公司名单，试图从周转与资源配置视角，观察哪些公司能够更高效地使用资产、组织供应链并实现经营循环。",
+      "title": "8月1日起，涉及脑机接口等488项国家标准将实施",
+      "link": "https://36kr.com/newsflashes/3918917508624004?f=rss",
+      "pubDate": "2026-07-31 10:09:02  +0800",
+      "contentSnippet": "8月1日起，488项国家标准开始实施，包括46项强制性国家标准和442项推荐性国家标准。其中，相关产品能源消耗限额、黄河流域用水定额、家用太阳能热水系统、脑机接口、数字孪生、北斗应用、光伏发电系统、绿色产品评价、旅游服务等重要国家标准，将为引领和规范新兴产业及未来产业的发展、促进环境保护和绿色发展、提升人民群众的生活品质、助力国民经济高质量发展等提供标准支撑。（新华社）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "8月起488项国标实施，涵盖脑机接口等新兴领域。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪知名科技媒体，内容具体，引用新华社原始报道，信息可靠。"
+    },
+    {
+      "title": "菜鸟CTO李强创业做Physical AI平台，获云启、商汤超亿元种子轮融资｜硬氪首发",
+      "link": "https://36kr.com/p/3917874427555457?f=rss",
+      "pubDate": "2026-07-31 09:52:24  +0800",
+      "contentSnippet": "作者｜黄楠\n编辑｜袁斯来\n硬氪获悉，Physical AI平台公司「昆腾动力（Quantum Dynamics）」近日完成超亿元种子轮融资，本轮由云启资本、商汤科技联合投资。资金将主要用于Physical AI核心技术研发、人才梯队建设及全球化市场拓展，加速其面向物理世界的智能系统从底层模型到场景化落地的全链路构建。多维资本参与项目孵化与团队组建。\n昆腾动力成立于2026年上半年，公司聚焦AI与真实物理世界的深度融合，自研可跨多场景复用的通用智能系统技术，面向全行业的Physical AI底层平台。\n目前具身智能赛道的创始人多分为几类，一类是一类是自动驾驶背景出身，长于系统集成与工程化落地；另",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "菜鸟CTO李强创业建Physical AI平台，获超亿元种子轮融资。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪知名科技媒体，信息具体含融资额、投资方，但技术细节较少，评分适中。"
+    },
+    {
+      "title": "小米 REDMI K100 Pro 系列“满分旗舰”手机官宣，8 月 11 日发布",
+      "link": "https://www.ithome.com/0/983/940.htm",
+      "pubDate": "Fri, 31 Jul 2026 01:09:52 GMT",
+      "contentSnippet": "IT之家 7 月 31 日消息，今天上午，小米集团合伙人、总裁、手机部总裁、小米品牌总经理卢伟冰宣布，REDMI K100 Pro 系列手机双旗舰将于 8 月 11 日正式发布。\n\n满血性能，满配游戏体验\n屏幕、影像、续航，全面焕新升级\n一起见证，这份给你的“满分答卷”\n\n\n随后，卢伟冰通过长文详细介绍了这款手机背后的故事。\n\n当下手机行业，内存成本暴涨，核心硬件涨价，风浪席卷整个赛道。\nREDMI K 系列从不是时代的幸运儿。2019 年至今，它每一次面对的都不是好打的仗，曾经的“缺芯少屏”犹在眼前，但正是那些最难的仗，逼出了双平台布局，逼出了国屏供应链的崛起。七代产品，七次蜕变，每一次求变",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "小米REDMI K100 Pro系列官宣8月11日发布，主打性能与游戏体验。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家知名科技媒体，内容具体，但缺乏技术细节和原始数据，评分中等偏上。"
+    },
+    {
+      "title": "微星尊爵 14 Flip AI+ 梵高限定版 2026 轻薄本开启预约：融入名画元素",
+      "link": "https://www.ithome.com/0/983/988.htm",
+      "pubDate": "Fri, 31 Jul 2026 03:21:32 GMT",
+      "contentSnippet": "IT之家 7 月 31 日消息，微星 (MSI) 今日宣布，其尊爵 Prestige 14 Flip AI+ 梵高限定版 2026 轻薄笔记本电脑现已开启预约。其定价 15999 元、国家补贴后 14499 元，8 月 3 日 10:00 开售。\n\n此次推出的两款限定版分别以文森特 · 梵高标志性作品《星月夜》和《隆河的星夜》为灵感来源。其 A 面采用高精度喷涂工艺，可在不同光线角度下呈现出细腻的类油画质感；机身整体则采用了与画作协调的深邃蓝色；C 面掌托处则镌刻有梵高写给弟弟信件的摘录和签名。\n梵高限定版尊爵 14 Flip AI+ 2026 均以套装形式发售，除笔记本电脑本体外还包含同主题",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微星推出梵高限定版轻薄本，售价15999元，8月3日开售。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家可信，内容具体含价格、日期和设计细节，但缺乏技术参数和原始引用。"
+    },
+    {
+      "title": "Fortinet：第二季度营收同比增长26%达20.5亿美元",
+      "link": "https://36kr.com/newsflashes/3918987108986502?f=rss",
+      "pubDate": "2026-07-31 11:19:50  +0800",
+      "contentSnippet": "36氪获悉，Fortinet发布2026年第二季度财报，财报显示，第二季度营收同比增长26%，达20.5亿美元；产品收入同比增长52%，达7.73亿美元；GAAP营业利润率达34%；非GAAP营业利润率达38%。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "Fortinet二季度营收增26%至20.5亿美元，产品收入增52%。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪为知名科技媒体，数据具体，但未提供原始财报链接，逻辑清晰。"
+    },
+    {
+      "title": "铁路 12306 新增 2026 级新生专属功能：可提前 20 天预约学生票",
+      "link": "https://www.ithome.com/0/983/987.htm",
+      "pubDate": "Fri, 31 Jul 2026 03:18:12 GMT",
+      "contentSnippet": "IT之家 7 月 31 日消息，随着各大院校进入开学季，铁路将迎来学生旅客出行高峰，据央视新闻今天（7 月 31 日）援引国铁集团客运中心的消息称，针对 2026 级新生预约购票，铁路 12306 新增了服务功能。\n铁路 12306 手机客户端 8 月 1 日至 30 日新增新生预约功能，2026 级新生旅客在铁路 12306 完成实名注册并通过身份信息核验后，可通过铁路 12306 手机客户端“学生资质核验”版块填写姓名、学校和家庭所在地车站、学历阶段、预计毕业年份等信息后，再进入“学生预约购票服务”专区“新生入学”版块，即可在开车前第 20 天至第 17 天预约乘车日期为 8 月 17 日",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "铁路12306新增2026级新生预约购票功能，可提前20天预约学生票。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，引用央视和国铁集团，信息具体，逻辑清晰。"
+    },
+    {
+      "title": "曝智元向全体正式员工发放特别绩效奖金：额外追加一个月薪资，离职员工也有",
+      "link": "https://www.ithome.com/0/983/986.htm",
+      "pubDate": "Fri, 31 Jul 2026 03:17:37 GMT",
+      "contentSnippet": "IT之家 7 月 31 日消息，据“大厂青年”今日爆料，智元内部 7 月 30 日召开 2026 年中全员大会，管理层宣布向全体正式员工发放“年中特别绩效奖”，即额外追加一个月固定月薪，年中一次性到账，包括离职员工也在发放范围内。\n爆料称，2026 年 1 月 1 日至 6 月 30 日期间在职的正式员工（含共创），将随 7 月薪资统一发放 1 个月固定月薪。如果在此期间入职或离职，则按该时段内的实际在职天数比例折算。\n\n各位智元伙伴：\n2026 年上半年，智元在全体伙伴的共同努力下，业绩指标超额达成，在此向每一位全力以赴的智元人致敬！为感谢全体伙伴上半年的卓越贡献，与大家共享公司高速发展的红",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "智元向全体员工发放额外一个月绩效奖金，离职员工按比例折算。",
+      "credibilityScore": 70,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为IT之家，内容具体但依赖单一爆料，缺乏官方确认，评分中等偏上。"
+    },
+    {
+      "title": "日本央行将目标利率维持在1%不变",
+      "link": "https://36kr.com/newsflashes/3918981507346050?f=rss",
+      "pubDate": "2026-07-31 11:14:08  +0800",
+      "contentSnippet": "日本央行将目标利率维持在1%不变，符合市场预期，前值1.00%。日本央行以8-1的投票结果通过利率决议。（财联社）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "日本央行维持利率1%不变，符合预期，投票8-1通过。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪为知名科技媒体，内容具体，引用财联社原始报道，信息准确。"
+    },
+    {
+      "title": "国家发改委：下半年物价有望保持平稳运行",
+      "link": "https://36kr.com/newsflashes/3918979605409159?f=rss",
+      "pubDate": "2026-07-31 11:12:12  +0800",
+      "contentSnippet": "7月31日，国家发展改革委政策研究室主任、新闻发言人蒋毅在新闻发布会上表示，今年上半年，我国物价总水平呈现持续回升态势。本轮物价回升，对企业的利润增加、财政收入增长、居民就业和增收产生积极推动作用，也有效促进了国民经济循环畅通。展望下半年，随着人工智能等新兴产业的加速发展，产能产量调控进一步加强，市场竞争秩序逐步优化，服务消费需求持续释放，将对物价持续回升形成良好支撑。同时，夏粮产量再创新高，肉蛋产能基础稳固，果蔬生产保持平稳，重要民生商品总体供给充裕。总的来看，下半年物价有望保持平稳运行。（证券时报）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "发改委称下半年物价有望平稳运行，受新兴产业支撑。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源权威（证券时报），内容具体，引用官方发布会，逻辑清晰。"
+    },
+    {
+      "title": "滨口直树称争取为《最终幻想 7：启示录》游戏发行实体版，容量限制是关键",
+      "link": "https://www.ithome.com/0/983/985.htm",
+      "pubDate": "Fri, 31 Jul 2026 03:11:59 GMT",
+      "contentSnippet": "IT之家 7 月 31 日消息，科技媒体 Wccftech 昨日（7 月 30 日）发布博文，报道称滨口直树表示正在为《最终幻想 VII：启示录》讨论推出实体版，但游戏容量限制可能会成为一个挑战。\n在《最终幻想 14》粉丝节上，滨口直树表示：\n\n我们内部依然在讨论《最终幻想 VII：启示录》的具体 SKU 规格产品线，目前我无法给出任何确切的信息，但我正在努力安排，争取推出某种实体版本。\n目前游戏发行已开始转向数字版，不过我依然希望为玩家推出实体版，也许会有一个装有兑换码的盒子，或许会像任天堂那样使用 key card，或许会是启动光盘之类的。\n\n\n不过滨口直树表示，推行游戏实体版遇到的最大挑",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "滨口直树称争取为《最终幻想7：启示录》发行实体版，容量限制是挑战。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体，引用原始采访，但未提供官方确认，评分75。"
+    },
+    {
+      "title": "2000亿电竞市场，静待涅槃重生",
+      "link": "https://www.tmtpost.com/8085986.html",
+      "pubDate": "Fri, 31 Jul 2026 11:09:12 +0800",
+      "contentSnippet": "中国电竞产业30年，一路跌宕起伏。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -33,50 +220,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体发布A股运营效率百强榜，基于济安金信数据评估资产周转效率。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，数据引用自专业机构，内容具体但缺乏原始数据细节。"
-    },
-    {
-      "title": "36氪首发｜本末科技前合伙人创业做电助力渔轮，获高瓴、启明创投联合投资",
-      "link": "https://36kr.com/p/3916820073623171?f=rss",
-      "pubDate": "2026-07-30 09:00:42  +0800",
-      "contentSnippet": "文｜张子怡\n编辑｜袁斯来\n硬氪获悉，海洋科技消费品公司「蓝色涌现」近日完成数千万人民币天使+轮融资，本轮投资方高瓴创投联合启明创投领投，云沐资本跟投，老股东天使投资人高秉强教授、奇绩创坛、松禾创投联创等持续加注，累计融资超5000万人民币，云沐资本担任独家财务顾问。本轮资金将主要用于核心产品的技术研发迭代，以及产品上市后的市场销售渠道搭建。\n蓝色涌现成立于2024年，首款产品是面向海钓场景的电助力渔轮，产品已在用户内测阶段。\n相比北美、日本和欧洲等成熟市场，海钓在国内仍处于参与人群与消费市场逐步发展的阶段，但在全球有相当大的市场规模。联合国《第三次世界海洋评估》估算，全球每年约3亿人参与休闲钓",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "蓝色涌现获高瓴、启明创投投资，开发电助力渔轮，累计融资超5000万。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源权威（36氪），信息具体（融资额、投资方、产品阶段），逻辑清晰。"
-    },
-    {
-      "title": "8点1氪丨超1100名AI公司员工联名请愿美国政府；桃酥吃出假牙冠？山姆、泸溪河回应；月之暗面Kimi已完成超35亿美元F轮融资",
-      "link": "https://36kr.com/p/3917362478148993?f=rss",
-      "pubDate": "2026-07-30 07:50:17  +0800",
-      "contentSnippet": "今日热点导览\nC长鑫成交额达400亿元\n国家烟草专卖局约谈爱奇迹（深圳）技术有限公司\n外交部回应美国实施先进机器人进口限制\n宝马拟在德国裁员数千人，通过自愿离职计划削减成本\n美联储宣布维持利率不变\nTOP3大新闻\nAnthropic首席执行官等多位AI大牛签署联名信，呼吁控制人工智能发展步伐\n超过1100名来自领先人工智能公司的高管及员工联名签署了一封公开信，呼吁美国政府“支持国际社会共同打造技术与治理工具，以此对前沿自动化人工智能的发展节奏实施有序管控”。这封信于当地时间7月28日发布，并获得了Anthropic与OpenAI的支持，签署者包括Anthropic首席执行官达里奥・阿莫代伊、O",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "AI公司员工联名请愿美国政府管控AI发展，山姆泸溪河回应桃酥假牙冠事件",
+      "aiSummary": "中国电竞产业30年发展历程回顾与展望。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，内容具体但部分信息简略，整体可信度较高"
+      "credibilityReason": "钛媒体为知名科技媒体，内容有历史脉络，但缺乏具体数据支撑，评分中等偏上。"
     },
     {
-      "title": "【钛晨报】央行等九部门：加强科技金融领域数据开放共享和融合运用；公开发售获16.84倍认购，中际旭创今日登陆港交所；智驾“小蓝灯”相关国标已启动制修订",
-      "link": "https://www.tmtpost.com/8084357.html",
-      "pubDate": "Thu, 30 Jul 2026 07:20:00 +0800",
-      "contentSnippet": "月之暗面Kimi完成F轮超35亿美元融资；兆易创新拟回购最高20亿元A股股份，董事长朱一明计划增持金额不低于10亿元；两大MLCC龙头涨价：三星电机8月起涨30%，太阳诱电9月起涨价；邮政业“十五五”规划发布：加快建设现代化寄递物流网络；韩国承诺采取更多措施稳定股市；外交部回应美国实施先进机器人进口限制。",
+      "title": "“商汤宇宙”成型了",
+      "link": "https://www.tmtpost.com/8085598.html",
+      "pubDate": "Fri, 31 Jul 2026 11:08:54 +0800",
+      "contentSnippet": "商汤医疗完成B轮融资，估值突破百亿，进入Pre-IPO阶段，旗下子公司曦望、大晓机器人等加速发展，布局AI全产业链。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -84,33 +237,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "央行等九部门推动科技金融数据开放共享，中际旭创港股上市获16倍认购。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体且涉及多领域政策与市场动态，逻辑清晰。"
-    },
-    {
-      "title": "美国以国家安全理由禁售外国制造的先进机器人",
-      "link": "https://www.solidot.org/story?sid=84949",
-      "pubDate": "Wed, 29 Jul 2026 14:54:49 +0800",
-      "contentSnippet": "美国以国家安全理由禁售外国制造的先进机器人。美国政府公布的文件称，现代的机器人要始终联网，扩大了攻击面，更容易泄漏数据和远程破坏。文件举例说，被称为 UniPwn 的漏洞能被攻击者用于控制宇树的人形机器人。“如果美国继续依赖外国的先进机器人设备和关键零部件，那么美国经济中依赖这些机器人的部分以及国家安全体系，将受制于外国实体的摆布。这些外国实体可能会在其选择的时机破坏或削弱供应链。”由韩国现代汽车控股的美国机器人公司波士顿动力豁免于禁令。已获准在美国销售的机器人不受影响。准备批量制造人形机器人的特斯拉公司将受益于这一禁令。",
-      "sourceName": "Solidot",
-      "sourceWeight": 75,
-      "allSources": [
-        "Solidot"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "美国以国安为由禁售外国先进机器人，波士顿动力豁免。",
+      "aiSummary": "商汤医疗B轮融资估值百亿，子公司布局AI全产业链。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源Solidot为知名科技媒体，内容具体有文件引用，但缺乏官方原文链接。"
+      "credibilityReason": "来源钛媒体知名，内容具体但缺乏数据细节和原始出处，评分中等偏上。"
     },
     {
-      "title": "Steam 上架仿冒游戏《明末影之刃零》，DLC 含《黑神话：钟馗》《归唐》等碰瓷命名",
-      "link": "https://www.ithome.com/0/983/434.htm",
-      "pubDate": "Thu, 30 Jul 2026 02:36:18 GMT",
-      "contentSnippet": "IT之家 7 月 30 日消息，近期有玩家发现，Steam 平台出现了一款名为《明末影之刃零》的游戏，因名称刻意拼接多款知名国产游戏而引发玩家关注。\n这款游戏的前身为《明末：渊虚之域》，近期改为《明末影之刃零》。该游戏的 DLC 列表中更出现了《归唐》《影之刃零》《穿越火线虹》以及尚未发售的《黑神话钟馗》等名称，但这些 DLC 与实际内容并无关联。\n\n根据 SteamDB 后台数据显示，该作在今年早些时候更名为《明末影之刃零》，工作室名称也改为“authority”。其游戏简介自称是一款单人恐怖探索游戏，玩家需要穿越“后室”风格的关卡，寻找出口并逃脱。\n不过，从目前已公开的游戏截图和实机画面来",
+      "title": "曝特斯拉考虑出售中国业务，为与 SpaceX 的潜在合并铺平道路",
+      "link": "https://www.ithome.com/0/983/982.htm",
+      "pubDate": "Fri, 31 Jul 2026 03:07:39 GMT",
+      "contentSnippet": "IT之家 7 月 31 日消息，据华尔街日报今日报道，特斯拉考虑出售中国业务，为特斯拉与 SpaceX 的潜在合并铺平道路。\n据知情人士透露，近年来，埃隆 · 马斯克指示特斯拉高管在公司内部对美国和中国业务进行“精准”划分。\n一位知情人士称，目前部分特斯拉高管已被告知，需要在潜在合并交易之前做好剥离中国业务的准备。另一位知情人士表示，特斯拉的顾问已讨论了多种潜在分离选项，包括剥离、出售或关闭。\n\n今年 6 月，SpaceX 总裁格温 · 肖特韦尔在 CNBC 采访中表示，特斯拉和 SpaceX 正在朝相同目标前进。\n对于未来是否可能合并，肖特韦尔并未排除其可能性。“实际上，那可能会让埃隆的生活",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -118,146 +254,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "Steam出现仿冒游戏《明末影之刃零》，DLC碰瓷多款国产游戏。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，信息具体有SteamDB数据支撑，逻辑清晰。"
-    },
-    {
-      "title": "三星电子预计今年 AI 芯片需求继续强劲，供应短缺不会明显缓解",
-      "link": "https://www.ithome.com/0/983/433.htm",
-      "pubDate": "Thu, 30 Jul 2026 02:33:37 GMT",
-      "contentSnippet": "IT之家 7 月 30 日消息，据路透社今天（30 日）报道，三星电子预计，AI 芯片需求今年将继续保持强劲，而供应短缺局面不会明显缓解。\n三星电子此前公布，第二季度半导体业务利润已达到上年同期的 250 多倍。财报公布后，三星电子股价早盘下跌 0.5%，竞争对手 SK 海力士跌幅达到 5.8%。\n芯片股近几个月已明显走弱。投资者担心 AI 基础设施建设能否获得足够资金，同时，中国芯片企业带来的竞争也可能压缩行业利润。\n三星电子半导体部门第二季度营业利润达到 89.2 万亿韩元（IT之家注：现汇率约合 4154.04 亿元人民币），增至上年同期的 250 多倍。\n芯片价格上涨虽然大幅推高了半导",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "三星预计AI芯片需求强劲，供应短缺持续。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用路透社报道，数据具体，逻辑清晰。"
-    },
-    {
-      "title": "谷歌预热 Pixel 11 Pro 手机 Glow 功能，RGB 灯效融入用户日常交互",
-      "link": "https://www.ithome.com/0/983/432.htm",
-      "pubDate": "Thu, 30 Jul 2026 02:32:21 GMT",
-      "contentSnippet": "IT之家 7 月 30 日消息，科技媒体 Android Headline 昨日（7 月 29 日）发布博文，报道称谷歌预热 Pixel 11 系列手机，放出一段约 30 秒的视频，重点展示 Pixel Glow 灯效系统。\n\nIT之家注：Pixel Glow 是谷歌为 Pixel 11 系列手机推出的全新后置环形 RGB 灯效功能，在后置相机模组（Deco）内部集成一圈环形彩色灯带，在手机屏幕朝下放置时，系统会通过背面的微妙光线、不同色彩和动态效果提醒用户。\n\n最新预告没有展示相机模组周边的发光区域，视频画面显示，机身背部靠近 LED 闪光灯的位置配有一枚小型 RGB LED 指示灯。\n\n视",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "谷歌预热Pixel 11 Pro的RGB灯效Glow功能，用于交互提醒。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有细节，但缺少原始出处验证。"
-    },
-    {
-      "title": "希捷：机械硬盘供应缺口进一步扩大，单碟超 5TB 平台 2027 年末认证出货",
-      "link": "https://www.ithome.com/0/983/430.htm",
-      "pubDate": "Thu, 30 Jul 2026 02:31:28 GMT",
-      "contentSnippet": "IT之家 7 月 30 日消息，Seagate（希捷）在 FY2026Q4 财报电话会议上表示，机械硬盘 (HDD) 的供应缺口正进一步扩大，这意味着按容量计单价的上升正进一步加速。\n希捷 FY2026Q4 出货容量达 218EB；其中数据中心占到 89% 即 195EB，环比增长 11%、同比增长 49%。HAMR（热辅助磁记录）技术平台在近线机械硬盘整体出货容量中的渗透率约为 40%。\n该企业绝大多数近线机械硬盘产能已根据长期协议分配至 2028 年，许多客户正积极寻求将规划时间范围延长至 2029 年及以后。希捷并未看到客户缩短规划时间范围。\n\n在技术侧，希捷预测其单碟（盘片）容量可达",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "希捷称机械硬盘供应缺口扩大，单碟超5TB平台2027年末认证出货。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，信息具体有数据支撑，逻辑清晰。"
-    },
-    {
-      "title": "粉笔 2026 上半年投资亏损 830 万美元，前 CEO 张小龙曾鼓励年轻人炒股",
-      "link": "https://www.ithome.com/0/983/429.htm",
-      "pubDate": "Thu, 30 Jul 2026 02:31:00 GMT",
-      "contentSnippet": "IT之家 7 月 30 日消息，粉笔本周在港交所发布 2026 年上半年业绩预告，公司业绩由盈转亏。\n公告显示，截至 6 月 30 日的六个月，粉笔预期收入不少于 12.2 亿元，对比 2025 年同期 14.92 亿元，收入同比最大降幅达到 18.3%。\n盈利层面，公司预计上半年净亏损不超过 2 亿元，去年同期录得净利润 2.27 亿元；经调整净亏损上限 1.8 亿元，而 2025 年同期经调整净利润 2.72 亿元。\n粉笔在公告中解释了亏损两大核心原因：\n\n一方面招录类考试培训行业竞争加剧，岗位需求下滑，培训业务销售收入承压；\n\n另一方面公司主动优化人员架构，产生大额员工遣散支出。\n\n此外",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "粉笔2026上半年预亏不超2亿元，投资亏损830万美元。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自IT之家，引用港交所公告，数据具体，逻辑清晰。"
-    },
-    {
-      "title": "埃安再推全新车系，新车 Ray 7 定位运动瞄准年轻人，将要直面小米 SU7",
-      "link": "https://www.ifanr.com/1673361?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pubDate": "Thu, 30 Jul 2026 02:28:44 +0000",
-      "contentSnippet": "埃安需要这道光。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "sourceName": "爱范儿",
-      "sourceWeight": 82,
-      "allSources": [
-        "爱范儿"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "埃安推出新车Ray 7，定位运动型，对标小米SU7。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源知名科技媒体，内容具体但缺乏技术细节和原始数据支撑。"
-    },
-    {
-      "title": "迈瑞医疗在郑州成立医疗科技公司，注册资本500万",
-      "link": "https://36kr.com/newsflashes/3917517935177350?f=rss",
-      "pubDate": "2026-07-30 10:25:19  +0800",
-      "contentSnippet": "36氪获悉，天眼查App显示，近日，郑州迈瑞医疗科技有限公司成立，法定代表人为姚强，注册资本500万人民币，经营范围含第一类医疗器械生产、仪器仪表制造等。股东信息显示，该公司由迈瑞医疗全资持股。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "迈瑞医疗全资在郑州成立医疗科技公司，注册资本500万。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体36氪，信息具体有数据支撑，来源可靠。"
-    },
-    {
-      "title": "追觅星环投影仪 A10 新品上市：自带氛围灯，899 元",
-      "link": "https://www.ithome.com/0/983/428.htm",
-      "pubDate": "Thu, 30 Jul 2026 02:24:54 GMT",
-      "contentSnippet": "IT之家 7 月 30 日消息，追觅官方今日宣布推出追觅星环投影仪 A10 并开售，京东首发价 899 元。\n\n这款产品是追觅首创光影音三合一投影仪，主打氛围投影、智能睡眠管理、创新星环云台设计。\n对比传统普通投影仪，追觅星环 A10 自带氛围灯光；支持投影 + 蓝牙音响 + 睡眠助手多功能多场景使用。\n\n这款产品自带 1600 万色 RGB 氛围灯，能够增强沉浸感，减少眼部刺激；夜晚支持沉浸入睡，实录篝火、细雨、海浪等原生自然白噪音，配合动态光影释放氛围光晕，有效促进褪黑素自然分泌。\n\n外观设计方面，这款产品采用追觅创新星环设计，整机重约 1kg，厚 68mm，不占空间，设计云台支持 0~1",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "追觅发布星环投影仪A10，售价899元，主打氛围灯与睡眠功能。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，信息具体有价格和功能细节，但缺乏技术参数和原始出处。"
-    },
-    {
-      "title": "华为余承东：尊界 V800、尊界 V680 正式开启选配",
-      "link": "https://www.ithome.com/0/983/427.htm",
-      "pubDate": "Thu, 30 Jul 2026 02:24:04 GMT",
-      "contentSnippet": "IT之家 7 月 30 日消息，今天（30 日）上午，华为常务董事、产品投资委员会主任、终端 BG 董事长余承东宣布，鸿蒙智行尊界 V800、V680 正式开启选配。\n\nIT之家查询华为商城获悉，尊界 V800、尊界 V680 的选配项目如下：\n尊界 V800\n\n云水天青车色：15 万元\n\n二排中岛私享饮吧：2 万元\n\n除此之外，页面显示“价格已包含”的项目包括二排尊享 AI 座椅、二三排隐私光幕玻璃、座椅舒享套装、电动隐私帷幔、全主动悬架 + 线控转向、双百万像素全彩智能投影大灯 + 全彩智能交互流光尾灯、卷轴交互星空顶等。\n尊界 V680\n\n破晓金黑 / 曜日金棕 / 凌云墨白配色：3 万",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "华为余承东宣布尊界V800、V680开启选配，含车色等选项",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体有选配细节，逻辑清晰"
+      "aiSummary": "曝特斯拉考虑出售中国业务，为与SpaceX潜在合并铺路。",
+      "credibilityScore": 60,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为IT之家，转述华尔街日报，有知情人士但缺乏具体细节和官方确认，逻辑存疑。"
     }
   ]
 }

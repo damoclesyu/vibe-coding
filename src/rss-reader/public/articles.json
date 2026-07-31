@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-07-30T02:40:33.851Z",
+  "generatedAt": "2026-07-31T03:21:49.313Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "优化创新环境 赋能高质量发展——国新办发布会聚焦“十五五”时期知识产权工作新图景",
-      "link": "https://china.huanqiu.com/article/4SaWKYzmbEl",
-      "pubDate": "(Thu,30 Jul 2026 10:27:31 CST)",
-      "contentSnippet": "知识产权制度是激励创新的基本保障，在推动科技创新和产业创新深度融合方面，发挥着重要的桥梁纽带作用。“十五五”时期，如何加快建设知识产权强国？如何促进创新成果向现实生产力转化、助力经济高质量发展？",
+      "title": "联合国机构：今年欧洲野火烧毁超43.4万公顷土地",
+      "link": "https://world.huanqiu.com/article/4SbNKRkbDlN",
+      "pubDate": "(Fri,31 Jul 2026 11:10:48 CST)",
+      "contentSnippet": "联合国欧洲经济委员会（简称联合国欧经委）30日发布新闻公报称，今年欧洲已有超过43.4万公顷土地被野火烧毁。随着野火继续在欧洲和北美肆虐，气候行动的紧迫性更加凸显。",
       "sourceName": "环球网",
       "sourceWeight": 85,
       "allSources": [
@@ -16,33 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国新办发布会介绍“十五五”时期知识产权工作规划，强调创新环境优化。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体但无直接引述，属政策报道，可信度较高。"
-    },
-    {
-      "title": "截至今年6月 中欧班列重箱率连续46个月保持100%",
-      "link": "https://china.huanqiu.com/article/4SaVFnkDUnN",
-      "pubDate": "(Thu,30 Jul 2026 09:57:23 CST)",
-      "contentSnippet": "2016年6月8日，中国铁路正式启用中欧班列统一品牌。国家发展改革委开放司司长梁林冲介绍，10年来，中欧班列高质量发展取得了显著成效，呈现“向好、向上、向优、向实”4个特点。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中欧班列重箱率连续46个月保持100%，高质量发展成效显著。",
+      "aiSummary": "联合国机构称今年欧洲野火烧毁超43.4万公顷土地，凸显气候行动紧迫性。",
       "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，有具体数据和国家发改委官员引述，内容客观可查证。"
+      "credibilityReason": "来源为环球网，引用联合国官方公报，数据具体，内容客观，但未提供多源交叉验证。"
     },
     {
-      "title": "法治亮剑，严惩网络暴力（今日谈）",
-      "link": "https://china.huanqiu.com/article/4SaVBhxizQy",
-      "pubDate": "(Thu,30 Jul 2026 09:55:32 CST)",
-      "contentSnippet": "人民群众对美好生活有新期待，立法就有新任务。",
+      "title": "苹果2026第三财季营收达1094.17亿美元 净利同比增长27%",
+      "link": "https://tech.huanqiu.com/article/4SbNEdDcM59",
+      "pubDate": "(Fri,31 Jul 2026 11:08:10 CST)",
+      "contentSnippet": "苹果首席财务官Kevan Parekh在同期举行的财报电话会议上明确表示，当前的供应链限制将在截至9月的新财季持续对iPhone、Mac和iPad三大核心业务形成拖累，叠加汇率波动的负面影响，将共同对后续季度的营收增长形成压制",
       "sourceName": "环球网",
       "sourceWeight": 85,
       "allSources": [
@@ -50,16 +33,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "环球网评论强调法治严惩网络暴力，回应群众期待。",
+      "aiSummary": "苹果2026第三财季营收1094亿美元，净利增27%，但供应链限制将拖累后续季度。",
       "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名媒体环球网，内容客观，但属评论性文章，缺乏具体事实细节。"
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源环球网较权威，内容具体含数据及高管引述，但未多源交叉验证，评分75。"
     },
     {
-      "title": "2026 品艺中欧·中意文化交流意大利系列活动圆满收官",
-      "link": "https://yrd.huanqiu.com/article/4SaUkOKUbvx",
-      "pubDate": "(Thu,30 Jul 2026 09:43:12 CST)",
-      "contentSnippet": "本次交流活动历时七日，先后在意大利罗马、佛罗伦萨、卢卡三地举办欢迎盛典、开幕式音乐会、民族器乐专场音乐会、国际大师课、AWEC第五届中欧国际音乐大赛等多层次艺术",
+      "title": "库克最后一次财报会坦言供应链承压 苹果受内存涨价冲击增速放缓",
+      "link": "https://tech.huanqiu.com/article/4SbNDdtGfwW",
+      "pubDate": "(Fri,31 Jul 2026 11:07:43 CST)",
+      "contentSnippet": "”即便苹果没有像部分行业巨头那样投入数千亿美元规模的资本开支，自身业务依然被卷入了全球人工智能竞赛的冲击中，首当其冲的就是内存芯片环节",
       "sourceName": "环球网",
       "sourceWeight": 85,
       "allSources": [
@@ -67,199 +50,216 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中意文化交流活动在意大利三地成功举办，历时七日。",
+      "aiSummary": "苹果CEO库克在财报会上称供应链承压，内存涨价影响增速。",
       "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，活动细节具体，但缺乏多源交叉验证。"
+      "credibilityLevel": "medium",
+      "credibilityReason": "环球网为知名媒体，内容具体，但缺乏直接引述和交叉验证，评分中等偏上。"
     },
     {
-      "title": "刚果（金）疫情仍处于持续传播阶段 乌干达未再报告新增确诊病例",
-      "link": "https://health.huanqiu.com/article/4SaU7SeKEUK",
-      "pubDate": "(Thu,30 Jul 2026 09:25:38 CST)",
-      "contentSnippet": "世卫组织持续向疫区部署流行病学调查、实验室检测、院感防控等专业团队，协调合作伙伴支持病例发现、接触者追踪、感染防控和社区健康宣传，并启动针对本迪布焦型埃博拉病毒",
+      "title": "国家发展改革委：共建“一带一路”投资合作向高科技等领域延伸",
+      "link": "https://china.huanqiu.com/article/4SbNAOEWHmn",
+      "pubDate": "(Fri,31 Jul 2026 11:06:15 CST)",
+      "contentSnippet": "在今天举行的国家发展改革委7月份新闻发布会上，国家发展改革委新闻发言人表示，今年上半年，共建“一带一路”取得扎实进展，共建“一带一路”投资合作持续向高科技、绿色低碳等领域延伸。",
       "sourceName": "环球网",
       "sourceWeight": 85,
       "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "刚果（金）疫情持续传播，乌干达无新增病例，世卫组织持续支持防控。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体，引用世卫组织行动，信息可查证。"
-    },
-    {
-      "title": "浙江海警查获2起非法捕捞水产品案 渔获物近6000斤",
-      "link": "https://www.chinanews.com.cn/sh/2026/07-30/10669071.shtml",
-      "pubDate": "Thu, 30 Jul 2026 10:36:48 +0800",
-      "contentSnippet": "中新网杭州7月30日电 (钱晨菲)30日，记者从浙江海警局获悉，浙江台州海警局近日位当地三门、大陈附近海域先后查处2起海上非法捕捞水产品案，共计查获涉案人员16名、渔获物近6000斤。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
+        "环球网",
         "中国新闻网"
       ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "浙江海警查获2起非法捕捞案，渔获物近6000斤。",
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "发改委称上半年一带一路投资向高科技绿色低碳延伸。",
       "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源权威（中国新闻网），信息具体（时间、地点、数据），用词客观。"
+      "credibilityReason": "来源为官方发布会及权威媒体，信息具体，用词客观，可交叉验证。（多源覆盖 +5）"
     },
     {
-      "title": "2026“一带一路”年度候选汉字发布",
-      "link": "https://www.chinanews.com.cn/ydyl/2026/07-30/10669044.shtml",
-      "pubDate": "Thu, 30 Jul 2026 09:56:46 +0800",
-      "contentSnippet": "昨日，2026“一带一路”年度汉字发布活动在北京启动。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
+      "title": "台胞在漳州打造短剧基地 以光影为桥讲好两岸故事",
+      "link": "https://taiwan.huanqiu.com/article/4SbMsZ82fxN",
+      "pubDate": "(Fri,31 Jul 2026 10:58:12 CST)",
+      "contentSnippet": "“大陆短剧市场体量庞大，制作水平也日趋精品化。我希望依托短剧赛道，以文化为桥，讲好两岸故事。”来自台湾的漳州荷乐影业有限公司董事长庄涵如近日在漳州受访时说，她正以微短剧为载体，用烟火故事搭建两岸文化沟通桥梁。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
       "allSources": [
-        "中国新闻网"
+        "环球网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "2026“一带一路”年度候选汉字发布活动在北京启动。",
+      "aiSummary": "台胞庄涵如在漳州打造短剧基地，以光影为桥促进两岸文化交流。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网较权威，内容具体有直接引述，但单一来源且无交叉验证。"
+    },
+    {
+      "title": "“产品+场景”深耕价值赛道，青岛啤酒迎战行业下半场",
+      "link": "https://yrd.huanqiu.com/article/4SbMIYe2Nzb",
+      "pubDate": "(Fri,31 Jul 2026 10:41:57 CST)",
+      "contentSnippet": "在这一逻辑下，青岛啤酒凭借产品、研发、供应链、生态的多维复合优势，有望在行业分化中持续保持领先地位",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "青岛啤酒以产品与场景策略应对行业挑战，保持领先。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网较权威，内容具体但缺乏直接引述和数据，评分75。"
+    },
+    {
+      "title": "中国赴联合国两任务区维和警队出征仪式举行",
+      "link": "https://china.huanqiu.com/article/4SbLwsMBwQ4",
+      "pubDate": "(Fri,31 Jul 2026 10:32:10 CST)",
+      "contentSnippet": "记者7月31日从公安部获悉，中国赴联合国中非、塞浦路斯任务区维和警队出征仪式7月30日在北京举行。两支维和警队从北京首都国际机场出发，分别前往联合国中非任务区和塞浦路斯任务区执行维和任务。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网",
+        "中国新闻网"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "中国维和警队出征仪式在北京举行，分赴中非和塞浦路斯任务区。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为环球网和中国新闻网，属权威媒体，信息具体，有明确时间地点，内容客观。（多源覆盖 +5）"
+    },
+    {
+      "title": "2026“上合绿创杯”全国绿色循环产业创新创业大赛正式启动 面向全国征集优质项目",
+      "link": "https://yrd.huanqiu.com/article/4SbLwAqYm9M",
+      "pubDate": "(Fri,31 Jul 2026 10:31:51 CST)",
+      "contentSnippet": "聚焦“双碳”目标，构筑绿色循环产业新高地作为中国-上海合作组织绿色产业发展合作区举办的重要赛事，大赛服务国家“双碳”目标、以推动绿色循环产业科技创新和高质量发展",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "2026上合绿创杯绿色循环产业大赛启动，面向全国征集项目。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源环球网较权威，信息具体，但缺乏直接引述和多方验证。"
+    },
+    {
+      "title": "眉山市彭山区奋力建设都市圈近郊农业高质量发展先行区",
+      "link": "https://city.huanqiu.com/article/4SbLVNHCH04",
+      "pubDate": "(Fri,31 Jul 2026 10:19:45 CST)",
+      "contentSnippet": "身处成眉同城发展前沿，彭山正以全会精神为行动指南，持续做强现代农业、建设和美乡村、拓宽富民路径，全力推动农业提质增效、农村宜居宜业、农民富裕富足，在新时代更高水",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "彭山区推进都市圈近郊农业高质量发展，聚焦农业增效、乡村建设与农民增收。",
+      "credibilityScore": 75,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源环球网较权威，内容具体但缺乏直接引述和数据，宣传性较强，评分75。"
+    },
+    {
+      "title": "国家发改委：强化煤炭兜底保障作用，加大油气增储上产力度",
+      "link": "https://m.thepaper.cn/detail/33688837",
+      "pubDate": "Fri, 31 Jul 2026 03:07:04 GMT",
+      "contentSnippet": "7月31日，国家发展改革委政策研究室主任、新闻发言人蒋毅在国家发展改革委新闻发布会上谈到了如何推动能源体系高质量发展，他表示，将深入实施能源安全新战略，加快推动新型能源体系“十五五”规划及配套规划、政策落地见效，推动我国从“能源大国”向“能源强国”迈进。\n一是保障安全稳定供应。始终把能源安全放在首要位置，筑牢极端情形下的能源战略安全底线，强化煤炭兜底保障作用，加大油气增储上产力度，增强能源多元进口和安全保障能力，持续扩大非化石能源供给规模，构建适配高比例新能源的新型电力系统。\n二是统筹促进普惠和提高效率。注重保障民生等重点领域用能需求，持续推进供电服务普惠化，加快实现从“用上电”到“用好电”“",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国家发改委称将强化煤炭兜底保障，加大油气增储上产，推动能源体系高质量发展。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，权威性较高；信息具体，有明确时间和地点。"
+      "credibilityReason": "来源为澎湃新闻，内容具体，直接引述官方发言人，信息可查证，符合官方政策发布特征。"
     },
     {
-      "title": "物流运行平稳 结构优化升级——透视我国上半年物流运行发展",
-      "link": "https://china.huanqiu.com/article/4SaWG5rvUd0",
-      "pubDate": "(Thu,30 Jul 2026 10:25:30 CST)",
-      "contentSnippet": "中国物流与采购联合会29日发布我国上半年物流运行数据。上半年，全国社会物流总额为181.1万亿元，按可比价格计算，同比增长5.1%，整体保持5%以上较快增长。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
+      "title": "尴尬！美代表展示非洲地图国家位置全标错 美国务院称负全责",
+      "link": "https://www.chinanews.com.cn/gj/2026/07-31/10669735.shtml",
+      "pubDate": "Fri, 31 Jul 2026 11:00:41 +0800",
+      "contentSnippet": "中新网7月31日电 综合外媒30日报道，近日，在巴西举办的一场国际卫生会议上，美国政府代表用幻灯片展示一幅非洲地图时闹了乌龙：地图上非洲国家对应的位置全部标错。对此，美国国务院发言人回应称，对由此给与会者“造成的困惑和误解负全部责任”。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
       "allSources": [
-        "环球网",
         "中国新闻网"
       ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "我国上半年物流总额181.1万亿元，同比增长5.1%，运行平稳结构优化。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为环球网和中国新闻网，数据来自中国物流与采购联合会，内容具体可查证。（多源覆盖 +5）"
-    },
-    {
-      "title": "厚植合规文化根基 筑牢稳健经营底色——平安银行上海分行全面深化合规文化建设",
-      "link": "https://yrd.huanqiu.com/article/4SaW6Uyo2aO",
-      "pubDate": "(Thu,30 Jul 2026 10:21:10 CST)",
-      "contentSnippet": "2026年以来,平安银行上海分行坚持党建引领内控管理,紧扣“省心、省时、省钱”三省服务理念,多层次、全方位推进合规文化建设,通过问题复盘、风险排查、多元宣教、长",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "平安银行上海分行深化合规文化建设，强调党建引领和风险排查。",
-      "credibilityScore": 70,
+      "aiSummary": "美代表在巴西国际卫生会议上展示非洲地图，国家位置全标错，国务院致歉。",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体但缺乏独立验证，属企业宣传稿。"
+      "credibilityReason": "来源为正规媒体，事件具体，有官方回应，但未提及其他信源交叉验证。"
     },
     {
-      "title": "日本熊本地震已致28人死亡",
-      "link": "https://world.huanqiu.com/article/4SaW5qB4fKw",
-      "pubDate": "(Thu,30 Jul 2026 10:20:52 CST)",
-      "contentSnippet": "日本熊本地震已致28人死亡",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
+      "title": "南沙湿地发现广东首个纯种原生野生莲种群 为我国亚热带型野生莲种群首次记录",
+      "link": "https://www.chinanews.com.cn/dwq/2026/07-31/10669732.shtml",
+      "pubDate": "Fri, 31 Jul 2026 10:58:38 +0800",
+      "contentSnippet": "近日，广州大湾区中央湿地公园(南沙湿地)传来重大生态科研喜讯：经中国科学院分子植物科学卓越创新中心辰山科学研究中心、上海辰山植物园研究员，国际荷花品种登录负责人田代科权威鉴定，湿地候鸟核心觅食区内的连片莲群是广东首次发现的纯种原生野生莲种群，也是在中国首次发现的亚热带型野生莲种群，属国家二级重点保护野生植物，填补了广东乃至中国亚热带型野生莲的分布记录空白。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
       "allSources": [
-        "环球网",
         "中国新闻网"
       ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "日本熊本地震已致28人死亡，来源为环球网和中国新闻网。",
-      "credibilityScore": 80,
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "南沙湿地发现广东首个纯种原生野生莲种群，系中国亚热带型首次记录。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名媒体，信息具体，但缺乏细节和多源交叉验证。（多源覆盖 +5）"
+      "credibilityReason": "来源中国新闻网较权威，有具体科研机构及专家鉴定，信息具体可查证。"
     },
     {
-      "title": "循着城垣与丝线读姑苏",
-      "link": "https://yrd.huanqiu.com/article/4SaW3HXkmD7",
-      "pubDate": "(Thu,30 Jul 2026 10:19:43 CST)",
-      "contentSnippet": "7月16日，苏州大学商学院“古城焕姑苏·青YOUNG在行动”中外大学生文化传承团走进苏州城墙博物馆、苏州丝绸博物馆、宋锦文化园和中国蔡梅英刺绣艺术研究所",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
+      "title": "“买全球 卖全球” 中国综保区助“一带一路”物产互通",
+      "link": "https://www.chinanews.com.cn/ydyl/2026/07-31/10669725.shtml",
+      "pubDate": "Fri, 31 Jul 2026 10:50:17 +0800",
+      "contentSnippet": "中新网银川7月31日电 (杨迪 曾贞营 王子葳 李紫如)银川综合保税区粮油加工厂区内，印着“食用油专用”字样的大型罐车停靠在储油设备旁，一名工作人员正在灌装亚麻籽原油。其原料来自哈萨克斯坦、俄罗斯等国家，远道运抵园区完成初榨，再通过专用罐车转运至下游厂区精深加工。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
       "allSources": [
-        "环球网"
+        "中国新闻网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "苏州大学中外学生探访古城文化，了解城墙与丝绸历史。",
-      "credibilityScore": 70,
+      "aiSummary": "银川综保区加工进口亚麻籽油，促进一带一路物产互通。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体但无直接引述，属活动报道。"
+      "credibilityReason": "来源中国新闻网，权威媒体；报道具体，含地点、人物、细节，可查证。"
     },
     {
-      "title": "又慷慨解囊？美媒爆料：马斯克计划斥巨资助力共和党中期选举",
-      "link": "https://world.huanqiu.com/article/4SaVxmpOU2h",
-      "pubDate": "(Thu,30 Jul 2026 10:17:14 CST)",
-      "contentSnippet": "美国Axios新闻网当地时间7月29日爆料称，美国企业家马斯克计划斥巨资，助力共和党中期选举。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
+      "title": "重庆市医教研产创新联盟成立",
+      "link": "https://www.chinanews.com.cn/cj/2026/07-31/10669721.shtml",
+      "pubDate": "Fri, 31 Jul 2026 10:49:15 +0800",
+      "contentSnippet": "中新网重庆7月31日电 (梁钦卿)重庆市医教研产创新联盟(下称“联盟”)30日在重庆成立。该联盟由重庆市卫生健康科技发展中心联合多家医疗机构、高校科研院所、龙头企业共同发起，旨在构建“临床需求—协同攻关—成果转化—产业应用—临床提质”的良性创新闭环，推动重庆市卫生健康事业和生物医药产业高质量发展。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
       "allSources": [
-        "环球网"
+        "中国新闻网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "美媒爆料马斯克计划斥巨资支持共和党中期选举。",
-      "credibilityScore": 70,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为环球网转载Axios，非一线通讯社，爆料性质，缺乏直接引述和多源验证。"
+      "aiSummary": "重庆市医教研产创新联盟成立，旨在构建创新闭环，推动卫生健康和生物医药产业发展。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，权威媒体，报道具体，含时间地点和发起方，内容客观。"
     },
     {
-      "title": "此间烟火醉远客 暑期入境游走俏",
-      "link": "https://go.huanqiu.com/article/4SaVntHlsnP",
-      "pubDate": "(Thu,30 Jul 2026 10:12:46 CST)",
-      "contentSnippet": "然而，随着免签政策红利持续释放、航线网络加密以及海外游客对中国深度体验需求的增长，今年暑期入境游市场呈现出“淡季不淡”的态势",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
+      "title": "2026年“文化中国·水立方杯”中文歌曲大赛华裔青少年音乐夏令营开营",
+      "link": "http://www.chinanews.com.cn/hr/shipin/cns-d/2026/07-31/news1063899.shtml",
+      "pubDate": "Fri, 31 Jul 2026 10:36:26 +0800",
+      "contentSnippet": "2026年“文化中国·水立方杯”中文歌曲大赛华裔青少年音乐夏令营7月30日在中国音乐学院开营。来自28个国家和地区(含港澳)49个分赛区共105位营员开启10天文化音乐之旅。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
       "allSources": [
-        "环球网"
+        "中国新闻网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "暑期入境游市场因免签政策和航线加密而火热。",
-      "credibilityScore": 75,
+      "aiSummary": "2026年水立方杯华裔青少年音乐夏令营在中国音乐学院开营，105位营员参加。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体但缺乏直接引述和交叉验证。"
-    },
-    {
-      "title": "一条条道路，解锁一道道风景",
-      "link": "https://go.huanqiu.com/article/4SaVkNcNpuv",
-      "pubDate": "(Thu,30 Jul 2026 10:11:11 CST)",
-      "contentSnippet": "规划先行织密路网日照市编制《日照市旅游公路专项规划》，规划建设总长1100公里的“四廊一环十九支”慢游旅游公路网，串联全市64处重点文旅资源、58个乡村振兴片区",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "日照规划1100公里旅游公路网，串联文旅与乡村振兴资源。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体有数据，但缺少直接引述和多源验证。"
-    },
-    {
-      "title": "24岁小伙用剪刀给自己做“手术”，大量鲜血涌出！踉踉跄跄冲进医院……医生提醒",
-      "link": "https://society.huanqiu.com/article/4SaVjiUi2gY",
-      "pubDate": "(Thu,30 Jul 2026 10:10:53 CST)",
-      "contentSnippet": "攥着裆部的手指缝里不断有血珠渗出，额头上的冷汗顺着鬓角往下淌，齿缝里不断倒抽着凉气，整个身子都因为剧烈的疼痛和失血后的脱力而微微打颤！",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "24岁小伙自行用剪刀做手术致大出血，送医急救。",
-      "credibilityScore": 70,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体但缺少多源交叉验证。"
+      "credibilityReason": "来源中国新闻网较权威，信息具体（时间、地点、人数），内容客观，可查证。"
     }
   ]
 }
