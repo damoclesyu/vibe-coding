@@ -1,169 +1,14 @@
 {
-  "generatedAt": "2026-07-31T03:21:49.313Z",
+  "generatedAt": "2026-08-01T03:20:37.603Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "联合国机构：今年欧洲野火烧毁超43.4万公顷土地",
-      "link": "https://world.huanqiu.com/article/4SbNKRkbDlN",
-      "pubDate": "(Fri,31 Jul 2026 11:10:48 CST)",
-      "contentSnippet": "联合国欧洲经济委员会（简称联合国欧经委）30日发布新闻公报称，今年欧洲已有超过43.4万公顷土地被野火烧毁。随着野火继续在欧洲和北美肆虐，气候行动的紧迫性更加凸显。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "联合国机构称今年欧洲野火烧毁超43.4万公顷土地，凸显气候行动紧迫性。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为环球网，引用联合国官方公报，数据具体，内容客观，但未提供多源交叉验证。"
-    },
-    {
-      "title": "苹果2026第三财季营收达1094.17亿美元 净利同比增长27%",
-      "link": "https://tech.huanqiu.com/article/4SbNEdDcM59",
-      "pubDate": "(Fri,31 Jul 2026 11:08:10 CST)",
-      "contentSnippet": "苹果首席财务官Kevan Parekh在同期举行的财报电话会议上明确表示，当前的供应链限制将在截至9月的新财季持续对iPhone、Mac和iPad三大核心业务形成拖累，叠加汇率波动的负面影响，将共同对后续季度的营收增长形成压制",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "苹果2026第三财季营收1094亿美元，净利增27%，但供应链限制将拖累后续季度。",
-      "credibilityScore": 75,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源环球网较权威，内容具体含数据及高管引述，但未多源交叉验证，评分75。"
-    },
-    {
-      "title": "库克最后一次财报会坦言供应链承压 苹果受内存涨价冲击增速放缓",
-      "link": "https://tech.huanqiu.com/article/4SbNDdtGfwW",
-      "pubDate": "(Fri,31 Jul 2026 11:07:43 CST)",
-      "contentSnippet": "”即便苹果没有像部分行业巨头那样投入数千亿美元规模的资本开支，自身业务依然被卷入了全球人工智能竞赛的冲击中，首当其冲的就是内存芯片环节",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "苹果CEO库克在财报会上称供应链承压，内存涨价影响增速。",
-      "credibilityScore": 75,
-      "credibilityLevel": "medium",
-      "credibilityReason": "环球网为知名媒体，内容具体，但缺乏直接引述和交叉验证，评分中等偏上。"
-    },
-    {
-      "title": "国家发展改革委：共建“一带一路”投资合作向高科技等领域延伸",
-      "link": "https://china.huanqiu.com/article/4SbNAOEWHmn",
-      "pubDate": "(Fri,31 Jul 2026 11:06:15 CST)",
-      "contentSnippet": "在今天举行的国家发展改革委7月份新闻发布会上，国家发展改革委新闻发言人表示，今年上半年，共建“一带一路”取得扎实进展，共建“一带一路”投资合作持续向高科技、绿色低碳等领域延伸。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网",
-        "中国新闻网"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "发改委称上半年一带一路投资向高科技绿色低碳延伸。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为官方发布会及权威媒体，信息具体，用词客观，可交叉验证。（多源覆盖 +5）"
-    },
-    {
-      "title": "台胞在漳州打造短剧基地 以光影为桥讲好两岸故事",
-      "link": "https://taiwan.huanqiu.com/article/4SbMsZ82fxN",
-      "pubDate": "(Fri,31 Jul 2026 10:58:12 CST)",
-      "contentSnippet": "“大陆短剧市场体量庞大，制作水平也日趋精品化。我希望依托短剧赛道，以文化为桥，讲好两岸故事。”来自台湾的漳州荷乐影业有限公司董事长庄涵如近日在漳州受访时说，她正以微短剧为载体，用烟火故事搭建两岸文化沟通桥梁。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "台胞庄涵如在漳州打造短剧基地，以光影为桥促进两岸文化交流。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体有直接引述，但单一来源且无交叉验证。"
-    },
-    {
-      "title": "“产品+场景”深耕价值赛道，青岛啤酒迎战行业下半场",
-      "link": "https://yrd.huanqiu.com/article/4SbMIYe2Nzb",
-      "pubDate": "(Fri,31 Jul 2026 10:41:57 CST)",
-      "contentSnippet": "在这一逻辑下，青岛啤酒凭借产品、研发、供应链、生态的多维复合优势，有望在行业分化中持续保持领先地位",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "青岛啤酒以产品与场景策略应对行业挑战，保持领先。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体但缺乏直接引述和数据，评分75。"
-    },
-    {
-      "title": "中国赴联合国两任务区维和警队出征仪式举行",
-      "link": "https://china.huanqiu.com/article/4SbLwsMBwQ4",
-      "pubDate": "(Fri,31 Jul 2026 10:32:10 CST)",
-      "contentSnippet": "记者7月31日从公安部获悉，中国赴联合国中非、塞浦路斯任务区维和警队出征仪式7月30日在北京举行。两支维和警队从北京首都国际机场出发，分别前往联合国中非任务区和塞浦路斯任务区执行维和任务。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网",
-        "中国新闻网"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "中国维和警队出征仪式在北京举行，分赴中非和塞浦路斯任务区。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为环球网和中国新闻网，属权威媒体，信息具体，有明确时间地点，内容客观。（多源覆盖 +5）"
-    },
-    {
-      "title": "2026“上合绿创杯”全国绿色循环产业创新创业大赛正式启动 面向全国征集优质项目",
-      "link": "https://yrd.huanqiu.com/article/4SbLwAqYm9M",
-      "pubDate": "(Fri,31 Jul 2026 10:31:51 CST)",
-      "contentSnippet": "聚焦“双碳”目标，构筑绿色循环产业新高地作为中国-上海合作组织绿色产业发展合作区举办的重要赛事，大赛服务国家“双碳”目标、以推动绿色循环产业科技创新和高质量发展",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "2026上合绿创杯绿色循环产业大赛启动，面向全国征集项目。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，信息具体，但缺乏直接引述和多方验证。"
-    },
-    {
-      "title": "眉山市彭山区奋力建设都市圈近郊农业高质量发展先行区",
-      "link": "https://city.huanqiu.com/article/4SbLVNHCH04",
-      "pubDate": "(Fri,31 Jul 2026 10:19:45 CST)",
-      "contentSnippet": "身处成眉同城发展前沿，彭山正以全会精神为行动指南，持续做强现代农业、建设和美乡村、拓宽富民路径，全力推动农业提质增效、农村宜居宜业、农民富裕富足，在新时代更高水",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "彭山区推进都市圈近郊农业高质量发展，聚焦农业增效、乡村建设与农民增收。",
-      "credibilityScore": 75,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源环球网较权威，内容具体但缺乏直接引述和数据，宣传性较强，评分75。"
-    },
-    {
-      "title": "国家发改委：强化煤炭兜底保障作用，加大油气增储上产力度",
-      "link": "https://m.thepaper.cn/detail/33688837",
-      "pubDate": "Fri, 31 Jul 2026 03:07:04 GMT",
-      "contentSnippet": "7月31日，国家发展改革委政策研究室主任、新闻发言人蒋毅在国家发展改革委新闻发布会上谈到了如何推动能源体系高质量发展，他表示，将深入实施能源安全新战略，加快推动新型能源体系“十五五”规划及配套规划、政策落地见效，推动我国从“能源大国”向“能源强国”迈进。\n一是保障安全稳定供应。始终把能源安全放在首要位置，筑牢极端情形下的能源战略安全底线，强化煤炭兜底保障作用，加大油气增储上产力度，增强能源多元进口和安全保障能力，持续扩大非化石能源供给规模，构建适配高比例新能源的新型电力系统。\n二是统筹促进普惠和提高效率。注重保障民生等重点领域用能需求，持续推进供电服务普惠化，加快实现从“用上电”到“用好电”“",
+      "title": "时代少年团本周日在沪开唱，上海警方发布出行提示",
+      "link": "https://m.thepaper.cn/detail/33692679",
+      "pubDate": "Sat, 01 Aug 2026 02:07:26 GMT",
+      "contentSnippet": "上海市公安局徐汇分局8月1日通过其官方微博发布温馨提示：\n时代少年团「加冠礼」收官场演唱会将于8月2日-3日、8月5日-6日在上海体育场开演。这份观演安全指南，请各位爆米花收好\n进场有序：禁带LED灯牌、旗杆、自拍杆、激光笔等违禁物品，不夜排、不聚集；\n出行留意：周边道路分时段交通管制，轨交站点出入口有临时调整，优先选择公共交通更便捷；\n防暑避暑：盛夏高温注意补水，如出现头晕乏力等不适，可立即求助执勤民警与工作人员；\n谨防诈骗：本场严格执行人、证、票实名入场，警惕黄牛转票诈骗。\n夏日奔赴，平安为先。我们全程守护，共赴这场青春之约。",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -171,16 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国家发改委称将强化煤炭兜底保障，加大油气增储上产，推动能源体系高质量发展。",
+      "aiSummary": "上海警方发布时代少年团演唱会安全提示，强调实名入场、防暑防诈骗。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为澎湃新闻，内容具体，直接引述官方发言人，信息可查证，符合官方政策发布特征。"
+      "credibilityReason": "来源为澎湃新闻，引用官方微博，信息具体，内容客观，可信度高。"
     },
     {
-      "title": "尴尬！美代表展示非洲地图国家位置全标错 美国务院称负全责",
-      "link": "https://www.chinanews.com.cn/gj/2026/07-31/10669735.shtml",
-      "pubDate": "Fri, 31 Jul 2026 11:00:41 +0800",
-      "contentSnippet": "中新网7月31日电 综合外媒30日报道，近日，在巴西举办的一场国际卫生会议上，美国政府代表用幻灯片展示一幅非洲地图时闹了乌龙：地图上非洲国家对应的位置全部标错。对此，美国国务院发言人回应称，对由此给与会者“造成的困惑和误解负全部责任”。",
+      "title": "八一建军节 江西南昌八一广场举行升旗仪式",
+      "link": "http://www.chinanews.com.cn/tp/hd2011/2026/08-01/1199815.shtml",
+      "pubDate": "Sat, 1 Aug 2026 09:53:09 +0800",
+      "contentSnippet": "8月1日清晨，八一建军节，江西南昌八一广场举行隆重的升国旗仪式，庆祝中国人民解放军建军99周年，数万名游客和市民到场观看。中新社记者 刘占昆 摄  \r\n\n8月1日清晨，八一建军节，江西南昌八一广场举行隆重的升国旗仪式，庆祝中国人民解放军建军99周年，数万名游客和市民到场观看。中新社记者 刘占昆 摄  \r\n\n8月1日清晨，八一建军节，江西南昌八一广场举行隆重的升国旗仪式，庆祝中国人民解放军建军99周年，数万名游客和市民到场观看。中新社记者 刘占昆 摄  \r\n\n8月1日清晨，八一建军节，江西南昌八一广场举行隆重的升国旗仪式，庆祝中国人民解放军建军99周年，数万名游客和市民到场观看。中新社记者 刘占",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -188,16 +33,118 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "美代表在巴西国际卫生会议上展示非洲地图，国家位置全标错，国务院致歉。",
+      "aiSummary": "八一建军节，南昌八一广场举行升旗仪式，庆祝建军99周年，数万人观看。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网，权威媒体，信息具体，有记者署名，内容客观。"
+    },
+    {
+      "title": "“解放军来了，咱有救了！”",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-01/10670320.shtml",
+      "pubDate": "Sat, 1 Aug 2026 09:49:16 +0800",
+      "contentSnippet": "有这么一群人",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国新闻网报道解放军救援行动，标题情感化，内容简短。",
+      "credibilityScore": 65,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源较权威，但标题情绪化，正文信息不具体，缺乏细节和引述。"
+    },
+    {
+      "title": "环球时报社评：一个中国原则面前，哪有什么“灰色地带”",
+      "link": "https://m.thepaper.cn/detail/33692464",
+      "pubDate": "Sat, 01 Aug 2026 01:22:26 GMT",
+      "contentSnippet": "导读：在台湾岛周边海域，中国海警要依法巡，资源要科学查，航道要有效管，军事训练要常态化。让国家主权在执法、科研、资源养护和安全保障中得到充分体现，所谓的“台湾地位未定”“国际水域”“台海中线”等错误概念终将无所遁形\n不难看出，随着中国主权维护与海洋治理行动进入常态化，一些美国人急了。近日，几个美国议员鼓噪要推出立法提案，以遏制中国在台海以及亚太的所谓“灰色地带战术活动”。这种声音不是孤立的。上个月，美国众议院中国问题特设委员会就提出过所谓“灰色地带战术”，宣称中国的“恫吓”只会强化“美国与台湾站在一起”。\n所谓“灰色地带战术”，是指在不进行公开战争的情况下，综合运用外交、经济、信息和准军事手段",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "环球时报社评强调一个中国原则无灰色地带，批美议员涉台提案。",
+      "credibilityScore": 70,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为官方媒体社评，立场鲜明但非新闻事实报道，缺乏多源验证，具体信息有限。"
+    },
+    {
+      "title": "三周内“将帅皆换”，48岁夏宇履新诺安基金董事长",
+      "link": "https://m.thepaper.cn/detail/33692535",
+      "pubDate": "Sat, 01 Aug 2026 01:20:37 GMT",
+      "contentSnippet": "三周时间，诺安基金总经理与董事长相继官宣更迭。\n8月1日，诺安基金管理有限公司（下称“诺安基金”）发布公告称，公司董事长（法定代表人）由李强变更为夏宇。中国基金业协会从业人员公示系统中显示，夏宇于6月5日取得基金从业资格证书，从业机构也于当日变更为诺安基金。\n公开履历显示，夏宇，男，汉族，1978年4月出生，现年48岁，吉林松原人，金融学硕士学位，高级会计师、注册会计师。2000年8月参加工作，2008年加入中化，先后任中化集团资金管理部总经理助理，中国种子集团财务总监，中化财务公司副总经理、总经理等职务。2020年5月起，任中化集团金融事业部党委委员、中化资本党委委员，中化财务公司党委书记、",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "诺安基金三周内董事长和总经理相继变更，48岁夏宇接任董事长。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为澎湃新闻，信息具体，包含时间、人物履历，可查证，用词客观。"
+    },
+    {
+      "title": "南部战区位黄岩岛领海领空和周边海空域组织海空联合演训",
+      "link": "https://m.thepaper.cn/detail/33692549",
+      "pubDate": "Sat, 01 Aug 2026 00:46:24 GMT",
+      "contentSnippet": "8月1日，中国人民解放军南部战区位黄岩岛领海、领空和周边海空域组织海空联合演训，这是针对当前南海局势及个别域内国家破坏地区和平稳定的必要行动，旨在检验提升部队维护国家领土主权和海洋权益的实战化能力。",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "解放军南部战区在黄岩岛及周边组织海空联合演训，旨在维护主权。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源澎湃新闻较权威，内容具体，涉及军事行动，表述客观，但未提供多源交叉验证。"
+    },
+    {
+      "title": "庆祝中国人民解放军建军99周年｜向前向前向前",
+      "link": "https://m.thepaper.cn/detail/33666920",
+      "pubDate": "Fri, 31 Jul 2026 23:30:07 GMT",
+      "contentSnippet": "“向前！向前！向前！”99载浴血奋战，99载赤胆忠心。人民军队始终脚踏祖国大地，背负民族希望，以忠诚铸就钢铁军魂，以奋斗奔赴强军新征程。",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "澎湃新闻发文庆祝解放军建军99周年，强调忠诚与强军。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为正规媒体，事件具体，有官方回应，但未提及其他信源交叉验证。"
+      "credibilityReason": "来源为知名媒体，内容为官方纪念性报道，事实可查证，但无具体细节和引述。"
     },
     {
-      "title": "南沙湿地发现广东首个纯种原生野生莲种群 为我国亚热带型野生莲种群首次记录",
-      "link": "https://www.chinanews.com.cn/dwq/2026/07-31/10669732.shtml",
-      "pubDate": "Fri, 31 Jul 2026 10:58:38 +0800",
-      "contentSnippet": "近日，广州大湾区中央湿地公园(南沙湿地)传来重大生态科研喜讯：经中国科学院分子植物科学卓越创新中心辰山科学研究中心、上海辰山植物园研究员，国际荷花品种登录负责人田代科权威鉴定，湿地候鸟核心觅食区内的连片莲群是广东首次发现的纯种原生野生莲种群，也是在中国首次发现的亚热带型野生莲种群，属国家二级重点保护野生植物，填补了广东乃至中国亚热带型野生莲的分布记录空白。",
+      "title": "习近平在中共中央政治局第二十七次集体学习时强调 强化政治引领 深化创新发展 高质量推进国防和军队现代化",
+      "link": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=11642530795644856412&t=1785496500969&toc_style_id=feeds_default&share_to=copy_url&track_id=8984f88b-b768-4aac-a950-ef8fb844f92b",
+      "pubDate": "Fri, 31 Jul 2026 12:12:15 GMT",
+      "contentSnippet": "习近平在中共中央政治局第二十七次集体学习时强调 强化政治引领 深化创新发展 高质量推进国防和军队现代化",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "习近平强调强化政治引领，深化创新，推进国防军队现代化。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源澎湃新闻权威，内容具体，引用官方表述，事实可查证。"
+    },
+    {
+      "title": "华盛顿网球公开赛：大坂直美2比1胜科恰雷托",
+      "link": "http://www.chinanews.com.cn/tp/hd2011/2026/08-01/1199838.shtml",
+      "pubDate": "Sat, 1 Aug 2026 11:10:37 +0800",
+      "contentSnippet": "",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -205,16 +152,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "南沙湿地发现广东首个纯种原生野生莲种群，系中国亚热带型首次记录。",
+      "aiSummary": "中国新闻网报道，大坂直美在华盛顿网球公开赛以2比1战胜科恰雷托。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网较权威，有具体科研机构及专家鉴定，信息具体可查证。"
+      "credibilityReason": "来源为知名媒体，赛事结果具体可查证，用词客观，无情绪化表述。"
     },
     {
-      "title": "“买全球 卖全球” 中国综保区助“一带一路”物产互通",
-      "link": "https://www.chinanews.com.cn/ydyl/2026/07-31/10669725.shtml",
-      "pubDate": "Fri, 31 Jul 2026 10:50:17 +0800",
-      "contentSnippet": "中新网银川7月31日电 (杨迪 曾贞营 王子葳 李紫如)银川综合保税区粮油加工厂区内，印着“食用油专用”字样的大型罐车停靠在储油设备旁，一名工作人员正在灌装亚麻籽原油。其原料来自哈萨克斯坦、俄罗斯等国家，远道运抵园区完成初榨，再通过专用罐车转运至下游厂区精深加工。",
+      "title": "日本青森县附近海域发生5.8级地震 多地有震感",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-01/10670354.shtml",
+      "pubDate": "Sat, 1 Aug 2026 11:06:13 +0800",
+      "contentSnippet": "中新网8月1日电 据日本气象厅消息，当地时间8月1日11时48分左右，日本青森县附近海域发生5.8级地震，震源深度80公里。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -222,16 +169,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "银川综保区加工进口亚麻籽油，促进一带一路物产互通。",
+      "aiSummary": "日本青森县附近海域发生5.8级地震，震源深度80公里，多地有震感。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威媒体；报道具体，含地点、人物、细节，可查证。"
+      "credibilityReason": "来源为知名媒体，引用日本气象厅官方数据，信息具体，可信度高。"
     },
     {
-      "title": "重庆市医教研产创新联盟成立",
-      "link": "https://www.chinanews.com.cn/cj/2026/07-31/10669721.shtml",
-      "pubDate": "Fri, 31 Jul 2026 10:49:15 +0800",
-      "contentSnippet": "中新网重庆7月31日电 (梁钦卿)重庆市医教研产创新联盟(下称“联盟”)30日在重庆成立。该联盟由重庆市卫生健康科技发展中心联合多家医疗机构、高校科研院所、龙头企业共同发起，旨在构建“临床需求—协同攻关—成果转化—产业应用—临床提质”的良性创新闭环，推动重庆市卫生健康事业和生物医药产业高质量发展。",
+      "title": "雨天外出脚下“发麻”？当心看不见的“跨步电压”",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-01/10670352.shtml",
+      "pubDate": "Sat, 1 Aug 2026 11:02:43 +0800",
+      "contentSnippet": "汛期多雨、强对流频发，户外带电设施受雨水冲刷或雷暴大风影响，易发生接地故障。这个时候，如果遇到断落的高压线，该怎么办？",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -239,16 +186,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "重庆市医教研产创新联盟成立，旨在构建创新闭环，推动卫生健康和生物医药产业发展。",
+      "aiSummary": "中国新闻网提醒汛期雨天户外防跨步电压，遇断落高压线应单脚跳离。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，权威媒体，报道具体，含时间地点和发起方，内容客观。"
+      "credibilityReason": "来源为权威媒体，内容具体实用，涉及公共安全，信息可查证，用词客观。"
     },
     {
-      "title": "2026年“文化中国·水立方杯”中文歌曲大赛华裔青少年音乐夏令营开营",
-      "link": "http://www.chinanews.com.cn/hr/shipin/cns-d/2026/07-31/news1063899.shtml",
-      "pubDate": "Fri, 31 Jul 2026 10:36:26 +0800",
-      "contentSnippet": "2026年“文化中国·水立方杯”中文歌曲大赛华裔青少年音乐夏令营7月30日在中国音乐学院开营。来自28个国家和地区(含港澳)49个分赛区共105位营员开启10天文化音乐之旅。",
+      "title": "周末中东部仍有大范围高温桑拿天 四川陕西等地警惕降雨叠加致灾",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-01/10670346.shtml",
+      "pubDate": "Sat, 1 Aug 2026 10:54:16 +0800",
+      "contentSnippet": "中国天气网讯 本周末(8月1日至8月2日)至下周初，我国中东部大范围高温桑拿天将持续，长江中下游部分地区可超38℃；西南地区的重庆高温尤为持久，追平了当地7月高温日数历史纪录，未来几天暑热仍不下线，公众需注意及时补水降温。与此同时，强降雨仍围绕在副热带高压边缘，呈现面弱点强的特点，四川、陕西、黑龙江等地局地有大暴雨，需警惕降雨叠加致灾。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -256,10 +203,61 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "2026年水立方杯华裔青少年音乐夏令营在中国音乐学院开营，105位营员参加。",
+      "aiSummary": "中东部周末持续高温，四川陕西等地警惕强降雨叠加致灾。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网较权威，信息具体（时间、地点、人数），内容客观，可查证。"
+      "credibilityReason": "来源为中国新闻网，权威媒体，内容具体，含时间、地点、数据，用词客观。"
+    },
+    {
+      "title": "硬核“入学礼”！运-20B搭载“中国心”首次运送新飞行学员报到",
+      "link": "http://www.chinanews.com.cn/mil/shipin/cns/2026/08-01/news1064009.shtml",
+      "pubDate": "Sat, 1 Aug 2026 10:53:55 +0800",
+      "contentSnippet": "7月31日、8月1日，空军将使用多架运-20飞机，从沈阳、石家庄、济南、南京、长沙和成都6个登机点，集中运送2026年新录取飞行学员到空军航空大学报到，同步在各登机点和航空大学组织欢送和迎新仪式。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "空军使用运-20飞机运送新飞行学员报到，首次采用国产发动机。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，权威媒体；信息具体，含时间、地点、机型；内容客观，可查证。"
+    },
+    {
+      "title": "阿尔及利亚客车事故致27死 全国哀悼三天",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-01/10670339.shtml",
+      "pubDate": "Sat, 1 Aug 2026 10:53:40 +0800",
+      "contentSnippet": "中新社北京8月1日电 阿尔及尔消息：阿尔及利亚北部布米尔达斯省一辆客车当地时间7月31日发生事故，造成至少27人死亡。阿尔及利亚总统特本当天宣布，全国为遇难者哀悼三天。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "阿尔及利亚客车事故致27死，总统宣布全国哀悼三天。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，属权威媒体，信息具体（时间、地点、伤亡数），有官方声明，可查证。"
+    },
+    {
+      "title": "中国原创舞剧《咏春》在韩国首演",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-01/10670315.shtml",
+      "pubDate": "Sat, 1 Aug 2026 10:53:02 +0800",
+      "contentSnippet": "中新网韩国安东8月1日电 (记者 金旭)“英雄站在光里，而我们，愿是那束光。”随着这句字幕缓缓浮现，中国深圳原创舞剧《咏春》7月31日晚在韩国安东文化艺术殿堂完成首演。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国原创舞剧《咏春》在韩国安东首演，获观众好评。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为官方通讯社中国新闻网，报道具体时间地点，内容客观，可信度高。"
     }
   ]
 }
