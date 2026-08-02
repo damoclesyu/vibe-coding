@@ -1,31 +1,31 @@
 {
-  "generatedAt": "2026-08-01T03:21:54.079Z",
+  "generatedAt": "2026-08-02T03:22:06.628Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "今年上半年港珠澳大桥珠海公路口岸进出口突破2000亿元",
-      "link": "https://36kr.com/newsflashes/3920278046256519?f=rss",
-      "pubDate": "2026-08-01 09:45:54  +0800",
-      "contentSnippet": "今年上半年，经港珠澳大桥珠海公路口岸进出口总值突破2000亿元大关，创下历史同期新高。粤港澳大湾区经贸融通不断迸发新活力。据拱北海关统计，今年上半年，经港珠澳大桥珠海公路口岸进出口2061.8亿元，创历史同期新高，同比增长43.5%，相较去年提前三个月突破2000亿元大关；自2018年大桥口岸开通以来，进出口累计突破1.5万亿元。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
+      "title": "半导体传奇人物、力积电董事长黄崇仁因心肺衰竭逝世：享年 76 岁，公司曾负债 1200 亿逆风翻盘",
+      "link": "https://www.ithome.com/0/984/637.htm",
+      "pubDate": "Sat, 01 Aug 2026 15:52:30 GMT",
+      "contentSnippet": "IT之家 8 月 1 日消息，晶圆代工厂力积电 7 月 31 日发布重大消息公告，董事长暨创办人黄崇仁因心肺衰竭，于当日中午在家里睡梦中安详辞世，享年 76 岁。\n公开资料显示，黄崇仁（1949 年 —2026 年 7 月 31 日）是中国台湾地区半导体产业传奇人物。他被誉为半导体界的“九命怪猫”，以其在绝境中多次带领企业重生的经历闻名。\n\nIT之家综合多家台媒报道，黄崇仁拥有美国纽约西奈山医学院医学博士学位，1980 年返台后，曾任教于台北医学院生理系及台湾大学物理系。随着中国台湾地区 PC 产业快速发展，他决定离开校园投入创业，先后经营电脑周边、软件与资讯相关事业，之后将重心转向半导体产业",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "36氪"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "上半年港珠澳大桥口岸进出口破2000亿，创历史新高。",
+      "aiSummary": "力积电董事长黄崇仁因心肺衰竭逝世，享年76岁，曾带领公司逆风翻盘。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪知名科技媒体，数据具体有海关统计支撑，逻辑清晰。"
+      "credibilityReason": "IT之家为知名科技媒体，报道引用公司公告及台媒，信息具体，时效性强，评分较高。"
     },
     {
-      "title": "市场监管总局开展光伏行业价格合规指导，抵制恶性低价竞争",
-      "link": "https://www.ithome.com/0/984/398.htm",
-      "pubDate": "Fri, 31 Jul 2026 15:31:52 GMT",
-      "contentSnippet": "IT之家 7 月 31 日消息，7 月 31 日，市场监管总局在江苏省盐城市对光伏行业开展价格合规指导，推动光伏企业从“拼价格”向“拼质量”转变，促进光伏行业高质量发展。\n市场监管总局强调，光伏企业要充分认识当前行业发展形势，主动强化成本核算管理，建立健全价格合规制度，全面开展自查自纠，树牢合规经营、理性竞争理念，抵制恶性低价竞争，维护市场价格秩序。头部企业要发挥示范引领作用，严格规范自身价格行为和竞争行为，为行业树立标杆。行业协会要依法加强自律，做好《光伏行业成本核算模型通则》标准宣贯，引导光伏企业预防和制止低价倾销等价格违法行为的发生。\n\n市场监管总局将坚持监管规范和促进发展并重，做好企业",
+      "title": "宏碁主管：预计第三季度整体 PC 价格仍有约 5% 的上涨空间，第四季度有望趋于平稳",
+      "link": "https://www.ithome.com/0/984/632.htm",
+      "pubDate": "Sat, 01 Aug 2026 14:58:29 GMT",
+      "contentSnippet": "IT之家 8 月 1 日消息，据台媒科技新报消息，宏碁（Acer）台湾地区主管表示，目前 PC 供应链中最短缺的依然是内存与 SSD。虽然 CPU 的供货情况较之前有所改善，但主流高端产品依然存在缺口。预计在第三季度，整体 PC 价格仍有约 5% 的上涨空间；而到了第四季度，价格则有望逐步趋于平稳。\n在价格方面，这位主管表示，今年以来 PC 售价已经大幅攀升。今年第三季度的价格仍有可能再上涨约 5%。目前市场价格已经维持在高位水平，后续价格可能只会缓慢上涨或出现小幅波动，不太容易再出现大幅度上调。\nIT之家注意到，由于零部件价格居高不下，各 PC 品牌也在不断通过调整产品规格来降低成本压力。该",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -33,33 +33,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "市场监管总局指导光伏行业价格合规，抵制恶性低价竞争。",
+      "aiSummary": "宏碁主管预计第三季度PC价格再涨5%，第四季度趋稳。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，引用台媒消息，内容具体，但缺乏原始数据支撑。"
+    },
+    {
+      "title": "我国在联合国举行 2026 世界人工智能大会吹风会：将秉持开源开放谋划全球治理",
+      "link": "https://www.ithome.com/0/984/612.htm",
+      "pubDate": "Sat, 01 Aug 2026 11:58:31 GMT",
+      "contentSnippet": "IT之家 8 月 1 日消息，据央视新闻今日报道，当地时间 7 月 31 日，中国常驻联合国代表团在联合国总部举行 2026 世界人工智能大会暨人工智能全球治理高级别会议吹风会。\n中国常驻联合国代表傅聪提到，中国将秉持开源开放、合作共赢、共商共建共享理念，在联合国广阔平台上，同各方一道商讨谋划人工智能未来全球治理重大问题。\n联合国数字与新兴技术特使吉尔表示，世界人工智能大会具有里程碑式的重要意义，希望世界人工智能合作组织与联合国密切对接合作。联合国人工智能独立国际科学小组成员宋海涛分享了参会感受。\n7 月 16 日，来自亚洲、非洲、拉美和欧洲的 29 个国家签署《关于成立世界人工智能合作组织的",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国在联合国吹风会宣布2026世界人工智能大会，强调开源开放与全球治理合作。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体，涉及官方机构行动，信息可信度高。"
+      "credibilityReason": "来源IT之家，引用央视新闻，信息具体，涉及联合国官方活动，逻辑清晰，时效性强。"
     },
     {
-      "title": "央视再谈“1.5 万元机票仅退 432 元”：携程退票系统升级，仍有高额退票费",
-      "link": "https://www.ithome.com/0/984/394.htm",
-      "pubDate": "Fri, 31 Jul 2026 14:34:31 GMT",
-      "contentSnippet": "IT之家 7 月 31 日消息，近日，央视财经报道的 1.5 万元机票仅退 432 元后续引发广泛关注。迫于巨大的舆论压力，携程宣布，今天开始退票系统升级了。\n但是记者在尝试后发现，所谓升级，只是加了弹窗，加了提醒，高额退票费的规则一点没变。为什么要收那么高的退票费，原因是什么？没有任何解释，对消费者来说还是一笔糊涂账。有消息称，携程向消费者林先生退还全额机票款，已经引发航空公司的强烈不满，航空公司认为携程破坏了规则。\n全国人大代表和全国政协委员在接受央视财经记者采访时表示，他们为了改变这个霸王条款在 2024 年两会期间就提出了整改建议，有关部门说“回去研究”，两年过去了，局面还是没有改善，",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "央视报道携程退票系统升级但高额退票费未变，引发舆论关注。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，内容具体，引用央视报道和人大代表，但缺乏官方回应和细节验证。"
-    },
-    {
-      "title": "国务院国资委：深化央企“人工智能+”专项行动，因企制宜培育新兴产业和未来产业",
-      "link": "https://36kr.com/newsflashes/3919556554305154?f=rss",
-      "pubDate": "2026-07-31 20:59:06  +0800",
-      "contentSnippet": "36氪获悉，7月31日，国务院国资委党委召开扩大会议。会议强调，要指导中央企业主动对接和带头落实好国家政策，抓住重点、主动作为，充分发挥引领带动作用，更好助推经济持续向新向优向好发展。要锚定全年目标不动摇，切实加强现场督导调研，把中央企业生产经营情况摸清摸透，找准痛点、对症下药，夯实企业高质量发展基础。要着力推进原始创新和关键核心技术攻关，以更大力度加强基础研究，深化央企“人工智能+”专项行动，因企制宜培育新兴产业和未来产业。要持续深化提质增效，做好重点领域内卷治理，推进全产业链、全价值链降本节支，增强经营创现能力和资本积累积聚能力，以“自身稳”带动“行业稳”。要坚决守住风险底线，有效发挥司库",
+      "title": "美中贸委会会长：美国企业重视中国市场和对华合作",
+      "link": "https://36kr.com/newsflashes/3920583526526343?f=rss",
+      "pubDate": "2026-08-01 15:45:40  +0800",
+      "contentSnippet": "当地时间7月31日，中国贸促会组织中国企业家代表团在华盛顿与美中贸易全国委员会及其会员企业交流座谈。中国贸促会会长任鸿斌、中国驻美国使馆经商处公参李勰、美中贸委会会长谭森等出席并发言。来自多个行业的中美企业代表参会并进行了积极沟通交流。美中贸委会会长谭森在接受媒体采访时表示，美国企业仍致力于在中国发展，重视中国市场，并希望加强与中国企业合作。",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -67,16 +67,135 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国资委部署央企深化AI+行动，培育新兴产业，推动高质量发展。",
+      "aiSummary": "美中贸委会会长称美国企业仍重视中国市场，希望加强合作。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪知名科技媒体，内容具体引用官方会议，但缺乏细节和原始文件，评分适中。"
+      "credibilityReason": "来源为知名科技媒体36氪，内容具体，有明确人物和事件，但缺乏技术细节，评分中等偏上。"
     },
     {
-      "title": "电投产融：山东莱阳核电项目获国务院常务会议核准",
-      "link": "https://36kr.com/newsflashes/3919516325949059?f=rss",
-      "pubDate": "2026-07-31 20:18:11  +0800",
-      "contentSnippet": "36氪获悉，电投产融公告，公司获悉山东莱阳核电项目1、2号机组已获国务院常务会议核准。公司将成立国电投核电（莱阳）核能有限公司作为业主单位，负责项目投资、建设及运营管理。本期工程拟建设2台“国和一号”（CAP1400）非能动压水堆核电机组，单台机组额定功率1543MW。目前新项目公司尚未成立，由公司所属国电投莱阳核能有限公司继续推进前期及投资建设工作，各项施工准备工作正有序开展。",
+      "title": "东风风神 L8Y 汽车外观首秀",
+      "link": "https://www.ithome.com/0/984/705.htm",
+      "pubDate": "Sun, 02 Aug 2026 03:16:02 GMT",
+      "contentSnippet": "IT之家 8 月 2 日消息，东风奕派风神营销事业部总经理邓留超今天在微博发文，公开风神 L8Y 汽车的外观。\n\nIT之家注意到，东风风神新车培训暨上市动员会于上个月举行，官方宣布东风风神下半年将投放 4 款新车，四款车型以差异化的产品定位和优势，实现从“精致小家”到“舒适大家”的覆盖。\n\n风神 L8Y 主打“同级最舒适座舱”，座舱质感、驾乘体验得到全面升级\n\n风神 L8+ 剑指“同级最强智能辅助驾驶产品”，宣称刷新同级车型的智能体验上限\n\n“同级唯一真七座 SUV”风神 L9 兼顾商务接待与家庭责任\n\n风神 E80 则聚焦纯电市场",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "东风风神L8Y外观首秀，主打舒适座舱，下半年将推四款新车。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家可信，信息具体，有官方人士微博引用，但缺乏技术细节和实测数据。"
+    },
+    {
+      "title": "特斯拉介绍 Model Y L 热管理技术改进：可实现更快制冷、续航提升",
+      "link": "https://www.ithome.com/0/984/704.htm",
+      "pubDate": "Sun, 02 Aug 2026 03:10:48 GMT",
+      "contentSnippet": "IT之家 8 月 2 日消息，特斯拉针对 Model Y  L 推出了多项座舱温控和 HVAC（空调暖通系统）升级。随着全新三排六座 Model Y L 即将在美国开始首批客户交付，特斯拉公布的新技术细节显示，通过热管理工程优化，该车型不仅能够实现更快降温，还能提升实际续航表现。\n\nX 用户 @SawyerMerritt 在试驾 Model Y L 测试车时，分享了这些热管理改进的详细信息，包括：\n\n座舱降温速度提升最高可达 15%。\n\n在阳光直射环境下，座舱达到目标温度的时间最多可缩短 15 分钟。\n\n炎热天气下热效率提升 23%，可转化为实际驾驶中增加约 7 英里（约 11.3 公里）的续",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "特斯拉Model Y L热管理升级，制冷更快，续航提升。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家较知名，内容具体有数据，但依赖用户爆料，缺乏官方确认。"
+    },
+    {
+      "title": "消息称安卓首款阔折叠手机 Galaxy Z Fold8 预售火爆超预期，三星已向供应商追加订单",
+      "link": "https://www.ithome.com/0/984/696.htm",
+      "pubDate": "Sun, 02 Aug 2026 03:08:45 GMT",
+      "contentSnippet": "IT之家 8 月 2 日消息，博主 @i冰宇宙 今日发文透露，安卓首款阔折叠手机 —— Galaxy Z Fold8 预售火爆超出预期，现在三星已经向供应商追加订单了。\n\n据IT之家此前报道，三星已于 7 月 22 日正式发布了 Galaxy Z Fold8，这是该公司六年来首款采用全新机身形态的折叠屏手机。与此前历代 Galaxy Z Fold 相比，新机机身更短、更宽，主打影音娱乐体验，起售价 12999 元。\n\n该机配备一块 5.5 英寸外屏和一块 7.6 英寸内折叠屏，两块屏幕均采用 Dynamic AMOLED 2X 面板，支持 1Hz 至 120Hz 自适应刷新率，并兼容 HDR1",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "三星Galaxy Z Fold8预售火爆，已追加订单。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家较权威，信息具体，但依赖博主爆料，缺乏官方数据。"
+    },
+    {
+      "title": "比亚迪 7 月销量明细曝光：王朝元系列超 8 万辆，方程豹钛 7 突破 2.7 万辆",
+      "link": "https://www.ithome.com/0/984/683.htm",
+      "pubDate": "Sun, 02 Aug 2026 02:57:47 GMT",
+      "contentSnippet": "IT之家 8 月 2 日消息，今天上午，博主 @小迪快报 曝光了比亚迪乘用车 2026 年 7 月的销量明细：王朝 | 海洋 350,178 辆；方程豹汽车销售 41,213 辆；腾势汽车销售 19,196 辆；仰望汽车销售 485 辆；海外销售 179,841 辆；累计销售 411,072 辆。\n\nIT之家整理如下：\n王朝：当月 161148 辆，年度累计 874963 辆\n\n夏：当月 1300 辆，年度累计 10922 辆\n\n秦：当月 13117 辆，年度累计 162291 辆\n\n汉：当月 3648 辆，年度累计 38139 辆\n\n唐：当月 13535 辆，年度累计 54938 辆\n\n宋：",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "比亚迪7月销量曝光，王朝元系列超8万辆，方程豹钛7突破2.7万辆。",
+      "credibilityScore": 75,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源IT之家较知名，数据具体，但依赖博主爆料，缺乏官方确认，时效性高。"
+    },
+    {
+      "title": "《胜利女神：新的希望》x《女神异闻录》联动官宣，8 月 13 日开启",
+      "link": "https://www.ithome.com/0/984/677.htm",
+      "pubDate": "Sun, 02 Aug 2026 02:49:24 GMT",
+      "contentSnippet": "IT之家 8 月 2 日消息，《胜利女神：新的希望》游戏现已确认与《女神异闻录 3 Reload》/《女神异闻录 4 Golden》/《女神异闻录 5 Royal》联动。\n\nIT之家从胜利女神B站官号了解到，本次联动将于 8 月 13 日启动，纪念《女神异闻录》系列作品诞生 30 周年。\n同时，官方还公布了本次联动的视觉图。反击部队成员在图中手持 P3/P4/P5 的标志性元素物品，正准备送出礼物。\n\n目前，官方还没有公布本次联动的具体内容，IT之家将持续关注，第一时间带来最新消息。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "《胜利女神》与《女神异闻录》联动官宣，8月13日开启，纪念系列30周年。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家可信，内容具体有日期和来源，但缺少联动细节，评分中等偏上。"
+    },
+    {
+      "title": "新势力7月洗牌：零跑独破10万，“蔚小理米”困在3万档",
+      "link": "https://www.tmtpost.com/8088337.html",
+      "pubDate": "Sun, 02 Aug 2026 10:43:43 +0800",
+      "contentSnippet": "六家拉开三个梯队。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "新势力7月销量分化，零跑破10万，蔚小理米困于3万档。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "钛媒体为知名科技媒体，内容具体，但缺乏数据细节和原始出处。"
+    },
+    {
+      "title": "华为鸿蒙 HarmonyOS 7 实装游戏秒启秒开特性，《原神》《洛克王国》等可极速启动",
+      "link": "https://www.ithome.com/0/984/676.htm",
+      "pubDate": "Sun, 02 Aug 2026 02:37:00 GMT",
+      "contentSnippet": "IT之家 8 月 2 日消息，在今年 6 月，华为手机官方宣布，HarmonyOS SDK 26 正式发布，在易用、空间化、智能化全面升级，其中就带来了游戏秒启秒开功能。\n\n据多名用户分享，升级了华为鸿蒙 HarmonyOS 7 开发者 / 花粉 Beta 版系统的平板 / 手机，已实装游戏秒启秒开特性，并支持《原神》《洛克王国》等游戏极速启动。\n\n从网友们分享的视频可以看到，实装了游戏秒启秒开特性的设备，在后台清空的情况下，可以直接进入游戏并抵达账号登录界面，相比普通冷启动的设备加载更快。\n\n关于华为鸿蒙 HarmonyOS 7 的新特性，IT之家仍在发掘中，感兴趣的小伙伴可以关注后续报道。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "华为鸿蒙7实装游戏秒启秒开，支持原神等极速启动。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家知名科技媒体，内容具体有用户分享和视频佐证，但缺少官方确认和详细技术数据。"
+    },
+    {
+      "title": "吉利汽车集团架构调整 林杰任销售总公司总经理",
+      "link": "https://36kr.com/newsflashes/3921773406268802?f=rss",
+      "pubDate": "2026-08-02 10:34:12  +0800",
+      "contentSnippet": "记者从知情人士处获悉，吉利汽车集团将成立吉利汽车集团销售总公司，由该集团分管营销的高级副总裁林杰担任总经理，并兼任极氪销售公司总经理。据悉，作为集团系统级组织，该销售总公司下设中国星、银河、领克及极氪销售公司等6个集团一级组织。对此，吉利方面表示，新架构将构建“前台更贴近用户和市场、中后台最大化共享”的扁平化、体系化作战模式。（财联社）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -84,33 +203,50 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "电投产融山东莱阳核电项目获国务院核准，将建两台国和一号机组。",
-      "credibilityScore": 85,
+      "aiSummary": "吉利成立销售总公司，林杰任总经理，推进扁平化体系化作战模式。",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪知名科技媒体，内容具体含机组型号功率，有官方公告依据。"
+      "credibilityReason": "来源为36氪，引用财联社，信息具体，涉及组织架构和人事任命，但未提供官方直接确认。"
     },
     {
-      "title": "智利木乃伊保存的天花基因组确认天花来自欧洲殖民者",
-      "link": "https://www.solidot.org/story?sid=84974",
-      "pubDate": "Fri, 31 Jul 2026 14:48:02 +0800",
-      "contentSnippet": "根据发表在《科学》期刊上的一项研究，对智利木乃伊 DNA 的分析揭示了美洲已知最早的天花古代毒株。这些发现提供了迄今为止最清晰的基因学证据：欧洲殖民将这种疾病带到了新大陆。天花是欧洲殖民时期传入美洲的最致命疾病之一。该疾病在北美、中美和南美的迅速蔓延估计导致三至四百万人丧生，尤其是在那些此前对该病没有免疫力的原住民群体中。研究人员在智利北部出土的两具印加至早期殖民时代原住民的木乃伊体内发现了古天花病毒 DNA；这些个体生活于公元 1492 年至 1631 年间。这两个古病毒基因组几乎完全相同，表明这些个体很可能在同一次疫情爆发期间被感染，或被同一种流行毒株感染；这为殖民时期南美洲流行的某天花毒",
-      "sourceName": "Solidot",
-      "sourceWeight": 75,
+      "title": "消息称英特尔发放加班费以加速俄亥俄晶圆厂建设，EMIB-T 封装良率逼近 90%",
+      "link": "https://www.ithome.com/0/984/675.htm",
+      "pubDate": "Sun, 02 Aug 2026 02:31:58 GMT",
+      "contentSnippet": "IT之家 8 月 2 日消息，英特尔目前似乎正全力推动其俄亥俄州晶圆厂综合体建设，并计划在 2031 年实现全面运营。为了达成这一长期目标，公司愿意提供丰厚奖金以激励员工加快进度。与此同时，英特尔的 EMIB-T 先进封装技术也迎来了利好，目前唯一尚未解决的关键问题，就是基板良率。\n\n英特尔正在俄亥俄州建设一座占地约 1000 英亩（IT之家注：约 405 公顷）的大型晶圆厂园区，用于生产其“埃米时代”（Angstrom era）制程节点，包括 18A 和 14A 工艺。\n为了加快这一关键园区的建设进度，据称英特尔目前正在发放高额加班奖金，希望推动该园区最终在 2031 年实现 14A 工艺的",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "Solidot"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "智利木乃伊DNA证实天花由欧洲殖民者传入美洲。",
-      "credibilityScore": 90,
+      "aiSummary": "英特尔加速俄亥俄晶圆厂建设，EMIB-T封装良率近90%。",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源Solidot可靠，引用《科学》期刊研究，数据具体，逻辑清晰。"
+      "credibilityReason": "来源IT之家较知名，内容具体，但缺乏原始数据引用和官方确认。"
     },
     {
-      "title": "今年7月或成美国有记录以来最热月份",
-      "link": "https://36kr.com/newsflashes/3920385360129671?f=rss",
-      "pubDate": "2026-08-01 11:15:05  +0800",
-      "contentSnippet": "据美国方面7月31日消息，今年7月有望成为美国本土有记录以来最热的一个月份。与此同时，新一轮“热穹顶”正在美国西部形成，高温天气预计还将持续。据悉，截至7月29日，美国今年7月的平均气温较1991年至2020年同期平均水平高约1.4摄氏度，尽管最终的7月平均气温数据要等到8月初才能公布，但媒体预测这一数字有望刷新2012年7月创下的纪录，令今年7月成为美国本土有记录以来最热的一个月份。",
+      "title": "谷歌 Gemini Spark 智能体对全球更多用户开放，支持订机票、整理收件箱等操作",
+      "link": "https://www.ithome.com/0/984/674.htm",
+      "pubDate": "Sun, 02 Aug 2026 02:27:08 GMT",
+      "contentSnippet": "IT之家 8 月 2 日消息，谷歌于 7 月 31 日宣布将 Gemini Spark 智能体开放给全球大部分用户，这款产品能够在用户指示下，完成整理收件箱、总结通讯邮件、取消订阅等操作。\n\nIT之家了解到，Spark 是谷歌推出的个人 AI 智能体。这款产品目前已经和 Chrome 浏览器整合，用户授权后，智能体可以使用保存的账户密码，代替用户完成一些复杂的网络操作，如搜索航班、预订机票、查询收藏房源等。\n同时，Spark 提供两种安全机制，这款智能体首先会防御提示词攻击，并将付款等敏感操作交给用户完成。\n目前，Spark 在所有支持 Gemini 的地区提供服务，但不包括欧洲经济区、尼日利",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "谷歌Gemini Spark智能体全球开放，可订机票、整理收件箱，含安全机制。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家较知名，内容具体，提及日期和功能，但缺少官方链接和细节验证。"
+    },
+    {
+      "title": "无锡：上半年新签约10亿元以上产业项目78个 签约金额1758.38亿元",
+      "link": "https://36kr.com/newsflashes/3921713668566657?f=rss",
+      "pubDate": "2026-08-02 10:15:20  +0800",
+      "contentSnippet": "36氪获悉，据无锡发布公众号8月2日消息，今年，无锡共有56个项目列入省重大实施项目清单，数量较去年增加6个，年度计划投资增加169.8亿元，进入储备库的项目数量增加了8个。全年计划实施的亿元以上产业项目760个，较去年增加66个，同比增长9.5%。上半年新签约10亿元以上产业项目78个，较去年同期增加4个，增长5.4%，签约金额1758.38亿元、同比增长51.8%，其中50亿元以上产业项目7个、较去年同期增加3个，百亿元以上产业项目3个、较去年同期增加2个。",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -118,146 +254,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "美国7月或创最热纪录，热穹顶致高温持续。",
+      "aiSummary": "无锡上半年新签约10亿元以上项目78个，签约金额1758.38亿元。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪，内容具体有数据支撑，逻辑清晰，但非权威气象媒体。"
-    },
-    {
-      "title": "鸿蒙智行 7 月交付 45046 台，累计交付 148 万台",
-      "link": "https://www.ithome.com/0/984/459.htm",
-      "pubDate": "Sat, 01 Aug 2026 03:11:53 GMT",
-      "contentSnippet": "IT之家 8 月 1 日消息，鸿蒙智行今天宣布 2026 年 7 月交付 45046 台汽车，1-7 月累计交付 28.6 万台，同比增长 13.7%。\n\n截至目前，鸿蒙智行全系累计交付突破 148 万台，持续刷新中国新势力品牌交付速度纪录。\nIT之家从鸿蒙智行官方公众号了解到，鸿蒙智行的热门车型销售状况如下：\n\n全新一代问界 M9，交付开启 7 周累计交付突破 20000 台；M9 全系累计交付突破 300000 台。\n\n问界 M6，上市 97 天累计交付突破 40000 台；\n\n智界 V9，单月交付突破 10000 台；\n\n尚界 Z7 系列，累计交付已突破 20000 台。\n\n此外，鸿蒙智",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "鸿蒙智行7月交付45046台，累计148万台，刷新新势力纪录。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，数据具体，引用官方公众号，内容客观。"
-    },
-    {
-      "title": "LG 回应其显示器连 Win11 推广 McAfee 事件：不自动安装、不收集隐私信息",
-      "link": "https://www.ithome.com/0/984/458.htm",
-      "pubDate": "Sat, 01 Aug 2026 03:10:36 GMT",
-      "contentSnippet": "IT之家 8 月 1 日消息，科技媒体 Windows Central 今天（8 月 1 日）发布博文，报道称针对“LG 显示器连接 Windows 11 PC 后跳出 McAfee 推广内容”事件，LG 发布最新回应声明。\n\nIT之家注：LG 电子在 7 月 24 日已初步回应该事件：\n\nLG Electronics 重申，在未经用户明确同意的情况下，我们绝对不会自动安装 McAfee。\nLG Monitor App Installer 是通过微软官方 Windows 分发流程提供的，该流程中包含 McAfee 作为可选项目。只有当用户主动选择继续安装并提供同意后，McAfee 才会安装。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "LG回应显示器推广McAfee事件，称不自动安装且不收集隐私。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用Windows Central，信息具体，逻辑清晰，时效性强。"
-    },
-    {
-      "title": "首个月销破 10 万的新势力诞生！零跑 7 月全球交付 101267 台，同比增长 102%",
-      "link": "https://www.ithome.com/0/984/457.htm",
-      "pubDate": "Sat, 01 Aug 2026 03:10:11 GMT",
-      "contentSnippet": "IT之家 8 月 1 日消息，零跑汽车今天（1 日）宣布，7 月全球交付量创下新纪录：101267 台，同比增长 102%，月销首次突破 10 万台，成为目前首个月度交付超过 10 万辆的新势力车企。\n\n根据介绍，零跑汽车目前拥有 10 款产品，包含 A05（IT之家注：即将上市）、A10、D19、D99、Lafa 5、B01、B10、C10、C11、C16。\n目前，零跑已覆盖全球超 40 个市场，全球门店数量超过 2000 家。零跑汽车还宣布，9 月将举行“技术日”。\n7 月中旬，零跑汽车高级副总裁徐军指出，要完成销量目标，离不开 ABCD 四大平台一起发力。今年上半年零跑走在正确的路上，下",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "零跑7月全球交付破10万台，成首个月销破10万新势力，同比增长102%。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，数据具体，但缺乏官方财报或原始声明链接，部分产品信息待核实。"
-    },
-    {
-      "title": "小米官宣 8 月服务周升级“服务月”，超百款机型电池服务 47.2 元起",
-      "link": "https://www.ithome.com/0/984/456.htm",
-      "pubDate": "Sat, 01 Aug 2026 03:01:40 GMT",
-      "contentSnippet": "IT之家 8 月 1 日消息，根据小米服务官方，8 月服务周升级为“服务月”，超百款机型电池服务 47.2 元起，4 类省心服务 5 折起，活动时间为 8 月 1 日 10 时至 8 月 31 日 23 时 59 分。\n\n\n\n\n\n\n\n\n\nIT之家汇总具体机型如下图：\n\n\n\n\n平板系列：\n\n小米服务提醒，电池性能的非正常性衰退，例如滥用、过度充电、极端温度、外部撞击等因素，需及时改正或维修，日常使用时应注意科学充电、避免高温 / 低温等，以提高电池寿命。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "小米8月服务月活动，超百款机型电池服务47.2元起，服务5折起。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体，有官方来源，但缺乏详细数据支撑。"
-    },
-    {
-      "title": "福特CEO：正为中国汽车进入美国市场做准备",
-      "link": "https://36kr.com/newsflashes/3920311176490370?f=rss",
-      "pubDate": "2026-08-01 11:00:38  +0800",
-      "contentSnippet": "三位知情人士向媒体透露，福特CEO吉姆·法利7月30日在内部员工大会上表示，尽管美国设置了诸多贸易壁垒，但福特正在为未来5到10年内中国车企可能进入美国市场做准备。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "福特CEO称正为中国车企未来5-10年进入美国市场做准备。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，内容具体有内部会议细节，但依赖匿名消息源，时效性一般。"
-    },
-    {
-      "title": "零跑汽车登陆印尼市场，启动本地化 KD 组装生产",
-      "link": "https://www.ithome.com/0/984/455.htm",
-      "pubDate": "Sat, 01 Aug 2026 02:58:28 GMT",
-      "contentSnippet": "IT之家 8 月 1 日消息，零跑汽车昨天宣布登陆印度尼西亚市场，并携 B10、C10 两款全球车型亮相 2026 印尼国际车展（GIIAS 2026）。\n\n据IT之家了解，零跑 B10 和 C10 均拥有自主研发超过整车成本 65% 的车辆核心部件，包括电驱、电池系统、智能座舱和电子电气架构，可为印尼当地消费者提供高品质出行体验。\n同时，零跑还在同日与 Indomobil 集团旗下 PT National Assemblers 合作，目前已在印尼启动本地化 KD 组装生产。印尼本地的 KD 工厂已于今年 4 月正式投入运营，首批下线的零跑 B10 和 C10 车型预计从 8 月起开始交付。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "零跑汽车进军印尼市场，启动本地化KD组装生产，B10和C10车型亮相车展。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家较知名，内容具体，提及车型、合作方及工厂运营时间，但缺乏官方链接和详细数据。"
-    },
-    {
-      "title": "Beats 成立 20 周年 / 加入苹果 12 周年之际，其美国实验室首次向媒体开放",
-      "link": "https://www.ithome.com/0/984/454.htm",
-      "pubDate": "Sat, 01 Aug 2026 02:51:20 GMT",
-      "contentSnippet": "IT之家 8 月 1 日消息，在 Beats by Dr. Dre（Beats）品牌成立 20 周年（2006 年由音乐人 Dr. Dre 和吉米 · 艾欧文共同成立）以及加入苹果公司 12 周年之际，科技媒体 TechRadar 昨日（7 月 31 日）发布博文，探访 Beats 位于美国加州卡尔弗城的办公区与工程实验室，这也是该实验室首次向媒体开放。\nBeats 公司于 2014 年以 30 亿美元（IT之家注：现汇率约合 202.95 亿元人民币）交易被苹果公司收购，距今已过去 12 年，不过该公司至今仍保留独立运行状态。\n\n对此，苹果公司硬件工程副总裁马修 · 科斯特洛 (Matthe",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "Beats成立20周年及加入苹果12周年，美国实验室首次向媒体开放。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容具体，引用TechRadar原始报道，信息清晰，但细节有限。"
-    },
-    {
-      "title": "国际足联叫停世界杯股权出售计划",
-      "link": "https://36kr.com/newsflashes/3920310723194499?f=rss",
-      "pubDate": "2026-08-01 10:45:09  +0800",
-      "contentSnippet": "据英国天空新闻频道8月1日报道，国际足联主席因凡蒂诺已“放弃出售世界杯等国际足联赛事部分股权的计划”。因凡蒂诺表示：“在仔细听取各方意见后，我意识到该项目引发了严重分歧。无论支持率高低，这种局面已不再符合我们最初的既定目标。我们的宗旨始终是——也将永远是——团结各方、谋求进步。因此，该提案将不再推进。”因凡蒂诺“计划在接下来的数周乃至数月内，本着对足球运动的共同关切，召集所有利益相关方重新磋商，致力于在全球范围内持续发展足球事业，尤其为那些最需要支持的国家的足球发展提供更多助力。”因凡蒂诺此前计划成立一家价值200亿美元的子公司来运营世界杯及其他赛事，并向私人投资者出售少数股权。但这一提案遭到",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国际足联因凡蒂诺放弃出售世界杯股权计划，称项目引发分歧。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为36氪，引用天空新闻，内容具体，逻辑清晰，但缺乏直接原文链接。"
+      "credibilityReason": "来源为36氪，引用官方公众号数据，信息具体，但缺乏独立核实。"
     }
   ]
 }

@@ -1,31 +1,14 @@
 {
-  "generatedAt": "2026-08-01T03:20:37.603Z",
+  "generatedAt": "2026-08-02T03:20:43.642Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "时代少年团本周日在沪开唱，上海警方发布出行提示",
-      "link": "https://m.thepaper.cn/detail/33692679",
-      "pubDate": "Sat, 01 Aug 2026 02:07:26 GMT",
-      "contentSnippet": "上海市公安局徐汇分局8月1日通过其官方微博发布温馨提示：\n时代少年团「加冠礼」收官场演唱会将于8月2日-3日、8月5日-6日在上海体育场开演。这份观演安全指南，请各位爆米花收好\n进场有序：禁带LED灯牌、旗杆、自拍杆、激光笔等违禁物品，不夜排、不聚集；\n出行留意：周边道路分时段交通管制，轨交站点出入口有临时调整，优先选择公共交通更便捷；\n防暑避暑：盛夏高温注意补水，如出现头晕乏力等不适，可立即求助执勤民警与工作人员；\n谨防诈骗：本场严格执行人、证、票实名入场，警惕黄牛转票诈骗。\n夏日奔赴，平安为先。我们全程守护，共赴这场青春之约。",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "上海警方发布时代少年团演唱会安全提示，强调实名入场、防暑防诈骗。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为澎湃新闻，引用官方微博，信息具体，内容客观，可信度高。"
-    },
-    {
-      "title": "八一建军节 江西南昌八一广场举行升旗仪式",
-      "link": "http://www.chinanews.com.cn/tp/hd2011/2026/08-01/1199815.shtml",
-      "pubDate": "Sat, 1 Aug 2026 09:53:09 +0800",
-      "contentSnippet": "8月1日清晨，八一建军节，江西南昌八一广场举行隆重的升国旗仪式，庆祝中国人民解放军建军99周年，数万名游客和市民到场观看。中新社记者 刘占昆 摄  \r\n\n8月1日清晨，八一建军节，江西南昌八一广场举行隆重的升国旗仪式，庆祝中国人民解放军建军99周年，数万名游客和市民到场观看。中新社记者 刘占昆 摄  \r\n\n8月1日清晨，八一建军节，江西南昌八一广场举行隆重的升国旗仪式，庆祝中国人民解放军建军99周年，数万名游客和市民到场观看。中新社记者 刘占昆 摄  \r\n\n8月1日清晨，八一建军节，江西南昌八一广场举行隆重的升国旗仪式，庆祝中国人民解放军建军99周年，数万名游客和市民到场观看。中新社记者 刘占",
+      "title": "“漫睇大湾区”动漫创作营结营 大湾区动漫人才库同步启动",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-02/10670759.shtml",
+      "pubDate": "Sun, 2 Aug 2026 11:10:52 +0800",
+      "contentSnippet": "中新网广州8月2日电 (记者 郭军)“漫睇大湾区·智绘新未来”海峡两岸暨香港、澳门动漫新势力大湾区创作营7月31日在羊城创意产业园智酷车间结营。经过4天在深圳、广州双城采风与共创之旅，60余位来自广东、香港、澳门、台湾的高校学子与青年艺术家，围绕“AI赋能·赛博大湾区”与“跨越山海的对话”两大命题，尽情挥洒创意，交出了一份份充满想象力的答卷。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -33,16 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "八一建军节，南昌八一广场举行升旗仪式，庆祝建军99周年，数万人观看。",
+      "aiSummary": "大湾区动漫创作营结营，两岸暨港澳青年共创，动漫人才库启动。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威媒体，信息具体，有记者署名，内容客观。"
+      "credibilityReason": "来源中国新闻网，权威媒体，报道具体，含时间地点人物，客观中性。"
     },
     {
-      "title": "“解放军来了，咱有救了！”",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-01/10670320.shtml",
-      "pubDate": "Sat, 1 Aug 2026 09:49:16 +0800",
-      "contentSnippet": "有这么一群人",
+      "title": "回应急迫需求 各地持续优化住房公积金政策",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-02/10670745.shtml",
+      "pubDate": "Sun, 2 Aug 2026 10:24:41 +0800",
+      "contentSnippet": "近日，国务院常务会议审议通过《国务院关于修改〈住房公积金管理条例〉的决定(草案)》，明确指出要更好发挥住房公积金功能作用，拓宽提取和使用范围，扩大制度覆盖面，提升管理服务效能，更好满足居民多样化住房消费需求。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -50,50 +33,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国新闻网报道解放军救援行动，标题情感化，内容简短。",
-      "credibilityScore": 65,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源较权威，但标题情绪化，正文信息不具体，缺乏细节和引述。"
-    },
-    {
-      "title": "环球时报社评：一个中国原则面前，哪有什么“灰色地带”",
-      "link": "https://m.thepaper.cn/detail/33692464",
-      "pubDate": "Sat, 01 Aug 2026 01:22:26 GMT",
-      "contentSnippet": "导读：在台湾岛周边海域，中国海警要依法巡，资源要科学查，航道要有效管，军事训练要常态化。让国家主权在执法、科研、资源养护和安全保障中得到充分体现，所谓的“台湾地位未定”“国际水域”“台海中线”等错误概念终将无所遁形\n不难看出，随着中国主权维护与海洋治理行动进入常态化，一些美国人急了。近日，几个美国议员鼓噪要推出立法提案，以遏制中国在台海以及亚太的所谓“灰色地带战术活动”。这种声音不是孤立的。上个月，美国众议院中国问题特设委员会就提出过所谓“灰色地带战术”，宣称中国的“恫吓”只会强化“美国与台湾站在一起”。\n所谓“灰色地带战术”，是指在不进行公开战争的情况下，综合运用外交、经济、信息和准军事手段",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "环球时报社评强调一个中国原则无灰色地带，批美议员涉台提案。",
-      "credibilityScore": 70,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为官方媒体社评，立场鲜明但非新闻事实报道，缺乏多源验证，具体信息有限。"
-    },
-    {
-      "title": "三周内“将帅皆换”，48岁夏宇履新诺安基金董事长",
-      "link": "https://m.thepaper.cn/detail/33692535",
-      "pubDate": "Sat, 01 Aug 2026 01:20:37 GMT",
-      "contentSnippet": "三周时间，诺安基金总经理与董事长相继官宣更迭。\n8月1日，诺安基金管理有限公司（下称“诺安基金”）发布公告称，公司董事长（法定代表人）由李强变更为夏宇。中国基金业协会从业人员公示系统中显示，夏宇于6月5日取得基金从业资格证书，从业机构也于当日变更为诺安基金。\n公开履历显示，夏宇，男，汉族，1978年4月出生，现年48岁，吉林松原人，金融学硕士学位，高级会计师、注册会计师。2000年8月参加工作，2008年加入中化，先后任中化集团资金管理部总经理助理，中国种子集团财务总监，中化财务公司副总经理、总经理等职务。2020年5月起，任中化集团金融事业部党委委员、中化资本党委委员，中化财务公司党委书记、",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "诺安基金三周内董事长和总经理相继变更，48岁夏宇接任董事长。",
+      "aiSummary": "国务院修改住房公积金条例，拓宽提取使用范围，满足居民住房需求。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为澎湃新闻，信息具体，包含时间、人物履历，可查证，用词客观。"
+      "credibilityReason": "来源中国新闻网，权威媒体，内容具体，引用国务院常务会议决定，事实可查证。"
     },
     {
-      "title": "南部战区位黄岩岛领海领空和周边海空域组织海空联合演训",
-      "link": "https://m.thepaper.cn/detail/33692549",
-      "pubDate": "Sat, 01 Aug 2026 00:46:24 GMT",
-      "contentSnippet": "8月1日，中国人民解放军南部战区位黄岩岛领海、领空和周边海空域组织海空联合演训，这是针对当前南海局势及个别域内国家破坏地区和平稳定的必要行动，旨在检验提升部队维护国家领土主权和海洋权益的实战化能力。",
+      "title": "税收“晴雨表”，照见中国经济动能向新、结构向优",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-02/10670739.shtml",
+      "pubDate": "Sun, 2 Aug 2026 10:16:46 +0800",
+      "contentSnippet": "近日，上半年税收大数据发布。一项项扎实亮眼的指标数据，既是国民经济运行的“晴雨表”，也是高质量发展稳步向前的“实景图”。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "上半年税收数据发布，反映中国经济动能向新、结构向优。",
+      "credibilityScore": 75,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名媒体，内容具体但缺乏直接引述和交叉验证，评分中等偏上。"
+    },
+    {
+      "title": "浙江省委原副书记吴敏达逝世，参与研制摄影机记录了首枚氢弹试爆",
+      "link": "https://m.thepaper.cn/detail/33696646",
+      "pubDate": "Sun, 02 Aug 2026 01:07:43 GMT",
+      "contentSnippet": "据《浙江日报》消息，浙江省委原副书记、省政府原副省长、省人大常委会原副主任吴敏达同志，因病医治无效，于2026年8月1日8时28分在杭州逝世，享年98岁。\n吴敏达曾在浙江大学工作多年，曾任浙江大学光学仪器系主任、浙江大学校长助理等职务。\n吴敏达还曾参与研制了250万幅/秒等待式高速摄影机，记录下我国首枚氢弹原理性试验爆炸的瞬间。\n据“浙大微学工”微信公众号介绍，1966年3月，国防科委正式向浙大下达了研制3台250万幅/秒等待型转镜式分幅高速摄影机的任务，时间只有8个月。浙大光仪系迅速组建了课题组，由吴敏达担任组长，数十位老师参与其中，还吸收了不少毕业班学生。\n根据浙大光仪专业招收的第一批学生",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -101,16 +67,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "解放军南部战区在黄岩岛及周边组织海空联合演训，旨在维护主权。",
-      "credibilityScore": 80,
+      "aiSummary": "浙江省委原副书记吴敏达逝世，享年98岁，曾参与研制高速摄影机记录首枚氢弹试爆。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源澎湃新闻较权威，内容具体，涉及军事行动，表述客观，但未提供多源交叉验证。"
+      "credibilityReason": "来源澎湃新闻较权威，信息具体，有官方消息和细节，但未多源交叉验证。"
     },
     {
-      "title": "庆祝中国人民解放军建军99周年｜向前向前向前",
-      "link": "https://m.thepaper.cn/detail/33666920",
-      "pubDate": "Fri, 31 Jul 2026 23:30:07 GMT",
-      "contentSnippet": "“向前！向前！向前！”99载浴血奋战，99载赤胆忠心。人民军队始终脚踏祖国大地，背负民族希望，以忠诚铸就钢铁军魂，以奋斗奔赴强军新征程。",
+      "title": "美计划本周末发动“猛烈轰炸”，伊朗：全面反击方案已就绪",
+      "link": "https://m.thepaper.cn/detail/33696617",
+      "pubDate": "Sun, 02 Aug 2026 00:12:49 GMT",
+      "contentSnippet": "美国国务院8月1日向中东地区美国公民发出广泛安全警告，建议其考虑撤离或做好迅速撤离准备。据美方消息，美以正计划对伊朗能源设施发动“迄今最猛烈的轰炸”，行动或持续整个周末。不过，美总统特朗普尚未下达最终行动命令。伊朗外交部则在同日发表声明，强调决心继续抵抗。\n美伊停火备忘录已名存实亡。最终“扳机”尚未扣下，但局势升级的阴影再次笼罩中东地区。\n美政府发布多份警告\n建议中东地区公民撤离\n当地时间8月1日，美国国务院向身处中东地区的美国公民发出广泛安全警告，建议他们“考虑离开当地，或做好在局势升级时迅速撤离的准备”。\n\n美国国务院提醒，相关人员应保持谨慎并提高警惕，做好应对航班取消、临时关闭领空以及其",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -118,16 +84,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "澎湃新闻发文庆祝解放军建军99周年，强调忠诚与强军。",
+      "aiSummary": "美国警告中东公民撤离，计划对伊朗能源设施猛烈轰炸，伊朗称已备好反击。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名媒体，内容为官方纪念性报道，事实可查证，但无具体细节和引述。"
+      "credibilityReason": "来源澎湃新闻较权威，信息具体，含时间地点和官方声明，但缺乏多源交叉验证。"
     },
     {
-      "title": "习近平在中共中央政治局第二十七次集体学习时强调 强化政治引领 深化创新发展 高质量推进国防和军队现代化",
-      "link": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=11642530795644856412&t=1785496500969&toc_style_id=feeds_default&share_to=copy_url&track_id=8984f88b-b768-4aac-a950-ef8fb844f92b",
-      "pubDate": "Fri, 31 Jul 2026 12:12:15 GMT",
-      "contentSnippet": "习近平在中共中央政治局第二十七次集体学习时强调 强化政治引领 深化创新发展 高质量推进国防和军队现代化",
+      "title": "解放军报钧声：中方加强黄岩岛管控合法合理",
+      "link": "https://m.thepaper.cn/detail/33696559",
+      "pubDate": "Sat, 01 Aug 2026 22:51:21 GMT",
+      "contentSnippet": "近期，菲律宾在中国领土黄岩岛划设所谓“领海基线”，妄图为2016年那场非法仲裁“续命”，并掀起新一轮煽宣炒作。此种充满挑衅意味的恶劣行径，严重侵犯中国领土主权，严重违反《联合国宪章》《联合国海洋法公约》等国际法，再度暴露出一些菲律宾政客不断生事、搅乱南海的丑陋面目。8月1日，中国人民解放军南部战区位黄岩岛领海、领空和周边海空域组织海空联合演训，这是针对当前南海局势及个别域内国家破坏地区和平稳定的必要行动，也是坚定维护国家领土主权和海洋权益的必要之举。\n浩渺南海，浪涛奔涌。长期以来，在中国和许多地区国家的共同努力下，南海局势保持总体稳定。然而，一些菲律宾政客为个人肮脏私欲，公然违反《南海各方行为",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -135,16 +101,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "习近平强调强化政治引领，深化创新，推进国防军队现代化。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源澎湃新闻权威，内容具体，引用官方表述，事实可查证。"
+      "aiSummary": "解放军报称中方加强黄岩岛管控合法合理，回应菲律宾划设领海基线及联合演训。",
+      "credibilityScore": 75,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为澎湃新闻转载官方媒体，内容具体但立场鲜明，缺乏多方独立验证。"
     },
     {
-      "title": "华盛顿网球公开赛：大坂直美2比1胜科恰雷托",
-      "link": "http://www.chinanews.com.cn/tp/hd2011/2026/08-01/1199838.shtml",
-      "pubDate": "Sat, 1 Aug 2026 11:10:37 +0800",
-      "contentSnippet": "",
+      "title": "松花江发生2026年第1号洪水",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-02/10670768.shtml",
+      "pubDate": "Sun, 2 Aug 2026 11:13:24 +0800",
+      "contentSnippet": "中新社北京8月2日电 (记者 陈溯)记者2日从中国水利部获悉，受降雨影响，2日3时54分，松花江佳木斯水文站(黑龙江省佳木斯)水位涨至79.49米，依据主要江河洪水编号规定，此次洪水编号为“松花江2026年第1号洪水”。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -152,16 +118,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国新闻网报道，大坂直美在华盛顿网球公开赛以2比1战胜科恰雷托。",
-      "credibilityScore": 85,
+      "aiSummary": "松花江佳木斯段水位超警，水利部编号为2026年第1号洪水。",
+      "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名媒体，赛事结果具体可查证，用词客观，无情绪化表述。"
+      "credibilityReason": "来源中国新闻网，引用水利部官方信息，具体时间地点数据明确，客观报道。"
     },
     {
-      "title": "日本青森县附近海域发生5.8级地震 多地有震感",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-01/10670354.shtml",
-      "pubDate": "Sat, 1 Aug 2026 11:06:13 +0800",
-      "contentSnippet": "中新网8月1日电 据日本气象厅消息，当地时间8月1日11时48分左右，日本青森县附近海域发生5.8级地震，震源深度80公里。",
+      "title": "湖南衡阳通报“一公职人员停车受阻撬他人停车位地锁”：将对朱某某严肃处理",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-02/10670760.shtml",
+      "pubDate": "Sun, 2 Aug 2026 11:13:12 +0800",
+      "contentSnippet": "中新网8月2日电 据“衡阳发布”微信公众号消息，8月1日，有媒体在微博、微信等反映“湖南一公职人员停车受阻撬他人停车位地锁”。衡阳市发改委、祁东县高度重视，立即联合进行调查处理。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -169,16 +135,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "日本青森县附近海域发生5.8级地震，震源深度80公里，多地有震感。",
+      "aiSummary": "湖南衡阳通报公职人员撬地锁事件，称将严肃处理当事人。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名媒体，引用日本气象厅官方数据，信息具体，可信度高。"
+      "credibilityReason": "来源为中国新闻网，引用官方通报，信息具体，处理态度明确，可信度较高。"
     },
     {
-      "title": "雨天外出脚下“发麻”？当心看不见的“跨步电压”",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-01/10670352.shtml",
-      "pubDate": "Sat, 1 Aug 2026 11:02:43 +0800",
-      "contentSnippet": "汛期多雨、强对流频发，户外带电设施受雨水冲刷或雷暴大风影响，易发生接地故障。这个时候，如果遇到断落的高压线，该怎么办？",
+      "title": "秘鲁一架小型飞机坠毁致13死",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-02/10670767.shtml",
+      "pubDate": "Sun, 2 Aug 2026 11:12:04 +0800",
+      "contentSnippet": "中新社北京8月2日电 利马消息：当地时间8月1日，一架载有13人的小型飞机在秘鲁南部伊卡省纳斯卡市附近的一处农田坠毁并起火，机上人员全部遇难。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -186,16 +152,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国新闻网提醒汛期雨天户外防跨步电压，遇断落高压线应单脚跳离。",
+      "aiSummary": "秘鲁小型飞机坠毁致13人遇难，事故原因待查。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为权威媒体，内容具体实用，涉及公共安全，信息可查证，用词客观。"
+      "credibilityReason": "来源为中新社，属权威通讯社，信息具体含时间地点，但单一来源，未引述官方声明。"
     },
     {
-      "title": "周末中东部仍有大范围高温桑拿天 四川陕西等地警惕降雨叠加致灾",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-01/10670346.shtml",
-      "pubDate": "Sat, 1 Aug 2026 10:54:16 +0800",
-      "contentSnippet": "中国天气网讯 本周末(8月1日至8月2日)至下周初，我国中东部大范围高温桑拿天将持续，长江中下游部分地区可超38℃；西南地区的重庆高温尤为持久，追平了当地7月高温日数历史纪录，未来几天暑热仍不下线，公众需注意及时补水降温。与此同时，强降雨仍围绕在副热带高压边缘，呈现面弱点强的特点，四川、陕西、黑龙江等地局地有大暴雨，需警惕降雨叠加致灾。",
+      "title": "聚焦稀土材料、新型显示、低碳农业 中国科协年会举办专题论坛",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-02/10670763.shtml",
+      "pubDate": "Sun, 2 Aug 2026 11:11:18 +0800",
+      "contentSnippet": "中新网北京8月2日电 (记者 孙自法)聚焦稀土材料、新型显示和低碳农业，第二十八届中国科协年会“高端装备关键零部件材料”“新型显示关键材料”“现代设施农业绿色低碳生产技术”专题论坛，最近分别在内蒙古呼和浩特和北京举办。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -203,16 +169,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中东部周末持续高温，四川陕西等地警惕强降雨叠加致灾。",
+      "aiSummary": "中国科协年会举办稀土材料、新型显示、低碳农业专题论坛。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，权威媒体，内容具体，含时间、地点、数据，用词客观。"
+      "credibilityReason": "来源中国新闻网，权威媒体，内容具体，有明确时间地点，事实可查证。"
     },
     {
-      "title": "硬核“入学礼”！运-20B搭载“中国心”首次运送新飞行学员报到",
-      "link": "http://www.chinanews.com.cn/mil/shipin/cns/2026/08-01/news1064009.shtml",
-      "pubDate": "Sat, 1 Aug 2026 10:53:55 +0800",
-      "contentSnippet": "7月31日、8月1日，空军将使用多架运-20飞机，从沈阳、石家庄、济南、南京、长沙和成都6个登机点，集中运送2026年新录取飞行学员到空军航空大学报到，同步在各登机点和航空大学组织欢送和迎新仪式。",
+      "title": "“东北超”第六轮比赛在大连梭鱼湾足球场打响 大连队4:0战胜鸡西队",
+      "link": "https://www.chinanews.com.cn/ty/2026/08-02/10670764.shtml",
+      "pubDate": "Sun, 2 Aug 2026 11:11:00 +0800",
+      "contentSnippet": "中新网大连8月2日电 (杨毅 钱雨潞 潘攀)“东北超”第六轮比赛8月1日晚在大连梭鱼湾足球场打响，大连队坐镇主场迎战鸡西队。最终，大连队4:0战胜鸡西队。据统计，共有62035人现场观看了本场比赛。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -220,16 +186,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "空军使用运-20飞机运送新飞行学员报到，首次采用国产发动机。",
+      "aiSummary": "东北超第六轮大连队主场4:0胜鸡西队，现场观众62035人。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，权威媒体；信息具体，含时间、地点、机型；内容客观，可查证。"
+      "credibilityReason": "来源中国新闻网，权威媒体，报道具体（时间、地点、比分、观众数），客观中立。"
     },
     {
-      "title": "阿尔及利亚客车事故致27死 全国哀悼三天",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-01/10670339.shtml",
-      "pubDate": "Sat, 1 Aug 2026 10:53:40 +0800",
-      "contentSnippet": "中新社北京8月1日电 阿尔及尔消息：阿尔及利亚北部布米尔达斯省一辆客车当地时间7月31日发生事故，造成至少27人死亡。阿尔及利亚总统特本当天宣布，全国为遇难者哀悼三天。",
+      "title": "中国景区竞相开暑期夜场 拉动“八小时外”消费",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-02/10670758.shtml",
+      "pubDate": "Sun, 2 Aug 2026 11:10:24 +0800",
+      "contentSnippet": "中新网济南8月2日电 (记者 赵晓)“天黑闭园后，这里是动物专属的家，我们做客要轻语慢行。”八月夏夜，暑气渐消，济南动物园工作人员带队，20组亲子家庭悄然开启夜场研学。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -237,16 +203,34 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "阿尔及利亚客车事故致27死，总统宣布全国哀悼三天。",
+      "aiSummary": "中国景区暑期竞相开放夜场，拉动夜间消费。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，属权威媒体，信息具体（时间、地点、伤亡数），有官方声明，可查证。"
+      "credibilityReason": "来源为官方通讯社中新网，有具体地点、人物和活动细节，内容客观可查证。"
     },
     {
-      "title": "中国原创舞剧《咏春》在韩国首演",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-01/10670315.shtml",
-      "pubDate": "Sat, 1 Aug 2026 10:53:02 +0800",
-      "contentSnippet": "中新网韩国安东8月1日电 (记者 金旭)“英雄站在光里，而我们，愿是那束光。”随着这句字幕缓缓浮现，中国深圳原创舞剧《咏春》7月31日晚在韩国安东文化艺术殿堂完成首演。",
+      "title": "特朗普表示，他已同意“取消对伊朗的袭击”",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-02/10670762.shtml",
+      "pubDate": "Sun, 2 Aug 2026 11:04:12 +0800",
+      "contentSnippet": "中新网8月1日电 据美国哥伦比亚广播公司(CBS)报道，当地时间8月1日，特朗普表示，他将取消对伊朗的袭击，此前他曾暗示美国和伊朗已达成一项协议的粗略框架。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网",
+        "澎湃新闻"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "特朗普称同意取消对伊朗袭击，此前暗示美伊达成协议框架。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网和澎湃，转引CBS，权威性中等；内容具体但缺乏直接引述和多源验证。（多源覆盖 +5）"
+    },
+    {
+      "title": "国家防灾减灾救灾委员会对甘肃渭源县重大山洪灾害调查评估挂牌督办",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-02/10670761.shtml",
+      "pubDate": "Sun, 2 Aug 2026 11:03:50 +0800",
+      "contentSnippet": "2026年7月26日，甘肃省定西市渭源县会川镇罗家磨村双石门沟区域突发短时强降雨，引发山洪灾害，目前已造成25人死亡、23人受伤。根据《自然灾害调查评估暂行办法》有关规定，国家防灾减灾救灾委员会对该起灾害调查评估实施挂牌督办，要求甘肃省人民政府依照有关法律法规及规章规定，及时组织开展灾害调查评估，推动提高防灾减灾救灾能力，切实维护人民群众生命财产安全。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -254,10 +238,27 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国原创舞剧《咏春》在韩国安东首演，获观众好评。",
+      "aiSummary": "国家防灾减灾救灾委员会对甘肃渭源县山洪灾害调查评估挂牌督办，该灾害致25死23伤。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为官方通讯社中国新闻网，报道具体时间地点，内容客观，可信度高。"
+      "credibilityReason": "来源为中国新闻网，属权威媒体；信息具体，含时间、地点、伤亡数据；引用官方规定，内容客观。"
+    },
+    {
+      "title": "中国社会科学院在北京举办科技考古与文化遗产保护国际学术研讨会",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-02/10670757.shtml",
+      "pubDate": "Sun, 2 Aug 2026 11:02:11 +0800",
+      "contentSnippet": "中新网北京8月2日电 (记者 孙自法)由中国社会科学院主办的科技考古与文化遗产保护国际学术研讨会，7月31日至8月1日在北京举行。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国社科院在京举办科技考古与文化遗产保护国际学术研讨会。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，属权威媒体，报道具体（时间、地点、主办方），内容客观，可查证。"
     }
   ]
 }
