@@ -1,218 +1,14 @@
 {
-  "generatedAt": "2026-08-02T03:20:43.642Z",
+  "generatedAt": "2026-08-03T03:22:42.135Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "“漫睇大湾区”动漫创作营结营 大湾区动漫人才库同步启动",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-02/10670759.shtml",
-      "pubDate": "Sun, 2 Aug 2026 11:10:52 +0800",
-      "contentSnippet": "中新网广州8月2日电 (记者 郭军)“漫睇大湾区·智绘新未来”海峡两岸暨香港、澳门动漫新势力大湾区创作营7月31日在羊城创意产业园智酷车间结营。经过4天在深圳、广州双城采风与共创之旅，60余位来自广东、香港、澳门、台湾的高校学子与青年艺术家，围绕“AI赋能·赛博大湾区”与“跨越山海的对话”两大命题，尽情挥洒创意，交出了一份份充满想象力的答卷。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "大湾区动漫创作营结营，两岸暨港澳青年共创，动漫人才库启动。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威媒体，报道具体，含时间地点人物，客观中性。"
-    },
-    {
-      "title": "回应急迫需求 各地持续优化住房公积金政策",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-02/10670745.shtml",
-      "pubDate": "Sun, 2 Aug 2026 10:24:41 +0800",
-      "contentSnippet": "近日，国务院常务会议审议通过《国务院关于修改〈住房公积金管理条例〉的决定(草案)》，明确指出要更好发挥住房公积金功能作用，拓宽提取和使用范围，扩大制度覆盖面，提升管理服务效能，更好满足居民多样化住房消费需求。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国务院修改住房公积金条例，拓宽提取使用范围，满足居民住房需求。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威媒体，内容具体，引用国务院常务会议决定，事实可查证。"
-    },
-    {
-      "title": "税收“晴雨表”，照见中国经济动能向新、结构向优",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-02/10670739.shtml",
-      "pubDate": "Sun, 2 Aug 2026 10:16:46 +0800",
-      "contentSnippet": "近日，上半年税收大数据发布。一项项扎实亮眼的指标数据，既是国民经济运行的“晴雨表”，也是高质量发展稳步向前的“实景图”。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "上半年税收数据发布，反映中国经济动能向新、结构向优。",
-      "credibilityScore": 75,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名媒体，内容具体但缺乏直接引述和交叉验证，评分中等偏上。"
-    },
-    {
-      "title": "浙江省委原副书记吴敏达逝世，参与研制摄影机记录了首枚氢弹试爆",
-      "link": "https://m.thepaper.cn/detail/33696646",
-      "pubDate": "Sun, 02 Aug 2026 01:07:43 GMT",
-      "contentSnippet": "据《浙江日报》消息，浙江省委原副书记、省政府原副省长、省人大常委会原副主任吴敏达同志，因病医治无效，于2026年8月1日8时28分在杭州逝世，享年98岁。\n吴敏达曾在浙江大学工作多年，曾任浙江大学光学仪器系主任、浙江大学校长助理等职务。\n吴敏达还曾参与研制了250万幅/秒等待式高速摄影机，记录下我国首枚氢弹原理性试验爆炸的瞬间。\n据“浙大微学工”微信公众号介绍，1966年3月，国防科委正式向浙大下达了研制3台250万幅/秒等待型转镜式分幅高速摄影机的任务，时间只有8个月。浙大光仪系迅速组建了课题组，由吴敏达担任组长，数十位老师参与其中，还吸收了不少毕业班学生。\n根据浙大光仪专业招收的第一批学生",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "浙江省委原副书记吴敏达逝世，享年98岁，曾参与研制高速摄影机记录首枚氢弹试爆。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源澎湃新闻较权威，信息具体，有官方消息和细节，但未多源交叉验证。"
-    },
-    {
-      "title": "美计划本周末发动“猛烈轰炸”，伊朗：全面反击方案已就绪",
-      "link": "https://m.thepaper.cn/detail/33696617",
-      "pubDate": "Sun, 02 Aug 2026 00:12:49 GMT",
-      "contentSnippet": "美国国务院8月1日向中东地区美国公民发出广泛安全警告，建议其考虑撤离或做好迅速撤离准备。据美方消息，美以正计划对伊朗能源设施发动“迄今最猛烈的轰炸”，行动或持续整个周末。不过，美总统特朗普尚未下达最终行动命令。伊朗外交部则在同日发表声明，强调决心继续抵抗。\n美伊停火备忘录已名存实亡。最终“扳机”尚未扣下，但局势升级的阴影再次笼罩中东地区。\n美政府发布多份警告\n建议中东地区公民撤离\n当地时间8月1日，美国国务院向身处中东地区的美国公民发出广泛安全警告，建议他们“考虑离开当地，或做好在局势升级时迅速撤离的准备”。\n\n美国国务院提醒，相关人员应保持谨慎并提高警惕，做好应对航班取消、临时关闭领空以及其",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "美国警告中东公民撤离，计划对伊朗能源设施猛烈轰炸，伊朗称已备好反击。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源澎湃新闻较权威，信息具体，含时间地点和官方声明，但缺乏多源交叉验证。"
-    },
-    {
-      "title": "解放军报钧声：中方加强黄岩岛管控合法合理",
-      "link": "https://m.thepaper.cn/detail/33696559",
-      "pubDate": "Sat, 01 Aug 2026 22:51:21 GMT",
-      "contentSnippet": "近期，菲律宾在中国领土黄岩岛划设所谓“领海基线”，妄图为2016年那场非法仲裁“续命”，并掀起新一轮煽宣炒作。此种充满挑衅意味的恶劣行径，严重侵犯中国领土主权，严重违反《联合国宪章》《联合国海洋法公约》等国际法，再度暴露出一些菲律宾政客不断生事、搅乱南海的丑陋面目。8月1日，中国人民解放军南部战区位黄岩岛领海、领空和周边海空域组织海空联合演训，这是针对当前南海局势及个别域内国家破坏地区和平稳定的必要行动，也是坚定维护国家领土主权和海洋权益的必要之举。\n浩渺南海，浪涛奔涌。长期以来，在中国和许多地区国家的共同努力下，南海局势保持总体稳定。然而，一些菲律宾政客为个人肮脏私欲，公然违反《南海各方行为",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "解放军报称中方加强黄岩岛管控合法合理，回应菲律宾划设领海基线及联合演训。",
-      "credibilityScore": 75,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为澎湃新闻转载官方媒体，内容具体但立场鲜明，缺乏多方独立验证。"
-    },
-    {
-      "title": "松花江发生2026年第1号洪水",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-02/10670768.shtml",
-      "pubDate": "Sun, 2 Aug 2026 11:13:24 +0800",
-      "contentSnippet": "中新社北京8月2日电 (记者 陈溯)记者2日从中国水利部获悉，受降雨影响，2日3时54分，松花江佳木斯水文站(黑龙江省佳木斯)水位涨至79.49米，依据主要江河洪水编号规定，此次洪水编号为“松花江2026年第1号洪水”。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "松花江佳木斯段水位超警，水利部编号为2026年第1号洪水。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，引用水利部官方信息，具体时间地点数据明确，客观报道。"
-    },
-    {
-      "title": "湖南衡阳通报“一公职人员停车受阻撬他人停车位地锁”：将对朱某某严肃处理",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-02/10670760.shtml",
-      "pubDate": "Sun, 2 Aug 2026 11:13:12 +0800",
-      "contentSnippet": "中新网8月2日电 据“衡阳发布”微信公众号消息，8月1日，有媒体在微博、微信等反映“湖南一公职人员停车受阻撬他人停车位地锁”。衡阳市发改委、祁东县高度重视，立即联合进行调查处理。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "湖南衡阳通报公职人员撬地锁事件，称将严肃处理当事人。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，引用官方通报，信息具体，处理态度明确，可信度较高。"
-    },
-    {
-      "title": "秘鲁一架小型飞机坠毁致13死",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-02/10670767.shtml",
-      "pubDate": "Sun, 2 Aug 2026 11:12:04 +0800",
-      "contentSnippet": "中新社北京8月2日电 利马消息：当地时间8月1日，一架载有13人的小型飞机在秘鲁南部伊卡省纳斯卡市附近的一处农田坠毁并起火，机上人员全部遇难。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "秘鲁小型飞机坠毁致13人遇难，事故原因待查。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新社，属权威通讯社，信息具体含时间地点，但单一来源，未引述官方声明。"
-    },
-    {
-      "title": "聚焦稀土材料、新型显示、低碳农业 中国科协年会举办专题论坛",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-02/10670763.shtml",
-      "pubDate": "Sun, 2 Aug 2026 11:11:18 +0800",
-      "contentSnippet": "中新网北京8月2日电 (记者 孙自法)聚焦稀土材料、新型显示和低碳农业，第二十八届中国科协年会“高端装备关键零部件材料”“新型显示关键材料”“现代设施农业绿色低碳生产技术”专题论坛，最近分别在内蒙古呼和浩特和北京举办。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国科协年会举办稀土材料、新型显示、低碳农业专题论坛。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威媒体，内容具体，有明确时间地点，事实可查证。"
-    },
-    {
-      "title": "“东北超”第六轮比赛在大连梭鱼湾足球场打响 大连队4:0战胜鸡西队",
-      "link": "https://www.chinanews.com.cn/ty/2026/08-02/10670764.shtml",
-      "pubDate": "Sun, 2 Aug 2026 11:11:00 +0800",
-      "contentSnippet": "中新网大连8月2日电 (杨毅 钱雨潞 潘攀)“东北超”第六轮比赛8月1日晚在大连梭鱼湾足球场打响，大连队坐镇主场迎战鸡西队。最终，大连队4:0战胜鸡西队。据统计，共有62035人现场观看了本场比赛。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "东北超第六轮大连队主场4:0胜鸡西队，现场观众62035人。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威媒体，报道具体（时间、地点、比分、观众数），客观中立。"
-    },
-    {
-      "title": "中国景区竞相开暑期夜场 拉动“八小时外”消费",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-02/10670758.shtml",
-      "pubDate": "Sun, 2 Aug 2026 11:10:24 +0800",
-      "contentSnippet": "中新网济南8月2日电 (记者 赵晓)“天黑闭园后，这里是动物专属的家，我们做客要轻语慢行。”八月夏夜，暑气渐消，济南动物园工作人员带队，20组亲子家庭悄然开启夜场研学。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国景区暑期竞相开放夜场，拉动夜间消费。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为官方通讯社中新网，有具体地点、人物和活动细节，内容客观可查证。"
-    },
-    {
-      "title": "特朗普表示，他已同意“取消对伊朗的袭击”",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-02/10670762.shtml",
-      "pubDate": "Sun, 2 Aug 2026 11:04:12 +0800",
-      "contentSnippet": "中新网8月1日电 据美国哥伦比亚广播公司(CBS)报道，当地时间8月1日，特朗普表示，他将取消对伊朗的袭击，此前他曾暗示美国和伊朗已达成一项协议的粗略框架。",
+      "title": "中国最高法发布案例规范平台经营",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-03/10671111.shtml",
+      "pubDate": "Mon, 3 Aug 2026 11:17:43 +0800",
+      "contentSnippet": "中新社北京8月3日电 (记者 张素)中国最高人民法院3日发布5件依法规范平台经营、保护消费者合法权益典型案例，旨在为各类经营主体明确行为规则、稳定经营预期提供清晰指引。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -221,16 +17,16 @@
       ],
       "coverageCount": 2,
       "coverageBoost": 5,
-      "aiSummary": "特朗普称同意取消对伊朗袭击，此前暗示美伊达成协议框架。",
-      "credibilityScore": 80,
+      "aiSummary": "中国最高法发布5件典型案例，规范平台经营，保护消费者权益。",
+      "credibilityScore": 93,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网和澎湃，转引CBS，权威性中等；内容具体但缺乏直接引述和多源验证。（多源覆盖 +5）"
+      "credibilityReason": "来源为权威官方媒体，内容具体，有明确时间、机构及案例数量，事实可查证。（多源覆盖 +5）"
     },
     {
-      "title": "国家防灾减灾救灾委员会对甘肃渭源县重大山洪灾害调查评估挂牌督办",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-02/10670761.shtml",
-      "pubDate": "Sun, 2 Aug 2026 11:03:50 +0800",
-      "contentSnippet": "2026年7月26日，甘肃省定西市渭源县会川镇罗家磨村双石门沟区域突发短时强降雨，引发山洪灾害，目前已造成25人死亡、23人受伤。根据《自然灾害调查评估暂行办法》有关规定，国家防灾减灾救灾委员会对该起灾害调查评估实施挂牌督办，要求甘肃省人民政府依照有关法律法规及规章规定，及时组织开展灾害调查评估，推动提高防灾减灾救灾能力，切实维护人民群众生命财产安全。",
+      "title": "两岸观察丨一声“阿嬷”跨海峡 两岸文脉割不断",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-03/10671090.shtml",
+      "pubDate": "Mon, 3 Aug 2026 11:02:06 +0800",
+      "contentSnippet": "大陆电影《给阿嬷的情书》将于8月15日、16日在台湾桃园电影节亮相。这是该片首次在台湾地区公开放映，受到不少台湾影迷的关注和期待，7月27日开票即售罄。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -238,16 +34,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国家防灾减灾救灾委员会对甘肃渭源县山洪灾害调查评估挂牌督办，该灾害致25死23伤。",
-      "credibilityScore": 85,
+      "aiSummary": "大陆电影《给阿嬷的情书》将在台湾桃园电影节放映，开票即售罄，展现两岸文化联系。",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，属权威媒体；信息具体，含时间、地点、伤亡数据；引用官方规定，内容客观。"
+      "credibilityReason": "来源中国新闻网较权威，信息具体（时间、地点、事件），但单一来源且无直接引述，评分略低于一线通讯社。"
     },
     {
-      "title": "中国社会科学院在北京举办科技考古与文化遗产保护国际学术研讨会",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-02/10670757.shtml",
-      "pubDate": "Sun, 2 Aug 2026 11:02:11 +0800",
-      "contentSnippet": "中新网北京8月2日电 (记者 孙自法)由中国社会科学院主办的科技考古与文化遗产保护国际学术研讨会，7月31日至8月1日在北京举行。",
+      "title": "视觉周刊｜向前！向前！向前！",
+      "link": "https://m.thepaper.cn/detail/33673724",
+      "pubDate": "Mon, 03 Aug 2026 01:53:40 GMT",
+      "contentSnippet": "“澎湃视觉周刊”第314期主要内容 —— 20260727 - 20260802\n【庆祝中国人民解放军建军99周年｜向前！向前！向前！】“向前！向前！向前！”99载浴血奋战，99载赤胆忠心。人民军队始终脚踏祖国大地，背负民族希望，以忠诚铸就钢铁军魂，以奋斗奔赴强军新征程。\n【十二启辰 澎湃向新】山河有色，光阴成章。一日晨昏流转，天地因光阴而成色；万千人生往复，时辰因心绪而生辉。于十二时辰之色，映见人心之山海。十二启辰，澎湃向新。\n \n    \n   \n设计师 | 周寰\n   \n编辑 | 赵冠群\n   \n点击查看详情 »\n  \n \n \n    \n   \n设计师 | 王璐瑶\n   \n编辑 | 赵冠",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "澎湃视觉周刊第314期，庆祝建军99周年，展示强军新征程。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名媒体澎湃新闻，内容为官方纪念主题，事实可查证，但缺乏具体细节和直接引述。"
+    },
+    {
+      "title": "“China Cool”风靡海外 入境游市场热度持续走高",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-03/10671104.shtml",
+      "pubDate": "Mon, 3 Aug 2026 11:16:53 +0800",
+      "contentSnippet": "今年夏天，“China Cool”正成为海外社交平台上的热词。从“打卡中国”到“体验中国”，从“走马观花”到“深度上瘾”。不少外国游客慕名而来，入境游市场的热度持续走高。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -255,10 +68,197 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国社科院在京举办科技考古与文化遗产保护国际学术研讨会。",
+      "aiSummary": "“China Cool”成海外热词，入境游市场持续升温，外国游客深度体验中国。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网较权威，内容具体但缺乏直接引述和数据，评分75。"
+    },
+    {
+      "title": "210元一条，日本右翼用AI批量造谎 ｜真相",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-03/10671096.shtml",
+      "pubDate": "Mon, 3 Aug 2026 11:16:51 +0800",
+      "contentSnippet": "日本右翼势力正在发动一场“技术认知战”，《朝日新闻》近期的一则调查报道撕下了他们的伪装。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "日右翼用AI批量造谣，每条210元，朝日新闻调查揭露。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网较权威，引用朝日新闻调查，内容具体，但单源报道，交叉验证有限。"
+    },
+    {
+      "title": "集中供冷，真的来了！",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-03/10671114.shtml",
+      "pubDate": "Mon, 3 Aug 2026 11:15:29 +0800",
+      "contentSnippet": "三伏天酷热难耐，可在江苏徐州，却有居民正在享受一种别样的清凉，不用开空调，室温就能保持在25℃左右。这份清凉从何而来？",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "江苏徐州居民体验集中供冷，室温保持25℃，无需空调。",
+      "credibilityScore": 75,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源中国新闻网较权威，内容具体但缺乏细节和多方验证，评分中等偏上。"
+    },
+    {
+      "title": "南非资深媒体人：日本设立“国家情报局”严重威胁地区和平稳定",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-03/10671100.shtml",
+      "pubDate": "Mon, 3 Aug 2026 11:12:51 +0800",
+      "contentSnippet": "对于日本政府7月31日正式设立“国家情报局”，南非资深媒体人、南非全国新闻俱乐部主席弗朗斯·马查特在接受总台记者采访时表示，日本的军事扩张与情报扩张行为给地区安全与和平稳定带来严重危害。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "南非媒体人批评日本设国家情报局威胁地区和平稳定。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为官方媒体，有具体人物和引述，但单一信源且涉外交立场，评分略降。"
+    },
+    {
+      "title": "专访丨中国式现代化为发展中国家探索现代化道路提供借鉴——访塔吉克斯坦人民民主党第一副主席涅马特佐达",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-03/10671099.shtml",
+      "pubDate": "Mon, 3 Aug 2026 11:12:27 +0800",
+      "contentSnippet": "新华社杜尚别8月2日电专访｜中国式现代化为发展中国家探索现代化道路提供借鉴——访塔吉克斯坦人民民主党第一副主席涅马特佐达",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "塔吉克斯坦官员称中国式现代化为发展中国家提供借鉴。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，属权威媒体，报道具体（时间、地点、主办方），内容客观，可查证。"
+      "credibilityReason": "来源为新华社专访，内容具体，有直接引述，官方背景权威。"
+    },
+    {
+      "title": "空港“加速度”！中国外贸打开全球新通道",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-03/10671109.shtml",
+      "pubDate": "Mon, 3 Aug 2026 11:12:13 +0800",
+      "contentSnippet": "包机、专线",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国外贸通过包机和专线加速，打开全球新通道。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名媒体，内容具体但缺乏细节和直接引述，评分中等偏上。"
+    },
+    {
+      "title": "俄罗斯宗教人士代表团在西藏参访",
+      "link": "https://www.chinanews.com.cn/tp/2026/08-03/10671091.shtml",
+      "pubDate": "Mon, 3 Aug 2026 11:11:29 +0800",
+      "contentSnippet": "7月28日至8月1日，俄罗斯宗教人士代表团在西藏自治区林芝、拉萨两地参访。参访期间，代表团体验了高原复兴号动车组列车、藏医理疗，走进高原村落、拉萨南山公园，深入西藏唐卡画院、布达拉宫、大昭寺、色拉寺等场所调研。图为7月30日，俄罗斯宗教人士代表团在西藏唐卡画院观摩一幅格萨尔主题手绘唐卡。江飞波 摄",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "俄罗斯宗教人士代表团在西藏参访，体验当地文化及宗教场所。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，属权威媒体；报道具体，含时间、地点、活动细节及图片说明，事实可查证。"
+    },
+    {
+      "title": "种植“三红”柚子引发纠纷 海南一果园一审被判赔偿34万元",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-03/10671094.shtml",
+      "pubDate": "Mon, 3 Aug 2026 11:08:04 +0800",
+      "contentSnippet": "中新网海口8月3日电 (记者 王晓斌)近日在海南，一场因为种植“三红”柚子引发的品种权诉讼暂时告一段落：原告要求被告赔偿百万元经济损失并“砍掉”侵权果树；被告则辩称相关品种在申请保护前已在原产地广泛种植；海南自由贸易港知识产权法院一审宣判，被告赔偿损失，但可保留砧木用于嫁接其他品种。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "海南一果园因种植“三红”柚子被判赔34万元，法院允许保留砧木嫁接其他品种。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，权威媒体，报道具体，含法院判决细节，信息可查证。"
+    },
+    {
+      "title": "黑龙江省佳木斯市副市长仇文会接受审查调查",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-03/10671097.shtml",
+      "pubDate": "Mon, 3 Aug 2026 11:06:58 +0800",
+      "contentSnippet": "中新网8月3日电 据黑龙江省纪委监委消息：黑龙江省佳木斯市人民政府党组成员、副市长仇文会涉嫌严重违纪违法，目前正接受黑龙江省纪委监委纪律审查和监察调查。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "佳木斯市副市长仇文会因涉嫌严重违纪违法接受审查调查。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，引述官方纪委监委消息，信息具体且权威，符合高可信标准。"
+    },
+    {
+      "title": "山东省济南市政府原党组成员、副市长谢堃被\"双开\"",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-03/10671098.shtml",
+      "pubDate": "Mon, 3 Aug 2026 11:06:32 +0800",
+      "contentSnippet": "中新网8月3日电 据山东省纪委监委消息：经山东省委批准，山东省纪委监委对济南市政府原党组成员、副市长谢堃严重违纪违法问题进行了立案审查调查。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "济南市原副市长谢堃因严重违纪违法被开除党籍和公职。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为官方通讯社中新网，引述山东省纪委监委消息，事实具体权威。"
+    },
+    {
+      "title": "有边防部队为啥还要护边员？巡了一辈子边的她说",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-03/10671101.shtml",
+      "pubDate": "Mon, 3 Aug 2026 11:05:54 +0800",
+      "contentSnippet": "原标题：守边之责比山重(中国道路中国梦·每一个人都是主角)",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "护边员讲述巡边一生，强调守边责任重于山，展现个人与国家使命。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网，官方媒体，内容具体，有个人经历叙述，事实可查证。"
+    },
+    {
+      "title": "民调：76%日本人支持“无核三原则”",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-03/10671095.shtml",
+      "pubDate": "Mon, 3 Aug 2026 11:03:02 +0800",
+      "contentSnippet": "日本媒体8月2日公布的一项民调结果显示，76%的受访者支持继续坚持“不制造、不拥有、不让核武器进入日本”的“无核三原则”。77%的受访者反对日本参与“核共享”，也就是由美国在日本部署核武器，并由两国共同运作。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "民调显示76%日本人支持无核三原则，77%反对核共享。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为正规媒体，引用具体民调数据，信息具体可查证，但未注明原始民调机构。"
     }
   ]
 }

@@ -1,65 +1,14 @@
 {
-  "generatedAt": "2026-08-02T03:22:06.628Z",
+  "generatedAt": "2026-08-03T03:23:58.334Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "半导体传奇人物、力积电董事长黄崇仁因心肺衰竭逝世：享年 76 岁，公司曾负债 1200 亿逆风翻盘",
-      "link": "https://www.ithome.com/0/984/637.htm",
-      "pubDate": "Sat, 01 Aug 2026 15:52:30 GMT",
-      "contentSnippet": "IT之家 8 月 1 日消息，晶圆代工厂力积电 7 月 31 日发布重大消息公告，董事长暨创办人黄崇仁因心肺衰竭，于当日中午在家里睡梦中安详辞世，享年 76 岁。\n公开资料显示，黄崇仁（1949 年 —2026 年 7 月 31 日）是中国台湾地区半导体产业传奇人物。他被誉为半导体界的“九命怪猫”，以其在绝境中多次带领企业重生的经历闻名。\n\nIT之家综合多家台媒报道，黄崇仁拥有美国纽约西奈山医学院医学博士学位，1980 年返台后，曾任教于台北医学院生理系及台湾大学物理系。随着中国台湾地区 PC 产业快速发展，他决定离开校园投入创业，先后经营电脑周边、软件与资讯相关事业，之后将重心转向半导体产业",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "力积电董事长黄崇仁因心肺衰竭逝世，享年76岁，曾带领公司逆风翻盘。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道引用公司公告及台媒，信息具体，时效性强，评分较高。"
-    },
-    {
-      "title": "宏碁主管：预计第三季度整体 PC 价格仍有约 5% 的上涨空间，第四季度有望趋于平稳",
-      "link": "https://www.ithome.com/0/984/632.htm",
-      "pubDate": "Sat, 01 Aug 2026 14:58:29 GMT",
-      "contentSnippet": "IT之家 8 月 1 日消息，据台媒科技新报消息，宏碁（Acer）台湾地区主管表示，目前 PC 供应链中最短缺的依然是内存与 SSD。虽然 CPU 的供货情况较之前有所改善，但主流高端产品依然存在缺口。预计在第三季度，整体 PC 价格仍有约 5% 的上涨空间；而到了第四季度，价格则有望逐步趋于平稳。\n在价格方面，这位主管表示，今年以来 PC 售价已经大幅攀升。今年第三季度的价格仍有可能再上涨约 5%。目前市场价格已经维持在高位水平，后续价格可能只会缓慢上涨或出现小幅波动，不太容易再出现大幅度上调。\nIT之家注意到，由于零部件价格居高不下，各 PC 品牌也在不断通过调整产品规格来降低成本压力。该",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "宏碁主管预计第三季度PC价格再涨5%，第四季度趋稳。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用台媒消息，内容具体，但缺乏原始数据支撑。"
-    },
-    {
-      "title": "我国在联合国举行 2026 世界人工智能大会吹风会：将秉持开源开放谋划全球治理",
-      "link": "https://www.ithome.com/0/984/612.htm",
-      "pubDate": "Sat, 01 Aug 2026 11:58:31 GMT",
-      "contentSnippet": "IT之家 8 月 1 日消息，据央视新闻今日报道，当地时间 7 月 31 日，中国常驻联合国代表团在联合国总部举行 2026 世界人工智能大会暨人工智能全球治理高级别会议吹风会。\n中国常驻联合国代表傅聪提到，中国将秉持开源开放、合作共赢、共商共建共享理念，在联合国广阔平台上，同各方一道商讨谋划人工智能未来全球治理重大问题。\n联合国数字与新兴技术特使吉尔表示，世界人工智能大会具有里程碑式的重要意义，希望世界人工智能合作组织与联合国密切对接合作。联合国人工智能独立国际科学小组成员宋海涛分享了参会感受。\n7 月 16 日，来自亚洲、非洲、拉美和欧洲的 29 个国家签署《关于成立世界人工智能合作组织的",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国在联合国吹风会宣布2026世界人工智能大会，强调开源开放与全球治理合作。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用央视新闻，信息具体，涉及联合国官方活动，逻辑清晰，时效性强。"
-    },
-    {
-      "title": "美中贸委会会长：美国企业重视中国市场和对华合作",
-      "link": "https://36kr.com/newsflashes/3920583526526343?f=rss",
-      "pubDate": "2026-08-01 15:45:40  +0800",
-      "contentSnippet": "当地时间7月31日，中国贸促会组织中国企业家代表团在华盛顿与美中贸易全国委员会及其会员企业交流座谈。中国贸促会会长任鸿斌、中国驻美国使馆经商处公参李勰、美中贸委会会长谭森等出席并发言。来自多个行业的中美企业代表参会并进行了积极沟通交流。美中贸委会会长谭森在接受媒体采访时表示，美国企业仍致力于在中国发展，重视中国市场，并希望加强与中国企业合作。",
+      "title": "我国牵头的区块链国际标准在国际标准化组织（ISO）立项",
+      "link": "https://36kr.com/newsflashes/3923234475781504?f=rss",
+      "pubDate": "2026-08-03 11:20:29  +0800",
+      "contentSnippet": "记者今天了解到，由我国牵头的国际标准《区块链和分布式记账技术 区块链即服务的技术框架和功能要求》近日在国际标准化组织成功立项。德国、英国、爱尔兰、日本、葡萄牙、乌干达等国将派员参与制定。区块链即服务是应用最广泛的区块链商业化服务模式之一，具有门槛低、成本可控、灵活可扩展等优势，成为全球企业探索区块链技术应用的主流选择。据行业研究机构统计，基于区块链即服务搭建的区块链应用项目超过10万项，覆盖供应链金融、产品溯源、数字存证等领域。（央视新闻）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -67,16 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "美中贸委会会长称美国企业仍重视中国市场，希望加强合作。",
-      "credibilityScore": 75,
+      "aiSummary": "我国牵头的区块链即服务国际标准在ISO立项，多国参与制定。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，内容具体，有明确人物和事件，但缺乏技术细节，评分中等偏上。"
+      "credibilityReason": "来源为36氪转载央视新闻，信息具体，有明确国际标准立项细节，权威性较高。"
     },
     {
-      "title": "东风风神 L8Y 汽车外观首秀",
-      "link": "https://www.ithome.com/0/984/705.htm",
-      "pubDate": "Sun, 02 Aug 2026 03:16:02 GMT",
-      "contentSnippet": "IT之家 8 月 2 日消息，东风奕派风神营销事业部总经理邓留超今天在微博发文，公开风神 L8Y 汽车的外观。\n\nIT之家注意到，东风风神新车培训暨上市动员会于上个月举行，官方宣布东风风神下半年将投放 4 款新车，四款车型以差异化的产品定位和优势，实现从“精致小家”到“舒适大家”的覆盖。\n\n风神 L8Y 主打“同级最舒适座舱”，座舱质感、驾乘体验得到全面升级\n\n风神 L8+ 剑指“同级最强智能辅助驾驶产品”，宣称刷新同级车型的智能体验上限\n\n“同级唯一真七座 SUV”风神 L9 兼顾商务接待与家庭责任\n\n风神 E80 则聚焦纯电市场",
+      "title": "英伟达 AMD 博通追单：台积电 3nm 月产 18 万片目标有望提前至 Q4 初达成，2nm 年底冲刺 10 万片",
+      "link": "https://www.ithome.com/0/984/944.htm",
+      "pubDate": "Mon, 03 Aug 2026 03:17:25 GMT",
+      "contentSnippet": "IT之家 8 月 3 日消息，据中国台湾《经济日报》今日报道，在英伟达、AMD、博通等大客户积极追单的推动下，台积电 3nm 制程原定于 2026 年底实现的月投片量 18 万片目标，有望提前至第四季度初达成。同时，台积电 2nm 制程订单同步升温，有望在 2026 年底朝月投片 10 万片的目标靠拢。\n消息人士称，由于客户持续追单，台积电 3nm 制程在 2026 年上半年月投片量已接近 15 万片；预计到第四季度初，月投片量即可达到 18 万片，较原定年底目标提前两至三个月。\n为满足客户需求，台积电已宣布新增三座 3nm 晶圆厂，同时在中国台湾将部分 5nm 设备转换至 3nm 以支援产能",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -84,84 +33,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "东风风神L8Y外观首秀，主打舒适座舱，下半年将推四款新车。",
+      "aiSummary": "台积电3nm产能目标提前达成，2nm年底冲刺10万片。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家可信，信息具体，有官方人士微博引用，但缺乏技术细节和实测数据。"
+      "credibilityReason": "来源为IT之家，引用经济日报，信息具体但缺乏官方确认，评分中等偏上。"
     },
     {
-      "title": "特斯拉介绍 Model Y L 热管理技术改进：可实现更快制冷、续航提升",
-      "link": "https://www.ithome.com/0/984/704.htm",
-      "pubDate": "Sun, 02 Aug 2026 03:10:48 GMT",
-      "contentSnippet": "IT之家 8 月 2 日消息，特斯拉针对 Model Y  L 推出了多项座舱温控和 HVAC（空调暖通系统）升级。随着全新三排六座 Model Y L 即将在美国开始首批客户交付，特斯拉公布的新技术细节显示，通过热管理工程优化，该车型不仅能够实现更快降温，还能提升实际续航表现。\n\nX 用户 @SawyerMerritt 在试驾 Model Y L 测试车时，分享了这些热管理改进的详细信息，包括：\n\n座舱降温速度提升最高可达 15%。\n\n在阳光直射环境下，座舱达到目标温度的时间最多可缩短 15 分钟。\n\n炎热天气下热效率提升 23%，可转化为实际驾驶中增加约 7 英里（约 11.3 公里）的续",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "特斯拉Model Y L热管理升级，制冷更快，续航提升。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家较知名，内容具体有数据，但依赖用户爆料，缺乏官方确认。"
-    },
-    {
-      "title": "消息称安卓首款阔折叠手机 Galaxy Z Fold8 预售火爆超预期，三星已向供应商追加订单",
-      "link": "https://www.ithome.com/0/984/696.htm",
-      "pubDate": "Sun, 02 Aug 2026 03:08:45 GMT",
-      "contentSnippet": "IT之家 8 月 2 日消息，博主 @i冰宇宙 今日发文透露，安卓首款阔折叠手机 —— Galaxy Z Fold8 预售火爆超出预期，现在三星已经向供应商追加订单了。\n\n据IT之家此前报道，三星已于 7 月 22 日正式发布了 Galaxy Z Fold8，这是该公司六年来首款采用全新机身形态的折叠屏手机。与此前历代 Galaxy Z Fold 相比，新机机身更短、更宽，主打影音娱乐体验，起售价 12999 元。\n\n该机配备一块 5.5 英寸外屏和一块 7.6 英寸内折叠屏，两块屏幕均采用 Dynamic AMOLED 2X 面板，支持 1Hz 至 120Hz 自适应刷新率，并兼容 HDR1",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "三星Galaxy Z Fold8预售火爆，已追加订单。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家较权威，信息具体，但依赖博主爆料，缺乏官方数据。"
-    },
-    {
-      "title": "比亚迪 7 月销量明细曝光：王朝元系列超 8 万辆，方程豹钛 7 突破 2.7 万辆",
-      "link": "https://www.ithome.com/0/984/683.htm",
-      "pubDate": "Sun, 02 Aug 2026 02:57:47 GMT",
-      "contentSnippet": "IT之家 8 月 2 日消息，今天上午，博主 @小迪快报 曝光了比亚迪乘用车 2026 年 7 月的销量明细：王朝 | 海洋 350,178 辆；方程豹汽车销售 41,213 辆；腾势汽车销售 19,196 辆；仰望汽车销售 485 辆；海外销售 179,841 辆；累计销售 411,072 辆。\n\nIT之家整理如下：\n王朝：当月 161148 辆，年度累计 874963 辆\n\n夏：当月 1300 辆，年度累计 10922 辆\n\n秦：当月 13117 辆，年度累计 162291 辆\n\n汉：当月 3648 辆，年度累计 38139 辆\n\n唐：当月 13535 辆，年度累计 54938 辆\n\n宋：",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "比亚迪7月销量曝光，王朝元系列超8万辆，方程豹钛7突破2.7万辆。",
-      "credibilityScore": 75,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源IT之家较知名，数据具体，但依赖博主爆料，缺乏官方确认，时效性高。"
-    },
-    {
-      "title": "《胜利女神：新的希望》x《女神异闻录》联动官宣，8 月 13 日开启",
-      "link": "https://www.ithome.com/0/984/677.htm",
-      "pubDate": "Sun, 02 Aug 2026 02:49:24 GMT",
-      "contentSnippet": "IT之家 8 月 2 日消息，《胜利女神：新的希望》游戏现已确认与《女神异闻录 3 Reload》/《女神异闻录 4 Golden》/《女神异闻录 5 Royal》联动。\n\nIT之家从胜利女神B站官号了解到，本次联动将于 8 月 13 日启动，纪念《女神异闻录》系列作品诞生 30 周年。\n同时，官方还公布了本次联动的视觉图。反击部队成员在图中手持 P3/P4/P5 的标志性元素物品，正准备送出礼物。\n\n目前，官方还没有公布本次联动的具体内容，IT之家将持续关注，第一时间带来最新消息。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "《胜利女神》与《女神异闻录》联动官宣，8月13日开启，纪念系列30周年。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家可信，内容具体有日期和来源，但缺少联动细节，评分中等偏上。"
-    },
-    {
-      "title": "新势力7月洗牌：零跑独破10万，“蔚小理米”困在3万档",
-      "link": "https://www.tmtpost.com/8088337.html",
-      "pubDate": "Sun, 02 Aug 2026 10:43:43 +0800",
-      "contentSnippet": "六家拉开三个梯队。",
+      "title": "这可能是目前最具吸引力的国防类股票",
+      "link": "https://www.tmtpost.com/8088948.html",
+      "pubDate": "Mon, 03 Aug 2026 10:43:21 +0800",
+      "contentSnippet": "据华尔街称，近期的下跌让多只股票看起来更具吸引力。不过眼下有一家大型国防承包商的表现看起来比其他公司更胜一筹。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -169,16 +50,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "新势力7月销量分化，零跑破10万，蔚小理米困于3万档。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容具体，但缺乏数据细节和原始出处。"
+      "aiSummary": "华尔街认为某大型国防承包商股票因近期下跌更具吸引力。",
+      "credibilityScore": 60,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源一般，内容简略，缺乏具体公司名、数据或原始出处，标题有标题党倾向。"
     },
     {
-      "title": "华为鸿蒙 HarmonyOS 7 实装游戏秒启秒开特性，《原神》《洛克王国》等可极速启动",
-      "link": "https://www.ithome.com/0/984/676.htm",
-      "pubDate": "Sun, 02 Aug 2026 02:37:00 GMT",
-      "contentSnippet": "IT之家 8 月 2 日消息，在今年 6 月，华为手机官方宣布，HarmonyOS SDK 26 正式发布，在易用、空间化、智能化全面升级，其中就带来了游戏秒启秒开功能。\n\n据多名用户分享，升级了华为鸿蒙 HarmonyOS 7 开发者 / 花粉 Beta 版系统的平板 / 手机，已实装游戏秒启秒开特性，并支持《原神》《洛克王国》等游戏极速启动。\n\n从网友们分享的视频可以看到，实装了游戏秒启秒开特性的设备，在后台清空的情况下，可以直接进入游戏并抵达账号登录界面，相比普通冷启动的设备加载更快。\n\n关于华为鸿蒙 HarmonyOS 7 的新特性，IT之家仍在发掘中，感兴趣的小伙伴可以关注后续报道。",
+      "title": "【钛晨报】事关货币政策、债券市场，央行明确下半年重点；亚马逊完成对OpenAI总计500亿美元全额投资；“欧佩克+”主要产油国宣布9月继续增产",
+      "link": "https://www.tmtpost.com/8088550.html",
+      "pubDate": "Mon, 03 Aug 2026 07:20:00 +0800",
+      "contentSnippet": "小米多款手机今起正式涨价；吉利汽车集团架构调整，林杰任销售总公司总经理；长鑫科技LPDDR6接近研发验证尾声；谷歌地球紧急叫停AI生图：虚构场景可叠加卫星图散播假信息；美国四大科技巨头竞逐AI，支出承诺总计超2万亿美元；国家外汇管理局： 稳步扩大外汇领域制度型开放；新一代通信网建设加快，千兆光网覆盖超九成国民经济大类；两部门联合印发“十五五”公共机构节能降碳工作方案；电动汽车充电桩CCC认证8月1日起开始强制实施；国务院国资委：深化央企“人工智能+”专项行动，因企制宜培育新兴产业和未来产业；规范互联网渠道售卡管理，运营商停止第三方互联网渠道号卡办理；四部门联合发布22条措施，健全金融机构治理；",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "央行明确下半年重点，亚马逊完成对OpenAI500亿美元投资，欧佩克+宣布增产。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "钛媒体为知名科技媒体，内容具体，涉及多领域政策与公司动态，信息详实，逻辑清晰。"
+    },
+    {
+      "title": "一汽-大众捷达 M6 官图公布，品牌首款纯电轿车",
+      "link": "https://www.ithome.com/0/984/947.htm",
+      "pubDate": "Mon, 03 Aug 2026 03:23:05 GMT",
+      "contentSnippet": "IT之家 8 月 3 日消息，一汽-大众旗下捷达 M6 今日正式亮相，展示了紫色款车色，这是捷达品牌首款纯电轿车。\n\n\nIT之家注意到，一汽-大众捷达 M6 纯电动轿车于上个月在工信部发布第 409 批《道路机动车辆生产企业及产品公告》中公示。该车车身尺寸为长 4806 mm、宽 1868 或 1895 mm、高 1500 mm，轴距 2820 mm，前轮距 1625 mm，后轮距 1620 mm，额定载客 5 人，整备质量根据版本不同分别为 1557 kg 和 1628 kg，轮胎规格为 215/55 R17 或 215/50 R18。\n本次申报的四款车型均为纯电版本：\n\n两款低功率版本驱动",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -186,16 +84,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "华为鸿蒙7实装游戏秒启秒开，支持原神等极速启动。",
+      "aiSummary": "一汽-大众捷达首款纯电轿车M6官图发布，工信部已公示。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家知名科技媒体，内容具体有用户分享和视频佐证，但缺少官方确认和详细技术数据。"
+      "credibilityReason": "IT之家为知名科技媒体，信息具体含尺寸参数，引用工信部公告，但正文不完整。"
     },
     {
-      "title": "吉利汽车集团架构调整 林杰任销售总公司总经理",
-      "link": "https://36kr.com/newsflashes/3921773406268802?f=rss",
-      "pubDate": "2026-08-02 10:34:12  +0800",
-      "contentSnippet": "记者从知情人士处获悉，吉利汽车集团将成立吉利汽车集团销售总公司，由该集团分管营销的高级副总裁林杰担任总经理，并兼任极氪销售公司总经理。据悉，作为集团系统级组织，该销售总公司下设中国星、银河、领克及极氪销售公司等6个集团一级组织。对此，吉利方面表示，新架构将构建“前台更贴近用户和市场、中后台最大化共享”的扁平化、体系化作战模式。（财联社）",
+      "title": "SideQuest 团队宣布“复活”被微软关停的 VR 社交平台 AltspaceVR，将推出全新版本",
+      "link": "https://www.ithome.com/0/984/945.htm",
+      "pubDate": "Mon, 03 Aug 2026 03:22:40 GMT",
+      "contentSnippet": "IT之家 8 月 3 日消息，Meta Quest 平台第三方应用商店 SideQuest 团队宣布，将“复活”曾经风靡一时的社交虚拟现实平台 AltspaceVR，让这款已经关闭多年的 VR 社交应用重新回归。\nIT之家注：AltspaceVR 最初于 2015 年推出，并在 2017 年被微软收购。作为早期较为成功的社交 VR 平台之一，其曾支持 Windows 混合显示设备、三星 Gear VR、Oculus Go、Meta Quest 初代及 Quest 2 等设备。\n\n不过，微软在 2023 年宣布关闭 AltspaceVR，并将相关资源转向基于云端的混合现实协作平台 Microso",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "SideQuest宣布复活微软关闭的VR社交平台AltspaceVR，将推新版。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道具体，但缺乏官方确认和细节，评分中等偏上。"
+    },
+    {
+      "title": "韩国6月份网购销售额增长10%",
+      "link": "https://36kr.com/newsflashes/3923233343041159?f=rss",
+      "pubDate": "2026-08-03 11:19:20  +0800",
+      "contentSnippet": "周一公布的数据显示，受移动设备和汽车需求强劲增长的带动，韩国6月份网络购物销售额同比增长约10%。韩国数据统计部的数据显示，6月份韩国网络购物交易额达到24.6万亿韩元（约合170亿美元），比去年同期增长2.3万亿韩元。报告显示，移动设备销售额增长超过一倍，达到8924亿韩元，这显然得益于三星电子的促销活动。受特斯拉电动汽车强劲销售的推动，汽车及相关产品的支出也飙升56.8%，达到1.19万亿韩元。（新浪财经）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -203,50 +118,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "吉利成立销售总公司，林杰任总经理，推进扁平化体系化作战模式。",
+      "aiSummary": "韩国6月网购销售额同比增长10%，移动设备和汽车需求强劲。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为36氪，引用财联社，信息具体，涉及组织架构和人事任命，但未提供官方直接确认。"
+      "credibilityReason": "来源36氪，引用官方数据，内容具体，但细节略简。"
     },
     {
-      "title": "消息称英特尔发放加班费以加速俄亥俄晶圆厂建设，EMIB-T 封装良率逼近 90%",
-      "link": "https://www.ithome.com/0/984/675.htm",
-      "pubDate": "Sun, 02 Aug 2026 02:31:58 GMT",
-      "contentSnippet": "IT之家 8 月 2 日消息，英特尔目前似乎正全力推动其俄亥俄州晶圆厂综合体建设，并计划在 2031 年实现全面运营。为了达成这一长期目标，公司愿意提供丰厚奖金以激励员工加快进度。与此同时，英特尔的 EMIB-T 先进封装技术也迎来了利好，目前唯一尚未解决的关键问题，就是基板良率。\n\n英特尔正在俄亥俄州建设一座占地约 1000 英亩（IT之家注：约 405 公顷）的大型晶圆厂园区，用于生产其“埃米时代”（Angstrom era）制程节点，包括 18A 和 14A 工艺。\n为了加快这一关键园区的建设进度，据称英特尔目前正在发放高额加班奖金，希望推动该园区最终在 2031 年实现 14A 工艺的",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "英特尔加速俄亥俄晶圆厂建设，EMIB-T封装良率近90%。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家较知名，内容具体，但缺乏原始数据引用和官方确认。"
-    },
-    {
-      "title": "谷歌 Gemini Spark 智能体对全球更多用户开放，支持订机票、整理收件箱等操作",
-      "link": "https://www.ithome.com/0/984/674.htm",
-      "pubDate": "Sun, 02 Aug 2026 02:27:08 GMT",
-      "contentSnippet": "IT之家 8 月 2 日消息，谷歌于 7 月 31 日宣布将 Gemini Spark 智能体开放给全球大部分用户，这款产品能够在用户指示下，完成整理收件箱、总结通讯邮件、取消订阅等操作。\n\nIT之家了解到，Spark 是谷歌推出的个人 AI 智能体。这款产品目前已经和 Chrome 浏览器整合，用户授权后，智能体可以使用保存的账户密码，代替用户完成一些复杂的网络操作，如搜索航班、预订机票、查询收藏房源等。\n同时，Spark 提供两种安全机制，这款智能体首先会防御提示词攻击，并将付款等敏感操作交给用户完成。\n目前，Spark 在所有支持 Gemini 的地区提供服务，但不包括欧洲经济区、尼日利",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "谷歌Gemini Spark智能体全球开放，可订机票、整理收件箱，含安全机制。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家较知名，内容具体，提及日期和功能，但缺少官方链接和细节验证。"
-    },
-    {
-      "title": "无锡：上半年新签约10亿元以上产业项目78个 签约金额1758.38亿元",
-      "link": "https://36kr.com/newsflashes/3921713668566657?f=rss",
-      "pubDate": "2026-08-02 10:15:20  +0800",
-      "contentSnippet": "36氪获悉，据无锡发布公众号8月2日消息，今年，无锡共有56个项目列入省重大实施项目清单，数量较去年增加6个，年度计划投资增加169.8亿元，进入储备库的项目数量增加了8个。全年计划实施的亿元以上产业项目760个，较去年增加66个，同比增长9.5%。上半年新签约10亿元以上产业项目78个，较去年同期增加4个，增长5.4%，签约金额1758.38亿元、同比增长51.8%，其中50亿元以上产业项目7个、较去年同期增加3个，百亿元以上产业项目3个、较去年同期增加2个。",
+      "title": "香港证监会主席黄天祐：港交所国债期货是离岸产品的重大突破",
+      "link": "https://36kr.com/newsflashes/3923229176016521?f=rss",
+      "pubDate": "2026-08-03 11:15:05  +0800",
+      "contentSnippet": "8月3日，在香港交易所举办的中国国债期货上市仪式上，香港证监会主席黄天祐表示，作为目前唯一在离岸市场上市的中国国债期货，这一创举意义深远：一方面，它为全球投资者提供了对冲在岸利率风险的有效工具，助力资产配置的持续优化；另一方面，它能有效提升国债市场的参与度、流动性及定价效率，进一步促进内地与海外市场之间的双向资本流动。因此，国债期货不仅是离岸产品的重大突破，更是内地金融市场推进高水平对外开放、深化人民币国际化进程中，一座举足轻重的里程碑。（证券时报）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -254,10 +135,131 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "无锡上半年新签约10亿元以上项目78个，签约金额1758.38亿元。",
+      "aiSummary": "香港证监会主席称港交所国债期货为离岸产品重大突破，助力人民币国际化。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体36氪，内容具体，引用官方发言，逻辑清晰，时效性强。"
+    },
+    {
+      "title": "荣耀手环 11 系列预售：新品价 229 元起，提供独立 GPS 版本",
+      "link": "https://www.ithome.com/0/984/943.htm",
+      "pubDate": "Mon, 03 Aug 2026 03:14:23 GMT",
+      "contentSnippet": "IT之家 8 月 3 日消息，荣耀手环 11 系列现已开启预售，搭载专业羽毛球模式等专业运动模式，荣耀手环 11 Pro 更支持独立 GPS 定位。\nIT之家整理价格如下：\n\n荣耀手环 11 新品价 229 元\n\n荣耀手环 11 Pro 新品价 299 元\n\n荣耀手环 11 Pro GPS 版新品价 349 元起\n\n\n\n可以看到，荣耀手环 11 系列有标准版、Pro 版、Pro GPS 版可选，其中标准版包含海盐白、芋泥紫、鱼子酱三种颜色可选，Pro 版有杏仁白、可可黑、牛油果三种颜色可选，Pro GPS 版在 Pro 版的基础上，增加一款香蜜棕（皮）。\n荣耀手环 11 采用增强型聚合纤维机身",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "荣耀手环11系列预售，229元起，Pro版支持独立GPS。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为36氪，引用官方公众号数据，信息具体，但缺乏独立核实。"
+      "credibilityReason": "IT之家为知名科技媒体，价格和配置信息具体，但缺乏官方引用和详细技术参数。"
+    },
+    {
+      "title": "DeepSeek-V4-Flash正式版API登陆国家超算互联网",
+      "link": "https://36kr.com/newsflashes/3923225864416902?f=rss",
+      "pubDate": "2026-08-03 11:11:43  +0800",
+      "contentSnippet": "36氪获悉，近日，DeepSeek-V4-Flash正式版API面向公众开启公测，国家超算互联网第一时间同步上线DeepSeek-V4-Flash模型API调用与下载服务。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪",
+        "少数派"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "DeepSeek-V4-Flash正式版API登陆国家超算互联网，开启公测。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体36氪和少数派，信息具体，涉及具体模型和平台，但缺乏技术细节和原始引用。（多源覆盖 +5）"
+    },
+    {
+      "title": "上半年我国新承接海工订单金额同比增长121.9%，占全球市场份额八成以上",
+      "link": "https://36kr.com/newsflashes/3923225048460936?f=rss",
+      "pubDate": "2026-08-03 11:10:53  +0800",
+      "contentSnippet": "自然资源部海洋战略规划与经济司有关负责人今日表示，我国海洋工程装备制造业加速提质升级。上半年，我国新承接海工订单金额同比增长121.9%，占全球市场份额八成以上。高端海工装备建造成果丰硕，我国首座海上移动式多功能措施平台“海洋石油283”交付，全球单机容量最大的16兆瓦漂浮式海上风电平台“三峡领航号”开始安装，世界规模最大海上换流站“海风之心”完成安装，全球首座16兆瓦张力腿浮式风电平台“海油安澜号”顺利出港，另外近期我国企业成功签署2份浮式生产储卸油船EPCIC（设计、采购、建造、安装与调试）总承包合同，我国高端海工装备竞争力迈上新台阶。（证券时报）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "上半年我国海工订单金额增121.9%，占全球八成份额。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为36氪转载证券时报，信息具体有数据支撑，涉及官方部门表态，可信度较高。"
+    },
+    {
+      "title": "KEF LS LUXE 无线 HiFi 扬声器上市，低至 30400 元",
+      "link": "https://www.ithome.com/0/984/941.htm",
+      "pubDate": "Mon, 03 Aug 2026 03:04:45 GMT",
+      "contentSnippet": "IT之家 8 月 3 日消息，音频品牌 KEF 近日推出了 LS LUXE 无线 HiFi 扬声器。这一型号由 KEF 与设计师 Ross Lovegrove  共同打造，拥有流畅、有机的外形。\n\nLS LUXE 结合了 KEF 第 12 代 6.5 英寸 Uni-Q 驱动单元和 MAT 超材料吸收技术，内置电流驱动放大器，支持 VECO 速度控制技术动态校正，拥有自研 DSP 算法 MIE。\n\n其支持 HDMI eARC、光纤、同轴、AUX 输入，支持 384kHz/24bit 高解析度，频率响应 42Hz~28kHz，低频功放功率 280 W、高频功放功率 100W，运作功率 200W。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "KEF与设计师合作推出LS LUXE无线HiFi扬声器，售价30400元起。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道包含具体技术参数和设计合作细节，信息具体可信。"
+    },
+    {
+      "title": "阿里“千问办公”开启公测",
+      "link": "https://36kr.com/newsflashes/3923216741756293?f=rss",
+      "pubDate": "2026-08-03 11:02:26  +0800",
+      "contentSnippet": "36氪获悉，阿里巴巴旗下企业级Agent产品“千问办公”（QwenWork）开启公测。目前网页版和独立PC客户端已开放，钉钉PC端和手机端内置入口近期也将开放。用户可在“千问办公”体验阿里最新旗舰模型Qwen3.8。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪",
+        "IT之家"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "阿里企业级Agent产品千问办公开启公测，支持Qwen3.8模型。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体，信息具体，但缺乏官方链接和详细技术细节。（多源覆盖 +5）"
+    },
+    {
+      "title": "OpenAI下一代模型Astra曝光，以2000美元算力成本破解十项数学难题",
+      "link": "https://36kr.com/newsflashes/3923212228292232?f=rss",
+      "pubDate": "2026-08-03 10:57:51  +0800",
+      "contentSnippet": "OpenAI当地时间8月1日发布有关数学和理论计算机科学的十项突破，这些成果由其下一代主要模型Astra的内部版本实现。按照Sol API的费率计算，找到这些问题的解决方案所需总词元（tokens）成本约为2000美元。十项突破涵盖高维球体堆积密度上限、二进制与球面码界限提升、非纯索菲群存在性证明、康涅斯刚性猜想的推翻、算术电路复杂性新下界、量子平行重复定理、最近向量问题的多项式因子近似难度证明、埃尔哈特体积猜想、多色拉姆齐数的超指数下界，以及极值数猜想等。（界面）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "OpenAI下一代模型Astra以2000美元算力成本破解十项数学难题。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪知名科技媒体，内容具体列出十项突破，但未提供原始论文或官方链接，细节有限。"
+    },
+    {
+      "title": "领克 10 EM-P 鎏光金车色将于 8 月 10 日下架，售后不受影响",
+      "link": "https://www.ithome.com/0/984/940.htm",
+      "pubDate": "Mon, 03 Aug 2026 02:57:15 GMT",
+      "contentSnippet": "IT之家 8 月 3 日消息，领克汽车今日发布领克 10 EM-P 答网友问第十一期，确认将进行车色调整。自 2026 年 8 月 10 日 10:00 起，领克官方商城将正式下架鎏光金车色。\n\n▲ 鎏光金车色\n公告称，为进一步优化生产流程，结合用户实际偏好和交付效率的综合考量，我们计划于近期对领克 10EM-P 的可选颜色方案进行调整。自 2026 年 8 月 10 日 10:00 起，领克官方商城将正式下架鎏光金车色。下架后，通过商城下订领克 10 EM-P 新车将不再提供该车色的选配选项。\nIT之家注意到，对于有意选购鎏光金车色的用户，官方建议于 2026 年 8 月 10 日 10:0",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "领克10 EM-P鎏光金车色8月10日下架，售后不受影响。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家知名科技媒体，内容具体有官方公告细节，逻辑清晰，但缺乏原始链接和深度分析。"
     }
   ]
 }
