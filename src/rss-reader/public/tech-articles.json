@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-04T02:52:48.877Z",
+  "generatedAt": "2026-08-05T02:49:53.466Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "泸溪河食品在上海成立新商贸公司，注册资本3000万",
-      "link": "https://36kr.com/newsflashes/3924607686211713?f=rss",
-      "pubDate": "2026-08-04 10:37:23  +0800",
-      "contentSnippet": "36氪获悉，天眼查App显示，近日，泸溪河（上海）商贸有限公司成立，法定代表人为程建华，注册资本3000万人民币，经营范围包括日用百货销售、供应链管理服务、国内贸易代理、技术进出口等。股东信息显示，该公司由泸溪河食品（集团）有限公司全资持股。",
+      "title": "36氪首发 | 大疆前高管押注个人出行机器人，累计融资近亿美元",
+      "link": "https://36kr.com/p/3926003098843272?f=rss",
+      "pubDate": "2026-08-05 10:17:16  +0800",
+      "contentSnippet": "作者 | 张子怡\n编辑 | 袁斯来\n硬氪获悉，AI智能硬件与机器人企业「若创科技」（英文名：Strutt）近日完成Pre-A+轮融资，累计融资金额近亿美元。本轮融资获得全球领先出行科技企业、国内头部互联网企业旗下投资基金及大湾区代表性产业基金共同加码。\n本轮融资资金将主要用于个人物理AI技术研发、全球营销与销售渠道建设，以及首款个人智能出行机器人EV1的规模化生产和交付。同时，公司正式启用中文品牌“昂首”，首款个人出行机器人在中国市场的官方命名为“昂首EV1”，计划于2026年下半年启动中国市场业务，目前已开放首批试驾报名。\n若创科技成立于2023年，总部位于新加坡，研发与供应链基地位于中国大",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -16,53 +16,187 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "泸溪河食品在上海成立新商贸公司，注册资本3000万。",
-      "credibilityScore": 75,
+      "aiSummary": "大疆前高管创立的若创科技完成近亿美元融资，推出个人出行机器人昂首EV1。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪知名科技媒体，信息具体含注册资本、法人、股东，但未提供原始工商链接。"
+      "credibilityReason": "来源为知名科技媒体36氪，信息具体含融资额、产品名及时间，逻辑清晰，但缺乏技术细节和原始出处。"
     },
     {
-      "title": "中美 AI 大模型竞争加剧：OpenAI 等海外巨头大幅降价对标 Kimi、DeepSeek",
-      "link": "https://www.ithome.com/0/985/312.htm",
-      "pubDate": "Tue, 04 Aug 2026 01:12:20 GMT",
-      "contentSnippet": "IT之家 8 月 4 日消息，人工智能行业已经进入一个新的发展阶段。为了应对来自中国新一代模型（例如月之暗面的 Kimi K3 和 DeepSeek 的 V4 Flash）的竞争，全球主要 AI 企业正在大幅降低产品价格，同时提升入门级模型的能力。\n\n最近采取这一策略的是 OpenAI。该公司将基础前沿模型 ChatGPT 5.6 Luna 的价格降低了 80%（按每百万 Token 计算），同时将中端模型 5.6 Terra 的价格下调了 20%。而就在一周多前，谷歌刚刚推出了价格更低的 Gemini 3.6 Flash 和 3.5 Flash-Lite 模型。Anthropic 虽然没有直",
+      "title": "“车企牌”电池相继上车，不只是PK宁德时代",
+      "link": "https://36kr.com/p/3925382191708552?f=rss",
+      "pubDate": "2026-08-04 23:46:22  +0800",
+      "contentSnippet": "“车企牌”电池正在不断涌现，并交付上车。鸿蒙智行推出了巨鲸电池，理想汽车推出了理想牌电池，不久前的7月30日晚，小米正式对外发布了龙甲电池。\n车企正试图通过自有电池品牌，将电池的每个技术点攥在手中，并抢占用户心智。\n这些汽车品牌的统一做法，就是“穿透式管理”，从电芯到电池包的技术和性能标准，车企全部主导定义，甚至部分参与电芯材料开发，并对核心供应链和生产制造环节全流程介入和监管。换句话说，“车企牌”电池是车企技术和标准的全面贯彻。\n“甚至电池厂的核心岗位招聘，车企都要参与面试把关。”有行业人士透露。\n这与过往的动力电池合作有着明显区别。据36氪了解，长期以来，头部动力电池公司如宁德时代等凭借技",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "车企自研电池品牌涌现，穿透式管理挑战宁德时代等供应商。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪知名科技媒体，内容具体，有行业人士引用，逻辑清晰。"
+    },
+    {
+      "title": "36氪首发 | 为果链、头部灵巧手公司供货，新型减速器厂商完成超亿元融资，估值破10亿",
+      "link": "https://36kr.com/p/3924628805351811?f=rss",
+      "pubDate": "2026-08-04 10:59:50  +0800",
+      "contentSnippet": "作者 | 乔钰杰\n编辑 | 袁斯来\n硬氪获悉，精密减速器企业陶世智能科技有限公司（以下简称“陶世”）近日完成超亿元融资。本轮融资由国创集团，海川聚义，杭州众燊，新智资本参与，德太资本担任财务顾问。融资资金将主要用于产品研发、产线扩建以及机器人领域市场拓展。\n陶世成立于2016年，总部位于深圳，主要研发和生产正交90度微型减速器及机器人关节模组。公司核心产品为微型环面包络蜗轮蜗杆减速器，通过将减速与转角功能集成在单一结构中，实现更小体积、更高精度的动力传输。\n目前，陶世产品已进入多家消费电子与智能制造领域头部企业的供应链，并在人形机器人领域与近百家上下游企业建立合作。其中，面向灵巧手推出的关节模",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "陶世智能完成超亿元融资，估值破10亿，用于机器人领域拓展。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体36氪，内容具体，包含融资细节、产品技术及合作信息，逻辑清晰，可信度较高。"
+    },
+    {
+      "title": "ID-COOLING 七热管双 140mm 扇风冷 FROZN A720 BLACK 上市，329 元",
+      "link": "https://www.ithome.com/0/985/848.htm",
+      "pubDate": "Wed, 05 Aug 2026 02:46:14 GMT",
+      "contentSnippet": "IT之家 8 月 5 日消息，ID-COOLING（酷凛）现已在国行渠道推出霜格 A720 处理器风冷散热器，售价 329 元。这一型号也就是IT之家早有报道的 FROZN A720 BLACK，标称解热能力可达 300W，享受 3 年质保。\n\nFROZN A720 BLACK 采用双塔双风扇结构，搭载 7 根 6mm 直径热管、2 颗 14025 外形规格风扇，拥有锯齿鳍片和同心圆纹理铜质底座。其在标准模式下高度为 163mm，兼容 28mm 内存；可配置为全高 170mm 兼容 34mm 内存模式。\n\n这款风冷散热器原装风扇采用 FDB 轴承，转速区间 500~1800 RPM，最大风量",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "ID-COOLING推出七热管双140mm风扇风冷散热器，售价329元，解热能力300W。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家知名科技媒体，产品参数具体，逻辑清晰，但缺少第三方测试数据。"
+    },
+    {
+      "title": "小米申请注册澎程N70商标",
+      "link": "https://36kr.com/newsflashes/3926029000013956?f=rss",
+      "pubDate": "2026-08-05 10:43:13  +0800",
+      "contentSnippet": "36氪获悉，天眼查知识产权信息显示，近日，小米科技有限责任公司申请注册“SKYNOMAD N90 MAX LUXE”“澎程 N70”“SKYNOMAD N90 MAX STUDIO”“SKYNOMAD N70”商标，国际分类涉及健身器材、地毯席垫等，当前状态均为等待实质审查。",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "小米申请注册澎程N70等商标，涉及健身器材等类别。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源36氪知名科技媒体，信息具体，引用天眼查数据，但未深入分析，评分中等偏上。"
+    },
+    {
+      "title": "韶音 OpenDots 2 开放式运动耳机新增“落樱粉”配色，首发价 1168.2 元",
+      "link": "https://www.ithome.com/0/985/846.htm",
+      "pubDate": "Wed, 05 Aug 2026 02:38:06 GMT",
+      "contentSnippet": "IT之家 8 月 5 日消息，韶音现已为旗下 OpenDots 2 耳机新增一款“落樱粉”配色，定价为 1598 元，首发价 1168.2 元，将于 8 月 12 日 10 点首销。\n\n一抹新粉，如落樱般点睛耳畔。\n京东韶音 OpenDots 2 落樱粉 1168.2 元直达链接\n\n耳机本体方面，该产品外观方面使用不对称弧形设计，动钛弧自带 9g 预紧力，内置 11.8mm 对称双单元，失真相比上一代优化 70%；搭载全新升级杜比音效。耳机内置 AI 通话降噪技术；支持无线充电，耳机续航 10 小时，搭配充电盒续航 40 小时。\n\nIT之家附产品参数：",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "韶音OpenDots 2新增落樱粉配色，首发价1168.2元，8月12日开售。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道具体参数和价格，信息清晰，但缺少原始官方链接和深度分析。"
+    },
+    {
+      "title": "三星 One UI 9.5 横幅设计曝光：配方形 / 宽幅 / 宽高 3 种方案",
+      "link": "https://www.ithome.com/0/985/845.htm",
+      "pubDate": "Wed, 05 Aug 2026 02:35:50 GMT",
+      "contentSnippet": "IT之家 8 月 5 日消息，科技媒体 sammyguru 昨日（8 月 4 日）发布博文，报道称伴随着 One UI 9 的开发工作接近尾声，三星的研发重心开始转向 One UI 9.5 系统。\n消息源在博文中分享了一张 One UI 9.5 的横幅设计图片，称三星设计了 3 种尺寸：\n\n方形（square）：主要适用于常规手机屏幕\n\n宽幅（wide）：适用于 Galaxy Z Fold8 阔折叠手机以及平板电脑\n\n宽高（wide tall）：适用于 Galaxy Tab S11 Ultra 等更大屏幕平板电脑。\n\n图案使用青绿色、蓝色和亮粉色 3 种主题色。色彩沿着 3 个图形的边缘分布，",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "三星One UI 9.5横幅设计曝光，提供方形、宽幅、宽高三种尺寸方案。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体，但依赖单一消息源，缺乏官方确认。"
+    },
+    {
+      "title": "韩国检方调查石化企业涉嫌价格串通，LG化学等7家公司遭搜查",
+      "link": "https://36kr.com/newsflashes/3926018347595906?f=rss",
+      "pubDate": "2026-08-05 10:32:23  +0800",
+      "contentSnippet": "韩国首尔中央地方检察厅公平贸易调查部8月5日对LG化学、韩华解决方案、爱敬化学、OCI、乐天精密化学、PKC、UNID等7家石化企业及相关人员展开扣押搜查，调查其涉嫌对多种石油化工产品进行价格串通。检方怀疑上述企业多年间就PVC、增塑剂、烧碱、盐酸等8类产品的价格上涨进行事前协商。此前，韩国公平交易委员会已于今年5月发现相关涉嫌串通线索，并启动现场调查。（界面）",
+      "sourceName": "36氪",
+      "sourceWeight": 88,
+      "allSources": [
+        "36氪"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "韩国检方搜查7家石化企业，涉嫌价格串通。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为36氪，内容具体，引用界面新闻，涉及具体企业、产品及时间，信息详实。"
+    },
+    {
+      "title": "WIKO 推出新款 Hi MateBook D 16 笔记本：R7 H 255 + 24G + 512G 售 6199 元",
+      "link": "https://www.ithome.com/0/985/842.htm",
+      "pubDate": "Wed, 05 Aug 2026 02:29:34 GMT",
+      "contentSnippet": "IT之家 8 月 5 日消息，WIKO 现已在京东为旗下 Hi MateBook D 16 笔记本新增锐龙 200 版本，该机搭载锐龙 7 H 255 处理器，匹配 24GB RAM 和 512GB SSD，定价为 6199 元。\n京东 WIKO Hi Matebook D 16 锐龙版笔记本 6199 元直达链接\n\n\n该机提供皓月银和极夜灰两种配色，B 面配备一块 16 英寸 1920x1200 分辨率 60Hz IPS LCD 面板（亮度 300 尼特），C 面采用 1.5mm 键程键盘，带有数字小键盘设计。\n\n\n该机搭载 8 核心 16 线程 AMD 锐龙 7 H 255 处理器，提供",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "WIKO推出Hi MateBook D 16锐龙版，R7 H 255+24G+512G售6199元。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道具体配置和价格，但缺少官方来源和深度分析。"
+    },
+    {
+      "title": "打官司、挖人，苹果和OpenAI的硬件大战才刚开始",
+      "link": "https://www.tmtpost.com/8091859.html",
+      "pubDate": "Wed, 05 Aug 2026 10:27:59 +0800",
+      "contentSnippet": "说苹果走错了路，OpenAI自己却带着400名苹果老兵，重走苹果的路",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "苹果与OpenAI硬件竞争升级，OpenAI挖角苹果员工并重走其路线。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体，内容具体但缺乏数据支撑和原始引用。"
+    },
+    {
+      "title": "韩 ASIC 企业 FuriosaAI 获得瑞典数据中心 7000 块芯片订单",
+      "link": "https://www.ithome.com/0/985/834.htm",
+      "pubDate": "Wed, 05 Aug 2026 02:27:52 GMT",
+      "contentSnippet": "IT之家 8 月 5 日消息，韩国 AI ASIC 芯片设计企业 FuriosaAI 当地时间宣布与 I/ONX HPC、Velox 三方合作在瑞典斯德哥尔摩打造一座 AI 数据中心。\n\nIT之家获悉，这一由 Velox 开发、管理、运营的项目已于近期动工，总电力容量 15MW，其中关键 IT 容量 10MW，首批 2MW 算力预计 2027 年初上线，同年内增加到 10MW。\nFuriosaAI 将为该项目提供合计 7000 块 RNGD 加速器。这些加速器将与来自 NVIDIA、AMD 的等量 GPU 一道构成异构算力基础设施，由 I/ONX HPC 的 Symphony SixtyFou",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
         "IT之家",
-        "量子位",
-        "少数派",
-        "Solidot"
+        "钛媒体"
       ],
-      "coverageCount": 4,
-      "coverageBoost": 15,
-      "aiSummary": "中美AI竞争加剧，OpenAI等海外巨头降价应对中国模型挑战。",
-      "credibilityScore": 100,
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "韩国AI芯片企业FuriosaAI获瑞典数据中心7000块RNGD加速器订单，用于异构算力基础设施。",
+      "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，信息具体含价格降幅和模型名称，逻辑清晰，但缺乏原始数据引用。（多源覆盖 +15）"
+      "credibilityReason": "来源为知名科技媒体，信息具体（订单数量、电力容量、时间表），逻辑清晰，但缺乏原始官方链接和第三方验证。（多源覆盖 +5）"
     },
     {
-      "title": "主播称“江小白不是白酒”，东方甄选被判商业诋毁赔偿 30 万元",
-      "link": "https://www.ithome.com/0/985/309.htm",
-      "pubDate": "Tue, 04 Aug 2026 01:00:17 GMT",
-      "contentSnippet": "IT之家 8 月 4 日消息，最高人民法院 8 月 3 日发布依法规范平台经营、保护消费者合法权益典型案例，其中首次披露了两年前江小白起诉东方甄选案的判决结果。\n2024 年 9 月，重庆江小白酒业有限公司与东方甄选关联公司东方优选（北京）科技有限公司相关不正当竞争纠纷案件新增开庭公告，原告为重庆江小白酒业有限公司。\n综合IT之家此前报道，事件的起因是东方甄选的主播“天权”在直播过程中发表了“江小白不是粮食酒（白酒）”相关言论，引起了江小白方面的强烈不满。\n\n在涉事主播发布道歉函后，江小白酒业 2024 年 8 月 9 日在回应声明中称，该道歉函存在掩盖事实意图，道歉态度不诚恳，将进一步通过投",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "东方甄选主播言论被认定商业诋毁，判赔江小白30万元。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用最高法案例，信息具体，逻辑清晰。"
-    },
-    {
-      "title": "前安克3D打印业务负责人要做B端工具产品，获数千万融资｜36氪首发",
-      "link": "https://36kr.com/p/3923371035831684?f=rss",
-      "pubDate": "2026-08-03 13:40:12  +0800",
-      "contentSnippet": "文｜张子怡\n编辑｜袁斯来\n36氪获悉，3D打印智能制造品牌「轻量智造（LightMake）」连续完成两轮共计超2500万元人民币融资，投资机构有海目星激光老板家族办公室、南山资本、卓源亚洲、朗翰资本。本轮融资资金主要用于产品研发、供应链体系搭建以及全球市场推广。\n「轻量智造」成立于2025年，团队为中高端SMB（中小型企业）与Pro C（专业个人）用户研发生产桌面化、小型的“轻量化制造工具”，初代产品LightMake为独立四头3D打印机，目前已在Kickstarter平台上众筹，定价为2399美金。\n凭借极致的易用性和多色打印技术，消费级3D打印市场迎来了前所未有的爆发。海关数据显示，今年1",
+      "title": "SpaceX拟建地面基础设施与卫星网络互补，向美国电信三巨头发起挑战",
+      "link": "https://36kr.com/newsflashes/3926009821182086?f=rss",
+      "pubDate": "2026-08-05 10:23:42  +0800",
+      "contentSnippet": "SpaceX详细阐述了拟通过建设地面基础设施与卫星互联网服务互补，从而直接与美国最大移动通信运营商展开竞争的计划。当地时间8月4日，SpaceX总裁兼首席运营官格温·肖特韦尔（Gwynne Shotwell）在公司首次财报电话会议上表示，全美三大运营商AT&T、Verizon和T-Mobile每年创造的营收高达数千亿美元。“我预计我们能够吸引到他们相当一部分客户，因为我认为我们的服务会更好，”她说。“我对Starlink Mobile的未来发展感到非常兴奋。”（界面）",
       "sourceName": "36氪",
       "sourceWeight": 88,
       "allSources": [
@@ -70,169 +204,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "轻量智造获超2500万元融资，专注B端桌面3D打印工具。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪，信息具体含融资额、产品细节，但缺少原始出处和深度技术分析。"
-    },
-    {
-      "title": "消息称三星 Galaxy S27 Ultra 手机导入镜头喷墨工艺：减薄相机凸起，提高成像质量",
-      "link": "https://www.ithome.com/0/985/384.htm",
-      "pubDate": "Tue, 04 Aug 2026 02:50:54 GMT",
-      "contentSnippet": "IT之家 8 月 4 日消息，科技媒体 ZDNet Korea 昨日（8 月 3 日）发布博文，报道称在 Galaxy S27 Ultra 旗舰手机上，三星计划升级摄像头模组制造方案，将内部反光膜替换为镜头喷墨工艺，从而降低光学模组高度，以及提高成像质量。\nIT之家援引博文介绍，镜头由接收光线的区域（光学平面）、构成光学平面外侧的“棱片”以及棱片相互交错的“棱片平面”组成。\n当来自不同方向的光线照射到棱片后，部分光线会被反射回来。当这些反射光到达图像传感器时，就会产生光反射（眩光）和重叠（鬼影）现象。\n为了防止这种光反射，行业主流做法是在棱片平面上贴一层薄膜，而且伴随着相机升级，增加传感器面积",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "IT之家 8 月 4 日消息，科技媒体 ZDNet Korea 昨日（8 月 3",
-      "credibilityScore": 51,
-      "credibilityLevel": "low",
-      "credibilityReason": "AI 处理失败，使用来源权重作为默认评分"
-    },
-    {
-      "title": "Sensor Tower：上半年全球合成手游收入突破21亿美元",
-      "link": "https://36kr.com/newsflashes/3924619908905344?f=rss",
-      "pubDate": "2026-08-04 10:49:49  +0800",
-      "contentSnippet": "36氪获悉，Sensor Tower应用表现洞察数据显示，2026年上半年，全球合成手游收入突破21亿美元，成为解谜品类中第二大收入子品类，其中二合手游贡献超过90%的品类收入。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "Sensor Tower数据显示上半年全球合成手游收入破21亿美元，二合手游占九成。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪知名科技媒体，引用Sensor Tower数据，信息具体，逻辑清晰。"
-    },
-    {
-      "title": "移动联通电信三大运营商停止第三方网售号卡后，中国广电低价大流量卡热销",
-      "link": "https://www.ithome.com/0/985/382.htm",
-      "pubDate": "Tue, 04 Aug 2026 02:48:42 GMT",
-      "contentSnippet": "IT之家 8 月 4 日消息，中国移动、中国联通、中国电信 7 月 31 日晚发布“关于规范互联网渠道售卡管理的公告”，自 2026 年 8 月 1 日起，用户如需在互联网渠道订购号卡，只能通过电信运营商官方 App、官方网站等渠道办理，第三方互联网渠道不再提供电信号卡办理相关服务。\n据北京日报今日报道，中国移动、中国电信、中国联通全面停止通过第三方互联网渠道销售号卡，一夜之间电商平台低价大流量卡批量下架。国内第四大运营商中国广电的低价大流量卡仍在多个平台活跃销售，且销量有所攀升。但多位专家指出，广电的低价大流量卡同样可能逐步收紧。\n在一家电商平台，“29 元 192GB 全国流量”“19 元",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "三大运营商停止第三方网售号卡，广电低价大流量卡热销但或收紧。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用北京日报，信息具体，逻辑清晰，时效性强。"
-    },
-    {
-      "title": "飞傲雪漫天推出“FH3 鹿鸣”一圈二铁三单元入耳式有线耳机，499 元",
-      "link": "https://www.ithome.com/0/985/381.htm",
-      "pubDate": "Tue, 04 Aug 2026 02:47:51 GMT",
-      "contentSnippet": "IT之家 8 月 4 日消息，飞傲旗下雪漫天现已在天猫上架一款“FH3 鹿鸣”一圈二铁三单元入耳式有线耳机，定价为 499 元。\n\n该耳机号称是飞傲首款风格化企划耳塞，采用定制一圈两铁三单元设计，带有 10mm 天然羊绒复合木纤维振膜动圈，主打复古暖声、流行人声取向。\n\n\n飞傲称，其首次邀请众多资深烧友深度参与鹿鸣的调音，广泛调研听感并综合采纳试听反馈，历经 20+ 次版本迭代，从而提供受众更为广泛的复古听感，呈现自带温暖氛围的声底和宽松耐听的人声音色，唤醒黄金年代的听歌记忆。\n同时，为了降低歌曲中常见的齿音对听觉的刺激，保留歌曲中最动听的人声细节，工程师专门设计了一套处理齿音的声学方案。以高",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "飞傲推出FH3鹿鸣耳机，499元，一圈二铁三单元，主打复古暖声。",
+      "aiSummary": "SpaceX拟建地面设施与卫星互补，挑战美国电信三巨头。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家较知名，内容具体含配置和定价，但缺乏实测和原始数据支撑。"
+      "credibilityReason": "来源36氪知名科技媒体，引用高管言论，但缺乏具体技术细节和数据支撑。"
     },
     {
-      "title": "创业板指涨超4%",
-      "link": "https://36kr.com/newsflashes/3924617622272132?f=rss",
-      "pubDate": "2026-08-04 10:47:29  +0800",
-      "contentSnippet": "36氪获悉，创业板指涨超4%，沪指跌0.04%，深成指涨2.28%，算力硬件、医药医疗、半导体芯片等方向涨幅居前，沪深京三市上涨个股超3600只。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "创业板指涨超4%，算力、医药、半导体领涨。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪知名科技媒体，数据具体，但缺乏深度分析，时效性强。"
-    },
-    {
-      "title": "美国政府完成先进 AI 模型自愿性评估框架制定，内容未公开",
-      "link": "https://www.ithome.com/0/985/380.htm",
-      "pubDate": "Tue, 04 Aug 2026 02:45:57 GMT",
-      "contentSnippet": "IT之家 8 月 4 日消息，据 Axios 报道，美国政府当地时间周一表示，已经按期完成了一项针对先进 AI 模型评估的自愿性框架制定工作。但白宫并未透露该框架具体包含哪些内容、哪些机构或企业已经查看过，以及企业何时会开始采用这一框架。\n\nIT之家注意到，政策制定者、AI 安全倡导者以及美国盟友都在等待了解，全球最强大 AI 模型将受到怎样的监管规则约束。白宫方面表示：“6 月 2 日行政命令中提出的自愿性框架已经在截止日期前完成。”\n一名白宫官员表示：“目前正在与行业讨论下一步计划。”他补充称，政府正在与“远不止 Anthropic、OpenAI 和谷歌”的更多行业合作伙伴展开接触。\n在截",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "IT之家 8 月 4 日消息，据 Axios 报道，美国政府当地时间周一表示，已",
-      "credibilityScore": 51,
-      "credibilityLevel": "low",
-      "credibilityReason": "AI 处理失败，使用来源权重作为默认评分"
-    },
-    {
-      "title": "宝可梦开发商 Game Freak 新作《轮回之兽》获 IGN 6 分：游戏设计重复性高、令人乏味",
-      "link": "https://www.ithome.com/0/985/375.htm",
-      "pubDate": "Tue, 04 Aug 2026 02:39:22 GMT",
-      "contentSnippet": "IT之家 8 月 4 日消息，宝可梦开发商 GAME FREAK inc. 的全新动作角色扮演游戏《轮回之兽（Beast of Reincarnation）》于今天正式发售，国区定价 248 元起，本作全球媒体评测现已解禁。\n\n截至IT之家发稿，本作在 Metacritic 上 PS5 版均分 73（暂由 51 家媒体给出），PC 版 72 分（暂由 26 家媒体给出）。\n\nIGN 给予这款游戏 6 分，认为游戏设定具有吸引力，但实际上设计上重复性较高，令人乏味：\n\n《轮回之兽》拥有一个极具吸引力的末世设定，单从概念来看，它完全具备成为一款优秀作品的潜力。然而实际体验后却会发现，这些精彩点子并",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "宝可梦开发商新作《轮回之兽》获IGN 6分，因设计重复性高而乏味。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，信息具体，引用Metacritic和IGN评分，逻辑清晰。"
-    },
-    {
-      "title": "沪深两市成交额突破1万亿元",
-      "link": "https://36kr.com/newsflashes/3924608549075337?f=rss",
-      "pubDate": "2026-08-04 10:38:16  +0800",
-      "contentSnippet": "36氪获悉，沪深两市成交额突破1万亿元，较上一个交易日此时缩量超150亿元。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "沪深两市成交额破万亿，较昨日缩量超150亿。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪为知名科技媒体，数据具体，但缺乏原始出处和深度分析。"
-    },
-    {
-      "title": "联想来酷斗战者战 7000X 轻薄游戏本上市，首发 + 国补 7904.15 元起",
-      "link": "https://www.ithome.com/0/985/371.htm",
-      "pubDate": "Tue, 04 Aug 2026 02:37:38 GMT",
-      "contentSnippet": "IT之家 8 月 4 日消息，联想 (Lenovo) 来酷 (Lecoo) 斗战者 (BELLATOR) 轻薄游戏笔记本电脑新品战 7000X 现已上市。其提供 4 个配置，首发期优惠 + 国家补贴后到手价 7904.15 元起。\n\n战 7000X 采用 16\" 机身，可选英特尔酷睿 Ultra 7 251HX / 酷睿 7 245HX 处理器，全系搭载 NVIDIA GeForce RTX 5060 笔记本电脑 GPU，轻约 1.99kg、薄约 18.95mm，支持至高 180W 整机性能释放。\n其搭载一块 2560×1600 180Hz 500nits 屏幕，色域覆盖 100% sRGB；",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "IT之家 8 月 4 日消息，联想 (Lenovo) 来酷 (Lecoo) 斗战",
-      "credibilityScore": 51,
-      "credibilityLevel": "low",
-      "credibilityReason": "AI 处理失败，使用来源权重作为默认评分"
-    },
-    {
-      "title": "千问办公，阿里准备用来打谁？",
-      "link": "https://www.tmtpost.com/8089993.html",
-      "pubDate": "Tue, 04 Aug 2026 10:35:12 +0800",
-      "contentSnippet": "企业级AI办公是阿里的牌局。",
+      "title": "工业具身智能已经进厂发挥价值了丨ToB产业观察",
+      "link": "https://www.tmtpost.com/8090638.html",
+      "pubDate": "Wed, 05 Aug 2026 10:20:55 +0800",
+      "contentSnippet": "具身智能行业正在经历一场方向性的收敛，而工业场景已经是能发挥价值的场景了。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -240,27 +221,44 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "企业级AI办公是阿里的牌局。",
-      "credibilityScore": 49,
-      "credibilityLevel": "low",
-      "credibilityReason": "AI 处理失败，使用来源权重作为默认评分"
+      "aiSummary": "具身智能行业方向收敛，工业场景已能发挥实际价值。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "钛媒体为知名科技媒体，内容具体且聚焦行业趋势，但缺乏数据支撑和原始引用。"
     },
     {
-      "title": "奶茶卷不动了，“躺平”反而爆了？",
-      "link": "https://www.tmtpost.com/8090019.html",
-      "pubDate": "Tue, 04 Aug 2026 10:35:04 +0800",
-      "contentSnippet": "冰奶走红启示录。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "《黑神话：悟空》史低价：全平台数字版本即将开启七折优惠",
+      "link": "https://www.ithome.com/0/985/818.htm",
+      "pubDate": "Wed, 05 Aug 2026 02:20:35 GMT",
+      "contentSnippet": "IT之家 8 月 5 日消息，《黑神话》系列游戏官方微博今日宣布，《黑神话：悟空》全平台数字版本（标准版、豪华版、豪华升级包）即将开启七折优惠。此次为本作发售以来第三次官方折扣，创下最新史低价格。\n\nIT之家附各平台具体打折时间如下：\n\nPlayStation Store：8 月 12 日 - 8 月 26 日\n\n微软商店、Steam、Epic 游戏商城、WeGame：8 月 12 日 0 时 - 8 月 25 日 24 时（北京时间）\n\n《黑神话：悟空》是由杭州游科互动科技有限公司开发的西游题材动作角色扮演游戏，于 2024 年 8 月 20 日正式登陆 PC 、PS5 平台。该作通常被媒体",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "钛媒体"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "冰奶走红启示录。",
-      "credibilityScore": 49,
-      "credibilityLevel": "low",
-      "credibilityReason": "AI 处理失败，使用来源权重作为默认评分"
+      "aiSummary": "《黑神话：悟空》全平台数字版将开启七折史低价优惠，8月12日起各平台陆续开始。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息具体含平台与时间，引用官方微博，逻辑清晰。"
+    },
+    {
+      "title": "微软酝酿 Win11 26H2 更新，版本号将升至 Build 26340.x",
+      "link": "https://www.ithome.com/0/985/817.htm",
+      "pubDate": "Wed, 05 Aug 2026 02:19:19 GMT",
+      "contentSnippet": "IT之家 8 月 5 日消息，科技媒体 The WinCentral 昨日（8 月 4 日）发布博文，报道称微软计划面向 Experimental 通道 Windows Insider 项目成员，推送 Windows 11 26H2 Build 26340.xxxx 预览版。\nIT之家注：基于微软目前的发行策略，Windows 11 的三大版本分支如下：\n\nWindows 11 24H2：源码分支属于鍺（Germanium），Build 版本号前缀为 26100\n\nWindows 11 25H2：源码分支属于鍺（Germanium），Build 版本号前缀为 26200\n\nWindows 11",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微软计划推送Win11 26H2预览版，版本号升至Build 26340.x。",
+      "credibilityScore": 75,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源IT之家较知名，内容具体但缺少官方确认，技术细节有限。"
     }
   ]
 }
