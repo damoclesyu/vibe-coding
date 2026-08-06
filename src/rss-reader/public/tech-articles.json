@@ -1,65 +1,14 @@
 {
-  "generatedAt": "2026-08-05T02:49:53.466Z",
+  "generatedAt": "2026-08-06T02:53:04.065Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "36氪首发 | 大疆前高管押注个人出行机器人，累计融资近亿美元",
-      "link": "https://36kr.com/p/3926003098843272?f=rss",
-      "pubDate": "2026-08-05 10:17:16  +0800",
-      "contentSnippet": "作者 | 张子怡\n编辑 | 袁斯来\n硬氪获悉，AI智能硬件与机器人企业「若创科技」（英文名：Strutt）近日完成Pre-A+轮融资，累计融资金额近亿美元。本轮融资获得全球领先出行科技企业、国内头部互联网企业旗下投资基金及大湾区代表性产业基金共同加码。\n本轮融资资金将主要用于个人物理AI技术研发、全球营销与销售渠道建设，以及首款个人智能出行机器人EV1的规模化生产和交付。同时，公司正式启用中文品牌“昂首”，首款个人出行机器人在中国市场的官方命名为“昂首EV1”，计划于2026年下半年启动中国市场业务，目前已开放首批试驾报名。\n若创科技成立于2023年，总部位于新加坡，研发与供应链基地位于中国大",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "大疆前高管创立的若创科技完成近亿美元融资，推出个人出行机器人昂首EV1。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，信息具体含融资额、产品名及时间，逻辑清晰，但缺乏技术细节和原始出处。"
-    },
-    {
-      "title": "“车企牌”电池相继上车，不只是PK宁德时代",
-      "link": "https://36kr.com/p/3925382191708552?f=rss",
-      "pubDate": "2026-08-04 23:46:22  +0800",
-      "contentSnippet": "“车企牌”电池正在不断涌现，并交付上车。鸿蒙智行推出了巨鲸电池，理想汽车推出了理想牌电池，不久前的7月30日晚，小米正式对外发布了龙甲电池。\n车企正试图通过自有电池品牌，将电池的每个技术点攥在手中，并抢占用户心智。\n这些汽车品牌的统一做法，就是“穿透式管理”，从电芯到电池包的技术和性能标准，车企全部主导定义，甚至部分参与电芯材料开发，并对核心供应链和生产制造环节全流程介入和监管。换句话说，“车企牌”电池是车企技术和标准的全面贯彻。\n“甚至电池厂的核心岗位招聘，车企都要参与面试把关。”有行业人士透露。\n这与过往的动力电池合作有着明显区别。据36氪了解，长期以来，头部动力电池公司如宁德时代等凭借技",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "车企自研电池品牌涌现，穿透式管理挑战宁德时代等供应商。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪知名科技媒体，内容具体，有行业人士引用，逻辑清晰。"
-    },
-    {
-      "title": "36氪首发 | 为果链、头部灵巧手公司供货，新型减速器厂商完成超亿元融资，估值破10亿",
-      "link": "https://36kr.com/p/3924628805351811?f=rss",
-      "pubDate": "2026-08-04 10:59:50  +0800",
-      "contentSnippet": "作者 | 乔钰杰\n编辑 | 袁斯来\n硬氪获悉，精密减速器企业陶世智能科技有限公司（以下简称“陶世”）近日完成超亿元融资。本轮融资由国创集团，海川聚义，杭州众燊，新智资本参与，德太资本担任财务顾问。融资资金将主要用于产品研发、产线扩建以及机器人领域市场拓展。\n陶世成立于2016年，总部位于深圳，主要研发和生产正交90度微型减速器及机器人关节模组。公司核心产品为微型环面包络蜗轮蜗杆减速器，通过将减速与转角功能集成在单一结构中，实现更小体积、更高精度的动力传输。\n目前，陶世产品已进入多家消费电子与智能制造领域头部企业的供应链，并在人形机器人领域与近百家上下游企业建立合作。其中，面向灵巧手推出的关节模",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "陶世智能完成超亿元融资，估值破10亿，用于机器人领域拓展。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体36氪，内容具体，包含融资细节、产品技术及合作信息，逻辑清晰，可信度较高。"
-    },
-    {
-      "title": "ID-COOLING 七热管双 140mm 扇风冷 FROZN A720 BLACK 上市，329 元",
-      "link": "https://www.ithome.com/0/985/848.htm",
-      "pubDate": "Wed, 05 Aug 2026 02:46:14 GMT",
-      "contentSnippet": "IT之家 8 月 5 日消息，ID-COOLING（酷凛）现已在国行渠道推出霜格 A720 处理器风冷散热器，售价 329 元。这一型号也就是IT之家早有报道的 FROZN A720 BLACK，标称解热能力可达 300W，享受 3 年质保。\n\nFROZN A720 BLACK 采用双塔双风扇结构，搭载 7 根 6mm 直径热管、2 颗 14025 外形规格风扇，拥有锯齿鳍片和同心圆纹理铜质底座。其在标准模式下高度为 163mm，兼容 28mm 内存；可配置为全高 170mm 兼容 34mm 内存模式。\n\n这款风冷散热器原装风扇采用 FDB 轴承，转速区间 500~1800 RPM，最大风量",
+      "title": "我国最北高铁今日启动按图运行试验，哈尔滨至伊春由 7 小时压缩至 2 小时",
+      "link": "https://www.ithome.com/0/986/359.htm",
+      "pubDate": "Thu, 06 Aug 2026 02:33:32 GMT",
+      "contentSnippet": "IT之家 8 月 6 日消息，据央视新闻今日报道，记者从国铁哈尔滨局获悉，8 月 6 日 7 时 40 分，随着 D7271 次运行试验动车组由黑龙江省哈尔滨站始发，经由哈伊高速铁路，于 2 小时 02 分后终到伊春西站，这标志着哈尔滨至伊春高铁启动按图运行试验。\n\n报道称，哈伊高铁运行试验期间，严格参照实际运营标准，开展列车运行图参数测试、故障模拟、应急救援演练、按图行车试验等项目测试，通过模拟线路正式运营状态，全面验证运输组织、列车接发、开行密度、旅服设备状态及各系统匹配性，为线路正式开通运营提供科学依据。\n哈伊高铁是我国“八纵八横”高铁网京哈-京港澳通道的延长线，是我国目前纬度最高、最北",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -67,33 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "ID-COOLING推出七热管双140mm风扇风冷散热器，售价329元，解热能力300W。",
+      "aiSummary": "哈伊高铁启动按图运行试验，哈尔滨至伊春时间压缩至2小时。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家知名科技媒体，产品参数具体，逻辑清晰，但缺少第三方测试数据。"
+      "credibilityReason": "来源IT之家，引用央视和国铁哈尔滨局，信息具体，技术细节明确。"
     },
     {
-      "title": "小米申请注册澎程N70商标",
-      "link": "https://36kr.com/newsflashes/3926029000013956?f=rss",
-      "pubDate": "2026-08-05 10:43:13  +0800",
-      "contentSnippet": "36氪获悉，天眼查知识产权信息显示，近日，小米科技有限责任公司申请注册“SKYNOMAD N90 MAX LUXE”“澎程 N70”“SKYNOMAD N90 MAX STUDIO”“SKYNOMAD N70”商标，国际分类涉及健身器材、地毯席垫等，当前状态均为等待实质审查。",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "小米申请注册澎程N70等商标，涉及健身器材等类别。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源36氪知名科技媒体，信息具体，引用天眼查数据，但未深入分析，评分中等偏上。"
-    },
-    {
-      "title": "韶音 OpenDots 2 开放式运动耳机新增“落樱粉”配色，首发价 1168.2 元",
-      "link": "https://www.ithome.com/0/985/846.htm",
-      "pubDate": "Wed, 05 Aug 2026 02:38:06 GMT",
-      "contentSnippet": "IT之家 8 月 5 日消息，韶音现已为旗下 OpenDots 2 耳机新增一款“落樱粉”配色，定价为 1598 元，首发价 1168.2 元，将于 8 月 12 日 10 点首销。\n\n一抹新粉，如落樱般点睛耳畔。\n京东韶音 OpenDots 2 落樱粉 1168.2 元直达链接\n\n耳机本体方面，该产品外观方面使用不对称弧形设计，动钛弧自带 9g 预紧力，内置 11.8mm 对称双单元，失真相比上一代优化 70%；搭载全新升级杜比音效。耳机内置 AI 通话降噪技术；支持无线充电，耳机续航 10 小时，搭配充电盒续航 40 小时。\n\nIT之家附产品参数：",
+      "title": "16 个月建成投产，特斯拉美国得州超级工厂开始量产 Megapack 3 储能电池",
+      "link": "https://www.ithome.com/0/986/362.htm",
+      "pubDate": "Thu, 06 Aug 2026 02:44:15 GMT",
+      "contentSnippet": "IT之家 8 月 6 日消息，特斯拉 Megapack 部门当地时间周二晚间宣布，公司已正式开始在位于美国得克萨斯州布鲁克郡（Brookshire）的最新 Megafactory 超级工厂生产 Megapack 3 储能电池。\n\n这座工厂从破土动工到投入运营仅用了 16 个月，设计年产能达到 50GWh，全部用于生产第三代公用事业级储能产品 Megapack 3。该工厂被特斯拉能源业务寄予厚望，希望借此加速全球电网储能部署。\n布鲁克郡工厂成为特斯拉全球第三座投入运营的 Megafactory，也是美国境内第二座 Megafactory，加州拉斯罗普（Lathrop，40GWh）和上海工厂（20",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -101,16 +33,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "韶音OpenDots 2新增落樱粉配色，首发价1168.2元，8月12日开售。",
+      "aiSummary": "特斯拉得州新工厂16个月建成，开始量产Megapack 3储能电池。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道具体参数和价格，信息清晰，但缺少原始官方链接和深度分析。"
+      "credibilityReason": "来源IT之家较知名，内容具体含产能数据，但缺乏官方引用，时效性一般。"
     },
     {
-      "title": "三星 One UI 9.5 横幅设计曝光：配方形 / 宽幅 / 宽高 3 种方案",
-      "link": "https://www.ithome.com/0/985/845.htm",
-      "pubDate": "Wed, 05 Aug 2026 02:35:50 GMT",
-      "contentSnippet": "IT之家 8 月 5 日消息，科技媒体 sammyguru 昨日（8 月 4 日）发布博文，报道称伴随着 One UI 9 的开发工作接近尾声，三星的研发重心开始转向 One UI 9.5 系统。\n消息源在博文中分享了一张 One UI 9.5 的横幅设计图片，称三星设计了 3 种尺寸：\n\n方形（square）：主要适用于常规手机屏幕\n\n宽幅（wide）：适用于 Galaxy Z Fold8 阔折叠手机以及平板电脑\n\n宽高（wide tall）：适用于 Galaxy Tab S11 Ultra 等更大屏幕平板电脑。\n\n图案使用青绿色、蓝色和亮粉色 3 种主题色。色彩沿着 3 个图形的边缘分布，",
+      "title": "史上最大杠杆收购案：曝 EA 额外背负 180 亿美元债务，将启动大规模裁员",
+      "link": "https://www.ithome.com/0/986/360.htm",
+      "pubDate": "Thu, 06 Aug 2026 02:38:32 GMT",
+      "contentSnippet": "IT之家 8 月 6 日消息，彭博社昨日（8 月 5 日）发布博文，报道称美国艺电（EA）完成约 550 亿美元（IT之家注：现汇率约合 3,719.22 亿元人民币）的被收购交易后，为缓解债务压力，正推动大规模裁员。\n沙特公共投资基金（PIF）、银湖资本（Silver Lake）以及 Affinity Partners 组成的投资者财团本周完成对 EA 收购，交易规模为 550 亿美元（现汇率约合 3,719.22 亿元人民币），也被业界认为是史上规模最大的杠杆收购（LBO）案。\n根据披露的监管文件显示，交易完成后，PIF 将持有 EA 公司 93.4% 的股份；银湖资本将持有 5.5% 的",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -118,50 +50,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "三星One UI 9.5横幅设计曝光，提供方形、宽幅、宽高三种尺寸方案。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体，但依赖单一消息源，缺乏官方确认。"
-    },
-    {
-      "title": "韩国检方调查石化企业涉嫌价格串通，LG化学等7家公司遭搜查",
-      "link": "https://36kr.com/newsflashes/3926018347595906?f=rss",
-      "pubDate": "2026-08-05 10:32:23  +0800",
-      "contentSnippet": "韩国首尔中央地方检察厅公平贸易调查部8月5日对LG化学、韩华解决方案、爱敬化学、OCI、乐天精密化学、PKC、UNID等7家石化企业及相关人员展开扣押搜查，调查其涉嫌对多种石油化工产品进行价格串通。检方怀疑上述企业多年间就PVC、增塑剂、烧碱、盐酸等8类产品的价格上涨进行事前协商。此前，韩国公平交易委员会已于今年5月发现相关涉嫌串通线索，并启动现场调查。（界面）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "韩国检方搜查7家石化企业，涉嫌价格串通。",
+      "aiSummary": "EA被550亿美元杠杆收购，背负180亿债务，启动大规模裁员。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为36氪，内容具体，引用界面新闻，涉及具体企业、产品及时间，信息详实。"
+      "credibilityReason": "来源IT之家，引用彭博社报道，有具体交易金额和股权细节，逻辑清晰，可信度较高。"
     },
     {
-      "title": "WIKO 推出新款 Hi MateBook D 16 笔记本：R7 H 255 + 24G + 512G 售 6199 元",
-      "link": "https://www.ithome.com/0/985/842.htm",
-      "pubDate": "Wed, 05 Aug 2026 02:29:34 GMT",
-      "contentSnippet": "IT之家 8 月 5 日消息，WIKO 现已在京东为旗下 Hi MateBook D 16 笔记本新增锐龙 200 版本，该机搭载锐龙 7 H 255 处理器，匹配 24GB RAM 和 512GB SSD，定价为 6199 元。\n京东 WIKO Hi Matebook D 16 锐龙版笔记本 6199 元直达链接\n\n\n该机提供皓月银和极夜灰两种配色，B 面配备一块 16 英寸 1920x1200 分辨率 60Hz IPS LCD 面板（亮度 300 尼特），C 面采用 1.5mm 键程键盘，带有数字小键盘设计。\n\n\n该机搭载 8 核心 16 线程 AMD 锐龙 7 H 255 处理器，提供",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "WIKO推出Hi MateBook D 16锐龙版，R7 H 255+24G+512G售6199元。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道具体配置和价格，但缺少官方来源和深度分析。"
-    },
-    {
-      "title": "打官司、挖人，苹果和OpenAI的硬件大战才刚开始",
-      "link": "https://www.tmtpost.com/8091859.html",
-      "pubDate": "Wed, 05 Aug 2026 10:27:59 +0800",
-      "contentSnippet": "说苹果走错了路，OpenAI自己却带着400名苹果老兵，重走苹果的路",
+      "title": "逼近历史新高，分红超2300亿：这台“水电印钞机”到底有多猛？",
+      "link": "https://www.tmtpost.com/8093204.html",
+      "pubDate": "Thu, 06 Aug 2026 10:35:00 +0800",
+      "contentSnippet": "中国水电天花板。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -169,51 +67,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "苹果与OpenAI硬件竞争升级，OpenAI挖角苹果员工并重走其路线。",
+      "aiSummary": "长江电力业绩强劲，分红超2300亿，逼近历史新高。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体但缺乏数据支撑和原始引用。"
+      "credibilityReason": "钛媒体为知名科技财经媒体，内容具体有数据，但缺乏原始出处和深度分析。"
     },
     {
-      "title": "韩 ASIC 企业 FuriosaAI 获得瑞典数据中心 7000 块芯片订单",
-      "link": "https://www.ithome.com/0/985/834.htm",
-      "pubDate": "Wed, 05 Aug 2026 02:27:52 GMT",
-      "contentSnippet": "IT之家 8 月 5 日消息，韩国 AI ASIC 芯片设计企业 FuriosaAI 当地时间宣布与 I/ONX HPC、Velox 三方合作在瑞典斯德哥尔摩打造一座 AI 数据中心。\n\nIT之家获悉，这一由 Velox 开发、管理、运营的项目已于近期动工，总电力容量 15MW，其中关键 IT 容量 10MW，首批 2MW 算力预计 2027 年初上线，同年内增加到 10MW。\nFuriosaAI 将为该项目提供合计 7000 块 RNGD 加速器。这些加速器将与来自 NVIDIA、AMD 的等量 GPU 一道构成异构算力基础设施，由 I/ONX HPC 的 Symphony SixtyFou",
+      "title": "雷神水冷迷你 AI 工作站体验：176W 峰值性能，AI 创作的得力助手",
+      "link": "https://www.ithome.com/0/986/358.htm",
+      "pubDate": "Thu, 06 Aug 2026 02:33:30 GMT",
+      "contentSnippet": "随着 AI 浪潮席卷全球，越来越多职场人将 AI 深度融入日常工作流，用 AI 赋能文案创作、代码调试、素材处理、数据分析等各类场景，大幅提升办公效率。\n由于云端 AI 应用需要上传并分析数据，不仅存在隐私泄露风险，网络波动也会导致响应延迟、高频使用不稳定，再加上消耗 token 带来的使用成本居高不下等问题，在此背景下，本地部署 AI 大模型成为职场高效、安全办公的最优解。\n\n针对职场用户的核心痛点，雷神于今年 5 月推出了这款水冷迷你 AI 工作站，它不仅搭载了目前消费级 AI 算力超强的 AMD 锐龙 AI Max+ 395 处理器，还将小巧机身、水冷散热、内置电源等实用设计融为一体，专",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
-        "IT之家",
-        "钛媒体"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "韩国AI芯片企业FuriosaAI获瑞典数据中心7000块RNGD加速器订单，用于异构算力基础设施。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，信息具体（订单数量、电力容量、时间表），逻辑清晰，但缺乏原始官方链接和第三方验证。（多源覆盖 +5）"
-    },
-    {
-      "title": "SpaceX拟建地面基础设施与卫星网络互补，向美国电信三巨头发起挑战",
-      "link": "https://36kr.com/newsflashes/3926009821182086?f=rss",
-      "pubDate": "2026-08-05 10:23:42  +0800",
-      "contentSnippet": "SpaceX详细阐述了拟通过建设地面基础设施与卫星互联网服务互补，从而直接与美国最大移动通信运营商展开竞争的计划。当地时间8月4日，SpaceX总裁兼首席运营官格温·肖特韦尔（Gwynne Shotwell）在公司首次财报电话会议上表示，全美三大运营商AT&T、Verizon和T-Mobile每年创造的营收高达数千亿美元。“我预计我们能够吸引到他们相当一部分客户，因为我认为我们的服务会更好，”她说。“我对Starlink Mobile的未来发展感到非常兴奋。”（界面）",
-      "sourceName": "36氪",
-      "sourceWeight": 88,
-      "allSources": [
-        "36氪"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "SpaceX拟建地面设施与卫星互补，挑战美国电信三巨头。",
+      "aiSummary": "雷神水冷迷你AI工作站体验，搭载AMD锐龙AI Max+ 395，峰值176W，助力本地AI办公。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源36氪知名科技媒体，引用高管言论，但缺乏具体技术细节和数据支撑。"
+      "credibilityReason": "IT之家为知名科技媒体，内容具体有产品细节，但缺乏数据支撑和原始评测链接。"
     },
     {
-      "title": "工业具身智能已经进厂发挥价值了丨ToB产业观察",
-      "link": "https://www.tmtpost.com/8090638.html",
-      "pubDate": "Wed, 05 Aug 2026 10:20:55 +0800",
-      "contentSnippet": "具身智能行业正在经历一场方向性的收敛，而工业场景已经是能发挥价值的场景了。",
+      "title": "耗时41分钟，千问办公押注了怎样的Agent未来？",
+      "link": "https://www.tmtpost.com/8093155.html",
+      "pubDate": "Thu, 06 Aug 2026 10:32:28 +0800",
+      "contentSnippet": "当Token成为AI时代的新商业语言，企业是否会主动推动Agent变得越来越“重”？",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -221,16 +101,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "具身智能行业方向收敛，工业场景已能发挥实际价值。",
+      "aiSummary": "钛媒体分析千问办公Agent战略，探讨Token经济下企业Agent重型化趋势。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容具体且聚焦行业趋势，但缺乏数据支撑和原始引用。"
+      "credibilityReason": "知名科技媒体，内容具体有分析深度，但缺乏原始数据支撑，时效性一般。"
     },
     {
-      "title": "《黑神话：悟空》史低价：全平台数字版本即将开启七折优惠",
-      "link": "https://www.ithome.com/0/985/818.htm",
-      "pubDate": "Wed, 05 Aug 2026 02:20:35 GMT",
-      "contentSnippet": "IT之家 8 月 5 日消息，《黑神话》系列游戏官方微博今日宣布，《黑神话：悟空》全平台数字版本（标准版、豪华版、豪华升级包）即将开启七折优惠。此次为本作发售以来第三次官方折扣，创下最新史低价格。\n\nIT之家附各平台具体打折时间如下：\n\nPlayStation Store：8 月 12 日 - 8 月 26 日\n\n微软商店、Steam、Epic 游戏商城、WeGame：8 月 12 日 0 时 - 8 月 25 日 24 时（北京时间）\n\n《黑神话：悟空》是由杭州游科互动科技有限公司开发的西游题材动作角色扮演游戏，于 2024 年 8 月 20 日正式登陆 PC 、PS5 平台。该作通常被媒体",
+      "title": "独家对话星源智刘东：只有少数公司会坚持自研大脑",
+      "link": "https://www.tmtpost.com/8093308.html",
+      "pubDate": "Thu, 06 Aug 2026 10:31:59 +0800",
+      "contentSnippet": "“未来本体和模型一定是解耦的。”",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "星源智刘东称未来机器人本体与模型解耦，仅少数公司坚持自研大脑。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体钛媒体，内容具体有观点，但缺乏数据支撑和原始出处，评分适中。"
+    },
+    {
+      "title": "RK 鲲鹏 T87 三模机械键盘上市：铝合金上下壳，首发价 299~369 元",
+      "link": "https://www.ithome.com/0/986/357.htm",
+      "pubDate": "Thu, 06 Aug 2026 02:31:36 GMT",
+      "contentSnippet": "IT之家 8 月 6 日消息，Royal Kludge (RK) 昨日推出了鲲鹏 T87 三模机械键盘。该系列型号采用 TKL (80%) 配列，拥有铝合金上下壳，应用双层喷粉装饰工艺，首发价 299~369 元。\n\nRK T87 搭载高性能主控芯片，在 USB-C 和 2.4GHz 下支持 8kHz 回报率。其内部采用 Gasket 固定结构，拥有单键开槽的 1.2mm PCB 和 PC 定位板，集成 5 层阻尼填充，全键支持热插拔，集成下灯位 RGB 背光和后端侧面“苍翼之眼”灯区。\n\nIT之家附 RK T87 键盘详细版本区别如下：\n\n外观键帽轴体电池首发价\n蓝屿MDA 高度三拼奶黄轴8",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -238,16 +135,118 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "《黑神话：悟空》全平台数字版将开启七折史低价优惠，8月12日起各平台陆续开始。",
+      "aiSummary": "RK发布鲲鹏T87三模机械键盘，铝合金壳，8kHz回报率，首发299-369元。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道具体参数与版本差异，但无原始出处，评分75。"
+    },
+    {
+      "title": "VITURE Pro 2 XR / AR 智能眼镜发布：63 克轻量设计，1999 元",
+      "link": "https://www.ithome.com/0/986/356.htm",
+      "pubDate": "Thu, 06 Aug 2026 02:31:31 GMT",
+      "contentSnippet": "IT之家 8 月 6 日消息，VITURE Pro 2 XR / AR 智能眼镜今日正式发布，定价 1999 元。\n这款智能眼镜定位五周年新品，主打巨幕游戏观影、支持 2D 转 3D，支持 0-500 度近视调节。\n\n首销期购买可享八重好礼：限时加赠 249 元礼包，包含手柄 + 爱奇艺月卡，还有 100 元新品配镜津贴；晒单评论立返 50 E 卡，站外种草尊享 50 元；焕新补贴至高立减 15%，享 3 期免息，提供 1 年官方质保，京东快递配送。\n\n产品采用 63 克轻量设计，主打舒眼光学长久佩戴，官方宣传“久戴如初，自在眼前”。\n\n这款眼镜搭载 UltraClarity 3.0 技术，配",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "VITURE发布Pro 2 XR/AR眼镜，63克轻量，1999元，支持2D转3D及近视调节。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道具体参数和价格，但缺乏技术细节和原始出处，评分适中。"
+    },
+    {
+      "title": "上汽荣威家越 07 将于 8 月 13 日亮相，搭载 Momenta R7 世界模型",
+      "link": "https://www.ithome.com/0/986/355.htm",
+      "pubDate": "Thu, 06 Aug 2026 02:27:38 GMT",
+      "contentSnippet": "IT之家 8 月 6 日消息，上汽荣威家越 07 将于 8 月 13 日亮相，搭载最新一代 Momenta R7 世界模型高阶智能辅助驾驶方案。\n\n该车采用以建筑式双垂直设计，车头和车尾近 90 度垂直角设计，强化车身视觉支撑力与规整秩序感。前脸搭载行业首发一体式贯穿大灯，搭载近 3000 颗错落分布的浮雕星芒。提供“龙晶紫”“玛瑙灰”“宝石蓝”“珍溪黑”“钻石白”“翡翠绿”等配色。\nIT之家参考此前官方预热，该车深度融合火山引擎豆包大模型 2.0 系列：使 AI 大模型首次深度接入实体汽车，实现对物理设备的调度、决策与执行，标志着 AI 从“互联网场景”向“物联网场景”的关键跨越，汽车由此成",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "上汽荣威家越07将于8月13日亮相，搭载Momenta R7世界模型高阶智驾方案。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道具体车型配置与发布日期，但缺少官方确认和详细技术数据。"
+    },
+    {
+      "title": "Gemini 把逆风翻盘的希望，全押在这个人身上",
+      "link": "https://www.ifanr.com/1673901?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pubDate": "Thu, 06 Aug 2026 02:26:41 +0000",
+      "contentSnippet": "Gemini 新任掌门人，到底什么来头？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "sourceName": "爱范儿",
+      "sourceWeight": 82,
+      "allSources": [
+        "爱范儿"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "爱范儿报道Gemini新任掌门人背景，分析其能否带领逆风翻盘。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体，内容具体但缺乏技术细节和数据支撑，评分75。"
+    },
+    {
+      "title": "别了，兰州拉面",
+      "link": "https://www.tmtpost.com/8093183.html",
+      "pubDate": "Thu, 06 Aug 2026 10:26:11 +0800",
+      "contentSnippet": "青海拉面人不忍挥别“兰州拉面”。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "青海拉面人告别兰州拉面品牌，行业转型引关注。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体，内容具体但缺乏数据支撑，评分中上。"
+    },
+    {
+      "title": "缺口有多大？美国变压器供应能力分析",
+      "link": "https://www.tmtpost.com/8092672.html",
+      "pubDate": "Thu, 06 Aug 2026 10:26:06 +0800",
+      "contentSnippet": "本土产能扩张相对滞后，市场供应缺口短期内仍难弥合。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "分析美国变压器供应缺口，指出本土产能扩张滞后，短期缺口难弥合。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体，内容具体分析行业供需，逻辑清晰，但缺乏具体数据引用。"
+    },
+    {
+      "title": "微软 Outlook 邮件签名 8 月将支持直接导入 OneDrive 图片",
+      "link": "https://www.ithome.com/0/986/353.htm",
+      "pubDate": "Thu, 06 Aug 2026 02:22:47 GMT",
+      "contentSnippet": "IT之家 8 月 6 日消息，科技媒体 Neowin 昨日（8 月 5 日）发布博文，报道称微软计划 8 月扩展 Outlook，支持用户直接在邮件签名中导入保存在 OneDrive 的图片。\n根据微软 Microsoft 365 路线图，微软在条目 568079 中写道：“Outlook 用户可以在邮件中直接插入 OneDrive 的图片外，还可以在邮件签名中直接插入 OneDrive 图片”。\n对于用户而言，不必依赖第三方签名制作服务，也不必每次从本地设备图库上传签名图片。用户可以先将签名图片上传至 OneDrive，之后在需要时从 Outlook 中调用该图片。对于使用多台移动设备处理邮",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微软Outlook邮件签名8月将支持直接导入OneDrive图片，简化用户操作。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体含平台与时间，引用官方微博，逻辑清晰。"
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体，引用微软官方路线图条目，信息可靠。"
     },
     {
-      "title": "微软酝酿 Win11 26H2 更新，版本号将升至 Build 26340.x",
-      "link": "https://www.ithome.com/0/985/817.htm",
-      "pubDate": "Wed, 05 Aug 2026 02:19:19 GMT",
-      "contentSnippet": "IT之家 8 月 5 日消息，科技媒体 The WinCentral 昨日（8 月 4 日）发布博文，报道称微软计划面向 Experimental 通道 Windows Insider 项目成员，推送 Windows 11 26H2 Build 26340.xxxx 预览版。\nIT之家注：基于微软目前的发行策略，Windows 11 的三大版本分支如下：\n\nWindows 11 24H2：源码分支属于鍺（Germanium），Build 版本号前缀为 26100\n\nWindows 11 25H2：源码分支属于鍺（Germanium），Build 版本号前缀为 26200\n\nWindows 11",
+      "title": "国产武侠游戏《影之刃零》官宣 8 月 12 日全平台预售，将公布售价及 PC 版配置",
+      "link": "https://www.ithome.com/0/986/352.htm",
+      "pubDate": "Thu, 06 Aug 2026 02:21:10 GMT",
+      "contentSnippet": "IT之家 8 月 6 日消息，国产武侠游戏《影之刃零》今日官宣将于 8 月 12 日开启全平台预售，将公布售价及 PC 版配置。与预购同时放出的，是一段 11 分钟的全新实机视频，这段视频将涵盖全新的故事、角色、战斗等。\n\n\n《影之刃零》于 TGA 2025 颁奖典礼公布了定档宣传片，经过四年开发，游戏将于 2026 年 9 月 9 日与全球玩家见面，同时在 Steam、PlayStation、Epic 商城的愿望单页面均已开放。今年 6 月，在索尼 State of Play 发布会上，《影之刃零》官方宣布，游戏发售日将从原计划的 2026 年 9 月 9 日推迟至 2026 年 10 月",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -255,10 +254,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "微软计划推送Win11 26H2预览版，版本号升至Build 26340.x。",
+      "aiSummary": "《影之刃零》官宣8月12日全平台预售，公布售价及PC配置。",
       "credibilityScore": 75,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源IT之家较知名，内容具体但缺少官方确认，技术细节有限。"
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，信息具体含日期、平台，但无官方链接，评分中等偏上。"
     }
   ]
 }

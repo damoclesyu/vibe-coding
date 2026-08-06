@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-05T02:48:35.734Z",
+  "generatedAt": "2026-08-06T02:51:42.474Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "最高人民法院政治部负责人就《关于进一步加强人民法院聘用制书记员管理工作的意见》答记者问",
-      "link": "https://www.chinanews.com.cn/fz/2026/08-05/10672176.shtml",
-      "pubDate": "Wed, 5 Aug 2026 10:26:27 +0800",
-      "contentSnippet": "全面加强规范管理  持续激励担当作为",
+      "title": "防城海关业务技术综合楼生活配套设施改造工程(GGZX2026-ZB-272)竞争性协商公告",
+      "link": "https://www.chinanews.com.cn/aseaninfo/2026/08-06/10672784.shtml",
+      "pubDate": "Thu, 6 Aug 2026 10:22:14 +0800",
+      "contentSnippet": "广西桂工建设管理咨询有限公司受中华人民共和国防城海关委托，现对防城海关业务技术综合楼生活配套设施改造工程进行竞争性协商采购，该项目为非政府采购项目，欢迎符合条件的供应商前来参加协商活动。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -16,33 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "最高法发布聘用制书记员管理意见，强调规范与激励。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为官方媒体，内容为政策解读，信息具体且权威。"
-    },
-    {
-      "title": "从商铺到文化驿站，百年老街与世界双向奔赴",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-05/10672152.shtml",
-      "pubDate": "Wed, 5 Aug 2026 10:04:04 +0800",
-      "contentSnippet": "中新网哈尔滨8月5日电(作者 鲁晓航)作为哈尔滨核心城市文旅地标，承载百年中俄交融商贸历史的中央大街，正逐渐成为国际化的文旅名片。日前，记者来到中央大街，探访百年老街文旅融合发展与对外传播建设成效。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "哈尔滨中央大街从商贸老街转型为国际化文旅地标，促进中外文化交流。",
+      "aiSummary": "防城海关发布生活配套设施改造工程竞争性协商公告，非政府采购项目。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网较权威，内容具体，有记者实地探访，但缺乏多源交叉验证。"
+      "credibilityReason": "来源为正规媒体，公告内容具体，含项目编号和委托机构，事实可查证。"
     },
     {
-      "title": "六部门发文加强聘用制书记员队伍规范管理",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-05/10672158.shtml",
-      "pubDate": "Wed, 5 Aug 2026 10:03:36 +0800",
-      "contentSnippet": "新华社北京8月5日电(记者冯家顺)记者8月5日从最高人民法院获悉，最高法联合中央组织部、中央政法委、中央编办、财政部、人力资源社会保障部近日印发《关于进一步加强人民法院聘用制书记员管理工作的意见》，全面加强聘用制书记员队伍规范管理。",
+      "title": "三十六载稽史传薪 《中山舰传奇（修订本）》在广州首发",
+      "link": "https://www.chinanews.com.cn/cul/2026/08-06/10672773.shtml",
+      "pubDate": "Thu, 6 Aug 2026 10:19:40 +0800",
+      "contentSnippet": "中新网广州8月6日电 (记者 郭军)8月5日，恰逢1917年永丰舰进驻广州港黄埔水域的重要历史节点，红色史学力作《中山舰传奇(修订本)》新书首发仪式在广州港太古仓码头举行，为粤港澳大湾区红色航运文脉传承增添标志性文史成果。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -50,16 +33,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "六部门联合发文，加强法院聘用制书记员队伍规范管理。",
-      "credibilityScore": 90,
+      "aiSummary": "《中山舰传奇（修订本）》在广州首发，纪念永丰舰进驻黄埔历史节点。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为新华社权威通讯社，信息具体，涉及多部门联合发文，事实可查证。"
+      "credibilityReason": "来源中国新闻网，权威媒体，有具体时间地点人物，内容客观，可查证。"
     },
     {
-      "title": "环球时报社评：中国留学生少了，美国就“安全”了么",
-      "link": "https://m.thepaper.cn/detail/33718369",
-      "pubDate": "Wed, 05 Aug 2026 01:48:22 GMT",
-      "contentSnippet": "美国智库报告称限制中国留学生签证将“惠及美国学生和国家安全”，本质是将正常留学活动政治化、武器化，以“国家安全”为名搞歧视性限制。当一份报告把留学生数量的下降包装成“胜利”，它真正暴露的，不是对方的“威胁”，而是自身的焦虑\n美国智库“移民研究中心”8月3日发布的报告显示，美国国务院在2025年5月至8月期间向印度和中国公民签发的赴美学生签证（F-1签证）数量较往年大幅下降。之所以选择5月至8月进行比较，是因为每年大部分F-1签证都是在这个时间段签发的。匪夷所思的是，这份报告声称，如果这种下降趋势持续下去，将“极大地惠及美国学生和国家安全”，并再度抛出中国留学生是“间谍”的陈词滥调。\n留学生怎么",
+      "title": "以媒：以军误将拦截弹射向以军方向",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-06/10672758.shtml",
+      "pubDate": "Thu, 6 Aug 2026 10:12:35 +0800",
+      "contentSnippet": "中新网8月6日电 据《以色列时报》5日报道，以色列国防军称，其一枚拦截弹被误射向位于黎巴嫩南部的以军方向，但未造成人员伤亡。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "以色列军方称一枚拦截弹误射向黎巴嫩南部的以军方向，无人员伤亡。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网，引用以色列时报，信息具体，但单一来源，未多源验证。"
+    },
+    {
+      "title": "解放军报刊文：日本频繁军演凸显危险扩张图谋",
+      "link": "https://m.thepaper.cn/detail/33727340",
+      "pubDate": "Wed, 05 Aug 2026 23:06:37 GMT",
+      "contentSnippet": "近期，日本接连深度参与“坚毅之龙-2026”“勇敢之盾-2026”“环太平洋-2026”联合军演。这三场演习在时间上重叠接续，在空间上由近向远跨域延伸，在科目设置上进攻性明显。日本频繁参与联合军演，企图检验提升多域联合作战能力，是其摒弃“专守防卫”原则、打造外向型进攻军力的危险举动。对此，亚太国家乃至国际社会须高度警惕。\n演习科目“由守转攻”进攻色彩浓厚。日本参与的这几场演习，科目涵盖联合夺岛、远洋反潜、联合制海、海上封锁等，突破了以往侧重防御性离岛守备的框架，展现出明显的进攻性特征。“坚毅之龙-2026”聚焦第一岛链前沿作战，被视为日美联合夺岛的“全流程彩排”，其科目不仅涵盖传统的反登陆，还",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -67,84 +67,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "环球时报社评批评美国智库报告将中国留学生减少视为国家安全胜利，指其政治化留学议题。",
-      "credibilityScore": 65,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为澎湃新闻转载社评，观点性强，但引用了具体报告和数据，事实部分可查证。"
-    },
-    {
-      "title": "阿尔托13处建筑列入世遗，北欧现代设计体系了解一下",
-      "link": "https://m.thepaper.cn/detail/33713621",
-      "pubDate": "Wed, 05 Aug 2026 01:43:28 GMT",
-      "contentSnippet": "在芬兰，除了广袤森林、澄澈湖泊，有许多独具一格的现代建筑。《澎湃新闻｜艺术评论》获悉，近期，芬兰建筑师阿尔瓦·阿尔托设计的13处建筑作品被联合国教科文组织列入世界遗产项目，成为继勒·柯布西耶、高迪等人之后，又一位以建筑作品成为世界遗产名录的现代主义大师。\n早在20世纪初，建筑师埃利尔·沙里宁便打造出了赫尔辛基既浪漫又现代的城市风貌；此后，阿尔瓦·阿尔托则以一种低调而温暖的姿态，在建筑与日常设计中探索人与空间之间更舒适、更自然的关系，构建出独树一帜的北欧现代主义设计体系。\n埃利尔·沙里宁：塑造赫尔辛基的现代风貌\n埃利尔·沙里宁（Eliel Saarinen，1873-1950），他是建筑大家埃罗",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "芬兰建筑师阿尔托13处建筑入选世遗，澎湃报道其北欧现代设计体系。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源澎湃新闻较权威，内容具体，但未提供直接引述或官方确认，评分略低于一线通讯社。"
-    },
-    {
-      "title": "人民日报钟声：中美经贸需要“合作清单”，而非“覆盖清单”",
-      "link": "https://m.thepaper.cn/detail/33718166",
-      "pubDate": "Tue, 04 Aug 2026 22:55:37 GMT",
-      "contentSnippet": "中美应当拉长的是互利共赢的“合作清单”，而不是人为设限的所谓“覆盖清单”\n近日，美国联邦通信委员会（FCC）将外国生产的电力逆变器和先进机器人设备列入所谓“覆盖清单”，相关新型号产品将无法获得认证授权，不得进入美国市场销售。美方措施打着“非歧视”或“国家安全”旗号，实质上是对中国企业和产品的歧视性对待与打压，是典型的单边霸凌行径，是对市场经济规则和公平竞争原则的公然扭曲。\n一段时间以来，FCC一再泛化国家安全概念，持续出台并升级限制措施，不仅严重损害中方正当贸易权益，也严重冲击中美经贸合作根基，更严重扰乱全球产业链供应链稳定。\n动用所谓“覆盖清单”实施针对性遏制打压，是FCC的惯用手法。202",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "人民日报评论称中美经贸应扩大合作而非设限，批评美方将中国产品列入覆盖清单。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为官方媒体，观点明确，事实具体，但立场倾向性明显，缺乏多方交叉验证。"
-    },
-    {
-      "title": "亚洲大学生篮球联赛：清华大学男篮晋级八强",
-      "link": "https://www.chinanews.com.cn/tp/2026/08-05/10672149.shtml",
-      "pubDate": "Wed, 5 Aug 2026 10:36:32 +0800",
-      "contentSnippet": "8月4日，清华大学队队员欧祈洛乔文杜运球。当日，2026亚洲大学生篮球联赛(AUBL)小组赛在浙江杭州滨江举行，清华大学男篮86比71战胜早稻田大学男篮，两队双双出线晋级八强。中新社记者 王刚 摄  \r\n\n8月4日，清华大学队队员(白衣)和早稻田大学队队员(红衣)在比赛中。当日，2026亚洲大学生篮球联赛(AUBL)小组赛在浙江杭州滨江举行，清华大学男篮86比71战胜早稻田大学男篮，两队双双出线晋级八强。中新社记者 王刚 摄  \r\n\n8月4日，清华大学队队员石奎运球。当日，2026亚洲大学生篮球联赛(AUBL)小组赛在浙江杭州滨江举行，清华大学男篮86比71战胜早稻田大学男篮，两队双双出线晋级",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "清华大学男篮在亚洲大学生篮球联赛小组赛战胜早稻田大学，晋级八强。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，属权威媒体，报道具体，含时间地点比分，有记者署名。"
-    },
-    {
-      "title": "港大研制出全新极简架构芯片  处理速度较标准CPU快1亿倍",
-      "link": "https://www.chinanews.com.cn/dwq/2026/08-05/10672185.shtml",
-      "pubDate": "Wed, 5 Aug 2026 10:36:18 +0800",
-      "contentSnippet": "中新社香港8月5日电 香港大学(简称“港大”)4日公布，港大研究团队成功研制出一款新型模拟内容寻址存储器(CAM)。该芯片采用极简架构，可直接在存储数据的位置进行复杂搜索。在执行汉明距离计算任务时，其处理速度比标准中央处理器(CPU)快约1亿倍，并在多个数据集测试中获得极高准确率。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "港大研发出新型模拟CAM芯片，处理速度比标准CPU快1亿倍。",
+      "aiSummary": "解放军报批评日本频繁军演，指其放弃专守防卫，凸显危险扩张图谋。",
       "credibilityScore": 75,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为官方媒体，信息具体，但缺乏独立验证和专家评论，速度数据需谨慎看待。"
+      "credibilityReason": "来源为澎湃新闻，内容具体但属官方立场，缺乏多源验证，评分中等偏上。"
     },
     {
-      "title": "库里躺枪，洽洽瓜子思念水饺被制裁……这波操作给我看笑了",
-      "link": "https://www.chinanews.com.cn/txy/2026/08-05/10672186.shtml",
-      "pubDate": "Wed, 5 Aug 2026 10:35:24 +0800",
-      "contentSnippet": "近日，一顶华丽丽的“大帽子”从天而降，扣在了NBA巨星斯蒂芬·库里的头上。",
+      "title": "2026年01至06月云南省进口主要商品量值表",
+      "link": "https://www.chinanews.com.cn/aseaninfo/2026/08-06/10672802.shtml",
+      "pubDate": "Thu, 6 Aug 2026 10:44:45 +0800",
+      "contentSnippet": "2026年01至06月云南省进口主要商品量值表.xlsx",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -152,33 +84,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国新闻网报道称NBA球星库里被制裁，但内容疑似调侃，事实性存疑。",
-      "credibilityScore": 45,
-      "credibilityLevel": "low",
-      "credibilityReason": "标题情绪化，正文摘要缺乏具体细节和来源，疑似娱乐化解读，可信度低。"
-    },
-    {
-      "title": "京剧《汉明妃》在呼和浩特上演 再现昭君出塞家国情怀",
-      "link": "https://www.chinanews.com.cn/tp/2026/08-05/10672150.shtml",
-      "pubDate": "Wed, 5 Aug 2026 10:33:18 +0800",
-      "contentSnippet": "8月4日，内蒙古呼和浩特市，演员身着传统戏服饰演绎剧目。当日，由内蒙古艺术剧院京剧团演绎的京剧《汉明妃》在呼和浩特上演。该剧以王昭君促进胡汉和好的历史为背景，在保留尚派传统唱腔和核心表演程式的基础上，对剧本、表演及舞美进行了打磨梳理，文武并重地展示国粹美学与民族相融主题。中新社记者 刘文华  摄  \r\n\n8月4日，内蒙古呼和浩特市，演员身着传统戏服演绎昭君(左)。当日，由内蒙古艺术剧院京剧团演绎的京剧《汉明妃》在呼和浩特上演。该剧以王昭君促进胡汉和好的历史为背景，在保留尚派传统唱腔和核心表演程式的基础上，对剧本、表演及舞美进行了打磨梳理，文武并重地展示国粹美学与民族相融主题。中新社记者 刘文华",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "京剧《汉明妃》在呼和浩特上演，再现昭君出塞家国情怀。",
+      "aiSummary": "云南发布2026年上半年进口主要商品量值表。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威媒体，报道具体，有明确时间地点和记者署名。"
+      "credibilityReason": "来源为权威媒体，内容为官方统计数据，具体可查证，用词客观。"
     },
     {
-      "title": "中消协：上半年为消费者挽回经济损失4.47亿元",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-05/10672184.shtml",
-      "pubDate": "Wed, 5 Aug 2026 10:31:27 +0800",
-      "contentSnippet": "央视新闻客户端：中国消费者协会今天(5日)发布投诉情况分析显示，今年上半年，全国消协组织共受理消费者投诉985928件，同比下降1.01%，已解决567926件，为消费者挽回经济损失4.47亿元。",
+      "title": "（活力中国调研行）城市地下管网或将与具身智能结合 加固城市生命线建设",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-06/10672798.shtml",
+      "pubDate": "Thu, 6 Aug 2026 10:42:25 +0800",
+      "contentSnippet": "中新网合肥8月6日电 (记者 周昕 储玮玮)地下管线是维系城市运转的“血管”，是城市的地下“生命线”。清华大学合肥公共安全研究院院长袁宏永5日在合肥表示，要加快具身智能地下管网研究，加固城市生命线建设。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -186,33 +101,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中消协上半年受理投诉98.6万件，挽回损失4.47亿元。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为央视新闻客户端，权威性高，数据具体，内容客观。"
-    },
-    {
-      "title": "萌翻香港岛！香港限定熊猫“叮叮车”上街",
-      "link": "http://www.chinanews.com.cn/ga/shipin/cns-d/2026/08-05/news1064328.shtml",
-      "pubDate": "Wed, 5 Aug 2026 10:31:19 +0800",
-      "contentSnippet": "8月4日，香港海洋公园推出“Pandastic大熊猫生日巡游”活动，四辆大熊猫主题“叮叮车”亮相，凭借创新错视视觉设计，为城市街头注入满满童趣与夏日活力。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "香港海洋公园推出熊猫主题叮叮车巡游，为城市增添童趣与夏日活力。",
+      "aiSummary": "中国新闻网报道，专家建议将具身智能技术应用于城市地下管网，以加固城市生命线建设。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为官方媒体，内容具体，时间地点明确，但缺乏直接引述和多方验证。"
+      "credibilityReason": "来源为官方媒体，内容具体，有专家直接引述，但缺乏多源交叉验证。"
     },
     {
-      "title": "原来吃对脂肪，血管反而更干净！营养师列出“好脂肪”清单，建议照着吃",
-      "link": "https://www.chinanews.com.cn/jk/2026/08-05/10672181.shtml",
-      "pubDate": "Wed, 5 Aug 2026 10:30:21 +0800",
-      "contentSnippet": "很多人一听到“脂肪”，脑海里蹦出来的词全是“高血脂”“堵血管”……但其实，脂肪也有“好坏”——吃对“好脂肪”，能在不知不觉中帮你改善血脂状况、降低心血管疾病风险。",
+      "title": "文旅热、避暑火、客流旺 黑龙江机场集团迎来史上“最忙暑运”",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-06/10672797.shtml",
+      "pubDate": "Thu, 6 Aug 2026 10:42:11 +0800",
+      "contentSnippet": "中新网哈尔滨8月6日电 (史轶夫 温天禹)哈尔滨之夏音乐季、哈尔滨国际啤酒节、太阳岛电影周、东北超……暑运以来，黑龙江凭借舒适宜人的夏季气候、丰富多元的大型活动和独具特色的文旅资源，吸引国内外游客纷至沓来。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -220,44 +118,146 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国新闻网报道，吃对好脂肪可改善血脂，降低心血管风险。",
+      "aiSummary": "黑龙江机场集团暑运客流创新高，文旅活动带动避暑旅游热潮。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网，权威媒体，报道具体，含数据与活动细节，可信度高。"
+    },
+    {
+      "title": "重庆海关技术中心2026年彭水县食用农产品抽样服务项目比选公告",
+      "link": "https://www.chinanews.com.cn/aseaninfo/2026/08-06/10672801.shtml",
+      "pubDate": "Thu, 6 Aug 2026 10:42:03 +0800",
+      "contentSnippet": "一、项目基本情况",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "重庆海关技术中心发布2026年彭水县食用农产品抽样服务项目比选公告。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为正规媒体，内容为官方公告，信息具体，但未提供详细细节，评分略低于一线通讯社。"
+    },
+    {
+      "title": "2000亿元超长期特别国债下达 支持老旧小区加装电梯等",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-06/10672800.shtml",
+      "pubDate": "Thu, 6 Aug 2026 10:41:59 +0800",
+      "contentSnippet": "年中经济观察丨2000亿元超长期特别国债下达 支持老旧小区加装电梯等",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "2000亿元超长期特别国债下达，支持老旧小区加装电梯等改造。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网，权威性较高；信息具体，涉及金额和用途；但缺乏直接引述和交叉验证。"
+    },
+    {
+      "title": "邕州海关南面围墙部分拆除重建项目（重）(YZLNN2026-C2-407-ZYQT-1) 成交结果公告",
+      "link": "https://www.chinanews.com.cn/aseaninfo/2026/08-06/10672799.shtml",
+      "pubDate": "Thu, 6 Aug 2026 10:40:07 +0800",
+      "contentSnippet": "云之龙咨询集团有限公司受中华人民共和国邕州海关委托，于2026年8月4日就邕州海关南面围墙部分拆除重建项目(重)采用竞争性协商方式进行采购，按规定程序进行了协商，现就本次采购的成交结果公告如下：",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "邕州海关围墙拆除重建项目成交结果公告发布。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为正规媒体，内容具体，含项目编号、时间、方式，事实可查证。"
+    },
+    {
+      "title": "内蒙古鄂尔多斯：北大池盐湖如夏日调色板",
+      "link": "http://www.chinanews.com.cn/tp/hd2011/2026/08-06/1200277.shtml",
+      "pubDate": "Thu, 6 Aug 2026 10:39:29 +0800",
+      "contentSnippet": "",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "内蒙古鄂尔多斯北大池盐湖夏日呈现多彩景观，宛如调色板。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网，权威媒体，内容具体描述景观，无争议性，可信度高。"
+    },
+    {
+      "title": "向新向优转型提速 上半年我国机械工业行业运行稳中有进",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-06/10672795.shtml",
+      "pubDate": "Thu, 6 Aug 2026 10:38:25 +0800",
+      "contentSnippet": "央视新闻客户端消息：中国机械工业联合会今天(6日)发布的信息显示，今年上半年，我国机械工业行业运行稳中有进，向新向优转型提速。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "上半年我国机械工业运行稳中有进，转型提速。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为央视新闻客户端，权威性高，内容具体，引用官方数据，用词客观。"
+    },
+    {
+      "title": "看完这份全球民调，China Travel DNA动了！",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-06/10672793.shtml",
+      "pubDate": "Thu, 6 Aug 2026 10:33:46 +0800",
+      "contentSnippet": "CGTN民调丨看完这份全球民调，China Travel DNA动了！",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国新闻网报道CGTN全球民调显示中国旅游吸引力上升。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为官方媒体，民调数据具体，但标题偏宣传性，缺乏独立验证。"
+    },
+    {
+      "title": "感悟“一个都不能少”（人民论坛）",
+      "link": "https://www.chinanews.com.cn/ll/2026/08-06/10672794.shtml",
+      "pubDate": "Thu, 6 Aug 2026 10:33:14 +0800",
+      "contentSnippet": "人民日报",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "人民日报评论强调全面小康路上一个都不能少，体现发展为民理念。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为人民日报，权威性高，内容为评论文章，观点明确，事实可查证。"
+    },
+    {
+      "title": "加油！让教育涵润出彩人生",
+      "link": "https://www.chinanews.com.cn/ll/2026/08-06/10672792.shtml",
+      "pubDate": "Thu, 6 Aug 2026 10:31:12 +0800",
+      "contentSnippet": "【“筑基”高质量·系列评论之四】",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国新闻网评论文章，强调教育质量提升，倡导教育涵养人生。",
       "credibilityScore": 75,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源较权威，内容具体，但缺乏直接引述和数据来源，部分细节不完整。"
-    },
-    {
-      "title": "美媒：美军已消耗近八成“萨德”拦截弹",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-05/10672178.shtml",
-      "pubDate": "Wed, 5 Aug 2026 10:28:09 +0800",
-      "contentSnippet": "中新网8月5日电 据美国有线电视新闻网4日报道，自美国与伊朗的冲突开始以来，美军已消耗接近战前库存80%的“萨德”反导系统拦截弹，并使用了约一半的“爱国者”防空系统拦截弹。多名美军指挥官警告，五角大楼部分关键弹药库存已降至“危险低位”。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "美媒称美军已消耗近八成萨德拦截弹，库存告急。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，引述CNN报道，信息具体，但未多源验证，评分略低。"
-    },
-    {
-      "title": "聚焦“量典融合”“数智力学” 中国科协年会举办专题论坛",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-05/10672174.shtml",
-      "pubDate": "Wed, 5 Aug 2026 10:26:49 +0800",
-      "contentSnippet": "中新网北京8月5日电 (记者 孙自法)聚焦量子计算与经典计算深度融合(量典融合)、数智力学，第二十八届中国科协年会“量典融合的力学计算范式”“数智力学的理论与方法”专题论坛，最近在北京分别举办。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国科协年会举办量典融合与数智力学专题论坛，聚焦量子与经典计算融合。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威媒体，报道具体，有记者署名，内容客观可查证。"
+      "credibilityReason": "来源为官方媒体，内容正面但属评论性文章，缺乏具体事实和数据，可查证性一般。"
     }
   ]
 }
