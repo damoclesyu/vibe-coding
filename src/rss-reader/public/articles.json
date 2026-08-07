@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-06T02:51:42.474Z",
+  "generatedAt": "2026-08-07T02:59:47.858Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "防城海关业务技术综合楼生活配套设施改造工程(GGZX2026-ZB-272)竞争性协商公告",
-      "link": "https://www.chinanews.com.cn/aseaninfo/2026/08-06/10672784.shtml",
-      "pubDate": "Thu, 6 Aug 2026 10:22:14 +0800",
-      "contentSnippet": "广西桂工建设管理咨询有限公司受中华人民共和国防城海关委托，现对防城海关业务技术综合楼生活配套设施改造工程进行竞争性协商采购，该项目为非政府采购项目，欢迎符合条件的供应商前来参加协商活动。",
+      "title": "23名台湾青年法律人才在沪完成“职场初体验”",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-07/10673445.shtml",
+      "pubDate": "Fri, 7 Aug 2026 10:41:17 +0800",
+      "contentSnippet": "中新网上海8月7日电(记者 缪璐)2026“台湾青年法律人才实践基地”结业仪式6日在华东政法大学长宁校区举行。23名台湾青年圆满完成为期一个月的实践学习，顺利结业。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -16,33 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "防城海关发布生活配套设施改造工程竞争性协商公告，非政府采购项目。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为正规媒体，公告内容具体，含项目编号和委托机构，事实可查证。"
-    },
-    {
-      "title": "三十六载稽史传薪 《中山舰传奇（修订本）》在广州首发",
-      "link": "https://www.chinanews.com.cn/cul/2026/08-06/10672773.shtml",
-      "pubDate": "Thu, 6 Aug 2026 10:19:40 +0800",
-      "contentSnippet": "中新网广州8月6日电 (记者 郭军)8月5日，恰逢1917年永丰舰进驻广州港黄埔水域的重要历史节点，红色史学力作《中山舰传奇(修订本)》新书首发仪式在广州港太古仓码头举行，为粤港澳大湾区红色航运文脉传承增添标志性文史成果。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "《中山舰传奇（修订本）》在广州首发，纪念永丰舰进驻黄埔历史节点。",
+      "aiSummary": "23名台湾青年法律人才在上海完成一个月实践学习并结业。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威媒体，有具体时间地点人物，内容客观，可查证。"
+      "credibilityReason": "来源为中国新闻网，属权威媒体，报道具体，含时间地点人物，信息可查证。"
     },
     {
-      "title": "以媒：以军误将拦截弹射向以军方向",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-06/10672758.shtml",
-      "pubDate": "Thu, 6 Aug 2026 10:12:35 +0800",
-      "contentSnippet": "中新网8月6日电 据《以色列时报》5日报道，以色列国防军称，其一枚拦截弹被误射向位于黎巴嫩南部的以军方向，但未造成人员伤亡。",
+      "title": "美国大学生足球队走进海南琼中：数千民众齐唱黎歌致远客",
+      "link": "https://www.chinanews.com.cn/ty/2026/08-07/10673443.shtml",
+      "pubDate": "Fri, 7 Aug 2026 10:39:49 +0800",
+      "contentSnippet": "中新网海南琼中8月7日电 (记者 王晓斌 李宇凡)当美国宾州大学生足球队走进海南琼中黎族苗族自治县的球场时，看台上数千名观众爆发出掌声与欢呼。这支今年刚成立的队伍未料到在遥远的中国海南中部山区，会迎来如此热烈的回应。8月6日傍晚，琼中县历史上首场中美足球友谊赛，在数千人的注视下开球。赛后，观众齐唱黎族民歌，向远道而来的客人致意。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -50,16 +33,50 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "以色列军方称一枚拦截弹误射向黎巴嫩南部的以军方向，无人员伤亡。",
-      "credibilityScore": 75,
+      "aiSummary": "美国大学生足球队访海南琼中，数千民众唱黎歌欢迎，中美足球友谊赛举行。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，引用以色列时报，信息具体，但单一来源，未多源验证。"
+      "credibilityReason": "来源中国新闻网，权威媒体，有具体时间地点人物，细节丰富，用词客观。"
     },
     {
-      "title": "解放军报刊文：日本频繁军演凸显危险扩张图谋",
-      "link": "https://m.thepaper.cn/detail/33727340",
-      "pubDate": "Wed, 05 Aug 2026 23:06:37 GMT",
-      "contentSnippet": "近期，日本接连深度参与“坚毅之龙-2026”“勇敢之盾-2026”“环太平洋-2026”联合军演。这三场演习在时间上重叠接续，在空间上由近向远跨域延伸，在科目设置上进攻性明显。日本频繁参与联合军演，企图检验提升多域联合作战能力，是其摒弃“专守防卫”原则、打造外向型进攻军力的危险举动。对此，亚太国家乃至国际社会须高度警惕。\n演习科目“由守转攻”进攻色彩浓厚。日本参与的这几场演习，科目涵盖联合夺岛、远洋反潜、联合制海、海上封锁等，突破了以往侧重防御性离岛守备的框架，展现出明显的进攻性特征。“坚毅之龙-2026”聚焦第一岛链前沿作战，被视为日美联合夺岛的“全流程彩排”，其科目不仅涵盖传统的反登陆，还",
+      "title": "奔腾中国·质胜未来丨推动高质量发展",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-07/10673438.shtml",
+      "pubDate": "Fri, 7 Aug 2026 10:34:29 +0800",
+      "contentSnippet": "(中国经济网）",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国新闻网报道推动高质量发展主题，强调质胜未来。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为官方媒体，内容正面但缺乏具体细节，评分中等偏上。"
+    },
+    {
+      "title": "“拎”“捂”之分体现政绩观成色（思想纵横）",
+      "link": "https://www.chinanews.com.cn/ll/2026/08-07/10673431.shtml",
+      "pubDate": "Fri, 7 Aug 2026 10:29:53 +0800",
+      "contentSnippet": "习近平同志在《之江新语》中深刻指出：“每一个领导干部都要拎着‘乌纱帽’为民干事，而不能捂着‘乌纱帽’为己做‘官’。”“拎”与“捂”，一字之差，折射的是政绩观的根本分野。现实中，少数党员干部把“避事”当成“保官”的护身符，遇事绕着走、矛盾推着走、责任躲着走，宁可不干事也要保位子。究其实质，是政绩观存在偏差。当前，世界百年未有之大变局加速演进，国内改革发展稳定任务艰巨繁重，尤其需要党员干部破除“保官避事”的私心杂念，在“拎”与“捂”间作出清醒而坚定的抉择。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "评论文章强调干部应为民干事而非保官避事，体现正确政绩观。",
+      "credibilityScore": 75,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为官方媒体，内容为评论性文章，观点明确但缺乏具体事实和数据，可查证性一般。"
+    },
+    {
+      "title": "特朗普称继续支持国防部长赫格塞思",
+      "link": "https://m.thepaper.cn/detail/33735390",
+      "pubDate": "Fri, 07 Aug 2026 01:40:37 GMT",
+      "contentSnippet": "特朗普与赫格塞思（右）\n\n\n当地时间8月6日，央视记者获悉，美国总统特朗普表示，目前仍支持国防部长赫格塞思。\n特朗普在当天接受采访时称赫格塞思是“聪明人”，并表示自己仍站在他一边。\n报道称，尽管伊朗战争在美国国内支持度不高，部分共和党人也对赫格塞思的领导能力有所质疑，但特朗普目前无意撤换他。",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -67,33 +84,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "解放军报批评日本频繁军演，指其放弃专守防卫，凸显危险扩张图谋。",
+      "aiSummary": "特朗普表示继续支持国防部长赫格塞思，称其为聪明人，无意撤换。",
       "credibilityScore": 75,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为澎湃新闻，内容具体但属官方立场，缺乏多源验证，评分中等偏上。"
+      "credibilityReason": "来源为澎湃新闻，引用央视记者信息，内容具体但未多源验证，评分中等偏上。"
     },
     {
-      "title": "2026年01至06月云南省进口主要商品量值表",
-      "link": "https://www.chinanews.com.cn/aseaninfo/2026/08-06/10672802.shtml",
-      "pubDate": "Thu, 6 Aug 2026 10:44:45 +0800",
-      "contentSnippet": "2026年01至06月云南省进口主要商品量值表.xlsx",
-      "sourceName": "中国新闻网",
+      "title": "人民日报刊文：党员干部需在“拎”与“捂”间作出清醒而坚定的抉择",
+      "link": "https://m.thepaper.cn/detail/33734674",
+      "pubDate": "Thu, 06 Aug 2026 23:09:55 GMT",
+      "contentSnippet": "习近平同志在《之江新语》中深刻指出：“每一个领导干部都要拎着‘乌纱帽’为民干事，而不能捂着‘乌纱帽’为己做‘官’。”“拎”与“捂”，一字之差，折射的是政绩观的根本分野。现实中，少数党员干部把“避事”当成“保官”的护身符，遇事绕着走、矛盾推着走、责任躲着走，宁可不干事也要保位子。究其实质，是政绩观存在偏差。当前，世界百年未有之大变局加速演进，国内改革发展稳定任务艰巨繁重，尤其需要党员干部破除“保官避事”的私心杂念，在“拎”与“捂”间作出清醒而坚定的抉择。\n“保官避事”的本质，是“捂”的心态作祟。“捂”者，凡事为自己打算，把官位看得重、责任看得轻，遇到事关群众利益的现实问题，首先想到的不是百姓冷暖",
+      "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
-        "中国新闻网"
+        "澎湃新闻"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "云南发布2026年上半年进口主要商品量值表。",
+      "aiSummary": "人民日报刊文强调党员干部应为民干事而非保官避事，呼吁在政绩观上做出正确选择。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为权威媒体，内容为官方统计数据，具体可查证，用词客观。"
+      "credibilityReason": "来源为澎湃新闻转载人民日报，权威性高，内容具体引用习近平讲话，用词客观，可查证。"
     },
     {
-      "title": "（活力中国调研行）城市地下管网或将与具身智能结合 加固城市生命线建设",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-06/10672798.shtml",
-      "pubDate": "Thu, 6 Aug 2026 10:42:25 +0800",
-      "contentSnippet": "中新网合肥8月6日电 (记者 周昕 储玮玮)地下管线是维系城市运转的“血管”，是城市的地下“生命线”。清华大学合肥公共安全研究院院长袁宏永5日在合肥表示，要加快具身智能地下管网研究，加固城市生命线建设。",
+      "title": "2026“亲情中华·中国寻根之旅”夏令营辽宁营开营",
+      "link": "https://www.chinanews.com.cn/hr/2026/08-07/10673451.shtml",
+      "pubDate": "Fri, 7 Aug 2026 10:42:35 +0800",
+      "contentSnippet": "中新网沈阳8月7日电 (记者 李晛)8月6日，2026“亲情中华·中国寻根之旅”夏令营辽宁营开营。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -101,16 +118,84 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国新闻网报道，专家建议将具身智能技术应用于城市地下管网，以加固城市生命线建设。",
+      "aiSummary": "2026年“亲情中华·中国寻根之旅”夏令营辽宁营开营，活动旨在促进海外华裔青少年文化交流。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，属权威媒体，报道具体，含时间地点人物，内容客观可查证。"
+    },
+    {
+      "title": "聚焦“多元储能”“新型电池” 中国科协年会举办两场专题论坛",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-07/10673447.shtml",
+      "pubDate": "Fri, 7 Aug 2026 10:42:13 +0800",
+      "contentSnippet": "中新网北京8月7日电 (记者 孙自法)第二十八届中国科协年会“多元储能(含抽水蓄能、新型储能)的智能调控与安全运行”“新型电池与储能关键材料的技术突破与跨学科协同路径”专题论坛，最近在北京分别举办。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国科协年会举办多元储能与新型电池专题论坛，聚焦智能调控与技术突破。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网，权威媒体，内容具体，有记者署名，事实可查证。"
+    },
+    {
+      "title": "8月7日北京预计迎短时强降水 启动全市防汛四级应急响应",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-07/10673452.shtml",
+      "pubDate": "Fri, 7 Aug 2026 10:41:47 +0800",
+      "contentSnippet": "中新网北京8月7日电 (记者 陈杭)北京市气象台7日9时发布暴雨蓝色预警信号：预计7日12时至23时，北京市将出现小时雨量30毫米以上的短时强降水，其中，延庆、怀柔、密云、昌平、门头沟、房山等区将出现小时雨量50毫米以上的短时强降水，6小时降雨量可达70毫米以上，请注意防范。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "北京发布暴雨蓝色预警，启动防汛四级应急响应，预计8月7日有短时强降水。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网权威，信息具体含时间、地点、数据，引用气象台预警，客观可信。"
+    },
+    {
+      "title": "（活力中国调研行）“科漂”不漂泊 合肥吸引科技人才“近悦远来”",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-07/10673440.shtml",
+      "pubDate": "Fri, 7 Aug 2026 10:41:01 +0800",
+      "contentSnippet": "中新网合肥8月7日电 (记者 周昕 储玮玮)你听说过“科漂”吗？“科漂”一词源自合肥，指的是奔赴安徽奔赴合肥、深耕科技成果转化、追逐科创创业梦想的科技创新人才。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "合肥吸引科技人才，创新“科漂”概念，助力科技成果转化。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网，权威媒体，内容具体，有记者署名，客观报道。"
+    },
+    {
+      "title": "北极变暖如何影响西伯利亚冻土？最新研究称甲烷排放加速增长",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-07/10673434.shtml",
+      "pubDate": "Fri, 7 Aug 2026 10:40:47 +0800",
+      "contentSnippet": "中新网北京8月7日电 (记者 孙自法)在全球变暖大背景下，北极的快速变暖对西伯利亚地区多年冻土有何影响？",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国新闻网报道，最新研究称北极变暖加速西伯利亚冻土甲烷排放增长。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为官方媒体，内容具体，有专家直接引述，但缺乏多源交叉验证。"
+      "credibilityReason": "来源为正规媒体，有记者署名和具体时间，内容具体，但未提及多源交叉验证。"
     },
     {
-      "title": "文旅热、避暑火、客流旺 黑龙江机场集团迎来史上“最忙暑运”",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-06/10672797.shtml",
-      "pubDate": "Thu, 6 Aug 2026 10:42:11 +0800",
-      "contentSnippet": "中新网哈尔滨8月6日电 (史轶夫 温天禹)哈尔滨之夏音乐季、哈尔滨国际啤酒节、太阳岛电影周、东北超……暑运以来，黑龙江凭借舒适宜人的夏季气候、丰富多元的大型活动和独具特色的文旅资源，吸引国内外游客纷至沓来。",
+      "title": "四川会理：火把盛会“燃”川滇交界 千年古城迎八方来客",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-07/10673435.shtml",
+      "pubDate": "Fri, 7 Aug 2026 10:39:33 +0800",
+      "contentSnippet": "中新网凉山8月7日电 题：四川会理：火把盛会“燃”川滇交界 千年古城迎八方来客",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -118,16 +203,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "黑龙江机场集团暑运客流创新高，文旅活动带动避暑旅游热潮。",
+      "aiSummary": "四川会理举办火把盛会，吸引川滇交界游客，展现千年古城魅力。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威媒体，报道具体，含数据与活动细节，可信度高。"
+      "credibilityReason": "来源中国新闻网，权威性较高，内容具体，有明确时间地点，用词客观。"
     },
     {
-      "title": "重庆海关技术中心2026年彭水县食用农产品抽样服务项目比选公告",
-      "link": "https://www.chinanews.com.cn/aseaninfo/2026/08-06/10672801.shtml",
-      "pubDate": "Thu, 6 Aug 2026 10:42:03 +0800",
-      "contentSnippet": "一、项目基本情况",
+      "title": "侨乡泉州智造筑基绘就产城共生新图景",
+      "link": "https://www.chinanews.com.cn/hr/2026/08-07/10673439.shtml",
+      "pubDate": "Fri, 7 Aug 2026 10:38:51 +0800",
+      "contentSnippet": "中新网泉州8月7日电 (记者 孙虹)走进泉州洛江区铁拓机械5G智能产业园，焊接机械臂自动完成焊接工序，AGV小车穿梭转运各类物料，中控大屏实时滚动全车间生产参数……作为福建省首家登陆北交所的装备制造业民营企业，这里是侨乡泉州智能装备产业链迭代升级的鲜活样本。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -135,16 +220,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "重庆海关技术中心发布2026年彭水县食用农产品抽样服务项目比选公告。",
+      "aiSummary": "泉州洛江区铁拓机械5G智能产业园展现侨乡智造升级，产城融合新图景。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网，权威媒体，有具体地点、企业、技术细节，记者署名，内容客观。"
+    },
+    {
+      "title": "突破地域限制 网络平台成多款新药首发渠道",
+      "link": "https://www.chinanews.com.cn/jk/2026/08-07/10673450.shtml",
+      "pubDate": "Fri, 7 Aug 2026 10:38:29 +0800",
+      "contentSnippet": "让药品更好触达患者",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国新闻网报道，网络平台成为多款新药首发渠道，突破地域限制，更好触达患者。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为正规媒体，内容为官方公告，信息具体，但未提供详细细节，评分略低于一线通讯社。"
+      "credibilityReason": "来源为权威媒体，内容具体，涉及医药行业，但缺乏直接引述和详细数据，评分中等偏上。"
     },
     {
-      "title": "2000亿元超长期特别国债下达 支持老旧小区加装电梯等",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-06/10672800.shtml",
-      "pubDate": "Thu, 6 Aug 2026 10:41:59 +0800",
-      "contentSnippet": "年中经济观察丨2000亿元超长期特别国债下达 支持老旧小区加装电梯等",
+      "title": "中国科协举办未来飞行器、人工智能基础、智能航空安全专题论坛",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-07/10673437.shtml",
+      "pubDate": "Fri, 7 Aug 2026 10:38:27 +0800",
+      "contentSnippet": "中新网北京8月7日电 (记者 孙自法)第二十八届中国科协年会“未来飞行器设计中的‘人工智能+’”“人工智能基础(数理/认知/神经科学等)”“面向航空安全的智能算法测试评估与认证体系”专题论坛，最近在北京分别举办。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -152,112 +254,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "2000亿元超长期特别国债下达，支持老旧小区加装电梯等改造。",
+      "aiSummary": "中国科协年会举办三场人工智能与航空安全专题论坛，聚焦未来飞行器设计等议题。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威性较高；信息具体，涉及金额和用途；但缺乏直接引述和交叉验证。"
-    },
-    {
-      "title": "邕州海关南面围墙部分拆除重建项目（重）(YZLNN2026-C2-407-ZYQT-1) 成交结果公告",
-      "link": "https://www.chinanews.com.cn/aseaninfo/2026/08-06/10672799.shtml",
-      "pubDate": "Thu, 6 Aug 2026 10:40:07 +0800",
-      "contentSnippet": "云之龙咨询集团有限公司受中华人民共和国邕州海关委托，于2026年8月4日就邕州海关南面围墙部分拆除重建项目(重)采用竞争性协商方式进行采购，按规定程序进行了协商，现就本次采购的成交结果公告如下：",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "邕州海关围墙拆除重建项目成交结果公告发布。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为正规媒体，内容具体，含项目编号、时间、方式，事实可查证。"
-    },
-    {
-      "title": "内蒙古鄂尔多斯：北大池盐湖如夏日调色板",
-      "link": "http://www.chinanews.com.cn/tp/hd2011/2026/08-06/1200277.shtml",
-      "pubDate": "Thu, 6 Aug 2026 10:39:29 +0800",
-      "contentSnippet": "",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "内蒙古鄂尔多斯北大池盐湖夏日呈现多彩景观，宛如调色板。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威媒体，内容具体描述景观，无争议性，可信度高。"
-    },
-    {
-      "title": "向新向优转型提速 上半年我国机械工业行业运行稳中有进",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-06/10672795.shtml",
-      "pubDate": "Thu, 6 Aug 2026 10:38:25 +0800",
-      "contentSnippet": "央视新闻客户端消息：中国机械工业联合会今天(6日)发布的信息显示，今年上半年，我国机械工业行业运行稳中有进，向新向优转型提速。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "上半年我国机械工业运行稳中有进，转型提速。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为央视新闻客户端，权威性高，内容具体，引用官方数据，用词客观。"
-    },
-    {
-      "title": "看完这份全球民调，China Travel DNA动了！",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-06/10672793.shtml",
-      "pubDate": "Thu, 6 Aug 2026 10:33:46 +0800",
-      "contentSnippet": "CGTN民调丨看完这份全球民调，China Travel DNA动了！",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国新闻网报道CGTN全球民调显示中国旅游吸引力上升。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为官方媒体，民调数据具体，但标题偏宣传性，缺乏独立验证。"
-    },
-    {
-      "title": "感悟“一个都不能少”（人民论坛）",
-      "link": "https://www.chinanews.com.cn/ll/2026/08-06/10672794.shtml",
-      "pubDate": "Thu, 6 Aug 2026 10:33:14 +0800",
-      "contentSnippet": "人民日报",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "人民日报评论强调全面小康路上一个都不能少，体现发展为民理念。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为人民日报，权威性高，内容为评论文章，观点明确，事实可查证。"
-    },
-    {
-      "title": "加油！让教育涵润出彩人生",
-      "link": "https://www.chinanews.com.cn/ll/2026/08-06/10672792.shtml",
-      "pubDate": "Thu, 6 Aug 2026 10:31:12 +0800",
-      "contentSnippet": "【“筑基”高质量·系列评论之四】",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国新闻网评论文章，强调教育质量提升，倡导教育涵养人生。",
-      "credibilityScore": 75,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为官方媒体，内容正面但属评论性文章，缺乏具体事实和数据，可查证性一般。"
+      "credibilityReason": "来源为中国新闻网，属权威媒体，报道具体，含时间地点人物，内容客观可查证。"
     }
   ]
 }
