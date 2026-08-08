@@ -1,14 +1,48 @@
 {
-  "generatedAt": "2026-08-07T03:01:17.604Z",
+  "generatedAt": "2026-08-08T01:54:15.713Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "零食量贩步入精耕时代",
-      "link": "https://www.tmtpost.com/8094374.html",
-      "pubDate": "Fri, 07 Aug 2026 09:28:37 +0800",
-      "contentSnippet": "规模、供应链和运营这三板斧",
+      "title": "苹果庆祝“全国健身日”邀请 Apple Watch 用户今日挑战：健身 20+ 分钟解锁限量奖章",
+      "link": "https://www.ithome.com/0/987/250.htm",
+      "pubDate": "Sat, 08 Aug 2026 01:29:06 GMT",
+      "contentSnippet": "IT之家 8 月 8 日消息，苹果公司为庆祝中国“全国健身日”，邀请 Apple Watch 用户参与今天（8 月 8 日）的健身活动挑战，记录至少 20 分钟的锻炼，即可获得限量版奖章。\n\n用户可以使用 Apple Watch 自带的「体能训练」App，或任何能够将运动数据记录至「健康」App 的第三方应用。\n完成挑战后，用户将获得：\n\n健身 App 中的专属虚拟奖章\n\niOS 系统中的 4 款动态贴纸奖励\n\nIT之家查询公开资料，为纪念 2008 年北京奥运会成功举办，经国务院批准，从 2009 年起将每年的 8 月 8 日正式设为“全民健身日”，今天（2026 年 8 月 8 日）正值我",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "苹果为庆祝中国全民健身日，邀请Apple Watch用户今日锻炼20分钟解锁限量奖章。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道具体，含活动细节和背景资料，信息可信。"
+    },
+    {
+      "title": "2026 全球智能制造与电子产品博览会 12 月广州举办，特斯拉、蔚来、荣耀、OPPO、vivo 等参展",
+      "link": "https://www.ithome.com/0/987/238.htm",
+      "pubDate": "Sat, 08 Aug 2026 00:25:31 GMT",
+      "contentSnippet": "IT之家 8 月 8 日消息，据央视新闻报道，8 月 7 日，2026 全球智能制造与电子产品博览会（AIE 电子展）新闻发布会在广州举行。\n据悉，本届博览会定于 12 月 3 日至 5 日举办，延续首届“一展双城”办展模式，锚定“中国智造首发平台”定位，聚焦人工智能全产业链，着力打造大湾区智能制造链接全球的重要窗口。本届博览会将在珠海、澳门两地同步开展。\n在首届展会基础上，第二届 AIE 电子展进一步扩容提质，预计汇聚超 1000 家科技企业，迎来 5 万名海内外专业观众，加速全球新品首发资源落地大湾区。\nIT之家查询获悉，截至目前，展会招展面积已超 70%。AI 智能装备与机器人、智慧人居",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "2026全球智能制造与电子产品博览会12月广州举办，特斯拉等参展。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，引用央视新闻，信息具体，有数据支撑，内容客观。"
+    },
+    {
+      "title": "【硅基全链透视・终篇】硅料成博弈筹码，硅基产业自主提速",
+      "link": "https://www.tmtpost.com/8094985.html",
+      "pubDate": "Fri, 07 Aug 2026 18:58:39 +0800",
+      "contentSnippet": "本专题开篇厘清多晶硅工艺与赛道壁垒，中篇盘点全球厂商竞争格局，终篇上升至地缘供应链视角。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -16,33 +50,68 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "零食量贩行业进入精细化运营阶段，聚焦规模、供应链与运营。",
+      "aiSummary": "分析硅料博弈与硅基产业自主化，聚焦地缘供应链。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容聚焦行业趋势，但细节较少，缺乏具体数据支撑。"
+      "credibilityReason": "钛媒体为知名科技媒体，内容有专题深度，但缺乏具体数据与原始引用。"
     },
     {
-      "title": "世界正在耗尽河沙",
-      "link": "https://www.solidot.org/story?sid=85028",
-      "pubDate": "Fri, 07 Aug 2026 00:30:22 +0800",
-      "contentSnippet": "世界各地的工业采砂活动正以远超地球自然补充的速度开采河床沉积物。世界正在耗尽河沙。研究显示全世界对河沙和砾石的需求是不可持续的。越南目前的采砂速度约为自然沉积物补充速度的 11.8 倍。越南在 2015-2022 年间开采了约 3.66 亿立方米的沙子，导致河床平均下沉 0.48 米。如此大的变化会对水流方式、河流系统的健康以及河流两岸的结构产生重大影响。越南湄公河段在 2018-2020 年间，逾 1800 栋房屋因河岸侵蚀而倒塌。如果越南湄公河目前的采砂速度持续下去，到 2035 年河沙将枯竭。河沙因其颗粒能提供合适的摩擦力，且一般不含盐分，因此在建筑领域广泛使用，它占到了混凝土体积的七成",
-      "sourceName": "Solidot",
-      "sourceWeight": 75,
+      "title": "212 越野车 X03 新车申报：柴油动力硬派越野车型，可选拖挂",
+      "link": "https://www.ithome.com/0/987/254.htm",
+      "pubDate": "Sat, 08 Aug 2026 01:51:38 GMT",
+      "contentSnippet": "IT之家 8 月 8 日消息，工信部发布第 410 批《道路机动车辆生产企业及产品公告》新产品公示，北京汽车制造厂二一二牌 212 X03 完成申报。\n\n这款车型为越野乘用车，采用柴油燃料，车身外形尺寸长 5095 mm、宽 2038 mm、高 1945 mm，轴距为 2950 mm，整备质量 2570 kg，总质量 3070 kg，额定载客（含驾驶员）座位数为 5 座。\n\n动力方面，该车搭载东风轻型发动机有限公司生产的 DDi23-500B 发动机，排量为 2298 ml，功率 140 kW，发动机净功率 138 kW，最高车速可达 170 km/h，排放符合国 Ⅵ 标准。\nIT之家获悉，该",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "212越野车X03柴油版申报，硬派越野可选拖挂。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，信息具体含尺寸动力数据，引用工信部公告，客观准确。"
+    },
+    {
+      "title": "降幅 10~15%：苹果美国扩充官翻 Mac、Apple Watch、Apple TV 4K 等产品",
+      "link": "https://www.ithome.com/0/987/253.htm",
+      "pubDate": "Sat, 08 Aug 2026 01:49:57 GMT",
+      "contentSnippet": "IT之家 8 月 8 日消息，消息源 9to5Mac 昨日（8 月 7 日）发布博文，报道称苹果美国官网扩充翻新产品阵容，新增多款 Mac、Apple TV 4K、Studio Display XDR 显示器，以及部分 Apple Watch 和 iPhone 机型，降幅 10.01~ 15%。\n苹果称，翻新商品经过严格翻新流程，购买后仍享有 1 年有限保修、14 天退货政策，且可加购 AppleCare；但不支持刻字和礼品包装。\nMac 方面，苹果美国官网本次上架 14 英寸 M5 MacBook Pro 512GB 版本，售价 1,439 美元，官方全新售价为 1,599 美元，节省 16",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家",
         "Solidot"
       ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "全球河沙开采远超自然补充，越南采砂速度达补充11.8倍，河沙或于2035年枯竭。",
-      "credibilityScore": 85,
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "苹果美国扩充官翻产品线，Mac等降幅10-15%，享保修。",
+      "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体，引用具体数据和研究，逻辑清晰，但未提供原始研究出处。"
+      "credibilityReason": "来源IT之家和Solidot，引用9to5Mac，信息具体，价格数据明确，逻辑清晰。（多源覆盖 +5）"
     },
     {
-      "title": "一扇门被关上，中国具身智能产业正破窗",
-      "link": "https://www.tmtpost.com/8093205.html",
-      "pubDate": "Thu, 06 Aug 2026 18:15:04 +0800",
-      "contentSnippet": "美国一道禁令关掉了出口的大门，反倒让中国具身智能产业摆脱了对单一市场的依赖，在看得到未来的新发展窗口里，既有中国制造供应链打磨的“身体”，也有在本土与非美场景中不断训练迭代的“大脑”，长期来看，中美具身产业间的这场关于智能与效率的竞争，或将进入深水区。",
+      "title": "微软宣布 Edge 浏览器将逐步取消 Manifest V2 扩展程序支持",
+      "link": "https://www.ithome.com/0/987/251.htm",
+      "pubDate": "Sat, 08 Aug 2026 01:40:36 GMT",
+      "contentSnippet": "IT之家 8 月 8 日消息，当地时间 8 月 7 日，微软宣布，自 2026 年 8 月起，Edge 浏览器将启动面向普通消费者的过渡计划，逐步停止对 MV2 扩展的支持并全面转向 MV3。目标是在 2026 年底前完成面向普通用户的过渡，并于 2027 年初正式面向企业客户弃用 MV2。\n微软表示，Edge 浏览器的 Manifest Version 2（MV2）扩展程序正加速向 MV3 迁移，整个扩展生态已取得实质性进展。目前 Edge 扩展商店中 95% 的头部 MV2 扩展均已完成升级。仍拥有实质用户量的 MV2 扩展仅剩 58 个，其中只有 3 个尚未推出公开的 MV3 替代版本。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微软宣布Edge浏览器将逐步取消MV2扩展支持，转向MV3，2026年底完成消费者过渡。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道具体时间节点和数据，逻辑清晰，可信度高。"
+    },
+    {
+      "title": "这只AI概念股正在飙涨，它能摆脱“迷因股”的标签吗？",
+      "link": "https://www.tmtpost.com/8095999.html",
+      "pubDate": "Sat, 08 Aug 2026 09:37:51 +0800",
+      "contentSnippet": "应用光电公司公布了稳健的业绩，提振了投资者的信心；这些投资者希望它不仅仅是一只“网红股”。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -50,135 +119,68 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "美国禁令促使中国具身智能产业自主发展，竞争进入深水区。",
+      "aiSummary": "应用光电业绩稳健，投资者期待其摆脱迷因股标签。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体，观点明确，但缺乏具体数据和原始出处，分析性较强。"
+      "credibilityReason": "钛媒体为知名科技媒体，内容具体提及公司业绩，但缺乏数据细节和原始出处。"
     },
     {
-      "title": "有助于突破摩尔定律极限，台积电等研发出单层二硫化钼 MoS2 顶栅极晶体管",
-      "link": "https://www.ithome.com/0/986/861.htm",
-      "pubDate": "Fri, 07 Aug 2026 02:58:05 GMT",
-      "contentSnippet": "IT之家 8 月 7 日消息，据台媒经济日报消息，台积电在下一代技术领域取得重大突破。\n台积电联合阳明交通大学团队，成功研发出高性能单层二硫化钼（MoS2）顶栅极晶体管，有助于突破摩尔定律极限，为开启“后硅”时代带来全新契机，相关研究成果已发表于学术期刊《自然-电子学》。\n业界指出，为突破摩尔定律的极限，当半导体制程迈入 1 纳米以下节点时，寻找新材料已成为必然趋势。其中，二硫化钼（MoS2）作为备受瞩目的新型二维半导体材料，预计将在约 1 纳米以下的 0.7 纳米（A7 制程）/CFET（互补场效应晶体管）时代正式引入。\n包括应用材料、阿斯麦（ASML）、爱思强（AIXTRON）、ASM I",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "小米前高管押注的咖啡机器人赛道，要用10万家门店PK瑞幸们？",
+      "link": "https://www.tmtpost.com/8095842.html",
+      "pubDate": "Sat, 08 Aug 2026 09:34:49 +0800",
+      "contentSnippet": "咖啡师的效率革命，真要来了？",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
       "allSources": [
-        "IT之家"
+        "钛媒体"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "台积电联合阳明交大研发出单层MoS2顶栅极晶体管，助力突破摩尔定律极限。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体，有学术期刊发表和台媒报道支撑，技术细节清晰。"
-    },
-    {
-      "title": "皮克斯经典动画电影《机器人总动员》官宣 8 月 19 日内地首次公映",
-      "link": "https://www.ithome.com/0/986/859.htm",
-      "pubDate": "Fri, 07 Aug 2026 02:56:28 GMT",
-      "contentSnippet": "IT之家 8 月 7 日消息，迪士尼电影旗下皮克斯工作室今日宣布，皮克斯经典动画电影、第 81 届奥斯卡最佳动画长片《机器人总动员》将于 8 月 19 日在内地首次公映，8 月 15 日至 18 日 14:00-22:00 超前点映。\n\n该电影于 2008 年 6 月 27 日首次在美国上映，目前豆瓣评分高达 9.3，位列豆瓣电影 Top 250 排行榜第 16 名，IT之家附剧情简介：\n\n公元 2805 年，人类文明高度发展，却因污染和生活垃圾大量增加使得地球不再适于人类居住。地球人被迫乘坐飞船离开故乡，进行一次漫长无边的宇宙之旅。临行前他们委托 Buynlarge 的公司对地球垃圾进行清理",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "皮克斯《机器人总动员》8月19日内地首映，8月15-18日超前点映。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体含日期、评分，来源可靠，内容客观。"
-    },
-    {
-      "title": "SIA & WSTS：全球半导体销售额 2026Q2 环比大增 35.1% 至 4033 亿美元",
-      "link": "https://www.ithome.com/0/986/858.htm",
-      "pubDate": "Fri, 07 Aug 2026 02:54:48 GMT",
-      "contentSnippet": "IT之家 8 月 7 日消息，美国半导体行业协会 (SIA) 当地时间 6 日表示，根据世界半导体贸易统计组织 (WSTS) 编制的数据，全球半导体销售额在 2026 年第 2 季度达到 4,033 亿美元（IT之家注：现汇率约合 2.73 万亿元人民币），环比增幅达到 35.1%。\n而如果从月度来看，2026 年 6 月的半导体销售额达到 1,344.5 亿美元（现汇率约合 9,093.43 亿元人民币），同比和环比增幅分别是 123.6% 和 9.7%。美洲在同比增幅方面居首，中国市场则录得最高环比增幅，所有细分区域市场在 6 月均实现同比和环比正增长。\n\n▲ 图源：SIA & WSTS",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "全球半导体销售额2026年Q2环比大增35.1%，达4033亿美元。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用SIA和WSTS数据，具体数字明确，逻辑清晰，但缺乏原始报告链接。"
-    },
-    {
-      "title": "支持深色模式：微软重塑 Win11 界面，下个目标锁定 AutoPlay 对话框",
-      "link": "https://www.ithome.com/0/986/857.htm",
-      "pubDate": "Fri, 07 Aug 2026 02:53:19 GMT",
-      "contentSnippet": "IT之家 8 月 7 日消息，科技媒体 Windows Latest 今天（8 月 7 日）发布博文，报道称在文件属性、运行以及打印管理工具之后，微软 WinUI 3 改造 Windows 11 界面的下个目标是自动播放（AutoPlay）对话框。\nIT之家援引博文介绍，自动播放（AutoPlay）是用户插入 USB 驱动器或 SD 卡后弹出的选择窗口，用于提示用户选择打开、导入或处理外部介质的方式。\n该界面基于 AutoRun 功能改造，最早随 Windows XP 在 2001 年出现。不过自从 Windows 7 系统开始，AutoPlay 的界面基本保持不变，仍以白色背景、基础 Win",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "微软Win11将用WinUI 3改造AutoPlay对话框，支持深色模式。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用Windows Latest，内容具体，技术细节清晰，但无原始链接。"
-    },
-    {
-      "title": "消息称日本将在秋田建设 500MW 数据中心，为该国最大同类设施之一",
-      "link": "https://www.ithome.com/0/986/855.htm",
-      "pubDate": "Fri, 07 Aug 2026 02:44:47 GMT",
-      "contentSnippet": "IT之家 8 月 7 日消息，据《日经亚洲》当地时间今日报道，日本将在本州岛东北部的秋田县秋田市建设一座容量最大可达 500MW 的数据中心，这将成为日本最大同类设施之一。\n秋田县拥有丰富的绿电与水利资源，在建设数据中心上有着天然优势。这座拟议的数据中心预计也将由风力发电驱动。\n\n图源：Pixabay\n该大型数据中心项目将由美国人工智能初创公司 Bitgrit 和秋田本地企业 S2 牵头，预计耗资约 2 万亿日元（IT之家注：现汇率约合 854.9 亿元人民币），计划在下个十年初投入运营。Bitgrit 将于 2027 年首先在秋田市建设一座 1.5MW 的示范性数据中心，用于电源管理和高速通",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "日本秋田将建500MW数据中心，由美企Bitgrit牵头，耗资2万亿日元。",
+      "aiSummary": "小米前高管押注咖啡机器人，计划10万家门店挑战瑞幸。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家较知名，引用日经亚洲报道，数据具体，但缺乏官方确认和细节验证。"
+      "credibilityReason": "钛媒体为知名科技媒体，内容具体，但缺乏数据支撑和原始出处，逻辑清晰但细节不足。"
     },
     {
-      "title": "6999 元，红魔 11S Pro+ 手机 16GB+512GB 氘锋透明银翼开售",
-      "link": "https://www.ithome.com/0/986/854.htm",
-      "pubDate": "Fri, 07 Aug 2026 02:43:22 GMT",
-      "contentSnippet": "IT之家 8 月 7 日消息，红魔 11S Pro+ 手机 16GB+512GB 氘锋透明银翼近期开售，具体时间为 8 月 7 日 10:00 和 8 月 10 日 10:00，京东平台售价 6999 元。\n\nIT之家注意到，红魔 11S Pro 系列手机于今年 5 月发布，采用纯平背板设计。该系列新机配备 6.85 英寸 1.5K 悟空屏 2.0 真无孔，支持 144Hz 刷新率，屏占比达到 95.3%，内置 1600 万像素前摄。红魔联合京东方带来 X10 屏下发光材料，功耗降低 10%，寿命提升 30%，全系搭载 3D 超声波指纹解锁。\n性能方面，新机搭载第五代骁龙 8 至尊领先版移动平",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "聊聊DeepSeek涨价：低价是手段，不是目的",
+      "link": "https://www.tmtpost.com/8095791.html",
+      "pubDate": "Sat, 08 Aug 2026 09:34:43 +0800",
+      "contentSnippet": "对于DeepSeek而言，低价已经帮助它完成了市场教育。下一步，它得证明自己能赚钱，而且能一直赚下去。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
       "allSources": [
-        "IT之家"
+        "钛媒体"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "红魔11S Pro+ 16GB+512GB版开售，售价6999元，搭载骁龙8至尊领先版。",
-      "credibilityScore": 85,
+      "aiSummary": "分析DeepSeek涨价策略，低价仅为市场手段，长期盈利才是目标。",
+      "credibilityScore": 78,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道具体参数和价格，信息详实，来源可靠。"
+      "credibilityReason": "钛媒体为知名科技媒体，内容分析具体，逻辑清晰，但缺乏数据支撑和原始引用。"
     },
     {
-      "title": "海关总署：今年前 7 个月我国出口机电产品同比增长 21.2%，电动汽车大增 71.2%",
-      "link": "https://www.ithome.com/0/986/853.htm",
-      "pubDate": "Fri, 07 Aug 2026 02:40:11 GMT",
-      "contentSnippet": "IT之家 8 月 7 日消息，据央视新闻报道，海关总署今天公布统计数据显示，今年前 7 个月，我国货物贸易进出口总值 30.13 万亿元，同比增长了 17.3%，延续良好的增长态势。其中，出口 17.44 万亿元，增长 14%；进口 12.69 万亿元，增长 22%。\n7 月当月，进出口 4.66 万亿元，同比增长 19.2%。其中，出口 2.71 万亿元，增长 17.8%，进口 1.95 万亿元，增长 21.2%。\n今年以来，我国经济顶压前行、向新向优，对外贸进出口增长形成有力支撑。7 月份，我国外贸延续上半年良好增长态势，增速较上半年加快了 2.3 个百分点，进出口规模连续 5 个月超过",
+      "title": "Pro、Max 和 Team 用户 8 月 14 日起 Claude Code 默认权限调整为自动模式",
+      "link": "https://www.ithome.com/0/987/249.htm",
+      "pubDate": "Sat, 08 Aug 2026 01:17:30 GMT",
+      "contentSnippet": "IT之家 8 月 8 日消息，Anthropic 今天（8 月 8 日）发布公告，宣布将于 8 月 14 日开始，针对 Pro、Max 和 Team 订阅用户，调整 Claude Code 的默认权限模式为自动模式（Auto Mode）。\nIT之家援引博文介绍，自动模式是指 Claude Code 使用独立的 AI 分类器（classifier），实时评估每次工具调用和 Shell 命令，放行安全操作，自动拦截破坏性、不可逆或越权行为。\n在覆盖范围方面，Claude Enterprise、Claude API、Claude Platform on AWS、Amazon Bedrock、Goog",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
-        "IT之家"
+        "IT之家",
+        "钛媒体"
       ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "海关总署公布前7月出口机电产品增长21.2%，电动汽车大增71.2%。",
-      "credibilityScore": 85,
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "Anthropic将调整Claude Code默认权限为自动模式，增强安全性。",
+      "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用央视新闻和官方数据，信息具体，逻辑清晰，可信度高。"
+      "credibilityReason": "来源为知名科技媒体，内容具体，有官方公告依据，技术细节清晰。（多源覆盖 +5）"
     },
     {
-      "title": "TONTOU 攻击披露：绕过部分处理器 Spectre v2 缓解措施，可泄露 Linux 敏感数据",
-      "link": "https://www.ithome.com/0/986/852.htm",
-      "pubDate": "Fri, 07 Aug 2026 02:40:01 GMT",
-      "contentSnippet": "IT之家 8 月 7 日消息，科技媒体 bleepingcomputer 昨日（8 月 6 日）发布博文，报道称麻省理工学院计算机科学与人工智能实验室（CSAIL）最新披露 TONTOU 攻击，可以在 AMD 和英特尔处理器上，绕过部分 Spectre v2 缓解措施。\n该攻击全称为 Time-of-Neutralization to Time-of-Use，由实验室博士生 Daniël Trujillo 与副教授 Mengjia Yan 发现，可绕过近期用于防御 Spectre v2 的缓解措施，并从 Linux 机器泄露敏感数据。\nIT之家援引博文介绍，Spectre v2 又称 BTI（",
+      "title": "狼蛛推出 BG 联名款 BOX63 磁轴键盘，899-999 元",
+      "link": "https://www.ithome.com/0/987/248.htm",
+      "pubDate": "Sat, 08 Aug 2026 01:15:41 GMT",
+      "contentSnippet": "IT之家 8 月 8 日消息，狼蛛推出 BG 联名款 BOX63 磁轴键盘，将于 8 月 14 日 20:00 开售，售价 899 元起：\n\n标准版（下灯位、星耀磁轴）：899 元\n\n旗舰版（双灯位、黑曜磁轴）：999 元\n\n\n\n这款键盘采用全铝 CNC 精雕工艺，采用四层双面铺铜 PCB、碳纤维定位板；有深空灰、月光银、普罗旺斯紫、云上舞白四种配色可选。\n\n\n这款键盘采用硅胶豆软 Gasket 架构，支持 8K 回报率，RT 精度可调 0.001mm，标准版延迟 0.08ms、旗舰版延迟 0.06ms；屏幕搭载 102 颗 ARGB 灯珠，支持自定义图案与最高 15 帧动画。\n\n\n这款键盘旗",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -186,50 +188,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "MIT披露TONTOU攻击，可绕过AMD/英特尔部分Spectre v2缓解，泄露Linux数据。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家转引BleepingComputer，信息具体，有研究机构及人员细节，技术描述清晰。"
-    },
-    {
-      "title": "加油站原地升级为闪充站，比亚迪与中石化合作里程碑项目落地",
-      "link": "https://www.ithome.com/0/986/851.htm",
-      "pubDate": "Fri, 07 Aug 2026 02:36:23 GMT",
-      "contentSnippet": "IT之家 8 月 7 日消息，中国石化与比亚迪今年 6 月在北京签署产业和资本合作框架协议。双方将在闪充网络建设、综合生态融合、产业链上下游协同三大领域推动多层次产业和资本合资合作，共建“万站聚能加油闪充”智慧能源生态。\n据博主 @新能源体验家 今日晒出的图片，中石化沪青平加油站全面关停燃油业务，原址升级比亚迪闪充旗舰站，是中石化与比亚迪战略合作的关键里程碑落地。\n\nIT之家查询发现，中石化上海石油分公司官方确认了这一信息，该站点名为上海沪青平公路 1209 号比亚迪闪充旗舰站。\n8 月 6 日，上海虹桥枢纽旁一座全新的比亚迪闪充站正式投入运营，位于站内的易捷便利店同步开门迎客。\n\n而这家便利",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "比亚迪与中石化合作，加油站升级为闪充旗舰站，标志性项目落地。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家可靠，有官方确认和具体细节，技术信息准确，评分高。"
-    },
-    {
-      "title": "阿里千问：推出定时任务、办公助理、语音通话等多项新功能",
-      "link": "https://www.ithome.com/0/986/849.htm",
-      "pubDate": "Fri, 07 Aug 2026 02:32:28 GMT",
-      "contentSnippet": "IT之家 8 月 7 日消息，千问 App 今日宣布功能上新，推出思考研究、定时任务、办公助理、语音通话、智能体广场等多项新功能，同时支持最新旗舰模型 Qwen3.8-MAX。\n思考研究\n“思考研究”在原“深度思考”基础上升级，进一步强化复杂推理、工具调用、信息整合与结构化输出能力，能帮助你完成更深入、更细致的研究分析和决策支持。\n比如周会汇报工作前，把资料丢给千问，千问就能根据工作背景和目标、成果概览和工作总结，生成结构清晰的完整文档。\n\n定时任务\n很多需要每天重复的工作，比如梳理行业简报、对邮件分类汇总，现在都可以交给千问自动完成，你只需要预设好执行时间，剩下的事让千问替你准时搞定。\n比如",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "阿里千问App新增多项功能，支持旗舰模型Qwen3.8-MAX。",
+      "aiSummary": "狼蛛发布BG联名款BOX63磁轴键盘，售价899-999元，8月14日开售。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容具体，但缺乏技术细节和原始引用。"
+      "credibilityReason": "IT之家为知名科技媒体，报道包含具体规格和价格，但缺乏原始出处和实测数据。"
     },
     {
-      "title": "OPPO A7 Pro Max 手机开售：10000mAh 电池、第五代骁龙 4，售价 2199 元起",
-      "link": "https://www.ithome.com/0/986/848.htm",
-      "pubDate": "Fri, 07 Aug 2026 02:31:21 GMT",
-      "contentSnippet": "IT之家 8 月 7 日消息，OPPO A7 Pro Max 手机今日正式开售，售价 2199 元起：\n\n8GB+128GB：售价 2199 元，国补后到手价约 1869.15 元\n\n12GB+256GB：售价 2699 元，国补后到手价约 2294.15 元\n\n12GB+512GB：售价 2999 元，国补后到手价约 2549.15 元\n\n\nOPPO A7 Pro Max 手机拥有乘风破浪、前橙似锦以及远山黑三色可选，背面的摄像头模组弧形设计灵感源于 OPPO A103“笑脸手机”；搭载了一块 6.78 英寸 1.5K 屏幕，全屏高亮 1800nits。\n\nOPPO A7 Pro Max 手",
+      "title": "千问闪购首次上车，极狐阿尔法 T7 支持“一句话点奶茶”",
+      "link": "https://www.ithome.com/0/987/247.htm",
+      "pubDate": "Sat, 08 Aug 2026 01:08:08 GMT",
+      "contentSnippet": "IT之家 8 月 8 日消息，极狐汽车 8 月 7 日宣布千问闪购首次上车，极狐阿尔法 T7 支持“一句话点奶茶”。\n\n根据官方此前预热，极狐阿尔法 T7 搭载 17.3 英寸同级最大 3K 中控屏 + 1.1m 同级唯一超宽全景 PHUD。除了与千问达成合作外，新车还有华为乾崑、宁德时代、麦格纳三重加持，将于 8 月 26 日开启预售。\n外观方面，该车搭载极狐首款 1700mm 一体式贯通大灯，支持远近光智能切换、全天候自适应调光、转向辅助精准指引等功能，车尾则配备星环贯穿一体成型尾灯。\n据IT之家此前报道，该车曾在 6 月现身工信部申报目录，可选纯电动或增程动力，尺寸为 5020×1996",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -237,16 +205,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "OPPO A7 Pro Max开售，10000mAh电池，骁龙4，2199元起。",
+      "aiSummary": "极狐阿尔法T7首次搭载千问闪购，支持一句话点奶茶，8月26日预售。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体含价格配置，但缺乏官方引用，评分适中。"
+      "credibilityReason": "IT之家为知名科技媒体，报道具体，含产品细节和日期，但缺乏原始数据支撑。"
     },
     {
-      "title": "小米“迄今最清晰、最聪明”智能摄像机 4 Max AI 变焦版开售，券后 739 元",
-      "link": "https://www.ithome.com/0/986/847.htm",
-      "pubDate": "Fri, 07 Aug 2026 02:26:19 GMT",
-      "contentSnippet": "IT之家 8 月 7 日消息，小米智能摄像机 4 Max AI 变焦版今日正式开售，号称小米迄今为止「最清晰、最聪明的」智能摄像机，新品到手价 799 元（京东券后 739 元），大模型会员年费 349 元起。\n\nIT之家从商品页面获悉，该机云台支持水平 360 度及垂直 180 度旋转，采用 12Mp 长焦 + 8Mp 广角设计，内置 10 颗红外补光灯，至高可实现 3 倍无损变焦、12 倍混合变焦，同时支持自动对焦及红外夜视。\n新品搭载小米首款 AI 看护大模型，聚焦儿童、老人、宠物三大看护场景，AI 大模型可智能分析所录视频，快速掌握孩子学习情况、长辈居家状态、萌宠行为活动等。可为多个看",
+      "title": "一个月内七起“AI越狱”事件，性质已经悄悄变了",
+      "link": "https://www.tmtpost.com/8095947.html",
+      "pubDate": "Sat, 08 Aug 2026 09:06:25 +0800",
+      "contentSnippet": "整场入侵持续了4.5天，期间这个AI独立执行了约1.7万次操作。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体报道一月内七起AI越狱事件，性质变化，细节详实。",
+      "credibilityScore": 78,
+      "credibilityLevel": "high",
+      "credibilityReason": "知名科技媒体，内容具体有数据支撑，逻辑清晰，但未提及原始出处。"
+    },
+    {
+      "title": "18 核 / 20 核英伟达 RTX Spark 笔记本跑分曝光：64GB 统一内存",
+      "link": "https://www.ithome.com/0/987/245.htm",
+      "pubDate": "Sat, 08 Aug 2026 01:02:08 GMT",
+      "contentSnippet": "IT之家 8 月 8 日消息，科技媒体 Wccftech 昨日（8 月 7 日）发布博文，报道称在 GeekBench 7.0.0 跑分库中，发现了两款搭载英伟达 RTX Spark 处理器的笔记本电脑。\nIT之家援引博文介绍，本次现身跑分库的 2 款设备均配备 64GB 的统一内存：\n\n型号为“OEMQAJ 766_MIS Product Name DV”的设备搭载 20 核 CPU\n\n型号为“OEMQAJ OEMQAJ Product”的设备搭载 18 核 CPU\n在跑分方面，20 核 CPU 版本 RTX Spark 单核成绩为 2,570 分，多核 23,126 分；18 核版本单核",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -254,10 +239,27 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "小米发布智能摄像机4 Max AI变焦版，主打AI看护，券后739元。",
+      "aiSummary": "IT之家报道英伟达RTX Spark笔记本跑分曝光，配64GB内存。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道具体参数和价格，但缺少官方引用和实测，评分中等偏上。"
+      "credibilityReason": "来源IT之家，引用Wccftech，信息具体但缺乏官方确认。"
+    },
+    {
+      "title": "五菱代步车全球销量突破 300 万辆，MINIEV 卖出 195 万辆",
+      "link": "https://www.ithome.com/0/987/244.htm",
+      "pubDate": "Sat, 08 Aug 2026 00:55:47 GMT",
+      "contentSnippet": "IT之家 8 月 8 日消息，8 月 7 日，在宏光 MINIEV 上市六周年之际，五菱宣布旗下代步车全球销量正式突破 300 万辆。\n据官方透露，从 2017 年 E100 诞生至今，五菱代步车累计销量突破 300 万辆。其中，宏光 MINIEV 蝉联 72 个月全球微型新能源销冠，六年累计销量突破 195 万辆；缤果家族卖出超 75 万辆。\n\nIT之家查询获悉，上汽通用五菱 7 月全球销量 120050 辆，同比增长 3.56%，其中新能源销量 72695 辆，五菱银标 7 月销量 42535 辆。\n五菱缤果 Pro 纯电小车于今年 5 月上市，上市指导价为 5.68 万至 7.08 万元",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "五菱代步车全球销量破300万辆，MINIEV累计195万辆。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，数据具体且引用官方信息，逻辑清晰。"
     }
   ]
 }
