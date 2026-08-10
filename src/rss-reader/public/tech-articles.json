@@ -1,31 +1,14 @@
 {
-  "generatedAt": "2026-08-09T02:01:43.585Z",
+  "generatedAt": "2026-08-10T02:06:14.065Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "苹果首款折叠 iPhone 配色曝光：iPhone Ultra 有望提供银色、深蓝色",
-      "link": "https://www.ithome.com/0/987/483.htm",
-      "pubDate": "Sun, 09 Aug 2026 00:53:49 GMT",
-      "contentSnippet": "IT之家 8 月 9 日消息，苹果预计将在下个月发布旗下首款折叠 iPhone。今日有爆料称，这款被称为 iPhone Ultra 的折叠机可能会提供银色和深蓝色两种配色。\n\n\nIT之家注意到，爆料人士 Sonny Dickson 今天在社交媒体上分享了两张图片，展示了两款分别采用银色和深蓝色的 iPhone 摄像头保护盖。\n这些配件用于覆盖 iPhone Ultra 的摄像头凸起部分。需要注意的是，这些并非苹果官方配件，而是第三方厂商根据供应链泄露的信息制作的产品。不过，Dickson 此前在类似配件泄露方面拥有不错的准确率。\n今年 2 月曾有消息称，iPhone Ultra 将提供“某种深",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "苹果折叠iPhone Ultra或提供银色和深蓝色，基于第三方配件泄露。",
-      "credibilityScore": 65,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为IT之家，内容基于第三方爆料，缺乏官方确认，细节有限，但引用具体爆料人。"
-    },
-    {
-      "title": "13 代酷睿 +RTX30 系卷土重来：6499 元机械革命旷世 15 新增“i5-13420H + 16G + 512G + RTX3050”版本",
-      "link": "https://www.ithome.com/0/987/493.htm",
-      "pubDate": "Sun, 09 Aug 2026 01:57:14 GMT",
-      "contentSnippet": "IT之家 8 月 9 日消息，机械革命现已为旗下旷世 15 笔记本带回“i5-13420H + 16GB RAM + 512GB SSD + RTX3050”规格，定价为 6499 元。\n京东机械革命旷世 15i5-13420H + 16GB RAM + 512GB SSD + RTX30506499 元直达链接\n\n该机厚度约 23mm，重量 2 千克，B 面配备一块 1920x1080 分辨率 144Hz 面板（覆盖 45% NTSC）色域；C 面采用 RGB 全区背光键盘。搭载 8 核心 12 线程英特尔酷睿 i5-13420H 处理器，内置 16GB RAM 和 512GB SSD，使用",
+      "title": "消息称苹果正测试长鑫内存芯片，用于 iPhone 和 MacBook",
+      "link": "https://www.ithome.com/0/987/678.htm",
+      "pubDate": "Mon, 10 Aug 2026 01:17:38 GMT",
+      "contentSnippet": "IT之家 8 月 10 日消息，据华尔街日报 8 月 9 日报道，知情人士透露，苹果公司一直在其包括 iPhone 和 MacBook 在内的产品线中测试来自长鑫存储的内存芯片，以应对人工智能蓬勃发展期间的内存短缺问题。\n知情人士透露，苹果公司已与长鑫存储就零部件供应事宜进行了初步洽谈，目标是将这些零部件用于部分在中国销售的设备中。\n据韩媒《Digital Daily》上周报道，苹果公司近期考虑将长鑫作为新的供应链以降低成本，但目前在进一步降价谈判中遭遇困难。长鑫坚持要求内存采购价格高于或与三星电子或 SK 海力士的报价相近。\n英国《金融时报》今年 7 月则报道称，两位消息人士表示苹果已开始为",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -34,187 +17,33 @@
       ],
       "coverageCount": 2,
       "coverageBoost": 5,
-      "aiSummary": "机械革命旷世15新增i5-13420H+RTX3050版本，售价6499元。",
-      "credibilityScore": 80,
+      "aiSummary": "苹果测试长鑫内存芯片，用于iPhone和MacBook，以应对内存短缺。",
+      "credibilityScore": 83,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家和钛媒体，信息具体含配置价格，但缺少原始出处和评测验证。（多源覆盖 +5）"
+      "credibilityReason": "来源为IT之家和钛媒体，引用华尔街日报等原始报道，信息具体，逻辑清晰，但未经官方确认。（多源覆盖 +5）"
     },
     {
-      "title": "零跑 A05 全套车色公布：松岚灰、莓莓蓝等，预计明日上市",
-      "link": "https://www.ithome.com/0/987/492.htm",
-      "pubDate": "Sun, 09 Aug 2026 01:56:47 GMT",
-      "contentSnippet": "IT之家 8 月 9 日消息，8 月 8 日，零跑汽车公布零跑 A05 全套七种车色，包括摩根粉、雾凇米、海苔绿、苔原灰、松岚灰、莓莓蓝以及零跑 A05s 金属黑。\n\n\n\n\n\n\n\n零跑 A05 已于 7 月 27 日开启盲订，99 元下订享 5000 专属能量积分权益。有消息称，这款纯电小车将于 8 月 10 日上市。\n零跑 A05 整体风格较为圆润，匹配悬浮式车顶，可选激光雷达。车身使用半隐藏式门把手；车尾两侧尾灯组内部采用了笑脸造型，点亮后辨识度较高。\n该车长宽高分别为 4200x1800x1560mm，轴距为 2605mm。工信部信息显示，该车搭载 39.8kWh 和 53kWh 两种容",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "全世界种植的蔬菜在减少",
+      "link": "https://www.solidot.org/story?sid=85045",
+      "pubDate": "Sun, 09 Aug 2026 23:13:58 +0800",
+      "contentSnippet": "PNAS 上发表的一项研究显示，大多数人摄入的蔬菜量远远不够，因而承受着健康方面的后果。与此同时全世界种植的蔬菜品种也越来越少，进一步恶化了饮食的多样性。全世界大多数人的蔬菜摄入量比健康饮食推荐量少约 40%。农业工业化前种植的食用植物品种要丰富得多。如土豆有逾 4000 个不同的品种，但美国只有大约五到八个品种广泛种植。从人工选择到大规模生产的单一栽培，再到基因改造，农业工业化——以及相关供应链——逐渐减少了我们餐桌上的蔬菜品种。随着蔬菜遗传多样性的丧失，我们也失去了它们的营养成分以及作物适应气候变化的能力。",
+      "sourceName": "Solidot",
+      "sourceWeight": 75,
       "allSources": [
-        "IT之家"
+        "Solidot"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "零跑A05公布七种车色，预计明日上市，配置细节已披露。",
+      "aiSummary": "研究显示全球蔬菜摄入不足且品种减少，威胁饮食多样性和营养。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道具体，含工信部数据，但未引用官方确认上市日期。"
+      "credibilityReason": "来源Solidot知名科技媒体，引用PNAS研究，数据具体，逻辑清晰，但细节有限。"
     },
     {
-      "title": "联想推出来酷平板 Mini：8 英寸面板、支持 4G 通信，899 元",
-      "link": "https://www.ithome.com/0/987/491.htm",
-      "pubDate": "Sun, 09 Aug 2026 01:45:06 GMT",
-      "contentSnippet": "IT之家 8 月 9 日消息，联想现已在京东上架来酷平板 Mini，该产品配备一块 8 英寸面板，支持 4G 通信上网，定价为 899 元，部分地区国补后低至 679.2 元。\n京东来酷平板 Mini 899 元直达链接\n\n\n该机整体厚度 8.45mm，重量 324g，配备一块 8 英寸未标注分辨率的 IPS 面板，匹配 5Mp 自拍摄像头，后置 13 Mp 主摄。\n\n该机搭载联发科处理器（未标注具体 SoC），提供 8GB RAM 和 128GB 存储空间，内置 5000mAh 电池。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "联想推出8英寸4G平板，售价899元，配置未完全标注。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家可信，信息具体但关键参数缺失，如分辨率、处理器型号，影响评分。"
-    },
-    {
-      "title": "AI 浪潮催生高薪数据中心岗位，美国电工、安装工等需求大增",
-      "link": "https://www.ithome.com/0/987/490.htm",
-      "pubDate": "Sun, 09 Aug 2026 01:35:05 GMT",
-      "contentSnippet": "IT之家 8 月 9 日消息，Indeed 的一项最新研究显示，如今美国增长最快的一些科技岗位，已经不再局限于传统的软件开发人员，而是包括电工、安装工、维护人员以及负责建设 AI 数据中心的工程师。\n\n过去两年，美国数据中心相关职位的招聘信息数量增加了一倍以上，而同期美国整体招聘岗位数量却有所下降。如今，美国每 1,000 个招聘岗位中，就有约 6 个与数据中心有关，是 2023 年这一比例的 3 倍。\n数据中心带来的就业增长也正在突破硅谷的范围。大型科技公司正加大在美国其他地区的招聘力度，例如俄亥俄州哥伦布、密西西比州杰克逊和内华达州里诺等城市，当地招聘信息中与数据中心相关的岗位占比都大幅上",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "AI推动美国数据中心岗位激增，电工等蓝领需求大增。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用Indeed数据，具体比例和城市，逻辑清晰，但缺乏原始报告链接。"
-    },
-    {
-      "title": "海备思推出墨水屏数显 NVMe 固态硬盘盒：配备超级电容技术、10Gbps 速率，首发价 219 元",
-      "link": "https://www.ithome.com/0/987/489.htm",
-      "pubDate": "Sun, 09 Aug 2026 01:32:52 GMT",
-      "contentSnippet": "IT之家 8 月 9 日消息，制造商海备思宣布推出一款墨水屏数显 NVMe 固态硬盘盒，该产品配备墨水屏面板，同时采用了超级电容技术，定价为 282 元，首发价 219 元。\n\n\n该产品尺寸为 51x12x115mm，采用银色圆角 CNC 工艺铝合金机身，正面墨水屏可显示硬盘容量、健康度、温度、累计写入量、通电循环次数、通电时间及电压等信息，同时还可查看超级电容状态。在用户拔下数据线后，屏幕内容仍可继续保留，方便用户区分工作盘、素材盘和备份盘。\n\n同时，这款硬盘盒还内置超级电容。接入设备后，超级电容会自动蓄电，当屏幕显示“READY”标识时，代表充电完成。当数据线意外脱落、接口供电中断或设备突",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "海备思推出墨水屏数显NVMe硬盘盒，配超级电容，首发219元。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道具体参数和价格，逻辑清晰，但缺乏原始出处和实测验证。"
-    },
-    {
-      "title": "消息称小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
-      "link": "https://www.ithome.com/0/987/488.htm",
-      "pubDate": "Sun, 09 Aug 2026 01:32:33 GMT",
-      "contentSnippet": "IT之家 8 月 9 日消息，据“大厂青年”公众号 8 月 7 日消息，小米机器人事业部大调整：内部新成立具身智能与应用部，由前字节 Seed Robotics 具身智能负责人孔涛挂帅。\n按照调整方案，这个新部门已将陈龙的 VLA 团队、蔡锐的机器人具身部等一并收拢。此次调整后，小米整个具身赛道的各个业务方向，都归到了孔涛的管辖之下。\n文章称，孔涛（Jason kong）此前加入小米，主要负责机器人基础具身模型。据内部信息，在近期的一场内部会议上，老板对其给出了「远超预期」的评价。\n据IT之家此前报道，今年年初，小米机器人在小米汽车工厂自攻螺母上件工站开始其“实习”工作之旅。\n今年 3 月，在",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "小米成立具身智能与应用部，孔涛挂帅，整合VLA及具身团队。",
-      "credibilityScore": 70,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源IT之家较知名，但信息源自公众号，缺乏官方确认，细节具体但需验证。"
-    },
-    {
-      "title": "海信墨水屏手机 A10 系列实机外观照片曝光：磁吸彩色 LCD 背屏、一键切换双屏",
-      "link": "https://www.ithome.com/0/987/486.htm",
-      "pubDate": "Sun, 09 Aug 2026 01:24:50 GMT",
-      "contentSnippet": "IT之家 8 月 9 日消息，海信墨水屏手机项目负责人“老左”发文，展示了即将在 8 月 28 日上市的海信墨水屏手机 A10 系列手机实机图，可以看到该产品背屏边框较窄，同时还提供了配套手机壳。\n\n据介绍，海信墨水屏手机 A10 提供三种屏幕切换方式。在安装彩色背屏后，用户可通过单击“墨智键”，在正面墨水屏与背部彩屏之间快速切换；也可以从手机顶部下拉控制中心，点击“切换屏幕”快捷开关完成切换。用户亦可开启悬浮球功能，设置悬浮球中的“切换屏幕”功能按钮实现屏幕切换。\n\n参考官方此前预热，系列手机正面搭载一块 6.13 英寸墨水屏，采用高通 QCM6690 企业级平台 + 元太 T2000 硬件",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "海信墨水屏手机A10系列实机曝光，支持双屏切换，8月28日上市。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，信息具体，有官方负责人消息，但缺乏独立验证。"
-    },
-    {
-      "title": "马斯克发布 Terafab 渲染视频：Optimus 人形机器人、Robovan 无人车齐亮相",
-      "link": "https://www.ithome.com/0/987/485.htm",
-      "pubDate": "Sun, 09 Aug 2026 01:12:49 GMT",
-      "contentSnippet": "IT之家 8 月 9 日消息，埃隆 · 马斯克当地时间周四上午在 X 平台发布了一段 Terafab 的新视频，而视频中最引人注目的并不是厂房本身，而是两款仍在等待量产的产品：Optimus 人形机器人和 Robovan 无人车。\n\n\n这段由 SpaceX 提供概念图的渲染视频显示，Optimus 机器人正在这座规划中的大型厂区内工作。该设施计划建于得克萨斯州格莱姆斯县的 Gibbons Creek 地块，全长约 2.5 英里（约 4 公里）。画面中，一辆 Robovan 沿着穿过厂房内部的高架道路行驶，旁边还出现了一辆 Tesla Semi 电动卡车和一辆 Cybercab 无人驾驶出租车。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家",
-        "钛媒体"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "马斯克发布Terafab渲染视频，展示Optimus机器人和Robovan无人车。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体，但依赖马斯克发布，缺乏独立验证。（多源覆盖 +5）"
-    },
-    {
-      "title": "中国代表队首次参加国际核科学奥赛，获一金三银",
-      "link": "https://www.ithome.com/0/987/484.htm",
-      "pubDate": "Sun, 09 Aug 2026 00:58:22 GMT",
-      "contentSnippet": "IT之家 8 月 9 日消息，据新华社报道，2026 年国际核科学奥林匹克竞赛 8 月 8 日晚在沙特阿拉伯西部城市吉达闭幕，中国代表队首次参赛，4 名选手获得一金三银，总成绩居参赛国家前列。\n国际核科学奥林匹克竞赛是在国际原子能机构支持下举办的、全球首个以核科学为主题的国际青少年奥林匹克赛事，旨在激发青少年对核科学的兴趣，促进国际青少年交流，引导更多青少年投身核科学与核技术领域。\n该赛事创办于 2024 年，本届比赛为第三届，共有来自 19 个国家的代表队参赛。本届赛事为期 8 天，设置理论考试和实验考试，内容涵盖核物理、辐射防护、核燃料等多个学科方向。\n\nIT之家查询获悉，今年是中国首次正",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国首次参加国际核科学奥赛，获一金三银。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家，引用新华社，信息具体，赛事细节清晰，时效性好。"
-    },
-    {
-      "title": "奕境 X9 鸿蒙座舱 HarmonySpace 6 全球首秀明日举行",
-      "link": "https://www.ithome.com/0/987/482.htm",
-      "pubDate": "Sun, 09 Aug 2026 00:37:46 GMT",
-      "contentSnippet": "IT之家 8 月 9 日消息，奕境汽车 8 月 8 日宣布，奕境 X9 鸿蒙座舱 HarmonySpace6 全球首秀将于 8 月 10 日 18:00 举行，地点位于湖州莫干山。\n\nIT之家注意到，奕境汽车官方此前已经公布奕境 X9 的内饰情况。据介绍，奕境 X9 定位 9 系旗舰车型，首批搭载鸿蒙座舱 HarmonySpace 6。从官图可以看到，奕境 X9 的前排座椅可安装小桌板，中控扶手箱处设置有四个杯架，可供一排、二排使用。\n\n\n新车还配备有二排娱乐吸顶屏，而根据官方此前预热来看，新车还会搭载 HUAWEI XSCENE 车载激光投影，采用行业首批激光光源，支持 LCoS 技术清晰成",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "奕境X9将首秀鸿蒙座舱HarmonySpace6，定位旗舰车型。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，内容具体，有官方信息支撑，但细节有限。"
-    },
-    {
-      "title": "微软承认 Win11 需要提升运行速度、减少广告，部分修复已推送",
-      "link": "https://www.ithome.com/0/987/480.htm",
-      "pubDate": "Sun, 09 Aug 2026 00:34:44 GMT",
-      "contentSnippet": "IT之家 8 月 9 日消息，据 Windows Latest 报道，今年以来，消费者可能已经看到不少关于 Windows 11 改进的消息，例如重新设计系统对话框、任务栏可以移动，以及减少 Copilot 的整合程度。如今，微软内部一位级别很高的工程师也确认，Windows 11 的运行速度同样正在得到提升。\n\n多年来，Windows 11 面临的主要问题有：只要不是高端硬件，系统运行就容易显得迟缓；而且这个操作系统似乎热衷于向用户推送广告。\n今年 3 月，微软承认了这些问题。Windows 部门负责人 Pavan Davuluri 当时确认，微软正在推进一次重要的 Windows 11 更",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "微软承认Win11速度慢广告多，部分修复已推送。",
-      "credibilityScore": 78,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用Windows Latest及微软高管，内容具体，但细节有限。"
-    },
-    {
-      "title": "Edge AI Daily 早报（8月9日）",
-      "link": "https://www.tmtpost.com/8096504.html",
-      "pubDate": "Sun, 09 Aug 2026 08:28:08 +0800",
-      "contentSnippet": "谷歌创始人回归写代码，AI战略从研究优先转向产品驱动；Backflip AI以100倍成本坍塌撬动制造业数字化；英伟达与CoreWeave押注亚美尼亚，AI基础设施转向能源地缘。Gemini隐私争议、数字所有权信任崩塌、微软AI侵入邮件无关闭，引发用户信任危机。",
+      "title": "当特朗普用多晶硅关税逼马斯克上轨道：AI+机器人全栈税的到期日",
+      "link": "https://www.tmtpost.com/8096937.html",
+      "pubDate": "Mon, 10 Aug 2026 10:02:51 +0800",
+      "contentSnippet": "8月4-6日，太空算力、多晶硅关税、Terafab破土、宇树IPO四线齐发。本文用产业生命周期与斯密-杨格定理，论证AI+机器人产业正从垂直整合走向模块化分工，全栈是早期税，专件商将收模块税。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -222,16 +51,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "谷歌创始人回归写代码，AI战略转向产品驱动，多起AI争议引发信任危机。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体涉及多家公司动态，但缺乏详细数据支撑。"
+      "aiSummary": "分析特朗普关税与AI机器人产业分工趋势，预测模块化税取代全栈税。",
+      "credibilityScore": 65,
+      "credibilityLevel": "medium",
+      "credibilityReason": "内容有产业分析框架，但缺乏具体数据与原始出处，部分预测主观性强。"
     },
     {
-      "title": "小米汽车：澎程 N90 Max 四门可选智能电动门，支持开门杀预警和避障",
-      "link": "https://www.ithome.com/0/987/479.htm",
-      "pubDate": "Sun, 09 Aug 2026 00:25:24 GMT",
-      "contentSnippet": "IT之家 8 月 9 日消息，小米汽车昨晚发布答网友问（第 272 集），对于小米澎程的车门设计、对坐模式等进行了详解。\n\n据官方介绍，小米澎程全系后门都可实现近 90 度开合。为了实现这个近 90 度的体验，团队核心做了三方面的工作：\n\n车门铰链车身页加高设计，将铰链轴线到车身页安装面高度从常规的约 60mm 增大至 72mm，让门在旋转时能避开螺栓、侧围以确保安全间隙；\n\n采用锻造铰链，锻压一体成型，强度更高，弥补了力臂加长带来的刚度下降；\n\n此外，工程与造型多次打合，针对车门 B 柱造型面进行内收处理，以满足大开度包络要求。\n\n\nIT之家从官方介绍获悉，小米澎程 N90 Max 四门可选",
+      "title": "大瓶啤酒，卖疯了",
+      "link": "https://www.tmtpost.com/8096927.html",
+      "pubDate": "Mon, 10 Aug 2026 10:02:46 +0800",
+      "contentSnippet": "1L装马口铁啤酒瓶走红。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "1L装马口铁啤酒瓶走红，大瓶啤酒销量激增。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体，内容具体但缺乏数据支撑和原始出处，评分中等偏上。"
+    },
+    {
+      "title": "七彩虹推出穿云 60 系列镂空磁轴键盘：支持星闪 8KHz 回报率，199 元起",
+      "link": "https://www.ithome.com/0/987/713.htm",
+      "pubDate": "Mon, 10 Aug 2026 02:01:21 GMT",
+      "contentSnippet": "IT之家 8 月 10 日消息，七彩虹宣布推出穿云 60 系列镂空磁轴键盘，系列键盘主打镂空设计，提供三种版本可选，IT之家整理价格如下：\n\n\n版本\n\n价格\n\n轴体\n\n键帽\n\n主控方案\n\n\n玄甲 60\n\n¥199\n\n晶岚轴\n\n侧刻\n\n星闪火星 8K\n\n\n玄甲 60 Pro\n\n¥249\n\n白曜轴\n\n雾透\n\n星闪海王星 8K\n\n\n玄甲 60 Ultra\n\n¥369\n\n极光轴\n\n量子蜂巢\n\n星闪海王星 8K\n\n\n京东七彩虹穿云 60 系列磁轴键盘 199 元起直达链接\n\n\n\n系列键盘使用星闪 8K 方案，延迟低至 0.125ms，适合竞技类游戏场景，其整体采用“负空间镂空设计”，拥有自研 360°",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -239,16 +85,53 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "小米汽车详解澎程N90 Max四门设计，支持近90度开合及开门杀预警。",
+      "aiSummary": "七彩虹发布穿云60系列镂空磁轴键盘，支持星闪8K回报率，199元起。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道包含具体型号、价格和参数，但缺少官方链接或原始出处，细节有限。"
+    },
+    {
+      "title": "河南首款地方猪育种芯片“豫猪一号”问世",
+      "link": "https://www.ithome.com/0/987/712.htm",
+      "pubDate": "Mon, 10 Aug 2026 02:00:47 GMT",
+      "contentSnippet": "IT之家 8 月 10 日消息，据河南日报上周报道，河南省农业科学院畜牧兽医研究所猪育种团队近日发布了“豫猪一号”河南地方猪 15K 育种芯片，标志着河南地方猪育种开启了基因级精准保种与选育的新时代。\n\n河南省农业科学院畜牧兽医研究所养猪室主任邢宝松介绍，相较于引进的瘦肉型品种，本土地方猪存在生长周期长、料肉比偏高、养殖效益偏低的短板，很难在保留独特优良肉质的同时兼顾产能与收益。\n“豫猪一号”河南地方猪 15K 育种芯片，是首款专为河南地方猪量身定制的专属育种芯片，依托河南五大传统地方猪、2 个自主培育猪种的全基因组重测序数据深度开发，精准捕获本土猪种独有特征遗传位点、解析种群遗传结构，可在仔",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "河南发布首款地方猪育种芯片“豫猪一号”，开启基因级精准保种选育。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，内容具体，引用官方技术细节，逻辑清晰，但缺乏独立验证。"
+      "credibilityReason": "来源IT之家，引用河南日报，内容具体，技术细节清晰，逻辑合理。"
     },
     {
-      "title": "海贝 HiBy CR06 mini 桌搭发售：支持 PD 60W 有线充电、配 USB-A 接口可作扩展坞，298 元",
-      "link": "https://www.ithome.com/0/987/478.htm",
-      "pubDate": "Sun, 09 Aug 2026 00:03:01 GMT",
-      "contentSnippet": "IT之家 8 月 9 日消息，海贝音乐旗下 HiBy CR06 mini 桌搭现已在京东发售，该产品主打“充电 + 散热 + 扩展”三合一，售价 298 元。\n京东海贝 HiBy CR06 mini 桌搭 298 元直达链接\n\n\n该产品是一款专为桌面场景设计的手机 / 平板支架配件，采用全铝合金材质外壳，利用金属导热特性实现无风扇被动散热，运行零噪音，同时提升整体质感与手感。\n该产品配备 USB-C 接口，最高支持 60W 功率 PD 协议快充，可为设备快速补充电量，同时设备背面配备单 USB-A 3.0 接口，可作为扩展坞使用，方便连接 U 盘、硬盘等外设。",
+      "title": "AOC 推出 AG326UZD（柔光版）显示器：升级 QD-OLED Penta Tandem 面板",
+      "link": "https://www.ithome.com/0/987/711.htm",
+      "pubDate": "Mon, 10 Aug 2026 01:56:16 GMT",
+      "contentSnippet": "IT之家 8 月 10 日消息，AOC 本月 7 日推出了 AG326UZD（柔光版）显示器。这一型号是对 2025 年 7 月的原版 AG326UZD 的迭代，在保持 31.5\" QD-OLED UHD 240Hz 基础规格不变的同时升级到了新款 Penta Tandem 面板。\n\n五层堆栈结构的 QD-OLED Penta Tandem 不仅为 AG326UZD（柔光版）带来了更高等级的 VESA DisplayHDR True Black 500 认证，配套的 Dark Shield (Black AGLR) 技术也进一步加强了对环境光反射的屏蔽。\n\n这款显示器拥有 300nits 的",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家",
+        "钛媒体",
+        "量子位",
+        "InfoQ中文"
+      ],
+      "coverageCount": 4,
+      "coverageBoost": 15,
+      "aiSummary": "AOC推出AG326UZD柔光版，升级QD-OLED Penta Tandem面板，提升HDR和防眩光性能。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家等知名科技媒体，内容具体，但缺乏原始出处和详细技术数据，评分适中。（多源覆盖 +15）"
+    },
+    {
+      "title": "千元级别也能面面俱到，iGame B850M ULTRA-OC V14 主板体验",
+      "link": "https://www.ithome.com/0/987/706.htm",
+      "pubDate": "Mon, 10 Aug 2026 01:52:39 GMT",
+      "contentSnippet": "在主流 AMD B850 主板推出一年多以后，七彩虹终于推出了高端定位的 iGame 主板新品，iGame B850M ULTRA-OC V14。\n\n这款新品从设计、实用性到 BIOS 功能都做了全面升级，它支持七彩虹最新的 X3D AI 高帧模式、PBO 预设增强档、内存高性能小参。\n它还拥有高达 4 个 M.2 接口，为超频而生的 1DPC 双内存插槽，显卡 + M.2 快拆以及 5Gbps 有线 + Wi-Fi 7 无线支持，堪称七彩虹有史以来最强 B850 超频主板，售价为 1299 元。那么，这款新品的表现如何，一起来看看吧。\n\n为了更好地展现 iGame B850M ULTRA-O",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -256,10 +139,129 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "海贝发布CR06 mini桌搭，支持60W快充和USB-A扩展，售价298元。",
+      "aiSummary": "七彩虹发布高端iGame B850M主板，售价1299元，支持超频与AI功能。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容具体包含产品参数和价格，但缺少官方链接和实测数据。"
+      "credibilityReason": "来源IT之家知名科技媒体，内容具体含规格与售价，但缺乏实测数据与原始引用。"
+    },
+    {
+      "title": "送 1:64 合金车模：小米汽车试驾送车模活动再次回归",
+      "link": "https://www.ithome.com/0/987/700.htm",
+      "pubDate": "Mon, 10 Aug 2026 01:50:49 GMT",
+      "contentSnippet": "IT之家 8 月 10 日消息，据“小米汽车”官方微博，小米汽车今天宣布试驾送车模活动再次回归，即日起至 8 月 14 日预约到店试驾任意车型，完成试驾后，可领取一个 1:64 合金车模（款式颜色随机）。\n本次试驾活动试驾车型不限。单店活动周期内车模数量在 2 个至 65 个区间，具体数量以门店实际为准，数量有限先到先得。试驾者需年满 18 岁且持有合法机动车驾驶证、驾龄 1 年以上，满足小米汽车门店试驾相关要求，活动期间每个账号（mid）限参与一次，同时用户需在 2026 年 5 月 9 日至 8 月 9 日未试驾小米汽车任一车型。\n\n据IT之家此前报道，小米澎程系列展车现已在全国多地小米汽",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "小米汽车试驾送1:64合金车模活动回归，8月14日前预约试驾可领取。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家知名科技媒体，信息具体含时间、条件、数量，引用官方微博，逻辑清晰。"
+    },
+    {
+      "title": "不用带燃料，西班牙公司计划发射全球首颗吸气式电推进卫星",
+      "link": "https://www.ithome.com/0/987/698.htm",
+      "pubDate": "Mon, 10 Aug 2026 01:50:04 GMT",
+      "contentSnippet": "IT之家 8 月 10 日消息，西班牙公司 Kreios Space 于 8 月 4 日宣布，该公司计划将全球首颗利用吸入的空气推动自身前进的卫星送入轨道。\n\nKreios Space 正在研发的这项技术名为“吸气式电推进”（Air-Breathing Electric Propulsion，ABEP）。该技术利用来自地球大气层的空气，将其加热、电离后喷射出去，从而产生推进力。\n\n这种方法将使运行在超低地球轨道（VLEO）的卫星无需依靠液体燃料，也能抵消大气阻力。超低地球轨道通常指距离地球表面约 60 英里至 250 英里（100 至 400 公里）的区域。\nKreios Space CEO",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "西班牙公司计划发射全球首颗吸气式电推进卫星，利用大气空气产生推力。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道具体技术细节和公司声明，但缺乏独立验证和专家评论。"
+    },
+    {
+      "title": "现代汽车在韩国启动首个公寓楼泊车机器人试点",
+      "link": "https://www.ithome.com/0/987/686.htm",
+      "pubDate": "Mon, 10 Aug 2026 01:43:25 GMT",
+      "contentSnippet": "IT之家 8 月 10 日消息，据韩国《朝鲜日报》今日报道，现代汽车集团将在韩国启动首个公寓楼泊车机器人试点项目。\n由现代汽车集团旗下现代汽车、现代威亚和现代工程建设组成的联合体于 8 月 10 日宣布，将在京畿道始兴市的 Hillstate The Wave City 多户住宅区开展停车机器人试点项目。该项目是韩国国土交通部智慧城市监管沙盒框架下的智能试点项目，并将获得国家资金支持。\n\n▲ 一台现代威亚的泊车机器人正在移动车辆，图源现代威亚\n该公寓楼拥有 1,796 户，计划于明年开放入住。现代汽车集团将在 Hillstate 停车场地下一层的专用区域开展试点项目，该区域共有 53 个停车位",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "现代汽车在韩国启动首个公寓楼泊车机器人试点项目。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，报道具体，引用朝鲜日报，细节详实。"
+    },
+    {
+      "title": "GAMDIAS 推出 THOR P2 系列 ATX 全模组铂金能效电源，至高 1350W",
+      "link": "https://www.ithome.com/0/987/685.htm",
+      "pubDate": "Mon, 10 Aug 2026 01:41:26 GMT",
+      "contentSnippet": "IT之家 8 月 10 日消息，GAMDIAS 今日宣布推出 THOR P2 系列 PC 电源。其采用加长 (160mm) 的 ATX 外形规格，拥有全模组线材设计，获得 80 PLUS 铂金转换效率认证，提供 850W / 1050W / 1350W 三档额定功率选项。\n\nTHOR P2 系列整体采用 APFC + 半桥LLC谐振 + 同步整流 + 单路+12V输出 + DC-DC 的电路拓扑，选用 105℃ 耐温日系电容器。其符合 ATX12V 3.1 和 PCIe CEM 5.1 规范，提供单组 12V-2×6 输出（端子部分为易辨识是否插牢的双色设计）。\n\n该系列电源采用独特的分离式顶",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "GAMDIAS推出THOR P2系列ATX全模组铂金电源，最高1350W。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家较知名，内容具体含技术细节，但缺少原始出处和独立验证。"
+    },
+    {
+      "title": "影史经典《肖申克的救赎 》4K 修复版定档 8 月 28 日，首度登陆中国内地大银幕",
+      "link": "https://www.ithome.com/0/987/684.htm",
+      "pubDate": "Mon, 10 Aug 2026 01:41:02 GMT",
+      "contentSnippet": "IT之家 8 月 10 日消息，华纳兄弟电影今日官宣影史经典《肖申克的救赎》4K 修复版定档 8 月 28 日，首度登陆中国内地大银幕。\n\nIT之家注意到，《肖申克的救赎》是由城堡石娱乐公司出品，弗兰克 · 德拉邦特执导，斯蒂芬 · 埃德温 · 金、弗兰克 · 德拉邦特编剧，蒂姆 · 罗宾斯、摩根 · 弗里曼领衔主演的美国剧情片。该片于 1994 年 9 月 10 日在多伦多电影节首映，9 月 23 日在美国上映。1995 年，该片获得第 67 届奥斯卡金像奖中包括最佳影片在内的七项提名。\n该片主要讲述了青年银行家安迪・杜佛兰遭误判谋杀妻子及其情人，被判处两项终身监禁送入肖申克州立监狱。入狱后",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "《肖申克的救赎》4K修复版8月28日首登中国内地大银幕。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息具体，含定档日期、出品方、导演等细节，来源可靠。"
+    },
+    {
+      "title": "YUNZII AL98 PRO 三模机械键盘上市：PBT + PC 双拼键帽，532 元起",
+      "link": "https://www.ithome.com/0/987/683.htm",
+      "pubDate": "Mon, 10 Aug 2026 01:28:35 GMT",
+      "contentSnippet": "IT之家 8 月 10 日消息，YUNZII（键设宇宙）现已在国内市场发售 AL98 PRO 三模机械键盘。这一型号采用 98% 配列，配备原厂 (CHERRY) 高度的 PBT + PC 双材质组合键帽，售价 532 元起。\n\n▲ 白幽灵\nAL98 PRO 键盘外壳采用压铸 + CNC + 喷粉工艺铝合金，右上角设有旋钮；内部为多层填充 Gasket 固定架构，PCB 支持全键轴座热插拔并集成下灯位 ARGB 灯珠；拥有 LOG 灯和 USB-C 端口氛围灯。\n\n▲ 夜之城\n其采用 QMK 固件，支持 VIA 改键，在 USB-C 和 2.4GHz 下支持 8kHz 回报率，集成 8000m",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "YUNZII发布AL98 PRO三模机械键盘，PBT+PC键帽，532元起。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道具体参数和价格，但无原始出处，评分适中。"
+    },
+    {
+      "title": "宇树科技今日启动申购：中签率远低于长鑫，中一签或赚 20 万",
+      "link": "https://www.ithome.com/0/987/682.htm",
+      "pubDate": "Mon, 10 Aug 2026 01:25:03 GMT",
+      "contentSnippet": "IT之家 8 月 10 日消息，宇树科技今日（8 月 10 日）正式启动申购，据财联社报道，多家券商综合测算显示，宇树科技预计中签率在万分之二至万分之三之间，远低于长鑫科技 0.47% 的中签率水平。\n报道还称，2026 年以来 A 股新股上市首日平均涨幅高达 276.04%，若以此测算，中一签宇树科技账面盈利有望突破 20 万元。\n宇树科技已确定发行价格为 150.80 元 / 股，对应上市时市值约 609.93 亿元，对应 2025 财年发行后市盈率为 219 倍。\n\n根据公告，宇树科技网上、网下申购日均为 8 月 10 日，缴款截止日均为 8 月 12 日，首发募资约 61 亿元。中一签",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "宇树科技申购启动，中签率低，预计中一签赚20万。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，引用财联社数据，具体数字明确，但缺乏独立验证。"
     }
   ]
 }
