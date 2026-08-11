@@ -1,117 +1,150 @@
 {
-  "generatedAt": "2026-08-10T02:04:47.679Z",
+  "generatedAt": "2026-08-11T01:59:49.914Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "“APEC合作将结出更加丰硕的成果”（APEC中国年：开放 创新 合作）",
-      "link": "https://world.huanqiu.com/article/4SjcgSnyKoR",
-      "pubDate": "(Mon,10 Aug 2026 09:42:14 CST)",
-      "contentSnippet": "随着APEC会议进入倒计时，越来越多的目光投向深圳。“相信在中方的推动和各成员经济体的共同努力下，APEC合作将结出更加丰硕的成果。”栗山表示。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
+      "title": "AI进药企，如何真正驱动创新药高质量发展？",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-11/10675550.shtml",
+      "pubDate": "Tue, 11 Aug 2026 09:52:23 +0800",
+      "contentSnippet": "近年来，我国创新药上市数量快速增长，医药创新硬实力持续提升。随着技术加速渗透，人工智能已深度融入药品研发、生产、质控、监管全链条，AI赋能创新药正站上产业发展新风口。在政策红利、资本加持和跨界合作的多重助推下，AI技术能否从单点试点迈向全产业应用，真正驱动创新药高质量发展？",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
       "allSources": [
-        "环球网",
         "中国新闻网"
       ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "APEC会议临近，中方推动合作，预计将结出丰硕成果。",
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "AI深度融入中国创新药全链条，能否从试点迈向全产业应用成焦点。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为权威媒体，内容具体且客观，但缺乏直接引述和数据支撑，评分略低于一线通讯社。"
+    },
+    {
+      "title": "学习新语·铸魂强党｜健全上下贯通执行有力的组织体系",
+      "link": "https://www.chinanews.com.cn/ll/2026/08-11/10675512.shtml",
+      "pubDate": "Tue, 11 Aug 2026 09:47:00 +0800",
+      "contentSnippet": "习近平党建思想，是习近平新时代中国特色社会主义思想的重要组成部分，是加强新时代党的建设的根本遵循。要深刻理解和把握习近平党建思想的内涵要义，必须深刻领会“十四个坚持”。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国新闻网报道习近平党建思想，强调健全组织体系，贯彻十四个坚持。",
+      "credibilityScore": 75,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为官方媒体，内容正面且具体，但缺乏独立核实和多方交叉验证。"
+    },
+    {
+      "title": "2026年闽台同名村镇（同宗）续缘之旅走进福建长泰",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-11/10675526.shtml",
+      "pubDate": "Tue, 11 Aug 2026 09:35:56 +0800",
+      "contentSnippet": "中新网漳州8月11日电 (王雅苹)“这三十多年来，台湾高雄薛氏后人回祖籍地山重村寻根谒祖，都要来看祖辈口中的这棵古樟树，并合影留念……”",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "2026年闽台同名村镇续缘之旅走进福建长泰，台湾高雄薛氏后人寻根谒祖。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网，权威媒体，内容具体，有直接引述，事实可查证。"
+    },
+    {
+      "title": "未来五年，煤炭工业如何发展？",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-11/10675527.shtml",
+      "pubDate": "Tue, 11 Aug 2026 09:34:52 +0800",
+      "contentSnippet": "本报北京8月10日电(记者廖睿灵、邱海峰)近日，国家发展改革委、国家能源局联合印发《煤炭工业发展“十五五”规划》(以下简称《规划》)，系统谋划部署了“十五五”煤炭高质量发展的主要目标、重点任务、重大工程以及实施路径。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国家发改委和能源局联合印发煤炭工业发展“十五五”规划，部署高质量发展路径。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，引用官方文件，信息具体，内容客观，可信度高。"
+    },
+    {
+      "title": "手机软件广告“乱跳转”屡禁不止 根治“数字牛皮癣”面临哪些挑战？",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-11/10675554.shtml",
+      "pubDate": "Tue, 11 Aug 2026 09:55:21 +0800",
+      "contentSnippet": "央广网北京8月11日消息(总台中国之声记者管昕)据中央广播电视总台中国之声《新闻纵横》报道，近日，安徽黄山一老人在拍照时遭遇多个弹窗广告的视频引发热议。视频显示，老人刚点开手机应用，一层层弹窗广告瞬间铺满屏幕，短短半分钟就跳转了20余次。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "手机软件弹窗广告乱跳转问题引热议，根治面临挑战。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为央广网，权威媒体，报道具体事件，有细节和引述，可信度高。"
+    },
+    {
+      "title": "锚定“两重”“两新” 央企划定下半年投资“路线图”",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-11/10675552.shtml",
+      "pubDate": "Tue, 11 Aug 2026 09:54:03 +0800",
+      "contentSnippet": "央企纷纷划定下半年投资“路线图”",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "央企明确下半年投资重点，聚焦“两重”“两新”领域，推动经济高质量发展。",
       "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为环球网和中新网，较权威；内容具体，但缺乏直接引述和交叉验证。（多源覆盖 +5）"
+      "credibilityReason": "来源中国新闻网，权威性较高，内容具体，涉及政策方向，但缺乏直接引述和多方验证。"
     },
     {
-      "title": "中远海运全面接管希腊比雷埃夫斯港运营十年——同心 同力 同向 打造互利共赢成功范例",
-      "link": "https://world.huanqiu.com/article/4SjcMjqBDpD",
-      "pubDate": "(Mon,10 Aug 2026 09:33:20 CST)",
-      "contentSnippet": "2016年8月10日，中远海运（比雷埃夫斯）港口有限公司全面接管希腊比雷埃夫斯港运营，开启了比港发展的全新篇章。比港位于希腊雅典西南约10公里处，自古就是希腊最重要的港口，被视为通往欧洲的南大门。10年来，中希双方秉持合作共赢理念，锚定建设世界一流港口目标，推动比港长期、稳定、可持续发展，为高质量共建“一带一路”写下生动注脚。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
+      "title": "朝中社批日本新版《防卫白皮书》：企图披着防卫外衣掩盖侵略本质",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-11/10675533.shtml",
+      "pubDate": "Tue, 11 Aug 2026 09:52:57 +0800",
+      "contentSnippet": "中新网8月11日电 据朝中社11日报道，朝鲜国际安保问题评论家姜元哲发表文章称，日本2026年版《防卫白皮书》是“旨在将启动战争机器合法化的再侵略白皮书”。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
       "allSources": [
-        "环球网"
+        "中国新闻网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中远海运接管希腊比雷埃夫斯港十周年，强调互利共赢与一带一路成果。",
+      "aiSummary": "朝中社批评日本新版防卫白皮书，称其掩盖侵略本质。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "环球网为知名媒体，内容具体有时间地点，但缺乏直接引述和独立验证，评分75。"
+      "credibilityReason": "来源为中新网，转载朝中社报道，内容具体，但单一来源且立场鲜明。"
     },
     {
-      "title": "青藏高原发现虎耳草目首个食虫植物",
-      "link": "https://tech.huanqiu.com/article/4SjbXAumwsv",
-      "pubDate": "(Mon,10 Aug 2026 09:10:03 CST)",
-      "contentSnippet": "科技日报记者 赵汉斌记者9日从中国科学院昆明植物研究所获悉，该所孙航院士团队近期联合国内外学者，首次证实青藏高原东南缘横断山区生长的灯架虎耳草具备完整食虫功能",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
+      "title": "拍出48万元！从种牛“标王”看畜禽种业新突破",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-11/10675547.shtml",
+      "pubDate": "Tue, 11 Aug 2026 09:51:04 +0800",
+      "contentSnippet": "从种牛“标王”看畜禽种业新突破",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
       "allSources": [
-        "环球网"
+        "中国新闻网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中科院团队首次证实青藏高原横断山区灯架虎耳草为食虫植物。",
+      "aiSummary": "中国新闻网报道种牛拍卖48万元标王，展示畜禽种业新突破。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为环球网转载科技日报，权威性较高；信息具体，含机构、团队及地点；但未提供原始论文或交叉验证。"
+      "credibilityReason": "来源权威，内容具体，涉及具体金额和事件，可查证。"
     },
     {
-      "title": "国产智能装备矩阵护航海洋产业发展",
-      "link": "https://tech.huanqiu.com/article/4SjbSGZoidd",
-      "pubDate": "(Mon,10 Aug 2026 09:07:50 CST)",
-      "contentSnippet": "自然资源部海洋战略规划与经济司相关负责人表示，近年来，我国加快布局空、海、潜一体化智能装备体系，以海面无人机、无人艇、载人深潜水器、无人潜水器为核心的国产智能装备矩阵逐渐成形，打通了“空中—海面—水下—深渊”立体化感知作业链路，构建起全域覆盖、自主可控的海洋立体安防网络，为海洋产业高质量发展筑牢安全屏障",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "我国构建空海潜智能装备矩阵，助力海洋产业安全发展。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体，引用官方负责人，但缺乏多源交叉验证。"
-    },
-    {
-      "title": "公募机构把脉后市 科技股机会大于风险",
-      "link": "https://finance.huanqiu.com/article/4SjbLsIFd9z",
-      "pubDate": "(Mon,10 Aug 2026 09:04:57 CST)",
-      "contentSnippet": "”中欧基金的基金经理杜厚良表示，近期科创板块震荡主要源于海外高杠杆资金清盘而非产业逻辑逆转，AI是超过十年的长周期产业，供给端受软硬件降本和全球产业链产能扩张约",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "公募机构认为科技股机会大于风险，震荡源于海外资金清盘。",
-      "credibilityScore": 75,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源环球网较权威，有具体人物和观点，但缺乏多源验证和详细数据。"
-    },
-    {
-      "title": "“义新欧”中欧班列今年出口集装箱突破10万标箱",
-      "link": "https://finance.huanqiu.com/article/4SjbFeM0hSH",
-      "pubDate": "(Mon,10 Aug 2026 09:02:08 CST)",
-      "contentSnippet": "今年以来，“义新欧”中欧班列持续丰富多式联运体系，出口铁公联运、“中欧班列+海铁联运”等多元化运输模式全面落地，并实现常态化运行，将铁路长距离、大运量、稳定性强",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "义新欧中欧班列今年出口集装箱突破10万标箱，多式联运模式常态化运行。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体含数据，但缺乏直接引述和多方交叉验证。"
-    },
-    {
-      "title": "“不输世界任何地方！”中国动画电影何以底气十足",
-      "link": "https://www.chinanews.com.cn/cul/2026/08-10/10674959.shtml",
-      "pubDate": "Mon, 10 Aug 2026 09:45:40 +0800",
-      "contentSnippet": "近年来，中国动画电影迎来高质量发展黄金期。依托深厚的中华文化底蕴、日趋成熟的工业化体系以及不断扩容的文化消费市场，中国动画电影已经具备比肩世界一流动画的综合实力，不少作品以鲜明的东方表达，形成独树一帜的竞争优势。",
+      "title": "A股开盘：超3400只个股飘绿，三大指数集体低开",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-11/10675538.shtml",
+      "pubDate": "Tue, 11 Aug 2026 09:51:00 +0800",
+      "contentSnippet": "A股开盘：超3400只个股飘绿，三大指数集体低开；贵金属、油气、煤炭上涨，发电设备、航天军工、半导体下跌",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -119,33 +152,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国动画电影凭借文化底蕴和工业化体系，具备国际竞争力。",
-      "credibilityScore": 75,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为官方媒体，内容具体但缺乏数据支撑，观点性较强。"
-    },
-    {
-      "title": "港澳大学生海南寻“宝” 感知海上丝路千年脉动",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-10/10674938.shtml",
-      "pubDate": "Mon, 10 Aug 2026 09:44:05 +0800",
-      "contentSnippet": "中新网海南琼海8月10日电 (张月和)在海南琼海潭门渔港旁，融合了黎族船型屋建筑形态的中国(海南)南海博物馆静静矗立。8月9日，参加2026年海南自贸港“逐浪计划”暑期实习的港澳大学生们走进南海博物馆，了解中国人在南海这片“祖宗海”上耕海牧渔、扬帆远航的千年故事。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "港澳大学生参观南海博物馆，了解海上丝路历史，感知南海文化。",
+      "aiSummary": "A股开盘三大指数低开，超3400只个股下跌，板块分化明显。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威媒体，内容具体，有明确时间地点人物，客观报道。"
+      "credibilityReason": "来源权威，数据具体，客观报道市场行情，可交叉验证。"
     },
     {
-      "title": "上海警方：一男子编造“女子在台风中坠楼”虚假信息被行拘",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-10/10674917.shtml",
-      "pubDate": "Mon, 10 Aug 2026 09:17:08 +0800",
-      "contentSnippet": "中新网8月10日电 据上海市公安局浦东分局官方微博消息，一男子发布涉台风不实信息被处以行政拘留。经警方调查，2026年8月9日，高某某(男，60岁)为博取流量，运用AI软件生成涉台风相关视频，编造“浦东一女子在台风中坠楼”的虚假信息发布上网，造成不良社会影响。目前，高某某已被警方依法处以行政拘留。",
+      "title": "哥伦比亚发生强震 救援人员在废墟中搜救幸存者",
+      "link": "http://www.chinanews.com.cn/tp/hd2011/2026/08-11/1200748.shtml",
+      "pubDate": "Tue, 11 Aug 2026 09:50:30 +0800",
+      "contentSnippet": "",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -153,112 +169,95 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "上海警方通报，一男子用AI编造台风中女子坠楼虚假信息，被行政拘留。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，引述官方通报，信息具体，事实可查证，用词客观。"
-    },
-    {
-      "title": "特朗普加沙和平计划遇阻，内塔尼亚胡：我们拒绝，我们不撤",
-      "link": "https://m.thepaper.cn/detail/33750330",
-      "pubDate": "Mon, 10 Aug 2026 00:52:58 GMT",
-      "contentSnippet": "当地时间8月9日，以色列总理内塔尼亚胡表示，以色列拒绝美国发起的所谓“和平委员会”提出的加沙和平计划，并称在哈马斯真正解除武装之前，以军不会撤出加沙地带。",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "内塔尼亚胡拒绝美国加沙和平计划，坚持哈马斯解除武装前不撤军。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为知名媒体，报道具体，含直接引述，但未多源交叉验证。"
-    },
-    {
-      "title": "潮涌千帆志昂扬——党中央、国务院邀请优秀专家人才代表北戴河休假侧记",
-      "link": "https://m.thepaper.cn/detail/33750249",
-      "pubDate": "Sun, 09 Aug 2026 23:07:23 GMT",
-      "contentSnippet": "碧海连天，草木葳蕤，北戴河风光正好。\n8月1日至7日，受党中央、国务院邀请，60位来自基础研究、战略前沿科技、关键核心技术领域和哲学社会科学领域的优秀专家人才相聚于此，度过一段精心安排的休养时光。\n党中央、国务院邀请优秀专家代表暑期到北戴河休假，是党和国家人才工作的一项重要制度性安排。今年休假活动主题是“奋进‘十五五’”。几天里，专家们既舒展身心，亦切磋学问。大家表示，要矢志以习近平新时代中国特色社会主义思想为指引，在各自岗位上接续奋斗、再立新功。\n海风习习润人心\n“接到邀请函那一刻，我逐字逐句读了一遍，这是来自党中央、国务院的郑重邀请。”中国工程物理研究院研究员、中国工程院院士黄辉难掩内心的",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "党中央国务院邀请60位专家北戴河休假，主题奋进十五五，专家表示接续奋斗。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源澎湃新闻较权威，内容具体有时间地点人物，引用专家直接话语，但属官方活动报道，缺乏独立交叉验证。"
-    },
-    {
-      "title": "贵州：2026大方火把狂欢季启幕",
-      "link": "https://cul.huanqiu.com/gallery/4SjdHOT0H2k",
-      "pubDate": "(Mon,10 Aug 2026 09:58:54 CST)",
-      "contentSnippet": "作为毕节市“自然凉·毕燃嗨”火把狂欢季的重要一站，这场融合非遗传承与潮流音乐的夏夜盛宴，吸引了数以万计的游客齐聚这座全国唯一的城中花海梯田。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "贵州大方火把狂欢季启幕，融合非遗与潮流音乐，吸引数万游客。",
+      "aiSummary": "哥伦比亚强震后，救援人员正在废墟中搜救幸存者。",
       "credibilityScore": 75,
       "credibilityLevel": "medium",
-      "credibilityReason": "环球网为知名媒体，报道具体，但无直接引述，细节有限，可信度中等偏上。"
+      "credibilityReason": "来源为知名媒体，内容具体但缺乏细节和直接引述，可信度中等偏上。"
     },
     {
-      "title": "安徽桐城：六尺巷暑期文旅热",
-      "link": "https://cul.huanqiu.com/gallery/4Sjd9xhuLtY",
-      "pubDate": "(Mon,10 Aug 2026 09:55:33 CST)",
-      "contentSnippet": "近年来，六尺巷景区已打造成为集学术研究、廉政文化交流、旅游接待、休闲娱乐为一体的综合景区。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
+      "title": "特写：台风过境 悬渚村从积水淤泥中“新生”",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-11/10675535.shtml",
+      "pubDate": "Tue, 11 Aug 2026 09:48:00 +0800",
+      "contentSnippet": "中新网浙江台州8月11日电 题：特写：台风过境 悬渚村从积水淤泥中“新生”",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
       "allSources": [
-        "环球网"
+        "中国新闻网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "安徽桐城六尺巷暑期文旅热，已发展为综合景区。",
-      "credibilityScore": 75,
+      "aiSummary": "台风过后，浙江悬渚村清理积水淤泥，逐步恢复新生。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体，但缺少直接引述和数据，评分中等偏上。"
+      "credibilityReason": "来源中国新闻网，权威媒体，报道具体，含时间地点，客观描述。"
     },
     {
-      "title": "苏宁易购腾讯云达成战略合作，聚力AI应用产业化落地",
-      "link": "https://tech.huanqiu.com/article/4Sjd5DxjklB",
-      "pubDate": "(Mon,10 Aug 2026 09:53:24 CST)",
-      "contentSnippet": "苏宁易购将依托腾讯云ADP智能体开发平台及自有TokenHub算力调度能力，结合自身多场景业务需求推进AI能力实施，培养一批FDE实施人才，为苏宁易购线上线下平台和零售合作伙伴赋能，切实将AI技术转化为实际业务价值",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
+      "title": "英格兰多地区更新高温健康警报",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-11/10675508.shtml",
+      "pubDate": "Tue, 11 Aug 2026 09:47:40 +0800",
+      "contentSnippet": "中新网伦敦8月11日电 (记者 欧阳开宇)英国卫生安全局(UKHSA)10日更新英格兰全域高温健康预警机制，针对英格兰多个地区升级、续发高温警报，提示持续晴热天气将带来切实公共健康风险，呼吁民众及社会机构全面落实防暑应对措施。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
       "allSources": [
-        "环球网"
+        "中国新闻网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "苏宁易购与腾讯云合作，推进AI应用落地，赋能零售业务。",
-      "credibilityScore": 75,
+      "aiSummary": "英国卫生安全局更新英格兰高温健康警报，呼吁防暑。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体，涉及企业合作，但无直接引述，交叉验证有限。"
+      "credibilityReason": "来源为中国新闻网，属权威媒体，引述官方机构，信息具体，用词客观。"
     },
     {
-      "title": "昆明老街暑期人气旺",
-      "link": "https://cul.huanqiu.com/gallery/4Sjd3xfr2LD",
-      "pubDate": "(Mon,10 Aug 2026 09:52:50 CST)",
-      "contentSnippet": "暑期以来，云南昆明凭借独特的气候优势成为避暑热门目的地，昆明老街作为市区核心打卡点之一，吸引了大量游客前来观光游玩。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
+      "title": "浙江衢州：风雨“守夜人”筑牢防台风“安全堤”",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-11/10675532.shtml",
+      "pubDate": "Tue, 11 Aug 2026 09:46:52 +0800",
+      "contentSnippet": "中新网衢州8月11日电 (骆泽明)受今年第13号台风“白海豚”影响，浙江衢州连日来风雨交加。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
       "allSources": [
-        "环球网"
+        "中国新闻网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "昆明老街暑期因气候优势吸引大量游客，成热门打卡地。",
+      "aiSummary": "浙江衢州应对台风白海豚，基层干部坚守岗位防台风。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网，权威媒体，有具体时间地点和记者署名，内容客观。"
+    },
+    {
+      "title": "巴西总统卢拉：愿为哥伦比亚地震灾区提供援助",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-11/10675492.shtml",
+      "pubDate": "Tue, 11 Aug 2026 09:46:46 +0800",
+      "contentSnippet": "中新社圣保罗8月10日电　当地时间10日，哥伦比亚发生7.4级强震后，巴西总统卢拉通过社交媒体表示，对哥伦比亚人民致以慰问，巴西政府愿提供必要援助。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "巴西总统卢拉就哥伦比亚强震表示慰问，愿提供援助。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源环球网较权威，内容具体但无直接引述，信息可查证。"
+      "credibilityReason": "来源为中新社，属权威媒体，内容具体，有明确时间地点，但未提供直接引述或更多细节。"
+    },
+    {
+      "title": "脑内“电子药”陪伴帕金森患者",
+      "link": "https://www.chinanews.com.cn/jk/2026/08-11/10675542.shtml",
+      "pubDate": "Tue, 11 Aug 2026 09:45:46 +0800",
+      "contentSnippet": "在帕金森病治疗领域，脑深部电刺激术(DBS)常被称为“电子药物”。但在清华大学玉泉医院神经调控中心主任马羽团队看来，这套技术更本质的内涵，是一种与患者长期共存的“陪伴”。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国新闻网报道清华玉泉医院马羽团队，称脑深部电刺激术为帕金森患者的长期陪伴。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名媒体，内容具体，涉及专业团队和观点，但缺乏多源交叉验证。"
     }
   ]
 }

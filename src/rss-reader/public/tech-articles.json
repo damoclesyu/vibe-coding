@@ -1,32 +1,240 @@
 {
-  "generatedAt": "2026-08-10T02:06:14.065Z",
+  "generatedAt": "2026-08-11T02:01:36.818Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "消息称苹果正测试长鑫内存芯片，用于 iPhone 和 MacBook",
-      "link": "https://www.ithome.com/0/987/678.htm",
-      "pubDate": "Mon, 10 Aug 2026 01:17:38 GMT",
-      "contentSnippet": "IT之家 8 月 10 日消息，据华尔街日报 8 月 9 日报道，知情人士透露，苹果公司一直在其包括 iPhone 和 MacBook 在内的产品线中测试来自长鑫存储的内存芯片，以应对人工智能蓬勃发展期间的内存短缺问题。\n知情人士透露，苹果公司已与长鑫存储就零部件供应事宜进行了初步洽谈，目标是将这些零部件用于部分在中国销售的设备中。\n据韩媒《Digital Daily》上周报道，苹果公司近期考虑将长鑫作为新的供应链以降低成本，但目前在进一步降价谈判中遭遇困难。长鑫坚持要求内存采购价格高于或与三星电子或 SK 海力士的报价相近。\n英国《金融时报》今年 7 月则报道称，两位消息人士表示苹果已开始为",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "苹果开测长鑫存储！百度、千问也一起挤进苹果供应链",
+      "link": "https://www.qbitai.com/2026/08/469475.html",
+      "pubDate": "Mon, 10 Aug 2026 02:34:48 +0000",
+      "contentSnippet": "先解决这轮内存荒！",
+      "sourceName": "量子位",
+      "sourceWeight": 80,
       "allSources": [
-        "IT之家",
-        "钛媒体"
+        "量子位",
+        "Solidot"
       ],
       "coverageCount": 2,
       "coverageBoost": 5,
-      "aiSummary": "苹果测试长鑫内存芯片，用于iPhone和MacBook，以应对内存短缺。",
-      "credibilityScore": 83,
+      "aiSummary": "苹果测试长鑫存储，百度千问加入供应链，缓解内存荒。",
+      "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家和钛媒体，引用华尔街日报等原始报道，信息具体，逻辑清晰，但未经官方确认。（多源覆盖 +5）"
+      "credibilityReason": "来源为知名科技媒体，内容具体，但缺乏详细数据支撑。（多源覆盖 +5）"
     },
     {
-      "title": "全世界种植的蔬菜在减少",
-      "link": "https://www.solidot.org/story?sid=85045",
-      "pubDate": "Sun, 09 Aug 2026 23:13:58 +0800",
-      "contentSnippet": "PNAS 上发表的一项研究显示，大多数人摄入的蔬菜量远远不够，因而承受着健康方面的后果。与此同时全世界种植的蔬菜品种也越来越少，进一步恶化了饮食的多样性。全世界大多数人的蔬菜摄入量比健康饮食推荐量少约 40%。农业工业化前种植的食用植物品种要丰富得多。如土豆有逾 4000 个不同的品种，但美国只有大约五到八个品种广泛种植。从人工选择到大规模生产的单一栽培，再到基因改造，农业工业化——以及相关供应链——逐渐减少了我们餐桌上的蔬菜品种。随着蔬菜遗传多样性的丧失，我们也失去了它们的营养成分以及作物适应气候变化的能力。",
+      "title": "AI吃掉SaaS利润后：Zoho为什么自研服务器",
+      "link": "https://www.tmtpost.com/8098550.html",
+      "pubDate": "Tue, 11 Aug 2026 09:54:10 +0800",
+      "contentSnippet": "一家成立30年的软件企业，在AI时代切入硬件研发赛道。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "Zoho为应对AI成本压力自研服务器，钛媒体报道其30年软件企业转型硬件。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "钛媒体为知名科技媒体，内容具体涉及企业战略，但缺乏技术细节和原始数据支撑。"
+    },
+    {
+      "title": "半年融资250亿，灵巧手还没跑出“标准手”",
+      "link": "https://www.tmtpost.com/8098473.html",
+      "pubDate": "Tue, 11 Aug 2026 09:43:55 +0800",
+      "contentSnippet": "量产元年还是泡沫初期？",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "灵巧手行业半年融资250亿，但尚未形成标准产品，量产与泡沫并存。",
+      "credibilityScore": 78,
+      "credibilityLevel": "high",
+      "credibilityReason": "钛媒体为知名科技媒体，内容具体，有融资数据支撑，但缺乏原始出处，评分适中。"
+    },
+    {
+      "title": "IonQ、D‑Wave财报落地，小型量子计算标的仍值得关注",
+      "link": "https://www.tmtpost.com/8098504.html",
+      "pubDate": "Tue, 11 Aug 2026 09:21:03 +0800",
+      "contentSnippet": "Horizon Quantum 和 Xanadu Quantum Technologies 的财报显示，只要它们能筹集到资金，就有机会与那些更大的知名公司竞争。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "量子计算初创公司财报显示，融资成功则有望与巨头竞争。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "钛媒体为知名科技媒体，内容具体提及公司财报，但缺乏数据细节和原始出处。"
+    },
+    {
+      "title": "5000亿美元算力融资：英伟达把GPU变成了华尔街可投资资产",
+      "link": "https://www.tmtpost.com/8098476.html",
+      "pubDate": "Tue, 11 Aug 2026 09:04:43 +0800",
+      "contentSnippet": "黄仁勋亲赴华尔街，六家巨头无一拒绝。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "英伟达推动5000亿美元算力融资，将GPU变为华尔街可投资资产。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体，内容具体涉及融资规模和人物行动，但缺乏细节和原始出处，评分中等偏上。"
+    },
+    {
+      "title": "五大高校联手发榜！首份机器人三视角世界模型评测结果出炉，榜单持续更新中",
+      "link": "https://www.qbitai.com/2026/08/469860.html",
+      "pubDate": "Tue, 11 Aug 2026 00:46:23 +0000",
+      "contentSnippet": "三视角世界模型谁更稳?",
+      "sourceName": "量子位",
+      "sourceWeight": 80,
+      "allSources": [
+        "量子位"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "五大高校发布首份机器人三视角世界模型评测榜单。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "量子位为知名科技媒体，内容具体，但缺乏评测细节和原始数据，评分适中。"
+    },
+    {
+      "title": "早报｜苹果20周年iPhone或因良率问题取消/小米校招AI岗位增加50%/极氪回应7X充电场站过热",
+      "link": "https://www.ifanr.com/1674633?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pubDate": "Tue, 11 Aug 2026 00:44:25 +0000",
+      "contentSnippet": "· 60 个 AI 智能体协作，Claude 推进黎曼猜想相关问题\r\n· 小米启动 2027 届全球校招，AI 岗位需求增长 50%\r\n· 智谱 API 用户接近 700 万，已启用超 5 万块国产算力芯片\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "sourceName": "爱范儿",
+      "sourceWeight": 82,
+      "allSources": [
+        "爱范儿"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "爱范儿早报汇总AI进展、小米校招及苹果20周年iPhone传闻。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源知名科技媒体，内容具体但部分为传闻，缺乏原始数据支撑。"
+    },
+    {
+      "title": "Edge AI Daily 早报（8月11日）",
+      "link": "https://www.tmtpost.com/8098420.html",
+      "pubDate": "Tue, 11 Aug 2026 08:13:55 +0800",
+      "contentSnippet": "Anthropic未发布Claude将黎曼零点下限提升至67.2%，AI首次纯数学原创贡献。Meta开源Muse Glimmer，30B参数本地运行。用户反AI情绪蔓延，平台限制AI内容，数据中心抗议致1300亿美元项目推迟。Atlassian Rovo漏洞严重。微软涨价7%-10%，PC出货下滑。美国提升阿联酋芯片准入。OpenAI研发新底座Doug。英伟达开源语音模型。GitHub Models关停。中国QDII资金1286亿押注AI。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "AI早报：Claude数学突破、Meta开源模型、反AI情绪、微软涨价等。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源钛媒体较权威，内容具体但部分细节未核实，评分中等偏上。"
+    },
+    {
+      "title": "【钛晨报】央行印发\"十五五\"改革发展规划，配套九份行动方案、部署五大重点任务；微软计划最快9月发布其下一代MAIA 300人工智能芯片；阿里云计划将全球数据中心产能提升两倍以上",
+      "link": "https://www.tmtpost.com/8098284.html",
+      "pubDate": "Tue, 11 Aug 2026 07:20:00 +0800",
+      "contentSnippet": "宇树科技：科创板IPO网上发行最终中签率0.0181%；英特尔宣布拟议的150亿美元普通股发行计划；Meta发布轻量化AI模型，单张显卡即可运行；花旗Q2持仓市值突破3000亿美元，大举增持半导体产业链；7月IPO注册批文创年内单月新高，北交所占比过半；近200家硅谷初创企业反对限制中国开源模型；《煤炭工业发展“十五五”规划》、《生态保护“十五五”规划》印发",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛晨报汇总多领域科技与财经动态，含央行规划、微软芯片、阿里云扩张等。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体，信息具体且涉及多家企业，但部分内容需进一步核实。"
+    },
+    {
+      "title": "Franchise Operators Struggle as Meituan and Alibaba Densify Instant Neighborhood Depots",
+      "link": "https://www.tmtpost.com/8098406.html",
+      "pubDate": "Tue, 11 Aug 2026 07:05:02 +0800",
+      "contentSnippet": "Individual investors pour savings into tight-knit networks of rapid-delivery stores that major platforms need for urban dominance, only to confront oversaturation, thin margins, and the steady pressure of daily survival.",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体",
+        "量子位",
+        "少数派",
+        "InfoQ中文",
+        "Solidot"
+      ],
+      "coverageCount": 5,
+      "coverageBoost": 20,
+      "aiSummary": "美团阿里密集布局即时零售仓，加盟商面临饱和与微利困境。",
+      "credibilityScore": 95,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体，内容具体描述行业现象，但缺乏数据支撑和原始引用。（多源覆盖 +20）"
+    },
+    {
+      "title": "04年连续创业者、华为天才少年同台！DGP地心引力集结机器人最强后浪，40余家资本现场“爆灯”",
+      "link": "https://www.infoq.cn/article/CrdrxQXcaPcUPTFW8usa?utm_source=rss&utm_medium=article",
+      "pubDate": "Mon, 10 Aug 2026 16:33:22 GMT",
+      "contentSnippet": "点击查看原文>",
+      "sourceName": "InfoQ中文",
+      "sourceWeight": 78,
+      "allSources": [
+        "InfoQ中文"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "DGP地心引力集结机器人创业者，40余家资本关注。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "InfoQ为知名科技媒体，内容具体但缺乏技术细节和原始数据。"
+    },
+    {
+      "title": "行业新选手登场！中科慧思一口气发三款灵巧手新品，机器人也能组乐队现场演奏",
+      "link": "https://www.infoq.cn/article/6EXTXyTt834kMGkiqqDT?utm_source=rss&utm_medium=article",
+      "pubDate": "Mon, 10 Aug 2026 15:20:09 GMT",
+      "contentSnippet": "点击查看原文>",
+      "sourceName": "InfoQ中文",
+      "sourceWeight": 78,
+      "allSources": [
+        "InfoQ中文"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中科慧思发布三款灵巧手新品，机器人现场组乐队演奏，展示技术实力。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "InfoQ为知名科技媒体，内容具体但缺乏技术细节和原始数据，评分中等偏上。"
+    },
+    {
+      "title": "英伟达、礼来和迪士尼印证：是时候押注那些领头羊了",
+      "link": "https://www.tmtpost.com/8098338.html",
+      "pubDate": "Mon, 10 Aug 2026 22:50:27 +0800",
+      "contentSnippet": "投资者仍然相当谨慎，以至于他们只愿意买入那些已经被证明是赢家的标的，因此在当下押注热门强者是个明智的策略。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "分析称投资者谨慎，押注英伟达等领头羊是明智策略。",
+      "credibilityScore": 60,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源一般，内容为投资观点，缺乏具体数据和技术细节，逻辑较简略。"
+    },
+    {
+      "title": "对磁星的测量或证实了真空双折射理论",
+      "link": "https://www.solidot.org/story?sid=85055",
+      "pubDate": "Mon, 10 Aug 2026 22:38:00 +0800",
+      "contentSnippet": "国际团队在 2025 年 3 月至 4 月间，结合 NASA 的 IXPE (Imaging X-ray Polarimetry Explorer、NICER (Neutron Star Interior Composition Explorer) 以及澳洲联邦科学与工业研究组织（CSIRO）的 Murriyang 无线电望远镜，对磁星 1E 1547-5408 进行了超过 140 小时的联合观测。这是人类史上首次针对磁星进行同步的无线电与 X 射线偏振测量。这颗每 2 秒自转一周的磁星能持续发出明亮的无线电与 X 射线。观测显示，其光子偏振度是类似天体的三倍之多，远高于标准表面辐射模型的预期",
       "sourceName": "Solidot",
       "sourceWeight": 75,
       "allSources": [
@@ -34,16 +242,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "研究显示全球蔬菜摄入不足且品种减少，威胁饮食多样性和营养。",
-      "credibilityScore": 75,
+      "aiSummary": "多望远镜联合观测磁星，偏振度超预期，或证实真空双折射理论。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源Solidot知名科技媒体，引用PNAS研究，数据具体，逻辑清晰，但细节有限。"
+      "credibilityReason": "来源可靠，观测数据详实，引用多机构设备，逻辑清晰，但缺乏原始论文链接。"
     },
     {
-      "title": "当特朗普用多晶硅关税逼马斯克上轨道：AI+机器人全栈税的到期日",
-      "link": "https://www.tmtpost.com/8096937.html",
-      "pubDate": "Mon, 10 Aug 2026 10:02:51 +0800",
-      "contentSnippet": "8月4-6日，太空算力、多晶硅关税、Terafab破土、宇树IPO四线齐发。本文用产业生命周期与斯密-杨格定理，论证AI+机器人产业正从垂直整合走向模块化分工，全栈是早期税，专件商将收模块税。",
+      "title": "英特尔因150亿美元股票发行而股价下跌，为何现在筹集资金？",
+      "link": "https://www.tmtpost.com/8098317.html",
+      "pubDate": "Mon, 10 Aug 2026 22:16:44 +0800",
+      "contentSnippet": "英特尔表示，在刚刚上调今年的资本支出预测后不久，将通过股票发行筹资150亿美元。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -51,217 +259,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "分析特朗普关税与AI机器人产业分工趋势，预测模块化税取代全栈税。",
-      "credibilityScore": 65,
-      "credibilityLevel": "medium",
-      "credibilityReason": "内容有产业分析框架，但缺乏具体数据与原始出处，部分预测主观性强。"
-    },
-    {
-      "title": "大瓶啤酒，卖疯了",
-      "link": "https://www.tmtpost.com/8096927.html",
-      "pubDate": "Mon, 10 Aug 2026 10:02:46 +0800",
-      "contentSnippet": "1L装马口铁啤酒瓶走红。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "1L装马口铁啤酒瓶走红，大瓶啤酒销量激增。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体，内容具体但缺乏数据支撑和原始出处，评分中等偏上。"
-    },
-    {
-      "title": "七彩虹推出穿云 60 系列镂空磁轴键盘：支持星闪 8KHz 回报率，199 元起",
-      "link": "https://www.ithome.com/0/987/713.htm",
-      "pubDate": "Mon, 10 Aug 2026 02:01:21 GMT",
-      "contentSnippet": "IT之家 8 月 10 日消息，七彩虹宣布推出穿云 60 系列镂空磁轴键盘，系列键盘主打镂空设计，提供三种版本可选，IT之家整理价格如下：\n\n\n版本\n\n价格\n\n轴体\n\n键帽\n\n主控方案\n\n\n玄甲 60\n\n¥199\n\n晶岚轴\n\n侧刻\n\n星闪火星 8K\n\n\n玄甲 60 Pro\n\n¥249\n\n白曜轴\n\n雾透\n\n星闪海王星 8K\n\n\n玄甲 60 Ultra\n\n¥369\n\n极光轴\n\n量子蜂巢\n\n星闪海王星 8K\n\n\n京东七彩虹穿云 60 系列磁轴键盘 199 元起直达链接\n\n\n\n系列键盘使用星闪 8K 方案，延迟低至 0.125ms，适合竞技类游戏场景，其整体采用“负空间镂空设计”，拥有自研 360°",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "七彩虹发布穿云60系列镂空磁轴键盘，支持星闪8K回报率，199元起。",
+      "aiSummary": "英特尔上调资本支出后发行150亿美元股票，股价下跌。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道包含具体型号、价格和参数，但缺少官方链接或原始出处，细节有限。"
-    },
-    {
-      "title": "河南首款地方猪育种芯片“豫猪一号”问世",
-      "link": "https://www.ithome.com/0/987/712.htm",
-      "pubDate": "Mon, 10 Aug 2026 02:00:47 GMT",
-      "contentSnippet": "IT之家 8 月 10 日消息，据河南日报上周报道，河南省农业科学院畜牧兽医研究所猪育种团队近日发布了“豫猪一号”河南地方猪 15K 育种芯片，标志着河南地方猪育种开启了基因级精准保种与选育的新时代。\n\n河南省农业科学院畜牧兽医研究所养猪室主任邢宝松介绍，相较于引进的瘦肉型品种，本土地方猪存在生长周期长、料肉比偏高、养殖效益偏低的短板，很难在保留独特优良肉质的同时兼顾产能与收益。\n“豫猪一号”河南地方猪 15K 育种芯片，是首款专为河南地方猪量身定制的专属育种芯片，依托河南五大传统地方猪、2 个自主培育猪种的全基因组重测序数据深度开发，精准捕获本土猪种独有特征遗传位点、解析种群遗传结构，可在仔",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "河南发布首款地方猪育种芯片“豫猪一号”，开启基因级精准保种选育。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用河南日报，内容具体，技术细节清晰，逻辑合理。"
-    },
-    {
-      "title": "AOC 推出 AG326UZD（柔光版）显示器：升级 QD-OLED Penta Tandem 面板",
-      "link": "https://www.ithome.com/0/987/711.htm",
-      "pubDate": "Mon, 10 Aug 2026 01:56:16 GMT",
-      "contentSnippet": "IT之家 8 月 10 日消息，AOC 本月 7 日推出了 AG326UZD（柔光版）显示器。这一型号是对 2025 年 7 月的原版 AG326UZD 的迭代，在保持 31.5\" QD-OLED UHD 240Hz 基础规格不变的同时升级到了新款 Penta Tandem 面板。\n\n五层堆栈结构的 QD-OLED Penta Tandem 不仅为 AG326UZD（柔光版）带来了更高等级的 VESA DisplayHDR True Black 500 认证，配套的 Dark Shield (Black AGLR) 技术也进一步加强了对环境光反射的屏蔽。\n\n这款显示器拥有 300nits 的",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家",
-        "钛媒体",
-        "量子位",
-        "InfoQ中文"
-      ],
-      "coverageCount": 4,
-      "coverageBoost": 15,
-      "aiSummary": "AOC推出AG326UZD柔光版，升级QD-OLED Penta Tandem面板，提升HDR和防眩光性能。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家等知名科技媒体，内容具体，但缺乏原始出处和详细技术数据，评分适中。（多源覆盖 +15）"
-    },
-    {
-      "title": "千元级别也能面面俱到，iGame B850M ULTRA-OC V14 主板体验",
-      "link": "https://www.ithome.com/0/987/706.htm",
-      "pubDate": "Mon, 10 Aug 2026 01:52:39 GMT",
-      "contentSnippet": "在主流 AMD B850 主板推出一年多以后，七彩虹终于推出了高端定位的 iGame 主板新品，iGame B850M ULTRA-OC V14。\n\n这款新品从设计、实用性到 BIOS 功能都做了全面升级，它支持七彩虹最新的 X3D AI 高帧模式、PBO 预设增强档、内存高性能小参。\n它还拥有高达 4 个 M.2 接口，为超频而生的 1DPC 双内存插槽，显卡 + M.2 快拆以及 5Gbps 有线 + Wi-Fi 7 无线支持，堪称七彩虹有史以来最强 B850 超频主板，售价为 1299 元。那么，这款新品的表现如何，一起来看看吧。\n\n为了更好地展现 iGame B850M ULTRA-O",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "七彩虹发布高端iGame B850M主板，售价1299元，支持超频与AI功能。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家知名科技媒体，内容具体含规格与售价，但缺乏实测数据与原始引用。"
-    },
-    {
-      "title": "送 1:64 合金车模：小米汽车试驾送车模活动再次回归",
-      "link": "https://www.ithome.com/0/987/700.htm",
-      "pubDate": "Mon, 10 Aug 2026 01:50:49 GMT",
-      "contentSnippet": "IT之家 8 月 10 日消息，据“小米汽车”官方微博，小米汽车今天宣布试驾送车模活动再次回归，即日起至 8 月 14 日预约到店试驾任意车型，完成试驾后，可领取一个 1:64 合金车模（款式颜色随机）。\n本次试驾活动试驾车型不限。单店活动周期内车模数量在 2 个至 65 个区间，具体数量以门店实际为准，数量有限先到先得。试驾者需年满 18 岁且持有合法机动车驾驶证、驾龄 1 年以上，满足小米汽车门店试驾相关要求，活动期间每个账号（mid）限参与一次，同时用户需在 2026 年 5 月 9 日至 8 月 9 日未试驾小米汽车任一车型。\n\n据IT之家此前报道，小米澎程系列展车现已在全国多地小米汽",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "小米汽车试驾送1:64合金车模活动回归，8月14日前预约试驾可领取。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家知名科技媒体，信息具体含时间、条件、数量，引用官方微博，逻辑清晰。"
-    },
-    {
-      "title": "不用带燃料，西班牙公司计划发射全球首颗吸气式电推进卫星",
-      "link": "https://www.ithome.com/0/987/698.htm",
-      "pubDate": "Mon, 10 Aug 2026 01:50:04 GMT",
-      "contentSnippet": "IT之家 8 月 10 日消息，西班牙公司 Kreios Space 于 8 月 4 日宣布，该公司计划将全球首颗利用吸入的空气推动自身前进的卫星送入轨道。\n\nKreios Space 正在研发的这项技术名为“吸气式电推进”（Air-Breathing Electric Propulsion，ABEP）。该技术利用来自地球大气层的空气，将其加热、电离后喷射出去，从而产生推进力。\n\n这种方法将使运行在超低地球轨道（VLEO）的卫星无需依靠液体燃料，也能抵消大气阻力。超低地球轨道通常指距离地球表面约 60 英里至 250 英里（100 至 400 公里）的区域。\nKreios Space CEO",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "西班牙公司计划发射全球首颗吸气式电推进卫星，利用大气空气产生推力。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道具体技术细节和公司声明，但缺乏独立验证和专家评论。"
-    },
-    {
-      "title": "现代汽车在韩国启动首个公寓楼泊车机器人试点",
-      "link": "https://www.ithome.com/0/987/686.htm",
-      "pubDate": "Mon, 10 Aug 2026 01:43:25 GMT",
-      "contentSnippet": "IT之家 8 月 10 日消息，据韩国《朝鲜日报》今日报道，现代汽车集团将在韩国启动首个公寓楼泊车机器人试点项目。\n由现代汽车集团旗下现代汽车、现代威亚和现代工程建设组成的联合体于 8 月 10 日宣布，将在京畿道始兴市的 Hillstate The Wave City 多户住宅区开展停车机器人试点项目。该项目是韩国国土交通部智慧城市监管沙盒框架下的智能试点项目，并将获得国家资金支持。\n\n▲ 一台现代威亚的泊车机器人正在移动车辆，图源现代威亚\n该公寓楼拥有 1,796 户，计划于明年开放入住。现代汽车集团将在 Hillstate 停车场地下一层的专用区域开展试点项目，该区域共有 53 个停车位",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "现代汽车在韩国启动首个公寓楼泊车机器人试点项目。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，报道具体，引用朝鲜日报，细节详实。"
-    },
-    {
-      "title": "GAMDIAS 推出 THOR P2 系列 ATX 全模组铂金能效电源，至高 1350W",
-      "link": "https://www.ithome.com/0/987/685.htm",
-      "pubDate": "Mon, 10 Aug 2026 01:41:26 GMT",
-      "contentSnippet": "IT之家 8 月 10 日消息，GAMDIAS 今日宣布推出 THOR P2 系列 PC 电源。其采用加长 (160mm) 的 ATX 外形规格，拥有全模组线材设计，获得 80 PLUS 铂金转换效率认证，提供 850W / 1050W / 1350W 三档额定功率选项。\n\nTHOR P2 系列整体采用 APFC + 半桥LLC谐振 + 同步整流 + 单路+12V输出 + DC-DC 的电路拓扑，选用 105℃ 耐温日系电容器。其符合 ATX12V 3.1 和 PCIe CEM 5.1 规范，提供单组 12V-2×6 输出（端子部分为易辨识是否插牢的双色设计）。\n\n该系列电源采用独特的分离式顶",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "GAMDIAS推出THOR P2系列ATX全模组铂金电源，最高1350W。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家较知名，内容具体含技术细节，但缺少原始出处和独立验证。"
-    },
-    {
-      "title": "影史经典《肖申克的救赎 》4K 修复版定档 8 月 28 日，首度登陆中国内地大银幕",
-      "link": "https://www.ithome.com/0/987/684.htm",
-      "pubDate": "Mon, 10 Aug 2026 01:41:02 GMT",
-      "contentSnippet": "IT之家 8 月 10 日消息，华纳兄弟电影今日官宣影史经典《肖申克的救赎》4K 修复版定档 8 月 28 日，首度登陆中国内地大银幕。\n\nIT之家注意到，《肖申克的救赎》是由城堡石娱乐公司出品，弗兰克 · 德拉邦特执导，斯蒂芬 · 埃德温 · 金、弗兰克 · 德拉邦特编剧，蒂姆 · 罗宾斯、摩根 · 弗里曼领衔主演的美国剧情片。该片于 1994 年 9 月 10 日在多伦多电影节首映，9 月 23 日在美国上映。1995 年，该片获得第 67 届奥斯卡金像奖中包括最佳影片在内的七项提名。\n该片主要讲述了青年银行家安迪・杜佛兰遭误判谋杀妻子及其情人，被判处两项终身监禁送入肖申克州立监狱。入狱后",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "《肖申克的救赎》4K修复版8月28日首登中国内地大银幕。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体，含定档日期、出品方、导演等细节，来源可靠。"
-    },
-    {
-      "title": "YUNZII AL98 PRO 三模机械键盘上市：PBT + PC 双拼键帽，532 元起",
-      "link": "https://www.ithome.com/0/987/683.htm",
-      "pubDate": "Mon, 10 Aug 2026 01:28:35 GMT",
-      "contentSnippet": "IT之家 8 月 10 日消息，YUNZII（键设宇宙）现已在国内市场发售 AL98 PRO 三模机械键盘。这一型号采用 98% 配列，配备原厂 (CHERRY) 高度的 PBT + PC 双材质组合键帽，售价 532 元起。\n\n▲ 白幽灵\nAL98 PRO 键盘外壳采用压铸 + CNC + 喷粉工艺铝合金，右上角设有旋钮；内部为多层填充 Gasket 固定架构，PCB 支持全键轴座热插拔并集成下灯位 ARGB 灯珠；拥有 LOG 灯和 USB-C 端口氛围灯。\n\n▲ 夜之城\n其采用 QMK 固件，支持 VIA 改键，在 USB-C 和 2.4GHz 下支持 8kHz 回报率，集成 8000m",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "YUNZII发布AL98 PRO三模机械键盘，PBT+PC键帽，532元起。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道具体参数和价格，但无原始出处，评分适中。"
-    },
-    {
-      "title": "宇树科技今日启动申购：中签率远低于长鑫，中一签或赚 20 万",
-      "link": "https://www.ithome.com/0/987/682.htm",
-      "pubDate": "Mon, 10 Aug 2026 01:25:03 GMT",
-      "contentSnippet": "IT之家 8 月 10 日消息，宇树科技今日（8 月 10 日）正式启动申购，据财联社报道，多家券商综合测算显示，宇树科技预计中签率在万分之二至万分之三之间，远低于长鑫科技 0.47% 的中签率水平。\n报道还称，2026 年以来 A 股新股上市首日平均涨幅高达 276.04%，若以此测算，中一签宇树科技账面盈利有望突破 20 万元。\n宇树科技已确定发行价格为 150.80 元 / 股，对应上市时市值约 609.93 亿元，对应 2025 财年发行后市盈率为 219 倍。\n\n根据公告，宇树科技网上、网下申购日均为 8 月 10 日，缴款截止日均为 8 月 12 日，首发募资约 61 亿元。中一签",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "宇树科技申购启动，中签率低，预计中一签赚20万。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用财联社数据，具体数字明确，但缺乏独立验证。"
+      "credibilityReason": "来源为知名科技媒体，内容具体，但缺少原始声明细节和深度分析。"
     }
   ]
 }
