@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-11T01:59:49.914Z",
+  "generatedAt": "2026-08-12T02:12:59.031Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "AI进药企，如何真正驱动创新药高质量发展？",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-11/10675550.shtml",
-      "pubDate": "Tue, 11 Aug 2026 09:52:23 +0800",
-      "contentSnippet": "近年来，我国创新药上市数量快速增长，医药创新硬实力持续提升。随着技术加速渗透，人工智能已深度融入药品研发、生产、质控、监管全链条，AI赋能创新药正站上产业发展新风口。在政策红利、资本加持和跨界合作的多重助推下，AI技术能否从单点试点迈向全产业应用，真正驱动创新药高质量发展？",
+      "title": "最高人民法院发布商业特许经营典型案例",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-12/10676183.shtml",
+      "pubDate": "Wed, 12 Aug 2026 10:03:12 +0800",
+      "contentSnippet": "商业特许经营(以下称特许经营)俗称“加盟连锁”，是指拥有注册商标、企业标志、专利、专有技术等经营资源的企业(以下称特许人)，以合同形式将其拥有的经营资源许可其他经营者(以下称被特许人)使用，被特许人在统一的经营模式下开展经营并支付费用的经营活动，常见于餐饮、零售、酒店、教育培训、快递物流、美容美发等民生领域。从司法实践看，特许人夸大宣传、盲目扩张，被特许人忽视风险、跟风投资等问题一定程度存在，矛盾纠纷日益增多。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -16,16 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "AI深度融入中国创新药全链条，能否从试点迈向全产业应用成焦点。",
-      "credibilityScore": 75,
+      "aiSummary": "最高法发布商业特许经营典型案例，涉加盟连锁纠纷，提示风险。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为权威媒体，内容具体且客观，但缺乏直接引述和数据支撑，评分略低于一线通讯社。"
+      "credibilityReason": "来源中国新闻网，权威媒体，内容具体，涉及司法案例，事实可查证。"
     },
     {
-      "title": "学习新语·铸魂强党｜健全上下贯通执行有力的组织体系",
-      "link": "https://www.chinanews.com.cn/ll/2026/08-11/10675512.shtml",
-      "pubDate": "Tue, 11 Aug 2026 09:47:00 +0800",
-      "contentSnippet": "习近平党建思想，是习近平新时代中国特色社会主义思想的重要组成部分，是加强新时代党的建设的根本遵循。要深刻理解和把握习近平党建思想的内涵要义，必须深刻领会“十四个坚持”。",
+      "title": "李家超：粤港澳大湾区是香港融入和服务国家发展大局的重要切入点",
+      "link": "https://www.chinanews.com.cn/dwq/2026/08-12/10676170.shtml",
+      "pubDate": "Wed, 12 Aug 2026 10:02:46 +0800",
+      "contentSnippet": "中新网香港8月12日电 “今年是国家‘十五五’规划的开局之年。粤港澳大湾区建设是香港融入和服务国家发展大局的重要切入点，特区政府将继续发挥香港在‘一国两制’下内联外通的优势，积极服务大湾区高质量建设，支持大湾区内地城市以至不同省市的企业‘走出去’，同时把国际高端人才与资金‘引进来’，为发展注入动能。”香港特区行政长官李家超11日说。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -33,16 +33,186 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国新闻网报道习近平党建思想，强调健全组织体系，贯彻十四个坚持。",
+      "aiSummary": "李家超称粤港澳大湾区是香港融入国家发展大局的重要切入点，特区政府将发挥优势服务大湾区建设。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，权威媒体，内容具体，直接引述特首发言，事实可查证。"
+    },
+    {
+      "title": "住房纳入大宗消费范畴 释放内需增长动能",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-12/10676166.shtml",
+      "pubDate": "Wed, 12 Aug 2026 09:50:07 +0800",
+      "contentSnippet": "随着国务院批复的《扩大消费“十五五”规划》将住房消费纳入大宗耐用商品消费范畴并置于首位，房地产的政策定位正加速向“防风险与促消费并重”转变。近日，多地密集出台或储备楼市新政，持续、多方位促进住房消费潜力释放。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国务院规划将住房纳入大宗消费，多地出台新政促住房消费释放内需。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网较权威，内容具体涉及政策文件，但缺乏直接引述和多方交叉验证。"
+    },
+    {
+      "title": "中欧北极快航改写世界航运版图",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-12/10676147.shtml",
+      "pubDate": "Wed, 12 Aug 2026 09:37:10 +0800",
+      "contentSnippet": "这事儿得从去年秋天说起。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中欧北极快航被指改写世界航运版图，报道缺乏具体细节。",
+      "credibilityScore": 65,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源较权威，但内容简短，缺乏具体数据、引述和交叉验证，评分中等。"
+    },
+    {
+      "title": "河南发布暴雨红色预警 启动防汛二级应急响应",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-12/10676182.shtml",
+      "pubDate": "Wed, 12 Aug 2026 10:02:28 +0800",
+      "contentSnippet": "8月12日，记者从河南省应急管理厅获悉，河南省防汛抗旱指挥部已于8月12日8时启动防汛二级应急响应。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "河南发布暴雨红色预警，启动防汛二级应急响应。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为官方媒体，信息具体，有明确时间、部门，可查证。"
+    },
+    {
+      "title": "山西发布地质灾害黄色预警",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-12/10676180.shtml",
+      "pubDate": "Wed, 12 Aug 2026 10:01:50 +0800",
+      "contentSnippet": "2026年8月12日上午，山西省自然资源厅和山西省气象局联合发布地质灾害气象风险预警，预计8月12日8时至8月13日8时，阳泉市城区、矿区、郊区、平定县、长治市平顺县、壶关县、晋城市城区、阳城县、陵川县、泽州县、高平市、忻州市宁武县、静乐县、临汾市大宁县、隰县、永和县、吕梁市孝义市部分区域地质灾害气象风险预警级别为三级(黄色预警)，发生地质灾害的风险较高。上述地区政府、部门和群众应根据预警等级采取相应的防范措施，加强雨前排查、雨中巡查、雨后核查。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "山西多部门联合发布地质灾害黄色预警，涉及多市县，风险较高。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，权威媒体；信息具体，含时间、地点、预警级别；用词客观。"
+    },
+    {
+      "title": "台风“白海豚”停止编号 雨还要下到什么时候？",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-12/10676178.shtml",
+      "pubDate": "Wed, 12 Aug 2026 10:01:04 +0800",
+      "contentSnippet": "台风“白海豚”已经停止编号，虽然台风本体逐步消散，但河南等地的强降雨还在持续。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "台风“白海豚”停止编号，河南等地强降雨持续，雨势何时结束仍待观察。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网，权威媒体，内容具体，涉及气象事实，可查证，用词客观。"
+    },
+    {
+      "title": "白酒包装的暗记揭开办宴赊账骗局",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-12/10676176.shtml",
+      "pubDate": "Wed, 12 Aug 2026 09:59:48 +0800",
+      "contentSnippet": "检察日报 本报全媒体记者 张吟丰 通讯员 李靖 刘雅榕",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "湖南检察机关披露利用白酒包装暗记实施宴席赊账诈骗案，提醒商家防范。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为检察日报及中国新闻网，权威性高；有具体记者署名和细节，可查证。"
+    },
+    {
+      "title": "短短一年半，“黄牛”利用软件抢票2万余张，非法获利近600万元",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-12/10676173.shtml",
+      "pubDate": "Wed, 12 Aug 2026 09:58:36 +0800",
+      "contentSnippet": "短短一年半，利用软件抢票2万余张，非法获利近600万元",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "黄牛利用软件一年半抢票2万余张，非法获利近600万元。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网较权威，信息具体，有数据支撑，但未提及多源交叉验证。"
+    },
+    {
+      "title": "普京抵达南萨哈林斯克 指挥俄太平洋舰队演习最后阶段",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-12/10676171.shtml",
+      "pubDate": "Wed, 12 Aug 2026 09:54:13 +0800",
+      "contentSnippet": "中新网8月12日电 据俄罗斯卫星通讯社报道，俄罗斯总统普京12日已抵达南萨哈林斯克，将指挥俄罗斯太平洋舰队演习的最后阶段。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "普京抵达南萨哈林斯克，指挥太平洋舰队演习最后阶段。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，转引俄罗斯卫星通讯社，属权威媒体，信息具体，可交叉验证。"
+    },
+    {
+      "title": "十几万元的灵巧手寿命最多几个月，业界如何打破不耐用“魔咒”？",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-12/10676169.shtml",
+      "pubDate": "Wed, 12 Aug 2026 09:53:09 +0800",
+      "contentSnippet": "每经记者｜杨煜",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "灵巧手价格高但寿命短，业界正寻求技术突破以提升耐用性。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，较权威；内容具体，涉及价格和寿命，但缺少直接引述和交叉验证。"
+    },
+    {
+      "title": "特朗普再次声称美国已“完全控制”霍尔木兹海峡",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-12/10676163.shtml",
+      "pubDate": "Wed, 12 Aug 2026 09:49:21 +0800",
+      "contentSnippet": "中新网8月12日电 据半岛电视台12日最新消息，美国总统特朗普在马里兰州安德鲁斯联合基地接受记者采访时称，美国目前已“完全控制”霍尔木兹海峡，并表示伊朗相关局势“进展顺利”。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "特朗普称美国已完全控制霍尔木兹海峡，伊朗局势进展顺利。",
       "credibilityScore": 75,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为官方媒体，内容正面且具体，但缺乏独立核实和多方交叉验证。"
+      "credibilityReason": "来源为中新网转引半岛电视台，属知名媒体，但信息单一，缺乏多方证实，评分中等偏上。"
     },
     {
-      "title": "2026年闽台同名村镇（同宗）续缘之旅走进福建长泰",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-11/10675526.shtml",
-      "pubDate": "Tue, 11 Aug 2026 09:35:56 +0800",
-      "contentSnippet": "中新网漳州8月11日电 (王雅苹)“这三十多年来，台湾高雄薛氏后人回祖籍地山重村寻根谒祖，都要来看祖辈口中的这棵古樟树，并合影留念……”",
+      "title": "保险业快速应对台风“白海豚” 已赔付3409万元",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-12/10676160.shtml",
+      "pubDate": "Wed, 12 Aug 2026 09:46:09 +0800",
+      "contentSnippet": "今年第13号台风“白海豚”9日在浙江登陆。记者从国家金融监督管理总局获悉，截至8月11日12时，浙江、上海、江苏、江西等地保险机构共接报案近10万件，估损12亿元，已赔付(含预赔付)3409万元。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -50,16 +220,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "2026年闽台同名村镇续缘之旅走进福建长泰，台湾高雄薛氏后人寻根谒祖。",
+      "aiSummary": "保险业应对台风白海豚，已赔付3409万元。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威媒体，内容具体，有直接引述，事实可查证。"
+      "credibilityReason": "来源中国新闻网，权威媒体，数据具体，引述官方信息，可信度高。"
     },
     {
-      "title": "未来五年，煤炭工业如何发展？",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-11/10675527.shtml",
-      "pubDate": "Tue, 11 Aug 2026 09:34:52 +0800",
-      "contentSnippet": "本报北京8月10日电(记者廖睿灵、邱海峰)近日，国家发展改革委、国家能源局联合印发《煤炭工业发展“十五五”规划》(以下简称《规划》)，系统谋划部署了“十五五”煤炭高质量发展的主要目标、重点任务、重大工程以及实施路径。",
+      "title": "央视对话钟睒睒：用长期契约抬价，让农民种出高品质茉莉花",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-12/10676126.shtml",
+      "pubDate": "Wed, 12 Aug 2026 09:39:15 +0800",
+      "contentSnippet": "2026年8月8日，农夫山泉创始人钟睒睒在央视《对话》栏目中说到：我们必须要重视经济作物，支撑农民收入，用长期契约维护农民利益，让农民种出高品质茉莉花。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -67,197 +237,27 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国家发改委和能源局联合印发煤炭工业发展“十五五”规划，部署高质量发展路径。",
+      "aiSummary": "钟睒睒在央视对话中倡议以长期契约提升农民收入，种植高品质茉莉花。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，引用官方文件，信息具体，内容客观，可信度高。"
+      "credibilityReason": "来源中国新闻网较权威，内容具体，有直接引述，可查证央视节目。"
     },
     {
-      "title": "手机软件广告“乱跳转”屡禁不止 根治“数字牛皮癣”面临哪些挑战？",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-11/10675554.shtml",
-      "pubDate": "Tue, 11 Aug 2026 09:55:21 +0800",
-      "contentSnippet": "央广网北京8月11日消息(总台中国之声记者管昕)据中央广播电视总台中国之声《新闻纵横》报道，近日，安徽黄山一老人在拍照时遭遇多个弹窗广告的视频引发热议。视频显示，老人刚点开手机应用，一层层弹窗广告瞬间铺满屏幕，短短半分钟就跳转了20余次。",
-      "sourceName": "中国新闻网",
+      "title": "受“白海豚”残留云系影响出现大暴雨，浙江玉环市“五停”",
+      "link": "https://m.thepaper.cn/detail/33765813",
+      "pubDate": "Wed, 12 Aug 2026 01:38:49 GMT",
+      "contentSnippet": "今年第13号台风“白海豚”已停止编号，但残留云系仍在发威，其首次登陆地浙江玉环8月12日出现大暴雨天气，再次实施“五停”。\n8月12日凌晨，台州玉环市政府防汛防台抗旱指挥部发布通告，称受“白海豚”残留云系影响，当地出现大暴雨天气，道路积水严重，将全面启动防汛应急响应期间的管控措施。\n8月11日21时至12日6时50分，玉环全市面雨量153.3毫米，气象部门发布暴雨红色预警，市防指启动防汛二级应急响应。\n据通告，应急响应期间的管控措施包括停止或延期举办户外集体活动或大型群众性活动；托儿所、幼儿园、中小学、高校、培训机构等停止线下教学、线下培训和户外教学活动；在建工地一律停工，户外工作人员停止作业",
+      "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
-        "中国新闻网"
+        "澎湃新闻"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "手机软件弹窗广告乱跳转问题引热议，根治面临挑战。",
+      "aiSummary": "台风“白海豚”残留云系致浙江玉环大暴雨，当地实施“五停”管控措施。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为央广网，权威媒体，报道具体事件，有细节和引述，可信度高。"
-    },
-    {
-      "title": "锚定“两重”“两新” 央企划定下半年投资“路线图”",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-11/10675552.shtml",
-      "pubDate": "Tue, 11 Aug 2026 09:54:03 +0800",
-      "contentSnippet": "央企纷纷划定下半年投资“路线图”",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "央企明确下半年投资重点，聚焦“两重”“两新”领域，推动经济高质量发展。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威性较高，内容具体，涉及政策方向，但缺乏直接引述和多方验证。"
-    },
-    {
-      "title": "朝中社批日本新版《防卫白皮书》：企图披着防卫外衣掩盖侵略本质",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-11/10675533.shtml",
-      "pubDate": "Tue, 11 Aug 2026 09:52:57 +0800",
-      "contentSnippet": "中新网8月11日电 据朝中社11日报道，朝鲜国际安保问题评论家姜元哲发表文章称，日本2026年版《防卫白皮书》是“旨在将启动战争机器合法化的再侵略白皮书”。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "朝中社批评日本新版防卫白皮书，称其掩盖侵略本质。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，转载朝中社报道，内容具体，但单一来源且立场鲜明。"
-    },
-    {
-      "title": "拍出48万元！从种牛“标王”看畜禽种业新突破",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-11/10675547.shtml",
-      "pubDate": "Tue, 11 Aug 2026 09:51:04 +0800",
-      "contentSnippet": "从种牛“标王”看畜禽种业新突破",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国新闻网报道种牛拍卖48万元标王，展示畜禽种业新突破。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源权威，内容具体，涉及具体金额和事件，可查证。"
-    },
-    {
-      "title": "A股开盘：超3400只个股飘绿，三大指数集体低开",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-11/10675538.shtml",
-      "pubDate": "Tue, 11 Aug 2026 09:51:00 +0800",
-      "contentSnippet": "A股开盘：超3400只个股飘绿，三大指数集体低开；贵金属、油气、煤炭上涨，发电设备、航天军工、半导体下跌",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "A股开盘三大指数低开，超3400只个股下跌，板块分化明显。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源权威，数据具体，客观报道市场行情，可交叉验证。"
-    },
-    {
-      "title": "哥伦比亚发生强震 救援人员在废墟中搜救幸存者",
-      "link": "http://www.chinanews.com.cn/tp/hd2011/2026/08-11/1200748.shtml",
-      "pubDate": "Tue, 11 Aug 2026 09:50:30 +0800",
-      "contentSnippet": "",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "哥伦比亚强震后，救援人员正在废墟中搜救幸存者。",
-      "credibilityScore": 75,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名媒体，内容具体但缺乏细节和直接引述，可信度中等偏上。"
-    },
-    {
-      "title": "特写：台风过境 悬渚村从积水淤泥中“新生”",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-11/10675535.shtml",
-      "pubDate": "Tue, 11 Aug 2026 09:48:00 +0800",
-      "contentSnippet": "中新网浙江台州8月11日电 题：特写：台风过境 悬渚村从积水淤泥中“新生”",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "台风过后，浙江悬渚村清理积水淤泥，逐步恢复新生。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威媒体，报道具体，含时间地点，客观描述。"
-    },
-    {
-      "title": "英格兰多地区更新高温健康警报",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-11/10675508.shtml",
-      "pubDate": "Tue, 11 Aug 2026 09:47:40 +0800",
-      "contentSnippet": "中新网伦敦8月11日电 (记者 欧阳开宇)英国卫生安全局(UKHSA)10日更新英格兰全域高温健康预警机制，针对英格兰多个地区升级、续发高温警报，提示持续晴热天气将带来切实公共健康风险，呼吁民众及社会机构全面落实防暑应对措施。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "英国卫生安全局更新英格兰高温健康警报，呼吁防暑。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，属权威媒体，引述官方机构，信息具体，用词客观。"
-    },
-    {
-      "title": "浙江衢州：风雨“守夜人”筑牢防台风“安全堤”",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-11/10675532.shtml",
-      "pubDate": "Tue, 11 Aug 2026 09:46:52 +0800",
-      "contentSnippet": "中新网衢州8月11日电 (骆泽明)受今年第13号台风“白海豚”影响，浙江衢州连日来风雨交加。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "浙江衢州应对台风白海豚，基层干部坚守岗位防台风。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威媒体，有具体时间地点和记者署名，内容客观。"
-    },
-    {
-      "title": "巴西总统卢拉：愿为哥伦比亚地震灾区提供援助",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-11/10675492.shtml",
-      "pubDate": "Tue, 11 Aug 2026 09:46:46 +0800",
-      "contentSnippet": "中新社圣保罗8月10日电　当地时间10日，哥伦比亚发生7.4级强震后，巴西总统卢拉通过社交媒体表示，对哥伦比亚人民致以慰问，巴西政府愿提供必要援助。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "巴西总统卢拉就哥伦比亚强震表示慰问，愿提供援助。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新社，属权威媒体，内容具体，有明确时间地点，但未提供直接引述或更多细节。"
-    },
-    {
-      "title": "脑内“电子药”陪伴帕金森患者",
-      "link": "https://www.chinanews.com.cn/jk/2026/08-11/10675542.shtml",
-      "pubDate": "Tue, 11 Aug 2026 09:45:46 +0800",
-      "contentSnippet": "在帕金森病治疗领域，脑深部电刺激术(DBS)常被称为“电子药物”。但在清华大学玉泉医院神经调控中心主任马羽团队看来，这套技术更本质的内涵，是一种与患者长期共存的“陪伴”。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国新闻网报道清华玉泉医院马羽团队，称脑深部电刺激术为帕金森患者的长期陪伴。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名媒体，内容具体，涉及专业团队和观点，但缺乏多源交叉验证。"
+      "credibilityReason": "来源澎湃新闻较权威，信息具体含时间、雨量、措施，可查证。"
     }
   ]
 }

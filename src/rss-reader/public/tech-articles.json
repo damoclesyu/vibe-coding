@@ -1,32 +1,236 @@
 {
-  "generatedAt": "2026-08-11T02:01:36.818Z",
+  "generatedAt": "2026-08-12T02:14:19.937Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "苹果开测长鑫存储！百度、千问也一起挤进苹果供应链",
-      "link": "https://www.qbitai.com/2026/08/469475.html",
-      "pubDate": "Mon, 10 Aug 2026 02:34:48 +0000",
-      "contentSnippet": "先解决这轮内存荒！",
-      "sourceName": "量子位",
-      "sourceWeight": 80,
+      "title": "大普微展示 EDSFF E2 外形规格固态硬盘：512TB 级超大容量",
+      "link": "https://www.ithome.com/0/988/624.htm",
+      "pubDate": "Wed, 12 Aug 2026 02:10:34 GMT",
+      "contentSnippet": "IT之家 8 月 12 日消息，大普微 (DapuStor) 昨日刊文表示，该企业在本月初举行的 FMS 2026 峰会上展出了采用 EDSFF E2 这一新外形规格的 512TB 级超大容量版 PCIe Gen5 QLC NVMe SSD。\n\nEDSFF E2 面向超大容量温数据存储，三维 200×76×9.5 (mm)，能提供 64 个或更多的 NAND 闪存焊盘。\n大普微 R6060 基于自研 PCIe Gen5 控制器 DP800，采用 3D eQLC NAND Flash，支持 NVMe 2.0 与最新 FDP 特性。R6060 此前采用其它外形规格的版本最大容量为 256TB 级（",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "量子位",
-        "Solidot"
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "大普微在FMS 2026展示512TB级EDSFF E2固态硬盘，基于自研控制器。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道具体参数和来源，但缺乏第三方验证，评分75。"
+    },
+    {
+      "title": "Pearl Abyss 2026 年二季度营业利润同比暴涨 7411%，《红色沙漠》首个 DLC 年内推出",
+      "link": "https://www.ithome.com/0/988/622.htm",
+      "pubDate": "Wed, 12 Aug 2026 02:09:46 GMT",
+      "contentSnippet": "IT之家 8 月 12 日消息，凭借《红色沙漠》的成功，Pearl Abyss 已经成为游戏行业最具影响力的开发商之一。这款游戏上市后销量迅猛，不仅取得了亮眼的商业成绩，也为开放世界游戏树立了新的标杆。如今，这些成绩已经开始反映在公司的季度业绩中。\n\nPearl Abyss 公布了 2026 年第二季度财报，创下公司历史最佳季度业绩。报告显示，公司第二季度销售额达到 1,962 亿韩元（IT之家注：现汇率约合 9.36 亿元人民币），营业利润达到 676 亿韩元（现汇率约合 3.23 亿元人民币），均创下二季度业绩历史新高。\n其中，销售额同比大增 247.7%，营业利润更是同比暴涨 7411%",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "Pearl Abyss二季度利润暴涨7411%，红色沙漠DLC年内推出。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道具体财务数据，但缺乏原始财报链接，利润增幅异常需谨慎。"
+    },
+    {
+      "title": "长安汽车第四代 CS55PLUS 蓝鲸超擎官图公布，8 月 18 日上市",
+      "link": "https://www.ithome.com/0/988/621.htm",
+      "pubDate": "Wed, 12 Aug 2026 02:09:40 GMT",
+      "contentSnippet": "IT之家 8 月 12 日消息，长安汽车今日公布了第四代 CS55PLUS 蓝鲸超擎新车官图，并宣布该车将于 8 月 18 日上市发布。\n\n\n第四代长安 CS55PLUS 蓝鲸超擎采用最新家族设计语言，动力方面搭载蓝鲸超擎混动技术。新车长宽高分别为 4550/1868/1675mm，轴距为 2656mm。\n\n\n内饰方面，第四代长安 CS55PLUS 蓝鲸超擎与燃油版车型保持一致，采用环抱式贯穿座舱，搭载星环智联双联屏。新车副驾配备了女王座椅，支持 8 触点按摩功能。\n\n\nIT之家注：蓝鲸超擎混动技术由 500Bar 超高压直喷混动发动机、高磁通高功率混动电驱、高性能高安全电池以及 Ai 云智控",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "长安第四代CS55PLUS蓝鲸超擎官图公布，8月18日上市，搭载混动技术。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道具体参数和上市日期，信息清晰，但缺少原始官方链接。"
+    },
+    {
+      "title": "268 元起、甄子丹加盟，国产 3A 游戏《影之刃零》开启多平台预售",
+      "link": "https://www.ithome.com/0/988/620.htm",
+      "pubDate": "Wed, 12 Aug 2026 02:07:03 GMT",
+      "contentSnippet": "IT之家 8 月 12 日消息，国产 3A 游戏大作《影之刃零》今日开启多平台预购，并公开了 11 分钟实机预告，将于 10 月 29 日正式发售。\n各平台国区统一售价：\n\n数字标准版 268 元\n\n数字豪华版 328 元\n\n\n\n\n《影之刃零》官方表示：甄子丹自 2023 年起担任《影之刃零》监制，并为“暗魔天堡之主：魔渊”进行面捕及动捕。甄家班深度参与了游戏的研发工作，我们深感荣幸，在此表示衷心感谢！",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国产3A游戏《影之刃零》开启多平台预售，甄子丹加盟监制。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道具体售价和发售日期，信息明确，但缺少官方链接。"
+    },
+    {
+      "title": "动态烟花效果：苹果 iOS 27 电话应用将新增“生日提醒”功能",
+      "link": "https://www.ithome.com/0/988/619.htm",
+      "pubDate": "Wed, 12 Aug 2026 02:03:05 GMT",
+      "contentSnippet": "IT之家 8 月 12 日消息，科技媒体 AppleInsider 昨日（8 月 11 日）发布博文，报道称在 iOS 27 Beta 5 更新中，苹果电话（Phone）应用将新增联系人“生日提醒”功能。\nIT之家援引博文介绍，用户和某位联系人通话过程（拨号和接听）中，Phone 应用会检查本机通讯录中的联系人卡片，如果该卡片记录了对方的生日，且日期正好是当天，iPhone 会在通话界面显示生日提醒横幅。\n\n提醒横幅带有动态烟花效果。报道称，横幅会直接提示当天是该联系人的生日，烟花动画也会同步显示在 iPhone 屏幕上。\n苹果还在横幅中注明信息来源。报道提到，横幅内会显示一行小字：“Birt",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "苹果iOS 27电话应用将新增联系人生日提醒，通话时显示动态烟花横幅。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，引用AppleInsider，信息具体，但未提供官方确认，时效性存疑。"
+    },
+    {
+      "title": "REDMI K100 Pro Max 上手体验：性能“超大杯”，续航也够猛",
+      "link": "https://www.ithome.com/0/988/618.htm",
+      "pubDate": "Wed, 12 Aug 2026 02:01:35 GMT",
+      "contentSnippet": "8 月 11 日晚 19:00，全新一代 REDMI K100 Pro 系列手机新品正式发布，包括 REDMI K100 Pro 和 REDMI K100 Pro Max 两款型号可选。新机搭载第五代骁龙 8 至尊版处理器、6 英寸以上巨屏、9070mAh 金沙江电池等核心配置，主打大屏、长续航和游戏体验。\n\nIT之家已经拿到机器并进行了体验，本次我们重点来聊聊 REDMI K100 Pro Max 这款“超大杯”的体验究竟如何。\n一、设计篇\n\nREDMI K100 Pro Max 依旧延续了 K 系列家族设计语言，后盖的视觉重心基本集中在镜头 Deco 部分。\n\n3 颗相同大小的后摄镜头 +",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "IT之家评测REDMI K100 Pro Max，称性能续航强劲，配置高端。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "知名科技媒体，内容具体，但缺乏数据细节和原始引用，评分适中。"
+    },
+    {
+      "title": "【IT之家开箱】REDMI K100 Pro 系列图赏：BOSE 标够抢眼，配色更时尚",
+      "link": "https://www.ithome.com/0/988/617.htm",
+      "pubDate": "Wed, 12 Aug 2026 02:00:10 GMT",
+      "contentSnippet": "去年 10 月，REDMI 推出了该品牌第一款 Pro Max 机型：REDMI K90 Pro Max，抢占“超大杯”用户市场。今年的 REDMI K100 Pro 系列将发布周期提到了 8 月份，并且一口气推出了 K100 Pro 和 K100 Pro Max 两款机型。IT之家已经提前拿到新品，先给大家带来开箱图赏。\n\n包装方面，近几代红米采用的都是白色 + 银色的拼接包装，所有文字和 Logo 标志全部使用黑色，增强阅读辨识度，视觉上更加年轻化和时尚。\n\n官方这次预计为 REDMI K100 Pro 系列带来 4 种配色，IT之家这次拿到了赤霞珠红配色的 K100 Pro 和流光白配色",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "IT之家开箱红米K100 Pro系列，展示赤霞珠红等配色，BOSE标抢眼。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自知名科技媒体，内容具体，有图赏细节，但缺少技术参数和原始出处。"
+    },
+    {
+      "title": "手掌、桌面与车轮，端侧AI打响“入口之战”",
+      "link": "https://www.tmtpost.com/8098969.html",
+      "pubDate": "Wed, 12 Aug 2026 09:57:00 +0800",
+      "contentSnippet": "入口争夺战大幕开启。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "端侧AI入口争夺战开启，涉及手掌、桌面与车轮场景。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "钛媒体为知名科技媒体，内容聚焦行业趋势，逻辑清晰，但缺乏具体数据与原始引用。"
+    },
+    {
+      "title": "几内亚“收钥匙”之后，中国铝产业链的议价权正在发生什么？",
+      "link": "https://www.tmtpost.com/8099335.html",
+      "pubDate": "Wed, 12 Aug 2026 09:53:33 +0800",
+      "contentSnippet": "几内亚正在改写全球铝土矿的定价方式，中国铝产业链首当其冲。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "几内亚改变铝土矿定价，中国铝产业链议价权受冲击。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "钛媒体为知名科技财经媒体，内容具体分析行业影响，但缺乏原始数据引用。"
+    },
+    {
+      "title": "存储龙头江波龙定增：有人山顶站岗，有人套现离场",
+      "link": "https://www.tmtpost.com/8099326.html",
+      "pubDate": "Wed, 12 Aug 2026 09:53:20 +0800",
+      "contentSnippet": "江波龙37亿定增，21名投资者承压。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "江波龙37亿定增，投资者承压，有人套现离场。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "钛媒体为知名科技媒体，内容具体涉及定增细节，但缺乏原始数据引用，评分中等偏上。"
+    },
+    {
+      "title": "英伟达、思科等 120 家组织提议建立 AI 智能体事故追踪机制",
+      "link": "https://www.ithome.com/0/988/612.htm",
+      "pubDate": "Wed, 12 Aug 2026 01:52:30 GMT",
+      "contentSnippet": "IT之家 8 月 12 日消息，据外媒 Axios 今日报道，包括英伟达、思科和 CrowdStrike 在内的 120 多个组织组成的联盟正在提议为 AI 智能体制定一个新的事件报告框架，该框架将要求参与公司披露某些智能体事故，并保存详细的事故记录。\n随着 AI 智能体在计算机系统中获得越来越大的自主权，业界缺乏报告安全故障和从中吸取教训的标准方法。\nThe Open Secure AI Alliance（开放安全人工智能联盟）正在制定其所谓的“Shared AI Findings Exchange”（共享人工智能发现交流，SAFE）指南，这是一个关于如何报告涉及 AI 智能体网络安全事件的",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "120多家组织提议建立AI智能体事故追踪机制，英伟达等参与。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，引用外媒Axios，信息具体，但缺乏原始报告细节。"
+    },
+    {
+      "title": "Piston V 游戏迷你主机曝光：圆形触控屏，Win11 和 Bazzite 双启动",
+      "link": "https://www.ithome.com/0/988/611.htm",
+      "pubDate": "Wed, 12 Aug 2026 01:50:22 GMT",
+      "contentSnippet": "IT之家 8 月 12 日消息，YouTube 频道 ETA Prime 昨日（8 月 11 日）发布视频，分享了名为 Piston V 游戏迷你主机，采用圆形触控屏，目前尚未确认制造商。\n\n外观方面，Piston V 机身正面嵌入了一块圆形触控屏，整机采用直立形态，外观接近数字桌面时钟。该屏幕会显示 Windows 11 和 Bazzite（基于 Linux 的游戏操作系统发行版）2 个启动选项，用户可直接通过触控屏选择操作系统。\n进入 Bazzite 系统后，圆形屏幕会切换为定制状态显示界面，可显示 CPU、GPU 和内存占用率，也会根据当前运行的游戏显示对应封面。IT之家附上相关图片如下",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "Piston V游戏迷你主机曝光，配圆形触控屏，支持Win11和Bazzite双启动。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，内容具体，引用YouTube视频，但制造商未确认，细节有限。"
+    },
+    {
+      "title": "英伟达推出 30B 开源 AI 模型 Nemotron 3.5 Lightning",
+      "link": "https://www.ithome.com/0/988/609.htm",
+      "pubDate": "Wed, 12 Aug 2026 01:49:32 GMT",
+      "contentSnippet": "IT之家 8 月 12 日消息，当地时间 8 月 11 日，英伟达宣布推出 30B 开源 AI 模型 Nemotron 3.5 Lightning，进一步丰富其 Nemotron 3 模型系列。\n官方表示，Nemotron 3.5 Lightning 是一款拥有 300 亿参数的 MoE 模型，专为大型多智能体系统中的特定任务打造，助力开发更智能、更高效的智能体应用。\n与同类其他模型相比，该模型可实现高达 4 倍的输出速度提升，从而将智能体任务的整体完成速度加快 30%。\n\nNemotron 3.5 Lightning 可以直接运行在本地 AI 系统上，包括 NVIDIA RTX PC、NVI",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家",
+        "钛媒体"
       ],
       "coverageCount": 2,
       "coverageBoost": 5,
-      "aiSummary": "苹果测试长鑫存储，百度千问加入供应链，缓解内存荒。",
-      "credibilityScore": 80,
+      "aiSummary": "英伟达发布30B开源MoE模型Nemotron 3.5 Lightning，提升智能体任务速度。",
+      "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体，但缺乏详细数据支撑。（多源覆盖 +5）"
+      "credibilityReason": "来源为知名科技媒体，信息具体含参数和性能数据，但缺少原始链接和独立验证。（多源覆盖 +5）"
     },
     {
-      "title": "AI吃掉SaaS利润后：Zoho为什么自研服务器",
-      "link": "https://www.tmtpost.com/8098550.html",
-      "pubDate": "Tue, 11 Aug 2026 09:54:10 +0800",
-      "contentSnippet": "一家成立30年的软件企业，在AI时代切入硬件研发赛道。",
+      "title": "谁说即时零售只留下了奶茶党？",
+      "link": "https://www.tmtpost.com/8099446.html",
+      "pubDate": "Wed, 12 Aug 2026 09:45:27 +0800",
+      "contentSnippet": "“补贴一停，感情归零”这个说法，到这里可以证伪了。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -34,16 +238,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "Zoho为应对AI成本压力自研服务器，钛媒体报道其30年软件企业转型硬件。",
+      "aiSummary": "即时零售用户留存不依赖补贴，行业进入新阶段。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容具体涉及企业战略，但缺乏技术细节和原始数据支撑。"
+      "credibilityReason": "钛媒体为知名科技媒体，内容具体，逻辑清晰，但缺乏数据支撑和原始出处。"
     },
     {
-      "title": "半年融资250亿，灵巧手还没跑出“标准手”",
-      "link": "https://www.tmtpost.com/8098473.html",
-      "pubDate": "Tue, 11 Aug 2026 09:43:55 +0800",
-      "contentSnippet": "量产元年还是泡沫初期？",
+      "title": "傍上亚朵们的酒店机器人，也没能挣到钱",
+      "link": "https://www.tmtpost.com/8099337.html",
+      "pubDate": "Wed, 12 Aug 2026 09:45:23 +0800",
+      "contentSnippet": "说到底还是服务体感上的差距。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -51,218 +255,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "灵巧手行业半年融资250亿，但尚未形成标准产品，量产与泡沫并存。",
-      "credibilityScore": 78,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容具体，有融资数据支撑，但缺乏原始出处，评分适中。"
-    },
-    {
-      "title": "IonQ、D‑Wave财报落地，小型量子计算标的仍值得关注",
-      "link": "https://www.tmtpost.com/8098504.html",
-      "pubDate": "Tue, 11 Aug 2026 09:21:03 +0800",
-      "contentSnippet": "Horizon Quantum 和 Xanadu Quantum Technologies 的财报显示，只要它们能筹集到资金，就有机会与那些更大的知名公司竞争。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "量子计算初创公司财报显示，融资成功则有望与巨头竞争。",
+      "aiSummary": "酒店机器人行业盈利难，服务体验是关键短板。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容具体提及公司财报，但缺乏数据细节和原始出处。"
-    },
-    {
-      "title": "5000亿美元算力融资：英伟达把GPU变成了华尔街可投资资产",
-      "link": "https://www.tmtpost.com/8098476.html",
-      "pubDate": "Tue, 11 Aug 2026 09:04:43 +0800",
-      "contentSnippet": "黄仁勋亲赴华尔街，六家巨头无一拒绝。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "英伟达推动5000亿美元算力融资，将GPU变为华尔街可投资资产。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体涉及融资规模和人物行动，但缺乏细节和原始出处，评分中等偏上。"
-    },
-    {
-      "title": "五大高校联手发榜！首份机器人三视角世界模型评测结果出炉，榜单持续更新中",
-      "link": "https://www.qbitai.com/2026/08/469860.html",
-      "pubDate": "Tue, 11 Aug 2026 00:46:23 +0000",
-      "contentSnippet": "三视角世界模型谁更稳?",
-      "sourceName": "量子位",
-      "sourceWeight": 80,
-      "allSources": [
-        "量子位"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "五大高校发布首份机器人三视角世界模型评测榜单。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "量子位为知名科技媒体，内容具体，但缺乏评测细节和原始数据，评分适中。"
-    },
-    {
-      "title": "早报｜苹果20周年iPhone或因良率问题取消/小米校招AI岗位增加50%/极氪回应7X充电场站过热",
-      "link": "https://www.ifanr.com/1674633?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pubDate": "Tue, 11 Aug 2026 00:44:25 +0000",
-      "contentSnippet": "· 60 个 AI 智能体协作，Claude 推进黎曼猜想相关问题\r\n· 小米启动 2027 届全球校招，AI 岗位需求增长 50%\r\n· 智谱 API 用户接近 700 万，已启用超 5 万块国产算力芯片\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "sourceName": "爱范儿",
-      "sourceWeight": 82,
-      "allSources": [
-        "爱范儿"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "爱范儿早报汇总AI进展、小米校招及苹果20周年iPhone传闻。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源知名科技媒体，内容具体但部分为传闻，缺乏原始数据支撑。"
-    },
-    {
-      "title": "Edge AI Daily 早报（8月11日）",
-      "link": "https://www.tmtpost.com/8098420.html",
-      "pubDate": "Tue, 11 Aug 2026 08:13:55 +0800",
-      "contentSnippet": "Anthropic未发布Claude将黎曼零点下限提升至67.2%，AI首次纯数学原创贡献。Meta开源Muse Glimmer，30B参数本地运行。用户反AI情绪蔓延，平台限制AI内容，数据中心抗议致1300亿美元项目推迟。Atlassian Rovo漏洞严重。微软涨价7%-10%，PC出货下滑。美国提升阿联酋芯片准入。OpenAI研发新底座Doug。英伟达开源语音模型。GitHub Models关停。中国QDII资金1286亿押注AI。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "AI早报：Claude数学突破、Meta开源模型、反AI情绪、微软涨价等。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源钛媒体较权威，内容具体但部分细节未核实，评分中等偏上。"
-    },
-    {
-      "title": "【钛晨报】央行印发\"十五五\"改革发展规划，配套九份行动方案、部署五大重点任务；微软计划最快9月发布其下一代MAIA 300人工智能芯片；阿里云计划将全球数据中心产能提升两倍以上",
-      "link": "https://www.tmtpost.com/8098284.html",
-      "pubDate": "Tue, 11 Aug 2026 07:20:00 +0800",
-      "contentSnippet": "宇树科技：科创板IPO网上发行最终中签率0.0181%；英特尔宣布拟议的150亿美元普通股发行计划；Meta发布轻量化AI模型，单张显卡即可运行；花旗Q2持仓市值突破3000亿美元，大举增持半导体产业链；7月IPO注册批文创年内单月新高，北交所占比过半；近200家硅谷初创企业反对限制中国开源模型；《煤炭工业发展“十五五”规划》、《生态保护“十五五”规划》印发",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛晨报汇总多领域科技与财经动态，含央行规划、微软芯片、阿里云扩张等。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，信息具体且涉及多家企业，但部分内容需进一步核实。"
-    },
-    {
-      "title": "Franchise Operators Struggle as Meituan and Alibaba Densify Instant Neighborhood Depots",
-      "link": "https://www.tmtpost.com/8098406.html",
-      "pubDate": "Tue, 11 Aug 2026 07:05:02 +0800",
-      "contentSnippet": "Individual investors pour savings into tight-knit networks of rapid-delivery stores that major platforms need for urban dominance, only to confront oversaturation, thin margins, and the steady pressure of daily survival.",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体",
-        "量子位",
-        "少数派",
-        "InfoQ中文",
-        "Solidot"
-      ],
-      "coverageCount": 5,
-      "coverageBoost": 20,
-      "aiSummary": "美团阿里密集布局即时零售仓，加盟商面临饱和与微利困境。",
-      "credibilityScore": 95,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体描述行业现象，但缺乏数据支撑和原始引用。（多源覆盖 +20）"
-    },
-    {
-      "title": "04年连续创业者、华为天才少年同台！DGP地心引力集结机器人最强后浪，40余家资本现场“爆灯”",
-      "link": "https://www.infoq.cn/article/CrdrxQXcaPcUPTFW8usa?utm_source=rss&utm_medium=article",
-      "pubDate": "Mon, 10 Aug 2026 16:33:22 GMT",
-      "contentSnippet": "点击查看原文>",
-      "sourceName": "InfoQ中文",
-      "sourceWeight": 78,
-      "allSources": [
-        "InfoQ中文"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "DGP地心引力集结机器人创业者，40余家资本关注。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "InfoQ为知名科技媒体，内容具体但缺乏技术细节和原始数据。"
-    },
-    {
-      "title": "行业新选手登场！中科慧思一口气发三款灵巧手新品，机器人也能组乐队现场演奏",
-      "link": "https://www.infoq.cn/article/6EXTXyTt834kMGkiqqDT?utm_source=rss&utm_medium=article",
-      "pubDate": "Mon, 10 Aug 2026 15:20:09 GMT",
-      "contentSnippet": "点击查看原文>",
-      "sourceName": "InfoQ中文",
-      "sourceWeight": 78,
-      "allSources": [
-        "InfoQ中文"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中科慧思发布三款灵巧手新品，机器人现场组乐队演奏，展示技术实力。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "InfoQ为知名科技媒体，内容具体但缺乏技术细节和原始数据，评分中等偏上。"
-    },
-    {
-      "title": "英伟达、礼来和迪士尼印证：是时候押注那些领头羊了",
-      "link": "https://www.tmtpost.com/8098338.html",
-      "pubDate": "Mon, 10 Aug 2026 22:50:27 +0800",
-      "contentSnippet": "投资者仍然相当谨慎，以至于他们只愿意买入那些已经被证明是赢家的标的，因此在当下押注热门强者是个明智的策略。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "分析称投资者谨慎，押注英伟达等领头羊是明智策略。",
-      "credibilityScore": 60,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源一般，内容为投资观点，缺乏具体数据和技术细节，逻辑较简略。"
-    },
-    {
-      "title": "对磁星的测量或证实了真空双折射理论",
-      "link": "https://www.solidot.org/story?sid=85055",
-      "pubDate": "Mon, 10 Aug 2026 22:38:00 +0800",
-      "contentSnippet": "国际团队在 2025 年 3 月至 4 月间，结合 NASA 的 IXPE (Imaging X-ray Polarimetry Explorer、NICER (Neutron Star Interior Composition Explorer) 以及澳洲联邦科学与工业研究组织（CSIRO）的 Murriyang 无线电望远镜，对磁星 1E 1547-5408 进行了超过 140 小时的联合观测。这是人类史上首次针对磁星进行同步的无线电与 X 射线偏振测量。这颗每 2 秒自转一周的磁星能持续发出明亮的无线电与 X 射线。观测显示，其光子偏振度是类似天体的三倍之多，远高于标准表面辐射模型的预期",
-      "sourceName": "Solidot",
-      "sourceWeight": 75,
-      "allSources": [
-        "Solidot"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "多望远镜联合观测磁星，偏振度超预期，或证实真空双折射理论。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源可靠，观测数据详实，引用多机构设备，逻辑清晰，但缺乏原始论文链接。"
-    },
-    {
-      "title": "英特尔因150亿美元股票发行而股价下跌，为何现在筹集资金？",
-      "link": "https://www.tmtpost.com/8098317.html",
-      "pubDate": "Mon, 10 Aug 2026 22:16:44 +0800",
-      "contentSnippet": "英特尔表示，在刚刚上调今年的资本支出预测后不久，将通过股票发行筹资150亿美元。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "英特尔上调资本支出后发行150亿美元股票，股价下跌。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体，但缺少原始声明细节和深度分析。"
+      "credibilityReason": "钛媒体为知名科技媒体，内容聚焦行业痛点，逻辑清晰，但缺乏具体数据支撑。"
     }
   ]
 }
