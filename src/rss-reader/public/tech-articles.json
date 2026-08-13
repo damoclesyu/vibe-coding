@@ -1,133 +1,14 @@
 {
-  "generatedAt": "2026-08-12T02:14:19.937Z",
+  "generatedAt": "2026-08-13T02:18:47.531Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "大普微展示 EDSFF E2 外形规格固态硬盘：512TB 级超大容量",
-      "link": "https://www.ithome.com/0/988/624.htm",
-      "pubDate": "Wed, 12 Aug 2026 02:10:34 GMT",
-      "contentSnippet": "IT之家 8 月 12 日消息，大普微 (DapuStor) 昨日刊文表示，该企业在本月初举行的 FMS 2026 峰会上展出了采用 EDSFF E2 这一新外形规格的 512TB 级超大容量版 PCIe Gen5 QLC NVMe SSD。\n\nEDSFF E2 面向超大容量温数据存储，三维 200×76×9.5 (mm)，能提供 64 个或更多的 NAND 闪存焊盘。\n大普微 R6060 基于自研 PCIe Gen5 控制器 DP800，采用 3D eQLC NAND Flash，支持 NVMe 2.0 与最新 FDP 特性。R6060 此前采用其它外形规格的版本最大容量为 256TB 级（",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "大普微在FMS 2026展示512TB级EDSFF E2固态硬盘，基于自研控制器。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道具体参数和来源，但缺乏第三方验证，评分75。"
-    },
-    {
-      "title": "Pearl Abyss 2026 年二季度营业利润同比暴涨 7411%，《红色沙漠》首个 DLC 年内推出",
-      "link": "https://www.ithome.com/0/988/622.htm",
-      "pubDate": "Wed, 12 Aug 2026 02:09:46 GMT",
-      "contentSnippet": "IT之家 8 月 12 日消息，凭借《红色沙漠》的成功，Pearl Abyss 已经成为游戏行业最具影响力的开发商之一。这款游戏上市后销量迅猛，不仅取得了亮眼的商业成绩，也为开放世界游戏树立了新的标杆。如今，这些成绩已经开始反映在公司的季度业绩中。\n\nPearl Abyss 公布了 2026 年第二季度财报，创下公司历史最佳季度业绩。报告显示，公司第二季度销售额达到 1,962 亿韩元（IT之家注：现汇率约合 9.36 亿元人民币），营业利润达到 676 亿韩元（现汇率约合 3.23 亿元人民币），均创下二季度业绩历史新高。\n其中，销售额同比大增 247.7%，营业利润更是同比暴涨 7411%",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "Pearl Abyss二季度利润暴涨7411%，红色沙漠DLC年内推出。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道具体财务数据，但缺乏原始财报链接，利润增幅异常需谨慎。"
-    },
-    {
-      "title": "长安汽车第四代 CS55PLUS 蓝鲸超擎官图公布，8 月 18 日上市",
-      "link": "https://www.ithome.com/0/988/621.htm",
-      "pubDate": "Wed, 12 Aug 2026 02:09:40 GMT",
-      "contentSnippet": "IT之家 8 月 12 日消息，长安汽车今日公布了第四代 CS55PLUS 蓝鲸超擎新车官图，并宣布该车将于 8 月 18 日上市发布。\n\n\n第四代长安 CS55PLUS 蓝鲸超擎采用最新家族设计语言，动力方面搭载蓝鲸超擎混动技术。新车长宽高分别为 4550/1868/1675mm，轴距为 2656mm。\n\n\n内饰方面，第四代长安 CS55PLUS 蓝鲸超擎与燃油版车型保持一致，采用环抱式贯穿座舱，搭载星环智联双联屏。新车副驾配备了女王座椅，支持 8 触点按摩功能。\n\n\nIT之家注：蓝鲸超擎混动技术由 500Bar 超高压直喷混动发动机、高磁通高功率混动电驱、高性能高安全电池以及 Ai 云智控",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "长安第四代CS55PLUS蓝鲸超擎官图公布，8月18日上市，搭载混动技术。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道具体参数和上市日期，信息清晰，但缺少原始官方链接。"
-    },
-    {
-      "title": "268 元起、甄子丹加盟，国产 3A 游戏《影之刃零》开启多平台预售",
-      "link": "https://www.ithome.com/0/988/620.htm",
-      "pubDate": "Wed, 12 Aug 2026 02:07:03 GMT",
-      "contentSnippet": "IT之家 8 月 12 日消息，国产 3A 游戏大作《影之刃零》今日开启多平台预购，并公开了 11 分钟实机预告，将于 10 月 29 日正式发售。\n各平台国区统一售价：\n\n数字标准版 268 元\n\n数字豪华版 328 元\n\n\n\n\n《影之刃零》官方表示：甄子丹自 2023 年起担任《影之刃零》监制，并为“暗魔天堡之主：魔渊”进行面捕及动捕。甄家班深度参与了游戏的研发工作，我们深感荣幸，在此表示衷心感谢！",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国产3A游戏《影之刃零》开启多平台预售，甄子丹加盟监制。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道具体售价和发售日期，信息明确，但缺少官方链接。"
-    },
-    {
-      "title": "动态烟花效果：苹果 iOS 27 电话应用将新增“生日提醒”功能",
-      "link": "https://www.ithome.com/0/988/619.htm",
-      "pubDate": "Wed, 12 Aug 2026 02:03:05 GMT",
-      "contentSnippet": "IT之家 8 月 12 日消息，科技媒体 AppleInsider 昨日（8 月 11 日）发布博文，报道称在 iOS 27 Beta 5 更新中，苹果电话（Phone）应用将新增联系人“生日提醒”功能。\nIT之家援引博文介绍，用户和某位联系人通话过程（拨号和接听）中，Phone 应用会检查本机通讯录中的联系人卡片，如果该卡片记录了对方的生日，且日期正好是当天，iPhone 会在通话界面显示生日提醒横幅。\n\n提醒横幅带有动态烟花效果。报道称，横幅会直接提示当天是该联系人的生日，烟花动画也会同步显示在 iPhone 屏幕上。\n苹果还在横幅中注明信息来源。报道提到，横幅内会显示一行小字：“Birt",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "苹果iOS 27电话应用将新增联系人生日提醒，通话时显示动态烟花横幅。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用AppleInsider，信息具体，但未提供官方确认，时效性存疑。"
-    },
-    {
-      "title": "REDMI K100 Pro Max 上手体验：性能“超大杯”，续航也够猛",
-      "link": "https://www.ithome.com/0/988/618.htm",
-      "pubDate": "Wed, 12 Aug 2026 02:01:35 GMT",
-      "contentSnippet": "8 月 11 日晚 19:00，全新一代 REDMI K100 Pro 系列手机新品正式发布，包括 REDMI K100 Pro 和 REDMI K100 Pro Max 两款型号可选。新机搭载第五代骁龙 8 至尊版处理器、6 英寸以上巨屏、9070mAh 金沙江电池等核心配置，主打大屏、长续航和游戏体验。\n\nIT之家已经拿到机器并进行了体验，本次我们重点来聊聊 REDMI K100 Pro Max 这款“超大杯”的体验究竟如何。\n一、设计篇\n\nREDMI K100 Pro Max 依旧延续了 K 系列家族设计语言，后盖的视觉重心基本集中在镜头 Deco 部分。\n\n3 颗相同大小的后摄镜头 +",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "IT之家评测REDMI K100 Pro Max，称性能续航强劲，配置高端。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "知名科技媒体，内容具体，但缺乏数据细节和原始引用，评分适中。"
-    },
-    {
-      "title": "【IT之家开箱】REDMI K100 Pro 系列图赏：BOSE 标够抢眼，配色更时尚",
-      "link": "https://www.ithome.com/0/988/617.htm",
-      "pubDate": "Wed, 12 Aug 2026 02:00:10 GMT",
-      "contentSnippet": "去年 10 月，REDMI 推出了该品牌第一款 Pro Max 机型：REDMI K90 Pro Max，抢占“超大杯”用户市场。今年的 REDMI K100 Pro 系列将发布周期提到了 8 月份，并且一口气推出了 K100 Pro 和 K100 Pro Max 两款机型。IT之家已经提前拿到新品，先给大家带来开箱图赏。\n\n包装方面，近几代红米采用的都是白色 + 银色的拼接包装，所有文字和 Logo 标志全部使用黑色，增强阅读辨识度，视觉上更加年轻化和时尚。\n\n官方这次预计为 REDMI K100 Pro 系列带来 4 种配色，IT之家这次拿到了赤霞珠红配色的 K100 Pro 和流光白配色",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "IT之家开箱红米K100 Pro系列，展示赤霞珠红等配色，BOSE标抢眼。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体，内容具体，有图赏细节，但缺少技术参数和原始出处。"
-    },
-    {
-      "title": "手掌、桌面与车轮，端侧AI打响“入口之战”",
-      "link": "https://www.tmtpost.com/8098969.html",
-      "pubDate": "Wed, 12 Aug 2026 09:57:00 +0800",
-      "contentSnippet": "入口争夺战大幕开启。",
+      "title": "这种“AI散热材料”告急，稀土管制是源头",
+      "link": "https://www.tmtpost.com/8100661.html",
+      "pubDate": "Wed, 12 Aug 2026 18:09:34 +0800",
+      "contentSnippet": "AI算力拉动需求倍增，稀土管制锁死供给，高端陶瓷散热材料的供应链正在被重写。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -135,102 +16,190 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "端侧AI入口争夺战开启，涉及手掌、桌面与车轮场景。",
+      "aiSummary": "AI算力需求激增，稀土管制致高端陶瓷散热材料供应链告急。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容聚焦行业趋势，逻辑清晰，但缺乏具体数据与原始引用。"
+      "credibilityReason": "钛媒体为知名科技媒体，内容聚焦供应链，逻辑清晰，但缺乏具体数据与原始出处。"
     },
     {
-      "title": "几内亚“收钥匙”之后，中国铝产业链的议价权正在发生什么？",
-      "link": "https://www.tmtpost.com/8099335.html",
-      "pubDate": "Wed, 12 Aug 2026 09:53:33 +0800",
-      "contentSnippet": "几内亚正在改写全球铝土矿的定价方式，中国铝产业链首当其冲。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "几内亚改变铝土矿定价，中国铝产业链议价权受冲击。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技财经媒体，内容具体分析行业影响，但缺乏原始数据引用。"
-    },
-    {
-      "title": "存储龙头江波龙定增：有人山顶站岗，有人套现离场",
-      "link": "https://www.tmtpost.com/8099326.html",
-      "pubDate": "Wed, 12 Aug 2026 09:53:20 +0800",
-      "contentSnippet": "江波龙37亿定增，21名投资者承压。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "江波龙37亿定增，投资者承压，有人套现离场。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容具体涉及定增细节，但缺乏原始数据引用，评分中等偏上。"
-    },
-    {
-      "title": "英伟达、思科等 120 家组织提议建立 AI 智能体事故追踪机制",
-      "link": "https://www.ithome.com/0/988/612.htm",
-      "pubDate": "Wed, 12 Aug 2026 01:52:30 GMT",
-      "contentSnippet": "IT之家 8 月 12 日消息，据外媒 Axios 今日报道，包括英伟达、思科和 CrowdStrike 在内的 120 多个组织组成的联盟正在提议为 AI 智能体制定一个新的事件报告框架，该框架将要求参与公司披露某些智能体事故，并保存详细的事故记录。\n随着 AI 智能体在计算机系统中获得越来越大的自主权，业界缺乏报告安全故障和从中吸取教训的标准方法。\nThe Open Secure AI Alliance（开放安全人工智能联盟）正在制定其所谓的“Shared AI Findings Exchange”（共享人工智能发现交流，SAFE）指南，这是一个关于如何报告涉及 AI 智能体网络安全事件的",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "120多家组织提议建立AI智能体事故追踪机制，英伟达等参与。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用外媒Axios，信息具体，但缺乏原始报告细节。"
-    },
-    {
-      "title": "Piston V 游戏迷你主机曝光：圆形触控屏，Win11 和 Bazzite 双启动",
-      "link": "https://www.ithome.com/0/988/611.htm",
-      "pubDate": "Wed, 12 Aug 2026 01:50:22 GMT",
-      "contentSnippet": "IT之家 8 月 12 日消息，YouTube 频道 ETA Prime 昨日（8 月 11 日）发布视频，分享了名为 Piston V 游戏迷你主机，采用圆形触控屏，目前尚未确认制造商。\n\n外观方面，Piston V 机身正面嵌入了一块圆形触控屏，整机采用直立形态，外观接近数字桌面时钟。该屏幕会显示 Windows 11 和 Bazzite（基于 Linux 的游戏操作系统发行版）2 个启动选项，用户可直接通过触控屏选择操作系统。\n进入 Bazzite 系统后，圆形屏幕会切换为定制状态显示界面，可显示 CPU、GPU 和内存占用率，也会根据当前运行的游戏显示对应封面。IT之家附上相关图片如下",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "Piston V游戏迷你主机曝光，配圆形触控屏，支持Win11和Bazzite双启动。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容具体，引用YouTube视频，但制造商未确认，细节有限。"
-    },
-    {
-      "title": "英伟达推出 30B 开源 AI 模型 Nemotron 3.5 Lightning",
-      "link": "https://www.ithome.com/0/988/609.htm",
-      "pubDate": "Wed, 12 Aug 2026 01:49:32 GMT",
-      "contentSnippet": "IT之家 8 月 12 日消息，当地时间 8 月 11 日，英伟达宣布推出 30B 开源 AI 模型 Nemotron 3.5 Lightning，进一步丰富其 Nemotron 3 模型系列。\n官方表示，Nemotron 3.5 Lightning 是一款拥有 300 亿参数的 MoE 模型，专为大型多智能体系统中的特定任务打造，助力开发更智能、更高效的智能体应用。\n与同类其他模型相比，该模型可实现高达 4 倍的输出速度提升，从而将智能体任务的整体完成速度加快 30%。\n\nNemotron 3.5 Lightning 可以直接运行在本地 AI 系统上，包括 NVIDIA RTX PC、NVI",
+      "title": "缓解强推争议：微软计划 9 月支持独立卸载 OneDrive Photos 应用",
+      "link": "https://www.ithome.com/0/989/103.htm",
+      "pubDate": "Thu, 13 Aug 2026 02:17:34 GMT",
+      "contentSnippet": "IT之家 8 月 13 日消息，科技媒体 WinAero 昨日（8 月 12 日）发布博文，报道称微软计划 9 月支持独立卸载 OneDrive Photos 应用，赋予用户更多掌控 Windows 体验的权力。\n\nIT之家此前报道，微软承认在部分 Windows 11 电脑上强制安装 OneDrive Photos 应用，但明确并未向纳入 Intune 管理范围的企业设备推送该应用程序。\n\n而对于强制安装 OneDrive Photos 应用的 PC，目前无法在不卸载 OneDrive 应用的情况下，卸载 OneDrive Photos 应用，只能隐藏相关快捷方式。即便用户强制卸载 OneD",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
         "IT之家",
-        "钛媒体"
+        "少数派"
       ],
       "coverageCount": 2,
       "coverageBoost": 5,
-      "aiSummary": "英伟达发布30B开源MoE模型Nemotron 3.5 Lightning，提升智能体任务速度。",
-      "credibilityScore": 90,
+      "aiSummary": "微软计划9月支持独立卸载OneDrive Photos，缓解强推争议。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，信息具体含参数和性能数据，但缺少原始链接和独立验证。（多源覆盖 +5）"
+      "credibilityReason": "来源为IT之家和少数派，引用WinAero原始报道，内容具体，逻辑清晰。（多源覆盖 +5）"
     },
     {
-      "title": "谁说即时零售只留下了奶茶党？",
-      "link": "https://www.tmtpost.com/8099446.html",
-      "pubDate": "Wed, 12 Aug 2026 09:45:27 +0800",
-      "contentSnippet": "“补贴一停，感情归零”这个说法，到这里可以证伪了。",
+      "title": "消息称 Anthropic 正洽谈以 60 亿美元收购 AI 初创公司 Decart AI",
+      "link": "https://www.ithome.com/0/989/094.htm",
+      "pubDate": "Thu, 13 Aug 2026 02:12:43 GMT",
+      "contentSnippet": "IT之家 8 月 13 日消息，据彭博社报道，知情人士透露，Anthropic PBC 正在洽谈收购人工智能初创公司 Decart AI，交易金额约为 60 亿美元（IT之家注：现汇率约合 405.41 亿元人民币）。\n\n知情人士表示，目前双方尚未最终敲定交易，谈判仍有破裂的可能。由于涉及私人谈判，这些人士要求匿名。\nDecart 致力于帮助 AI 开发者充分发挥各种不同芯片的性能，同时也专注于生成式视频领域。该公司使用所谓的“世界模型”（world models），能够对实时视频画面进行即时修改。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家",
+        "钛媒体",
+        "量子位",
+        "少数派"
+      ],
+      "coverageCount": 4,
+      "coverageBoost": 15,
+      "aiSummary": "Anthropic拟60亿美元收购AI初创Decart，谈判中。",
+      "credibilityScore": 100,
+      "credibilityLevel": "high",
+      "credibilityReason": "彭博社原始报道，多家科技媒体转载，信息具体，来源可靠。（多源覆盖 +15）"
+    },
+    {
+      "title": "投资百亿美元，特斯拉计划在得州新建大型太阳能电池板工厂",
+      "link": "https://www.ithome.com/0/989/091.htm",
+      "pubDate": "Thu, 13 Aug 2026 02:08:55 GMT",
+      "contentSnippet": "IT之家 8 月 13 日消息，根据提交给得克萨斯州政府的文件，特斯拉计划在休斯敦西南方向约 45 分钟车程处建设一座大型太阳能电池板工厂。\n\n这座名为“Project Crystal Sun”的新工厂预计投资最高可达 101 亿美元（IT之家注：现汇率约合 682.45 亿元人民币）。特斯拉已经申请税收优惠，以部分抵消项目成本，同时表示目前也在“美国多个州”考察其他选址。\n特斯拉表示，该工厂预计将创造约 9,700 个全职工作岗位。\n特斯拉的会计师估算，如果不享受税收优惠，该项目在 37 年内需要承担的房产税总额约为 11 亿美元（现汇率约合 74.33 亿元人民币）。\n按照计划，该项目将在",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "特斯拉计划在得州建百亿美元太阳能工厂，申请税收优惠。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，内容具体含投资额、岗位数等细节，但未引原始文件，时效性一般。"
+    },
+    {
+      "title": "微软发布 VS Code 1.133：调整 Agent 窗口，会话支持切换模型提供商",
+      "link": "https://www.ithome.com/0/989/082.htm",
+      "pubDate": "Thu, 13 Aug 2026 02:02:14 GMT",
+      "contentSnippet": "IT之家 8 月 13 日消息，微软昨日（8 月 12 日）发布公告，宣布推出 Visual Studio Code 1.133 更新，调整 Agent 窗口的访问方式，并支持用户在会话进行期间切换模型提供商。\n本次更新主要为开发者添加了实验性设置 chat.agentHost.allowSignedOutWhenUsable，在用户不愿登录 GitHub 或者设备无法连接 github.com 情况下，也能打开 Agent 窗口。\n启用该设置后，GitHub 身份验证不再关联整个 Agents 窗口，只会关联到单个智能体或模型。这项免登录行为目前仅支持 Claude，微软计划在后续版本中加入",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微软发布VS Code 1.133，调整Agent窗口并支持会话中切换模型提供商。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，内容具体，包含版本号、设置项等细节，逻辑清晰。"
+    },
+    {
+      "title": "亚马逊将交还韩国 MMO 游戏《命运方舟》《王权与自由》西方发行运营权",
+      "link": "https://www.ithome.com/0/989/081.htm",
+      "pubDate": "Thu, 13 Aug 2026 02:00:43 GMT",
+      "contentSnippet": "IT之家 8 月 13 日消息，Amazon（亚马逊）旗下 Amazon Game Studios 当地时间 12 日宣布将向韩国开发商交还两款 MMORPG 游戏《命运方舟》(Lost Ark) 与《王权与自由》(Throne & Liberty) 在西方市场的发行运营权。\n\n▲ 《命运方舟》\n这两款游戏未来在西方的运营将由各自版权所有者直接进行，《命运方舟》的过渡计划在 2026Q4 进行、《王权与自由》则将在 2027 年初过渡，这种过渡对接受数据迁移的玩家不会带来本质上的影响。\n\n▲ 《王权与自由》\nIT之家注意到，亚马逊近年来一直在缩减和调整其游戏领域布局，另一款 MMORPG《新世",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "亚马逊将交还两款韩国MMO游戏西方运营权，过渡计划公布。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家较知名，信息具体含时间点，但缺乏官方声明链接，评分80。"
+    },
+    {
+      "title": "荣耀 CEO 李健谈内存涨价、竞争压力：不经历磨难的企业不可能走向伟大",
+      "link": "https://www.ithome.com/0/989/079.htm",
+      "pubDate": "Thu, 13 Aug 2026 01:55:01 GMT",
+      "contentSnippet": "8 月 12 日晚间消息，在荣耀 Robot Phone 新品发布会后，荣耀 CEO 李健、荣耀产品线总裁方飞、荣耀硬件工程部总裁刘洋、荣耀 AI 与软件部总裁孙建发等高管与媒体对话。\n提到荣耀当前面临的局面，荣耀 CEO 李健表示，一方面，荣耀面临一股向下的压力，内存涨价、行业竞争等，都是狂风暴雨；同时还有一股向上的力量，荣耀战略调整以后，技术、产业、生态都在向上拉。\n技术上，能看到 AI 能力、影像能力、设计能力的提升；产业上，机器人产量短期内可能没那么容易，但以机器人为代表的新产业、新增长曲线正在拉开；生态上，YOYO 接近 3 亿用户，全球 IoT 设备 3,000 万台以上。荣耀作为",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "荣耀CEO谈内存涨价与竞争压力，强调磨难成就伟大企业。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家较权威，内容具体含高管言论及数据，但缺乏独立验证。"
+    },
+    {
+      "title": "小米澎湃 OS 4 Beta 版明日起陆续推送，柔光玻璃、超级小爱 2.0 等升级亮点公布",
+      "link": "https://www.ithome.com/0/989/078.htm",
+      "pubDate": "Thu, 13 Aug 2026 01:54:35 GMT",
+      "contentSnippet": "IT之家 8 月 13 日消息，小米澎湃 OS 官方公布了澎湃 OS 4 Beta 版推送计划，将于 8 月 14 日下午开启陆续推送。\n8 月 14 日下午开启陆续推送\n手机\n\nXiaomi 17 Ultra（含徕卡版）\n\nXiaomi 17 Pro Max\n\nXiaomi 17 Pro\n\nXiaomi 17\n\nREDMI K90 Pro Max（含冠军版）\n\nREDMI K90\n\n平板\n\nXiaomi Pad 8 Pro\n\nXiaomi Pad 8\n\n8 月 27 日起开启陆续推送\n手机\n\nXiaomi 17 Max\n\nXiaomi 17T Pro\n\nXiaomi 17T\n\nXiaomi",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "小米澎湃OS 4 Beta版推送计划公布，8月14日起多款设备陆续升级。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道具体推送时间和设备型号，信息明确，可信度较高。"
+    },
+    {
+      "title": "CD Projekt 证实：《巫师》衍生多人游戏项目 Project Sirius 遭遇裁员",
+      "link": "https://www.ithome.com/0/989/077.htm",
+      "pubDate": "Thu, 13 Aug 2026 01:54:05 GMT",
+      "contentSnippet": "IT之家 8 月 13 日消息，CD Projekt 已确认，《巫师》系列多人游戏衍生作、代号为 Project Sirius 的项目进行了裁员。\n\nCD Projekt 在向 IGN 发布的一份声明中确认，位于波士顿办公室的 4 名员工和位于华沙总部的 5 名员工失去了工作，另外还有 9 名员工获得了申请公司其他项目潜在职位的机会。截至 4 月 30 日，Project Sirius 共有 83 名员工参与开发，如今这一数字预计已降至约 60 人。\nCD Projekt 表示：“我们根据 Sirius 项目当前开发阶段的需求，对团队规模进行了调整。因此，波士顿办公室的 4 名员工和华沙办公室",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "CD Projekt确认《巫师》衍生多人游戏Project Sirius裁员，团队缩减至约60人。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，信息具体，引用IGN声明，数据明确，逻辑清晰，可信度高。"
+    },
+    {
+      "title": "盗版“闽政通”政务 App 已被苹果应用商店下架",
+      "link": "https://www.ithome.com/0/989/076.htm",
+      "pubDate": "Thu, 13 Aug 2026 01:53:06 GMT",
+      "contentSnippet": "IT之家 8 月 13 日消息，福建政务服务 App 统一平台（简称“闽政通 App”）在苹果应用商店被“假冒”一事近日在网上引发关注。该假冒的 App 名为“闽证通”，其在下载页标注自己是“民政便民服务应用”。\n据新黄河报道，闽政通 App 官方 8 月 12 日回应称，目前公司已把相关情况上报，相关部门正在协调处理，同时市民也可以直接在苹果应用商店对 App 进行举报。\nIT之家最新查询发现，目前这款“闽证通”已被苹果应用商店下架，无法搜索到。最新搜索“闽政通”或“闽证通”均显示正版“闽政通”App。\n\n\n盗版“闽证通”的开发者显示为“张春花”，而正版“闽政通”的开发者为“福建省电子政务建",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "盗版闽政通App已被苹果下架，正版恢复搜索。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道具体，引用官方回应和实际查询结果，信息可靠。"
+    },
+    {
+      "title": "报道称微软 API 弃用通知不到位，Teams 插件失效让用户“措手不及”",
+      "link": "https://www.ithome.com/0/989/075.htm",
+      "pubDate": "Thu, 13 Aug 2026 01:51:19 GMT",
+      "contentSnippet": "IT之家 8 月 13 日消息，科技媒体 NeoWin 昨日（8 月 12 日）发布博文，报道称微软在未事先通知的情况下，停用支撑 Elgato Stream Deck 插件的底层 API，导致用户无法再通过实体按键控制 Teams 会议。\nIT之家注：Elgato Stream Deck 是带有可编程实体按键的控制设备，用户可通过按键触发预设操作。微软弃用相关 API 后，原官方插件失去连接基础，快捷控制也随之停止。\n在约 10 个月前，用户反馈下载插件后收到警告提醒，表示由于微软已经弃用了其底层 API，提示该插件将从应用商店下架。\nElgato 随后在 Reddit 社区证实该消息，表示",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微软弃用API未充分通知，致Elgato Stream Deck Teams插件失效，用户措手不及。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，引用NeoWin报道，有具体时间线和用户反馈，但缺乏微软官方回应。"
+    },
+    {
+      "title": "摩尔线程，国产GPU商业化样本",
+      "link": "https://www.tmtpost.com/8101629.html",
+      "pubDate": "Thu, 13 Aug 2026 09:46:19 +0800",
+      "contentSnippet": "摩尔线程半年报营收翻倍，毛利率提升，净利润大幅收窄但大幅改善，国产GPU商业化逐步推进。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -238,27 +207,61 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "即时零售用户留存不依赖补贴，行业进入新阶段。",
+      "aiSummary": "摩尔线程半年报营收翻倍，毛利率提升，国产GPU商业化推进。",
       "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容具体，逻辑清晰，但缺乏数据支撑和原始出处。"
+      "credibilityLevel": "medium",
+      "credibilityReason": "知名科技媒体，内容具体有财务数据，但缺乏原始出处和深度技术分析。"
     },
     {
-      "title": "傍上亚朵们的酒店机器人，也没能挣到钱",
-      "link": "https://www.tmtpost.com/8099337.html",
-      "pubDate": "Wed, 12 Aug 2026 09:45:23 +0800",
-      "contentSnippet": "说到底还是服务体感上的差距。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "AI 云服务巨头 CoreWeave 证实 A100 芯片可服役至 2029 年，GPU 寿命远超市场预期",
+      "link": "https://www.ithome.com/0/989/066.htm",
+      "pubDate": "Thu, 13 Aug 2026 01:40:12 GMT",
+      "contentSnippet": "IT之家 8 月 13 日消息，AI 云服务公司 CoreWeave 刚刚为 AI 热潮中一个备受争议的问题提供了新证据：AI 芯片究竟能保持多长时间的实用价值，并持续为企业创造收入？\n\nCoreWeave 首席财务官 Nitin Agrawal 当地时间周二晚间向分析师透露，公司最近签署了一份合同，将把英伟达 A100 GPU 出租到 2029 年。英伟达于 2020 年推出了 A100。\n这意味着，在这些芯片上市约 9 年之后，客户依然愿意租用它们来运行 AI 工作负载。\n这件事之所以重要，是因为投资者一直在激烈争论 AI 硬件的经济价值究竟会以多快的速度下降。批评者和做空机构认为，英伟达",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "钛媒体"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "酒店机器人行业盈利难，服务体验是关键短板。",
+      "aiSummary": "CoreWeave证实A100芯片可租至2029年，GPU寿命超预期。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容聚焦行业痛点，逻辑清晰，但缺乏具体数据支撑。"
+      "credibilityReason": "来源IT之家，引用CFO言论，具体合同细节，但缺乏原始财报链接。"
+    },
+    {
+      "title": "智界 RX 官宣 8 月 20 日开启预订，亮相鸿蒙智行新品发布会",
+      "link": "https://www.ithome.com/0/989/061.htm",
+      "pubDate": "Thu, 13 Aug 2026 01:37:59 GMT",
+      "contentSnippet": "IT之家 8 月 13 日消息，智界汽车今日宣布，鸿蒙智行首款以 X 命名的 SUV 智界 RX 即将开启预订。8 月 20 日 14:30，鸿蒙智行新品发布会见。\n\n\n据IT之家此前报道，鸿蒙智行智界 RX 申报信息显示，新车长宽高 5020mm × 2007mm × 1600/1585mm，轴距 3000mm；有 277kW 单电机版和 160kW+277kW 双电机版可选。\n\n官方曾表示，这款新车“不卷价格卷价值”，将拥有全新一代华为巨鲸电池平台创新黑科技、四激光雷达矩阵、面向更高阶智驾的全链路冗余架构、行业首创电磁热控压铸技术等技术加持，并在造型、驾控等领域拥有“顶级资源的赋能”和“创",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "智界RX将于8月20日预订，搭载华为多项新技术。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道含具体尺寸、动力等数据，逻辑清晰，但未提供原始申报链接，评分略降。"
+    },
+    {
+      "title": "《DOTA2》2026 国际邀请赛小组赛今日开幕：TR 10:00 登场，XG、VG 12:00 亮相",
+      "link": "https://www.ithome.com/0/989/060.htm",
+      "pubDate": "Thu, 13 Aug 2026 01:37:56 GMT",
+      "contentSnippet": "IT之家 8 月 13 日消息，《DOTA2》2026 国际邀请赛 (TI2026 / TI15) 即将于今日 10:00 拉开大幕。\n本次小组赛采用经修改后的五轮瑞士轮制，所有比赛均为三局两胜。1 支 4-0 和 2 支 4-1 直接晋级、1 支 0-4 和 2 支 1-4 直接淘汰，其余 10 支战队则将在后续的特别淘汰赛中捉对厮杀。\n\n首个比赛日将进行全部 8 场首轮对决和部分次轮比赛，其中中国战队 Team Resilience 将在 10:00 第一场次面对 TEAM VISION（即 PARIVISION），另两支中国战队 Xtreme Gaming 和 Vici Gaming 则",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "DOTA2 TI2026小组赛今日开幕，中国三队赛程公布。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息具体，包含赛制、时间、战队，但无原始出处。"
     }
   ]
 }
