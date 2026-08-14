@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-13T02:17:24.326Z",
+  "generatedAt": "2026-08-14T02:13:11.280Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "跳出二元对立窠臼 学者：中国民族事务治理贡献新范式",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-13/10676781.shtml",
-      "pubDate": "Thu, 13 Aug 2026 10:03:31 +0800",
-      "contentSnippet": "中新社北京8月13日电(记者 杜雅楠)全球200多个国家和地区大多为多民族国家和地区，民族事务治理是共性问题与难题。中央民族大学教授王伟近日接受中新社记者采访时指出，中国推进民族团结进步立法，为多民族国家的民族事务治理贡献独具特色的新范式。",
+      "title": "生态环境法典明起实施 最高法发布六件海洋生态环境司法保护典型案例",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-14/10677441.shtml",
+      "pubDate": "Fri, 14 Aug 2026 10:01:48 +0800",
+      "contentSnippet": "《中华人民共和国生态环境法典》将于今年8月15日起实施。在生态环境法典即将施行之际，最高人民法院今天发布六件海洋生态环境司法保护典型案例，集中展示海事审判在维护国家海洋权益、保护海洋生态环境、推动绿色低碳发展的独特作用与专业担当，充分发挥典型案例以案释法、以案普法的示范引导作用，加大生态环境法典学习宣传力度，促进和深化生态环境法典的全面准确贯彻实施。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -16,16 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "学者称中国民族事务治理贡献新范式，跳出二元对立。",
-      "credibilityScore": 75,
+      "aiSummary": "生态环境法典明起实施，最高法发布六件海洋生态环境司法保护典型案例。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为官方媒体，内容具体，有学者直接引述，但单一来源且主题涉及政策评价。"
+      "credibilityReason": "来源为中国新闻网，权威性较高；信息具体，包含时间、发布主体和案例数量，内容客观，可查证。"
     },
     {
-      "title": "大湾区城市协同激活外贸增长新动能",
-      "link": "https://www.chinanews.com.cn/dwq/2026/08-13/10676778.shtml",
-      "pubDate": "Thu, 13 Aug 2026 09:51:18 +0800",
-      "contentSnippet": "李雯珊",
+      "title": "台湾青年苏恒：新疆少数民族的爱国情怀让我触动",
+      "link": "https://www.chinanews.com.cn/txy/2026/08-14/10677423.shtml",
+      "pubDate": "Fri, 14 Aug 2026 10:01:38 +0800",
+      "contentSnippet": "中新网8月14日电(燕新台)去年10月，台湾中华海峡经贸交流协会理事长苏恒首次踏上新疆这片她心生向往的土地。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -33,33 +33,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "大湾区城市协同发展，激活外贸增长新动能。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威性较高，内容具体，但缺乏直接引述和详细数据，评分75。"
-    },
-    {
-      "title": "良法善治·回响｜习近平“典”论生态环境保护",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-13/10676761.shtml",
-      "pubDate": "Thu, 13 Aug 2026 09:39:03 +0800",
-      "contentSnippet": "大美中国，江山如画。五千多年来，先人借景生情、托物言志，留下了“湖阔数千里，湖光摇碧山”“红红白白花临水，碧碧黄黄麦际天”等无数传世佳句，也积淀了“取之有度，用之有节”“草木植成，国之富也”等丰富生态智慧。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国新闻网报道习近平引用古典论述生态环境保护，强调传统生态智慧。",
+      "aiSummary": "台湾青年苏恒访新疆，称少数民族爱国情怀令人触动。",
       "credibilityScore": 75,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为官方媒体，内容正面但缺乏具体事实和独立验证，评分中等偏上。"
+      "credibilityReason": "来源为官方媒体，内容具体但单一视角，缺乏多源交叉验证。"
     },
     {
-      "title": "第二十六届福建省科协年会主论坛在福州举办",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-13/10676755.shtml",
-      "pubDate": "Thu, 13 Aug 2026 09:37:59 +0800",
-      "contentSnippet": "中新网福州8月13日电 (叶秋云)由福建省科学技术协会、福州大学联合主办，以“科创服务全域联动——赋能八闽高质量发展”为主题的第二十六届福建省科协年会主论坛12日在福州举行。",
+      "title": "一批哲学社会科学领域重要出版项目在沪签约",
+      "link": "https://www.chinanews.com.cn/cul/2026/08-14/10677413.shtml",
+      "pubDate": "Fri, 14 Aug 2026 09:56:25 +0800",
+      "contentSnippet": "中新网上海8月14日电 (记者 王笈)作为2026上海书展重点活动之一，“推动哲学社会科学高质量发展”主题出版研讨会暨重点出版项目签约仪式13日在上海举行。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -67,33 +50,67 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "第二十六届福建省科协年会主论坛在福州举办，主题聚焦科创服务全域联动。",
+      "aiSummary": "上海书展期间，哲学社会科学重点出版项目签约仪式举行。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威媒体，报道具体，含时间地点主题，事实可查证。"
+      "credibilityReason": "来源中国新闻网，权威媒体，有具体时间地点和记者署名，内容客观。"
     },
     {
-      "title": "“老革命”重新出山：伊朗挺过权力过渡风险期，国内政治更趋保守",
-      "link": "https://m.thepaper.cn/detail/33771530",
-      "pubDate": "Thu, 13 Aug 2026 00:12:09 GMT",
-      "contentSnippet": "雷扎伊。视觉中国 资料图\n\n\n8月9日，伊朗宣布了最高国家安全委员会秘书、武装部队总参谋长、革命卫队总司令等一系列重要岗位的人事任命，老资格政治家雷扎伊出任最高国家安全委员会秘书一职尤其引起国际社会广泛关注。这一重大人事调整是美以伊战争背景下伊朗国内政治保守化的集中体现，意味着伊朗将加强对霍尔木兹海峡的管控。\n伊朗最高国家安全委员会于1989年根据伊朗伊斯兰共和国宪法第176条设立，目的是协调国防、安全和危机管理，应对国家所面临的类似于两伊战争那样复杂而持续的威胁。根据伊朗宪法，该委员会是负责制定和监督国家安全与国防政策的最高机构，其使命是保护革命的根本利益和伊朗的领土完整。委员会包括来自行政",
-      "sourceName": "澎湃新闻",
+      "title": "重大项目频落子 外资加码中国高端制造",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-14/10677427.shtml",
+      "pubDate": "Fri, 14 Aug 2026 09:49:34 +0800",
+      "contentSnippet": "近期，外资在中国高端制造领域投资动作频频，一批重大项目接连落地、开工或投产，主要集中于汽车核心零部件再制造、动力电池、化工新材料及半导体等高新技术产业领域。受访专家认为，外资加码中国高端制造的背后，是中国产业升级红利与全球供应链重构的双重驱动，跨国公司正以实际行动为“投资中国”投下信任票。",
+      "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
-        "澎湃新闻"
+        "中国新闻网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "伊朗重要人事调整，保守派雷扎伊出任安全委员会秘书，政治趋向保守。",
+      "aiSummary": "外资近期在中国高端制造领域投资频繁，重大项目落地，聚焦汽车零部件、动力电池等高新技术产业。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名媒体，内容具体，有明确时间、职位和背景，但缺乏直接引述和多源交叉验证。"
+      "credibilityReason": "来源为中国新闻网，较权威；内容具体，提及产业领域和专家观点，但缺乏具体项目名称和数据，可查证性一般。"
     },
     {
-      "title": "明查｜德国总理默茨即将辞职？视频系伪造",
-      "link": "https://m.thepaper.cn/detail/33770162",
-      "pubDate": "Wed, 12 Aug 2026 23:21:30 GMT",
-      "contentSnippet": "速览\n- 网传“德国总理默茨即将辞职”的视频是伪造的。DW及视频中援引的德国媒体《商报》均未发布过相关消息。\n- 目前，相关媒体及默茨办公室均已否认辞职传闻。\n事件背景\n近日， 社交平台上流传一段视频，声称德国总理弗里德里希·默茨即将辞职，此前他仅担任德国总理一年。\n该视频左上角有德国媒体DW的标志。视频称，这一信息来自德国“基督教民主联盟董事会的内部信件”，《商报》获得了该信息，并首先对此进行了报道。\n\n网传说法截图。\n\n\n明查\n相关视频源自何处？\n网传视频第7秒展示了疑似德国《商报》网站的截图，其中包含默茨的照片，配有标题 “基民盟泄露文件证实默茨将于8月10日辞职”。\n\n包含默茨照片的《",
+      "title": "河南商丘市柘城县：聚焦“三向发力”  提升党外代表人士思想政治引领质效",
+      "link": "https://www.chinanews.com.cn/txy/2026/08-14/10677414.shtml",
+      "pubDate": "Fri, 14 Aug 2026 09:47:42 +0800",
+      "contentSnippet": "近年来，河南商丘市柘城县委统战部立足职能职责，聚焦思想铸魂、队伍提质、实干建功三个方向精准发力，全方位、常态化抓好党外代表人士思想政治引领工作，持续凝聚服务县域高质量发展的统战合力。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "河南柘城县委统战部聚焦三向发力，提升党外代表人士思想政治引领质效。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网较权威，内容具体但无直接引述，属官方工作报道，可查证。"
+    },
+    {
+      "title": "【新思想引领新征程】做大“蛋糕”缩小差距 浙江扎实推进共同富裕示范区建设",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-14/10677399.shtml",
+      "pubDate": "Fri, 14 Aug 2026 09:33:56 +0800",
+      "contentSnippet": "央视网消息(新闻联播)：习近平总书记指出，共同富裕是社会主义的本质要求，是中国式现代化的重要特征。他强调，要在推动高质量发展、做好做大“蛋糕”的同时，进一步分好“蛋糕”，让现代化建设成果更多更公平惠及全体人民。2021年5月，党中央赋予浙江高质量发展建设共同富裕示范区的重大使命。总书记要求浙江，要在推进共同富裕中先行示范。要把缩小城乡差距、地区差距、收入差距作为主攻方向。五年多来，浙江坚定不移以“八八战略”为总纲领，以“千万工程”牵引城乡融合发展，在探索共同富裕的实践道路上不断迈出新步伐、取得新成效。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "浙江推进共同富裕示范区建设，缩小城乡、地区、收入差距，取得新成效。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为央视网转载新闻联播，权威性高，内容具体，但为官方宣传报道，缺乏独立核实。"
+    },
+    {
+      "title": "美防长：可无限期维持对伊朗海上封锁",
+      "link": "https://m.thepaper.cn/detail/33780643",
+      "pubDate": "Fri, 14 Aug 2026 00:57:06 GMT",
+      "contentSnippet": "当地时间8月13日，美国国防部长赫格塞思表示，美军拥有足够的军事力量，可以“无限期维持”对伊朗的海上封锁。",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -101,51 +118,85 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "网传德国总理默茨辞职视频系伪造，DW及《商报》均未发布，相关方已否认。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为澎湃新闻，属知名媒体，内容具体，有明确辟谣依据，但未提供原始视频链接。"
+      "aiSummary": "美防长称可无限期维持对伊朗海上封锁，强调美军实力充足。",
+      "credibilityScore": 75,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名媒体，内容具体但无直接引述，单一来源，评分中等偏上。"
     },
     {
-      "title": "有关国家影射中方导弹试射活动，外交部回应",
-      "link": "http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E6%9C%89%E5%85%B3%E5%9B%BD%E5%AE%B6%E5%BD%B1%E5%B0%84%E4%B8%AD%E6%96%B9%E5%AF%BC%E5%BC%B9%E8%AF%95%E5%B0%84%E6%B4%BB%E5%8A%A8%EF%BC%8C%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94",
-      "pubDate": "Wed, 12 Aug 2026 20:51:00 +0800",
-      "contentSnippet": "",
-      "sourceName": "央视新闻",
-      "sourceWeight": 80,
+      "title": "九旬马来西亚归侨肖思明：亲历南洋日寇暴行 跨海归国投笔从戎",
+      "link": "https://www.chinanews.com.cn/hr/2026/08-14/10677436.shtml",
+      "pubDate": "Fri, 14 Aug 2026 10:05:46 +0800",
+      "contentSnippet": "中新网上海8月14日电 题：九旬马来西亚归侨肖思明：亲历南洋日寇暴行 跨海归国投笔从戎",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
       "allSources": [
-        "央视新闻"
+        "中国新闻网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "外交部回应有关国家影射中方导弹试射，强调活动合法正当。",
+      "aiSummary": "九旬归侨肖思明回忆南洋日寇暴行，跨海归国从戎。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源央视新闻权威，内容具体，引用外交部回应，事实可查证。"
+      "credibilityReason": "来源中国新闻网，权威媒体，内容具体，有历史细节，可信度高。"
     },
     {
-      "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
-      "link": "https://m.thepaper.cn/detail/33769071",
-      "pubDate": "Wed, 12 Aug 2026 10:02:06 GMT",
-      "contentSnippet": "朱镕基同志遗像 新华社发\n\n\n中国共产党中央委员会、中华人民共和国全国人民代表大会常务委员会、中华人民共和国国务院、中国人民政治协商会议全国委员会沉痛宣告：中国共产党的优秀党员，久经考验的忠诚的共产主义战士，杰出的无产阶级革命家、政治家，党和国家的卓越领导人，中国共产党第十四届、十五届中央政治局常委，国务院原总理朱镕基同志，因病医治无效，于2026年8月12日11时06分在北京逝世，享年98岁。\n朱镕基同志，1928年10月生，湖南长沙人。1948年12月参加革命工作，1949年10月加入中国共产党。他青少年时期就热爱祖国，勤奋好学，追求进步，矢志报国。1947年至1951年，在清华大学电机系",
-      "sourceName": "澎湃新闻",
+      "title": "美军称将组建多国攻击无人机部队 美民众表达担忧",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-14/10677434.shtml",
+      "pubDate": "Fri, 14 Aug 2026 10:05:28 +0800",
+      "contentSnippet": "中新网8月14日电 当地时间13日，美军中央司令部在社交媒体发布消息称，将组建首支多国攻击无人机部队。",
+      "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
-        "澎湃新闻",
-        "央视新闻"
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "美军宣布组建首支多国攻击无人机部队，引发民众担忧。",
+      "credibilityScore": 75,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为正规媒体，信息具体，但未提供直接引述或原始出处，且缺乏多源验证。"
+    },
+    {
+      "title": "年内熊猫债发行规模超2000亿元创历史新高",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-14/10677446.shtml",
+      "pubDate": "Fri, 14 Aug 2026 10:05:14 +0800",
+      "contentSnippet": "证券日报记者 韩 昱",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "年内熊猫债发行规模超2000亿元，创历史新高。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，转载证券日报，权威性较高；数据具体，事实可查证，用词客观。"
+    },
+    {
+      "title": "23岁消防员池坷杰在福安船厂灭火中英勇牺牲",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-14/10677430.shtml",
+      "pubDate": "Fri, 14 Aug 2026 10:04:24 +0800",
+      "contentSnippet": "中新网福州8月14日电 (记者 龙敏)福建省消防救援总队14日通报，年仅23岁的宁德市消防救援支队福安市工业路消防救援站政府专职消防队员池坷杰在福安船厂灭火中英勇牺牲。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网",
+        "澎湃新闻"
       ],
       "coverageCount": 2,
       "coverageBoost": 5,
-      "aiSummary": "朱镕基同志因病于2026年8月12日在北京逝世，享年98岁。",
-      "credibilityScore": 100,
+      "aiSummary": "23岁消防员池坷杰在福安船厂灭火中牺牲，官方通报确认。",
+      "credibilityScore": 95,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为新华社、央视等权威媒体，内容具体，官方讣告，事实可查证。（多源覆盖 +5）"
+      "credibilityReason": "来源为权威通讯社中国新闻网，引用官方通报，信息具体，用词客观。（多源覆盖 +5）"
     },
     {
-      "title": "游客因未骑马遭辱骂：涉事人员书面道歉，服务暂停",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-13/10676789.shtml",
-      "pubDate": "Thu, 13 Aug 2026 10:13:20 +0800",
-      "contentSnippet": "中新网乌兰察布8月13日电 (记者 张林虎)近日，一则游客在内蒙古自治区乌兰察布黄花沟附近游玩时遭马场工作人员辱骂威胁的视频引发关注。事发后，当地文旅部门联合公安机关及属地乡镇迅速介入。目前，涉事人员已向游客书面道歉并取得游客谅解，其牵马服务被暂停。",
+      "title": "二季度货币政策执行报告释放了哪些新信号？",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-14/10677443.shtml",
+      "pubDate": "Fri, 14 Aug 2026 10:04:00 +0800",
+      "contentSnippet": "证券日报记者 刘 琪",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -153,16 +204,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "游客未骑马遭辱骂，涉事人员书面道歉，服务暂停，当地已介入处理。",
+      "aiSummary": "央行二季度货币政策报告发布，释放政策新信号。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，记者署名，具体时间地点，官方介入信息明确，内容可查证。"
+      "credibilityReason": "来源为官方媒体，内容具体，涉及政策报告，事实可查证。"
     },
     {
-      "title": "宁夏滩羊种质保护实现重大突破 优异种羊拥有永久基因备份",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-13/10676786.shtml",
-      "pubDate": "Thu, 13 Aug 2026 10:12:13 +0800",
-      "contentSnippet": "中新网银川8月13日电 (记者 于晶)8月12日，7只体细胞克隆滩羊羔羊在宁夏盐池滩羊产业集团朔牧繁育有限公司育种基地健康生长，全部顺利渡过初生、二毛、断奶关键阶段，各项生理指标稳定正常。此举标志宁夏成功建成克隆滩羊群体，滩羊优异种质资源实现“细胞永生、永久备份”，当地特色畜禽种源保护工作迈入全新阶段。",
+      "title": "壹视界·任平文章解读丨从三对关系，读懂总书记的牵挂",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-14/10677406.shtml",
+      "pubDate": "Fri, 14 Aug 2026 10:00:11 +0800",
+      "contentSnippet": "“老百姓想什么，共产党就干什么。”",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -170,16 +221,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "宁夏成功克隆7只滩羊，实现优异种质资源永久备份，种源保护迈入新阶段。",
+      "aiSummary": "中国新闻网解读总书记牵挂，强调为民服务宗旨。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为官方媒体，内容正面且符合政策，但缺乏具体事实和独立验证。"
+    },
+    {
+      "title": "房贷利率已降至“2字头”？ 理性看待市场化差异",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-14/10677437.shtml",
+      "pubDate": "Fri, 14 Aug 2026 09:59:37 +0800",
+      "contentSnippet": "理性看待房贷利率市场化差异",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国新闻网报道房贷利率降至2字头，强调理性看待市场化差异。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威媒体，有具体时间、地点、数据，内容客观，可查证。"
+      "credibilityReason": "来源为权威媒体，内容具体，用词客观，涉及金融政策，可信度较高。"
     },
     {
-      "title": "哥伦比亚强震已致265人死亡",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-13/10676776.shtml",
-      "pubDate": "Thu, 13 Aug 2026 10:09:43 +0800",
-      "contentSnippet": "中新社北京8月13日电 波哥大消息：哥伦比亚总统德拉埃斯普列亚当地时间12日晚表示，该国10日发生的强震已造成265人死亡、3494人受伤，另有496人失踪。",
+      "title": "AI短剧试水运营新路径 商业化落地仍待验证",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-14/10677435.shtml",
+      "pubDate": "Fri, 14 Aug 2026 09:57:53 +0800",
+      "contentSnippet": "日前，AI短剧《被裁掉的女孩》热度持续走高，其主角“方桃子”进军广告市场、承接品牌商单，引发业内广泛关注。业内专家指出，AI短剧行业正加速探索IP长效运营的商业新路径，试图开辟内容增收的“第二曲线”。然而，其首条品牌植入视频因合规争议最终下架，新兴商业化路径的可行性与合规性仍有待验证。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -187,78 +255,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "哥伦比亚强震已致265人死亡，3494人受伤，496人失踪。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新社，权威性较高；信息具体，含伤亡数据及官方引述；用词客观。"
-    },
-    {
-      "title": "委内瑞拉7月通胀率升至近20%",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-13/10676775.shtml",
-      "pubDate": "Thu, 13 Aug 2026 10:09:27 +0800",
-      "contentSnippet": "中新社北京8月13日电 加拉加斯消息：委内瑞拉中央银行当地时间12日发表声明称，该国7月通胀率升至19.9%，高于6月的13.8%。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "委内瑞拉央行称7月通胀率升至19.9%，高于6月。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，引用央行声明，数据具体，可信度较高。"
-    },
-    {
-      "title": "白宫新闻秘书莱维特将于8月底离任",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-13/10676763.shtml",
-      "pubDate": "Thu, 13 Aug 2026 10:09:03 +0800",
-      "contentSnippet": "中新社华盛顿8月12日电 (记者 陈孟统)美国总统特朗普12日宣布，白宫新闻秘书莱维特将于8月底离任。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "特朗普宣布白宫新闻秘书莱维特将于8月底离任。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，属权威媒体，有具体时间、人物和直接引述，信息可查证。"
-    },
-    {
-      "title": "58所高校学子在京研学 以智能技术赋能乡村振兴",
-      "link": "https://www.chinanews.com.cn/edu/2026/08-13/10676783.shtml",
-      "pubDate": "Thu, 13 Aug 2026 10:07:11 +0800",
-      "contentSnippet": "中新网北京8月13日电 由中国乡村发展基金会发起的2026公益未来大学生公益社团集训营日前在北京收官。来自全国58所高校的69名公益社团代表在研学与实践中，把智能技术应用从日常学习延伸到乡村振兴。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "58所高校学子在京研学，用智能技术助力乡村振兴。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威性较高，内容具体，有明确时间地点和数字，用词客观。"
-    },
-    {
-      "title": "抗过敏药容易形成药物依赖，能不用就不用？丨中新真探",
-      "link": "https://www.chinanews.com.cn/life/2026/08-13/10676784.shtml",
-      "pubDate": "Thu, 13 Aug 2026 10:05:59 +0800",
-      "contentSnippet": "中新网8月13日电 抗过敏药(主要指抗组胺药)并无生理成瘾性，临床常用的第二代抗组胺药(如氯雷他定、西替利嗪)安全性极高，不具备阿片类药物或镇静安眠药的成瘾机制。当然，任何药物都应在医生指导下按照疗程和剂量使用，如果需要长期服药，也建议定期复诊评估治疗方案。(来源：@科学辟谣 中国新闻网微博)",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "抗过敏药无生理成瘾性，第二代抗组胺药安全性高，但需遵医嘱使用。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，引用科学辟谣，内容具体，基于医学常识，可信度高。"
+      "aiSummary": "AI短剧探索IP运营新路径，商业化可行性与合规性仍待验证。",
+      "credibilityScore": 75,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名媒体，内容具体，但缺乏直接引述和多方验证，评分中等偏上。"
     }
   ]
 }

@@ -1,69 +1,31 @@
 {
-  "generatedAt": "2026-08-13T02:18:47.531Z",
+  "generatedAt": "2026-08-14T02:14:31.993Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "这种“AI散热材料”告急，稀土管制是源头",
-      "link": "https://www.tmtpost.com/8100661.html",
-      "pubDate": "Wed, 12 Aug 2026 18:09:34 +0800",
-      "contentSnippet": "AI算力拉动需求倍增，稀土管制锁死供给，高端陶瓷散热材料的供应链正在被重写。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "OPPO Enco Clip2 耳夹耳机新配色“晨雾白”开售，限时优惠价 809.1 元",
+      "link": "https://www.ithome.com/0/989/557.htm",
+      "pubDate": "Fri, 14 Aug 2026 02:11:05 GMT",
+      "contentSnippet": "IT之家 8 月 14 日消息，OPPO 今日宣布，OPPO Enco Clip2 耳夹耳机新配色“晨雾白”开售，原价 899 元，限时优惠价 809.1 元。\n\n据介绍，购机即赠送价值 139 元 OPPO Enco Clip2 星芒耳饰一对；还可加价 399 元享价值 599 元「OPPO × HEFANG 耳机联名礼盒-星光喜鹊」。\n\n据IT之家此前报道，OPPO Enco Clip2 耳夹耳机发布于 4 月 21 日，首发提供高光金和深空灰两种颜色可选；单耳重 5.2g，配备超薄自适应钛片；支持 40 小时超长续航，单次续航可达 9.5 小时。\nOPPO Enco Clip2 耳夹耳机",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "钛媒体"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "AI算力需求激增，稀土管制致高端陶瓷散热材料供应链告急。",
+      "aiSummary": "OPPO Enco Clip2新配色晨雾白开售，限时优惠809.1元，赠星芒耳饰。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容聚焦供应链，逻辑清晰，但缺乏具体数据与原始出处。"
+      "credibilityReason": "IT之家为知名科技媒体，信息具体含价格、赠品及产品参数，逻辑清晰，但无原始官方链接。"
     },
     {
-      "title": "缓解强推争议：微软计划 9 月支持独立卸载 OneDrive Photos 应用",
-      "link": "https://www.ithome.com/0/989/103.htm",
-      "pubDate": "Thu, 13 Aug 2026 02:17:34 GMT",
-      "contentSnippet": "IT之家 8 月 13 日消息，科技媒体 WinAero 昨日（8 月 12 日）发布博文，报道称微软计划 9 月支持独立卸载 OneDrive Photos 应用，赋予用户更多掌控 Windows 体验的权力。\n\nIT之家此前报道，微软承认在部分 Windows 11 电脑上强制安装 OneDrive Photos 应用，但明确并未向纳入 Intune 管理范围的企业设备推送该应用程序。\n\n而对于强制安装 OneDrive Photos 应用的 PC，目前无法在不卸载 OneDrive 应用的情况下，卸载 OneDrive Photos 应用，只能隐藏相关快捷方式。即便用户强制卸载 OneD",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家",
-        "少数派"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "微软计划9月支持独立卸载OneDrive Photos，缓解强推争议。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家和少数派，引用WinAero原始报道，内容具体，逻辑清晰。（多源覆盖 +5）"
-    },
-    {
-      "title": "消息称 Anthropic 正洽谈以 60 亿美元收购 AI 初创公司 Decart AI",
-      "link": "https://www.ithome.com/0/989/094.htm",
-      "pubDate": "Thu, 13 Aug 2026 02:12:43 GMT",
-      "contentSnippet": "IT之家 8 月 13 日消息，据彭博社报道，知情人士透露，Anthropic PBC 正在洽谈收购人工智能初创公司 Decart AI，交易金额约为 60 亿美元（IT之家注：现汇率约合 405.41 亿元人民币）。\n\n知情人士表示，目前双方尚未最终敲定交易，谈判仍有破裂的可能。由于涉及私人谈判，这些人士要求匿名。\nDecart 致力于帮助 AI 开发者充分发挥各种不同芯片的性能，同时也专注于生成式视频领域。该公司使用所谓的“世界模型”（world models），能够对实时视频画面进行即时修改。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家",
-        "钛媒体",
-        "量子位",
-        "少数派"
-      ],
-      "coverageCount": 4,
-      "coverageBoost": 15,
-      "aiSummary": "Anthropic拟60亿美元收购AI初创Decart，谈判中。",
-      "credibilityScore": 100,
-      "credibilityLevel": "high",
-      "credibilityReason": "彭博社原始报道，多家科技媒体转载，信息具体，来源可靠。（多源覆盖 +15）"
-    },
-    {
-      "title": "投资百亿美元，特斯拉计划在得州新建大型太阳能电池板工厂",
-      "link": "https://www.ithome.com/0/989/091.htm",
-      "pubDate": "Thu, 13 Aug 2026 02:08:55 GMT",
-      "contentSnippet": "IT之家 8 月 13 日消息，根据提交给得克萨斯州政府的文件，特斯拉计划在休斯敦西南方向约 45 分钟车程处建设一座大型太阳能电池板工厂。\n\n这座名为“Project Crystal Sun”的新工厂预计投资最高可达 101 亿美元（IT之家注：现汇率约合 682.45 亿元人民币）。特斯拉已经申请税收优惠，以部分抵消项目成本，同时表示目前也在“美国多个州”考察其他选址。\n特斯拉表示，该工厂预计将创造约 9,700 个全职工作岗位。\n特斯拉的会计师估算，如果不享受税收优惠，该项目在 37 年内需要承担的房产税总额约为 11 亿美元（现汇率约合 74.33 亿元人民币）。\n按照计划，该项目将在",
+      "title": "谷歌硬件副总裁彭昱钧：Tensor G6 芯片采用台积电最新改良 3nm 制程",
+      "link": "https://www.ithome.com/0/989/551.htm",
+      "pubDate": "Fri, 14 Aug 2026 02:09:23 GMT",
+      "contentSnippet": "IT之家 8 月 14 日消息，Google（谷歌）硬件副总裁彭昱钧昨日确认，本周早些时候发布的 Pixel 11 系列智能手机所搭载的 Tensor G6 芯片采用台积电最新改良 3nm 制程。这意味着此前“Tensor G6 移动端首发台积电 2nm”的传闻不实。\n\n谷歌表示 Tensor G6 是其有史以来速度最快、功能最强大的自研芯片：升级后的 CPU 带来了 15% 的应用程序启动速率改进和 25% 的网页浏览载入速率改进；其 TPU 计算能力大幅提升 50%，端侧 AI 任务处理速度提升 3.5 倍的同时能效提升最高 3.5 倍。",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -71,16 +33,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "特斯拉计划在得州建百亿美元太阳能工厂，申请税收优惠。",
+      "aiSummary": "谷歌确认Tensor G6采用台积电3nm，否认2nm传闻，性能大幅提升。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，引用高管确认，数据具体，逻辑清晰，但缺乏原始链接。"
+    },
+    {
+      "title": "OPPO Watch X3 Mini 智能手表「粉黛海」配色开售，国补价 2124.15 元",
+      "link": "https://www.ithome.com/0/989/548.htm",
+      "pubDate": "Fri, 14 Aug 2026 02:08:57 GMT",
+      "contentSnippet": "IT之家 8 月 14 日消息，OPPO Watch X3 Mini 智能手表「粉黛海」配色今日开售，官方标价 2499 元，国补价 2124.15 元，京东券后 2349 元。\n\nIT之家注意到，OPPO Watch X3 Mini 于今年 4 月发布，首发推出高光金、星光银、摩卡棕三种配色，具备 18K 金精钢表壳，支持多种运动模式。\n据介绍，这款手表搭载全新高精度腕温传感器，精度 ±0.1°C，可根据手腕温度变化捕捉女性生理期，帮助用户更早、更准地掌握生理周期。首发生理周期运动指导功能，综合睡眠、HRV 及心率等多维体征数据，智能评估每日运动准备度，并针对不同周期阶段提供科学训练建议。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "OPPO Watch X3 Mini新配色开售，国补价2124.15元，主打腕温生理周期监测。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，内容具体含投资额、岗位数等细节，但未引原始文件，时效性一般。"
+      "credibilityReason": "IT之家为知名科技媒体，报道具体价格和功能细节，但缺少官方来源引用，时效性一般。"
     },
     {
-      "title": "微软发布 VS Code 1.133：调整 Agent 窗口，会话支持切换模型提供商",
-      "link": "https://www.ithome.com/0/989/082.htm",
-      "pubDate": "Thu, 13 Aug 2026 02:02:14 GMT",
-      "contentSnippet": "IT之家 8 月 13 日消息，微软昨日（8 月 12 日）发布公告，宣布推出 Visual Studio Code 1.133 更新，调整 Agent 窗口的访问方式，并支持用户在会话进行期间切换模型提供商。\n本次更新主要为开发者添加了实验性设置 chat.agentHost.allowSignedOutWhenUsable，在用户不愿登录 GitHub 或者设备无法连接 github.com 情况下，也能打开 Agent 窗口。\n启用该设置后，GitHub 身份验证不再关联整个 Agents 窗口，只会关联到单个智能体或模型。这项免登录行为目前仅支持 Claude，微软计划在后续版本中加入",
+      "title": "消息称某厂骁龙 8E6 Pro 新机搭载 2K 三星直屏、全新 ID 设计，预计为 iQOO 16",
+      "link": "https://www.ithome.com/0/989/538.htm",
+      "pubDate": "Fri, 14 Aug 2026 02:02:07 GMT",
+      "contentSnippet": "IT之家 8 月 14 日消息，博主 @数码闲聊站 今日曝光某厂子系骁龙 8E6 Pro / SM8975 新机部分信息，预计为 iQOO 16。\n据其爆料，该机搭载 6.85 英寸 2K+165Hz 新一代三星直屏，工程机的 R 角形态和边框变化不大，镜头 DECO 是左上角小方块，采用全新 ID 设计。\n\n今年 7 月，该博主还爆料某厂子系骁龙 8 Elite Gen 6 Pro 工程机正在测试 1115 系高规格对称双扬声器。X 轴线性马达是 0916 系列，拥有独显芯片、3D 超声波指纹、IP68/IP69 防尘防水、USB 3.2 和 AR 膜等配置，主摄测试 OV50Q 传感器。与",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -88,152 +67,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "微软发布VS Code 1.133，调整Agent窗口并支持会话中切换模型提供商。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容具体，包含版本号、设置项等细节，逻辑清晰。"
-    },
-    {
-      "title": "亚马逊将交还韩国 MMO 游戏《命运方舟》《王权与自由》西方发行运营权",
-      "link": "https://www.ithome.com/0/989/081.htm",
-      "pubDate": "Thu, 13 Aug 2026 02:00:43 GMT",
-      "contentSnippet": "IT之家 8 月 13 日消息，Amazon（亚马逊）旗下 Amazon Game Studios 当地时间 12 日宣布将向韩国开发商交还两款 MMORPG 游戏《命运方舟》(Lost Ark) 与《王权与自由》(Throne & Liberty) 在西方市场的发行运营权。\n\n▲ 《命运方舟》\n这两款游戏未来在西方的运营将由各自版权所有者直接进行，《命运方舟》的过渡计划在 2026Q4 进行、《王权与自由》则将在 2027 年初过渡，这种过渡对接受数据迁移的玩家不会带来本质上的影响。\n\n▲ 《王权与自由》\nIT之家注意到，亚马逊近年来一直在缩减和调整其游戏领域布局，另一款 MMORPG《新世",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "亚马逊将交还两款韩国MMO游戏西方运营权，过渡计划公布。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家较知名，信息具体含时间点，但缺乏官方声明链接，评分80。"
-    },
-    {
-      "title": "荣耀 CEO 李健谈内存涨价、竞争压力：不经历磨难的企业不可能走向伟大",
-      "link": "https://www.ithome.com/0/989/079.htm",
-      "pubDate": "Thu, 13 Aug 2026 01:55:01 GMT",
-      "contentSnippet": "8 月 12 日晚间消息，在荣耀 Robot Phone 新品发布会后，荣耀 CEO 李健、荣耀产品线总裁方飞、荣耀硬件工程部总裁刘洋、荣耀 AI 与软件部总裁孙建发等高管与媒体对话。\n提到荣耀当前面临的局面，荣耀 CEO 李健表示，一方面，荣耀面临一股向下的压力，内存涨价、行业竞争等，都是狂风暴雨；同时还有一股向上的力量，荣耀战略调整以后，技术、产业、生态都在向上拉。\n技术上，能看到 AI 能力、影像能力、设计能力的提升；产业上，机器人产量短期内可能没那么容易，但以机器人为代表的新产业、新增长曲线正在拉开；生态上，YOYO 接近 3 亿用户，全球 IoT 设备 3,000 万台以上。荣耀作为",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "荣耀CEO谈内存涨价与竞争压力，强调磨难成就伟大企业。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家较权威，内容具体含高管言论及数据，但缺乏独立验证。"
-    },
-    {
-      "title": "小米澎湃 OS 4 Beta 版明日起陆续推送，柔光玻璃、超级小爱 2.0 等升级亮点公布",
-      "link": "https://www.ithome.com/0/989/078.htm",
-      "pubDate": "Thu, 13 Aug 2026 01:54:35 GMT",
-      "contentSnippet": "IT之家 8 月 13 日消息，小米澎湃 OS 官方公布了澎湃 OS 4 Beta 版推送计划，将于 8 月 14 日下午开启陆续推送。\n8 月 14 日下午开启陆续推送\n手机\n\nXiaomi 17 Ultra（含徕卡版）\n\nXiaomi 17 Pro Max\n\nXiaomi 17 Pro\n\nXiaomi 17\n\nREDMI K90 Pro Max（含冠军版）\n\nREDMI K90\n\n平板\n\nXiaomi Pad 8 Pro\n\nXiaomi Pad 8\n\n8 月 27 日起开启陆续推送\n手机\n\nXiaomi 17 Max\n\nXiaomi 17T Pro\n\nXiaomi 17T\n\nXiaomi",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "小米澎湃OS 4 Beta版推送计划公布，8月14日起多款设备陆续升级。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道具体推送时间和设备型号，信息明确，可信度较高。"
-    },
-    {
-      "title": "CD Projekt 证实：《巫师》衍生多人游戏项目 Project Sirius 遭遇裁员",
-      "link": "https://www.ithome.com/0/989/077.htm",
-      "pubDate": "Thu, 13 Aug 2026 01:54:05 GMT",
-      "contentSnippet": "IT之家 8 月 13 日消息，CD Projekt 已确认，《巫师》系列多人游戏衍生作、代号为 Project Sirius 的项目进行了裁员。\n\nCD Projekt 在向 IGN 发布的一份声明中确认，位于波士顿办公室的 4 名员工和位于华沙总部的 5 名员工失去了工作，另外还有 9 名员工获得了申请公司其他项目潜在职位的机会。截至 4 月 30 日，Project Sirius 共有 83 名员工参与开发，如今这一数字预计已降至约 60 人。\nCD Projekt 表示：“我们根据 Sirius 项目当前开发阶段的需求，对团队规模进行了调整。因此，波士顿办公室的 4 名员工和华沙办公室",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "CD Projekt确认《巫师》衍生多人游戏Project Sirius裁员，团队缩减至约60人。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，信息具体，引用IGN声明，数据明确，逻辑清晰，可信度高。"
-    },
-    {
-      "title": "盗版“闽政通”政务 App 已被苹果应用商店下架",
-      "link": "https://www.ithome.com/0/989/076.htm",
-      "pubDate": "Thu, 13 Aug 2026 01:53:06 GMT",
-      "contentSnippet": "IT之家 8 月 13 日消息，福建政务服务 App 统一平台（简称“闽政通 App”）在苹果应用商店被“假冒”一事近日在网上引发关注。该假冒的 App 名为“闽证通”，其在下载页标注自己是“民政便民服务应用”。\n据新黄河报道，闽政通 App 官方 8 月 12 日回应称，目前公司已把相关情况上报，相关部门正在协调处理，同时市民也可以直接在苹果应用商店对 App 进行举报。\nIT之家最新查询发现，目前这款“闽证通”已被苹果应用商店下架，无法搜索到。最新搜索“闽政通”或“闽证通”均显示正版“闽政通”App。\n\n\n盗版“闽证通”的开发者显示为“张春花”，而正版“闽政通”的开发者为“福建省电子政务建",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "盗版闽政通App已被苹果下架，正版恢复搜索。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道具体，引用官方回应和实际查询结果，信息可靠。"
-    },
-    {
-      "title": "报道称微软 API 弃用通知不到位，Teams 插件失效让用户“措手不及”",
-      "link": "https://www.ithome.com/0/989/075.htm",
-      "pubDate": "Thu, 13 Aug 2026 01:51:19 GMT",
-      "contentSnippet": "IT之家 8 月 13 日消息，科技媒体 NeoWin 昨日（8 月 12 日）发布博文，报道称微软在未事先通知的情况下，停用支撑 Elgato Stream Deck 插件的底层 API，导致用户无法再通过实体按键控制 Teams 会议。\nIT之家注：Elgato Stream Deck 是带有可编程实体按键的控制设备，用户可通过按键触发预设操作。微软弃用相关 API 后，原官方插件失去连接基础，快捷控制也随之停止。\n在约 10 个月前，用户反馈下载插件后收到警告提醒，表示由于微软已经弃用了其底层 API，提示该插件将从应用商店下架。\nElgato 随后在 Reddit 社区证实该消息，表示",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "微软弃用API未充分通知，致Elgato Stream Deck Teams插件失效，用户措手不及。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，引用NeoWin报道，有具体时间线和用户反馈，但缺乏微软官方回应。"
-    },
-    {
-      "title": "摩尔线程，国产GPU商业化样本",
-      "link": "https://www.tmtpost.com/8101629.html",
-      "pubDate": "Thu, 13 Aug 2026 09:46:19 +0800",
-      "contentSnippet": "摩尔线程半年报营收翻倍，毛利率提升，净利润大幅收窄但大幅改善，国产GPU商业化逐步推进。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "摩尔线程半年报营收翻倍，毛利率提升，国产GPU商业化推进。",
-      "credibilityScore": 75,
+      "aiSummary": "IT之家援引博主爆料，称iQOO 16将搭载骁龙8E6 Pro和2K三星直屏。",
+      "credibilityScore": 65,
       "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体，内容具体有财务数据，但缺乏原始出处和深度技术分析。"
+      "credibilityReason": "来源为知名科技媒体，但内容基于博主爆料，缺乏官方确认和详细数据，可信度中等。"
     },
     {
-      "title": "AI 云服务巨头 CoreWeave 证实 A100 芯片可服役至 2029 年，GPU 寿命远超市场预期",
-      "link": "https://www.ithome.com/0/989/066.htm",
-      "pubDate": "Thu, 13 Aug 2026 01:40:12 GMT",
-      "contentSnippet": "IT之家 8 月 13 日消息，AI 云服务公司 CoreWeave 刚刚为 AI 热潮中一个备受争议的问题提供了新证据：AI 芯片究竟能保持多长时间的实用价值，并持续为企业创造收入？\n\nCoreWeave 首席财务官 Nitin Agrawal 当地时间周二晚间向分析师透露，公司最近签署了一份合同，将把英伟达 A100 GPU 出租到 2029 年。英伟达于 2020 年推出了 A100。\n这意味着，在这些芯片上市约 9 年之后，客户依然愿意租用它们来运行 AI 工作负载。\n这件事之所以重要，是因为投资者一直在激烈争论 AI 硬件的经济价值究竟会以多快的速度下降。批评者和做空机构认为，英伟达",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "金龙鱼，仍未等到第二曲线",
+      "link": "https://www.tmtpost.com/8102831.html",
+      "pubDate": "Fri, 14 Aug 2026 10:01:00 +0800",
+      "contentSnippet": "虽然销量大、收入高，但利薄如纸。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
       "allSources": [
-        "IT之家"
+        "钛媒体"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "CoreWeave证实A100芯片可租至2029年，GPU寿命超预期。",
+      "aiSummary": "金龙鱼营收高但利润薄，第二增长曲线尚未出现。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用CFO言论，具体合同细节，但缺乏原始财报链接。"
+      "credibilityReason": "钛媒体为知名科技财经媒体，内容聚焦企业财务现状，分析具体，但缺乏数据细节和原始引用。"
     },
     {
-      "title": "智界 RX 官宣 8 月 20 日开启预订，亮相鸿蒙智行新品发布会",
-      "link": "https://www.ithome.com/0/989/061.htm",
-      "pubDate": "Thu, 13 Aug 2026 01:37:59 GMT",
-      "contentSnippet": "IT之家 8 月 13 日消息，智界汽车今日宣布，鸿蒙智行首款以 X 命名的 SUV 智界 RX 即将开启预订。8 月 20 日 14:30，鸿蒙智行新品发布会见。\n\n\n据IT之家此前报道，鸿蒙智行智界 RX 申报信息显示，新车长宽高 5020mm × 2007mm × 1600/1585mm，轴距 3000mm；有 277kW 单电机版和 160kW+277kW 双电机版可选。\n\n官方曾表示，这款新车“不卷价格卷价值”，将拥有全新一代华为巨鲸电池平台创新黑科技、四激光雷达矩阵、面向更高阶智驾的全链路冗余架构、行业首创电磁热控压铸技术等技术加持，并在造型、驾控等领域拥有“顶级资源的赋能”和“创",
+      "title": "SpaceXAI 已建成“全球最强 AI 训练集群”，马斯克称明年规模再扩大约 10 倍",
+      "link": "https://www.ithome.com/0/989/537.htm",
+      "pubDate": "Fri, 14 Aug 2026 02:00:57 GMT",
+      "contentSnippet": "IT之家 8 月 14 日消息，科技媒体 Tom's Hardware 昨日（8 月 13 日）发布博文，报道称全球首富埃隆 · 马斯克（Elon Musk）在 SpaceX 员工会议上，预估 SpaceXAI（原名 xAI）数据中心电力容量将在 2027 年底前扩大约 7 倍，达到 10GW。\nGW（吉瓦）是功率单位，1GW 等于 10 亿瓦。数据中心使用 GW 描述供电容量或额定功耗，但供电容量不等于实际算力。冷却、照明、供配电、网络、存储和服务器等系统共同消耗电力。\n马斯克表示 SpaceXAI 已经建成“全球最强 AI 训练集群”，并计划在明年年底前进一步提升集群规模，扩大到当前成果的",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -241,27 +101,163 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "智界RX将于8月20日预订，搭载华为多项新技术。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道含具体尺寸、动力等数据，逻辑清晰，但未提供原始申报链接，评分略降。"
-    },
-    {
-      "title": "《DOTA2》2026 国际邀请赛小组赛今日开幕：TR 10:00 登场，XG、VG 12:00 亮相",
-      "link": "https://www.ithome.com/0/989/060.htm",
-      "pubDate": "Thu, 13 Aug 2026 01:37:56 GMT",
-      "contentSnippet": "IT之家 8 月 13 日消息，《DOTA2》2026 国际邀请赛 (TI2026 / TI15) 即将于今日 10:00 拉开大幕。\n本次小组赛采用经修改后的五轮瑞士轮制，所有比赛均为三局两胜。1 支 4-0 和 2 支 4-1 直接晋级、1 支 0-4 和 2 支 1-4 直接淘汰，其余 10 支战队则将在后续的特别淘汰赛中捉对厮杀。\n\n首个比赛日将进行全部 8 场首轮对决和部分次轮比赛，其中中国战队 Team Resilience 将在 10:00 第一场次面对 TEAM VISION（即 PARIVISION），另两支中国战队 Xtreme Gaming 和 Vici Gaming 则",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "DOTA2 TI2026小组赛今日开幕，中国三队赛程公布。",
+      "aiSummary": "马斯克称SpaceXAI建成全球最强AI训练集群，计划明年扩10倍。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体，包含赛制、时间、战队，但无原始出处。"
+      "credibilityReason": "来源IT之家，引用Tom's Hardware，信息具体但缺乏原始数据验证，评分75。"
+    },
+    {
+      "title": "Alphacool 联手华能智研推出 Apex 2 硅脂导热膏：从 0 研发，性能更强",
+      "link": "https://www.ithome.com/0/989/536.htm",
+      "pubDate": "Fri, 14 Aug 2026 01:59:44 GMT",
+      "contentSnippet": "IT之家 8 月 14 日消息，Alphacool 当地时间 13 日宣布推出与深圳华能智研电子 (Halnziye) 合作开发的新一代膏状硅脂 TIM（热界面材料）Apex 2。这一导热膏从 0 开始研发，在 CPU 和 GPU 应用场景均能提供更出色的散热能力。\n\nApex 2 导热硅脂对接触界面上微小缝隙拥有良好填充能力。其密度 2.6~2.7 g/mL，热导率 17.3 W/m·K，热阻 0.0006 ℃·in²/W，工作温度范围 -20℃ ~ +130℃，在 +20℃ 下粘度为 130~140 Pa·S，106Hz 时介电常数为 2.3，体积电阻率 2.0E+13 Ω·cm，介电强度",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "Alphacool与华能智研合作推出Apex 2导热硅脂，热导率17.3 W/m·K，性能更强。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道包含具体技术参数，信息详实，但缺乏第三方验证。"
+    },
+    {
+      "title": "运营一批 2020 余万粉丝总量微博账号操控舆论、胁迫艺人“花钱消灾”，多人被抓",
+      "link": "https://www.ithome.com/0/989/535.htm",
+      "pubDate": "Fri, 14 Aug 2026 01:59:30 GMT",
+      "contentSnippet": "IT之家 8 月 14 日消息，据新华社 8 月 13 日报道，杭州市公安局临安区分局日前侦破一起以“护剧”为名实施舆情敲诈勒索案件，打掉一个依托自媒体账号操控舆论、胁迫影视剧组和艺人“花钱消灾”的职业化犯罪团伙。\n5 月初，杭州网警在日常工作中发现，多个自媒体账号在影视剧上线宣发节点集中发布负面内容，待舆情发酵后又快速删除。经深入侦查，一个以李某、廖某为首的犯罪团伙逐渐浮出水面。\n据警方介绍，该团伙运营一批粉丝总量达 2,020 余万的微博账号，专门瞄准新剧开播、综艺宣发关键时段，捏造散布不实负面信息，多账号联动炒作话题、煽动粉丝对立。\n待影视公司、艺人经纪团队主动沟通，嫌疑人则以“提供宣传",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "杭州警方破获利用微博账号敲诈影视剧方的犯罪团伙。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家，引用新华社报道，信息具体，涉及警方行动，可信度高。"
+    },
+    {
+      "title": "5000亿美元涌向算力：英伟达想要给AI装上金融杠杆",
+      "link": "https://www.tmtpost.com/8102827.html",
+      "pubDate": "Fri, 14 Aug 2026 09:57:00 +0800",
+      "contentSnippet": "可能是人类通往智能时代的通天神梯，也可能是硅谷历史上最昂贵的遗迹。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "英伟达推动5000亿美元算力金融杠杆，引发行业争议。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源钛媒体，内容具体但缺乏数据支撑和原始出处，标题有夸张倾向。"
+    },
+    {
+      "title": "闭店率7.6%！存量厮杀时代，药店开始押注健康驿站丨行业风向标",
+      "link": "https://www.tmtpost.com/8102655.html",
+      "pubDate": "Fri, 14 Aug 2026 09:56:01 +0800",
+      "contentSnippet": "从卖药终端到健康服务枢纽，转型方向已成共识，落地路径却仍在迷雾之中。盈利模式模糊、专业人才缺口、消费者认知错位等卡点横亘在前，而AI大模型的成熟，为规模化解决这些痛点提供了可能。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "药店闭店率7.6%，转型健康驿站成趋势，但盈利模式等挑战待解。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "钛媒体为知名科技媒体，内容具体有数据，逻辑清晰，但缺乏原始出处和深度分析。"
+    },
+    {
+      "title": "为什么董宇辉、黄子韬都来做卫生巾？",
+      "link": "https://www.tmtpost.com/8102819.html",
+      "pubDate": "Fri, 14 Aug 2026 09:52:00 +0800",
+      "contentSnippet": "争夺500亿元的中国卫生巾市场。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "分析董宇辉、黄子韬跨界卫生巾市场，争夺500亿份额。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "钛媒体为知名科技媒体，内容具体有市场数据，但缺乏原始出处和深度分析。"
+    },
+    {
+      "title": "京东 CEO 许冉：今年二季度外卖总投入实现同比减亏超 50%，单均补贴在明显下降",
+      "link": "https://www.ithome.com/0/989/534.htm",
+      "pubDate": "Fri, 14 Aug 2026 01:51:45 GMT",
+      "contentSnippet": "IT之家 8 月 14 日消息，京东集团昨日发布 2026 年二季度及半年业绩。2026 上半年营业总收入 6,620.95 亿元，同比增长 0.7%；毛利润 1,123.34 亿元，同比增长 7.51%；归母净利润 122.31 亿元，同比下降 28.34%。\n财报发布后，京东集团 CEO 许冉出席了分析师电话会议，对财报进行了解读，并回答了分析师提问。\n据新浪科技报道，许冉表示，京东的外卖业务目前取得了不错的进展，在二季度，外卖业务的单量规模保持了健康上涨的态势；同时，总投入也实现了同比减亏超 50% 的显著改善。\n\n京东的外卖业务自上线一年以来，单均损益的 UE（IT之家注：Unit E",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "京东CEO称二季度外卖投入同比减亏超50%，单均补贴下降。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，引用财报及高管电话会议，数据具体，逻辑清晰。"
+    },
+    {
+      "title": "科学家观测到核子内部奇特结构，中国科大发挥主导作用",
+      "link": "https://www.ithome.com/0/989/533.htm",
+      "pubDate": "Fri, 14 Aug 2026 01:47:34 GMT",
+      "contentSnippet": "IT之家 8 月 14 日消息，据中国科学技术大学官方公众号，近日，中国科学技术大学与美国肯特州立大学、布鲁克海文国家实验室等单位在 STAR 国际实验组中发挥主导作用，通过高能原子核-原子核对撞实验中净重子数和净电荷数的精确测量发现核子内部存在一种奇特结构，可能颠覆人们对核子内部结构的根本认识，该结果于北京时间 2026 年 8 月 14 日凌晨在《科学》杂志上在线发表。\n据介绍，核子是组成物质世界的基本粒子，宇宙中可见物质世界 99% 以上的质量由核子携带，理解核子内部结构对理解物质世界的基本组成和基本相互作用具有极其重要的意义。人们普遍认为核子由夸克（含反夸克）和胶子组成。夸克携带 +2",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国科大主导发现核子内部奇特结构，成果登《科学》杂志。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家，内容具体，有官方公众号和《科学》杂志原始出处，技术细节清晰。"
+    },
+    {
+      "title": "业绩报喜，涨幅垫底，浦发银行有点尴尬",
+      "link": "https://www.tmtpost.com/8102681.html",
+      "pubDate": "Fri, 14 Aug 2026 09:47:00 +0800",
+      "contentSnippet": "净利润超300亿。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "浦发银行业绩增长但股价涨幅垫底，处境尴尬。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体，内容具体有数据，但非科技领域，评分略降。"
+    },
+    {
+      "title": "杨元庆：联想曾凭借在 PC 普及阶段的贡献成为“PC 之王”，相信在 AI 时代历史将重演",
+      "link": "https://www.ithome.com/0/989/532.htm",
+      "pubDate": "Fri, 14 Aug 2026 01:41:17 GMT",
+      "contentSnippet": "IT之家 8 月 14 日消息，联想集团 8 月 13 日发布 2026 财年第一财季（2026 年 4 月 1 日～2026 年 6 月 30 日）报告，营业总收入 269.43 亿美元（IT之家注：现汇率约合 1,820.55 亿元人民币），同比增长 43%；归母净亏损 6.09 亿美元（现汇率约合 41.15 亿元人民币）。\n据新浪科技报道，在当日的沟通会上，联想集团董事长兼 CEO 杨元庆表示，公共 AI 主要基于公共数据产生，早期阶段 80% 算力资源集中于训练环节，但这一比例已逐渐改变，现在约 50% 算力用于训练，50% 用于推理。推理需求正迎来爆发式增长，算力分配更合理的比例是",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "杨元庆称联想曾靠PC普及成王，AI时代历史将重演，公司财报显示亏损。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家较知名，内容具体含财报数据，但缺乏原始链接和独立验证，评分中等偏上。"
     }
   ]
 }
