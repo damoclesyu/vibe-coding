@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-14T02:14:31.993Z",
+  "generatedAt": "2026-08-15T01:26:32.005Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "OPPO Enco Clip2 耳夹耳机新配色“晨雾白”开售，限时优惠价 809.1 元",
-      "link": "https://www.ithome.com/0/989/557.htm",
-      "pubDate": "Fri, 14 Aug 2026 02:11:05 GMT",
-      "contentSnippet": "IT之家 8 月 14 日消息，OPPO 今日宣布，OPPO Enco Clip2 耳夹耳机新配色“晨雾白”开售，原价 899 元，限时优惠价 809.1 元。\n\n据介绍，购机即赠送价值 139 元 OPPO Enco Clip2 星芒耳饰一对；还可加价 399 元享价值 599 元「OPPO × HEFANG 耳机联名礼盒-星光喜鹊」。\n\n据IT之家此前报道，OPPO Enco Clip2 耳夹耳机发布于 4 月 21 日，首发提供高光金和深空灰两种颜色可选；单耳重 5.2g，配备超薄自适应钛片；支持 40 小时超长续航，单次续航可达 9.5 小时。\nOPPO Enco Clip2 耳夹耳机",
+      "title": "可维修模块化手机 Fairphone 6+ 官宣 8 月 18 日发布：升级 12GB 内存",
+      "link": "https://www.ithome.com/0/989/996.htm",
+      "pubDate": "Sat, 15 Aug 2026 01:21:24 GMT",
+      "contentSnippet": "IT之家 8 月 15 日消息，荷兰品牌 @Fairphone 昨日（8 月 14 日）官宣将于欧洲中部时间 8 月 18 日 13 点（北京时间 8 月 18 日 19 点）推出可维修模块化手机 Fairphone 6+。\n\n\n\n颜色方面，IT之家此前报道，Fairphone 6+ 会有蓝色（Cobalt Blue）、黑色（Horizon Black）以及绿色（Forest Green）三种颜色。\n\nFairphone 6+ 沿用了 Fairphone 6 的外观设计，主要变化是内存从 8GB 提升到 12GB，并新增 Cobalt Blue 蓝色配色。",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,16 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "OPPO Enco Clip2新配色晨雾白开售，限时优惠809.1元，赠星芒耳饰。",
+      "aiSummary": "Fairphone 6+官宣8月18日发布，升级12GB内存，新增蓝色配色。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体含价格、赠品及产品参数，逻辑清晰，但无原始官方链接。"
+      "credibilityReason": "IT之家为知名科技媒体，信息具体（发布时间、内存、配色），但缺少官方原始链接和更多技术细节。"
     },
     {
-      "title": "谷歌硬件副总裁彭昱钧：Tensor G6 芯片采用台积电最新改良 3nm 制程",
-      "link": "https://www.ithome.com/0/989/551.htm",
-      "pubDate": "Fri, 14 Aug 2026 02:09:23 GMT",
-      "contentSnippet": "IT之家 8 月 14 日消息，Google（谷歌）硬件副总裁彭昱钧昨日确认，本周早些时候发布的 Pixel 11 系列智能手机所搭载的 Tensor G6 芯片采用台积电最新改良 3nm 制程。这意味着此前“Tensor G6 移动端首发台积电 2nm”的传闻不实。\n\n谷歌表示 Tensor G6 是其有史以来速度最快、功能最强大的自研芯片：升级后的 CPU 带来了 15% 的应用程序启动速率改进和 25% 的网页浏览载入速率改进；其 TPU 计算能力大幅提升 50%，端侧 AI 任务处理速度提升 3.5 倍的同时能效提升最高 3.5 倍。",
+      "title": "EWC 电竞世俱杯回应《和平精英》多名选手食物中毒，原定比赛延期一天",
+      "link": "https://www.ithome.com/0/989/995.htm",
+      "pubDate": "Sat, 15 Aug 2026 01:14:54 GMT",
+      "contentSnippet": "IT之家 8 月 15 日消息，正在巴黎举办的 EWC 电竞世俱杯被曝突发状况，和平精英世俱杯多个参赛战队选手出现恶心、呕吐等不适症状。EWC 电竞世俱杯官方微博今日凌晨发布公告回应食物中毒事件，同时原定 8 月 14 日进行的相关比赛也调整至 8 月 15 日举行。\nIT之家附公告原文如下：\n\n我们已关注到，参加巴黎和平精英世俱杯的多支战队中，有选手出现身体不适的情况。\n目前，保障受影响选手的健康与安全是我们的首要任务。相关选手正在接受妥善照护并获得必要支持。我们也正与有关部门保持密切沟通，以进一步了解具体情况。\n现阶段，该情况仅涉及和平精英世俱杯的参赛选手，电竞世俱杯其他项目的选手及工作人",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -33,16 +33,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "谷歌确认Tensor G6采用台积电3nm，否认2nm传闻，性能大幅提升。",
+      "aiSummary": "EWC电竞世俱杯回应和平精英选手食物中毒，比赛延期一天。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家较知名，内容具体含官方公告，但细节有限，评分中等偏上。"
+    },
+    {
+      "title": "五菱星光 M 官图公布：大七座插混动力 MPV，轴距达 3 米",
+      "link": "https://www.ithome.com/0/989/994.htm",
+      "pubDate": "Sat, 15 Aug 2026 01:13:45 GMT",
+      "contentSnippet": "IT之家 8 月 15 日消息，五菱星光 M 车型官图昨日公布，该车采用传统 MPV 造型，轴距为 3000mm，采用七座布局，搭载插电混动系统。\n\n\n\n\nIT之家注意到，该车已经现身工信部 8 月发布的第 410 批《道路机动车辆生产企业及产品公告》新产品公示，至此，五菱星光家族凑齐星光 S、星光 M、星光 L。\n五菱星光 M 定位插电式混合动力多用途乘用车，整体造型采用宽大的 MPV 车身设计，提供 7 座布局，整车尺寸为长 5150 mm 、宽 1920 mm 、高 1820 或 1800 mm，轴距为 3000 mm。\n动力方面，该车采用 1.5L 插电式混合动力系统，发动机型号为 L",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "五菱星光M官图公布，七座插混MPV，轴距3米，已现身工信部公告。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引用高管确认，数据具体，逻辑清晰，但缺乏原始链接。"
+      "credibilityReason": "来源IT之家知名科技媒体，信息具体含尺寸动力，有工信部公告佐证，逻辑清晰。"
     },
     {
-      "title": "OPPO Watch X3 Mini 智能手表「粉黛海」配色开售，国补价 2124.15 元",
-      "link": "https://www.ithome.com/0/989/548.htm",
-      "pubDate": "Fri, 14 Aug 2026 02:08:57 GMT",
-      "contentSnippet": "IT之家 8 月 14 日消息，OPPO Watch X3 Mini 智能手表「粉黛海」配色今日开售，官方标价 2499 元，国补价 2124.15 元，京东券后 2349 元。\n\nIT之家注意到，OPPO Watch X3 Mini 于今年 4 月发布，首发推出高光金、星光银、摩卡棕三种配色，具备 18K 金精钢表壳，支持多种运动模式。\n据介绍，这款手表搭载全新高精度腕温传感器，精度 ±0.1°C，可根据手腕温度变化捕捉女性生理期，帮助用户更早、更准地掌握生理周期。首发生理周期运动指导功能，综合睡眠、HRV 及心率等多维体征数据，智能评估每日运动准备度，并针对不同周期阶段提供科学训练建议。",
+      "title": "谷歌 Chrome 浏览器测试新特性：自动隐藏书签栏",
+      "link": "https://www.ithome.com/0/989/993.htm",
+      "pubDate": "Sat, 15 Aug 2026 01:11:22 GMT",
+      "contentSnippet": "IT之家 8 月 15 日消息，科技媒体 Windows Report 昨日（8 月 14 日）发布博文，报道称谷歌正在为 Chrome 浏览器测试新特性：如果浏览器判断用户近期没有使用书签栏，便会自动将其隐藏，并通过通知说明原因，同时提供撤销选项。\n\n在浏览器隐藏书签栏后，将通知用户解释隐藏书签栏的原因，如果用户希望恢复显示，可以通过撤销按钮，恢复书签栏的显示状态。IT之家附上相关截图如下：",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -50,16 +67,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "OPPO Watch X3 Mini新配色开售，国补价2124.15元，主打腕温生理周期监测。",
+      "aiSummary": "谷歌Chrome测试自动隐藏书签栏新特性，提供撤销选项。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道具体价格和功能细节，但缺少官方来源引用，时效性一般。"
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体，引用Windows Report原始报道，逻辑清晰。"
     },
     {
-      "title": "消息称某厂骁龙 8E6 Pro 新机搭载 2K 三星直屏、全新 ID 设计，预计为 iQOO 16",
-      "link": "https://www.ithome.com/0/989/538.htm",
-      "pubDate": "Fri, 14 Aug 2026 02:02:07 GMT",
-      "contentSnippet": "IT之家 8 月 14 日消息，博主 @数码闲聊站 今日曝光某厂子系骁龙 8E6 Pro / SM8975 新机部分信息，预计为 iQOO 16。\n据其爆料，该机搭载 6.85 英寸 2K+165Hz 新一代三星直屏，工程机的 R 角形态和边框变化不大，镜头 DECO 是左上角小方块，采用全新 ID 设计。\n\n今年 7 月，该博主还爆料某厂子系骁龙 8 Elite Gen 6 Pro 工程机正在测试 1115 系高规格对称双扬声器。X 轴线性马达是 0916 系列，拥有独显芯片、3D 超声波指纹、IP68/IP69 防尘防水、USB 3.2 和 AR 膜等配置，主摄测试 OV50Q 传感器。与",
+      "title": "《DOTA2》TI15 第三日赛程公布：VG 争夺晋级主动权，XG、TR 力争连胜",
+      "link": "https://www.ithome.com/0/989/991.htm",
+      "pubDate": "Sat, 15 Aug 2026 01:06:05 GMT",
+      "contentSnippet": "IT之家 8 月 15 日消息，《DOTA2》2026 国际邀请赛（TI15）今日进入第三日的争夺，官方现已公布最新赛程。\n目前，TEAM VISION 和 Team Spirit 已经取得三胜，他们将在今天的对决中争夺第一个晋级主赛事的名额；OG Esports 和 HULIGANI 则是三战全败，今天他们将进行生死决战，败者将告别本届国际邀请赛。\n卫冕冠军 Team Falcons 和夺冠热门 Team Yandex 连吃败仗，进入 1-2 组。此前全负的中国战队在昨日状态回暖，Xtreme Gaming 与 Team Resilience 各取一胜，Vici Gaming 则获得两连胜。",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -67,16 +84,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "IT之家援引博主爆料，称iQOO 16将搭载骁龙8E6 Pro和2K三星直屏。",
-      "credibilityScore": 65,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体，但内容基于博主爆料，缺乏官方确认和详细数据，可信度中等。"
+      "aiSummary": "TI15第三日赛程公布，VG争夺晋级，XG、TR力争连胜。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自IT之家，内容具体，赛程和战绩清晰，但缺乏官方链接和深度分析。"
     },
     {
-      "title": "金龙鱼，仍未等到第二曲线",
-      "link": "https://www.tmtpost.com/8102831.html",
-      "pubDate": "Fri, 14 Aug 2026 10:01:00 +0800",
-      "contentSnippet": "虽然销量大、收入高，但利薄如纸。",
+      "title": "AI真能替你订房改签了，你敢把账号交给它吗？",
+      "link": "https://www.tmtpost.com/8104085.html",
+      "pubDate": "Sat, 15 Aug 2026 09:03:00 +0800",
+      "contentSnippet": "旅行AI终于不再“嘴替”了",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -84,67 +101,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "金龙鱼营收高但利润薄，第二增长曲线尚未出现。",
+      "aiSummary": "旅行AI从对话助手升级为执行工具，但账号授权引发安全担忧。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技财经媒体，内容聚焦企业财务现状，分析具体，但缺乏数据细节和原始引用。"
+      "credibilityReason": "钛媒体为知名科技媒体，内容具体，但缺乏数据细节和原始出处。"
     },
     {
-      "title": "SpaceXAI 已建成“全球最强 AI 训练集群”，马斯克称明年规模再扩大约 10 倍",
-      "link": "https://www.ithome.com/0/989/537.htm",
-      "pubDate": "Fri, 14 Aug 2026 02:00:57 GMT",
-      "contentSnippet": "IT之家 8 月 14 日消息，科技媒体 Tom's Hardware 昨日（8 月 13 日）发布博文，报道称全球首富埃隆 · 马斯克（Elon Musk）在 SpaceX 员工会议上，预估 SpaceXAI（原名 xAI）数据中心电力容量将在 2027 年底前扩大约 7 倍，达到 10GW。\nGW（吉瓦）是功率单位，1GW 等于 10 亿瓦。数据中心使用 GW 描述供电容量或额定功耗，但供电容量不等于实际算力。冷却、照明、供配电、网络、存储和服务器等系统共同消耗电力。\n马斯克表示 SpaceXAI 已经建成“全球最强 AI 训练集群”，并计划在明年年底前进一步提升集群规模，扩大到当前成果的",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "马斯克称SpaceXAI建成全球最强AI训练集群，计划明年扩10倍。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用Tom's Hardware，信息具体但缺乏原始数据验证，评分75。"
-    },
-    {
-      "title": "Alphacool 联手华能智研推出 Apex 2 硅脂导热膏：从 0 研发，性能更强",
-      "link": "https://www.ithome.com/0/989/536.htm",
-      "pubDate": "Fri, 14 Aug 2026 01:59:44 GMT",
-      "contentSnippet": "IT之家 8 月 14 日消息，Alphacool 当地时间 13 日宣布推出与深圳华能智研电子 (Halnziye) 合作开发的新一代膏状硅脂 TIM（热界面材料）Apex 2。这一导热膏从 0 开始研发，在 CPU 和 GPU 应用场景均能提供更出色的散热能力。\n\nApex 2 导热硅脂对接触界面上微小缝隙拥有良好填充能力。其密度 2.6~2.7 g/mL，热导率 17.3 W/m·K，热阻 0.0006 ℃·in²/W，工作温度范围 -20℃ ~ +130℃，在 +20℃ 下粘度为 130~140 Pa·S，106Hz 时介电常数为 2.3，体积电阻率 2.0E+13 Ω·cm，介电强度",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "Alphacool与华能智研合作推出Apex 2导热硅脂，热导率17.3 W/m·K，性能更强。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道包含具体技术参数，信息详实，但缺乏第三方验证。"
-    },
-    {
-      "title": "运营一批 2020 余万粉丝总量微博账号操控舆论、胁迫艺人“花钱消灾”，多人被抓",
-      "link": "https://www.ithome.com/0/989/535.htm",
-      "pubDate": "Fri, 14 Aug 2026 01:59:30 GMT",
-      "contentSnippet": "IT之家 8 月 14 日消息，据新华社 8 月 13 日报道，杭州市公安局临安区分局日前侦破一起以“护剧”为名实施舆情敲诈勒索案件，打掉一个依托自媒体账号操控舆论、胁迫影视剧组和艺人“花钱消灾”的职业化犯罪团伙。\n5 月初，杭州网警在日常工作中发现，多个自媒体账号在影视剧上线宣发节点集中发布负面内容，待舆情发酵后又快速删除。经深入侦查，一个以李某、廖某为首的犯罪团伙逐渐浮出水面。\n据警方介绍，该团伙运营一批粉丝总量达 2,020 余万的微博账号，专门瞄准新剧开播、综艺宣发关键时段，捏造散布不实负面信息，多账号联动炒作话题、煽动粉丝对立。\n待影视公司、艺人经纪团队主动沟通，嫌疑人则以“提供宣传",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "杭州警方破获利用微博账号敲诈影视剧方的犯罪团伙。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家，引用新华社报道，信息具体，涉及警方行动，可信度高。"
-    },
-    {
-      "title": "5000亿美元涌向算力：英伟达想要给AI装上金融杠杆",
-      "link": "https://www.tmtpost.com/8102827.html",
-      "pubDate": "Fri, 14 Aug 2026 09:57:00 +0800",
-      "contentSnippet": "可能是人类通往智能时代的通天神梯，也可能是硅谷历史上最昂贵的遗迹。",
+      "title": "豆包开始收12%过路费，GEO又要狂欢了？",
+      "link": "https://www.tmtpost.com/8104312.html",
+      "pubDate": "Sat, 15 Aug 2026 09:00:00 +0800",
+      "contentSnippet": "整个AI搜索行业，被一脚踹进了Agentic Commerce时代。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -152,50 +118,67 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "英伟达推动5000亿美元算力金融杠杆，引发行业争议。",
+      "aiSummary": "豆包收取12%过路费，AI搜索进入Agentic Commerce时代。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "钛媒体为知名科技媒体，内容具体，但缺乏数据支撑和原始出处。"
+    },
+    {
+      "title": "谷歌拟扩展 Pixel 手机防护，反诈功能覆盖拨出电话",
+      "link": "https://www.ithome.com/0/989/990.htm",
+      "pubDate": "Sat, 15 Aug 2026 00:55:21 GMT",
+      "contentSnippet": "IT之家 8 月 15 日消息，科技媒体 Android Authority 昨日（8 月 14 日）发布博文，报道称谷歌计划在 Pixel 系列手机上扩展“诈骗检测”功能，覆盖用户主动拨出的电话。\nIT之家注：“诈骗检测”（Scam Detection）是谷歌 Pixel 系列手机的通话安全功能，会分析电话音频，寻找可能存在的诈骗话术或行为线索。\n当前功能只针对来电，且需要用户手动开启。Pixel 9 及后续机型由 Gemini 提供支持，处理过程在设备本地完成，通话音频和转写文本不会分享给谷歌。\n该媒体挖掘 Beta 版谷歌 Phone 应用代码，发现了以下字符串：\nenableSharp",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "谷歌计划扩展Pixel反诈功能至拨出电话，本地处理。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，引用Android Authority，有代码证据，技术细节具体，但非一手来源。"
+    },
+    {
+      "title": "“虾虾大脑”升级：荣耀 YOYO Claw 官宣接入智谱最新发布的 GLM-5.3 大模型",
+      "link": "https://www.ithome.com/0/989/989.htm",
+      "pubDate": "Sat, 15 Aug 2026 00:54:23 GMT",
+      "contentSnippet": "IT之家 8 月 15 日消息，荣耀全场景软件主理人 @荣耀席迎军 昨晚宣布，荣耀 YOYO Claw 正式接入智谱最新发布的 GLM-5.3 大模型，“虾虾大脑”全新升级。\n\n通过更大规模、更长周期、更多样任务环境的后训练，GLM-5.3 进一步释放模型能力上限：编程能力较上一代提升 50%，并在多项公开基准测试中取得开源模型第一；在代码审查、漏洞发现等网络安全任务中，能力也进一步提升，表现更加优秀。\n\n\n据IT之家此前报道，在今年 4 月的荣耀 PC 新品技术沟通会上，荣耀版“龙虾”YOYO Claw 发布。官方在现场进行了多个场景演示，包括媒体运营助虾、3D 打印虾等。\n另外，YOYO",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "荣耀YOYO Claw接入智谱GLM-5.3，编程能力提升50%，开源模型第一。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家较权威，内容具体有数据，但未来日期和“虾虾”表述存疑，降低评分。"
+    },
+    {
+      "title": "印度网友反馈其三星 Galaxy 手机突发起火，导致双手和大腿区域被烧伤",
+      "link": "https://www.ithome.com/0/989/988.htm",
+      "pubDate": "Sat, 15 Aug 2026 00:44:47 GMT",
+      "contentSnippet": "IT之家 8 月 15 日消息，《自由新闻报》昨日（8 月 14 日）发布博文，报道称在印度大诺伊达（Greater Noida）一名男子的三星 Galaxy S 手机突发起火，导致双手、大腿区域被烧伤。\n消息称该男子于 1 个月前购入这款三星 Galaxy 手机，事发时并未处于使用状态，放在裤兜里突发起火并爆炸。男子随后将其抽出，过程中导致双手和大腿部分被烧伤。\n根据社交平台 X 用户 GreaterNoidaW 和 Siraj Noorani 分享的照片显示，涉事手机遭受严重热损伤。电池仓几乎完全烧毁，后盖约有一半熔化。\n事件报告没有说明手机的具体型号，根据照片中仍可辨认的摄像头布局，涉事",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "印度男子三星Galaxy手机裤兜起火致烧伤，IT之家报道。",
       "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源钛媒体，内容具体但缺乏数据支撑和原始出处，标题有夸张倾向。"
+      "credibilityReason": "来源IT之家较知名，有具体细节和照片，但未明确型号，信息有限。"
     },
     {
-      "title": "闭店率7.6%！存量厮杀时代，药店开始押注健康驿站丨行业风向标",
-      "link": "https://www.tmtpost.com/8102655.html",
-      "pubDate": "Fri, 14 Aug 2026 09:56:01 +0800",
-      "contentSnippet": "从卖药终端到健康服务枢纽，转型方向已成共识，落地路径却仍在迷雾之中。盈利模式模糊、专业人才缺口、消费者认知错位等卡点横亘在前，而AI大模型的成熟，为规模化解决这些痛点提供了可能。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "药店闭店率7.6%，转型健康驿站成趋势，但盈利模式等挑战待解。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容具体有数据，逻辑清晰，但缺乏原始出处和深度分析。"
-    },
-    {
-      "title": "为什么董宇辉、黄子韬都来做卫生巾？",
-      "link": "https://www.tmtpost.com/8102819.html",
-      "pubDate": "Fri, 14 Aug 2026 09:52:00 +0800",
-      "contentSnippet": "争夺500亿元的中国卫生巾市场。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "分析董宇辉、黄子韬跨界卫生巾市场，争夺500亿份额。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容具体有市场数据，但缺乏原始出处和深度分析。"
-    },
-    {
-      "title": "京东 CEO 许冉：今年二季度外卖总投入实现同比减亏超 50%，单均补贴在明显下降",
-      "link": "https://www.ithome.com/0/989/534.htm",
-      "pubDate": "Fri, 14 Aug 2026 01:51:45 GMT",
-      "contentSnippet": "IT之家 8 月 14 日消息，京东集团昨日发布 2026 年二季度及半年业绩。2026 上半年营业总收入 6,620.95 亿元，同比增长 0.7%；毛利润 1,123.34 亿元，同比增长 7.51%；归母净利润 122.31 亿元，同比下降 28.34%。\n财报发布后，京东集团 CEO 许冉出席了分析师电话会议，对财报进行了解读，并回答了分析师提问。\n据新浪科技报道，许冉表示，京东的外卖业务目前取得了不错的进展，在二季度，外卖业务的单量规模保持了健康上涨的态势；同时，总投入也实现了同比减亏超 50% 的显著改善。\n\n京东的外卖业务自上线一年以来，单均损益的 UE（IT之家注：Unit E",
+      "title": "蜘蛛侠动画电影三部曲终章《蜘蛛侠：超越宇宙》前 4 分钟高清画面流出",
+      "link": "https://www.ithome.com/0/989/987.htm",
+      "pubDate": "Sat, 15 Aug 2026 00:43:49 GMT",
+      "contentSnippet": "IT之家 8 月 15 日消息，蜘蛛侠动画电影三部曲最终章《蜘蛛侠：超越宇宙》前 4 分钟高清画面流出。该片段是 4 月的 CinemaCon（电影产业大会）独家放映的原片。\n\nIT之家查询获悉，《蜘蛛侠：超越宇宙》已将其上映日期定于 2027 年 6 月 18 日。该电影原定 2024 年上映，但受到美国罢工影响，上映日期进行了延迟。\n《蜘蛛侠：超越宇宙》的故事将发生在《蜘蛛侠：纵横宇宙》之后，并与《纵横宇宙》《平行宇宙》构成“蜘蛛宇宙”三部曲。\n制片人克里斯・米勒透露，《蜘蛛侠：超越宇宙》中还会有新的蜘蛛侠。另外，蜘蛛侠系列电影官方微博今年 4 月还公开了本片全新剧照，蜘蛛侠 2099、朋",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -203,33 +186,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "京东CEO称二季度外卖投入同比减亏超50%，单均补贴下降。",
-      "credibilityScore": 85,
+      "aiSummary": "蜘蛛侠动画终章前4分钟画面流出，定档2027年6月。",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用财报及高管电话会议，数据具体，逻辑清晰。"
+      "credibilityReason": "IT之家为知名科技媒体，信息具体含日期和来源，但未提供原始视频链接，评分略降。"
     },
     {
-      "title": "科学家观测到核子内部奇特结构，中国科大发挥主导作用",
-      "link": "https://www.ithome.com/0/989/533.htm",
-      "pubDate": "Fri, 14 Aug 2026 01:47:34 GMT",
-      "contentSnippet": "IT之家 8 月 14 日消息，据中国科学技术大学官方公众号，近日，中国科学技术大学与美国肯特州立大学、布鲁克海文国家实验室等单位在 STAR 国际实验组中发挥主导作用，通过高能原子核-原子核对撞实验中净重子数和净电荷数的精确测量发现核子内部存在一种奇特结构，可能颠覆人们对核子内部结构的根本认识，该结果于北京时间 2026 年 8 月 14 日凌晨在《科学》杂志上在线发表。\n据介绍，核子是组成物质世界的基本粒子，宇宙中可见物质世界 99% 以上的质量由核子携带，理解核子内部结构对理解物质世界的基本组成和基本相互作用具有极其重要的意义。人们普遍认为核子由夸克（含反夸克）和胶子组成。夸克携带 +2",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国科大主导发现核子内部奇特结构，成果登《科学》杂志。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家，内容具体，有官方公众号和《科学》杂志原始出处，技术细节清晰。"
-    },
-    {
-      "title": "业绩报喜，涨幅垫底，浦发银行有点尴尬",
-      "link": "https://www.tmtpost.com/8102681.html",
-      "pubDate": "Fri, 14 Aug 2026 09:47:00 +0800",
-      "contentSnippet": "净利润超300亿。",
+      "title": "补贴退潮、AI上桌，京东讲起新故事",
+      "link": "https://www.tmtpost.com/8104076.html",
+      "pubDate": "Sat, 15 Aug 2026 08:34:00 +0800",
+      "contentSnippet": "边稳住利润，边押注AI。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -237,16 +203,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "浦发银行业绩增长但股价涨幅垫底，处境尴尬。",
+      "aiSummary": "京东在补贴退潮后，通过AI技术寻求新增长点。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体有数据，但非科技领域，评分略降。"
+      "credibilityReason": "钛媒体为知名科技媒体，内容具体，逻辑清晰，但缺少数据支撑和原始出处。"
     },
     {
-      "title": "杨元庆：联想曾凭借在 PC 普及阶段的贡献成为“PC 之王”，相信在 AI 时代历史将重演",
-      "link": "https://www.ithome.com/0/989/532.htm",
-      "pubDate": "Fri, 14 Aug 2026 01:41:17 GMT",
-      "contentSnippet": "IT之家 8 月 14 日消息，联想集团 8 月 13 日发布 2026 财年第一财季（2026 年 4 月 1 日～2026 年 6 月 30 日）报告，营业总收入 269.43 亿美元（IT之家注：现汇率约合 1,820.55 亿元人民币），同比增长 43%；归母净亏损 6.09 亿美元（现汇率约合 41.15 亿元人民币）。\n据新浪科技报道，在当日的沟通会上，联想集团董事长兼 CEO 杨元庆表示，公共 AI 主要基于公共数据产生，早期阶段 80% 算力资源集中于训练环节，但这一比例已逐渐改变，现在约 50% 算力用于训练，50% 用于推理。推理需求正迎来爆发式增长，算力分配更合理的比例是",
+      "title": "国产动画电影《八仙！》在北美首映，此前已进入中国影史国产动画片票房榜前七",
+      "link": "https://www.ithome.com/0/989/985.htm",
+      "pubDate": "Sat, 15 Aug 2026 00:29:17 GMT",
+      "contentSnippet": "IT之家 8 月 15 日消息，据央视新闻报道，国产喜剧动画电影《八仙！》13 日晚在美国西海岸第一大城市洛杉矶举行北美首映礼。作为海外上映计划的一部分，这部融合东方美学与侠义精神的喜剧影片 14 日开始登陆美国和加拿大院线。\n\n根据目前影片公布的海外上映计划，《八仙！》会陆续登陆北美、澳新、英国、爱尔兰、荷兰等多个国家和地区：\n\n8 月 13 日：澳大利亚、新西兰、巴布亚新几内亚\n\n8 月 14 日：北美、英国、爱尔兰、荷兰\n\n9 月 4 日：比利时、卢森堡\n\n值得一提的是，在登陆海外的计划中，影片的英文片名并没有使用“八仙”的拼音，而是根据故事主题重新命名《All Wishes Come",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -254,10 +220,45 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "杨元庆称联想曾靠PC普及成王，AI时代历史将重演，公司财报显示亏损。",
+      "aiSummary": "国产动画《八仙！》北美首映，票房进影史前七。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家较知名，内容具体含财报数据，但缺乏原始链接和独立验证，评分中等偏上。"
+      "credibilityReason": "来源IT之家较知名，引用央视报道，信息具体含日期和票房，但细节有限。"
+    },
+    {
+      "title": "消息称星途再调汇报线，奇瑞“海外掌门”张贵兵接棒李学用",
+      "link": "https://www.ithome.com/0/989/984.htm",
+      "pubDate": "Sat, 15 Aug 2026 00:26:03 GMT",
+      "contentSnippet": "IT之家 8 月 15 日消息，8 月 13 日，据“汽车像素”报道，奇瑞调整了星途事业部的汇报关系。根据战略发展与经营管理需要，奇瑞汽车执行副总裁张贵兵分管星途事业部，向奇瑞汽车“二把手”，常务副总裁张国忠汇报。其他职务不变。\n\n▲ 左：李学用，右：张贵兵\n报道称，张贵兵与李学用同为奇瑞汽车执行副总裁，前者长期负责海外业务，后者主要负责国内。2025 年 7 月，奇瑞成立“奇瑞品牌国内业务事业群”，下设星途、艾虎、风云、QQ 四个事业部，由奇瑞汽车执行副总裁李学用兼任事业群总经理。此前相对独立的星途国内业务，组织和职能整体纳入新成立的事业群。智界、捷途和 iCAR 不受影响。\n报道提到，目前",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "奇瑞调整星途事业部汇报线，张贵兵接棒李学用分管。",
+      "credibilityScore": 70,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源IT之家，内容具体但为转述，缺乏官方确认，细节有限。"
+    },
+    {
+      "title": "DeepSeek Harness，“杀死”Agent黑箱",
+      "link": "https://www.tmtpost.com/8104305.html",
+      "pubDate": "Sat, 15 Aug 2026 08:25:00 +0800",
+      "contentSnippet": "Model+Harness=Agent",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体",
+        "InfoQ中文"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "DeepSeek Harness框架旨在消除Agent黑箱，实现模型与工具链结合。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体，标题有吸引力但正文摘要简略，缺乏具体技术细节和数据支撑。（多源覆盖 +5）"
     }
   ]
 }

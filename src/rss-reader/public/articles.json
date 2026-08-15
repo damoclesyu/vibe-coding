@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-14T02:13:11.280Z",
+  "generatedAt": "2026-08-15T01:25:17.368Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "生态环境法典明起实施 最高法发布六件海洋生态环境司法保护典型案例",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-14/10677441.shtml",
-      "pubDate": "Fri, 14 Aug 2026 10:01:48 +0800",
-      "contentSnippet": "《中华人民共和国生态环境法典》将于今年8月15日起实施。在生态环境法典即将施行之际，最高人民法院今天发布六件海洋生态环境司法保护典型案例，集中展示海事审判在维护国家海洋权益、保护海洋生态环境、推动绿色低碳发展的独特作用与专业担当，充分发挥典型案例以案释法、以案普法的示范引导作用，加大生态环境法典学习宣传力度，促进和深化生态环境法典的全面准确贯彻实施。",
+      "title": "习言道｜良好生态环境是最普惠的民生福祉",
+      "link": "http://www.chinanews.com.cn/gn/shipin/2026/08-15/news1065470.shtml",
+      "pubDate": "Sat, 15 Aug 2026 08:35:29 +0800",
+      "contentSnippet": "“良好生态环境是最公平的公共产品，是最普惠的民生福祉。”习近平总书记高度重视生态环境工作，强调“越是发展任务重，越要重视生态环境保护”。全国生态日之际，一起重温总书记重要讲话。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -16,101 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "生态环境法典明起实施，最高法发布六件海洋生态环境司法保护典型案例。",
+      "aiSummary": "习近平强调良好生态环境是最普惠的民生福祉，全国生态日重温其讲话。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，权威性较高；信息具体，包含时间、发布主体和案例数量，内容客观，可查证。"
+      "credibilityReason": "来源为中国新闻网，权威媒体，内容为官方讲话引用，事实可查证，用词客观。"
     },
     {
-      "title": "台湾青年苏恒：新疆少数民族的爱国情怀让我触动",
-      "link": "https://www.chinanews.com.cn/txy/2026/08-14/10677423.shtml",
-      "pubDate": "Fri, 14 Aug 2026 10:01:38 +0800",
-      "contentSnippet": "中新网8月14日电(燕新台)去年10月，台湾中华海峡经贸交流协会理事长苏恒首次踏上新疆这片她心生向往的土地。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "台湾青年苏恒访新疆，称少数民族爱国情怀令人触动。",
-      "credibilityScore": 75,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为官方媒体，内容具体但单一视角，缺乏多源交叉验证。"
-    },
-    {
-      "title": "一批哲学社会科学领域重要出版项目在沪签约",
-      "link": "https://www.chinanews.com.cn/cul/2026/08-14/10677413.shtml",
-      "pubDate": "Fri, 14 Aug 2026 09:56:25 +0800",
-      "contentSnippet": "中新网上海8月14日电 (记者 王笈)作为2026上海书展重点活动之一，“推动哲学社会科学高质量发展”主题出版研讨会暨重点出版项目签约仪式13日在上海举行。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "上海书展期间，哲学社会科学重点出版项目签约仪式举行。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威媒体，有具体时间地点和记者署名，内容客观。"
-    },
-    {
-      "title": "重大项目频落子 外资加码中国高端制造",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-14/10677427.shtml",
-      "pubDate": "Fri, 14 Aug 2026 09:49:34 +0800",
-      "contentSnippet": "近期，外资在中国高端制造领域投资动作频频，一批重大项目接连落地、开工或投产，主要集中于汽车核心零部件再制造、动力电池、化工新材料及半导体等高新技术产业领域。受访专家认为，外资加码中国高端制造的背后，是中国产业升级红利与全球供应链重构的双重驱动，跨国公司正以实际行动为“投资中国”投下信任票。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "外资近期在中国高端制造领域投资频繁，重大项目落地，聚焦汽车零部件、动力电池等高新技术产业。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，较权威；内容具体，提及产业领域和专家观点，但缺乏具体项目名称和数据，可查证性一般。"
-    },
-    {
-      "title": "河南商丘市柘城县：聚焦“三向发力”  提升党外代表人士思想政治引领质效",
-      "link": "https://www.chinanews.com.cn/txy/2026/08-14/10677414.shtml",
-      "pubDate": "Fri, 14 Aug 2026 09:47:42 +0800",
-      "contentSnippet": "近年来，河南商丘市柘城县委统战部立足职能职责，聚焦思想铸魂、队伍提质、实干建功三个方向精准发力，全方位、常态化抓好党外代表人士思想政治引领工作，持续凝聚服务县域高质量发展的统战合力。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "河南柘城县委统战部聚焦三向发力，提升党外代表人士思想政治引领质效。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网较权威，内容具体但无直接引述，属官方工作报道，可查证。"
-    },
-    {
-      "title": "【新思想引领新征程】做大“蛋糕”缩小差距 浙江扎实推进共同富裕示范区建设",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-14/10677399.shtml",
-      "pubDate": "Fri, 14 Aug 2026 09:33:56 +0800",
-      "contentSnippet": "央视网消息(新闻联播)：习近平总书记指出，共同富裕是社会主义的本质要求，是中国式现代化的重要特征。他强调，要在推动高质量发展、做好做大“蛋糕”的同时，进一步分好“蛋糕”，让现代化建设成果更多更公平惠及全体人民。2021年5月，党中央赋予浙江高质量发展建设共同富裕示范区的重大使命。总书记要求浙江，要在推进共同富裕中先行示范。要把缩小城乡差距、地区差距、收入差距作为主攻方向。五年多来，浙江坚定不移以“八八战略”为总纲领，以“千万工程”牵引城乡融合发展，在探索共同富裕的实践道路上不断迈出新步伐、取得新成效。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "浙江推进共同富裕示范区建设，缩小城乡、地区、收入差距，取得新成效。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为央视网转载新闻联播，权威性高，内容具体，但为官方宣传报道，缺乏独立核实。"
-    },
-    {
-      "title": "美防长：可无限期维持对伊朗海上封锁",
-      "link": "https://m.thepaper.cn/detail/33780643",
-      "pubDate": "Fri, 14 Aug 2026 00:57:06 GMT",
-      "contentSnippet": "当地时间8月13日，美国国防部长赫格塞思表示，美军拥有足够的军事力量，可以“无限期维持”对伊朗的海上封锁。",
+      "title": "“美丽上海 同心｜同向｜同行”生态文化专题今日上线",
+      "link": "https://m.thepaper.cn/detail/33785690",
+      "pubDate": "Sat, 15 Aug 2026 00:18:53 GMT",
+      "contentSnippet": "时值8月15日全国生态日，IP SHANGHAI上海城市形象资源共享平台携手上海市环境保护宣传教育中心，联合推出“美丽上海 同心｜同向｜同行”生态文化专题，即日起正式上线。\n\n海报设计：赫濛\n\n\n从黄浦江、苏州河两岸不断延展的生态空间，到街角公园、城市绿道里的四季景致；从人与自然和谐共生的生动瞬间，到越来越多市民身体力行的绿色生活方式——生态之美，正悄然融入上海的城市肌理和日常点滴。\n本次专题以图像、视频与文字为载体，通过多元视角集中呈现上海生态文明建设成果，让“美丽上海”不仅可观可感，也成为一座人人可记录、可参与、可讲述的“城市故事库”。\n五大栏目，多维度打开“美丽上海”\n专题设置五大板块，",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -118,50 +33,67 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "美防长称可无限期维持对伊朗海上封锁，强调美军实力充足。",
+      "aiSummary": "上海推出生态文化专题，展示生态文明建设成果，促进公众参与。",
       "credibilityScore": 75,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名媒体，内容具体但无直接引述，单一来源，评分中等偏上。"
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为澎湃新闻，较权威；内容具体，有明确时间、合作方和栏目设置，但无直接引述和多方交叉验证。"
     },
     {
-      "title": "九旬马来西亚归侨肖思明：亲历南洋日寇暴行 跨海归国投笔从戎",
-      "link": "https://www.chinanews.com.cn/hr/2026/08-14/10677436.shtml",
-      "pubDate": "Fri, 14 Aug 2026 10:05:46 +0800",
-      "contentSnippet": "中新网上海8月14日电 题：九旬马来西亚归侨肖思明：亲历南洋日寇暴行 跨海归国投笔从戎",
-      "sourceName": "中国新闻网",
+      "title": "解放军报八一锐评：铭记抗战历史，奋进强军征程",
+      "link": "https://m.thepaper.cn/detail/33786892",
+      "pubDate": "Fri, 14 Aug 2026 23:59:04 GMT",
+      "contentSnippet": "“8·15”——人类历史值得铭记的日子：81年前的今天，日本宣布无条件投降。这一天，正义战胜了邪恶，光明驱散了黑暗；这一天，写满苦难辉煌，也见证浴血荣光。\n回望那场长达14年的艰苦卓绝的斗争，在中国共产党倡导建立的抗日民族统一战线旗帜下，四万万中国人民，5098天不屈抗争，以铮铮铁骨战强敌，取得近代以来反抗外敌入侵的第一次完全胜利。抗战的胜利，不仅是河山光复，更是精神重塑，开辟了中华民族伟大复兴的光明前景。\n昭昭前事，惕惕后人。战争的硝烟早已散去，但战争留给中国人民的记忆刻骨铭心、带给中国人民的启示刻骨铭心。习主席深刻指出，中华民族走出苦难、中国人民实现解放，有赖于一支英雄的人民军队；中华民族",
+      "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
-        "中国新闻网"
+        "澎湃新闻"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "九旬归侨肖思明回忆南洋日寇暴行，跨海归国从戎。",
+      "aiSummary": "解放军报评论纪念抗战胜利，强调铭记历史与强军征程。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威媒体，内容具体，有历史细节，可信度高。"
+      "credibilityReason": "来源为澎湃新闻转载官方媒体，内容具体且引用权威表述，但非一线通讯社原创。"
     },
     {
-      "title": "美军称将组建多国攻击无人机部队 美民众表达担忧",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-14/10677434.shtml",
-      "pubDate": "Fri, 14 Aug 2026 10:05:28 +0800",
-      "contentSnippet": "中新网8月14日电 当地时间13日，美军中央司令部在社交媒体发布消息称，将组建首支多国攻击无人机部队。",
-      "sourceName": "中国新闻网",
+      "title": "解放军报：否认历史罪责，必遭彻底清算",
+      "link": "https://m.thepaper.cn/detail/33786953",
+      "pubDate": "Fri, 14 Aug 2026 23:58:43 GMT",
+      "contentSnippet": "81年前的8月15日，日本宣布接受《波茨坦公告》，无条件投降。而今，日本右翼政客不断篡改历史定论、企图突破战后秩序，“新型军国主义”更是成势为患，已严重威胁亚太地区和世界的和平稳定。\n靠话术美化侵略行径是日本军国主义的卑劣伎俩。20世纪上半叶，日本军国主义势力打着“解放亚洲各民族”的幌子，用“大东亚圣战”“共存共荣”等无耻谎言进行包装，对亚太多国实施野蛮侵略，犯下累累暴行。\n在中国，日本侵略者制造了遇难者超30万人的南京大屠杀，推行残酷的“三光”政策，还公然实施违反国际公法的细菌战和化学战；在东南亚，制造了马尼拉惨案和新加坡大屠杀，约10万名菲律宾人在一个月内丧生，数以万计的新加坡民众遇害。《",
+      "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
-        "中国新闻网"
+        "澎湃新闻"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "美军宣布组建首支多国攻击无人机部队，引发民众担忧。",
+      "aiSummary": "解放军报批日本右翼篡改历史，称否认罪责必遭清算。",
       "credibilityScore": 75,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为正规媒体，信息具体，但未提供直接引述或原始出处，且缺乏多源验证。"
+      "credibilityReason": "来源为官方媒体，内容具体但立场鲜明，缺乏多源验证。"
     },
     {
-      "title": "年内熊猫债发行规模超2000亿元创历史新高",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-14/10677446.shtml",
-      "pubDate": "Fri, 14 Aug 2026 10:05:14 +0800",
-      "contentSnippet": "证券日报记者 韩 昱",
+      "title": "男子帮台湾游客拍照，发现竟是失联亲人，最新后续来了→",
+      "link": "http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E7%94%B7%E5%AD%90%E5%B8%AE%E5%8F%B0%E6%B9%BE%E6%B8%B8%E5%AE%A2%E6%8B%8D%E7%85%A7%EF%BC%8C%E5%8F%91%E7%8E%B0%E7%AB%9F%E6%98%AF%E5%A4%B1%E8%81%94%E4%BA%B2%E4%BA%BA%EF%BC%8C%E6%9C%80%E6%96%B0%E5%90%8E%E7%BB%AD%E6%9D%A5%E4%BA%86%E2%86%92",
+      "pubDate": "Fri, 14 Aug 2026 21:13:00 +0800",
+      "contentSnippet": "",
+      "sourceName": "央视新闻",
+      "sourceWeight": 80,
+      "allSources": [
+        "央视新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "男子帮台湾游客拍照，发现竟是失联亲人，央视报道后续。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源央视新闻权威，事件具体，有明确时间，但缺乏直接引述和多方验证。"
+    },
+    {
+      "title": "特朗普再放话瞄准霍尔木兹海峡 伊朗：不会被武力威慑吓倒",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-15/10678045.shtml",
+      "pubDate": "Sat, 15 Aug 2026 09:12:51 +0800",
+      "contentSnippet": "中新网8月15日电 综合外媒报道，美国总统特朗普当地时间14日称，“击败伊朗后”他很快就会“宣布霍尔木兹海峡为美国领土”。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -169,16 +101,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "年内熊猫债发行规模超2000亿元，创历史新高。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，转载证券日报，权威性较高；数据具体，事实可查证，用词客观。"
+      "aiSummary": "特朗普威胁宣布霍尔木兹海峡为美国领土，伊朗回应称不会被武力威慑吓倒。",
+      "credibilityScore": 75,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为正规媒体，内容具体，但依赖外媒转述，缺乏直接引述和多源验证。"
     },
     {
-      "title": "23岁消防员池坷杰在福安船厂灭火中英勇牺牲",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-14/10677430.shtml",
-      "pubDate": "Fri, 14 Aug 2026 10:04:24 +0800",
-      "contentSnippet": "中新网福州8月14日电 (记者 龙敏)福建省消防救援总队14日通报，年仅23岁的宁德市消防救援支队福安市工业路消防救援站政府专职消防队员池坷杰在福安船厂灭火中英勇牺牲。",
+      "title": "今天起，生态环境法典正式施行！",
+      "link": "https://www.chinanews.com.cn/kong/2026/08-15/10678043.shtml",
+      "pubDate": "Sat, 15 Aug 2026 09:11:07 +0800",
+      "contentSnippet": "8月15日，《中华人民共和国生态环境法典》正式施行。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -187,16 +119,16 @@
       ],
       "coverageCount": 2,
       "coverageBoost": 5,
-      "aiSummary": "23岁消防员池坷杰在福安船厂灭火中牺牲，官方通报确认。",
-      "credibilityScore": 95,
+      "aiSummary": "生态环境法典今日起正式施行，标志中国生态环境法治建设进入新阶段。",
+      "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为权威通讯社中国新闻网，引用官方通报，信息具体，用词客观。（多源覆盖 +5）"
+      "credibilityReason": "来源为权威官方媒体，内容具体明确，涉及国家法律施行，事实可查证。（多源覆盖 +5）"
     },
     {
-      "title": "二季度货币政策执行报告释放了哪些新信号？",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-14/10677443.shtml",
-      "pubDate": "Fri, 14 Aug 2026 10:04:00 +0800",
-      "contentSnippet": "证券日报记者 刘 琪",
+      "title": "直播：日本无条件投降81周年：铁证昭前路 自强护山河",
+      "link": "https://www.chinanews.com.cn/iframe/2026/08-15/10678044.shtml",
+      "pubDate": "Sat, 15 Aug 2026 09:09:53 +0800",
+      "contentSnippet": "",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -204,16 +136,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "央行二季度货币政策报告发布，释放政策新信号。",
+      "aiSummary": "中国新闻网直播纪念日本投降81周年，强调历史铁证与自强精神。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为官方媒体，内容具体，涉及政策报告，事实可查证。"
+      "credibilityReason": "来源为官方媒体，内容具体，主题明确，用词客观，符合历史纪念报道常规。"
     },
     {
-      "title": "壹视界·任平文章解读丨从三对关系，读懂总书记的牵挂",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-14/10677406.shtml",
-      "pubDate": "Fri, 14 Aug 2026 10:00:11 +0800",
-      "contentSnippet": "“老百姓想什么，共产党就干什么。”",
+      "title": "专家解读“新新三样”走红：“中国制造”创新能力越来越强",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-15/10678042.shtml",
+      "pubDate": "Sat, 15 Aug 2026 09:07:41 +0800",
+      "contentSnippet": "本报记者 李如意",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -221,16 +153,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国新闻网解读总书记牵挂，强调为民服务宗旨。",
+      "aiSummary": "专家称“新新三样”走红，显示中国制造创新能力增强。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为官方媒体，内容正面且符合政策，但缺乏具体事实和独立验证。"
+      "credibilityReason": "来源为正规媒体，内容具体，引用专家观点，但缺乏多源交叉验证。"
     },
     {
-      "title": "房贷利率已降至“2字头”？ 理性看待市场化差异",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-14/10677437.shtml",
-      "pubDate": "Fri, 14 Aug 2026 09:59:37 +0800",
-      "contentSnippet": "理性看待房贷利率市场化差异",
+      "title": "宁夏银川：当七夕邂逅多彩街区 游园打卡传递文明新风",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-15/10678039.shtml",
+      "pubDate": "Sat, 15 Aug 2026 09:04:37 +0800",
+      "contentSnippet": "中新网银川8月15日电 (记者 李佩珊)投壶祈福、诗词答题、花艺DIY、文明趣味闯关……8月14日，一场七夕“文明恋曲”浪漫游园夜活动在宁夏银川市金凤区满春园社区未来城多彩街区拉开帷幕，一张小小的文明游园卡串联起传统民俗、优良家风与邻里温情，以沉浸式游园形式让文明新风浸润市民心间。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -238,16 +170,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国新闻网报道房贷利率降至2字头，强调理性看待市场化差异。",
+      "aiSummary": "银川举办七夕游园活动，融合传统民俗与文明宣传，传递新风。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为权威媒体，内容具体，用词客观，涉及金融政策，可信度较高。"
+      "credibilityReason": "来源中国新闻网，权威媒体，有具体时间地点和活动细节，内容客观。"
     },
     {
-      "title": "AI短剧试水运营新路径 商业化落地仍待验证",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-14/10677435.shtml",
-      "pubDate": "Fri, 14 Aug 2026 09:57:53 +0800",
-      "contentSnippet": "日前，AI短剧《被裁掉的女孩》热度持续走高，其主角“方桃子”进军广告市场、承接品牌商单，引发业内广泛关注。业内专家指出，AI短剧行业正加速探索IP长效运营的商业新路径，试图开辟内容增收的“第二曲线”。然而，其首条品牌植入视频因合规争议最终下架，新兴商业化路径的可行性与合规性仍有待验证。",
+      "title": "二手房交易试水“诚意卖”线上出价",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-15/10678035.shtml",
+      "pubDate": "Sat, 15 Aug 2026 09:03:23 +0800",
+      "contentSnippet": "二手房交易试水“诚意卖”线上出价",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -255,10 +187,78 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "AI短剧探索IP运营新路径，商业化可行性与合规性仍待验证。",
+      "aiSummary": "中国新闻网报道二手房交易试水“诚意卖”线上出价模式。",
       "credibilityScore": 75,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名媒体，内容具体，但缺乏直接引述和多方验证，评分中等偏上。"
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为正规媒体，内容具体，但缺乏细节和多方验证，评分中等偏上。"
+    },
+    {
+      "title": "中国驻登巴萨总领馆提醒领区中国公民注意防范地震与海啸",
+      "link": "https://www.chinanews.com.cn/hr/2026/08-15/10678026.shtml",
+      "pubDate": "Sat, 15 Aug 2026 08:55:32 +0800",
+      "contentSnippet": "中新网8月15日电 据中国驻登巴萨总领馆微信公众号消息，根据印尼气象、气候和地球物理局(BMKG)报告，2026年8月15日5点58分，印度尼西亚东努沙登加拉省纳格克县东北方向30公里处海域发生7.7级地震，震源深度15km，可能引发海啸。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国驻登巴萨总领馆提醒领区中国公民防范印尼7.7级地震及海啸。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为官方总领馆及中新网，信息具体，含时间地点数据，权威可靠。"
+    },
+    {
+      "title": "浙江福建广东等地仍有强降雨 北方地区有降雨天气",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-15/10678025.shtml",
+      "pubDate": "Sat, 15 Aug 2026 08:50:33 +0800",
+      "contentSnippet": "中新网8月15日电 据中央气象台网站消息，昨日，浙江、江苏、广东等地出现大到暴雨，局地大暴雨。预计今天，浙江、福建、广东及青海东南部、四川西北部等地有较强降雨；未来三天，华北、内蒙古中东部、东北地区多降雨，上述部分地区伴有短时强降雨、雷暴大风等强对流天气，注意防范暴雨、风雹次生灾害，关注对交通、旅游、户外活动等的影响。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中央气象台预报，浙江福建广东等地仍有强降雨，北方地区多降雨天气。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，引述中央气象台官方信息，内容具体，客观中立。"
+    },
+    {
+      "title": "尘螨过敏？请这样做",
+      "link": "https://www.chinanews.com.cn/jk/2026/08-15/10678033.shtml",
+      "pubDate": "Sat, 15 Aug 2026 08:49:01 +0800",
+      "contentSnippet": "每天朝九晚六、周末宅家刷剧、在工位一坐就是八九个小时……这或许是许多都市年轻人的生活写照。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国新闻网介绍尘螨过敏的日常应对方法，针对都市久坐人群。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名媒体，内容具体实用，但缺乏直接引述和交叉验证，评分中等偏上。"
+    },
+    {
+      "title": "孩子雷雨后喘憋？警惕秋季“雷暴哮喘”",
+      "link": "https://www.chinanews.com.cn/jk/2026/08-15/10678032.shtml",
+      "pubDate": "Sat, 15 Aug 2026 08:47:47 +0800",
+      "contentSnippet": "夏秋之交，雷雨频发。不少家长发现，孩子没感冒、没发烧，却在电闪雷鸣后突然咳嗽、喘息，甚至胸闷憋气。首都医科大学附属首都儿童医学中心变态反应科副主任医师田春雨提醒，这并非普通“着凉”，而是一种极易被忽视的呼吸道急症——雷暴哮喘。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国新闻网提醒，雷雨后孩子喘憋或为雷暴哮喘，需警惕。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为权威媒体，引用专业医生观点，信息具体，内容可查证。"
     }
   ]
 }
