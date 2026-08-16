@@ -1,31 +1,31 @@
 {
-  "generatedAt": "2026-08-15T01:26:32.005Z",
+  "generatedAt": "2026-08-16T01:37:44.250Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "可维修模块化手机 Fairphone 6+ 官宣 8 月 18 日发布：升级 12GB 内存",
-      "link": "https://www.ithome.com/0/989/996.htm",
-      "pubDate": "Sat, 15 Aug 2026 01:21:24 GMT",
-      "contentSnippet": "IT之家 8 月 15 日消息，荷兰品牌 @Fairphone 昨日（8 月 14 日）官宣将于欧洲中部时间 8 月 18 日 13 点（北京时间 8 月 18 日 19 点）推出可维修模块化手机 Fairphone 6+。\n\n\n\n颜色方面，IT之家此前报道，Fairphone 6+ 会有蓝色（Cobalt Blue）、黑色（Horizon Black）以及绿色（Forest Green）三种颜色。\n\nFairphone 6+ 沿用了 Fairphone 6 的外观设计，主要变化是内存从 8GB 提升到 12GB，并新增 Cobalt Blue 蓝色配色。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "史上最大 IPO 倒计时：五岁 Anthropic， 2 万亿美元凭什么？",
+      "link": "https://www.tmtpost.com/8104736.html",
+      "pubDate": "Sun, 16 Aug 2026 08:35:00 +0800",
+      "contentSnippet": "抬高了中国AI估值天花板，也加剧了中美AI军备赛。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
       "allSources": [
-        "IT之家"
+        "钛媒体"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "Fairphone 6+官宣8月18日发布，升级12GB内存，新增蓝色配色。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体（发布时间、内存、配色），但缺少官方原始链接和更多技术细节。"
+      "aiSummary": "钛媒体评Anthropic IPO估值2万亿美元，称抬高中国AI估值天花板。",
+      "credibilityScore": 60,
+      "credibilityLevel": "medium",
+      "credibilityReason": "标题有标题党倾向，内容简略，缺乏具体数据支撑，来源一般。"
     },
     {
-      "title": "EWC 电竞世俱杯回应《和平精英》多名选手食物中毒，原定比赛延期一天",
-      "link": "https://www.ithome.com/0/989/995.htm",
-      "pubDate": "Sat, 15 Aug 2026 01:14:54 GMT",
-      "contentSnippet": "IT之家 8 月 15 日消息，正在巴黎举办的 EWC 电竞世俱杯被曝突发状况，和平精英世俱杯多个参赛战队选手出现恶心、呕吐等不适症状。EWC 电竞世俱杯官方微博今日凌晨发布公告回应食物中毒事件，同时原定 8 月 14 日进行的相关比赛也调整至 8 月 15 日举行。\nIT之家附公告原文如下：\n\n我们已关注到，参加巴黎和平精英世俱杯的多支战队中，有选手出现身体不适的情况。\n目前，保障受影响选手的健康与安全是我们的首要任务。相关选手正在接受妥善照护并获得必要支持。我们也正与有关部门保持密切沟通，以进一步了解具体情况。\n现阶段，该情况仅涉及和平精英世俱杯的参赛选手，电竞世俱杯其他项目的选手及工作人",
+      "title": "中国队在第 38 届国际信息学奥赛斩获 3 金 1 银，获团体第一名",
+      "link": "https://www.ithome.com/0/990/210.htm",
+      "pubDate": "Sat, 15 Aug 2026 23:42:18 GMT",
+      "contentSnippet": "IT之家 8 月 16 日消息，据央视新闻今日报道，第 38 届国际信息学奥林匹克竞赛（IOI 2026）15 日在乌兹别克斯坦首都塔什干落下帷幕。中国代表队斩获 3 金 1 银，并取得团体第一名的优异成绩。\n本届竞赛于 8 月 9 日至 15 日举行，共有来自全球 90 多个国家和地区的近 400 名选手参赛。比赛分为两个正式比赛日，选手需在规定时间内解答涵盖算法设计、数据结构与程序设计实现等领域的信息学难题。中国代表队选手许淇文以 498.27 分排名全球第一，成为本届赛事最高分选手；赵晟昊位列第三。\nIT之家注意到，国际信息学奥林匹克竞赛由联合国教科文组织发起主办，是五大国际科学奥林匹克",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -33,33 +33,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "EWC电竞世俱杯回应和平精英选手食物中毒，比赛延期一天。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家较知名，内容具体含官方公告，但细节有限，评分中等偏上。"
-    },
-    {
-      "title": "五菱星光 M 官图公布：大七座插混动力 MPV，轴距达 3 米",
-      "link": "https://www.ithome.com/0/989/994.htm",
-      "pubDate": "Sat, 15 Aug 2026 01:13:45 GMT",
-      "contentSnippet": "IT之家 8 月 15 日消息，五菱星光 M 车型官图昨日公布，该车采用传统 MPV 造型，轴距为 3000mm，采用七座布局，搭载插电混动系统。\n\n\n\n\nIT之家注意到，该车已经现身工信部 8 月发布的第 410 批《道路机动车辆生产企业及产品公告》新产品公示，至此，五菱星光家族凑齐星光 S、星光 M、星光 L。\n五菱星光 M 定位插电式混合动力多用途乘用车，整体造型采用宽大的 MPV 车身设计，提供 7 座布局，整车尺寸为长 5150 mm 、宽 1920 mm 、高 1820 或 1800 mm，轴距为 3000 mm。\n动力方面，该车采用 1.5L 插电式混合动力系统，发动机型号为 L",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "五菱星光M官图公布，七座插混MPV，轴距3米，已现身工信部公告。",
+      "aiSummary": "中国队在IOI 2026获3金1银团体第一，许淇文全球最高分。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家知名科技媒体，信息具体含尺寸动力，有工信部公告佐证，逻辑清晰。"
+      "credibilityReason": "来源IT之家，引用央视新闻，信息具体含分数和排名，逻辑清晰，可信度高。"
     },
     {
-      "title": "谷歌 Chrome 浏览器测试新特性：自动隐藏书签栏",
-      "link": "https://www.ithome.com/0/989/993.htm",
-      "pubDate": "Sat, 15 Aug 2026 01:11:22 GMT",
-      "contentSnippet": "IT之家 8 月 15 日消息，科技媒体 Windows Report 昨日（8 月 14 日）发布博文，报道称谷歌正在为 Chrome 浏览器测试新特性：如果浏览器判断用户近期没有使用书签栏，便会自动将其隐藏，并通过通知说明原因，同时提供撤销选项。\n\n在浏览器隐藏书签栏后，将通知用户解释隐藏书签栏的原因，如果用户希望恢复显示，可以通过撤销按钮，恢复书签栏的显示状态。IT之家附上相关截图如下：",
+      "title": "英伟达 Vera Rubin 平台产能拉升推高 TLC NAND 现货价格，512Gb 回升至 21 美元",
+      "link": "https://www.ithome.com/0/990/203.htm",
+      "pubDate": "Sat, 15 Aug 2026 23:20:02 GMT",
+      "contentSnippet": "IT之家 8 月 16 日消息，英伟达 Vera Rubin 平台的量产扩张规模之大，如今已经传导到供应链中看似关联度不高的细分角落，比如 TLC NAND 现货市场。\n\n但回过头来看，TLC 现货价格上涨完全在情理之中，尤其是英伟达为 Vera Rubin 平台搭载了上下文内存扩展（Context Memory eXtension，简称 CMX）技术之后。随着 Vera Rubin 平台量产提速，CMX 占用的 NAND 颗粒数量持续增加，再加上企业级固态硬盘需求同步攀升，TLC NAND 的供应正持续收紧。\n512Gb TLC NAND 的现货价格在 6 月跌破 21 美元（IT之家注：现",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -67,16 +50,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "谷歌Chrome测试自动隐藏书签栏新特性，提供撤销选项。",
+      "aiSummary": "英伟达Vera Rubin平台量产推高TLC NAND现货价格，512Gb回升至21美元。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体，引用Windows Report原始报道，逻辑清晰。"
+      "credibilityReason": "IT之家为知名科技媒体，内容具体，提及CMX技术及价格数据，但缺乏原始出处和详细分析。"
     },
     {
-      "title": "《DOTA2》TI15 第三日赛程公布：VG 争夺晋级主动权，XG、TR 力争连胜",
-      "link": "https://www.ithome.com/0/989/991.htm",
-      "pubDate": "Sat, 15 Aug 2026 01:06:05 GMT",
-      "contentSnippet": "IT之家 8 月 15 日消息，《DOTA2》2026 国际邀请赛（TI15）今日进入第三日的争夺，官方现已公布最新赛程。\n目前，TEAM VISION 和 Team Spirit 已经取得三胜，他们将在今天的对决中争夺第一个晋级主赛事的名额；OG Esports 和 HULIGANI 则是三战全败，今天他们将进行生死决战，败者将告别本届国际邀请赛。\n卫冕冠军 Team Falcons 和夺冠热门 Team Yandex 连吃败仗，进入 1-2 组。此前全负的中国战队在昨日状态回暖，Xtreme Gaming 与 Team Resilience 各取一胜，Vici Gaming 则获得两连胜。",
+      "title": "特斯拉 Cybercab 前脸灯带可变色，实际用途未官宣",
+      "link": "https://www.ithome.com/0/990/235.htm",
+      "pubDate": "Sun, 16 Aug 2026 01:30:37 GMT",
+      "contentSnippet": "IT之家 8 月 16 日消息，特斯拉 Cybercab 的贯穿前灯条似乎还有一个隐藏功能。这款车近日在佛罗里达州一场自动驾驶活动上亮相时，前灯呈现出红、白、蓝三色效果；如今又有人在奥斯汀拍到一辆全新 Cybercab 的前灯带亮起了紫色。\n\n这两次目击似乎证实，Cybercab 确实配备了可显示多种色彩的灯条，不过特斯拉尚未官方证实这一点，也未说明该功能的具体用途。\n\n首个线索出现在佛罗里达州州长罗恩 · 德桑蒂斯近期于 SunTrax 测试基地举办的自动驾驶活动上。活动展出了多款自动驾驶车辆，包括 Waymo 的运营车型以及特斯拉 Cybercab。\n现场照片显示，Cybercab 的前灯",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -84,50 +67,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "TI15第三日赛程公布，VG争夺晋级，XG、TR力争连胜。",
+      "aiSummary": "特斯拉Cybercab前灯带可变色，目击证实但官方未确认用途。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来自IT之家，内容具体，赛程和战绩清晰，但缺乏官方链接和深度分析。"
+      "credibilityReason": "IT之家为知名科技媒体，报道具体有现场细节，但无官方确认，评分适中。"
     },
     {
-      "title": "AI真能替你订房改签了，你敢把账号交给它吗？",
-      "link": "https://www.tmtpost.com/8104085.html",
-      "pubDate": "Sat, 15 Aug 2026 09:03:00 +0800",
-      "contentSnippet": "旅行AI终于不再“嘴替”了",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "旅行AI从对话助手升级为执行工具，但账号授权引发安全担忧。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容具体，但缺乏数据细节和原始出处。"
-    },
-    {
-      "title": "豆包开始收12%过路费，GEO又要狂欢了？",
-      "link": "https://www.tmtpost.com/8104312.html",
-      "pubDate": "Sat, 15 Aug 2026 09:00:00 +0800",
-      "contentSnippet": "整个AI搜索行业，被一脚踹进了Agentic Commerce时代。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "豆包收取12%过路费，AI搜索进入Agentic Commerce时代。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容具体，但缺乏数据支撑和原始出处。"
-    },
-    {
-      "title": "谷歌拟扩展 Pixel 手机防护，反诈功能覆盖拨出电话",
-      "link": "https://www.ithome.com/0/989/990.htm",
-      "pubDate": "Sat, 15 Aug 2026 00:55:21 GMT",
-      "contentSnippet": "IT之家 8 月 15 日消息，科技媒体 Android Authority 昨日（8 月 14 日）发布博文，报道称谷歌计划在 Pixel 系列手机上扩展“诈骗检测”功能，覆盖用户主动拨出的电话。\nIT之家注：“诈骗检测”（Scam Detection）是谷歌 Pixel 系列手机的通话安全功能，会分析电话音频，寻找可能存在的诈骗话术或行为线索。\n当前功能只针对来电，且需要用户手动开启。Pixel 9 及后续机型由 Gemini 提供支持，处理过程在设备本地完成，通话音频和转写文本不会分享给谷歌。\n该媒体挖掘 Beta 版谷歌 Phone 应用代码，发现了以下字符串：\nenableSharp",
+      "title": "知情人士回应“网传追觅大家电解散”：业务正常做",
+      "link": "https://www.ithome.com/0/990/234.htm",
+      "pubDate": "Sun, 16 Aug 2026 01:28:43 GMT",
+      "contentSnippet": "8 月 16 日上午消息，今日早间，“网传追觅大家电解散”相关话题登上微博热搜，引发广泛关注。\n据流出内容，疑似追觅 AWE 期间冰箱相关业务供应商存在未结款情况，打算组团维权，引发大量供应商评论并唱衰追觅。部分人员甚至牵扯提及追觅裁员缩减、创始人俞浩卖掉私人飞机等事。\n对于前述消息，截至发稿公司暂无回应。新浪科技注意，目前发布该帖子的供应商已经删除相关内容。有接近追觅的知情人士对新浪科技透露，目前相关业务仍在“正常做”。\n来源新浪科技，原标题《追觅大家电解散？知情人士：业务正常做》",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -135,130 +84,181 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "谷歌计划扩展Pixel反诈功能至拨出电话，本地处理。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用Android Authority，有代码证据，技术细节具体，但非一手来源。"
-    },
-    {
-      "title": "“虾虾大脑”升级：荣耀 YOYO Claw 官宣接入智谱最新发布的 GLM-5.3 大模型",
-      "link": "https://www.ithome.com/0/989/989.htm",
-      "pubDate": "Sat, 15 Aug 2026 00:54:23 GMT",
-      "contentSnippet": "IT之家 8 月 15 日消息，荣耀全场景软件主理人 @荣耀席迎军 昨晚宣布，荣耀 YOYO Claw 正式接入智谱最新发布的 GLM-5.3 大模型，“虾虾大脑”全新升级。\n\n通过更大规模、更长周期、更多样任务环境的后训练，GLM-5.3 进一步释放模型能力上限：编程能力较上一代提升 50%，并在多项公开基准测试中取得开源模型第一；在代码审查、漏洞发现等网络安全任务中，能力也进一步提升，表现更加优秀。\n\n\n据IT之家此前报道，在今年 4 月的荣耀 PC 新品技术沟通会上，荣耀版“龙虾”YOYO Claw 发布。官方在现场进行了多个场景演示，包括媒体运营助虾、3D 打印虾等。\n另外，YOYO",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "荣耀YOYO Claw接入智谱GLM-5.3，编程能力提升50%，开源模型第一。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家较权威，内容具体有数据，但未来日期和“虾虾”表述存疑，降低评分。"
-    },
-    {
-      "title": "印度网友反馈其三星 Galaxy 手机突发起火，导致双手和大腿区域被烧伤",
-      "link": "https://www.ithome.com/0/989/988.htm",
-      "pubDate": "Sat, 15 Aug 2026 00:44:47 GMT",
-      "contentSnippet": "IT之家 8 月 15 日消息，《自由新闻报》昨日（8 月 14 日）发布博文，报道称在印度大诺伊达（Greater Noida）一名男子的三星 Galaxy S 手机突发起火，导致双手、大腿区域被烧伤。\n消息称该男子于 1 个月前购入这款三星 Galaxy 手机，事发时并未处于使用状态，放在裤兜里突发起火并爆炸。男子随后将其抽出，过程中导致双手和大腿部分被烧伤。\n根据社交平台 X 用户 GreaterNoidaW 和 Siraj Noorani 分享的照片显示，涉事手机遭受严重热损伤。电池仓几乎完全烧毁，后盖约有一半熔化。\n事件报告没有说明手机的具体型号，根据照片中仍可辨认的摄像头布局，涉事",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "印度男子三星Galaxy手机裤兜起火致烧伤，IT之家报道。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源IT之家较知名，有具体细节和照片，但未明确型号，信息有限。"
-    },
-    {
-      "title": "蜘蛛侠动画电影三部曲终章《蜘蛛侠：超越宇宙》前 4 分钟高清画面流出",
-      "link": "https://www.ithome.com/0/989/987.htm",
-      "pubDate": "Sat, 15 Aug 2026 00:43:49 GMT",
-      "contentSnippet": "IT之家 8 月 15 日消息，蜘蛛侠动画电影三部曲最终章《蜘蛛侠：超越宇宙》前 4 分钟高清画面流出。该片段是 4 月的 CinemaCon（电影产业大会）独家放映的原片。\n\nIT之家查询获悉，《蜘蛛侠：超越宇宙》已将其上映日期定于 2027 年 6 月 18 日。该电影原定 2024 年上映，但受到美国罢工影响，上映日期进行了延迟。\n《蜘蛛侠：超越宇宙》的故事将发生在《蜘蛛侠：纵横宇宙》之后，并与《纵横宇宙》《平行宇宙》构成“蜘蛛宇宙”三部曲。\n制片人克里斯・米勒透露，《蜘蛛侠：超越宇宙》中还会有新的蜘蛛侠。另外，蜘蛛侠系列电影官方微博今年 4 月还公开了本片全新剧照，蜘蛛侠 2099、朋",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "蜘蛛侠动画终章前4分钟画面流出，定档2027年6月。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体含日期和来源，但未提供原始视频链接，评分略降。"
-    },
-    {
-      "title": "补贴退潮、AI上桌，京东讲起新故事",
-      "link": "https://www.tmtpost.com/8104076.html",
-      "pubDate": "Sat, 15 Aug 2026 08:34:00 +0800",
-      "contentSnippet": "边稳住利润，边押注AI。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "京东在补贴退潮后，通过AI技术寻求新增长点。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容具体，逻辑清晰，但缺少数据支撑和原始出处。"
-    },
-    {
-      "title": "国产动画电影《八仙！》在北美首映，此前已进入中国影史国产动画片票房榜前七",
-      "link": "https://www.ithome.com/0/989/985.htm",
-      "pubDate": "Sat, 15 Aug 2026 00:29:17 GMT",
-      "contentSnippet": "IT之家 8 月 15 日消息，据央视新闻报道，国产喜剧动画电影《八仙！》13 日晚在美国西海岸第一大城市洛杉矶举行北美首映礼。作为海外上映计划的一部分，这部融合东方美学与侠义精神的喜剧影片 14 日开始登陆美国和加拿大院线。\n\n根据目前影片公布的海外上映计划，《八仙！》会陆续登陆北美、澳新、英国、爱尔兰、荷兰等多个国家和地区：\n\n8 月 13 日：澳大利亚、新西兰、巴布亚新几内亚\n\n8 月 14 日：北美、英国、爱尔兰、荷兰\n\n9 月 4 日：比利时、卢森堡\n\n值得一提的是，在登陆海外的计划中，影片的英文片名并没有使用“八仙”的拼音，而是根据故事主题重新命名《All Wishes Come",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国产动画《八仙！》北美首映，票房进影史前七。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家较知名，引用央视报道，信息具体含日期和票房，但细节有限。"
-    },
-    {
-      "title": "消息称星途再调汇报线，奇瑞“海外掌门”张贵兵接棒李学用",
-      "link": "https://www.ithome.com/0/989/984.htm",
-      "pubDate": "Sat, 15 Aug 2026 00:26:03 GMT",
-      "contentSnippet": "IT之家 8 月 15 日消息，8 月 13 日，据“汽车像素”报道，奇瑞调整了星途事业部的汇报关系。根据战略发展与经营管理需要，奇瑞汽车执行副总裁张贵兵分管星途事业部，向奇瑞汽车“二把手”，常务副总裁张国忠汇报。其他职务不变。\n\n▲ 左：李学用，右：张贵兵\n报道称，张贵兵与李学用同为奇瑞汽车执行副总裁，前者长期负责海外业务，后者主要负责国内。2025 年 7 月，奇瑞成立“奇瑞品牌国内业务事业群”，下设星途、艾虎、风云、QQ 四个事业部，由奇瑞汽车执行副总裁李学用兼任事业群总经理。此前相对独立的星途国内业务，组织和职能整体纳入新成立的事业群。智界、捷途和 iCAR 不受影响。\n报道提到，目前",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "奇瑞调整星途事业部汇报线，张贵兵接棒李学用分管。",
+      "aiSummary": "追觅大家电解散传闻遭知情人士否认，称业务正常进行。",
       "credibilityScore": 70,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源IT之家，内容具体但为转述，缺乏官方确认，细节有限。"
+      "credibilityReason": "来源为IT之家转载新浪科技，有知情人士回应，但缺乏官方确认和具体细节，评分中等偏上。"
     },
     {
-      "title": "DeepSeek Harness，“杀死”Agent黑箱",
-      "link": "https://www.tmtpost.com/8104305.html",
-      "pubDate": "Sat, 15 Aug 2026 08:25:00 +0800",
-      "contentSnippet": "Model+Harness=Agent",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "小米详解澎程为何标配 9 个碰撞传感器：核心不是追求数量，而是希望把碰撞感知覆盖得更全面",
+      "link": "https://www.ithome.com/0/990/232.htm",
+      "pubDate": "Sun, 16 Aug 2026 01:09:41 GMT",
+      "contentSnippet": "IT之家 8 月 16 日消息，小米汽车今日凌晨发布了答网友问（第 278 集），针对小米澎程的龙甲电池热安全测试条件为何设置为 55℃ 高温 / 满电、澎程 N90 Max 的 12 个安全气囊布置思考，以及澎程为什么全系标配 9 个碰撞传感器等问题进行了集中解答。\n\nIT之家附小米本集答网友问重点内容如下：\n为什么小米澎程的电池热失控后无热蔓延、不起火、不爆炸的温度设为 55℃？\n\n55℃ 是「小米龙甲电池」进行热安全测试的温度，并非正常工作温度。在严苛的 55℃ 高温、满电条件下进行安全测试，可以为用户在真实用车场景中预留更多安全冗余。\n正常情况下，热管理系统在车辆高速行驶、高温环境停车",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "钛媒体",
-        "InfoQ中文"
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "小米详解澎程标配9个碰撞传感器，强调覆盖全面而非数量。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，内容具体，引用官方问答，但细节有限，评分75。"
+    },
+    {
+      "title": "iFixit 再次上调 Steam Deck LCD 版替换电池价格：至 180 美元，较原价高 125%",
+      "link": "https://www.ithome.com/0/990/231.htm",
+      "pubDate": "Sun, 16 Aug 2026 01:05:10 GMT",
+      "contentSnippet": "IT之家 8 月 16 日消息，上月，有消息称 Valve 可能停产初代 Steam Deck 的维修配件，随后维修平台 iFixit 的 Steam Deck LCD 版替换电池重新补货上架。尽管补货时售价就已上调至 129.99 美元（IT之家注：现汇率约合 878.8 元人民币），但如今这款替换电池的价格较之前又进一步走高。\n\n缺货前，iFixit 上 Steam Deck LCD 版电池的售价为 79.99 美元（现汇率约合 540.8 元人民币）。首次补货时，价格就已上涨 50 美元（现汇率约合 338 元人民币），升至 129.99 美元（现汇率约合 878.8 元人民币）。而目前",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家",
+        "钛媒体"
       ],
       "coverageCount": 2,
       "coverageBoost": 5,
-      "aiSummary": "DeepSeek Harness框架旨在消除Agent黑箱，实现模型与工具链结合。",
+      "aiSummary": "iFixit再次上调Steam Deck LCD电池价格至180美元，较原价高125%。",
       "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，标题有吸引力但正文摘要简略，缺乏具体技术细节和数据支撑。（多源覆盖 +5）"
+      "credibilityReason": "来源为知名科技媒体，信息具体含价格变化细节，但未提供原始出处，时效性一般。（多源覆盖 +5）"
+    },
+    {
+      "title": "第二届世界人形机器人运动会新增跳远、举重、拔河等项目，2056 台机器人同台竞技",
+      "link": "https://www.ithome.com/0/990/230.htm",
+      "pubDate": "Sun, 16 Aug 2026 01:04:44 GMT",
+      "contentSnippet": "IT之家 8 月 16 日消息，据“北京亦庄”公众号，8 月 13 日，北京市人民政府新闻办公室在国家速滑馆新闻发布厅举行第二届世界人形机器人运动会新闻发布会（第三场）。会上宣布，本届运动会正赛将于 8 月 22 日至 26 日在国家速滑馆“冰丝带”举行，将举行 51 个项目共 1301 场比赛，吸引 666 支队伍携 2056 台机器人参赛，竞赛项目、参赛队伍全面提质扩容，并新增跳远、举重、拔河、乒乓球等高强度对抗项目。现场还发布了运动会吉祥物“智宝”。\n\n▲ 运动会吉祥物“智宝”\n从报名情况来看，各路高手将云集赛场。本届赛事吸引了来自六大洲、16 个国家的 666 支队伍，共有 2056",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "第二届世界人形机器人运动会8月22日开幕，新增跳远举重等项目，2056台机器人参赛。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，引用官方发布会信息，细节具体，但缺乏技术细节和独立验证。"
+    },
+    {
+      "title": "东风风神 L8Y 将于 8 月 21 日成都车展上市，定位“10 万级大满配纯电 SUV ”",
+      "link": "https://www.ithome.com/0/990/229.htm",
+      "pubDate": "Sun, 16 Aug 2026 00:58:00 GMT",
+      "contentSnippet": "IT之家 8 月 16 日消息，东风风神 L8Y 将于 8 月 21 日成都车展正式上市，新车搭载东风集团全新新能源技术，定位“10 万级大满配纯电 SUV ”。\n\n\nIT之家注意到，东风风神下半年将投放 4 款新车，四款车型以差异化的产品定位和优势，实现从“精致小家”到“舒适大家”的覆盖。\n\n风神 L8Y 主打“同级最舒适座舱”，座舱质感、驾乘体验得到全面升级\n\n风神 L8+ 剑指“同级最强智能辅助驾驶产品”，宣称刷新同级车型的智能体验上限\n\n“同级唯一真七座 SUV”风神 L9 兼顾商务接待与家庭责任\n\n风神 E80 则聚焦纯电市场\n\n8 月 5 日，东风汽车公布了新能源 L 系三款新车",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "东风风神L8Y将于8月21日成都车展上市，定位10万级纯电SUV。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，内容具体，提及车型定位和发布时间，但缺乏技术细节和原始数据。"
+    },
+    {
+      "title": "一镜到底打破质疑：岚图追光 S 汽车 360° 隧道穿越多角度实录视频放映",
+      "link": "https://www.ithome.com/0/990/228.htm",
+      "pubDate": "Sun, 16 Aug 2026 00:56:19 GMT",
+      "contentSnippet": "IT之家 8 月 16 日消息，岚图汽车官方在 8 月 13 日宣布，追光 S 车型 360° 隧道大回环穿越成功（在隧道中完成 360 度旋转穿越，轮胎贴着墙面飞驰，最终平稳回到地面）。然而有网友对此次挑战提出质疑，认为追光 S 大回环挑战视频采用了 AI 技术。\n\nIT之家注意到，岚图汽车官方在昨晚放出次 360° 隧道穿越挑战多角度实录 + 一镜到底视频，回应网友质疑。视频片长约 44 秒，全面覆盖了正面拍摄视角、后方拍摄视角以及车内第一人称视角，同时还给出了正常速度、0.5 倍速的画面。\n\n岚图追光 S 已于昨晚正式上市，新车全系标配华为乾崑智驾四激光雷达方案，22.99 万元起售，限",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "岚图追光S隧道360度穿越挑战遭质疑，官方发布多角度一镜到底视频回应。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道具体，含官方回应细节，但缺乏独立验证，评分适中。"
+    },
+    {
+      "title": "哈佛披露持有 SpaceX 价值 22 亿美元股份，多家高校投资获益",
+      "link": "https://www.ithome.com/0/990/227.htm",
+      "pubDate": "Sun, 16 Aug 2026 00:54:06 GMT",
+      "contentSnippet": "IT之家 8 月 16 日消息，哈佛大学旗下投资部门披露，其持有 SpaceX 价值 22 亿美元（IT之家注：现汇率约合 148.73 亿元人民币）的股份。这意味着在埃隆 · 马斯克创立的这家火箭企业重磅上市后，校方的早期投资收获了巨额回报。\n\n哈佛管理公司在当地时间周五提交的监管文件中公布了这一持仓，SpaceX 也由此成为其规模 43 亿美元（现汇率约合 290.71 亿元人民币）的美股投资组合中，已披露的最大单一股票持仓。\n这笔投资印证了一个趋势：SpaceX 在 6 月完成的创纪录首次公开募股，为早年通过风险投资布局该公司的高校捐赠基金带来了丰厚收益，部分高校的入局时间甚至早至十多年",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "哈佛披露持有SpaceX 22亿美元股份，多家高校早期投资获益。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道具体数据且提及监管文件，但未提供原始链接，评分适中。"
+    },
+    {
+      "title": "阿里股价回升，阿里云AI对公司长期估值影响究竟有多大？",
+      "link": "https://www.tmtpost.com/8104764.html",
+      "pubDate": "Sun, 16 Aug 2026 08:52:00 +0800",
+      "contentSnippet": "Al打开估值空间，盈利待验证。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "分析阿里云AI对阿里估值影响，指出盈利待验证。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源知名科技媒体，内容具体分析估值与盈利，但缺乏数据支撑。"
+    },
+    {
+      "title": "420亿估值背后：Neuralink的“SpaceX时刻”还要等多久？",
+      "link": "https://www.tmtpost.com/8104757.html",
+      "pubDate": "Sun, 16 Aug 2026 08:48:00 +0800",
+      "contentSnippet": "意念控制轮椅之后:脑机接口离成为“基础设施”还有多远?",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "分析Neuralink高估值与脑机接口商业化距离，指出其尚需等待。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "钛媒体为知名科技媒体，内容具体分析估值与进展，逻辑清晰，但缺乏原始数据引用。"
+    },
+    {
+      "title": "微软 Win11 全面视觉焕新将至，多数传统对话框将用 WinUI 重构",
+      "link": "https://www.ithome.com/0/990/226.htm",
+      "pubDate": "Sun, 16 Aug 2026 00:46:34 GMT",
+      "contentSnippet": "IT之家 8 月 16 日消息，Windows 11 似乎即将迎来一轮全面视觉焕新，微软计划替换系统中绝大多数传统对话框与弹窗。而就在此前，微软刚承认 WinUI 的性能表现并不理想，并表示将在把该框架推广至系统外壳（而非仅应用端）的过程中同步优化其性能。\n\n微软官方将流畅设计体系（Fluent Design）作为核心设计语言，该体系主要由 WinUI 框架支撑，后者也是 Windows 11 官方推荐的开发框架之一。此前 WinUI 一度被暂缓推进，直到近期才有新动向；不过微软已明确表态将全力投入该框架，并开始在 Windows 系统外壳层面强制推行 WinUI。\n如今，当初的诸多承诺正逐步",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微软计划用WinUI重构Win11传统对话框，并同步优化性能。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，内容具体，引用微软官方表态，但缺乏原始链接和细节。"
+    },
+    {
+      "title": "“破戒”评论被指“开黄腔”，比格比萨老板遭流量反噬？",
+      "link": "https://www.tmtpost.com/8104754.html",
+      "pubDate": "Sun, 16 Aug 2026 08:42:00 +0800",
+      "contentSnippet": "比格比萨再次站上舆论风口。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "比格比萨因老板不当言论遭舆论反噬，钛媒体报道。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "钛媒体为知名科技媒体，报道具体事件，但缺乏细节和原始出处，评分适中。"
     }
   ]
 }
