@@ -1,65 +1,133 @@
 {
-  "generatedAt": "2026-08-16T01:36:23.996Z",
+  "generatedAt": "2026-08-17T01:27:52.079Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "图书编辑手搓“推荐语”火了，上海书展带来独属线下体验",
-      "link": "https://m.thepaper.cn/detail/33791387",
-      "pubDate": "Sun, 16 Aug 2026 00:03:25 GMT",
-      "contentSnippet": "今年上海书展上，编辑手搓“推荐语”的出版社越来越多了。编辑将自己推荐书籍的三言两语写在便笺纸上，贴在书籍封面，为读者提供购书指南。\n有的展台卷内容。上海古籍出版社和历史博主ruc猫猫合作，在展位设立“文史选书台”，ruc猫猫为自己选出的几十种图书写了推荐语，每天还随机在展台出现一两个小时，与读者见面。\n\n在《诗与政治》上，ruc猫猫写，“民国版girls help girls！女子越剧登顶上海滩！”《昂贵的和平——中日马关议和研究》上则是：“2025我的年度最佳，推荐所有国人阅读：教材上简单的跳跃条款背后，居然有这么多不曾听闻的故事？！”\n\n“有猫猫老师推荐语的书卖得更好。”她推荐的都是自己精",
-      "sourceName": "澎湃新闻",
+      "title": "特朗普给美韩军演“泼冷水”：又贵又挑衅！",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-17/10678828.shtml",
+      "pubDate": "Mon, 17 Aug 2026 08:57:03 +0800",
+      "contentSnippet": "特朗普给美韩军演“泼冷水”：又贵又挑衅！与金正恩“关系好”，顺手吐槽韩国拒帮美国怼伊朗 | 国际早察",
+      "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
-        "澎湃新闻"
+        "中国新闻网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "上海书展上，出版社编辑手写推荐语成风潮，与博主合作提升书籍销量。",
+      "aiSummary": "特朗普批评美韩军演昂贵且具挑衅性，称与金正恩关系好，并抱怨韩国未支持美国对伊朗政策。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源澎湃新闻较权威，内容具体有实例，但缺乏多源交叉验证。"
+      "credibilityReason": "来源为知名媒体，内容具体，但依赖单一来源，未提供直接引述或交叉验证。"
     },
     {
-      "title": "中国驻菲律宾使馆发言人16问菲防长特奥多罗",
-      "link": "https://m.thepaper.cn/detail/33791735",
-      "pubDate": "Sat, 15 Aug 2026 23:33:55 GMT",
-      "contentSnippet": "问：菲律宾防长特奥多罗发表声明并接受采访，攻击中国外交部发言人相关表态为虚假信息，继续指称三佳钢厂中国工人在菲从事违法活动，并称中国使馆官员介入菲执法行动。请问中国使馆有何评论？\n答：特奥多罗有关言论毫无根据、歪曲事实、颠倒黑白。\n首先，今年5月，特奥多罗指挥军队冲到三佳钢厂抓捕手无寸铁的中国工人，他到底是防长还是警察局长？为什么要插手执法行动？出于什么目的？这是他的工作职责吗？\n其次，如果工厂违反环保等法律，为什么抓工人，而不是相关负责人？为什么只抓中国工人，却当场释放所有菲律宾工人？为什么还要用军机把中国工人押到马尼拉关押？\n第三，据中国工人告，该厂所有工人平日上班时，只穿正常劳动服装，从",
-      "sourceName": "澎湃新闻",
+      "title": "标准化、职业化、产业化 让家政服务方便找放心用",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-17/10678824.shtml",
+      "pubDate": "Mon, 17 Aug 2026 08:26:03 +0800",
+      "contentSnippet": "编者按：\r\n\n　　家政服务业是重要的民生行业，在改善民生、稳定和扩大就业、促进城乡融合发展、带动扩大消费等方面发挥重要作用。近期，商务部会同多部门印发《关于促进家政服务业高质量发展的若干政策措施》，围绕加大对家政企业支持力度等5个方面提出19项具体举措。增加优质家政服务供给有哪些实招？如何更好发挥家政服务信用信息平台作用？记者进行了深入采访。\r\n\n　　“小、散、乱”如何破解",
+      "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
-        "澎湃新闻"
+        "中国新闻网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国驻菲使馆16问菲防长，驳斥其关于中国工人违法及使馆介入执法的指控。",
+      "aiSummary": "商务部等多部门出台19项举措促进家政服务业高质量发展，破解行业小散乱问题。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网，权威媒体；内容具体，引用政策文件，事实可查证。"
+    },
+    {
+      "title": "特朗普：“不满”美国早前同意参加与韩国的联合军演",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-17/10678801.shtml",
+      "pubDate": "Mon, 17 Aug 2026 06:28:06 +0800",
+      "contentSnippet": "中新网8月17日电 美国总统特朗普16日在社交媒体发文称，鉴于他与朝鲜领导人金正恩的良好关系，他对于美国很早之前同意参加与韩国的联合军演“感到不满”。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "特朗普称因与金正恩关系良好，对早前同意美韩军演表示不满。",
       "credibilityScore": 75,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为澎湃新闻，内容具体且引用官方声明，但单方陈述，缺乏独立交叉验证。"
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网，属权威媒体，内容具体，引用特朗普社交媒体发言，但未多源验证。"
     },
     {
-      "title": "人民日报刊文纪念江泽民同志诞辰100周年：在中国特色社会主义道路上不断创造无愧于时代和人民的新业绩",
-      "link": "https://m.thepaper.cn/detail/33791729",
-      "pubDate": "Sat, 15 Aug 2026 23:19:55 GMT",
-      "contentSnippet": "江泽民同志是我党我军我国各族人民公认的享有崇高威望的卓越领导人，伟大的马克思主义者，伟大的无产阶级革命家、政治家、军事家、外交家，久经考验的共产主义战士，中国特色社会主义伟大事业的杰出领导者，党的第三代中央领导集体的核心，“三个代表”重要思想的主要创立者。在江泽民同志诞辰100周年之际，缅怀他的丰功伟绩，学习他的崇高风范，对广大党员干部群众紧密团结在以习近平同志为核心的党中央周围，推动“十五五”开好局、起好步，以中国式现代化全面推进强国建设、民族复兴伟业，具有重大意义。\n江泽民同志的一生，是光辉的战斗的一生。在70多年的革命生涯中，他对共产主义理想坚贞不渝，对党和人民无限忠诚，矢志不移为党和人",
-      "sourceName": "澎湃新闻",
+      "title": "神二十三乘组在轨80余天 多项空间科学实（试）验有序推进",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-17/10678846.shtml",
+      "pubDate": "Mon, 17 Aug 2026 09:15:17 +0800",
+      "contentSnippet": "央视网消息：目前，中国空间站神舟二十三号乘组三名航天员朱杨柱、张志远、黎家盈已在轨驻留80余天。上周，空间科学实(试)验、在轨训练及演练等工作有序推进。",
+      "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
-        "澎湃新闻"
+        "中国新闻网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "人民日报纪念江泽民诞辰百年，强调学习其精神推动中国式现代化。",
+      "aiSummary": "神舟二十三号乘组在轨80余天，多项空间科学实验有序推进。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网转载央视网，权威官方媒体，信息具体，涉及航天任务细节，可信度高。"
+    },
+    {
+      "title": "我国中东部高温闷热天气发展 四川盆地强降雨频繁局地有大暴雨",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-17/10678845.shtml",
+      "pubDate": "Mon, 17 Aug 2026 09:14:10 +0800",
+      "contentSnippet": "中国天气网讯 今明天(8月17日至18日)，我国东北、西南等地降雨频繁，其中四川盆地等地雨势较强，局地有暴雨或大暴雨，需注意防范次生灾害的发生。受到降雨影响，四川东部高温将缓解，但我国中东部地区本周高温闷热天气发展增多。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中东部高温闷热发展，四川盆地强降雨频繁局地大暴雨。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网，权威媒体，内容具体含时间地点，客观报道天气。"
+    },
+    {
+      "title": "山西发布地质灾害黄色预警",
+      "link": "https://www.chinanews.com.cn/kong/2026/08-17/10678840.shtml",
+      "pubDate": "Mon, 17 Aug 2026 09:09:30 +0800",
+      "contentSnippet": "8月17日上午，山西省自然资源厅、山西省气象局联合发布地质灾害气象风险预警，预计8月17日8时至8月18日8时，山西省临汾市、吕梁市等2个市4个县(市、区)地质灾害发生风险较高(黄色预警)；阳泉市、运城市、临汾市、吕梁市等4个市27个县(市、区)地质灾害发生有一定风险(蓝色预警)。上述地区政府、部门和群众应根据预警等级采取相应的防范措施。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "山西发布地质灾害黄色预警，涉及临汾、吕梁等地区，提醒防范。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，权威媒体，信息具体，有明确时间和区域，内容客观。"
+    },
+    {
+      "title": "纪念江泽民同志诞辰100周年大会",
+      "link": "https://www.chinanews.com.cn/iframe/2026/08-17/10678834.shtml",
+      "pubDate": "Mon, 17 Aug 2026 09:05:22 +0800",
+      "contentSnippet": "",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国举行纪念江泽民同志诞辰100周年大会。",
       "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为官方权威媒体人民日报，内容正式且具历史事实，信息具体，无情绪化用语。"
+      "credibilityReason": "来源为官方媒体中国新闻网，内容涉及国家重要纪念活动，信息具体且权威。"
     },
     {
-      "title": "《给阿嬷的情书》在台湾首映",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-15/10678437.shtml",
-      "pubDate": "Sat, 15 Aug 2026 23:53:56 +0800",
-      "contentSnippet": "中新社台北8月15日电 (记者 朱贺)电影《给阿嬷的情书》15日、16日以“特别放映”单元亮相2026桃园电影节，系在台湾首映。15日下午放映前，等待入场的观众已排起长龙；观影结束，不少观众红着眼眶走出影厅。",
+      "title": "四川云南辽宁黑龙江等地有强降雨",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-17/10678827.shtml",
+      "pubDate": "Mon, 17 Aug 2026 08:36:58 +0800",
+      "contentSnippet": "中新网8月17日电 据中央气象台网站消息，昨日，四川、广东、广西、辽宁等地出现大到暴雨，局地大暴雨。预计未来三天，四川、广东、云南、辽宁、吉林、黑龙江、陕西等地有较强降雨，部分地区伴有短时强降雨、雷暴大风等强对流天气，注意防范暴雨、风雹次生灾害，关注对交通、旅游、户外活动等的影响。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -67,16 +135,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "电影《给阿嬷的情书》在台湾桃园电影节首映，观众反响热烈。",
-      "credibilityScore": 85,
+      "aiSummary": "中央气象台预报，四川、云南、辽宁、黑龙江等地未来三天有强降雨，需防范次生灾害。",
+      "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，属权威媒体；报道含具体时间、地点、人物及现场细节，信息具体可查证。"
+      "credibilityReason": "来源为权威媒体，引用中央气象台官方信息，内容具体，客观中立。"
     },
     {
-      "title": "2026海峡两岸（福州）青少年科技教育交流会在福州开幕",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-15/10678434.shtml",
-      "pubDate": "Sat, 15 Aug 2026 23:30:01 +0800",
-      "contentSnippet": "中新社福州8月15日电 (叶秋云)2026海峡两岸(福州)青少年科技教育交流会15日在福州开幕。",
+      "title": "韩国庆尚南道泥石流致一人死亡",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-17/10678826.shtml",
+      "pubDate": "Mon, 17 Aug 2026 08:32:46 +0800",
+      "contentSnippet": "中新网8月17日电 据韩联社报道，当地时间17日凌晨4时42分许，韩国庆尚南道巨济市一处公寓附近发生泥石流，该公寓一层被埋，一人死亡。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -84,33 +152,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "2026海峡两岸青少年科技教育交流会在福州开幕，促进两岸科技教育交流。",
+      "aiSummary": "韩国庆尚南道泥石流致一人死亡，公寓被埋。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，属权威媒体，内容具体，有明确时间地点，用词客观。"
+      "credibilityReason": "来源为中新网转引韩联社，权威性较高，信息具体有时间地点，但细节有限。"
     },
     {
-      "title": "洪秀柱：大海是连接两岸同胞的天然纽带",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-15/10678433.shtml",
-      "pubDate": "Sat, 15 Aug 2026 23:02:55 +0800",
-      "contentSnippet": "中新社广东阳江8月15日电 (记者 孙秋霞)中国国民党前主席、中华青雁和平教育基金会董事长洪秀柱15日在广东阳江表示，大海从来不是阻隔，而是连接两岸同胞的天然纽带。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "洪秀柱在广东阳江表示，大海是连接两岸同胞的天然纽带。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为官方通讯社中新社，内容具体，有直接引述，事实可查证。"
-    },
-    {
-      "title": "编造并散布谣言“青岛大学新校徽像旭日旗”，35岁男子被行拘",
-      "link": "https://m.thepaper.cn/detail/33791815",
-      "pubDate": "Sun, 16 Aug 2026 01:32:31 GMT",
-      "contentSnippet": "8月16日，山东省青岛市崂山公安发布警情通报：",
+      "title": "叶酸守护胎儿大脑和脊髓发育机制揭示",
+      "link": "https://m.thepaper.cn/detail/33797267",
+      "pubDate": "Mon, 17 Aug 2026 00:31:14 GMT",
+      "contentSnippet": "叶酸如何为胎儿的大脑和脊髓发育保驾护航？以色列希伯来大学医学院、葡萄牙NOVA医学院等机构的科学家最近在《美国国家科学院院刊》发表的一项新研究发现，叶酸能帮助启动一种叫ALDH1L1的基因，制造出ALDH1L1酶。这种酶能将一种与维生素A相关的分子——视黄醛，转化为视黄酸。这些视黄酸好比一套精密的“生长指令”，告诉发育中的细胞：何时生长、变成什么类型、去往何处、何时停止分裂。\n在脊椎动物胚胎发育早期，大脑和脊髓尚未成形时，外胚层会特化出一片区域，这就是神经板。但它必须经过弯曲、折叠并精准闭合，才能形成日后的神经管，这一步一旦出错，便可能导致神经管缺陷。\n科学家采用青蛙胚胎模型开展对照实验，精准",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -118,118 +169,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "青岛一男子编造散布谣言称校徽像旭日旗，被行拘。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源澎湃新闻较权威，引用官方警情通报，事实具体可查证。"
-    },
-    {
-      "title": "拉美艺术家维加斯回顾展在穗开展 助推“全球南方”叙事",
-      "link": "https://www.chinanews.com.cn/cul/2026/08-16/10678461.shtml",
-      "pubDate": "Sun, 16 Aug 2026 09:28:53 +0800",
-      "contentSnippet": "中新网广州8月16日电 (记者 程景伟)“奥斯瓦尔多·维加斯回顾展——心外无物”15日在广东美术馆新馆开展，呈现拉美艺术家奥斯瓦尔多·维加斯跨越七十载创作生涯的重要作品，以及罕见的文献资料。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "拉美艺术家维加斯回顾展在广州开展，推动全球南方文化交流。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，属权威媒体，报道具体含时间地点人物，内容客观可查证。"
-    },
-    {
-      "title": "湖北大冶一居民楼起火65岁老人被困，接警员指导他用湿毛巾塞门缝等待救援",
-      "link": "https://m.thepaper.cn/detail/33790315",
-      "pubDate": "Sun, 16 Aug 2026 01:26:11 GMT",
-      "contentSnippet": "近日，湖北黄石大冶市金牛镇小桥路金牛华府小区一居民家突发火灾，一名65岁老人被困卧室。6辆消防车、32名指战员赶赴现场。救援过程中接警员全程与被困老人保持通话，指导老人拿湿毛巾塞住门缝，最终老人被成功救出。",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "湖北大冶一居民楼起火，65岁老人被困，接警员电话指导自救，消防成功救援。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源澎湃新闻较权威，事件具体有时间地点细节，救援过程描述清晰，可查证。"
-    },
-    {
-      "title": "创意微视频｜点染山河色",
-      "link": "https://h.xinhuaxmt.com/vh512/share/13241578?newstype=1001&homeshow=1",
-      "pubDate": "Sun, 16 Aug 2026 01:26:01 GMT",
-      "contentSnippet": "创意微视频｜点染山河色",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "澎湃新闻发布创意微视频，展现山河色彩，内容艺术性强，信息性弱。",
-      "credibilityScore": 60,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源知名但非一线，内容为创意视频，缺乏具体事实和引述，可验证性低。"
-    },
-    {
-      "title": "浙江调整水旱灾害防御应急响应至三级",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-16/10678463.shtml",
-      "pubDate": "Sun, 16 Aug 2026 09:24:26 +0800",
-      "contentSnippet": "记者从浙江省水利厅了解到，当前，浙江苕溪流域瓶窑站水位6.64米，已降至保证水位以下，杭嘉湖东部平原嘉兴站水位高位波动，缓慢回落。根据《浙江省水利厅水旱灾害防御应急工作预案》，浙江省水利厅决定于今日8时30分将水旱灾害防御应急响应调整至Ⅲ级（三级）。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "浙江因水位回落，将水旱灾害防御应急响应调整至三级。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网较权威，信息具体含水位数据，官方预案依据明确。"
-    },
-    {
-      "title": "迈克尔·哈特：回忆奈格里",
-      "link": "https://m.thepaper.cn/detail/33762150",
-      "pubDate": "Sun, 16 Aug 2026 01:17:58 GMT",
-      "contentSnippet": "2026年5月，《上海书评》在清华大学专访了美国杜克大学教授迈克尔·哈特。哈特深情追忆了他与奈格里因翻译斯宾诺莎而结缘的往事，以及两人长达三十年的思想协作。",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "哈特在清华专访中回忆与奈格里三十年合作，因翻译斯宾诺莎结缘。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源澎湃新闻较权威，内容具体，有专访细节，但非一线通讯社，且无多源交叉验证。"
-    },
-    {
-      "title": "迈克尔·哈特：《帝国》出版二十五年后",
-      "link": "https://m.thepaper.cn/detail/33766516",
-      "pubDate": "Sun, 16 Aug 2026 01:17:58 GMT",
-      "contentSnippet": "2026年5月，《上海书评》在清华大学专访了美国杜克大学教授迈克尔·哈特。哈特回顾了《帝国》出版二十五年来的世界格局变化。",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "哈特回顾《帝国》出版25年，称世界格局变化显著。",
+      "aiSummary": "研究发现叶酸通过激活ALDH1L1基因促进视黄酸生成，调控神经管闭合，预防胎儿神经管缺陷。",
       "credibilityScore": 75,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源澎湃新闻较权威，专访内容具体，但单一来源且无直接引述细节。"
+      "credibilityReason": "来源为知名媒体，内容具体且有学术期刊背书，但缺乏直接引述和多方验证。"
     },
     {
-      "title": "美国知名宠物冻干品牌VE试吃装被曝“爬出活虫”，涉事店铺：正抽检溯源",
-      "link": "https://m.thepaper.cn/detail/33791812",
-      "pubDate": "Sun, 16 Aug 2026 01:16:21 GMT",
-      "contentSnippet": "近日，多名消费者在社交平台发帖称，在淘宝天猫“Vital Essentials（简称VE）宠物海外旗舰店”购买的试吃装冻干（11.3克），打开后爬出多条蠕动活虫。店铺仅同意退款，不愿赔付。\n对此，涉事店铺客服回复澎湃新闻称，目前已针对该情况开展核查，并安排仓库对相关批次进行抽检溯源。\n8月14日晚，有消费者发布“避雷”帖称，随单购买的“鸡肉饼”试吃装给猫咪喂了两口后，发现5条活虫。与店铺客服反馈情况后，客服称活虫系黑毛皮蠹幼虫，本身不含毒素，不是寄生类蠕虫，不会在猫体内寄生繁殖，进到肠胃后最终会被消化排出，“客服不建议继续给猫咪喂食。但仅同意退款，不同意额外赔付。”\n另一名消费者发布的视频显示",
+      "title": "核反应堆首现“幽灵余辉”",
+      "link": "https://m.thepaper.cn/detail/33797271",
+      "pubDate": "Mon, 17 Aug 2026 00:26:27 GMT",
+      "contentSnippet": "即便核反应堆已经关闭，堆芯深处依旧存在放射性活动。长寿命的放射性裂变产物会持续衰变数月甚至数年，释放出微弱的粒子流——反中微子。中微子是宇宙中已知质量最轻、最难捕捉的粒子，它们可几乎不受阻碍地穿过反应堆及其外围防护层。\n\n科学家首次探测到核反应堆停机后留存的微弱反中微子辐射。 图片来源：Shutterstock\n\n\n德国马克斯·普朗克核物理研究所主持的双舒兹实验合作组科学家首次完成了对这种残余反中微子辐射的测量。研究表明，即便在反应堆停机状态下，反中微子探测器依然可以获取相关信息。这有望为反应堆监测、核安全与核保障开辟全新途径。相关成果近日发表于《物理评论快报》。\n此次测量在法国北部的舒兹核电",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -237,16 +186,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "VE宠物冻干试吃装被曝活虫，店铺称正抽检溯源，仅退款不赔付。",
-      "credibilityScore": 75,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源澎湃新闻较权威，有具体时间、消费者描述及店铺回应，但缺乏官方检测结果，多源验证不足。"
+      "aiSummary": "科学家首次探测到核反应堆停机后的残余反中微子辐射，为核安全监测提供新途径。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名媒体，内容具体，引用权威研究机构和期刊，信息可查证。"
     },
     {
-      "title": "上海书评周刊丨迈克尔·哈特谈帝国之后：诸众如何夺回智能机器",
-      "link": "https://html.thepaper.cn/collection/shanghaishuping260816",
-      "pubDate": "Sun, 16 Aug 2026 01:14:58 GMT",
-      "contentSnippet": "上海书评周刊丨迈克尔·哈特谈帝国之后：诸众如何夺回智能机器",
+      "title": "四川这座高原小城，把一朵朵松茸做成“黄金产业”",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-17/10678823.shtml",
+      "pubDate": "Mon, 17 Aug 2026 08:24:29 +0800",
+      "contentSnippet": "松茸刺身、香煎松茸、松茸炖汤、松茸鸡豆花……提起松茸，鲜香直灌脑门，从生到熟，从简到繁，每一种吃法，都是对山野的一次重新理解，也是对自己味蕾的一次重新认识。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "四川高原小城发展松茸产业，将其打造为经济支柱。",
+      "credibilityScore": 75,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源中国新闻网较权威，内容具体，但缺乏数据与引述，评分中等偏上。"
+    },
+    {
+      "title": "狗能够分辨人类的恐惧与悲伤",
+      "link": "https://m.thepaper.cn/detail/33797270",
+      "pubDate": "Mon, 17 Aug 2026 00:24:11 GMT",
+      "contentSnippet": "科学家以及爱狗人士早已知晓，狗在解读人类的微笑、皱眉和哭泣方面表现出色。然而，这种能力背后的生物学机制此前在很大程度上一直未被深入研究。\n\n图片来源：pixabay\n\n\n在近日发表于《交叉科学》的一项研究中，科学家对狗在观察各种人类表情图像时的脑部活动进行了研究。脑部扫描结果显示，狗会在一个独特的脑区处理笑容，并且首次提供了证据，表明狗能够区分包括愤怒、悲伤和恐惧在内的面部表情。\n“人类非常擅长捕捉面部的小细节，狗也是如此。”论文第一作者、奥地利维也纳大学的Raúl Hernández-Pérez表示，“这使得狗显得格外有趣。通过研究它们的脑部结构，我们可以了解狗为了支撑对人类的社交和情感的理",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -254,10 +220,44 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "迈克尔·哈特接受上海书评周刊专访，探讨帝国之后诸众如何夺回智能机器。",
+      "aiSummary": "研究揭示狗能区分人类恐惧与悲伤表情，脑部扫描提供证据。",
       "credibilityScore": 75,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为澎湃新闻，较权威；专访内容具体，有直接引述，但单一来源，无交叉验证。"
+      "credibilityReason": "来源为知名媒体，内容具体，有研究出处和作者引述，但缺乏多源交叉验证。"
+    },
+    {
+      "title": "警惕过度依赖 AI成未成年人“聊天搭子”，如何引导",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-17/10678821.shtml",
+      "pubDate": "Mon, 17 Aug 2026 08:22:31 +0800",
+      "contentSnippet": "警惕过度依赖AI陪伴",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国新闻网发文提醒警惕未成年人过度依赖AI陪伴，探讨引导方法。",
+      "credibilityScore": 75,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名媒体，内容具体但缺乏直接引述和数据，评分中等偏上。"
+    },
+    {
+      "title": "牛市早报｜前7个月社会融资规模增量超22万亿元",
+      "link": "https://m.thepaper.cn/detail/33795238",
+      "pubDate": "Mon, 17 Aug 2026 00:21:28 GMT",
+      "contentSnippet": "【市场数据】\n截至14日收盘，上证综指涨0.01%，报3927.18点；深证成指涨0.45%，报14354.31点；创业板指涨1.12%，报3626.3点。\n纽约股市三大股指14日下跌。截至当天收盘，道琼斯工业平均指数比前一交易日下跌107.58点，收于53732.41点，跌幅为0.20%；标准普尔500种股票指数下跌13.23点，收于7785.76点，跌幅为0.17%；纳斯达克综合指数下跌73.86点，收于26729.16点，跌幅为0.28%。\n【财经要闻】\n1、据澎湃新闻，中国人民银行公布的2026年7月金融统计数据报告显示，初步统计，前七个月社会融资规模增量累计为22.25万亿元，比上年",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "前7月社融增量超22万亿，A股微涨，美股下跌。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源澎湃新闻较权威，数据具体可查，但未提供直接引述或原始报告链接。"
     }
   ]
 }
