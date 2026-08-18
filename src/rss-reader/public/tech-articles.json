@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-17T01:29:13.234Z",
+  "generatedAt": "2026-08-18T01:25:24.984Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "保量不保价：消息称服务器 BMC SoC 龙头信骅首度签署长期供货协议",
-      "link": "https://www.ithome.com/0/990/438.htm",
-      "pubDate": "Mon, 17 Aug 2026 00:43:31 GMT",
-      "contentSnippet": "IT之家 8 月 17 日消息，台媒《工商时报》今日援引供应链消息报道称，全球第一大服务器 BMC SoC 供应商信骅 (ASPEED) 首度与下游客户签署 LTA（长期协议）。这反映 AI 产业的供应紧张态势正逐步蔓延至所有关联领域。\n\n报道指出，信骅已与多家大型客户签署 LTA，其余谈判也接近完成。此次达成的 1~2 年期合约采取“保量不保价”模式，显示信骅在谈判中处于有利地位。\nBMC SoC 与服务器设计具有强烈的绑定关系，一旦确认 BMC 选料后续难以更改，可以说下游客户对信骅的芯片存在严重依赖。客户在与信骅签署长约的同时也要求信骅为自身建立足够库存，以降低其它供应链环节变动对整体生",
+      "title": "苹果 macOS 27.0 开发者预览版 Beta 6 发布：新增两款金门大桥主体壁纸、“红绿灯”按钮新增液态玻璃效果",
+      "link": "https://www.ithome.com/0/990/862.htm",
+      "pubDate": "Mon, 17 Aug 2026 17:49:17 GMT",
+      "contentSnippet": "IT之家 8 月 18 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.0 开发者预览版 Beta 6 更新（内部版本号：26A5416b），本次更新距离上次发布 Beta / RC 间隔 7 天。\n\n如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？\n• 公开测试版：需注册 Apple Beta 版软件计划，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级；\n• 开发预览版：需登录注册苹果开发者计划，之后通过【设置】【通用】【软件更新】来升级。\n附苹果 iOS 历史固件下载大全：\n《苹果 iOS / iPadOS / macO",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,222 +16,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "信骅首签长期供货协议，保量不保价，反映AI供应紧张。",
+      "aiSummary": "苹果发布macOS 27.0 Beta 6，新增壁纸和液态玻璃按钮效果。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用台媒工商时报，信息具体，逻辑清晰，但依赖单一信源。"
+      "credibilityReason": "来源IT之家知名，内容具体含版本号，但无原始链接和细节验证。"
     },
     {
-      "title": "欧洲创纪录热浪杀死了 2.5 万人",
-      "link": "https://www.solidot.org/story?sid=85107",
-      "pubDate": "Sun, 16 Aug 2026 23:52:05 +0800",
-      "contentSnippet": "欧盟哥白尼气候监测服务机构证实，6 月和 7 月是西欧有记录以来最热的月份，在此期间估计有 25000 人死于高温相关疾病。热浪导致欧洲各地河流大范围干涸，这一情况甚至从太空中都可以观察到。由于河流水位极低，商船不得不减少多达 80% 的载货量以避免搁浅。这一迫不得已的举措扰乱了供应链，增加了运输成本。河流干涸还导致二战期间几十艘纳粹军舰浮出水面。",
-      "sourceName": "Solidot",
-      "sourceWeight": 75,
-      "allSources": [
-        "Solidot"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "欧洲创纪录热浪致2.5万人死亡，河流干涸影响航运。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源Solidot为知名科技媒体，引用欧盟官方数据，信息具体，逻辑清晰。"
-    },
-    {
-      "title": "小米米家多头筋膜枪 3 开售：3 款按摩头、25kg 推力，369 元",
-      "link": "https://www.ithome.com/0/990/454.htm",
-      "pubDate": "Mon, 17 Aug 2026 01:28:12 GMT",
-      "contentSnippet": "IT之家 8 月 17 日消息，小米米家多头筋膜枪 3 将于今日 10 点开售，新品到手价 369 元。\n\n相比传统单头筋膜枪，这款多头筋膜枪按摩面积更大、放松效率更高；配备三款不同规格按摩头，搭载双轴无刷电机，推力可达 25kg，按摩深度 4mm，可直达深层筋膜，快速舒缓乳酸堆积，加速身体放松。\n\n这款筋膜枪支持定频变频双模式，均提供 3 挡调节；支持智能挡位记忆，自动记住关机前的挡位和模式，下次开机直接使用；内置 2450mAh 电池，续航可达 31 天。\n\nIT之家附这款新品主要参数如下：\n\n京东小米米家多头筋膜枪 3 369 元直达链接",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "小米米家多头筋膜枪3开售，369元，三头设计，25kg推力。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道具体参数和价格，信息清晰，但缺少官方链接和深度分析。"
-    },
-    {
-      "title": "一年跑 4 万公里后，特斯拉 Model Y 电池容量剩下约 91%",
-      "link": "https://www.ithome.com/0/990/453.htm",
-      "pubDate": "Mon, 17 Aug 2026 01:27:14 GMT",
-      "contentSnippet": "IT之家 8 月 17 日消息，据 Insideevs 报道，电池测试似乎表明，电动汽车电池的容量衰减主要发生在使用初期，随后衰减速度会逐渐放缓。YouTuber Andy Slye 在驾驶自己的 2026 款特斯拉 Model Y Premium 后驱版一年、行驶约 2.5 万英里（约 4 万公里）后，对车辆的电池健康状况进行了检查。结果显示，这块电池预计还剩约 91% 的原始容量，不过 Slye 认为没有必要对此感到担忧。\n\nSlye 并没有进行特斯拉完整的过夜电池健康测试。按照要求，车辆需要连接交流充电器超过 16 个小时，在此期间先将电池放电至接近耗尽，再将其充满。Slye 采用的是特",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "特斯拉Model Y行驶4万公里后电池容量剩约91%，衰减初期较快后放缓。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用Insideevs和实测数据，内容具体，但非权威一手来源。"
-    },
-    {
-      "title": "网易《逆水寒：新世界》全新雨林版本官宣 8 月 28 日上线，迎来首个全新地图",
-      "link": "https://www.ithome.com/0/990/452.htm",
-      "pubDate": "Mon, 17 Aug 2026 01:24:55 GMT",
-      "contentSnippet": "IT之家 8 月 17 日消息，网易《逆水寒：新世界》官宣，全新雨林版本将于 8 月 28 日上线，迎来新世界首个全新地图“兰沧寨”。\n此外，新世界首场开学季活动也即将登场，带来新玩法、新活动、新福利。\n\n根据官方预热，《逆水寒：新世界》全新雨林版本将带玩家走进云南西双版纳（上个版本为云南大理），有望带来狂欢泼水骑孔雀、高空索道和蹦极等内容，还有全新双模式探索内容，玩家的抉择将影响故事结局。\n\n此外，新世界正传剧情将迎来更新，玩家将探索崇圣寺地宫；还有庄园全新玩法“菠萝农场”、育宠全新玩法“焕色”等。\n\n新版本带来新“剑影杯”赛事，采用双败赛制，奖金加码；还有跨服联赛档位优化、全新战场主题、锦",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "网易逆水寒新世界雨林版本8月28日上线，新增兰沧寨地图及多项玩法。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家知名科技媒体，内容具体含日期、地图、玩法细节，但无原始官方链接，评分适中。"
-    },
-    {
-      "title": "预售 25.98 万元，小鹏 G9L 大五座 SUV 展车到店",
-      "link": "https://www.ithome.com/0/990/451.htm",
-      "pubDate": "Mon, 17 Aug 2026 01:22:03 GMT",
-      "contentSnippet": "IT之家 8 月 17 日消息，小鹏汽车今日宣布小鹏 G9L 首批展车已到店，这款大五座 SUV 拥有超级增程、纯电两种动力选择，预售价 25.98 万元。\n\nIT之家附该车可选版本如下：\n超级增程：\n\n1602 四驱 Ultra SE\n\n1602 四驱 Ultra 旗舰版\n\n纯电：\n\n702 Max\n\n660 四驱 Ultra SE\n\n660 四驱 Ultra\n\n755 四驱 Ultra 旗舰版\n\n外观方面，小鹏 G9L 拥有普罗旺斯紫、托斯卡纳绿、珠峰白、峡湾灰、极夜黑等多款车色可选，车身尺寸为 5120mm*1999mm*1782mm，拥有 3100mm 的超长轴距和 0.605 轴长比",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "小鹏G9L大五座SUV展车到店，预售价25.98万元，提供增程和纯电版本。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道具体车型配置和价格，信息详实，但缺乏官方引用。"
-    },
-    {
-      "title": "华硕在台推出莓果粉限定配色 Vivobook S14，随附 Hello Kitty 礼包",
-      "link": "https://www.ithome.com/0/990/450.htm",
-      "pubDate": "Mon, 17 Aug 2026 01:22:01 GMT",
-      "contentSnippet": "IT之家 8 月 17 日消息，农历丙午马年七夕佳节即将于本月 19 日到来。值此浪漫时节，华硕 (ASUS) 14 日宣布在台推出“莓果粉”配色限定版 ASUS Vivobook S14 (S5406SAL) 轻薄笔记本电脑。\n\n“莓果粉”ASUS Vivobook S14 拥有粉色全金属机身和透明渐层果冻键盘，展现酷甜风格。其附赠限量街头造型的三丽鸥 Hello Kitty（凯蒂猫）绒毛玩偶吊饰和“ ASUS x Hello Kitty 莓果粉大礼包”，后者包含透明娃包、皮革化妆镜、磁吸小灯箱、超大鼠标垫、键盘贴纸等疗愈系日常小物。\n\n而在硬件方面，ASUS Vivobook S14 (S",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "华硕在台推出莓果粉限定Vivobook S14，附赠Hello Kitty礼包。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道具体产品细节，信息清晰，但缺乏原始官方链接。"
-    },
-    {
-      "title": "鸿蒙智行尚界 Z7/Z7T 暑期 OTA 推送：升级漫游巡航、调光天幕自动调节等功能",
-      "link": "https://www.ithome.com/0/990/449.htm",
-      "pubDate": "Mon, 17 Aug 2026 01:16:38 GMT",
-      "contentSnippet": "IT之家 8 月 17 日消息，鸿蒙智行尚界 Z7/Z7T 今日开启暑期 OTA 推送，带来 3 大维度升级，超 20 项体验进化。\nIT之家整理主要内容如下：\n\nWEWA2.0 领航体验全面升级\n\n优化领航辅助 (NCA) 激活体验\n\n新增城区漫游巡航功能，支持在非导航状态下，红绿灯识别、路口连续通行、自主变道等。\n\n新增城区漫游巡航功能，巡航过程中，支持一键就近泊车或点选沿途车位便捷泊入\n\n离开或到达车位支持直达充电车位功能\n\n离开或到达车位支持园区内部途经点功能\n\n新增自动防追尾辅助功能，主动加速避险\n\n新增守位泊车功能\n\n泊车体验全面提升\n\n新增优化 3D 渲染界面，增加右转专用视角",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "鸿蒙智行尚界Z7/Z7T暑期OTA升级，新增漫游巡航等20余项功能。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容具体详实，但缺少官方链接和第三方验证。"
-    },
-    {
-      "title": "《王国之心 4》加长实机预告公布，玩家可操控米奇、唐老鸭、高飞",
-      "link": "https://www.ithome.com/0/990/448.htm",
-      "pubDate": "Mon, 17 Aug 2026 01:08:24 GMT",
-      "contentSnippet": "IT之家 8 月 17 日消息，迪士尼和 Square Enix 在 D23 2026 的《王国之心》专题深度解析（Deep Dive into Kingdom Hearts）活动中亮相，并公布了一段加长版《王国之心 4》实机预告片，视频首次展示了玩家可操控的米奇国王、唐老鸭和高飞。\n\n就在昨天的迪士尼娱乐展示会上，这个经典跨界系列突然登场时，没人想到索拉会手持钥刃出现在皮克斯电影《寻梦环游记》的世界中。而在今天公布的 4 分钟新预告片中，米奇、唐老鸭和高飞竟然也成为了可操作角色，更让玩家颇感意外。\n\nIT之家注意到，从目前公布的画面来看，高飞和唐老鸭的玩法基本延续了玩家熟悉的索拉战斗方式。除",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "《王国之心4》加长预告公布，米奇、唐老鸭、高飞成可操控角色。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家知名科技媒体，内容具体有细节，但缺乏官方直接引用，评分适中。"
-    },
-    {
-      "title": "蓝宝石公布 NITRO+ 氮动 RX 9070 XT 16G V26 无畏巡回定制版显卡",
-      "link": "https://www.ithome.com/0/990/446.htm",
-      "pubDate": "Mon, 17 Aug 2026 01:06:13 GMT",
-      "contentSnippet": "IT之家 8 月 17 日消息，SAPPHIRE Technology（蓝宝科技 / 蓝宝石）近日公布了 NITRO+ 氮动 RX 9070 XT 16G V26 无畏巡回定制版显卡。\n\n可以看到，这款显卡硬件上基于 NITRO+ RX 9070 XT 16GB PhantomLink 打造，继承了原版的幻影连接“金手指”供电结构。\n而在外观方面，其以《无畏契约》(VALORANT) 电竞赛事 VCT CN 2026 为设计灵魂，拥有定制的赛事徽标风扇轴心贴纸，磁吸式快拆背板则装饰以角色定位徽标组成的像素风格枪械图案。\n\n值得注意的是，这款显卡与 AMD 无畏巡回 VCT CN 官方装备 20",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "蓝宝石推出无畏契约定制版RX 9070 XT显卡，基于NITRO+系列。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容具体描述产品细节，但缺乏官方链接或数据支撑。"
-    },
-    {
-      "title": "Faker 和 Uzi 之后，拳头游戏宣布 Caps 成为英雄联盟名人堂第三位成员",
-      "link": "https://www.ithome.com/0/990/444.htm",
-      "pubDate": "Mon, 17 Aug 2026 01:00:11 GMT",
-      "contentSnippet": "IT之家 8 月 17 日消息，拳头游戏 8 月 16 日晚宣布，Rasmus “Caps” Winther 成为英雄联盟名人堂第三位成员。\n拳头游戏表示，Caps 被称作“希望之光”，他的传奇为西方世界重塑了英雄联盟电竞赛事全球舞台的上限，此次作为首位获此殊荣的西方英雄联盟职业选手，也是实至名归。\n\n\n作为罕见的集技术、创造力和稳定性于一身的选手，Caps 被广泛认为是同世代西方选手的标杆，留下了无数传奇。\n从初登赛场的一鸣惊人，到成为欧洲英雄联盟电竞史上荣誉最多的选手，Caps 一次次证明他可以在保留个人风格的同时，站上世界的顶峰。\n在峡谷中，他既是可靠的队友，也是创新的力量，带动身边的人",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "拳头游戏宣布Caps成为英雄联盟名人堂第三位成员，首位西方选手。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容具体且来源明确，但缺乏官方公告细节和独立验证。"
-    },
-    {
-      "title": "Pony.ai and Uber Set Their Sights on More Than 2,000 Robotaxis in Europe",
-      "link": "https://www.tmtpost.com/8105342.html",
-      "pubDate": "Mon, 17 Aug 2026 08:55:07 +0800",
-      "contentSnippet": "A Chinese autonomous-driving company and a global ride-hailing platform have agreed to expand a quiet pilot in Zagreb into a multi-city fleet. The plan is ambitious on paper. Whether it can clear Europe’s regulatory thicket and cover its costs is the harder question.",
+      "title": "茶特调出圈一年，喜茶把竞争推向上游",
+      "link": "https://www.tmtpost.com/8105130.html",
+      "pubDate": "Mon, 17 Aug 2026 18:11:21 +0800",
+      "contentSnippet": "茶特调这种以茶为主角的全新产品形态，正在反向促进着行业的供应链升级，也将新茶饮的竞争推向了产业链更深处。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
-        "钛媒体",
-        "少数派",
-        "InfoQ中文"
-      ],
-      "coverageCount": 3,
-      "coverageBoost": 10,
-      "aiSummary": "小马智行与Uber计划在欧洲部署超2000辆Robotaxi，面临监管和成本挑战。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体涉及合作细节和挑战，但缺乏原始数据支撑。（多源覆盖 +10）"
-    },
-    {
-      "title": "国产单机动作游戏《湮灭之潮》放出实机演示，女主面部重做引发玩家争议",
-      "link": "https://www.ithome.com/0/990/443.htm",
-      "pubDate": "Mon, 17 Aug 2026 00:52:56 GMT",
-      "contentSnippet": "IT之家 8 月 17 日消息，国产单机动作游戏《湮灭之潮》昨日公布了一段长达 40 分钟的新实机演示，但相比游戏中炫目的战斗场面，一个意料之外的变化反而吸引了更多关注。玩家发现，主角 Gwendolyn 的脸似乎与此前亮相时有了明显不同，而部分玩家对这次重新设计并不满意。\n\n在游戏的 Steam 社区页面上，有一篇近期讨论帖直接以“face model”（脸部模型）为标题。发帖玩家认为，Gwendolyn 此前的脸“好看太多了”，并质疑开发团队为什么要进行修改。另一篇讨论帖则将新版形象称为“颜值削弱”，认为这个角色已经不像此前公布的演示和预告片中那样了。\n\n新面部模型（上方）与旧面部模型（下",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
+        "钛媒体"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国产游戏《湮灭之潮》新演示引发女主面部改动争议，玩家不满。",
+      "aiSummary": "茶特调推动新茶饮供应链升级，竞争转向产业链上游。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家知名科技媒体，内容具体有玩家讨论细节，但缺乏官方回应和原始数据。"
+      "credibilityReason": "来源钛媒体为知名科技媒体，内容具体分析行业趋势，逻辑清晰，但缺乏具体数据支撑。"
     },
     {
-      "title": "贾跃亭：法拉第未来探索机器人独立融资及上市",
-      "link": "https://www.ithome.com/0/990/442.htm",
-      "pubDate": "Mon, 17 Aug 2026 00:52:11 GMT",
-      "contentSnippet": "IT之家 8 月 17 日消息，法拉第未来（FF）创始人、合伙人、首席产品及用户生态官贾跃亭今日宣布，FF 机器人进入放量收入快速增长新阶段，探索机器人独立融资及上市。\n\n贾跃亭表示，下半年，公司将继续推进“五大变革”，全面打响“四核全智”Q3 机器人实用化战役，举措如下：\n\n1，业务方面，推动“四核全智”生态各项业务进一步落地并扩大营收：\n\n第一核，EAI 本体，加速销售、出货及交付爬坡，重点拓展加州、德州、纽约及美国东海岸市场，尽快完成年底前销售出货 2,000 台的目标。\n\n第二核，EAI 大脑，进一步深化英伟达技术栈与 FF 自研 EAI 大脑、机器人平台及数据基础设施的融合，推进 G",
+      "title": "龙芯回应处理器漏洞：影响部分型号的龙芯 3 号系列 CPU，已推送安全修复补丁",
+      "link": "https://www.ithome.com/0/990/914.htm",
+      "pubDate": "Tue, 18 Aug 2026 01:23:44 GMT",
+      "contentSnippet": "IT之家 8 月 18 日消息，龙芯中科 8 月 17 日发布关于 USENIX Security 2026 会议论文中龙芯相关安全漏洞的说明。\n经技术核查确认，龙芯中科部分型号的龙芯 3 号系列 CPU 在特定运行条件下存在中低风险侧信道数据泄露隐患。当应用程序调用向量指令集（LSX / LASX）或浮点指令集的加载指令时，处理器微结构资源存在隔离不充分的问题，特定场景下可能被利用，造成同一物理核心上运行的不同应用程序出现少量运行残留数据泄露。该漏洞属于特定处理器微结构实现层面的问题，并非指令集架构设计缺陷。\n\n在该漏洞公开披露前，龙芯中科已提前完成漏洞根因定位、软硬件全维度修复及合规报备工",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -239,16 +50,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "贾跃亭宣布FF机器人探索独立融资上市，目标年底销售2000台。",
-      "credibilityScore": 70,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源IT之家较知名，内容具体但缺乏独立验证和细节，技术可行性待考。"
+      "aiSummary": "龙芯回应处理器漏洞，影响部分3号系列CPU，已推送安全修复补丁。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家知名，内容具体详实，有官方说明和修复细节，逻辑清晰。"
     },
     {
-      "title": "亚马逊修改使用条款，再度禁止用户发起集体诉讼",
-      "link": "https://www.ithome.com/0/990/441.htm",
-      "pubDate": "Mon, 17 Aug 2026 00:51:55 GMT",
-      "contentSnippet": "IT之家 8 月 17 日消息，根据 Amazon（亚马逊）当地时间本月 14 日更新的使用条款，这家全球电商与科技巨头带回了曾在 2021 年被移除的一系列争议处理条款，再度禁止用户发起集体诉讼。\n此次更新的争议条款还表示，用户与亚马逊的争议或索赔应通过具有约束力的仲裁而非法律诉讼解决（例外包括符合小额索赔法庭管辖范围、涉及知识产权、涉及全体公众利益），双方放弃在法院提起诉讼并由法官或陪审团审判的权利。\n\n图源：Pexels\n亚马逊在一份声明中表示，“恢复仲裁条款将为客户提供一种快速、经济高效的纠纷解决方式”。从法律上来讲，原告律师仍然可以对亚马逊提起集体诉讼，最终由法官来裁定该条款是否合法",
+      "title": "出过两次事故仍拍出 3465.5 万美元天价，迈凯伦 F1 GTR 创英国车辆拍卖纪录",
+      "link": "https://www.ithome.com/0/990/913.htm",
+      "pubDate": "Tue, 18 Aug 2026 01:19:26 GMT",
+      "contentSnippet": "IT之家 8 月 18 日消息，Pink Floyd 乐队鼓手 Nick Mason 曾经拥有的一辆迈凯伦 F1 GTR 虽然经历过两次事故，但这并没有阻止它在上周末拍出创纪录的价格。最终落槌价为 3,465.5 万美元（IT之家注：现汇率约合 2.34 亿元人民币），其中包含相关费用。\n\n这不仅是迄今拍卖成交价最高的迈凯伦 F1，也是拍卖史上成交价最高的英国汽车。\n普通版 F1 已经非常稀有，而 Mason 这辆 F1 GTR 则更加罕见。这辆底盘编号为 10R 的车型，是 1996 年生产的 9 辆 F1 GTR 之一，最初由迈凯伦用于宣传推广。\n1996 年 4 月，在备战勒芒 24 小",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -256,10 +67,198 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "亚马逊更新条款，恢复仲裁要求，再次禁止用户集体诉讼。",
+      "aiSummary": "迈凯伦F1 GTR拍出3465.5万美元，创英国车拍卖纪录。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道具体含价格、底盘编号等细节，逻辑清晰，可信度较高。"
+    },
+    {
+      "title": "Groq 再出发：转型 Neocloud，以 35 亿美元估值完成 3.5 亿美元 A 轮融资",
+      "link": "https://www.ithome.com/0/990/912.htm",
+      "pubDate": "Tue, 18 Aug 2026 01:19:02 GMT",
+      "contentSnippet": "IT之家 8 月 18 日消息，初创企业 Groq 去年 12 月与 NVIDIA（英伟达）签署了一份价值 200 亿美元的非独家技术许可协议，向芯片巨头提供 LPU 推理加速 ASIC 授权。Groq 此后从 AI 芯片开发者转型为新兴 AI 云服务供应商，也就是俗称的 \"Neocloud\"。\n\n而在美国当地时间 8 月 17 日，Groq 宣布以 35 亿美元（IT之家注：现汇率约合 236.36 亿元人民币）估值完成 3.5 亿美元 A 轮融资。本轮融资由 Disruptive 领投，NVIDIA 计划参与。加上今年 6 月的 6.5 亿美元后，Groq 近期累计融资 10 亿美元。\nG",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "Groq转型Neocloud，获3.5亿美元A轮融资，估值35亿美元。",
       "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体，引用官方声明和条款细节，逻辑清晰。"
+      "credibilityReason": "IT之家为知名科技媒体，报道包含具体融资额、估值及合作细节，信息具体，来源可靠。"
+    },
+    {
+      "title": "代码显示谷歌正为 Pixel 系列手机开发“Connectivity Health”网络诊断功能，可帮助用户快速排错",
+      "link": "https://www.ithome.com/0/990/911.htm",
+      "pubDate": "Tue, 18 Aug 2026 01:17:38 GMT",
+      "contentSnippet": "IT之家 8 月 18 日消息，外媒 Android Authority 在检查安卓系统代码时，发现谷歌正计划为 Pixel 手机引入一项名为“Connectivity Health”的网络诊断功能，如果用户发现连不上网络，则可以使用相应功能尝试排错。\n外媒设法在系统上启用了这一功能，在激活后，Connectivity Health 将位于 Pixel 手机的“网络和互联网”设置中，并处于菜单较靠下的位置。点击后，系统便会进行诊断，判断手机当前是否正常联网。\n\n如果发现问题，系统便会进一步提供诊断和排查建议，要求用户调整 DNS、开关一次飞行模式等，以便帮助用户尝试解决故障。即使是不太熟悉技术",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家",
+        "Solidot"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "谷歌为Pixel开发Connectivity Health网络诊断功能，帮助用户排错。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家和Solidot，引用Android Authority，内容具体，逻辑清晰，技术细节详实。（多源覆盖 +5）"
+    },
+    {
+      "title": "海澜之家300亿市值的十年之困",
+      "link": "https://www.tmtpost.com/8105324.html",
+      "pubDate": "Tue, 18 Aug 2026 09:10:24 +0800",
+      "contentSnippet": "赶港上市就能焕发新生？",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体分析海澜之家十年市值困境，质疑赴港上市能否破局。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "知名科技财经媒体，分析具体有数据，但缺乏原始引用，评分中等偏上。"
+    },
+    {
+      "title": "MiniMax H3 追到身后，留给 Seedance 的安全身位不多了",
+      "link": "https://www.tmtpost.com/8106194.html",
+      "pubDate": "Tue, 18 Aug 2026 09:09:53 +0800",
+      "contentSnippet": "昨日的惊艳，终会成为今日的寻常。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "MiniMax H3追赶Seedance，竞争加剧，优势缩小。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "钛媒体为知名科技媒体，内容具体，分析合理，但缺乏数据细节。"
+    },
+    {
+      "title": "OpenAI 前高管：相信 AI 能治愈所有疾病，但光靠大模型远远不够",
+      "link": "https://www.ithome.com/0/990/910.htm",
+      "pubDate": "Tue, 18 Aug 2026 01:09:19 GMT",
+      "contentSnippet": "IT之家 8 月 18 日消息，曾任 OpenAI 高管、同时也是生物医药初创公司 ChronicleBio 联合创始人的 Fidji Simo 表示，她相信人工智能最终能够治愈所有疾病，但仅仅让 AI 模型变得更加智能，并不足以实现这一目标。\nSimo 当地时间周一在 X 上回应了 Anthropic CEO Dario Amodei 此前的言论。Amodei 周末表示，AI 企业需要真正取得具体的突破，才能赢得对这项技术持怀疑态度的公众的认可。\nSimo 写道：“我在很多事情上都不同意 Dario 的观点，但这句话完全正确：‘现阶段，说 AI 将治愈癌症，与其说令人振奋，不如说已经变成了一",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "OpenAI前高管称AI可治愈所有疾病，但需具体突破而非仅靠模型。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源IT之家较知名，内容具体引用人物言论，但缺乏技术细节和原始数据，评分中等偏上。"
+    },
+    {
+      "title": "微软 Win11 效率神器 PowerToys 更新 0.101.2282 预览版：优化资源占用",
+      "link": "https://www.ithome.com/0/990/909.htm",
+      "pubDate": "Tue, 18 Aug 2026 01:06:31 GMT",
+      "contentSnippet": "IT之家 8 月 18 日消息，科技媒体 NeoWin 昨日（8 月 17 日）发布博文，报道称微软 PowerToys 更新至 v0.101.2282.0 预览版，重点修复 Command Palette（命令面板）Dock 错误，并降低 Dock 刷新时的资源占用。\nIT之家援引博文介绍，用户将 Command Palette Dock 停靠、取消停靠，或通过 Win+P 切换显示模式后，Dock 可能显示为空白，或载入错误配置。微软在本次更新中重点修复该问题。\n\n\n\n\n微软在本次更新中，还通过复用项目视图模型、合并多次刷新请求，以及清理已替换或废弃的项目，降低 Dock 刷新过程的资源占",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微软PowerToys预览版更新，修复命令面板Dock错误并优化资源占用。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，引用NeoWin博文，内容具体，技术细节明确，但非一手信息。"
+    },
+    {
+      "title": "遭遇重大经营危机，童年记忆“旺”不动了？",
+      "link": "https://www.tmtpost.com/8106203.html",
+      "pubDate": "Tue, 18 Aug 2026 09:06:22 +0800",
+      "contentSnippet": "旺旺遭遇“中年危机”。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "旺旺集团遭遇经营危机，面临中年困境。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体，内容具体，但缺乏数据支撑，评分中等偏上。"
+    },
+    {
+      "title": "全球在建加在运总装机容量最大核电基地：田湾核电 7 号机组装料完成，进入带核调试阶段",
+      "link": "https://www.ithome.com/0/990/908.htm",
+      "pubDate": "Tue, 18 Aug 2026 01:06:11 GMT",
+      "contentSnippet": "IT之家 8 月 18 日消息，据央视新闻今日报道，随着堆芯装载正确性核查完成、保护管组件回装工作开始，位于江苏连云港的田湾核电 7 号机组首次核燃料装载工作圆满结束，进入带核调试阶段，为机组后续反应堆临界、并网发电、商运等奠定了坚实的基础。\n\n装料是核电机组建设全周期的关键里程碑，是机组带核运行的一个关键起点。\n田湾核电 7 号机组是我国第一座投入建设的 VVER-1200 三代核电机组，此次装料也是我国 VVER-1200 型核电机组首堆首次装料。\n装料从 8 月 12 日启动，至 18 日全部结束，共完成 163 组核燃料组件的装载工作，分为燃料组件转运、燃料装载入堆以及装载正确性核查三",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "田湾核电7号机组完成装料，进入带核调试阶段，系我国VVER-1200首堆。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家转引央视，信息具体含时间、组件数，技术准确，逻辑清晰。"
+    },
+    {
+      "title": "谷歌 1000 万美元入手破产廉航精神航空数据，用于产品与 AI 改进",
+      "link": "https://www.ithome.com/0/990/906.htm",
+      "pubDate": "Tue, 18 Aug 2026 01:03:27 GMT",
+      "contentSnippet": "IT之家 8 月 18 日消息，彭博法律的报道指出，根据 8 月 14 日美国纽约南区破产法院发布的通知，Google（谷歌）以 1,000 万美元（IT之家注：现汇率约合 6,753.1 万元人民币）的价格收购了破产廉价航空公司 Spirit Airlines（精神航空）的一批企业数据。\n这些数据包含 75 亿条可追溯至 2008 年的乘客交易记录、72 亿条竞争航班定价信息、5 亿条 Microsoft Teams 聊天和协作记录、1 亿封电子邮件、3000 万行代码、最早可追溯至 1986 年的超过 17.5 万条员工记录，此外还有一系列其它业务数据。\n\n图源：Pexels\n上述数据集不",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "谷歌千万美元收购破产廉航精神航空数据，用于产品与AI改进。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，引用彭博法律和法院文件，数据具体，逻辑清晰，可信度高。"
+    },
+    {
+      "title": "我国三结太阳电池研究取得新进展：实现 32.22% 光电转换效率，成果登《自然》",
+      "link": "https://www.ithome.com/0/990/905.htm",
+      "pubDate": "Tue, 18 Aug 2026 00:59:18 GMT",
+      "contentSnippet": "IT之家 8 月 18 日消息，据东南大学微信公众号消息，近日，东南大学化学化工学院姚惠峰教授团队与天合光能、复旦大学等单位合作，在钙钛矿 / 钙钛矿 / 晶体硅三结太阳电池研究方面取得重要进展。相关成果以“三结太阳电池的缺陷钝化与光学管理（Defect passivation and optical management of triple-junction solar cells）”为题于 2026 年 8 月 17 日发表在国际顶级学术期刊《Nature》。\n\n钙钛矿 / 钙钛矿 / 晶体硅三结太阳电池通过不同带隙吸光材料对太阳光谱进行分级利用，具有突破单结太阳电池效率极限的潜力。其中，",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "东南大学等团队实现32.22%三结太阳电池效率，成果登《自然》。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家可靠，引用东南大学及《自然》论文，数据具体，技术细节清晰。"
+    },
+    {
+      "title": "阿维塔向华为员工已累计交付超 5000 台新车",
+      "link": "https://www.ithome.com/0/990/904.htm",
+      "pubDate": "Tue, 18 Aug 2026 00:57:17 GMT",
+      "contentSnippet": "IT之家 8 月 18 日消息，“华为员工首批阿维塔 07L 交付暨 5,000 台交付仪式”于 8 月 16 日在广东东莞华为松山湖园区举行。阿维塔科技副总裁王金海、华为智能汽车解决方案 BU Marketing 与销售服务部副总裁张守卫等出席仪式，共同为华为员工交付新车。\n截至目前，阿维塔向华为员工已累计交付超 5,000 台新车。\n\n交付仪式现场，阿维塔科技副总裁王金海表示：“华为的伙伴们可以说是最懂科技、最懂产品的一群人，5,000 名华为员工成为阿维塔车主，是对阿维塔产品力最权威的投票。阿维塔从成立第一天起，就是长安、华为、宁德时代三方共创的产物。这种合作不是简单的供需关系，而是真正",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "阿维塔向华为员工累计交付超5000台新车，仪式在东莞举行。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道具体事件细节，但缺乏独立数据验证，评分适中。"
     }
   ]
 }

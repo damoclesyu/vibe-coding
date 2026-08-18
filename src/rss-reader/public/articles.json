@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-17T01:27:52.079Z",
+  "generatedAt": "2026-08-18T01:24:13.401Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "特朗普给美韩军演“泼冷水”：又贵又挑衅！",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-17/10678828.shtml",
-      "pubDate": "Mon, 17 Aug 2026 08:57:03 +0800",
-      "contentSnippet": "特朗普给美韩军演“泼冷水”：又贵又挑衅！与金正恩“关系好”，顺手吐槽韩国拒帮美国怼伊朗 | 国际早察",
+      "title": "全球核心航道运费集体冲高 多地工厂或将被迫停工",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-18/10679389.shtml",
+      "pubDate": "Tue, 18 Aug 2026 09:16:11 +0800",
+      "contentSnippet": "过去一个月，受地缘冲突与气候变化的双重影响，全球多处海上或河上咽喉要道的货运成本急剧攀升，全球供应链的脆弱性也愈发凸显。全球能源大宗商品价格评估机构Argus近日发布的数据显示，地缘冲突持续发酵，叠加欧洲与拉美长期干旱导致的水位走低，共同推动巴拿马运河、莱茵河、红海及黑海等关键航线的运费创下历史新高。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -16,118 +16,50 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "特朗普批评美韩军演昂贵且具挑衅性，称与金正恩关系好，并抱怨韩国未支持美国对伊朗政策。",
-      "credibilityScore": 75,
+      "aiSummary": "全球核心航道运费因冲突与干旱创新高，供应链脆弱性凸显，或致工厂停工。",
+      "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名媒体，内容具体，但依赖单一来源，未提供直接引述或交叉验证。"
+      "credibilityReason": "来源为权威媒体，引用Argus数据，信息具体，但缺乏直接引述和多源交叉验证。"
     },
     {
-      "title": "标准化、职业化、产业化 让家政服务方便找放心用",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-17/10678824.shtml",
-      "pubDate": "Mon, 17 Aug 2026 08:26:03 +0800",
-      "contentSnippet": "编者按：\r\n\n　　家政服务业是重要的民生行业，在改善民生、稳定和扩大就业、促进城乡融合发展、带动扩大消费等方面发挥重要作用。近期，商务部会同多部门印发《关于促进家政服务业高质量发展的若干政策措施》，围绕加大对家政企业支持力度等5个方面提出19项具体举措。增加优质家政服务供给有哪些实招？如何更好发挥家政服务信用信息平台作用？记者进行了深入采访。\r\n\n　　“小、散、乱”如何破解",
-      "sourceName": "中国新闻网",
+      "title": "纪念江泽民同志诞辰100周年大会在京隆重举行 习近平发表重要讲话",
+      "link": "https://news.cctv.com/2026/08/17/ARTIQ8E7MWSAZNB2KJGvOWMl260817.shtml",
+      "pubDate": "Mon, 17 Aug 2026 13:48:17 GMT",
+      "contentSnippet": "纪念江泽民同志诞辰100周年大会在京隆重举行 习近平发表重要讲话",
+      "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
-        "中国新闻网"
+        "澎湃新闻"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "商务部等多部门出台19项举措促进家政服务业高质量发展，破解行业小散乱问题。",
-      "credibilityScore": 85,
+      "aiSummary": "纪念江泽民同志诞辰100周年大会在京举行，习近平发表讲话。",
+      "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威媒体；内容具体，引用政策文件，事实可查证。"
+      "credibilityReason": "来源为权威媒体，内容为官方重大活动报道，事实具体可查证。"
     },
     {
-      "title": "特朗普：“不满”美国早前同意参加与韩国的联合军演",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-17/10678801.shtml",
-      "pubDate": "Mon, 17 Aug 2026 06:28:06 +0800",
-      "contentSnippet": "中新网8月17日电 美国总统特朗普16日在社交媒体发文称，鉴于他与朝鲜领导人金正恩的良好关系，他对于美国很早之前同意参加与韩国的联合军演“感到不满”。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "特朗普称因与金正恩关系良好，对早前同意美韩军演表示不满。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，属权威媒体，内容具体，引用特朗普社交媒体发言，但未多源验证。"
-    },
-    {
-      "title": "神二十三乘组在轨80余天 多项空间科学实（试）验有序推进",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-17/10678846.shtml",
-      "pubDate": "Mon, 17 Aug 2026 09:15:17 +0800",
-      "contentSnippet": "央视网消息：目前，中国空间站神舟二十三号乘组三名航天员朱杨柱、张志远、黎家盈已在轨驻留80余天。上周，空间科学实(试)验、在轨训练及演练等工作有序推进。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "神舟二十三号乘组在轨80余天，多项空间科学实验有序推进。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网转载央视网，权威官方媒体，信息具体，涉及航天任务细节，可信度高。"
-    },
-    {
-      "title": "我国中东部高温闷热天气发展 四川盆地强降雨频繁局地有大暴雨",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-17/10678845.shtml",
-      "pubDate": "Mon, 17 Aug 2026 09:14:10 +0800",
-      "contentSnippet": "中国天气网讯 今明天(8月17日至18日)，我国东北、西南等地降雨频繁，其中四川盆地等地雨势较强，局地有暴雨或大暴雨，需注意防范次生灾害的发生。受到降雨影响，四川东部高温将缓解，但我国中东部地区本周高温闷热天气发展增多。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中东部高温闷热发展，四川盆地强降雨频繁局地大暴雨。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威媒体，内容具体含时间地点，客观报道天气。"
-    },
-    {
-      "title": "山西发布地质灾害黄色预警",
-      "link": "https://www.chinanews.com.cn/kong/2026/08-17/10678840.shtml",
-      "pubDate": "Mon, 17 Aug 2026 09:09:30 +0800",
-      "contentSnippet": "8月17日上午，山西省自然资源厅、山西省气象局联合发布地质灾害气象风险预警，预计8月17日8时至8月18日8时，山西省临汾市、吕梁市等2个市4个县(市、区)地质灾害发生风险较高(黄色预警)；阳泉市、运城市、临汾市、吕梁市等4个市27个县(市、区)地质灾害发生有一定风险(蓝色预警)。上述地区政府、部门和群众应根据预警等级采取相应的防范措施。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "山西发布地质灾害黄色预警，涉及临汾、吕梁等地区，提醒防范。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，权威媒体，信息具体，有明确时间和区域，内容客观。"
-    },
-    {
-      "title": "纪念江泽民同志诞辰100周年大会",
-      "link": "https://www.chinanews.com.cn/iframe/2026/08-17/10678834.shtml",
-      "pubDate": "Mon, 17 Aug 2026 09:05:22 +0800",
+      "title": "习近平就印度尼西亚发生强烈地震向印尼总统普拉博沃致慰问电",
+      "link": "http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%B1%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A%E5%8F%91%E7%94%9F%E5%BC%BA%E7%83%88%E5%9C%B0%E9%9C%87%E5%90%91%E5%8D%B0%E5%B0%BC%E6%80%BB%E7%BB%9F%E6%99%AE%E6%8B%89%E5%8D%9A%E6%B2%83%E8%87%B4%E6%85%B0%E9%97%AE%E7%94%B5",
+      "pubDate": "Mon, 17 Aug 2026 19:15:00 +0800",
       "contentSnippet": "",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
+      "sourceName": "央视新闻",
+      "sourceWeight": 80,
       "allSources": [
-        "中国新闻网"
+        "央视新闻"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国举行纪念江泽民同志诞辰100周年大会。",
-      "credibilityScore": 90,
+      "aiSummary": "习近平就印尼强烈地震向印尼总统普拉博沃致慰问电。",
+      "credibilityScore": 95,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为官方媒体中国新闻网，内容涉及国家重要纪念活动，信息具体且权威。"
+      "credibilityReason": "来源为央视新闻，权威性高；内容具体明确，符合官方外交惯例，可交叉验证。"
     },
     {
-      "title": "四川云南辽宁黑龙江等地有强降雨",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-17/10678827.shtml",
-      "pubDate": "Mon, 17 Aug 2026 08:36:58 +0800",
-      "contentSnippet": "中新网8月17日电 据中央气象台网站消息，昨日，四川、广东、广西、辽宁等地出现大到暴雨，局地大暴雨。预计未来三天，四川、广东、云南、辽宁、吉林、黑龙江、陕西等地有较强降雨，部分地区伴有短时强降雨、雷暴大风等强对流天气，注意防范暴雨、风雹次生灾害，关注对交通、旅游、户外活动等的影响。",
+      "title": "期待拓展约中合作 深化战略伙伴关系——访约旦国王阿卜杜拉二世",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-18/10679384.shtml",
+      "pubDate": "Tue, 18 Aug 2026 09:22:03 +0800",
+      "contentSnippet": "新华社安曼8月17日电#8195;高端访谈｜期待拓展约中合作#8195;深化战略伙伴关系——访约旦国王阿卜杜拉二世",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -135,67 +67,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中央气象台预报，四川、云南、辽宁、黑龙江等地未来三天有强降雨，需防范次生灾害。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为权威媒体，引用中央气象台官方信息，内容具体，客观中立。"
-    },
-    {
-      "title": "韩国庆尚南道泥石流致一人死亡",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-17/10678826.shtml",
-      "pubDate": "Mon, 17 Aug 2026 08:32:46 +0800",
-      "contentSnippet": "中新网8月17日电 据韩联社报道，当地时间17日凌晨4时42分许，韩国庆尚南道巨济市一处公寓附近发生泥石流，该公寓一层被埋，一人死亡。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "韩国庆尚南道泥石流致一人死亡，公寓被埋。",
+      "aiSummary": "约旦国王阿卜杜拉二世接受采访，表示期待拓展约中合作，深化战略伙伴关系。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网转引韩联社，权威性较高，信息具体有时间地点，但细节有限。"
+      "credibilityReason": "来源为新华社官方通稿，内容具体，直接引述国家元首，权威性高。"
     },
     {
-      "title": "叶酸守护胎儿大脑和脊髓发育机制揭示",
-      "link": "https://m.thepaper.cn/detail/33797267",
-      "pubDate": "Mon, 17 Aug 2026 00:31:14 GMT",
-      "contentSnippet": "叶酸如何为胎儿的大脑和脊髓发育保驾护航？以色列希伯来大学医学院、葡萄牙NOVA医学院等机构的科学家最近在《美国国家科学院院刊》发表的一项新研究发现，叶酸能帮助启动一种叫ALDH1L1的基因，制造出ALDH1L1酶。这种酶能将一种与维生素A相关的分子——视黄醛，转化为视黄酸。这些视黄酸好比一套精密的“生长指令”，告诉发育中的细胞：何时生长、变成什么类型、去往何处、何时停止分裂。\n在脊椎动物胚胎发育早期，大脑和脊髓尚未成形时，外胚层会特化出一片区域，这就是神经板。但它必须经过弯曲、折叠并精准闭合，才能形成日后的神经管，这一步一旦出错，便可能导致神经管缺陷。\n科学家采用青蛙胚胎模型开展对照实验，精准",
-      "sourceName": "澎湃新闻",
+      "title": "田湾核电7号机组装料完成 进入带核调试阶段",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-18/10679394.shtml",
+      "pubDate": "Tue, 18 Aug 2026 09:19:55 +0800",
+      "contentSnippet": "8月18日，随着堆芯装载正确性核查完成、保护管组件回装工作开始，位于江苏连云港的田湾核电7号机组首次核燃料装载工作圆满结束，进入带核调试阶段，为机组后续反应堆临界、并网发电、商运等奠定了坚实的基础。",
+      "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
-        "澎湃新闻"
+        "中国新闻网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "研究发现叶酸通过激活ALDH1L1基因促进视黄酸生成，调控神经管闭合，预防胎儿神经管缺陷。",
-      "credibilityScore": 75,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名媒体，内容具体且有学术期刊背书，但缺乏直接引述和多方验证。"
-    },
-    {
-      "title": "核反应堆首现“幽灵余辉”",
-      "link": "https://m.thepaper.cn/detail/33797271",
-      "pubDate": "Mon, 17 Aug 2026 00:26:27 GMT",
-      "contentSnippet": "即便核反应堆已经关闭，堆芯深处依旧存在放射性活动。长寿命的放射性裂变产物会持续衰变数月甚至数年，释放出微弱的粒子流——反中微子。中微子是宇宙中已知质量最轻、最难捕捉的粒子，它们可几乎不受阻碍地穿过反应堆及其外围防护层。\n\n科学家首次探测到核反应堆停机后留存的微弱反中微子辐射。 图片来源：Shutterstock\n\n\n德国马克斯·普朗克核物理研究所主持的双舒兹实验合作组科学家首次完成了对这种残余反中微子辐射的测量。研究表明，即便在反应堆停机状态下，反中微子探测器依然可以获取相关信息。这有望为反应堆监测、核安全与核保障开辟全新途径。相关成果近日发表于《物理评论快报》。\n此次测量在法国北部的舒兹核电",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "科学家首次探测到核反应堆停机后的残余反中微子辐射，为核安全监测提供新途径。",
+      "aiSummary": "田湾核电7号机组完成装料，进入带核调试阶段。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名媒体，内容具体，引用权威研究机构和期刊，信息可查证。"
+      "credibilityReason": "来源为中国新闻网，权威性较高；信息具体，含时间地点和关键节点，用词客观。"
     },
     {
-      "title": "四川这座高原小城，把一朵朵松茸做成“黄金产业”",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-17/10678823.shtml",
-      "pubDate": "Mon, 17 Aug 2026 08:24:29 +0800",
-      "contentSnippet": "松茸刺身、香煎松茸、松茸炖汤、松茸鸡豆花……提起松茸，鲜香直灌脑门，从生到熟，从简到繁，每一种吃法，都是对山野的一次重新理解，也是对自己味蕾的一次重新认识。",
+      "title": "全国以分散性大到暴雨为主 未来三天海南岛降雨较强",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-18/10679385.shtml",
+      "pubDate": "Tue, 18 Aug 2026 09:15:27 +0800",
+      "contentSnippet": "中新网8月18日电 据中央气象台网站消息，昨日(17日)，我国多地出现强降雨，气象监测显示，黑龙江东南部、吉林东部、辽宁东部、河北南部、山西南部、陕西中部、四川盆地西部和南部、云南东部、贵州中部、浙江中部、福建南部、江西南部、广东、广西东部、海南岛东北部等地部分地区出现暴雨，吉林、四川、云南、江西等局地出现大暴雨。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -203,33 +101,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "四川高原小城发展松茸产业，将其打造为经济支柱。",
-      "credibilityScore": 75,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源中国新闻网较权威，内容具体，但缺乏数据与引述，评分中等偏上。"
+      "aiSummary": "未来三天海南岛降雨较强，全国多地分散性大到暴雨持续。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，引用中央气象台官方数据，信息具体且权威。"
     },
     {
-      "title": "狗能够分辨人类的恐惧与悲伤",
-      "link": "https://m.thepaper.cn/detail/33797270",
-      "pubDate": "Mon, 17 Aug 2026 00:24:11 GMT",
-      "contentSnippet": "科学家以及爱狗人士早已知晓，狗在解读人类的微笑、皱眉和哭泣方面表现出色。然而，这种能力背后的生物学机制此前在很大程度上一直未被深入研究。\n\n图片来源：pixabay\n\n\n在近日发表于《交叉科学》的一项研究中，科学家对狗在观察各种人类表情图像时的脑部活动进行了研究。脑部扫描结果显示，狗会在一个独特的脑区处理笑容，并且首次提供了证据，表明狗能够区分包括愤怒、悲伤和恐惧在内的面部表情。\n“人类非常擅长捕捉面部的小细节，狗也是如此。”论文第一作者、奥地利维也纳大学的Raúl Hernández-Pérez表示，“这使得狗显得格外有趣。通过研究它们的脑部结构，我们可以了解狗为了支撑对人类的社交和情感的理",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "研究揭示狗能区分人类恐惧与悲伤表情，脑部扫描提供证据。",
-      "credibilityScore": 75,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名媒体，内容具体，有研究出处和作者引述，但缺乏多源交叉验证。"
-    },
-    {
-      "title": "警惕过度依赖 AI成未成年人“聊天搭子”，如何引导",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-17/10678821.shtml",
-      "pubDate": "Mon, 17 Aug 2026 08:22:31 +0800",
-      "contentSnippet": "警惕过度依赖AI陪伴",
+      "title": "北京刚需二手房成交提速 优质房源议价空间收窄",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-18/10679388.shtml",
+      "pubDate": "Tue, 18 Aug 2026 09:13:43 +0800",
+      "contentSnippet": "北京楼市新政落地首周，二手房市场正发生微妙转变，客户关注点已从电话咨询政策细则，逐步转向实地带看与实际成交。近期，北京商报记者走访多个区域二手房中介机构了解到，新政进一步推高市场热度，一些中介门店二手房周末带看量环比增超四成，低总价小户型率先放量；部分经纪人一小时可接到10余通购房咨询来电，单晚收到3组次日带看预约。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -237,27 +118,148 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国新闻网发文提醒警惕未成年人过度依赖AI陪伴，探讨引导方法。",
-      "credibilityScore": 75,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名媒体，内容具体但缺乏直接引述和数据，评分中等偏上。"
+      "aiSummary": "北京楼市新政首周，二手房成交提速，优质房源议价空间收窄。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网较权威，报道具体，含实地走访和带看数据，可查证。"
     },
     {
-      "title": "牛市早报｜前7个月社会融资规模增量超22万亿元",
-      "link": "https://m.thepaper.cn/detail/33795238",
-      "pubDate": "Mon, 17 Aug 2026 00:21:28 GMT",
-      "contentSnippet": "【市场数据】\n截至14日收盘，上证综指涨0.01%，报3927.18点；深证成指涨0.45%，报14354.31点；创业板指涨1.12%，报3626.3点。\n纽约股市三大股指14日下跌。截至当天收盘，道琼斯工业平均指数比前一交易日下跌107.58点，收于53732.41点，跌幅为0.20%；标准普尔500种股票指数下跌13.23点，收于7785.76点，跌幅为0.17%；纳斯达克综合指数下跌73.86点，收于26729.16点，跌幅为0.28%。\n【财经要闻】\n1、据澎湃新闻，中国人民银行公布的2026年7月金融统计数据报告显示，初步统计，前七个月社会融资规模增量累计为22.25万亿元，比上年",
-      "sourceName": "澎湃新闻",
+      "title": "大学生“信用免押”租相机成被告 警惕“中间人”代下单陷阱",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-18/10679383.shtml",
+      "pubDate": "Tue, 18 Aug 2026 08:58:26 +0800",
+      "contentSnippet": "如果有人告诉你不花钱就能租到运动相机，这样的诱惑你心动吗？最近，一名18岁的在校大学生通过租赁平台“信用免押”租了一台相机。租赁期满后，却被商家告上法庭，要求返还相机、赔偿损失，还要支付5000多元律师费。可法庭上，这名大学生却说，他压根儿没收到过相机。这到底是怎么回事？",
+      "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
-        "澎湃新闻"
+        "中国新闻网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "前7月社融增量超22万亿，A股微涨，美股下跌。",
+      "aiSummary": "大学生信用免押租相机成被告，称未收到货，警惕中间人代下单陷阱。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网，权威媒体，报道具体，含时间、人物、细节，警示性内容客观。"
+    },
+    {
+      "title": "库什纳：加沙“非军事化”进程或在30天内启动",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-18/10679375.shtml",
+      "pubDate": "Tue, 18 Aug 2026 08:52:37 +0800",
+      "contentSnippet": "中新网8月18日电 据美国福克斯新闻17日报道，正在中东访问的美国总统特朗普的女婿库什纳表示，加沙地带的“非军事化”进程可能在30天内启动。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "库什纳称加沙非军事化或30天内启动，消息源自福克斯新闻。",
+      "credibilityScore": 70,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为中新网转载福克斯，非一线通讯社，信息具体但缺乏多方证实。"
+    },
+    {
+      "title": "西南华南东北等地降雨频繁 江南高温闷热天气盛行",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-18/10679381.shtml",
+      "pubDate": "Tue, 18 Aug 2026 08:51:21 +0800",
+      "contentSnippet": "中国天气网讯 今天(8月18日)，我国西南、华南和东北部分地区雨势较强，四川、广西、黑龙江等地部分地区有暴雨或大暴雨，需注意防范降雨可能引发的次生灾害。在降水较少、较弱的江南等地，未来几天高温闷热天气盛行，需注意防暑。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国西南华南东北降雨频繁，江南高温闷热持续。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网，权威媒体，信息具体，引用气象部门数据，客观报道。"
+    },
+    {
+      "title": "天安门下半旗悼念朱镕基同志",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-18/10679380.shtml",
+      "pubDate": "Tue, 18 Aug 2026 08:41:59 +0800",
+      "contentSnippet": "8月18日，为悼念朱镕基同志，首都天安门下半旗志哀。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网",
+        "澎湃新闻"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "天安门下半旗悼念朱镕基同志，官方媒体发布消息。",
+      "credibilityScore": 95,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为官方权威媒体，信息具体明确，符合国家治丧报道规范。（多源覆盖 +5）"
+    },
+    {
+      "title": "四川盆地云南海南等地有强降雨 华北东北等地多雷阵雨",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-18/10679378.shtml",
+      "pubDate": "Tue, 18 Aug 2026 08:37:57 +0800",
+      "contentSnippet": "中新网8月18日电 据中央气象台网站消息，昨日，吉林、四川、云南等地出现暴雨，局地大暴雨。预计未来三天，四川、云南、广西、广东、海南岛和黑龙江等地有较强降雨，部分地区伴有短时强降雨、雷暴大风等强对流天气，注意防范暴雨、风雹次生灾害，关注对交通、旅游、户外活动等的影响。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中央气象台预报四川云南海南等地强降雨，华北东北多雷阵雨。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网，引用中央气象台官方信息，内容具体，客观中性。"
+    },
+    {
+      "title": "九部门发文：进一步激发下沉市场活力 活跃县域消费",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-18/10679377.shtml",
+      "pubDate": "Tue, 18 Aug 2026 08:31:24 +0800",
+      "contentSnippet": "中新网8月18日电 据商务部网站消息，为进一步激发下沉市场活力，推进服务业扩能提质，活跃县域消费，《商务部等9部门关于进一步激发下沉市场活力 活跃县域消费的意见》8月18日对外发布。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网",
+        "澎湃新闻"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "九部门联合发文，旨在激发下沉市场活力，活跃县域消费。",
+      "credibilityScore": 95,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为权威媒体，引用官方文件，内容具体，事实可查证。（多源覆盖 +5）"
+    },
+    {
+      "title": "小城大业丨土潮神车！中国“三蹦子”如何破圈出海？",
+      "link": "http://www.chinanews.com.cn/cj/shipin/cns/2026/08-18/news1065706.shtml",
+      "pubDate": "Tue, 18 Aug 2026 08:31:06 +0800",
+      "contentSnippet": "编者按：\r\n\n　　一件件中国制造的特色商品正在漂洋过海、风靡全球。它们大多产自中国小城，热销海外的背后是因地制宜、不断创新的致富密码。这既是中国式现代化的生动缩影，也为全球经济发展贡献了可供借鉴的“中国方案”。中国新闻社推出系列视频《小城大业》，讲述“小城”何以成就“大业”的转型逆袭故事。 \r\n\n　　中国“三蹦子”早已成为许多海外消费者的心头好，魔性提示音“倒车请注意”更是让人集体上头。平平无奇的“三蹦子”，走红并非偶然，它破圈出海的背后，是中国制造凭借智慧与汗水铺就的逆袭之路。无锡市锡山区被誉为“中国电动车之乡”，这里拥有成熟完备的电动车产业链，相关产品远销140个国家和地区，正吸引着越来越",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国新闻网报道中国三蹦子凭借产业链优势出海热销，成为海外消费者新宠。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源澎湃新闻较权威，数据具体可查，但未提供直接引述或原始报告链接。"
+      "credibilityReason": "来源为官方媒体，内容具体提及无锡产业链和出口数据，但缺乏直接引述和独立验证。"
+    },
+    {
+      "title": "马上评｜这些城市商圈何以将C位留给科学家",
+      "link": "https://m.thepaper.cn/detail/33800783",
+      "pubDate": "Tue, 18 Aug 2026 00:30:50 GMT",
+      "contentSnippet": "近日，山东菏泽、淄博等多地商圈将价格不菲的商业广告撤下，挂上钱学森、邓稼先、钱三强、郭永怀等功勋科学家的巨幅公益海报。此外，内蒙古呼伦贝尔、安徽合肥等地近期也有商圈开始将商业空间的“C位”让给科学家，成为当地市民的打卡点。\n这一动向得到舆论广泛关注。有媒体就评论，那些专注科研、不谈营销的科学家“为引导青少年树立正确偶像观提供了公共载体”。那么，将价格不菲的商业广告换成科学家的公益海报，商圈的底气何来？\n近年来，全社会对科学家精神的认可、对于基础科学与科研工作者的关注度持续走高。不久前，中国数学家王虹斩获数学界最高荣誉菲尔兹奖，《广西日报》发布特稿《王的猜想》，很快刷屏网络，众多读者购买收藏，当",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "多地商圈将商业广告换成科学家海报，引发关注，反映社会对科学家精神的认可。",
+      "credibilityScore": 75,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源澎湃新闻较权威，内容具体，但缺少直接引述和多方交叉验证。"
     }
   ]
 }
