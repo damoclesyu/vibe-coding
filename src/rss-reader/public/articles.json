@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-18T01:24:13.401Z",
+  "generatedAt": "2026-08-19T01:25:54.465Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "全球核心航道运费集体冲高 多地工厂或将被迫停工",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-18/10679389.shtml",
-      "pubDate": "Tue, 18 Aug 2026 09:16:11 +0800",
-      "contentSnippet": "过去一个月，受地缘冲突与气候变化的双重影响，全球多处海上或河上咽喉要道的货运成本急剧攀升，全球供应链的脆弱性也愈发凸显。全球能源大宗商品价格评估机构Argus近日发布的数据显示，地缘冲突持续发酵，叠加欧洲与拉美长期干旱导致的水位走低，共同推动巴拿马运河、莱茵河、红海及黑海等关键航线的运费创下历史新高。",
+      "title": "王毅将访问韩国、印尼",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-19/10680022.shtml",
+      "pubDate": "Wed, 19 Aug 2026 09:10:23 +0800",
+      "contentSnippet": "外交部发言人宣布：",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -16,16 +16,68 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "全球核心航道运费因冲突与干旱创新高，供应链脆弱性凸显，或致工厂停工。",
-      "credibilityScore": 82,
+      "aiSummary": "中国外交部长王毅将访问韩国和印尼，外交部发言人已宣布此消息。",
+      "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为权威媒体，引用Argus数据，信息具体，但缺乏直接引述和多源交叉验证。"
+      "credibilityReason": "来源为中国新闻网，属权威媒体，信息具体且来自官方发言人，可交叉验证。"
     },
     {
-      "title": "纪念江泽民同志诞辰100周年大会在京隆重举行 习近平发表重要讲话",
-      "link": "https://news.cctv.com/2026/08/17/ARTIQ8E7MWSAZNB2KJGvOWMl260817.shtml",
-      "pubDate": "Mon, 17 Aug 2026 13:48:17 GMT",
-      "contentSnippet": "纪念江泽民同志诞辰100周年大会在京隆重举行 习近平发表重要讲话",
+      "title": "到了西藏，台湾教授发现“西方说的”都不对丨真相",
+      "link": "https://www.chinanews.com.cn/txy/2026/08-19/10680018.shtml",
+      "pubDate": "Wed, 19 Aug 2026 09:06:33 +0800",
+      "contentSnippet": "中新网8月19日电 8月初的清晨，台湾大学教授苑举正却穿着一件长袖衬衫，晒着拉萨的暖阳。在一档台湾对谈节目的连线中，他兴奋地讲述着亲眼看到的西藏，究竟是什么样子的……",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "台湾教授访西藏后称西方报道不实，亲见当地真实情况。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为官方媒体，内容具体有直接引述，但主题涉政治立场，需谨慎评估。"
+    },
+    {
+      "title": "韩国军方：韩美联合军演将于21日提前结束",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-19/10680015.shtml",
+      "pubDate": "Wed, 19 Aug 2026 08:58:12 +0800",
+      "contentSnippet": "总台记者获悉，韩国联合参谋本部19日表示，韩美“乙支自由之盾”联合军演日期由原先的17日至27日缩短为17日至21日。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "韩美联合军演提前至21日结束，韩军方19日宣布缩短日程。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为权威媒体，信息具体，有明确时间与官方表述，可查证。"
+    },
+    {
+      "title": "中央宣传部、国家卫生健康委联合发布“最美医生”先进事迹",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-19/10680000.shtml",
+      "pubDate": "Wed, 19 Aug 2026 08:06:25 +0800",
+      "contentSnippet": "为深入学习贯彻习近平总书记关于卫生健康工作的重要论述，在全社会营造尊医重卫的浓厚氛围，进一步凝聚建设健康中国的力量，在“中国医师节”到来之际，中央宣传部、国家卫生健康委向全社会公开发布“最美医生”先进事迹。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网",
+        "澎湃新闻"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "中央宣传部与国家卫健委联合发布“最美医生”先进事迹，营造尊医重卫氛围。",
+      "credibilityScore": 95,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为权威官方媒体，内容具体，涉及官方发布，可信度高。（多源覆盖 +5）"
+    },
+    {
+      "title": "假冒“港中大客座教授”“西部新闻网总编”，张龙50多个头衔从何而来",
+      "link": "https://m.thepaper.cn/detail/33806408",
+      "pubDate": "Tue, 18 Aug 2026 23:31:51 GMT",
+      "contentSnippet": "“青年文化学者、书法家、资深传媒人、原创音乐人、中国品牌推广第一人、中国管理科学研究院特约研究员、国家广电总局首批全媒体运营师、中国广播电视社会组织联合会书画摄影委员会（西北）国际艺术创作交流中心副主任、老子故里鹿邑太清宫文化顾问、两汉三国文化推广大使、燕伋故里文化顾问、中国民主同盟民盟西安创投总支文化传媒顾问、世界多元文化联盟常务主席、世界国际品牌大会传媒大使、一带一路国际日传媒顾问、西安汽车职业大学人文学院客座教授、西部新闻网总编辑、西部新闻文化艺术研究院执行院长、陕西省名人档案协会副秘书长、陕西省广播电影电视协会书画艺术研究院传媒顾问兼秘书长、陕西省新闻书画家协会副主席、陕西省人民政府黄",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -33,15 +85,32 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "纪念江泽民同志诞辰100周年大会在京举行，习近平发表讲话。",
-      "credibilityScore": 90,
+      "aiSummary": "澎湃新闻揭露张龙假冒多个头衔，涉虚假身份。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为权威媒体，内容为官方重大活动报道，事实具体可查证。"
+      "credibilityReason": "来源权威，具体列举头衔，调查性报道，事实可查证。"
     },
     {
-      "title": "习近平就印度尼西亚发生强烈地震向印尼总统普拉博沃致慰问电",
-      "link": "http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%B1%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A%E5%8F%91%E7%94%9F%E5%BC%BA%E7%83%88%E5%9C%B0%E9%9C%87%E5%90%91%E5%8D%B0%E5%B0%BC%E6%80%BB%E7%BB%9F%E6%99%AE%E6%8B%89%E5%8D%9A%E6%B2%83%E8%87%B4%E6%85%B0%E9%97%AE%E7%94%B5",
-      "pubDate": "Mon, 17 Aug 2026 19:15:00 +0800",
+      "title": "视频丨朱镕基同志遗体在京火化，习近平等到八宝山革命公墓送别",
+      "link": "https://m.thepaper.cn/detail/33805463",
+      "pubDate": "Tue, 18 Aug 2026 12:27:39 GMT",
+      "contentSnippet": "朱镕基同志遗体在京火化\n习近平李强赵乐际王沪宁蔡奇丁薛祥李希韩正等到八宝山革命公墓送别。胡锦涛送花圈表示哀悼\n朱镕基同志病重期间和逝世后，习近平李强赵乐际王沪宁蔡奇丁薛祥李希韩正胡锦涛等同志，前往医院看望或通过各种形式对朱镕基同志逝世表示沉痛哀悼并向其亲属表示深切慰问\n\n8月18日，朱镕基同志遗体在北京八宝山革命公墓火化。习近平、李强、赵乐际、王沪宁、蔡奇、丁薛祥、李希、韩正等前往八宝山送别，胡锦涛送花圈表示哀悼。这是习近平与朱镕基亲属握手，表示深切慰问。\n\n\n中国共产党的优秀党员，久经考验的忠诚的共产主义战士，杰出的无产阶级革命家、政治家，党和国家的卓越领导人，中国共产党第十四届、十五届中央",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "朱镕基同志遗体在京火化，习近平等到八宝山送别，胡锦涛送花圈。",
+      "credibilityScore": 95,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源澎湃新闻权威，内容具体，涉及国家领导人，官方信息，可信度高。"
+    },
+    {
+      "title": "习近平同厄瓜多尔总统诺沃亚会谈",
+      "link": "http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E5%8E%84%E7%93%9C%E5%A4%9A%E5%B0%94%E6%80%BB%E7%BB%9F%E8%AF%BA%E6%B2%83%E4%BA%9A%E4%BC%9A%E8%B0%88",
+      "pubDate": "Tue, 18 Aug 2026 20:10:00 +0800",
       "contentSnippet": "",
       "sourceName": "央视新闻",
       "sourceWeight": 80,
@@ -50,67 +119,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "习近平就印尼强烈地震向印尼总统普拉博沃致慰问电。",
-      "credibilityScore": 95,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为央视新闻，权威性高；内容具体明确，符合官方外交惯例，可交叉验证。"
-    },
-    {
-      "title": "期待拓展约中合作 深化战略伙伴关系——访约旦国王阿卜杜拉二世",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-18/10679384.shtml",
-      "pubDate": "Tue, 18 Aug 2026 09:22:03 +0800",
-      "contentSnippet": "新华社安曼8月17日电#8195;高端访谈｜期待拓展约中合作#8195;深化战略伙伴关系——访约旦国王阿卜杜拉二世",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "约旦国王阿卜杜拉二世接受采访，表示期待拓展约中合作，深化战略伙伴关系。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为新华社官方通稿，内容具体，直接引述国家元首，权威性高。"
-    },
-    {
-      "title": "田湾核电7号机组装料完成 进入带核调试阶段",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-18/10679394.shtml",
-      "pubDate": "Tue, 18 Aug 2026 09:19:55 +0800",
-      "contentSnippet": "8月18日，随着堆芯装载正确性核查完成、保护管组件回装工作开始，位于江苏连云港的田湾核电7号机组首次核燃料装载工作圆满结束，进入带核调试阶段，为机组后续反应堆临界、并网发电、商运等奠定了坚实的基础。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "田湾核电7号机组完成装料，进入带核调试阶段。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，权威性较高；信息具体，含时间地点和关键节点，用词客观。"
-    },
-    {
-      "title": "全国以分散性大到暴雨为主 未来三天海南岛降雨较强",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-18/10679385.shtml",
-      "pubDate": "Tue, 18 Aug 2026 09:15:27 +0800",
-      "contentSnippet": "中新网8月18日电 据中央气象台网站消息，昨日(17日)，我国多地出现强降雨，气象监测显示，黑龙江东南部、吉林东部、辽宁东部、河北南部、山西南部、陕西中部、四川盆地西部和南部、云南东部、贵州中部、浙江中部、福建南部、江西南部、广东、广西东部、海南岛东北部等地部分地区出现暴雨，吉林、四川、云南、江西等局地出现大暴雨。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "未来三天海南岛降雨较强，全国多地分散性大到暴雨持续。",
+      "aiSummary": "习近平与厄瓜多尔总统诺沃亚举行会谈，讨论双边关系与合作。",
       "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，引用中央气象台官方数据，信息具体且权威。"
+      "credibilityReason": "来源为央视新闻，权威性高；内容具体，涉及国家领导人外交活动，事实可查证。"
     },
     {
-      "title": "北京刚需二手房成交提速 优质房源议价空间收窄",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-18/10679388.shtml",
-      "pubDate": "Tue, 18 Aug 2026 09:13:43 +0800",
-      "contentSnippet": "北京楼市新政落地首周，二手房市场正发生微妙转变，客户关注点已从电话咨询政策细则，逐步转向实地带看与实际成交。近期，北京商报记者走访多个区域二手房中介机构了解到，新政进一步推高市场热度，一些中介门店二手房周末带看量环比增超四成，低总价小户型率先放量；部分经纪人一小时可接到10余通购房咨询来电，单晚收到3组次日带看预约。",
+      "title": "以思辨铸魂、以实战强能——2026年网络安全技术创新与人才教育大会的方班风采",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-19/10680027.shtml",
+      "pubDate": "Wed, 19 Aug 2026 09:20:08 +0800",
+      "contentSnippet": "近日，2026年网络安全技术创新与人才教育大会在长沙举行。来自全国的600余位网络安全领域专家、学者、企业领袖及政府代表齐聚一堂，围绕人工智能快速演进背景下的新兴技术风险与实战型人才供给缺口两大核心命题，深入探讨产业技术创新、学科体系升级与产教融合育人。大会同步开启线上直播，吸引7万余人次云端观看，形成线上线下同频共振的交流盛况。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -118,16 +136,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "北京楼市新政首周，二手房成交提速，优质房源议价空间收窄。",
+      "aiSummary": "2026年网络安全大会在长沙举行，600余位专家参会，探讨AI风险与人才缺口。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网较权威，报道具体，含实地走访和带看数据，可查证。"
+      "credibilityReason": "来源中国新闻网较权威，信息具体（时间、地点、人数），内容客观，但缺乏直接引述和多源验证。"
     },
     {
-      "title": "大学生“信用免押”租相机成被告 警惕“中间人”代下单陷阱",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-18/10679383.shtml",
-      "pubDate": "Tue, 18 Aug 2026 08:58:26 +0800",
-      "contentSnippet": "如果有人告诉你不花钱就能租到运动相机，这样的诱惑你心动吗？最近，一名18岁的在校大学生通过租赁平台“信用免押”租了一台相机。租赁期满后，却被商家告上法庭，要求返还相机、赔偿损失，还要支付5000多元律师费。可法庭上，这名大学生却说，他压根儿没收到过相机。这到底是怎么回事？",
+      "title": "今年上半年医保辅助生殖惠及超170万人次",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-19/10680026.shtml",
+      "pubDate": "Wed, 19 Aug 2026 09:17:19 +0800",
+      "contentSnippet": "自2025年1月1日起，全国31个省(自治区、直辖市)及新疆生产建设兵团均已将适宜的辅助生殖项目纳入医保报销范围。政策落地一年多以来，有效降低了不孕家庭的就医负担。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -135,16 +153,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "大学生信用免押租相机成被告，称未收到货，警惕中间人代下单陷阱。",
+      "aiSummary": "全国31省已将辅助生殖纳入医保，上半年惠及超170万人次。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威媒体，报道具体，含时间、人物、细节，警示性内容客观。"
+      "credibilityReason": "来源为中国新闻网，权威性较高；信息具体，含时间、范围、数据；用词客观。"
     },
     {
-      "title": "库什纳：加沙“非军事化”进程或在30天内启动",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-18/10679375.shtml",
-      "pubDate": "Tue, 18 Aug 2026 08:52:37 +0800",
-      "contentSnippet": "中新网8月18日电 据美国福克斯新闻17日报道，正在中东访问的美国总统特朗普的女婿库什纳表示，加沙地带的“非军事化”进程可能在30天内启动。",
+      "title": "这几类人别直接吃生桃，越吃越伤身",
+      "link": "https://www.chinanews.com.cn/life/2026/08-19/10680023.shtml",
+      "pubDate": "Wed, 19 Aug 2026 09:13:53 +0800",
+      "contentSnippet": "桃子生吃通便，熟吃养胃，但很多人都吃错了！这几类人别直接吃生桃，越吃越伤身",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -152,16 +170,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "库什纳称加沙非军事化或30天内启动，消息源自福克斯新闻。",
-      "credibilityScore": 70,
+      "aiSummary": "中国新闻网提醒，部分人群不宜直接食用生桃，以免伤身。",
+      "credibilityScore": 75,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为中新网转载福克斯，非一线通讯社，信息具体但缺乏多方证实。"
+      "credibilityReason": "来源为知名媒体，内容具体但缺乏直接引述和交叉验证，健康建议需谨慎。"
     },
     {
-      "title": "西南华南东北等地降雨频繁 江南高温闷热天气盛行",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-18/10679381.shtml",
-      "pubDate": "Tue, 18 Aug 2026 08:51:21 +0800",
-      "contentSnippet": "中国天气网讯 今天(8月18日)，我国西南、华南和东北部分地区雨势较强，四川、广西、黑龙江等地部分地区有暴雨或大暴雨，需注意防范降雨可能引发的次生灾害。在降水较少、较弱的江南等地，未来几天高温闷热天气盛行，需注意防暑。",
+      "title": "智能技术赋能古老灌区",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-19/10680014.shtml",
+      "pubDate": "Wed, 19 Aug 2026 09:08:21 +0800",
+      "contentSnippet": "宁夏青铜峡灌区现代化改造工程项目团队推动全域一体的信息化建设——",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -169,16 +187,67 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国西南华南东北降雨频繁，江南高温闷热持续。",
-      "credibilityScore": 85,
+      "aiSummary": "宁夏青铜峡灌区现代化改造，推动全域信息化建设。",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威媒体，信息具体，引用气象部门数据，客观报道。"
+      "credibilityReason": "来源中国新闻网较权威，内容具体，但缺乏直接引述和交叉验证。"
     },
     {
-      "title": "天安门下半旗悼念朱镕基同志",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-18/10679380.shtml",
-      "pubDate": "Tue, 18 Aug 2026 08:41:59 +0800",
-      "contentSnippet": "8月18日，为悼念朱镕基同志，首都天安门下半旗志哀。",
+      "title": "【这个城市有点潮】湖南张家界：“国际张”与歪果仁的“双向奔赴”",
+      "link": "http://www.chinanews.com.cn/tp/hd2011/2026/08-19/1201474.shtml",
+      "pubDate": "Wed, 19 Aug 2026 09:01:55 +0800",
+      "contentSnippet": "",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "张家界国际旅游热度上升，外国游客与本地互动频繁，展现双向文化交流。",
+      "credibilityScore": 75,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源中国新闻网较权威，内容具体但偏软性报道，缺乏数据引述，评分75。"
+    },
+    {
+      "title": "直播：长江十年行｜绿染长江岸 高质看江苏",
+      "link": "https://www.chinanews.com.cn/iframe/2026/08-19/10680016.shtml",
+      "pubDate": "Wed, 19 Aug 2026 09:00:26 +0800",
+      "contentSnippet": "",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国新闻网直播报道长江十年禁渔成效，聚焦江苏绿色发展。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为权威媒体，内容具体涉及政策成效，用词客观，可查证。"
+    },
+    {
+      "title": "羽毛球世锦赛：中国队五位女将携手晋级",
+      "link": "https://www.chinanews.com.cn/ty/2026/08-19/10680004.shtml",
+      "pubDate": "Wed, 19 Aug 2026 08:49:31 +0800",
+      "contentSnippet": "中新社北京8月19日电 2026年世界羽毛球锦标赛当地时间8月18日在印度新德里英迪拉·甘地室内体育馆迎来第二个比赛日。中国女单选手陈雨菲和两对国羽女双组合刘圣书/谭宁、贾一凡/张殊贤携手取胜，晋级下一轮。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国五名女将晋级羽毛球世锦赛次轮，陈雨菲及两对女双组合获胜。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，属权威媒体，报道具体含时间地点人物，事实可查证。"
+    },
+    {
+      "title": "中国首型民营重复使用运载火箭诞生！朱雀三号运载火箭成功回收",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-19/10680013.shtml",
+      "pubDate": "Wed, 19 Aug 2026 08:45:09 +0800",
+      "contentSnippet": "8月19日，中国民营航天迎来重大突破。朱雀三号运载火箭在东风商业航天创新试验区点火发射，其一子级在回收场坪顺利着陆，成为中国首型成功回收的民营运载火箭。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -187,79 +256,10 @@
       ],
       "coverageCount": 2,
       "coverageBoost": 5,
-      "aiSummary": "天安门下半旗悼念朱镕基同志，官方媒体发布消息。",
-      "credibilityScore": 95,
+      "aiSummary": "中国民营航天突破，朱雀三号火箭成功回收，成为首型民营回收运载火箭。",
+      "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为官方权威媒体，信息具体明确，符合国家治丧报道规范。（多源覆盖 +5）"
-    },
-    {
-      "title": "四川盆地云南海南等地有强降雨 华北东北等地多雷阵雨",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-18/10679378.shtml",
-      "pubDate": "Tue, 18 Aug 2026 08:37:57 +0800",
-      "contentSnippet": "中新网8月18日电 据中央气象台网站消息，昨日，吉林、四川、云南等地出现暴雨，局地大暴雨。预计未来三天，四川、云南、广西、广东、海南岛和黑龙江等地有较强降雨，部分地区伴有短时强降雨、雷暴大风等强对流天气，注意防范暴雨、风雹次生灾害，关注对交通、旅游、户外活动等的影响。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中央气象台预报四川云南海南等地强降雨，华北东北多雷阵雨。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，引用中央气象台官方信息，内容具体，客观中性。"
-    },
-    {
-      "title": "九部门发文：进一步激发下沉市场活力 活跃县域消费",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-18/10679377.shtml",
-      "pubDate": "Tue, 18 Aug 2026 08:31:24 +0800",
-      "contentSnippet": "中新网8月18日电 据商务部网站消息，为进一步激发下沉市场活力，推进服务业扩能提质，活跃县域消费，《商务部等9部门关于进一步激发下沉市场活力 活跃县域消费的意见》8月18日对外发布。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网",
-        "澎湃新闻"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "九部门联合发文，旨在激发下沉市场活力，活跃县域消费。",
-      "credibilityScore": 95,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为权威媒体，引用官方文件，内容具体，事实可查证。（多源覆盖 +5）"
-    },
-    {
-      "title": "小城大业丨土潮神车！中国“三蹦子”如何破圈出海？",
-      "link": "http://www.chinanews.com.cn/cj/shipin/cns/2026/08-18/news1065706.shtml",
-      "pubDate": "Tue, 18 Aug 2026 08:31:06 +0800",
-      "contentSnippet": "编者按：\r\n\n　　一件件中国制造的特色商品正在漂洋过海、风靡全球。它们大多产自中国小城，热销海外的背后是因地制宜、不断创新的致富密码。这既是中国式现代化的生动缩影，也为全球经济发展贡献了可供借鉴的“中国方案”。中国新闻社推出系列视频《小城大业》，讲述“小城”何以成就“大业”的转型逆袭故事。 \r\n\n　　中国“三蹦子”早已成为许多海外消费者的心头好，魔性提示音“倒车请注意”更是让人集体上头。平平无奇的“三蹦子”，走红并非偶然，它破圈出海的背后，是中国制造凭借智慧与汗水铺就的逆袭之路。无锡市锡山区被誉为“中国电动车之乡”，这里拥有成熟完备的电动车产业链，相关产品远销140个国家和地区，正吸引着越来越",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国新闻网报道中国三蹦子凭借产业链优势出海热销，成为海外消费者新宠。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为官方媒体，内容具体提及无锡产业链和出口数据，但缺乏直接引述和独立验证。"
-    },
-    {
-      "title": "马上评｜这些城市商圈何以将C位留给科学家",
-      "link": "https://m.thepaper.cn/detail/33800783",
-      "pubDate": "Tue, 18 Aug 2026 00:30:50 GMT",
-      "contentSnippet": "近日，山东菏泽、淄博等多地商圈将价格不菲的商业广告撤下，挂上钱学森、邓稼先、钱三强、郭永怀等功勋科学家的巨幅公益海报。此外，内蒙古呼伦贝尔、安徽合肥等地近期也有商圈开始将商业空间的“C位”让给科学家，成为当地市民的打卡点。\n这一动向得到舆论广泛关注。有媒体就评论，那些专注科研、不谈营销的科学家“为引导青少年树立正确偶像观提供了公共载体”。那么，将价格不菲的商业广告换成科学家的公益海报，商圈的底气何来？\n近年来，全社会对科学家精神的认可、对于基础科学与科研工作者的关注度持续走高。不久前，中国数学家王虹斩获数学界最高荣誉菲尔兹奖，《广西日报》发布特稿《王的猜想》，很快刷屏网络，众多读者购买收藏，当",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "多地商圈将商业广告换成科学家海报，引发关注，反映社会对科学家精神的认可。",
-      "credibilityScore": 75,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源澎湃新闻较权威，内容具体，但缺少直接引述和多方交叉验证。"
+      "credibilityReason": "来源为中国新闻网和澎湃新闻，权威性较高；报道具体，含时间地点和事件细节，可查证。（多源覆盖 +5）"
     }
   ]
 }
