@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-19T01:25:54.465Z",
+  "generatedAt": "2026-08-20T01:25:18.149Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "王毅将访问韩国、印尼",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-19/10680022.shtml",
-      "pubDate": "Wed, 19 Aug 2026 09:10:23 +0800",
-      "contentSnippet": "外交部发言人宣布：",
+      "title": "事关外卖骑手等劳动权益保障，工会工作“十五五”规划发布！",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-20/10680756.shtml",
+      "pubDate": "Thu, 20 Aug 2026 09:01:59 +0800",
+      "contentSnippet": "今天(20日)，全国总工会发布了《中国工运事业和工会工作“十五五”规划》，《规划》聚焦推动高质量发展，在动员激励广大职工群众建功立业、创新创造上作出了一系列重要部署。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -16,68 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国外交部长王毅将访问韩国和印尼，外交部发言人已宣布此消息。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，属权威媒体，信息具体且来自官方发言人，可交叉验证。"
-    },
-    {
-      "title": "到了西藏，台湾教授发现“西方说的”都不对丨真相",
-      "link": "https://www.chinanews.com.cn/txy/2026/08-19/10680018.shtml",
-      "pubDate": "Wed, 19 Aug 2026 09:06:33 +0800",
-      "contentSnippet": "中新网8月19日电 8月初的清晨，台湾大学教授苑举正却穿着一件长袖衬衫，晒着拉萨的暖阳。在一档台湾对谈节目的连线中，他兴奋地讲述着亲眼看到的西藏，究竟是什么样子的……",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "台湾教授访西藏后称西方报道不实，亲见当地真实情况。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为官方媒体，内容具体有直接引述，但主题涉政治立场，需谨慎评估。"
-    },
-    {
-      "title": "韩国军方：韩美联合军演将于21日提前结束",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-19/10680015.shtml",
-      "pubDate": "Wed, 19 Aug 2026 08:58:12 +0800",
-      "contentSnippet": "总台记者获悉，韩国联合参谋本部19日表示，韩美“乙支自由之盾”联合军演日期由原先的17日至27日缩短为17日至21日。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "韩美联合军演提前至21日结束，韩军方19日宣布缩短日程。",
+      "aiSummary": "全国总工会发布“十五五”规划，聚焦外卖骑手等劳动权益保障。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为权威媒体，信息具体，有明确时间与官方表述，可查证。"
+      "credibilityReason": "来源中国新闻网，权威媒体，内容具体，涉及官方规划发布，事实可查证。"
     },
     {
-      "title": "中央宣传部、国家卫生健康委联合发布“最美医生”先进事迹",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-19/10680000.shtml",
-      "pubDate": "Wed, 19 Aug 2026 08:06:25 +0800",
-      "contentSnippet": "为深入学习贯彻习近平总书记关于卫生健康工作的重要论述，在全社会营造尊医重卫的浓厚氛围，进一步凝聚建设健康中国的力量，在“中国医师节”到来之际，中央宣传部、国家卫生健康委向全社会公开发布“最美医生”先进事迹。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网",
-        "澎湃新闻"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "中央宣传部与国家卫健委联合发布“最美医生”先进事迹，营造尊医重卫氛围。",
-      "credibilityScore": 95,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为权威官方媒体，内容具体，涉及官方发布，可信度高。（多源覆盖 +5）"
-    },
-    {
-      "title": "假冒“港中大客座教授”“西部新闻网总编”，张龙50多个头衔从何而来",
-      "link": "https://m.thepaper.cn/detail/33806408",
-      "pubDate": "Tue, 18 Aug 2026 23:31:51 GMT",
-      "contentSnippet": "“青年文化学者、书法家、资深传媒人、原创音乐人、中国品牌推广第一人、中国管理科学研究院特约研究员、国家广电总局首批全媒体运营师、中国广播电视社会组织联合会书画摄影委员会（西北）国际艺术创作交流中心副主任、老子故里鹿邑太清宫文化顾问、两汉三国文化推广大使、燕伋故里文化顾问、中国民主同盟民盟西安创投总支文化传媒顾问、世界多元文化联盟常务主席、世界国际品牌大会传媒大使、一带一路国际日传媒顾问、西安汽车职业大学人文学院客座教授、西部新闻网总编辑、西部新闻文化艺术研究院执行院长、陕西省名人档案协会副秘书长、陕西省广播电影电视协会书画艺术研究院传媒顾问兼秘书长、陕西省新闻书画家协会副主席、陕西省人民政府黄",
+      "title": "习近平致电祝贺鲍卡就任匈牙利总统",
+      "link": "https://m.thepaper.cn/detail/33810638",
+      "pubDate": "Wed, 19 Aug 2026 09:56:11 GMT",
+      "contentSnippet": "8月19日，国家主席习近平致电鲍卡·安德拉什，祝贺他就任匈牙利总统。\n习近平指出，匈牙利是最早承认新中国的国家之一，中匈两国传统友谊源远流长。建交77年来，双方始终坚持相互尊重、平等相待、互利共赢，各领域合作成果显著。我高度重视中匈关系发展，愿同鲍卡总统一道努力，赓续传统友谊，深化政治互信和各领域务实合作，推动中匈新时代全天候全面战略伙伴关系行稳致远，更好造福两国人民。",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -85,16 +33,186 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "澎湃新闻揭露张龙假冒多个头衔，涉虚假身份。",
+      "aiSummary": "习近平致电祝贺鲍卡就任匈牙利总统，强调深化中匈关系。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源权威，具体列举头衔，调查性报道，事实可查证。"
+      "credibilityReason": "来源澎湃新闻较权威，内容具体，有直接引述，符合官方外交报道惯例。"
     },
     {
-      "title": "视频丨朱镕基同志遗体在京火化，习近平等到八宝山革命公墓送别",
-      "link": "https://m.thepaper.cn/detail/33805463",
-      "pubDate": "Tue, 18 Aug 2026 12:27:39 GMT",
-      "contentSnippet": "朱镕基同志遗体在京火化\n习近平李强赵乐际王沪宁蔡奇丁薛祥李希韩正等到八宝山革命公墓送别。胡锦涛送花圈表示哀悼\n朱镕基同志病重期间和逝世后，习近平李强赵乐际王沪宁蔡奇丁薛祥李希韩正胡锦涛等同志，前往医院看望或通过各种形式对朱镕基同志逝世表示沉痛哀悼并向其亲属表示深切慰问\n\n8月18日，朱镕基同志遗体在北京八宝山革命公墓火化。习近平、李强、赵乐际、王沪宁、蔡奇、丁薛祥、李希、韩正等前往八宝山送别，胡锦涛送花圈表示哀悼。这是习近平与朱镕基亲属握手，表示深切慰问。\n\n\n中国共产党的优秀党员，久经考验的忠诚的共产主义战士，杰出的无产阶级革命家、政治家，党和国家的卓越领导人，中国共产党第十四届、十五届中央",
+      "title": "金观平：全力释放科技赋能产业的潜力",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-20/10680765.shtml",
+      "pubDate": "Thu, 20 Aug 2026 09:17:16 +0800",
+      "contentSnippet": "推动科技创新和产业创新深度融合，是以高水平科技自立自强引领发展新质生产力的关键。二者的融合，既是培育新质生产力的内在要求，也是支撑新质生产力发展的重要根基。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "评论称科技产业融合是发展新质生产力的关键，需释放潜力。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为官方媒体，观点权威，但属评论性文章，无具体数据或引述，评分适中。"
+    },
+    {
+      "title": "莫让AI客服给消费者“添堵”",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-20/10680764.shtml",
+      "pubDate": "Thu, 20 Aug 2026 09:16:30 +0800",
+      "contentSnippet": "莫让AI客服给消费者“添堵”(金台锐评)",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "评论文章批评AI客服体验差，呼吁企业重视消费者权益。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为权威媒体，观点明确，但属评论而非新闻报道，事实性细节较少。"
+    },
+    {
+      "title": "以融合放大创新动能",
+      "link": "https://www.chinanews.com.cn/ll/2026/08-20/10680763.shtml",
+      "pubDate": "Thu, 20 Aug 2026 09:13:38 +0800",
+      "contentSnippet": "让科技创新和产业创新紧紧嵌合，让新质生产力与生产生活丝丝入扣，创新能量就会源源不断释放发展增量",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国新闻网评论强调科技创新与产业创新融合，释放发展增量。",
+      "credibilityScore": 75,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为官方媒体，内容为评论性文章，缺乏具体事实和数据，但立场明确，可信度中等偏上。"
+    },
+    {
+      "title": "情绪消费，“新”在哪里",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-20/10680760.shtml",
+      "pubDate": "Thu, 20 Aug 2026 09:11:56 +0800",
+      "contentSnippet": "情绪消费，“新”在哪里(读者点题·共同关注)",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "探讨情绪消费的新特点，分析其社会背景与影响。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名媒体，内容具体，但缺乏直接引述，评分适中。"
+    },
+    {
+      "title": "覆盖超八成国土面积，国家水网长什么样？",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-20/10680758.shtml",
+      "pubDate": "Thu, 20 Aug 2026 09:05:29 +0800",
+      "contentSnippet": "“‘六张网’建设刷新‘进度条’”系列报道之一",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国新闻网报道国家水网建设进展，覆盖超八成国土面积，介绍六张网建设情况。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为官方媒体，内容具体，涉及国家工程，但缺乏独立信源和细节交叉验证。"
+    },
+    {
+      "title": "凭员工口令可购买低折扣机票？警惕这种引流陷阱",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-20/10680757.shtml",
+      "pubDate": "Thu, 20 Aug 2026 09:05:11 +0800",
+      "contentSnippet": "暑期出行游玩，很多人看中民航运输的高效便捷。不过，机票价格并非一成不变，而是受市场供需、时间、航线、航空公司等多方面因素影响，不断动态调整。旅客也常会在各个渠道和平台间反复比价，希望买到性价比最高的机票。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中新网警示，凭员工口令购低折扣机票或为引流陷阱，提醒旅客警惕。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源权威，内容具体，警示性报道，事实可查证，用词客观。"
+    },
+    {
+      "title": "南海热带低压将给华南带来明显降雨 台风“沙德尔”逐渐增强",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-20/10680755.shtml",
+      "pubDate": "Thu, 20 Aug 2026 09:00:51 +0800",
+      "contentSnippet": "中国天气网讯 据中央气象台消息，南海热带低压今天(8月20日)早晨5点钟的中心位于海南省文昌市偏东方向约65公里的南海西北部海面上，就是北纬19.6度，东经111.4度，外围最大风力有7级(15米/秒)，中心最低气压为998百帕。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "南海热带低压将影响华南，台风沙德尔增强，中央气象台发布消息。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网，引述中央气象台，信息具体，时间地点数据明确，可信度高。"
+    },
+    {
+      "title": "东北华北降雨频繁 南海热带低压来袭华南局地有大暴雨",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-20/10680754.shtml",
+      "pubDate": "Thu, 20 Aug 2026 08:59:03 +0800",
+      "contentSnippet": "中国天气网讯 今起三天(8月20日至22日)，东北、华北等地降雨将频繁上线。同时，随着季风槽及热带系统趋于活跃，华南等地进入多雨格局，今起三天，受南海热带低压及西南季风影响，海南、广东、广西等地将有较大范围暴雨天气，局地或现大暴雨。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "东北华北降雨频繁，南海热带低压影响华南局地大暴雨。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网权威，内容具体含时间地点，引用气象信息，客观可查证。"
+    },
+    {
+      "title": "五年增长60倍 宠物保险是养宠人的“刚需”还是“深坑”？",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-20/10680753.shtml",
+      "pubDate": "Thu, 20 Aug 2026 08:56:46 +0800",
+      "contentSnippet": "你家有宠物吗？",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "宠物保险五年增长60倍，是养宠人刚需还是深坑，引发讨论。",
+      "credibilityScore": 75,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源较权威，内容具体，但标题带倾向性，缺乏直接引述和多源验证。"
+    },
+    {
+      "title": "舞剧《英歌》融入当代艺术表达 叙说“下南洋”故事",
+      "link": "http://www.chinanews.com.cn/tp/hd2011/2026/08-20/1201589.shtml",
+      "pubDate": "Thu, 20 Aug 2026 08:51:58 +0800",
+      "contentSnippet": "",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "舞剧《英歌》融合当代艺术，讲述“下南洋”故事，展现文化传承。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网，权威性较高；内容具体，涉及舞剧主题与艺术表达，事实可查证。"
+    },
+    {
+      "title": "南京商旅：间接控股股东拟变更，控股股东和实控人不变",
+      "link": "https://m.thepaper.cn/detail/33812033",
+      "pubDate": "Thu, 20 Aug 2026 00:40:02 GMT",
+      "contentSnippet": "8月19日，南京商贸旅游股份有限公司（南京商旅，600250.SH）发布公告称，公司实际控制人南京市人民政府国有资产监督管理委员会（下称：“南京市国资委”）拟以其持有的南京市城市建设投资控股（集团）有限责任公司（下称：“城建集团”）等企业股权，向南京市国有资产投资管理控股（集团）有限责任公司（下称：“国资集团”）进行增资。\n截至收购报告书摘要签署日，南京市国资委直接持有南京市国资集团90.81%股权，国资集团的控股股东和实际控制人为南京市国资委。\n公告显示，增资完成后，城建集团成为国资集团的全资子公司，国资集团直接持有文旅集团23%股权，并通过城建集团间接持有南京文旅集团有限责任公司（下称“文",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -102,50 +220,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "朱镕基同志遗体在京火化，习近平等到八宝山送别，胡锦涛送花圈。",
-      "credibilityScore": 95,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源澎湃新闻权威，内容具体，涉及国家领导人，官方信息，可信度高。"
-    },
-    {
-      "title": "习近平同厄瓜多尔总统诺沃亚会谈",
-      "link": "http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E5%8E%84%E7%93%9C%E5%A4%9A%E5%B0%94%E6%80%BB%E7%BB%9F%E8%AF%BA%E6%B2%83%E4%BA%9A%E4%BC%9A%E8%B0%88",
-      "pubDate": "Tue, 18 Aug 2026 20:10:00 +0800",
-      "contentSnippet": "",
-      "sourceName": "央视新闻",
-      "sourceWeight": 80,
-      "allSources": [
-        "央视新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "习近平与厄瓜多尔总统诺沃亚举行会谈，讨论双边关系与合作。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为央视新闻，权威性高；内容具体，涉及国家领导人外交活动，事实可查证。"
-    },
-    {
-      "title": "以思辨铸魂、以实战强能——2026年网络安全技术创新与人才教育大会的方班风采",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-19/10680027.shtml",
-      "pubDate": "Wed, 19 Aug 2026 09:20:08 +0800",
-      "contentSnippet": "近日，2026年网络安全技术创新与人才教育大会在长沙举行。来自全国的600余位网络安全领域专家、学者、企业领袖及政府代表齐聚一堂，围绕人工智能快速演进背景下的新兴技术风险与实战型人才供给缺口两大核心命题，深入探讨产业技术创新、学科体系升级与产教融合育人。大会同步开启线上直播，吸引7万余人次云端观看，形成线上线下同频共振的交流盛况。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "2026年网络安全大会在长沙举行，600余位专家参会，探讨AI风险与人才缺口。",
+      "aiSummary": "南京商旅间接控股股东将变更，实控人仍为南京市国资委。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网较权威，信息具体（时间、地点、人数），内容客观，但缺乏直接引述和多源验证。"
+      "credibilityReason": "来源为澎湃新闻，内容具体，引用官方公告，事实可查证，但非一线通讯社。"
     },
     {
-      "title": "今年上半年医保辅助生殖惠及超170万人次",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-19/10680026.shtml",
-      "pubDate": "Wed, 19 Aug 2026 09:17:19 +0800",
-      "contentSnippet": "自2025年1月1日起，全国31个省(自治区、直辖市)及新疆生产建设兵团均已将适宜的辅助生殖项目纳入医保报销范围。政策落地一年多以来，有效降低了不孕家庭的就医负担。",
+      "title": "从主播到藏友全是假的！揭秘直播间里的“藏品变现”剧本杀",
+      "link": "https://www.chinanews.com.cn/fz/2026/08-20/10680751.shtml",
+      "pubDate": "Thu, 20 Aug 2026 08:38:29 +0800",
+      "contentSnippet": "原标题：在主流视频平台上传摆拍视频引流，在私域平台上直播出售“圆梦大会”门票、“加急名额”收割粉丝……直播间里的“藏品变现”剧本杀",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -153,113 +237,27 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "全国31省已将辅助生殖纳入医保，上半年惠及超170万人次。",
+      "aiSummary": "揭露直播间藏品变现骗局，主播藏友皆扮演，通过摆拍引流收割粉丝。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，权威性较高；信息具体，含时间、范围、数据；用词客观。"
+      "credibilityReason": "来源中国新闻网，权威媒体，报道具体详实，揭露骗局细节，可信度高。"
     },
     {
-      "title": "这几类人别直接吃生桃，越吃越伤身",
-      "link": "https://www.chinanews.com.cn/life/2026/08-19/10680023.shtml",
-      "pubDate": "Wed, 19 Aug 2026 09:13:53 +0800",
-      "contentSnippet": "桃子生吃通便，熟吃养胃，但很多人都吃错了！这几类人别直接吃生桃，越吃越伤身",
-      "sourceName": "中国新闻网",
+      "title": "魔都眼｜七夕婚姻登记小高峰，新人和金婚夫妇在苏州河边齐享甜蜜",
+      "link": "https://m.thepaper.cn/detail/33812472",
+      "pubDate": "Thu, 20 Aug 2026 00:33:57 GMT",
+      "contentSnippet": "2026年8月19日，七夕节，上海各处被甜蜜包裹。百合桥边，12对新人齐盟誓约，金婚夫妇聊发少年情。而闵行区婚姻登记中心迎来了小高峰，超百对新人在这个传统节日选择了婚姻。",
+      "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国新闻网提醒，部分人群不宜直接食用生桃，以免伤身。",
-      "credibilityScore": 75,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名媒体，内容具体但缺乏直接引述和交叉验证，健康建议需谨慎。"
-    },
-    {
-      "title": "智能技术赋能古老灌区",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-19/10680014.shtml",
-      "pubDate": "Wed, 19 Aug 2026 09:08:21 +0800",
-      "contentSnippet": "宁夏青铜峡灌区现代化改造工程项目团队推动全域一体的信息化建设——",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "宁夏青铜峡灌区现代化改造，推动全域信息化建设。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网较权威，内容具体，但缺乏直接引述和交叉验证。"
-    },
-    {
-      "title": "【这个城市有点潮】湖南张家界：“国际张”与歪果仁的“双向奔赴”",
-      "link": "http://www.chinanews.com.cn/tp/hd2011/2026/08-19/1201474.shtml",
-      "pubDate": "Wed, 19 Aug 2026 09:01:55 +0800",
-      "contentSnippet": "",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "张家界国际旅游热度上升，外国游客与本地互动频繁，展现双向文化交流。",
-      "credibilityScore": 75,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源中国新闻网较权威，内容具体但偏软性报道，缺乏数据引述，评分75。"
-    },
-    {
-      "title": "直播：长江十年行｜绿染长江岸 高质看江苏",
-      "link": "https://www.chinanews.com.cn/iframe/2026/08-19/10680016.shtml",
-      "pubDate": "Wed, 19 Aug 2026 09:00:26 +0800",
-      "contentSnippet": "",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国新闻网直播报道长江十年禁渔成效，聚焦江苏绿色发展。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为权威媒体，内容具体涉及政策成效，用词客观，可查证。"
-    },
-    {
-      "title": "羽毛球世锦赛：中国队五位女将携手晋级",
-      "link": "https://www.chinanews.com.cn/ty/2026/08-19/10680004.shtml",
-      "pubDate": "Wed, 19 Aug 2026 08:49:31 +0800",
-      "contentSnippet": "中新社北京8月19日电 2026年世界羽毛球锦标赛当地时间8月18日在印度新德里英迪拉·甘地室内体育馆迎来第二个比赛日。中国女单选手陈雨菲和两对国羽女双组合刘圣书/谭宁、贾一凡/张殊贤携手取胜，晋级下一轮。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国五名女将晋级羽毛球世锦赛次轮，陈雨菲及两对女双组合获胜。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，属权威媒体，报道具体含时间地点人物，事实可查证。"
-    },
-    {
-      "title": "中国首型民营重复使用运载火箭诞生！朱雀三号运载火箭成功回收",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-19/10680013.shtml",
-      "pubDate": "Wed, 19 Aug 2026 08:45:09 +0800",
-      "contentSnippet": "8月19日，中国民营航天迎来重大突破。朱雀三号运载火箭在东风商业航天创新试验区点火发射，其一子级在回收场坪顺利着陆，成为中国首型成功回收的民营运载火箭。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网",
         "澎湃新闻"
       ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "中国民营航天突破，朱雀三号火箭成功回收，成为首型民营回收运载火箭。",
-      "credibilityScore": 90,
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "上海七夕婚姻登记小高峰，新人与金婚夫妇共庆甜蜜。",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网和澎湃新闻，权威性较高；报道具体，含时间地点和事件细节，可查证。（多源覆盖 +5）"
+      "credibilityReason": "澎湃新闻为知名媒体，报道具体，含时间地点数据，但无直接引述，评分略低。"
     }
   ]
 }

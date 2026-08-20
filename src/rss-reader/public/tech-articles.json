@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-19T01:27:15.023Z",
+  "generatedAt": "2026-08-20T01:26:32.168Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "AI 辅助撰写提案涌入美国国会：充斥细节错误，拖慢审核进度",
-      "link": "https://www.ithome.com/0/991/404.htm",
-      "pubDate": "Wed, 19 Aug 2026 00:16:38 GMT",
-      "contentSnippet": "IT之家 8 月 19 日消息，媒体 politico 昨日（8 月 18 日）发布博文，报道称人工智能（AI）正进入美国国会立法流程。大量 AI 辅助撰写的提案涌入美国国会，但律师清理错误草稿耗时增加。\n报告指出随着越来越多国会办公室使用 ChatGPT 和 Claude 聊天机器人撰写提案，美国众议院立法顾问办公室收到大量由人工智能生成的法案草稿。IT之家附上相关图片如下：\n\n报告称，这些文本包含大量疏漏和错误，原本用于提速的工具，反而让律师花费更多时间修订机器生成的内容。\n主要问题聚焦法律文本细节，AI 可能混淆税收抵免（tax credit）、税收减免（tax deduction）、税",
+      "title": "前理想总裁沈亚楠二次创业，智能住宅企业“栖息地”再获 7 亿元融资",
+      "link": "https://www.ithome.com/0/991/903.htm",
+      "pubDate": "Thu, 20 Aug 2026 01:09:39 GMT",
+      "contentSnippet": "IT之家 8 月 20 日消息，据新浪科技今日报道，智能住宅企业栖息地已完成 A 轮融资，本轮融资资金规模 7 亿元人民币，由常州新北区科创基金领投。\n\n▲ 图源沈亚楠官方微博\n公开资料显示，栖息地品牌由前理想汽车联合创始人、总裁沈亚楠创立，定位生活智能科技公司。沈亚楠曾任联想集团全球供应链副总裁、摩托罗拉（中国）董事长，之后作为联合创始人出任理想汽车总裁，深度参与汽车企业的供应链、产品体系搭建，2024 年前后开启二次创业，切入居住科技赛道。\n近期，栖息地总投资 10 亿元的 AI 智能住宅全球总部项目签约落户常州。据知情人士透露，本轮融资资金将主要用于该总部及研发中心、具身智能实验室，同时",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,16 +16,169 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "AI辅助提案涌入美国国会，错误多拖慢审核进度。",
-      "credibilityScore": 80,
+      "aiSummary": "前理想总裁沈亚楠智能住宅企业获7亿元融资，用于总部研发。",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用politico报道，内容具体，逻辑清晰，但细节有限。"
+      "credibilityReason": "来源IT之家，信息具体含融资额、投资方，有公开资料支撑，但细节有限。"
     },
     {
-      "title": "【钛晨报】李强签署国务院令，公布《国务院关于修改〈住房公积金管理条例〉的决定》；灵巧手从5万降到万元内，国内灵巧手赛道融资暴涨1500%；百度、小米二季报出炉",
-      "link": "https://www.tmtpost.com/8107897.html",
-      "pubDate": "Wed, 19 Aug 2026 07:20:00 +0800",
-      "contentSnippet": "阿里巴巴投资的机器人制造商逐际动力据悉计划在香港IPO；部分地区入学要查验适龄女孩是否打了HPV疫苗；商务部：出台18条举措进一步激发下沉市场活力；OpenAI宣布推出ChatGPT青少年版；苹果罕见松口：坦言监管重压下，千亿服务业务正受到侵蚀；字节跳动与美国电影协会签署AI版权协议",
+      "title": "全球最大民航维修机库项目进入实质性施工，近年来中企“走出去”最大订单",
+      "link": "https://www.ithome.com/0/991/894.htm",
+      "pubDate": "Thu, 20 Aug 2026 00:46:09 GMT",
+      "contentSnippet": "IT之家 8 月 20 日消息，中国铁建官宣，当地时间 8 月 19 日，由中国铁建承建的全球最大民航维修机库项目 —— 阿联酋航空机场维修机库项目圆满完成全部 20 根试验桩灌注施工，标志着项目正式拉开实体工程施工序幕，为后续大规模桩基施工、主体结构建设筑牢根基。\n\n该项目位于迪拜世界中心区域，是全球规模最大、技术等级最高、系统集成最复杂、施工难度最大的维修机库项目，建成后将全面提升中东地区宽体飞机维修、改装、整机喷漆一体化服务能力，进一步夯实迪拜全球航空枢纽地位，成为高质量共建“一带一路”中阿务实合作的标志性成果。\n作为中国铁建布局中东高端航空基建领域的标志性工程，项目启动以来，中国铁建组",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国铁建承建全球最大民航维修机库，在迪拜进入实质施工阶段。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家，内容具体，引用中国铁建官方信息，但缺乏独立验证和细节数据。"
+    },
+    {
+      "title": "最新研究揭示南极冰盖质量损失为何突然放缓",
+      "link": "https://www.ithome.com/0/991/885.htm",
+      "pubDate": "Thu, 20 Aug 2026 00:13:27 GMT",
+      "contentSnippet": "IT之家 8 月 20 日消息，“央视新闻”昨日（8 月 19 日）发布博文，报道称中国科学院海洋研究所联合国外科研机构，研究发现 2021~2023 年位于热带西太平洋和东印度洋交汇区域的热带暖池持续增暖，是暂时减缓南极冰盖质量损失的主要诱因。\n相关研究成果于北京时间 8 月 19 日在国际学术期刊《自然》发表。\n\n▲ 热带暖池增暖驱动南极冰盖质量阶段性增加示意图\nIT之家援引博文介绍，南极冰盖是未来全球海平面上升的主要不确定性来源之一。2003—2024 年，南极冰盖平均每年损失约 1405 亿吨冰。\n然而，2021 年 7 月至 2023 年 4 月发生了一件反常的事情：南极冰盖质量在这",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中科院等发现热带暖池增暖致南极冰盖损失暂缓，成果登《自然》。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源权威（央视新闻、IT之家），研究发表于《自然》，有具体数据和时间范围，逻辑清晰。"
+    },
+    {
+      "title": "美银数据：台积电亚利桑那工厂营收持续走高，盈利呈现波动态势",
+      "link": "https://www.ithome.com/0/991/869.htm",
+      "pubDate": "Wed, 19 Aug 2026 22:58:31 GMT",
+      "contentSnippet": "IT之家 8 月 20 日消息，据美国银行（Bank of America）数据，台积电（TSMC）位于美国亚利桑那州的工厂在整个集团营收和利润中的占比持续提升。台积电亚利桑那园区拥有其在美国最先进的芯片生产线，但自项目启动以来，美国更高的建设成本一直引发外界担忧。\n\n目前，台积电亚利桑那园区共规划三个阶段，其中第一阶段已经投入运营，主要采用 4 纳米制程工艺生产半导体。近期有报道称，亚利桑那工厂正在为英伟达生产 AI GPU。由于台积电的高端封装产能目前仍主要集中在台湾地区，这些芯片完成晶圆制造后，还需要被空运至台湾地区进行最后的封装等生产环节。\n亚利桑那园区的第二和第三阶段将生产更先进的芯",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "美银数据显示台积电亚利桑那工厂营收占比提升，但盈利波动，高端封装仍需回台。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体，引用美银数据，内容具体，但缺少原始报告细节，时效性一般。"
+    },
+    {
+      "title": "数字信号处理先驱刘必治去世，享年 91 岁",
+      "link": "https://www.solidot.org/story?sid=85136",
+      "pubDate": "Wed, 19 Aug 2026 16:58:21 +0800",
+      "contentSnippet": "IEEE Spectrum 发表了一篇文章纪念了今年五月去世的数字信号处理先驱刘必治。刘被广泛认为是现代数字信号处理领域的奠基人之一，其研究推动了声音、图像和视频处理从模拟到数字的转变。尽管在工程界之外鲜为人知，但全世界数十亿人使用的技术都包含了他的研究成果，让手机通话、流媒体视频和互联网通信成为可能的低功耗数字信号处理器，其技术基础可追溯到他在 1970 年代和 1980 年代开展的研究。刘于 1934 年出生于上海，后随家人迁往台湾，他的父亲 Henry Liu Sr. 是一名电机工程师。他于 1954 年在国立台湾大学获得电机工程学士学位，毕业后随家人迁往美国，他与父亲一起就读于布鲁克林",
+      "sourceName": "Solidot",
+      "sourceWeight": 75,
+      "allSources": [
+        "Solidot"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "数字信号处理先驱刘必治去世，享年91岁，其研究奠定现代数字技术基础。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源Solidot为知名科技媒体，内容具体，引用IEEE Spectrum，信息详实，逻辑清晰。"
+    },
+    {
+      "title": "比亚迪第三代唐搭载全景巨幕、超大星环屏，明日成都车展全球首发",
+      "link": "https://www.ithome.com/0/991/910.htm",
+      "pubDate": "Thu, 20 Aug 2026 01:21:42 GMT",
+      "contentSnippet": "IT之家 8 月 20 日消息，比亚迪第三代唐将在 8 月 21 日成都车展全球首发亮相，王朝网销售事业部总经理路天今日在微博上透露，新车将搭载全景巨幕、超大星环屏，并放出了车辆中控位置的渲染图。\n\nIT之家注意到，图片显示，第三代唐内饰采用极简、科技感十足的设计语言，核心亮点是一块横向贯穿中控区域的大尺寸悬浮式中控屏，屏幕横向比例修长，搭配细窄边框和圆角设计。屏幕上方还设置了一块横向数字仪表显示区域，将车辆信息、时间、天气、导航等内容集中呈现。中控台整体采用黑色调，配合细腻的纹理饰板和简洁的实体按键布局，视觉上十分规整。\n第三代唐定位大五座科技旗舰 SUV，搭载第二代刀片电池与闪充技术，全系",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "比亚迪第三代唐明日成都车展首发，搭载全景巨幕和超大星环屏。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家可信，信息具体含配置细节，但缺乏官方确认和更多数据支撑。"
+    },
+    {
+      "title": "smart 精灵 3 号型动竞速版将亮相成都车展：碳纤维运动尾翼、4.3s 零百加速",
+      "link": "https://www.ithome.com/0/991/909.htm",
+      "pubDate": "Thu, 20 Aug 2026 01:16:31 GMT",
+      "contentSnippet": "IT之家 8 月 20 日消息，smart 中国今日官宣 smart 精灵 3 号型动竞速版将亮相成都车展。据官方预热，这款新车将提供碳纤维运动尾翼、0.27Cd 超低风阻、0.4s 两驱 / 四驱瞬时切换、4.3s 零百加速。\n\n活动时间：8 月 21 日‑8 月 30 日\n\n活动地点：成都国际汽车展｜15 号馆 H1508\n\n\n\n\nIT之家注意到，目前在售的 smart 精灵 3 号车型售价 16.49 万元起，车身尺寸为长 4400 毫米、宽 1844 毫米、高 1556 毫米，轴距 2785 毫米。\n配置方面，smart 精灵 3 号基础配置包括全景天幕、电加热外后视镜、LED 大灯、",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "smart精灵3号竞速版将亮相成都车展，配碳纤维尾翼，零百加速4.3秒。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家知名科技媒体，信息具体含参数和活动细节，但缺少官方链接和独立验证。"
+    },
+    {
+      "title": "高通调整骁龙 C 处理器幻灯片，移除 2 项测试结果",
+      "link": "https://www.ithome.com/0/991/908.htm",
+      "pubDate": "Thu, 20 Aug 2026 01:16:15 GMT",
+      "contentSnippet": "IT之家 8 月 20 日消息，科技媒体 Tom's Hardware 昨日（8 月 19 日）发布博文，报道称高通已联系多家媒体，要求改用新版骁龙 C 处理器（Snapdragon C）幻灯片，主要删除了“空闲应用”和“网页浏览”2 项基准测试结果。\nIT之家曾于 8 月 13 日报道，高通披露首次披露骁龙 C 处理器规格，主要面向约 300 美元价位（IT之家注：现汇率约合 2,027 元人民币）笔记本。\n规格方面，骁龙 C 芯片搭载 8 核 Kryo CPU，单核最高频率为 3.0 GHz，多核最高频率为 2.0 GHz。在官方幻灯脚注中，高通表示该芯片可以实现 4 核 2.0 GHz，",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "高通调整骁龙C处理器幻灯片，删除两项基准测试结果。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，引用Tom's Hardware，信息具体，逻辑清晰，但细节有限。"
+    },
+    {
+      "title": "“凭员工口令可购买低折扣机票”，总台曝光在线旅游平台引流陷阱",
+      "link": "https://www.ithome.com/0/991/907.htm",
+      "pubDate": "Thu, 20 Aug 2026 01:15:55 GMT",
+      "contentSnippet": "IT之家 8 月 20 日消息，据中央广播电视总台中国之声今日报道，近期，在社交媒体平台上，有博主向网友“透露”机票“员工内部价”如何搜索 —— 只需在一些在线旅游平台（OTA）的 App 或小程序中输入一串 5 位或 6 位的数字口令，就能找到“捡漏价”机票，其中不乏一些博主身着形似航空公司或机场工作人员的制服出镜。\n每个博主提供的“员工口令”或所谓的“优惠码”都不一样。将这些数字输入到相应的 OTA 平台中发现，搜索框下会自动出现“百元低价机票限时抢”“低价机票实时雷达”“一二百热门航线福利价”“bug 机票手慢无”“员工专属权益”等词条，点击后会进入“百元机票”“bug 机票绝密表单”等",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "总台曝光OTA平台利用员工口令引流，销售低价机票陷阱。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，引用总台报道，内容具体，涉及平台操作细节，可信度高。"
+    },
+    {
+      "title": "微星 MAG VIEW XPANDER 12 多功能显示器上市，699 元",
+      "link": "https://www.ithome.com/0/991/906.htm",
+      "pubDate": "Thu, 20 Aug 2026 01:14:16 GMT",
+      "contentSnippet": "IT之家 8 月 20 日消息，微星 (MSI) 现已在电商平台销售 MAG VIEW XPANDER 12 这款多功能显示器。其基于 12.3\" 1920×720 60Hz 350nits 规格 IPS LCD 面板，可用于系统监控、内容显示、第二屏幕场景。\n\n该副屏产品拥有 3 种安装方式（桌面、120mm 风扇位、360 冷排位），可通过 MSI Center 管理显示模式和自定义显示内容。其支持 USB 一线连，随附适用于机箱内外部的连接方案。\n京东微星 MAG VIEW XPANDER 12699 元直达链接",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微星推出MAG VIEW XPANDER 12多功能副屏，售价699元，支持多种安装方式。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道具体参数和价格，信息清晰，但缺乏原始出处和深度分析。"
+    },
+    {
+      "title": "王兴很开心，王兴兴不一定",
+      "link": "https://www.tmtpost.com/8109440.html",
+      "pubDate": "Thu, 20 Aug 2026 09:12:18 +0800",
+      "contentSnippet": "IPO 把宇树送上了新的起点，也把它真正的问题，第一次摆到了所有人面前。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -33,35 +186,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛晨报汇总多领域新闻，涵盖政策、机器人、财报等，信息丰富但主题分散。",
+      "aiSummary": "宇树IPO后，王兴与王兴兴面临不同挑战，问题首次公开。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体且涉及多家公司，但缺乏深度分析，评分适中。"
+      "credibilityReason": "钛媒体为知名科技媒体，内容具体，但标题有标题党倾向，分析深度一般。"
     },
     {
-      "title": "Socionext 将利用英特尔代工 Intel 18A-P 工艺开发定制 SoC",
-      "link": "https://www.ithome.com/0/991/424.htm",
-      "pubDate": "Wed, 19 Aug 2026 01:23:52 GMT",
-      "contentSnippet": "IT之家 8 月 19 日消息，日本芯片设计服务企业 Socionext（索喜）当地时间 18 日宣布，将利用英特尔代工的 Intel 18A-P 制程工艺节点开发一系列定制 SoC，以满足数据中心、边缘计算、高性能计算 (HPC) 用户增长的需求。\nIT之家了解到，Socionext 将在这一系列项目中结合自身 ASIC 专业技术和英特尔代工的先进制程与先进封装路线图，为客户打造针对特定应用工作负载优化的差异化 SoC 解决方案。该系列的首个项目将是一颗 HPC 芯片。\n\nSocionext 首席技术官兼执行副总裁 Rajinder Cheema 表示：\n\nIntel 18A-P 工艺代表着",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家",
-        "少数派",
-        "Solidot"
-      ],
-      "coverageCount": 3,
-      "coverageBoost": 10,
-      "aiSummary": "日本芯片设计公司Socionext将采用英特尔18A-P工艺开发定制SoC，首款为HPC芯片。",
-      "credibilityScore": 95,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体，引用官方声明，技术细节明确，逻辑清晰。（多源覆盖 +10）"
-    },
-    {
-      "title": "微软 Copilot AI 漏洞被披露：恶意链接绕过用户确认窃取隐私数据",
-      "link": "https://www.ithome.com/0/991/423.htm",
-      "pubDate": "Wed, 19 Aug 2026 01:20:36 GMT",
-      "contentSnippet": "IT之家 8 月 19 日消息，科技媒体 Ars Technica 昨日（8 月 18 日）发布博文，报道称微软 Copilot 存在安全漏洞，可以通过 ?autorun=1 参数，配合?q= 绕过用户确认，从而窃取用户信息。\nIT之家援引博文介绍，安全公司 Varonis 研究人员指出和多数 AI 助手一样，Copilot  支持通过 URL 接收提示词。URL 的基础部分可让模型打开 Gmail 等应用，后续参数和文本则能要求助手总结收件箱内容或起草邮件。\n研究人员发现 Copilot 存在?autorun=1 参数，配合?q= 绕过用户确认，构造出如下链接：\nhttps://copilo",
+      "title": "小米澎程 N90 Max/N70 Max 明日起全国门店开放品鉴，用户可上车体验",
+      "link": "https://www.ithome.com/0/991/905.htm",
+      "pubDate": "Thu, 20 Aug 2026 01:12:05 GMT",
+      "contentSnippet": "IT之家 8 月 20 日消息，据小米澎程官微消息，8 月 21 日起，N90 Max、N70 Max 全国门店同步开放品鉴，“邀请您上车体验”。\n\nIT之家注意到，小米澎程系列实车已于 7 月 30 日起实车陆续到店，覆盖全国 146 城 499 家门店，但用户一直只能观看，无法上车体验。\n小米澎程是小米汽车旗下全新增程 SUV 系列，基于昆仑技术架构打造，包含 N70 系列大五座和 N90 系列大七座两款车型，N70 Max 预售价 25.99 万元，N90 Max 预售价 29.99 万元，预计 2026 年 9 月正式上市并交付。",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -69,198 +203,61 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "微软Copilot被曝安全漏洞，恶意链接可绕过确认窃取隐私。",
+      "aiSummary": "小米澎程N90/N70 Max明起全国门店开放品鉴，用户可上车体验。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，援引Ars Technica及Varonis研究，细节具体，逻辑清晰。"
+      "credibilityReason": "来源IT之家知名科技媒体，信息具体含时间、门店数、预售价，逻辑清晰，可信度高。"
     },
     {
-      "title": "美国 29 州起诉 Meta 案开庭，后者否认刻意诱导儿童沉迷社交平台",
-      "link": "https://www.ithome.com/0/991/419.htm",
-      "pubDate": "Wed, 19 Aug 2026 01:18:15 GMT",
-      "contentSnippet": "IT之家 8 月 19 日消息，据路透社报道，Meta Platforms 在一场可能改变全球部分热门社交应用运营方式的审判开始之际，否认美国各州提出的指控，称公司并没有为了追求利润而故意让儿童沉迷 Facebook 和 Instagram。\n\n由美国 29 个州组成的两党联盟正在起诉 Meta，并要求公司支付可能高达数百亿美元甚至数千亿美元的罚款，同时改变公司的经营方式。\n加利福尼亚州、科罗拉多州、肯塔基州和新泽西州作为主要原告州，指控 Meta 刻意将 Facebook 和 Instagram 设计成能够吸引并留住年轻用户的产品，从而加剧焦虑、抑郁，甚至导致自杀，同时还误导消费者，让他们认",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "美国29州起诉Meta案开庭，Meta否认诱导儿童沉迷社交平台。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用路透社报道，信息具体，涉及法律诉讼细节，时效性强，内容客观。"
-    },
-    {
-      "title": "10 倍词元容量：Cerebras 推出 WSE-3 Turbo 芯片与 CS-4 系统",
-      "link": "https://www.ithome.com/0/991/418.htm",
-      "pubDate": "Wed, 19 Aug 2026 01:12:57 GMT",
-      "contentSnippet": "IT之家 8 月 19 日消息，晶圆级 AI 推理加速器制造商 Cerebras 当地时间 18 日宣布推出其新一代芯片 WSE-3 Turbo 和基于该芯片的 CS-4 系统。与上代 CS-3 相比，CS-4 带来了 10 倍的词元容量和 2 倍的速度。\n\n与此前的 WSE-3 类似，WSE-3 Turbo 集成了 90 万个核心和 44GB SRAM 片上缓存，但其 FP16 稀疏 AI 算力、内存带宽、片上互联带宽、I/O 带宽均实现翻倍。而 CS-4 系统则可集成 3 块 WSE-3 Turbo，进一步提升了算力密度。\nCerebras 表示，CS-4 在 OpenAI GPT-OSS",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "Cerebras推出WSE-3 Turbo芯片与CS-4系统，词元容量提升10倍，算力翻倍。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道具体参数和性能提升，但缺乏原始出处和独立验证。"
-    },
-    {
-      "title": "智谱 GLM-5.3 模型 API 上线，权重下周五开源",
-      "link": "https://www.ithome.com/0/991/417.htm",
-      "pubDate": "Wed, 19 Aug 2026 01:10:56 GMT",
-      "contentSnippet": "IT之家 8 月 19 日消息，智谱今日宣布，GLM-5.3 API 即日起正式上线。模型擅长复杂编码、防御性网络安全以及长程任务。\n官方称，GLM-5.3 在全球权威的 Artificial Analysis Intelligence Index（AA 综合智能指数）中取得 60 分，进入全球前沿模型能力区间，与 Claude Fable 5、GPT-5.6 Sol 等闭源旗舰模型处于同一水平，并与 Kimi K3 并列开源模型第一。\n\nAA 指数覆盖知识、推理、编码、智能体等多项评测，衡量模型在真实复杂任务中的综合能力\n在达到同档智能水平的同时，GLM-5.3 以更小的参数规模与更低的调用",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "智谱GLM-5.3 API上线，AA指数60分，下周开源权重。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容具体，引用官方数据和评测，但缺乏独立验证。"
-    },
-    {
-      "title": "微软 Win11 拟增强隐私控制：可细分控制 Win32 应用权限",
-      "link": "https://www.ithome.com/0/991/416.htm",
-      "pubDate": "Wed, 19 Aug 2026 01:08:10 GMT",
-      "contentSnippet": "IT之家 8 月 19 日消息，科技媒体 NeoWin 昨日（8 月 18 日）发布博文，报道称在 Experimental 通道 Windows 11 预览版 Build 26340.9212 中，微软计划细分 Win32 应用权限。\n\n该媒体指出在 Windows 11 Build 26340.9212 预览版中，微软已邀请部分 Windows Insider 项目成员，在隐私设置中单独撤销某个 Win32 应用的访问权限。\n\n\n类似于手机端设置，用户可以针对不同应用程序，细分关闭摄像头、麦克风、位置和语音唤醒等权限。\n\n\n\nIT之家援引博文介绍，在现有 Windows 11 系统中，用户",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "微软计划在Win11预览版中细分Win32应用权限控制，类似手机端设置。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体，引用NeoWin原始报道，技术细节明确。"
-    },
-    {
-      "title": "小米 18 Pro 系列新机疑通过 3C 认证，支持 100W 快充、UWB 超宽带技术",
-      "link": "https://www.ithome.com/0/991/415.htm",
-      "pubDate": "Wed, 19 Aug 2026 01:04:04 GMT",
-      "contentSnippet": "IT之家 8 月 19 日消息，一款型号为 M154FF 的小米新机昨日通过了 3C 认证，支持 100W 快充，博主 @数码闲聊站 推测为小米 18 Pro 系列。\n\n据其爆料，该机各种备案已齐全，大概率首发骁龙 2nm 旗舰芯，支持 100W 快充，N79 5G 频段，UWB 超宽带技术，屏幕 / 影像 / 性能 / 外围等硬件全方位升级。\nIT之家注意到，该博主上个月曾曝光某厂 2nm 大杯工程机的主要规格，预计为小米 18 Pro。据其爆料，该机搭载一块超清定制小直屏，采用大 R 角极窄四等边设计，配备 2nm 旗舰芯，后置 200Mp 超大底主摄 +200Mp 大底长焦微距，内置 7",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "小米18 Pro系列通过3C认证，支持100W快充和UWB技术。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容具体，但依赖博主爆料，缺乏官方确认。"
-    },
-    {
-      "title": "OpenAI 二季度营收 67 亿美元环比增 18%，被 Anthropic 营收反超且亏损持续扩大",
-      "link": "https://www.ithome.com/0/991/414.htm",
-      "pubDate": "Wed, 19 Aug 2026 01:00:31 GMT",
-      "contentSnippet": "IT之家 8 月 19 日消息，据《华尔街日报》报道，OpenAI 告诉投资者，公司第二季度营收较第一季度增长 18%，但亏损进一步扩大。这一结果令部分股东感到失望，因为他们原本希望这家初创公司能够进一步缩小与竞争对手 Anthropic 之间的差距。\n\n知情人士透露，在截至 6 月的三个月里，OpenAI 营收从第一季度的 57 亿美元（IT之家注：现汇率约合 385.14 亿元人民币）增至 67 亿美元（现汇率约合 452.71 亿元人民币）。不过，公司的营业利润率进一步陷入负值，距离实现盈利越来越远，而市场一直期待 OpenAI 能够在不久后启动备受关注的首次公开募股（IPO）。\n同期，",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家",
-        "量子位"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "OpenAI二季度营收67亿美元环比增18%，但亏损扩大，被Anthropic反超。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家和量子位，引用华尔街日报，数据具体，逻辑清晰，但未提供原始链接。（多源覆盖 +5）"
-    },
-    {
-      "title": "火狐 Firefox 154 发布：支持英伟达 GeForce NOW、可切换浏览器图标",
-      "link": "https://www.ithome.com/0/991/412.htm",
-      "pubDate": "Wed, 19 Aug 2026 00:56:59 GMT",
-      "contentSnippet": "IT之家 8 月 19 日消息，Mozilla 昨日（8 月 18 日）推出火狐 Firefox 浏览器 154 稳定版，并同步更新推出 153.1.0、140.14.0 和 115.39.01 长期支持版本。官方还宣布计划 9 月 1 日发布 Firefox 155 版本。\n根据官方更新日志，在智能窗口（Smart Window）中，Firefox 浏览器可以建议相关的标签页组，并为每个标签页组建议一个名称。IT之家附上相关图片如下：\n\n在 Windows 10、Windows 11 平台上，火狐 Firefox 浏览器 154 已支持英伟达的 NVIDIA GeForce NOW 云游戏服",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "火狐154发布，支持GeForce NOW，新增智能窗口功能。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，内容具体，有官方更新日志依据，但缺乏原始链接和深度分析。"
-    },
-    {
-      "title": "蓝箭航天：计划在半年内实施朱雀三号回收箭体复飞",
-      "link": "https://www.ithome.com/0/991/411.htm",
-      "pubDate": "Wed, 19 Aug 2026 00:55:52 GMT",
-      "contentSnippet": "IT之家 8 月 19 日消息，今日，蓝箭航天朱雀三号遥二顺利完成一子级完整回收试验。蓝箭航天相关负责人告诉《科创板日报》记者，公司明确计划半年内开展回收箭体复飞试验，搭建“发射‑回收‑检测‑复用”完整闭环，坚持液氧甲烷可回收路线，持续打磨高频次复用能力，为低成本规模化商业发射铺路。\nIT之家注意到，北京时间 2026 年 8 月 19 日 7 时 35 分，朱雀三号重复使用遥二运载火箭在东风商业航天创新试验区发射升空。起飞约 137 秒，火箭一二级分离，二子级继续飞行，将鸿擎科技自主研制的鸿鹄 03 星准确送入预定轨道；7 时 41 分许，火箭一子级按预定程序成功软着陆于甘肃省民勤县朱雀三号",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "蓝箭航天计划半年内实施朱雀三号回收箭体复飞试验，搭建发射回收检测复用闭环。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家知名，内容具体含时间、数据，引用官方负责人，技术细节清晰。"
-    },
-    {
-      "title": "115 网盘上线 2026 年七夕限定活动：2999 元长期 VIP 套餐回归，但不再附赠存储空间",
-      "link": "https://www.ithome.com/0/991/410.htm",
-      "pubDate": "Wed, 19 Aug 2026 00:50:21 GMT",
-      "contentSnippet": "IT之家 8 月 19 日消息，据“115 网盘”官方微博，115 网盘上线 2026 年七夕限定活动，长期 VIP 套餐正式回归，定价 2999 元。\nIT之家注意到，本次开售的 2999 元长期 VIP，最大变化是不再附赠存储空间。用户购买之后，只能解锁长期 VIP 对应的会员权益，网盘容量需要用户自备，不会额外扩容。\n\n回顾历史，早在 2014 年，115 网盘就曾推出过永久 VIP，全球仅限 50000 名，售价 5000 元，送 5PB（5120TB）存储容量。2022 年，115 网盘又推出永久 VIP，售价 8000 元，同样提供 5PB 存储空间。不过今年活动中官方取消附赠存储",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "115网盘七夕活动2999元长期VIP回归，但不再附赠存储空间。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，内容具体，有历史数据对比，但缺乏官方原始链接，评分75。"
-    },
-    {
-      "title": "联力 B4-mATX 机箱铁网版上架：支持 140mm ATX 电源、可选黑白双色，449 元起",
-      "link": "https://www.ithome.com/0/991/409.htm",
-      "pubDate": "Wed, 19 Aug 2026 00:46:23 GMT",
-      "contentSnippet": "IT之家 8 月 19 日消息，联力 B4-mATX 机型铁网版现已在京东上架，新品主打小巧设计，可选黑白两色、预装 2 个超薄风扇，其中黑色定价为 449 元，白色定价为 499 元。\n京东 LIANLI 联力 B4 m-ATX 电脑机箱铁网版 449 元起直达链接\n\n\n据介绍，这款机箱采用模块化设计，带有大面积网孔辅助散热，机箱体积为 21.3 升，可容纳 MATX 主板、360mm 一体机、140mm ATX 电源。\n\n规格方面，这款机箱支持垂直布局，可将桌面空间利用率最高提升 30%，电源接口支持旋转。最多可安装 9 颗风扇，预装 2 个 120*120*15mm 薄扇，显卡限长 35",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "联力B4-mATX铁网版机箱上架，支持140mm ATX电源，449元起。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道具体规格和价格，信息清晰，但缺少官方链接和深度评测。"
-    },
-    {
-      "title": "牛来了又走了，AI 股神暴亏 300 亿内幕曝光：成也 AI，败也 AI",
-      "link": "https://www.ifanr.com/1675462?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pubDate": "Wed, 19 Aug 2026 00:36:53 +0000",
-      "contentSnippet": "当所有人都意识到他缺钱以后\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "sourceName": "爱范儿",
+      "title": "Moderna市值一日翻倍，全球首个mRNA癌症疫苗跑通三期",
+      "link": "https://www.tmtpost.com/8109622.html",
+      "pubDate": "Thu, 20 Aug 2026 09:08:59 +0800",
+      "contentSnippet": "它靠个性化定制设计，在黑色素瘤术后辅助治疗中，第一次跑赢了Keytruda。",
+      "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
-        "爱范儿"
+        "钛媒体"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "AI股神因过度依赖AI交易巨亏300亿，成也AI败也AI。",
-      "credibilityScore": 60,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为科技媒体，内容具体但缺乏数据支撑和原始出处，标题有煽动性。"
+      "aiSummary": "Moderna mRNA癌症疫苗三期成功，市值翻倍。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源知名科技媒体，内容具体，但缺乏数据细节和原始引用。"
+    },
+    {
+      "title": "微软升级 Win11 任务管理器，可视化 AI 工作负载",
+      "link": "https://www.ithome.com/0/991/901.htm",
+      "pubDate": "Thu, 20 Aug 2026 01:04:35 GMT",
+      "contentSnippet": "IT之家 8 月 20 日消息，微软昨日（8 月 19 日）发布博文，详细介绍 Windows 11 任务管理器的全新 AI 工作负载监控体验。\nIT之家援引博文介绍，本次更新聚焦本地 AI 应用对 NPU、GPU 与 CPU 的调用情况，帮助用户和 IT 管理员定位具体应用及进程的硬件资源使用方式。\n在“进程”、“用户”和“详细信息”页面，任务管理器新增可选的 NPU 与 NPU 引擎列。用户可据此查看哪些应用或进程正在使用神经处理单元。\n\n在兼容设备上，Windows 11 此前已能显示 NPU 的整体活动情况，而新增的进程级信息则可追溯工作负载的来源。\n\n“详细信息”页面还新增 NPU",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微软升级Win11任务管理器，新增NPU列以可视化AI工作负载。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，内容具体，引用官方博文，技术细节清晰，逻辑合理。"
+    },
+    {
+      "title": "消息称英伟达在北欧充当 AI 算力“牵线人”，当地数据中心交易热度攀升",
+      "link": "https://www.ithome.com/0/991/900.htm",
+      "pubDate": "Thu, 20 Aug 2026 01:03:56 GMT",
+      "contentSnippet": "IT之家 8 月 20 日消息，据 CNBC 报道，知情人士透露，英伟达正在扮演“牵线人”的角色，试图将拥有其 GPU 的企业与北欧地区具备部署这些 GPU 能力的数据中心运营商联系起来。\n\n尽管英伟达已经在最强大的 AI 芯片市场建立了近乎垄断的地位，但随着全球 AI 基础设施建设竞赛不断加速，该公司也在努力扩大自己在整个 AI 生态系统中的影响力。这种影响力不仅体现在软件技术栈上，也延伸至与各国政府的关系以及对其他企业的直接投资。\n与此同时，这家芯片巨头也试图在 AI 基础设施交易中扮演更重要的角色。两名知情人士称，英伟达已经提出，可以帮助那些在北欧拥有数据中心的企业，与正在寻找算力容量、",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "英伟达据报在北欧充当AI算力牵线人，推动数据中心交易。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，引用CNBC报道，有知情人士信息，内容具体但缺乏直接数据支撑。"
     }
   ]
 }
