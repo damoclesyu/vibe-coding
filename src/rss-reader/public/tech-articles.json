@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-21T01:36:57.681Z",
+  "generatedAt": "2026-08-22T01:25:54.930Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "Omdia：2026 年非洲智能手机市场预计下滑 26%，结束连续三年增长态势",
-      "link": "https://www.ithome.com/0/992/421.htm",
-      "pubDate": "Thu, 20 Aug 2026 23:25:25 GMT",
-      "contentSnippet": "IT之家 8 月 21 日消息，根据 Omdia 最新研究，非洲智能手机市场正在进入调整期，Omdia 预计 2026 年市场将下降 26%，结束连续三年的增长态势。\nIT之家从报告获悉，2026 年第二季度，非洲智能手机市场三年来首次出现同比下滑，出货量下降 7%。随着设备价格持续上涨，整个非洲市场的消费者购买力承受更大的压力。其中，100 美元（IT之家注：现汇率约合 674.6 元人民币）以下的入门级市场尤为明显。长期以来，该价格区间一直是非洲新兴中产阶级实现数字连接的重要入口，但其出货量同比下降 34%，减少近 300 万部。不断上涨的存储器成本以及 AI 需求推动的供应链调整，进一步",
+      "title": "美国硅谷大谈机器人未来，现场主角却来自中国",
+      "link": "https://www.ithome.com/0/992/883.htm",
+      "pubDate": "Fri, 21 Aug 2026 15:34:51 GMT",
+      "contentSnippet": "8 月 21 日，据《商业内幕》报道，旧金山机器人大会 Actuate 吸引了约 1500 名投资者、创业者和工程师参与，但现场展示的机器人数量却远少于预期。\n在人工智能从软件领域向现实世界延伸的背景下，机器人行业正迎来投资热潮，但硬件供应不足、训练数据短缺以及供应链限制，成为行业进一步发展的关键挑战。\n\n硅谷最热门的机器人技术大会上为数不多的机器人之一\n报道称，Actuate 大会由机器人软件公司 Foxglove 主办，今年参会人数较 2025 年增长约 3 倍。Foxglove 联合创始人兼 CEO Adrian Macneil 表示，如果不受场地限制，大会门票销量可能超过 2000 张",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,16 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "Omdia预测2026年非洲智能手机市场将下滑26%，结束三年增长。",
-      "credibilityScore": 85,
+      "aiSummary": "硅谷机器人大会火爆，但现场机器人少，行业面临硬件与数据挑战。",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用Omdia报告，数据具体，逻辑清晰，时效性好。"
+      "credibilityReason": "来源IT之家，引用商业内幕，具体数据与细节，逻辑清晰，但非一手信源。"
     },
     {
-      "title": "消费电子全面涨价：美国 7 月游戏硬件支出同比下降 29%、实体游戏销量创新低，接近 2020 年疫情同期水平",
-      "link": "https://www.ithome.com/0/992/403.htm",
-      "pubDate": "Thu, 20 Aug 2026 15:17:18 GMT",
-      "contentSnippet": "IT之家 8 月 20 日消息，美国市场调研机构 Circana 于 8 月 18 日发布的最新报告显示，2026 年 7 月美国游戏硬件支出同比大幅下降 29%，接近 2020 年 7 月疫情期间因供应链中断导致主机全面缺货时的历史低位。\n不同的是，当前市场上并不缺货，但高昂的售价抑制了消费者购买意愿。\n\n整个 7 月，所有游戏主机平台的销量均较上年同期出现下滑。硬件支出的急剧下降成为拖累整体游戏市场表现的主要因素。与此同时，实体游戏销量创下自 1995 年有记录以来的最低水平。\n今年以来，实体游戏中新游戏支出中 PlayStation 平台占比约 32%，任天堂 Switch 平台占比约",
+      "title": "开源兼容层 Wine 11.16 发布：新增 VA-API 硬件解码，修复 Steam 无法启动等 35 个 Bug",
+      "link": "https://www.ithome.com/0/992/915.htm",
+      "pubDate": "Sat, 22 Aug 2026 01:22:17 GMT",
+      "contentSnippet": "IT之家 8 月 22 日消息，科技媒体 Linuxiac 昨日（8 月 21 日）发布博文，报道称开源兼容层 Wine 发布 11.16 更新，新增支持 VA-API 硬件视频解码，并更新 Wine Mono 至 11.3，首次加入 ARM64 支持。\nIT之家注：Wine 是一个允许在类 Unix 操作系统（如 Linux、macOS 和 BSD）上运行 Windows 应用程序的开源兼容层。\nVA-API（Video Acceleration API）是一个由英特尔主导开发的开源多媒体硬件加速标准 API，允许操作系统和应用程序（如浏览器、播放器）直接调用显卡（GPU）的硬件加速图形核心",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -33,16 +33,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "美国7月游戏硬件支出同比降29%，实体游戏销量创新低，接近疫情水平。",
+      "aiSummary": "Wine 11.16发布，新增VA-API硬件解码，修复35个Bug。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用Circana报告，数据具体，逻辑清晰，时效性高。"
+      "credibilityReason": "IT之家为知名科技媒体，内容具体，引用Linuxiac原始报道，技术细节明确。"
     },
     {
-      "title": "任天堂 Switch 2 销量同比腰斩，美国游戏机市场遭遇疫情后“最差 7 月”",
-      "link": "https://www.ithome.com/0/992/364.htm",
-      "pubDate": "Thu, 20 Aug 2026 13:45:55 GMT",
-      "contentSnippet": "IT之家 8 月 20 日消息，据彭博社今天（20 日）援引 Circana 数据，今年 7 月任天堂 Switch 2 在美国的销量已经不足去年同期一半，整个游戏主机硬件市场也随之明显下滑。\n存储器价格上涨正在全面推高游戏主机成本，多款热门新作上市也没能扭转硬件销售大幅下滑的局面。\n\n7 月美国游戏硬件支出同比减少 29% 至 2.82 亿美元（IT之家注：现汇率约合 19.02 亿元人民币），创下自新冠疫情扰乱供应链、导致游戏主机大面积缺货以来的最低水平。按销量计算，降幅更达到 39%；与此同时，游戏硬件平均售价上涨至 542 美元（现汇率约合 3,656 元人民币），涨幅为 16%。\nS",
+      "title": "日产暴跌 58.7%，丰田、本田 2026 年 7 月在华新车销量均同比下降",
+      "link": "https://www.ithome.com/0/992/913.htm",
+      "pubDate": "Sat, 22 Aug 2026 01:12:43 GMT",
+      "contentSnippet": "IT之家 8 月 22 日消息，据日本共同社报道，日本三大车商 2026 年 7 月在中国市场的新车销量全部出炉，三家公司均较上年同期下降。\n\n丰田 7 月销量 114,700 辆，同比下降 24.3%\n\n日产 7 月销量 23,677 辆，同比下降 58.7%，连续 4 个月同比下降\n\n本田 7 月销量 25,052 辆，同比下降 44.1%，连续 30 个月同比下降\n\n\n▲ 广汽丰田铂智 7\n据IT之家此前报道，丰田、日产、本田 2026 年上半年在华新车销量同样有不同程度的下滑。\n\n延伸阅读\n从 2026 年前 7 个月累计数据来看，整体下滑趋势更为明显：日产在华累计销量为 26.11",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -50,16 +50,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "任天堂Switch 2美国销量同比腰斩，7月硬件支出创疫情后最低。",
+      "aiSummary": "日本三大车商2026年7月在华销量均下滑，日产跌幅最大达58.7%。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "引用彭博社和Circana数据，具体数字详实，来源可靠，分析客观。"
+      "credibilityReason": "来源IT之家，引用共同社数据，具体销量和同比数据详实，逻辑清晰。"
     },
     {
-      "title": "微信 iOS 版 8.0.76 最新官方正式版下载发布",
-      "link": "https://www.ithome.com/0/992/450.htm",
-      "pubDate": "Fri, 21 Aug 2026 01:34:05 GMT",
-      "contentSnippet": "IT之家 8 月 21 日消息，微信 iOS 平台迎来了 8.0.76 正式版更新。\n官方更新日志为：\n本次更新：\n- 解决了一些已知问题。\n \n大家在IT之家微信号回复“微信”两字，即可获取当前最新官方内部版微信下载。\n\n\n 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。如果你发现了日志中未提及的更新点，欢迎发在评论区供大家参考~[微笑]",
+      "title": "Rust 1.98 发布：打破代数运算性能瓶颈，编译器可重排更多运算",
+      "link": "https://www.ithome.com/0/992/912.htm",
+      "pubDate": "Sat, 22 Aug 2026 01:12:36 GMT",
+      "contentSnippet": "IT之家 8 月 22 日消息，科技媒体 Linuxiac 昨日（8 月 21 日）发布博文，报道称 Rust 团队更新推出 1.98 版本，重点加入面向 f32 和 f64 浮点类型的“代数浮点”（algebraic floating-point）方法，同时加快整数格式化，并稳定多项标准库 API。\n本次更新重点针对 f32 和 f64 浮点数引入了全新的代数运算方法（包括 algebraic_add、algebraic_sub、algebraic_mul、algebraic_div 以及 algebraic_rem）。\n在传统的 IEEE 754 标准下，由于浮点数加法不具备严格的结合律，",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -67,16 +67,68 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "微信iOS版发布8.0.76正式版，仅修复已知问题，细节待补充。",
+      "aiSummary": "Rust 1.98发布，新增代数浮点运算方法，提升性能并稳定多项API。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体，引用Linuxiac报道，但缺乏官方链接和详细技术验证。"
+    },
+    {
+      "title": "小米官方“龙虾”Xiaomi miclaw 将于 9 月 21 日结束封测",
+      "link": "https://www.ithome.com/0/992/911.htm",
+      "pubDate": "Sat, 22 Aug 2026 01:01:58 GMT",
+      "contentSnippet": "IT之家 8 月 22 日消息，8 月 21 日，小米官方账号“Beta 版小助手”发布《Xiaomi miclaw 封测结束公告》。\n公告显示，今年 3 月，小米开启了官方“龙虾” Xiaomi miclaw 封测，获得了众多用户的关注。经过近半年的封闭测试，团队获得了关于 AI 类产品很多有益的意见和建议。现在，决定于 2026 年 9 月 21 日结束这次封测。用户的 Xiaomi miclaw 将于 9 月 21 日正式停止服务。\n为了感谢用户对 Xiaomi miclaw 封测的支持，小米特别邀请所有当前还在参与 Xiaomi miclaw 封测的用户参与小米澎湃 OS 4 Beta",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "小米官方龙虾Xiaomi miclaw将于9月21日结束封测并停止服务。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家知名科技媒体，内容具体有官方公告引用，逻辑清晰，但缺乏技术细节。"
+    },
+    {
+      "title": "冲击全球最大 IPO：曝 Anthropic 募资 1000 亿美元，目标估值 2 万亿美元",
+      "link": "https://www.ithome.com/0/992/910.htm",
+      "pubDate": "Sat, 22 Aug 2026 00:59:58 GMT",
+      "contentSnippet": "IT之家 8 月 22 日消息，金融媒体 mitrade 昨日（8 月 21 日）发布博文，报道称 Anthropic 最早可能会在本月（2026 年 8 月）底公开提交 IPO 申请，预估融资规模将超过此前 SpaceX 创造的纪录。\n数据显示，全球首富埃隆 · 马斯克（Elon Musk）旗下 SpaceX 于今年 6 月 IPO 上市初期，筹集了 750 亿美元（IT之家注：现汇率约合 5,053.39 亿元人民币），创下了史上规模最大的首次公开募股纪录。最终，加上超额配售选择权，募资总额增至 862 亿美元（现汇率约合 5,808.03 亿元人民币）。\n知情人士透露 Anthropic",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家",
+        "InfoQ中文"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "曝Anthropic拟募资1000亿美元，估值2万亿，冲击全球最大IPO。",
+      "credibilityScore": 65,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为IT之家等科技媒体，内容具体但依赖知情人士，缺乏官方确认，时效性高但可信度中等。（多源覆盖 +5）"
+    },
+    {
+      "title": "两只押注AI下一步发展的股票",
+      "link": "https://www.tmtpost.com/8112490.html",
+      "pubDate": "Sat, 22 Aug 2026 08:55:06 +0800",
+      "contentSnippet": "伊顿和哈贝尔都获得了新的“买入”评级。没错，这一切都与人工智能有关。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "伊顿和哈贝尔因AI发展获买入评级，押注AI电力需求增长。",
       "credibilityScore": 70,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源IT之家较知名，但内容简略，无具体技术细节，且标注机器人发布，信息量有限。"
+      "credibilityReason": "来源为知名科技媒体，内容具体但缺乏技术细节和数据支撑，逻辑清晰但深度不足。"
     },
     {
-      "title": "ROG Zephyrus G14 游戏本用户反馈使用集显模式 15 天，Win11 自动卸载独显驱动",
-      "link": "https://www.ithome.com/0/992/449.htm",
-      "pubDate": "Fri, 21 Aug 2026 01:31:03 GMT",
-      "contentSnippet": "IT之家 8 月 21 日消息，网友 u/Ok-Horse-3169 昨日（8 月 20 日）在 Reddit 社区发帖，反馈其华硕 ROG Zephyrus G14 游戏笔记本开启 Eco 模式，在仅核显模式下使用 15 天后，Windows 11 系统自动卸载独立显卡驱动。\n\nIT之家注：华硕 ROG Zephyrus G14 游戏笔记本提供以下 4 种模式，用户可以通过华硕 Armoury Crate 工具切换：\n\n集显模式（Eco / 仅核显）：仅启用处理器自带的集成显卡，关闭独立显卡。功耗最低，能大幅提升电池续航，适合外出办公、看视频等轻度使用场景。\n\n标准模式（Standard /",
+      "title": "Anthropic 发力自研芯片，聘请前谷歌 TPU 负责人阿米尔 · 萨莱克",
+      "link": "https://www.ithome.com/0/992/909.htm",
+      "pubDate": "Sat, 22 Aug 2026 00:50:18 GMT",
+      "contentSnippet": "IT之家 8 月 22 日消息，据彭博社报道，Anthropic 于周五透露，前谷歌 TPU 项目创始高管之一阿米尔 · 萨莱克（Amir Salek）将加入 Anthropic 的算力团队。\n在 2022 年离职前，萨莱克曾长期负责谷歌的 TPU 业务，主导并交付了前七代 TPU 芯片。萨莱克还曾就职于英伟达，在离开谷歌后，萨莱克曾出任私募股权投资机构塞伯罗斯资本管理公司的高级董事总经理。\n目前，Anthropic 的芯片主要采购自英伟达、谷歌以及亚马逊等多家供应商。不过，这家总部位于旧金山的公司近期已释放出打造内部自研芯片业务的信号，并已启动相关岗位的招聘。\nIT之家获悉，与其他 AI 巨",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -84,183 +136,129 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "用户反馈Win11自动卸载独显驱动，IT之家报道引关注。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家可信，内容具体有用户案例，但缺乏官方确认和深度分析。"
-    },
-    {
-      "title": "首次突破微米级，我国合成世界上最长单原子直径“金属线”",
-      "link": "https://www.ithome.com/0/992/448.htm",
-      "pubDate": "Fri, 21 Aug 2026 01:28:10 GMT",
-      "contentSnippet": "IT之家 8 月 21 日消息，据新华社报道，我国科学家首次将单原子直径的“金属线”的合成长度突破微米级。按直径和长度同比例缩放，这相当于一条 4 米的家用铜线。\n北京高压科学研究中心李阔团队创新应用高压固相拓扑聚合新策略，在国际上首次合成微米级长度、原子级粗细且结构稳定的碳包裹单金属原子链。该成果发表于国际学术期刊《科学》。\n\n单金属原子链，可以理解为世界上“最细的一维金属线”，它细到仅有一个原子的直径，是科学家探索微观世界低维物理规律理想的研究对象。“但这类材料的研发长期存在短板：部分制备手段只能在超高真空条件下实现，脱离这一环境便易损毁；另有方法可得到稳定、可批量制备的样品，但原子链长度",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "我国首次合成微米级单原子直径金属线，成果登《科学》。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家，引用新华社及《科学》期刊，技术细节具体，权威性高。"
-    },
-    {
-      "title": "WRC变了：从秀场到市场",
-      "link": "https://www.tmtpost.com/8111293.html",
-      "pubDate": "Fri, 21 Aug 2026 09:26:45 +0800",
-      "contentSnippet": "机器人开始找工作了。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "机器人行业从展示转向实际应用，开始进入就业市场。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容聚焦行业趋势，逻辑清晰，但缺乏具体数据支撑。"
-    },
-    {
-      "title": "泡泡玛特不想靠运气",
-      "link": "https://www.tmtpost.com/8111258.html",
-      "pubDate": "Fri, 21 Aug 2026 09:26:41 +0800",
-      "contentSnippet": "有运气，也有很多意想不到的流量。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "泡泡玛特寻求摆脱运气依赖，钛媒体分析其流量与挑战。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容具体分析公司战略，但缺乏数据支撑，评分适中。"
-    },
-    {
-      "title": "海特高新回应“抢印章”：作为华芯科技第一大股东，主张合法权利",
-      "link": "https://www.ithome.com/0/992/447.htm",
-      "pubDate": "Fri, 21 Aug 2026 01:26:01 GMT",
-      "contentSnippet": "IT之家 8 月 21 日消息，晶圆代工企业成都海威华芯科技有限公司 8 月 19 日晚发布公告称，海特高新组织百余人强闯公司，强行抢走公司党委印章、公司公章、合同专用章、“马晓力”字样手写体签章各 1 枚。对此，海特高新 8 月 20 日晚发布《关于参股公司华芯科技股东维权公告》，回应了本次事件。\n公告称，华芯科技原董事长马晓力在非法控制华芯科技期间，存在严重的违法违规问题，严重影响华芯科技的发展，直接给股东造成严重损失，具体问题如下：\n\n2025 年，青岛海岳控股有限公司原法人马晓力以更换法人方式逃避该公司的法律制裁。\n\n2024 年 12 月，马晓力伪造华芯科技董事会决议，违法登记为公司",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "海特高新回应抢印章事件，称作为华芯科技第一大股东主张合法权利。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，内容具体，引用双方公告，但缺少第三方核实，评分75。"
-    },
-    {
-      "title": "创见推出全系列 DDR5-7200 工业内存模组，支持 -20℃ ~ +85℃",
-      "link": "https://www.ithome.com/0/992/445.htm",
-      "pubDate": "Fri, 21 Aug 2026 01:17:11 GMT",
-      "contentSnippet": "IT之家 8 月 21 日消息，创见资讯 (Transcend) 昨日宣布推出面向工业应用场景的全系列 7200MT/s 传输速率 DDR5 内存模组。\n\n这批产品包含 non-ECC / ECC CUDIMM、non-ECC / ECC CSODIMM、RDIMM 外形规格，均支持  -20℃ ~ +85℃ 的工业级宽温工作范围。其中 ECC 与 RDIMM 版本采用 30 μin 镀金“金手指”及抗硫化技术，可提升接点耐用性、抗腐蚀性并降低含硫气体等的影响，提升工业设备长时间运作的稳定性。\n其适用范围覆盖 PC、嵌入式、工作站、服务器与数据中心，可满足 AI 推理、工业自动化、智慧医疗、车",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "创见推出全系列DDR5-7200工业内存，支持宽温及抗硫化技术。",
+      "aiSummary": "Anthropic聘请前谷歌TPU负责人，布局自研芯片。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道具体产品规格和特性，信息详实，来源可靠。"
+      "credibilityReason": "来源IT之家，引用彭博社报道，信息具体，涉及人物背景和公司动态，逻辑清晰。"
     },
     {
-      "title": "【视频】华为Pura X View 首发体验，当“阔”屏来到直板机",
-      "link": "https://www.ithome.com/0/992/443.htm",
-      "pubDate": "Fri, 21 Aug 2026 01:13:30 GMT",
-      "contentSnippet": "华为Pura X View 首发体验，当“阔”屏来到直板机。 \n    \n  点击关注IT之家B站账号",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "华为Pura X View首发体验，阔屏设计应用于直板机。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容具体但缺乏技术细节和原始数据，评分中等偏上。"
-    },
-    {
-      "title": "起亚官宣蔡徐坤担任品牌代言人，全新赛图斯将于 8 月 26 日上市",
-      "link": "https://www.ithome.com/0/992/442.htm",
-      "pubDate": "Fri, 21 Aug 2026 01:12:56 GMT",
-      "contentSnippet": "IT之家 8 月 21 日消息，8 月 20 日，悦达起亚官宣蔡徐坤为“起亚品牌代言人”，这也是蔡徐坤首次跨界代言汽车品牌。作为蔡徐坤代言起亚品牌的首款车型，起亚全新赛图斯将于 8 月 26 日在中国市场上市。\n\n据IT之家此前报道，起亚全新赛图斯车型于 8 月 13 日开启预售，推出 1.5L 舒适版、1.5L 豪华版、1.5L 尊贵版、1.5T 豪华版、1.5T 尊贵版 X-Line、1.5T 尊贵奢享版 X-Line 共 6 个配置版本，限时预售价 8.09 万元 — 12.09 万元。\n\n起亚全新赛图斯车身尺寸 4460mm x 1830mm x 1640mm，轴距 2690mm，外观",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "起亚官宣蔡徐坤为品牌代言人，全新赛图斯8月26日上市，预售价8.09万起。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道具体含车型配置和价格，但未提供官方公告链接，信息稍显简略。"
-    },
-    {
-      "title": "谷歌开源端侧模型家族 Gemma 总下载量破 10 亿次，派生超 10 万个变体",
-      "link": "https://www.ithome.com/0/992/441.htm",
-      "pubDate": "Fri, 21 Aug 2026 01:06:05 GMT",
-      "contentSnippet": "IT之家 8 月 21 日消息，Google（谷歌）当地时间 20 日宣布，其开源端侧模型家族 Gemma 的总下载量已突破 10 亿次；开发者在过去两年间发布了超过 10 万个 Gemma 模型变体，构成了一个被谷歌称为 \"Gemmaverse\" 的创新生态系统。\n\n谷歌列举了多个 Gemma 家族应用场景：从太空本地图像分析、医疗报告标准数字化、癌症创新治疗方案再到动物语言识别，Gemma 家族模型正实实在在地提升人类发展质量。\n谷歌将在 GitHub 上推出 Awesome Gemma 代码库，这一 Gemmaverse 官方精选目录收录了最好的社区项目、微调、教程、开发者工具。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "谷歌开源模型Gemma下载破10亿，衍生超10万变体，构建Gemmaverse生态。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来自知名科技媒体IT之家，信息具体有数据支撑，引用谷歌官方公告，逻辑清晰。"
-    },
-    {
-      "title": "国轩高科：配套问界 M6 纯电版相关项目正积极开展批量供货筹备工作，同时积极对接鸿蒙智行旗下其他车型",
-      "link": "https://www.ithome.com/0/992/440.htm",
-      "pubDate": "Fri, 21 Aug 2026 01:00:03 GMT",
-      "contentSnippet": "IT之家 8 月 21 日消息，国轩高科今日在互动平台表示，公司配套问界 M6 纯电版相关项目正积极开展批量供货筹备工作。\n\n同时，我们与鸿蒙智行持续深化合作，积极对接旗下其他车型，相关进展，请关注公司公开披露信息。\n\n\n36 氪汽车曾于今年 6 月报道，问界品牌将引入中创新航、国轩高科两家二线电池供应商（此前长期由宁德时代独供），问界 M6 已定点国轩高科的 81 度电池包。知情人士透露，国轩高科去年就收到了鸿蒙智行定点信，中创新航也将进入问界供应体系。\n\n▲ 问界 M6 纯电版\nIT之家查询获悉：鸿蒙智行六大核心技术矩阵具体包括华为乾崑智驾、华为鸿蒙座舱、华为途灵平台、华为智擎、华为巨鲸电",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国轩高科确认配套问界M6纯电版，正筹备批量供货，并深化与鸿蒙智行合作。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体，引用互动平台及36氪报道，但缺乏官方数据支撑。"
-    },
-    {
-      "title": "Chinese Mobile-Game Publishers Capture More Than 40 Percent of Global Top-100 Revenue",
-      "link": "https://www.tmtpost.com/8111264.html",
-      "pubDate": "Fri, 21 Aug 2026 08:59:02 +0800",
-      "contentSnippet": "In July 2026, thirty-eight Chinese firms ranked among the world’s hundred highest-grossing mobile-game publishers and together generated $2.3 billion, according to Sensor Tower. The figure underscores how overseas markets have become the main growth outlet for an industry whose home market is largel",
-      "sourceName": "钛媒体",
+      "title": "早报｜摄像头AirPods或配备拍摄指示灯/问界儿童车售价1.58万元/LV否认「起诉国家知识产权局遭驳回」",
+      "link": "https://www.ifanr.com/1676129?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pubDate": "Sat, 22 Aug 2026 00:50:06 +0000",
+      "contentSnippet": "· 阿里二季度重组电商与 AI 业务架构\r\n· 腾讯芯片负责人高剑林被曝离职创业，瞄准 RISC-V AI CPU\r\n· 旺旺被曝启动裁员，并要求员工提交自评报告\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "sourceName": "爱范儿",
       "sourceWeight": 82,
       "allSources": [
-        "钛媒体",
-        "少数派",
-        "InfoQ中文",
-        "Solidot"
+        "爱范儿"
       ],
-      "coverageCount": 4,
-      "coverageBoost": 15,
-      "aiSummary": "中国手游发行商占全球百强收入超四成，海外市场成增长主渠道。",
-      "credibilityScore": 100,
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "爱范儿早报汇总科技动态，含阿里重组、腾讯芯片负责人离职等。",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "引用Sensor Tower数据，来源为知名科技媒体，信息具体，逻辑清晰。（多源覆盖 +15）"
+      "credibilityReason": "来源为知名科技媒体，内容具体但多为转载摘要，缺乏深度细节和原始出处。"
+    },
+    {
+      "title": "微软公布《漫威斗魂》等游戏不兼容 Win11 八月更新初步结果：RGB 灯效设备代码冲突",
+      "link": "https://www.ithome.com/0/992/907.htm",
+      "pubDate": "Sat, 22 Aug 2026 00:41:55 GMT",
+      "contentSnippet": "IT之家 8 月 22 日消息，科技媒体 NeoWin 昨日（8 月 21 日）发布博文，报道称微软更新支持文档，认为多款游戏不兼容 Windows 11 八月累积更新，可能关联带 RGB（红绿蓝）灯效设备安装的驱动或组件。\nIT之家此前报道，微软目前已确认受影响游戏包括《ARC Raiders》《漫威斗魂》及《最终决战》，主要症状表现为游戏无响应、闪退、显示“EXCEPTION_ACCESS_VIOLATION”报错，甚至系统无预警重启。\n微软在最新调查结果中指出，上述游戏兼容性故障，可能关联带 RGB 灯效功能的外设或组件。上述设备所安装的驱动和代码组件会和 inpoutx64 冲突，在启",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微软称Win11八月更新致多款游戏不兼容，疑与RGB灯效设备驱动冲突。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，引用NeoWin和微软官方文档，信息具体，逻辑清晰。"
+    },
+    {
+      "title": "上汽 MG 07 大定破万仅用时 1 分 57 秒破 MG4 纪录，限时补贴价 10.59 万元起",
+      "link": "https://www.ithome.com/0/992/906.htm",
+      "pubDate": "Sat, 22 Aug 2026 00:36:18 GMT",
+      "contentSnippet": "IT之家 8 月 22 日消息，2026 成都车展于 8 月 21 日开幕，上汽 MG 07 车型正式上市。据官方最新消息，该车 1 分 57 秒大定破万，远超去年 MG4 破万纪录（39 分 37 秒）。\n此前 MG 的优惠政策包括前一万名锁单小订用户将赠送价值 1999 元的 30L 双温区车载冰箱，由于锁单数据远远超出预期，后续追加限时福利：8 月 21 日 19:00-19:30 完成小订转大定并锁单的用户将补送「30L 双温区大冰柜」。\n\n\nIT之家整理限时权益价如下：\n\n混动 245 舒享版 10.59 万元\n\n混动 245 激光雷达版 11.59 万元\n\n纯电 650 舒享版 1",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "上汽MG 07上市1分57秒大定破万，刷新纪录，限时补贴价10.59万元起。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道具体数据与价格，但缺少官方链接和深度技术分析。"
+    },
+    {
+      "title": "奇瑞全新艾瑞泽 7 全球首发亮相，提供电混、燃油版本",
+      "link": "https://www.ithome.com/0/992/905.htm",
+      "pubDate": "Sat, 22 Aug 2026 00:23:59 GMT",
+      "contentSnippet": "IT之家 8 月 22 日消息，2026 成都车展于 8 月 21 日开幕，奇瑞艾瑞泽家族全新车型 —— 艾瑞泽 7 正式迎来全球首发亮相。新车锚定 10 万级市场，预计于 2026 年四季度正式上市。\n\n据官方介绍，艾瑞泽 7 是奇瑞“全球化”战略的最新力作，从立项之初即按照全球标准研发。它跳出了“先造好车再做海外适配”的传统路径，直接从第一张图纸切入全球化体系，围绕全球七十多个国家需求进行同步开发与验证。\n\n该车全温域验证历经-40℃ 北欧极寒与 50℃ 中东烈日，覆盖 10 项极端工况；全路型验证投入近千台实车，完成 120 万公里测试，覆盖 30 多种全球典型路况；全海拔验证跨越艾丁湖",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "奇瑞全新艾瑞泽7成都车展首发，提供电混和燃油版，预计四季度上市。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，内容具体含测试数据，但缺少原始官方链接和独立验证。"
+    },
+    {
+      "title": "微软 Win11 将精细化管理统一内存，调控图形和 AI 预留容量",
+      "link": "https://www.ithome.com/0/992/904.htm",
+      "pubDate": "Sat, 22 Aug 2026 00:21:26 GMT",
+      "contentSnippet": "IT之家 8 月 22 日消息，科技媒体 Windows Latest 昨日（8 月 21 日）发布博文，报道称在 Windows 11 系统中，微软计划增加统一内存管理，精细化管控图形处理和 AI 任务预留内存。\nIT之家注：统一内存（Unified memory）是指 CPU、GPU 和其他加速器共享同一块高速内存池。与传统电脑将系统 RAM 和显存分开的方式不同，统一内存能让本地 AI 模型、图形任务和普通应用共同使用更大的内存空间。\n\n目前市场上采用统一内存架构的典型设备是苹果的 Mac，此外 AMD Ryzen AI Max “Halo”系列和 NVIDIA RTX Spark 平台",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微软计划在Win11中增加统一内存管理，精细化调控图形和AI预留容量。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，引用Windows Latest原始报道，内容具体，技术解释清晰，但缺乏官方确认。"
+    },
+    {
+      "title": "5G 商用网络实现十厘米级别定位精度，爱立信、联发科完成全球首例高精度户外定位端到端测试",
+      "link": "https://www.ithome.com/0/992/903.htm",
+      "pubDate": "Sat, 22 Aug 2026 00:14:38 GMT",
+      "contentSnippet": "IT之家 8 月 22 日消息，爱立信宣布，与联发科成功完成全球首例高精度户外定位端到端（e2e）测试。\nIT之家获悉，双方利用符合 3GPP 标准的全球导航卫星系统（GNSS）实时动态（RTK）技术，在 5G 商用网络上直接实现了十厘米级别的定位精度。\n传统 GNSS 的精度通常为几米。基于 3GPP 的实时动态（RTK）技术利用参考站网络生成辅助数据，并通过蜂窝网络以大规模方式将这些数据分发至设备。设备利用这些辅助数据，实时校正大气中的信号延迟和卫星误差，从而为当今及未来所需的数字化和空间感知提供极高的精度。\n官方表示，此次测试标志着工业和自动驾驶应用取得了重大突破，在这些领域中，精确的位",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "爱立信与联发科完成全球首例5G高精度户外定位测试，实现十厘米级精度。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体，引用官方信息，技术细节清晰，逻辑合理。"
+    },
+    {
+      "title": "抖音“验证助手”升级：可查验“二维码”是否为抖音官方活动",
+      "link": "https://www.ithome.com/0/992/902.htm",
+      "pubDate": "Sat, 22 Aug 2026 00:12:45 GMT",
+      "contentSnippet": "IT之家 8 月 22 日消息，抖音黑板报 8 月 21 日发文称，近期，冒充抖音邮寄虚假“兑奖快递”的骗局仍有发生，诈骗分子将各类印有“抖音官方活动”的卡片、宣传册寄给用户，伪装成平台福利、节日回馈或品牌联名活动，诱导用户扫描卡片上的二维码联系“客服”兑奖。针对此类情况，抖音“验证助手”再次升级，在图片识别的基础上，支持二维码识别，帮用户甄别是否为抖音官方活动。\n抖音提醒，抖音官方不会以邮寄卡片、附赠小礼品等方式，引导用户扫码进入第三方页面领取福利。\n\nIT之家从文中获悉，抖音整理了近期出现的十种仿冒抖音诈骗的“快递资料”，虽然卡片的包装主题不断翻新，但实际上只是把同一套“邮寄引流、扫码转化",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "抖音验证助手升级支持二维码识别，防范虚假兑奖快递骗局。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，内容具体，引用官方公告，技术细节明确，逻辑清晰。"
     }
   ]
 }
