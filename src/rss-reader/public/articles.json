@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-22T01:24:36.080Z",
+  "generatedAt": "2026-08-23T01:38:24.749Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "台湾艺人陈柏霖，当庭认罪",
-      "link": "https://www.chinanews.com.cn/cul/2026/08-22/10682174.shtml",
-      "pubDate": "Sat, 22 Aug 2026 08:58:30 +0800",
-      "contentSnippet": "台湾艺人陈柏霖、谢坤达涉嫌伪造高血压病历逃避兵役，21日出庭时二人对于犯行全盘认罪，但认为检方求刑两年八个月过重，提出考虑其二人没有前科、常热衷公益等，请求给予缓刑。",
+      "title": "新思想引领新征程丨拓展共建“一带一路”合作新空间 铺就共赢之路",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-23/10682520.shtml",
+      "pubDate": "Sun, 23 Aug 2026 08:55:36 +0800",
+      "contentSnippet": "视频：新思想引领新征程丨拓展共建“一带一路”合作新空间 铺就共赢之路来源：央视新闻客户端",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -16,16 +16,67 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "台湾艺人陈柏霖、谢坤达涉嫌伪造病历逃避兵役，当庭认罪，请求缓刑。",
-      "credibilityScore": 85,
+      "aiSummary": "中国新闻网报道“一带一路”合作新空间，强调共赢发展。",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，权威性较高；报道具体，含时间、人物、细节，但未多源交叉验证。"
+      "credibilityReason": "来源为官方媒体，内容正面但缺乏具体细节，评分中等偏上。"
     },
     {
-      "title": "台湾台南市发生大火 多人受伤",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-22/10682169.shtml",
-      "pubDate": "Sat, 22 Aug 2026 08:51:01 +0800",
-      "contentSnippet": "总台记者获悉，台湾台南市安南区22日凌晨1时许发生火灾，当地消防单位出动20多个分队前往救灾，在灭火过程中现场多次发生剧烈爆炸。有消息称，现场有多辆消防车、救护车被烧毁，至少有3名消防员、11位居民受伤。(总台记者 赵凯 黄惠馨)",
+      "title": "加美贸易谈判破裂，卡尼宣布对美征收报复性关税",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-23/10682513.shtml",
+      "pubDate": "Sun, 23 Aug 2026 08:35:19 +0800",
+      "contentSnippet": "中新网8月23日电 据英国广播公司(BBC)报道，当地时间8月22日，加拿大总理卡尼宣布，鉴于美国对价值200亿美元的加拿大商品征收50%的关税，加拿大的等额报复性关税计划于9月8日正式生效执行。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "加美贸易谈判破裂，加拿大总理卡尼宣布对美征收等额报复性关税，9月8日生效。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，引用BBC报道，信息具体（时间、金额、税率），来源权威，可交叉验证。"
+    },
+    {
+      "title": "历史上的今天｜1958年8月23日，炮击金门",
+      "link": "https://m.thepaper.cn/detail/33824995",
+      "pubDate": "Sat, 22 Aug 2026 23:06:02 GMT",
+      "contentSnippet": "1958年8月23日，随着前线指挥部一声令下，位于厦门的解放军炮兵阵地发出了震耳欲聋的炮声，震惊世界的炮击金门作战打响。",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "回顾1958年炮击金门历史事件，来源为澎湃新闻。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源较权威，历史事实可查证，内容具体，但缺乏直接引述和多源交叉验证。"
+    },
+    {
+      "title": "叙利亚谴责以色列袭击“严重侵犯叙主权”",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-23/10682500.shtml",
+      "pubDate": "Sun, 23 Aug 2026 06:36:18 +0800",
+      "contentSnippet": "叙利亚过渡政府外交部22日发表声明，强烈谴责以色列无人机当天在叙利亚大马士革农村省拜特金地区袭击一辆民用车辆，此次袭击造成多名平民受伤。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "叙利亚谴责以色列无人机袭击民用车辆，称严重侵犯主权。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，较权威；报道具体时间地点，引用官方声明，但未多源交叉验证。"
+    },
+    {
+      "title": "加拿大宣布9月8日起对美国商品征收报复性关税",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-23/10682499.shtml",
+      "pubDate": "Sun, 23 Aug 2026 06:30:35 +0800",
+      "contentSnippet": "当地时间8月22日，加拿大总理卡尼发表全国电视讲话，就加美贸易谈判破裂全面阐明加方立场。卡尼宣布，鉴于美国对价值200亿美元的加拿大商品征收50%的关税，加拿大的等额报复性关税计划于9月8日正式生效执行。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -34,16 +85,16 @@
       ],
       "coverageCount": 2,
       "coverageBoost": 5,
-      "aiSummary": "台湾台南市安南区凌晨发生大火，多人受伤，消防员救援中遇爆炸。",
+      "aiSummary": "加拿大宣布9月8日起对美国商品征收等额报复性关税，回应美方50%关税。",
       "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为央视总台记者报道，信息具体，含时间地点伤亡数据，权威性高。（多源覆盖 +5）"
+      "credibilityReason": "来源为权威媒体，信息具体含时间、人物、数据，直接引述总理讲话，可信度高。（多源覆盖 +5）"
     },
     {
-      "title": "实干开新局｜织密“六张网” 畅通大市场",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-22/10682168.shtml",
-      "pubDate": "Sat, 22 Aug 2026 08:47:37 +0800",
-      "contentSnippet": "|联播+|7月30日，中共中央政治局召开会议明确强调，扎实推进“六张网”规划建设。",
+      "title": "“发挥好支部的战斗堡垒作用”",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-23/10682535.shtml",
+      "pubDate": "Sun, 23 Aug 2026 09:21:54 +0800",
+      "contentSnippet": "视频：“发挥好支部的战斗堡垒作用”来源：新华社客户端",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -51,16 +102,135 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中央政治局会议部署推进“六张网”规划建设，旨在畅通国内市场。",
-      "credibilityScore": 75,
+      "aiSummary": "中国新闻网报道强调发挥党支部战斗堡垒作用，内容源自新华社。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，属权威媒体，内容具体，但缺乏直接引述和交叉验证。"
+      "credibilityReason": "来源为官方通讯社新华社，权威性高，内容具体，用词客观，符合高可信标准。"
     },
     {
-      "title": "理政纪丨一条板凳连民心",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-22/10682167.shtml",
-      "pubDate": "Sat, 22 Aug 2026 08:45:45 +0800",
-      "contentSnippet": "一张方桌，几条板凳，和老百姓围坐交谈，这是习近平总书记在基层调研时经常出现的场景。",
+      "title": "美国友人“赛考斯”时隔20余年重返中国：我回到了我的第二个家",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-23/10682533.shtml",
+      "pubDate": "Sun, 23 Aug 2026 09:20:46 +0800",
+      "contentSnippet": "美国友人“赛考斯”时隔20余年重返中国：我回到了我的第二个家；感谢中国，让我成为更好的人；将与殷玉珍重逢",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "美国友人赛考斯时隔20余年重返中国，称回到第二个家，感谢中国并期待与殷玉珍重逢。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，较权威；内容具体但缺乏细节和直接引述，情感色彩稍浓。"
+    },
+    {
+      "title": "上半年亏损或四千万，爱丽家居凭什么13天12板？",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-23/10682523.shtml",
+      "pubDate": "Sun, 23 Aug 2026 09:18:36 +0800",
+      "contentSnippet": "中新网北京8月23日电(记者 谢艺观)涨停的股票很多，但13个交易日斩获12个涨停板的并不多，爱丽家居算一个。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "爱丽家居上半年或亏四千万，却13天12板，中新网分析其背后原因。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网，权威媒体，有记者署名，内容具体，分析客观，可查证。"
+    },
+    {
+      "title": "处暑来临，为何不意味着马上“出暑”？",
+      "link": "https://www.chinanews.com.cn/cul/2026/08-23/10682530.shtml",
+      "pubDate": "Sun, 23 Aug 2026 09:17:26 +0800",
+      "contentSnippet": "中新网北京8月23日电(记者 上官云)8月23日，处暑节气来临。盛夏慢慢远去，秋意渐浓。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "处暑节气到来，但气象学上不意味着立即出暑，秋意渐浓。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网，权威媒体，内容具体，引用记者署名，事实可查证。"
+    },
+    {
+      "title": "【循着节气看山河】处暑：暑消秋气爽 满目皆清宁",
+      "link": "http://www.chinanews.com.cn/sh/shipin/2026/08-23/news1066223.shtml",
+      "pubDate": "Sun, 23 Aug 2026 09:03:32 +0800",
+      "contentSnippet": "鹰乃祭鸟，天地始肃，禾乃登，秋季第二个节气到来。太行山云海壮阔宛若水墨长卷，打卡三峡大坝看晴空澄澈如碧玉，漫步九寨沟山林寻一抹静谧。处暑，愿你在秋的澄净里，邂逅满目清宁。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "处暑节气到来，中国新闻网展示太行山、三峡、九寨沟秋景，传递秋日宁静。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为正规媒体，内容为节气文化报道，事实性强，但无具体数据或引述，评分略低。"
+    },
+    {
+      "title": "万年遗址邂逅潮流文艺 宁夏水洞沟上演星河盛焰音乐嘉年华",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-23/10682519.shtml",
+      "pubDate": "Sun, 23 Aug 2026 09:01:37 +0800",
+      "contentSnippet": "中新网银川8月23日电 (记者 李佩珊)动感音乐节流光唱响、非遗打铁花绚烂绽放、实景马术演绎精彩上演……8月22日，2026年水洞沟·星河盛焰音乐嘉年华在宁夏灵武市水洞沟旅游区启幕。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "宁夏水洞沟举办音乐嘉年华，融合非遗与实景演出，吸引游客。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网，权威媒体，有具体时间地点和记者署名，内容客观。"
+    },
+    {
+      "title": "香港特区政府新闻处与亚广联签署合作谅解备忘录 冀讲好香港故事",
+      "link": "https://www.chinanews.com.cn/dwq/2026/08-23/10682517.shtml",
+      "pubDate": "Sun, 23 Aug 2026 09:00:19 +0800",
+      "contentSnippet": "中新网香港8月23日电 香港特区政府新闻处与亚洲-太平洋广播联盟(简称“亚广联”)22日在香港签署合作谅解备忘录，加强双方在媒体和传播方面的合作与交流，并在国际舞台上讲好香港故事。这是特区政府新闻处首次与区域性广播联盟签署同类合作备忘录。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "香港特区政府新闻处与亚广联签署合作备忘录，加强媒体合作，讲好香港故事。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，权威性较高；内容具体，含时间、地点、事件，事实可查证。"
+    },
+    {
+      "title": "时政微观察丨从这些生动比喻感悟正确政绩观",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-23/10682518.shtml",
+      "pubDate": "Sun, 23 Aug 2026 08:52:42 +0800",
+      "contentSnippet": "",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国新闻网刊文，以生动比喻阐述正确政绩观，强调为民造福。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为官方媒体，内容正面且具体，但缺乏独立核实，评分适中。"
+    },
+    {
+      "title": "台风+暴雨双预警齐发 这些地区需防范特大暴雨",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-23/10682514.shtml",
+      "pubDate": "Sun, 23 Aug 2026 08:52:00 +0800",
+      "contentSnippet": "中新网8月23日电 据中央气象台网站消息，中央气象台23日6时继续发布台风蓝色预警和暴雨蓝色预警。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -69,197 +239,27 @@
       ],
       "coverageCount": 2,
       "coverageBoost": 5,
-      "aiSummary": "习近平基层调研常与民众围坐交谈，体现亲民作风。",
+      "aiSummary": "中央气象台发布台风及暴雨双预警，部分地区需防范特大暴雨。",
       "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为官方媒体，内容具体，描述客观，事实可查证，但无直接引述。（多源覆盖 +5）"
+      "credibilityReason": "来源为权威媒体，引用中央气象台官方信息，内容具体，可信度高。（多源覆盖 +5）"
     },
     {
-      "title": "美媒：美计划偿还联合国8.5亿美元欠款",
-      "link": "https://m.thepaper.cn/detail/33830888",
-      "pubDate": "Fri, 21 Aug 2026 23:18:18 GMT",
-      "contentSnippet": "据美国媒体21日报道，美国政府已通知国会计划向联合国支付8.5亿美元，以偿还其拖欠的部分联合国会费及其他款项。\n据美联社获得的本月提交给国会议员的通知显示，美国务院计划拨付7.25亿美元用于支付联合国会费，1.25亿美元用于支持联合国在海地和刚果（金）的维和行动。\n报道说，美国拖欠联合国相关摊款资金总额约50亿美元，其中包括超20亿美元会费和约30亿美元的维和行动经费。\n今年1月30日，联合国秘书长古特雷斯的副发言人哈克说，古特雷斯已致信所有联合国会员国，警示联合国“面临资金枯竭的现实风险”。",
-      "sourceName": "澎湃新闻",
+      "title": "机器人原地跳高跳出2.8843米突破人类纪录",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-23/10682516.shtml",
+      "pubDate": "Sun, 23 Aug 2026 08:51:56 +0800",
+      "contentSnippet": "中新网北京8月23日电 (记者  陈杭  吕少威  徐婧)22日晚，第二届世界人形机器人运动会在北京国家速滑馆“冰丝带”开幕。开幕式上，在原地跳高展示项目里，来自北京的天工Ultra机器人跳出的高度为2.8843米，突破人类纪录。对比去年的冠军成绩95.641厘米，也大幅提升。",
+      "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
-        "澎湃新闻"
+        "中国新闻网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "美媒称美计划偿还联合国8.5亿美元欠款，含会费及维和经费。",
+      "aiSummary": "北京人形机器人运动会开幕，天工Ultra跳高2.8843米破人类纪录。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为澎湃新闻，引述美联社及官方通知，具体金额与时间明确，信息可查证。"
-    },
-    {
-      "title": "《给阿嬷的情书》海外票房破亿 多部国产影片海外热映",
-      "link": "https://www.chinanews.com.cn/cul/2026/08-22/10682180.shtml",
-      "pubDate": "Sat, 22 Aug 2026 09:19:29 +0800",
-      "contentSnippet": "近期，扎根本土生活、承载中国文化的多部国产电影陆续登陆海外院线。其中《给阿嬷的情书》凭借真实细腻的故事内容，收获多国观众认可，目前海外票房已超1亿元。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国产电影《给阿嬷的情书》海外票房破亿，多部影片海外热映。",
-      "credibilityScore": 75,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源中国新闻网较权威，信息具体，但缺乏直接引述和多源验证。"
-    },
-    {
-      "title": "真金白银投得更实 政策举措落得更准",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-22/10682179.shtml",
-      "pubDate": "Sat, 22 Aug 2026 09:17:09 +0800",
-      "contentSnippet": "财政支出预算安排首超三十万亿元，新增政府债券规模历年最大",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国财政支出预算首超三十万亿，新增政府债券规模创历年新高。",
-      "credibilityScore": 75,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名媒体，内容具体但缺乏细节和直接引述，政策数据可查证。"
-    },
-    {
-      "title": "探访中国民间艺术（钟馗画）之乡",
-      "link": "https://www.chinanews.com.cn/tp/2026/08-22/10682176.shtml",
-      "pubDate": "Sat, 22 Aug 2026 09:09:55 +0800",
-      "contentSnippet": "8月21日，航拍安徽省宿州市灵璧县钟馗文化园。中新社记者 韩苏原 摄\r\n\n8月21日，安徽省宿州市灵璧县钟馗文化园，青年游客在印有《黑神话：钟馗》形象展板前打卡留念。中新社记者 韩苏原 摄  \r\n\n8月21日，安徽省宿州市灵璧县，尹氏钟馗画第五代传人尹婷婷正在创作钟馗画。中新社记者 韩苏原 摄  \r\n\n8月21日，安徽省宿州市灵璧县，尹氏钟馗画第五代传人尹婷婷正在点评学生们的钟馗画作。中新社记者 韩苏原 摄    \r\n\n8月21日，安徽省宿州市灵璧县，两位年轻人展示她们拓印的钟馗画。中新社记者 韩苏原 摄    \r\n\n8月21日，记者在安徽省宿州市灵璧县拍摄的卡通版拓印钟馗画。中新社记者 韩苏",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国新闻网报道安徽灵璧县钟馗画艺术，展示文化园及传承人创作场景。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为官方媒体，内容具体，含时间地点人物，配图，事实可查证。"
-    },
-    {
-      "title": "旅德大熊猫双胞胎“梦好”“梦甜”喜迎两周岁生日",
-      "link": "http://www.chinanews.com.cn/tp/hd2011/2026/08-22/1201735.shtml",
-      "pubDate": "Sat, 22 Aug 2026 09:07:21 +0800",
-      "contentSnippet": "",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "旅德大熊猫双胞胎“梦好”“梦甜”在德国迎来两周岁生日，中国新闻网报道。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威性较高；内容具体，涉及具体时间地点和事件，可查证。"
-    },
-    {
-      "title": "彭凯平：孩子和父母都在“求救”",
-      "link": "https://www.chinanews.com.cn/edu/2026/08-22/10682177.shtml",
-      "pubDate": "Sat, 22 Aug 2026 09:04:37 +0800",
-      "contentSnippet": "中国新闻周刊记者：邱启媛",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "心理学家彭凯平指出，孩子和父母在心理压力下都在寻求帮助。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名媒体，内容具体，涉及专家观点，但缺乏多源验证。"
-    },
-    {
-      "title": "直播外链：长江十年行｜在长江入海口，看“沪”美新篇章",
-      "link": "https://www.chinanews.com.cn/iframe/2026/08-22/10682175.shtml",
-      "pubDate": "Sat, 22 Aug 2026 09:00:48 +0800",
-      "contentSnippet": "",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国新闻网直播长江入海口生态与城市发展，展现上海新篇章。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源权威，内容具体，涉及生态与城市发展，可查证，用词客观。"
-    },
-    {
-      "title": "刘成国：“荆公体”小考",
-      "link": "https://m.thepaper.cn/detail/33799449",
-      "pubDate": "Sat, 22 Aug 2026 00:59:32 GMT",
-      "contentSnippet": "一\n“荆公体”是中国文学史上一种著名诗体。一般认为，“荆公体”乃针对王安石后期的诗歌风格而言。它的体制是绝句，艺术风格则寓悲壮于闲淡，雅丽精绝，脱去流俗，锻炼精巧。它代表了王诗创作的最高成就。近些年来，亦有学者从王氏的诗艺发展、政治生涯、晚年心态、思想转变等方面，追溯“荆公体”形成的原因。一些流行的文学史著作，由此做出以下论断：\n后期王诗中最有代表性的作品是写景抒情的绝句，正是这些诗使王安石在当时诗坛上享有盛誉。……从宋人的这些言论来看，人们称王诗为“王荆公体”，主要是着眼于其晚期诗风。\n王安石写诗学杜甫、韩愈，晚年又参以王维，转益多师，融化前人，形成自名一家的“王荆公体”。其诗以思理见长，新",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "澎湃新闻刊文考证‘荆公体’定义，指王安石晚期绝句风格，学界对其成因有探讨。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源澎湃新闻较权威，内容学术具体，引述文学史论断，但未多源交叉验证。"
-    },
-    {
-      "title": "地理学家的思想哪里来——读唐晓峰教授《短长篇》有感",
-      "link": "https://m.thepaper.cn/detail/33823609",
-      "pubDate": "Sat, 22 Aug 2026 00:59:01 GMT",
-      "contentSnippet": "地理，作为物质，它无处不在，似乎稀松平常，但是它又如此神秘，从茶余饭后的话题到探索星辰大海的课题，绕不开。为什么？除了其中隐藏的奥秘令人着迷之外，很重要的缘故，或许在于大地并不是只有冷冰冰的物质，还透着活生生的思想。一个有着思想的大地，如何不让人着迷。于是地理学家便也有了思想，有了思想的地理学家是可亲可爱的。《短长篇》（雅学堂丛书第3辑，甘肃文化出版社，2006年4月第一版）的作者唐晓峰教授，就是这样一位有思想的地理学家。\n\n他的思想是哪里来的呢？首先，用他自己的话说，地理学的思想层面（不是具体的理论），“这是慢慢看出来的。因为它们的存在是散漫的，有些是在言辞或行为的背后。而正是因为这个特征，",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "书评探讨地理学思想来源，评唐晓峰《短长篇》，来源澎湃新闻。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源较权威，内容具体，但为书评，主观性强，无多源验证。"
-    },
-    {
-      "title": "订单排到第四季度！国产叉车 全球爆单→",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-22/10682173.shtml",
-      "pubDate": "Sat, 22 Aug 2026 08:56:44 +0800",
-      "contentSnippet": "你可能很少注意到叉车",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国产叉车订单排至第四季度，全球市场火爆。",
-      "credibilityScore": 75,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源较权威，但正文摘要过短，缺乏具体数据与引述，信息不完整。"
-    },
-    {
-      "title": "风向哪吹，马向哪追——内蒙古呼伦贝尔散记",
-      "link": "https://m.thepaper.cn/detail/33827418",
-      "pubDate": "Sat, 22 Aug 2026 00:56:35 GMT",
-      "contentSnippet": "北方，总是给人无限的想象，令人神往。到了呼伦贝尔，《呼伦贝尔大草原》深情悠扬的旋律一下子跳出脑海，并不时在旅途中回荡。“天边”的草原、“高山深处”的大兴安岭、“河边”的蒙古包、“云雾间”的林海，还有视线所及随处可见成群的牛羊。\n\n草原与河，高子华摄\n\n\n接我的朋友满迪，是位鄂温克族汉子，高大英俊。他和我们说，这个地方不一般，在接下来的时间里，慢慢地体会吧。\n行走在呼伦贝尔，时时会有不期而遇的惊喜降临，总觉得不时被草原上的某种东西感动着——是山川人物，风土人情，还有只有当地朋友带去才能吃到的美食。\n一、古城奇遇\n我们的越野车穿越新巴尔虎左旗草原深处，两个多小时的时间里，四面是“天苍苍、野茫茫，风",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "澎湃新闻游记，记录呼伦贝尔草原风光与人文体验，内容主观抒情，缺乏新闻要素。",
-      "credibilityScore": 55,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名媒体但属游记散文，无具体时间地点数据，主观描述多，事实可查证性低。"
+      "credibilityReason": "来源中国新闻网，权威媒体，有具体数据、时间地点及记者署名，内容可查证。"
     }
   ]
 }
