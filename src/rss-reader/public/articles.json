@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-23T01:38:24.749Z",
+  "generatedAt": "2026-08-24T01:36:32.339Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "新思想引领新征程丨拓展共建“一带一路”合作新空间 铺就共赢之路",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-23/10682520.shtml",
-      "pubDate": "Sun, 23 Aug 2026 08:55:36 +0800",
-      "contentSnippet": "视频：新思想引领新征程丨拓展共建“一带一路”合作新空间 铺就共赢之路来源：央视新闻客户端",
+      "title": "“简拉维”减弱为热带低压 台湾福建广东等地雨势较强",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-24/10682937.shtml",
+      "pubDate": "Mon, 24 Aug 2026 09:26:05 +0800",
+      "contentSnippet": "中新网8月24日电 据中央气象台网站消息，今年第20号台风“简拉维”已于23日晚上11点钟在台湾海峡内减弱为热带低压，有可能于今天白天在福建近海减弱消散，不过其还会给台湾、福建、广东等地带来大范围的降雨。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -16,33 +16,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国新闻网报道“一带一路”合作新空间，强调共赢发展。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为官方媒体，内容正面但缺乏具体细节，评分中等偏上。"
-    },
-    {
-      "title": "加美贸易谈判破裂，卡尼宣布对美征收报复性关税",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-23/10682513.shtml",
-      "pubDate": "Sun, 23 Aug 2026 08:35:19 +0800",
-      "contentSnippet": "中新网8月23日电 据英国广播公司(BBC)报道，当地时间8月22日，加拿大总理卡尼宣布，鉴于美国对价值200亿美元的加拿大商品征收50%的关税，加拿大的等额报复性关税计划于9月8日正式生效执行。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "加美贸易谈判破裂，加拿大总理卡尼宣布对美征收等额报复性关税，9月8日生效。",
+      "aiSummary": "台风简拉维减弱为热带低压，台湾福建广东等地雨势较强。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，引用BBC报道，信息具体（时间、金额、税率），来源权威，可交叉验证。"
+      "credibilityReason": "来源中国新闻网，引用中央气象台官方消息，信息具体，客观可信。"
     },
     {
-      "title": "历史上的今天｜1958年8月23日，炮击金门",
-      "link": "https://m.thepaper.cn/detail/33824995",
-      "pubDate": "Sat, 22 Aug 2026 23:06:02 GMT",
-      "contentSnippet": "1958年8月23日，随着前线指挥部一声令下，位于厦门的解放军炮兵阵地发出了震耳欲聋的炮声，震惊世界的炮击金门作战打响。",
+      "title": "霍尔果斯口岸中欧中亚班列通行量超6000列",
+      "link": "https://www.chinanews.com.cn/ydyl/2026/08-24/10682963.shtml",
+      "pubDate": "Mon, 24 Aug 2026 09:23:49 +0800",
+      "contentSnippet": "本报乌鲁木齐8月23日电(记者尚嵘峥)近日，一列满载机械设备、汽车配件、家电产品的中欧班列从新疆霍尔果斯铁路口岸驶出，霍尔果斯铁路口岸今年中欧中亚班列通行量突破6000列，过货量超1000万吨。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "霍尔果斯口岸今年中欧中亚班列通行量突破6000列，过货量超1000万吨。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，属权威媒体，报道具体数据，有明确记者署名，事实可查证。"
+    },
+    {
+      "title": "暴雨黄警和台风蓝警继续发布，部分地区需警惕雷暴大风",
+      "link": "https://m.thepaper.cn/detail/33837994",
+      "pubDate": "Mon, 24 Aug 2026 01:02:40 GMT",
+      "contentSnippet": "中央气象台8月24日6时继续发布暴雨黄色预警：\n预计，8月24日8时至25日8时，浙江东南部、福建东部和中南部、广东东部和北部、台湾岛、海南岛西部、江西东部和西南部、湖南中部、湖北西部、云南西部以及辽宁东部、吉林东南部、黑龙江西部等地部分地区有大到暴雨，其中，浙江东南部、福建东部沿海、广东北部、台湾岛大部及辽宁东部等地部分地区有大暴雨，台湾岛局地有特大暴雨(250至300毫米）。上述部分地区伴有短时强降水（最大小时降雨量20至50毫米，局地可超过80毫米），局地有雷暴大风等强对流天气。\n\n中央气象台8月24日6时继续发布台风蓝色预警：\n今年第19号台风“紫檀”（热带风暴级）的中心今天（24日）",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -50,16 +50,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "回顾1958年炮击金门历史事件，来源为澎湃新闻。",
-      "credibilityScore": 75,
+      "aiSummary": "中央气象台发布暴雨黄色预警和台风蓝色预警，部分地区需警惕强对流天气。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源较权威，历史事实可查证，内容具体，但缺乏直接引述和多源交叉验证。"
+      "credibilityReason": "来源为知名媒体，引用中央气象台官方预警，信息具体，时效性强。"
     },
     {
-      "title": "叙利亚谴责以色列袭击“严重侵犯叙主权”",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-23/10682500.shtml",
-      "pubDate": "Sun, 23 Aug 2026 06:36:18 +0800",
-      "contentSnippet": "叙利亚过渡政府外交部22日发表声明，强烈谴责以色列无人机当天在叙利亚大马士革农村省拜特金地区袭击一辆民用车辆，此次袭击造成多名平民受伤。",
+      "title": "美国与加拿大翻脸，谈判或将演变成贸易战",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-24/10682929.shtml",
+      "pubDate": "Mon, 24 Aug 2026 08:52:23 +0800",
+      "contentSnippet": "美国与加拿大翻脸，谈判或将演变成贸易战：“够了！”特朗普怒斥加拿大想占美国便宜，加总理卡尼硬刚“我们在战争状态” | 国际早察",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -67,188 +67,84 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "叙利亚谴责以色列无人机袭击民用车辆，称严重侵犯主权。",
+      "aiSummary": "美加谈判破裂，特朗普与卡尼互斥，贸易战风险上升。",
       "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，较权威；报道具体时间地点，引用官方声明，但未多源交叉验证。"
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名媒体，有直接引述，但事件细节有限，需进一步核实。"
     },
     {
-      "title": "加拿大宣布9月8日起对美国商品征收报复性关税",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-23/10682499.shtml",
-      "pubDate": "Sun, 23 Aug 2026 06:30:35 +0800",
-      "contentSnippet": "当地时间8月22日，加拿大总理卡尼发表全国电视讲话，就加美贸易谈判破裂全面阐明加方立场。卡尼宣布，鉴于美国对价值200亿美元的加拿大商品征收50%的关税，加拿大的等额报复性关税计划于9月8日正式生效执行。",
-      "sourceName": "中国新闻网",
+      "title": "澎湃读报丨人民日报连续三天刊发“钟才文”文章，关注中国经济强大韧性活力",
+      "link": "https://m.thepaper.cn/detail/33837956",
+      "pubDate": "Mon, 24 Aug 2026 00:30:21 GMT",
+      "contentSnippet": "今年以来，在以习近平同志为核心的党中央坚强领导下，各地区各部门积极作为、迎难而上，有效应对各种外部冲击和内部困难，扎扎实实推动高质量发展，我国经济运行呈现出动能向新、结构向优的发展态势，成绩可圈可点。《人民日报》连续三天刊发“钟才文”署名文章，聚焦中国经济彰显出的强大韧性与活力。\n8月24日《上半年经济增长4.7%说明了什么？》\n  文章指出，风雨见真章，磨砺出底气。上半年，我国经济顶压前行，延续总体平稳、向新向优的发展态势，国内生产总值（GDP）同比增长4.7%。我们有力应对地缘政治冲突、经贸摩擦等外部环境变化，有效驾驭国内供强需弱、新老问题叠加等复杂局面，取得来之不易、难能可贵的成绩。\n展",
+      "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
-        "中国新闻网",
         "澎湃新闻"
       ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "加拿大宣布9月8日起对美国商品征收等额报复性关税，回应美方50%关税。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为权威媒体，信息具体含时间、人物、数据，直接引述总理讲话，可信度高。（多源覆盖 +5）"
-    },
-    {
-      "title": "“发挥好支部的战斗堡垒作用”",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-23/10682535.shtml",
-      "pubDate": "Sun, 23 Aug 2026 09:21:54 +0800",
-      "contentSnippet": "视频：“发挥好支部的战斗堡垒作用”来源：新华社客户端",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国新闻网报道强调发挥党支部战斗堡垒作用，内容源自新华社。",
+      "aiSummary": "人民日报连续三天刊发钟才文文章，强调中国经济韧性与活力，上半年GDP增长4.7%。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为官方通讯社新华社，权威性高，内容具体，用词客观，符合高可信标准。"
+      "credibilityReason": "来源为权威媒体澎湃新闻，内容具体引用人民日报文章及GDP数据，用词客观，可交叉验证。"
     },
     {
-      "title": "美国友人“赛考斯”时隔20余年重返中国：我回到了我的第二个家",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-23/10682533.shtml",
-      "pubDate": "Sun, 23 Aug 2026 09:20:46 +0800",
-      "contentSnippet": "美国友人“赛考斯”时隔20余年重返中国：我回到了我的第二个家；感谢中国，让我成为更好的人；将与殷玉珍重逢",
-      "sourceName": "中国新闻网",
+      "title": "这部暑期档大剧，为何成了国剧新标杆？",
+      "link": "https://m.thepaper.cn/detail/33836970",
+      "pubDate": "Mon, 24 Aug 2026 00:29:18 GMT",
+      "contentSnippet": "正在热播的《重器》，开播即成为2026 年暑期档备受关注的现象级作品。作为最高人民检察院影视中心、最高人民法院影视中心首次联合出品、国家广播电视总局重点扶持项目，剧集自上线起便收获多方的好评。\n# 重器初代法律人热血群像 #、# 国产剧敢拍判错翻案了 #等话题持续出圈，叠加央视八套黄金档的收视表现，也让这部作品进入市场对于 “年度剧王” 的讨论视野。\n该剧把时间线锚定1979年至1997年中国法治建设的关键窗口期，以五位初代政法青年的命运轨迹，串联起一部“微缩的中国当代法治史”。\n一部年代法治剧为何能口碑热度双丰收？群像塑造、年代质感、主题深度兼具，擅长现实题材的爱奇艺又一次交出了标杆级答卷。",
+      "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "美国友人赛考斯时隔20余年重返中国，称回到第二个家，感谢中国并期待与殷玉珍重逢。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，较权威；内容具体但缺乏细节和直接引述，情感色彩稍浓。"
-    },
-    {
-      "title": "上半年亏损或四千万，爱丽家居凭什么13天12板？",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-23/10682523.shtml",
-      "pubDate": "Sun, 23 Aug 2026 09:18:36 +0800",
-      "contentSnippet": "中新网北京8月23日电(记者 谢艺观)涨停的股票很多，但13个交易日斩获12个涨停板的并不多，爱丽家居算一个。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "爱丽家居上半年或亏四千万，却13天12板，中新网分析其背后原因。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威媒体，有记者署名，内容具体，分析客观，可查证。"
-    },
-    {
-      "title": "处暑来临，为何不意味着马上“出暑”？",
-      "link": "https://www.chinanews.com.cn/cul/2026/08-23/10682530.shtml",
-      "pubDate": "Sun, 23 Aug 2026 09:17:26 +0800",
-      "contentSnippet": "中新网北京8月23日电(记者 上官云)8月23日，处暑节气来临。盛夏慢慢远去，秋意渐浓。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "处暑节气到来，但气象学上不意味着立即出暑，秋意渐浓。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威媒体，内容具体，引用记者署名，事实可查证。"
-    },
-    {
-      "title": "【循着节气看山河】处暑：暑消秋气爽 满目皆清宁",
-      "link": "http://www.chinanews.com.cn/sh/shipin/2026/08-23/news1066223.shtml",
-      "pubDate": "Sun, 23 Aug 2026 09:03:32 +0800",
-      "contentSnippet": "鹰乃祭鸟，天地始肃，禾乃登，秋季第二个节气到来。太行山云海壮阔宛若水墨长卷，打卡三峡大坝看晴空澄澈如碧玉，漫步九寨沟山林寻一抹静谧。处暑，愿你在秋的澄净里，邂逅满目清宁。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "处暑节气到来，中国新闻网展示太行山、三峡、九寨沟秋景，传递秋日宁静。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为正规媒体，内容为节气文化报道，事实性强，但无具体数据或引述，评分略低。"
-    },
-    {
-      "title": "万年遗址邂逅潮流文艺 宁夏水洞沟上演星河盛焰音乐嘉年华",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-23/10682519.shtml",
-      "pubDate": "Sun, 23 Aug 2026 09:01:37 +0800",
-      "contentSnippet": "中新网银川8月23日电 (记者 李佩珊)动感音乐节流光唱响、非遗打铁花绚烂绽放、实景马术演绎精彩上演……8月22日，2026年水洞沟·星河盛焰音乐嘉年华在宁夏灵武市水洞沟旅游区启幕。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "宁夏水洞沟举办音乐嘉年华，融合非遗与实景演出，吸引游客。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威媒体，有具体时间地点和记者署名，内容客观。"
-    },
-    {
-      "title": "香港特区政府新闻处与亚广联签署合作谅解备忘录 冀讲好香港故事",
-      "link": "https://www.chinanews.com.cn/dwq/2026/08-23/10682517.shtml",
-      "pubDate": "Sun, 23 Aug 2026 09:00:19 +0800",
-      "contentSnippet": "中新网香港8月23日电 香港特区政府新闻处与亚洲-太平洋广播联盟(简称“亚广联”)22日在香港签署合作谅解备忘录，加强双方在媒体和传播方面的合作与交流，并在国际舞台上讲好香港故事。这是特区政府新闻处首次与区域性广播联盟签署同类合作备忘录。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "香港特区政府新闻处与亚广联签署合作备忘录，加强媒体合作，讲好香港故事。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，权威性较高；内容具体，含时间、地点、事件，事实可查证。"
-    },
-    {
-      "title": "时政微观察丨从这些生动比喻感悟正确政绩观",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-23/10682518.shtml",
-      "pubDate": "Sun, 23 Aug 2026 08:52:42 +0800",
-      "contentSnippet": "",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国新闻网刊文，以生动比喻阐述正确政绩观，强调为民造福。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为官方媒体，内容正面且具体，但缺乏独立核实，评分适中。"
-    },
-    {
-      "title": "台风+暴雨双预警齐发 这些地区需防范特大暴雨",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-23/10682514.shtml",
-      "pubDate": "Sun, 23 Aug 2026 08:52:00 +0800",
-      "contentSnippet": "中新网8月23日电 据中央气象台网站消息，中央气象台23日6时继续发布台风蓝色预警和暴雨蓝色预警。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网",
         "澎湃新闻"
       ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "中央气象台发布台风及暴雨双预警，部分地区需防范特大暴雨。",
-      "credibilityScore": 90,
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "《重器》成暑期档国剧新标杆，聚焦中国法治建设，口碑热度双丰收。",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为权威媒体，引用中央气象台官方信息，内容具体，可信度高。（多源覆盖 +5）"
+      "credibilityReason": "来源澎湃新闻较权威，内容具体，有话题数据支撑，但无直接引述，评分适中。"
     },
     {
-      "title": "机器人原地跳高跳出2.8843米突破人类纪录",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-23/10682516.shtml",
-      "pubDate": "Sun, 23 Aug 2026 08:51:56 +0800",
-      "contentSnippet": "中新网北京8月23日电 (记者  陈杭  吕少威  徐婧)22日晚，第二届世界人形机器人运动会在北京国家速滑馆“冰丝带”开幕。开幕式上，在原地跳高展示项目里，来自北京的天工Ultra机器人跳出的高度为2.8843米，突破人类纪录。对比去年的冠军成绩95.641厘米，也大幅提升。",
+      "title": "牛市早报｜财政部：下半年将及时谋划出台务实管用的增量政策，长存控股IPO获受理",
+      "link": "https://m.thepaper.cn/detail/33837304",
+      "pubDate": "Mon, 24 Aug 2026 00:03:20 GMT",
+      "contentSnippet": "【市场数据】\n截至8月21日收盘，上证综指涨0.04%，报3905.2点；深证成指涨0.87%，报14094.17点；创业板指涨1.43%，报3545.58点。\n纽约股市三大股指21日上涨。截至当天收盘，道琼斯工业平均指数比前一交易日上涨517.80点，收于53277.01点，涨幅为0.98%；标准普尔500种股票指数上涨33.21点，收于7674.37点，涨幅为0.43%；纳斯达克综合指数上涨113.29点，收于26180.46点，涨幅为0.43%。\n【财经要闻】\n1、据新华社，国务院总理李强8月21日主持召开国务院常务会议，听取新一代通信网建设情况汇报，部署进一步清理拖欠企业账款工作，研究",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "财政部称下半年将出台增量政策，长存控股IPO获受理，市场数据更新。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为澎湃新闻，引用新华社和官方数据，信息具体，但非一线通讯社，评分适中。"
+    },
+    {
+      "title": "曾经顶流｜四十年前红遍两岸的刘墉，如今很多年轻人已不识",
+      "link": "https://m.thepaper.cn/detail/33692599",
+      "pubDate": "Sun, 23 Aug 2026 23:31:41 GMT",
+      "contentSnippet": "【编者按】\n人这一生，最难认清自己。\n有人一度被流量簇拥，活在万众追捧里，以为高光就是全部，热度便是自身价值。\n流量退去，掌声消散，人才能直面真实的自我。\n越澎湃、越冷静。在推出聚焦城市的《流量退去之后》专题之后，澎湃新闻再推聚焦个人的《曾经顶流》专题，冷静记录昔日顶流从喧嚣归于沉静的历程以及他们的思考。\n我们不感叹盛衰，重在观照人心。看清追捧是时代馈赠，而非个人底色；借他们的起落，照见自我认知。不因高光自负，不因沉寂自卑，平和接纳完整的自己，是我们借这组专题想要传达的态度。\n今天，我们关注作家、画家刘墉。\n\n海报设计：祝碧晨\n\n\n“你知道刘墉吗？”\n问了身边几个“90后”、“00后”。一个说",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "澎湃新闻专题回顾作家刘墉昔日走红，探讨流量退去后的自我认知。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名媒体，内容具体，但缺乏直接引述和交叉验证，评分中等偏上。"
+    },
+    {
+      "title": "中国语言资源保护工程成果展示馆开馆",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-24/10682967.shtml",
+      "pubDate": "Mon, 24 Aug 2026 09:28:43 +0800",
+      "contentSnippet": "8月24日，位于湖南长沙的中国语言资源保护工程成果展示馆正式开放。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -256,10 +152,112 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "北京人形机器人运动会开幕，天工Ultra跳高2.8843米破人类纪录。",
+      "aiSummary": "中国语言资源保护工程成果展示馆在长沙开馆，展示语言资源保护成果。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威媒体，有具体数据、时间地点及记者署名，内容可查证。"
+      "credibilityReason": "来源为中国新闻网，权威性较高；信息具体，含时间地点；内容客观，可查证。"
+    },
+    {
+      "title": "多彩民族有多彩丨把家安在雪山湖畔 哈纳斯村的四季与烟火人间",
+      "link": "https://www.chinanews.com.cn/txy/2026/08-24/10682965.shtml",
+      "pubDate": "Mon, 24 Aug 2026 09:25:55 +0800",
+      "contentSnippet": "新疆阿勒泰地区哈纳斯村，雪山立在远处，湖水蓝得温柔，木楞屋散落在草场边。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国新闻网报道新疆哈纳斯村四季风貌与人文生活，展现多彩民族风情。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为官方媒体，内容具体描述地理人文，但缺乏直接引述和数据，评分中等偏上。"
+    },
+    {
+      "title": "浙江宁波舟山港绿色甲醇燃料加注实现“三级跳”",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-24/10682952.shtml",
+      "pubDate": "Mon, 24 Aug 2026 09:25:17 +0800",
+      "contentSnippet": "中新网宁波8月24日电 (张斌 邵达 宋兵)8月23日，大型甲醇双燃料集装箱船“中远海运天秤座”轮在浙江宁波舟山港梅山港区完成约5500吨绿色甲醇燃料加注作业，创下浙江省船对船绿色甲醇燃料加注规模新纪录。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "宁波舟山港完成5500吨绿色甲醇加注，创浙江省新纪录。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网，权威性较高；报道含具体时间、地点、数据，信息具体可查证。"
+    },
+    {
+      "title": "浙江金华：第八届施光南主题音乐晚会精彩上演",
+      "link": "https://www.chinanews.com.cn/tp/2026/08-24/10682956.shtml",
+      "pubDate": "Mon, 24 Aug 2026 09:23:49 +0800",
+      "contentSnippet": "8月22日，音乐晚会现场，台下几乎座无虚席。为纪念人民音乐家施光南诞辰86周年，8月21日至23日，“光南故里 声动金东”系列音乐活动在浙江省金华市金东区源东乡东叶村文化礼堂光南大舞台举行，第八届施光南主题音乐晚会是其中一项活动。胡肖飞 摄\r\n\n8月22日晚，演唱者献唱。为纪念人民音乐家施光南诞辰86周年，8月21日至23日，“光南故里 声动金东”系列音乐活动在浙江省金华市金东区源东乡东叶村文化礼堂光南大舞台举行，第八届施光南主题音乐晚会是其中一项活动。胡肖飞 摄\r\n\n8月22日晚，献唱者演唱由施光南作曲的歌曲《小鸟我的朋友》。为纪念人民音乐家施光南诞辰86周年，8月21日至23日，“光南故里",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "浙江金华举办第八届施光南主题音乐晚会，纪念其诞辰86周年。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网，权威媒体；信息具体，含时间地点人物；配图摄影署名，客观报道。"
+    },
+    {
+      "title": "中国青少年场地摩托国际公开赛开幕式在广州举行",
+      "link": "https://www.chinanews.com.cn/tp/2026/08-24/10682950.shtml",
+      "pubDate": "Mon, 24 Aug 2026 09:23:01 +0800",
+      "contentSnippet": "图为参赛选手在比赛中。中新社记者 陈楚红 摄  \r\n\n图为参赛选手在比赛中。中新社记者 陈楚红 摄  \r\n\n图为来自荷兰的参赛选手在赛前和亲友合影。中新社记者 陈楚红 摄  \r\n\n图为参赛选手在做赛前准备。中新社记者 陈楚红 摄  \r\n\n图为参赛选手蓄势待发。中新社记者 陈楚红 摄  \r\n\n图为参赛选手在比赛中。中新社记者 陈楚红 摄  \r\n\n图为参赛选手在比赛中。中新社记者 陈楚红 摄  \r\n\n图为比赛结束，一名小女孩持小风扇为参赛选手散热。中新社记者 陈楚红 摄",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国青少年场地摩托国际公开赛在广州开幕，多国选手参赛。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，属权威媒体，内容具体，有记者署名和图片佐证。"
+    },
+    {
+      "title": "竹藤织新梦 智造闯海外：粤北小城激发县域新质生产力",
+      "link": "https://www.chinanews.com.cn/aseaninfo/2026/08-24/10682959.shtml",
+      "pubDate": "Mon, 24 Aug 2026 09:21:47 +0800",
+      "contentSnippet": "中新网韶关8月24日电 题：竹藤织新梦 智造闯海外：粤北小城激发县域新质生产力",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "粤北小城发展竹藤产业与智能制造，激发县域新质生产力，产品出海。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网，权威性较高，内容具体，涉及地方产业案例，事实可查证。"
+    },
+    {
+      "title": "2026国际篮联三人篮球挑战赛北京石景山站开幕",
+      "link": "https://www.chinanews.com.cn/ty/2026/08-24/10682958.shtml",
+      "pubDate": "Mon, 24 Aug 2026 09:21:13 +0800",
+      "contentSnippet": "中新网北京8月24日电 (记者 陈杭)2026国际篮联三人篮球挑战赛北京石景山站22日在北京首钢滑雪大跳台开幕，来自11个国家16支篮球劲旅齐聚“雪飞天”脚下，开启国际三人篮球赛事的角逐大幕。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "2026国际篮联三人篮球挑战赛北京石景山站开幕，16支队伍参赛。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网，权威媒体，报道具体，含时间地点人物数据，客观陈述。"
     }
   ]
 }
