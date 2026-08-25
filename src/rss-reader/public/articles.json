@@ -1,48 +1,14 @@
 {
-  "generatedAt": "2026-08-24T01:36:32.339Z",
+  "generatedAt": "2026-08-25T01:26:13.471Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "“简拉维”减弱为热带低压 台湾福建广东等地雨势较强",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-24/10682937.shtml",
-      "pubDate": "Mon, 24 Aug 2026 09:26:05 +0800",
-      "contentSnippet": "中新网8月24日电 据中央气象台网站消息，今年第20号台风“简拉维”已于23日晚上11点钟在台湾海峡内减弱为热带低压，有可能于今天白天在福建近海减弱消散，不过其还会给台湾、福建、广东等地带来大范围的降雨。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "台风简拉维减弱为热带低压，台湾福建广东等地雨势较强。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，引用中央气象台官方消息，信息具体，客观可信。"
-    },
-    {
-      "title": "霍尔果斯口岸中欧中亚班列通行量超6000列",
-      "link": "https://www.chinanews.com.cn/ydyl/2026/08-24/10682963.shtml",
-      "pubDate": "Mon, 24 Aug 2026 09:23:49 +0800",
-      "contentSnippet": "本报乌鲁木齐8月23日电(记者尚嵘峥)近日，一列满载机械设备、汽车配件、家电产品的中欧班列从新疆霍尔果斯铁路口岸驶出，霍尔果斯铁路口岸今年中欧中亚班列通行量突破6000列，过货量超1000万吨。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "霍尔果斯口岸今年中欧中亚班列通行量突破6000列，过货量超1000万吨。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，属权威媒体，报道具体数据，有明确记者署名，事实可查证。"
-    },
-    {
-      "title": "暴雨黄警和台风蓝警继续发布，部分地区需警惕雷暴大风",
-      "link": "https://m.thepaper.cn/detail/33837994",
-      "pubDate": "Mon, 24 Aug 2026 01:02:40 GMT",
-      "contentSnippet": "中央气象台8月24日6时继续发布暴雨黄色预警：\n预计，8月24日8时至25日8时，浙江东南部、福建东部和中南部、广东东部和北部、台湾岛、海南岛西部、江西东部和西南部、湖南中部、湖北西部、云南西部以及辽宁东部、吉林东南部、黑龙江西部等地部分地区有大到暴雨，其中，浙江东南部、福建东部沿海、广东北部、台湾岛大部及辽宁东部等地部分地区有大暴雨，台湾岛局地有特大暴雨(250至300毫米）。上述部分地区伴有短时强降水（最大小时降雨量20至50毫米，局地可超过80毫米），局地有雷暴大风等强对流天气。\n\n中央气象台8月24日6时继续发布台风蓝色预警：\n今年第19号台风“紫檀”（热带风暴级）的中心今天（24日）",
+      "title": "提升服务力、彰显贡献度，上海召开高校党政负责干部会议",
+      "link": "https://m.thepaper.cn/detail/33844250",
+      "pubDate": "Tue, 25 Aug 2026 01:18:47 GMT",
+      "contentSnippet": "2026年秋季上海高校党政负责干部会议8月24日召开。上海市委副书记朱忠明出席会议并讲话。\n朱忠明指出，新学年新学期，全市高等教育战线要深入学习贯彻习近平总书记考察上海重要讲话精神和对上海工作重要指示要求，按照十二届市委九次全会部署，更加自觉在大局下思考、谋划和行动，坚定办学定位，深化改革创新，提高质量水平，努力在“五个中心”和社会主义现代化建设中进一步提升服务力、彰显贡献度。要抓实抓好基础研究，加强战略布局，突出原创导向，厚植学科基础，优化学术生态，更好发挥高校基础研究和人才培养的主力军作用。抓深抓好综合改革，进一步增强紧迫感责任感，一体推进、精准施策，全方位深化育人方式、办学模式、管理体制",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -50,33 +16,204 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中央气象台发布暴雨黄色预警和台风蓝色预警，部分地区需警惕强对流天气。",
-      "credibilityScore": 85,
+      "aiSummary": "上海召开高校党政负责干部会议，部署新学年工作，强调提升服务力和贡献度。",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名媒体，引用中央气象台官方预警，信息具体，时效性强。"
+      "credibilityReason": "来源为澎湃新闻，内容具体，有明确时间地点人物，但无直接引述，单一来源。"
     },
     {
-      "title": "美国与加拿大翻脸，谈判或将演变成贸易战",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-24/10682929.shtml",
-      "pubDate": "Mon, 24 Aug 2026 08:52:23 +0800",
-      "contentSnippet": "美国与加拿大翻脸，谈判或将演变成贸易战：“够了！”特朗普怒斥加拿大想占美国便宜，加总理卡尼硬刚“我们在战争状态” | 国际早察",
+      "title": "中美1.5轨对话今天在北京举行",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-25/10683558.shtml",
+      "pubDate": "Tue, 25 Aug 2026 09:10:21 +0800",
+      "contentSnippet": "今天(25日)，第三届中美1.5轨对话在北京举行。来自中方相关部委、地方政府、智库以及美国亚洲协会等中美代表，将围绕增进政治互信、拓展经贸合作，探索人工智能与科技合作等议题深入探讨。创立于2023年的中美1.5轨对话，介于官方正式外交(一轨)和纯民间(二轨)对话之间，是中美政党、战略界、工商界、学术界、民间重要的沟通交流平台，曾为加强两国政治、经贸、科技、人文等领域交流合作提出诸多具体建议。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
-        "中国新闻网"
+        "中国新闻网",
+        "澎湃新闻"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "第三届中美1.5轨对话今日在北京举行，聚焦政治互信、经贸合作及AI科技议题。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网和澎湃新闻，属权威媒体，信息具体，包含时间、地点、议题，无情绪化用语。（多源覆盖 +5）"
+    },
+    {
+      "title": "释疑｜加拿大对等反制美国，两国关税战打得有多凶？",
+      "link": "https://m.thepaper.cn/detail/33841997",
+      "pubDate": "Tue, 25 Aug 2026 00:01:30 GMT",
+      "contentSnippet": "美国与加拿大的贸易谈判在最后一刻谈崩了。8月22日，美国开始对约200亿美元的加拿大商品加征50%的关税。加拿大总理卡尼宣布采取报复性关税。两国关税战打得有多凶？",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "美加谈判破裂，特朗普与卡尼互斥，贸易战风险上升。",
+      "aiSummary": "美加贸易谈判破裂，美国对加拿大商品加征关税，加拿大宣布反制，两国关税战升级。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名媒体，信息具体（时间、金额），但缺乏直接引述和多源验证。"
+    },
+    {
+      "title": "习近平作出重要指示强调，巩固拓展树立和践行正确政绩观学习教育成果，努力创造经得起实践人民历史检验的实绩",
+      "link": "https://m.thepaper.cn/detail/33840660",
+      "pubDate": "Mon, 24 Aug 2026 10:32:02 GMT",
+      "contentSnippet": "中共中央总书记、国家主席、中央军委主席习近平近日作出重要指示强调，树立和践行正确政绩观是一项长期任务，必须久久为功，不断巩固拓展学习教育成果，持续推动各级党组织和广大党员、干部立党为公、为民造福、科学决策、真抓实干，努力创造经得起实践、人民、历史检验的实绩。\n习近平指出，党的十八大以来，针对一个时期党的建设中的重要问题、紧迫问题，在全党组织开展学习教育活动，已经成为党的建设一项重要制度性安排。这次树立和践行正确政绩观学习教育在党中央坚强领导下，坚持把理论学习贯穿始终，真查实改政绩观偏差问题，着眼务实管用立好制度规矩，以严实作风一抓到底，取得明显成效，达到了预期目的。\n习近平强调，要经常性开展政",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "习近平指示巩固政绩观学习教育成果，强调创造经得起检验的实绩。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源澎湃新闻较权威，内容具体，引述领导人讲话，事实可查证。"
+    },
+    {
+      "title": "90后加拿大帅小伙来上海，要把中国歌唱给廖昌永听",
+      "link": "https://m.thepaper.cn/detail/33841589",
+      "pubDate": "Tue, 25 Aug 2026 01:19:56 GMT",
+      "contentSnippet": "90后的马文是加拿大的IT工程师，因为《滚滚长江东逝水》爱上中国歌，后来他成为了一位年逾九十的音乐老师的关门弟子，他近日来到中国，以自己的方式回报老师的教导。",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "加拿大90后IT工程师因中国歌来沪，欲向廖昌永展示学习成果。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源澎湃新闻较权威，内容具体有细节，但缺乏直接引述和多方验证。"
+    },
+    {
+      "title": "对话港科大首席副校长郭毅可｜AI来临，教育可能重回古典模式",
+      "link": "https://m.thepaper.cn/detail/33840384",
+      "pubDate": "Tue, 25 Aug 2026 01:19:28 GMT",
+      "contentSnippet": "今年上海书展港科大首席副校长郭毅可院士带来新作《碳硅纪元：青少年人机共生漫谈》。 AI时代的教育方式会有所改变吗？郭院士认为孔子时代的讨论式教育可能会重新回归。",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "港科大副校长郭毅可谈AI时代教育或回归孔子式讨论教学。",
       "credibilityScore": 75,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名媒体，有直接引述，但事件细节有限，需进一步核实。"
+      "credibilityReason": "来源澎湃新闻较权威，内容具体有直接引述，但观点性较强，缺乏多方验证。"
     },
     {
-      "title": "澎湃读报丨人民日报连续三天刊发“钟才文”文章，关注中国经济强大韧性活力",
-      "link": "https://m.thepaper.cn/detail/33837956",
-      "pubDate": "Mon, 24 Aug 2026 00:30:21 GMT",
-      "contentSnippet": "今年以来，在以习近平同志为核心的党中央坚强领导下，各地区各部门积极作为、迎难而上，有效应对各种外部冲击和内部困难，扎扎实实推动高质量发展，我国经济运行呈现出动能向新、结构向优的发展态势，成绩可圈可点。《人民日报》连续三天刊发“钟才文”署名文章，聚焦中国经济彰显出的强大韧性与活力。\n8月24日《上半年经济增长4.7%说明了什么？》\n  文章指出，风雨见真章，磨砺出底气。上半年，我国经济顶压前行，延续总体平稳、向新向优的发展态势，国内生产总值（GDP）同比增长4.7%。我们有力应对地缘政治冲突、经贸摩擦等外部环境变化，有效驾驭国内供强需弱、新老问题叠加等复杂局面，取得来之不易、难能可贵的成绩。\n展",
+      "title": "“紫檀”继续影响闽粤桂琼等地 西北华北内蒙古等地有强降雨",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-25/10683553.shtml",
+      "pubDate": "Tue, 25 Aug 2026 09:16:23 +0800",
+      "contentSnippet": "中新网8月25日电 据中央气象台网站消息，今年第19号台风“紫檀”(热带风暴级)的中心仍位于我国北部湾海面上，中心附近最大风力有9级(23米/秒)，预计，“紫檀”将以每小时5-10公里的速度向东偏北方向缓慢移动，强度变化不大，将于25日夜间至26日白天在广西东南部至广东雷州半岛西侧一带沿海登陆，登陆时强度为热带风暴级(8-9级，18-23米/秒)。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "台风紫檀影响闽粤桂琼，西北华北内蒙古有强降雨。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网，引用中央气象台数据，信息具体，客观可信。"
+    },
+    {
+      "title": "河南许昌禹州市：三维发力提升宗教事务治理效能",
+      "link": "https://www.chinanews.com.cn/txy/2026/08-25/10683557.shtml",
+      "pubDate": "Tue, 25 Aug 2026 09:15:19 +0800",
+      "contentSnippet": "近年来，河南许昌禹州市紧扣新时代党的宗教工作基本方针，锚定宗教中国化方向，立足全市发展大局，聚焦文化浸润、法治护航、从严治教三个维度精准发力，全方位规范宗教事务管理、涵养优良教风学风，引导全市宗教界人士和信教群众坚定爱国爱教信念，持续夯实宗教领域和谐稳定根基。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "河南禹州市通过文化、法治、从严治教三维发力，提升宗教事务治理效能。",
+      "credibilityScore": 75,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源中国新闻网较权威，内容具体但无直接引述，属官方工作报道，可查证。"
+    },
+    {
+      "title": "亲姐弟打假官司 揭秘新型逃债局",
+      "link": "https://www.chinanews.com.cn/fz/2026/08-25/10683561.shtml",
+      "pubDate": "Tue, 25 Aug 2026 09:14:25 +0800",
+      "contentSnippet": "为逃避银行巨额债务，江苏省江阴市一对姐弟伪造800万元借条，通过虚构债务纠纷互相串通打起假官司。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "江苏江阴姐弟伪造800万借条打假官司逃债，被揭穿。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，权威媒体，报道具体时间地点人物，事实可查证。"
+    },
+    {
+      "title": "河南鹤壁市山城区：探亲叙乡情 牵线助招商",
+      "link": "https://www.chinanews.com.cn/txy/2026/08-25/10683556.shtml",
+      "pubDate": "Tue, 25 Aug 2026 09:14:09 +0800",
+      "contentSnippet": "为深化海外侨胞联络联谊，挖掘侨界资源优势，赋能区域招商引资工作，近日，河南鹤壁市山城区侨联抓住海外侨胞回乡探亲的契机，开展一对一走访座谈，与侨胞畅叙桑梓情谊，共商发展机遇。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "河南鹤壁山城区侨联借侨胞探亲契机，开展走访座谈，助力招商引资。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网，权威媒体，内容具体，涉及具体地点和活动，用词客观。"
+    },
+    {
+      "title": "河南商丘市民权县：一拧麻花一股劲 法润同心满村香",
+      "link": "https://www.chinanews.com.cn/txy/2026/08-25/10683554.shtml",
+      "pubDate": "Tue, 25 Aug 2026 09:10:21 +0800",
+      "contentSnippet": "天刚蒙蒙亮，民权县王桥镇麻花庄村的非遗工坊已经亮起了灯。老把式张师傅把醒好的面揪成剂子，手腕一抖、一搓、一拧，麻花坯子在空中划出两道利落的弧线，落入身旁的油锅，“滋啦”一声香气炸开了，顺着晨风钻进村子每一条街道。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "河南民权县麻花庄村非遗工坊清晨开工，传统手艺与法治宣传结合，助力乡村振兴。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网较权威，内容具体生动，但为地方报道，缺乏多源交叉验证。"
+    },
+    {
+      "title": "中国认真“收废品”背后藏着顶级资源布局",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-25/10683551.shtml",
+      "pubDate": "Tue, 25 Aug 2026 09:05:01 +0800",
+      "contentSnippet": "一个随手丢掉的矿泉水瓶子，背后可能正养活着一家上市公司。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国新闻网报道称，废品回收背后蕴含顶级资源布局，矿泉水瓶或支撑上市公司。",
+      "credibilityScore": 75,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为官方媒体，内容具体但缺乏直接引述和数据，评分中等偏上。"
+    },
+    {
+      "title": "三亚征集住宿行业重大活动期间价格违法线索，含相互串通操纵价格等",
+      "link": "https://m.thepaper.cn/detail/33844310",
+      "pubDate": "Tue, 25 Aug 2026 01:03:25 GMT",
+      "contentSnippet": "“三亚发布”微信公众号8月24日晚间公布《三亚市旅游服务中心关于公开征集三亚市住宿行业重大活动期间价格违法线索的通告》（以下简称《通告》）。为保障消费者合法权益，保障三亚市重大赛事、会展节庆、文旅演艺、大型峰会等重大活动平稳有序举办，持续净化旅游文化市场环境，严厉打击住宿行业经营者借客流激增之机实施哄抬价格、价外加价、价格欺诈等价格违法行为，现面向社会公开征集相关问题线索。\n线索征集范围为：全市范围内，在重大活动筹备、举办及后续客流高峰期内，各酒店、宾馆、民宿等住宿经营主体的价格违法行为。\n重点征集价格违法线索包括：\n1.经营者相互串通，操纵市场价格；\n2.捏造、散布涨价信息，哄抬价格，推动房",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -84,16 +221,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "人民日报连续三天刊发钟才文文章，强调中国经济韧性与活力，上半年GDP增长4.7%。",
+      "aiSummary": "三亚公开征集住宿行业重大活动期间价格违法线索，打击哄抬价格等行为。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为权威媒体澎湃新闻，内容具体引用人民日报文章及GDP数据，用词客观，可交叉验证。"
+      "credibilityReason": "来源为澎湃新闻，引用官方通告，内容具体，涉及明确时间、范围和行为，可信度较高。"
     },
     {
-      "title": "这部暑期档大剧，为何成了国剧新标杆？",
-      "link": "https://m.thepaper.cn/detail/33836970",
-      "pubDate": "Mon, 24 Aug 2026 00:29:18 GMT",
-      "contentSnippet": "正在热播的《重器》，开播即成为2026 年暑期档备受关注的现象级作品。作为最高人民检察院影视中心、最高人民法院影视中心首次联合出品、国家广播电视总局重点扶持项目，剧集自上线起便收获多方的好评。\n# 重器初代法律人热血群像 #、# 国产剧敢拍判错翻案了 #等话题持续出圈，叠加央视八套黄金档的收视表现，也让这部作品进入市场对于 “年度剧王” 的讨论视野。\n该剧把时间线锚定1979年至1997年中国法治建设的关键窗口期，以五位初代政法青年的命运轨迹，串联起一部“微缩的中国当代法治史”。\n一部年代法治剧为何能口碑热度双丰收？群像塑造、年代质感、主题深度兼具，擅长现实题材的爱奇艺又一次交出了标杆级答卷。",
+      "title": "市场监管总局公开征求2027年食品安全抽检计划意见建议",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-25/10683552.shtml",
+      "pubDate": "Tue, 25 Aug 2026 09:02:38 +0800",
+      "contentSnippet": "中新网8月25日电 据“市说新语”微信公众号消息，近日，市场监管总局就2027年全国市场监管部门食品安全抽检计划向全社会公开征求意见建议。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "市场监管总局就2027年食品安全抽检计划公开征求意见。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为权威媒体中国新闻网，信息具体，引用官方渠道，内容客观。"
+    },
+    {
+      "title": "山东省政府批复济南章丘君悦华府小区“12·17”较大爆炸事故调查报告",
+      "link": "https://m.thepaper.cn/detail/33844249",
+      "pubDate": "Tue, 25 Aug 2026 01:01:47 GMT",
+      "contentSnippet": "山东省人民政府网站8月24日发布《关于济南章丘君悦华府小区“12·17”较大爆炸事故调查报告的批复》。同日，该网站还发布了《山东省人民政府关于临沂河东锦中元体育用品（山东）有限公司“12·20”较大火灾事故调查报告的批复》。\n\n山东省政府济南章丘君悦华府小区“12·17”较大爆炸事故调查组（以下简称事故调查组）提交的《济南章丘君悦华府小区“12·17”较大爆炸事故调查报告》（以下简称《调查报告》）已经省政府同意。批复内容如下：\n一、事故调查组的组成和工作程序符合《生产安全事故报告和调查处理条例》和《山东省生产安全事故报告和调查处理办法》等有关法律法规规章规定。事故调查组按照“科学严谨、依法依规",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -101,163 +255,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "《重器》成暑期档国剧新标杆，聚焦中国法治建设，口碑热度双丰收。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源澎湃新闻较权威，内容具体，有话题数据支撑，但无直接引述，评分适中。"
-    },
-    {
-      "title": "牛市早报｜财政部：下半年将及时谋划出台务实管用的增量政策，长存控股IPO获受理",
-      "link": "https://m.thepaper.cn/detail/33837304",
-      "pubDate": "Mon, 24 Aug 2026 00:03:20 GMT",
-      "contentSnippet": "【市场数据】\n截至8月21日收盘，上证综指涨0.04%，报3905.2点；深证成指涨0.87%，报14094.17点；创业板指涨1.43%，报3545.58点。\n纽约股市三大股指21日上涨。截至当天收盘，道琼斯工业平均指数比前一交易日上涨517.80点，收于53277.01点，涨幅为0.98%；标准普尔500种股票指数上涨33.21点，收于7674.37点，涨幅为0.43%；纳斯达克综合指数上涨113.29点，收于26180.46点，涨幅为0.43%。\n【财经要闻】\n1、据新华社，国务院总理李强8月21日主持召开国务院常务会议，听取新一代通信网建设情况汇报，部署进一步清理拖欠企业账款工作，研究",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "财政部称下半年将出台增量政策，长存控股IPO获受理，市场数据更新。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为澎湃新闻，引用新华社和官方数据，信息具体，但非一线通讯社，评分适中。"
-    },
-    {
-      "title": "曾经顶流｜四十年前红遍两岸的刘墉，如今很多年轻人已不识",
-      "link": "https://m.thepaper.cn/detail/33692599",
-      "pubDate": "Sun, 23 Aug 2026 23:31:41 GMT",
-      "contentSnippet": "【编者按】\n人这一生，最难认清自己。\n有人一度被流量簇拥，活在万众追捧里，以为高光就是全部，热度便是自身价值。\n流量退去，掌声消散，人才能直面真实的自我。\n越澎湃、越冷静。在推出聚焦城市的《流量退去之后》专题之后，澎湃新闻再推聚焦个人的《曾经顶流》专题，冷静记录昔日顶流从喧嚣归于沉静的历程以及他们的思考。\n我们不感叹盛衰，重在观照人心。看清追捧是时代馈赠，而非个人底色；借他们的起落，照见自我认知。不因高光自负，不因沉寂自卑，平和接纳完整的自己，是我们借这组专题想要传达的态度。\n今天，我们关注作家、画家刘墉。\n\n海报设计：祝碧晨\n\n\n“你知道刘墉吗？”\n问了身边几个“90后”、“00后”。一个说",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "澎湃新闻专题回顾作家刘墉昔日走红，探讨流量退去后的自我认知。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名媒体，内容具体，但缺乏直接引述和交叉验证，评分中等偏上。"
-    },
-    {
-      "title": "中国语言资源保护工程成果展示馆开馆",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-24/10682967.shtml",
-      "pubDate": "Mon, 24 Aug 2026 09:28:43 +0800",
-      "contentSnippet": "8月24日，位于湖南长沙的中国语言资源保护工程成果展示馆正式开放。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国语言资源保护工程成果展示馆在长沙开馆，展示语言资源保护成果。",
+      "aiSummary": "山东省政府批复济南章丘小区爆炸事故调查报告，认定调查合规。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，权威性较高；信息具体，含时间地点；内容客观，可查证。"
-    },
-    {
-      "title": "多彩民族有多彩丨把家安在雪山湖畔 哈纳斯村的四季与烟火人间",
-      "link": "https://www.chinanews.com.cn/txy/2026/08-24/10682965.shtml",
-      "pubDate": "Mon, 24 Aug 2026 09:25:55 +0800",
-      "contentSnippet": "新疆阿勒泰地区哈纳斯村，雪山立在远处，湖水蓝得温柔，木楞屋散落在草场边。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国新闻网报道新疆哈纳斯村四季风貌与人文生活，展现多彩民族风情。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为官方媒体，内容具体描述地理人文，但缺乏直接引述和数据，评分中等偏上。"
-    },
-    {
-      "title": "浙江宁波舟山港绿色甲醇燃料加注实现“三级跳”",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-24/10682952.shtml",
-      "pubDate": "Mon, 24 Aug 2026 09:25:17 +0800",
-      "contentSnippet": "中新网宁波8月24日电 (张斌 邵达 宋兵)8月23日，大型甲醇双燃料集装箱船“中远海运天秤座”轮在浙江宁波舟山港梅山港区完成约5500吨绿色甲醇燃料加注作业，创下浙江省船对船绿色甲醇燃料加注规模新纪录。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "宁波舟山港完成5500吨绿色甲醇加注，创浙江省新纪录。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威性较高；报道含具体时间、地点、数据，信息具体可查证。"
-    },
-    {
-      "title": "浙江金华：第八届施光南主题音乐晚会精彩上演",
-      "link": "https://www.chinanews.com.cn/tp/2026/08-24/10682956.shtml",
-      "pubDate": "Mon, 24 Aug 2026 09:23:49 +0800",
-      "contentSnippet": "8月22日，音乐晚会现场，台下几乎座无虚席。为纪念人民音乐家施光南诞辰86周年，8月21日至23日，“光南故里 声动金东”系列音乐活动在浙江省金华市金东区源东乡东叶村文化礼堂光南大舞台举行，第八届施光南主题音乐晚会是其中一项活动。胡肖飞 摄\r\n\n8月22日晚，演唱者献唱。为纪念人民音乐家施光南诞辰86周年，8月21日至23日，“光南故里 声动金东”系列音乐活动在浙江省金华市金东区源东乡东叶村文化礼堂光南大舞台举行，第八届施光南主题音乐晚会是其中一项活动。胡肖飞 摄\r\n\n8月22日晚，献唱者演唱由施光南作曲的歌曲《小鸟我的朋友》。为纪念人民音乐家施光南诞辰86周年，8月21日至23日，“光南故里",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "浙江金华举办第八届施光南主题音乐晚会，纪念其诞辰86周年。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威媒体；信息具体，含时间地点人物；配图摄影署名，客观报道。"
-    },
-    {
-      "title": "中国青少年场地摩托国际公开赛开幕式在广州举行",
-      "link": "https://www.chinanews.com.cn/tp/2026/08-24/10682950.shtml",
-      "pubDate": "Mon, 24 Aug 2026 09:23:01 +0800",
-      "contentSnippet": "图为参赛选手在比赛中。中新社记者 陈楚红 摄  \r\n\n图为参赛选手在比赛中。中新社记者 陈楚红 摄  \r\n\n图为来自荷兰的参赛选手在赛前和亲友合影。中新社记者 陈楚红 摄  \r\n\n图为参赛选手在做赛前准备。中新社记者 陈楚红 摄  \r\n\n图为参赛选手蓄势待发。中新社记者 陈楚红 摄  \r\n\n图为参赛选手在比赛中。中新社记者 陈楚红 摄  \r\n\n图为参赛选手在比赛中。中新社记者 陈楚红 摄  \r\n\n图为比赛结束，一名小女孩持小风扇为参赛选手散热。中新社记者 陈楚红 摄",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国青少年场地摩托国际公开赛在广州开幕，多国选手参赛。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，属权威媒体，内容具体，有记者署名和图片佐证。"
-    },
-    {
-      "title": "竹藤织新梦 智造闯海外：粤北小城激发县域新质生产力",
-      "link": "https://www.chinanews.com.cn/aseaninfo/2026/08-24/10682959.shtml",
-      "pubDate": "Mon, 24 Aug 2026 09:21:47 +0800",
-      "contentSnippet": "中新网韶关8月24日电 题：竹藤织新梦 智造闯海外：粤北小城激发县域新质生产力",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "粤北小城发展竹藤产业与智能制造，激发县域新质生产力，产品出海。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威性较高，内容具体，涉及地方产业案例，事实可查证。"
-    },
-    {
-      "title": "2026国际篮联三人篮球挑战赛北京石景山站开幕",
-      "link": "https://www.chinanews.com.cn/ty/2026/08-24/10682958.shtml",
-      "pubDate": "Mon, 24 Aug 2026 09:21:13 +0800",
-      "contentSnippet": "中新网北京8月24日电 (记者 陈杭)2026国际篮联三人篮球挑战赛北京石景山站22日在北京首钢滑雪大跳台开幕，来自11个国家16支篮球劲旅齐聚“雪飞天”脚下，开启国际三人篮球赛事的角逐大幕。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "2026国际篮联三人篮球挑战赛北京石景山站开幕，16支队伍参赛。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威媒体，报道具体，含时间地点人物数据，客观陈述。"
+      "credibilityReason": "来源为澎湃新闻，引用政府官方批复，内容具体，程序合规，可信度高。"
     }
   ]
 }

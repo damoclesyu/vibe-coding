@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-24T01:37:49.931Z",
+  "generatedAt": "2026-08-25T01:27:29.345Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "联想集团与海尔集团签署战略合作协议，推动联想 AI PC 等与海尔智慧家庭场景融合",
-      "link": "https://www.ithome.com/0/993/353.htm",
-      "pubDate": "Mon, 24 Aug 2026 01:08:58 GMT",
-      "contentSnippet": "IT之家 8 月 24 日消息，联想集团与海尔集团上周在北京联想全球总部签署战略合作协议。\n随着 AI 加速从技术突破走向产业落地，双方将发挥各自在技术、供应链和产业生态等方面的优势，推动算力与场景深度融合，共同探索 AI 赋能实体经济高质量发展新路径。\n联想集团董事长兼 CEO 杨元庆，执行副总裁兼中国区总裁刘军；海尔集团董事局主席、首席执行官周云杰，董事局副主席、执行副总裁谭丽霞共同见证签约。联想集团副总裁、中国政企业务群总经理王立平，海尔集团政企事务总经理徐志博分别代表双方签署战略合作协议。\n\n根据协议，双方将以“算力赋能实体、场景反哺技术”为主线，围绕算力基础设施共建、核心技术联合攻关",
+      "title": "拼多多赵佳臻谈自营业务最新进展：启动所需时间相较预期更长，但对前景有信心",
+      "link": "https://www.ithome.com/0/993/805.htm",
+      "pubDate": "Tue, 25 Aug 2026 00:53:44 GMT",
+      "contentSnippet": "8 月 25 日上午消息，昨日，拼多多发布最新财报，在电话会上，拼多多集团联席董事长兼联席 CEO 赵佳臻透露，“今年的第二季度是我们新十年高质量发展从开局起步到纵深推进的新阶段。我们长期坚持的千亿扶持惠商战略，逐步从投入期进入收效期，平台及产业生态效用加速释放，供需两侧均实现质效升级。同时我们继续稳步地推进三年再造拼多多重大战略。”\n谈及品牌自营战略最近进展，赵佳臻表示，“品牌自营业务是我们在长期供应链投资方向上的一个重要延伸，我们也希望与有能力、同时有意愿的制造企业建立深度的产品共创关系，发挥平台在市场洞察、全球渠道方面的能力，提升产业链的品牌化发展和价值创造的确定性，并且把这些增量价值能",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,16 +16,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "联想与海尔签署战略合作，推动AI PC与智慧家庭场景融合。",
+      "aiSummary": "拼多多联席CEO赵佳臻称自营业务进展慢于预期，但前景有信心。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道具体，有高管出席细节，但缺乏技术细节和原始出处。"
+      "credibilityReason": "来源IT之家较知名，内容具体引用高管发言，但缺乏独立数据支撑，评分中等偏上。"
     },
     {
-      "title": "今年我国已有 7 种高端钢材实现全新突破，面向新能源汽车、人形机器人等新兴赛道",
-      "link": "https://www.ithome.com/0/993/332.htm",
-      "pubDate": "Sun, 23 Aug 2026 23:52:39 GMT",
-      "contentSnippet": "IT之家 8 月 24 日消息，据央视新闻客户端 8 月 22 日报道，我国钢铁产量连续多年位居世界首位。今年以来，钢铁企业依托全国重点实验室，聚焦高端特种钢材持续发力，不断实现核心技术突破，一大批高端钢材实现了自主量产。\n钢材如何做到强度过硬，还能抵御海水腐蚀？在河北唐山的钢铁实验室，记者找到了答案。钢材加工过程中会产生易导致材料脆化的碳化物，科研人员通过调控钢材原子结构，将碳化物有效包裹。\n研究人员给记者算了一笔账，一台海上风电机要用钢数百吨，换上这种高性能钢，钢板可以做得更薄，合金用量也大幅减少。\n如今，不只在海上，我国已经搭建起覆盖深海装备、舰船制造、航空航天等多场景的高端钢材自主研发",
+      "title": "【钛晨报】上海\"十五五\"产业规划出炉，新增三大万亿级产业集群；国管公积金新政，首套房最高可贷款340万元；TRAE、扣子并入豆包，字节将推“豆包工作”",
+      "link": "https://www.tmtpost.com/8115315.html",
+      "pubDate": "Tue, 25 Aug 2026 07:20:00 +0800",
+      "contentSnippet": "王沪宁会见第三届中美1.5轨对话美方代表；特朗普称加拿大汽车钢铁关税提至50%；全球资金流入黄金ETF，一个月大增380亿元；交易所收紧IPO？求证：要求券商从源头提升申报质量；配售800亿后，蔡崇信、吴泳铭再出手增持1.2亿港元阿里股票；小米公布玄戒O3芯片架构；欧盟六国要求对石油公司征税",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "上海规划新增三大万亿产业集群，国管公积金新政出台，字节整合TRAE和扣子推豆包工作。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "钛媒体为知名科技媒体，内容具体涉及政策、企业动态，但部分信息未提供原始出处，评分适中。"
+    },
+    {
+      "title": "小米集团副总裁朱丹：芯片研发投入是为下一个十年买“入场券”",
+      "link": "https://www.ithome.com/0/993/753.htm",
+      "pubDate": "Mon, 24 Aug 2026 15:10:26 GMT",
+      "contentSnippet": "IT之家 8 月 24 日消息，小米今天（24 日）发布了三款自研芯片，随后在当天晚间登上央视财经频道。小米集团副总裁朱丹在采访中介绍，小米的判断很明确，AI 时代算力是一切智能体验的根基，不掌握芯片能力，就无法从底层定义产品体验。所以这笔投入不是“烧钱”，是在为下一个十年买“入场券”。\n\n报道援引业内人士的分析称，国内多家企业持续加码芯片自研，通过长期高额的技术投入，完善全场景算力布局，是产业链自主可控、产业高质量发展的重要趋势。\n综合IT之家此前报道，小米新一代玄戒芯片今天实现“三芯齐发”。\n\n玄戒 O3，AI 旗舰 SoC，安兔兔首破 500 万\n\n玄戒 O100，1.22TB/s 高带",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -33,50 +50,84 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "我国今年7种高端钢材突破，面向新能源车、人形机器人等新兴领域。",
+      "aiSummary": "小米发布三款自研芯片，副总裁称投入为未来十年布局。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家较权威，内容具体但细节有限，引用官方采访，评分75。"
+    },
+    {
+      "title": "雷神推出猎刃 60 游戏手柄：8KHz 回报率、可调力 TMR 摇杆，399 元",
+      "link": "https://www.ithome.com/0/993/817.htm",
+      "pubDate": "Tue, 25 Aug 2026 01:20:42 GMT",
+      "contentSnippet": "IT之家 8 月 25 日消息，雷神旗下猎刃 60 游戏手柄现已在京东开启预约，该手柄支持 8KHz 回报率，定价为 449 元，首发价 399 元。\n\n\n该手柄采用了正反双面软胶包覆握把，表面带有防滑纹理，其十字键部分采用了全向悬浮式设计，标配圆盘与十字两种可替换双键帽，玩家可根据不同游戏类型自由更换。手柄背部及肩部集成了六个自定义机械轻触按键，均可通过 PC 端驱动映射为快捷键或宏命令。\n\n\n该手柄在有线和 2.4G 无线模式下均支持 8KHz 回报率，全链路响应延迟约为 0.7ms；蓝牙模式的回报率则为 125Hz。其扳机采用了微动与霍尔双模式无虚位结构设计，用户可通过背部档位一键切换，",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "雷神发布猎刃60手柄，支持8KHz回报率，首发价399元。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道具体参数和价格，但缺乏原始出处和深度分析。"
+    },
+    {
+      "title": "高盛合伙人警告：华尔街普及 AI 或削弱金融从业者思考能力",
+      "link": "https://www.ithome.com/0/993/816.htm",
+      "pubDate": "Tue, 25 Aug 2026 01:18:35 GMT",
+      "contentSnippet": "IT之家 8 月 25 日消息，高盛负责一项旗舰人工智能项目的合伙人警告称，AI 在华尔街的快速普及可能削弱下一代金融从业者的思考能力。\n\n“这里存在一个巨大的风险：在 AI 时代，我们把推理能力外包给这些模型，最终出现认知能力萎缩，以至于我们自己都无法再从第一性原理出发进行思考。”负责高盛机构客户数字平台 Marquee 的 Chris Churchman 表示。\n据 CNBC 获得的采访文字稿，Churchman 是在高盛最新一期《Exchanges》播客中发表上述言论的。\nChurchman 表示，就像现代科技的出现让人们逐渐失去了导航和记忆能力一样，如果算法承担了所有繁重的分析工作，银",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "高盛高管警告AI普及或削弱金融从业者思考能力。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，引用CNBC采访，内容具体，逻辑清晰，但缺乏更多数据支撑。"
+    },
+    {
+      "title": "小鹏第二代 VLA 首次模型重大升级：响应速度提升 3 倍，G9L 车型全球首发",
+      "link": "https://www.ithome.com/0/993/815.htm",
+      "pubDate": "Tue, 25 Aug 2026 01:15:44 GMT",
+      "contentSnippet": "IT之家 8 月 25 日消息，小鹏汽车今日宣布，小鹏物理 AI 分享暨第二代 VLA 全新版本体验日将于 8 月 27 日 15:00 举行。\n\n小鹏第二代 VLA 首次模型重大升级，小鹏第二代 VLA 630 版更进一步，智能辅助驾驶体验再次跃升：\n\n端侧最大模型 —— 端侧模型参数量提高 3.5 倍，行业主流 VLA 模型的 15 倍；\n\n博弈更稳 —— 端到端响应速度提升 300%，安全博弈、减速操作平稳丝滑。\n\nIT之家从小鹏汽车公告获悉，小鹏 G9L 将全球首发搭载第二代 VLA 全新版本。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "小鹏第二代VLA升级，响应速度提升3倍，G9L将首发搭载。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，内容具体有数据，但缺少独立验证，评分中等偏上。"
+    },
+    {
+      "title": "已调整 27 次：闰秒有望退出历史舞台，明年改为推行闰时",
+      "link": "https://www.ithome.com/0/993/814.htm",
+      "pubDate": "Tue, 25 Aug 2026 01:15:09 GMT",
+      "contentSnippet": "IT之家 8 月 25 日消息，国际计量局（BIPM）官宣将于 2026 年 10 月在法国凡尔赛国际会议中心举办第 28 届国际计量大会（CGPM），将讨论用闰时取代闰秒，并规划 2027 年 5 月开始推行。\nIT之家注：闰秒由国际计量局（BIPM）于 1972 年引入，截至目前已修改 27 次，目的是让世界协调时（UTC）与地球自转速度逐渐减慢相匹配。\n协调世界时（UTC）基于用原子振动实现的高精度原子钟来确定，成为 1 秒长度的标准。不过由地球自转时间决定的 1 天长度会发生不规则变化，因此会产生偏差。\n\n地球的自转速度根据潮汐涨落以及地球内部地核运动而波动。地球的一天即地球自转一圈，",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国际计量局拟用闰时取代闰秒，计划2027年推行。",
       "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家转引央视，权威性高，内容具体有技术细节，但缺乏具体数据支撑。"
+      "credibilityReason": "来源为知名科技媒体，信息具体，涉及国际组织官方决策，但未提供原始链接，评分略降。"
     },
     {
-      "title": "【钛晨报】促进网信企业高质量发展，中央网信委‌最新部署；特斯拉客服回应近300万辆召回具体做法；阿里宣布800亿港元新股配售，即获超额认购",
-      "link": "https://www.tmtpost.com/8113453.html",
-      "pubDate": "Mon, 24 Aug 2026 07:20:00 +0800",
-      "contentSnippet": "上纬新材“启元机器人”正式开启预订，预计首发发货最早9月；DeepSeek API计费调整，周末统一按低谷时段价格计费；事涉儿童在线隐私保护，TikTok支付4亿美元和解；张雪机车宣布2027全年赛事赞助开放招商；SpaceX将组建内部天然气交易团队；Anthropic聘请谷歌定制芯片项目创始人，为进军自研半导体做准备；优衣库衣物回收服务扩展至全国门店；沃尔玛计划年内在全美门店和山姆会员店推出非接触支付服务；240小时过境免签政策适用国家增至57国；多家银行发布公告，单人在同家银行贴息上限提升到5000元；国常会：统筹推进基础网络、空间网络、国际网络、融合网络建设；市场监管总局：具身智能机器人",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体晨报汇总多领域科技与商业动态，信息丰富但来源单一。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "知名科技媒体，内容具体涉及多行业，但缺乏深度细节和原始引用，评分中等偏上。"
-    },
-    {
-      "title": "派早报：九家车企召回近 430 万辆不易识别应急拉手汽车",
-      "link": "https://sspai.com/post/113767",
-      "pubDate": "Mon, 24 Aug 2026 07:13:55 +0800",
-      "contentSnippet": "九家车企召回近 430 万辆不易识别应急拉手汽车\n英伟达达成 70 亿美元合作，研发顶级开放权重模型\n高院发布著作权新司法解释，网络转载不允许先转后付\n买家利用仅退款漏洞倒卖 13 万元火鸡面被刑拘\n国际加紧制定统一月球时间\n个人消费贷贴息政策扩展覆盖买车、装修等\n看看就行的小道消息\n少数派的近期动态\n你可能错过的好文章\n查看全文",
-      "sourceName": "少数派",
-      "sourceWeight": 78,
-      "allSources": [
-        "少数派"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "九家车企召回430万辆应急拉手问题汽车，英伟达70亿美元合作等科技新闻汇总。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体，但多为汇总，缺乏细节和原始出处。"
-    },
-    {
-      "title": "众擎 CEO 赵同阳：通用人形机器人单台成本已降至十万元以下",
-      "link": "https://www.ithome.com/0/993/296.htm",
-      "pubDate": "Sun, 23 Aug 2026 13:30:33 GMT",
-      "contentSnippet": "IT之家 8 月 23 日消息，据蓝鲸科技报道，众擎创始人兼 CEO 赵同阳在 2026 年世界机器人大会接受媒体采访时谈及了人形机器人成本相关话题。\n赵同阳表示，通用人形机器人单台成本已降至十万元以下。\n\n三年前，通用人形机器人单台成本超百万元，如今已降至十万元以下。\n需要明确的是，我们所指的是可落地作业的通用人形机器人，并非千元级玩具类产品，二者不具备可比性。\n目前可落地工厂、家庭场景、可执行实际任务的通用人形机器人，成本已控制在十万元级别。受限于当前尚未形成规模化量产，后续成本仍有较大下降空间。\n\n对于人形机器人供应链，赵同阳称目前国内人形机器人供应链体系已日趋完善，深度依托中国数十年制",
+      "title": "苹果钱包上线郑州绿城通交通卡：乘当地公交车 8 折、地铁 9.5 折",
+      "link": "https://www.ithome.com/0/993/811.htm",
+      "pubDate": "Tue, 25 Aug 2026 01:06:22 GMT",
+      "contentSnippet": "IT之家 8 月 25 日消息，苹果现已在其“钱包（Wallet）”应用上线郑州绿城通交通卡，充值界面显示该卡免开卡费，用户快捷开卡后还可下载“绿城通行”App 进一步管理交通卡。\n\nIT之家注意到，公开信息显示，绿城通交通卡（普通卡）的卡面以郑州市地标建筑“二七纪念塔”和“中原福塔”为背景，表现了中原历史和文化特色。持绿城通乘坐郑州市内公交车可享 8 折优惠、持绿城通乘坐郑州地铁可享 9.5 折优惠。",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -84,85 +135,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "众擎CEO称通用人形机器人成本降至十万元以下，供应链日趋完善。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引用蓝鲸科技及CEO采访，内容具体但缺乏独立数据验证。"
-    },
-    {
-      "title": "波兰加密货币交易所 CEO 在 2022 年失踪，4 年后他的继任者也失踪了",
-      "link": "https://www.solidot.org/story?sid=85166",
-      "pubDate": "Sun, 23 Aug 2026 19:04:24 +0800",
-      "contentSnippet": "Nicole Suszek 最后一次收到哥哥 Sylwester 的电话语音留言是在 2022 年，在留言中 Sylwester 急迫的请求她给他寄去比特币，否则以后就永远见不到面了。Sylwester 从此杳无音信，家人认为他已经遇害。Sylwester 是东欧和中欧最大加密货币交易所 Zondacrypto 的创始人，他在 2014 年创办了 Zondacrypto 的前身 BitBay。接替 Sylwester 担任 Zondacrypto CEO 的波兰律师 Przemyslaw Kral 在今年四月也失踪了，这一事件让 Sylwester 案再次浮出水面。波兰总理 Donald Tu",
-      "sourceName": "Solidot",
-      "sourceWeight": 75,
-      "allSources": [
-        "Solidot"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "波兰加密货币交易所两任CEO相继失踪，引发关注。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源Solidot较知名，事件具体有细节，但缺乏官方确认和原始出处，评分中等偏上。"
-    },
-    {
-      "title": "全新华为 FreeBuds 7 悦彰耳机官宣今日开启预售：半入耳主动降噪、4 色可选",
-      "link": "https://www.ithome.com/0/993/362.htm",
-      "pubDate": "Mon, 24 Aug 2026 01:35:28 GMT",
-      "contentSnippet": "IT之家 8 月 24 日消息，华为终端刚刚宣布，全新华为 FreeBuds 7 悦彰耳机将在 8 月 24 日 10:08 正式开启预售，主打半入耳主动降噪。\n\n据IT之家今日早些时候报道，华为终端 BG CEO 何刚正式官宣了 FreeBuds 7 悦彰耳机。该耳机作为一款半入耳式耳机，单只耳机轻至 4.3g，主动降噪能力全面升级，即使在机舱、地铁等高噪场景下，也能减少噪音干扰。新耳机 9 月将和大家见面。\n目前，华为 FreeBuds 7 已通过星闪联盟认证，证书编号为 iSLA012026003-0000008，接入模式为星闪 E2.0（支持星闪音频）。根据官方描述，星闪音频物理层传输",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "华为FreeBuds 7悦彰耳机今日预售，主打半入耳主动降噪，轻至4.3g，支持星闪音频。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家知名科技媒体，信息具体含重量、认证编号，但缺少官方原始链接，评分75。"
-    },
-    {
-      "title": "AOC 海外推出 Q27G4ZRAD 显示器：27\" QHD 260Hz Fast IPS，HDR 400",
-      "link": "https://www.ithome.com/0/993/361.htm",
-      "pubDate": "Mon, 24 Aug 2026 01:33:38 GMT",
-      "contentSnippet": "IT之家 8 月 24 日消息，AOC 近日面向海外市场推出 AOC GAMING 显示器新品 Q27G4ZRAD。这一型号基于 27\" Fast IPS 面板，支持 QHD (2560×1440) 分辨率，刷新率为原生 240Hz、超频 260Hz，获得 VESA DisplayHDR 400 认证。\n\nQ27G4ZRAD 亮度 400nits，静态对比度 1000:1；GtG 响应时间 1ms、MPRT 响应时间 0.3ms；色深 8-bit，色彩空间达 sRGB 的 123.6%、DCI-P3 的 95.2%、Adobe RGB 的 91.4%；支持 VRR 自适应同步。\n该显示器表面为",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家",
-        "钛媒体"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "AOC海外推出Q27G4ZRAD显示器，27寸QHD 260Hz Fast IPS，HDR 400。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道具体参数，来源可靠，逻辑清晰。（多源覆盖 +5）"
-    },
-    {
-      "title": "首报震级 7.7 级，成都高新减灾研究所就宜宾长宁 4.7 级地震预警偏差致歉",
-      "link": "https://www.ithome.com/0/993/360.htm",
-      "pubDate": "Mon, 24 Aug 2026 01:30:50 GMT",
-      "contentSnippet": "IT之家 8 月 24 日消息，今日，成都高新减灾研究所发布《关于对 8 月 24 日宜宾长宁 4.7 级地震的预警偏差的致歉说明》。\nIT之家从说明中获悉，8 月 24 日 8:26 四川宜宾长宁发生 4.7 级地震，成都高新减灾研究所的大陆地震预警网对该地震的预警震级序列依次为 7.7 级 (震后第 5 秒)、6.4 级 (震后第 6 秒)、3.7 级 (震后第 7 秒)、4.1 级 (震后第 8 秒)、3.9 级 (震后第 16 秒)。震级在地震发生的第 17 秒自动收敛到 3.9 级。\n成都高新减灾研究所在说明中提到：\n\n1、地震预警的震级、震中位置有一定偏差是必然的，因为预警系统是在",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "成都高新减灾研究所就宜宾长宁地震预警震级偏差致歉，说明技术局限。",
+      "aiSummary": "苹果钱包上线郑州绿城通交通卡，支持公交地铁折扣。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家知名，内容具体含震级序列，有官方致歉说明，客观中立。"
+      "credibilityReason": "IT之家为知名科技媒体，报道具体，含折扣细节，信息可信。"
     },
     {
-      "title": "CYBERLEEK 威胁泄露《GTA 6》完整版本为假消息",
-      "link": "https://www.ithome.com/0/993/359.htm",
-      "pubDate": "Mon, 24 Aug 2026 01:26:50 GMT",
-      "contentSnippet": "IT之家 8 月 24 日消息，8 月 22 日，外媒 Insider Gaming 撰写了一篇关于 CYBERLEEK 组织向 Rockstar Games 和 Take-Two Interactive 发出威胁的报道，该威胁声称：如果这些公司不放弃对该团体的法律追诉，他们将发布《侠盗猎车手 6》（GTA 6）的完整构建版本。\n\n然而，这篇文章所依据的图片和言论事后被证明是伪造的，是由众多模仿 CYBERLEEK 行为的人之一出于某种原因制造并在网上传播的。目前原始报道已被删除。\n然而IT之家注意到，在最近几个小时里，一位名叫 MoistCr1TiKaL 的创作者上传了一段视频，大篇幅讨论了",
+      "title": "消息称 SK 海力士工会否决临时薪资协议",
+      "link": "https://www.ithome.com/0/993/810.htm",
+      "pubDate": "Tue, 25 Aug 2026 01:06:07 GMT",
+      "contentSnippet": "IT之家 8 月 25 日消息，据路透社报道，一名知情人士透露，韩国芯片制造商 SK 海力士的工会成员周二否决了此前达成的临时薪资协议，投票反对该协议的比例略高于 50%。\n\n该知情人士表示，在参与投票的 15,045 名员工中，共有 50.08% 投票反对这项协议。\n据IT之家了解，双方上周达成的协议包括将员工工资提高 6.3%，并调整 SK 海力士的利润分成奖金制度。按照新方案，奖金的 40% 将以现金形式发放，另外 60% 则以公司股票形式发放。\n作为全球第二大存储芯片制造商，SK 海力士近期受益于人工智能应用对高带宽内存（HBM）芯片需求的强劲增长，盈利表现十分亮眼。",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -170,84 +152,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "IT之家报道称CYBERLEEK威胁泄露GTA 6完整版为假消息，原始报道已删除。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体，引用外媒并说明伪造证据，逻辑清晰，但缺乏原始链接。"
-    },
-    {
-      "title": "秦力洪：纯电渗透率今年有望超 50％，蔚来不会做增程车",
-      "link": "https://www.ithome.com/0/993/357.htm",
-      "pubDate": "Mon, 24 Aug 2026 01:24:30 GMT",
-      "contentSnippet": "IT之家 8 月 24 日消息，蔚来联合创始人、总裁秦力洪 8 月 21 日发布视频，宣布 7 月蔚来公司在全国 8 省 42 城销量超越宝马、奔驰、奥迪。蔚来 ES8 用时 335 天，交付 14 万辆。\n\n秦力洪表示，今年 7 月中国新能源渗透率历史性突破 60%，纯电渗透率今年有望超 50％。\n据《每日经济新闻》本月报道，秦力洪在接受采访时重申，蔚来不会做增程车，会一直坚持做纯电车，“如果我们想做增程车，20 个月就能做出来”。\n据秦力洪透露，蔚来算过一笔账，平均一辆车多装一套增程系统，物力成本差不多超 2 万元。以 100 万辆车来计算，这笔费用会达 200 亿元。“有这笔钱，我们还不",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "蔚来总裁称纯电渗透率今年或超50%，重申不做增程车。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，内容具体有数据，引用高管言论，但缺乏独立验证。"
-    },
-    {
-      "title": "WRC的场景大考，谁在用心做Demo，谁在敷衍交答卷",
-      "link": "https://www.tmtpost.com/8113554.html",
-      "pubDate": "Mon, 24 Aug 2026 09:20:41 +0800",
-      "contentSnippet": "同样类型的场景Demo，公司间的差距，大到像是两个时代的产品。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体评WRC场景Demo，指公司间差距如两时代产品。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "知名科技媒体，内容具体有对比，但缺少数据支撑和原始引用。"
-    },
-    {
-      "title": "机器人运动会现场：有人破纪录，有人“骨折”了",
-      "link": "https://www.tmtpost.com/8113496.html",
-      "pubDate": "Mon, 24 Aug 2026 09:17:43 +0800",
-      "contentSnippet": "机器人会跑、会跳、会打拳，但比赛现场最忙的人，可能是维修工程师。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "机器人运动会现场，有人破纪录，有人故障，维修工程师最忙。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "钛媒体为知名科技媒体，内容具体但缺乏技术细节和原始数据，评分中等偏上。"
-    },
-    {
-      "title": "香橙派预热 OrangePi Zero 4 单板计算机：基于全志 A733 处理器",
-      "link": "https://www.ithome.com/0/993/356.htm",
-      "pubDate": "Mon, 24 Aug 2026 01:17:28 GMT",
-      "contentSnippet": "IT之家 8 月 24 日消息，香橙派 (OrangePi) 本月 21 日宣布，该企业将推出基于全志 A733 处理器的 OrangePi Zero 4 单板计算机 (SBC)。这一产品三维 50×55×1.2 (mm)，尺寸与 OrangePi Zero 3 保持一致。\n\n全志 A733 这款 12nm SoC 拥有 2 个 Arm Cortex-A76、6 个 Arm Cortex-A55 以及 1 个 RISC-V 玄铁 E902 协处理器，集成 3TOPS NPU。\nOrangePi Zero 4 支持 LPDDR4 (X) / LPDDR5 内存，预留 eMMC 与 UFS 3.0",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "香橙派将推基于全志A733的Zero 4单板计算机，尺寸与Zero 3一致。",
+      "aiSummary": "SK海力士工会否决临时薪资协议，反对票略超半数。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道具体产品参数，信息详实，来源可靠。"
+      "credibilityReason": "来源IT之家，引用路透社，数据具体，信息清晰，时效性强。"
     },
     {
-      "title": "奇瑞风云 T7 六款车色官图公布：预售价 10.99 万元起，8 月 26 日上市",
-      "link": "https://www.ithome.com/0/993/355.htm",
-      "pubDate": "Mon, 24 Aug 2026 01:13:27 GMT",
-      "contentSnippet": "IT之家 8 月 24 日消息，奇瑞风云 T7 将于 8 月 26 日上市，预售价 10.99 万元起，今日官方公布新车六款车色全新官图，包括炽焰橙、山烟紫、云粉米、流光银、青竹灰、墨石黑。\n\n\n\n\n\n\nIT之家注意到，风云 T7 采用流线动感造型，前脸配备双 LED 大灯组，支持自适应远近光灯及大灯延时关闭功能。车尾采用贯穿式尾灯设计，配备动感后扰流板，全系提供电动后备厢。车身尺寸方面，新车长宽高分别为 4570mm、1852mm、1694mm，轴距为 2700mm。\n内饰方面，风云 T7 采用环抱式座舱设计与双拼配色方案，配备 8.8 英寸全液晶仪表和 15.6 英寸 2.5K 悬浮式中控",
+      "title": "余承东官宣全新三折叠即将登场，华为鸿蒙 HarmonyOS 7 | Mate XT 2 及全场景新品发布会定档",
+      "link": "https://www.ithome.com/0/993/809.htm",
+      "pubDate": "Tue, 25 Aug 2026 01:05:30 GMT",
+      "contentSnippet": "IT之家 8 月 25 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长今日官宣，全新三折叠即将登场。\n华为鸿蒙 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会定档 9 月 7 日 14:30。\n\n\n余承东 8 月 22 日发布了与沈腾、杨幂闲聊，并一同介绍鸿蒙智行享界 G9 的视频。在视频结尾，杨幂提出与新车进行合影。而此时，余承东掏出了一款采用了全新造型设计的神秘新机。\n\n由于余承东的这款新机佩戴了保护壳，因此无法准确看清具体细节，但有网友凭借机身厚度猜测是华为 Mate XT2 非凡大师新款三折叠手机。\n\n博主 @数码闲聊站 此前发文透露",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -255,10 +169,95 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "奇瑞风云T7公布六款车色，预售价10.99万起，8月26日上市。",
+      "aiSummary": "华为余承东官宣三折叠新机及鸿蒙7发布会定档9月7日。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道具体参数和日期，内容客观，但缺乏官方引用。"
+      "credibilityReason": "IT之家为知名科技媒体，信息具体，引用官方及博主消息，但细节有限。"
+    },
+    {
+      "title": "京东快递升级校园寄递服务：2026 暑假期间新增 400 个校园服务站、千所高校已部署智能寄件设备",
+      "link": "https://www.ithome.com/0/993/808.htm",
+      "pubDate": "Tue, 25 Aug 2026 00:57:57 GMT",
+      "contentSnippet": "IT之家 8 月 25 日消息，据“京东物流黑板报”，为应对金秋开学季的校园快递需求，京东快递全面升级校园寄递服务。将在千所高校部署“小红箱”智能寄件设备、百所高校应用无人车，进一步提升寄递体验。\n\n京东快递表示，目前公司已在暑假完成大规模网点扩容，新增 400 个校园服务站，目前服务站点已覆盖全国超 2100 个高校校区。开学期间，揽收派送服务基本实现国内主要高校全覆盖。同时，由于行李包裹集中在新生报到前 3 至 5 天抵达校园，京东快递也从人员、运力、配送流程等方面做足了准备。\n同时，开学高峰期间，京东快递在各高校的校园服务站，将按照日常单量 2 倍的标准储备配送人员，所有一线工作人员提前",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "京东快递升级校园服务，新增400站点覆盖2100校区，部署智能设备应对开学季。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家知名，信息具体含数据，引用官方黑板报，逻辑清晰，时效性强。"
+    },
+    {
+      "title": "苹果发布 iOS / iPadOS 27 第 5 个公测版，整合 Beta 7 相关改进",
+      "link": "https://www.ithome.com/0/993/807.htm",
+      "pubDate": "Tue, 25 Aug 2026 00:56:14 GMT",
+      "contentSnippet": "IT之家 8 月 25 日消息，苹果公司今天（8 月 25 日）发布 iOS / iPadOS 27 Beta 7 更新后数小时，还同步推出了 iOS / iPadOS 27 第 5 个公测版，距离上个公测版相隔约 1 周时间。\n在官方更新日志中，苹果公司并未提及相关功能改进，预估整合 iOS / iPadOS 27 Beta 7 的相关改进，而且伴随着更新进入尾声，主要打磨系统稳定性和修复 Bug 方面。IT之家附上相关截图如下：\n\n图源：@CheukSing",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "苹果发布iOS/iPadOS 27第5个公测版，整合Beta 7改进，主要修复Bug。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道具体且引用官方日志，但缺乏详细技术细节。"
+    },
+    {
+      "title": "200 亿美元收购成果落地：英伟达 Groq 3 LPX 机架全面量产，今年上线",
+      "link": "https://www.ithome.com/0/993/803.htm",
+      "pubDate": "Tue, 25 Aug 2026 00:51:23 GMT",
+      "contentSnippet": "IT之家 8 月 25 日消息，英伟达当地时间周一宣布，Groq 3 LPX 机架已进入全面量产阶段，这标志着该公司史上最大规模收购所获得的技术正式实现商业化。\n\n英伟达高级总监迪翁 · 哈里斯（Dion Harris）告诉记者，Groq 机架将与 Vera 中央处理器和 Rubin 图形处理器一起部署在新型云服务商 Nebius 的平台，并将于今年晚些时候上线。\n英伟达正在加速生产 Groq 芯片并向客户提供该产品，这凸显出低延迟推理的重要性日益提升。低延迟推理对于让人工智能智能体能够快速响应、避免用户遭遇长时间等待至关重要，尤其是在编程场景中。英伟达表示，云计算公司可以针对这类 Token",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "英伟达Groq 3 LPX机架量产，与Vera/Rubin部署Nebius平台，今年上线。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，内容具体，提及收购金额和产品细节，但缺乏原始出处和独立验证。"
+    },
+    {
+      "title": "追觅造车一周年：展车地库蒙灰，千人团队剩约百人，烧掉的钱谁来买单？",
+      "link": "https://www.ifanr.com/1676439?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pubDate": "Tue, 25 Aug 2026 00:49:24 +0000",
+      "contentSnippet": "一年前全网围观追觅造车，一年后全网关注追觅裁员。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "sourceName": "爱范儿",
+      "sourceWeight": 82,
+      "allSources": [
+        "爱范儿"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "追觅造车一周年，团队大幅缩减，展车蒙灰，烧钱问题待解。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "知名科技媒体爱范儿报道，内容具体，涉及团队人数和展车状态，但缺乏官方数据和原始出处。"
+    },
+    {
+      "title": "消息称佳能计划推出新款 PowerShot 卡片相机：基于现款机型小改款、引入 USB-C 接口等特性",
+      "link": "https://www.ithome.com/0/993/802.htm",
+      "pubDate": "Tue, 25 Aug 2026 00:49:01 GMT",
+      "contentSnippet": "IT之家 8 月 25 日消息，据 CanonRumors 报道，受卡片机重新流行影响，佳能正在开发一系列主打便携性的 PowerShot 卡片相机，相应产品分为 3 种版本，分别定位高端、长焦以及入门市场，但具体型号暂不知悉。\n\n据报道，相应 PowerShot 卡片相机预计是基于现有型号进行升级，主要将 Mini USB 接口调整为 USB-C 接口，同时引入移远通信的 Quectel KN35500 Wi-FI 天线，令相应产品支持“一键 NFC 感应 Wi-Fi 传照片”。\n其他方面，新机据称将采用 microSD 卡槽，而非传统 SD 卡槽。IT之家将保持关注。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "佳能计划推新款PowerShot卡片机，基于现款小改，引入USB-C和NFC Wi-Fi传照片。",
+      "credibilityScore": 70,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家知名，内容具体但依赖单一消息源CanonRumors，细节有限，评分中等偏上。"
     }
   ]
 }
