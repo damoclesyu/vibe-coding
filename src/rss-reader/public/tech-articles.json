@@ -1,14 +1,31 @@
 {
-  "generatedAt": "2026-08-25T01:27:29.345Z",
+  "generatedAt": "2026-08-26T01:37:18.416Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "拼多多赵佳臻谈自营业务最新进展：启动所需时间相较预期更长，但对前景有信心",
-      "link": "https://www.ithome.com/0/993/805.htm",
-      "pubDate": "Tue, 25 Aug 2026 00:53:44 GMT",
-      "contentSnippet": "8 月 25 日上午消息，昨日，拼多多发布最新财报，在电话会上，拼多多集团联席董事长兼联席 CEO 赵佳臻透露，“今年的第二季度是我们新十年高质量发展从开局起步到纵深推进的新阶段。我们长期坚持的千亿扶持惠商战略，逐步从投入期进入收效期，平台及产业生态效用加速释放，供需两侧均实现质效升级。同时我们继续稳步地推进三年再造拼多多重大战略。”\n谈及品牌自营战略最近进展，赵佳臻表示，“品牌自营业务是我们在长期供应链投资方向上的一个重要延伸，我们也希望与有能力、同时有意愿的制造企业建立深度的产品共创关系，发挥平台在市场洞察、全球渠道方面的能力，提升产业链的品牌化发展和价值创造的确定性，并且把这些增量价值能",
+      "title": "台湾打工换宿｜用人与人的喜好串起淡水的地图",
+      "link": "https://sspai.com/post/113673",
+      "pubDate": "Tue, 25 Aug 2026 15:00:00 +0800",
+      "contentSnippet": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+      "sourceName": "少数派",
+      "sourceWeight": 78,
+      "allSources": [
+        "少数派"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "台湾淡水打工换宿体验，以人际喜好串联地方故事。",
+      "credibilityScore": 70,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体少数派，内容具体但非科技领域，评分适中。"
+    },
+    {
+      "title": "RTX 5060 显卡“换芯”：GB205 核心版曝光，性能基本持平",
+      "link": "https://www.ithome.com/0/994/337.htm",
+      "pubDate": "Wed, 26 Aug 2026 01:28:58 GMT",
+      "contentSnippet": "IT之家 8 月 26 日消息，科技媒体 quasarzone 昨日（8 月 25 日）发布博文，分享了华硕 DUAL RTX 5060 OC D7 8GB Advanced 显卡的相关测试结果，显示搭载 GB205 GPU 芯片。\nIT之家援引博文介绍，目前市场主流的 GeForce RTX 5060 显卡主要采用基于 Blackwell 架构的 GB206 芯片（具体型号多为 GB206-250），采用台积电 4N 工艺，核心面积约 181 mm²。\n\n图源：英伟达\n而本次测试的显卡搭载 GB205 芯片（具体型号为 GB205-200-KB-A1），该芯片通常用于 GeForce RTX",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,16 +33,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "拼多多联席CEO赵佳臻称自营业务进展慢于预期，但前景有信心。",
-      "credibilityScore": 75,
+      "aiSummary": "RTX 5060显卡曝光GB205核心版本，性能与GB206版基本持平。",
+      "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家较知名，内容具体引用高管发言，但缺乏独立数据支撑，评分中等偏上。"
+      "credibilityReason": "来源IT之家知名，引用quasarzone测试，细节具体，但缺乏官方确认。"
     },
     {
-      "title": "【钛晨报】上海\"十五五\"产业规划出炉，新增三大万亿级产业集群；国管公积金新政，首套房最高可贷款340万元；TRAE、扣子并入豆包，字节将推“豆包工作”",
-      "link": "https://www.tmtpost.com/8115315.html",
-      "pubDate": "Tue, 25 Aug 2026 07:20:00 +0800",
-      "contentSnippet": "王沪宁会见第三届中美1.5轨对话美方代表；特朗普称加拿大汽车钢铁关税提至50%；全球资金流入黄金ETF，一个月大增380亿元；交易所收紧IPO？求证：要求券商从源头提升申报质量；配售800亿后，蔡崇信、吴泳铭再出手增持1.2亿港元阿里股票；小米公布玄戒O3芯片架构；欧盟六国要求对石油公司征税",
+      "title": "国内首个：星河动力航天爱神星一号留轨平台顺利机动离轨，打通我国商业火箭末级留轨服务全链路",
+      "link": "https://www.ithome.com/0/994/336.htm",
+      "pubDate": "Wed, 26 Aug 2026 01:22:11 GMT",
+      "contentSnippet": "IT之家 8 月 26 日消息，星河动力航天今日宣布，在上级部门的监管与指导下，星河动力航天自主研制的爱神星一号 01 留轨平台圆满完成两年期在轨试验任务，依托自研轨姿控动力系统成功实施精准机动离轨，为本次任务画上圆满句号。\n这是国内首个基于商业运载火箭末级改造的长时间留轨平台，首次完整实现“入轨转换 — 轨道机动 — 在轨试验服务 — 精准离轨”的全流程技术闭环，为我国商业航天探索低成本、高效率的在轨服务新模式提供了支撑。\n爱神星一号留轨平台是星河动力打造的创新型在轨试验及在轨服务基础设施，其核心技术路径是将运载火箭末级进行在轨适应性升级，通过改进热控、能源、姿控等系统，使原本完成卫星释放任",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "星河动力爱神星一号留轨平台完成两年在轨任务并离轨，实现国内商业火箭末级留轨服务全链路。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道具体，含技术细节和官方声明，但缺乏独立数据验证。"
+    },
+    {
+      "title": "国产量检测要开始用EUV了",
+      "link": "https://www.tmtpost.com/8116348.html",
+      "pubDate": "Wed, 26 Aug 2026 09:19:49 +0800",
+      "contentSnippet": "被低估的EUV第二赛道。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -33,220 +67,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "上海规划新增三大万亿产业集群，国管公积金新政出台，字节整合TRAE和扣子推豆包工作。",
+      "aiSummary": "国产检测设备将采用EUV技术，EUV第二赛道被低估。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容具体涉及政策、企业动态，但部分信息未提供原始出处，评分适中。"
+      "credibilityReason": "钛媒体为知名科技媒体，内容具体但缺乏数据支撑和原始出处，评分中等偏上。"
     },
     {
-      "title": "小米集团副总裁朱丹：芯片研发投入是为下一个十年买“入场券”",
-      "link": "https://www.ithome.com/0/993/753.htm",
-      "pubDate": "Mon, 24 Aug 2026 15:10:26 GMT",
-      "contentSnippet": "IT之家 8 月 24 日消息，小米今天（24 日）发布了三款自研芯片，随后在当天晚间登上央视财经频道。小米集团副总裁朱丹在采访中介绍，小米的判断很明确，AI 时代算力是一切智能体验的根基，不掌握芯片能力，就无法从底层定义产品体验。所以这笔投入不是“烧钱”，是在为下一个十年买“入场券”。\n\n报道援引业内人士的分析称，国内多家企业持续加码芯片自研，通过长期高额的技术投入，完善全场景算力布局，是产业链自主可控、产业高质量发展的重要趋势。\n综合IT之家此前报道，小米新一代玄戒芯片今天实现“三芯齐发”。\n\n玄戒 O3，AI 旗舰 SoC，安兔兔首破 500 万\n\n玄戒 O100，1.22TB/s 高带",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "小米发布三款自研芯片，副总裁称投入为未来十年布局。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家较权威，内容具体但细节有限，引用官方采访，评分75。"
-    },
-    {
-      "title": "雷神推出猎刃 60 游戏手柄：8KHz 回报率、可调力 TMR 摇杆，399 元",
-      "link": "https://www.ithome.com/0/993/817.htm",
-      "pubDate": "Tue, 25 Aug 2026 01:20:42 GMT",
-      "contentSnippet": "IT之家 8 月 25 日消息，雷神旗下猎刃 60 游戏手柄现已在京东开启预约，该手柄支持 8KHz 回报率，定价为 449 元，首发价 399 元。\n\n\n该手柄采用了正反双面软胶包覆握把，表面带有防滑纹理，其十字键部分采用了全向悬浮式设计，标配圆盘与十字两种可替换双键帽，玩家可根据不同游戏类型自由更换。手柄背部及肩部集成了六个自定义机械轻触按键，均可通过 PC 端驱动映射为快捷键或宏命令。\n\n\n该手柄在有线和 2.4G 无线模式下均支持 8KHz 回报率，全链路响应延迟约为 0.7ms；蓝牙模式的回报率则为 125Hz。其扳机采用了微动与霍尔双模式无虚位结构设计，用户可通过背部档位一键切换，",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "雷神发布猎刃60手柄，支持8KHz回报率，首发价399元。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道具体参数和价格，但缺乏原始出处和深度分析。"
-    },
-    {
-      "title": "高盛合伙人警告：华尔街普及 AI 或削弱金融从业者思考能力",
-      "link": "https://www.ithome.com/0/993/816.htm",
-      "pubDate": "Tue, 25 Aug 2026 01:18:35 GMT",
-      "contentSnippet": "IT之家 8 月 25 日消息，高盛负责一项旗舰人工智能项目的合伙人警告称，AI 在华尔街的快速普及可能削弱下一代金融从业者的思考能力。\n\n“这里存在一个巨大的风险：在 AI 时代，我们把推理能力外包给这些模型，最终出现认知能力萎缩，以至于我们自己都无法再从第一性原理出发进行思考。”负责高盛机构客户数字平台 Marquee 的 Chris Churchman 表示。\n据 CNBC 获得的采访文字稿，Churchman 是在高盛最新一期《Exchanges》播客中发表上述言论的。\nChurchman 表示，就像现代科技的出现让人们逐渐失去了导航和记忆能力一样，如果算法承担了所有繁重的分析工作，银",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "高盛高管警告AI普及或削弱金融从业者思考能力。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用CNBC采访，内容具体，逻辑清晰，但缺乏更多数据支撑。"
-    },
-    {
-      "title": "小鹏第二代 VLA 首次模型重大升级：响应速度提升 3 倍，G9L 车型全球首发",
-      "link": "https://www.ithome.com/0/993/815.htm",
-      "pubDate": "Tue, 25 Aug 2026 01:15:44 GMT",
-      "contentSnippet": "IT之家 8 月 25 日消息，小鹏汽车今日宣布，小鹏物理 AI 分享暨第二代 VLA 全新版本体验日将于 8 月 27 日 15:00 举行。\n\n小鹏第二代 VLA 首次模型重大升级，小鹏第二代 VLA 630 版更进一步，智能辅助驾驶体验再次跃升：\n\n端侧最大模型 —— 端侧模型参数量提高 3.5 倍，行业主流 VLA 模型的 15 倍；\n\n博弈更稳 —— 端到端响应速度提升 300%，安全博弈、减速操作平稳丝滑。\n\nIT之家从小鹏汽车公告获悉，小鹏 G9L 将全球首发搭载第二代 VLA 全新版本。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "小鹏第二代VLA升级，响应速度提升3倍，G9L将首发搭载。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容具体有数据，但缺少独立验证，评分中等偏上。"
-    },
-    {
-      "title": "已调整 27 次：闰秒有望退出历史舞台，明年改为推行闰时",
-      "link": "https://www.ithome.com/0/993/814.htm",
-      "pubDate": "Tue, 25 Aug 2026 01:15:09 GMT",
-      "contentSnippet": "IT之家 8 月 25 日消息，国际计量局（BIPM）官宣将于 2026 年 10 月在法国凡尔赛国际会议中心举办第 28 届国际计量大会（CGPM），将讨论用闰时取代闰秒，并规划 2027 年 5 月开始推行。\nIT之家注：闰秒由国际计量局（BIPM）于 1972 年引入，截至目前已修改 27 次，目的是让世界协调时（UTC）与地球自转速度逐渐减慢相匹配。\n协调世界时（UTC）基于用原子振动实现的高精度原子钟来确定，成为 1 秒长度的标准。不过由地球自转时间决定的 1 天长度会发生不规则变化，因此会产生偏差。\n\n地球的自转速度根据潮汐涨落以及地球内部地核运动而波动。地球的一天即地球自转一圈，",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国际计量局拟用闰时取代闰秒，计划2027年推行。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，信息具体，涉及国际组织官方决策，但未提供原始链接，评分略降。"
-    },
-    {
-      "title": "苹果钱包上线郑州绿城通交通卡：乘当地公交车 8 折、地铁 9.5 折",
-      "link": "https://www.ithome.com/0/993/811.htm",
-      "pubDate": "Tue, 25 Aug 2026 01:06:22 GMT",
-      "contentSnippet": "IT之家 8 月 25 日消息，苹果现已在其“钱包（Wallet）”应用上线郑州绿城通交通卡，充值界面显示该卡免开卡费，用户快捷开卡后还可下载“绿城通行”App 进一步管理交通卡。\n\nIT之家注意到，公开信息显示，绿城通交通卡（普通卡）的卡面以郑州市地标建筑“二七纪念塔”和“中原福塔”为背景，表现了中原历史和文化特色。持绿城通乘坐郑州市内公交车可享 8 折优惠、持绿城通乘坐郑州地铁可享 9.5 折优惠。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "苹果钱包上线郑州绿城通交通卡，支持公交地铁折扣。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道具体，含折扣细节，信息可信。"
-    },
-    {
-      "title": "消息称 SK 海力士工会否决临时薪资协议",
-      "link": "https://www.ithome.com/0/993/810.htm",
-      "pubDate": "Tue, 25 Aug 2026 01:06:07 GMT",
-      "contentSnippet": "IT之家 8 月 25 日消息，据路透社报道，一名知情人士透露，韩国芯片制造商 SK 海力士的工会成员周二否决了此前达成的临时薪资协议，投票反对该协议的比例略高于 50%。\n\n该知情人士表示，在参与投票的 15,045 名员工中，共有 50.08% 投票反对这项协议。\n据IT之家了解，双方上周达成的协议包括将员工工资提高 6.3%，并调整 SK 海力士的利润分成奖金制度。按照新方案，奖金的 40% 将以现金形式发放，另外 60% 则以公司股票形式发放。\n作为全球第二大存储芯片制造商，SK 海力士近期受益于人工智能应用对高带宽内存（HBM）芯片需求的强劲增长，盈利表现十分亮眼。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "SK海力士工会否决临时薪资协议，反对票略超半数。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用路透社，数据具体，信息清晰，时效性强。"
-    },
-    {
-      "title": "余承东官宣全新三折叠即将登场，华为鸿蒙 HarmonyOS 7 | Mate XT 2 及全场景新品发布会定档",
-      "link": "https://www.ithome.com/0/993/809.htm",
-      "pubDate": "Tue, 25 Aug 2026 01:05:30 GMT",
-      "contentSnippet": "IT之家 8 月 25 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长今日官宣，全新三折叠即将登场。\n华为鸿蒙 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会定档 9 月 7 日 14:30。\n\n\n余承东 8 月 22 日发布了与沈腾、杨幂闲聊，并一同介绍鸿蒙智行享界 G9 的视频。在视频结尾，杨幂提出与新车进行合影。而此时，余承东掏出了一款采用了全新造型设计的神秘新机。\n\n由于余承东的这款新机佩戴了保护壳，因此无法准确看清具体细节，但有网友凭借机身厚度猜测是华为 Mate XT2 非凡大师新款三折叠手机。\n\n博主 @数码闲聊站 此前发文透露",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "华为余承东官宣三折叠新机及鸿蒙7发布会定档9月7日。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体，引用官方及博主消息，但细节有限。"
-    },
-    {
-      "title": "京东快递升级校园寄递服务：2026 暑假期间新增 400 个校园服务站、千所高校已部署智能寄件设备",
-      "link": "https://www.ithome.com/0/993/808.htm",
-      "pubDate": "Tue, 25 Aug 2026 00:57:57 GMT",
-      "contentSnippet": "IT之家 8 月 25 日消息，据“京东物流黑板报”，为应对金秋开学季的校园快递需求，京东快递全面升级校园寄递服务。将在千所高校部署“小红箱”智能寄件设备、百所高校应用无人车，进一步提升寄递体验。\n\n京东快递表示，目前公司已在暑假完成大规模网点扩容，新增 400 个校园服务站，目前服务站点已覆盖全国超 2100 个高校校区。开学期间，揽收派送服务基本实现国内主要高校全覆盖。同时，由于行李包裹集中在新生报到前 3 至 5 天抵达校园，京东快递也从人员、运力、配送流程等方面做足了准备。\n同时，开学高峰期间，京东快递在各高校的校园服务站，将按照日常单量 2 倍的标准储备配送人员，所有一线工作人员提前",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "京东快递升级校园服务，新增400站点覆盖2100校区，部署智能设备应对开学季。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家知名，信息具体含数据，引用官方黑板报，逻辑清晰，时效性强。"
-    },
-    {
-      "title": "苹果发布 iOS / iPadOS 27 第 5 个公测版，整合 Beta 7 相关改进",
-      "link": "https://www.ithome.com/0/993/807.htm",
-      "pubDate": "Tue, 25 Aug 2026 00:56:14 GMT",
-      "contentSnippet": "IT之家 8 月 25 日消息，苹果公司今天（8 月 25 日）发布 iOS / iPadOS 27 Beta 7 更新后数小时，还同步推出了 iOS / iPadOS 27 第 5 个公测版，距离上个公测版相隔约 1 周时间。\n在官方更新日志中，苹果公司并未提及相关功能改进，预估整合 iOS / iPadOS 27 Beta 7 的相关改进，而且伴随着更新进入尾声，主要打磨系统稳定性和修复 Bug 方面。IT之家附上相关截图如下：\n\n图源：@CheukSing",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "苹果发布iOS/iPadOS 27第5个公测版，整合Beta 7改进，主要修复Bug。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道具体且引用官方日志，但缺乏详细技术细节。"
-    },
-    {
-      "title": "200 亿美元收购成果落地：英伟达 Groq 3 LPX 机架全面量产，今年上线",
-      "link": "https://www.ithome.com/0/993/803.htm",
-      "pubDate": "Tue, 25 Aug 2026 00:51:23 GMT",
-      "contentSnippet": "IT之家 8 月 25 日消息，英伟达当地时间周一宣布，Groq 3 LPX 机架已进入全面量产阶段，这标志着该公司史上最大规模收购所获得的技术正式实现商业化。\n\n英伟达高级总监迪翁 · 哈里斯（Dion Harris）告诉记者，Groq 机架将与 Vera 中央处理器和 Rubin 图形处理器一起部署在新型云服务商 Nebius 的平台，并将于今年晚些时候上线。\n英伟达正在加速生产 Groq 芯片并向客户提供该产品，这凸显出低延迟推理的重要性日益提升。低延迟推理对于让人工智能智能体能够快速响应、避免用户遭遇长时间等待至关重要，尤其是在编程场景中。英伟达表示，云计算公司可以针对这类 Token",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "英伟达Groq 3 LPX机架量产，与Vera/Rubin部署Nebius平台，今年上线。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容具体，提及收购金额和产品细节，但缺乏原始出处和独立验证。"
-    },
-    {
-      "title": "追觅造车一周年：展车地库蒙灰，千人团队剩约百人，烧掉的钱谁来买单？",
-      "link": "https://www.ifanr.com/1676439?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pubDate": "Tue, 25 Aug 2026 00:49:24 +0000",
-      "contentSnippet": "一年前全网围观追觅造车，一年后全网关注追觅裁员。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "sourceName": "爱范儿",
+      "title": "雄安“一人公司”涌动：被大厂裁员的P7，用AI组装自己的“资本梦”",
+      "link": "https://www.tmtpost.com/8116290.html",
+      "pubDate": "Wed, 26 Aug 2026 09:19:44 +0800",
+      "contentSnippet": "“当一个人就是一家公司，技术杠杆是蜜糖，也是砒霜。”",
+      "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
-        "爱范儿"
+        "钛媒体"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "追觅造车一周年，团队大幅缩减，展车蒙灰，烧钱问题待解。",
+      "aiSummary": "雄安一人公司兴起，被裁P7用AI创业，技术杠杆双刃剑。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "知名科技媒体爱范儿报道，内容具体，涉及团队人数和展车状态，但缺乏官方数据和原始出处。"
+      "credibilityReason": "钛媒体为知名科技媒体，内容具体有案例，但缺乏数据支撑和原始出处。"
     },
     {
-      "title": "消息称佳能计划推出新款 PowerShot 卡片相机：基于现款机型小改款、引入 USB-C 接口等特性",
-      "link": "https://www.ithome.com/0/993/802.htm",
-      "pubDate": "Tue, 25 Aug 2026 00:49:01 GMT",
-      "contentSnippet": "IT之家 8 月 25 日消息，据 CanonRumors 报道，受卡片机重新流行影响，佳能正在开发一系列主打便携性的 PowerShot 卡片相机，相应产品分为 3 种版本，分别定位高端、长焦以及入门市场，但具体型号暂不知悉。\n\n据报道，相应 PowerShot 卡片相机预计是基于现有型号进行升级，主要将 Mini USB 接口调整为 USB-C 接口，同时引入移远通信的 Quectel KN35500 Wi-FI 天线，令相应产品支持“一键 NFC 感应 Wi-Fi 传照片”。\n其他方面，新机据称将采用 microSD 卡槽，而非传统 SD 卡槽。IT之家将保持关注。",
+      "title": "每分钟 500 美元！X 前产品负责人尼基塔 · 比尔高价售卖咨询服务",
+      "link": "https://www.ithome.com/0/994/335.htm",
+      "pubDate": "Wed, 26 Aug 2026 01:10:19 GMT",
+      "contentSnippet": "IT之家 8 月 26 日消息，给优质建议很难定价，但尼基塔 · 比尔（Nikita Bier）却明码标价：1.5 万美元（IT之家注：现汇率约合 10.1 万元人民币）。\n\n尼基塔 · 比尔（右）\n比尔在今年 8 月初卸任了 X 公司产品负责人一职，此前他担任该职位刚刚一年多。如今，他正通过专家咨询平台 Intro 出售一对一视频咨询服务。\nIntro 宣传比尔的咨询服务“起价 7,500 美元（现汇率约合 50,528 元人民币）”，他的个人页面显示咨询时长为 15 分钟。不过，目前页面上唯一可购买的选项是 30 分钟起步，价格为 1.5 万美元（现汇率约合 10.1 万元人民币）。\n按照",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -254,10 +101,167 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "佳能计划推新款PowerShot卡片机，基于现款小改，引入USB-C和NFC Wi-Fi传照片。",
-      "credibilityScore": 70,
+      "aiSummary": "X前产品负责人尼基塔·比尔以1.5万美元30分钟出售咨询，IT之家报道。",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家知名，内容具体但依赖单一消息源CanonRumors，细节有限，评分中等偏上。"
+      "credibilityReason": "IT之家为知名科技媒体，报道具体有价格细节，但缺乏原始出处和独立验证。"
+    },
+    {
+      "title": "给山姆们“打工”的南侨食品，半年净利润暴跌92.79％",
+      "link": "https://www.tmtpost.com/8116445.html",
+      "pubDate": "Wed, 26 Aug 2026 09:05:28 +0800",
+      "contentSnippet": "烘焙消费依然火热，但产业链的定价权已发生转移。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "南侨食品半年净利暴跌92.79%，烘焙产业链定价权转移。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "钛媒体为知名科技媒体，数据具体，逻辑清晰，但缺乏原始出处和深入分析。"
+    },
+    {
+      "title": "Parallels Desktop 27 发布：OpenGL 性能最高提升 160%、AI 矩阵计算最高提升 7 倍",
+      "link": "https://www.ithome.com/0/994/334.htm",
+      "pubDate": "Wed, 26 Aug 2026 01:03:42 GMT",
+      "contentSnippet": "IT之家 8 月 26 日消息，科技媒体 AppleInsider 昨日（8 月 25 日）发布博文，报道称 Parallels Desktop 27 已发布，新增基于 Metal 的图形驱动，为 Windows 虚拟机带来 OpenGL 4.3 支持。\n\nIT之家援引博文介绍，新版本采用基于 Metal 的图形驱动，为 Windows 虚拟机加入 OpenGL 4.3 支持，覆盖 ArcGIS Pro、ZWCAD 和 Blender 4.3 等专业应用。\nParallels 声称，在搭载 M3 及后续处理器的 Mac 设备上，OpenGL 性能最高提升 160%，ArcGIS Pro 三维渲",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家",
+        "钛媒体",
+        "少数派",
+        "InfoQ中文"
+      ],
+      "coverageCount": 4,
+      "coverageBoost": 15,
+      "aiSummary": "Parallels Desktop 27发布，基于Metal驱动，OpenGL性能提升160%，AI矩阵计算提升7倍。",
+      "credibilityScore": 100,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家等知名媒体，引用AppleInsider原始报道，技术细节具体，逻辑清晰。（多源覆盖 +15）"
+    },
+    {
+      "title": "美光科技总裁兼 CEO 梅赫罗特拉减持近 4 万股公司股票，套现约 3870 万美元",
+      "link": "https://www.ithome.com/0/994/333.htm",
+      "pubDate": "Wed, 26 Aug 2026 00:55:38 GMT",
+      "contentSnippet": "IT之家 8 月 26 日消息，美光科技（Micron Technology Inc.）总裁兼首席执行官桑杰 · 梅赫罗特拉（Sanjay Mehrotra）于 2026 年 8 月 21 日出售了总价值约 3,870 万美元（IT之家注：现汇率约合 2.61 亿元人民币）的普通股。\n\n此次交易是在 10b5-1 规则交易计划下执行的，梅赫罗特拉于 2026 年 1 月 30 日制定了该交易计划。此次减持之际，美光股价报 932.50 美元（现汇率约合 6,282 元人民币），过去一年累计上涨超过 700%。\n此次交易共出售 39,994 股美光科技普通股，成交价格介于每股 959.14 美元",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "美光CEO梅赫罗特拉减持近4万股，套现约3870万美元。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道具体交易细节，但未提供原始文件链接，评分略低。"
+    },
+    {
+      "title": "熊猫推出“F32Q5”31.5 英寸显示器：2K 165Hz HVA 面板，999 元",
+      "link": "https://www.ithome.com/0/994/331.htm",
+      "pubDate": "Wed, 26 Aug 2026 00:51:32 GMT",
+      "contentSnippet": "IT之家 8 月 26 日消息，熊猫现已在京东上架型号为“F32Q5”的 31.5 英寸显示器，该机主打 2K 165Hz，定价为 999 元，部分地区国补后低至 899.1 元。\n\n\n该机配备一块 2560x1440 分辨率 165Hz HVA 面板，显示器 MPRT 响应速度 1ms，对比度 3000:1，显示器支持 8-Bit 色彩，覆盖 120% sRGB 和 90% DCI-P3 色域。\n该机支架支持升降 / 倾斜 / 旋转，显示器本体支持 VESA 100x100mm 壁挂，提供 1 个 HDMI 2.0、1 个 DP 1.4、1 个 3.5mm 音频接口。\n\nIT之家附显示器参数",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "熊猫推31.5寸2K 165Hz HVA显示器，999元，参数具体。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道含具体参数和价格，但无原始评测或官方链接，评分75。"
+    },
+    {
+      "title": "VZMORE 预热 AX9 Max 等迷你电脑：双 2.5G 网口，AMD Ryzen AI 9 HX 470 芯片",
+      "link": "https://www.ithome.com/0/994/330.htm",
+      "pubDate": "Wed, 26 Aug 2026 00:46:23 GMT",
+      "contentSnippet": "IT之家 8 月 26 日消息，科技媒体 techpowerup 昨日（8 月 25 日）发布博文，报道称德国品牌 VZMORE 官宣参加 2026 柏林国际消费电子展（IFA 2026），将展示 AX9 Max、iX9 Max、iX9 Ultra 和 AX9 Ultra 四款迷你电脑。\n在 AMD 平台方面，AX9 Max 搭载 AMD Ryzen AI 9 HX 470 处理器，配备 Radeon 890M 显卡和专用 Ryzen AI NPU，算力最高达 55 TOPS，端口方面配备 2 个 2.5G 网口。IT之家附上相关图片如下：\n\n\nAX9 Ultra 搭载 AMD Ryzen A",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "IT之家报道VZMORE将展示多款迷你电脑，搭载AMD新芯片，配备双2.5G网口。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体，引用TechPowerUp，但细节有限，评分适中。"
+    },
+    {
+      "title": "神舟 2026 款战神 T9 笔记本发售：i7-14700HX + RTX5070 售 8999 元",
+      "link": "https://www.ithome.com/0/994/329.htm",
+      "pubDate": "Wed, 26 Aug 2026 00:43:15 GMT",
+      "contentSnippet": "IT之家 8 月 26 日消息，神舟旗下 2026 款战神 T9 笔记本现已在京东发售，该机采用英特尔酷睿 i7-14700HX + 16GB RAM + 500GB SSD + RTX5070 规格，定价为 8999 元。\n\n\n该机整体重量 2.45 千克，B 面配备一块 16 英寸 2560x1600 分辨率 180Hz IPS 面板（亮度 500 尼特，覆盖 100% sRGB 色域）。\n该机搭载 20 核心 28 线程英特尔酷睿 i7-14700HX 处理器，匹配 16GB RAM 和 500GB PCIe SSD，搭载 RTX5070 Laptop 显卡，使用双风扇六铜管散热，内置",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "神舟发布2026款战神T9笔记本，i7-14700HX+RTX5070售8999元。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道具体配置和价格，但缺乏原始出处和深度分析。"
+    },
+    {
+      "title": "Rubin接棒，英伟达能否终结“财报后必跌”魔咒？",
+      "link": "https://www.tmtpost.com/8114659.html",
+      "pubDate": "Wed, 26 Aug 2026 08:41:00 +0800",
+      "contentSnippet": "英伟达FY2027 Q2财报将首次量化Rubin周期的收入贡献，在连续四个季度“超预期即下跌”之后，能否打破魔咒的关键不在数字本身，而在Rubin爬坡的速度与毛利率的韧性。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "英伟达财报能否打破超预期即跌魔咒，关键看Rubin爬坡速度与毛利率。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "钛媒体为知名科技媒体，分析具体涉及财报周期与产品爬坡，逻辑清晰，但缺乏数据细节。"
+    },
+    {
+      "title": "男子醉酒后开智驾在超车道停车睡着，被判拘役 1 个月处罚金 2000 元",
+      "link": "https://www.ithome.com/0/994/328.htm",
+      "pubDate": "Wed, 26 Aug 2026 00:37:28 GMT",
+      "contentSnippet": "IT之家 8 月 26 日消息，据“江苏卫视”报道，近期重庆市公安局交巡警察总队公布一起醉驾典例，车主涉嫌危险驾驶罪被判处拘役 1 个月，处罚金 2000 元。\n\nIT之家参考通报获悉，去年 7 月，在 G93 成渝环线高速公路超车道上，一辆黑色越野车突然停下。民警赶到发现驾驶员王某江带有酒气，呼气式酒精测试 138；静脉血液中也测出乙醇含量为 123.8 毫克，属醉酒驾驶。\n\n公安机关从车厂后台调取数据证实，王某江饮酒后启动车辆开启辅助驾驶模式，期间车机系统多次发出分心告警，后因驾驶员不符合辅助驾驶条件，车辆触发安全刹停并自动退出辅助驾驶模式。\n检察机关依法提起公诉，法院审理认为，王某江的行",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "醉驾开智驾在超车道停车睡着，被判拘役1个月罚2000元。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，引用江苏卫视和重庆警方通报，细节具体，逻辑清晰。"
+    },
+    {
+      "title": "商业史最庞大叙事：Anthropic 冲击全球最大 IPO，称 AI 潜在市场收入规模超 30 万亿美元",
+      "link": "https://www.ithome.com/0/994/327.htm",
+      "pubDate": "Wed, 26 Aug 2026 00:36:34 GMT",
+      "contentSnippet": "IT之家 8 月 26 日消息，华尔街日报昨日（8 月 25 日）发布博文，报道称在 IPO 招股书中，Anthropic 为撑起 2 万亿美元（现汇率约合 13.47 万亿元人民币）估值宏大叙事，向投资者提出了超过 30 万亿美元（现汇率约合 202.11 万亿元人民币）的潜在市场规模（TAM）预测，超过 SpaceX 预估的 28.5 万亿美元（现汇率约合 192 万亿元人民币）预测。\nIT之家注：潜在市场规模是指如果一款产品或服务实现了 100% 的市场份额，它在理论上能够获得的最大年度总收入机会，主要向投资者展示自身广阔的增长空间。\n马斯克旗下火箭企业 SpaceX，在 5 月提交的文",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家",
+        "钛媒体"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "Anthropic IPO估值2万亿，称AI市场超30万亿美元，引争议。",
+      "credibilityScore": 65,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为IT之家和钛媒体，内容具体但依赖单一报道，缺乏独立验证，数据夸张需谨慎。（多源覆盖 +5）"
     }
   ]
 }
