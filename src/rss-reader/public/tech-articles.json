@@ -1,65 +1,14 @@
 {
-  "generatedAt": "2026-08-26T01:37:18.416Z",
+  "generatedAt": "2026-08-27T08:24:40.000Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "台湾打工换宿｜用人与人的喜好串起淡水的地图",
-      "link": "https://sspai.com/post/113673",
-      "pubDate": "Tue, 25 Aug 2026 15:00:00 +0800",
-      "contentSnippet": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-      "sourceName": "少数派",
-      "sourceWeight": 78,
-      "allSources": [
-        "少数派"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "台湾淡水打工换宿体验，以人际喜好串联地方故事。",
-      "credibilityScore": 70,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体少数派，内容具体但非科技领域，评分适中。"
-    },
-    {
-      "title": "RTX 5060 显卡“换芯”：GB205 核心版曝光，性能基本持平",
-      "link": "https://www.ithome.com/0/994/337.htm",
-      "pubDate": "Wed, 26 Aug 2026 01:28:58 GMT",
-      "contentSnippet": "IT之家 8 月 26 日消息，科技媒体 quasarzone 昨日（8 月 25 日）发布博文，分享了华硕 DUAL RTX 5060 OC D7 8GB Advanced 显卡的相关测试结果，显示搭载 GB205 GPU 芯片。\nIT之家援引博文介绍，目前市场主流的 GeForce RTX 5060 显卡主要采用基于 Blackwell 架构的 GB206 芯片（具体型号多为 GB206-250），采用台积电 4N 工艺，核心面积约 181 mm²。\n\n图源：英伟达\n而本次测试的显卡搭载 GB205 芯片（具体型号为 GB205-200-KB-A1），该芯片通常用于 GeForce RTX",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "RTX 5060显卡曝光GB205核心版本，性能与GB206版基本持平。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家知名，引用quasarzone测试，细节具体，但缺乏官方确认。"
-    },
-    {
-      "title": "国内首个：星河动力航天爱神星一号留轨平台顺利机动离轨，打通我国商业火箭末级留轨服务全链路",
-      "link": "https://www.ithome.com/0/994/336.htm",
-      "pubDate": "Wed, 26 Aug 2026 01:22:11 GMT",
-      "contentSnippet": "IT之家 8 月 26 日消息，星河动力航天今日宣布，在上级部门的监管与指导下，星河动力航天自主研制的爱神星一号 01 留轨平台圆满完成两年期在轨试验任务，依托自研轨姿控动力系统成功实施精准机动离轨，为本次任务画上圆满句号。\n这是国内首个基于商业运载火箭末级改造的长时间留轨平台，首次完整实现“入轨转换 — 轨道机动 — 在轨试验服务 — 精准离轨”的全流程技术闭环，为我国商业航天探索低成本、高效率的在轨服务新模式提供了支撑。\n爱神星一号留轨平台是星河动力打造的创新型在轨试验及在轨服务基础设施，其核心技术路径是将运载火箭末级进行在轨适应性升级，通过改进热控、能源、姿控等系统，使原本完成卫星释放任",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "星河动力爱神星一号留轨平台完成两年在轨任务并离轨，实现国内商业火箭末级留轨服务全链路。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道具体，含技术细节和官方声明，但缺乏独立数据验证。"
-    },
-    {
-      "title": "国产量检测要开始用EUV了",
-      "link": "https://www.tmtpost.com/8116348.html",
-      "pubDate": "Wed, 26 Aug 2026 09:19:49 +0800",
-      "contentSnippet": "被低估的EUV第二赛道。",
+      "title": "单季1200亿资本开支，中国互联网的AI千亿豪赌",
+      "link": "https://www.tmtpost.com/8117891.html",
+      "pubDate": "Thu, 27 Aug 2026 14:14:00 +0800",
+      "contentSnippet": "当中国云厂商的ROIC只有13%-20%，而大洋彼岸的美国同行却能赚到25%-50%时，中美AI算力投资的回报差距，最终会以什么形式收敛？",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -67,201 +16,249 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国产检测设备将采用EUV技术，EUV第二赛道被低估。",
+      "aiSummary": "分析中美AI算力投资回报差距，中国云厂商ROIC偏低。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容具体但缺乏数据支撑和原始出处，评分中等偏上。"
+      "credibilityReason": "钛媒体为知名科技媒体，内容具体，有数据支撑，但缺乏原始出处和深度分析。"
     },
     {
-      "title": "雄安“一人公司”涌动：被大厂裁员的P7，用AI组装自己的“资本梦”",
-      "link": "https://www.tmtpost.com/8116290.html",
-      "pubDate": "Wed, 26 Aug 2026 09:19:44 +0800",
-      "contentSnippet": "“当一个人就是一家公司，技术杠杆是蜜糖，也是砒霜。”",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "雄安一人公司兴起，被裁P7用AI创业，技术杠杆双刃剑。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容具体有案例，但缺乏数据支撑和原始出处。"
-    },
-    {
-      "title": "每分钟 500 美元！X 前产品负责人尼基塔 · 比尔高价售卖咨询服务",
-      "link": "https://www.ithome.com/0/994/335.htm",
-      "pubDate": "Wed, 26 Aug 2026 01:10:19 GMT",
-      "contentSnippet": "IT之家 8 月 26 日消息，给优质建议很难定价，但尼基塔 · 比尔（Nikita Bier）却明码标价：1.5 万美元（IT之家注：现汇率约合 10.1 万元人民币）。\n\n尼基塔 · 比尔（右）\n比尔在今年 8 月初卸任了 X 公司产品负责人一职，此前他担任该职位刚刚一年多。如今，他正通过专家咨询平台 Intro 出售一对一视频咨询服务。\nIntro 宣传比尔的咨询服务“起价 7,500 美元（现汇率约合 50,528 元人民币）”，他的个人页面显示咨询时长为 15 分钟。不过，目前页面上唯一可购买的选项是 30 分钟起步，价格为 1.5 万美元（现汇率约合 10.1 万元人民币）。\n按照",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "X前产品负责人尼基塔·比尔以1.5万美元30分钟出售咨询，IT之家报道。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道具体有价格细节，但缺乏原始出处和独立验证。"
-    },
-    {
-      "title": "给山姆们“打工”的南侨食品，半年净利润暴跌92.79％",
-      "link": "https://www.tmtpost.com/8116445.html",
-      "pubDate": "Wed, 26 Aug 2026 09:05:28 +0800",
-      "contentSnippet": "烘焙消费依然火热，但产业链的定价权已发生转移。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "南侨食品半年净利暴跌92.79%，烘焙产业链定价权转移。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，数据具体，逻辑清晰，但缺乏原始出处和深入分析。"
-    },
-    {
-      "title": "Parallels Desktop 27 发布：OpenGL 性能最高提升 160%、AI 矩阵计算最高提升 7 倍",
-      "link": "https://www.ithome.com/0/994/334.htm",
-      "pubDate": "Wed, 26 Aug 2026 01:03:42 GMT",
-      "contentSnippet": "IT之家 8 月 26 日消息，科技媒体 AppleInsider 昨日（8 月 25 日）发布博文，报道称 Parallels Desktop 27 已发布，新增基于 Metal 的图形驱动，为 Windows 虚拟机带来 OpenGL 4.3 支持。\n\nIT之家援引博文介绍，新版本采用基于 Metal 的图形驱动，为 Windows 虚拟机加入 OpenGL 4.3 支持，覆盖 ArcGIS Pro、ZWCAD 和 Blender 4.3 等专业应用。\nParallels 声称，在搭载 M3 及后续处理器的 Mac 设备上，OpenGL 性能最高提升 160%，ArcGIS Pro 三维渲",
+      "title": "OPPO 智慧云加速曝光 Find X10 系列“三杯”机型命名，含 Pro Max、标准版、E",
+      "link": "https://www.ithome.com/0/995/120.htm",
+      "pubDate": "Thu, 27 Aug 2026 08:23:22 GMT",
+      "contentSnippet": "IT之家 8 月 27 日消息，据博主 @体验more 分享，OPPO 智慧云加速服务曝光了 Find X10 系列手机的“三杯”机型，包括 OPPO Find X10 E、OPPO Find X10、OPPO Find X10 Pro Max。\n\n据IT之家此前报道，天马微电子今日发布了第二代天工屏，首发 N1 原色光谱发光材料、搭载自研 AI De-Mura 智控算法。第二代天工屏将在 OPPO Find X10 系列手机中首发搭载。根据 OPPO 官方预热，其屏幕双产线全新升级，推出「新一代明眸护眼屏」，支持 95% BT.2020 超广色域显示。\n目前，OPPO Find X10 系列",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
         "IT之家",
-        "钛媒体",
-        "少数派",
-        "InfoQ中文"
-      ],
-      "coverageCount": 4,
-      "coverageBoost": 15,
-      "aiSummary": "Parallels Desktop 27发布，基于Metal驱动，OpenGL性能提升160%，AI矩阵计算提升7倍。",
-      "credibilityScore": 100,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家等知名媒体，引用AppleInsider原始报道，技术细节具体，逻辑清晰。（多源覆盖 +15）"
-    },
-    {
-      "title": "美光科技总裁兼 CEO 梅赫罗特拉减持近 4 万股公司股票，套现约 3870 万美元",
-      "link": "https://www.ithome.com/0/994/333.htm",
-      "pubDate": "Wed, 26 Aug 2026 00:55:38 GMT",
-      "contentSnippet": "IT之家 8 月 26 日消息，美光科技（Micron Technology Inc.）总裁兼首席执行官桑杰 · 梅赫罗特拉（Sanjay Mehrotra）于 2026 年 8 月 21 日出售了总价值约 3,870 万美元（IT之家注：现汇率约合 2.61 亿元人民币）的普通股。\n\n此次交易是在 10b5-1 规则交易计划下执行的，梅赫罗特拉于 2026 年 1 月 30 日制定了该交易计划。此次减持之际，美光股价报 932.50 美元（现汇率约合 6,282 元人民币），过去一年累计上涨超过 700%。\n此次交易共出售 39,994 股美光科技普通股，成交价格介于每股 959.14 美元",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "美光CEO梅赫罗特拉减持近4万股，套现约3870万美元。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道具体交易细节，但未提供原始文件链接，评分略低。"
-    },
-    {
-      "title": "熊猫推出“F32Q5”31.5 英寸显示器：2K 165Hz HVA 面板，999 元",
-      "link": "https://www.ithome.com/0/994/331.htm",
-      "pubDate": "Wed, 26 Aug 2026 00:51:32 GMT",
-      "contentSnippet": "IT之家 8 月 26 日消息，熊猫现已在京东上架型号为“F32Q5”的 31.5 英寸显示器，该机主打 2K 165Hz，定价为 999 元，部分地区国补后低至 899.1 元。\n\n\n该机配备一块 2560x1440 分辨率 165Hz HVA 面板，显示器 MPRT 响应速度 1ms，对比度 3000:1，显示器支持 8-Bit 色彩，覆盖 120% sRGB 和 90% DCI-P3 色域。\n该机支架支持升降 / 倾斜 / 旋转，显示器本体支持 VESA 100x100mm 壁挂，提供 1 个 HDMI 2.0、1 个 DP 1.4、1 个 3.5mm 音频接口。\n\nIT之家附显示器参数",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "熊猫推31.5寸2K 165Hz HVA显示器，999元，参数具体。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道含具体参数和价格，但无原始评测或官方链接，评分75。"
-    },
-    {
-      "title": "VZMORE 预热 AX9 Max 等迷你电脑：双 2.5G 网口，AMD Ryzen AI 9 HX 470 芯片",
-      "link": "https://www.ithome.com/0/994/330.htm",
-      "pubDate": "Wed, 26 Aug 2026 00:46:23 GMT",
-      "contentSnippet": "IT之家 8 月 26 日消息，科技媒体 techpowerup 昨日（8 月 25 日）发布博文，报道称德国品牌 VZMORE 官宣参加 2026 柏林国际消费电子展（IFA 2026），将展示 AX9 Max、iX9 Max、iX9 Ultra 和 AX9 Ultra 四款迷你电脑。\n在 AMD 平台方面，AX9 Max 搭载 AMD Ryzen AI 9 HX 470 处理器，配备 Radeon 890M 显卡和专用 Ryzen AI NPU，算力最高达 55 TOPS，端口方面配备 2 个 2.5G 网口。IT之家附上相关图片如下：\n\n\nAX9 Ultra 搭载 AMD Ryzen A",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "IT之家报道VZMORE将展示多款迷你电脑，搭载AMD新芯片，配备双2.5G网口。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，内容具体，引用TechPowerUp，但细节有限，评分适中。"
-    },
-    {
-      "title": "神舟 2026 款战神 T9 笔记本发售：i7-14700HX + RTX5070 售 8999 元",
-      "link": "https://www.ithome.com/0/994/329.htm",
-      "pubDate": "Wed, 26 Aug 2026 00:43:15 GMT",
-      "contentSnippet": "IT之家 8 月 26 日消息，神舟旗下 2026 款战神 T9 笔记本现已在京东发售，该机采用英特尔酷睿 i7-14700HX + 16GB RAM + 500GB SSD + RTX5070 规格，定价为 8999 元。\n\n\n该机整体重量 2.45 千克，B 面配备一块 16 英寸 2560x1600 分辨率 180Hz IPS 面板（亮度 500 尼特，覆盖 100% sRGB 色域）。\n该机搭载 20 核心 28 线程英特尔酷睿 i7-14700HX 处理器，匹配 16GB RAM 和 500GB PCIe SSD，搭载 RTX5070 Laptop 显卡，使用双风扇六铜管散热，内置",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "神舟发布2026款战神T9笔记本，i7-14700HX+RTX5070售8999元。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道具体配置和价格，但缺乏原始出处和深度分析。"
-    },
-    {
-      "title": "Rubin接棒，英伟达能否终结“财报后必跌”魔咒？",
-      "link": "https://www.tmtpost.com/8114659.html",
-      "pubDate": "Wed, 26 Aug 2026 08:41:00 +0800",
-      "contentSnippet": "英伟达FY2027 Q2财报将首次量化Rubin周期的收入贡献，在连续四个季度“超预期即下跌”之后，能否打破魔咒的关键不在数字本身，而在Rubin爬坡的速度与毛利率的韧性。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "英伟达财报能否打破超预期即跌魔咒，关键看Rubin爬坡速度与毛利率。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，分析具体涉及财报周期与产品爬坡，逻辑清晰，但缺乏数据细节。"
-    },
-    {
-      "title": "男子醉酒后开智驾在超车道停车睡着，被判拘役 1 个月处罚金 2000 元",
-      "link": "https://www.ithome.com/0/994/328.htm",
-      "pubDate": "Wed, 26 Aug 2026 00:37:28 GMT",
-      "contentSnippet": "IT之家 8 月 26 日消息，据“江苏卫视”报道，近期重庆市公安局交巡警察总队公布一起醉驾典例，车主涉嫌危险驾驶罪被判处拘役 1 个月，处罚金 2000 元。\n\nIT之家参考通报获悉，去年 7 月，在 G93 成渝环线高速公路超车道上，一辆黑色越野车突然停下。民警赶到发现驾驶员王某江带有酒气，呼气式酒精测试 138；静脉血液中也测出乙醇含量为 123.8 毫克，属醉酒驾驶。\n\n公安机关从车厂后台调取数据证实，王某江饮酒后启动车辆开启辅助驾驶模式，期间车机系统多次发出分心告警，后因驾驶员不符合辅助驾驶条件，车辆触发安全刹停并自动退出辅助驾驶模式。\n检察机关依法提起公诉，法院审理认为，王某江的行",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "醉驾开智驾在超车道停车睡着，被判拘役1个月罚2000元。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用江苏卫视和重庆警方通报，细节具体，逻辑清晰。"
-    },
-    {
-      "title": "商业史最庞大叙事：Anthropic 冲击全球最大 IPO，称 AI 潜在市场收入规模超 30 万亿美元",
-      "link": "https://www.ithome.com/0/994/327.htm",
-      "pubDate": "Wed, 26 Aug 2026 00:36:34 GMT",
-      "contentSnippet": "IT之家 8 月 26 日消息，华尔街日报昨日（8 月 25 日）发布博文，报道称在 IPO 招股书中，Anthropic 为撑起 2 万亿美元（现汇率约合 13.47 万亿元人民币）估值宏大叙事，向投资者提出了超过 30 万亿美元（现汇率约合 202.11 万亿元人民币）的潜在市场规模（TAM）预测，超过 SpaceX 预估的 28.5 万亿美元（现汇率约合 192 万亿元人民币）预测。\nIT之家注：潜在市场规模是指如果一款产品或服务实现了 100% 的市场份额，它在理论上能够获得的最大年度总收入机会，主要向投资者展示自身广阔的增长空间。\n马斯克旗下火箭企业 SpaceX，在 5 月提交的文",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家",
-        "钛媒体"
+        "爱范儿"
       ],
       "coverageCount": 2,
       "coverageBoost": 5,
-      "aiSummary": "Anthropic IPO估值2万亿，称AI市场超30万亿美元，引争议。",
-      "credibilityScore": 65,
+      "aiSummary": "OPPO智慧云曝光Find X10系列三机型，含Pro Max、标准版和E，屏幕技术升级。",
+      "credibilityScore": 77,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为IT之家和钛媒体，内容具体但依赖单一报道，缺乏独立验证，数据夸张需谨慎。（多源覆盖 +5）"
+      "credibilityReason": "来源为知名科技媒体，信息具体但依赖博主爆料，缺乏官方确认，技术细节有限。（多源覆盖 +5）"
+    },
+    {
+      "title": "“人生第一辆”豪车：兰博基尼推出 4999 美元限量版婴儿车，用料看齐超跑",
+      "link": "https://www.ithome.com/0/995/118.htm",
+      "pubDate": "Thu, 27 Aug 2026 08:21:34 GMT",
+      "contentSnippet": "IT之家 8 月 27 日消息，兰博基尼今天（27 日）宣布，与 Silver Cross 合作推出 Reef AL Giallo 婴儿推车，售价 4999 美元（IT之家注：现汇率约合 33682 元人民币），全球仅限量 500 辆。无论用料、设计还是细节，都尽可能向真正的兰博基尼靠拢。\n\n\nSilver Cross 将这款产品形容为“奢侈品”和“设计传承的一部分”。推车采用与兰博基尼汽车类似的皮革和麂皮，并以亮黄色缝线和滚边点缀。聚碳酸酯睡篮内置通风结构，外观线条则参考了现款兰博基尼车型的发动机舱盖设计，在保证婴儿安全的同时延续品牌风格。\n推车座椅使用高档麂皮和天然竹纤维，并压印 Y 字纹",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "兰博基尼推出4999美元限量婴儿车，用料看齐超跑，全球限量500辆。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，内容具体，有产品细节和价格，但缺少官方链接和独立验证。"
+    },
+    {
+      "title": "韶音推出 OpenRun Air 2 骨传导运动耳机：10 小时续航、双音圈设计，798 元",
+      "link": "https://www.ithome.com/0/995/117.htm",
+      "pubDate": "Thu, 27 Aug 2026 08:21:26 GMT",
+      "contentSnippet": "IT之家 8 月 27 日消息，韶音现已在京东上架 OpenRun Air 2 骨传导运动耳机，定价为 798 元。\n京东韶音 OpenRun Air 2 骨传导运动耳机 798 元直达链接\n\n\n该耳机提供跃动绿、破风蓝与竞速黑三种配色，整机重量为 26.4g，较上一代产品体积缩小了 8.6%。该机具备 IP67 级防尘防水标准，机身重心进行了前移处理，贴脸处采用圆润曲面设计以提升佩戴稳固度，并配备了实体按键，方便用户在运动过程中进行快捷操作。\n\n该耳机搭载 PremiumPitch 3.0 骨传导技术，内部采用双音圈双簧片结构并配合降漏音设计。耳机配备双麦克风，依托高通 cVc 算法平台与",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "韶音发布OpenRun Air 2骨传导耳机，续航10小时，售价798元。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道具体参数和价格，但缺乏原始官方链接和深度测试。"
+    },
+    {
+      "title": "特斯拉：中国智造的 Model Y 成为日本上半年进口车单一车型新车销量第一",
+      "link": "https://www.ithome.com/0/995/116.htm",
+      "pubDate": "Thu, 27 Aug 2026 08:15:03 GMT",
+      "contentSnippet": "IT之家 8 月 27 日消息，特斯拉今日发文称，中国智造的 Model Y 成为日本上半年进口车品牌单一车型新车销量第一。\n\nIT之家注意到，特斯拉目前正加快在日本市场的扩张步伐，日本业务负责人此前表示，特斯拉计划将当地市场门店数量扩大至至少 60 家，力争最快在明年成为日本销量第一的进口汽车品牌。\n从市场格局来看，日本进口车市场长期由德系豪华品牌主导。根据行业数据，2025 年梅赛德斯-奔驰以接近 5.1 万辆的销量位居第一，其后依次为宝马、大众和奥迪。尽管丰田、铃木、日产、比亚迪等厂商均已在当地推出电动汽车产品，但目前日本电动汽车普及率整体仍处于较低水平。不过，有分析人士认为，受中东局势",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "特斯拉中国产Model Y成日本上半年进口车单一车型销量第一，加速扩张门店。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，内容具体有数据，但缺少原始出处和独立验证，评分适中。"
+    },
+    {
+      "title": "狼蛛推出昆仑 X5 电磁微动鼠标：搭 PAW3955 EVO 传感器、支持双 8KHz 回报率，399.5 元起",
+      "link": "https://www.ithome.com/0/995/115.htm",
+      "pubDate": "Thu, 27 Aug 2026 08:12:06 GMT",
+      "contentSnippet": "IT之家 8 月 27 日消息，狼蛛现已在京东上架昆仑 X5 电磁微动鼠标，该鼠标搭载 PAW3955 EVO 传感器，将于 8 月 28 日首销，定价为 399.5 元起。\n京东狼蛛（AULA）昆仑 X5 电磁微动鼠标 399.5 元起直达链接\n\n\n该鼠标提供月光白、熊猫白、柔雾粉与冰川蓝四种配色。鼠标采用对称模具设计，外壳经过类肤涂层处理，底部配备 PTFE 特氟龙脚贴。整体尺寸为 125.37 x 63.23 x 39.86 mm，重量约 65 g，适合中大手用户进行抓握、趴握或指握。\n该产品搭载 PAW3955 EVO 传感器，最高支持 56000 DPI，追踪速度为 750 IPS，",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "狼蛛推出昆仑X5电磁微动鼠标，搭载PAW3955 EVO传感器，支持双8K回报率，售价399.5元起。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道具体参数和价格，但缺少原始评测或官方链接，评分75。"
+    },
+    {
+      "title": "《剑网 3》制作人郭炜炜官宣离职：明天是在西山居最后一天，感谢雷军和公司",
+      "link": "https://www.ithome.com/0/995/114.htm",
+      "pubDate": "Thu, 27 Aug 2026 08:11:58 GMT",
+      "contentSnippet": "IT之家 8 月 27 日消息，《剑网 3》系列制作人郭炜炜刚刚发文宣布，明天是他“在西山居任职的最后一天”。\n作为西山居的元老级人物和《剑网 3》的灵魂人物，郭炜炜的正式离开，标志着这家老牌游戏厂商一个时代的落幕。\n\n郭炜炜在回顾中表示，他于 2004 年毕业后便加入金山软件旗下的西山居工作室，投身于《剑网 3》项目。他在《剑网 3》奋斗了二十年，坦言“是我最没有遗憾的时光”。\nIT之家查询公开资料获悉，郭炜炜在《剑网 3》项目组历任执行主策划、主策划、执行制作人、制作人及策划总监等核心职务，并于 2011 年升任项目负责人。2018 年，他出任西山居 CEO 及金山集团高级副总裁。\n202",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "《剑网3》制作人郭炜炜宣布离职，结束在西山居的最后一天。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道具体，引用公开资料，信息可信度高。"
+    },
+    {
+      "title": "奕境 X9 旗舰大六座 SUV 预计 9 月正式上市，预售价 29.98 万-37.98 万元",
+      "link": "https://www.ithome.com/0/995/113.htm",
+      "pubDate": "Thu, 27 Aug 2026 08:07:34 GMT",
+      "contentSnippet": "IT之家 8 月 27 日消息，奕境 X9 旗舰大六座 SUV 已于 8 月 18 日正式开启预售，号称满配华为乾崑全栈智能，拥有华为乾崑智驾、鸿蒙座舱、乾崑赤兔平台、乾崑车载光、乾崑车云、鲸鳍通信等，预售价 29.98 万-37.98 万元。\n\n增程 四驱 Ultra+ 旗舰 长续航版：37.98 万元\n\n增程 四驱 Ultra+ 长续航版：33.98 万元\n\n增程 Max 长续航版：29.98 万元\n\n\nIT之家从门店工作人员处了解到，奕境 X9 预计会在 9 月正式上市，目前已开放试驾试乘登记。\n据介绍，新车将首发搭载鸿蒙座舱 HarmonySpace 6，配备双 17.2 英寸 3.4",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "奕境X9大六座SUV预售价29.98万起，9月上市，搭载华为乾崑全栈智能。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道具体车型配置和价格，信息详实，但缺乏官方确认。"
+    },
+    {
+      "title": "JBL 游戏耳机 Quantum 850 / 520 / 520X / 120 同步上线，配备 50mm 单元",
+      "link": "https://www.ithome.com/0/995/112.htm",
+      "pubDate": "Thu, 27 Aug 2026 08:06:39 GMT",
+      "contentSnippet": "IT之家 8 月 27 日消息，三星电子哈曼旗下 JBL 当地时间 26 日在 gamescom 2026 科隆游戏展上一口气发布了 4 款头戴式游戏耳机新品，即 Quantum 850 / 520 / 520X / 120。\nIT之家注意到，这些产品均配备 50mm 碳纤维动圈驱动单元和 6mm 心形指向收音麦克风。\n\n▲ JBL Quantum 120\n此次新品中最入门的 Quantum 120 为单模 3.5mm 有线型号；Quantum 520 / 520X 则支持三模连接，内置 37hr 续航电池，其中 520X 为 XBOX 认证版本。\n\n▲ JBL Quantum 520\n而 Q",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "JBL发布四款游戏耳机，均配50mm单元，支持多模连接。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来自IT之家，信息具体，包含产品型号、规格和发布背景，逻辑清晰。"
+    },
+    {
+      "title": "公牛集团 2026 年上半年归母净利润 21.51 亿元，同比增长 4.44%",
+      "link": "https://www.ithome.com/0/995/110.htm",
+      "pubDate": "Thu, 27 Aug 2026 08:04:18 GMT",
+      "contentSnippet": "IT之家 8 月 27 日消息，公牛集团今日发布 2026 年上半年（2026 年 1 月～2026 年 6 月）报告：\n\n营业总收入：83.94 亿元，同比增长 2.77%\n\n归母净利润：21.51 亿元，同比增长 4.44%\n\n扣非净利润：19 亿元，同比增长 3.13%\n\n经营现金流：22.36 亿元，同比下降 5.97%\n\n加权平均净资产收益率：12.46%\n\n基本每股收益：1.19 元，同比增长 4.39%\n\n稀释每股收益：1.19 元，同比增长 4.39%\n\n \n\nAI 解读\n本次公牛集团 2026 年半年度营收、净利润均实现稳健增长，核心财务数据符合市场预期。\n财报核心亮点\n\n上",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "公牛集团2026上半年营收净利双增，财务数据稳健。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，数据具体且来自公司财报，但缺乏原始链接和深度分析。"
+    },
+    {
+      "title": "小鹏第二代 VLA Lite 蒸馏版 9 月面向单图灵芯片 Max 车型推送，G9L Max 版首发搭载",
+      "link": "https://www.ithome.com/0/995/108.htm",
+      "pubDate": "Thu, 27 Aug 2026 08:00:30 GMT",
+      "contentSnippet": "IT之家 8 月 27 日消息，在今日的小鹏物理 AI 分享暨第二代 VLA 全新版本体验日活动中，小鹏汽车宣布第二代 VLA Lite 蒸馏版将于 9 月开启推送，面向单图灵芯片的 Max 车型。\n\n小鹏 G9L Max 版本将首发搭载图灵智驾第二代 VLA Lite 蒸馏版。\n\n小鹏汽车表示，第二代 VLA 基于统一技术底座，已实现 L2 至 L4 能力贯通，进一步向更高阶自动驾驶拓展。\nIT之家从发布会获悉，小鹏通过学习式 Token 压缩与蒸馏训练，在不牺牲输入信息和模型容量的基础上，以更少的有效 Token 实现高质量视觉理解，将第二代 VLA 基座模型能力部署到算力更低的平台，伴随",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "小鹏第二代VLA Lite蒸馏版9月推送，G9L Max首发。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，内容具体，引用发布会信息，技术细节明确。"
+    },
+    {
+      "title": "比亚迪捐赠 1000 万元驰援西藏吉隆灾区",
+      "link": "https://www.ithome.com/0/995/107.htm",
+      "pubDate": "Thu, 27 Aug 2026 08:00:13 GMT",
+      "contentSnippet": "IT之家 8 月 27 日消息，比亚迪刚刚宣布，捐赠 1000 万元驰援西藏吉隆灾区。\n\n8 月 26 日，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。灾害发生后，国家防灾减灾救灾委员会、应急管理部启动国家二级救灾应急响应。\n灾情牵动人心。比亚迪慈善基金会向中华慈善总会捐赠 1000 万元现金用于西藏吉隆灾区应急救援、群众过渡安置及灾后恢复重建。\n比亚迪将持续关注救援进展，与灾区人民共渡难关。\n\n\nIT之家了解到，据初步统计，截至 8 月 27 日上午 8 时，成功搜救热索村民 2 人，排查发现遇难 3 人、失联 558 人。其中，外籍人员 260 人。目前，",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "比亚迪捐赠1000万元驰援西藏吉隆灾区，用于应急救援和灾后重建。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道具体，含捐赠金额、用途及灾情数据，信息清晰可信。"
+    },
+    {
+      "title": "高德上线“大一新生指南”：覆盖全国超 1300 所高校，提供全流程一站式开学服务",
+      "link": "https://www.ithome.com/0/995/099.htm",
+      "pubDate": "Thu, 27 Aug 2026 07:55:40 GMT",
+      "contentSnippet": "IT之家 8 月 27 日消息，高德宣布正式推出“大一新生指南”，提供覆盖行前准备、报到出行、校园生活到城市探索的全流程一站式开学服务。目前，该服务已覆盖全国超 1300 所高校。\n\n根据介绍，该功能集中整合了原本分散在不同渠道的开学信息与服务，新生可以通过一套统一入口，更高效地获取与校园生活相关的实用信息和出行服务。\n在行前准备阶段，指南为新生准备了行李清单；报到出行环节，指南整合了各高校入校报到时间、到校交通路线、公共交通方案、入校注意事项等内容。\n该功能还提供了“校内 + 校外”一体化的校园生活指南。在校内，覆盖宿舍、教学楼、食堂、图书馆、医务室、运动场馆等核心点位，帮助新生快速熟悉校园",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "高德推出覆盖1300所高校的大一新生指南，提供一站式开学服务。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道具体，功能细节清晰，但无原始数据或官方引用。"
+    },
+    {
+      "title": "基于艾尼氪 5 打造，现代官宣 2026Q4 交付首批 Waymo 自动驾驶出租车",
+      "link": "https://www.ithome.com/0/995/084.htm",
+      "pubDate": "Thu, 27 Aug 2026 07:51:20 GMT",
+      "contentSnippet": "IT之家 8 月 27 日消息，汽车媒体 CarScoops 今天（8 月 27 日）发布博文，报道称在韩国首尔举办的 CEO 投资者日上，现代汽车宣布将于 2026 年第 4 季度交付首批基于现代艾尼氪 5 打造的 Waymo 自动驾驶出租车。\n\n\n图源：Waymo\n现代汽车旗下 Motional 计划在 2026 年晚些时候于美国拉斯维加斯启动艾尼氪 5 自动驾驶出租车商业运营，并在 2027 年拓展至更多城市。Waymo 最早可在 2027 年拓展国际自动驾驶出租车服务。IT之家附上相关图片如下：\n\n\n\n面向消费者的自动驾驶技术方面，Atria AI（Atria 人工智能）计划在 202",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "现代官宣2026Q4交付首批基于艾尼氪5的Waymo自动驾驶出租车。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家知名科技媒体，信息具体含时间地点，引用CarScoops原始报道，但细节有限。"
+    },
+    {
+      "title": "九州风神推出 CG580 MESH 2F 机箱：预装 2 把 160mm 风扇，399 元",
+      "link": "https://www.ithome.com/0/995/082.htm",
+      "pubDate": "Thu, 27 Aug 2026 07:50:58 GMT",
+      "contentSnippet": "IT之家 8 月 27 日消息，九州风神现已在京东上架 CG580 MESH 2F 机箱，该机箱预装 2 把 160mm 风扇，定价为 399 元。\n\n该机箱整体尺寸为 467x235x501mm，采用侧透设计，内部使用上下分仓结构，兼容 ATX 和 M-ATX 背插主板，正面带有大面积 MESH 网孔，机箱 I/O 位于顶部，提供 2 个 USB-A 3.0、1 个 USB-C 接口。\n\n该机箱散热器限高 176mm，显卡限长 410mm，电源限长 200mm，最多可安装“1+1”块 3.5 英寸硬盘或 2 块 2.5 英寸硬盘。\n\n该机箱最多可安装 12 把风扇，其中机箱顶部可安装 3 把",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "九州风神发布CG580 MESH 2F机箱，预装2把160mm风扇，售价399元。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息具体含尺寸、兼容性等细节，但无原始厂商链接，评分75。"
     }
   ]
 }
