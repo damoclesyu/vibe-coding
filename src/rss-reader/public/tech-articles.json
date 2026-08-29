@@ -1,65 +1,14 @@
 {
-  "generatedAt": "2026-08-28T10:25:39.920Z",
+  "generatedAt": "2026-08-29T06:25:34.931Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "华硕成立物理 AI 事业群，人形机器人计划 9 月上路",
-      "link": "https://www.ithome.com/0/995/763.htm",
-      "pubDate": "Fri, 28 Aug 2026 10:18:41 GMT",
-      "contentSnippet": "IT之家 8 月 28 日消息，据中国台湾地区媒体《经济日报》今天报道，华硕近日正式成立物理 AI（Physical AI）事业群，抢占机器人商机。与此同时，该公司 AIOT 物联网事业群将启动新变革，9 月 1 日起重组更名为“物理 AI 解决方案事业群”（IT之家注：PAS BG）。\n据报道，华硕本次组织调整，是为了践行董事长施崇棠 2024 年推出的 All in AI 战略，旨在将华硕转型为最全面的 AI 公司。\n华硕共同执行长许先越和胡书宾今日在内部信中指出，随着 AI 迈向真实世界系统，华硕正迈出重要一步，希望在下一波创新浪潮中保持领先地位。\n据悉，PAS BG 将由张权德、许佑嘉",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "华硕成立物理AI事业群，9月重组，布局人形机器人。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，内容具体，引用经济日报，细节清晰，但缺乏原始链接和深度分析。"
-    },
-    {
-      "title": "美国加州联邦法官裁定 Anthropic 在与美国国防部等的诉讼中胜诉",
-      "link": "https://www.ithome.com/0/995/602.htm",
-      "pubDate": "Fri, 28 Aug 2026 07:28:28 GMT",
-      "contentSnippet": "IT之家 8 月 28 日消息，美国加利福尼亚州北区联邦地方法院当地时间 8 月 27 日做出裁决，认定 Anthropic 在与美国国防部（战争部）等的法律诉讼中胜诉。美国国防部将 Anthropic 列入供应链“黑名单”的做法被认定非法。\n\n法官认为，美国政府的制裁直接针对 Anthropic 的公开批评，构成美国宪法第一修正案下的报复性言论压制；美国政府在实施制裁前未进行事前通知听证，违反美国宪法第五修正案要求的正当程序；同时，美国政府的行为在事实、逻辑、程序上不符合《行政程序法》。\nAnthropic 还在华盛顿特区起诉了美国国防部。该公司需要再次胜诉才能完全解除“黑名单”认定。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "加州法官裁定Anthropic胜诉，美防部黑名单非法。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道具体有法律细节，但未引原始判决，时效性存疑。"
-    },
-    {
-      "title": "服役 32 年，“中华第一舰”112 舰“哈尔滨舰”今日在青岛正式退役",
-      "link": "https://www.ithome.com/0/995/584.htm",
-      "pubDate": "Fri, 28 Aug 2026 06:50:45 GMT",
-      "contentSnippet": "IT之家 8 月 28 日消息，据新华社今日报道，被誉为“中华第一舰”的我国第二代国产导弹驱逐舰首舰 112 舰（哈尔滨舰），于 2026 年 8 月 28 日上午在青岛某军港正式退役。\n这艘功勋战舰退役后将作为国防教育基地，靠泊人民海军首任司令员萧劲光的故乡湖南省长沙市，供市民游客参观学习。\n\n据官方介绍，112 舰是我国自行研制建造的 052 型导弹驱逐舰首舰，于 1991 年 8 月下水，1994 年 5 月加入人民海军战斗序列。\n该舰装备有舰炮、舰空导弹、舰舰导弹等多种武器系统，可搭载 2 架直升机，具备完整的对空、对海、对潜作战能力，是中国海军水面舰艇作战能力实现重大跨越的标志性装备",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "112舰哈尔滨舰服役32年后退役，将作为国防教育基地。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用新华社报道，信息具体，技术细节准确，时效性强。"
-    },
-    {
-      "title": "宇树、拓斯达、越疆的上半年，藏着具身智能商业化的真实进度条",
-      "link": "https://www.tmtpost.com/8118715.html",
-      "pubDate": "Fri, 28 Aug 2026 18:18:26 +0800",
-      "contentSnippet": "具身智能的商业化路径越来越清晰了。",
+      "title": "供应链有最优解，但没有人能把它算出来",
+      "link": "https://www.tmtpost.com/8110563.html",
+      "pubDate": "Sat, 29 Aug 2026 12:46:23 +0800",
+      "contentSnippet": "拉普拉斯妖已死，运筹学求解器站在它的尸体上",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -67,16 +16,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体分析宇树、拓斯达、越疆上半年表现，揭示具身智能商业化进展。",
-      "credibilityScore": 80,
+      "aiSummary": "探讨供应链优化难题，指出运筹学求解器的局限性。",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "知名科技媒体，内容具体，分析三家公司，逻辑清晰，但缺乏原始数据引用。"
+      "credibilityReason": "来源钛媒体，内容有深度，但缺乏具体数据支撑，评分中等偏上。"
     },
     {
-      "title": "百度萝卜快跑法务部：公司受外国资本控制等说法不实，已固定证据并提起诉讼",
-      "link": "https://www.ithome.com/0/995/759.htm",
-      "pubDate": "Fri, 28 Aug 2026 10:14:42 GMT",
-      "contentSnippet": "IT之家 8 月 28 日消息，萝卜快跑法务部今天（28 日）傍晚发布声明称，注意到部分网络账号发布所谓“萝卜快跑十大股东”相关视频，所列信息与事实不符，并据此编造萝卜快跑受外国资本控制等不实说法。\nIT之家从声明中获悉，萝卜快跑称，相关内容借资本背景、国别属性等标签化表述，煽动民族情绪、制造对立、误导公众，涉嫌损害萝卜快跑品牌声誉及合法权益。\n针对网络平台出现的多条同类内容，公司已依法固定证据，并通过法定程序确定部分账号的实际运营者。目前，公司已依法向人民法院提起诉讼，追究其侵权责任。\n\n相关阅读：\n\n《百度萝卜快跑法务部：部分网络账号恶意制造误导性内容，已提起诉讼》",
+      "title": "美国将意大利安全托管服务商列入恐怖分子名单",
+      "link": "https://www.solidot.org/story?sid=85223",
+      "pubDate": "Fri, 28 Aug 2026 21:33:01 +0800",
+      "contentSnippet": "美国国务院和财政部周三将一家提供加密聊天和电子邮件、网站托管、安全视频会议和流媒体等服务的意大利组织 Autistici/Inventati 列入特别指定全球恐怖分子名单，这意味着美国公民与该组织进行的任何交易都是违法的。美国国务院列举的一个理由是该组织为极左翼组织如 Antifa 提供了数字基础设施，让极左激进分子能在保持“匿名、无法追踪且不受法律制裁”的情况下“传播目标信息、战术手册和技术以及关于近期袭击的通告”。美国政府此举引起广泛争议，可能导致该组织域名 autistici.org 被美国域名管理机构封禁。Autistici/Inventati 用英语和意大利语发表的一份声明中否认了美",
+      "sourceName": "Solidot",
+      "sourceWeight": 75,
+      "allSources": [
+        "Solidot"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "美国将意大利安全托管商列入恐怖名单，引发争议。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源Solidot知名科技媒体，内容具体，有官方声明和细节，但缺乏多方独立验证。"
+    },
+    {
+      "title": "雷军：超过 2600 位车主将自己的小米汽车开到了 10 万公里",
+      "link": "https://www.ithome.com/0/995/909.htm",
+      "pubDate": "Sat, 29 Aug 2026 06:20:36 GMT",
+      "contentSnippet": "IT之家 8 月 29 日消息，雷军援引小米汽车微博，透露截至 2026 年 8 月，已经有超过 2600 位车主将自己的小米汽车开到了 10 万公里。官方同步发起全新限时活动，即日起至 9 月 20 日，用户打开小米汽车 App 即可分享自己的暑期开车出行故事，参与投稿还能拿到平台积分奖励。\n\nIT之家注意到，不少车主也在评论区晒出自己的里程，有网友表示自己每天上下班来回 80 多公里，日积月累就跑出很高的总里程。\n\n参考先前报道，小米今年 4 月上线限时活动，总计行驶里程达成 10 万公里的车主可以在小米汽车 App 活动页领取实体徽章，同时可获得专属行车故事总结。\n公开信息显示，小米汽车",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -84,16 +50,135 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "百度萝卜快跑辟谣外国资本控制传闻，已起诉造谣账号。",
-      "credibilityScore": 85,
+      "aiSummary": "雷军称超2600位小米车主行驶达10万公里，官方发起分享活动。",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家知名科技媒体，内容具体，引用官方声明，逻辑清晰。"
+      "credibilityReason": "来源IT之家较可靠，内容具体有数据，但未提供原始数据出处，评分中等偏上。"
     },
     {
-      "title": "首尔没有“新茶饮”，只有昂贵的尝鲜",
-      "link": "https://www.tmtpost.com/8120821.html",
-      "pubDate": "Fri, 28 Aug 2026 18:12:40 +0800",
-      "contentSnippet": "在韩国，新鲜感是一项昂贵的能力。",
+      "title": "消息称某厂 13 英寸旗舰新平板提供柔光屏版本，预计小米旗下",
+      "link": "https://www.ithome.com/0/995/908.htm",
+      "pubDate": "Sat, 29 Aug 2026 06:16:42 GMT",
+      "contentSnippet": "IT之家 8 月 29 日消息，博主 @数码闲聊站 今日曝光某厂 13 英寸旗舰新平板部分信息，预计为小米旗下新品。\n据其爆料，这款 13 英寸旗舰新平板有柔光屏版本，主打红色，工程版起步 8GB，大内存版本有 16+512GB/16+1TB 选择，产品内置超 10000mAh 大电池，配备 120W 闪充头，重量 650g±，最低成本体验新一代 SoC 的选择。\n\nIT之家注意到，小米平板 9 Pro Max 已经官宣 9 月发布，将首发搭载玄戒 O3 AI 旗舰处理器，号称是小米最强的专业生产力平板。截至目前，小米暂未公布这款平板的外观。\n玄戒 O3 的 CPU 采用十核全大核设计：6 超",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "博主爆料小米13英寸旗舰平板将推柔光屏版，配大电池和120W快充。",
+      "credibilityScore": 65,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为IT之家，但信息基于博主爆料，缺乏官方确认，细节具体但可信度中等。"
+    },
+    {
+      "title": "宁德时代捐赠 1000 万元驰援西藏吉隆泥石流灾区",
+      "link": "https://www.ithome.com/0/995/907.htm",
+      "pubDate": "Sat, 29 Aug 2026 06:11:52 GMT",
+      "contentSnippet": "IT之家 8 月 29 日消息，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。\n宁德时代今日宣布，向西藏吉隆灾区捐赠 1000 万元，用于应急救援、群众过渡安置及灾后恢复重建。\n\n宁德时代将持续关注灾情进展，与灾区人民共渡难关。\n\n\n相关阅读：\n\n《中国长安汽车集团捐赠 500 万元驰援西藏吉隆灾区》\n\n《中国一汽捐赠款物 500 万元驰援西藏吉隆灾区》\n\n《比亚迪捐赠 1000 万元驰援西藏吉隆灾区》\n\n《小米公益基金会投入 1000 万元备灾资金，用于支持西藏吉隆等灾区的紧急援助》\n\n《驰援西藏吉隆：阿里巴巴追加 1000 万捐款，第二批物资今晚送达》\n\n《",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "宁德时代捐赠1000万元驰援西藏吉隆泥石流灾区。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道具体捐赠金额，信息简洁明确，来源可靠。"
+    },
+    {
+      "title": "网友建议取消 ETC 设备使用改为扫车牌支付，交通运输部回应",
+      "link": "https://www.ithome.com/0/995/905.htm",
+      "pubDate": "Sat, 29 Aug 2026 06:10:16 GMT",
+      "contentSnippet": "IT之家 8 月 29 日消息，近日，有网友就 ETC 相关内容在交通运输部官网留言提问，交通运输部公路局进行了回答，IT之家整理主要内容如下：\n问：领导您好，现行高速公路 ETC 需要安装设备感应，安装时大量耗费人力物力财力和时间，如车牌号绑定支付宝、微信或者银行卡，直接走 ETC 通道扫车牌支付，节省我们排队的时间，还不用增加人工成本，希望领导予以重视，切切实实给老百姓的出行提供方便。\n答：您好，感谢您的留言。ETC 是国内外收费公路提高通行效率的重要技术支撑手段之一，设置 ETC 车道的目的在于提升高速公路通行效率、优化公众高速出行体验，同时促进物流业降本增效。ETC 具备鲜明的公共服务",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "交通运输部回应网友建议取消ETC设备改用扫车牌支付，强调ETC技术优势。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家，内容具体，引用官方回复，技术分析合理，逻辑清晰。"
+    },
+    {
+      "title": "华硕 ROG 旗下 RGB 条纹子像素 OLED 显示器“PG27UCWM”国行上架：4K 240Hz / FHD 480Hz 双模，7499 元",
+      "link": "https://www.ithome.com/0/995/904.htm",
+      "pubDate": "Sat, 29 Aug 2026 06:09:10 GMT",
+      "contentSnippet": "IT之家 8 月 29 日消息，华硕旗下 ROG “PG27UCWM”27 英寸显示器目前已在京东上架，该机采用 RGB 条纹子像素排列，支持 UHD 240Hz / FHD 480Hz 双模切换，国行定价 7499 元，将于 8 月 31 日发售。\n京东华硕 PG27UCWM 显示器 7499 元直达链接\n\n该机结合了 Tandem OLED 技术和 RGB 条纹子像素排列，带来了更为锐利的文字边缘与更为精准的色彩还原；而 TrueBlack Glossy 涂层则降低了屏幕反光，提升了在高环境亮度下的视觉体验。\n该机支持 UHD 240Hz / FHD 480Hz 双模切换；峰值亮度 100",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "华硕ROG PG27UCWM显示器国行上架，4K 240Hz/FHD 480Hz双模，7499元。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道具体参数和价格，但缺乏原始出处和深度分析。"
+    },
+    {
+      "title": "国际刑警组织披露“Jackal IV”全球反诈行动成果：逮捕 58 人、确认 263 名涉案者",
+      "link": "https://www.ithome.com/0/995/903.htm",
+      "pubDate": "Sat, 29 Aug 2026 05:56:36 GMT",
+      "contentSnippet": "IT之家 8 月 29 日消息，国际刑警组织（INTERPOL）现已公布新一期反诈行动“Jackal IV”成果，本次行动从 2025 年 11 月持续至 2026 年 6 月，涉及全球 22 个国家地区，重点打击恋爱诈骗、加密货币及投资诈骗、电子邮件诈骗和洗钱等网络金融犯罪。\n\n国际刑警组织表示，本轮行动共逮捕 58 人，并确认 263 名涉案人员身份。其中，阿根廷警方查获一个提供网站域名及洗钱服务的“犯罪即服务”（Crime-as-a-Service，CaaS）网络，逮捕 17 人，并确认 196 名涉案人员身份。南非警方则突袭约翰内斯堡 7 处据点，逮捕 39 名涉嫌针对英语国家退休人士",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国际刑警组织公布Jackal IV反诈行动成果，逮捕58人，确认263名涉案者。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体，内容具体，包含行动时间、范围、逮捕人数等细节，信息可信。"
+    },
+    {
+      "title": "比亚迪公布第二代腾势 D9 / 腾势 N9 闪充版延期交付权益：赠 10 万积分及至高价值超 2000 元礼包",
+      "link": "https://www.ithome.com/0/995/902.htm",
+      "pubDate": "Sat, 29 Aug 2026 05:46:50 GMT",
+      "contentSnippet": "IT之家 8 月 29 日消息，今日，比亚迪豪华品牌腾势汽车正式宣布，因厂家车源原因，自锁单之日起超过 90 天（含）未交车订单，赠送 10 万积分及至高价值超 2000 元精品礼包。适用车型为第二代腾势 D9、腾势 N9 闪充版车型。\n\nIT之家注意到，第二代腾势 D9 于今年 4 月开启交付，该车于 4 月 27 日正式上市，共推出 6 款车型，售价区间 35.98-45.98 万元。新车长宽高分别为 5250mm、1960mm、1900mm，轴距达 3110mm。\n动力方面，第二代腾势 D9 提供插电混动与纯电两种动力形式。插混版车型搭载由 1.5T 发动机与双电机组成的混动系统，发动机",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "腾势因车源延期交付，赠积分礼包补偿，涉及D9和N9闪充版。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家知名科技媒体，信息具体含车型售价参数，逻辑清晰，客观报道。"
+    },
+    {
+      "title": "国内首部 AIGC 长剧《后西游记》定档 8 月 31 日开播，登陆湖南卫视黄金档",
+      "link": "https://www.ithome.com/0/995/901.htm",
+      "pubDate": "Sat, 29 Aug 2026 05:36:14 GMT",
+      "contentSnippet": "IT之家 8 月 29 日消息，芒果 TV AIGC 创新内容中心制作、伯璟文化承制的神话题材季播剧《后西游记》第一季“花果山篇”，将于 8 月 31 日起上线芒果 TV，并登陆湖南卫视黄金档。据悉，这是国内首部 AIGC 长剧。\n据介绍，神话题材季播剧《后西游记》改编自明末清初匿名作者所著的同名神魔小说，其第一季共 30 集，每集 40 分钟。作为《西游记》三大续书之一，《后西游记》原著讲述了因世间众人误解真经，“西游二代”因缘际会再次集结取经的故事。剧集将四十回原书框架与《西游记》原著中的相关伏笔与线索深度融合、相互补充，构建出完整的“西游后传”叙事体系。\n\n\n故事始于孙悟空封圣一千零八十",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国内首部AIGC长剧《后西游记》定档8月31日，登陆湖南卫视黄金档。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道具体含集数、时长、来源，但缺乏技术细节和官方确认。"
+    },
+    {
+      "title": "宇树市值大跌后，能否继续扛起具身智能大旗",
+      "link": "https://www.tmtpost.com/8121600.html",
+      "pubDate": "Sat, 29 Aug 2026 12:46:33 +0800",
+      "contentSnippet": "压力给到王兴兴",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -101,152 +186,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "韩国首尔缺乏新茶饮市场，仅存高价尝鲜消费。",
+      "aiSummary": "钛媒体分析宇树市值大跌后能否继续引领具身智能发展。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容具体但缺乏数据支撑，评分中等偏上。"
+      "credibilityReason": "知名科技媒体，内容具体，但摘要简略，缺乏数据支撑。"
     },
     {
-      "title": "全球煤炭“边际定价”时代：不足15%的市场如何决定煤价？",
-      "link": "https://www.tmtpost.com/8120800.html",
-      "pubDate": "Fri, 28 Aug 2026 18:12:34 +0800",
-      "contentSnippet": "决定全球煤价的，从来不是91亿吨的总量。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "分析全球煤炭边际定价机制，指出少量市场决定煤价。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容有专业分析，但缺乏具体数据引用，评分中等偏上。"
-    },
-    {
-      "title": "vivo 宣布地震预警服务升级，已接入中国地震台网中心",
-      "link": "https://www.ithome.com/0/995/757.htm",
-      "pubDate": "Fri, 28 Aug 2026 10:10:38 GMT",
-      "contentSnippet": "IT之家 8 月 28 日消息，vivo 官方今日发布公告，宣布了将对 vivo 地震预警服务进行升级。本次升级已正式接入中国地震台网中心，并针对版本适配、服务调整进行了说明。\nIT之家附公告内容如下：\n\n版本升级说明：当前未更新至最新版天气 App 的用户，将无法使用地震预警服务，请务必及时完成版本更新。\n\n升级操作方式：请打开天气 App，进入【天气‑更多‑设置‑检查更新 / 检查新版本】核查版本。非最新版本将显示红点提示，点击即可一键升级。\n\n平板设备服务调整：目前平板端地震预警服务正在进行技术升级，升级维护期间平板端的地震预警服务将暂时停止服务。平板端升级维护完成后，将通过天气 App",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "vivo地震预警服务升级，接入中国地震台网中心，需更新天气App。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家较权威，内容具体，引用官方公告，但缺乏技术细节和独立验证。"
-    },
-    {
-      "title": "长鑫科技 2026 年上半年归母净利润 776.05 亿元，同比扭亏为盈",
-      "link": "https://www.ithome.com/0/995/756.htm",
-      "pubDate": "Fri, 28 Aug 2026 10:05:54 GMT",
-      "contentSnippet": "IT之家 8 月 28 日消息，长鑫科技今日发布 2026 年上半年（2026 年 1 月～2026 年 6 月）报告：\n\n营业总收入：1503.1 亿元，同比增长 873.64%\n\n归母净利润：776.05 亿元，同比扭亏为盈\n\n扣非净利润：787.93 亿元，同比扭亏为盈\n\n经营现金流：1311.56 亿元，同比增长 2985.64%\n\n加权平均净资产收益率：81.06%，同比扭亏为盈\n\n基本每股收益：1.2893 元，同比扭亏为盈\n\n稀释每股收益：1.2893 元，同比扭亏为盈\n\n \n\nAI 解读\n本次财报营收和净利润均大幅超越市场预期，业绩实现爆发式增长。\n公司主营业务说明\n长鑫科技是",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "长鑫科技2026上半年净利776亿，同比扭亏，营收增873%。",
-      "credibilityScore": 70,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，数据具体，但缺乏原始财报链接和第三方验证。"
-    },
-    {
-      "title": "HKC 预热猎弦 T1 游戏手柄：旋控力摇杆、支持无线充电，8 月 31 日上市",
-      "link": "https://www.ithome.com/0/995/743.htm",
-      "pubDate": "Fri, 28 Aug 2026 09:55:06 GMT",
-      "contentSnippet": "IT之家 8 月 28 日消息，HKC 今天在微博预热猎弦 T1 游戏手柄，新品将于 8 月 31 日上市。\n\n据官方介绍，这款手柄搭载旋控力摇杆，一旋一拧摇杆帽即可实现阻尼无级调节，扳机支持线性 / 快速双模式切换，适配多种游戏。\n\nIT之家注意到，该手柄可选绿、紫两色，采用全轻触开关，寿命可达 500W 次。配备非对称急停震动，号称“精准还原场景震感”。背部搭载四个扩展按键，支持自定义。前面板盖采用磁吸可替换设计，拥有真无线充电底座。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "HKC预热猎弦T1游戏手柄，旋控力摇杆，无线充电，8月31日上市。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容具体，有产品细节和发布时间，但缺乏原始出处和第三方验证。"
-    },
-    {
-      "title": "英特尔退出基带业务后遗症：Linux 内核 SAR 驱动因维护者离职停更，辐射暴露调节功能成摆设",
-      "link": "https://www.ithome.com/0/995/740.htm",
-      "pubDate": "Fri, 28 Aug 2026 09:54:04 GMT",
-      "contentSnippet": "IT之家 8 月 28 日消息，据 Phoronix 当地时间 8 月 27 日报道，英特尔 Linux 内核开发者 Dave Hansen 提交了一项补丁，将名为 BIOS SAR INT1092 的驱动程序状态标记为孤儿（Orphan）。据介绍，此次变更的原因是该驱动唯一维护者已从英特尔离职，且公司内部无人接手。\n\nIT之家注：SAR 即比吸收率（Specific Absorption Rate），是衡量人体暴露于射频辐射时吸收能量速率的指标。\n该驱动专门用于支持设备 ID 为 INTC1092 的 M.2 接口 WWAN 蜂窝调制解调器，其作用是根据 BIOS 提供的 SAR 数据，通过",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "英特尔基带业务退出致Linux SAR驱动因维护者离职停更，辐射调节功能失效。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用Phoronix报道，信息具体，技术细节清晰，逻辑合理。"
-    },
-    {
-      "title": "刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500%",
-      "link": "https://www.qbitai.com/2026/08/480600.html",
-      "pubDate": "Fri, 28 Aug 2026 09:45:19 +0000",
-      "contentSnippet": "企业智能化服务撑起基本盘，第二增长曲线冒头",
-      "sourceName": "量子位",
-      "sourceWeight": 80,
-      "allSources": [
-        "量子位"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "港股AGI第一股业绩亮眼，Agent业务半年收入近5亿，Token收入Q2暴涨500%。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "量子位为知名科技媒体，内容具体有数据支撑，但缺乏原始出处和细节验证。"
-    },
-    {
-      "title": "工信部曝光一批新能源汽车产品典型案例：尺寸、油耗等与申报值不符",
-      "link": "https://www.ithome.com/0/995/732.htm",
-      "pubDate": "Fri, 28 Aug 2026 09:45:01 GMT",
-      "contentSnippet": "IT之家 8 月 28 日消息，经过新能源汽车产品生产一致性监督检查，工业和信息化部今天（28 日）公开曝光了一批新能源汽车产品典型案例。\n这次公开曝光的典型案例，是 2025 年度工业和信息化部装备工业一司监督检查的结果。典型案例具体包括：\n\n一、样车未配备说明书，或个别参数与《道路机动车辆生产企业及产品公告》（以下简称《公告》）参数不一致。中联重科股份有限公司的 ZLJ5328GJBLBEV 纯电动混凝土搅拌运输车未配备说明书、轮胎生产企业与《公告》参数不一致。广西汽车集团有限公司的 GXA5032XLCEV 纯电动冷藏车的车载实时监控装置型号与《公告》参数不一致。\n\n二、样车的外廓尺寸等",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "工信部曝光新能源汽车产品尺寸、油耗等与申报不符的典型案例。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，内容具体，引用工信部官方检查结果，信息详实，逻辑清晰。"
-    },
-    {
-      "title": "机械革命预热翼龙 15 Air 轻薄游戏本，8 月 30 日 14:00 发布",
-      "link": "https://www.ithome.com/0/995/726.htm",
-      "pubDate": "Fri, 28 Aug 2026 09:43:22 GMT",
-      "contentSnippet": "IT之家 8 月 28 日消息，机械革命 (Mechrevo) 今日宣布将在 8 月 30 日（本周日）14:00 的机械革命 × AMD 电竞嘉年华（广州）现场发布翼龙 15 Air 笔记本电脑。\n这款产品号称“简奢轻薄电竞本”，“轻盈有型，澎湃有力”，口号则是“Air 不释手”，应该是一款中高端定位的轻薄游戏本。\n\nIT之家注意到，机械革命此前已在 Bilibili World 2026 发布过搭载 AMD 锐龙 AI 9 HX 470 处理器的 2026 款翼龙 15 Air  云杉青，而本次预热的机型则拥有偏白色的机身。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "机械革命预热翼龙15 Air轻薄游戏本，8月30日发布。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容具体，有发布事件细节，但缺少技术参数和原始出处。"
-    },
-    {
-      "title": "首个维护版本 Ubuntu 26.04.1 LTS 发布：Linux 7.0 内核，整合数月修复补丁",
-      "link": "https://www.ithome.com/0/995/721.htm",
-      "pubDate": "Fri, 28 Aug 2026 09:41:17 GMT",
-      "contentSnippet": "IT之家 8 月 28 日消息，当地时间 8 月 27 日，Canonical 发布了 Ubuntu 26.04.1 LTS，这是长期支持版“坚定浣熊”（Resolute Raccoon）的首个维护版本。\n\n作为 26.04 LTS 系列的第一个维护版本更新，此次发布并未带来新功能，而是将自 4 月正式版发布以来积累的安全更新、错误修复及其他重要补丁整合至安装镜像中。\n此举旨在为全新安装 Ubuntu 的用户提供一个更新、更稳定的起点，减少安装后需要立即下载的软件包数量。\nCanonical 表示，新镜像已包含安全更新和高优先级漏洞修复，稳定性和兼容性是首要考量。内核方面，Ubuntu 26.",
+      "title": "ATK 推出梵塔 NOTHING68 磁轴键盘：空气悬挂 GASKET 结构、8KHz 回报率，798.15 元起",
+      "link": "https://www.ithome.com/0/995/899.htm",
+      "pubDate": "Sat, 29 Aug 2026 04:46:32 GMT",
+      "contentSnippet": "IT之家 8 月 29 日消息，ATK 现已在京东上架一款梵塔 NOTHING68 磁轴键盘，提供秩序白、暗轨黑与樱雾粉三种配色，可选两种轴体，IT之家整理价格如下：\n\n摄政王轴：798.15 元\n\n银摄政王轴：899.3 元\n\n京东 ATK 梵塔 NOTHING68 磁轴键盘 798.15 元起直达链接\n\n\n该键盘采用半透明 PC 上盖与喷漆 ABS 下盖，侧面设有夹层式金属装饰结构，背板由钢化玻璃开窗与铝合金拼接而成。其中秩序白、樱雾粉配色款搭载高透顶雾 PC 键帽，暗轨黑款则采用 UV 手感漆五面雾透 PC 键帽。机身为下灯位设计，配备波浪纹造型的六颗环绕式灯组，且各区域光效支持独立调节",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -255,10 +204,61 @@
       ],
       "coverageCount": 2,
       "coverageBoost": 5,
-      "aiSummary": "Ubuntu 26.04.1 LTS发布，首个维护版整合安全修复，内核升级至Linux 7.0。",
+      "aiSummary": "IT之家报道ATK推出梵塔NOTHING68磁轴键盘，798元起，具空气悬挂Gasket结构及8KHz回报率。",
       "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体，提及版本号、发布方及更新内容，但缺少原始链接和详细数据。（多源覆盖 +5）"
+      "credibilityReason": "来源为知名科技媒体IT之家，内容具体含价格、配置细节，逻辑清晰，技术描述专业。（多源覆盖 +5）"
+    },
+    {
+      "title": "垂类App正在集体“消失”",
+      "link": "https://www.tmtpost.com/8121590.html",
+      "pubDate": "Sat, 29 Aug 2026 12:46:32 +0800",
+      "contentSnippet": "线上健身平台失宠的背后，是一部垂直类APP的消亡史。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "垂类App集体衰落，线上健身平台失宠，反映垂直应用消亡趋势。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "钛媒体为知名科技媒体，内容具体分析行业趋势，但缺乏数据支撑和原始出处。"
+    },
+    {
+      "title": "273号文最大的溢出效应：AI随访成「刚需」",
+      "link": "https://www.tmtpost.com/8121563.html",
+      "pubDate": "Sat, 29 Aug 2026 12:46:29 +0800",
+      "contentSnippet": "随访病种扩围、复杂度上升，AI可承接工作量数倍放大。这四类玩家已就位，但铺区县只是门票，专科纵深与支付闭环才是分水岭。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "273号文推动AI随访成刚需，四类玩家就位，专科纵深与支付闭环是关键。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "钛媒体为知名科技媒体，内容具体分析政策影响与行业格局，但缺乏具体数据与原始出处。"
+    },
+    {
+      "title": "农村商业下沉了20年，县城为什么又开始成为主角",
+      "link": "https://www.tmtpost.com/8121533.html",
+      "pubDate": "Sat, 29 Aug 2026 12:46:27 +0800",
+      "contentSnippet": "当商品可获得性问题解决大半，农村消费转向更多在地服务，“下沉市场”开始同时受到覆盖与集聚两股力量牵引。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "分析农村商业下沉20年后，县城因服务消费集聚而重新成为主角。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "钛媒体为知名科技媒体，文章有具体分析框架，但缺乏数据支撑，逻辑清晰但细节不足。"
     }
   ]
 }
