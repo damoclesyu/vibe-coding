@@ -1,14 +1,201 @@
 {
-  "generatedAt": "2026-08-29T06:25:34.931Z",
+  "generatedAt": "2026-08-30T04:36:10.693Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "供应链有最优解，但没有人能把它算出来",
-      "link": "https://www.tmtpost.com/8110563.html",
-      "pubDate": "Sat, 29 Aug 2026 12:46:23 +0800",
-      "contentSnippet": "拉普拉斯妖已死，运筹学求解器站在它的尸体上",
+      "title": "苹果 M5 Max MacBook Pro 供电边界：极限负载下每小时掉电 12%",
+      "link": "https://www.ithome.com/0/996/111.htm",
+      "pubDate": "Sun, 30 Aug 2026 04:21:59 GMT",
+      "contentSnippet": "IT之家 8 月 30 日消息，科技媒体 NotebookCheck 昨日（8 月 29 日）发布博文，测试苹果 2026 款 M5 Max 芯片 16 英寸 MacBook Pro，发现随附的 140W 电源适配器可能无法覆盖整机峰值需求。\n该媒体在测试中指出，在 Cinebench R23 多核测试与 3DMark Wild Life Extreme GPU 压力测试并行的混合负载中，M5 Max 的 CPU、GPU 封装功耗平均为 70.6W，区间为 68.0W 至 114.4W。\n其中 GPU 平均功耗为 37.2W（31.552W~49.977W），峰值接近 50W；而 CPU 平均",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "IT之家报道M5 Max MacBook Pro极限负载下每小时掉电12%，电源适配器或不足。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，引用NotebookCheck实测数据，具体功耗数值，逻辑清晰，但缺乏官方确认。"
+    },
+    {
+      "title": "华为李小龙“认领”古早三折叠手机设计草稿：花了 11 年把梦想照进现实",
+      "link": "https://www.ithome.com/0/996/109.htm",
+      "pubDate": "Sun, 30 Aug 2026 04:14:41 GMT",
+      "contentSnippet": "IT之家 8 月 30 日消息，博主 @Welber 昨日分享了华为 Mate XT 2 三折叠手机 11 年前的早期手稿。\n\nIT之家注意到，华为终端 BG CTO 李小龙刚刚“认领”了这张古早三折叠手机设计草稿，称：“花了 11 年把梦想照进现实。”\n\n博主分享的图片显示，这张手稿由华为终端 BG CTO 李小龙于 2015 年 7 月 25 日绘制，展示了华为三折叠的两种方案：一种是此前 Mate XT 和 Mate XTs 采用的“Z”型方案；一种是已曝光的 Mate XT 2 的展翼内折方案。\n华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东表示：\n\n全新的展翼三折叠形",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "华为李小龙认领11年前三折叠手稿，梦想成真。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家知名科技媒体，内容具体，有原始手稿和官方高管回应，逻辑清晰。"
+    },
+    {
+      "title": "启境轩伟谈 L3 级自动驾驶架构：车主导、人放松，正常行驶不需要时刻紧绷接管",
+      "link": "https://www.ithome.com/0/996/108.htm",
+      "pubDate": "Sun, 30 Aug 2026 04:07:50 GMT",
+      "contentSnippet": "IT之家 8 月 30 日消息，启境汽车产品总经理轩伟今日发文，谈及了汽车智能辅助驾驶的底层架构相关话题，并介绍了 L3 级自动驾驶架构。\n\n在这里我先要为大家讲一下 L2 和 L3 的本质区别，其实核心就在于谁主导、谁负责。传统 L2 级辅助驾驶，始终是人为主导，开车全程需要我们紧盯路况、随时待命，车辆遇到特殊情况会立刻退出，把操控交还给人。但 L3 级自动驾驶架构完全不一样，是车主导、人放松，正常行驶不需要时刻紧绷接管。\n所以 L3 级自动驾驶架构对安全的要求完全不在一个层级 —— 车辆绝对不能在部件异常时直接掉线、突然退出智能辅助驾驶。而这也正是我们为什么要大费周章，给 GT7 做这套",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "启境汽车总经理介绍L3自动驾驶架构，强调车主导、人放松的安全设计。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，内容具体但缺乏技术细节和原始数据，评分中等偏上。"
+    },
+    {
+      "title": "约 94% 准确率：手机配件 SweepLED 问世，成本不到 7 美元、5 秒内找出针孔摄像头",
+      "link": "https://www.ithome.com/0/996/107.htm",
+      "pubDate": "Sun, 30 Aug 2026 03:56:49 GMT",
+      "contentSnippet": "IT之家 8 月 30 日消息，韩媒 ETNews 今天（8 月 30 日）发布博文，报道称韩国科学技术院（KAIST）联合发布 SweepLED 技术，成本不到 7 美元（IT之家注：现汇率约合 47.2 元人民币），能在 5 秒内精准找到针孔摄像头，准确率达到 94%。\n\n该研究由韩国科学技术院（KAIST）计算机学院韩俊（Jun Han）教授团队主导，联合新加坡国立大学（NUS）、新加坡管理大学（SMU）发布，打造了一款适用于主流智能手机的配件，可以将智能手机转变为高精度隐蔽摄像头探测器。\n\n技术原理方面，SweepLED 通过固定智能手机摄像头，仅改变 LED 照明方向，分析物体表面反",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "韩团队研发低成本手机配件，5秒内94%准确率探测针孔摄像头。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，引用韩媒ETNews及KAIST等学术机构，技术细节具体，逻辑清晰。"
+    },
+    {
+      "title": "全球限 660 支：曝徕卡下周推 Summicron-M 66mm f/2 镜头",
+      "link": "https://www.ithome.com/0/996/106.htm",
+      "pubDate": "Sun, 30 Aug 2026 03:41:24 GMT",
+      "contentSnippet": "IT之家 8 月 30 日消息，科技媒体 leicarumors 于 8 月 28 日发布博文，报道称徕卡（Leica）有望于 9 月 3 日（下周四）发布限量版 Summicron-M 66mm f/2 镜头与金属灰色 SL3 Reporter 相机两款产品。\nSummicron-M 66mm f/2 方面，该镜头基于 Elcan 66mm f/2 镜头打造，全球限量 660 支，预计售价约 9,000 美元（IT之家注：现汇率约合 60,713 元人民币） / 欧元。IT之家附上相关图片如下：\n\n\n该原型为 Dr. Walter Mandler 在 Ernst Leitz Wetzlar",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "徕卡将推限量版Summicron-M 66mm f/2镜头，全球660支，约9000美元。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家，引用leicarumors，信息具体含价格、数量，但未证实，评分中等偏上。"
+    },
+    {
+      "title": "苹果葛越：对贵安数据中心追加投入达数十亿美元，已实现 100% 由可再生能源驱动",
+      "link": "https://www.ithome.com/0/996/105.htm",
+      "pubDate": "Sun, 30 Aug 2026 03:41:09 GMT",
+      "contentSnippet": "8 月 30 日上午消息，在近日的 2026 中国国际大数据产业博览会上，苹果公司副总裁、大中华区董事总经理葛越发表演讲。\n她表示，苹果公司在中国开展业务已超过 30 年。App Store 生态系统在中国促成的开发者营业额和销售额在过去 6 年中翻了超过一番。在贵州的投资方面，苹果早在 2018 年便对 iCloud 贵安数据中心进行了首期 10 亿美元的投资，此后持续追加投入达数十亿美元规模。\n葛越介绍，贵安数据中心在绿色发展方面也走在前列。自 2021 年投入运营以来，贵安数据中心已实现 100% 由可再生能源驱动。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "苹果追加贵安数据中心投资数十亿美元，实现100%可再生能源驱动。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，内容具体有数据，但缺少原始演讲全文或官方公告佐证。"
+    },
+    {
+      "title": "吉利星越 L PLUS 预告视频发布，定位中大型旗舰智混 SUV",
+      "link": "https://www.ithome.com/0/996/103.htm",
+      "pubDate": "Sun, 30 Aug 2026 03:37:33 GMT",
+      "contentSnippet": "IT之家 8 月 30 日消息，8 月 28 日，吉利汽车官方发布星越 L PLUS 预告视频。新车官方定位为中大型旗舰智混 SUV，将搭载激光雷达硬件，并官宣新车“即将登场”。\n\n\n\n\n从预告视频能够看到，星越 L PLUS 大体承袭现款星越 L 家族化设计语言。前脸直瀑式进气格栅气势十足，格栅与前保险杠区域配备大面积镀铬装饰件，进一步烘托整车氛围。结合此前工信部申报资料，新车将配备激光雷达硬件。\n车身侧面装配原厂行李架，采用传统样式车门把手。侧窗边框、外后视镜底座以及侧裙位置均使用镀铬饰条点缀，丰富车身层次，强化豪华质感。车尾配备贯穿式尾灯，尾部轮廓相比现款车型更加圆润，同时运用尺寸更大的",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "吉利发布星越L PLUS预告，定位中大型旗舰智混SUV，将搭载激光雷达。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，内容具体，引用工信部申报信息，但细节有限，评分75。"
+    },
+    {
+      "title": "中塞联合建设机器人工厂投产，成为欧洲首座人形机器人量产基地",
+      "link": "https://www.ithome.com/0/996/102.htm",
+      "pubDate": "Sun, 30 Aug 2026 03:28:49 GMT",
+      "contentSnippet": "IT之家 8 月 30 日消息，据央视新闻报道，当地时间 29 日，塞尔维亚首座机器人工厂在该国西部城市沙巴茨正式投产。这座由中塞联合建设的工厂，也是欧洲首座人形机器人量产基地。塞尔维亚总统武契奇当天在出席机器人工厂投产仪式时表示，这是塞尔维亚迈向未来的重要一步。\n\n工厂投产当天，生产的首台人形机器人正式下线。塞尔维亚总统武契奇与人形机器人进行互动。机器人还现场展示了中国书法、整理衣物、下棋、跳舞等多种功能。\n武契奇指出，人形机器人生产为塞尔维亚开辟了新的技术发展领域。塞方希望将机器人制造与人工智能、超级计算机和数据中心等产业相结合，带动当地人才培养和就业，使塞尔维亚在欧洲机器人产业发展中占据",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中塞联合机器人工厂在塞尔维亚投产，系欧洲首座人形机器人量产基地。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，引用央视新闻，内容具体，但缺乏技术细节和独立验证。"
+    },
+    {
+      "title": "何刚谈华为 Mate XT 2 非凡大师全新展翼三折叠手机：极致美学、工艺与创新的集大成者",
+      "link": "https://www.ithome.com/0/996/101.htm",
+      "pubDate": "Sun, 30 Aug 2026 03:24:35 GMT",
+      "contentSnippet": "IT之家 8 月 30 日消息，华为今日官宣了 Mate XT 2 非凡大师全新三折叠手机。据介绍，新机采用全新展翼三折叠设计。\n\n华为终端 BG CEO 何刚随后发文谈及了 Mate XT 2 非凡大师全新展翼三折叠手机，并表示，该机是极致美学、极致工艺、极致创新的集大成者，拥有全新的外观设计和开合方式。\n\n可以看到，新机的后置摄像头部分采用与前代近似的八边形模组设计，新机的折叠方式由前代的“Z”型折叠改为“U”型折叠。除此之外，这款新机还配置一块外屏，可以在折叠后使用。\n相比“Z”型折叠，“U”型结构能够让柔性内屏在折叠状态下获得更完整的保护，在抗刮擦、抗磕碰等方面也更具优势。\n目前，华为",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "华为官宣Mate XT 2三折叠手机，何刚称其集美学工艺创新于一身，采用U型折叠。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家知名科技媒体，内容具体涉及设计细节，但缺乏官方数据及原始出处，评分中等偏上。"
+    },
+    {
+      "title": "SpaceX 猎鹰重型火箭完成垂直竖立，今晚发射罗曼望远镜",
+      "link": "https://www.ithome.com/0/996/100.htm",
+      "pubDate": "Sun, 30 Aug 2026 03:15:44 GMT",
+      "contentSnippet": "IT之家 8 月 30 日消息，全球首富埃隆 · 马斯克（Elon Musk）旗下航天公司 SpaceX 今天（8 月 30 日）在 X 平台发布推文，宣布其猎鹰重型（Falcon Heavy）火箭在美国佛罗里达州肯尼迪航天中心 39A 发射工位完成垂直竖立，进入发射前最后准备阶段。\n\n\n在发射场操作中，“垂直竖立”通常表示火箭已从水平运输 / 装配状态转运至发射台并完成起竖、对接、固定与相关管线连接，随后进入最后的系统检查、加注与倒计时流程。\n本次任务核心载荷为美国宇航局“南希 · 格蕾丝 · 罗曼太空望远镜”（Nancy Grace Roman Space Telescope），计划于美东",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "SpaceX猎鹰重型火箭完成竖立，准备发射罗曼望远镜。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，内容具体，引用官方推文，但缺少技术细节和独立验证。"
+    },
+    {
+      "title": "小米 18 Fold 首发长鑫 LPDDR6 内存，央视财经报道称“中国半导体两个好消息”",
+      "link": "https://www.ithome.com/0/996/099.htm",
+      "pubDate": "Sun, 30 Aug 2026 03:11:37 GMT",
+      "contentSnippet": "IT之家 8 月 30 日消息，小米昨日官宣，Xiaomi 18 Fold 全球首发长鑫 LPDDR6 内存，9 月见。\n\nIT之家注意到，央视新闻官方微博昨日发文报道“从“芯”到“存”，从单点技术突破到产业链协同发力！中国半导体两个好消息”：\n\n8 月 29 日，长鑫存储宣布新一代 LPDDR6 内存正式量产，并首发搭载于小米 18Fold 旗舰折叠屏手机。而就在本周，小米集团也宣布将在该机型上搭载其最新旗舰移动处理器玄戒 O3。\n小米将自主研发设计的移动处理器与国产新一代 LPDDR6 内存一同导入旗舰量产机型，敢于让国产核心器件在高标准的旗舰手机中接受市场检验。以量产产品完成严格验证，牵",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "小米18 Fold首发长鑫LPDDR6内存，央视报道中国半导体双突破。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，内容具体，引用央视报道，但未来日期和细节需核实。"
+    },
+    {
+      "title": "营收超381 亿，二线电池企业欣旺达半年报如何拆解？动储业务高增背后有三笔账需要细看",
+      "link": "https://www.tmtpost.com/8121945.html",
+      "pubDate": "Sun, 30 Aug 2026 11:09:26 +0800",
+      "contentSnippet": "欣旺达半年度营收增利降，细分赛道登顶存成长机遇与风险。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -16,169 +203,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "探讨供应链优化难题，指出运筹学求解器的局限性。",
-      "credibilityScore": 75,
+      "aiSummary": "欣旺达半年报营收增利降，动储业务高增背后需细看三笔账。",
+      "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源钛媒体，内容有深度，但缺乏具体数据支撑，评分中等偏上。"
+      "credibilityReason": "钛媒体为知名科技媒体，内容具体有数据，分析逻辑清晰，但缺少原始财报引用。"
     },
     {
-      "title": "美国将意大利安全托管服务商列入恐怖分子名单",
-      "link": "https://www.solidot.org/story?sid=85223",
-      "pubDate": "Fri, 28 Aug 2026 21:33:01 +0800",
-      "contentSnippet": "美国国务院和财政部周三将一家提供加密聊天和电子邮件、网站托管、安全视频会议和流媒体等服务的意大利组织 Autistici/Inventati 列入特别指定全球恐怖分子名单，这意味着美国公民与该组织进行的任何交易都是违法的。美国国务院列举的一个理由是该组织为极左翼组织如 Antifa 提供了数字基础设施，让极左激进分子能在保持“匿名、无法追踪且不受法律制裁”的情况下“传播目标信息、战术手册和技术以及关于近期袭击的通告”。美国政府此举引起广泛争议，可能导致该组织域名 autistici.org 被美国域名管理机构封禁。Autistici/Inventati 用英语和意大利语发表的一份声明中否认了美",
-      "sourceName": "Solidot",
-      "sourceWeight": 75,
-      "allSources": [
-        "Solidot"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "美国将意大利安全托管商列入恐怖名单，引发争议。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源Solidot知名科技媒体，内容具体，有官方声明和细节，但缺乏多方独立验证。"
-    },
-    {
-      "title": "雷军：超过 2600 位车主将自己的小米汽车开到了 10 万公里",
-      "link": "https://www.ithome.com/0/995/909.htm",
-      "pubDate": "Sat, 29 Aug 2026 06:20:36 GMT",
-      "contentSnippet": "IT之家 8 月 29 日消息，雷军援引小米汽车微博，透露截至 2026 年 8 月，已经有超过 2600 位车主将自己的小米汽车开到了 10 万公里。官方同步发起全新限时活动，即日起至 9 月 20 日，用户打开小米汽车 App 即可分享自己的暑期开车出行故事，参与投稿还能拿到平台积分奖励。\n\nIT之家注意到，不少车主也在评论区晒出自己的里程，有网友表示自己每天上下班来回 80 多公里，日积月累就跑出很高的总里程。\n\n参考先前报道，小米今年 4 月上线限时活动，总计行驶里程达成 10 万公里的车主可以在小米汽车 App 活动页领取实体徽章，同时可获得专属行车故事总结。\n公开信息显示，小米汽车",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "雷军称超2600位小米车主行驶达10万公里，官方发起分享活动。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家较可靠，内容具体有数据，但未提供原始数据出处，评分中等偏上。"
-    },
-    {
-      "title": "消息称某厂 13 英寸旗舰新平板提供柔光屏版本，预计小米旗下",
-      "link": "https://www.ithome.com/0/995/908.htm",
-      "pubDate": "Sat, 29 Aug 2026 06:16:42 GMT",
-      "contentSnippet": "IT之家 8 月 29 日消息，博主 @数码闲聊站 今日曝光某厂 13 英寸旗舰新平板部分信息，预计为小米旗下新品。\n据其爆料，这款 13 英寸旗舰新平板有柔光屏版本，主打红色，工程版起步 8GB，大内存版本有 16+512GB/16+1TB 选择，产品内置超 10000mAh 大电池，配备 120W 闪充头，重量 650g±，最低成本体验新一代 SoC 的选择。\n\nIT之家注意到，小米平板 9 Pro Max 已经官宣 9 月发布，将首发搭载玄戒 O3 AI 旗舰处理器，号称是小米最强的专业生产力平板。截至目前，小米暂未公布这款平板的外观。\n玄戒 O3 的 CPU 采用十核全大核设计：6 超",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "博主爆料小米13英寸旗舰平板将推柔光屏版，配大电池和120W快充。",
-      "credibilityScore": 65,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为IT之家，但信息基于博主爆料，缺乏官方确认，细节具体但可信度中等。"
-    },
-    {
-      "title": "宁德时代捐赠 1000 万元驰援西藏吉隆泥石流灾区",
-      "link": "https://www.ithome.com/0/995/907.htm",
-      "pubDate": "Sat, 29 Aug 2026 06:11:52 GMT",
-      "contentSnippet": "IT之家 8 月 29 日消息，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。\n宁德时代今日宣布，向西藏吉隆灾区捐赠 1000 万元，用于应急救援、群众过渡安置及灾后恢复重建。\n\n宁德时代将持续关注灾情进展，与灾区人民共渡难关。\n\n\n相关阅读：\n\n《中国长安汽车集团捐赠 500 万元驰援西藏吉隆灾区》\n\n《中国一汽捐赠款物 500 万元驰援西藏吉隆灾区》\n\n《比亚迪捐赠 1000 万元驰援西藏吉隆灾区》\n\n《小米公益基金会投入 1000 万元备灾资金，用于支持西藏吉隆等灾区的紧急援助》\n\n《驰援西藏吉隆：阿里巴巴追加 1000 万捐款，第二批物资今晚送达》\n\n《",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "宁德时代捐赠1000万元驰援西藏吉隆泥石流灾区。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道具体捐赠金额，信息简洁明确，来源可靠。"
-    },
-    {
-      "title": "网友建议取消 ETC 设备使用改为扫车牌支付，交通运输部回应",
-      "link": "https://www.ithome.com/0/995/905.htm",
-      "pubDate": "Sat, 29 Aug 2026 06:10:16 GMT",
-      "contentSnippet": "IT之家 8 月 29 日消息，近日，有网友就 ETC 相关内容在交通运输部官网留言提问，交通运输部公路局进行了回答，IT之家整理主要内容如下：\n问：领导您好，现行高速公路 ETC 需要安装设备感应，安装时大量耗费人力物力财力和时间，如车牌号绑定支付宝、微信或者银行卡，直接走 ETC 通道扫车牌支付，节省我们排队的时间，还不用增加人工成本，希望领导予以重视，切切实实给老百姓的出行提供方便。\n答：您好，感谢您的留言。ETC 是国内外收费公路提高通行效率的重要技术支撑手段之一，设置 ETC 车道的目的在于提升高速公路通行效率、优化公众高速出行体验，同时促进物流业降本增效。ETC 具备鲜明的公共服务",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "交通运输部回应网友建议取消ETC设备改用扫车牌支付，强调ETC技术优势。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家，内容具体，引用官方回复，技术分析合理，逻辑清晰。"
-    },
-    {
-      "title": "华硕 ROG 旗下 RGB 条纹子像素 OLED 显示器“PG27UCWM”国行上架：4K 240Hz / FHD 480Hz 双模，7499 元",
-      "link": "https://www.ithome.com/0/995/904.htm",
-      "pubDate": "Sat, 29 Aug 2026 06:09:10 GMT",
-      "contentSnippet": "IT之家 8 月 29 日消息，华硕旗下 ROG “PG27UCWM”27 英寸显示器目前已在京东上架，该机采用 RGB 条纹子像素排列，支持 UHD 240Hz / FHD 480Hz 双模切换，国行定价 7499 元，将于 8 月 31 日发售。\n京东华硕 PG27UCWM 显示器 7499 元直达链接\n\n该机结合了 Tandem OLED 技术和 RGB 条纹子像素排列，带来了更为锐利的文字边缘与更为精准的色彩还原；而 TrueBlack Glossy 涂层则降低了屏幕反光，提升了在高环境亮度下的视觉体验。\n该机支持 UHD 240Hz / FHD 480Hz 双模切换；峰值亮度 100",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "华硕ROG PG27UCWM显示器国行上架，4K 240Hz/FHD 480Hz双模，7499元。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道具体参数和价格，但缺乏原始出处和深度分析。"
-    },
-    {
-      "title": "国际刑警组织披露“Jackal IV”全球反诈行动成果：逮捕 58 人、确认 263 名涉案者",
-      "link": "https://www.ithome.com/0/995/903.htm",
-      "pubDate": "Sat, 29 Aug 2026 05:56:36 GMT",
-      "contentSnippet": "IT之家 8 月 29 日消息，国际刑警组织（INTERPOL）现已公布新一期反诈行动“Jackal IV”成果，本次行动从 2025 年 11 月持续至 2026 年 6 月，涉及全球 22 个国家地区，重点打击恋爱诈骗、加密货币及投资诈骗、电子邮件诈骗和洗钱等网络金融犯罪。\n\n国际刑警组织表示，本轮行动共逮捕 58 人，并确认 263 名涉案人员身份。其中，阿根廷警方查获一个提供网站域名及洗钱服务的“犯罪即服务”（Crime-as-a-Service，CaaS）网络，逮捕 17 人，并确认 196 名涉案人员身份。南非警方则突袭约翰内斯堡 7 处据点，逮捕 39 名涉嫌针对英语国家退休人士",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国际刑警组织公布Jackal IV反诈行动成果，逮捕58人，确认263名涉案者。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体，包含行动时间、范围、逮捕人数等细节，信息可信。"
-    },
-    {
-      "title": "比亚迪公布第二代腾势 D9 / 腾势 N9 闪充版延期交付权益：赠 10 万积分及至高价值超 2000 元礼包",
-      "link": "https://www.ithome.com/0/995/902.htm",
-      "pubDate": "Sat, 29 Aug 2026 05:46:50 GMT",
-      "contentSnippet": "IT之家 8 月 29 日消息，今日，比亚迪豪华品牌腾势汽车正式宣布，因厂家车源原因，自锁单之日起超过 90 天（含）未交车订单，赠送 10 万积分及至高价值超 2000 元精品礼包。适用车型为第二代腾势 D9、腾势 N9 闪充版车型。\n\nIT之家注意到，第二代腾势 D9 于今年 4 月开启交付，该车于 4 月 27 日正式上市，共推出 6 款车型，售价区间 35.98-45.98 万元。新车长宽高分别为 5250mm、1960mm、1900mm，轴距达 3110mm。\n动力方面，第二代腾势 D9 提供插电混动与纯电两种动力形式。插混版车型搭载由 1.5T 发动机与双电机组成的混动系统，发动机",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "腾势因车源延期交付，赠积分礼包补偿，涉及D9和N9闪充版。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家知名科技媒体，信息具体含车型售价参数，逻辑清晰，客观报道。"
-    },
-    {
-      "title": "国内首部 AIGC 长剧《后西游记》定档 8 月 31 日开播，登陆湖南卫视黄金档",
-      "link": "https://www.ithome.com/0/995/901.htm",
-      "pubDate": "Sat, 29 Aug 2026 05:36:14 GMT",
-      "contentSnippet": "IT之家 8 月 29 日消息，芒果 TV AIGC 创新内容中心制作、伯璟文化承制的神话题材季播剧《后西游记》第一季“花果山篇”，将于 8 月 31 日起上线芒果 TV，并登陆湖南卫视黄金档。据悉，这是国内首部 AIGC 长剧。\n据介绍，神话题材季播剧《后西游记》改编自明末清初匿名作者所著的同名神魔小说，其第一季共 30 集，每集 40 分钟。作为《西游记》三大续书之一，《后西游记》原著讲述了因世间众人误解真经，“西游二代”因缘际会再次集结取经的故事。剧集将四十回原书框架与《西游记》原著中的相关伏笔与线索深度融合、相互补充，构建出完整的“西游后传”叙事体系。\n\n\n故事始于孙悟空封圣一千零八十",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国内首部AIGC长剧《后西游记》定档8月31日，登陆湖南卫视黄金档。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道具体含集数、时长、来源，但缺乏技术细节和官方确认。"
-    },
-    {
-      "title": "宇树市值大跌后，能否继续扛起具身智能大旗",
-      "link": "https://www.tmtpost.com/8121600.html",
-      "pubDate": "Sat, 29 Aug 2026 12:46:33 +0800",
-      "contentSnippet": "压力给到王兴兴",
+      "title": "对话艾博生物CEO英博：mRNA的第二战场，拆解人类首个肿瘤疫苗三期突破",
+      "link": "https://www.tmtpost.com/8121867.html",
+      "pubDate": "Sun, 30 Aug 2026 11:09:02 +0800",
+      "contentSnippet": "为每位患者定制一支疫苗。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -186,79 +220,45 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体分析宇树市值大跌后能否继续引领具身智能发展。",
-      "credibilityScore": 75,
+      "aiSummary": "艾博生物CEO谈mRNA肿瘤疫苗三期突破，个性化治疗成焦点。",
+      "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "知名科技媒体，内容具体，但摘要简略，缺乏数据支撑。"
+      "credibilityReason": "知名科技媒体，内容具体，涉及专业领域，但缺乏第三方数据验证。"
     },
     {
-      "title": "ATK 推出梵塔 NOTHING68 磁轴键盘：空气悬挂 GASKET 结构、8KHz 回报率，798.15 元起",
-      "link": "https://www.ithome.com/0/995/899.htm",
-      "pubDate": "Sat, 29 Aug 2026 04:46:32 GMT",
-      "contentSnippet": "IT之家 8 月 29 日消息，ATK 现已在京东上架一款梵塔 NOTHING68 磁轴键盘，提供秩序白、暗轨黑与樱雾粉三种配色，可选两种轴体，IT之家整理价格如下：\n\n摄政王轴：798.15 元\n\n银摄政王轴：899.3 元\n\n京东 ATK 梵塔 NOTHING68 磁轴键盘 798.15 元起直达链接\n\n\n该键盘采用半透明 PC 上盖与喷漆 ABS 下盖，侧面设有夹层式金属装饰结构，背板由钢化玻璃开窗与铝合金拼接而成。其中秩序白、樱雾粉配色款搭载高透顶雾 PC 键帽，暗轨黑款则采用 UV 手感漆五面雾透 PC 键帽。机身为下灯位设计，配备波浪纹造型的六颗环绕式灯组，且各区域光效支持独立调节",
+      "title": "从谷物酸奶到“人类猫条”，年销10个亿的嚼绊：开创者还是擦边球？",
+      "link": "https://www.tmtpost.com/8121859.html",
+      "pubDate": "Sun, 30 Aug 2026 11:08:55 +0800",
+      "contentSnippet": "大单品红利消散后。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体剖析嚼绊年销10亿，从谷物酸奶到人类猫条，探讨其创新与争议。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源知名科技媒体，内容具体有数据支撑，但标题略带争议性，整体客观。"
+    },
+    {
+      "title": "9 月 14 日起，Pro / Max / Team 用户 Claude Code 标准周限额永久 +25%",
+      "link": "https://www.ithome.com/0/996/097.htm",
+      "pubDate": "Sun, 30 Aug 2026 03:02:50 GMT",
+      "contentSnippet": "IT之家 8 月 30 日消息，@ClaudeDevs 今天（8 月 30 日）在 X 平台发布推文，宣布自 2026 年 9 月 14 日起，针对 Pro、Max、Team 及按席位计费企业版用户，将 Claude Code 标准计划的“标准周限额”永久上调 25%。\nIT之家附上相关截图如下：\n\n官方表示当前正在执行的临时 50% 增幅将延续至 9 月 13 日，随后被新的永久基准取代。以“原始标准限额 = 100%”为参照：当前临时政策下用户可用额度为 150%；9 月 14 日起将调整为 125%。\n该媒体指出相对于“本周仍享受 50% 增幅”的状态，新限额意味着周可用容量下降约 17",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
         "IT之家",
-        "Solidot"
+        "量子位"
       ],
       "coverageCount": 2,
       "coverageBoost": 5,
-      "aiSummary": "IT之家报道ATK推出梵塔NOTHING68磁轴键盘，798元起，具空气悬挂Gasket结构及8KHz回报率。",
-      "credibilityScore": 90,
+      "aiSummary": "Claude Code标准周限额9月14日起永久上调25%，临时50%增幅延续至9月13日。",
+      "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，内容具体含价格、配置细节，逻辑清晰，技术描述专业。（多源覆盖 +5）"
-    },
-    {
-      "title": "垂类App正在集体“消失”",
-      "link": "https://www.tmtpost.com/8121590.html",
-      "pubDate": "Sat, 29 Aug 2026 12:46:32 +0800",
-      "contentSnippet": "线上健身平台失宠的背后，是一部垂直类APP的消亡史。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "垂类App集体衰落，线上健身平台失宠，反映垂直应用消亡趋势。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容具体分析行业趋势，但缺乏数据支撑和原始出处。"
-    },
-    {
-      "title": "273号文最大的溢出效应：AI随访成「刚需」",
-      "link": "https://www.tmtpost.com/8121563.html",
-      "pubDate": "Sat, 29 Aug 2026 12:46:29 +0800",
-      "contentSnippet": "随访病种扩围、复杂度上升，AI可承接工作量数倍放大。这四类玩家已就位，但铺区县只是门票，专科纵深与支付闭环才是分水岭。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "273号文推动AI随访成刚需，四类玩家就位，专科纵深与支付闭环是关键。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容具体分析政策影响与行业格局，但缺乏具体数据与原始出处。"
-    },
-    {
-      "title": "农村商业下沉了20年，县城为什么又开始成为主角",
-      "link": "https://www.tmtpost.com/8121533.html",
-      "pubDate": "Sat, 29 Aug 2026 12:46:27 +0800",
-      "contentSnippet": "当商品可获得性问题解决大半，农村消费转向更多在地服务，“下沉市场”开始同时受到覆盖与集聚两股力量牵引。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "分析农村商业下沉20年后，县城因服务消费集聚而重新成为主角。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，文章有具体分析框架，但缺乏数据支撑，逻辑清晰但细节不足。"
+      "credibilityReason": "来源为IT之家和量子位，信息具体，有官方推文引用，但缺乏独立验证。（多源覆盖 +5）"
     }
   ]
 }
