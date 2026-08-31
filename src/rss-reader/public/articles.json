@@ -1,31 +1,32 @@
 {
-  "generatedAt": "2026-08-30T04:34:46.596Z",
+  "generatedAt": "2026-08-31T04:39:20.965Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "（近观中国）从天山脚下到尼罗河畔，习近平开启亚非之行",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-30/10686708.shtml",
-      "pubDate": "Sun, 30 Aug 2026 11:51:46 +0800",
-      "contentSnippet": "中新社北京8月30日电 题：从天山脚下到尼罗河畔，习近平开启亚非之行",
+      "title": "国家主席习近平同吉尔吉斯斯坦总统扎帕罗夫举行会谈",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-31/10687157.shtml",
+      "pubDate": "Mon, 31 Aug 2026 12:17:41 +0800",
+      "contentSnippet": "新华社快讯：当地时间8月31日上午，国家主席习近平同吉尔吉斯斯坦总统扎帕罗夫举行会谈。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
-        "中国新闻网"
+        "中国新闻网",
+        "央视新闻"
       ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "习近平开启亚非之行，访问天山脚下至尼罗河畔国家。",
-      "credibilityScore": 85,
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "习近平主席与吉尔吉斯斯坦总统扎帕罗夫举行会谈。",
+      "credibilityScore": 100,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，官方媒体，内容具体，事实可查证，用词客观。"
+      "credibilityReason": "来源为新华社、央视等权威媒体，信息具体，官方发布，可信度极高。（多源覆盖 +5）"
     },
     {
-      "title": "习近平离京出席2026年上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-30/10686707.shtml",
-      "pubDate": "Sun, 30 Aug 2026 11:43:20 +0800",
-      "contentSnippet": "中新社北京8月30日电 8月30日上午，中国国家主席习近平乘专机离开北京，赴比什凯克出席2026年上海合作组织峰会，应吉尔吉斯斯坦总统扎帕罗夫、埃及总统塞西邀请对两国进行国事访问。",
+      "title": "时政快讯丨习近平抵达比什凯克和谐宫 出席欢迎仪式",
+      "link": "https://www.chinanews.com.cn/gn/2026/08-31/10687148.shtml",
+      "pubDate": "Mon, 31 Aug 2026 11:59:37 +0800",
+      "contentSnippet": "当地时间8月31日上午，国家主席习近平乘车抵达比什凯克和谐宫，出席吉尔吉斯斯坦总统扎帕罗夫举行的欢迎仪式。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -34,16 +35,16 @@
       ],
       "coverageCount": 2,
       "coverageBoost": 5,
-      "aiSummary": "习近平离京出席上合峰会并访问吉尔吉斯斯坦和埃及。",
-      "credibilityScore": 97,
+      "aiSummary": "习近平抵达比什凯克出席吉尔吉斯斯坦欢迎仪式",
+      "credibilityScore": 95,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为官方通讯社中新社及澎湃新闻，信息具体，涉及国家领导人行程，权威性高。（多源覆盖 +5）"
+      "credibilityReason": "来源为官方媒体，内容具体，事实可查证，符合高权威标准。（多源覆盖 +5）"
     },
     {
-      "title": "浙江奉化：两岸同胞共架“连心桥”",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-30/10686701.shtml",
-      "pubDate": "Sun, 30 Aug 2026 11:41:41 +0800",
-      "contentSnippet": "中新网宁波8月30日电 (骆泽明)“我们那边儿也有竹竿舞和陶艺，来到这里就像回到家一样亲切。”29日，第一次跟随妈妈来到浙江宁波奉化的台湾小朋友张佳瑜，在与当地学生体验完竹竿舞后说。",
+      "title": "游艇自由行政策红利持续释放 16艘港澳游艇齐聚珠海东澳岛",
+      "link": "https://www.chinanews.com.cn/dwq/2026/08-31/10687133.shtml",
+      "pubDate": "Mon, 31 Aug 2026 11:46:24 +0800",
+      "contentSnippet": "中新网珠海8月31日电 (郭军 张帅)粤港澳游艇自由行政策今年6月正式落地以来，政策红利不断释放。8月29日至30日，“悦游东澳山海间 同心扬帆大湾区”粤港澳游艇珠海海岛行活动在珠海东澳岛举行，来自港澳的16艘游艇、180余名船东及行业代表登岛参与交流。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -51,85 +52,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "两岸同胞在浙江奉化通过文化活动增进交流，台湾小朋友感受亲切。",
+      "aiSummary": "粤港澳游艇自由行政策落地后，16艘港澳游艇齐聚珠海东澳岛，政策红利持续释放。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威媒体，内容具体有直接引述，事实可查证。"
+      "credibilityReason": "来源中国新闻网，权威媒体；具体时间地点数据明确，有记者署名，内容客观可查证。"
     },
     {
-      "title": "第二届“舞聚同心·两岸同行”海峡两岸青年街舞汇在沪举行",
-      "link": "https://www.chinanews.com.cn/cul/2026/08-30/10686694.shtml",
-      "pubDate": "Sun, 30 Aug 2026 11:12:50 +0800",
-      "contentSnippet": "中新网上海8月30日电 (缪璐 狄权)8月24日至29日，第二届“舞聚同心·两岸同行”海峡两岸青年街舞汇在上海举行。来自海峡两岸的400余位青年街舞舞者、行业代表等相聚申城，围绕文化体验交流、街舞交流赛、“荣耀之夜”等内容展开互动，以街舞为媒交流才艺，绽放青春的活力与激情。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "第二届海峡两岸青年街舞汇在上海举行，400余位两岸青年参与交流。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，权威媒体，报道具体，含时间地点人物数据，用词客观。"
-    },
-    {
-      "title": "中国海警位中国黄岩岛领海及周边区域执法巡查",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-30/10686692.shtml",
-      "pubDate": "Sun, 30 Aug 2026 11:06:42 +0800",
-      "contentSnippet": "中新网8月30日电 据“中国海警”官方微博消息，8月30日，中国海警位中国黄岩岛领海及周边区域开展执法巡查。8月份以来，中国海警持续加强黄岩岛领海及周边区域执法巡查，依法依规处置非法侵权船只，进一步强化有关海域管控，坚决维护国家领土主权和海洋权益。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网",
-        "澎湃新闻"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "中国海警在黄岩岛领海及周边开展执法巡查，强化海域管控。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为官方微博及正规媒体，信息具体，用词客观，可交叉验证。（多源覆盖 +5）"
-    },
-    {
-      "title": "“字越少，事越大”？这场中泰空军联训低调又精彩",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-30/10686672.shtml",
-      "pubDate": "Sun, 30 Aug 2026 11:01:21 +0800",
-      "contentSnippet": "中新网8月30日电(记者 刁炜)近期，中泰举行“鹰击-2026”空军联合训练。相比备受瞩目的中埃“文明之鹰-2026”空军联训，前者似乎低调许多，以至于搜索官方资讯，只能看到国防部例行记者会发布的寥寥数条消息。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中泰空军联训低调举行，官方信息有限，但训练内容精彩。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威媒体，内容具体，但信息有限，无多源交叉验证。"
-    },
-    {
-      "title": "辛贝特：内塔尼亚胡长子在美国曾遭“重大”安全威胁",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-30/10686686.shtml",
-      "pubDate": "Sun, 30 Aug 2026 10:46:04 +0800",
-      "contentSnippet": "中新网8月30日电 据《以色列时报》报道，以色列国家安全总局(辛贝特)29日证实，以总理内塔尼亚胡长子亚伊尔此前在美国时遭遇“重大”安全威胁，因此辛贝特决定紧急将他及其安保团队一同撤离回以色列。辛贝特并未具体说明威胁细节。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "辛贝特证实内塔尼亚胡长子在美国遭重大安全威胁，已紧急撤离回以色列。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网引述《以色列时报》，属知名媒体，信息具体但未披露威胁细节，可信度较高。"
-    },
-    {
-      "title": "澎湃早晚报｜早餐湃·长鑫起诉美国国防部",
-      "link": "https://m.thepaper.cn/papernews/morningEveningPaper?n=268154",
-      "pubDate": "Sun, 30 Aug 2026 00:53:53 GMT",
-      "contentSnippet": "澎湃早晚报｜早餐湃·长鑫起诉美国国防部",
+      "title": "《特殊教育发展提升“十五五”行动计划》提出哪些具体举措？教育部解读",
+      "link": "https://m.thepaper.cn/detail/33977422",
+      "pubDate": "Mon, 31 Aug 2026 03:38:52 GMT",
+      "contentSnippet": "近日，经国务院同意，教育部等七部门联合印发了《特殊教育发展提升“十五五”行动计划》（以下简称《行动计划》）。教育部基础教育司负责人就相关问题回答了记者提问。\n1.问：请介绍《行动计划》出台的背景。\n答：特殊教育是教育事业的重要组成部分，是促进教育公平、彰显民生温度的关键领域。党中央、国务院高度重视特殊教育工作。党的二十大提出“强化特殊教育普惠发展”，党的二十届三中全会要求“健全特殊教育保障机制”，党的二十届四中全会强调办好特殊教育。\n党的十八大以来，国家组织实施了三期特殊教育提升计划，推动特殊教育高质量发展。2025年，全国共有特殊教育学校2464所、在校生92.7万人、专任教师8.51万人，",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -137,15 +69,100 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "长鑫存储起诉美国国防部，澎湃新闻晨报报道此事。",
-      "credibilityScore": 75,
-      "credibilityLevel": "medium",
-      "credibilityReason": "澎湃新闻为知名媒体，报道具体事件，但缺乏细节和直接引述，可信度中等偏上。"
+      "aiSummary": "教育部等七部门印发特殊教育发展提升“十五五”行动计划，教育部解读具体举措。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源澎湃新闻较权威，内容具体含数据，官方解读，事实可查证。"
     },
     {
-      "title": "王毅同尼泊尔外长希西尔通电话",
-      "link": "http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E7%8E%8B%E6%AF%85%E5%90%8C%E5%B0%BC%E6%B3%8A%E5%B0%94%E5%A4%96%E9%95%BF%E5%B8%8C%E8%A5%BF%E5%B0%94%E9%80%9A%E7%94%B5%E8%AF%9D",
-      "pubDate": "Sat, 29 Aug 2026 22:51:00 +0800",
+      "title": "新闻蒸馏器｜冰岛公投否决重启入盟谈判，民众为何选择对欧盟说“不”？",
+      "link": "https://m.thepaper.cn/detail/33977076",
+      "pubDate": "Mon, 31 Aug 2026 03:26:38 GMT",
+      "contentSnippet": "一句话读懂\n8月30日，冰岛公布最新公投结果，选民投票否决了政府重启与欧盟入盟谈判的议案。该国总理弗罗斯塔多蒂尔随后确认，在本届政府任内将不再推行任何入盟谈判。\n\n冰岛雷克雅未克。视觉中国 资料图\n\n\n为什么重要\n反对方以约52.8%的微弱优势胜出，显示冰岛社会在欧洲一体化问题上高度分裂。尽管国际局势动荡、加强与欧洲合作具吸引力，但主权、渔业和农业等国内政治议题最终压过了地缘政治考量。\n冰岛现任中左翼执政联盟原计划将本次“是否重启谈判”的先期公投作为本届任期及国家战略的核心，投入了相当大的政治资本，这一结果将使其势力被大幅削弱，并意味着可能在冰岛整整一代人的时间里，欧盟议题都被排除在外。同时，",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "冰岛公投否决重启入盟谈判，总理确认任内不再推进，社会高度分裂。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源澎湃新闻较权威，信息具体含时间、数据、人物，用词客观，可查证。"
+    },
+    {
+      "title": "（经济观察）业界看好粤港澳游艇自由行政策红利激活海上文旅经济",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-31/10687109.shtml",
+      "pubDate": "Mon, 31 Aug 2026 11:23:29 +0800",
+      "contentSnippet": "中新社珠海8月31日电 (记者 郭军)粤港澳游艇自由行政策今年6月正式落地以来，政策红利不断释放，为大湾区文旅融合、跨境消费升级带来利好。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "业界看好粤港澳游艇自由行政策红利，激活大湾区海上文旅经济。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网，权威性较高；报道具体，含时间、地点、人物；内容客观，可查证。"
+    },
+    {
+      "title": "华夏银行发布2026半年报，营收破500亿实现高质量增长",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-31/10687101.shtml",
+      "pubDate": "Mon, 31 Aug 2026 11:18:09 +0800",
+      "contentSnippet": "28日，华夏银行正式发布2026年半年度报告。2026年上半年，华夏银行深刻把握金融工作的政治性、人民性，紧扣高质量发展主题，以“十大行动”为牵引，坚持经营回归本源、管理回归本质、定位回归本色，以更高站位、更实举措、更优服务，深耕国家战略、服务实体经济、提升管理效能、筑牢风控防线，在2025年优异业绩的基础上，乘势而上、接续奋斗，生动描绘了“讲政治、创价值、担责任”的崭新形象。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "华夏银行发布2026半年报，营收破500亿，实现高质量增长。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为官方媒体，内容具体但缺乏数据细节和独立引述，评分中等偏上。"
+    },
+    {
+      "title": "从“接诉即办”到“未诉先办”——一场12345热线改革背后的民生答卷",
+      "link": "https://www.chinanews.com.cn/sh/2026/08-31/10687105.shtml",
+      "pubDate": "Mon, 31 Aug 2026 11:17:59 +0800",
+      "contentSnippet": "8月26日，12345政务服务便民热线改革试点座谈会暨“热线里的民生温度”全国优秀作品分享活动在陕西宝鸡举行。来自陕甘川宁毗邻地区城市代表、陕西省内各地主管部门负责人、征文获奖作者以及宝鸡各县区、市级部门相关人员齐聚一堂，以座谈研讨、作品分享、成果发布等形式，共同探寻政务热线高质量发展的实践路径。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "12345热线改革试点座谈会在宝鸡举行，探讨政务热线高质量发展路径。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为官方媒体，内容具体，有明确时间地点和活动细节，但缺乏直接引述和多方交叉验证。"
+    },
+    {
+      "title": "时政新闻眼丨习近平开启亚非之行，这些细节值得关注",
+      "link": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=3350913504758582415&toc_style_id=feeds_default&track_id=8CCA2307-4DE2-4E19-BA3A-E7CE04DA6175_809798354045&share_to=copy_url",
+      "pubDate": "Mon, 31 Aug 2026 02:22:02 GMT",
+      "contentSnippet": "时政新闻眼丨习近平开启亚非之行，这些细节值得关注",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "习近平开启亚非之行，澎湃新闻梳理行程细节。",
+      "credibilityScore": 75,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名媒体，内容具体，但缺乏直接引述和多源验证。"
+    },
+    {
+      "title": "启播！《平“语”近人——习近平喜欢的典故》（多语种版）在上海合作组织国家主流媒体播出",
+      "link": "http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E5%90%AF%E6%92%AD%EF%BC%81%E3%80%8A%E5%B9%B3%E2%80%9C%E8%AF%AD%E2%80%9D%E8%BF%91%E4%BA%BA%E2%80%94%E2%80%94%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%96%9C%E6%AC%A2%E7%9A%84%E5%85%B8%E6%95%85%E3%80%8B%EF%BC%88%E5%A4%9A%E8%AF%AD%E7%A7%8D%E7%89%88%EF%BC%89%E5%9C%A8%E4%B8%8A%E6%B5%B7%E5%90%88%E4%BD%9C%E7%BB%84%E7%BB%87%E5%9B%BD%E5%AE%B6%E4%B8%BB%E6%B5%81%E5%AA%92%E4%BD%93%E6%92%AD%E5%87%BA",
+      "pubDate": "Sun, 30 Aug 2026 19:16:00 +0800",
       "contentSnippet": "",
       "sourceName": "央视新闻",
       "sourceWeight": 80,
@@ -154,16 +171,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "王毅与尼泊尔外长通话，讨论双边关系及合作。",
+      "aiSummary": "习近平典故多语种版在上合组织国家媒体启播，央视报道。",
       "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为央视新闻，权威性高，内容具体，涉及外交事件，可查证。"
+      "credibilityReason": "来源为央视新闻，权威性高，内容具体，涉及官方活动，事实可查证。"
     },
     {
-      "title": "中国隧道救援专家抵达尼泊尔协助开展搜救工作",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-30/10686728.shtml",
-      "pubDate": "Sun, 30 Aug 2026 12:30:41 +0800",
-      "contentSnippet": "据中国驻尼泊尔大使馆30日消息，中国隧道救援专家已抵达尼泊尔协助开展搜救工作。",
+      "title": "从“舞台动起来”到“干活用起来” 如何让机器人更有“力”",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-31/10687150.shtml",
+      "pubDate": "Mon, 31 Aug 2026 12:12:36 +0800",
+      "contentSnippet": "中新网北京8月31日电 题：从“舞台动起来”到“干活用起来” 如何让机器人更有“力”",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -171,51 +188,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国隧道救援专家抵达尼泊尔，协助开展搜救工作。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，权威性较高；信息具体，有明确时间、地点和消息来源，用词客观。"
-    },
-    {
-      "title": "学习手记 | 坚持睦邻友好 携手共享繁荣",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-30/10686727.shtml",
-      "pubDate": "Sun, 30 Aug 2026 12:23:16 +0800",
-      "contentSnippet": "",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国新闻网发文强调坚持睦邻友好，推动区域共同繁荣。",
+      "aiSummary": "中国新闻网报道机器人从展示到实用，探讨提升机器人实际作业能力。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为官方媒体，内容符合政策导向，但缺乏具体事实和引述，评分中等偏上。"
+      "credibilityReason": "来源为官方媒体，内容具体，但缺乏直接引述和数据，评分略低于一线通讯社。"
     },
     {
-      "title": "尼泊尔泥石流灾害已致734人死亡 2498人失联",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-30/10686726.shtml",
-      "pubDate": "Sun, 30 Aug 2026 12:22:08 +0800",
-      "contentSnippet": "中新网8月30日电 综合外媒报道，据尼泊尔国家减少灾害风险管理局公布的最新数据，截至当地时间30日9时，尼泊尔泥石流灾害造成的死亡人数升至734人，失联人数为2498人。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网",
-        "澎湃新闻"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "尼泊尔泥石流已致734人死亡，2498人失联，数据来自官方。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名媒体，引用官方数据，信息具体，但未多源交叉验证。（多源覆盖 +5）"
-    },
-    {
-      "title": "泉州一园区疑似发生溴泄漏，区应急局：此前已安排专家和执法人员前往现场处置",
-      "link": "https://m.thepaper.cn/detail/33974932",
-      "pubDate": "Sun, 30 Aug 2026 04:14:26 GMT",
-      "contentSnippet": "8月29日，多名网友反映泉州市泉港石化园区疑似发生溴泄漏，视频画面显示，现场被橙色的雾气笼罩。不少群众担心会对身体健康造成影响。\n8月30日，澎湃新闻致电泉港区应急管理局，一名接电工作人员称，此前已经安排了专家和执法人员前往现场处置，建议居民不要靠近中心位置。\n另据潇湘晨报29日报道，当地应急局工作人员表示，相关部门已到场处置，本次属于小范围泄漏，目前险情已经得到控制，事发于园区内部，泄漏范围可控，一般不会对周边群众身体健康造成影响。\n中国化工博物馆曾发文科普：溴，化学符号为Br，是一种卤素。溴是唯一在室温下呈液态的非金属元素，它是黏稠、可流动、红棕色的液体，有毒且有刺激性，在标准温度和压力下",
+      "title": "特朗普发AI视频称伊朗石油枢纽哈尔克岛 “被炸得粉碎”",
+      "link": "https://m.thepaper.cn/detail/33977469",
+      "pubDate": "Mon, 31 Aug 2026 04:03:17 GMT",
+      "contentSnippet": "当地时间8月30日，美国总统特朗普在社交媒体平台发布AI 视频，并称“伊朗哈尔克岛正在被炸得粉碎”。哈尔克岛是伊朗重要的石油出口枢纽。",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -223,16 +205,50 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "泉州泉港石化园区疑似溴泄漏，应急局称已处置，险情控制，建议居民远离。",
-      "credibilityScore": 78,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源澎湃新闻较权威，有官方回应及交叉引用，信息具体，但未多源独立核实。"
+      "aiSummary": "特朗普发布AI视频称伊朗哈尔克岛被炸，该岛为伊朗重要石油出口枢纽。",
+      "credibilityScore": 65,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名媒体，但内容基于AI视频，缺乏实证，且涉及敏感军事声明，需谨慎对待。"
     },
     {
-      "title": "委内瑞拉代总统：与美国石油合作协议将持续25年",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-30/10686709.shtml",
-      "pubDate": "Sun, 30 Aug 2026 11:54:10 +0800",
-      "contentSnippet": "中新网8月30日电 据路透社报道，委内瑞拉代总统德尔西·罗德里格斯29日表示，与美国达成的石油合作协议将维持25年，目标是将原油产量提高至每日150万桶，同时维护委内瑞拉对其自然资源的自主权。",
+      "title": "优地机器人开启全球发售，预计9月9日港交所上市，目前仍处亏损状态",
+      "link": "https://m.thepaper.cn/detail/33977325",
+      "pubDate": "Mon, 31 Aug 2026 03:52:15 GMT",
+      "contentSnippet": "8月31日，优地机器人（03231.HK）公告称，公司今日起正式开启全球发售，预计9月9日在港交所挂牌上市。\n本次发售价区间在每股14.45-19.55港元，全球发售4500万股H股，股份市值预计在60.16亿港元至81.4亿港元。\n资料显示，公司是一家以技术驱动的公司，根据上市规则第十八C章，在两个主要行业领域将公司的技术实现商业化：机器人及自动化领域，通过公司的商用服务机器人产品、机器人模组，以及相关服务（包括机器人即服务(RaaS)及租赁安排）；及新一代信息技术领域，通过公司的行业应用AI视觉模型解决方案。上述两条业务线均依托由公司自主开发的共用综合技术框架作为支撑，分别通过不同的产品、",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "优地机器人启动全球发售，预计9月9日港交所上市，目前仍亏损。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源澎湃新闻较权威，信息具体含日期、价格、股数，但未多源交叉验证。"
+    },
+    {
+      "title": "为母抗下500万的女儿，想哭就哭一会儿直到你的心不再刺痛",
+      "link": "https://m.thepaper.cn/detail/33960155",
+      "pubDate": "Mon, 31 Aug 2026 03:51:56 GMT",
+      "contentSnippet": "上海有个32岁的女儿，不结婚，不买房，想当纪录片导演，想活得自由一点。结果，妈妈投资欠了500万元还生了病。她做不到不管，只能卖房还债，跟妈妈一起住。\n原来设想的生活，现在过不了了。\n心理学有一个词，叫“哀悼”。不是哀悼去世的人，而是哀悼一种失去——你心里那个“我应该过什么样的生活”在消失。\n你曾经以为你会过上的那种日子，在离你而去。\n你以为一辈子都会幸福下去，结果老公出轨了……\n你以为就这样到退休，结果单位裁员了……\n你以为孩子会上大学，结果初中就辍学了……\n我们会着急解决问题，一边生气难受一边想办法，好像生活还在向前。但是有时候，真的太痛了，往前走不动，就是不能接受他原来不爱我，就是不能接",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "上海32岁女儿为母还债卖房，心理专家建议哀悼失去的理想生活。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源澎湃新闻较权威，内容具体有细节，但缺乏直接引述和多方验证。"
+    },
+    {
+      "title": "7月份全国贸促系统优惠原产地证书签证金额同比增长24.77%",
+      "link": "https://www.chinanews.com.cn/cj/2026/08-31/10687147.shtml",
+      "pubDate": "Mon, 31 Aug 2026 11:51:33 +0800",
+      "contentSnippet": "今天上午，中国贸促会举办新闻发布会。发布会上，中国贸促会公布了7月份全国贸促系统签发的原产地证书和商事证明书等数据情况。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -240,27 +256,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "委内瑞拉代总统称与美国石油合作协议将持续25年，目标日产量150万桶。",
+      "aiSummary": "中国贸促会公布7月优惠原产地证书签证金额同比增长24.77%。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网转载路透社，权威性高；信息具体含时间、人物、数据，用词客观。"
-    },
-    {
-      "title": "海南产经新观察：当北国冰雪遇上椰风海韵",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-30/10686699.shtml",
-      "pubDate": "Sun, 30 Aug 2026 11:52:10 +0800",
-      "contentSnippet": "中新网海口8月30日电 (张茜翼 王俞力)当北国春城的冰雪童话遇上南海之滨的椰风海韵，一场跨越三千公里的“冷暖对话”正在中国文旅版图上悄然升温。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "海南与北国文旅合作升温，跨地域“冷暖对话”促进旅游发展。",
-      "credibilityScore": 75,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源中国新闻网较权威，内容具体，但缺少直接引述和数据支撑，评分中等偏上。"
+      "credibilityReason": "来源为中国新闻网，属权威媒体，内容具体有数据，引述官方发布会，可信度高。"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-30T04:36:10.693Z",
+  "generatedAt": "2026-08-31T04:40:36.907Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "苹果 M5 Max MacBook Pro 供电边界：极限负载下每小时掉电 12%",
-      "link": "https://www.ithome.com/0/996/111.htm",
-      "pubDate": "Sun, 30 Aug 2026 04:21:59 GMT",
-      "contentSnippet": "IT之家 8 月 30 日消息，科技媒体 NotebookCheck 昨日（8 月 29 日）发布博文，测试苹果 2026 款 M5 Max 芯片 16 英寸 MacBook Pro，发现随附的 140W 电源适配器可能无法覆盖整机峰值需求。\n该媒体在测试中指出，在 Cinebench R23 多核测试与 3DMark Wild Life Extreme GPU 压力测试并行的混合负载中，M5 Max 的 CPU、GPU 封装功耗平均为 70.6W，区间为 68.0W 至 114.4W。\n其中 GPU 平均功耗为 37.2W（31.552W~49.977W），峰值接近 50W；而 CPU 平均",
+      "title": "小鹏汽车副总裁：MONA L03 每天订单量远远大于交付量，近几天产能提升明显",
+      "link": "https://www.ithome.com/0/996/394.htm",
+      "pubDate": "Mon, 31 Aug 2026 03:37:17 GMT",
+      "contentSnippet": "IT之家 8 月 31 日消息，8 月 30 日，据小鹏汽车副总裁 @托马斯电火车 透露，小鹏 MONA L03 目前每天的订单量依旧远远大于交付量，但最近几天产能已有明显提升。\n\n8 月初，小鹏 MONA 研发负责人姜文公布了 MONA L03 生产的最新进展：\n\n7 月处于小范围爬坡阶段\n\n近期受全球 AI 需求火热影响，高端制程芯片供货出现波动，对 8 月份的生产带来一定冲击，供应链问题已经逐步克服，目前已经切换为双班全力生产，8 月产能效率几乎翻倍。\n\n预计 9、10 月全力拉到最大产能。\n\n姜文表示，L03 作为 MONA 系列首款全球车型，同时供应国内和海外市场，为满足不同用户的需",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,16 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "IT之家报道M5 Max MacBook Pro极限负载下每小时掉电12%，电源适配器或不足。",
+      "aiSummary": "小鹏MONA L03订单超交付，产能提升，供应链问题已克服。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用NotebookCheck实测数据，具体功耗数值，逻辑清晰，但缺乏官方确认。"
+      "credibilityReason": "来源IT之家较权威，引用高管言论，细节具体，但缺乏独立数据验证。"
     },
     {
-      "title": "华为李小龙“认领”古早三折叠手机设计草稿：花了 11 年把梦想照进现实",
-      "link": "https://www.ithome.com/0/996/109.htm",
-      "pubDate": "Sun, 30 Aug 2026 04:14:41 GMT",
-      "contentSnippet": "IT之家 8 月 30 日消息，博主 @Welber 昨日分享了华为 Mate XT 2 三折叠手机 11 年前的早期手稿。\n\nIT之家注意到，华为终端 BG CTO 李小龙刚刚“认领”了这张古早三折叠手机设计草稿，称：“花了 11 年把梦想照进现实。”\n\n博主分享的图片显示，这张手稿由华为终端 BG CTO 李小龙于 2015 年 7 月 25 日绘制，展示了华为三折叠的两种方案：一种是此前 Mate XT 和 Mate XTs 采用的“Z”型方案；一种是已曝光的 Mate XT 2 的展翼内折方案。\n华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东表示：\n\n全新的展翼三折叠形",
+      "title": "中美科学家联手破解重大地质谜题，揭开地幔过渡带板块滞留成因机制",
+      "link": "https://www.ithome.com/0/996/382.htm",
+      "pubDate": "Mon, 31 Aug 2026 03:15:36 GMT",
+      "contentSnippet": "IT之家 8 月 31 日消息，据中国地质科学院今日消息，俯冲的洋壳板块为何会滞留在地幔过渡带是一个困扰地学界长达数十年之久的重大地质谜题。\n为了攻克这一难题，中国地质科学院史大年研究员联合国际著名的地震学家 Shen Yang 教授以及国内其他单位的地震和岩石物理学方面的研究专家，依托高精度地震成像技术，刻画了华北地幔过渡带俯冲板块滞留区的地幔精细结构特征，结合前沿岩石物理数值模拟方法，系统地厘清了俯冲板块长期滞留在华北地幔过渡带内的主要动力学机制。\n\n1.在俯冲滞留区中心（约 400 公里范围），下方 700 公里处存在另外一个地震间断面，与无水的玄武质混杂岩中的秋本石-布里奇曼石相变特征",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -33,16 +33,67 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "华为李小龙认领11年前三折叠手稿，梦想成真。",
+      "aiSummary": "中美科学家揭示地幔过渡带板块滞留成因，突破地质谜题。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，内容具体，有科研机构信息，但缺乏原始论文引用，评分中等偏上。"
+    },
+    {
+      "title": "打通实体经济与资本市场的 “语言墙”：济安金信行业分类标准构建A股全新产业坐标",
+      "link": "https://www.tmtpost.com/8122388.html",
+      "pubDate": "Mon, 31 Aug 2026 09:25:41 +0800",
+      "contentSnippet": "长远看，随着资本市场高质量发展，市场对统一、严谨、贴合本土产业现实的行业底座需求持续提升，这套融合宏观统计与投研实践的分类体系，有望为 A 股市场提供一套全新的产业参照标尺，帮助投资者穿透概念迷雾，看见上市公司真实的产业底色。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "济安金信发布新行业分类标准，旨在统一A股产业坐标，提升投资透明度。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源钛媒体较权威，内容具体且逻辑清晰，但缺少数据支撑和原始出处。"
+    },
+    {
+      "title": "漫步者推出 W800NB 头戴式耳机：-50dB 降噪、118 小时续航，289 元",
+      "link": "https://www.ithome.com/0/996/416.htm",
+      "pubDate": "Mon, 31 Aug 2026 04:37:15 GMT",
+      "contentSnippet": "IT之家 8 月 31 日消息，漫步者推出 W800NB 头戴式耳机现已在京东等平台上架预约，今晚 8 点开售，活动到手价为 289 元。\nIT之家从商品页面获悉，这款新品为头戴式主动降噪蓝牙耳机，支持 -50dB 深度降噪，通过 Hi-Res 金标认证，支持空间音效，同时拥有最长 118 小时的长续航表现。\n\n这款耳机提供云雾白、雪松蓝、月影灰、藕荷粉等多种配色可选，整体设计轻盈，定位手机、电脑多场景使用，可满足游戏、音乐等不同需求。\n\n京东漫步者 2026 新款 W800NB 头戴式主动降噪蓝牙耳机 289 元直达链接",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "漫步者发布W800NB头戴耳机，-50dB降噪，118小时续航，售价289元。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家知名科技媒体，信息具体含参数价格，但缺少原始评测或官方确认。"
+    },
+    {
+      "title": "古尔曼：库克远未到说再见的时候，卸任苹果 CEO 后还将深度参与事务",
+      "link": "https://www.ithome.com/0/996/415.htm",
+      "pubDate": "Mon, 31 Aug 2026 04:32:21 GMT",
+      "contentSnippet": "IT之家 8 月 31 日消息，彭博社记者马克 · 古尔曼今日发文，反驳了“蒂姆 · 库克即将退休”的网络观点，表示：\n\n库克在将 CEO 职位交给特努斯后，将继续深度参与苹果事务，他渴望承担更多责任，并继续与唐纳德 · 特朗普和中国保持关系。他远未到说再见的时候。\n\n\n现任苹果硬件工程高级副总裁约翰 · 特努斯将于当地时间 9 月 1 日正式接任苹果 CEO，古尔曼表示人工智能将成为特努斯任期内的首要任务。\n苹果公司于 8 月 23 日在 Apple Park 园区内，为库克举办卸任聚会，约 200 人出席，OneRepublic 乐队现场表演。根据规划，库克后续将转任董事会执行主席，并继续",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "古尔曼称库克卸任CEO后仍深度参与苹果事务，特努斯接任聚焦AI。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家知名科技媒体，内容具体，有原始手稿和官方高管回应，逻辑清晰。"
+      "credibilityReason": "来源IT之家，引用彭博社记者古尔曼，信息具体，逻辑清晰，但无原始链接。"
     },
     {
-      "title": "启境轩伟谈 L3 级自动驾驶架构：车主导、人放松，正常行驶不需要时刻紧绷接管",
-      "link": "https://www.ithome.com/0/996/108.htm",
-      "pubDate": "Sun, 30 Aug 2026 04:07:50 GMT",
-      "contentSnippet": "IT之家 8 月 30 日消息，启境汽车产品总经理轩伟今日发文，谈及了汽车智能辅助驾驶的底层架构相关话题，并介绍了 L3 级自动驾驶架构。\n\n在这里我先要为大家讲一下 L2 和 L3 的本质区别，其实核心就在于谁主导、谁负责。传统 L2 级辅助驾驶，始终是人为主导，开车全程需要我们紧盯路况、随时待命，车辆遇到特殊情况会立刻退出，把操控交还给人。但 L3 级自动驾驶架构完全不一样，是车主导、人放松，正常行驶不需要时刻紧绷接管。\n所以 L3 级自动驾驶架构对安全的要求完全不在一个层级 —— 车辆绝对不能在部件异常时直接掉线、突然退出智能辅助驾驶。而这也正是我们为什么要大费周章，给 GT7 做这套",
+      "title": "腾讯混元：Hy4 preview 调用激增，WorkBuddy 已紧急扩容",
+      "link": "https://www.ithome.com/0/996/414.htm",
+      "pubDate": "Mon, 31 Aug 2026 04:22:39 GMT",
+      "contentSnippet": "IT之家 8 月 31 日消息，腾讯混元今日发文称，自 2026 年 8 月 28 日混元 Hy4 preview 在 WorkBuddy 首发接入以来，凭借其 Agent 能力的显著提升，受到了广大用户与开发者的积极体验和热情反馈，上线首日即在 WorkBuddy 任务队列中出现排队情况，对此深表歉意。\n\n公告显示，为保障用户的使用体验，腾讯混元已针对 Hy4 preview 推理集群进行紧急扩容，并将持续动态调配资源。但受限于高端算力总量与高峰并发集中，仍不排除个别时段会继续出现排队情况。\n如遇到排队，建议用户可以考虑如下过渡方案：\n\n切换到 Hy3 等其他模型继续使用：Hy3 当前 Wo",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -50,33 +101,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "启境汽车总经理介绍L3自动驾驶架构，强调车主导、人放松的安全设计。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容具体但缺乏技术细节和原始数据，评分中等偏上。"
-    },
-    {
-      "title": "约 94% 准确率：手机配件 SweepLED 问世，成本不到 7 美元、5 秒内找出针孔摄像头",
-      "link": "https://www.ithome.com/0/996/107.htm",
-      "pubDate": "Sun, 30 Aug 2026 03:56:49 GMT",
-      "contentSnippet": "IT之家 8 月 30 日消息，韩媒 ETNews 今天（8 月 30 日）发布博文，报道称韩国科学技术院（KAIST）联合发布 SweepLED 技术，成本不到 7 美元（IT之家注：现汇率约合 47.2 元人民币），能在 5 秒内精准找到针孔摄像头，准确率达到 94%。\n\n该研究由韩国科学技术院（KAIST）计算机学院韩俊（Jun Han）教授团队主导，联合新加坡国立大学（NUS）、新加坡管理大学（SMU）发布，打造了一款适用于主流智能手机的配件，可以将智能手机转变为高精度隐蔽摄像头探测器。\n\n技术原理方面，SweepLED 通过固定智能手机摄像头，仅改变 LED 照明方向，分析物体表面反",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "韩团队研发低成本手机配件，5秒内94%准确率探测针孔摄像头。",
+      "aiSummary": "腾讯混元Hy4 preview在WorkBuddy上线首日排队，已紧急扩容。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用韩媒ETNews及KAIST等学术机构，技术细节具体，逻辑清晰。"
+      "credibilityReason": "IT之家为知名科技媒体，内容具体，引用官方公告，逻辑清晰。"
     },
     {
-      "title": "全球限 660 支：曝徕卡下周推 Summicron-M 66mm f/2 镜头",
-      "link": "https://www.ithome.com/0/996/106.htm",
-      "pubDate": "Sun, 30 Aug 2026 03:41:24 GMT",
-      "contentSnippet": "IT之家 8 月 30 日消息，科技媒体 leicarumors 于 8 月 28 日发布博文，报道称徕卡（Leica）有望于 9 月 3 日（下周四）发布限量版 Summicron-M 66mm f/2 镜头与金属灰色 SL3 Reporter 相机两款产品。\nSummicron-M 66mm f/2 方面，该镜头基于 Elcan 66mm f/2 镜头打造，全球限量 660 支，预计售价约 9,000 美元（IT之家注：现汇率约合 60,713 元人民币） / 欧元。IT之家附上相关图片如下：\n\n\n该原型为 Dr. Walter Mandler 在 Ernst Leitz Wetzlar",
+      "title": "SK 海力士回应“考虑委托英特尔制造 HBM 内存基础裸片”报道：部分内容不实",
+      "link": "https://www.ithome.com/0/996/413.htm",
+      "pubDate": "Mon, 31 Aug 2026 04:15:16 GMT",
+      "contentSnippet": "IT之家 8 月 31 日消息，《韩国先驱报》当地时间今日报道称，SK 海力士正考虑实现先进 HBM 基础裸片 (Base Die) 的供应商多元化。\n报道宣称英特尔代工 (Intel Foundry) 最早有望在 HBM4E 世代加入，结束台积电 (TSMC) 独占这部分订单的局面。\n\n从 HBM1 到 HBM3E，与 DRAM Die 同款的存储半导体工艺即可满足 Base Die 逻辑电路的需求。而随着复杂度和 PPA 要求的提升，SK 海力士从 HBM4 开始将 Base Die 切换为逻辑半导体工艺，据悉其在 HBM4 上使用了台积电的 12nm 制程。\n报道援引的消息人士表示，台积",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -84,16 +118,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "徕卡将推限量版Summicron-M 66mm f/2镜头，全球660支，约9000美元。",
+      "aiSummary": "SK海力士回应委托英特尔制造HBM基础裸片报道，称部分内容不实。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家，引用leicarumors，信息具体含价格、数量，但未证实，评分中等偏上。"
+      "credibilityReason": "IT之家为知名科技媒体，报道具体，引用韩媒消息，但未获官方确认，部分内容不实。"
     },
     {
-      "title": "苹果葛越：对贵安数据中心追加投入达数十亿美元，已实现 100% 由可再生能源驱动",
-      "link": "https://www.ithome.com/0/996/105.htm",
-      "pubDate": "Sun, 30 Aug 2026 03:41:09 GMT",
-      "contentSnippet": "8 月 30 日上午消息，在近日的 2026 中国国际大数据产业博览会上，苹果公司副总裁、大中华区董事总经理葛越发表演讲。\n她表示，苹果公司在中国开展业务已超过 30 年。App Store 生态系统在中国促成的开发者营业额和销售额在过去 6 年中翻了超过一番。在贵州的投资方面，苹果早在 2018 年便对 iCloud 贵安数据中心进行了首期 10 亿美元的投资，此后持续追加投入达数十亿美元规模。\n葛越介绍，贵安数据中心在绿色发展方面也走在前列。自 2021 年投入运营以来，贵安数据中心已实现 100% 由可再生能源驱动。",
+      "title": "小米穿戴 8 月更新内容公布，小米手环 9 等迎多项优化",
+      "link": "https://www.ithome.com/0/996/412.htm",
+      "pubDate": "Mon, 31 Aug 2026 04:14:43 GMT",
+      "contentSnippet": "IT之家 8 月 31 日消息，今日，小米集团手机部副总裁、可穿戴部总经理张雷分享了小米穿戴 8 月的更新内容。\n据其介绍，本月多款设备都推送了 OTA 更新，小米手环 9、小米手环 10、REDMI Watch 5、REDMI Watch6 等设备都有不同程度的体验优化。\n另外 Xiaomi Watch 5、Watch 5 eSIM、Watch S5 46mm、Watch S5 eSIM 46mm 的用户，登录网易云音乐手表版 App，可以免费领取一个月的会员权益。\n张雷表示，大家的反馈我们都看到了，有用的建议都会认真评估、持续推进。谢谢一直关注和支持，有新消息再来和大家同步。\nIT之家附官",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -101,16 +135,50 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "苹果追加贵安数据中心投资数十亿美元，实现100%可再生能源驱动。",
+      "aiSummary": "小米穿戴8月更新，多款手环手表获优化，网易云音乐会员免费领。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，内容具体，引用官方高管信息，但缺乏技术细节和原始链接。"
+    },
+    {
+      "title": "全球规模最大，中国地震预警网发展历程和建设成果公布",
+      "link": "https://www.ithome.com/0/996/399.htm",
+      "pubDate": "Mon, 31 Aug 2026 03:53:53 GMT",
+      "contentSnippet": "IT之家 8 月 31 日消息，中国地震台网今日公布中国地震预警网的发展历程和建设成果。据悉，中国地震预警技术经过 10 多年的探索攻关，近 10 年的技术验证和试点测试，于 2018 年正式建设国家地震烈度速报与预警工程（下称国家地震预警工程），历经 5 年攻坚克难，建成了全球规模最大的地震预警网，实现了分钟级地震速报向秒级地震预警的跨越式发展，总体功能与性能达到世界先进水平，于 2024 年 7 月 25 日通过验收，正式向全社会提供地震预警和烈度速报信息服务。\n\n文章称，2001 年，中国地震局工程力学研究所等科研院所在国家自然科学基金、地震学联合基金、地震行业专项等课题支持下，率先在国",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国建成全球最大地震预警网，实现秒级预警，2024年通过验收。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家可信，内容具体有数据支撑，引用官方信息，逻辑清晰。"
+    },
+    {
+      "title": "Pulsar 预告 X2F Crazylight 鼠标：仅重 29g，9 月 28 日发布",
+      "link": "https://www.ithome.com/0/996/397.htm",
+      "pubDate": "Mon, 31 Aug 2026 03:52:42 GMT",
+      "contentSnippet": "IT之家 8 月 31 日消息，韩国外设品牌 Pulsar（派世）北京时间上周五宣布，计划于 9 月 28 日发布 X2F Crazylight 鼠标。这一型号采用极致轻量化设计，仅重 29g。\n\n可以看到 X2F Crazylight 仅保留了一只现代电竞鼠标的基础结构，不存在手托部分（IT之家注：因此很可能仅面向指握玩家）。\n其基于 Nordic nRF54L15 MCU 主控，配备分辨率可达 42000 dpi / cpi 的 XS-2 传感器，配套光学微动与 TTC“金轮”滚轮编码器，内置 210mAh 电池。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "Pulsar预告29g超轻鼠标X2F Crazylight，9月28日发布，配置高端。",
       "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容具体有数据，但缺少原始演讲全文或官方公告佐证。"
+      "credibilityReason": "IT之家为知名科技媒体，报道具体参数和发布日期，信息详实，逻辑清晰。"
     },
     {
-      "title": "吉利星越 L PLUS 预告视频发布，定位中大型旗舰智混 SUV",
-      "link": "https://www.ithome.com/0/996/103.htm",
-      "pubDate": "Sun, 30 Aug 2026 03:37:33 GMT",
-      "contentSnippet": "IT之家 8 月 30 日消息，8 月 28 日，吉利汽车官方发布星越 L PLUS 预告视频。新车官方定位为中大型旗舰智混 SUV，将搭载激光雷达硬件，并官宣新车“即将登场”。\n\n\n\n\n从预告视频能够看到，星越 L PLUS 大体承袭现款星越 L 家族化设计语言。前脸直瀑式进气格栅气势十足，格栅与前保险杠区域配备大面积镀铬装饰件，进一步烘托整车氛围。结合此前工信部申报资料，新车将配备激光雷达硬件。\n车身侧面装配原厂行李架，采用传统样式车门把手。侧窗边框、外后视镜底座以及侧裙位置均使用镀铬饰条点缀，丰富车身层次，强化豪华质感。车尾配备贯穿式尾灯，尾部轮廓相比现款车型更加圆润，同时运用尺寸更大的",
+      "title": "LG 电子推出偶像女团 AI-DOL，实为推销自家洗烘一体机",
+      "link": "https://www.ithome.com/0/996/395.htm",
+      "pubDate": "Mon, 31 Aug 2026 03:40:37 GMT",
+      "contentSnippet": "IT之家 8 月 31 日消息，LG 电子 (LG Electronics) 本月末正式推出了其五人女子偶像团体 AI-DOL。这并非该电子电器制造商试图跨界进军娱乐行业的举措，而是其推销自家洗烘一体机的另类创意。\n\n该团体以“新千禧年”为概念，旨在向年轻消费者生动展现新款一体式洗衣烘干机的魅力。其成员形象也展现了设备一体式大容量、AI 时间感知、AI 洗涤烘干、极简扁平设计、迷你洗涤这些关键特性。AI-DOL 计划通过数字渠道活动至今年九月底。\n\nLG 电子表示：“AI-DOL 的风格融合了复古与未来主义，代表了 LG 电子核心技术和人工智能技术的尖端水平，其音乐也采用了时尚动感的旋律，以唤",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -118,16 +186,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "吉利发布星越L PLUS预告，定位中大型旗舰智混SUV，将搭载激光雷达。",
+      "aiSummary": "LG推AI-DOL女团，实为宣传洗烘一体机，营销创意引关注。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容具体，引用工信部申报信息，但细节有限，评分75。"
+      "credibilityReason": "来源IT之家较可信，内容具体，但缺乏官方链接和细节，评分中等偏上。"
     },
     {
-      "title": "中塞联合建设机器人工厂投产，成为欧洲首座人形机器人量产基地",
-      "link": "https://www.ithome.com/0/996/102.htm",
-      "pubDate": "Sun, 30 Aug 2026 03:28:49 GMT",
-      "contentSnippet": "IT之家 8 月 30 日消息，据央视新闻报道，当地时间 29 日，塞尔维亚首座机器人工厂在该国西部城市沙巴茨正式投产。这座由中塞联合建设的工厂，也是欧洲首座人形机器人量产基地。塞尔维亚总统武契奇当天在出席机器人工厂投产仪式时表示，这是塞尔维亚迈向未来的重要一步。\n\n工厂投产当天，生产的首台人形机器人正式下线。塞尔维亚总统武契奇与人形机器人进行互动。机器人还现场展示了中国书法、整理衣物、下棋、跳舞等多种功能。\n武契奇指出，人形机器人生产为塞尔维亚开辟了新的技术发展领域。塞方希望将机器人制造与人工智能、超级计算机和数据中心等产业相结合，带动当地人才培养和就业，使塞尔维亚在欧洲机器人产业发展中占据",
+      "title": "南航一架波音 777 客机被曝在上海误放应急滑梯，经济损失或超 10 万元",
+      "link": "https://www.ithome.com/0/996/393.htm",
+      "pubDate": "Mon, 31 Aug 2026 03:33:52 GMT",
+      "contentSnippet": "IT之家 8 月 31 日消息，据贝壳财经今日报道，据网友爆料，中国南方航空公司一架注册号为 B-20C5 的波音 777-300（ER）宽体客机在上海虹桥国际机场过站期间，其机尾最末端左侧最后方舱门的应急滑梯被放出。\n\n报道称，中国南方航空公司和上海虹桥机场相关人士表示，确有此事发生，但滑梯具体触发原因尚待进一步调查。\nIT之家查询发现，涉事飞机原计划执行 CZ6982 上海虹桥至乌鲁木齐航班，航司紧急更换了注册号为 B2099 的波音 777-31B（ER）客机执飞，该航班于 8 月 30 日 19 时 32 分起飞，延误达 72 分钟。\n\n而放出滑梯的 B-20C5 客机被临时调配，改为",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -135,67 +203,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中塞联合机器人工厂在塞尔维亚投产，系欧洲首座人形机器人量产基地。",
-      "credibilityScore": 75,
+      "aiSummary": "南航波音777在上海虹桥误放应急滑梯，损失或超10万元，原因待查。",
+      "credibilityScore": 78,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用央视新闻，内容具体，但缺乏技术细节和独立验证。"
+      "credibilityReason": "来源为IT之家，引用贝壳财经及官方回应，信息具体，但细节待调查。"
     },
     {
-      "title": "何刚谈华为 Mate XT 2 非凡大师全新展翼三折叠手机：极致美学、工艺与创新的集大成者",
-      "link": "https://www.ithome.com/0/996/101.htm",
-      "pubDate": "Sun, 30 Aug 2026 03:24:35 GMT",
-      "contentSnippet": "IT之家 8 月 30 日消息，华为今日官宣了 Mate XT 2 非凡大师全新三折叠手机。据介绍，新机采用全新展翼三折叠设计。\n\n华为终端 BG CEO 何刚随后发文谈及了 Mate XT 2 非凡大师全新展翼三折叠手机，并表示，该机是极致美学、极致工艺、极致创新的集大成者，拥有全新的外观设计和开合方式。\n\n可以看到，新机的后置摄像头部分采用与前代近似的八边形模组设计，新机的折叠方式由前代的“Z”型折叠改为“U”型折叠。除此之外，这款新机还配置一块外屏，可以在折叠后使用。\n相比“Z”型折叠，“U”型结构能够让柔性内屏在折叠状态下获得更完整的保护，在抗刮擦、抗磕碰等方面也更具优势。\n目前，华为",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "华为官宣Mate XT 2三折叠手机，何刚称其集美学工艺创新于一身，采用U型折叠。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家知名科技媒体，内容具体涉及设计细节，但缺乏官方数据及原始出处，评分中等偏上。"
-    },
-    {
-      "title": "SpaceX 猎鹰重型火箭完成垂直竖立，今晚发射罗曼望远镜",
-      "link": "https://www.ithome.com/0/996/100.htm",
-      "pubDate": "Sun, 30 Aug 2026 03:15:44 GMT",
-      "contentSnippet": "IT之家 8 月 30 日消息，全球首富埃隆 · 马斯克（Elon Musk）旗下航天公司 SpaceX 今天（8 月 30 日）在 X 平台发布推文，宣布其猎鹰重型（Falcon Heavy）火箭在美国佛罗里达州肯尼迪航天中心 39A 发射工位完成垂直竖立，进入发射前最后准备阶段。\n\n\n在发射场操作中，“垂直竖立”通常表示火箭已从水平运输 / 装配状态转运至发射台并完成起竖、对接、固定与相关管线连接，随后进入最后的系统检查、加注与倒计时流程。\n本次任务核心载荷为美国宇航局“南希 · 格蕾丝 · 罗曼太空望远镜”（Nancy Grace Roman Space Telescope），计划于美东",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "SpaceX猎鹰重型火箭完成竖立，准备发射罗曼望远镜。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容具体，引用官方推文，但缺少技术细节和独立验证。"
-    },
-    {
-      "title": "小米 18 Fold 首发长鑫 LPDDR6 内存，央视财经报道称“中国半导体两个好消息”",
-      "link": "https://www.ithome.com/0/996/099.htm",
-      "pubDate": "Sun, 30 Aug 2026 03:11:37 GMT",
-      "contentSnippet": "IT之家 8 月 30 日消息，小米昨日官宣，Xiaomi 18 Fold 全球首发长鑫 LPDDR6 内存，9 月见。\n\nIT之家注意到，央视新闻官方微博昨日发文报道“从“芯”到“存”，从单点技术突破到产业链协同发力！中国半导体两个好消息”：\n\n8 月 29 日，长鑫存储宣布新一代 LPDDR6 内存正式量产，并首发搭载于小米 18Fold 旗舰折叠屏手机。而就在本周，小米集团也宣布将在该机型上搭载其最新旗舰移动处理器玄戒 O3。\n小米将自主研发设计的移动处理器与国产新一代 LPDDR6 内存一同导入旗舰量产机型，敢于让国产核心器件在高标准的旗舰手机中接受市场检验。以量产产品完成严格验证，牵",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "小米18 Fold首发长鑫LPDDR6内存，央视报道中国半导体双突破。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容具体，引用央视报道，但未来日期和细节需核实。"
-    },
-    {
-      "title": "营收超381 亿，二线电池企业欣旺达半年报如何拆解？动储业务高增背后有三笔账需要细看",
-      "link": "https://www.tmtpost.com/8121945.html",
-      "pubDate": "Sun, 30 Aug 2026 11:09:26 +0800",
-      "contentSnippet": "欣旺达半年度营收增利降，细分赛道登顶存成长机遇与风险。",
+      "title": "上线一月，Seedance 2.5能否抗住“平替”围攻？",
+      "link": "https://www.tmtpost.com/8122436.html",
+      "pubDate": "Mon, 31 Aug 2026 11:24:25 +0800",
+      "contentSnippet": "平替扎堆来袭，Seedance 正在遭遇什么？",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -203,62 +220,44 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "欣旺达半年报营收增利降，动储业务高增背后需细看三笔账。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容具体有数据，分析逻辑清晰，但缺少原始财报引用。"
-    },
-    {
-      "title": "对话艾博生物CEO英博：mRNA的第二战场，拆解人类首个肿瘤疫苗三期突破",
-      "link": "https://www.tmtpost.com/8121867.html",
-      "pubDate": "Sun, 30 Aug 2026 11:09:02 +0800",
-      "contentSnippet": "为每位患者定制一支疫苗。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "艾博生物CEO谈mRNA肿瘤疫苗三期突破，个性化治疗成焦点。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "知名科技媒体，内容具体，涉及专业领域，但缺乏第三方数据验证。"
-    },
-    {
-      "title": "从谷物酸奶到“人类猫条”，年销10个亿的嚼绊：开创者还是擦边球？",
-      "link": "https://www.tmtpost.com/8121859.html",
-      "pubDate": "Sun, 30 Aug 2026 11:08:55 +0800",
-      "contentSnippet": "大单品红利消散后。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体剖析嚼绊年销10亿，从谷物酸奶到人类猫条，探讨其创新与争议。",
+      "aiSummary": "Seedance 2.5上线一月面临平替竞争，钛媒体分析其市场处境。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源知名科技媒体，内容具体有数据支撑，但标题略带争议性，整体客观。"
+      "credibilityReason": "钛媒体为知名科技媒体，内容具体分析竞争态势，但缺乏数据支撑和原始引用。"
     },
     {
-      "title": "9 月 14 日起，Pro / Max / Team 用户 Claude Code 标准周限额永久 +25%",
-      "link": "https://www.ithome.com/0/996/097.htm",
-      "pubDate": "Sun, 30 Aug 2026 03:02:50 GMT",
-      "contentSnippet": "IT之家 8 月 30 日消息，@ClaudeDevs 今天（8 月 30 日）在 X 平台发布推文，宣布自 2026 年 9 月 14 日起，针对 Pro、Max、Team 及按席位计费企业版用户，将 Claude Code 标准计划的“标准周限额”永久上调 25%。\nIT之家附上相关截图如下：\n\n官方表示当前正在执行的临时 50% 增幅将延续至 9 月 13 日，随后被新的永久基准取代。以“原始标准限额 = 100%”为参照：当前临时政策下用户可用额度为 150%；9 月 14 日起将调整为 125%。\n该媒体指出相对于“本周仍享受 50% 增幅”的状态，新限额意味着周可用容量下降约 17",
+      "title": "小米汽车推出车主带爸妈到店体验澎程活动，赠送一体式门环启瓶器",
+      "link": "https://www.ithome.com/0/996/391.htm",
+      "pubDate": "Mon, 31 Aug 2026 03:24:20 GMT",
+      "contentSnippet": "IT之家 8 月 31 日消息，小米汽车今日宣布，2026 年 8 月 31 日至 9 月 4 日，小米汽车车主（含锁单）带爸妈到店体验小米澎程，即可领取一体式门环启瓶器。全国限量 1 万个，先到先得，送完即止。\n官方海报显示，活动门店为全国在营小米汽车销售门店，每店礼品数量有所不同，单店活动周期内礼品具体数量在 3-50 个区间，具体数量以门店实际为准，建议进店前洽询门店。活动期间每个 mid 限参与一次。\n\nIT之家注意到，小米澎程 N90/N70 车型将于 9 月发布，现已开启预订。小米澎程 N90 Max 预售价为 29.99 万元，定位 2+2+3 大七座旗舰增程 SUV，搭载行业领",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
-        "IT之家",
-        "量子位"
+        "IT之家"
       ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "Claude Code标准周限额9月14日起永久上调25%，临时50%增幅延续至9月13日。",
-      "credibilityScore": 80,
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "小米汽车推出车主带爸妈到店体验澎程活动，赠送门环启瓶器。",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家和量子位，信息具体，有官方推文引用，但缺乏独立验证。（多源覆盖 +5）"
+      "credibilityReason": "IT之家为知名科技媒体，报道具体活动细节，但缺乏官方原始链接，评分中等偏上。"
+    },
+    {
+      "title": "一加 16 手机屏幕核心新特性曝光：BOE 独家定制的发光材料 X4、行业首个全局 165Hz 超高刷",
+      "link": "https://www.ithome.com/0/996/390.htm",
+      "pubDate": "Mon, 31 Aug 2026 03:22:53 GMT",
+      "contentSnippet": "IT之家 8 月 31 日消息，博主 @数码闲聊站 今日曝光了一加 16 手机的屏幕核心新特性：\n\n\nBOE 独家定制的发光材料 X4\n\n行业首个全局 165Hz 超高刷\n\n全新工艺的自研显示芯片\n\n行业唯一逐片三次校准\n\nOPPO 最新明眸护眼技术\n\n子系唯一极窄四等边\n\n\n博主表示，一加 16 还有一些游戏相关的独占新技术，同时东方屏 4.0 还兼具顶级显示和超高帧流畅体验。\n\n有网友询问一加 16 的拍照体验如何，博主表示：“加加 16 拍照也有升级，晚点讲。”还有网友询问新机的 165Hz 超高刷是否是为真全局，博主回复称：“真全局强制 165Hz 超高刷，不会出现游戏 165Hz，桌",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "一加16屏幕曝光：BOE定制材料、全局165Hz超高刷等特性。",
+      "credibilityScore": 70,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源IT之家较可信，但信息源自博主爆料，缺乏官方确认和细节数据。"
     }
   ]
 }
