@@ -1,50 +1,14 @@
 {
-  "generatedAt": "2026-08-31T04:39:20.965Z",
+  "generatedAt": "2026-09-01T04:20:35.236Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "国家主席习近平同吉尔吉斯斯坦总统扎帕罗夫举行会谈",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-31/10687157.shtml",
-      "pubDate": "Mon, 31 Aug 2026 12:17:41 +0800",
-      "contentSnippet": "新华社快讯：当地时间8月31日上午，国家主席习近平同吉尔吉斯斯坦总统扎帕罗夫举行会谈。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网",
-        "央视新闻"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "习近平主席与吉尔吉斯斯坦总统扎帕罗夫举行会谈。",
-      "credibilityScore": 100,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为新华社、央视等权威媒体，信息具体，官方发布，可信度极高。（多源覆盖 +5）"
-    },
-    {
-      "title": "时政快讯丨习近平抵达比什凯克和谐宫 出席欢迎仪式",
-      "link": "https://www.chinanews.com.cn/gn/2026/08-31/10687148.shtml",
-      "pubDate": "Mon, 31 Aug 2026 11:59:37 +0800",
-      "contentSnippet": "当地时间8月31日上午，国家主席习近平乘车抵达比什凯克和谐宫，出席吉尔吉斯斯坦总统扎帕罗夫举行的欢迎仪式。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网",
-        "澎湃新闻"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "习近平抵达比什凯克出席吉尔吉斯斯坦欢迎仪式",
-      "credibilityScore": 95,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为官方媒体，内容具体，事实可查证，符合高权威标准。（多源覆盖 +5）"
-    },
-    {
-      "title": "游艇自由行政策红利持续释放 16艘港澳游艇齐聚珠海东澳岛",
-      "link": "https://www.chinanews.com.cn/dwq/2026/08-31/10687133.shtml",
-      "pubDate": "Mon, 31 Aug 2026 11:46:24 +0800",
-      "contentSnippet": "中新网珠海8月31日电 (郭军 张帅)粤港澳游艇自由行政策今年6月正式落地以来，政策红利不断释放。8月29日至30日，“悦游东澳山海间 同心扬帆大湾区”粤港澳游艇珠海海岛行活动在珠海东澳岛举行，来自港澳的16艘游艇、180余名船东及行业代表登岛参与交流。",
+      "title": "习近平出席上海合作组织成员国元首理事会第二十六次会议",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-01/10687786.shtml",
+      "pubDate": "Tue, 1 Sep 2026 12:06:41 +0800",
+      "contentSnippet": "新华社快讯：当地时间9月1日上午，国家主席习近平在比什凯克出席上海合作组织成员国元首理事会第二十六次会议。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -52,16 +16,50 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "粤港澳游艇自由行政策落地后，16艘港澳游艇齐聚珠海东澳岛，政策红利持续释放。",
-      "credibilityScore": 85,
+      "aiSummary": "习近平在比什凯克出席上合组织元首理事会第二十六次会议。",
+      "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威媒体；具体时间地点数据明确，有记者署名，内容客观可查证。"
+      "credibilityReason": "来源为官方通讯社新华社快讯，内容具体明确，权威性高。"
     },
     {
-      "title": "《特殊教育发展提升“十五五”行动计划》提出哪些具体举措？教育部解读",
-      "link": "https://m.thepaper.cn/detail/33977422",
-      "pubDate": "Mon, 31 Aug 2026 03:38:52 GMT",
-      "contentSnippet": "近日，经国务院同意，教育部等七部门联合印发了《特殊教育发展提升“十五五”行动计划》（以下简称《行动计划》）。教育部基础教育司负责人就相关问题回答了记者提问。\n1.问：请介绍《行动计划》出台的背景。\n答：特殊教育是教育事业的重要组成部分，是促进教育公平、彰显民生温度的关键领域。党中央、国务院高度重视特殊教育工作。党的二十大提出“强化特殊教育普惠发展”，党的二十届三中全会要求“健全特殊教育保障机制”，党的二十届四中全会强调办好特殊教育。\n党的十八大以来，国家组织实施了三期特殊教育提升计划，推动特殊教育高质量发展。2025年，全国共有特殊教育学校2464所、在校生92.7万人、专任教师8.51万人，",
+      "title": "“超级试验场”打开协同新空间",
+      "link": "https://www.chinanews.com.cn/dwq/2026/09-01/10687781.shtml",
+      "pubDate": "Tue, 1 Sep 2026 11:45:01 +0800",
+      "contentSnippet": "勇立潮头大湾区｜“超级试验场”打开协同新空间",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "大湾区超级试验场促进协同发展，拓展新空间。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网较权威，内容具体但缺乏细节和引述，评分中等偏上。"
+    },
+    {
+      "title": "警惕菲方以“多边合作”之名行军事挑衅之实",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-01/10687748.shtml",
+      "pubDate": "Tue, 1 Sep 2026 11:19:26 +0800",
+      "contentSnippet": "近期，菲律宾武装部队联合美国印太司令部下属部队及澳大利亚国防军在中国南海相关海域完成了第19次“多边海上合作活动”(MMCA)。自2024年4月该机制由双边升级为多边以来，短短两年零四个月内已经高频举办19次演习，仅2026年前八个月就开展了10次，互动频率远超传统盟国年度例行演习的常规标准。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国新闻网评菲美澳南海联合演习，指其以多边合作名义行军事挑衅之实。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为官方媒体，内容具体含时间数据，但立场倾向明显，缺乏多方引述。"
+    },
+    {
+      "title": "商务部：支持国内自贸试验区面向东盟经贸合作开展更大力度开放试点",
+      "link": "https://m.thepaper.cn/detail/33981961",
+      "pubDate": "Tue, 01 Sep 2026 02:50:11 GMT",
+      "contentSnippet": "9月1日，国新办举行介绍中国—东盟经贸合作情况暨第23届中国—东盟博览会、中国—东盟商务与投资峰会有关情况的新闻发布会。商务部亚洲司司长王立平介绍了中国同东盟对下一步双方贸易合作的考虑。\n王立平表示，近年来，中国同东盟携手同行，已成为亚太区域合作中最为成功、最具活力的典范。2025年，中国—东盟贸易总额已经超过1万亿美元，约占我国对外贸易总额的17%。我们与越南、马来西亚、印尼、泰国、新加坡的双边贸易额均超过了千亿美元，其中我们同越南的贸易额接近三千亿美元，同马来西亚的贸易额也接近二千亿美元。这份亮眼的成绩，既得益于双方领导人的战略引领，也离不开广大工商界朋友的积极参与和共同努力。\n下一步，我",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -69,16 +67,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "教育部等七部门印发特殊教育发展提升“十五五”行动计划，教育部解读具体举措。",
+      "aiSummary": "商务部表示支持自贸试验区面向东盟开展更大力度开放试点，深化经贸合作。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源澎湃新闻较权威，内容具体含数据，官方解读，事实可查证。"
+      "credibilityReason": "来源为澎湃新闻，引用官方发布会内容，信息具体，数据明确，可信度较高。"
     },
     {
-      "title": "新闻蒸馏器｜冰岛公投否决重启入盟谈判，民众为何选择对欧盟说“不”？",
-      "link": "https://m.thepaper.cn/detail/33977076",
-      "pubDate": "Mon, 31 Aug 2026 03:26:38 GMT",
-      "contentSnippet": "一句话读懂\n8月30日，冰岛公布最新公投结果，选民投票否决了政府重启与欧盟入盟谈判的议案。该国总理弗罗斯塔多蒂尔随后确认，在本届政府任内将不再推行任何入盟谈判。\n\n冰岛雷克雅未克。视觉中国 资料图\n\n\n为什么重要\n反对方以约52.8%的微弱优势胜出，显示冰岛社会在欧洲一体化问题上高度分裂。尽管国际局势动荡、加强与欧洲合作具吸引力，但主权、渔业和农业等国内政治议题最终压过了地缘政治考量。\n冰岛现任中左翼执政联盟原计划将本次“是否重启谈判”的先期公投作为本届任期及国家战略的核心，投入了相当大的政治资本，这一结果将使其势力被大幅削弱，并意味着可能在冰岛整整一代人的时间里，欧盟议题都被排除在外。同时，",
+      "title": "商务部答澎湃：欢迎更多东盟优质产品出口中国",
+      "link": "https://m.thepaper.cn/detail/33981863",
+      "pubDate": "Tue, 01 Sep 2026 02:27:36 GMT",
+      "contentSnippet": "9月1日，国新办举行介绍中国—东盟经贸合作情况暨第23届中国—东盟博览会、中国—东盟商务与投资峰会有关情况的新闻发布会。商务部副部长鄢东回答了澎湃新闻记者关于如何推动“购在中国”“出口中国”“投资中国”三大品牌活动与东盟国家合作共赢的提问。\n一是“购在中国”更便利。我们欢迎东盟企业携更多的特色消费品亮相东博会，拓宽中国市场销售渠道。同时，我们为入境旅客创造更加便捷友好的消费环境，不久前商务部会同有关部门出台了离境退税2.0版政策，参加本届东博会的东盟客商和旅客将享受更加便利的购物和消费体验。\n二是“出口中国”更畅通。泰国是今年“出口中国”系列活动的年度主题国，7月9日，中方在泰国举办了专场活动",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -86,67 +84,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "冰岛公投否决重启入盟谈判，总理确认任内不再推进，社会高度分裂。",
+      "aiSummary": "商务部回应澎湃，欢迎东盟优质产品出口中国，推动三大品牌合作。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源澎湃新闻较权威，信息具体含时间、数据、人物，用词客观，可查证。"
+      "credibilityReason": "来源为澎湃新闻，引用官方发布会内容，信息具体，用词客观。"
     },
     {
-      "title": "（经济观察）业界看好粤港澳游艇自由行政策红利激活海上文旅经济",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-31/10687109.shtml",
-      "pubDate": "Mon, 31 Aug 2026 11:23:29 +0800",
-      "contentSnippet": "中新社珠海8月31日电 (记者 郭军)粤港澳游艇自由行政策今年6月正式落地以来，政策红利不断释放，为大湾区文旅融合、跨境消费升级带来利好。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "业界看好粤港澳游艇自由行政策红利，激活大湾区海上文旅经济。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威性较高；报道具体，含时间、地点、人物；内容客观，可查证。"
-    },
-    {
-      "title": "华夏银行发布2026半年报，营收破500亿实现高质量增长",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-31/10687101.shtml",
-      "pubDate": "Mon, 31 Aug 2026 11:18:09 +0800",
-      "contentSnippet": "28日，华夏银行正式发布2026年半年度报告。2026年上半年，华夏银行深刻把握金融工作的政治性、人民性，紧扣高质量发展主题，以“十大行动”为牵引，坚持经营回归本源、管理回归本质、定位回归本色，以更高站位、更实举措、更优服务，深耕国家战略、服务实体经济、提升管理效能、筑牢风控防线，在2025年优异业绩的基础上，乘势而上、接续奋斗，生动描绘了“讲政治、创价值、担责任”的崭新形象。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "华夏银行发布2026半年报，营收破500亿，实现高质量增长。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为官方媒体，内容具体但缺乏数据细节和独立引述，评分中等偏上。"
-    },
-    {
-      "title": "从“接诉即办”到“未诉先办”——一场12345热线改革背后的民生答卷",
-      "link": "https://www.chinanews.com.cn/sh/2026/08-31/10687105.shtml",
-      "pubDate": "Mon, 31 Aug 2026 11:17:59 +0800",
-      "contentSnippet": "8月26日，12345政务服务便民热线改革试点座谈会暨“热线里的民生温度”全国优秀作品分享活动在陕西宝鸡举行。来自陕甘川宁毗邻地区城市代表、陕西省内各地主管部门负责人、征文获奖作者以及宝鸡各县区、市级部门相关人员齐聚一堂，以座谈研讨、作品分享、成果发布等形式，共同探寻政务热线高质量发展的实践路径。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "12345热线改革试点座谈会在宝鸡举行，探讨政务热线高质量发展路径。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为官方媒体，内容具体，有明确时间地点和活动细节，但缺乏直接引述和多方交叉验证。"
-    },
-    {
-      "title": "时政新闻眼丨习近平开启亚非之行，这些细节值得关注",
-      "link": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=3350913504758582415&toc_style_id=feeds_default&track_id=8CCA2307-4DE2-4E19-BA3A-E7CE04DA6175_809798354045&share_to=copy_url",
-      "pubDate": "Mon, 31 Aug 2026 02:22:02 GMT",
-      "contentSnippet": "时政新闻眼丨习近平开启亚非之行，这些细节值得关注",
+      "title": "大众中国：已启动星宇股份投诉相关的专项调查，调查正在进行中",
+      "link": "https://m.thepaper.cn/detail/33981723",
+      "pubDate": "Tue, 01 Sep 2026 01:56:56 GMT",
+      "contentSnippet": "日前有消息称，大众汽车方面收到了关于“星宇股份批量劝退应届生”相关投诉。\n9月1日，大众中国新闻发言人对澎湃新闻表示，“对于关于该供应商的相关投诉，大众汽车集团高度重视并第一时间启动了专项调查，目前调查正在进行中。”\n“尊重劳动者合法权益，是大众汽车集团开展所有经营活动恪守的核心原则。这一点同样贯穿于我们供应链体系的管理之中，我们要求，各项基本价值与权利必须得到充分保障。”大众中国方面强调。",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -154,15 +101,32 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "习近平开启亚非之行，澎湃新闻梳理行程细节。",
-      "credibilityScore": 75,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名媒体，内容具体，但缺乏直接引述和多源验证。"
+      "aiSummary": "大众中国回应星宇股份投诉，已启动专项调查，强调尊重劳动者权益。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源澎湃新闻较权威，有官方发言人直接引述，内容具体，可交叉验证。"
     },
     {
-      "title": "启播！《平“语”近人——习近平喜欢的典故》（多语种版）在上海合作组织国家主流媒体播出",
-      "link": "http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E5%90%AF%E6%92%AD%EF%BC%81%E3%80%8A%E5%B9%B3%E2%80%9C%E8%AF%AD%E2%80%9D%E8%BF%91%E4%BA%BA%E2%80%94%E2%80%94%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%96%9C%E6%AC%A2%E7%9A%84%E5%85%B8%E6%95%85%E3%80%8B%EF%BC%88%E5%A4%9A%E8%AF%AD%E7%A7%8D%E7%89%88%EF%BC%89%E5%9C%A8%E4%B8%8A%E6%B5%B7%E5%90%88%E4%BD%9C%E7%BB%84%E7%BB%87%E5%9B%BD%E5%AE%B6%E4%B8%BB%E6%B5%81%E5%AA%92%E4%BD%93%E6%92%AD%E5%87%BA",
-      "pubDate": "Sun, 30 Aug 2026 19:16:00 +0800",
+      "title": "时政新闻眼丨再到比什凯克，习近平这样擘画中吉关系发展新蓝图",
+      "link": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=3587436328954047090&toc_style_id=feeds_default&share_to=copy_url&track_id=d579a720-eea7-438c-a2ce-a6f43a128cd2",
+      "pubDate": "Tue, 01 Sep 2026 00:49:47 GMT",
+      "contentSnippet": "时政新闻眼丨再到比什凯克，习近平这样擘画中吉关系发展新蓝图",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "习近平再访比什凯克，规划中吉关系新蓝图。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源澎湃新闻较权威，内容具体涉及高层外交，事实可查证，用词客观。"
+    },
+    {
+      "title": "习近平会见俄罗斯总统普京",
+      "link": "http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E6%99%AE%E4%BA%AC",
+      "pubDate": "Mon, 31 Aug 2026 22:31:00 +0800",
       "contentSnippet": "",
       "sourceName": "央视新闻",
       "sourceWeight": 80,
@@ -171,16 +135,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "习近平典故多语种版在上合组织国家媒体启播，央视报道。",
+      "aiSummary": "习近平会见俄罗斯总统普京，讨论双边关系及国际事务。",
+      "credibilityScore": 95,
+      "credibilityLevel": "high",
+      "credibilityReason": "央视新闻为官方权威媒体，内容具体，信息可靠。"
+    },
+    {
+      "title": "今年铁路暑运全国铁路累计发送旅客9.54亿人次",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-01/10687783.shtml",
+      "pubDate": "Tue, 1 Sep 2026 12:04:43 +0800",
+      "contentSnippet": "中新网9月1日电 据“中国铁路”微信公众号消息，8月31日，为期62天的铁路暑运圆满结束。7月1日至8月31日，全国铁路累计发送旅客9.54亿人次，国家铁路累计发送货物6.8亿吨，铁路运输安全平稳有序。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "铁路暑运62天发送旅客9.54亿人次，运输安全平稳有序。",
       "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为央视新闻，权威性高，内容具体，涉及官方活动，事实可查证。"
+      "credibilityReason": "来源中国新闻网，引述官方公众号，数据具体，事实可查证。"
     },
     {
-      "title": "从“舞台动起来”到“干活用起来” 如何让机器人更有“力”",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-31/10687150.shtml",
-      "pubDate": "Mon, 31 Aug 2026 12:12:36 +0800",
-      "contentSnippet": "中新网北京8月31日电 题：从“舞台动起来”到“干活用起来” 如何让机器人更有“力”",
+      "title": "教育部提醒: 新生入学季，这四类诈骗要警惕",
+      "link": "https://www.chinanews.com.cn/edu/2026/09-01/10687780.shtml",
+      "pubDate": "Tue, 1 Sep 2026 11:43:03 +0800",
+      "contentSnippet": "当前正值高校录取通知书陆续送达、新生准备入学的关键时期，一些机构或不法分子趁机利用新生对入学流程不熟悉以及部分考生家长的焦虑心态，通过伪造身份、散布虚假信息等方式精心设局，实施诈骗。为切实维护广大考生和家长切身利益，教育部结合近期典型案例，发布以下防范提醒。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -188,78 +169,95 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国新闻网报道机器人从展示到实用，探讨提升机器人实际作业能力。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为官方媒体，内容具体，但缺乏直接引述和数据，评分略低于一线通讯社。"
-    },
-    {
-      "title": "特朗普发AI视频称伊朗石油枢纽哈尔克岛 “被炸得粉碎”",
-      "link": "https://m.thepaper.cn/detail/33977469",
-      "pubDate": "Mon, 31 Aug 2026 04:03:17 GMT",
-      "contentSnippet": "当地时间8月30日，美国总统特朗普在社交媒体平台发布AI 视频，并称“伊朗哈尔克岛正在被炸得粉碎”。哈尔克岛是伊朗重要的石油出口枢纽。",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "特朗普发布AI视频称伊朗哈尔克岛被炸，该岛为伊朗重要石油出口枢纽。",
-      "credibilityScore": 65,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名媒体，但内容基于AI视频，缺乏实证，且涉及敏感军事声明，需谨慎对待。"
-    },
-    {
-      "title": "优地机器人开启全球发售，预计9月9日港交所上市，目前仍处亏损状态",
-      "link": "https://m.thepaper.cn/detail/33977325",
-      "pubDate": "Mon, 31 Aug 2026 03:52:15 GMT",
-      "contentSnippet": "8月31日，优地机器人（03231.HK）公告称，公司今日起正式开启全球发售，预计9月9日在港交所挂牌上市。\n本次发售价区间在每股14.45-19.55港元，全球发售4500万股H股，股份市值预计在60.16亿港元至81.4亿港元。\n资料显示，公司是一家以技术驱动的公司，根据上市规则第十八C章，在两个主要行业领域将公司的技术实现商业化：机器人及自动化领域，通过公司的商用服务机器人产品、机器人模组，以及相关服务（包括机器人即服务(RaaS)及租赁安排）；及新一代信息技术领域，通过公司的行业应用AI视觉模型解决方案。上述两条业务线均依托由公司自主开发的共用综合技术框架作为支撑，分别通过不同的产品、",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "优地机器人启动全球发售，预计9月9日港交所上市，目前仍亏损。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源澎湃新闻较权威，信息具体含日期、价格、股数，但未多源交叉验证。"
-    },
-    {
-      "title": "为母抗下500万的女儿，想哭就哭一会儿直到你的心不再刺痛",
-      "link": "https://m.thepaper.cn/detail/33960155",
-      "pubDate": "Mon, 31 Aug 2026 03:51:56 GMT",
-      "contentSnippet": "上海有个32岁的女儿，不结婚，不买房，想当纪录片导演，想活得自由一点。结果，妈妈投资欠了500万元还生了病。她做不到不管，只能卖房还债，跟妈妈一起住。\n原来设想的生活，现在过不了了。\n心理学有一个词，叫“哀悼”。不是哀悼去世的人，而是哀悼一种失去——你心里那个“我应该过什么样的生活”在消失。\n你曾经以为你会过上的那种日子，在离你而去。\n你以为一辈子都会幸福下去，结果老公出轨了……\n你以为就这样到退休，结果单位裁员了……\n你以为孩子会上大学，结果初中就辍学了……\n我们会着急解决问题，一边生气难受一边想办法，好像生活还在向前。但是有时候，真的太痛了，往前走不动，就是不能接受他原来不爱我，就是不能接",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "上海32岁女儿为母还债卖房，心理专家建议哀悼失去的理想生活。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源澎湃新闻较权威，内容具体有细节，但缺乏直接引述和多方验证。"
-    },
-    {
-      "title": "7月份全国贸促系统优惠原产地证书签证金额同比增长24.77%",
-      "link": "https://www.chinanews.com.cn/cj/2026/08-31/10687147.shtml",
-      "pubDate": "Mon, 31 Aug 2026 11:51:33 +0800",
-      "contentSnippet": "今天上午，中国贸促会举办新闻发布会。发布会上，中国贸促会公布了7月份全国贸促系统签发的原产地证书和商事证明书等数据情况。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国贸促会公布7月优惠原产地证书签证金额同比增长24.77%。",
+      "aiSummary": "教育部提醒新生入学季警惕四类诈骗，保护考生家长利益。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，属权威媒体，内容具体有数据，引述官方发布会，可信度高。"
+      "credibilityReason": "来源为官方媒体中国新闻网，内容具体，引用教育部提醒，信息可查证。"
+    },
+    {
+      "title": "扩大儿童适宜药品种类 新版国家基本药物目录今起实施",
+      "link": "https://www.chinanews.com.cn/jk/2026/09-01/10687778.shtml",
+      "pubDate": "Tue, 1 Sep 2026 11:38:25 +0800",
+      "contentSnippet": "国家基本药物目录是医疗机构药品配备使用的依据，为更好满足群众疾病防治基本用药需求，国家卫生健康委、国家中医药局、国家疾控局日前发布了《国家基本药物目录(2026版)》，将从今天(9月1日)起正式实施。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "新版国家基本药物目录今起实施，扩大儿童适宜药品种类，满足群众基本用药需求。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，属权威媒体；内容具体，涉及官方发布和明确时间，事实可查证。"
+    },
+    {
+      "title": "探访文具产地：小文具里有大产业",
+      "link": "https://www.chinanews.com.cn/cj/2026/09-01/10687775.shtml",
+      "pubDate": "Tue, 1 Sep 2026 11:36:03 +0800",
+      "contentSnippet": "临近开学，探访一些文具产地",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "探访文具产地，揭示小文具背后的庞大产业链。",
+      "credibilityScore": 75,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名媒体，内容具体但缺乏细节和直接引述，可信度中等偏上。"
+    },
+    {
+      "title": "市场监管总局发布65项国家计量技术规范",
+      "link": "https://www.chinanews.com.cn/sh/2026/09-01/10687773.shtml",
+      "pubDate": "Tue, 1 Sep 2026 11:35:41 +0800",
+      "contentSnippet": "记者今天了解到，市场监管总局近日发布65项国家计量技术规范，涵盖无线电、电离辐射、医学、生物、数字计量等20多个专业领域。这一批国家计量技术规范的发布，将有力支撑相关产业的质量提升和技术进步，进一步保障民生安全和市场秩序。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "市场监管总局发布65项国家计量技术规范，覆盖20多个领域，支撑产业质量提升。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，权威性较高，内容具体（数量、领域），用词客观，可查证。"
+    },
+    {
+      "title": "共解丝路密码 中吉联合考古取得突破性进展",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-01/10687771.shtml",
+      "pubDate": "Tue, 1 Sep 2026 11:33:52 +0800",
+      "contentSnippet": "日前，中吉联合考古队在吉尔吉斯斯坦红河遗址的发掘中取得突破性收获。这处中古时期的西域名城不仅首次明确了城市空间布局，遗址中还出土了一批公元10世纪前后体现丝绸之路多元文化交融的珍贵文物。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中吉联合考古队在吉尔吉斯斯坦红河遗址取得突破性进展，明确城市布局并出土丝路文物。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为权威媒体，内容具体，但缺乏直接引述和交叉验证，评分略低。"
+    },
+    {
+      "title": "中央网信办：当前人工智能领域主要面临5方面安全风险挑战",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-01/10687770.shtml",
+      "pubDate": "Tue, 1 Sep 2026 11:33:32 +0800",
+      "contentSnippet": "当前人工智能技术飞速发展，加速向各行业各领域应用渗透，与此同时相关安全风险也引发了广泛关注。在今天(9月1日)举办的2026年国家网络安全宣传周新闻发布会上，中央网信办网络安全协调局副局长、一级巡视员王丽宏向总台央视记者介绍，当前人工智能领域主要面临5方面安全风险挑战。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中央网信办称人工智能面临五方面安全风险，在网络安全宣传周发布会披露。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，官方发布会信息，有具体人物和场合，内容可查证，权威性高。"
     }
   ]
 }
