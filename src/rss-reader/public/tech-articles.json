@@ -1,48 +1,14 @@
 {
-  "generatedAt": "2026-09-01T04:21:50.830Z",
+  "generatedAt": "2026-09-02T03:44:45.877Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "大众中国回应“星宇股份批量劝退应届生”：高度重视并第一时间启动专项调查",
-      "link": "https://www.ithome.com/0/996/791.htm",
-      "pubDate": "Tue, 01 Sep 2026 02:42:59 GMT",
-      "contentSnippet": "IT之家 9 月 1 日消息，近期，常州星宇车灯股份有限公司（星宇股份）批量劝退应届大学毕业生一事，引发社会关注。\n日前有消息称，大众汽车方面收到了关于“星宇股份批量劝退应届生”相关投诉。\n9 月 1 日，大众中国新闻发言人对澎湃新闻表示，“对于关于该供应商的相关投诉，大众汽车集团高度重视并第一时间启动了专项调查，目前调查正在进行中。”\n“尊重劳动者合法权益，是大众汽车集团开展所有经营活动恪守的核心原则。这一点同样贯穿于我们供应链体系的管理之中，我们要求，各项基本价值与权利必须得到充分保障。”大众中国方面强调。\n此外，近日网上流传着一张截图，显示一封奔驰的内部邮件确认奔驰已经受理了针对星宇股份",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "大众中国回应星宇股份劝退应届生，称已启动专项调查。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用澎湃新闻及官方声明，内容具体，但细节有限。"
-    },
-    {
-      "title": "2027 款悦达起亚 K3 正式上市，舒适优享版一口价 6.99 万元",
-      "link": "https://www.ithome.com/0/996/874.htm",
-      "pubDate": "Tue, 01 Sep 2026 04:19:31 GMT",
-      "contentSnippet": "IT之家 9 月 1 日消息，2027 款起亚 K3 今日正式上市，共推出 5 款车型，官方指导价区间为 9.73 万元至 11.53 万元，全系直降 15600 元。其中，1.5L 舒适优享版推出全国“一口价”活动，售价仅为 6.99 万元。\n\n购车权益方面，悦达起亚推出限时 500 元下订抵 3000 元膨胀权益、1 至 5 年 0 首付起 0 息或低息金融方案（贴息至高 7500 元）、增换购补贴 4500 元等政策。应届高校毕业生、新婚夫妇等定向人群还可获赠 2000 元油卡，此外还可享 5 年 5 次基础保养材料免费。\n\n新车采用起亚 K5 同款家族虎啸式前脸，搭配璀璨星河 LED",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "2027款起亚K3上市，舒适优享版一口价6.99万元，配置升级。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家可信，信息具体含价格权益，但缺技术细节和官方引用。"
-    },
-    {
-      "title": "龙虾之父，困在了龙虾里",
-      "link": "https://www.tmtpost.com/8124152.html",
-      "pubDate": "Tue, 01 Sep 2026 12:12:45 +0800",
-      "contentSnippet": "OpenClaw 2.0上线，还有多少人记得它？",
+      "title": "格林生物上市：一家“隐形冠军”的跃迁，与中国精细化工的高质量样本",
+      "link": "https://www.tmtpost.com/8124574.html",
+      "pubDate": "Wed, 02 Sep 2026 09:45:42 +0800",
+      "contentSnippet": "在那些看不见的化学结构里，格林生物正在构建一座支撑全球气味经济的“基础设施”，这正是中国精细化工企业走向高质量发展的一个典型样本。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -50,69 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "OpenClaw 2.0上线，但创始人仍受困于龙虾项目。",
-      "credibilityScore": 65,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体，内容具体但缺乏技术细节和数据支撑，评分中等。"
-    },
-    {
-      "title": "苹果迎来换帅拐点：特努斯的传承与变局",
-      "link": "https://www.tmtpost.com/8124165.html",
-      "pubDate": "Tue, 01 Sep 2026 12:12:40 +0800",
-      "contentSnippet": "CEO的性格无可复制。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体报道苹果换帅，聚焦特努斯接任的传承与变局。",
+      "aiSummary": "格林生物上市，展现中国精细化工高质量发展样本。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "知名科技媒体，内容具体分析，但缺乏数据支撑和原始引用。"
+      "credibilityReason": "来源钛媒体较权威，内容具体但缺乏数据细节，评分适中。"
     },
     {
-      "title": "Rust 重写 Coreutils 0.11 版：GNU 兼容率升至 95.33%，启用 PGO 性能最高提升 31%",
-      "link": "https://www.ithome.com/0/996/873.htm",
-      "pubDate": "Tue, 01 Sep 2026 04:08:20 GMT",
-      "contentSnippet": "IT之家 9 月 1 日消息，科技媒体 Linuxiac 昨日（8 月 31 日）发布博文，报道称 uutils Coreutils 0.11 发布。这是一套使用 Rust 重写的跨平台 GNU Coreutils 实现，覆盖 Linux、macOS 和 Windows。\nIT之家注：Coreutils ：GNU / Linux 系统最常用的一组基础命令工具，例如复制文件的 cp、列目录的 ls、删除文件的 rm；它们相当于终端里的基础工具箱。\n而 uutils Coreutils 是用 Rust 语言重写 Coreutils 的开源项目，目标是在 Linux、macOS 和 Windows",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家",
-        "Solidot"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "Rust重写Coreutils 0.11发布，GNU兼容率95.33%，PGO性能提升最高31%。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家和Solidot，信息具体有数据，引用Linuxiac，技术细节明确，评分高。（多源覆盖 +5）"
-    },
-    {
-      "title": "精粤推出 Z690EM Snow Dream-W 主板：主扩展槽支持 PCIe Gen5 ×16",
-      "link": "https://www.ithome.com/0/996/872.htm",
-      "pubDate": "Tue, 01 Sep 2026 04:07:43 GMT",
-      "contentSnippet": "IT之家 9 月 1 日消息，精粤 (JGINYUE) 近日宣布推出 Z690EM Snow Dream-W 主板。这一型号在延续此前 Z690M Snow Dream D4 整体设计的同时部分规格有所调整，定价 599 元。\n\nZ690EM Snow Dream-W 升级点包括更厚实的散热模组、内存超频支持提升至 4133MT/s、主扩展槽从 PCIe Gen4 升级至 PCIe Gen5、额外提供 2 个后置 USB-A 480Mbps、额外提供 2 组 5V ARGB 接针。\n此外，其未配备无线网卡模块；削减 3 个 3.5mm 音频插孔；取消前置 USB-C 接针；将一组标准 PWM",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家",
-        "量子位"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "精粤发布Z690EM Snow Dream-W主板，主插槽升级至PCIe Gen5，定价599元。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家较权威，内容具体含规格细节，但无原始出处，评分75。（多源覆盖 +5）"
-    },
-    {
-      "title": "火狐 Firefox 浏览器 155 发布：并行优选最快连接路径，升级隐私提示",
-      "link": "https://www.ithome.com/0/996/870.htm",
-      "pubDate": "Tue, 01 Sep 2026 03:58:45 GMT",
-      "contentSnippet": "IT之家 9 月 1 日消息，科技媒体 Linuxiac 昨日（8 月 31 日）发布博文，报道称 Mozilla 更新推出火狐 Firefox 浏览器 155 稳定版，更新聚焦网页连接、隐私提示、容器管理和跨平台故障修复。\n在网页连接方面，Firefox 浏览器 155 引入 Happy Eyeballs v3，可并行尝试多条网络连接路径，并优先采用最先成功的路径，以减少 IPv4 或 IPv6 网络不稳定时的访问等待。\n隐私提示方面，Firefox 155 在地址栏上直接展示内置防追踪功能的结果，用户可查看当前网页被浏览器拦截的追踪器数量。用户如果希望简化界面，可以关闭这一计数显示。关闭显",
+      "title": "微软称符合条件 Win11 设备 10 月默认启用内存完整性保护，拦截恶意驱动劫持",
+      "link": "https://www.ithome.com/0/997/293.htm",
+      "pubDate": "Wed, 02 Sep 2026 03:43:34 GMT",
+      "contentSnippet": "IT之家 9 月 2 日消息，科技媒体 Neowin 昨日（9 月 1 日）发布博文，报道称针对符合条件的 Windows 11 设备，微软计划 2026 年 10 月开始，默认启用内存完整性保护（Memory Integrity）。\nIT之家援引博文介绍，内存完整性保护（Memory Integrity）也称受虚拟机监控程序保护的代码完整性（Hypervisor-protected Code Integrity，HVCI），建立在基于虚拟化的安全（VBS）之上。\n该功能利用硬件虚拟化创建隔离环境，验证内核模式代码和驱动程序。Windows 内核处于操作系统底层，驱动程序可拥有较高系统权限。微",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -120,67 +33,135 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "Firefox 155发布，优化网络连接与隐私提示。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用Linuxiac，技术细节具体，逻辑清晰。"
-    },
-    {
-      "title": "存储成了AI落地最大变量，企业如何打破阻碍？丨ToB产业观察",
-      "link": "https://www.tmtpost.com/8124068.html",
-      "pubDate": "Tue, 01 Sep 2026 11:58:04 +0800",
-      "contentSnippet": "推理已经成为吞噬算力的黑洞。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "分析AI落地中存储挑战，探讨企业应对策略。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容聚焦行业趋势，但缺乏具体数据与原始出处。"
-    },
-    {
-      "title": "珍宝岛中期业绩出炉：经营现金流1.03亿，新药研发梯次推进 | 看财报",
-      "link": "https://www.tmtpost.com/8124004.html",
-      "pubDate": "Tue, 01 Sep 2026 11:50:54 +0800",
-      "contentSnippet": "对市场而言，当下既是风险释放的窗口，也是业绩反转的蓄能阶段。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "珍宝岛中期业绩公布，现金流1.03亿，新药研发梯次推进。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源钛媒体为知名科技财经媒体，内容具体有数据，但缺乏原始出处和深度分析。"
-    },
-    {
-      "title": "中央网信办：当前 AI 领域主要面临 5 方面安全风险挑战",
-      "link": "https://www.ithome.com/0/996/868.htm",
-      "pubDate": "Tue, 01 Sep 2026 03:49:45 GMT",
-      "contentSnippet": "IT之家 9 月 1 日消息，据央视新闻报道，在今天（9 月 1 日）举办的 2026 年国家网络安全宣传周新闻发布会上，中央网信办网络安全协调局副局长、一级巡视员王丽宏介绍，当前人工智能领域主要面临 5 方面安全风险挑战。\n一是技术先天脆弱性难以根除，影响输出稳定性、可靠性。深度学习等人工智能算法本身运行逻辑复杂、可解释性欠缺，推理过程不透明，异常故障难以快速定位修正，即便是微小的输入扰动，也可能导致错误的推理结果。同时，研发训练过程中数据来源复杂多元，偏见、歧视等问题可能被有意或无意引入，导致模型错误学习并输出歧视性内容。这类技术层面的先天缺陷，大幅增加了系统故障排查难度，也让决策合理性难",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中央网信办指出AI领域面临五大安全风险挑战。",
+      "aiSummary": "微软计划2026年10月默认启用Win11内存完整性保护，拦截恶意驱动劫持。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源权威（央视新闻），内容具体，引用官方发言，逻辑清晰。"
+      "credibilityReason": "来源IT之家，引用Neowin博文，技术细节准确，逻辑清晰，时效性高。"
     },
     {
-      "title": "2500小时数据免费开放：人形机器人进入“公共基建”时代",
-      "link": "https://www.tmtpost.com/8124134.html",
-      "pubDate": "Tue, 01 Sep 2026 11:48:11 +0800",
-      "contentSnippet": "机器人行业正在换一套活法。",
+      "title": "攻坚国产“小光刻机”，惠然微电子发布国内首台 14/22nm CD-SEM 关键尺寸量测设备",
+      "link": "https://www.ithome.com/0/997/292.htm",
+      "pubDate": "Wed, 02 Sep 2026 03:41:59 GMT",
+      "contentSnippet": "IT之家 9 月 2 日消息，据爱集微 8 月 31 日报道，半导体量测设备是芯片制造过程中的“眼睛”，贯穿光刻、刻蚀、沉积等全部核心工艺环节，直接决定晶圆良率水平与制程迭代速度。电子束关键尺寸量测设备（CD-SEM）又是先进制程晶圆良率控制的核心装备之一，也是目前国产化率第二低的半导体设备品类，仅次于光刻机，在业内有“小光刻机”之称，是我国半导体产业链自主可控进程中亟待突破的关键短板。\n惠然微电子技术有限公司是国内专注于半导体量检测设备领域的创新企业，在 8 月 31 日 ~9 月 2 日的第十四届半导体设备材料及核心部件展（CSEAC 2026）上发布多款重磅新品，其中就包括 14 纳米研",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "惠然微电子发布国内首台14/22nm CD-SEM量测设备，填补国产空白。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，引用爱集微报道，信息具体，但缺乏原始技术细节和独立验证。"
+    },
+    {
+      "title": "vivo 创作者盛典定档 9 月 7 日，X500 系列旗舰新机官宣“本月见”",
+      "link": "https://www.ithome.com/0/997/285.htm",
+      "pubDate": "Wed, 02 Sep 2026 03:33:01 GMT",
+      "contentSnippet": "IT之家 9 月 2 日消息，vivo 产品副总裁黄韬今日宣布，vivo 创作者盛典定档 9 月 7 日 19:00 举行。\n\n黄韬称，做影像的这些年，有一件事越来越确定：创作者，永远是影像的核心。风景再美、技术再极致，真正赋予影像灵魂的，始终是镜头背后的创作者。所以今年，vivo 正式把「影像盛典」更名为「创作者盛典」，一场为创作者的盛典。\n他表示，蓝图影像也做了全面的战略升级：表达越来越多元的今天，单点的技术突破，已经不够了 —— 蓝图影像要从“影像技术品牌”，升级为真正“为创作者服务”的影像品牌。vivo X500 系列是为所有创作者准备的影像旗舰，更是满配旗舰。\nIT之家注意到，黄韬还",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "vivo创作者盛典定档9月7日，X500系列旗舰本月发布。",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，内容具体，引用官方高管声明，信息可靠。"
+    },
+    {
+      "title": "流媒体平台 Roku 首次推出自有品牌 OLED 电视，起价 999 美元",
+      "link": "https://www.ithome.com/0/997/278.htm",
+      "pubDate": "Wed, 02 Sep 2026 03:23:36 GMT",
+      "contentSnippet": "IT之家 9 月 2 日消息，流媒体平台 Roku 美国加利福尼亚州当地时间 1 日宣布首次推出自有品牌电视，提供 Roku Pro Series OLED 和 Roku Pro Series LX OLED 两个产品系列，均包含 55\" 和 65\" 款式。\n\nRoku Pro Series (LX) OLED 采用 \"4K\" 分辨率面板，支持杜比视界、HDR10+、HLG 格式的 HDR 内容，提供 4 个 HDMI 2.1（其中 1 个支持 eARC）、USB-A、USB-C。\nRoku Pro Series OLED 刷新率可达 120Hz，支持 Wi-Fi 5 规范；Roku Pro",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "Roku首次推出自有品牌OLED电视，起价999美元，提供55和65英寸型号。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道具体产品细节，但缺乏原始出处和价格确认。"
+    },
+    {
+      "title": "活跃租户使用比例不足 5%：微软官宣未来 2 年 2 阶段移除经典 SharePoint 页面",
+      "link": "https://www.ithome.com/0/997/277.htm",
+      "pubDate": "Wed, 02 Sep 2026 03:22:53 GMT",
+      "contentSnippet": "IT之家 9 月 2 日消息，微软于 8 月 31 日发布公告，将分为 2 个阶段，在未来 2 年内，逐步从 Microsoft 365 中移除 SharePoint Online 中的经典 SharePoint 页面和自定义脚本添加 / 更新功能。\nIT之家查询官方公告，这里的经典版 SharePoint 并非一个独立产品 SKU 或单一版本，是微软在 2016 年推出 Modern SharePoint 和 SharePoint Framework（SPFx）时，对原有“发布（publishing）与用户体验扩展（UX extensibility）体系”的统称。\n经典版 SharePoin",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微软宣布两年内分两阶段移除经典SharePoint页面，因活跃租户使用比例不足5%。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，引用微软官方公告，信息具体，逻辑清晰。"
+    },
+    {
+      "title": "启境 GT7 采用八大冗余设计，产品总经理轩伟称目标让这套架构五年不过时",
+      "link": "https://www.ithome.com/0/997/273.htm",
+      "pubDate": "Wed, 02 Sep 2026 03:20:12 GMT",
+      "contentSnippet": "IT之家 9 月 2 日消息，启境汽车产品总经理轩伟今日发文，谈及了车辆安全兜底的重要性。他表示，启境汽车的八大冗余设计，不单单服务未来 L3 场景，更希望把这份安全能力给到真实的通勤、城市、高速出行中。\n据轩伟分享，适配 L3 / L4 的国标计划在明年 7 月 1 号就正式实施。他表示，启境 GT7 把冗余算力、传感器全部预埋到位，目标很明确：让这套架构五年不过时，在保证技术代际领先的同时，也尽可能减少用户未来因为软硬件迭代换车而带来的损失。\n\n据IT之家此前报道，启境 GT7 已满足国家 L3 级自动驾驶架构的设计标准，并且完成了 L3 的准入测试与申报。官方介绍称是 20 万级唯一搭载",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "启境GT7采用八大冗余设计，目标五年不过时，满足L3标准。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，内容具体，引用官方言论，但缺乏独立验证和详细技术细节。"
+    },
+    {
+      "title": "小米智能开关 2 发布：有机玻璃面板，支持单零火自适应",
+      "link": "https://www.ithome.com/0/997/271.htm",
+      "pubDate": "Wed, 02 Sep 2026 03:16:02 GMT",
+      "contentSnippet": "IT之家 9 月 2 日消息，小米智能开关 2 今日正式发布，目前已上线众筹预约，众筹价 69 元起（IT之家附小米有品官方地址：点此购买），将于下周一开启众筹。\n\n该系列提供单键、双键、三键三种按键规格，有白色、深空灰两款面板配色，采用有机玻璃面板。产品适配国标 86 型墙壁底盒，面板厚度 11mm，入墙基座深度 21.2mm。\n其外壳采用 V-0 级防火阻燃 PC 材质，可耐受 850℃ 高温阻燃测试。按键采用短键程硅胶缓冲轻音结构以降低操作噪音，每路按键下方均配有状态指示灯，可直观显示回路通断状态。\n\n小米智能开关 2 支持单火 / 零火自适应兼容，无论是新房预留零线还是老房仅火线布线场",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "小米智能开关2发布，有机玻璃面板，单零火自适应，众筹69元起。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道含具体参数、价格及众筹信息，内容详实，可信度高。"
+    },
+    {
+      "title": "阿里千问 Qwen3.8-Max-0902 版本模型发布，拿下前端编程总榜冠军",
+      "link": "https://www.ithome.com/0/997/270.htm",
+      "pubDate": "Wed, 02 Sep 2026 03:11:18 GMT",
+      "contentSnippet": "IT之家 9 月 2 日消息，阿里千问今日宣布 Qwen3.8-Max 模型升级到 0902 版本。\n官方围绕编程（Coding）和专业办公（Cowork），对 Qwen3.8-Max 进行了进一步的后训练，使得模型整体性能再度突破，更适合企业真实复杂任务、科研、长周期任务等。\n\n在 CodeArena 前端编程总榜中，Qwen3.8-Max 提升 22 分至 1691 分夺得冠军。这说明，Qwen3.8-Max 拥有更强的智能体编程能力，在多步推理、工具调用、端到端 app 生成方面均刷新了全球模型的新上限。\n\n同时，CodeArena 更新的模型性价比榜单（帕累托前沿）显示，Qwen3.8",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "阿里发布Qwen3.8-Max升级版，前端编程夺冠，性能提升。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家较权威，内容具体有数据，但缺乏独立验证和细节。"
+    },
+    {
+      "title": "商汤第一次赚钱，靠的是一场“拆家”",
+      "link": "https://www.tmtpost.com/8124895.html",
+      "pubDate": "Wed, 02 Sep 2026 11:11:13 +0800",
+      "contentSnippet": "桃李满天下，市值没剩下。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -188,67 +169,50 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "人形机器人数据免费开放，行业转向公共基建模式。",
+      "aiSummary": "商汤科技首次盈利，靠业务重组实现。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "知名科技媒体，内容具体但缺乏原始数据出处，逻辑清晰。"
+      "credibilityReason": "钛媒体为知名科技媒体，内容具体，但缺乏详细数据支撑，评分中等偏上。"
     },
     {
-      "title": "飞利浦 5K 四倍刷新率双模显示器 27E2N6900RW 发售，到手 2969.1 元",
-      "link": "https://www.ithome.com/0/996/861.htm",
-      "pubDate": "Tue, 01 Sep 2026 03:41:32 GMT",
-      "contentSnippet": "IT之家 9 月 1 日消息，Philips（飞利浦）家用显示器新品 27E2N6900RW 现已发售。其基于 27\" IPS LCD 面板，支持 5120×2880 75Hz / 2560×1440 300Hz 的 \"4×\" 双模切换，到手价 2969.1 元。\n\n京东飞利浦 27E2N6900RW 显示器 2969.1 元直达链接\n该型号获得 VESA Display HDR 400 认证，SDR 亮度 400nits、HDR 峰值亮度 450nits，静态对比度 1500:1；GtG 响应时间 5ms、MPRT 响应时间 0.3ms；色域 99.8% sRGB / 95% DCI-P3",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "豆包，字节的新赔率",
+      "link": "https://www.tmtpost.com/8124936.html",
+      "pubDate": "Wed, 02 Sep 2026 11:11:12 +0800",
+      "contentSnippet": "昨天，字节提高了赔率。今天，它又在提醒离场的人，什么东西不能带走。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
       "allSources": [
-        "IT之家"
+        "钛媒体"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "飞利浦发布5K双模显示器，支持4倍刷新率切换，售价2969元。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道具体参数和价格，信息详实，但缺少原始出处。"
+      "aiSummary": "字节跳动调整豆包业务策略，提高赔率并限制用户离场带走内容。",
+      "credibilityScore": 70,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体，内容具体但缺乏数据支撑和原始引用，评分中等偏上。"
     },
     {
-      "title": "日请求 600 万次，Kernel.org 维护者称约 98% 流量疑似来自爬虫",
-      "link": "https://www.ithome.com/0/996/860.htm",
-      "pubDate": "Tue, 01 Sep 2026 03:39:54 GMT",
-      "contentSnippet": "IT之家 9 月 1 日消息，科技媒体 Linuxiac 昨日（8 月 31 日）发布博文，报道称 Linux 内核项目的代码托管站点 git.kernel.org 正承受大规模自动化抓取压力，站点每天约收到 600 万次随机提交页面访问请求。\n在负载方面，Kernel.org 在全球分布 5 个分布式节点，配置 90 个 CPU 核心，其中 14 至 16 个核心始终忙于将 Git 提交转换为 HTML 以供爬虫抓取，维护方据此估算，爬虫相关渲染约占总计算能力 20%。\n\nLinux 主仓库 linux.git 目前约有 148 万次提交。git.kernel.org 还托管约 922 个分",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "1858万月活换588万净利，Keep的“瘦身经济学”？",
+      "link": "https://www.tmtpost.com/8124962.html",
+      "pubDate": "Wed, 02 Sep 2026 11:11:10 +0800",
+      "contentSnippet": "一个运动App的“断舍离”启示录。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
       "allSources": [
-        "IT之家"
+        "钛媒体"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "Kernel.org 日请求600万次，约98%流量疑似爬虫，占用20%计算能力。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用Linuxiac报道，数据具体，逻辑清晰，但缺乏原始链接和独立验证。"
-    },
-    {
-      "title": "五菱扬光 Pro 增程版轻客车型上市，权益一口价 10.48 万元",
-      "link": "https://www.ithome.com/0/996/859.htm",
-      "pubDate": "Tue, 01 Sep 2026 03:39:17 GMT",
-      "contentSnippet": "IT之家 9 月 1 日消息，五菱扬光 Pro 增程版轻客车型今日正式上市，权益一口价 10.48 万元。\n即日起，用户通过五菱汽车官方渠道购车，下订即享至高 11000 元权益，还可叠加享受国补 / 地补，具体权益包括：\n\n增程版车型享 10000 元 / 台超级增换购补贴；\n\n4000 元 / 台金融补贴（与超级增换购二选一）；\n\n交 1000 元抵 2000 元订金膨胀礼；\n\n至高 6 年或 30 万公里电芯质保。\n\n\n五菱扬光 Pro 增程版延续纯电版 9 方级方正大空间，搭载 1.5T 直喷增程混动系统，宣称实现满油满电 850km 续航和每公里 0.26 元成本。\n五菱扬光 Pro",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "五菱扬光Pro增程版轻客上市，权益价10.48万元，续航850km。",
+      "aiSummary": "Keep月活1858万但净利仅588万，分析其盈利困境与瘦身策略。",
       "credibilityScore": 75,
-      "credibilityLevel": "medium",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体含价格权益，但缺少官方链接及技术细节验证。"
+      "credibilityLevel": "high",
+      "credibilityReason": "钛媒体为知名科技媒体，数据具体，分析逻辑清晰，但缺乏原始财报引用。"
     },
     {
-      "title": "iQOO 16 新机外观超前瞻：全新方形 Deco + 大 R 角设计，背板是独家研发的新工艺",
-      "link": "https://www.ithome.com/0/996/856.htm",
-      "pubDate": "Tue, 01 Sep 2026 03:32:26 GMT",
-      "contentSnippet": "IT之家 9 月 1 日消息，博主 @数码闲聊站 今日分享了 iQOO 16 新机的外观超前瞻：\n\n\n全新方形 Deco+ 大 R 角设计，三颗摄像头被串联起来，真机在 Deco 外框和底层纹理都有一些设计小巧思，精密机械感更强，有点像 UFO，有种天外来物的感觉，视觉设计很有辨识度。\n背板是独家研发的新工艺，整体设计走未来科幻美学风，在新旗舰阵营中，很有视觉冲击力。\n\n\n据IT之家此前报道，消息称 iQOO 16 搭载 6.85 英寸 2K+165Hz 新一代三星直屏，工程机的 R 角形态和边框变化不大，镜头 DECO 是左上角小方块，采用全新 ID 设计。目前，型号为 V2609A、V26",
+      "title": "饭山 PC 推出自带可折叠支架游戏本，185H + 5050/5060 配置",
+      "link": "https://www.ithome.com/0/997/268.htm",
+      "pubDate": "Wed, 02 Sep 2026 03:07:09 GMT",
+      "contentSnippet": "IT之家 9 月 2 日消息，日本企业 UNITCOM 昨日发布 iiyama PC（饭山 PC）新款 LEVEL∞ 游戏笔记本电脑。其搭载英特尔酷睿 Ultra 9 处理器 185H + NVIDIA GeForce RTX 5050 / 5060 笔记本电脑 GPU。\n该设备的最大特色是直接在后端集成有可折叠式支架：支架展开后能为这款笔电创造更流畅的气流路径从而改善游戏性能，还能提升键盘输入的人体工学体验。\n\n此型号配备 15.6\" FHD 144Hz 显示面板，搭配 RGB 背光键盘，内置英特尔 Wi-Fi 7 无线网卡，整机质量约 2.35kg。\n\n其搭载 GeForce RTX 50",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -256,10 +220,44 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "iQOO 16外观前瞻：方形Deco大R角，独家背板工艺，未来科幻风。",
-      "credibilityScore": 65,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源IT之家较知名，但内容基于博主爆料，缺乏官方确认和细节数据，前瞻性信息可信度中等。"
+      "aiSummary": "日本UNITCOM发布饭山PC新款游戏本，配185H和RTX 5050/5060，带可折叠支架。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息具体含配置细节，但缺少原始出处和实测数据。"
+    },
+    {
+      "title": "协作表格有“历史记录”：微软 Excel 用 AI 梳理变化，明晰谁改的、改了什么",
+      "link": "https://www.ithome.com/0/997/267.htm",
+      "pubDate": "Wed, 02 Sep 2026 03:06:39 GMT",
+      "contentSnippet": "IT之家 9 月 2 日消息，科技媒体 NeoWin 昨日（9 月 1 日）发布博文，报道称微软面向多人协作工作簿追溯修改，为 Excel 推出 Change History（变更历史）功能。\nIT之家附上相关演示视频如下：\n\n在官方博文中，微软指出 Excel 工作簿常因数据更新、需求变化和多人同步编辑而持续变化。时间拉长后，团队往往难以快速确认某项数据何时被修改、由谁修改，以及该改动是否影响其他计算结果。\n微软因此引入 Change History 功能，通过读取 Excel 已有编辑记录，并结合 Copilot 的推理能力生成修改说明。用户可通过自然语言提问，了解工作簿在特定时间段内发生",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微软为Excel推出AI驱动的变更历史功能，帮助团队追溯修改。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，引用NeoWin和微软官方博文，内容具体，逻辑清晰，时效性好。"
+    },
+    {
+      "title": "微信灰度测试“防错过”新功能：长按左下角可查看全部未读消息，红包转账右上角提醒",
+      "link": "https://www.ithome.com/0/997/266.htm",
+      "pubDate": "Wed, 02 Sep 2026 03:05:12 GMT",
+      "contentSnippet": "IT之家 9 月 2 日消息，微信官方公众号“微信派”今日发文，介绍了两个旨在帮助用户“防错过”的实用新功能。\n\n第一个功能针对未读消息的查找。用户如果微信里有未读消息，只需长按左下角的“微信”图标，即可查看当前全部未读聊天记录。\n此前微信在灰度测试中曾采用“双击”左下角“微信”图标的方式唤出未读列表，此次官方介绍中明确为“长按”操作。\nIT之家注：该功能目前仍处于灰度测试阶段，尚未全量开放。\n\n第二个功能针对容易被聊天消息覆盖的红包和转账。这一功能早已全量上线多年，相信大多数用户已经体验过了。\n如果聊天中存在未领取的红包或未收款的转账，聊天框右上角会自动出现“红包”或“转账”的专属提醒标识。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微信灰度测试长按查看未读消息，红包转账提醒已全量上线。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，引用官方公众号，信息具体，逻辑清晰，但功能细节待验证。"
     }
   ]
 }
