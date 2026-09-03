@@ -1,31 +1,14 @@
 {
-  "generatedAt": "2026-09-02T03:44:45.877Z",
+  "generatedAt": "2026-09-03T03:43:17.174Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "格林生物上市：一家“隐形冠军”的跃迁，与中国精细化工的高质量样本",
-      "link": "https://www.tmtpost.com/8124574.html",
-      "pubDate": "Wed, 02 Sep 2026 09:45:42 +0800",
-      "contentSnippet": "在那些看不见的化学结构里，格林生物正在构建一座支撑全球气味经济的“基础设施”，这正是中国精细化工企业走向高质量发展的一个典型样本。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "格林生物上市，展现中国精细化工高质量发展样本。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源钛媒体较权威，内容具体但缺乏数据细节，评分适中。"
-    },
-    {
-      "title": "微软称符合条件 Win11 设备 10 月默认启用内存完整性保护，拦截恶意驱动劫持",
-      "link": "https://www.ithome.com/0/997/293.htm",
-      "pubDate": "Wed, 02 Sep 2026 03:43:34 GMT",
-      "contentSnippet": "IT之家 9 月 2 日消息，科技媒体 Neowin 昨日（9 月 1 日）发布博文，报道称针对符合条件的 Windows 11 设备，微软计划 2026 年 10 月开始，默认启用内存完整性保护（Memory Integrity）。\nIT之家援引博文介绍，内存完整性保护（Memory Integrity）也称受虚拟机监控程序保护的代码完整性（Hypervisor-protected Code Integrity，HVCI），建立在基于虚拟化的安全（VBS）之上。\n该功能利用硬件虚拟化创建隔离环境，验证内核模式代码和驱动程序。Windows 内核处于操作系统底层，驱动程序可拥有较高系统权限。微",
+      "title": "赛力斯集团：积极响应《汽车行业境外竞争行为与合规建设指引》",
+      "link": "https://www.ithome.com/0/997/818.htm",
+      "pubDate": "Thu, 03 Sep 2026 02:52:08 GMT",
+      "contentSnippet": "IT之家 9 月 3 日消息，赛力斯集团今日（9 月 3 日）发布关于积极响应《汽车行业境外竞争行为与合规建设指引》的声明：\n\n近日，商务部、工业和信息化部、市场监管总局发布《汽车行业境外竞争行为与合规建设指引》（以下简称《汽车指引》）。\n《汽车指引》为中国汽车行业企业在境外发生的市场竞争等生产行为提供重要参照，有利于推动汽车产业长远健康国际化发展，提升汽车行业企业合规经营能力和国际影响力，促进全球汽车产业链供应链国际合作。\n赛力斯始终坚持合法合规是企业的红线，将充分拥护和响应《汽车指引》要求，坚守依法合规、公平竞争、互利共赢的境外经营原则，持续完善境外经营合规体系，规范全链条海外经营与竞争行",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -33,16 +16,84 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "微软计划2026年10月默认启用Win11内存完整性保护，拦截恶意驱动劫持。",
+      "aiSummary": "赛力斯回应三部委汽车境外合规指引，强调合法合规经营。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，内容为官方声明转述，信息具体但缺乏独立分析。"
+    },
+    {
+      "title": "2027 款极氪 7X 官宣第四季度上市，新增 85kWh 金砖电池版本",
+      "link": "https://www.ithome.com/0/997/814.htm",
+      "pubDate": "Thu, 03 Sep 2026 02:43:59 GMT",
+      "contentSnippet": "IT之家 9 月 3 日消息，极氪今日发布了极氪 7X 车型更新计划预告，2027 款极氪 7X 将于今年第四季度上市。\n2027 款极氪 7X 外观风格没有改变，将带来新的外观内饰颜色，新增 85kWh 金砖电池版本车型，具体产品配置，请以最终上市发布信息为准。\n此外，2027 款极氪 7X 到来之前，延续“0 元选购”三项权益，价值 18,999 元：\n\n价值 5,000 元的后排电动组合沙发；\n\n价值 2,999 元的智能冷暖恒温冰箱；\n\n价值 11,000 元的 20 英寸多辐轮毂。\n\nIT之家附官方公告如下：",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "极氪7X新款第四季度上市，新增85kWh金砖电池版。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息具体但依赖官方公告，缺少技术细节和独立验证。"
+    },
+    {
+      "title": "AI 会消灭所有工作？英伟达黄仁勋称这是无稽之谈",
+      "link": "https://www.ithome.com/0/997/753.htm",
+      "pubDate": "Thu, 03 Sep 2026 01:19:48 GMT",
+      "contentSnippet": "IT之家 9 月 3 日消息，媒体 CNBC 昨日（9 月 2 日）发布博文，报道称在 G20 创新部长级会议上，英伟达首席执行官黄仁勋表示 AI 正推动多个行业扩大就业规模，尤其是与基础设施建设相关的行业。\n\nIT之家翻译黄仁勋演讲内容如下：\n\nAI 会消灭所有工作？这简直是无稽之谈。\n人工智能正在各个领域创造就业机会，从芯片制造厂到计算机工厂再到人工智能工厂，单我们创造的就业岗位数量就高达数十万个。\n而且正如你们所知，仅今年一年，我们就将在全球和美国的基建领域投资近 1 万亿美元（IT之家注：现汇率约合 6.74 万亿元人民币）。这将带来巨大的经济增长，当然，也会创造大量就业机会。\n\nOp",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "黄仁勋驳斥AI消灭工作论，称AI创造就业并投资万亿基建。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，引用CNBC报道，内容具体有数据，但转述可能失真。"
+    },
+    {
+      "title": "联合国报告：全球变暖超过 1.5℃ 已经不可避免",
+      "link": "https://www.ithome.com/0/997/734.htm",
+      "pubDate": "Wed, 02 Sep 2026 23:55:29 GMT",
+      "contentSnippet": "IT之家 9 月 3 日消息，联合国环境规划署昨日（9 月 2 日）发布《限制超调》报告，指出全球气温升高超过《巴黎协定》中的 1.5 °C 控制目标已不可避免。\n报告指出全球平均气温升幅可能在未来几年超过工业化前水平 1.5°C，即使在最乐观的情况下，全球气温也将升高至少 1.8°C。升温超过 1.5°C 后，极端天气、生态系统损失、低洼沿海城市和小岛屿国家被淹风险将加剧。\n\n报告提出“超调、达峰、下降”路径。首先，各国需立即且持续削减温室气体排放，其中包括甲烷；随后向净零排放迈进；长期则通过净负排放降低大气中的温室气体浓度。\n联合国环境规划署强调，二氧化碳去除（Carbon Dioxide",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "联合国报告称全球变暖超1.5℃已不可避免，需采取超调、达峰、下降路径。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用Neowin博文，技术细节准确，逻辑清晰，时效性高。"
+      "credibilityReason": "来源为IT之家，内容具体引用联合国报告，数据明确，逻辑清晰，但缺少原始报告链接。"
     },
     {
-      "title": "攻坚国产“小光刻机”，惠然微电子发布国内首台 14/22nm CD-SEM 关键尺寸量测设备",
-      "link": "https://www.ithome.com/0/997/292.htm",
-      "pubDate": "Wed, 02 Sep 2026 03:41:59 GMT",
-      "contentSnippet": "IT之家 9 月 2 日消息，据爱集微 8 月 31 日报道，半导体量测设备是芯片制造过程中的“眼睛”，贯穿光刻、刻蚀、沉积等全部核心工艺环节，直接决定晶圆良率水平与制程迭代速度。电子束关键尺寸量测设备（CD-SEM）又是先进制程晶圆良率控制的核心装备之一，也是目前国产化率第二低的半导体设备品类，仅次于光刻机，在业内有“小光刻机”之称，是我国半导体产业链自主可控进程中亟待突破的关键短板。\n惠然微电子技术有限公司是国内专注于半导体量检测设备领域的创新企业，在 8 月 31 日 ~9 月 2 日的第十四届半导体设备材料及核心部件展（CSEAC 2026）上发布多款重磅新品，其中就包括 14 纳米研",
+      "title": "联合国报告警告全球气温升幅数年内将超过 1.5 度",
+      "link": "https://www.solidot.org/story?sid=85264",
+      "pubDate": "Wed, 02 Sep 2026 18:26:44 +0800",
+      "contentSnippet": "联合国环境规划署（UNEP）2 日发布报告，警告称地球变暖导致全球平均气温较工业革命前上升的幅度将在数年内超过 1.5 度，灾害、健康危害等风险将上升至危机水平。报告指出若要减轻负面影响，重要的是将超过 1.5 度的持续时间缩至最短。报告称，若保持当前的气候变暖对策，到 2100 年全球平均气温将上升约 2.6 度。即使《巴黎协定》框架下各国自主设定的温室气体减排目标全部达成，排放量和森林等吸收量相抵达到净零，预计气温仍将上升约 1.8 度，估计 10 年内将超过 1.5 度。一旦超过 1.5 度，极端的气象现象将增多，小岛被淹没的可能性升高。报告还称，人类健康、粮食生产、基础设施以及经济也将",
+      "sourceName": "Solidot",
+      "sourceWeight": 75,
+      "allSources": [
+        "Solidot"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "联合国报告警告全球气温升幅数年内将超1.5度，需缩短超标时间。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源Solidot为知名科技媒体，内容具体引用UNEP报告数据，逻辑清晰，时效性强。"
+    },
+    {
+      "title": "谷歌 Googlebook 应用 Look up 偷跑：聚焦上下文搜索、追踪航班信息等",
+      "link": "https://www.ithome.com/0/997/832.htm",
+      "pubDate": "Thu, 03 Sep 2026 03:36:29 GMT",
+      "contentSnippet": "IT之家 9 月 3 日消息，科技媒体 9to5Google 昨日（9 月 2 日）发布博文，报道称谷歌面向 Googlebook 的 Look up 应用短暂上架 Play Store 应用商店，随后官方删除页面和详情。\n\n\n该应用的软件包名为 com.google.android.desktop.contextualtools，主要定位桌面端上下文工具，该媒体测试可以在手机端安装。\n功能方面，该应用主要针对用户选中的文本，提供上下文查询，用户无需离开当前页面，即可在浮动窗口内查看与选词相关的信息。\n已展示的服务来源包括 Google Search、Google Maps 和 Google",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -50,16 +101,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "惠然微电子发布国内首台14/22nm CD-SEM量测设备，填补国产空白。",
+      "aiSummary": "谷歌Look up应用短暂上架，提供上下文搜索与航班追踪功能。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用爱集微报道，信息具体，但缺乏原始技术细节和独立验证。"
+      "credibilityReason": "来源IT之家，引用9to5Google报道，信息具体，但无官方确认，评分适中。"
     },
     {
-      "title": "vivo 创作者盛典定档 9 月 7 日，X500 系列旗舰新机官宣“本月见”",
-      "link": "https://www.ithome.com/0/997/285.htm",
-      "pubDate": "Wed, 02 Sep 2026 03:33:01 GMT",
-      "contentSnippet": "IT之家 9 月 2 日消息，vivo 产品副总裁黄韬今日宣布，vivo 创作者盛典定档 9 月 7 日 19:00 举行。\n\n黄韬称，做影像的这些年，有一件事越来越确定：创作者，永远是影像的核心。风景再美、技术再极致，真正赋予影像灵魂的，始终是镜头背后的创作者。所以今年，vivo 正式把「影像盛典」更名为「创作者盛典」，一场为创作者的盛典。\n他表示，蓝图影像也做了全面的战略升级：表达越来越多元的今天，单点的技术突破，已经不够了 —— 蓝图影像要从“影像技术品牌”，升级为真正“为创作者服务”的影像品牌。vivo X500 系列是为所有创作者准备的影像旗舰，更是满配旗舰。\nIT之家注意到，黄韬还",
+      "title": "忆联正式推出 UM301a 固态硬盘：DRAM-less 服务器 M.2 启动盘",
+      "link": "https://www.ithome.com/0/997/831.htm",
+      "pubDate": "Thu, 03 Sep 2026 03:35:56 GMT",
+      "contentSnippet": "IT之家 9 月 3 日消息，忆联 (Union Memory) 昨日宣布正式推出面向企业级应用的 M.2 80 DRAM-less 启动盘 UM301a。这一型号采用 PCIe Gen4 ×4 接口，符合 NVMe 1.4b 协议。\n\nUM301a 可选 480GB / 960GB / 1.92TB 容量，全系列顺序读取可达 5000MB/s，1.92TB 款顺序写入可达 2500MB/s、4KB 随机读取可达 350K IOPS、4KB 随机写入可达 12K IOPS。\n其全系列平均顺序读写时延为 20μm、平均随机读取时延 110μs、平均随机写入时延低至 100μs，耐久度达 0.5",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -67,16 +118,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "vivo创作者盛典定档9月7日，X500系列旗舰本月发布。",
+      "aiSummary": "忆联推出企业级M.2 DRAM-less启动盘UM301a，PCIe Gen4接口。",
       "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容具体，引用官方高管声明，信息可靠。"
+      "credibilityReason": "来源IT之家较可靠，技术参数具体，但缺少原始出处和独立验证。"
     },
     {
-      "title": "流媒体平台 Roku 首次推出自有品牌 OLED 电视，起价 999 美元",
-      "link": "https://www.ithome.com/0/997/278.htm",
-      "pubDate": "Wed, 02 Sep 2026 03:23:36 GMT",
-      "contentSnippet": "IT之家 9 月 2 日消息，流媒体平台 Roku 美国加利福尼亚州当地时间 1 日宣布首次推出自有品牌电视，提供 Roku Pro Series OLED 和 Roku Pro Series LX OLED 两个产品系列，均包含 55\" 和 65\" 款式。\n\nRoku Pro Series (LX) OLED 采用 \"4K\" 分辨率面板，支持杜比视界、HDR10+、HLG 格式的 HDR 内容，提供 4 个 HDMI 2.1（其中 1 个支持 eARC）、USB-A、USB-C。\nRoku Pro Series OLED 刷新率可达 120Hz，支持 Wi-Fi 5 规范；Roku Pro",
+      "title": "荣耀学习空间手机版官宣适配 MagicOS 11 系统，相关机型 9 月 15 日起陆续开放升级",
+      "link": "https://www.ithome.com/0/997/830.htm",
+      "pubDate": "Thu, 03 Sep 2026 03:32:30 GMT",
+      "contentSnippet": "IT之家 9 月 3 日消息，荣耀终端股份有限公司平板与 IOT 产品领域总经理 @荣耀平板利用哥 今日宣布，荣耀学习空间手机版即将适配 MagicOS 11 系统。自 9 月 15 日起，相关机型将陆续开放升级下载。\n\n@荣耀平板利用哥 微博配图显示，荣耀学习空间手机版将适配支持如下机型：\n\n\n荣耀 Magic8 系列：Magic8、RSR 保时捷设计、Pro、Pro Air\n\n荣耀 Magic7 系列：Magic7、RSR 保时捷设计、Pro\n\n荣耀 WIN 系列：WIN、WIN RT\n\n荣耀 GT 系列：GT Pro\n\n荣耀 600 系列：600 Pro、超级版、元气版\n\n\n荣耀官网显示",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -84,84 +135,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "Roku首次推出自有品牌OLED电视，起价999美元，提供55和65英寸型号。",
+      "aiSummary": "荣耀学习空间手机版将适配MagicOS 11，9月15日起多机型升级。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道具体产品细节，但缺乏原始出处和价格确认。"
+      "credibilityReason": "来源IT之家较权威，信息具体含机型列表，但未提供官方链接或详细验证。"
     },
     {
-      "title": "活跃租户使用比例不足 5%：微软官宣未来 2 年 2 阶段移除经典 SharePoint 页面",
-      "link": "https://www.ithome.com/0/997/277.htm",
-      "pubDate": "Wed, 02 Sep 2026 03:22:53 GMT",
-      "contentSnippet": "IT之家 9 月 2 日消息，微软于 8 月 31 日发布公告，将分为 2 个阶段，在未来 2 年内，逐步从 Microsoft 365 中移除 SharePoint Online 中的经典 SharePoint 页面和自定义脚本添加 / 更新功能。\nIT之家查询官方公告，这里的经典版 SharePoint 并非一个独立产品 SKU 或单一版本，是微软在 2016 年推出 Modern SharePoint 和 SharePoint Framework（SPFx）时，对原有“发布（publishing）与用户体验扩展（UX extensibility）体系”的统称。\n经典版 SharePoin",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "微软宣布两年内分两阶段移除经典SharePoint页面，因活跃租户使用比例不足5%。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，引用微软官方公告，信息具体，逻辑清晰。"
-    },
-    {
-      "title": "启境 GT7 采用八大冗余设计，产品总经理轩伟称目标让这套架构五年不过时",
-      "link": "https://www.ithome.com/0/997/273.htm",
-      "pubDate": "Wed, 02 Sep 2026 03:20:12 GMT",
-      "contentSnippet": "IT之家 9 月 2 日消息，启境汽车产品总经理轩伟今日发文，谈及了车辆安全兜底的重要性。他表示，启境汽车的八大冗余设计，不单单服务未来 L3 场景，更希望把这份安全能力给到真实的通勤、城市、高速出行中。\n据轩伟分享，适配 L3 / L4 的国标计划在明年 7 月 1 号就正式实施。他表示，启境 GT7 把冗余算力、传感器全部预埋到位，目标很明确：让这套架构五年不过时，在保证技术代际领先的同时，也尽可能减少用户未来因为软硬件迭代换车而带来的损失。\n\n据IT之家此前报道，启境 GT7 已满足国家 L3 级自动驾驶架构的设计标准，并且完成了 L3 的准入测试与申报。官方介绍称是 20 万级唯一搭载",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "启境GT7采用八大冗余设计，目标五年不过时，满足L3标准。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，内容具体，引用官方言论，但缺乏独立验证和详细技术细节。"
-    },
-    {
-      "title": "小米智能开关 2 发布：有机玻璃面板，支持单零火自适应",
-      "link": "https://www.ithome.com/0/997/271.htm",
-      "pubDate": "Wed, 02 Sep 2026 03:16:02 GMT",
-      "contentSnippet": "IT之家 9 月 2 日消息，小米智能开关 2 今日正式发布，目前已上线众筹预约，众筹价 69 元起（IT之家附小米有品官方地址：点此购买），将于下周一开启众筹。\n\n该系列提供单键、双键、三键三种按键规格，有白色、深空灰两款面板配色，采用有机玻璃面板。产品适配国标 86 型墙壁底盒，面板厚度 11mm，入墙基座深度 21.2mm。\n其外壳采用 V-0 级防火阻燃 PC 材质，可耐受 850℃ 高温阻燃测试。按键采用短键程硅胶缓冲轻音结构以降低操作噪音，每路按键下方均配有状态指示灯，可直观显示回路通断状态。\n\n小米智能开关 2 支持单火 / 零火自适应兼容，无论是新房预留零线还是老房仅火线布线场",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "小米智能开关2发布，有机玻璃面板，单零火自适应，众筹69元起。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道含具体参数、价格及众筹信息，内容详实，可信度高。"
-    },
-    {
-      "title": "阿里千问 Qwen3.8-Max-0902 版本模型发布，拿下前端编程总榜冠军",
-      "link": "https://www.ithome.com/0/997/270.htm",
-      "pubDate": "Wed, 02 Sep 2026 03:11:18 GMT",
-      "contentSnippet": "IT之家 9 月 2 日消息，阿里千问今日宣布 Qwen3.8-Max 模型升级到 0902 版本。\n官方围绕编程（Coding）和专业办公（Cowork），对 Qwen3.8-Max 进行了进一步的后训练，使得模型整体性能再度突破，更适合企业真实复杂任务、科研、长周期任务等。\n\n在 CodeArena 前端编程总榜中，Qwen3.8-Max 提升 22 分至 1691 分夺得冠军。这说明，Qwen3.8-Max 拥有更强的智能体编程能力，在多步推理、工具调用、端到端 app 生成方面均刷新了全球模型的新上限。\n\n同时，CodeArena 更新的模型性价比榜单（帕累托前沿）显示，Qwen3.8",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "阿里发布Qwen3.8-Max升级版，前端编程夺冠，性能提升。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家较权威，内容具体有数据，但缺乏独立验证和细节。"
-    },
-    {
-      "title": "商汤第一次赚钱，靠的是一场“拆家”",
-      "link": "https://www.tmtpost.com/8124895.html",
-      "pubDate": "Wed, 02 Sep 2026 11:11:13 +0800",
-      "contentSnippet": "桃李满天下，市值没剩下。",
+      "title": "地平线换了种方式赚钱，高投入还在持续",
+      "link": "https://www.tmtpost.com/8126784.html",
+      "pubDate": "Thu, 03 Sep 2026 11:27:33 +0800",
+      "contentSnippet": "地平线，想吃“车企价格战”的红利？",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -169,16 +152,68 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "商汤科技首次盈利，靠业务重组实现。",
+      "aiSummary": "地平线调整商业模式，欲借车企价格战获利，高投入持续。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容具体，但缺乏详细数据支撑，评分中等偏上。"
+      "credibilityReason": "钛媒体为知名科技媒体，内容具体分析商业模式，但缺乏原始数据支撑。"
     },
     {
-      "title": "豆包，字节的新赔率",
-      "link": "https://www.tmtpost.com/8124936.html",
-      "pubDate": "Wed, 02 Sep 2026 11:11:12 +0800",
-      "contentSnippet": "昨天，字节提高了赔率。今天，它又在提醒离场的人，什么东西不能带走。",
+      "title": "雷军：Xiaomi 18 Fold 中折叠手机搭载 6000mAh 小米金沙江电池",
+      "link": "https://www.ithome.com/0/997/829.htm",
+      "pubDate": "Thu, 03 Sep 2026 03:18:45 GMT",
+      "contentSnippet": "IT之家 9 月 3 日消息，小米创办人、董事长兼 CEO 雷军今日宣布，小米 18 Fold 将搭载 6000mAh 小米金沙江电池。\n\n创新电池叠片工艺，让轻薄折叠机身也有超强续航\n20% 超高含硅量，能量密度高达 920Wh/L\n\n\n另外，小米 18 Fold 中折叠旗舰手机还支持 67W 有线秒充 + 50W 无线秒充。IT之家整理新机目前已公开信息如下：\n小米 18 Fold 首发搭载玄戒 O3，这是首款超 500 万分的 AI 旗舰 SoC，CPU 采用十核全大核设计，多核跑分首次突破 15000 分，性能提升 60%。GPU 首发 G2-Ultra NX 图形处理器，前所未有的跨",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "雷军宣布小米18 Fold搭载6000mAh金沙江电池，能量密度920Wh/L。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家较权威，内容具体含电池参数，但未来产品细节需核实。"
+    },
+    {
+      "title": "AOC 带来 Q27U4D 显示器：26.5\" QHD 144Hz QD-OLED",
+      "link": "https://www.ithome.com/0/997/828.htm",
+      "pubDate": "Thu, 03 Sep 2026 03:18:25 GMT",
+      "contentSnippet": "IT之家 9 月 3 日消息，AOC 八月末在官网上线了 Q27U4D 显示器。这一型号采用 26.5\" QHD 144Hz  QD-OLED 面板，搭载 AGLR 防眩光低反射技术。\n\nQ27U4D 全屏亮度 200nits、HDR APL 10% 亮度 400nits；色域 100% sRGB / 99% DCI-P3，sRGB 下色偏 ΔE＜1；拥有 0.03ms 灰阶 (GtG) 响应时间与 1.5M:1 静态对比度，支持 VRR 可变刷新率、MBR 低运动模糊技术。\n\n其提供 HDMI 2.1 TMDS、DisplayPort 1.4、3.5mm 音频输出插孔，集成 USB Hub，",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家",
+        "钛媒体"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "AOC发布Q27U4D显示器，26.5英寸QHD 144Hz QD-OLED面板，参数详尽。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体，参数具体，逻辑清晰，但缺乏原始链接和独立验证。（多源覆盖 +5）"
+    },
+    {
+      "title": "小米汽车二期工厂关键进展：建设工程档案验收意见审批通过，未来有望产能翻倍",
+      "link": "https://www.ithome.com/0/997/826.htm",
+      "pubDate": "Thu, 03 Sep 2026 03:17:08 GMT",
+      "contentSnippet": "IT之家 9 月 3 日消息，根据北京市投资项目在线审批监管平台最新信息，小米智能制造产业基地二期项目迎来新进展，建设工程档案验收意见于 9 月 2 日审批通过。\n\n今年 6 月 ~7 月，该项目的厂房、围墙等建设工程规划核验、建设工程档案验收意见已陆续审批通过。\n\n建设工程档案验收意见审批通过，意味着项目档案已获得城建档案管理机构的官方认可，具备了办理竣工验收备案的关键前置条件。\n据北京经济技术开发区管理委员会 2024 年 8 月消息，小米智能制造产业基地项目二期位于亦庄新城马驹桥智造基地，该项目在土地成交 24 小时内进场施工，真正实现“拿地即开工”。\n据北京市规自委官网披露，亦庄新城",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "小米汽车二期工厂档案验收通过，产能有望翻倍。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家较权威，引用官方审批平台信息，细节具体，逻辑清晰。"
+    },
+    {
+      "title": "基金市场概况与资产配置观点 （2026.08.24—2026.08.30）",
+      "link": "https://www.tmtpost.com/8126855.html",
+      "pubDate": "Thu, 03 Sep 2026 11:10:23 +0800",
+      "contentSnippet": "债市震荡下行，利率债和信用债收益率多数上行，市场环境对债券型基金表现产生影响。您是否想知道如何在当前市场环境中优化您的投资组合？",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -186,33 +221,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "字节跳动调整豆包业务策略，提高赔率并限制用户离场带走内容。",
-      "credibilityScore": 70,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体，内容具体但缺乏数据支撑和原始引用，评分中等偏上。"
-    },
-    {
-      "title": "1858万月活换588万净利，Keep的“瘦身经济学”？",
-      "link": "https://www.tmtpost.com/8124962.html",
-      "pubDate": "Wed, 02 Sep 2026 11:11:10 +0800",
-      "contentSnippet": "一个运动App的“断舍离”启示录。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "Keep月活1858万但净利仅588万，分析其盈利困境与瘦身策略。",
+      "aiSummary": "债市震荡下行，利率债和信用债收益率上行，影响债券基金表现。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，数据具体，分析逻辑清晰，但缺乏原始财报引用。"
+      "credibilityReason": "来源为知名科技媒体，内容具体涉及债市数据，逻辑清晰，但缺乏详细数据支撑。"
     },
     {
-      "title": "饭山 PC 推出自带可折叠支架游戏本，185H + 5050/5060 配置",
-      "link": "https://www.ithome.com/0/997/268.htm",
-      "pubDate": "Wed, 02 Sep 2026 03:07:09 GMT",
-      "contentSnippet": "IT之家 9 月 2 日消息，日本企业 UNITCOM 昨日发布 iiyama PC（饭山 PC）新款 LEVEL∞ 游戏笔记本电脑。其搭载英特尔酷睿 Ultra 9 处理器 185H + NVIDIA GeForce RTX 5050 / 5060 笔记本电脑 GPU。\n该设备的最大特色是直接在后端集成有可折叠式支架：支架展开后能为这款笔电创造更流畅的气流路径从而改善游戏性能，还能提升键盘输入的人体工学体验。\n\n此型号配备 15.6\" FHD 144Hz 显示面板，搭配 RGB 背光键盘，内置英特尔 Wi-Fi 7 无线网卡，整机质量约 2.35kg。\n\n其搭载 GeForce RTX 50",
+      "title": "乐高 PS1 套装曝光：1911 块积木含手柄，附赠《GT 赛车》《捉猴啦》游戏场景",
+      "link": "https://www.ithome.com/0/997/825.htm",
+      "pubDate": "Thu, 03 Sep 2026 03:09:21 GMT",
+      "contentSnippet": "IT之家 9 月 3 日消息，网友 Brick Tap 昨日（9 月 2 日）在 Instagram 平台发布动态，分享了乐高 PlayStation 1 套装的细节，预估 10 月 1 日上市，预估售价为 160 美元（IT之家注：现汇率约合 1,078 元人民币）。\nIT之家曾于今年 3 月报道，该套装将面向成人收藏家，延续乐高近年来推出的经典游戏硬件复刻系列，套装编号为 72306，包含 1911 块积木零件。\n\n最新消息源称从零售店（未披露地点）发现该产品，以 1994 年推出的初代 PlayStation 主机为设计原型，配有一只可拆卸手柄，并加入游戏主题陈列组件。\n\n套装内含《GT",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -220,16 +238,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "日本UNITCOM发布饭山PC新款游戏本，配185H和RTX 5050/5060，带可折叠支架。",
+      "aiSummary": "IT之家报道乐高PS1套装曝光，1911块积木含手柄，10月上市。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体含配置细节，但缺少原始出处和实测数据。"
+      "credibilityReason": "来源IT之家较知名，信息具体含编号价格，但依赖网友爆料，缺官方确认。"
     },
     {
-      "title": "协作表格有“历史记录”：微软 Excel 用 AI 梳理变化，明晰谁改的、改了什么",
-      "link": "https://www.ithome.com/0/997/267.htm",
-      "pubDate": "Wed, 02 Sep 2026 03:06:39 GMT",
-      "contentSnippet": "IT之家 9 月 2 日消息，科技媒体 NeoWin 昨日（9 月 1 日）发布博文，报道称微软面向多人协作工作簿追溯修改，为 Excel 推出 Change History（变更历史）功能。\nIT之家附上相关演示视频如下：\n\n在官方博文中，微软指出 Excel 工作簿常因数据更新、需求变化和多人同步编辑而持续变化。时间拉长后，团队往往难以快速确认某项数据何时被修改、由谁修改，以及该改动是否影响其他计算结果。\n微软因此引入 Change History 功能，通过读取 Excel 已有编辑记录，并结合 Copilot 的推理能力生成修改说明。用户可通过自然语言提问，了解工作簿在特定时间段内发生",
+      "title": "地平线征程智驾芯片官宣量产突破 1500 万套",
+      "link": "https://www.ithome.com/0/997/824.htm",
+      "pubDate": "Thu, 03 Sep 2026 03:06:26 GMT",
+      "contentSnippet": "IT之家 9 月 3 日消息，地平线官方今日宣布，征程智驾芯片量产突破 1500 万套，实现量产规模第一与市场份额第一。\n\n地平线还宣布，作为中国首款实现大规模前装量产、累计出货量最高的车载智能芯片，地平线征程智驾芯片已累计赋能 800 万车主，与超 40 个品牌达成合作，中国前十大车企全部在列。\n据介绍，自 2020 年开启前装量产以来，地平线征程芯片实现从 0 到 1000 万量产用时 5 年，而从 1000 万到 1500 万的跨越仅用时 12 个月，年增速达 39%。\nIT之家查询获悉，截至目前，地平线已累计斩获 500 款量产车型定点，其中中高阶智能驾驶领域定点接近 130 款，在手",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -237,27 +255,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "微软为Excel推出AI驱动的变更历史功能，帮助团队追溯修改。",
+      "aiSummary": "地平线征程智驾芯片量产突破1500万套，规模与份额双第一。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用NeoWin和微软官方博文，内容具体，逻辑清晰，时效性好。"
-    },
-    {
-      "title": "微信灰度测试“防错过”新功能：长按左下角可查看全部未读消息，红包转账右上角提醒",
-      "link": "https://www.ithome.com/0/997/266.htm",
-      "pubDate": "Wed, 02 Sep 2026 03:05:12 GMT",
-      "contentSnippet": "IT之家 9 月 2 日消息，微信官方公众号“微信派”今日发文，介绍了两个旨在帮助用户“防错过”的实用新功能。\n\n第一个功能针对未读消息的查找。用户如果微信里有未读消息，只需长按左下角的“微信”图标，即可查看当前全部未读聊天记录。\n此前微信在灰度测试中曾采用“双击”左下角“微信”图标的方式唤出未读列表，此次官方介绍中明确为“长按”操作。\nIT之家注：该功能目前仍处于灰度测试阶段，尚未全量开放。\n\n第二个功能针对容易被聊天消息覆盖的红包和转账。这一功能早已全量上线多年，相信大多数用户已经体验过了。\n如果聊天中存在未领取的红包或未收款的转账，聊天框右上角会自动出现“红包”或“转账”的专属提醒标识。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "微信灰度测试长按查看未读消息，红包转账提醒已全量上线。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用官方公众号，信息具体，逻辑清晰，但功能细节待验证。"
+      "credibilityReason": "IT之家为知名科技媒体，数据具体，有官方来源，逻辑清晰，但缺乏独立验证。"
     }
   ]
 }
