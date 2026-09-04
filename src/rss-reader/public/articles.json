@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-03T03:41:58.027Z",
+  "generatedAt": "2026-09-04T03:46:17.871Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "受台风“沙德尔”影响 福建沿海24条航线停航",
-      "link": "https://www.chinanews.com.cn/sh/2026/09-03/10689385.shtml",
-      "pubDate": "Thu, 3 Sep 2026 11:32:50 +0800",
-      "contentSnippet": "受台风“沙德尔”影响，福建沿海出现10级大风。根据气象部门预报，今天，福建南部沿海海区和闽南、台湾浅滩渔场最大风力8—9级、阵风10—11级；中北部沿海海区和闽中渔场、闽东渔场西部最大风力7—8级、阵风9—10级。",
+      "title": "国家医保局：医保基金监管将实现七个“全覆盖”",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-04/10690166.shtml",
+      "pubDate": "Fri, 4 Sep 2026 11:30:34 +0800",
+      "contentSnippet": "中新网9月4日电 国务院新闻办公室4日举行“开局起步‘十五五’”系列主题新闻发布会，介绍推进医保高质量发展，更好服务中国式现代化建设有关情况。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -16,16 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "受台风沙德尔影响，福建沿海24条航线停航，海面风力达10级。",
+      "aiSummary": "国家医保局称医保基金监管将实现七个全覆盖，保障基金安全。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，权威媒体，信息具体，含风力数据，可查证。"
+      "credibilityReason": "来源为官方媒体中国新闻网，引用国新办发布会，信息具体，可信度高。"
     },
     {
-      "title": "国家体育总局：培育有国际竞争力的体育制造品牌",
-      "link": "https://www.chinanews.com.cn/ty/2026/09-03/10689382.shtml",
-      "pubDate": "Thu, 3 Sep 2026 11:32:13 +0800",
-      "contentSnippet": "中新网9月3日电 国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，介绍“十五五”时期体育强国建设有关情况，并答记者问。有记者问：当前，科学技术发展日新月异，深刻影响了经济建设、社会发展和人民的生活。请问，接下来将如何进一步推动体育科技发展，更好服务体育强国建设？",
+      "title": "国家医保局：实现医保服务“就近办”“智能办”“直接办”",
+      "link": "https://www.chinanews.com.cn/sh/2026/09-04/10690163.shtml",
+      "pubDate": "Fri, 4 Sep 2026 11:28:48 +0800",
+      "contentSnippet": "中新网9月4日电 国新办于9月4日就推进医保高质量发展、更好服务中国式现代化建设有关情况举行发布会。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -33,16 +33,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国新办发布会介绍“十五五”体育强国建设，将培育国际竞争力体育制造品牌。",
+      "aiSummary": "国家医保局推出医保服务就近办、智能办、直接办，提升便民水平。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，官方发布会信息，内容具体，事实可查证。"
+      "credibilityReason": "来源为中国新闻网，权威媒体，内容具体，涉及官方发布会，事实可查证。"
     },
     {
-      "title": "国家体育总局：将有序开放办队、办赛、参赛等方面限制",
-      "link": "https://www.chinanews.com.cn/ty/2026/09-03/10689380.shtml",
-      "pubDate": "Thu, 3 Sep 2026 11:31:03 +0800",
-      "contentSnippet": "中新网9月3日电 国新办3日举行“开局起步‘十五五’”系列主题新闻发布会，会上，针对如何通过更好发挥市场机制作用，促进竞技体育高质量发展的相关问题，国家体育总局竞技体育司司长张新表示，将有序开放办队、办赛、参赛等方面的限制。",
+      "title": "国家医保局：将持续扩大集采覆盖面 引导行业公平、理性竞争",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-04/10690160.shtml",
+      "pubDate": "Fri, 4 Sep 2026 11:28:08 +0800",
+      "contentSnippet": "中新网9月4日电 国务院新闻办公室4日举行“开局起步‘十五五’”系列主题新闻发布会，介绍推进医保高质量发展，更好服务中国式现代化建设有关情况。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -50,84 +50,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国家体育总局称将有序开放办队、办赛、参赛限制，以促进竞技体育发展。",
+      "aiSummary": "国家医保局称将扩大集采覆盖面，引导行业公平理性竞争。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，官方新闻发布会内容，有具体司长引述，信息可查证。"
+      "credibilityReason": "来源为中国新闻网，属权威媒体，引用国新办发布会内容，信息具体，用词客观。"
     },
     {
-      "title": "国家体育总局：进一步扩大优质赛事供给 解决“一票难求”问题",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-03/10689377.shtml",
-      "pubDate": "Thu, 3 Sep 2026 11:29:19 +0800",
-      "contentSnippet": "中新网9月3日电 国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，介绍“十五五”时期体育强国建设有关情况，并答记者问。有记者问：体育产业已经成为国民经济的重要增长极，能否请介绍一下在推动体育产业提质扩容升级方面还有哪些主要考虑？",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国家体育总局称将扩大优质赛事供给，解决一票难求问题。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，权威媒体，内容具体，引用官方发布会信息，事实可查证。"
-    },
-    {
-      "title": "国家体育总局：新周期全民健身计划面向社会各类人群",
-      "link": "https://www.chinanews.com.cn/ty/2026/09-03/10689364.shtml",
-      "pubDate": "Thu, 3 Sep 2026 11:23:41 +0800",
-      "contentSnippet": "中新网9月3日电 国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，介绍“十五五”时期体育强国建设有关情况，并答记者问。有记者问：与2021年到2025年全年健身计划相比，新周期的全民健身计划有哪些特点？",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国新办发布会介绍“十五五”全民健身计划，面向社会各类人群。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，属权威媒体，内容具体，引述发布会信息，事实可查证。"
-    },
-    {
-      "title": "推动埃中全面战略伙伴关系迈向新高度（国际论坛）",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-03/10689373.shtml",
-      "pubDate": "Thu, 3 Sep 2026 11:21:33 +0800",
-      "contentSnippet": "在埃中两国建交70周年之际，习近平主席对埃及进行历史性的国事访问，这也是习近平主席时隔10年再次对埃及进行国事访问。在世界进入新的动荡变革期，地缘冲突交织叠加、全球治理体系面临深刻调整的背景下，习近平主席此访具有赓续埃中传统友谊、深化全面战略伙伴关系的重大意义。国际社会高度关注，埃中作为发展中国家团结合作的典范，将如何为变乱交织的世界注入更多确定性与正能量。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "习近平时隔10年再访埃及，推动埃中全面战略伙伴关系迈向新高度。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，属官方媒体，内容具体但缺乏直接引述，整体可信度较高。"
-    },
-    {
-      "title": "华北军区烈士陵园举行“铭记历史 缅怀先烈 赓续传承 爱我国防”主题纪念活动",
-      "link": "https://www.chinanews.com.cn/tp/2026/09-03/10689354.shtml",
-      "pubDate": "Thu, 3 Sep 2026 11:20:39 +0800",
-      "contentSnippet": "9月3日，为纪念中国人民抗日战争暨世界反法西斯战争胜利81周年，位于河北石家庄的华北军区烈士陵园举办“铭记历史 缅怀先烈 赓续传承 爱我国防”主题纪念活动。图为革命烈士纪念碑前，全体人员默哀。中新社记者 翟羽佳 摄\r\n\n9月3日，为纪念中国人民抗日战争暨世界反法西斯战争胜利81周年，位于河北石家庄的华北军区烈士陵园举办“铭记历史 缅怀先烈 赓续传承 爱我国防”主题纪念活动。图为瞻仰革命烈士纪念碑环节。中新社记者 翟羽佳 摄\r\n\n9月3日，为纪念中国人民抗日战争暨世界反法西斯战争胜利81周年，位于河北石家庄的华北军区烈士陵园举办“铭记历史 缅怀先烈 赓续传承 爱我国防”主题纪念活动。图为民众参观",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "华北军区烈士陵园举办抗战胜利纪念活动，缅怀先烈。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威媒体，内容具体，有记者署名，事实可查证。"
-    },
-    {
-      "title": "时政微观察丨弘扬“上海精神”，上合大家庭“合”力向前",
-      "link": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=16344649164592183259&toc_style_id=feeds_default&track_id=8544F1C5-FF13-40E2-8932-EE793C0A67AD_810042857381&share_to=copy_url",
-      "pubDate": "Thu, 03 Sep 2026 03:18:09 GMT",
-      "contentSnippet": "时政微观察丨弘扬“上海精神”，上合大家庭“合”力向前",
+      "title": "以总理称推翻伊朗政权是以色列当前核心目标",
+      "link": "https://m.thepaper.cn/detail/34006850",
+      "pubDate": "Fri, 04 Sep 2026 03:24:53 GMT",
+      "contentSnippet": "据以色列媒体3日报道，以总理内塔尼亚胡当天在特拉维夫出席以军总参谋部一场活动时称，推翻伊朗政权是以色列当前的核心目标，这个目标“触手可及”。\n内塔尼亚胡还称，伊朗领导层“比以往任何时候都要脆弱”且“正在为生存而战”。\n当天晚间，以军发表声明说，已控制黎巴嫩南部阿里·塔赫尔山脊之下的两条黎真主党地下隧道，并正在“摧毁”该地道网络。以军称，该地下设施设有指挥中心、武器库和生活区，由伊朗资助，历时二十余年建成。\n此外，《以色列时报》当天报道说，伊朗警告美国，若以色列袭击阿里·塔赫尔山脊下的目标，伊朗将强力反击。以色列国防部长卡茨对此回应说，如果伊朗袭击以色列，以色列将打击伊朗所有基础设施，包括能源设",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -135,16 +67,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "澎湃新闻评上合组织弘扬上海精神，强调团结合作向前发展。",
+      "aiSummary": "以总理称推翻伊朗政权为当前核心目标，称其触手可及。",
       "credibilityScore": 75,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名媒体，内容正面但缺乏具体细节和直接引述，评分中等偏上。"
+      "credibilityReason": "来源澎湃新闻较权威，内容具体含时间地点，但单一来源且涉敏感政治声明。"
     },
     {
-      "title": "国家体育总局：严肃整治弄虚作假、操纵比赛、赛场暴力等行业乱象",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-03/10689353.shtml",
-      "pubDate": "Thu, 3 Sep 2026 11:15:21 +0800",
-      "contentSnippet": "中新网9月3日电 国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，介绍“十五五”时期体育强国建设有关情况，并答记者问。国家体育总局局长高志丹介绍，“十五五”时期，将狠抓体育行业作风，严肃整治弄虚作假、操纵比赛、赛场暴力等行业乱象。",
+      "title": "去年以来1900余人因医疗医保领域职务犯罪被诉",
+      "link": "https://m.thepaper.cn/detail/34006767",
+      "pubDate": "Fri, 04 Sep 2026 03:24:53 GMT",
+      "contentSnippet": "为贯彻落实党中央决策部署，强化医保基金安全监管，最高人民检察院与国家医保局等部门持续深化“医保基金管理突出问题专项整治工作”，依法从严惩治涉医保骗保违法犯罪活动，以高质效履职扛牢守护医保基金安全的政治责任。近日，最高人民检察院、国家医疗保障局联合发布6起“依法从严惩治医保骗保犯罪 守护医保基金安全”典型案例（详情）。最高检检委会委员、普通犯罪检察厅厅长侯亚辉、国家医保局基金监管司司长顾荣就发布的典型案例回答了记者提问。\n问：请介绍一下检察机关推动医保基金管理突出问题专项整治工作的情况，取得了哪些成效？\n侯亚辉：为贯彻落实党中央关于保障医保基金安全的决策部署，依法惩治欺诈骗保犯罪，近年来，最高检",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "最高检与国家医保局联合发布医保骗保典型案例，去年以来1900余人因医疗医保领域职务犯罪被诉。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为澎湃新闻，内容具体，引用官方数据及负责人答问，事实可查证，可信度较高。"
+    },
+    {
+      "title": "玉渊谭天｜中国为什么对G20这场会未发表公报表示遗憾",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-04/10690165.shtml",
+      "pubDate": "Fri, 4 Sep 2026 11:22:43 +0800",
+      "contentSnippet": "9月2日",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -152,16 +101,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国家体育总局局长称“十五五”将整治操纵比赛等乱象。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为官方通讯社中新网，引述官方发布会及局长原话，信息具体，可信度高。"
+      "aiSummary": "中国对G20会议未发表公报表示遗憾，原因待分析。",
+      "credibilityScore": 75,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源中国新闻网较权威，但内容简短，缺乏细节和直接引述，需进一步核实。"
     },
     {
-      "title": "哈工程校长寄语新生：拥抱三位“挚友” 让大学不止于求学",
-      "link": "http://www.chinanews.com.cn/edu/shipin/cns-d/2026/09-03/news1067583.shtml",
-      "pubDate": "Thu, 3 Sep 2026 11:13:42 +0800",
-      "contentSnippet": "近日，在哈尔滨工程大学2026级本科生开学典礼上，校长殷敬伟为全体新生送上开学寄语。殷敬伟以《拥抱“三个朋友” 大学不止于求学》为题致辞，他表示当下哈工程正处于高质量发展的黄金时期，勉励新生争做时代青春定义者。同时鼓励新生在新时代的赛道上奋力奔跑，以青春之力书写报国答卷。(制作 韩雪 视频来源 哈尔滨工程大学）",
+      "title": "（乡村行·看振兴）广东大崀镇：从“撂荒地”到“致富田” 西洋菜铺就“共富路”",
+      "link": "https://www.chinanews.com.cn/cj/2026/09-04/10690151.shtml",
+      "pubDate": "Fri, 4 Sep 2026 11:20:45 +0800",
+      "contentSnippet": "中新网清远9月4日电 (张璐 余冰冰)近日，走进广东清远市阳山县大崀镇松林村，只见田头智慧小站已是一片繁忙。一筐筐刚从田间采摘、还挂着露珠的西洋菜，经过分拣、包装、预冷后，被装上冷链运输车。随着引擎启动，这批新鲜的旱地西洋菜将跨越300公里，直供粤港澳大湾区商超及餐饮平台。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -169,84 +118,51 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "哈工程校长殷敬伟在开学典礼上寄语新生，鼓励拥抱三个朋友，以青春报国。",
+      "aiSummary": "广东大崀镇将撂荒地转为致富田，种植旱地西洋菜直供大湾区，助力乡村振兴。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威媒体；内容具体，有时间地点人物；直接引述校长致辞，可查证。"
+      "credibilityReason": "来源中国新闻网，权威性较高；报道具体，含地点、数据、过程，事实可查证，用词客观。"
     },
     {
-      "title": "体育总局：“深化治理年”行动重点解决风纪松弛、乱象频发等问题",
-      "link": "https://m.thepaper.cn/detail/33999438",
-      "pubDate": "Thu, 03 Sep 2026 03:02:44 GMT",
-      "contentSnippet": "国务院新闻办公室今天上午举行“开局起步‘十五五’”系列主题新闻发布会，介绍“十五五”时期体育强国建设有关情况。\n据介绍，近年来，随着生活方式和消费模式的深刻变革，体育业态不断迭代更新，群众体育需求呈现多元化、个性化、品质化特征，各类新兴体育项目、新型赛事活动、新型经营主体不断涌现，对管理模式、治理手段提出了新要求、带来了新挑战。\n为深入贯彻落实党中央关于体育强国建设的战略部署和“十五五”时期夯实基础、全面发力的总体要求，全面加强体育治理体系和治理能力建设，体育总局自今年3月份开始，组织开展体育领域“深化治理年”行动。此次行动从“治理”入手、以“深化”破题，核心目的在于破除瓶颈制约、补强短板弱项",
-      "sourceName": "澎湃新闻",
+      "title": "2026台湾青年岭南行总闭营活动在广州举办",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-04/10690143.shtml",
+      "pubDate": "Fri, 4 Sep 2026 11:18:07 +0800",
+      "contentSnippet": "中新网广州9月4日电 (记者 郭军)由海峡两岸交流基金、广东省海峡两岸交流促进会、广东省教育厅主办的2026台湾青年岭南行总闭营活动，9月3日晚在广州星海音乐学院大学城校区举办。",
+      "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
-        "澎湃新闻"
+        "中国新闻网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "体育总局启动“深化治理年”行动，聚焦风纪松弛、乱象频发等问题。",
+      "aiSummary": "2026台湾青年岭南行总闭营活动在广州举办，促进两岸青年交流。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源澎湃新闻较权威，内容具体，引述发布会信息，事实可查证。"
+      "credibilityReason": "来源为中国新闻网，属权威媒体，报道具体，含时间地点主办方，用词客观。"
     },
     {
-      "title": "习近平结束出席2026年上海合作组织峰会和对吉尔吉斯斯坦、埃及的国事访问回到北京",
-      "link": "https://m.thepaper.cn/detail/33999309",
-      "pubDate": "Thu, 03 Sep 2026 02:14:26 GMT",
-      "contentSnippet": "新华社快讯：习近平结束出席2026年上海合作组织峰会和对吉尔吉斯斯坦、埃及的国事访问回到北京。",
-      "sourceName": "澎湃新闻",
+      "title": "国家医保局：2028年底长护险制度在全国基本上全面覆盖",
+      "link": "https://www.chinanews.com.cn/sh/2026/09-04/10690154.shtml",
+      "pubDate": "Fri, 4 Sep 2026 11:11:01 +0800",
+      "contentSnippet": "中新网9月4日电 国新办于9月4日就推进医保高质量发展、更好服务中国式现代化建设有关情况举行发布会。会上，国家医保局副局长王文君表示，到2028年底，长期护理保险制度要在全国基本上全面覆盖。",
+      "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
+        "中国新闻网",
         "澎湃新闻"
       ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "习近平结束上合峰会及对吉、埃及国事访问返京。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为新华社快讯，权威性高，内容具体明确，符合官方发布惯例。"
-    },
-    {
-      "title": "“十五五”时期我国将努力保持获世界冠军数量位居世界前列的地位",
-      "link": "https://m.thepaper.cn/detail/33999301",
-      "pubDate": "Thu, 03 Sep 2026 02:10:43 GMT",
-      "contentSnippet": "国务院新闻办公室今天上午举行“开局起步‘十五五’”系列主题新闻发布会，国家体育总局局长高志丹介绍“十五五”时期体育强国建设有关情况。\n“十五五”时期，我国将改革完善竞技体育管理体制和运行机制，持续提升竞技体育综合实力和国际竞争力，努力保持获世界冠军数量位居世界前列的地位，在洛杉矶奥运会、阿尔卑斯山区冬奥会等世界大赛上再创优异成绩。完善竞技体育新型举国体制，更好发挥市场机制和社会力量在竞技体育发展中的重要作用，形成更加开放、更富活力、更高水平的发展格局。推动竞技体育全面均衡发展，实现从“重点突破”向以“633”项目为重点的“全面发展”战略转型（“633”即6个传统优势项目、3个基础大项、3大球）",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国家体育总局称“十五五”将保持世界冠军数量前列，改革竞技体育体制。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为澎湃新闻，引述官方发布会内容，信息具体，用词客观。"
-    },
-    {
-      "title": "习近平同埃及总统塞西会谈",
-      "link": "http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E5%9F%83%E5%8F%8A%E6%80%BB%E7%BB%9F%E5%A1%9E%E8%A5%BF%E4%BC%9A%E8%B0%88",
-      "pubDate": "Wed, 02 Sep 2026 19:18:00 +0800",
-      "contentSnippet": "",
-      "sourceName": "央视新闻",
-      "sourceWeight": 80,
-      "allSources": [
-        "央视新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "习近平与埃及总统塞西举行会谈，讨论双边关系及合作。",
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "国家医保局称2028年底长护险制度将全国基本全覆盖。",
       "credibilityScore": 95,
       "credibilityLevel": "high",
-      "credibilityReason": "央视新闻为官方权威媒体，内容具体，涉及国家元首外交，可信度高。"
+      "credibilityReason": "来源为中国新闻网和澎湃新闻，均为权威媒体，引述官方发布会内容，信息具体明确。（多源覆盖 +5）"
     },
     {
-      "title": "陈力达任侨乡泉州市委书记",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-03/10689342.shtml",
-      "pubDate": "Thu, 3 Sep 2026 11:38:42 +0800",
-      "contentSnippet": "中新网泉州9月3日电 福建官方3日通报，中共福建省委决定，陈力达任泉州市委书记。",
+      "title": "国家医保局：去年灵活就业等其他人员参加职工医保6982.18万人",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-04/10690138.shtml",
+      "pubDate": "Fri, 4 Sep 2026 11:01:16 +0800",
+      "contentSnippet": "中新网9月4日电 国务院新闻办公室4日举行“开局起步‘十五五’”系列主题新闻发布会，介绍推进医保高质量发展，更好服务中国式现代化建设有关情况。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -254,10 +170,96 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "福建省委决定陈力达任泉州市委书记，官方通报。",
+      "aiSummary": "国家医保局称去年灵活就业等人员参加职工医保达6982.18万人。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为官方媒体，引述国新办发布会，数据具体，可信度高。"
+    },
+    {
+      "title": "国家医保局：医保部门将试行医疗服务价格项目预立项制度",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-04/10690134.shtml",
+      "pubDate": "Fri, 4 Sep 2026 10:59:36 +0800",
+      "contentSnippet": "中新网9月4日电 国新办于9月4日就推进医保高质量发展、更好服务中国式现代化建设有关情况举行发布会。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网",
+        "澎湃新闻"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "国家医保局将试行医疗服务价格项目预立项制度，以推进医保高质量发展。",
+      "credibilityScore": 95,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为官方发布会及权威媒体，信息具体，可信度高。（多源覆盖 +5）"
+    },
+    {
+      "title": "开局起步“十五五”：“一区三地”勾勒海南定安发展新路径",
+      "link": "https://www.chinanews.com.cn/cj/2026/09-04/10690128.shtml",
+      "pubDate": "Fri, 4 Sep 2026 10:59:08 +0800",
+      "contentSnippet": "中新网海口9月4日电 (记者 王晓斌)“‘十五五’时期是定安在海南自贸港封关运作新起点上蓄势发力、乘势而上的关键五年，也是定安全面融入海口经济圈、加快推动高质量发展的重要五年。”3日海南举行的“开局起步‘十五五’”系列主题新闻发布会上，定安县委副书记、县人民政府县长黄海鹄如是说。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "海南定安县长介绍“十五五”发展路径，强调融入海口经济圈，推动高质量发展。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网，权威媒体，引用官方发布会及县长直接引述，信息具体，可信度高。"
+    },
+    {
+      "title": "单项冠军县，何以扛打丨“国际纺都”柯桥打造时尚新地标",
+      "link": "https://m.thepaper.cn/detail/33972615",
+      "pubDate": "Thu, 03 Sep 2026 23:32:01 GMT",
+      "contentSnippet": "在过往四十余年的发展历程中，浙江省绍兴市柯桥区的纺织产业经历了波澜壮阔的“三次创业”。\n第一次创业，它从水乡河畔的“河边布街”起步，崛起为享誉全国的“中国轻纺城”；第二次创业，它深度嵌入全球产业链，跃升为全球规模最大、品类最全的“国际纺织之都”；现阶段推进的第三次创业，它要在深厚的产业根基之上，重塑基因，全力打造时尚创意产业的新地标。\n自2015年首届时尚周创办以来，柯桥时尚周已从地方性的产业活动，逐步蜕变为行业级的时尚IP。它不仅助推柯桥完成了从“面料集散地”向“时尚策源地”的身份转换，更牵引着整个纺织品行业，从源头材料到终端成品，展开一场系统性的革新。\n放眼全球，纺织供应链的竞争已进入一个",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "澎湃新闻称柯桥纺织业三次创业，打造时尚新地标，从面料集散地向时尚策源地转型。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，官方通报，事实明确，但无多源交叉验证。"
+      "credibilityReason": "来源澎湃新闻较权威，内容具体有历史脉络，但属地方产业报道，缺乏多源交叉验证。"
+    },
+    {
+      "title": "A股午评：超4100只个股飘红，三大指数集体收涨",
+      "link": "https://www.chinanews.com.cn/cj/2026/09-04/10690170.shtml",
+      "pubDate": "Fri, 4 Sep 2026 11:38:00 +0800",
+      "contentSnippet": "A股午评：超4100只个股飘红，三大指数集体收涨；科创50收跌；文化传媒、农业、房地产上涨；半导体、贵金属高开低走，煤炭、海运下跌",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "A股午盘三大指数上涨，超4100只个股飘红，科创50下跌，板块分化明显。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网权威，数据具体，报道客观，可交叉验证。"
+    },
+    {
+      "title": "楼上漏水导致楼下92幅作品受损 法院为何判楼上租户无责？",
+      "link": "https://www.chinanews.com.cn/fz/2026/09-04/10690168.shtml",
+      "pubDate": "Fri, 4 Sep 2026 11:35:52 +0800",
+      "contentSnippet": "楼上漏水，楼下遭殃，在生活中这样的情形屡见不鲜。通常在这种情况下，楼上的住户应该承担楼下住户的损失。画家娄先生，就因为楼上的水龙头阀芯崩裂，导致他的90多幅书画作品不同程度受损。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "楼上漏水致楼下92幅作品受损，法院判楼上租户无责，因责任在房东。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网，权威媒体，报道具体案件细节，内容可查证，用词客观。"
     }
   ]
 }
