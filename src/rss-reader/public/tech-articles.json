@@ -1,264 +1,266 @@
 {
-  "generatedAt": "2026-09-04T03:47:38.973Z",
+  "generatedAt": "2026-09-05T03:44:05.390Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "Edge AI Daily 早报（9月4日）",
-      "link": "https://www.tmtpost.com/8128131.html",
-      "pubDate": "Fri, 04 Sep 2026 08:19:00 +0800",
-      "contentSnippet": "谷歌WeatherNext 3接入十亿用户，AI气象预报产品化落地。OpenAI安全争议凸显模型可解释性困境。Meta Muse Spark 1.3以低价高能效率冲击AI Agent市场，高通GPU集成AI核心推动移动端AI算力变革。微软强制SBOM驱动签名，供应链安全走向强制。Palo Alto Networks收购AI Agent，安全运营范式转变。法国启动特斯拉FSD路测，欧盟自动驾驶政策加速。索尼微软拒退关税涨价款，消费电子定价权博弈升级。特朗普半导体关税以建厂豁免替代传统保护，重塑全球芯片格局。机器人行业88%失败率揭示商业化真实瓶颈。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "鸿蒙座舱车机芯片阶段性短缺，华境汽车就华境 S 交付延期而道歉",
+      "link": "https://www.ithome.com/0/998/701.htm",
+      "pubDate": "Sat, 05 Sep 2026 03:32:33 GMT",
+      "contentSnippet": "IT之家 9 月 5 日消息，华境汽车今日发布官方说明，就旗下首款车型华境 S 的交付周期调整向用户作出解释。\n华境汽车表示，由于行业芯片供应链波动，华境 S 鸿蒙座舱配套车机芯片出现阶段性供货紧缺，导致部分用户订单交付周期有所延长。\n\n针对此次交付延长的原因，华境汽车在说明中表示，生产制造能力已全面就绪，但对行业整体芯片供给挑战的预判和预案不够充分。目前华境 S 已启动专项保供工作，包括与核心合作伙伴沟通拓展芯片供给渠道，以及推进多元化供应方案。对于已锁单但尚未提车的用户，专属顾问将持续跟进，排产动态与订单进度也会通过官方 App 同步更新。\n华境汽车强调，在加速交付的同时将坚守丝米级智造水",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "钛媒体"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体早报汇总AI、芯片、安全等科技动态，信息密集但细节有限。",
+      "aiSummary": "华境汽车因鸿蒙座舱车机芯片短缺，就华境S交付延期道歉并启动保供。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体但缺乏深度数据支撑，评分75。"
+      "credibilityReason": "IT之家为知名科技媒体，报道具体，含官方说明细节，但缺乏独立数据支撑。"
     },
     {
-      "title": "尼泊尔认为主要碳排放国家应补偿它因气候变化遭受的损失",
-      "link": "https://www.solidot.org/story?sid=85278",
-      "pubDate": "Thu, 03 Sep 2026 22:48:37 +0800",
-      "contentSnippet": "尼泊尔和西藏的泥石流灾害发生迄今过去 8 天，累计死亡人数已超过 1200 人，还有近 5000 人仍然下落不明。尼泊尔外交部长卡纳尔（Shisir Khanal）上周接受该国媒体 Kantipur TV 访问，称这场灾难不只是一般的洪水，其规模之大犹如海啸。他认为，冰川快速融化是全球暖化与气候变迁的后果，但气候变迁的始作俑者并不是尼泊尔。“我们在为这场不是我们制造出来的全球危机，付出沉重代价。”卡纳尔指出，世界上最大的碳排放国是中国，美国是第二名，第三是印度，“这些国家负有历史责任，应该补偿像尼泊尔这样的脆弱国家。”尼泊尔的气候倡议者拉兹姆（Tashi Lhazom）认为，气候变迁的背景下，",
-      "sourceName": "Solidot",
-      "sourceWeight": 75,
+      "title": "涉案超 200 亿元，上海警方捣毁虚拟货币、虚拟信用卡换汇团伙",
+      "link": "https://www.ithome.com/0/998/669.htm",
+      "pubDate": "Sat, 05 Sep 2026 01:31:20 GMT",
+      "contentSnippet": "IT之家 9 月 5 日消息，据央视新闻昨日报道，上海警方近日通报了两起以虚拟货币、虚拟信用卡等为媒介的非法经营、洗钱犯罪案件，累计抓获犯罪嫌疑人 28 名，两案合计涉案金额超过 200 亿元。\n\n首先第一起案件源于今年 1 月，上海公安经侦部门在网络巡查中发现，有人在网络平台推广换汇业务。\n经查，自 2024 年 8 月以来，犯罪嫌疑人刘某等人未经国家主管部门批准，以虚拟货币为结算载体，通过虚拟货币及境内外资金进行金额匹配的流转方式，非法从事人民币与外币兑换活动。\n\n上海市公安局经侦总队一支队副支队长周骏介绍，该团伙的运作模式是“人民币换成虚拟币，虚拟币再转移到境外去抛售成外币，再转发到客户",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "Solidot"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "尼泊尔因气候灾难要求主要碳排放国补偿损失。",
+      "aiSummary": "上海警方破获涉案超200亿元虚拟货币换汇洗钱案，抓获28人。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，引用央视报道，案件细节具体，涉及金额和人数明确，可信度较高。"
+    },
+    {
+      "title": "IT早报 0905：华为韬定律更新麒麟 2026 芯片晶体管密度暴涨 55%；曝苹果质检严折叠屏 iPhone 日产仅数百部；曝西贝赔偿金拖至 2028 年；人人影视回归变正版...",
+      "link": "https://www.ithome.com/0/998/650.htm",
+      "pubDate": "Sat, 05 Sep 2026 00:00:54 GMT",
+      "contentSnippet": "“IT早报”时间，大家好，现在是 2026 年 9 月 5 日星期六，今天的重要科技资讯有：\n1. 麒麟 2026 芯片晶体管密度暴涨 55%，华为何庭波更新韬定律论文\n9 月 4 日，一篇发布于 ChinaXiv 的预印本论文《华为 τ（韬）芯片本该过热烧毁？》对外公开，华为工程师何庭波详细披露了 τ（韬）定律的底层原理，并且放出麒麟 2026 芯片的实测数据。>> 查看详情\n\n2. 因苹果对质量要求极其严格，消息称折叠屏 iPhone Ultra 日产量截至上月底仅数百部\n一名了解情况的供应链经理表示：“苹果对质量的要求非常高，在正式生产前又于 8 月增加了一轮试生产。但产量提升速度很慢，",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "IT之家早报汇总麒麟芯片、折叠屏iPhone等科技新闻。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源Solidot为知名科技媒体，内容具体，引用外交部长言论，但缺乏原始数据支撑。"
+      "credibilityReason": "来源知名科技媒体，内容具体但部分信息缺乏原始链接和官方确认。"
     },
     {
-      "title": "补贴只是短期热闹，外卖行业重练基本功",
-      "link": "https://www.tmtpost.com/8127933.html",
-      "pubDate": "Fri, 04 Sep 2026 11:37:35 +0800",
-      "contentSnippet": "高补贴沉淀不了忠实用户",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "影响课堂地图到航海工具：联合国推动淘汰沿用 457 年的墨卡托投影法世界地图",
+      "link": "https://www.ithome.com/0/998/636.htm",
+      "pubDate": "Fri, 04 Sep 2026 23:14:37 GMT",
+      "contentSnippet": "IT之家 9 月 5 日消息，《卫报》昨日（9 月 4 日）发布博文，报道称联合国大会 9 月 4 日在纽约通过决议，建议各国和机构逐步弃用传统墨卡托投影（Mercator projection）地图，转向基于 2018 年 Equal Earth 设计的地图投影。\n在本次表决中，共有 164 国赞成该决议，美国是唯一反对国，另有 6 国弃权。美国代表称，该决议“多余”。决议不具强制执行力，但可能推动学校课程、政府制图和日常数字地图产品更新。\nIT之家援引博文介绍，墨卡托投影是一种把球形地球铺展到平面上的制图方法，便于航海定向，但在视觉上会缩小赤道附近的地区，并显著放大高纬度地区的面积。\n墨卡",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "外卖补贴难留用户，行业应重练基本功。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，观点明确，但缺乏数据支撑，内容较简略。"
-    },
-    {
-      "title": "星巴克的中国新故事太难讲了",
-      "link": "https://www.tmtpost.com/8127974.html",
-      "pubDate": "Fri, 04 Sep 2026 11:37:32 +0800",
-      "contentSnippet": "星巴克中国业务出表，营收下滑但利润大幅增长，凸显其在本土市场的经营压力。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "星巴克中国业务出表，营收下滑但利润增长，本土经营压力凸显。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体，涉及财务数据，但缺乏原始出处和深度分析。"
-    },
-    {
-      "title": "AI猎头的暴富神话：找到一个人，佣金300w？",
-      "link": "https://www.tmtpost.com/8127900.html",
-      "pubDate": "Fri, 04 Sep 2026 11:32:03 +0800",
-      "contentSnippet": "钱被吹过来了，但借助它全靠自己。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "AI猎头行业高佣金现象引关注，钛媒体报道称单笔佣金可达300万。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容具体但缺乏数据支撑和原始出处，逻辑清晰。"
-    },
-    {
-      "title": "机器人能动只是第一步，难的是落地场景",
-      "link": "https://www.tmtpost.com/8127840.html",
-      "pubDate": "Fri, 04 Sep 2026 11:32:00 +0800",
-      "contentSnippet": "变电站、输煤栈桥、百万册书库，三个毫不相干的场景，底下是同一条链路。工业AI真正的门槛不在识别率，而在识别结果能不能进客户流程、能不能连续几年不出错。算法可以买，现场买不到。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "机器人落地难在场景适配，工业AI门槛在流程集成与长期稳定。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源钛媒体，内容具体，聚焦行业痛点，逻辑清晰，但缺乏数据支撑。"
-    },
-    {
-      "title": "ARR 3亿美元的Kimi，为什么还在追着投资人要钱？",
-      "link": "https://www.tmtpost.com/8127838.html",
-      "pubDate": "Fri, 04 Sep 2026 11:09:17 +0800",
-      "contentSnippet": "Kimi 越来越不像 Anthropic 了。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "Kimi高收入仍融资，战略考量引关注。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，标题有吸引力但正文摘要简略，缺乏具体数据与原始出处，评分中等偏上。"
-    },
-    {
-      "title": "德基的艺术奥莱，给了Max Mara一个清货的台阶下",
-      "link": "https://www.tmtpost.com/8127769.html",
-      "pubDate": "Fri, 04 Sep 2026 10:58:33 +0800",
-      "contentSnippet": "又有新厕所可以打卡了。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "德基艺术奥莱为Max Mara清货提供平台，引发打卡热潮。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容涉及商业现象，但技术性弱，细节不足，评分中等偏上。"
-    },
-    {
-      "title": "蔚来的新“船票”",
-      "link": "https://www.tmtpost.com/8127970.html",
-      "pubDate": "Fri, 04 Sep 2026 10:58:31 +0800",
-      "contentSnippet": "时机已到?",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体分析蔚来新机遇，认为时机已到。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体，但缺乏数据细节和原始出处，评分适中。"
-    },
-    {
-      "title": "WorkBuddy这一年：腾讯AI实践最真实的25个判断",
-      "link": "https://www.tmtpost.com/8127871.html",
-      "pubDate": "Fri, 04 Sep 2026 10:48:37 +0800",
-      "contentSnippet": "腾讯不追风口，风口追上了腾讯——WorkBuddy突围实录",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "腾讯WorkBuddy AI实践一年，分享25个真实判断。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源钛媒体较权威，内容具体但缺乏数据支撑，判断主观。"
-    },
-    {
-      "title": "中国大模型简史01：模型越做越大，却没人知道它该变成什么",
-      "link": "https://www.tmtpost.com/8127754.html",
-      "pubDate": "Fri, 04 Sep 2026 10:48:35 +0800",
-      "contentSnippet": "记录一个骤然加速的时代，一群雕琢未来的人",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "回顾中国大模型发展历程，指出规模扩张但方向不明的问题。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来自知名科技媒体，内容有深度但缺乏具体数据与原始出处，评分中等偏上。"
-    },
-    {
-      "title": "特斯拉新车发布！Cybercab 正式投入运营，马斯克开始接单了",
-      "link": "https://www.ifanr.com/1678435?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pubDate": "Fri, 04 Sep 2026 02:33:08 +0000",
-      "contentSnippet": "一辆为接单而生的车。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "sourceName": "爱范儿",
-      "sourceWeight": 82,
-      "allSources": [
-        "爱范儿"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "特斯拉Cybercab投入运营，马斯克开始接单。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "爱范儿为知名科技媒体，内容具体但缺乏技术细节和数据支撑。"
-    },
-    {
-      "title": "Claude走出屏幕前，Anthropic先给机械臂写“说明书”",
-      "link": "https://www.tmtpost.com/8127807.html",
-      "pubDate": "Fri, 04 Sep 2026 10:27:13 +0800",
-      "contentSnippet": "AI Agent要走出电脑，不仅需要一个更聪明的大脑，还得面对几十年工业系统留下的接口。现在，大模型公司与自动化行业开始从两端向同一层靠近。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体",
+        "IT之家",
         "Solidot"
       ],
       "coverageCount": 2,
       "coverageBoost": 5,
-      "aiSummary": "AI Agent进入工业界需适配旧接口，大模型与自动化行业正相向融合。",
+      "aiSummary": "联合国建议弃用墨卡托投影地图，转向Equal Earth投影，美国反对。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家和Solidot，引用卫报报道，信息具体，有表决细节，逻辑清晰。（多源覆盖 +5）"
+    },
+    {
+      "title": "我国首个配冷却塔的“华龙一号”，中广核招远 2 号机组今日开工",
+      "link": "https://www.ithome.com/0/998/707.htm",
+      "pubDate": "Sat, 05 Sep 2026 03:39:27 GMT",
+      "contentSnippet": "IT之家 9 月 5 日消息，中广核山东招远核电项目 2 号机组今日上午启动核岛第一罐混凝土浇筑（FCD），标志着该机组主体工程正式开工，项目一期工程进入全面建设阶段。\n\nIT之家此前报道，招远核电项目 1 号机组已于 2025 年 11 月 18 日实现主体工程开工。\n招远核电项目位于烟台招远市张星镇，是中广核在全国布局的第十个核电基地。项目规划建设 6 台“华龙一号”核电机组，采用我国具有完全自主知识产权的三代核电技术，单台机组额定电功率约 120 万千瓦。\n该项目也是我国首个配置高位收水自然通风冷却塔的“华龙一号”核电机组项目 —— 每台机组均配置一座高达 203 米、淋水面积 1680",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中广核招远2号机组开工，系我国首个配冷却塔的华龙一号项目。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道含具体日期、技术参数及项目背景，信息详实可靠。"
+    },
+    {
+      "title": "iOS 版谷歌翻译升级实时翻译：iPhone 17 等支持“贴耳私听”",
+      "link": "https://www.ithome.com/0/998/699.htm",
+      "pubDate": "Sat, 05 Sep 2026 03:31:57 GMT",
+      "contentSnippet": "IT之家 9 月 5 日消息，谷歌昨日（9 月 4 日）发布博文，宣布升级谷歌翻译（Google Translate）的实时翻译功能，iPhone 用户在嘈杂环境下，也可以通过手机听筒直接收听实时翻译。\niOS 版谷歌翻译新增听筒播放功能，用户可将 iPhone 17 等贴近耳朵，通过设备听筒收听实时翻译内容，从而在不使用耳机的情况下，减少外放声音对周边环境的影响。\niPhone 用户此前使用实时翻译，收要么外放、要么必须连耳机，而本次新增听筒播放功能后，直接贴耳就能听，像打电话一样自然。IT之家附上相关截图如下：\n\n而安卓版谷歌翻译最新版针对移动端实时听译场景，支持后台持续运行，用户打开地图",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "谷歌翻译iOS版新增听筒播放，iPhone 17等支持贴耳私听实时翻译。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，内容具体，引用谷歌官方博文，技术细节清晰，评分高。"
+    },
+    {
+      "title": "799 元雷蛇悦神 X 无线扬声器头枕发售：集成近场双扬声器，支持 THX 空间音效",
+      "link": "https://www.ithome.com/0/998/698.htm",
+      "pubDate": "Sat, 05 Sep 2026 03:18:08 GMT",
+      "contentSnippet": "IT之家 9 月 5 日消息，雷蛇今日宣布推出雷蛇悦神 X（Razer Clio X）无线扬声器头枕，定价 799 元。该产品将头枕与扬声器相结合，可作为电竞椅配件使用，适用于游戏、观影、音乐等场景。\n京东雷蛇（Razer）悦神 X 无线头枕扬声器音响 蓝牙 THX 空间音频音箱 三角洲行动 CSGO 游戏适用 电竞椅配件 799 元直达链接\n2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取。\n数码补贴：点此领券\n\n手机 / 平板 / 3C 数码支持 8.5 折政府补贴，不超过 6000 元的产品至高立减 500 元。\n\n家电补贴：点此领券\n\n多",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "雷蛇发布799元悦神X无线扬声器头枕，集成近场双扬声器，支持THX空间音效。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道具体含价格、功能，但缺乏技术细节和官方引用。"
+    },
+    {
+      "title": "微软 8 月 Win11 可选更新改进关机 / 重启体验，不再强制安装更新",
+      "link": "https://www.ithome.com/0/998/697.htm",
+      "pubDate": "Sat, 05 Sep 2026 03:14:30 GMT",
+      "contentSnippet": "IT之家 9 月 5 日消息，科技媒体 Windows Latest 昨日（9 月 4 日）发布博文，报道称 8 月 27 日发布的 Windows 11 可选更新 KB5120998 中，微软改进了关机 / 重启体验，不再强制安装更新。\nIT之家附上相关视频如下：\n\n该媒体指出微软早在今年 4 月已开始测试该特性，在 Windows 11 Build 26300.8289 预览版中，而在本次可选更新中已邀请更多用户测试，并将会整合到 9 月补丁星期二（9 月 8 日）活动日发布的累积更新中。\n\n该媒体指出在此前 Windows 11 使用过程中，在后台或用户手动下载完更新后，用户点击“关机”",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微软改进Win11关机重启体验，不再强制安装更新，将整合至9月更新。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家知名科技媒体，引用Windows Latest报道，信息具体含版本号，但缺乏官方确认。"
+    },
+    {
+      "title": "Rivian 向旗下 R1/R2 车型推送 RivianOS 2 车机系统更新：引入虚幻引擎 5、界面设计焕新",
+      "link": "https://www.ithome.com/0/998/696.htm",
+      "pubDate": "Sat, 05 Sep 2026 03:08:45 GMT",
+      "contentSnippet": "IT之家 9 月 5 日消息，Rivian 现已向旗下符合条件的 R1 和 R2 车型推送 RivianOS 2 车机系统更新，这是自 R1 系列首批车型上市以来规模最大的一次车载软件升级，首次尝试让 Rivian 目前销售的所有车型运行在统一的软件技术栈上。\n\nIT之家获悉，RivianOS 2 主要引入了重新设计的用户界面、基于虚幻引擎 5（Unreal Engine 5）的实时 3D 载具 / 环境、违章摄像头提醒以及“混合式边缘计算方案”AI 功能。\n具体来看，RivianOS 2 将快捷控制按钮和媒体播放器放置在屏幕左右两侧，官方重新设计垂直状态栏，能够让驾驶员更加方便地访问车辆核心",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家",
+        "钛媒体",
+        "Solidot"
+      ],
+      "coverageCount": 3,
+      "coverageBoost": 10,
+      "aiSummary": "Rivian推送RivianOS 2更新，引入虚幻引擎5和全新界面，统一软件栈。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家等知名科技媒体，内容具体，提及技术细节和更新范围，但缺乏官方直接引用。（多源覆盖 +10）"
+    },
+    {
+      "title": "岚图梦想家 9 开启预售：42.99 万-52.99 万元，全系 800V+ 华为乾崑智驾 ADS 5 + 鸿蒙座舱 6",
+      "link": "https://www.ithome.com/0/998/695.htm",
+      "pubDate": "Sat, 05 Sep 2026 03:03:15 GMT",
+      "contentSnippet": "IT之家 9 月 5 日消息，岚图梦想家 9 今日正式开启预售，预售价区间为 42.99 万元至 52.99 万元。\n新车推出 Ultra、Ultra+ 和礼尊版三个版型，涵盖插混和纯电两种动力形式，共计五个配置，同步释放至高价值 5 万元购车权益。展车于今日起陆续到店。\n\n作为岚图品牌旗舰 MPV，梦想家 9 基于全域 L3 级电子电气架构打造，搭载华为乾崑智驾 ADS 5 系统，配备 37 个感知传感器，包括新一代 896 线双光路图像级主激光雷达与 3 颗固态补盲雷达，实现城市、高速、泊车等全场景智驾覆盖。\n\n座舱方面，新车采用鸿蒙座舱 HarmonySpace 6，搭载 MoLA 2.",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "岚图梦想家9开启预售，42.99万起，全系800V+华为智驾ADS5与鸿蒙座舱6。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道具体含价格、配置、技术细节，信息详实，来源可靠。"
+    },
+    {
+      "title": "微软预告 Excel 新增 AI 画布，打造可视化交互式数据看板",
+      "link": "https://www.ithome.com/0/998/693.htm",
+      "pubDate": "Sat, 05 Sep 2026 03:00:50 GMT",
+      "contentSnippet": "IT之家 9 月 5 日消息，科技媒体 Windows Latest 昨日（9 月 4 日）发布博文，报道称微软计划为 Excel 推出 Copilot Canvas 功能，可将工作簿中的图表、关键指标和分析洞察整合为交互式视图，并在底层数据变化后自动更新。\n根据微软官方产品路线图描述，Copilot Canvas 可把工作簿数据，转化为包含关键可视化图表、指标和洞察的交互式画布，并支持用户通过自然语言对话方式，交互修改画布内容。\n在 Excel 现有 Copilot 体验中，用户可以要求 Copilot 根据提示创建模板，也可在已有数据基础上构建较复杂的仪表板。IT之家附上相关截图如下：",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微软计划为Excel推出Copilot Canvas，整合图表指标为交互式视图。",
       "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体，涉及行业趋势，但缺乏原始数据支撑。（多源覆盖 +5）"
+      "credibilityReason": "来源IT之家，引用Windows Latest及微软官方路线图，信息具体，逻辑清晰。"
     },
     {
-      "title": "中国车企拿什么突围？",
-      "link": "https://www.tmtpost.com/8127705.html",
-      "pubDate": "Fri, 04 Sep 2026 10:27:09 +0800",
-      "contentSnippet": "伟大的公司往往诞生在冬天。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "索尼被曝将发布三款 E 卡口新镜头：600mm F6.3 与 400mm F4.5 均低于 1kg",
+      "link": "https://www.ithome.com/0/998/692.htm",
+      "pubDate": "Sat, 05 Sep 2026 02:56:02 GMT",
+      "contentSnippet": "IT之家 9 月 5 日消息，Fredmiranda 论坛上有人泄露了索尼的发布会信息，该消息已经过 SonyAlphaRumors 确认。\n据称，索尼将在两到三周内发布三款镜头，其中包括两款重量不足 1kg 的超远摄定焦 G 大师镜头：\n\nFE 600mm f/6.3 GM OSS 镜头，售价约 3,800 美元（现汇率约合 25,570 元人民币）\n\nFE 400mm f/4.5 GM OSS 镜头，售价 2,699~2,899 美元（现汇率约合 18,161 ~ 19,507 元人民币）\n\n8-14mm f/3.5 鱼眼镜头，售价约 1,499 美元（IT之家注：现汇率约合 10,087",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "钛媒体"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "分析中国车企在行业寒冬中的突围策略与机遇。",
+      "aiSummary": "索尼被曝将发布三款E卡口新镜头，含两款超远摄定焦，均低于1kg。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容聚焦行业趋势，但摘要较简略，缺乏具体数据与细节支撑。"
+      "credibilityReason": "来源IT之家，信息具体含价格重量，经SonyAlphaRumors确认，但属传闻，非官方发布。"
     },
     {
-      "title": "晶圆代工业，集体涨涨涨！",
-      "link": "https://www.tmtpost.com/8127726.html",
-      "pubDate": "Fri, 04 Sep 2026 10:27:06 +0800",
-      "contentSnippet": "晶圆代工，“黄金”一年。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "小米服务：针对福建地区受台风“沙德尔”影响造成损坏 / 故障的小米产品，提供免费检测、免费维修服务",
+      "link": "https://www.ithome.com/0/998/691.htm",
+      "pubDate": "Sat, 05 Sep 2026 02:55:01 GMT",
+      "contentSnippet": "IT之家 9 月 5 日消息，小米服务今日发文，针对福建地区（福州、厦门、泉州、宁德、莆田、漳州、龙岩等地）受台风“沙德尔”影响造成损坏 / 故障的小米产品，提供免费检测、维修服务。\n手机品类、可穿戴品类\n\n支持品类：Xiaomi 手机、REDMI 手机、平板、笔记本、手环、手表、耳机\n\n服务内容：免费检测、免费清洁、免费饮用水、免费 Wi-Fi、免费充电、免费维修（对受台风导致的产品进水故障免费提供维修服务）\n\n大家电、生态链品类\n\n支持品类：小米公司旗下的智能家电产品\n\n服务内容：对受台风影响导致的产品进水故障免费提供检测、维修服务\n\n受理时间\n\n2026 年 9 月 5 日至 2026",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "钛媒体"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "晶圆代工业迎来涨价潮，行业景气度高涨。",
+      "aiSummary": "小米为福建台风受灾用户提供免费检测维修服务。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，信息具体，服务细节清晰，时效性强，客观中立。"
+    },
+    {
+      "title": "长城推出 GX+ 850W 白金全模组 ATX 3.1 电源：提供 10 年质保，599 元",
+      "link": "https://www.ithome.com/0/998/690.htm",
+      "pubDate": "Sat, 05 Sep 2026 02:49:31 GMT",
+      "contentSnippet": "IT之家 9 月 5 日消息，长城现已在京东上架 GX+ 850W 白金全模组 ATX 3.1 电源，定价 599 元，提供 10 年质保。\n京东长城 GX+ 850W 白金牌全模组电源 599 元直达链接\n\n\n该电源尺寸为 150mm x 150mm x 86mm，提供四个 8PIN 接口及一个原生 PCIe 5.1 12V-2x6 接口，内部配备了一把 140mm 散热风扇，支持智慧启停 2.0 技术，在低负载模式下会自动停止转动，以控制并减少运行噪音。\n该电源通过 80 PLUS 白金认证，采用“LLC 谐振 + 同步整流 +DC-DC”设计，115V 电压及 50% 负载下转换效率达",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "长城发布GX+ 850W白金全模组ATX 3.1电源，599元，10年质保。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容聚焦行业趋势，但缺乏具体数据支撑，评分中等偏上。"
+      "credibilityReason": "IT之家为知名科技媒体，报道具体参数和价格，但缺少原始评测或官方链接，评分适中。"
+    },
+    {
+      "title": "北极近 6 年最大崩解：格陵兰岛彼得曼冰川脱落 76 平方公里冰体",
+      "link": "https://www.ithome.com/0/998/689.htm",
+      "pubDate": "Sat, 05 Sep 2026 02:49:02 GMT",
+      "contentSnippet": "IT之家 9 月 5 日消息，科技媒体 universetoday 于 8 月 26 日发布博文，报道称基于欧洲航天局（ESA）哥白尼哨兵 1 号（Copernicus Sentinel-1）卫星监测显示，格陵兰岛西北部的彼得曼冰川（Petermann Glacier）于 2026 年 8 月 4 日发生剧烈崩解。\n\n图源：欧空局\n在本次崩解后，一块面积约 76 平方公里、厚度接近 150 米的浮冰冰舌断裂，面积相当于曼哈顿岛，形成一座自由漂浮的平顶“冰岛”，并漂入北冰洋。IT之家附上相关图片如下：\n\n面积相当于曼哈顿岛\n\n图源：欧空局\n哨兵 1 号搭载合成孔径雷达（SAR），可在昼夜和云层遮",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "格陵兰彼得曼冰川发生6年来最大崩解，脱落76平方公里冰体。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，引用欧空局卫星数据，信息具体，技术准确，但非权威科技媒体。"
     }
   ]
 }
