@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-05T03:44:05.390Z",
+  "generatedAt": "2026-09-06T03:46:41.409Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "鸿蒙座舱车机芯片阶段性短缺，华境汽车就华境 S 交付延期而道歉",
-      "link": "https://www.ithome.com/0/998/701.htm",
-      "pubDate": "Sat, 05 Sep 2026 03:32:33 GMT",
-      "contentSnippet": "IT之家 9 月 5 日消息，华境汽车今日发布官方说明，就旗下首款车型华境 S 的交付周期调整向用户作出解释。\n华境汽车表示，由于行业芯片供应链波动，华境 S 鸿蒙座舱配套车机芯片出现阶段性供货紧缺，导致部分用户订单交付周期有所延长。\n\n针对此次交付延长的原因，华境汽车在说明中表示，生产制造能力已全面就绪，但对行业整体芯片供给挑战的预判和预案不够充分。目前华境 S 已启动专项保供工作，包括与核心合作伙伴沟通拓展芯片供给渠道，以及推进多元化供应方案。对于已锁单但尚未提车的用户，专属顾问将持续跟进，排产动态与订单进度也会通过官方 App 同步更新。\n华境汽车强调，在加速交付的同时将坚守丝米级智造水",
+      "title": "官宣：我国空间站天宫课堂 · 港澳专场即将开课",
+      "link": "https://www.ithome.com/0/998/858.htm",
+      "pubDate": "Sat, 05 Sep 2026 23:43:16 GMT",
+      "contentSnippet": "IT之家 9 月 6 日消息，香港特别行政区政府昨日宣布，我国空间站天宫课堂 · 港澳专场太空授课活动将于近日举办，让学生实时观看太空独特环境下进行的科学实验示范，学生可向在天宫空间站执行载人航天任务的神舟 23 号乘组三位航天员学习。\nIT之家从香港特别行政区政府新闻网了解到，天宫课堂由香港特区政府、澳门特区政府和中国载人航天工程办公室共同主办，内容包括专家讲解、在轨演示、学生提问等环节。\n届时，神舟 23 号乘组会在天宫空间站为参与活动的港澳学生示范科学实验，并开展「天地对话」。香港教育局会安排各中小学师生当日在校内实时观看直播。\n\n同时，澳门特别行政区政府教育及青年发展局会组织澳门师生代",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,119 +16,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "华境汽车因鸿蒙座舱车机芯片短缺，就华境S交付延期道歉并启动保供。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道具体，含官方说明细节，但缺乏独立数据支撑。"
-    },
-    {
-      "title": "涉案超 200 亿元，上海警方捣毁虚拟货币、虚拟信用卡换汇团伙",
-      "link": "https://www.ithome.com/0/998/669.htm",
-      "pubDate": "Sat, 05 Sep 2026 01:31:20 GMT",
-      "contentSnippet": "IT之家 9 月 5 日消息，据央视新闻昨日报道，上海警方近日通报了两起以虚拟货币、虚拟信用卡等为媒介的非法经营、洗钱犯罪案件，累计抓获犯罪嫌疑人 28 名，两案合计涉案金额超过 200 亿元。\n\n首先第一起案件源于今年 1 月，上海公安经侦部门在网络巡查中发现，有人在网络平台推广换汇业务。\n经查，自 2024 年 8 月以来，犯罪嫌疑人刘某等人未经国家主管部门批准，以虚拟货币为结算载体，通过虚拟货币及境内外资金进行金额匹配的流转方式，非法从事人民币与外币兑换活动。\n\n上海市公安局经侦总队一支队副支队长周骏介绍，该团伙的运作模式是“人民币换成虚拟币，虚拟币再转移到境外去抛售成外币，再转发到客户",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "上海警方破获涉案超200亿元虚拟货币换汇洗钱案，抓获28人。",
+      "aiSummary": "港澳专场天宫课堂将开课，神舟23号乘组太空授课。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用央视报道，案件细节具体，涉及金额和人数明确，可信度较高。"
+      "credibilityReason": "来源IT之家，引用港府新闻网，信息具体，逻辑清晰，可信度高。"
     },
     {
-      "title": "IT早报 0905：华为韬定律更新麒麟 2026 芯片晶体管密度暴涨 55%；曝苹果质检严折叠屏 iPhone 日产仅数百部；曝西贝赔偿金拖至 2028 年；人人影视回归变正版...",
-      "link": "https://www.ithome.com/0/998/650.htm",
-      "pubDate": "Sat, 05 Sep 2026 00:00:54 GMT",
-      "contentSnippet": "“IT早报”时间，大家好，现在是 2026 年 9 月 5 日星期六，今天的重要科技资讯有：\n1. 麒麟 2026 芯片晶体管密度暴涨 55%，华为何庭波更新韬定律论文\n9 月 4 日，一篇发布于 ChinaXiv 的预印本论文《华为 τ（韬）芯片本该过热烧毁？》对外公开，华为工程师何庭波详细披露了 τ（韬）定律的底层原理，并且放出麒麟 2026 芯片的实测数据。>> 查看详情\n\n2. 因苹果对质量要求极其严格，消息称折叠屏 iPhone Ultra 日产量截至上月底仅数百部\n一名了解情况的供应链经理表示：“苹果对质量的要求非常高，在正式生产前又于 8 月增加了一轮试生产。但产量提升速度很慢，",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "联合国大会批准新地图",
+      "link": "https://www.solidot.org/story?sid=85293",
+      "pubDate": "Sat, 05 Sep 2026 20:14:26 +0800",
+      "contentSnippet": "联合国会员国周五以 164 票赞成、1 票反对的结果通过了一项决议，倡导采用能更准确反映各大洲真实大小的地图投影法——这是由非洲主导、反对 16 世纪墨卡托投影法的运动所取得的成果，而墨卡托投影法至今仍是世界上使用最广泛的地图投影法。美国投下了唯一一张反对票，将该倡议斥为“激进意识形态项目”的一部分。爱沙尼亚、格鲁吉亚、立陶宛、摩尔多瓦、塞尔维亚和乌克兰等六个国家投了弃权票。该决议并未禁止使用墨卡托投影法，也未强制要求采用替代方案。相反，它鼓励各国政府、学校、国际组织和科技公司在相对大小至关重要时，使用“平等地球”投影法及其他所谓的等面积地图，并向公众阐明任何平面地图在表现球形地球时的局限性。",
+      "sourceName": "Solidot",
+      "sourceWeight": 75,
       "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "IT之家早报汇总麒麟芯片、折叠屏iPhone等科技新闻。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源知名科技媒体，内容具体但部分信息缺乏原始链接和官方确认。"
-    },
-    {
-      "title": "影响课堂地图到航海工具：联合国推动淘汰沿用 457 年的墨卡托投影法世界地图",
-      "link": "https://www.ithome.com/0/998/636.htm",
-      "pubDate": "Fri, 04 Sep 2026 23:14:37 GMT",
-      "contentSnippet": "IT之家 9 月 5 日消息，《卫报》昨日（9 月 4 日）发布博文，报道称联合国大会 9 月 4 日在纽约通过决议，建议各国和机构逐步弃用传统墨卡托投影（Mercator projection）地图，转向基于 2018 年 Equal Earth 设计的地图投影。\n在本次表决中，共有 164 国赞成该决议，美国是唯一反对国，另有 6 国弃权。美国代表称，该决议“多余”。决议不具强制执行力，但可能推动学校课程、政府制图和日常数字地图产品更新。\nIT之家援引博文介绍，墨卡托投影是一种把球形地球铺展到平面上的制图方法，便于航海定向，但在视觉上会缩小赤道附近的地区，并显著放大高纬度地区的面积。\n墨卡",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家",
         "Solidot"
       ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "联合国建议弃用墨卡托投影地图，转向Equal Earth投影，美国反对。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家和Solidot，引用卫报报道，信息具体，有表决细节，逻辑清晰。（多源覆盖 +5）"
-    },
-    {
-      "title": "我国首个配冷却塔的“华龙一号”，中广核招远 2 号机组今日开工",
-      "link": "https://www.ithome.com/0/998/707.htm",
-      "pubDate": "Sat, 05 Sep 2026 03:39:27 GMT",
-      "contentSnippet": "IT之家 9 月 5 日消息，中广核山东招远核电项目 2 号机组今日上午启动核岛第一罐混凝土浇筑（FCD），标志着该机组主体工程正式开工，项目一期工程进入全面建设阶段。\n\nIT之家此前报道，招远核电项目 1 号机组已于 2025 年 11 月 18 日实现主体工程开工。\n招远核电项目位于烟台招远市张星镇，是中广核在全国布局的第十个核电基地。项目规划建设 6 台“华龙一号”核电机组，采用我国具有完全自主知识产权的三代核电技术，单台机组额定电功率约 120 万千瓦。\n该项目也是我国首个配置高位收水自然通风冷却塔的“华龙一号”核电机组项目 —— 每台机组均配置一座高达 203 米、淋水面积 1680",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中广核招远2号机组开工，系我国首个配冷却塔的华龙一号项目。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道含具体日期、技术参数及项目背景，信息详实可靠。"
-    },
-    {
-      "title": "iOS 版谷歌翻译升级实时翻译：iPhone 17 等支持“贴耳私听”",
-      "link": "https://www.ithome.com/0/998/699.htm",
-      "pubDate": "Sat, 05 Sep 2026 03:31:57 GMT",
-      "contentSnippet": "IT之家 9 月 5 日消息，谷歌昨日（9 月 4 日）发布博文，宣布升级谷歌翻译（Google Translate）的实时翻译功能，iPhone 用户在嘈杂环境下，也可以通过手机听筒直接收听实时翻译。\niOS 版谷歌翻译新增听筒播放功能，用户可将 iPhone 17 等贴近耳朵，通过设备听筒收听实时翻译内容，从而在不使用耳机的情况下，减少外放声音对周边环境的影响。\niPhone 用户此前使用实时翻译，收要么外放、要么必须连耳机，而本次新增听筒播放功能后，直接贴耳就能听，像打电话一样自然。IT之家附上相关截图如下：\n\n而安卓版谷歌翻译最新版针对移动端实时听译场景，支持后台持续运行，用户打开地图",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "谷歌翻译iOS版新增听筒播放，iPhone 17等支持贴耳私听实时翻译。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容具体，引用谷歌官方博文，技术细节清晰，评分高。"
-    },
-    {
-      "title": "799 元雷蛇悦神 X 无线扬声器头枕发售：集成近场双扬声器，支持 THX 空间音效",
-      "link": "https://www.ithome.com/0/998/698.htm",
-      "pubDate": "Sat, 05 Sep 2026 03:18:08 GMT",
-      "contentSnippet": "IT之家 9 月 5 日消息，雷蛇今日宣布推出雷蛇悦神 X（Razer Clio X）无线扬声器头枕，定价 799 元。该产品将头枕与扬声器相结合，可作为电竞椅配件使用，适用于游戏、观影、音乐等场景。\n京东雷蛇（Razer）悦神 X 无线头枕扬声器音响 蓝牙 THX 空间音频音箱 三角洲行动 CSGO 游戏适用 电竞椅配件 799 元直达链接\n2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取。\n数码补贴：点此领券\n\n手机 / 平板 / 3C 数码支持 8.5 折政府补贴，不超过 6000 元的产品至高立减 500 元。\n\n家电补贴：点此领券\n\n多",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "雷蛇发布799元悦神X无线扬声器头枕，集成近场双扬声器，支持THX空间音效。",
+      "aiSummary": "联合国通过决议倡导等面积地图投影，美国反对，未强制禁止墨卡托投影。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道具体含价格、功能，但缺乏技术细节和官方引用。"
+      "credibilityReason": "来源Solidot知名科技媒体，内容具体有投票细节，但缺乏原始决议链接，评分75。"
     },
     {
-      "title": "微软 8 月 Win11 可选更新改进关机 / 重启体验，不再强制安装更新",
-      "link": "https://www.ithome.com/0/998/697.htm",
-      "pubDate": "Sat, 05 Sep 2026 03:14:30 GMT",
-      "contentSnippet": "IT之家 9 月 5 日消息，科技媒体 Windows Latest 昨日（9 月 4 日）发布博文，报道称 8 月 27 日发布的 Windows 11 可选更新 KB5120998 中，微软改进了关机 / 重启体验，不再强制安装更新。\nIT之家附上相关视频如下：\n\n该媒体指出微软早在今年 4 月已开始测试该特性，在 Windows 11 Build 26300.8289 预览版中，而在本次可选更新中已邀请更多用户测试，并将会整合到 9 月补丁星期二（9 月 8 日）活动日发布的累积更新中。\n\n该媒体指出在此前 Windows 11 使用过程中，在后台或用户手动下载完更新后，用户点击“关机”",
+      "title": "天玑 9600 Pro 最新跑分成绩曝光：单核最高 4137，多核最高 13086",
+      "link": "https://www.ithome.com/0/998/910.htm",
+      "pubDate": "Sun, 06 Sep 2026 03:34:40 GMT",
+      "contentSnippet": "IT之家 9 月 6 日消息，型号为 V2610DA 的 vivo 新机已现身 Geekbench 跑分数据库，博主 @i冰宇宙 透露，其搭载的是天玑 9600 Pro 芯片。\n\n从天玑 9600 Pro 最新跑分成绩来看，这枚芯片单核最高 4137、多核最高 13086，相较早期曝光的成绩又有所提升。\n据IT之家此前报道，vivo 通信科技有限公司产品经理韩伯啸宣布，X500 Pro 系列手机会全球首发蓝晶 × 天玑 2nm 旗舰芯。而博主 @数码闲聊站 此前爆料，vivo X500 Pro Max 预计将配备联发科天玑 9600 Pro 芯片。\n作为参考，vivo X500 系列手机将于",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -136,35 +50,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "微软改进Win11关机重启体验，不再强制安装更新，将整合至9月更新。",
+      "aiSummary": "天玑9600 Pro跑分曝光，单核4137多核13086，vivo新机将搭载。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家知名科技媒体，引用Windows Latest报道，信息具体含版本号，但缺乏官方确认。"
+      "credibilityReason": "IT之家为知名科技媒体，内容具体有数据，但依赖博主爆料，缺乏官方确认。"
     },
     {
-      "title": "Rivian 向旗下 R1/R2 车型推送 RivianOS 2 车机系统更新：引入虚幻引擎 5、界面设计焕新",
-      "link": "https://www.ithome.com/0/998/696.htm",
-      "pubDate": "Sat, 05 Sep 2026 03:08:45 GMT",
-      "contentSnippet": "IT之家 9 月 5 日消息，Rivian 现已向旗下符合条件的 R1 和 R2 车型推送 RivianOS 2 车机系统更新，这是自 R1 系列首批车型上市以来规模最大的一次车载软件升级，首次尝试让 Rivian 目前销售的所有车型运行在统一的软件技术栈上。\n\nIT之家获悉，RivianOS 2 主要引入了重新设计的用户界面、基于虚幻引擎 5（Unreal Engine 5）的实时 3D 载具 / 环境、违章摄像头提醒以及“混合式边缘计算方案”AI 功能。\n具体来看，RivianOS 2 将快捷控制按钮和媒体播放器放置在屏幕左右两侧，官方重新设计垂直状态栏，能够让驾驶员更加方便地访问车辆核心",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家",
-        "钛媒体",
-        "Solidot"
-      ],
-      "coverageCount": 3,
-      "coverageBoost": 10,
-      "aiSummary": "Rivian推送RivianOS 2更新，引入虚幻引擎5和全新界面，统一软件栈。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家等知名科技媒体，内容具体，提及技术细节和更新范围，但缺乏官方直接引用。（多源覆盖 +10）"
-    },
-    {
-      "title": "岚图梦想家 9 开启预售：42.99 万-52.99 万元，全系 800V+ 华为乾崑智驾 ADS 5 + 鸿蒙座舱 6",
-      "link": "https://www.ithome.com/0/998/695.htm",
-      "pubDate": "Sat, 05 Sep 2026 03:03:15 GMT",
-      "contentSnippet": "IT之家 9 月 5 日消息，岚图梦想家 9 今日正式开启预售，预售价区间为 42.99 万元至 52.99 万元。\n新车推出 Ultra、Ultra+ 和礼尊版三个版型，涵盖插混和纯电两种动力形式，共计五个配置，同步释放至高价值 5 万元购车权益。展车于今日起陆续到店。\n\n作为岚图品牌旗舰 MPV，梦想家 9 基于全域 L3 级电子电气架构打造，搭载华为乾崑智驾 ADS 5 系统，配备 37 个感知传感器，包括新一代 896 线双光路图像级主激光雷达与 3 颗固态补盲雷达，实现城市、高速、泊车等全场景智驾覆盖。\n\n座舱方面，新车采用鸿蒙座舱 HarmonySpace 6，搭载 MoLA 2.",
+      "title": "发售仅 3 天，Rebel Wolves 处女作《黎明行者之血》销量突破 100 万份",
+      "link": "https://www.ithome.com/0/998/909.htm",
+      "pubDate": "Sun, 06 Sep 2026 03:27:17 GMT",
+      "contentSnippet": "IT之家 9 月 6 日消息，开发商 Rebel Wolves 昨日在 X 平台宣布，其首部作品《黎明行者之血》销量现已突破 100 万份，距发售仅有 3 天。\n\nIT之家了解到，《黎明行者之血》是 Rebel Wolves 开发、万代南梦宫发行的开放世界黑暗奇幻动作 RPG，登陆 PlayStation 5、XBOX Series X|S、以及 PC 平台，IGN 评分 9 分。\n\n剧情方面，本作故事发生在 14 世纪欧洲黑死病时期，玩家将扮演一名白昼时为人类，黑夜时为吸血鬼的年轻人“科恩”，为了拯救家人不得不做出各种抉择。\n配置需求方面，本作至少需要英特尔酷睿 i7-8700K 或锐龙 7",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -172,16 +67,67 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "岚图梦想家9开启预售，42.99万起，全系800V+华为智驾ADS5与鸿蒙座舱6。",
+      "aiSummary": "Rebel Wolves新作《黎明行者之血》发售3天销量破百万。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，引用官方X平台声明，含具体销量、平台及评分，但缺乏独立验证。"
+    },
+    {
+      "title": "男频剧，还在奥德赛的海上漂着",
+      "link": "https://www.tmtpost.com/8129947.html",
+      "pubDate": "Sun, 06 Sep 2026 11:25:42 +0800",
+      "contentSnippet": "男频剧的范式迭代已经无法逆转。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体评男频剧范式迭代，指其仍在探索中。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "知名科技媒体，观点明确，但缺乏具体数据与细节，评分适中。"
+    },
+    {
+      "title": "China GT 上海站发生赛车撞击起火重大事故，魅影车队 79 号车手现场救援视频流出",
+      "link": "https://www.ithome.com/0/998/907.htm",
+      "pubDate": "Sun, 06 Sep 2026 03:17:49 GMT",
+      "contentSnippet": "IT之家 9 月 6 日消息，在 9 月 5 日举行的 China GT 中国超级跑车锦标赛第四站上海站比赛中，FIST_Auto 车队 91 号车手发生了重大赛道事故：赛车剧烈撞击后迅速起火，随后魅影车队 79 号车手 Loek Hartog 不顾自身安危，从起火赛车中救出了 FIST 车手。\n\nIT之家注意到，魅影车队 79 号车手现场救援视频已在互联网平台曝光。\n\n\n视频画面显示，魅影车队 79 号车手在正常行驶过程中发现了 FIST_Auto 车队 91 号车手赛车起火燃烧，随后放弃比赛，下车开展救援。而车内视角画面显示，在魅影车队车手下车展开救援时，起火车辆火势越来越大，且冒出了浓烟",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "China GT上海站赛车起火，79号车手英勇救人，视频曝光。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "IT之家为知名科技媒体，报道具体但缺乏官方确认和详细数据，逻辑清晰但细节有限。"
+    },
+    {
+      "title": "飞傲预热全球首款便携安卓数字转盘 DT11，零售价预计 2000 元左右",
+      "link": "https://www.ithome.com/0/998/906.htm",
+      "pubDate": "Sun, 06 Sep 2026 03:12:26 GMT",
+      "contentSnippet": "IT之家 9 月 6 日消息，飞傲官方今天在微博发文，预热全球首款便携安卓数字转盘 DT11，该机预计将在 9 月 12 日的 2026 飞傲秋季新品发布会亮相。\n\nIT之家从飞傲官博获悉，这款产品将采用磁吸式机身设计，可以吸附在各种手机上。拥有极低抖动同轴输出、大功率 USB 洗水输出，号称是“随身 HiFi 系统的黄金前端搭档”。\n结合飞傲联合创始人兼 CEO 钟涛（@飞傲 James ）此前透露，这款产品专为便携捆绑设计，兼容 MagSafe 生态，2 个 Type-C 口也方便作为转盘的时候同时充电。受存储和内存价格大幅上涨影响，这款产品的零售价预计将在 2000 元人民币左右。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "飞傲预热全球首款便携安卓数字转盘DT11，预计9月12日发布，售价约2000元。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道具体含价格、配置、技术细节，信息详实，来源可靠。"
+      "credibilityReason": "来源IT之家可信，信息具体含产品细节、发布时间和价格，引用官方微博和CEO言论。"
     },
     {
-      "title": "微软预告 Excel 新增 AI 画布，打造可视化交互式数据看板",
-      "link": "https://www.ithome.com/0/998/693.htm",
-      "pubDate": "Sat, 05 Sep 2026 03:00:50 GMT",
-      "contentSnippet": "IT之家 9 月 5 日消息，科技媒体 Windows Latest 昨日（9 月 4 日）发布博文，报道称微软计划为 Excel 推出 Copilot Canvas 功能，可将工作簿中的图表、关键指标和分析洞察整合为交互式视图，并在底层数据变化后自动更新。\n根据微软官方产品路线图描述，Copilot Canvas 可把工作簿数据，转化为包含关键可视化图表、指标和洞察的交互式画布，并支持用户通过自然语言对话方式，交互修改画布内容。\n在 Excel 现有 Copilot 体验中，用户可以要求 Copilot 根据提示创建模板，也可在已有数据基础上构建较复杂的仪表板。IT之家附上相关截图如下：",
+      "title": "HORI 公布《赛博朋克 2077》主题 Switch 2 手柄与斜挎单肩包",
+      "link": "https://www.ithome.com/0/998/905.htm",
+      "pubDate": "Sun, 06 Sep 2026 03:09:39 GMT",
+      "contentSnippet": "IT之家 9 月 6 日消息，游戏外设制造商 HORI 近日公布了 2 款《赛博朋克 2077》主题 Nintendo Switch 2 游戏机配件，分别是 Wireless HORIPAD Turbo 手柄控制器和 Adventure Pack 斜挎单肩包。\n\n联名款 Wireless HORIPAD Turbo 整体呈现半透明效果，主要采用《赛博朋克 2077》标志性的黄色并辅以精致的银色点缀。其配备 TMR 摇杆、可自定义背键、C 键，支持连击输入，集成陀螺仪与加速度计，内置电池可提供 10hr 续航。\n该手柄控制器定价 64.99 美元（IT之家注：现汇率约合 437.7 元人民币）。",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -189,78 +135,129 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "微软计划为Excel推出Copilot Canvas，整合图表指标为交互式视图。",
+      "aiSummary": "HORI推出赛博朋克2077主题Switch 2手柄与背包，售价64.99美元。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道具体产品细节和价格，但未提供原始出处，时效性存疑。"
+    },
+    {
+      "title": "V 社有望为 Steam Frame 头显引入彩色透视模块，作为升级套件单独发售",
+      "link": "https://www.ithome.com/0/998/904.htm",
+      "pubDate": "Sun, 06 Sep 2026 03:05:07 GMT",
+      "contentSnippet": "IT之家 9 月 6 日消息，尽管 V 社旗下 Steam Frame VR 头显目前仍未正式上市，不过负责该头显内置摄像头追踪系统的供应商 Komodo Station 近日已经开始生产一款彩色透视模块，暗示V社未来有望将相应模块作为 Steam Frame 升级套件单独发售。\n\n根据 Reddit 用户“gogodboss”保存的泄露页面信息，这款彩色透视模块配备两颗 3200 万像素传感器，支持 10bit HDR 拍摄，采用 64mm 瞳距（IPD）设计、双目视场角（FOV）可达到 125°×105°，其原生支持 5K 分辨率（4928×2464 像素）拍摄，在双目模式下每只眼睛的分辨",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "V社或为Steam Frame头显推出彩色透视升级模块，由供应商生产。",
+      "credibilityScore": 70,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源IT之家较知名，内容具体含参数，但依赖泄露页面，未经官方确认，可信度中等。"
+    },
+    {
+      "title": "国漫《武动乾坤第七季》宣布接档《斗破苍穹》回归，首播时间待定",
+      "link": "https://www.ithome.com/0/998/903.htm",
+      "pubDate": "Sun, 06 Sep 2026 03:02:30 GMT",
+      "contentSnippet": "IT之家 9 月 6 日消息，国漫《武动乾坤》官方微博昨晚宣布，《武动乾坤第七季》将接档《斗破苍穹》回归，首播时间待定。官方还放出了动漫最新预告。\n\nIT之家注：动漫版《武动乾坤》改编自天蚕土豆同名小说，第一季已于 2019 年 1 月播出，今年已经是连载的第七个年头。原著小说讲述了落魄林氏子弟林动，在小貂帮助下踏上修行一途为父复仇，后闯荡天玄大陆，最终踏入祖境（武祖）护佑苍生迎战异魔皇的故事。\n官方宣传海报显示，本季登场的角色包括小炎（林炎）、小貂（林貂）、林动（男主）、应欢欢（女主）、绫清竹（女主）等，将讲述宗派大战期间发生的故事。\n\n根据原作走向，动漫第七季将迎来一段高燃剧情。同时宗派大",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "《武动乾坤》第七季将接档《斗破苍穹》回归，首播时间待定。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，内容具体，有官方微博及海报信息，但首播时间待定，细节有限。"
+    },
+    {
+      "title": "无界动力 CEO 张玉峰预判：具身智能 5 年后有望对标成年人劳动能力",
+      "link": "https://www.ithome.com/0/998/901.htm",
+      "pubDate": "Sun, 06 Sep 2026 02:55:25 GMT",
+      "contentSnippet": "IT之家 9 月 6 日消息，据新浪科技今日消息，无界动力创始人兼 CEO 张玉峰近日在 2026 年亚布力论坛夏季年会透露，如果将具身智能与智驾行业做类比，当前的具身智能大约处于 2019 年前后的自动驾驶阶段。\nIT之家从原报道获悉，张玉峰预判具身智能将在 5 年后，有机会达到一个成年人“面向劳动、能思考会劳动”的水平，并且可依赖、可信赖。\n家庭场景方面，张玉峰认为机器人达到成年人的能力大约需要 5 年时间，但这并不意味着（机器人）5 年后才能进家庭。他对此解释称：“扫地机器人早早就进了家庭，把单一事情做得很好，它只需要泛化背景。最近大家想让扫地机长出一个手臂，能泛化物体、捡袜子、捡积木。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "无界动力CEO预判具身智能5年后对标成年人劳动能力，类比2019年自动驾驶。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，内容具体，引用CEO观点，但缺乏技术细节和第三方验证。"
+    },
+    {
+      "title": "东风日产孙豪谈产品同质化问题：千车一面只是洗牌期的阵痛，不是行业的常态",
+      "link": "https://www.ithome.com/0/998/900.htm",
+      "pubDate": "Sun, 06 Sep 2026 02:54:31 GMT",
+      "contentSnippet": "IT之家 9 月 6 日消息，东风日产汽车销售有限公司市场部部长孙豪昨日发文，谈及了汽车产品同质化问题。他表示，自己参加了一场用户调研，看着一众长得分不出长相的车型，心里很有感慨。\n\n作为行业从业者，很多时候，我会心怀敬畏地想：我们经常说 BBA 这些国际品牌迭代速度慢、智能化短板、成本高等客观问题，但反过来想，他们对国内部分品牌这几年在内饰、外观、功能上大量借鉴模仿，不考虑品牌的做法，打心底是不是也瞧不起呢？\n坦率的说，BBA 或许永远赶不上我们的迭代速度，但每家车企的底层商业逻辑，值得我们冷静审视。BBA 会在智能化浪潮下掉队，但宁败，也绝不会愿意活成另外两家的影子。\n现在行业的产品定义，",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "东风日产高管谈汽车同质化，称是洗牌期阵痛非常态。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家，内容具体，引用高管观点，但缺乏数据支撑和多方验证。"
+    },
+    {
+      "title": "养成系头显：Meta 为 Quest 3 推送更新，解锁 240Hz 刷新率",
+      "link": "https://www.ithome.com/0/998/899.htm",
+      "pubDate": "Sun, 06 Sep 2026 02:54:21 GMT",
+      "contentSnippet": "IT之家 9 月 6 日消息，Meta 现已为旗下 Quest 3 头显推送 Horizon OS 2.7 系统更新，将头显最高刷新率提升至 240Hz（非完整分辨率）/ 207Hz（原生分辨率）。需要注意的是，这项刷新率更新仅针对 Quest 3，作为参考，目前 Quest 3S 最高刷新率仍为 120Hz。\n据介绍，如果开发者希望让 Quest 3 头显达到 240Hz 刷新率，则必须开启开发者模式并启用显示缩放。该模式会先降低发送至显示面板的图像分辨率，再通过放大处理恢复显示。\n\n虽然 240Hz 刷新率听起来颇具吸引力，但 Quest 3 上的游戏和应用并不会因此自动获得更高帧率。由于",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "Meta为Quest 3推送更新，解锁240Hz刷新率，需开发者模式。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道具体，含技术细节，但未引用官方原始公告，评分略降。"
+    },
+    {
+      "title": "V社为 Meta Quest 头显 Steam Link 串流应用带来 2.17.8 公测版更新，新增 USB 有线串流功能",
+      "link": "https://www.ithome.com/0/998/898.htm",
+      "pubDate": "Sun, 06 Sep 2026 02:42:58 GMT",
+      "contentSnippet": "IT之家 9 月 6 日消息，V社现已为 Meta Quest 平台上的 Steam Link 串流应用推送 2.17.8 公开测试版更新，主要新增 USB 有线串流功能。用户可通过高速 USB-C 线缆连接电脑串流游玩 SteamVR 游戏，以获得更稳定的体验。\n\n除了新增 USB 有线串流功能外，本次更新还修复游戏帧率较低时加载动画闪烁的问题及 SteamVR 设置中可能显示错误帧率的问题，同时进一步优化串流延迟。\n想要体验 USB 有线串流功能，Quest 用户需要先在 Horizon Store 加入 Steam Link 公开测试版频道，之后打开 Steam 游戏库，右键点击 Ste",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "V社为Quest头显Steam Link应用推2.17.8公测版，新增USB有线串流功能。",
       "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用Windows Latest及微软官方路线图，信息具体，逻辑清晰。"
+      "credibilityReason": "IT之家为知名科技媒体，报道具体，含版本号、功能细节，但无原始链接或官方引用。"
     },
     {
-      "title": "索尼被曝将发布三款 E 卡口新镜头：600mm F6.3 与 400mm F4.5 均低于 1kg",
-      "link": "https://www.ithome.com/0/998/692.htm",
-      "pubDate": "Sat, 05 Sep 2026 02:56:02 GMT",
-      "contentSnippet": "IT之家 9 月 5 日消息，Fredmiranda 论坛上有人泄露了索尼的发布会信息，该消息已经过 SonyAlphaRumors 确认。\n据称，索尼将在两到三周内发布三款镜头，其中包括两款重量不足 1kg 的超远摄定焦 G 大师镜头：\n\nFE 600mm f/6.3 GM OSS 镜头，售价约 3,800 美元（现汇率约合 25,570 元人民币）\n\nFE 400mm f/4.5 GM OSS 镜头，售价 2,699~2,899 美元（现汇率约合 18,161 ~ 19,507 元人民币）\n\n8-14mm f/3.5 鱼眼镜头，售价约 1,499 美元（IT之家注：现汇率约合 10,087",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "AI时代，最稀缺的不是知识，而是系统思维",
+      "link": "https://www.tmtpost.com/8082672.html",
+      "pubDate": "Sun, 06 Sep 2026 10:41:20 +0800",
+      "contentSnippet": "当AI能瞬间完成你一周的工作，你的价值是什么？本文作者用一份极其硬核的答案，击碎了我们最后的职业安全感：单点技能已死，但系统思维永生。 这不是一句口号，而是一个由“划界、约束、残差”三大公理构成的、可以被学习和实践的认知操作系统。它将是区分未来领袖与庸才的唯一物理分水岭。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
       "allSources": [
-        "IT之家"
+        "钛媒体"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "索尼被曝将发布三款E卡口新镜头，含两款超远摄定焦，均低于1kg。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，信息具体含价格重量，经SonyAlphaRumors确认，但属传闻，非官方发布。"
-    },
-    {
-      "title": "小米服务：针对福建地区受台风“沙德尔”影响造成损坏 / 故障的小米产品，提供免费检测、免费维修服务",
-      "link": "https://www.ithome.com/0/998/691.htm",
-      "pubDate": "Sat, 05 Sep 2026 02:55:01 GMT",
-      "contentSnippet": "IT之家 9 月 5 日消息，小米服务今日发文，针对福建地区（福州、厦门、泉州、宁德、莆田、漳州、龙岩等地）受台风“沙德尔”影响造成损坏 / 故障的小米产品，提供免费检测、维修服务。\n手机品类、可穿戴品类\n\n支持品类：Xiaomi 手机、REDMI 手机、平板、笔记本、手环、手表、耳机\n\n服务内容：免费检测、免费清洁、免费饮用水、免费 Wi-Fi、免费充电、免费维修（对受台风导致的产品进水故障免费提供维修服务）\n\n大家电、生态链品类\n\n支持品类：小米公司旗下的智能家电产品\n\n服务内容：对受台风影响导致的产品进水故障免费提供检测、维修服务\n\n受理时间\n\n2026 年 9 月 5 日至 2026",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "小米为福建台风受灾用户提供免费检测维修服务。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，信息具体，服务细节清晰，时效性强，客观中立。"
-    },
-    {
-      "title": "长城推出 GX+ 850W 白金全模组 ATX 3.1 电源：提供 10 年质保，599 元",
-      "link": "https://www.ithome.com/0/998/690.htm",
-      "pubDate": "Sat, 05 Sep 2026 02:49:31 GMT",
-      "contentSnippet": "IT之家 9 月 5 日消息，长城现已在京东上架 GX+ 850W 白金全模组 ATX 3.1 电源，定价 599 元，提供 10 年质保。\n京东长城 GX+ 850W 白金牌全模组电源 599 元直达链接\n\n\n该电源尺寸为 150mm x 150mm x 86mm，提供四个 8PIN 接口及一个原生 PCIe 5.1 12V-2x6 接口，内部配备了一把 140mm 散热风扇，支持智慧启停 2.0 技术，在低负载模式下会自动停止转动，以控制并减少运行噪音。\n该电源通过 80 PLUS 白金认证，采用“LLC 谐振 + 同步整流 +DC-DC”设计，115V 电压及 50% 负载下转换效率达",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "长城发布GX+ 850W白金全模组ATX 3.1电源，599元，10年质保。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道具体参数和价格，但缺少原始评测或官方链接，评分适中。"
-    },
-    {
-      "title": "北极近 6 年最大崩解：格陵兰岛彼得曼冰川脱落 76 平方公里冰体",
-      "link": "https://www.ithome.com/0/998/689.htm",
-      "pubDate": "Sat, 05 Sep 2026 02:49:02 GMT",
-      "contentSnippet": "IT之家 9 月 5 日消息，科技媒体 universetoday 于 8 月 26 日发布博文，报道称基于欧洲航天局（ESA）哥白尼哨兵 1 号（Copernicus Sentinel-1）卫星监测显示，格陵兰岛西北部的彼得曼冰川（Petermann Glacier）于 2026 年 8 月 4 日发生剧烈崩解。\n\n图源：欧空局\n在本次崩解后，一块面积约 76 平方公里、厚度接近 150 米的浮冰冰舌断裂，面积相当于曼哈顿岛，形成一座自由漂浮的平顶“冰岛”，并漂入北冰洋。IT之家附上相关图片如下：\n\n面积相当于曼哈顿岛\n\n图源：欧空局\n哨兵 1 号搭载合成孔径雷达（SAR），可在昼夜和云层遮",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "格陵兰彼得曼冰川发生6年来最大崩解，脱落76平方公里冰体。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用欧空局卫星数据，信息具体，技术准确，但非权威科技媒体。"
+      "aiSummary": "钛媒体文章称AI时代系统思维比知识更稀缺，提出三大公理。",
+      "credibilityScore": 60,
+      "credibilityLevel": "medium",
+      "credibilityReason": "观点性文章，缺乏具体数据和技术细节，来源一般，但逻辑清晰。"
     }
   ]
 }
