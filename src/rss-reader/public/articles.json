@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-08T03:49:20.680Z",
+  "generatedAt": "2026-09-09T03:54:39.207Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "中国驻法国大使邓励：中欧经贸相互依赖，应加强对话合作",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-08/10692366.shtml",
-      "pubDate": "Tue, 8 Sep 2026 11:28:40 +0800",
-      "contentSnippet": "中新网巴黎9月8日电 中国驻法国大使邓励当地时间4日应邀出席第八届吉维尼世界论坛闭幕式，就中欧经贸合作阐述中方立场，介绍中国绿色转型成就。",
+      "title": "全国人大常委会：新一轮县乡两级人大换届选举有序推进中",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-09/10693138.shtml",
+      "pubDate": "Wed, 9 Sep 2026 11:48:12 +0800",
+      "contentSnippet": "中新网9月9日电 国务院新闻办公室9日举行“开局起步‘十五五’”系列主题新闻发布会，介绍发展社会主义民主有关情况。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -16,16 +16,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国驻法国大使邓励出席论坛，强调中欧经贸相互依赖，应加强对话合作。",
-      "credibilityScore": 80,
+      "aiSummary": "全国人大常委会表示新一轮县乡人大换届选举正有序推进。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，属权威媒体，内容具体，有明确时间地点人物，引述官方立场，事实可查证。"
+      "credibilityReason": "来源中国新闻网，权威媒体，内容具体，引述官方发布会，事实可查证。"
     },
     {
-      "title": "以军：在加沙地带打死两名巴勒斯坦武装人员",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-08/10692331.shtml",
-      "pubDate": "Tue, 8 Sep 2026 11:27:18 +0800",
-      "contentSnippet": "中新社北京9月8日电 耶路撒冷消息：当地时间9月7日，以色列国防军发表声明称，以军日前在加沙地带发动两次空袭，分别打死巴勒斯坦伊斯兰抵抗运动(哈马斯)和巴勒斯坦伊斯兰圣战组织(杰哈德)各一名武装人员。",
+      "title": "主宾省青海省省长罗东川：共同书写西部高质量发展崭新篇章",
+      "link": "https://m.thepaper.cn/detail/34033627",
+      "pubDate": "Wed, 09 Sep 2026 03:41:00 GMT",
+      "contentSnippet": "9月8日，主宾省青海省省长罗东川第二十六届中国国际投资贸易洽谈会开幕式上表示，诚邀各位企业家走进大美青海，共同书写新时代互利共赢和西部高质量发展崭新篇章。",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "青海省长罗东川在投洽会邀请企业家投资青海，共促西部高质量发展。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源澎湃新闻较权威，内容具体，有明确时间地点人物，用词客观。"
+    },
+    {
+      "title": "国家民委：力争到2030年，推动铸牢中华民族共同体意识取得更大成效",
+      "link": "https://www.chinanews.com.cn/txy/2026/09-09/10693145.shtml",
+      "pubDate": "Wed, 9 Sep 2026 11:37:31 +0800",
+      "contentSnippet": "中新网9月9日电 国务院新闻办公室9日举行“开局起步‘十五五’”系列主题新闻发布会。会上，国家民委副主任杨进介绍民族工作有关情况。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -33,84 +50,186 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "以军空袭加沙打死两名巴武装人员，分别来自哈马斯和杰哈德。",
+      "aiSummary": "国家民委称力争2030年推动铸牢中华民族共同体意识取得更大成效。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为官方媒体中国新闻网，内容具体，引述发布会信息，权威性较高。"
+    },
+    {
+      "title": "国台办回应海警在管辖海域开展行动：这是捍卫国家领土主权和海洋权益的正当、正义之举",
+      "link": "https://m.thepaper.cn/detail/34036754",
+      "pubDate": "Wed, 09 Sep 2026 03:19:16 GMT",
+      "contentSnippet": "2026年9月9日，国台办举行例行新闻发布会。发言人陈斌华表示，大陆海警依法在管辖海域开展执法维权行动，是捍卫国家领土主权和海洋权益的正当、正义之举。",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国台办称海警在管辖海域行动是捍卫主权正当之举。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源澎湃新闻较权威，内容具体，直接引述发言人，官方立场明确。"
+    },
+    {
+      "title": "中央社会工作部：近几年社会工作取得积极进展",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-09/10693128.shtml",
+      "pubDate": "Wed, 9 Sep 2026 11:11:50 +0800",
+      "contentSnippet": "中新网9月9日电 国务院新闻办公室9日举行“开局起步‘十五五’”系列主题新闻发布会。会上，中央社会工作部新闻发言人、副部长赵世堂介绍社会工作有关情况。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中央社会工作部称近几年社会工作取得积极进展，副部长赵世堂在国新办发布会上介绍情况。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，属权威媒体；内容具体，有明确时间、人物和场合，信息可查证。"
+    },
+    {
+      "title": "“十五五”规划纲要对统一战线各领域工作提出明确要求",
+      "link": "https://www.chinanews.com.cn/txy/2026/09-09/10693102.shtml",
+      "pubDate": "Wed, 9 Sep 2026 11:04:28 +0800",
+      "contentSnippet": "中新网9月9日电 国务院新闻办公室9日举行“开局起步‘十五五’”系列主题新闻发布会，介绍发展社会主义民主有关情况。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国新办发布会介绍“十五五”规划对统战工作提出要求。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为官方媒体中新网，内容具体，涉及权威发布会，事实可查证。"
+    },
+    {
+      "title": "民进党当局大肆鼓噪台湾民众赴大陆有所谓“风险”，国台办回应",
+      "link": "https://m.thepaper.cn/detail/34036580",
+      "pubDate": "Wed, 09 Sep 2026 02:54:00 GMT",
+      "contentSnippet": "2026年9月9日上午，国台办在新闻发布厅举行例行新闻发布会，发言人陈斌华就近期两岸热点问题回答记者提问。\n会上有记者提问：近日，民进党当局大肆鼓噪台湾民众赴大陆有所谓“风险”，造谣抹黑《国务院关于出境入境管理的规定》存在“标准不一”等四种风险。请问对此有何评论？\n国台办发言人陈斌华表示，《国务院关于出境入境管理的规定》是为了规范出境入境管理，保障出境入境人员的合法权益，维护国家主权、安全、发展利益。相关规定有利于进一步保障包括台湾同胞在内所有出入境人员的合法权益。\n陈斌华表示，民进党当局为了阻挠两岸交流交往，不断歪曲事实、抹黑大陆，近期又操纵网军侧翼针对特定人士造谣污蔑、恶意诋毁，令人不齿。",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国台办回应民进党当局炒作赴陆风险，指其歪曲事实阻挠两岸交流。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源澎湃新闻较权威，内容具体，有直接引述发言人表态，事实可查证。"
+    },
+    {
+      "title": "国台办：大陆始终是广大台商台企投资兴业的最佳选择",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-09/10693120.shtml",
+      "pubDate": "Wed, 9 Sep 2026 10:52:42 +0800",
+      "contentSnippet": "中新网9月9日电 9日上午，国务院台办举行例行新闻发布会，发言人陈斌华就近期两岸热点问题回答记者提问。有记者提问：近日，民进党当局宣称，2025年台商对大陆投资较前一年下降59%，2026年上半年下降30%，台商在大陆投资要慎重。请问对此有何评论？",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国台办回应台商投资下降数据，强调大陆仍是台商投资最佳选择。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为官方媒体中新网，引述国台办发言人直接回应，内容具体且具权威性。"
+    },
+    {
+      "title": "国台办：抗战胜利是两岸同胞共同的历史记忆 忘记历史就意味着背叛",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-09/10693109.shtml",
+      "pubDate": "Wed, 9 Sep 2026 10:47:34 +0800",
+      "contentSnippet": "中新网9月9日电 9日上午，国务院台办举行例行新闻发布会，发言人陈斌华就近期两岸热点问题回答记者提问。有记者问：9月3日是中国人民抗日战争暨世界反法西斯战争胜利纪念日。岛内各界有识之士纷纷发声，呼吁两岸同胞铭记共同抗战历史，捍卫抗战胜利成果，反对“去中国化”分裂行径。请问对此有何评论？",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国台办强调抗战胜利是两岸共同记忆，反对去中国化分裂行径。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为官方媒体中新网，直接引述发言人陈斌华，内容具体且涉及官方立场，权威性高。"
+    },
+    {
+      "title": "“1890年美国就想用关税吞并我们”，加拿大总理发表全国动员应战讲话",
+      "link": "https://m.thepaper.cn/detail/34036556",
+      "pubDate": "Wed, 09 Sep 2026 02:32:24 GMT",
+      "contentSnippet": "加拿大政府针对美国加征关税的反制措施9月8日凌晨正式生效后，加拿大总理卡尼发表全国视频讲话，动员全民团结应对加美贸易战。卡尼重申，美方在谈判最后时刻提出了损害加拿大主权和核心产业利益的不合理要求，因此加方选择放弃协议，实施反制。",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "加拿大总理卡尼就美国关税发表全国讲话，称美方要求损害主权，加方实施反制。",
       "credibilityScore": 75,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为中新社，属权威媒体，信息具体有时间地点，但未提供多方独立证实。"
+      "credibilityReason": "来源澎湃新闻较权威，内容具体有时间地点，但标题有煽动性，正文无直接引述，评分中等偏上。"
     },
     {
-      "title": "鲜活的螃蟹能带上高铁吗？官方解答来了！",
-      "link": "https://www.chinanews.com.cn/sh/2026/09-08/10692483.shtml",
-      "pubDate": "Tue, 8 Sep 2026 11:42:11 +0800",
-      "contentSnippet": "随着开渔季的到来",
-      "sourceName": "中国新闻网",
+      "title": "习近平就朝鲜国庆78周年向朝鲜最高领导人金正恩致贺电",
+      "link": "https://m.thepaper.cn/detail/34036096",
+      "pubDate": "Wed, 09 Sep 2026 00:07:06 GMT",
+      "contentSnippet": "新华社快讯：习近平就朝鲜国庆78周年向朝鲜最高领导人金正恩致贺电。",
+      "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
-        "中国新闻网"
+        "澎湃新闻"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国新闻网解答开渔季鲜活螃蟹能否带上高铁，提供官方规定。",
-      "credibilityScore": 85,
+      "aiSummary": "习近平致电金正恩祝贺朝鲜国庆78周年。",
+      "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源权威官方媒体，内容具体涉及政策解答，可查证，但缺乏直接引述。"
+      "credibilityReason": "来源为澎湃新闻引用新华社快讯，官方外交事件，信息明确可查证。"
     },
     {
-      "title": "济南市统一战线“薪火相传担使命  奋楫笃行开新局”进修班举办",
-      "link": "https://www.chinanews.com.cn/txy/2026/09-08/10692459.shtml",
-      "pubDate": "Tue, 8 Sep 2026 11:33:23 +0800",
-      "contentSnippet": "9月1日-4日，济南市统一战线“薪火相传担使命   奋楫笃行开新局”进修班在山东省社会主义学院举办。省委统战部副部长，省社会主义学院党组书记、第一副院长孙传尚作专题辅导报告，市委统战部分管日常工作的副部长孔祥敏主持开班式并讲话。",
-      "sourceName": "中国新闻网",
+      "title": "特稿｜塔利班执政五年：GDP涨了，阿富汗人的日子更难了",
+      "link": "https://m.thepaper.cn/detail/34030816",
+      "pubDate": "Tue, 08 Sep 2026 23:15:15 GMT",
+      "contentSnippet": "“和两年前相比，最直观的感觉就是发展速度很快。”宝石商人陈琳回忆道。两年前她初到阿富汗首都喀布尔考察时，街头出租车极度匮乏。如今，喀布尔街头不仅出租车“肉眼可见地变多”且车身颜色统一，沿街更是一片大兴土木的景象，“步行十几分钟，就能看到一栋拔地而起的新楼。”\n五年前的9月7日，塔利班宣布在阿富汗组建临时政府，曾承诺将确保国家实现“持久和平、繁荣与发展”。但复苏的表象之下，普通阿富汗人感受到的却是生存寒冬。联合国数据显示，目前该国四分之三的人口无法满足基本生存需求，失业率居高不下。\n原本属于中产阶层的法蒂玛一家滑向赤贫的深渊：两个曾在跨国IT企业工作的哥哥，因公司失去政府合同相继失业，数年来拼命",
+      "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
-        "中国新闻网"
+        "澎湃新闻"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "济南市统一战线进修班举办，聚焦使命传承与新局面开拓。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威媒体；内容具体，含时间、地点、人物；客观报道，可查证。"
-    },
-    {
-      "title": "追梦中华·侨见自贸港：小园区，大产业",
-      "link": "https://www.chinanews.com.cn/cj/2026/09-08/10692468.shtml",
-      "pubDate": "Tue, 8 Sep 2026 11:32:47 +0800",
-      "contentSnippet": "中新网海南定安9月8日电 题：追梦中华·侨见自贸港：小园区，大产业",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中新网报道海南定安侨乡小园区发展大产业，展现自贸港建设成果。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威性较高，内容具体涉及地点与主题，但缺乏直接引述和多方验证。"
-    },
-    {
-      "title": "山西万荣：梨园里的“青春直播间”",
-      "link": "https://www.chinanews.com.cn/cj/2026/09-08/10692470.shtml",
-      "pubDate": "Tue, 8 Sep 2026 11:32:33 +0800",
-      "contentSnippet": "这个暑期，山西万荣县的4名返乡大学生组成“青春助农”志愿服务队，把直播间“搬”进梨园，通过手机直播推介家乡的丹霞红梨。牛玉璋 摄\r\n\n　　中新网运城9月8日电 题：山西万荣：梨园里的“青春直播间”",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "山西万荣返乡大学生将直播间搬进梨园，直播推介家乡丹霞红梨。",
+      "aiSummary": "澎湃新闻特稿：塔利班执政五年，阿富汗GDP增长但民生恶化，多数人难满足基本需求。",
       "credibilityScore": 75,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源中国新闻网较权威，内容具体有时间地点人物，但报道简短，缺少直接引述和交叉验证。"
+      "credibilityReason": "来源为知名媒体，内容具体有引述和数据，但缺乏多源交叉验证，评分中等偏上。"
     },
     {
-      "title": "悉尼举行车士活街头嘉年华",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-08/10692437.shtml",
-      "pubDate": "Tue, 8 Sep 2026 11:32:27 +0800",
-      "contentSnippet": "中新网悉尼9月8日电　车士活街头嘉年华（Chatswood StreetFair）日前在澳大利亚大悉尼地区威洛比市中心举行。",
+      "title": "习近平同英国首相伯纳姆通电话",
+      "link": "http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E4%BC%AF%E7%BA%B3%E5%A7%86%E9%80%9A%E7%94%B5%E8%AF%9D",
+      "pubDate": "Tue, 08 Sep 2026 19:52:00 +0800",
+      "contentSnippet": "",
+      "sourceName": "央视新闻",
+      "sourceWeight": 80,
+      "allSources": [
+        "央视新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "习近平与英国首相伯纳姆通电话，讨论双边关系。",
+      "credibilityScore": 95,
+      "credibilityLevel": "high",
+      "credibilityReason": "央视新闻为官方权威媒体，信息具体，来源可靠，符合高可信度标准。"
+    },
+    {
+      "title": "我国特色锂矿石伴生铷铯资源高效绿色分离技术取得新突破",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-09/10693152.shtml",
+      "pubDate": "Wed, 9 Sep 2026 11:52:36 +0800",
+      "contentSnippet": "近日，由中国科学院过程工程研究所、赣锋锂业等合作建成的全球首套年产500吨连续塔式萃取分离特色锂矿石伴生低品位铷铯示范线，实现全流程稳定达产运行，产品碳酸铯、碳酸铷纯度均达到99.9%以上，并已上市销售。该示范线的达产运行标志着我国低品位伴生铷铯资源高效绿色分离技术取得重要突破，为我国铷铯资源的高效、绿色利用提供了坚实保障。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -118,33 +237,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "悉尼车士活街头嘉年华日前在威洛比市中心举行。",
-      "credibilityScore": 75,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为中新网，较权威，但报道简短，缺少具体细节和直接引述。"
-    },
-    {
-      "title": "中新天津生态城发布年度场景机会清单 覆盖十大领域21项",
-      "link": "https://www.chinanews.com.cn/cj/2026/09-08/10692465.shtml",
-      "pubDate": "Tue, 8 Sep 2026 11:32:15 +0800",
-      "contentSnippet": "中新网天津9月8日电(周亚强 孙翼飞)7日下午，中新天津生态城发布2026年度场景机会清单。当日，由中新天津生态城管委会联合长城战略咨询主办的“景秀生态城·共创新未来——中新天津生态城全域场景发布暨2026年度场景供需链接活动”在国家海洋博物馆举办。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中新天津生态城发布2026年度场景机会清单，覆盖十大领域21项，推动场景创新。",
+      "aiSummary": "我国建成全球首套铷铯分离示范线，纯度超99.9%，技术取得突破。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，权威性较高；报道含具体时间、地点、主办方及活动名称，信息具体可查证。"
+      "credibilityReason": "来源中国新闻网较权威，信息具体含单位、产能、纯度，可查证。"
     },
     {
-      "title": "“《原野》回响——中法歌剧艺术分享会”在巴黎举办",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-08/10692381.shtml",
-      "pubDate": "Tue, 8 Sep 2026 11:31:59 +0800",
-      "contentSnippet": "中新网巴黎9月8日电 “《原野》回响——中法歌剧艺术分享会”当地时间4日在巴黎中国文化中心举办。中国歌剧舞剧院演出团当天为150余名法国观众带来了一场中法歌剧艺术的对话。",
+      "title": "A股午评：超3500只个股飘绿，沪指收涨，深指、创业板指收跌",
+      "link": "https://www.chinanews.com.cn/cj/2026/09-09/10693149.shtml",
+      "pubDate": "Wed, 9 Sep 2026 11:50:28 +0800",
+      "contentSnippet": "A股午评：超3500只个股飘绿，沪指收涨，深指、创业板指收跌；半导体高开低走转跌，文化传媒、医药下挫；海运、煤炭、通信设备上涨",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -152,112 +254,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中法歌剧艺术分享会在巴黎举办，中国歌剧舞剧院为法国观众演出。",
+      "aiSummary": "A股午盘沪指涨，深指创业板跌，超3500股飘绿，半导体等板块走低。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，权威性较高；报道含具体时间、地点、人物和活动细节，内容客观可查证。"
-    },
-    {
-      "title": "从雍正朱批到宋代茶具：四库全书数字化成果展让古籍走出“故纸堆”",
-      "link": "https://www.chinanews.com.cn/cul/2026/09-08/10692460.shtml",
-      "pubDate": "Tue, 8 Sep 2026 11:31:57 +0800",
-      "contentSnippet": "中新网兰州9月8日电(记者 高莹)提起《四库全书》，多数人的印象是卷帙浩繁、文字艰深、束之高阁的古代典籍。9月8日，记者走进位于甘肃省兰州市的读者插图艺术馆，百余幅源自文溯阁《四库全书》中的数字化影印古籍图像正在陈展中。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "四库全书数字化成果展在兰州展出，让古籍走出故纸堆。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威媒体，有具体时间地点和记者署名，内容客观具体。"
-    },
-    {
-      "title": "法国西南部气温超过40摄氏度 突破9月历史同期高温纪录",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-08/10692367.shtml",
-      "pubDate": "Tue, 8 Sep 2026 11:30:51 +0800",
-      "contentSnippet": "中新网巴黎9月8日电 法国西南部部分地区气温当地时间7日超过40摄氏度，从而突破9月历史同期高温纪录。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "法国西南部9月7日气温超40摄氏度，创历史同期高温纪录。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名媒体中新网，信息具体含时间地点数据，但未提及原始气象部门或直接引述。"
-    },
-    {
-      "title": "向新之翼｜科创中国行·合肥：这束光如何让量子通信“绝对安全”",
-      "link": "https://www.chinanews.com.cn/edu/2026/09-08/10692471.shtml",
-      "pubDate": "Tue, 8 Sep 2026 11:30:05 +0800",
-      "contentSnippet": "探访“墨子”号量子卫星科研团队",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国新闻网探访墨子号团队，报道量子通信绝对安全技术。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为官方媒体，内容具体，但缺乏直接引述和独立验证。"
-    },
-    {
-      "title": "江苏南京：打造惠企政策“最优一公里”",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-08/10692469.shtml",
-      "pubDate": "Tue, 8 Sep 2026 11:28:12 +0800",
-      "contentSnippet": "理响中国·讲好“中国式商量”故事｜江苏南京：打造惠企政策“最优一公里”",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "南京优化惠企政策落地，打通服务企业最后一公里。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网较权威，内容具体，但缺乏直接引述与多源验证。"
-    },
-    {
-      "title": "“百里运河铸牢中华民族共同体意识展示带”宣教阵地启用",
-      "link": "https://www.chinanews.com.cn/txy/2026/09-08/10692467.shtml",
-      "pubDate": "Tue, 8 Sep 2026 11:27:42 +0800",
-      "contentSnippet": "本报讯 (广西云-广西日报记者冯源 通讯员周利平)近日，“百里运河铸牢中华民族共同体意识展示带”首个宣教阵地在灵山县沙坪镇运河七里小学启用。钦州市县(区)两级统战部门、教育系统有关负责人，各县(区)学校代表及该校师生500余人参加活动。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "广西灵山县启用首个铸牢中华民族共同体意识宣教阵地，500余人参加活动。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网，权威媒体，有具体时间地点人物和活动细节，内容客观可查证。"
-    },
-    {
-      "title": "好评中国｜以青春赴时代之约，书写科技创新的华章",
-      "link": "https://www.chinanews.com.cn/ll/2026/09-08/10692466.shtml",
-      "pubDate": "Tue, 8 Sep 2026 11:25:22 +0800",
-      "contentSnippet": "9月6日晚，2026“把青春华章写在祖国大地上”大思政课网络主题宣传和互动引导活动在中国科学技术大学举行。活动现场，院士专家、时代楷模、知名企业家、青年科创先锋齐聚一堂，以亲身经历回答广大青年：青春该是什么模样，年轻人该立下怎样的志向。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国科技大学举办大思政课活动，鼓励青年投身科技创新。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为官方媒体，内容具体但属宣传性质，无独立核实，评分中等偏上。"
+      "credibilityReason": "来源中国新闻网权威，内容具体含数据与板块，客观报道，可查证。"
     }
   ]
 }
