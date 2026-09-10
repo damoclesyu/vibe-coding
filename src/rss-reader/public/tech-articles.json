@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-09T03:56:01.359Z",
+  "generatedAt": "2026-09-10T03:54:38.015Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "东风集团自研混合固液电池计划 10 月发布，四季度量产上车",
-      "link": "https://www.ithome.com/1/000/096.htm",
-      "pubDate": "Wed, 09 Sep 2026 03:30:02 GMT",
-      "contentSnippet": "IT之家 9 月 9 日消息，据财联社报道，东风集团副总理尤铮今日在聚合智能产业生态论坛（2026）上透露，东风集团自研 350Wh/kg 混合固液电池计划 10 月发布，将于 2026 年四季度量产上车。\n在今年 7 月的第二十一届上海国际汽车制造技术与装备及材料展览会上，东风汽车集团研发总院、先行技术研究院新型电池运营经理张微透露，东风汽车目标今年年底推出 100 辆固态电池示范运行汽车；2030 年左右实现固态电池配套车辆小规模量产；2035 年左右达成固态电池大规模量产及普及应用。\n\n张微透露，东风已于今年 1 月完成 350Wh/kg 固态电池装车冬测，计划 Q4 实现搭载应用。20",
+      "title": "国际打击电信网络诈骗联盟在中国正式成立",
+      "link": "https://www.ithome.com/1/000/618.htm",
+      "pubDate": "Thu, 10 Sep 2026 02:47:41 GMT",
+      "contentSnippet": "IT之家 9 月 10 日消息，据央视新闻报道，9 月 10 日，国际打击电信网络诈骗联盟成立大会在中国江苏连云港举行。来自 46 个创始国、34 个观摩国以及联合国、国际刑警组织等 4 个国际组织的代表参加大会。\n会上，中国和越南、老挝、肯尼亚、柬埔寨、巴基斯坦、俄罗斯等联盟发起国、创始国代表分别致辞、发言，国际刑警组织代表致贺辞。各方高度赞赏中国发起成立国际打击电信网络诈骗联盟的责任担当，高度评价联盟成立对维护全球公共安全的重大意义，对联盟遏制电信网络诈骗全球蔓延充满信心和期待。\n各方共同发布了《关于成立国际打击电信网络诈骗联盟的联合声明》。声明指出，各国共同认识到电信网络诈骗正在成为世界",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,16 +16,68 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "东风自研350Wh/kg混合固液电池10月发布，四季度量产上车。",
-      "credibilityScore": 80,
+      "aiSummary": "国际打击电信网络诈骗联盟在中国连云港成立，46个创始国及国际组织代表参会。",
+      "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用财联社及高管发言，技术参数具体，逻辑清晰，但缺乏第三方验证。"
+      "credibilityReason": "IT之家转载央视新闻，来源权威，信息具体含时间地点及参与方数据，但正文摘要不完整。"
     },
     {
-      "title": "航天员们平时吃什么？中国航天员在太空烤上了小蛋糕，隔着屏幕都能闻到香味",
-      "link": "https://www.ithome.com/1/000/073.htm",
-      "pubDate": "Wed, 09 Sep 2026 03:03:13 GMT",
-      "contentSnippet": "IT之家 9 月 9 日消息，今日上午，“天宫课堂 · 港澳专场”正式开讲。神舟二十三号乘组航天员朱杨柱、张志远、黎家盈担任太空教师，为港澳学生进行太空授课，并开展天地互动。\n\n在授课过程中，航天员黎家盈展示了空间站的太空厨房设备。她介绍，地面科技人员为航天员搭配了种类丰富、营养均衡的食谱，包括米饭、面包等主食，以及红烧肉、佛跳墙、黑椒牛肉等数十种特色美食。此外还有各类脱水蔬菜，加水后即可食用。\n\nIT之家查询获悉，太空厨房配备了两套加热设备：下方为微波加热装置，原理与家用微波炉相近，主要用于加热米饭；上方为热风加热装置，通过 360° 循环热风加热技术，可在半小时内完成饭菜加热。\n黎家盈介绍",
+      "title": "苹果 iPhone 18 Pro / Max 仅限 eSIM 地区共 12 个，与上代保持一致",
+      "link": "https://www.ithome.com/1/000/566.htm",
+      "pubDate": "Wed, 09 Sep 2026 23:55:40 GMT",
+      "contentSnippet": "IT之家 9 月 10 日消息，苹果官网信息显示，iPhone 18 Pro 和 iPhone 18 Pro Max 在特定国家和地区延续了仅支持 eSIM、无物理 SIM 卡槽的设计。\n根据苹果官方列表，这些市场地区包括：\n\n巴林\n\n加拿大\n\n关岛\n\n日本\n\n科威特\n\n墨西哥\n\n阿曼\n\n卡塔尔\n\n沙特阿拉伯\n\n阿联酋\n\n美国\n\n美属维尔京群岛\n\n这一名单与去年的 iPhone 17 Pro 系列完全一致。IT之家注意到，苹果自 2022 年 iPhone 14 系列起开始在美国推行仅 eSIM 的设计，此后逐步拓展至更多市场。\n\n在大部分国家和地区，包括英国及欧盟地区，还有中国港澳台，iPh",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家",
+        "少数派"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "苹果iPhone 18 Pro系列仅eSIM地区共12个，与上代完全一致，未新增市场。",
+      "credibilityScore": 87,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家等知名科技媒体，引用苹果官网信息，数据具体，但正文摘要不完整。（多源覆盖 +5）"
+    },
+    {
+      "title": "“超脑+狼族”最新全阵容亮相！京东物流打造供应链应用场景最多、规模最大的AI具身机器人军团",
+      "link": "https://www.infoq.cn/article/ZebW8Yc4QTzrbdJxagCc?utm_source=rss&utm_medium=article",
+      "pubDate": "Wed, 09 Sep 2026 15:38:04 GMT",
+      "contentSnippet": "点击查看原文>",
+      "sourceName": "InfoQ中文",
+      "sourceWeight": 78,
+      "allSources": [
+        "InfoQ中文"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "京东物流发布'超脑+狼族'AI具身机器人军团，宣称打造供应链领域规模最大应用场景。",
+      "credibilityScore": 62,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名技术媒体InfoQ，但正文缺失仅有标题，缺乏数据细节和原始出处，宣传性表述偏强。"
+    },
+    {
+      "title": "首个走进联合国的中国教育 Agent，正在打开下一个 Token 入口",
+      "link": "https://www.ifanr.com/1678673?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pubDate": "Wed, 09 Sep 2026 09:15:51 +0000",
+      "contentSnippet": "Coding 之后，教育 Agent 正在成为下一场 Token 战争\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "sourceName": "爱范儿",
+      "sourceWeight": 82,
+      "allSources": [
+        "爱范儿"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "爱范儿报道中国教育Agent走进联合国，称其或成下一个Token入口",
+      "credibilityScore": 55,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体，但正文仅摘要，缺乏技术细节与原始出处，标题有营销倾向"
+    },
+    {
+      "title": "JAPANNEXT 推出 15.6\" UHD 60Hz IPS 便携屏，要价 35,980 日元",
+      "link": "https://www.ithome.com/1/000/675.htm",
+      "pubDate": "Thu, 10 Sep 2026 03:51:58 GMT",
+      "contentSnippet": "IT之家 9 月 10 日消息，日本显示器制造商 JAPANNEXT 今日宣布推出便携显示器 JN-MD-i156U。这一型号采用 15.6\" IPS 面板，支持 UHD (3840×2160) 分辨率、60Hz 刷新率。\n\nJN-MD-i156U 亮度达 420nits，对比度 1500:1，支持 HDR；色域覆盖 99% sRGB / 90% DCI-P3；拥有无频闪、低蓝光护眼特性；集成 2 个 1W 扬声器；提供 2 个 USB-C“一线连”接口、1 个 Mini HDMI、1 个 microUSB。\n该设备本体质量 620g，随附 270g 的护套支架。其含税售价为 35,980 日",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -33,16 +85,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国航天员在太空授课展示太空厨房，可烤蛋糕加热美食。",
+      "aiSummary": "JAPANNEXT推出15.6英寸UHD便携显示器，售价35,980日元",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家可信，内容具体描述设备与食谱，有官方授课背景，逻辑清晰。"
+      "credibilityReason": "IT之家为知名科技媒体，产品参数具体详实，信息源自厂商发布，但缺少原始链接引用"
     },
     {
-      "title": "抢单“物理外挂”被判赔 300 万元：最高法发布 9 件反不正当竞争典型案例，涵盖 AI、直播电商等新兴领域",
-      "link": "https://www.ithome.com/1/000/052.htm",
-      "pubDate": "Wed, 09 Sep 2026 02:13:04 GMT",
-      "contentSnippet": "IT之家 9 月 9 日消息，最高人民法院今日发布 2026 年人民法院反不正当竞争典型案例，共 9 件。其中，案例五涉及提供抢单“物理外挂”破坏平台公平竞争秩序，对平台经济健康规范发展具有示范意义。\n\n该案中，某科技公司等三家公司是某外卖平台及众包平台的运营主体。2024 年起，三家公司收到大量骑手使用外挂设备抢单的投诉。调查发现，某电子公司在电商平台销售名为“点滑器”的产品，并发布教程，指导骑手将设备与平台 App 连接，通过设置指令实现自动快速抢单，速度远快于手动操作，该产品累计销售额达数百万元。\n广东省广州市黄埔区人民法院一审认定，涉案点滑器产品通过技术手段规避平台操作规则，干扰调度算",
+      "title": "打破国外长期垄断，我国小型液质联用仪研发取得重要突破",
+      "link": "https://www.ithome.com/1/000/650.htm",
+      "pubDate": "Thu, 10 Sep 2026 03:45:10 GMT",
+      "contentSnippet": "IT之家 9 月 10 日消息，据央视新闻今日报道，我国在小型液质联用仪研发领域近日取得重要突破，针对常规液质联用仪（LC-MS / MS）体积庞大、成本高昂、操作复杂等长期制约临床推广应用的痛点，依托中国计量科学研究院建立的市场监管总局技术创新中心（质谱）组织科研团队开展关键技术攻关，成功研发出一种低成本、易操作的小型液质联用系统（LC-MiniMS），填补了国内该领域的技术空白。\n研究团队突破小型真空系统、高效离子传输系统、高稳定电路系统等核心关键技术，在保证定量分析精度的前提下，大幅缩小仪器体积并有效降低制造成本，打破了国外厂商在该领域长期形成的技术壁垒和价格垄断，实现国产化替代。\n目前",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -50,16 +102,153 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "最高法发布反不正当竞争典型案例，涉抢单物理外挂被判赔300万。",
-      "credibilityScore": 85,
+      "aiSummary": "我国科研团队成功研发低成本小型液质联用系统，打破国外技术垄断。",
+      "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，内容具体，引用最高法案例，技术细节清晰，逻辑严谨。"
+      "credibilityReason": "来源为IT之家转引央视新闻，有具体机构和技术细节，但缺少原始论文或数据支撑。"
     },
     {
-      "title": "【钛晨报】前8个月中国外贸数据重点速览：进出口总值同比增长17.6%，出口汽车增长47.1%；市场监管总局全面启动“放心消费”培育工作；苹果与铠侠签署NAND长期供应协议，或不设价格上限",
-      "link": "https://www.tmtpost.com/8133415.html",
-      "pubDate": "Wed, 09 Sep 2026 07:20:00 +0800",
-      "contentSnippet": "国务院以“高质量推进城市更新、促进城市内涵式发展”为主题，进行第二十一次专题学习；阿里B2B业务国内外打通，张阔统管1688与国际站；阿斯麦赢得台积电和三星承诺，使用其新一代EUV光刻机；高通将向亚马逊发行至多2500万股股票的认股权证；三部门发文加快提供优质高效眼健康服务；四川首笔“Token算力场景”贷款投放；霸王茶姬开卖茶叶蛋；喜茶重启加盟",
+      "title": "Find 系列首次：OPPO Find X10 手机官宣实现「0.99mm 极窄四等边」",
+      "link": "https://www.ithome.com/1/000/643.htm",
+      "pubDate": "Thu, 10 Sep 2026 03:43:27 GMT",
+      "contentSnippet": "IT之家 9 月 10 日消息，OPPO Find 系列产品负责人卓世杰今日发文，介绍了 Find X10 的正面设计，并宣布 Find X10 这次的「0.99mm 极窄四等边」，是 Find 系列第一次把边框压到 1mm 以内。\n卓世杰表示：\n\n0.99mm 的背后，是全新芯片级封装技术的一次硬突破。它不仅窄，更难的是“四边等窄”。只有当极窄与等窄同时成立，四周的边界感才能被进一步压低，让画面真正铺满眼帘。全屏追剧，黑边不再抢戏；横屏游戏，视野也不再被边缘干扰。注意力，自然更聚焦在眼前。\n\n\n据IT之家昨日报道，OPPO Find X10 系列手机已开启预约，相关页面显示，OPPO Fin",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "OPPO Find X10 官宣实现 0.99mm 极窄四等边，为 Find 系列首次边框压至 1mm 以内。",
+      "credibilityScore": 78,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，引述官方产品负责人原话，信息具体，但缺乏第三方验证与详细技术数据。"
+    },
+    {
+      "title": "索尼公布 9 月 PS Plus 二三档游戏目录：《符文世界：龙之荒野》《WWE 2K26》《地铁：归来》等",
+      "link": "https://www.ithome.com/1/000/634.htm",
+      "pubDate": "Thu, 10 Sep 2026 03:40:12 GMT",
+      "contentSnippet": "IT之家 9 月 10 日消息，索尼今日公布了 9 月 PlayStation Plus 的 Extra 与 Premium 游戏目录，共 10 款游戏加入。\n\nIT之家注：PlayStation Plus 分为 Essential、Extra 和 Premium 三级档位，本次更新内容将于 9 月 15 日起更新入库。\n\n二档新增游戏\n\nPS5《符文世界：龙之荒野》（首发入库）\n\nPS5《WWE 2K26》\n\nPS5《球比伦战记》（Ball x Pit）\n\nPS5《Date Everything!》\n\nPS4/PS5《野狗子》\n\nPS4/PS5《忍者外传：怒之羁绊》\n\nPS4/PS5《辛特堡",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "索尼公布9月PS Plus二三档游戏目录，共10款游戏9月15日入库。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息具体含游戏名单和入库日期，但缺少索尼官方原始链接。"
+    },
+    {
+      "title": "谷歌目前唯一平板电脑 Pixel Tablet 停产，已从官网下架",
+      "link": "https://www.ithome.com/1/000/633.htm",
+      "pubDate": "Thu, 10 Sep 2026 03:38:53 GMT",
+      "contentSnippet": "IT之家 9 月 10 日消息，据外媒 9To5Google 今日报道，Pixel Tablet 平板电脑已经正式停产，谷歌官方商店已将其下架。\n\n谷歌于 2023 年推出了 Pixel Tablet，是一款安卓平板和 Nest Hub 智能显示屏的混合体，搭载可拆卸底座。报道称，这款产品反响褒贬不一，但它仍然是谷歌产品线中唯一的平板电脑。\nPixel Tablet 的商店链接现在已经重定向到商店主页，而目前还有少数配件在售卖。\nIT之家注意到，外媒 Android Headlines  曾在 2024 年发文，声称谷歌 Pixel Tablet 2 平板电脑已遭取消。规格方面，这款遭到取消的",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "谷歌唯一平板Pixel Tablet已停产并从官网下架，配件仍在售。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家编译9To5Google报道，信息具体，有官网下架事实及历史报道佐证，但缺官方声明。"
+    },
+    {
+      "title": "System76 发布 AM5 工作站 Thelio Mira AI，支持双卡配置",
+      "link": "https://www.ithome.com/1/000/632.htm",
+      "pubDate": "Thu, 10 Sep 2026 03:38:31 GMT",
+      "contentSnippet": "IT之家 9 月 10 日消息，美国 Linux PC 制造商 System76 当地时间昨日发布了 Thelio Mira AI 工作站系统。\n\n该系列基于 AMD 锐龙 9000 系列处理器，可通过 x8+x8 的 PCIe 拆分连接至 2 张扩展卡，支持双 NVIDIA RTX PRO Blackwell 6000。其通过采用主流桌面级平台降低了系统构建成本。\nThelio Mira AI 三维 17.31 × 9.96 × 15.12 (in)，提供 28TB 存储空间，拥有 4 个 USB 10Gbps (2A2C)、2 个 5GbE RJ-45，支持 Wi-Fi 7 & 蓝牙 5.",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家",
+        "InfoQ中文"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "System76发布基于AMD锐龙9000的Thelio Mira AI工作站，支持双NVIDIA RTX PRO Blackwell 6000显卡。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家和InfoQ中文，属知名科技媒体；内容具体，含硬件规格、接口和尺寸等细节，逻辑清晰。（多源覆盖 +5）"
+    },
+    {
+      "title": "李想：理想汽车终于迈过三重难关，i9 将是第二代纯电平台的首发旗舰",
+      "link": "https://www.ithome.com/1/000/630.htm",
+      "pubDate": "Thu, 10 Sep 2026 03:32:35 GMT",
+      "contentSnippet": "IT之家 9 月 10 日消息，理想汽车 CEO 李想今日发文，称理想 i9 的到来，意味着理想汽车终于迈过了三重难关。\n\n\n第一，两条腿走路。过去总有人问，理想做增程成功了，做纯电行不行？现在，理想 i6 连续 7 个月稳居 20 万元以上所有车型销量前三，理想 i8 和新一代 MEGA 销量超预期，理想 i9 的加入将进一步完善纯电车型矩阵。同时，在全国最繁忙的 18 条国家级高速上，平均每 122 公里就有一座理想 5C 超充站。事实证明，只要理想坚持提供最好的用户体验，就能同时做好增程，做好纯电。\n\n第二，核心技术坚持自研并成功上车。近三年我们的研发投入每年均在百亿以上，并持续增长。我",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "李想称理想汽车迈过三重难关，i9将成第二代纯电平台首发旗舰",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体IT之家，引述CEO公开表态，含具体销量与充电数据，但属企业宣传口径，缺乏独立验证"
+    },
+    {
+      "title": "努比亚张雷：苹果做屏下摄像头挺好，也佐证我们 7 年前坚持的方向是对的",
+      "link": "https://www.ithome.com/1/000/629.htm",
+      "pubDate": "Thu, 10 Sep 2026 03:25:48 GMT",
+      "contentSnippet": "IT之家 9 月 10 日消息，苹果今日发布的旗下首款折叠屏手机 —— iPhone Duo 采用屏下摄像头技术，引发广泛讨论。\n\n中兴通讯副总裁、努比亚旗舰产品总经理张雷今日发文，谈及了 iPhone Duo 的屏下摄像头设计。他表示，苹果做屏下挺好，也佐证我们 7 年前坚持的方向是对的。\n\n看了些网上的内容，说句客观的：屏下不能只看黑屏，彩色显示下，苹果那颗屏下摄像头还是有点明显。第一代，正常：和我们 2020 年的 Axon 30 一样，彩色都是 200PPI；现在的 Z80U，彩色已经做到 400PPI，肉眼已经完全看不出差别。\n\n\n据IT之家今日早些时候报道，中兴通讯终端事业部总裁、",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "努比亚张雷评苹果折叠屏屏下摄像头，称佐证其7年前方向正确。",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "IT之家为知名科技媒体，引述高管具体技术参数，但内容含主观立场，缺乏独立验证。"
+    },
+    {
+      "title": "宇树科技股价跌破 500 元 / 股，市值较上市首日高点蒸发超 2400 亿元",
+      "link": "https://www.ithome.com/1/000/628.htm",
+      "pubDate": "Thu, 10 Sep 2026 03:24:20 GMT",
+      "contentSnippet": "IT之家 9 月 10 日消息，宇树科技股价早盘持续下挫，跌破 500 元 / 股，最低达到了 499.0 元每股，创上市以来新低。\n截至目前，宇树科技每股报价 499.97 元跌超 2.7%，总市值 2022 亿元，较上市首日最高点 4449 亿元蒸发超 2400 亿元。\n\nIT之家此前报道，宇树科技于 8 月 19 日正式登陆科创板，发行价为 150.80 元 / 股，开盘价报 1100 元 / 股，较发行价上涨 629.44%，对应总市值一度达到 4449 亿元。上市首日收盘报 845 元 / 股，收涨 460.34%，总市值回落至 3418 亿元。\n自上市以来，宇树科技股价整体呈下行趋",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "宇树科技股价跌破500元，市值较上市首日高点蒸发超2400亿元。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，数据具体（股价、市值、发行价等），信息详实有据。"
+    },
+    {
+      "title": "小岛秀夫回应《PHYSINT》游戏转投微软合作：索尼今年 6 月突然通知取消开发",
+      "link": "https://www.ithome.com/1/000/627.htm",
+      "pubDate": "Thu, 10 Sep 2026 03:23:38 GMT",
+      "contentSnippet": "IT之家 9 月 10 日消息，索尼 PlayStation 官方今日宣布，在仔细考虑后作出了艰难的决定，停止与小岛工作室在其《PHYSINT》项目上的合作。随后，微软 Xbox 宣布与小岛工作室的合作扩展到《PHYSINT》。\n对此，游戏制作人小岛秀夫发布回应声明，揭开与索尼合作《PHYSINT》破裂内幕：\n\n正如刚才小岛工作室官方发布的消息，今年 6 月中旬，我们突然收到了 SIE 方面关于“取消正在开发中的《PHYSINT》项目”的通知。\n对我和小岛工作室而言，《PHYSINT》是一个非常重要的项目。为了能够让项目继续下去，在过去的三个月里，我们一直在寻找新的合作伙伴。在听取各方意见、持",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "索尼取消与小岛工作室《PHYSINT》合作，微软接手，小岛秀夫回应内幕。",
+      "credibilityScore": 78,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，引述官方声明，但缺乏独立核实与数据支撑。"
+    },
+    {
+      "title": "中国算力“西进”，北部、西北部有望成为最大数据中心区域市场",
+      "link": "https://www.tmtpost.com/8135029.html",
+      "pubDate": "Thu, 10 Sep 2026 11:20:04 +0800",
+      "contentSnippet": "北部和西北部市场有望在2028年超越长三角，成为中国最大的数据中心区域市场。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -67,197 +256,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛晨报汇总多领域新闻，含外贸数据、监管动态及科技企业合作等。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体且涉及多方信息，但部分细节未展开，整体可信度较高。"
-    },
-    {
-      "title": "澳大利亚想要社媒平台允许用户退出算法驱动的信息流",
-      "link": "https://www.solidot.org/story?sid=85320",
-      "pubDate": "Tue, 08 Sep 2026 19:15:04 +0800",
-      "contentSnippet": "在禁止儿童使用社媒平台之后，澳大利亚工党政府提出了一项新的法律草案，要求社媒平台允许用户退出算法驱动的信息流。用户可选择算法推荐的个性化内容作为默认信息流，或者拒绝接收算法推荐的内容，只浏览用户关注的朋友和创作者的内容。被称为 My Feed, My Way 的法案旨在给予用户选择权，违反者将面临最高 1.092 亿澳元的罚款。澳大利亚总理 Anthony Albanese 表示，“它赋予用户选择权，如果大型科技公司不遵守我们的法律，我们将追究它们的责任。”",
-      "sourceName": "Solidot",
-      "sourceWeight": 75,
-      "allSources": [
-        "Solidot"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "澳大利亚拟立法要求社媒允许用户退出算法推荐，违者重罚。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源Solidot为知名科技媒体，内容具体含法案名称、罚款金额及总理引述，逻辑清晰。"
-    },
-    {
-      "title": "小米 18 Fold 中折叠手机相机玩法公开：两种形态，多种视角",
-      "link": "https://www.ithome.com/1/000/140.htm",
-      "pubDate": "Wed, 09 Sep 2026 03:54:22 GMT",
-      "contentSnippet": "IT之家 9 月 9 日消息，小米相机部的产品经理 @Bao_小李 今日分享了小米 18 Fold 中折叠手机的相机玩法，可以简单概括为“两种形态 + 多种视角”。\n\n给朋友拍照，翻转外屏朝前，随时调整站位，不用反复“再来一张”，自由拍照不受限；腰平取景模式开启，低头拍地面的花、拍路边的猫，也不用趴下去，腰平角度轻松搞定。\n\n\n小米相机部的产品经理 @Bao_小李 配图显示，小米 18 Fold 支持双形态多视角拍摄，外屏自拍取景自由、腰平取景不用俯身拍摄。\n据IT之家了解，小米 18 Fold 中折叠手机搭载徕卡专业三摄，宣称通过徕卡光学 Summilux 镜头可实现画质纯净通透。新机合上拍",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "小米18 Fold中折叠手机相机玩法曝光，支持双形态多视角拍摄。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家知名，内容具体但细节有限，产品经理爆料可信度中等。"
-    },
-    {
-      "title": "中秋国庆假期火车票今日开售：京沪高铁等干线加开夜间高铁，日均计划开行旅客列车约 1.3 万列",
-      "link": "https://www.ithome.com/1/000/138.htm",
-      "pubDate": "Wed, 09 Sep 2026 03:53:05 GMT",
-      "contentSnippet": "IT之家 9 月 9 日消息，全国铁路中秋国庆假期运输期限自 9 月 23 日启动至 10 月 8 日结束，为期 16 天。今日起正式发售 9 月 23 日火车票，10 月 1 日预计为客流最高峰日。\n\n今年中秋与国庆假期邻近，旅游、探亲与休闲需求旺盛，铁路总体客流预计高位运行。运输期间全国铁路实行高峰运行图，日均计划开行旅客列车约 1.3 万列。\n对此，铁路部门将采取增开夜间高铁和高铁动卧、动车组重联、普速列车加挂车厢等措施增加热门方向运力。其中，9 月 25 日、28 日、30 日至 10 月 2 日、6 日至 8 日期间，在京沪、京广、京哈等高铁干线安排开行夜间高铁。\n此外，铁路部门还将",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中秋国庆火车票今日开售，铁路部门增开夜间高铁应对客流高峰。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，信息具体含日期、车次安排，逻辑清晰，但无原始官方引用。"
-    },
-    {
-      "title": "已修复：OpenAI 的 ChatGPT 生图功能出现故障，持续约 7.5 小时",
-      "link": "https://www.ithome.com/1/000/135.htm",
-      "pubDate": "Wed, 09 Sep 2026 03:49:42 GMT",
-      "contentSnippet": "IT之家 9 月 9 日消息，OpenAI 官方状态页面显示，从北京时间 9 月 8 日 22:32 到 9 月 9 日 05:59，旗下 ChatGPT 和 Images API 的图像生成功能出现故障，持续约 7 小时 27 分钟。\nIT之家附上相关截图如下：\n\n本次故障主要涉及 ChatGPT 的图像生成功能，以及面向开发者的 Images API。OpenAI 称，用户提交图像生成请求时出现更高频率的错误。\n此外文件上传处理也受到影响，部分文件可能显示已完成上传，但仍停留在处理状态，暂时无法访问；另一些上传请求可能直接失败。\n用户在提交图像生成提示词后，也可能看到系统返回错误。Open",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "OpenAI图像生成功能故障7.5小时，已修复。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，信息具体含时间细节，引用官方状态页，客观报道。"
-    },
-    {
-      "title": "宾得宣布停售 K 系列数码单反相机，将基于全新理念打造 K 卡口新产品",
-      "link": "https://www.ithome.com/1/000/129.htm",
-      "pubDate": "Wed, 09 Sep 2026 03:47:50 GMT",
-      "contentSnippet": "IT之家 9 月 9 日消息，理光映像株式会社今日发布公告，宾得 PENTAX 数码单反相机将迈向新阶段。IT之家附公告全文：\n\n致各位用户\n衷心感谢各位一直以来对 K 卡口数码单反相机的厚爱。PENTAX 可更换镜头数码单反相机自 2003 年发售的「PENTAX *ist D」起步，2006 年推出搭载自研的内置防抖机构的「PENTAX K100D」，2016 年又推出首款搭载全画幅传感器的「PENTAX K-1」，随时代变迁不断实现了一次又一次的进化。\n如今，我们正重新审视“摄影本身的价值”，并推进产品开发，希望让更多人能够享受“拍摄”这一行为本身的乐趣。\n尽管这些产品的正式问世尚需时日",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "宾得宣布停售K系列单反，将推新理念K卡口产品。",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引用官方公告，内容具体但缺乏细节和独立验证。"
-    },
-    {
-      "title": "海贝 Yves+ 有线 HiFi 耳机发售：7mm 微动圈镀铍振膜，168 元",
-      "link": "https://www.ithome.com/1/000/121.htm",
-      "pubDate": "Wed, 09 Sep 2026 03:45:13 GMT",
-      "contentSnippet": "IT之家 9 月 9 日消息，HiBy 海贝 Yves+ 有线入耳式动圈 HiFi 耳机今日 12:00 正式开售，定价为 168 元。\n京东 HiBy 海贝 Yves+ 有线耳机 黑色入耳式动圈 HiFi 发烧 0.78 双针可换线音乐有线耳机 3.5mm168 元直达链接\n2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取。\n数码补贴：点此领券\n\n手机 / 平板 / 3C 数码支持 8.5 折政府补贴，不超过 6000 元的产品至高立减 500 元。\n\n家电补贴：点此领券\n\n多类家电支持 8.5 折政府补贴，单品至高补贴 1500 元。\n\n欢迎",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "海贝发布Yves+有线HiFi耳机，7mm镀铍振膜，售价168元。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，信息具体含配置价格，但缺乏深度评测和原始引用。"
-    },
-    {
-      "title": "同档最大：消息称荣耀 Magic9 Pro Max 手机内置 8800mAh 电池",
-      "link": "https://www.ithome.com/1/000/119.htm",
-      "pubDate": "Wed, 09 Sep 2026 03:44:19 GMT",
-      "contentSnippet": "IT之家 9 月 9 日消息，博主 @数码闲聊站 今日发文透露，荣耀 Magic9 Pro Max 手机将内置 8800mAh 电池，属于同档最大。\n\n有网友询问 Magic9 标准版机型的电池容量，博主回复称：“标准版小屏也是 8 开头，超能版比大更大。”还有网友认为今年的 Pro Max 机型都是 8000mAh 级别电池“大差不差”，博主表示：“Pro Max 最小是 8000mAh，差距还是有 800mAh。”\n据IT之家今日早些时候报道，荣耀 Magic 盛典暨荣耀 Magic9 系列新品发布会定档 9 月 28 日在北京举行。Magic9 Pro Max 手机将搭载阿莱双两亿超清影",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "荣耀Magic9 Pro Max被曝内置8800mAh电池，博主称同档最大。",
-      "credibilityScore": 70,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家可信，但信息源自博主爆料，缺乏官方确认，细节有限。"
-    },
-    {
-      "title": "OpenAI AI 训练版权纠纷案新细节：GPT-5 可代笔乔治 ·R·R· 马丁撰写《冰与火之歌》",
-      "link": "https://www.ithome.com/1/000/106.htm",
-      "pubDate": "Wed, 09 Sep 2026 03:38:26 GMT",
-      "contentSnippet": "IT之家 9 月 9 日消息，科技媒体 torrentfreak 昨日（9 月 8 日）发布博文，报道称多名图书作者本周向纽约联邦法院提交简易判决动议，要求法官认定 OpenAI 未经许可复制作品，且相关行为不构成合理使用。\n这起诉讼可以追溯到美国作家协会于 2023 年对 OpenAI 和微软提起的集体诉讼，该协会主张认为在未经许可的情况下，OpenAI 擅自利用涉案作者的作品来训练 AI。\n\n根据披露的相关文件，动议涉及 194 部图书，当前寻求认定责任，并未要求裁定赔偿金额。作者指控 OpenAI 曾从 LibGen 获取图书，并在 GPT-3 论文中将“Libgen1”“Libgen",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "OpenAI版权诉讼新进展，作者称GPT-5可代笔马丁作品，要求法院认定侵权。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，转引torrentfreak，细节具体，但标题有夸大倾向，评分75。"
-    },
-    {
-      "title": "vivo X500 Pro Max 手机官图首秀：可选增距镜、手柄，9 月 21 日发布",
-      "link": "https://www.ithome.com/1/000/104.htm",
-      "pubDate": "Wed, 09 Sep 2026 03:37:51 GMT",
-      "contentSnippet": "IT之家 9 月 9 日消息，vivo 产品副总裁黄韬今日宣布，vivo X500 系列及智慧终端新品发布会定档 9 月 21 日 19:00。\n他还展示了 vivo X500 Pro Max 手机的外观设计，可以看到两款机身配色，以及增距镜、专业影像手柄套装。\n\n这一代的目标，就是“拍照的第一选择，视频的唯一选择”。\n这个目标的背后，是 X 系列在人像、长焦、视频这些能力上的持续沉淀。而 X500 系列，将带着这些沉淀，完成一次从静态影像到动态影像的跨越：\n- 逆光也清晰，从照亮你的美，到帧帧电影级。\n- 人像看蓝厂，人像视频也看蓝厂。\n说到底，好的影像，不该是专业设备和后期调色的特权。vi",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "vivo X500 Pro Max官图曝光，9月21日发布，主打影像。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容具体，引用官方信息，但缺乏技术细节。"
-    },
-    {
-      "title": "消息称华为 Pura X View、Mate XT 2 非凡大师手机支持端侧本地大模型下载部署",
-      "link": "https://www.ithome.com/1/000/103.htm",
-      "pubDate": "Wed, 09 Sep 2026 03:37:43 GMT",
-      "contentSnippet": "IT之家 9 月 9 日消息，据博主 @超维界 透露，华为 Pura X View、Mate XT 2 非凡大师手机支持端侧本地大模型下载部署，有多模态增强大模型（6GB 左右）和多模态混合专家大模型（15GB 左右）共自主选择下载。\n\n博主表示，两款大模型为端侧 AI，无网状态也可以使用，其分享的图片显示：\n\n\n多模态增强大模型：支持本地图像生成、语音合成等 AI 增强服务，支持相机 AI 超清增强、图库修图和人声播报功能。\n\n多模态混合专家大模型：本地 MoE 大模型，提供复杂任务理解与应用操控服务，如执行离线照片整理任务等。\n\n\n据IT之家此前报道，今年 8 月，华为开启了鸿蒙 Harm",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "华为新机支持端侧大模型下载，提供两种模型选择。",
-      "credibilityScore": 70,
+      "aiSummary": "钛媒体报道中国算力西进，预测2028年北部西北部将成最大数据中心市场。",
+      "credibilityScore": 78,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源IT之家较可信，但信息源自博主爆料，缺乏官方确认，细节有限。"
-    },
-    {
-      "title": "AOC 带来行业首款 HDR 校色 OLED 显示器 AG277QSD，QHD 320Hz",
-      "link": "https://www.ithome.com/1/000/097.htm",
-      "pubDate": "Wed, 09 Sep 2026 03:35:29 GMT",
-      "contentSnippet": "IT之家 9 月 9 日消息，AOC 今日推出行业首款 HDR 校色 OLED 显示器 AGON AG277QSD。其基于 27\" QHD 320Hz QD-OLED Penta Tandem 面板，HDR 模式下色偏 ΔE＜2，支持 6 轴色调、6 轴饱和度调节。\n\nAG277QSD 获得 VESA DisplayHDR True Black 500 认证，峰值亮度 1000nits、10% APL 下亮度可达 515nits；灰阶 (GtG) 响应时间 0.03ms；色域 100% sRGB / 99% DCI-P3，在 DCI-P3 下 ΔE＜1。\n该显示器覆盖 DarkShield 高",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "AOC推出首款HDR校色OLED显示器，QHD 320Hz，色准优秀。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道含具体技术参数和认证，信息详实，来源可靠。"
+      "credibilityReason": "钛媒体为知名科技媒体，选题契合东数西算政策，但摘要缺数据来源与具体依据。"
     }
   ]
 }
