@@ -1,254 +1,14 @@
 {
-  "generatedAt": "2026-09-10T03:54:38.015Z",
+  "generatedAt": "2026-09-11T03:50:43.581Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "国际打击电信网络诈骗联盟在中国正式成立",
-      "link": "https://www.ithome.com/1/000/618.htm",
-      "pubDate": "Thu, 10 Sep 2026 02:47:41 GMT",
-      "contentSnippet": "IT之家 9 月 10 日消息，据央视新闻报道，9 月 10 日，国际打击电信网络诈骗联盟成立大会在中国江苏连云港举行。来自 46 个创始国、34 个观摩国以及联合国、国际刑警组织等 4 个国际组织的代表参加大会。\n会上，中国和越南、老挝、肯尼亚、柬埔寨、巴基斯坦、俄罗斯等联盟发起国、创始国代表分别致辞、发言，国际刑警组织代表致贺辞。各方高度赞赏中国发起成立国际打击电信网络诈骗联盟的责任担当，高度评价联盟成立对维护全球公共安全的重大意义，对联盟遏制电信网络诈骗全球蔓延充满信心和期待。\n各方共同发布了《关于成立国际打击电信网络诈骗联盟的联合声明》。声明指出，各国共同认识到电信网络诈骗正在成为世界",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国际打击电信网络诈骗联盟在中国连云港成立，46个创始国及国际组织代表参会。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家转载央视新闻，来源权威，信息具体含时间地点及参与方数据，但正文摘要不完整。"
-    },
-    {
-      "title": "苹果 iPhone 18 Pro / Max 仅限 eSIM 地区共 12 个，与上代保持一致",
-      "link": "https://www.ithome.com/1/000/566.htm",
-      "pubDate": "Wed, 09 Sep 2026 23:55:40 GMT",
-      "contentSnippet": "IT之家 9 月 10 日消息，苹果官网信息显示，iPhone 18 Pro 和 iPhone 18 Pro Max 在特定国家和地区延续了仅支持 eSIM、无物理 SIM 卡槽的设计。\n根据苹果官方列表，这些市场地区包括：\n\n巴林\n\n加拿大\n\n关岛\n\n日本\n\n科威特\n\n墨西哥\n\n阿曼\n\n卡塔尔\n\n沙特阿拉伯\n\n阿联酋\n\n美国\n\n美属维尔京群岛\n\n这一名单与去年的 iPhone 17 Pro 系列完全一致。IT之家注意到，苹果自 2022 年 iPhone 14 系列起开始在美国推行仅 eSIM 的设计，此后逐步拓展至更多市场。\n\n在大部分国家和地区，包括英国及欧盟地区，还有中国港澳台，iPh",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家",
-        "少数派"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "苹果iPhone 18 Pro系列仅eSIM地区共12个，与上代完全一致，未新增市场。",
-      "credibilityScore": 87,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家等知名科技媒体，引用苹果官网信息，数据具体，但正文摘要不完整。（多源覆盖 +5）"
-    },
-    {
-      "title": "“超脑+狼族”最新全阵容亮相！京东物流打造供应链应用场景最多、规模最大的AI具身机器人军团",
-      "link": "https://www.infoq.cn/article/ZebW8Yc4QTzrbdJxagCc?utm_source=rss&utm_medium=article",
-      "pubDate": "Wed, 09 Sep 2026 15:38:04 GMT",
-      "contentSnippet": "点击查看原文>",
-      "sourceName": "InfoQ中文",
-      "sourceWeight": 78,
-      "allSources": [
-        "InfoQ中文"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "京东物流发布'超脑+狼族'AI具身机器人军团，宣称打造供应链领域规模最大应用场景。",
-      "credibilityScore": 62,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名技术媒体InfoQ，但正文缺失仅有标题，缺乏数据细节和原始出处，宣传性表述偏强。"
-    },
-    {
-      "title": "首个走进联合国的中国教育 Agent，正在打开下一个 Token 入口",
-      "link": "https://www.ifanr.com/1678673?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pubDate": "Wed, 09 Sep 2026 09:15:51 +0000",
-      "contentSnippet": "Coding 之后，教育 Agent 正在成为下一场 Token 战争\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "sourceName": "爱范儿",
-      "sourceWeight": 82,
-      "allSources": [
-        "爱范儿"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "爱范儿报道中国教育Agent走进联合国，称其或成下一个Token入口",
-      "credibilityScore": 55,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体，但正文仅摘要，缺乏技术细节与原始出处，标题有营销倾向"
-    },
-    {
-      "title": "JAPANNEXT 推出 15.6\" UHD 60Hz IPS 便携屏，要价 35,980 日元",
-      "link": "https://www.ithome.com/1/000/675.htm",
-      "pubDate": "Thu, 10 Sep 2026 03:51:58 GMT",
-      "contentSnippet": "IT之家 9 月 10 日消息，日本显示器制造商 JAPANNEXT 今日宣布推出便携显示器 JN-MD-i156U。这一型号采用 15.6\" IPS 面板，支持 UHD (3840×2160) 分辨率、60Hz 刷新率。\n\nJN-MD-i156U 亮度达 420nits，对比度 1500:1，支持 HDR；色域覆盖 99% sRGB / 90% DCI-P3；拥有无频闪、低蓝光护眼特性；集成 2 个 1W 扬声器；提供 2 个 USB-C“一线连”接口、1 个 Mini HDMI、1 个 microUSB。\n该设备本体质量 620g，随附 270g 的护套支架。其含税售价为 35,980 日",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "JAPANNEXT推出15.6英寸UHD便携显示器，售价35,980日元",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，产品参数具体详实，信息源自厂商发布，但缺少原始链接引用"
-    },
-    {
-      "title": "打破国外长期垄断，我国小型液质联用仪研发取得重要突破",
-      "link": "https://www.ithome.com/1/000/650.htm",
-      "pubDate": "Thu, 10 Sep 2026 03:45:10 GMT",
-      "contentSnippet": "IT之家 9 月 10 日消息，据央视新闻今日报道，我国在小型液质联用仪研发领域近日取得重要突破，针对常规液质联用仪（LC-MS / MS）体积庞大、成本高昂、操作复杂等长期制约临床推广应用的痛点，依托中国计量科学研究院建立的市场监管总局技术创新中心（质谱）组织科研团队开展关键技术攻关，成功研发出一种低成本、易操作的小型液质联用系统（LC-MiniMS），填补了国内该领域的技术空白。\n研究团队突破小型真空系统、高效离子传输系统、高稳定电路系统等核心关键技术，在保证定量分析精度的前提下，大幅缩小仪器体积并有效降低制造成本，打破了国外厂商在该领域长期形成的技术壁垒和价格垄断，实现国产化替代。\n目前",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "我国科研团队成功研发低成本小型液质联用系统，打破国外技术垄断。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家转引央视新闻，有具体机构和技术细节，但缺少原始论文或数据支撑。"
-    },
-    {
-      "title": "Find 系列首次：OPPO Find X10 手机官宣实现「0.99mm 极窄四等边」",
-      "link": "https://www.ithome.com/1/000/643.htm",
-      "pubDate": "Thu, 10 Sep 2026 03:43:27 GMT",
-      "contentSnippet": "IT之家 9 月 10 日消息，OPPO Find 系列产品负责人卓世杰今日发文，介绍了 Find X10 的正面设计，并宣布 Find X10 这次的「0.99mm 极窄四等边」，是 Find 系列第一次把边框压到 1mm 以内。\n卓世杰表示：\n\n0.99mm 的背后，是全新芯片级封装技术的一次硬突破。它不仅窄，更难的是“四边等窄”。只有当极窄与等窄同时成立，四周的边界感才能被进一步压低，让画面真正铺满眼帘。全屏追剧，黑边不再抢戏；横屏游戏，视野也不再被边缘干扰。注意力，自然更聚焦在眼前。\n\n\n据IT之家昨日报道，OPPO Find X10 系列手机已开启预约，相关页面显示，OPPO Fin",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "OPPO Find X10 官宣实现 0.99mm 极窄四等边，为 Find 系列首次边框压至 1mm 以内。",
-      "credibilityScore": 78,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，引述官方产品负责人原话，信息具体，但缺乏第三方验证与详细技术数据。"
-    },
-    {
-      "title": "索尼公布 9 月 PS Plus 二三档游戏目录：《符文世界：龙之荒野》《WWE 2K26》《地铁：归来》等",
-      "link": "https://www.ithome.com/1/000/634.htm",
-      "pubDate": "Thu, 10 Sep 2026 03:40:12 GMT",
-      "contentSnippet": "IT之家 9 月 10 日消息，索尼今日公布了 9 月 PlayStation Plus 的 Extra 与 Premium 游戏目录，共 10 款游戏加入。\n\nIT之家注：PlayStation Plus 分为 Essential、Extra 和 Premium 三级档位，本次更新内容将于 9 月 15 日起更新入库。\n\n二档新增游戏\n\nPS5《符文世界：龙之荒野》（首发入库）\n\nPS5《WWE 2K26》\n\nPS5《球比伦战记》（Ball x Pit）\n\nPS5《Date Everything!》\n\nPS4/PS5《野狗子》\n\nPS4/PS5《忍者外传：怒之羁绊》\n\nPS4/PS5《辛特堡",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "索尼公布9月PS Plus二三档游戏目录，共10款游戏9月15日入库。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体含游戏名单和入库日期，但缺少索尼官方原始链接。"
-    },
-    {
-      "title": "谷歌目前唯一平板电脑 Pixel Tablet 停产，已从官网下架",
-      "link": "https://www.ithome.com/1/000/633.htm",
-      "pubDate": "Thu, 10 Sep 2026 03:38:53 GMT",
-      "contentSnippet": "IT之家 9 月 10 日消息，据外媒 9To5Google 今日报道，Pixel Tablet 平板电脑已经正式停产，谷歌官方商店已将其下架。\n\n谷歌于 2023 年推出了 Pixel Tablet，是一款安卓平板和 Nest Hub 智能显示屏的混合体，搭载可拆卸底座。报道称，这款产品反响褒贬不一，但它仍然是谷歌产品线中唯一的平板电脑。\nPixel Tablet 的商店链接现在已经重定向到商店主页，而目前还有少数配件在售卖。\nIT之家注意到，外媒 Android Headlines  曾在 2024 年发文，声称谷歌 Pixel Tablet 2 平板电脑已遭取消。规格方面，这款遭到取消的",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "谷歌唯一平板Pixel Tablet已停产并从官网下架，配件仍在售。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家编译9To5Google报道，信息具体，有官网下架事实及历史报道佐证，但缺官方声明。"
-    },
-    {
-      "title": "System76 发布 AM5 工作站 Thelio Mira AI，支持双卡配置",
-      "link": "https://www.ithome.com/1/000/632.htm",
-      "pubDate": "Thu, 10 Sep 2026 03:38:31 GMT",
-      "contentSnippet": "IT之家 9 月 10 日消息，美国 Linux PC 制造商 System76 当地时间昨日发布了 Thelio Mira AI 工作站系统。\n\n该系列基于 AMD 锐龙 9000 系列处理器，可通过 x8+x8 的 PCIe 拆分连接至 2 张扩展卡，支持双 NVIDIA RTX PRO Blackwell 6000。其通过采用主流桌面级平台降低了系统构建成本。\nThelio Mira AI 三维 17.31 × 9.96 × 15.12 (in)，提供 28TB 存储空间，拥有 4 个 USB 10Gbps (2A2C)、2 个 5GbE RJ-45，支持 Wi-Fi 7 & 蓝牙 5.",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家",
-        "InfoQ中文"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "System76发布基于AMD锐龙9000的Thelio Mira AI工作站，支持双NVIDIA RTX PRO Blackwell 6000显卡。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家和InfoQ中文，属知名科技媒体；内容具体，含硬件规格、接口和尺寸等细节，逻辑清晰。（多源覆盖 +5）"
-    },
-    {
-      "title": "李想：理想汽车终于迈过三重难关，i9 将是第二代纯电平台的首发旗舰",
-      "link": "https://www.ithome.com/1/000/630.htm",
-      "pubDate": "Thu, 10 Sep 2026 03:32:35 GMT",
-      "contentSnippet": "IT之家 9 月 10 日消息，理想汽车 CEO 李想今日发文，称理想 i9 的到来，意味着理想汽车终于迈过了三重难关。\n\n\n第一，两条腿走路。过去总有人问，理想做增程成功了，做纯电行不行？现在，理想 i6 连续 7 个月稳居 20 万元以上所有车型销量前三，理想 i8 和新一代 MEGA 销量超预期，理想 i9 的加入将进一步完善纯电车型矩阵。同时，在全国最繁忙的 18 条国家级高速上，平均每 122 公里就有一座理想 5C 超充站。事实证明，只要理想坚持提供最好的用户体验，就能同时做好增程，做好纯电。\n\n第二，核心技术坚持自研并成功上车。近三年我们的研发投入每年均在百亿以上，并持续增长。我",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "李想称理想汽车迈过三重难关，i9将成第二代纯电平台首发旗舰",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体IT之家，引述CEO公开表态，含具体销量与充电数据，但属企业宣传口径，缺乏独立验证"
-    },
-    {
-      "title": "努比亚张雷：苹果做屏下摄像头挺好，也佐证我们 7 年前坚持的方向是对的",
-      "link": "https://www.ithome.com/1/000/629.htm",
-      "pubDate": "Thu, 10 Sep 2026 03:25:48 GMT",
-      "contentSnippet": "IT之家 9 月 10 日消息，苹果今日发布的旗下首款折叠屏手机 —— iPhone Duo 采用屏下摄像头技术，引发广泛讨论。\n\n中兴通讯副总裁、努比亚旗舰产品总经理张雷今日发文，谈及了 iPhone Duo 的屏下摄像头设计。他表示，苹果做屏下挺好，也佐证我们 7 年前坚持的方向是对的。\n\n看了些网上的内容，说句客观的：屏下不能只看黑屏，彩色显示下，苹果那颗屏下摄像头还是有点明显。第一代，正常：和我们 2020 年的 Axon 30 一样，彩色都是 200PPI；现在的 Z80U，彩色已经做到 400PPI，肉眼已经完全看不出差别。\n\n\n据IT之家今日早些时候报道，中兴通讯终端事业部总裁、",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "努比亚张雷评苹果折叠屏屏下摄像头，称佐证其7年前方向正确。",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "IT之家为知名科技媒体，引述高管具体技术参数，但内容含主观立场，缺乏独立验证。"
-    },
-    {
-      "title": "宇树科技股价跌破 500 元 / 股，市值较上市首日高点蒸发超 2400 亿元",
-      "link": "https://www.ithome.com/1/000/628.htm",
-      "pubDate": "Thu, 10 Sep 2026 03:24:20 GMT",
-      "contentSnippet": "IT之家 9 月 10 日消息，宇树科技股价早盘持续下挫，跌破 500 元 / 股，最低达到了 499.0 元每股，创上市以来新低。\n截至目前，宇树科技每股报价 499.97 元跌超 2.7%，总市值 2022 亿元，较上市首日最高点 4449 亿元蒸发超 2400 亿元。\n\nIT之家此前报道，宇树科技于 8 月 19 日正式登陆科创板，发行价为 150.80 元 / 股，开盘价报 1100 元 / 股，较发行价上涨 629.44%，对应总市值一度达到 4449 亿元。上市首日收盘报 845 元 / 股，收涨 460.34%，总市值回落至 3418 亿元。\n自上市以来，宇树科技股价整体呈下行趋",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "宇树科技股价跌破500元，市值较上市首日高点蒸发超2400亿元。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，数据具体（股价、市值、发行价等），信息详实有据。"
-    },
-    {
-      "title": "小岛秀夫回应《PHYSINT》游戏转投微软合作：索尼今年 6 月突然通知取消开发",
-      "link": "https://www.ithome.com/1/000/627.htm",
-      "pubDate": "Thu, 10 Sep 2026 03:23:38 GMT",
-      "contentSnippet": "IT之家 9 月 10 日消息，索尼 PlayStation 官方今日宣布，在仔细考虑后作出了艰难的决定，停止与小岛工作室在其《PHYSINT》项目上的合作。随后，微软 Xbox 宣布与小岛工作室的合作扩展到《PHYSINT》。\n对此，游戏制作人小岛秀夫发布回应声明，揭开与索尼合作《PHYSINT》破裂内幕：\n\n正如刚才小岛工作室官方发布的消息，今年 6 月中旬，我们突然收到了 SIE 方面关于“取消正在开发中的《PHYSINT》项目”的通知。\n对我和小岛工作室而言，《PHYSINT》是一个非常重要的项目。为了能够让项目继续下去，在过去的三个月里，我们一直在寻找新的合作伙伴。在听取各方意见、持",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "索尼取消与小岛工作室《PHYSINT》合作，微软接手，小岛秀夫回应内幕。",
-      "credibilityScore": 78,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引述官方声明，但缺乏独立核实与数据支撑。"
-    },
-    {
-      "title": "中国算力“西进”，北部、西北部有望成为最大数据中心区域市场",
-      "link": "https://www.tmtpost.com/8135029.html",
-      "pubDate": "Thu, 10 Sep 2026 11:20:04 +0800",
-      "contentSnippet": "北部和西北部市场有望在2028年超越长三角，成为中国最大的数据中心区域市场。",
+      "title": "AI六小虎IPO大年：中美谁先爬过算力成本那道坎",
+      "link": "https://www.tmtpost.com/8130885.html",
+      "pubDate": "Fri, 11 Sep 2026 10:50:32 +0800",
+      "contentSnippet": "当\"大模型六小虎\"的招股书被摊在聚光灯下，一个被统称掩盖太久的事实开始浮现。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -256,10 +16,250 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体报道中国算力西进，预测2028年北部西北部将成最大数据中心市场。",
+      "aiSummary": "钛媒体分析AI六小虎IPO潮，探讨中美算力成本挑战",
       "credibilityScore": 78,
       "credibilityLevel": "medium",
-      "credibilityReason": "钛媒体为知名科技媒体，选题契合东数西算政策，但摘要缺数据来源与具体依据。"
+      "credibilityReason": "钛媒体为知名科技媒体，选题专业，但摘要信息简略，缺乏具体数据与原始出处"
+    },
+    {
+      "title": "美国 FCC 禁令落地！未见“易中天”",
+      "link": "https://www.ithome.com/1/001/118.htm",
+      "pubDate": "Fri, 11 Sep 2026 01:59:21 GMT",
+      "contentSnippet": "IT之家 9 月 11 日消息，当地时间 9 月 10 日，美国联邦通信委员会（FCC）在联邦公报发布最终规则《通过设备授权计划防范通信供应链面临的国家安全威胁》。该规则已于 7 月 22 日通过，拟于 9 月 11 日在联邦公报正式刊载，30 日后正式生效。\n据观察者网报道，此前市场最担心的一幕没有出现：中际旭创、新易盛、东山精密、天孚通信等中国光通信产业链企业，没有被直接纳入 FCC 的限制名单。\n最终规则把新增限制主要锁定在一个相对狭窄的范围：如果设备中使用了由 FCC“Covered List”已列名企业生产的“带逻辑硬件组件”，相关设备可能无法获得 FCC 授权。\n\n今年 8 月曾有",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "美国FCC发布设备授权最终规则，中国光通信企业未被直接列入限制名单。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，引述联邦公报及观察者网，信息具体，但正文摘要不完整。"
+    },
+    {
+      "title": "一汽-大众 ID. AURA T6 将于 9 月 20 日上市，预售价 13.59 万元起",
+      "link": "https://www.ithome.com/1/001/176.htm",
+      "pubDate": "Fri, 11 Sep 2026 03:42:39 GMT",
+      "contentSnippet": "IT之家 9 月 11 日消息，一汽-大众宣布旗下 ID. AURA T6 将于 9 月 20 日正式上市。该车已在 8 月 28 日开启预售，预售价区间 13.59-16.99 万元。\n\n该车提供云雀灰、初雪白、贝珠白、星河蓝、远山绿、烟霞紫 6 种外观颜色供选择。秉持“实用自然主义美学”设计理念。车头配备了方形灯组；车身采用半隐藏式门把手，带有高亮黑轮眉；车尾横向几何设计沉稳大气。\n\n内饰方面，新车配备 15.6 英寸 2.5K 中控屏、25.8 英寸 AR-HUD 及 10.25 英寸全液晶仪表；音响系统为 18 扬声器杜比全景声（后期 OTA 开放），外置功放最大功率 920W，支持",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "一汽-大众ID. AURA T6将于9月20日上市，预售价13.59万元起。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息含具体价格、配置参数，但缺少官方原始出处链接。"
+    },
+    {
+      "title": "王腾创业公司“今日宜休”ISHO 睡眠记录 App 开启内测：暂仅支持苹果 iOS、需佩戴 Apple Watch",
+      "link": "https://www.ithome.com/1/001/153.htm",
+      "pubDate": "Fri, 11 Sep 2026 03:36:02 GMT",
+      "contentSnippet": "IT之家 9 月 11 日消息，今日宜休创始人王腾在微博发文，透露公司旗下 ISHO 睡眠记录 App 开启内测，首期内测目前仅支持苹果 iOS，并且需要佩戴 Apple Watch。\n\nIT之家获悉，该应用旨在帮助用户实现从夜间睡眠监测到日间精力改善的闭环。其号称突破了单一分数的局限，提供多维度的状态分析。它不仅追踪入睡时间、睡眠时长、中断次数等基础指标，还融合了血氧和心率变异性（HRV）等生理数据，以此来精准量化用户的睡眠表现。\n\n此外，相应应用内置了睡眠与精力顾问功能。当监测到特定时段的异常心率升高或持续高压状态时，精力管家会进行深入剖析，提供基于用户个人体感的专属解答，帮助用户明确这些",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家",
+        "钛媒体",
+        "Solidot"
+      ],
+      "coverageCount": 3,
+      "coverageBoost": 10,
+      "aiSummary": "王腾创业公司今日宜休的ISHO睡眠记录App开启内测，仅支持iOS和Apple Watch。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家等知名科技媒体，信息具体含功能细节，但缺乏原始出处和第三方验证。（多源覆盖 +10）"
+    },
+    {
+      "title": "Opera One 承认原垂直标签布局问题，“新建标签页”按钮现改为置顶",
+      "link": "https://www.ithome.com/1/001/151.htm",
+      "pubDate": "Fri, 11 Sep 2026 03:33:07 GMT",
+      "contentSnippet": "IT之家 9 月 11 日消息，Opera 昨日（9 月 10 日）发布博文，宣布调整 Opera One 浏览器的垂直标签页，默认将“新建标签页”按钮从底部移至顶部，新建的标签页会出现在该按钮下方。\nOpera 于 2026 年 7 月为 Opera One 应用引入垂直标签页，在标签数量填满侧边栏后，旧版“新建标签页”按钮会固定在窗口底部。因此，用户每次点击按钮后，需将指针移回地址栏。IT之家附上相关视频如下：\n\n在屏幕距离方面，Opera 给出不同分辨率的数据。在 1080p 显示器上，旧版按钮约在地址栏下方 950 像素。在 2560×1440 显示器上，距离约为 1,300 像素。在",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "Opera One调整垂直标签页，新建标签按钮从底部移至顶部。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道有官方博文出处及具体分辨率数据支撑。"
+    },
+    {
+      "title": "纪念 9·11 事件 25 周年，2977 架无人机在美国纽约重现世贸中心双子塔",
+      "link": "https://www.ithome.com/1/001/148.htm",
+      "pubDate": "Fri, 11 Sep 2026 03:28:04 GMT",
+      "contentSnippet": "IT之家 9 月 11 日消息，据外媒 dezeen 报道，为纪念“9·11”事件 25 周年，设计工作室 Drift 与建筑师 Shigeru Ban 合作，利用 2977 架搭载灯光的无人机在美国纽约上空重现世界贸易中心双子塔的建筑轮廓，每一盏灯均代表一名在“9·11”事件中遇难的人士。\n\n据介绍，相应无人机按照双子塔原有建筑比例在空中排列，形成与实际建筑等比例的轮廓。整个灯光装置共点亮两次，每次持续 15 分钟，随后灯光熄灭，无人机返回指定降落地点。\n该作品同时与纽约世贸中心遗址每年举行的“光之纪念”（Tribute in Light）活动形成呼应，后者会通过两束巨大的光柱纪念“9·11",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "纽约用2977架无人机纪念9·11事件25周年，重现世贸双子塔轮廓。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家编译dezeen报道，细节具体含数字与设计者，但非一手来源，技术细节略简。"
+    },
+    {
+      "title": "微软 VS Code 1.137 发布：为宠物征名、按小时 / 日 / 周调度 AI 智能体任务",
+      "link": "https://www.ithome.com/1/001/147.htm",
+      "pubDate": "Fri, 11 Sep 2026 03:26:54 GMT",
+      "contentSnippet": "IT之家 9 月 11 日消息，微软昨日（9 月 10 日）发布公告，宣布推出 Visual Studio Code 1.137 版本，可帮助用户自动化重复性工作、在工作区中继续快速聊天，以及在不离开客服窗口的情况下处理 GitHub 问题和拉取请求。\n\n本次更新主要聚焦增强 AI 智能体能力，推出 5 项主要新功能，其中 3 项仍处于实验或预览阶段。核心功能包括 Automations（预览）、Voice Mode（实验）、快速聊天转工作区、GitHub Issue / PR 集成以及 VS Code 宠物互动功能。\nAutomations 方面，用户可以根据使用需求，在手动触发之外，也可以",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微软发布VS Code 1.137，新增AI智能体定时任务、语音模式及宠物互动等功能。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道含版本号、功能细节及发布公告出处，但部分功能描述略简。"
+    },
+    {
+      "title": "让机器狗替你买东西：支付宝宣布首推“AI 付 · 具身智能”，网友戏称“狗腿付”",
+      "link": "https://www.ithome.com/1/001/145.htm",
+      "pubDate": "Fri, 11 Sep 2026 03:16:51 GMT",
+      "contentSnippet": "IT之家 9 月 11 日消息，支付宝今日宣布和高德动量合作，首次把 AI 支付能力用在具身机器上，产品名称为“AI 付 · 具身智能”，网友戏称为“狗腿付”。\n\n高德动量机器狗“途途”可以遵照指令，帮忙跑腿，并完成支付，真正实现帮主人“打酱油”的任务，整个过程都在主人的授权范围内。\n\n支付宝官方介绍称，“AI 付”应用蚂蚁集团自主打造的 APASS 商业信任基础设施。基于 KYA（Know Your Agent）理念，APASS 围绕智能体的身份、意图、授权和行为建立全过程信任机制，让 AI 支付从“能付”进一步走向“可信地付”。\n\nIT之家从支付宝官方获悉，支付宝将推出 AI 钱包智能体，",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "支付宝联合高德动量推出机器狗AI支付产品，实现授权范围内的具身智能支付。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，信息具体含产品名与技术细节，但缺乏独立验证。"
+    },
+    {
+      "title": "索尼 SIE 在集体诉讼中称“消费者并非拥有数字游戏所有权”，玩家列举官方先前措辞清单“打脸”",
+      "link": "https://www.ithome.com/1/001/144.htm",
+      "pubDate": "Fri, 11 Sep 2026 03:16:42 GMT",
+      "contentSnippet": "IT之家 9 月 11 日消息，据外媒 kotaku 报道，索尼 SIE 目前正因数字游戏“所有权”问题面临集体诉讼。对此，索尼方面律师在案件中辩称“‘理性消费者’都应该明白，在 PlayStation 平台购买数字游戏并不意味着真正拥有这款游戏”。\n虽然这一规定在法律层面可能成立，但集体诉讼方（玩家阵营）随后整理了大量索尼官方过去使用“拥有（Own）”、“已拥有（Owned）”等措辞的案例，认为这些宣传内容反而与索尼如今的辩护存在明显矛盾，容易让消费者认为自己真正购买并拥有了游戏。\n\n例如，索尼曾明确表示“如果玩家已经拥有 PS4 版本游戏，则无需购买 PS5 版本。”此外，PSN 评价系统",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "索尼在数字游戏所有权诉讼中辩称玩家不拥有游戏，玩家列举官方旧措辞反驳。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家援引Kotaku报道，事件具体有双方论点，但缺少原始法律文件链接。"
+    },
+    {
+      "title": "首批 8 家华境汽车专营店开业：高端门店标准，不挂五菱标",
+      "link": "https://www.ithome.com/1/001/143.htm",
+      "pubDate": "Fri, 11 Sep 2026 03:08:58 GMT",
+      "contentSnippet": "IT之家 9 月 11 日消息，华境汽车今日宣布，首批 8 家华境汽车专营店开业，采用高端门店标准，从整体环境、空间设计到服务流程全面焕新。\n\n华境汽车预计 2027 年一季度将建成超 200 家华境汽车专营店，IT之家附首批 8 家专营店地址如下：\n\n成都：四川省成都市高新区火车南站西路 1669 号\n\n南京：江苏省南京市天临路 9 号\n\n昆明：云南省昆明市盘龙区东三环路 66 号呼马山车市 2 号\n\n合肥：安徽省合肥市包河区长春街 5 号\n\n济宁：山东省济宁市任城区 327 国道南营村路南\n\n常州：江苏省常州市天宁区青柏路 2 号\n\n湖州：浙江省湖州市吴兴区创业大道 166 号\n\n唐山：河",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "华境汽车首批8家高端专营店开业，计划2027年建成超200家，不挂五菱标。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息具体含门店地址与规划，但缺乏官方原始链接引用。"
+    },
+    {
+      "title": "苹果 iPhone 18 Pro/Max 升级电影效果模式，支持 4K 杜比视界 60FPS",
+      "link": "https://www.ithome.com/1/001/142.htm",
+      "pubDate": "Fri, 11 Sep 2026 03:00:40 GMT",
+      "contentSnippet": "IT之家 9 月 11 日消息，科技媒体 macobserver 今天（9 月 11 日）发布博文，报道称苹果 iPhone 18 Pro 和 iPhone 18 Pro Max 两款机型的电影效果模式最高支持 60 FPS。\niPhone 的“电影效果模式”是一种带浅景深和自动拉焦效果的视频拍摄模式：主体保持清晰，前景和背景则产生类似电影镜头的虚化效果。iPhone 会自动识别人物或其他主体，并在主体变化时自动将焦点转移到新的主体上。\n在 iPhone 17 Pro 和 iPhone 17 Pro Max 上，电影效果模式最高支持 4K 杜比视界、30 FPS。而在 iPhone 18 Pr",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "苹果iPhone 18 Pro系列电影效果模式升级至4K杜比视界60FPS",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium-high",
+      "credibilityReason": "IT之家引述macobserver，内容具体但属传闻，缺乏苹果官方确认"
+    },
+    {
+      "title": "Nothing Headphone（1）Pro 头戴式耳机曝光：三单元音频系统，9 月 29 日上市",
+      "link": "https://www.ithome.com/1/001/141.htm",
+      "pubDate": "Fri, 11 Sep 2026 02:59:25 GMT",
+      "contentSnippet": "IT之家 9 月 11 日消息，外媒 Dealabs 透露 Nothing 将推出一款 Headphone（1）Pro 头戴式耳机，该机定位高端，在欧洲定价 349 欧元（IT之家注：现汇率约合 2,726 元人民币），在美国定价 399 美元（现汇率约合 2,684 元人民币），预计将于 9 月 29 日上市。\n\n该机提供黑白双色可选，整体延续 Nothing 家族半透明式设计，采用铝制外壳搭配抗刮玻璃，具备 IP52 级防尘防水能力。\n该机搭载三单元音频系统，由不同单元分别负责不同频段，其中高频部分预计采用 XMEMS 单元。耳机同时配备 10 颗麦克风，支持自适应主动降噪（ANC），同时",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "Nothing将推Headphone（1）Pro头戴耳机，三单元系统，9月29日上市",
+      "credibilityScore": 78,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家引外媒爆料，产品参数具体，但属未发布传闻，缺官方确认"
+    },
+    {
+      "title": "极限环境联合实验室推进工作座谈会在京顺利召开",
+      "link": "https://www.tmtpost.com/8136159.html",
+      "pubDate": "Fri, 11 Sep 2026 10:58:47 +0800",
+      "contentSnippet": "中国科学探险协会将汇总参会单位合作意向和意见建议，完善联合实验室运行机制，推动科研、场景、检测、工程与产业资源协同对接，促进有条件的合作方向逐步形成实际成果。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国科学探险协会在京召开极限环境联合实验室推进座谈会，推动多方资源协同对接。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体钛媒体，内容为会议通稿，表述规范但缺少具体数据、参会单位及技术细节。"
+    },
+    {
+      "title": "龙芯中科胡伟武：9A1000 显卡预计明年上半年开售，第六代高性能 CPU 核已开展研发",
+      "link": "https://www.ithome.com/1/001/140.htm",
+      "pubDate": "Fri, 11 Sep 2026 02:57:18 GMT",
+      "contentSnippet": "IT之家 9 月 11 日消息，龙芯中科今日举行 2026 年半年度业绩说明会，龙芯中科董事长、总经理胡伟武透露，9A1000 显卡预计明年上半年开售，具体价格主要取决于显存（LPDDR4）价格。\n胡伟武表示，9A1000 卡既是显卡又是 AI 加速卡。作为显卡，在对自主性要求较高的特定市场竞争力较强，在开放市场对标 RX 550，取决于能不能完成 Windows 的适配。作为 AI 加速卡，可以满足大多数具身智能应用的需求。现在已经有部分用户开始研制基于 9A1000 的智能体。\n胡伟武透露，第六代高性能 CPU 核已开展研发，具体规格未定。在龙芯 7000 系列的下一代 CPU 用。\n胡伟",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "龙芯中科透露9A1000显卡明年上半年开售，第六代CPU核已研发",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，内容源自业绩说明会高管发言，信息具体但缺原始链接"
+    },
+    {
+      "title": "我们看错了库珀，但这只隐形眼镜股如今看起来很便宜",
+      "link": "https://www.tmtpost.com/8136405.html",
+      "pubDate": "Fri, 11 Sep 2026 10:54:13 +0800",
+      "contentSnippet": "自Barron's推荐以来，库珀公司（Cooper Cos.）股价已下跌约25%，但偏低的估值、积极的股票回购以及潜在的收购可能性，使看多的理由更加充分。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "库珀公司股价自Barron's推荐后跌约25%，但低估值与回购等因素支撑看多理由。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体钛媒体，引用Barron's观点，但内容偏投资分析且细节简略。"
     }
   ]
 }
