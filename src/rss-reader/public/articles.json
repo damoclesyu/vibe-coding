@@ -1,263 +1,265 @@
 {
-  "generatedAt": "2026-09-11T03:49:30.327Z",
+  "generatedAt": "2026-09-12T03:52:34.060Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "冰岛拟永久禁捕鲸 日本挪威或将成“唯二”商业捕鲸国",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-11/10694503.shtml",
-      "pubDate": "Fri, 11 Sep 2026 11:41:31 +0800",
-      "contentSnippet": "中新网9月11日电 据路透社10日报道，冰岛政府计划明年2月向议会提交禁止商业捕鲸的法案，该法案将包含“永久禁止商业捕鲸”的条款，若获得通过，全球继续进行商业捕鲸的国家将仅剩日本和挪威。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
+      "title": "“你好，金砖！你好，中国！”",
+      "link": "https://world.huanqiu.com/article/4TB0t38TCKI",
+      "pubDate": "(Sat,12 Sep 2026 09:50:19 CST)",
+      "contentSnippet": "“你好，金砖！你好，中国！”语言连接彼此，交流凝聚共识。课堂里书声琅琅，镜头前情真意切，印度学子满怀期待，为金砖合作汇聚更多青年力量。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
       "allSources": [
-        "中国新闻网"
+        "环球网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "冰岛拟明年提交永久禁商业捕鲸法案，若通过全球仅剩日本挪威捕鲸。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "中新网引述路透社，来源权威，时间地点明确，内容具体可查证。"
-    },
-    {
-      "title": "美国洛杉矶盖蒂中心附近发生林火",
-      "link": "http://www.chinanews.com.cn/tp/hd2011/2026/09-11/1203982.shtml",
-      "pubDate": "Fri, 11 Sep 2026 11:40:24 +0800",
-      "contentSnippet": "",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国新闻网报道美国洛杉矶盖蒂中心附近发生林火，正文内容缺失。",
-      "credibilityScore": 55,
+      "aiSummary": "环球网报道印度学子期待金砖合作，为交流汇聚青年力量。",
+      "credibilityScore": 62,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名媒体中国新闻网，但正文摘要缺失，无具体细节、引述或交叉验证，可信度受限。"
+      "credibilityReason": "来源为环球网较权威，但内容为宣传性短文，缺少具体时间地点人物及直接引述。"
     },
     {
-      "title": "A股午评：超5100只个股飘绿，三大指数集体收跌",
-      "link": "https://www.chinanews.com.cn/cj/2026/09-11/10694514.shtml",
-      "pubDate": "Fri, 11 Sep 2026 11:34:21 +0800",
-      "contentSnippet": "A股午评：超5100只个股飘绿，三大指数集体收跌；贵金属领跌，石油化工、半导体重挫；房地产、券商、海运下跌；油天然气、电信上涨",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
+      "title": "这个国际日，为全球南方合作而设",
+      "link": "https://world.huanqiu.com/article/4TB0p4CAdsN",
+      "pubDate": "(Sat,12 Sep 2026 09:48:31 CST)",
+      "contentSnippet": "9月12日是联合国南南合作日。在当前世界变乱交织、全球南方卓然壮大的时代背景下，这一国际纪念日的意义进一步凸显。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
       "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "环球网报道9月12日联合国南南合作日，强调全球南方合作在当前国际背景下的意义。",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为环球网，属知名媒体；内容基于联合国官方纪念日，事实可查证，但报道简短，缺少具体引述和细节。"
+    },
+    {
+      "title": "赓续长征精神 奋进复兴征程｜瑞金一个月如何为红军筹粮超万担？",
+      "link": "https://china.huanqiu.com/article/4TB0Yhgdyvw",
+      "pubDate": "(Sat,12 Sep 2026 09:41:08 CST)",
+      "contentSnippet": "为了保证红军的粮食供应，1934年6月2日，中共中央、中华苏维埃共和国临时中央政府人民委员会发出《为紧急动员二十四万担粮食供给红军致各级党部及苏维埃的信》，接着7月22日又发布了《关于在今年秋收中借谷六十万担及征收土地税的决定》，中央苏区迅速开展了大规模的借谷运动。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "环球网报道瑞金在1934年通过借谷运动一个月为红军筹粮超万担。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为环球网，属较权威媒体；内容引用历史文件具体时间与名称，事实可查证，但为历史回顾非即时新闻。"
+    },
+    {
+      "title": "一组海报带你看“金砖”",
+      "link": "https://world.huanqiu.com/article/4TB0RwCeAbJ",
+      "pubDate": "(Sat,12 Sep 2026 09:38:04 CST)",
+      "contentSnippet": "金砖大家庭是如何形成的？“大金砖”的含金量有多高？一组海报带你了解金砖合作机制。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网",
         "中国新闻网"
       ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "环球网与中国新闻网发布海报，介绍金砖合作机制的形成与价值。",
+      "credibilityScore": 83,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为国内知名媒体，内容为科普性海报，无具体事实争议，但缺乏直接引述与深度信息。（多源覆盖 +5）"
+    },
+    {
+      "title": "习近平主席推动金砖合作金句",
+      "link": "https://world.huanqiu.com/article/4TB05eRiKSg",
+      "pubDate": "(Sat,12 Sep 2026 09:28:02 CST)",
+      "contentSnippet": "习近平主席推动金砖合作金句",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "A股午盘三大指数集体下跌，超5100只个股飘绿，贵金属领跌。",
+      "aiSummary": "环球网发布习近平主席推动金砖合作的金句摘要。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "中国新闻网为权威媒体，数据具体可查证，但报道简短无引述。"
+      "credibilityReason": "来源为环球网，属官方背景媒体，内容为领导人公开讲话金句，事实可查证，但无具体引述和细节。"
     },
     {
-      "title": "首善·共治·新“枫”景 北京金融纠纷多元化解实践交流会在京举办",
-      "link": "https://www.chinanews.com.cn/cj/2026/09-11/10694512.shtml",
-      "pubDate": "Fri, 11 Sep 2026 11:28:34 +0800",
-      "contentSnippet": "为深入践行“金融为民”理念，推动新时代“枫桥经验”在金融领域落地实践，构建金融纠纷多元化解新格局，2026年9月8日，首善·共治·新“枫”景——北京金融纠纷多元化解实践交流会在京举办。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
+      "title": "走进新德里金砖峰会会场 | 大国外交零时差",
+      "link": "https://world.huanqiu.com/article/4TAzuffgERx",
+      "pubDate": "(Sat,12 Sep 2026 09:23:03 CST)",
+      "contentSnippet": "今年是金砖国家合作机制成立20周年。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
       "allSources": [
-        "中国新闻网"
+        "环球网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "北京举办金融纠纷多元化解实践交流会，推动新时代“枫桥经验”在金融领域落地。",
+      "aiSummary": "环球网报道金砖峰会新德里会场，提及金砖合作机制成立20周年。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "环球网为知名媒体，内容具体但简短，缺少直接引述和细节，可信度中等。"
+    },
+    {
+      "title": "携手推动“大金砖合作”高质量发展",
+      "link": "https://world.huanqiu.com/article/4TAzMo6lGQ9",
+      "pubDate": "(Sat,12 Sep 2026 09:07:59 CST)",
+      "contentSnippet": "法贾尔·希拉万表示，金砖合作推动成员加强产业链协作，通过投资合作、技术转移等方式促进产业升级。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "印尼官员法贾尔·希拉万称金砖合作推动成员产业链协作与产业升级。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "环球网转载官方表态，有具名引述，但内容为宣传性表述，缺乏具体数据与独立核实。"
+    },
+    {
+      "title": "习近平离京赴新德里出席金砖国家领导人第十八次会晤",
+      "link": "https://world.huanqiu.com/article/4TAzAdidUuF",
+      "pubDate": "(Sat,12 Sep 2026 09:02:17 CST)",
+      "contentSnippet": "国家主席习近平乘专机赴新德里，应印度总理莫迪邀请，出席金砖国家领导人第十八次会晤。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网",
+        "澎湃新闻"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "习近平应莫迪邀请乘专机赴新德里出席金砖国家领导人第十八次会晤。",
+      "credibilityScore": 100,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为环球网和澎湃新闻，属权威媒体，内容具体且可交叉验证。（多源覆盖 +5）"
+    },
+    {
+      "title": "学习笔记丨习近平纵论金砖合作之道",
+      "link": "https://world.huanqiu.com/article/4TAynEkun8N",
+      "pubDate": "(Sat,12 Sep 2026 08:51:43 CST)",
+      "contentSnippet": "习近平纵论金砖合作之道",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "环球网发布学习笔记，梳理习近平关于金砖合作的论述。",
+      "credibilityScore": 78,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为环球网，属正规媒体；内容为官方论述梳理，事实可查证，但缺乏具体细节和直接引述。"
+    },
+    {
+      "title": "【讲习所·中国与世界】习近平：把金砖打造成推动全球治理变革的先锋力量",
+      "link": "https://world.huanqiu.com/article/4TAydiEJbxw",
+      "pubDate": "(Sat,12 Sep 2026 08:49:10 CST)",
+      "contentSnippet": "国际人士与媒体普遍认为，金砖国家机制已成为南南合作的重要平台。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "环球网报道习近平称金砖应成全球治理变革先锋力量，国际人士普遍认同。",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为环球网，属官方背景媒体，内容具体但缺少直接引述，需交叉验证。"
+    },
+    {
+      "title": "学习新语｜推动金砖大船行稳致远",
+      "link": "https://world.huanqiu.com/article/4TAyX61Vg5l",
+      "pubDate": "(Sat,12 Sep 2026 08:48:58 CST)",
+      "contentSnippet": "作为金砖合作的倡导者和推动者，习近平主席多次以“船”为喻，为金砖国家携手前行指引方向，推动金砖大船行稳致远。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "环球网报道习近平主席以“船”为喻，指引金砖国家合作行稳致远。",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为环球网，属正规媒体但非一线通讯社；内容为官方立场宣传，无具体时间地点数据，缺少直接引述。"
+    },
+    {
+      "title": "一见·“大金砖合作”，何以成其大？",
+      "link": "https://world.huanqiu.com/article/4TAyODwBcXt",
+      "pubDate": "(Sat,12 Sep 2026 08:48:22 CST)",
+      "contentSnippet": "疾风知劲草，烈火见真金。世界动荡变革之际，一项项金砖主张、金砖行动，为世界注入宝贵的稳定性和正能量。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "环球网评论文章称金砖合作在世界动荡中为全球注入稳定性与正能量。",
+      "credibilityScore": 62,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为环球网，属知名媒体但非一线通讯社；内容为评论性文章，缺乏具体事实与直接引述。"
+    },
+    {
+      "title": "前8个月江苏省外贸进出口近5万亿元",
+      "link": "https://yrd.huanqiu.com/article/4TAxyMYgXr0",
+      "pubDate": "(Sat,12 Sep 2026 08:28:45 CST)",
+      "contentSnippet": "前8个月，江苏省对共建“一带一路”国家进出口2.61万亿元，增长36.6%，拉动进出口增长18.3个百分点，占比提升3.6个百分点至53.5%",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "前8个月江苏省外贸进出口近5万亿元，对共建“一带一路”国家进出口增长36.6%。",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium-high",
+      "credibilityReason": "来源为环球网，数据具体可查，但缺少官方直接引述，发布时间异常，需交叉验证。"
+    },
+    {
+      "title": "沙特输油管道遭伊拉克方向无人机袭击 伊总理下令紧急调查",
+      "link": "https://world.huanqiu.com/article/4TAxVsG7DIu",
+      "pubDate": "(Sat,12 Sep 2026 08:15:53 CST)",
+      "contentSnippet": "当地时间9月11日晚，伊拉克武装部队总司令发言人萨巴赫·努曼发表声明，谴责针对沙特发起的袭击，并表示反对任何危及沙特安全与稳定或损害两国兄弟关系的行为。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "伊拉克谴责针对沙特输油管道的无人机袭击，伊总理下令紧急调查。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "环球网为知名媒体，有官方发言人引述，但非一线通讯社，细节有限。"
+    },
+    {
+      "title": "中方在联合国呼吁深化南南合作",
+      "link": "https://world.huanqiu.com/article/4TAxNDJJxAy",
+      "pubDate": "(Sat,12 Sep 2026 08:11:59 CST)",
+      "contentSnippet": "中国常驻联合国代表团临时代办孙磊11日在联合国南南合作日纪念活动高级别讨论会上发言，呼吁深化南南合作。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国常驻联合国代表团临时代办孙磊在联合国南南合作日高级别讨论会上呼吁深化南南合作。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，属较权威媒体；时间地点明确，内容具体，但缺少直接引述和多方交叉验证。"
-    },
-    {
-      "title": "《固体矿产绿色勘查规范》国家标准发布",
-      "link": "https://m.thepaper.cn/detail/34049359",
-      "pubDate": "Fri, 11 Sep 2026 03:23:10 GMT",
-      "contentSnippet": "2026年9月11日，澎湃新闻记者从2026中国国际矿业大会上获悉，《固体矿产绿色勘查规范》推荐性国家标准近日正式发布。该国标是我国关于固体矿产绿色勘查的第一项国家标准，也是矿产资源绿色标准体系建设的标志性成果。\n本次国标研编工作系统凝练了全国十余年绿色勘查试点实践成果，整合各地、各行业成熟经验，提出槽探、浅井、坑探、钻探等作业的占地面积约束、低扰动勘查工艺、差别化复绿等关键技术要求，建立了“勘查设计、勘查作业、场地恢复、检查验收”全周期闭环绿色管控机制，破解以往勘查环保管控尺度不一、修复标准模糊、验收缺乏统一依据等现实难题，彰显了矿产勘查领域践行生态文明建设要求的鲜明导向。\n该标准由国家市场",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "澎湃新闻从矿业大会获悉，我国首项固体矿产绿色勘查国家标准正式发布。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为较权威媒体，信息具体含时间地点，内容可查证，但缺直接引述。"
-    },
-    {
-      "title": "两部门联合制定《绿色矿山建设规范》系列国家标准",
-      "link": "https://m.thepaper.cn/detail/34049328",
-      "pubDate": "Fri, 11 Sep 2026 03:23:07 GMT",
-      "contentSnippet": "2026年9月11日，澎湃新闻从自然资源部获悉，由自然资源部、国家市场监督管理总局联合制定的《绿色矿山建设规范》系列国家标准近日正式发布（以下简称《规范》）。\n《规范》共10个部分，实现了对我国煤炭矿山、陆上油气田、黑色金属矿山、有色金属矿山、化工矿山、非金属矿山、黄金矿山、砂石矿山、水泥用灰岩矿山、地热矿泉水矿山等主要矿产的全覆盖，标志着我国绿色矿山建设迈入体系化、标准化、规范化的新阶段。\n《规范》围绕资源开采、资源综合利用、绿色低碳、生态修复、科技创新与规范管理、矿区环境六个方面，结合不同矿产的开发方式、工艺特点提出差异化的建设要求，兼顾强制性底线与鼓励性导向，覆盖矿山开发利用的全生命周期",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "自然资源部与市场监管总局联合发布《绿色矿山建设规范》系列国家标准，覆盖十类主要矿产。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为澎湃新闻，引述自然资源部官方信息，内容具体详实，政策类报道可交叉验证。"
-    },
-    {
-      "title": "苏州博物馆本馆“生日限定”：北宋真珠舍利宝幢11年来首次整体展出",
-      "link": "https://m.thepaper.cn/detail/34049354",
-      "pubDate": "Fri, 11 Sep 2026 03:23:03 GMT",
-      "contentSnippet": "苏州博物馆镇馆之宝、禁止出境文物——北宋真珠舍利宝幢（chuáng）9月15日起将在该馆整体展出。澎湃新闻获悉，这件文物此前一直在苏博轮换展出构件，最近一次原件整体展出在2015年。\n宝幢是存放舍利的容器。1978年春，三名小学生在苏州市区的瑞光塔中玩耍，摸到一块松动的塔心砖，打开后发现一个洞穴，近千年前的真珠舍利宝幢由此重见天日。\n真珠舍利宝幢在瑞光塔第三层天宫发现，收纳于两层木函内，外函题写“瑞光院第三层塔内真珠舍利宝幢”，彩绘四大天王像内函的内壁题有“大中祥符六年四月十八日记”。“大中祥符”为宋真宗年号，“大中祥符六年”对应的是‌公元1013年。\n\n北宋真珠舍利宝幢。 苏州博物馆 供图",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "苏州博物馆镇馆之宝北宋真珠舍利宝幢将于9月15日起11年来首次整体展出。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为知名媒体，信息具体含时间地点人物，有官方供图，事实可查证。"
-    },
-    {
-      "title": "西北政法大学：学生期刊副主编俞某某盗用他人论文，给予留校察看处分",
-      "link": "https://m.thepaper.cn/detail/34049452",
-      "pubDate": "Fri, 11 Sep 2026 03:22:56 GMT",
-      "contentSnippet": "“期刊工作人员将退稿文章改写后发表”被曝光后，西北政法大学已对涉事学生作出严肃处理。\n2026年9月11日，西北政法大学方面介绍，近日，网络反映西北政法大学学生俞某某存在学术不端的情况。学校高度重视，在第一时间成立专门工作组开展了调查核实。学校认定俞某某构成学术不端行为，网络反映情况属实。\n2024级学生俞某某在校内学生刊物《国际法探索》担任学生副主编期间，存在盗用他人学术论文的学术不端行为。该行为违背学术道德，违反学校规章制度。为严肃校纪，端正学术风气，学校已依据相关规定和程序，对涉事文章作撤稿处理，免去俞某某学生期刊副主编，给予其留校察看处分，责令深刻检查。\n西北政法大学表示，学校将举一反",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "西北政法大学认定学生俞某某盗用他人论文构成学术不端，给予留校察看处分。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为知名媒体，报道含具体时间、人物、处分措施及校方回应，事实可查证。"
-    },
-    {
-      "title": "马上评｜开学季别成学生宿舍“问题暴露季”",
-      "link": "https://m.thepaper.cn/detail/34049365",
-      "pubDate": "Fri, 11 Sep 2026 03:20:57 GMT",
-      "contentSnippet": "视频截图\n\n\n近日，多名自称是江西景德镇学院大四学生的网友发帖称，学校为给新入学的男生腾宿舍，“强制要求大四女生搬离”。许多女生明确表示不愿意后，学校通过蹲守等途径施压，甚至在半夜砸开宿舍门锁，强制要求搬离，引发学生不满。\n10日晚，景德镇学院发布情况通报，称2026级新生中男生数量超过女生，现有男生床位不足，所以调整宿舍；个别工作人员方法简单粗暴，学校已对其进行处理，并向学生诚恳道歉。\n在校方表态前，这件事在网上引发不小风波，学生们拍了视频、录了音频，表达不满的声音相当激烈。学校曾一度否认，称“没有半夜敲门的情况，也不存在强制搬宿舍”，但随着道歉发布，说明此前学生的说法并非无中生有。\n宿舍不",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "景德镇学院因新生男生床位不足，强制大四女生搬离宿舍，校方通报道歉。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为知名媒体，引述校方通报及学生视频，事实具体可查证。"
-    },
-    {
-      "title": "《三体》20年，它给中国科幻留下了什么",
-      "link": "https://m.thepaper.cn/detail/34049237",
-      "pubDate": "Fri, 11 Sep 2026 03:18:04 GMT",
-      "contentSnippet": "今年是《三体》面世20周年。\n2006年，还是山西娘子关电厂工程师的刘慈欣，开始在《科幻世界》连载《三体》。小说很快受到读者热烈欢迎，催更信络绎不绝。这个从一次星际通讯开始，最终演变为地球文明与三体文明数百年生死博弈、乃至整个太阳系毁灭的宇宙史诗，吸引了无数读者。2008年，复旦大学教授严锋直言：“这个人（刘慈欣）单枪匹马，把中国科幻文学提升到了世界级的水平”。\n2015年8月23日，国际空间站内，美国宇航员凯尔·林格伦通过视频连线向全球宣布，刘慈欣的《三体》（第一部）获得了第73届雨果奖最佳长篇故事奖。雨果奖有“科幻界的诺贝尔奖”之称，刘慈欣成为该奖自1953年创立以来首位获此荣誉的亚洲人。",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "《三体》面世20周年，回顾其连载、获奖历程及对中国科幻的影响。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为知名媒体，内容含具体时间、人物、引述，事实可查证，但非一线通讯社。"
-    },
-    {
-      "title": "GPU平均利用率不足30%：同为Token，但价值天差地别",
-      "link": "https://m.thepaper.cn/detail/34049296",
-      "pubDate": "Fri, 11 Sep 2026 03:14:47 GMT",
-      "contentSnippet": "“有人送你500个Token，有人送他500个Token，但你的500个Token可能很值钱，他的500个Token可能不值钱。”9月10日，在2026外滩大会“Token效率：推动Agent智能提升与广泛应用的关键”论坛上，中国工程院院士、清华大学计算机科学与技术系教授郑纬民如此表示。\n郑纬民解释，之所以会出现上述差异，是因为Token价值涉及多个指标。当前“Token工厂”建设如火如荼，但只有高效的Token产能才能真正把算力变成有价值的输出。\nToken是货币，币值有高低\n驱动智能体的Token正在成为新的“石油”，Token需求指数级增长。郑纬民表示，实际上，Token与Token并不",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "郑纬民院士在外滩大会指出GPU平均利用率不足30%，Token价值因效率差异而天差地别。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为知名媒体，引述院士具体发言，内容可查证，但非一线通讯社。"
-    },
-    {
-      "title": "视频丨探访青岛失火货轮核心现场，消防员讲述救援过程",
-      "link": "https://m.thepaper.cn/detail/34049368",
-      "pubDate": "Fri, 11 Sep 2026 03:13:05 GMT",
-      "contentSnippet": "9月10日11时15分许，山东青岛市北海造船有限公司一艘外籍货轮靠港维修期间起火，造成25人遇难、5人受伤。事故发生后，总台记者于11日凌晨进入失火货轮船舱，独家探访火灾核心现场，消防员描述救火时温度达85℃。\n总台记者了解到，今天凌晨，来自全国五个省市的火灾调查方面专家，已经到现场进行初步踏勘和研判分析。",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "青岛一外籍货轮靠港维修时起火，致25人遇难5人受伤，记者探访核心现场。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻转载总台报道，含具体时间地点伤亡数据及消防员直接引述，信息可交叉验证。"
-    },
-    {
-      "title": "鸡蛋零售价格突破“6元区”，还会再涨吗？",
-      "link": "https://www.chinanews.com.cn/sh/2026/09-11/10694505.shtml",
-      "pubDate": "Fri, 11 Sep 2026 11:10:33 +0800",
-      "contentSnippet": "鸡蛋零售价格突破“6元区”，还会再涨吗？丨川观探市",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国新闻网报道鸡蛋零售价突破6元区，探讨后续涨势。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为权威媒体中国新闻网，内容具体，但正文摘要简短，缺少直接引述和数据细节。"
-    },
-    {
-      "title": "最热8月纪录诞生，超强厄尔尼诺推升全球气候风险",
-      "link": "https://m.thepaper.cn/detail/34043602",
-      "pubDate": "Fri, 11 Sep 2026 03:06:15 GMT",
-      "contentSnippet": "据新华社报道，欧盟气候监测机构哥白尼气候变化服务局9月10日发布公报说，2026年8月成为自1940年有相关记录以来最热的月份。\n\n2026年9月4日，在斯里兰卡波隆纳鲁沃，当地居民走在干涸的湖床上。 受厄尔尼诺现象影响，斯里兰卡多地出现严重旱情。新华社 图\n\n\n高温纪录不断刷新\n公报数据显示，今年8月全球平均地表气温约为16.96摄氏度，略高于2023年7月创下的约16.95摄氏度的纪录，成为全球平均地表气温最高的月份。该月全球平均地表气温比1991年至2020年同期平均水平高0.85摄氏度，比工业化前（1850年至1900年）平均水平高1.65摄氏度。这是自2025年11月以来，全球单月平",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "哥白尼公报称2026年8月为1940年以来最热月份，全球均温16.96摄氏度。",
-      "credibilityScore": 92,
-      "credibilityLevel": "high",
-      "credibilityReason": "引述新华社及哥白尼官方公报，数据具体可查，来源权威，用词客观。"
-    },
-    {
-      "title": "探访东北抗联史实陈列馆 重温“20条军规”里的红色初心",
-      "link": "http://www.chinanews.com.cn/tp/hd2011/2026/09-11/1203959.shtml",
-      "pubDate": "Fri, 11 Sep 2026 11:06:13 +0800",
-      "contentSnippet": "",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国新闻网报道探访东北抗联史实陈列馆，重温抗联“20条军规”红色历史。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新社属较权威媒体，主题为红色教育类报道，事实可查证，但正文摘要缺失，信息具体度有限。"
+      "credibilityReason": "来源为环球网，属较权威媒体；信息具体（时间、人物、场合明确），内容客观中性，可查证。"
     }
   ]
 }
