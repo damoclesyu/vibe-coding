@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-12T03:52:34.060Z",
+  "generatedAt": "2026-09-13T04:01:36.388Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "“你好，金砖！你好，中国！”",
-      "link": "https://world.huanqiu.com/article/4TB0t38TCKI",
-      "pubDate": "(Sat,12 Sep 2026 09:50:19 CST)",
-      "contentSnippet": "“你好，金砖！你好，中国！”语言连接彼此，交流凝聚共识。课堂里书声琅琅，镜头前情真意切，印度学子满怀期待，为金砖合作汇聚更多青年力量。",
+      "title": "为什么金砖国家合作对全球发展举足轻重？",
+      "link": "https://world.huanqiu.com/article/4TBuX4Z2eXN",
+      "pubDate": "(Sun,13 Sep 2026 11:48:16 CST)",
+      "contentSnippet": "当地时间9月12日下午，金砖国家领导人第十八次会晤第一阶段会议在印度新德里举行。",
       "sourceName": "环球网",
       "sourceWeight": 85,
       "allSources": [
@@ -16,33 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "环球网报道印度学子期待金砖合作，为交流汇聚青年力量。",
-      "credibilityScore": 62,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为环球网较权威，但内容为宣传性短文，缺少具体时间地点人物及直接引述。"
-    },
-    {
-      "title": "这个国际日，为全球南方合作而设",
-      "link": "https://world.huanqiu.com/article/4TB0p4CAdsN",
-      "pubDate": "(Sat,12 Sep 2026 09:48:31 CST)",
-      "contentSnippet": "9月12日是联合国南南合作日。在当前世界变乱交织、全球南方卓然壮大的时代背景下，这一国际纪念日的意义进一步凸显。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "环球网报道9月12日联合国南南合作日，强调全球南方合作在当前国际背景下的意义。",
+      "aiSummary": "金砖国家领导人第十八次会晤在印度新德里举行第一阶段会议。",
       "credibilityScore": 78,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为环球网，属知名媒体；内容基于联合国官方纪念日，事实可查证，但报道简短，缺少具体引述和细节。"
+      "credibilityReason": "来源为环球网较权威，信息具体含时间地点，但正文过简，缺少引述与细节，无法交叉验证。"
     },
     {
-      "title": "赓续长征精神 奋进复兴征程｜瑞金一个月如何为红军筹粮超万担？",
-      "link": "https://china.huanqiu.com/article/4TB0Yhgdyvw",
-      "pubDate": "(Sat,12 Sep 2026 09:41:08 CST)",
-      "contentSnippet": "为了保证红军的粮食供应，1934年6月2日，中共中央、中华苏维埃共和国临时中央政府人民委员会发出《为紧急动员二十四万担粮食供给红军致各级党部及苏维埃的信》，接着7月22日又发布了《关于在今年秋收中借谷六十万担及征收土地税的决定》，中央苏区迅速开展了大规模的借谷运动。",
+      "title": "越山海｜寻找“金砖温度”的答案",
+      "link": "https://world.huanqiu.com/article/4TBuWzy3NAm",
+      "pubDate": "(Sun,13 Sep 2026 11:47:39 CST)",
+      "contentSnippet": "什么是金砖的温度？",
       "sourceName": "环球网",
       "sourceWeight": 85,
       "allSources": [
@@ -50,16 +33,135 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "环球网报道瑞金在1934年通过借谷运动一个月为红军筹粮超万担。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为环球网，属较权威媒体；内容引用历史文件具体时间与名称，事实可查证，但为历史回顾非即时新闻。"
+      "aiSummary": "环球网发布金砖主题报道，探讨'金砖温度'的含义。",
+      "credibilityScore": 62,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为环球网较权威，但内容抽象缺乏具体事实与引述，信息量不足。"
     },
     {
-      "title": "一组海报带你看“金砖”",
-      "link": "https://world.huanqiu.com/article/4TB0RwCeAbJ",
-      "pubDate": "(Sat,12 Sep 2026 09:38:04 CST)",
-      "contentSnippet": "金砖大家庭是如何形成的？“大金砖”的含金量有多高？一组海报带你了解金砖合作机制。",
+      "title": "泽连斯基称愿意在美国迈阿密G20峰会上会见普京，佩斯科夫回应",
+      "link": "https://world.huanqiu.com/article/4TBsSiQCiZY",
+      "pubDate": "(Sun,13 Sep 2026 10:49:44 CST)",
+      "contentSnippet": "据法新社9月13日报道，乌克兰总统泽连斯基接受媒体采访时称，他愿意在美国迈阿密举行的二十国集团（G20）峰会上与俄罗斯总统普京会面。克里姆林宫发言人佩斯科夫对此表示，普京与泽连斯基的会面只可能在莫斯科举行。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "泽连斯基称愿在迈阿密G20峰会会见普京，佩斯科夫回应称只可能在莫斯科。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "环球网引述法新社，双方表态具体，但缺少直接引语和交叉验证。"
+    },
+    {
+      "title": "鼓励弃用墨卡托投影地图，意味着什么？",
+      "link": "https://world.huanqiu.com/article/4TBruZvRyLA",
+      "pubDate": "(Sun,13 Sep 2026 10:34:20 CST)",
+      "contentSnippet": "近日，联合国大会以164票赞成、1票反对、6票弃权的结果，通过一项由非洲联盟发起的“纠正地图”决议，鼓励在绘制世界地图时采用更准确呈现各大洲实际面积的“平等地球”投影，取代带有扭曲效果的墨卡托投影。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "联合国大会通过决议，鼓励弃用墨卡托投影地图，改用更准确反映面积的投影方式。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为环球网，属较权威媒体；内容具体，有投票数据和决议发起方，但缺少直接引述。"
+    },
+    {
+      "title": "快闪视频｜2027，金砖再迎“中国年”",
+      "link": "https://world.huanqiu.com/article/4TBqnhiaPbH",
+      "pubDate": "(Sun,13 Sep 2026 10:03:14 CST)",
+      "contentSnippet": "成立以来，金砖已成为当今世界最重要的新兴市场和发展中国家团结合作平台。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "环球网发布快闪视频，称2027年金砖将再迎“中国年”。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "环球网为知名媒体，内容与金砖中国年事实相符，但快闪视频信息简略，缺少具体细节。"
+    },
+    {
+      "title": "【央视快评】勇做时代先锋，携手推动构建人类命运共同体",
+      "link": "https://world.huanqiu.com/article/4TBqmzCXqVI",
+      "pubDate": "(Sun,13 Sep 2026 10:02:55 CST)",
+      "contentSnippet": "当地时间9月12日下午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第一阶段会议，并发表题为《共担时代责任 勇做先锋力量》的重要讲话。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "习近平在新德里金砖峰会发表讲话，呼吁共担时代责任、构建人类命运共同体。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为央视快评经环球网转载，内容具体含时间地点人物，属官方权威发布。"
+    },
+    {
+      "title": "美德防长将会晤 聚焦美国在欧洲军事部署",
+      "link": "https://mil.huanqiu.com/article/4TBpieiCipO",
+      "pubDate": "(Sun,13 Sep 2026 09:32:58 CST)",
+      "contentSnippet": "德国国防部11日宣布，国防部长皮斯托里乌斯将访问美国并于15日同美国国防部长赫格塞思会晤。据外媒报道，双方将讨论美国在欧洲的军事部署等议题。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "德国防长皮斯托里乌斯将于15日访美会见美国防长赫格塞思，讨论美在欧军事部署。",
+      "credibilityScore": 78,
+      "credibilityLevel": "high",
+      "credibilityReason": "环球网转载外媒，来源较权威，时间人物具体，但缺少直接引述和独立核实。"
+    },
+    {
+      "title": "习近平主席强调金砖国家要勇做时代先锋",
+      "link": "https://world.huanqiu.com/article/4TBphGVXYR9",
+      "pubDate": "(Sun,13 Sep 2026 09:32:21 CST)",
+      "contentSnippet": "当地时间9月12日下午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第一阶段会议。习近平主席发表题为《共担时代责任 勇做先锋力量》的重要讲话。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "习近平在新德里出席金砖领导人第十八次会晤并发表重要讲话。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "环球网为官方媒体，信息具体含时间地点，内容可与其他官方报道交叉验证。"
+    },
+    {
+      "title": "第一观察 | 习近平主席倡导金砖国家共担时代责任",
+      "link": "https://world.huanqiu.com/article/4TBpXYP6SQ7",
+      "pubDate": "(Sun,13 Sep 2026 09:27:57 CST)",
+      "contentSnippet": "“金砖国家要坚定站在历史正确一边，勇做时代先锋，引领国际秩序朝着更加公正合理的方向发展，携手推动构建人类命运共同体。”",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "环球网报道习近平主席倡导金砖国家共担时代责任，引领国际秩序公正发展。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为环球网，属官方背景媒体，内容为领导人公开讲话，可查证，但缺少具体时间地点等细节。"
+    },
+    {
+      "title": "开启金砖合作第三个“金色十年”——国际社会热切期待中国明年接任金砖主席国",
+      "link": "https://world.huanqiu.com/article/4TBpUsOceEX",
+      "pubDate": "(Sun,13 Sep 2026 09:26:45 CST)",
+      "contentSnippet": "“中国将于明年接任金砖主席国，主办金砖国家领导人第十九次会晤。”当地时间9月12日下午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第一阶段会议时宣布，中方愿以此为契机，同各方凝聚共识、开创未来，开启金砖合作第三个“金色十年”，共创繁荣进步的光明前景。",
       "sourceName": "环球网",
       "sourceWeight": 85,
       "allSources": [
@@ -68,16 +170,16 @@
       ],
       "coverageCount": 2,
       "coverageBoost": 5,
-      "aiSummary": "环球网与中国新闻网发布海报，介绍金砖合作机制的形成与价值。",
-      "credibilityScore": 83,
+      "aiSummary": "习近平宣布中国明年接任金砖主席国并主办领导人第十九次会晤。",
+      "credibilityScore": 93,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为国内知名媒体，内容为科普性海报，无具体事实争议，但缺乏直接引述与深度信息。（多源覆盖 +5）"
+      "credibilityReason": "来源为环球网、中新网等权威媒体，含领导人直接引述，时间地点明确，内容可交叉验证。（多源覆盖 +5）"
     },
     {
-      "title": "习近平主席推动金砖合作金句",
-      "link": "https://world.huanqiu.com/article/4TB05eRiKSg",
-      "pubDate": "(Sat,12 Sep 2026 09:28:02 CST)",
-      "contentSnippet": "习近平主席推动金砖合作金句",
+      "title": "拾光纪·连续第三年会晤莫迪，习主席这样指引中印关系",
+      "link": "https://world.huanqiu.com/article/4TBpTNyiLpO",
+      "pubDate": "(Sun,13 Sep 2026 09:26:05 CST)",
+      "contentSnippet": "继喀山、天津会晤后，当地时间9月12日，习近平主席同印度总理莫迪连续第三年举行会晤。会见莫迪时，习主席这样指引中印关系。",
       "sourceName": "环球网",
       "sourceWeight": 85,
       "allSources": [
@@ -85,153 +187,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "环球网发布习近平主席推动金砖合作的金句摘要。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为环球网，属官方背景媒体，内容为领导人公开讲话金句，事实可查证，但无具体引述和细节。"
-    },
-    {
-      "title": "走进新德里金砖峰会会场 | 大国外交零时差",
-      "link": "https://world.huanqiu.com/article/4TAzuffgERx",
-      "pubDate": "(Sat,12 Sep 2026 09:23:03 CST)",
-      "contentSnippet": "今年是金砖国家合作机制成立20周年。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "环球网报道金砖峰会新德里会场，提及金砖合作机制成立20周年。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "环球网为知名媒体，内容具体但简短，缺少直接引述和细节，可信度中等。"
-    },
-    {
-      "title": "携手推动“大金砖合作”高质量发展",
-      "link": "https://world.huanqiu.com/article/4TAzMo6lGQ9",
-      "pubDate": "(Sat,12 Sep 2026 09:07:59 CST)",
-      "contentSnippet": "法贾尔·希拉万表示，金砖合作推动成员加强产业链协作，通过投资合作、技术转移等方式促进产业升级。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "印尼官员法贾尔·希拉万称金砖合作推动成员产业链协作与产业升级。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "环球网转载官方表态，有具名引述，但内容为宣传性表述，缺乏具体数据与独立核实。"
-    },
-    {
-      "title": "习近平离京赴新德里出席金砖国家领导人第十八次会晤",
-      "link": "https://world.huanqiu.com/article/4TAzAdidUuF",
-      "pubDate": "(Sat,12 Sep 2026 09:02:17 CST)",
-      "contentSnippet": "国家主席习近平乘专机赴新德里，应印度总理莫迪邀请，出席金砖国家领导人第十八次会晤。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网",
-        "澎湃新闻"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "习近平应莫迪邀请乘专机赴新德里出席金砖国家领导人第十八次会晤。",
-      "credibilityScore": 100,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为环球网和澎湃新闻，属权威媒体，内容具体且可交叉验证。（多源覆盖 +5）"
-    },
-    {
-      "title": "学习笔记丨习近平纵论金砖合作之道",
-      "link": "https://world.huanqiu.com/article/4TAynEkun8N",
-      "pubDate": "(Sat,12 Sep 2026 08:51:43 CST)",
-      "contentSnippet": "习近平纵论金砖合作之道",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "环球网发布学习笔记，梳理习近平关于金砖合作的论述。",
-      "credibilityScore": 78,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为环球网，属正规媒体；内容为官方论述梳理，事实可查证，但缺乏具体细节和直接引述。"
-    },
-    {
-      "title": "【讲习所·中国与世界】习近平：把金砖打造成推动全球治理变革的先锋力量",
-      "link": "https://world.huanqiu.com/article/4TAydiEJbxw",
-      "pubDate": "(Sat,12 Sep 2026 08:49:10 CST)",
-      "contentSnippet": "国际人士与媒体普遍认为，金砖国家机制已成为南南合作的重要平台。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "环球网报道习近平称金砖应成全球治理变革先锋力量，国际人士普遍认同。",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为环球网，属官方背景媒体，内容具体但缺少直接引述，需交叉验证。"
-    },
-    {
-      "title": "学习新语｜推动金砖大船行稳致远",
-      "link": "https://world.huanqiu.com/article/4TAyX61Vg5l",
-      "pubDate": "(Sat,12 Sep 2026 08:48:58 CST)",
-      "contentSnippet": "作为金砖合作的倡导者和推动者，习近平主席多次以“船”为喻，为金砖国家携手前行指引方向，推动金砖大船行稳致远。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "环球网报道习近平主席以“船”为喻，指引金砖国家合作行稳致远。",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为环球网，属正规媒体但非一线通讯社；内容为官方立场宣传，无具体时间地点数据，缺少直接引述。"
-    },
-    {
-      "title": "一见·“大金砖合作”，何以成其大？",
-      "link": "https://world.huanqiu.com/article/4TAyODwBcXt",
-      "pubDate": "(Sat,12 Sep 2026 08:48:22 CST)",
-      "contentSnippet": "疾风知劲草，烈火见真金。世界动荡变革之际，一项项金砖主张、金砖行动，为世界注入宝贵的稳定性和正能量。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "环球网评论文章称金砖合作在世界动荡中为全球注入稳定性与正能量。",
-      "credibilityScore": 62,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为环球网，属知名媒体但非一线通讯社；内容为评论性文章，缺乏具体事实与直接引述。"
-    },
-    {
-      "title": "前8个月江苏省外贸进出口近5万亿元",
-      "link": "https://yrd.huanqiu.com/article/4TAxyMYgXr0",
-      "pubDate": "(Sat,12 Sep 2026 08:28:45 CST)",
-      "contentSnippet": "前8个月，江苏省对共建“一带一路”国家进出口2.61万亿元，增长36.6%，拉动进出口增长18.3个百分点，占比提升3.6个百分点至53.5%",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "前8个月江苏省外贸进出口近5万亿元，对共建“一带一路”国家进出口增长36.6%。",
+      "aiSummary": "习近平主席与印度总理莫迪连续第三年举行会晤，指引中印关系发展。",
       "credibilityScore": 78,
       "credibilityLevel": "medium-high",
-      "credibilityReason": "来源为环球网，数据具体可查，但缺少官方直接引述，发布时间异常，需交叉验证。"
+      "credibilityReason": "环球网为知名媒体，内容具体但无直接引述，细节有限，可信度中等偏上。"
     },
     {
-      "title": "沙特输油管道遭伊拉克方向无人机袭击 伊总理下令紧急调查",
-      "link": "https://world.huanqiu.com/article/4TAxVsG7DIu",
-      "pubDate": "(Sat,12 Sep 2026 08:15:53 CST)",
-      "contentSnippet": "当地时间9月11日晚，伊拉克武装部队总司令发言人萨巴赫·努曼发表声明，谴责针对沙特发起的袭击，并表示反对任何危及沙特安全与稳定或损害两国兄弟关系的行为。",
+      "title": "“金砖国家在维护多边主义方面发挥着重要作用”​——访巴西金砖国家政策研究中心研究员费尔南德斯",
+      "link": "https://world.huanqiu.com/article/4TBpOiYAJbg",
+      "pubDate": "(Sun,13 Sep 2026 09:23:58 CST)",
+      "contentSnippet": "费尔南德斯认为，作为金砖国家最具代表性的合作成果之一，新开发银行拓宽了新兴市场和发展中国家在基础设施及可持续发展项目方面的融资渠道。这是全球南方国家联合自强的创举，也符合改革完善全球治理的历史潮流。",
       "sourceName": "环球网",
       "sourceWeight": 85,
       "allSources": [
@@ -239,16 +204,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "伊拉克谴责针对沙特输油管道的无人机袭击，伊总理下令紧急调查。",
+      "aiSummary": "巴西研究员称金砖国家维护多边主义，新开发银行拓宽发展中国家融资渠道。",
       "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "环球网为知名媒体，有官方发言人引述，但非一线通讯社，细节有限。"
+      "credibilityReason": "环球网为知名媒体，有具名研究员引述，但单一来源、观点性内容，缺乏多源交叉验证。"
     },
     {
-      "title": "中方在联合国呼吁深化南南合作",
-      "link": "https://world.huanqiu.com/article/4TAxNDJJxAy",
-      "pubDate": "(Sat,12 Sep 2026 08:11:59 CST)",
-      "contentSnippet": "中国常驻联合国代表团临时代办孙磊11日在联合国南南合作日纪念活动高级别讨论会上发言，呼吁深化南南合作。",
+      "title": "期待2027金砖“中国年”更加精彩 | 大国外交零时差",
+      "link": "https://world.huanqiu.com/article/4TBpHvIqms5",
+      "pubDate": "(Sun,13 Sep 2026 09:20:54 CST)",
+      "contentSnippet": "9月12日下午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第一阶段会议时宣布，中国将于明年接任金砖主席国，主办金砖国家领导人第十九次会晤。接受人民日报记者采访的与会代表、专家学者表示，明年中国主办金砖峰会，将助力“大金砖合作”行稳致远，为推动构建人类命运共同体作出金砖贡献。",
       "sourceName": "环球网",
       "sourceWeight": 85,
       "allSources": [
@@ -256,10 +221,44 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国常驻联合国代表团临时代办孙磊在联合国南南合作日高级别讨论会上呼吁深化南南合作。",
+      "aiSummary": "习近平宣布中国明年接任金砖主席国并主办领导人第十九次会晤。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "环球网转载人民日报，引述习近平官方宣布，时间地点明确，属权威官方报道。"
+    },
+    {
+      "title": "海林观察 | 三组数据看金砖二十年发展",
+      "link": "https://world.huanqiu.com/article/4TBpFLCLGab",
+      "pubDate": "(Sun,13 Sep 2026 09:20:35 CST)",
+      "contentSnippet": "9月12日至13日，金砖国家领导人第十八次会晤在印度新德里举行。从四国外长会晤起步，到11个成员国、10个伙伴国，金砖大家庭日益壮大。本届峰会以“构建韧性、创新、合作与可持续发展”为主题。金砖坚持真正多边主义，为世界多极化注入稳定性和确定性。本期海林观察，带你用三组数据看金砖二十年发展。",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "金砖国家领导人第十八次会晤在印度新德里举行，文章以三组数据回顾金砖二十年发展。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为环球网较权威，内容具体含时间地点，但属评论性观察文章，缺少直接引述与多源交叉验证。"
+    },
+    {
+      "title": "镇江市发改委发布《妨碍建设全国统一大市场问题线索征集公告》",
+      "link": "https://yrd.huanqiu.com/article/4TBnhx5bdYv",
+      "pubDate": "(Sun,13 Sep 2026 08:36:41 CST)",
+      "contentSnippet": "9月11日，镇江市发展和改革委员会发布《妨碍建设全国统一大市场问题线索征集公告》：为落实党中央、国务院关于加快推进全国统一大市场建设的部署要求，纵深推进全国统一",
+      "sourceName": "环球网",
+      "sourceWeight": 85,
+      "allSources": [
+        "环球网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "镇江市发改委发布公告，征集妨碍全国统一大市场建设的问题线索。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为环球网，属较权威媒体；信息具体（时间、人物、场合明确），内容客观中性，可查证。"
+      "credibilityReason": "来源为环球网，属较权威媒体；内容具体，有明确发布主体、时间及政策依据，可查证。"
     }
   ]
 }

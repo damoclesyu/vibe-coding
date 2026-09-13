@@ -1,31 +1,32 @@
 {
-  "generatedAt": "2026-09-12T03:53:45.468Z",
+  "generatedAt": "2026-09-13T04:02:53.262Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "3万字对话陈大年：冲在投资和产业的第一线，想让每个人都有自己的AI",
-      "link": "https://www.tmtpost.com/8137660.html",
-      "pubDate": "Sat, 12 Sep 2026 10:00:00 +0800",
-      "contentSnippet": "陈大年和钛媒体联合创始人刘湘明在上海进行了近4小时的深度交流，话题涉及AI的趋势判断、本地模型以及对于中美AI竞争的看法。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "时隔多年苹果再拿华为做对比，Apple Watch 心率准确性研究将 HUAWEI WATCH 5 列为“唯一的例外”",
+      "link": "https://www.ithome.com/1/001/740.htm",
+      "pubDate": "Sun, 13 Sep 2026 03:59:20 GMT",
+      "contentSnippet": "IT之家 9 月 13 日消息，苹果在 9 月 10 日正式发布了 Apple Watch Series 12 智能手表，搭载更强的健康传感器和全新的 Apple 芯片。\n\n伴随 Apple Watch Series 12 智能手表发布的还有一份苹果《Apple Watch 心率准确性研究》。苹果在这份研究中总结了升级后的光学心率传感系统在可穿戴设备领域中相对于其他设备的准确性。\n\n参与苹果此次研究的腕戴式设备包括 Apple Watch Series 12、 Garmin 佳明 Forerunner 970、Google Pixel Watch 4、华为 WATCH 5、三星 Galaxy",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "钛媒体"
+        "IT之家",
+        "爱范儿"
       ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体深度对话陈大年，探讨AI趋势、本地模型及中美AI竞争。",
-      "credibilityScore": 82,
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "苹果心率准确性研究将华为WATCH 5列为唯一例外，引发关注。",
+      "credibilityScore": 83,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体钛媒体，内容为深度访谈，信息具体，但缺少原始数据引用。"
+      "credibilityReason": "来源为知名科技媒体，内容具体，但正文摘要截断，缺少研究细节和原始出处链接。（多源覆盖 +5）"
     },
     {
-      "title": "华硕 ROG 路由器拿下美国准入豁免，为 Wi-Fi 8 新品上市扫清障碍",
-      "link": "https://www.ithome.com/1/001/510.htm",
-      "pubDate": "Sat, 12 Sep 2026 01:11:06 GMT",
-      "contentSnippet": "IT之家 9 月 12 日消息，美国联邦通信委员会（FCC）今年 3 月将所有境外生产的消费级路由器列入“受管制清单”，原则上禁止所有新型号进入美国市场，除非获得国防部或国土安全部的有条件批准。\nFCC 于当地时间 9 月 9 日向华硕发放“有条件批准”，允许其在境外生产的无线网络设备继续进入美国市场销售。该批准有效期至 2028 年 3 月 6 日，覆盖华硕 RT 系列、ROG GT 系列、ROG Strix GS 系列、TUF Gaming 系列、ExpertWiFi 系列、ZenWiFi Mesh 系列、5G MiFi 系列以及无线中继器和无线接入点等产品线。\n\n除华硕外，此前已有网件、",
+      "title": "优派带来 VX27G81-2K-9 显示器：27\" QHD 240Hz Fast IPS",
+      "link": "https://www.ithome.com/1/001/739.htm",
+      "pubDate": "Sun, 13 Sep 2026 03:51:19 GMT",
+      "contentSnippet": "IT之家 9 月 13 日消息，ViewSonic（优派）本月 11 日宣布正式推出 VX27G81-2K-9 显示器。这一型号采用 27\" Fast IPS 面板，支持 QHD (2560×1440) 分辨率，原生刷新率 200Hz、超频刷新率 240Hz。\n\nVX27G81-2K-9 亮度典型值 400nits，对比度典型值 1000:1；灰阶 (GtG) 响应时间 1ms；色域 100% sRGB / 94% DCI-P3 / 92% Adobe RGB，色偏（平均值）ΔE＜2。\n其支持 VRR 可变刷新率，搭载硬件级低蓝光、不闪屏护眼技术，提供 2 个 HDMI 2.1、1 个 Dis",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -33,84 +34,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "华硕获FCC有条件批准，境外生产路由器可继续进入美国市场至2028年",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息含具体时间、产品线和有效期，但缺少FCC原始文件链接"
-    },
-    {
-      "title": "月之暗面：网传创始人及员工信息纯属虚构，已向公安机关报案",
-      "link": "https://www.ithome.com/1/001/537.htm",
-      "pubDate": "Sat, 12 Sep 2026 03:37:13 GMT",
-      "contentSnippet": "IT之家 9 月 12 日消息，月之暗面官微今日发布声明，回应网络流传的相关信息。声明称，网传关于公司创始人及员工的信息纯属虚构，系恶意造谣。\n\n月之暗面表示，公司已第一时间向公安机关报案，将依法追究相关造谣者的法律责任。声明同时呼吁公众不信谣、不传谣。\n截至IT之家发稿，公安机关尚未就此事发布通报，月之暗面也未进一步披露案件细节。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "月之暗面否认网传创始人及员工信息，称系恶意造谣并已报案。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，报道基于官方声明，信息具体，但缺乏案件细节和第三方核实。"
-    },
-    {
-      "title": "海底捞27.5亿港元减持背后，是家族信托的税务压力",
-      "link": "https://www.tmtpost.com/8137293.html",
-      "pubDate": "Sat, 12 Sep 2026 11:35:37 +0800",
-      "contentSnippet": "当大股东是一个家族信托，股东层面的资金安排与公司股价之间，并不存在真正的隔离。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "海底捞大股东家族信托减持27.5亿港元，分析指其背后或涉税务压力。",
-      "credibilityScore": 78,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技财经媒体，选题具体，但正文摘要过短，缺少数据与原始出处支撑。"
-    },
-    {
-      "title": "上汽大通 2027 款大家 9 正式上市，限时权益价 23.99 万元起",
-      "link": "https://www.ithome.com/1/001/535.htm",
-      "pubDate": "Sat, 12 Sep 2026 03:32:35 GMT",
-      "contentSnippet": "IT之家 9 月 12 日消息，上汽大通 2027 款大家 9 已于 9 月 10 日正式上市，官方指导价 28.99 万元起，限时权益价 23.99 万元起。大拿超级增程商旅版同步亮相。\n\n外观方面，2027 款大家 9 采用最新设计语言，前脸配备“星罗万象”前格栅和“星阵光语”矩阵前灯。车侧提供双侧电动滑移门及 20 英寸多辐条轮毂。尾部采用“战戟光语”尾灯，并配备电动尾门。车身尺寸方面，新车长宽高为 5270/2000/1840mm，轴距为 3200mm。\n\n内饰方面，新车采用双色配色，中控台配备三联屏和贯穿式中控扶手箱。配置包括后排隐私玻璃、二排遮阳帘、可开启双天窗、二排折叠小桌板、2",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "上汽大通2027款大家9上市，限时权益价23.99万元起，配置升级。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息含具体价格、尺寸和配置细节，但缺少官方来源引用。"
-    },
-    {
-      "title": "山灵 M8T 铜版 Hi-Fi 播放器将于 9 月 15 日发售：外壳采用铜合金 CNC 工艺，11980 元",
-      "link": "https://www.ithome.com/1/001/534.htm",
-      "pubDate": "Sat, 12 Sep 2026 03:30:50 GMT",
-      "contentSnippet": "IT之家 9 月 12 日消息，山灵宣布旗下 M8T 铜版 Hi-Fi 播放器将于 9 月 15 日 10:00 发售，首发价 11980 元。\n\n\nM8T 铜版以高强度铜合金为核，经精密 CNC 一体加工成型。铜材独有的光泽与细腻触感，随时间沉淀愈发深邃温润；更稳定的金属基底，为声学系统隔绝干扰，营造更纯净的工作环境。\n声音亦针对铜材特性重新调校。保留 M8T 暖厚润泽的底色，中高频更为通透；瞬态提升，能量舒展，浓郁却不淤积；背景更黑，细节自然浮现。从材质到听感，完成一次克制而深入的进阶。\n\n规格方面，M8T 采用来自 AKM 公司 AK4191EQ*2+AK4499EX*2 芯片，实现了对",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "山灵M8T铜版Hi-Fi播放器9月15日发售，铜合金CNC外壳，首发价11980元。",
+      "aiSummary": "优派发布VX27G81-2K-9显示器，27英寸QHD 240Hz Fast IPS面板，支持VRR和广色域。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息含具体价格、日期、芯片型号，但音质描述偏主观宣传。"
+      "credibilityReason": "IT之家为知名科技媒体，参数具体详实，有明确发布时间和产品型号，但缺少官方链接引用。"
     },
     {
-      "title": "全球首款便携安卓数字转盘飞傲 DT11 发布，首发价 1999 元",
-      "link": "https://www.ithome.com/1/001/533.htm",
-      "pubDate": "Sat, 12 Sep 2026 03:25:52 GMT",
-      "contentSnippet": "IT之家 9 月 12 日消息，飞傲今日发布了全球首款便携安卓数字转盘 DT11，首发价 1,999 元，预计 9 月底开售。\n这款产品将采用磁吸式机身设计，可以吸附在各种手机上；拥有极低抖动同轴输出、大功率 USB 洗水输出，号称是“随身 HiFi 系统的黄金前端搭档”。\n\n它不是传统音乐播放器，只负责输出纯净数字音频信号，外接解码 / 解码耳放一体机来发声；既可以随身捆绑，也能放桌面当台式数字转盘。\n飞傲 DT11 搭载高通骁龙 680 处理器、4GB+64GB 存储、安卓 13 系统；4.7 英寸小屏，轻薄机身；内置磁吸，可吸附捆绑在设备上；4000mAh，同轴输出续航约 20 小时，支",
+      "title": "绿联推出 HiTune T8 蓝牙耳机：-55dB 降噪、50 小时续航，179 元",
+      "link": "https://www.ithome.com/1/001/737.htm",
+      "pubDate": "Sun, 13 Sep 2026 03:37:30 GMT",
+      "contentSnippet": "IT之家 9 月 13 日消息，绿联现已在京东上架 HiTune T8 蓝牙耳机，该耳机支持 -55dB 降噪，提供至高 50 小时续航，定价为 179 元。\n京东绿联蓝牙耳机 T8179 元直达链接\n\n\n该耳机提供 IPX5 级认证，采用入耳式设计，耳机充电盒尺寸为 62mm x 51.5mm x 26.8mm，整体重量约 49.4g。\n\n该耳机搭载 12.4mm 镀钛单元，支持 AAC、SBC 及 LDAC 解码，并获得 Hi-Res 认证。设备采用 6 麦克风阵列与自适应降噪算法，降噪深度最高可达 -55dB，支持 4KHz 宽频降噪，并提供三档自适应调节以匹配不同环境声学状态。\n\n该耳",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -118,16 +51,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "飞傲发布全球首款便携安卓数字转盘DT11，首发价1999元，9月底开售。",
+      "aiSummary": "绿联上架HiTune T8蓝牙耳机，-55dB降噪、50小时续航，售价179元。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，产品参数具体详实，含价格、尺寸、解码格式等细节，来源可靠。"
+    },
+    {
+      "title": "数毛社分析任天堂《塞尔达传说：时之笛 重制版》：NS2掌机 / 电视原生 1080P，无 DLSS 成最大遗憾",
+      "link": "https://www.ithome.com/1/001/736.htm",
+      "pubDate": "Sun, 13 Sep 2026 03:36:22 GMT",
+      "contentSnippet": "IT之家 9 月 13 日消息，数毛社（IT之家注：Digital Foundry）近日发文分析任天堂《塞尔达传说：时之笛 重制版》游戏，称本作应该可以在 Switch 2 实现掌机、TV 模式原生 1080P 分辨率，但没有 DLSS 支持是最大的遗憾。\n\n数毛社从任天堂公布的实机画面认为，本作应该可以在掌机和 TV 模式下实现原生 1080P 分辨率，菜单界面为 1440P 分辨率渲染。\n从目前掌握的信息来看，玩家应该可以用 60FPS 帧率探索海拉鲁。部分玩家认为，本作采用了虚幻引擎 5。但数毛社表示，该游戏更有可能采用了任天堂自研引擎或合作伙伴方案，曾参与《塞尔达传说：王国之泪》开发的",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "数毛社分析《时之笛重制版》NS2原生1080P/60FPS，但无DLSS支持成遗憾。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，产品参数具体详实，但'全球首款'等表述缺少第三方佐证。"
+      "credibilityReason": "IT之家转载数毛社专业分析，含分辨率帧率等具体技术细节，但部分为推测性结论。"
     },
     {
-      "title": "《胡闹厨房》团队新作《怪镇奇旅》明年春季登陆 PC 平台，官方同步公布游戏实机画面",
-      "link": "https://www.ithome.com/1/001/532.htm",
-      "pubDate": "Sat, 12 Sep 2026 03:24:21 GMT",
-      "contentSnippet": "IT之家 9 月 12 日消息，《胡闹厨房》开发商 Ghost Town Games 宣布旗下新作《Stage Fright 怪镇奇旅》将于明年春季登陆 PC（Steam）平台，明年内登陆任天堂 Switch 2 平台。\n\nIT之家注意到，Ghost Town Games 在 2024 年 The Game Awards 颁奖典礼中首度公开了《Stage Fright 怪镇奇旅》，而目前官方正式公布了游戏实机画面。这是一款以双人合作为核心的悬疑冒险游戏，玩家将与伙伴在一座古怪的小镇中展开冒险，破解密室逃脱式谜题、跨越各种离奇障碍，并一步步揭开隐藏在这里的秘密。\n\n开发团队表示，在设计《Stag",
+      "title": "Glorious 推出 GMMK Eternal 96% 键盘：三层填充，轴体热插拔",
+      "link": "https://www.ithome.com/1/001/735.htm",
+      "pubDate": "Sun, 13 Sep 2026 03:26:06 GMT",
+      "contentSnippet": "IT之家 9 月 13 日消息，外设制造商 Glorious 近期宣布推出 GMMK Eternal 96% 单模机械键盘。其采用 1U0 96% 配列、键线分离设计，定价 99.99 美元（IT之家注：现汇率约合 673 元人民币）。\n\nGMMK Eternal 96% 拥有铝制上盖，搭载 Glorious 自家 Fox 轴体、ABS 材质双色注塑工艺键帽，内置双 PU 单硅胶的三层阻尼填充，集成单键 ARGB 背光，支持 1kHz 回报率。\n其支持轴体热插拔，兼容 CHERRY MX 式开关，键帽和数据线也易于更换。",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -135,16 +85,84 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "《胡闹厨房》团队新作《怪镇奇旅》公布实机画面，明年春季登陆PC。",
+      "aiSummary": "Glorious发布GMMK Eternal 96%机械键盘，售价99.99美元，支持热插拔。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体含平台与时间，但缺少官方原始链接引用。"
+      "credibilityReason": "IT之家为知名科技媒体，产品参数具体详实，含价格、轴体、填充等细节，无夸大宣传。"
     },
     {
-      "title": "“连线粉丝”讲离奇“真事”被封，法院驳回主播解封申请",
-      "link": "https://www.ithome.com/1/001/530.htm",
-      "pubDate": "Sat, 12 Sep 2026 03:01:20 GMT",
-      "contentSnippet": "IT之家 9 月 12 日消息，据中央广播电视总台中国之声今日报道，当前，网络上各平台的直播间各显神通引流吸粉，在众多直播类型中，“讲故事类”直播间凭借独特的叙事魅力和情感感染力，为观众提供了丰富的娱乐体验和精神陪伴。\n主播小金是通过“观众连线”讲故事的方式讲所谓的“真实故事”，连线进直播间的观众不仅讲到“神秘吊坠”“老宅寻宝”，还讲到“太岁星君”“阴谋暗算”…… 一连串离奇情节被当作“真实故事”讲述，主播以“连续剧”式更新制造期待。\n这种靠编造故事引流的方式，是否违反直播规范？平台是否有权作出封禁账号权限的处罚？北京互联网法院近日审结此案。\n\n图源：Pexels\n原告小金的直播间之所以被点关",
+      "title": "2026年上半年基金换手率分析",
+      "link": "https://www.tmtpost.com/8138219.html",
+      "pubDate": "Sun, 13 Sep 2026 11:08:16 +0800",
+      "contentSnippet": "本报告选取混合型与股票型基金作为换手率的统计分析对象。济安分类体系基于基金产品的合同约定投资范围、历史资产配置特征及投资策略风格，对公募基金进行科学分类，能够准确反映产品的风险收益特征与运作规律。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体发布2026上半年基金换手率分析报告，基于济安分类体系统计混合型与股票型基金。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技财经媒体钛媒体，内容涉及专业基金分类方法，但摘要缺少具体数据与原始出处引用。"
+    },
+    {
+      "title": "福建上市公司价值重估：民营科技龙头抬升上限，制造与消费多点支撑",
+      "link": "https://www.tmtpost.com/8138214.html",
+      "pubDate": "Sun, 13 Sep 2026 11:08:07 +0800",
+      "contentSnippet": "整体来看，福建的ESG-V结构可以概括为：民营科技龙头突出，制造与消费产业多点支撑，但中腰部企业仍占主体，产业之间和企业之间的价值兑现能力存在明显梯度。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体分析福建上市公司价值重估，民营科技龙头突出，制造与消费多点支撑。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体钛媒体，内容有具体分析框架，但摘要较简略，缺少数据支撑和原始出处。"
+    },
+    {
+      "title": "价值判断：涨停板的投资机会和风险提示（9月11日）｜上市公司观察",
+      "link": "https://www.tmtpost.com/8138207.html",
+      "pubDate": "Sun, 13 Sep 2026 11:07:54 +0800",
+      "contentSnippet": "隔夜美股四连跌、油价破百与美债收益率走高压制风险偏好，但市场未现系统性恐慌，跌停家数有限，为价值型低估标的与题材型连板标的并存提供了土壤。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体分析9月11日涨停板投资机会与风险，提及美股连跌、油价破百等背景。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体钛媒体，内容涉及市场分析但缺乏具体数据与原始出处，偏向投资建议。"
+    },
+    {
+      "title": "股价高估、低估时，上市公司分别该做什么",
+      "link": "https://www.tmtpost.com/8138199.html",
+      "pubDate": "Sun, 13 Sep 2026 11:07:47 +0800",
+      "contentSnippet": "高估与低估，判断的标尺始终是内在价值，而非股价本身的涨跌。市场先生情绪多变，今天的报价既可能远高于价值，也可能远低于价值，而公司真正要盯住的，是自己这门生意的盈利能力、现金流与成长空间。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体分析上市公司在股价高估或低估时应聚焦内在价值而非股价波动。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体，观点专业但偏理念性，缺少具体案例与数据支撑。"
+    },
+    {
+      "title": "淘宝闪购：苹果 iPhone 18 Pro 系列手机预售火爆，首小时销售额较上代 17 Pro 系列翻倍",
+      "link": "https://www.ithome.com/1/001/734.htm",
+      "pubDate": "Sun, 13 Sep 2026 03:07:34 GMT",
+      "contentSnippet": "IT之家 9 月 13 日消息，苹果 iPhone 18 Pro 系列手机于昨晚 8 点开启预购，新机包括 18 Pro 和 18 Pro Max 两款机型，起售价分别为 9999 元和 10999 元。新机开售仅数分钟，首批货源相继售罄，“苹果 18 抢不到”话题随即冲上微博热搜榜第一。\nIT之家参考淘宝闪购公布的交易数据，预售开启首个小时，iPhone 18 Pro 系列销售额较去年 iPhone 17 Pro 系列同期实现翻倍增长。其中 iPhone 18 Pro Max 256GB 勃艮第酒红色版本成为首发当日最受欢迎的机型。\n淘宝闪购表示，受新机预售带动，昨晚淘宝闪购平台苹果全系硬件",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -152,16 +170,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "主播编造离奇故事引流被封，法院驳回其解封申请。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家，引述中央广播电视总台报道及北京互联网法院案件，事实具体，但正文摘要不完整。"
+      "aiSummary": "淘宝闪购数据显示iPhone 18 Pro系列预售首小时销售额较上代翻倍，Pro Max酒红色最受欢迎。",
+      "credibilityScore": 75,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体IT之家，数据引自淘宝闪购，但缺乏苹果官方确认及具体销量数字。"
     },
     {
-      "title": "Bigscreen 宣布永久下调 Beyond 2 系列 PC VR 头显售价：起售价 1019 美元 → 959 美元",
-      "link": "https://www.ithome.com/1/001/529.htm",
-      "pubDate": "Sat, 12 Sep 2026 02:47:05 GMT",
-      "contentSnippet": "IT之家 9 月 12 日消息，Bigscreen 宣布永久下调 Beyond 2 系列 PC VR 头显售价，其中 Beyond 2 起售价降至 959 美元（IT之家注：现汇率约合 6,450 元人民币），较此前的 1,019 美元（现汇率约合 6,853 元人民币）降低 60 美元（现汇率约合 403.5 元人民币）；支持内置眼动追踪的 Beyond 2e 售价从 1,219 美元（现汇率约合 8,198 元人民币）降至 1,159 美元（现汇率约合 7,795 元人民币）。\n\n除了降价外，Bigscreen 还宣布此前延期已久的 Halo Mount 头戴支架已经恢复生产。该配件最初因",
+      "title": "佳能 9 月 16 日新品发布会官宣，预计推出 EOS R8 Mark II 相机",
+      "link": "https://www.ithome.com/1/001/733.htm",
+      "pubDate": "Sun, 13 Sep 2026 03:04:55 GMT",
+      "contentSnippet": "IT之家 9 月 13 日消息，佳能中国今天宣布将于 9 月 16 日上午 8:30 召开新品发布会。\n\n虽然官方并没有明说本次发布的新品究竟为何物，但我们结合近期传闻不难猜出，本次推出的新产品预计是 EOS R8 Mark II 全画幅无反相机。\n结合 Canon Rumors 此前爆料，佳能 EOS R8 Mark II 预计将采用较为方正硬朗的造型，多少带有一些 EOS M 系列的设计风格，机身手柄将带来更加舒适的握持体验。\n\n规格方面，这款相机预计将搭载 2400 万像素全画幅 CMOS，原生 ISO 100-102400，支持 Dual Pixel AF II 对焦，对焦灵敏度 -7",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "佳能官宣9月16日发布会，预计推出EOS R8 Mark II全画幅无反相机。",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体IT之家，信息具体但核心规格基于传闻，官方未确认，属预测性报道。"
+    },
+    {
+      "title": "荣耀 Play11 手机发售：骁龙 4 Gen4、AI 一键关广告弹窗，1399 元起",
+      "link": "https://www.ithome.com/1/001/731.htm",
+      "pubDate": "Sun, 13 Sep 2026 03:02:43 GMT",
+      "contentSnippet": "IT之家 9 月 13 日消息，荣耀旗下 Play11 手机现已在荣耀商城发售（点此访问），该机主打 IP69K 认证、8300mAh 电池，定价为 1399 元起，部分地区国补后低至 1189.15 元起。\n\n6GB RAM+128GB 存储空间：1399 元\n\n8GB RAM+128GB 存储空间：1449 元\n\n8GB RAM+256GB 存储空间：1749 元\n\n\n\n该机提供幻夜黑、沙漠金、流星银等配色可选，手机厚度 8.3mm，重量 216.5g，正面配备一块 6.87 英寸 1592x720 分辨率 120Hz TFT LCD 面板，后置 50Mp 主摄。\n\n\n该机搭载高通骁龙 4",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -170,16 +205,16 @@
       ],
       "coverageCount": 2,
       "coverageBoost": 5,
-      "aiSummary": "Bigscreen 永久下调 Beyond 2 系列 PC VR 头显售价，并恢复 Halo Mount 配件生产。",
-      "credibilityScore": 87,
+      "aiSummary": "荣耀Play11手机发售，搭载骁龙4 Gen4，1399元起，主打大电池与AI关广告功能。",
+      "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，价格数据具体，信息清晰，但缺少官方原始链接引用。（多源覆盖 +5）"
+      "credibilityReason": "来源为IT之家和钛媒体，属知名科技媒体，信息具体含价格、配置等细节，但缺少官方直接引用。（多源覆盖 +5）"
     },
     {
-      "title": "中国天眼 FAST 构建世界最大中性氢星系样本库，探测源达 15.6 万个",
-      "link": "https://www.ithome.com/1/001/528.htm",
-      "pubDate": "Sat, 12 Sep 2026 02:46:45 GMT",
-      "contentSnippet": "IT之家 9 月 12 日消息，中国科学院国家天文台 9 月 8 日宣布，由姜鹏研究员团队领衔的 FAST 中性氢巡天项目（FASHI）发布第二期数据集（FASHI DR2），构建起世界规模最大的中性氢星系样本库。\n\nFASHI DR2 在两年观测期内探测到 156411 个河外中性氢源，较首期数据的 41741 个增至近 4 倍。巡天覆盖面积从 7600 平方度扩展至 19500 平方度，占全天面积的 47.3%。\n这一数字是美国 Arecibo 望远镜 ALFALFA 巡天历时十余年积累纪录的 5 倍。ALFALFA 覆盖约 7000 平方度，探测源约 31500 个。FAST 用两年时间",
+      "title": "26.5\" QHD 320Hz QD-OLED 显示器 +1：泰坦军团推出 G27P9 Ultra",
+      "link": "https://www.ithome.com/1/001/729.htm",
+      "pubDate": "Sun, 13 Sep 2026 02:52:55 GMT",
+      "contentSnippet": "IT之家 9 月 13 日消息，泰坦军团 (Titan Army) 近日宣布推出 G27P9 Ultra 显示器。\n这一型号搭载三星显示 26.5\" QHD 320Hz QD-OLED Penta Tandem 面板，可选配铝合金材质的 X1 ULTRA 臂式显示器支架。\n\nG27P9 Ultra 达到 HDR True Black 500 要求，全屏亮度 300nits、HDR APL 10% 亮度 515nits、HDR APL 3% 亮度 1300nits；灰阶 (GtG) 响应时间 0.03ms；色域 100% sRGB / 99% DCI-P3 / 98% Adobe RGB，全模式",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -187,67 +222,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国天眼FAST发布FASHI DR2数据集，探测15.6万个中性氢源，建成世界最大样本库。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家，引用中科院国家天文台官方发布，数据具体详实，与Arecibo对比客观，技术表述准确。"
-    },
-    {
-      "title": "蚂蚁阿福：1.5亿用户背后，健康AI的烧钱与造血",
-      "link": "https://www.tmtpost.com/8137230.html",
-      "pubDate": "Sat, 12 Sep 2026 10:43:01 +0800",
-      "contentSnippet": "蚂蚁阿福、健康AI 、AI医疗、用户留存 、烧钱换增长、蚂蚁保、阿里健康、好大夫在线",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体分析蚂蚁阿福健康AI用户破1.5亿背后的烧钱与造血模式。",
-      "credibilityScore": 78,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，选题具体涉及用户留存与商业模式，但正文摘要信息有限，缺少数据细节支撑。"
-    },
-    {
-      "title": "智谱和MiniMax，进入“低价增长”时代",
-      "link": "https://www.tmtpost.com/8137263.html",
-      "pubDate": "Sat, 12 Sep 2026 10:42:53 +0800",
-      "contentSnippet": "DeepSeek再降价，模型公司的高增长被打折。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体分析智谱与MiniMax在DeepSeek降价压力下进入低价增长阶段。",
-      "credibilityScore": 78,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，选题切合行业趋势，但摘要信息较简略，缺少具体数据支撑。"
-    },
-    {
-      "title": "漫步者推出 HECATE G5 MAX 底座版头戴式无线耳机：53mm 单元、集成“八合一底座”，599 元",
-      "link": "https://www.ithome.com/1/001/527.htm",
-      "pubDate": "Sat, 12 Sep 2026 02:41:09 GMT",
-      "contentSnippet": "IT之家 9 月 12 日消息，漫步者现已在京东上架 HECATE G5 MAX 底座版头戴式耳机，该产品配备了“八合一底座”，定价为 665 元，首发价 599 元。\n京东漫步者 HECATE G5 MAX 底座版耳机 599 元直达链接\n\n\n该耳机本体重量约 293g，采用金属支臂及触感漆涂层。记忆棉耳罩兼容眼镜佩戴，配合支持 105° 水平与 37.5° 垂直调节的 3D 转轴头戴系统，可适应不同头型。耳机外部设有的泄压格栅能提升空气流通并减少闷堵感。\n\n该耳机搭载了 53mm 的 PEN 镀钛振膜单元，其频响范围覆盖 20Hz-40kHz。设备支持 SBC 与 LHDC 5.0 解码，",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "漫步者上架HECATE G5 MAX底座版耳机，配53mm单元及八合一底座，首发599元。",
+      "aiSummary": "泰坦军团推出G27P9 Ultra显示器，搭载三星26.5英寸QHD 320Hz QD-OLED面板。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，产品参数具体详实，含价格与规格，但缺少官方原始出处链接。"
+      "credibilityReason": "IT之家为知名科技媒体，参数具体详实，含面板来源与亮度响应数据，但缺官方原始出处链接。"
     },
     {
-      "title": "徐洁云确认，试驾小米澎程汽车误将油门当刹车的用户已锁单",
-      "link": "https://www.ithome.com/1/001/526.htm",
-      "pubDate": "Sat, 12 Sep 2026 02:34:24 GMT",
-      "contentSnippet": "IT之家 9 月 12 日消息，一段试驾用户误操作小米澎程汽车的视频近日引发关注。据红星新闻 9 月 11 日报道，试驾用户已于近日下单并锁单。\n小米集团董事长特别助理、战略市场部副总经理徐洁云对该报道表示：的确是这样。\n\n据IT之家 9 月 9 日报道，小米辟谣官方号发文，9 月 8 日一位客户在试驾途中，于路口转弯时为前车让道，因紧张将油门当刹车误踩，意外驶出车道。官方强调，此过程中无人受伤。",
+      "title": "百度旗下百家号 App 将于 9 月 22 日更名为“百度直播伴侣”",
+      "link": "https://www.ithome.com/1/001/728.htm",
+      "pubDate": "Sun, 13 Sep 2026 02:46:18 GMT",
+      "contentSnippet": "IT之家 9 月 13 日消息，百度宣布旗下百家号 App 将于 9 月 22 日更名为“百度直播伴侣”，聚焦为用户提供直播相关功能，用户的账号信息、历史创作数据及已获得的收益均不受任何影响。\n百度表示，对于非直播作者，相应用户可以前往百度 App-我的-创作中心继续创作和管理文章。对于直播作者则可以继续使用“百度直播伴侣”App。",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -255,10 +239,27 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "徐洁云确认试驾小米澎程误踩油门用户已锁单，官方称无人受伤。",
+      "aiSummary": "百度百家号App将于9月22日更名为百度直播伴侣，聚焦直播功能。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家报道，引述红星新闻及小米高管徐洁云确认，信息有原始出处，但细节较简略。"
+      "credibilityReason": "IT之家为知名科技媒体，报道含具体日期、功能调整及用户权益说明，信息清晰。"
+    },
+    {
+      "title": "谷歌为 Android 新增系统级密码管理器迁移，通行密钥支持无缝搬家",
+      "link": "https://www.ithome.com/1/001/727.htm",
+      "pubDate": "Sun, 13 Sep 2026 02:33:37 GMT",
+      "contentSnippet": "IT之家 9 月 13 日消息，谷歌本周四宣布为 Android 新增系统级密码管理器迁移体验。用户只需要点击几下屏幕，就能安全、迅速地切换不同密码管理器，全程无需下载任何文件。\n\n谷歌表示，Android 系统过去的迁移密码体验并不完美。用户往往需要将密码库导出为未加密的文本文件，通行密钥完全无法转移，用户只能在网站和 App 间重新创建。\n如今谷歌为 Android 带来全新密码迁移体验。用户只需要打开新的密码管理器 App，选择导入数据，系统会自动检测设备已有的密码管理器，告知用户哪些数据可以传输。\n点击“继续”后，Android 会在新旧密码管理器 App 间自动传输传统密码、通行密钥",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "谷歌为Android新增系统级密码管理器迁移功能，支持通行密钥无缝转移。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，内容具体含技术细节，引用谷歌官方声明，时效性强。"
     }
   ]
 }
