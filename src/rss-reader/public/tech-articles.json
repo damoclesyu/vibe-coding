@@ -1,83 +1,31 @@
 {
-  "generatedAt": "2026-09-13T04:02:53.262Z",
+  "generatedAt": "2026-09-14T04:10:14.166Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "时隔多年苹果再拿华为做对比，Apple Watch 心率准确性研究将 HUAWEI WATCH 5 列为“唯一的例外”",
-      "link": "https://www.ithome.com/1/001/740.htm",
-      "pubDate": "Sun, 13 Sep 2026 03:59:20 GMT",
-      "contentSnippet": "IT之家 9 月 13 日消息，苹果在 9 月 10 日正式发布了 Apple Watch Series 12 智能手表，搭载更强的健康传感器和全新的 Apple 芯片。\n\n伴随 Apple Watch Series 12 智能手表发布的还有一份苹果《Apple Watch 心率准确性研究》。苹果在这份研究中总结了升级后的光学心率传感系统在可穿戴设备领域中相对于其他设备的准确性。\n\n参与苹果此次研究的腕戴式设备包括 Apple Watch Series 12、 Garmin 佳明 Forerunner 970、Google Pixel Watch 4、华为 WATCH 5、三星 Galaxy",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "【钛晨报】事关智能网联新能源汽车产业发展，九部门最新部署；奥尔特曼：OpenAI不会在2026年上市；智谱完成50亿美元融资用于扩大算力供给等用途",
+      "link": "https://www.tmtpost.com/8138491.html",
+      "pubDate": "Mon, 14 Sep 2026 07:20:00 +0800",
+      "contentSnippet": "DeepSeek灰度测试语音对话；图灵量子发布大规模芯片级可扩展光量子计算机TuringQ Gen3；现代汽车将于2029年推出自研驾驶辅助系统；特斯拉Semi卡车将进军欧洲，满载续航最高550公里；英伟达据悉正就向Anthropic的IPO项目投资高达100亿美元进行谈判；国务院国资委：统筹用好国内国际两个市场，优化海外投资布局；李强签署国务院令，公布《市场监督管理所条例》；中国证监会发布《期货公司监督管理办法》及配套实施；三部门联合印发《数字乡村高质量发展行动计划（2026—2030年）》；纳斯达克100指数将提高SpaceX权重，数十亿美元基金料将买入；伊朗称霍尔木兹海峡或将开新通道；中",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
       "allSources": [
-        "IT之家",
-        "爱范儿"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "苹果心率准确性研究将华为WATCH 5列为唯一例外，引发关注。",
-      "credibilityScore": 83,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容具体，但正文摘要截断，缺少研究细节和原始出处链接。（多源覆盖 +5）"
-    },
-    {
-      "title": "优派带来 VX27G81-2K-9 显示器：27\" QHD 240Hz Fast IPS",
-      "link": "https://www.ithome.com/1/001/739.htm",
-      "pubDate": "Sun, 13 Sep 2026 03:51:19 GMT",
-      "contentSnippet": "IT之家 9 月 13 日消息，ViewSonic（优派）本月 11 日宣布正式推出 VX27G81-2K-9 显示器。这一型号采用 27\" Fast IPS 面板，支持 QHD (2560×1440) 分辨率，原生刷新率 200Hz、超频刷新率 240Hz。\n\nVX27G81-2K-9 亮度典型值 400nits，对比度典型值 1000:1；灰阶 (GtG) 响应时间 1ms；色域 100% sRGB / 94% DCI-P3 / 92% Adobe RGB，色偏（平均值）ΔE＜2。\n其支持 VRR 可变刷新率，搭载硬件级低蓝光、不闪屏护眼技术，提供 2 个 HDMI 2.1、1 个 Dis",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
+        "钛媒体"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "优派发布VX27G81-2K-9显示器，27英寸QHD 240Hz Fast IPS面板，支持VRR和广色域。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，参数具体详实，有明确发布时间和产品型号，但缺少官方链接引用。"
-    },
-    {
-      "title": "绿联推出 HiTune T8 蓝牙耳机：-55dB 降噪、50 小时续航，179 元",
-      "link": "https://www.ithome.com/1/001/737.htm",
-      "pubDate": "Sun, 13 Sep 2026 03:37:30 GMT",
-      "contentSnippet": "IT之家 9 月 13 日消息，绿联现已在京东上架 HiTune T8 蓝牙耳机，该耳机支持 -55dB 降噪，提供至高 50 小时续航，定价为 179 元。\n京东绿联蓝牙耳机 T8179 元直达链接\n\n\n该耳机提供 IPX5 级认证，采用入耳式设计，耳机充电盒尺寸为 62mm x 51.5mm x 26.8mm，整体重量约 49.4g。\n\n该耳机搭载 12.4mm 镀钛单元，支持 AAC、SBC 及 LDAC 解码，并获得 Hi-Res 认证。设备采用 6 麦克风阵列与自适应降噪算法，降噪深度最高可达 -55dB，支持 4KHz 宽频降噪，并提供三档自适应调节以匹配不同环境声学状态。\n\n该耳",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "绿联上架HiTune T8蓝牙耳机，-55dB降噪、50小时续航，售价179元。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，产品参数具体详实，含价格、尺寸、解码格式等细节，来源可靠。"
-    },
-    {
-      "title": "数毛社分析任天堂《塞尔达传说：时之笛 重制版》：NS2掌机 / 电视原生 1080P，无 DLSS 成最大遗憾",
-      "link": "https://www.ithome.com/1/001/736.htm",
-      "pubDate": "Sun, 13 Sep 2026 03:36:22 GMT",
-      "contentSnippet": "IT之家 9 月 13 日消息，数毛社（IT之家注：Digital Foundry）近日发文分析任天堂《塞尔达传说：时之笛 重制版》游戏，称本作应该可以在 Switch 2 实现掌机、TV 模式原生 1080P 分辨率，但没有 DLSS 支持是最大的遗憾。\n\n数毛社从任天堂公布的实机画面认为，本作应该可以在掌机和 TV 模式下实现原生 1080P 分辨率，菜单界面为 1440P 分辨率渲染。\n从目前掌握的信息来看，玩家应该可以用 60FPS 帧率探索海拉鲁。部分玩家认为，本作采用了虚幻引擎 5。但数毛社表示，该游戏更有可能采用了任天堂自研引擎或合作伙伴方案，曾参与《塞尔达传说：王国之泪》开发的",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "数毛社分析《时之笛重制版》NS2原生1080P/60FPS，但无DLSS支持成遗憾。",
+      "aiSummary": "九部门部署智能网联新能源汽车产业，OpenAI否认2026年上市，智谱完成50亿美元融资。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家转载数毛社专业分析，含分辨率帧率等具体技术细节，但部分为推测性结论。"
+      "credibilityReason": "钛媒体为知名科技媒体，内容含具体政策、企业动态与数据，但部分信息未提供原始出处。"
     },
     {
-      "title": "Glorious 推出 GMMK Eternal 96% 键盘：三层填充，轴体热插拔",
-      "link": "https://www.ithome.com/1/001/735.htm",
-      "pubDate": "Sun, 13 Sep 2026 03:26:06 GMT",
-      "contentSnippet": "IT之家 9 月 13 日消息，外设制造商 Glorious 近期宣布推出 GMMK Eternal 96% 单模机械键盘。其采用 1U0 96% 配列、键线分离设计，定价 99.99 美元（IT之家注：现汇率约合 673 元人民币）。\n\nGMMK Eternal 96% 拥有铝制上盖，搭载 Glorious 自家 Fox 轴体、ABS 材质双色注塑工艺键帽，内置双 PU 单硅胶的三层阻尼填充，集成单键 ARGB 背光，支持 1kHz 回报率。\n其支持轴体热插拔，兼容 CHERRY MX 式开关，键帽和数据线也易于更换。",
+      "title": "理想汽车 CEO 李想：纯电架构的天生优势，决定了尺寸军备竞赛一定会结束",
+      "link": "https://www.ithome.com/1/002/016.htm",
+      "pubDate": "Mon, 14 Sep 2026 04:08:12 GMT",
+      "contentSnippet": "IT之家 9 月 14 日消息，理想汽车 CEO 李想今日发文探讨了旗舰 SUV 越做越大的问题。他认为，这只是过渡阶段，纯电架构的天生优势，决定了尺寸军备竞赛一定会结束。\n\n油车时代，想要更大的空间，就只能把车做大。纯电时代不需要。电机很小，前悬可以做短，省出来的空间直接还给座舱。电池平铺在底盘，地板可以做平，不需要靠车高来换头部空间。同样的内部空间，纯电车需要的外壳可以比油车小一圈。想明白这件事，在尺寸上做文章就没那么大意义了。\n现阶段尺寸还在卷，是因为行业还在用油车时代的思维惯性做产品。这个惯性会消退。你做到 2 米宽，我做到 2 米 05 宽，体感上没什么差别，但用户每天停车的焦虑多了",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -85,136 +33,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "Glorious发布GMMK Eternal 96%机械键盘，售价99.99美元，支持热插拔。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，产品参数具体详实，含价格、轴体、填充等细节，无夸大宣传。"
-    },
-    {
-      "title": "2026年上半年基金换手率分析",
-      "link": "https://www.tmtpost.com/8138219.html",
-      "pubDate": "Sun, 13 Sep 2026 11:08:16 +0800",
-      "contentSnippet": "本报告选取混合型与股票型基金作为换手率的统计分析对象。济安分类体系基于基金产品的合同约定投资范围、历史资产配置特征及投资策略风格，对公募基金进行科学分类，能够准确反映产品的风险收益特征与运作规律。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体发布2026上半年基金换手率分析报告，基于济安分类体系统计混合型与股票型基金。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技财经媒体钛媒体，内容涉及专业基金分类方法，但摘要缺少具体数据与原始出处引用。"
-    },
-    {
-      "title": "福建上市公司价值重估：民营科技龙头抬升上限，制造与消费多点支撑",
-      "link": "https://www.tmtpost.com/8138214.html",
-      "pubDate": "Sun, 13 Sep 2026 11:08:07 +0800",
-      "contentSnippet": "整体来看，福建的ESG-V结构可以概括为：民营科技龙头突出，制造与消费产业多点支撑，但中腰部企业仍占主体，产业之间和企业之间的价值兑现能力存在明显梯度。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体分析福建上市公司价值重估，民营科技龙头突出，制造与消费多点支撑。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，内容有具体分析框架，但摘要较简略，缺少数据支撑和原始出处。"
-    },
-    {
-      "title": "价值判断：涨停板的投资机会和风险提示（9月11日）｜上市公司观察",
-      "link": "https://www.tmtpost.com/8138207.html",
-      "pubDate": "Sun, 13 Sep 2026 11:07:54 +0800",
-      "contentSnippet": "隔夜美股四连跌、油价破百与美债收益率走高压制风险偏好，但市场未现系统性恐慌，跌停家数有限，为价值型低估标的与题材型连板标的并存提供了土壤。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体分析9月11日涨停板投资机会与风险，提及美股连跌、油价破百等背景。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，内容涉及市场分析但缺乏具体数据与原始出处，偏向投资建议。"
-    },
-    {
-      "title": "股价高估、低估时，上市公司分别该做什么",
-      "link": "https://www.tmtpost.com/8138199.html",
-      "pubDate": "Sun, 13 Sep 2026 11:07:47 +0800",
-      "contentSnippet": "高估与低估，判断的标尺始终是内在价值，而非股价本身的涨跌。市场先生情绪多变，今天的报价既可能远高于价值，也可能远低于价值，而公司真正要盯住的，是自己这门生意的盈利能力、现金流与成长空间。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体分析上市公司在股价高估或低估时应聚焦内在价值而非股价波动。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体，观点专业但偏理念性，缺少具体案例与数据支撑。"
-    },
-    {
-      "title": "淘宝闪购：苹果 iPhone 18 Pro 系列手机预售火爆，首小时销售额较上代 17 Pro 系列翻倍",
-      "link": "https://www.ithome.com/1/001/734.htm",
-      "pubDate": "Sun, 13 Sep 2026 03:07:34 GMT",
-      "contentSnippet": "IT之家 9 月 13 日消息，苹果 iPhone 18 Pro 系列手机于昨晚 8 点开启预购，新机包括 18 Pro 和 18 Pro Max 两款机型，起售价分别为 9999 元和 10999 元。新机开售仅数分钟，首批货源相继售罄，“苹果 18 抢不到”话题随即冲上微博热搜榜第一。\nIT之家参考淘宝闪购公布的交易数据，预售开启首个小时，iPhone 18 Pro 系列销售额较去年 iPhone 17 Pro 系列同期实现翻倍增长。其中 iPhone 18 Pro Max 256GB 勃艮第酒红色版本成为首发当日最受欢迎的机型。\n淘宝闪购表示，受新机预售带动，昨晚淘宝闪购平台苹果全系硬件",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "淘宝闪购数据显示iPhone 18 Pro系列预售首小时销售额较上代翻倍，Pro Max酒红色最受欢迎。",
-      "credibilityScore": 75,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体IT之家，数据引自淘宝闪购，但缺乏苹果官方确认及具体销量数字。"
-    },
-    {
-      "title": "佳能 9 月 16 日新品发布会官宣，预计推出 EOS R8 Mark II 相机",
-      "link": "https://www.ithome.com/1/001/733.htm",
-      "pubDate": "Sun, 13 Sep 2026 03:04:55 GMT",
-      "contentSnippet": "IT之家 9 月 13 日消息，佳能中国今天宣布将于 9 月 16 日上午 8:30 召开新品发布会。\n\n虽然官方并没有明说本次发布的新品究竟为何物，但我们结合近期传闻不难猜出，本次推出的新产品预计是 EOS R8 Mark II 全画幅无反相机。\n结合 Canon Rumors 此前爆料，佳能 EOS R8 Mark II 预计将采用较为方正硬朗的造型，多少带有一些 EOS M 系列的设计风格，机身手柄将带来更加舒适的握持体验。\n\n规格方面，这款相机预计将搭载 2400 万像素全画幅 CMOS，原生 ISO 100-102400，支持 Dual Pixel AF II 对焦，对焦灵敏度 -7",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "佳能官宣9月16日发布会，预计推出EOS R8 Mark II全画幅无反相机。",
+      "aiSummary": "李想称纯电架构优势将终结SUV尺寸军备竞赛，现为油车思维惯性",
       "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体IT之家，信息具体但核心规格基于传闻，官方未确认，属预测性报道。"
-    },
-    {
-      "title": "荣耀 Play11 手机发售：骁龙 4 Gen4、AI 一键关广告弹窗，1399 元起",
-      "link": "https://www.ithome.com/1/001/731.htm",
-      "pubDate": "Sun, 13 Sep 2026 03:02:43 GMT",
-      "contentSnippet": "IT之家 9 月 13 日消息，荣耀旗下 Play11 手机现已在荣耀商城发售（点此访问），该机主打 IP69K 认证、8300mAh 电池，定价为 1399 元起，部分地区国补后低至 1189.15 元起。\n\n6GB RAM+128GB 存储空间：1399 元\n\n8GB RAM+128GB 存储空间：1449 元\n\n8GB RAM+256GB 存储空间：1749 元\n\n\n\n该机提供幻夜黑、沙漠金、流星银等配色可选，手机厚度 8.3mm，重量 216.5g，正面配备一块 6.87 英寸 1592x720 分辨率 120Hz TFT LCD 面板，后置 50Mp 主摄。\n\n\n该机搭载高通骁龙 4",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家",
-        "钛媒体"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "荣耀Play11手机发售，搭载骁龙4 Gen4，1399元起，主打大电池与AI关广告功能。",
-      "credibilityScore": 90,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家和钛媒体，属知名科技媒体，信息具体含价格、配置等细节，但缺少官方直接引用。（多源覆盖 +5）"
+      "credibilityReason": "知名科技媒体IT之家报道，引述CEO公开观点，技术逻辑合理，但属主观判断无数据支撑"
     },
     {
-      "title": "26.5\" QHD 320Hz QD-OLED 显示器 +1：泰坦军团推出 G27P9 Ultra",
-      "link": "https://www.ithome.com/1/001/729.htm",
-      "pubDate": "Sun, 13 Sep 2026 02:52:55 GMT",
-      "contentSnippet": "IT之家 9 月 13 日消息，泰坦军团 (Titan Army) 近日宣布推出 G27P9 Ultra 显示器。\n这一型号搭载三星显示 26.5\" QHD 320Hz QD-OLED Penta Tandem 面板，可选配铝合金材质的 X1 ULTRA 臂式显示器支架。\n\nG27P9 Ultra 达到 HDR True Black 500 要求，全屏亮度 300nits、HDR APL 10% 亮度 515nits、HDR APL 3% 亮度 1300nits；灰阶 (GtG) 响应时间 0.03ms；色域 100% sRGB / 99% DCI-P3 / 98% Adobe RGB，全模式",
+      "title": "哈利 · 波特版 realme 真我 16 Pro 手机预热：天玑 7300 Max 芯片，7000mAh 电池",
+      "link": "https://www.ithome.com/1/002/015.htm",
+      "pubDate": "Mon, 14 Sep 2026 04:06:17 GMT",
+      "contentSnippet": "IT之家 9 月 14 日消息，科技媒体 gsmarena 昨日（9 月 13 日）发布博文，报道称 realme 真我已公开哈利 · 波特（Harry Potter）版 16 Pro 手机主要规格，沿用标准版配置，主要升级外观和包装方面。\n\n哈利 · 波特版 realme 真我 16 Pro 手机搭载天玑 7300 Max，配备 144Hz AMOLED 屏幕，峰值亮度为 6500 尼特。续航部分采用 7000mAh 电池，支持 80W 有线充电。\n根据官方公示信息，这款手机支持旁路充电与反向有线充电功能。旁路充电可在外接电源时，绕开电池供电路径，反向有线充电则可通过线缆向其他设备供电。IT",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -222,44 +50,214 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "泰坦军团推出G27P9 Ultra显示器，搭载三星26.5英寸QHD 320Hz QD-OLED面板。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，参数具体详实，含面板来源与亮度响应数据，但缺官方原始出处链接。"
-    },
-    {
-      "title": "百度旗下百家号 App 将于 9 月 22 日更名为“百度直播伴侣”",
-      "link": "https://www.ithome.com/1/001/728.htm",
-      "pubDate": "Sun, 13 Sep 2026 02:46:18 GMT",
-      "contentSnippet": "IT之家 9 月 13 日消息，百度宣布旗下百家号 App 将于 9 月 22 日更名为“百度直播伴侣”，聚焦为用户提供直播相关功能，用户的账号信息、历史创作数据及已获得的收益均不受任何影响。\n百度表示，对于非直播作者，相应用户可以前往百度 App-我的-创作中心继续创作和管理文章。对于直播作者则可以继续使用“百度直播伴侣”App。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "百度百家号App将于9月22日更名为百度直播伴侣，聚焦直播功能。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道含具体日期、功能调整及用户权益说明，信息清晰。"
-    },
-    {
-      "title": "谷歌为 Android 新增系统级密码管理器迁移，通行密钥支持无缝搬家",
-      "link": "https://www.ithome.com/1/001/727.htm",
-      "pubDate": "Sun, 13 Sep 2026 02:33:37 GMT",
-      "contentSnippet": "IT之家 9 月 13 日消息，谷歌本周四宣布为 Android 新增系统级密码管理器迁移体验。用户只需要点击几下屏幕，就能安全、迅速地切换不同密码管理器，全程无需下载任何文件。\n\n谷歌表示，Android 系统过去的迁移密码体验并不完美。用户往往需要将密码库导出为未加密的文本文件，通行密钥完全无法转移，用户只能在网站和 App 间重新创建。\n如今谷歌为 Android 带来全新密码迁移体验。用户只需要打开新的密码管理器 App，选择导入数据，系统会自动检测设备已有的密码管理器，告知用户哪些数据可以传输。\n点击“继续”后，Android 会在新旧密码管理器 App 间自动传输传统密码、通行密钥",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "谷歌为Android新增系统级密码管理器迁移功能，支持通行密钥无缝转移。",
+      "aiSummary": "realme预热哈利·波特版真我16 Pro，搭载天玑7300 Max与7000mAh电池。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容具体含技术细节，引用谷歌官方声明，时效性强。"
+      "credibilityReason": "IT之家援引gsmarena，规格具体含芯片、屏幕、电池等数据，来源可靠。"
+    },
+    {
+      "title": "AI制药的基建大赛开始了",
+      "link": "https://www.tmtpost.com/8138778.html",
+      "pubDate": "Mon, 14 Sep 2026 12:01:59 +0800",
+      "contentSnippet": "下一个竞争高地",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体分析AI制药进入基础设施竞争新阶段，但正文信息有限。",
+      "credibilityScore": 62,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体，但正文仅一句摘要，缺少具体数据、案例和原始出处，信息详实度不足。"
+    },
+    {
+      "title": "零跑“B 系双子星”B01 / B10 量产下线突破 30 万台，创品牌车系最快新纪录",
+      "link": "https://www.ithome.com/1/002/010.htm",
+      "pubDate": "Mon, 14 Sep 2026 03:58:06 GMT",
+      "contentSnippet": "IT之家 9 月 14 日消息，零跑汽车官方今日宣布，旗下 B 系双子星 —— 零跑 B01 和零跑 B10 量产下线突破 30 万台。\n\n据介绍，此次 30 万台的量产下线仅用时 1 年 6 个月，创零跑车系最快量产 30 万台新纪录。同时，零跑 B10 创零跑海外最快 6 万台出口纪录。\n\n据IT之家此前报道，在今年 7 月，零跑汽车旗下新款零跑 B01 与新款零跑 B10 同步上市。作为年度改款车型，两款新车基于 LEAP3.5 技术架构打造，长续航版本均配备 800V 高压架构，外观与内饰设计延续老款风格。\nB01 定位紧凑型纯电轿车，推出 5 款车型，官方指导价区间为 9.58 万至",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "零跑B01/B10量产下线破30万台，创品牌车系最快纪录。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息含具体数据与官方来源，但缺乏独立核实。"
+    },
+    {
+      "title": "《汽车软件质量与缺陷管理规范》国家标准发布，将质量管控从事后处置转向缺陷预防",
+      "link": "https://www.ithome.com/1/002/009.htm",
+      "pubDate": "Mon, 14 Sep 2026 03:57:41 GMT",
+      "contentSnippet": "IT之家 9 月 14 日消息，市场监管总局（国家标准委）近日批准发布《汽车软件质量与缺陷管理规范》国家标准（GB/T 48140—2026）。本次新国标发布有利于推动汽车软件缺陷识别与防控关口前移，进一步健全智能网联汽车软件安全治理体系，将从今年 12 月 1 日起实施。\nIT之家了解到，当前“软件定义汽车”已经成为汽车行业发展趋势，软件在赋予汽车智能体验的同时，也带来新安全风险。软件缺陷多发态势叠加软件迭代升级常态化，对汽车软件质量与缺陷管理提出更加严格的体系化要求。\n因此市场监管总局特此推出新标准，新规运用 PDCA 循环（策划 — 实施 — 检查 — 处置）和基于风险的思维，建立了覆盖",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "市场监管总局发布汽车软件质量与缺陷管理国家标准，12月起实施。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家报道，有国标编号、发布机构及实施日期，信息具体，来源可信。"
+    },
+    {
+      "title": "摩托罗拉 Edge 70 Neo 手机跑分曝光：骁龙 7s Gen 3 芯片、6GB 内存",
+      "link": "https://www.ithome.com/1/002/008.htm",
+      "pubDate": "Mon, 14 Sep 2026 03:52:34 GMT",
+      "contentSnippet": "IT之家 9 月 14 日消息，科技媒体 NotebookCheck 昨日（9 月 13 日）发布博文，报道称摩托罗拉 Edge 70 Neo 手机现身 GeekBench 平台，7.0.0 版本单核成绩为 723 分，多核成绩为 2,943 分。\n\n根据跑分页面信息，摩托罗拉 Edge 70 Neo 手机配备高通骁龙 7s Gen 3 芯片。该芯片型号为 SM7635，采用 4nm 工艺。\n\n\n参数\n制程4nm\nCPU8 核：1×2.5GHz + 3×2.4GHz + 4×1.8GHz\nGPUAdreno 系列 GPU\n5G支持 5G 网络，具体频段取决于手机厂商\n影像支持最高 2 亿像素照",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "摩托罗拉Edge 70 Neo现身GeekBench，搭载骁龙7s Gen 3芯片与6GB内存。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家引述NotebookCheck及GeekBench跑分数据，参数具体，来源可查，但非官方发布。"
+    },
+    {
+      "title": "三星显示 × iQOO 双方史上最高规格技术合作官宣，阶段性成果将首次在 iQOO 16 上搭载",
+      "link": "https://www.ithome.com/1/002/007.htm",
+      "pubDate": "Mon, 14 Sep 2026 03:49:39 GMT",
+      "contentSnippet": "IT之家 9 月 14 日消息，在今天的三星显示 × iQOO 屏幕技术沟通会上，三星显示 × iQOO 双方史上最高规格技术合作正式官宣。\n\n双方首次官宣「三星显示 × iQOO 未来显示探索计划」，这项计划阶段性成果将首次在 iQOO 16 上搭载。iQOO 官方表示，未来双方将进一步加强合作，致力于为用户打造全球最佳屏幕视效体验。\n据IT之家今日早些时候报道，iQOO 16 新机官宣全球首发 2K 165Hz 屏幕。这块 2K 165Hz 三星珠峰屏安卓首发 M16 发光材料，支持 1100nits 手动峰值亮度、2800nits 全局峰值亮度以及 10000nits 局部峰值亮度。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "三星显示与iQOO官宣史上最高规格合作，成果将首发于iQOO 16的2K 165Hz屏幕。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，含具体屏幕参数与官方合作信息，但缺少原始出处链接。"
+    },
+    {
+      "title": "苹果优质售后新案例：免费为 6 年旧款 MacBook Air 升级 M5 新款",
+      "link": "https://www.ithome.com/1/002/005.htm",
+      "pubDate": "Mon, 14 Sep 2026 03:42:12 GMT",
+      "contentSnippet": "IT之家 9 月 14 日消息，科技媒体 Wccftech 今天（9 月 14 日）发布博文，报道称苹果的售后服务有口皆碑，最新案例是为 6 年老笔记本电脑免费升级到 M5 MacBook Air。\n网友 u/simalary44 昨日（9 月 13 日）在 Reddit 社区发帖，称其主力使用 2023 款 M3 MacBook Pro，并闲置了一台 2020 款 13 英寸 Retina MacBook Air。\n在送修 MacBook Pro 屏幕后，临时使用 MacBook Air 备用机，于是致电苹果客服，询问是否可以为 MacBook Air 提供更换电池和屏幕维修服务。\n根据苹果",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "苹果被曝免费为6年旧款MacBook Air升级M5新款，来源为Reddit网友帖。",
+      "credibilityScore": 35,
+      "credibilityLevel": "low",
+      "credibilityReason": "仅凭Reddit单方帖，无苹果官方或权威媒体证实，免费换新机违背常理，标题党倾向明显。"
+    },
+    {
+      "title": "OPPO Enco X4 耳机、Watch S2 手表 9 月 22 日发布",
+      "link": "https://www.ithome.com/1/002/004.htm",
+      "pubDate": "Mon, 14 Sep 2026 03:38:52 GMT",
+      "contentSnippet": "IT之家 9 月 14 日消息，OPPO 官方今天宣布 Enco X4 耳机、Watch S2 手表将在 9 月 22 日发布，预计将与 Find X10 系列手机同场亮相，两款新品已经开启预约。\n从官方公布的预热图片来看，OPPO Enco X4 是一款入耳式真无线耳机，新品主打旗舰定位，可选柔白、粉金、钛灰三种配色。\n\n而 OPPO Watch S2 则是一款圆形表盘的智能手表。作为参考，前代 OPPO Watch S 发布于 2025 年 10 月 16 日，售价 1299 元起。OPPO Watch S 厚 8.9mm，重 35g，配备一体精钢表壳，屏幕亮度达到 3000 尼特；支持",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "OPPO宣布Enco X4耳机和Watch S2手表将于9月22日发布，预计与Find X10同场亮相。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，信息具体含配色、前代参数等，但缺少官方原始链接。"
+    },
+    {
+      "title": "酷凛霜格 410 V2 / 620 V2 风冷上市：闭环电机风扇，79 / 179 元",
+      "link": "https://www.ithome.com/1/002/003.htm",
+      "pubDate": "Mon, 14 Sep 2026 03:36:37 GMT",
+      "contentSnippet": "IT之家 9 月 14 日消息，ID-COOLING（酷凛）今日发售了 2 款处理器风冷散热器，分别是单塔单风扇 4 热管直触的霜格 410 V2、双塔双风扇 6 热管铜底的霜格 620 V2，两者价格分别为 79 元和 179 元。\n\n京东酷凛 霜格 410 V2 散热器 79 元直达链接\n霜格 410 V2 / 620 V2 均搭载 2200RPM 闭环电机风扇，标配五步快装双平台通用支架 / 螺丝，拥有简约顶盖，采用内存模组避让设计，享受 3 年质保。\n\n京东酷凛 霜格 620 V2 散热器 179 元直达链接\n霜格 410 V2 高度 151mm、霜格 620 V2 高度则是 157m",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "酷凛发布霜格410 V2/620 V2风冷散热器，售价79/179元，搭载闭环电机风扇。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，产品参数、价格、质保等信息具体，但缺少原始出处引用。"
+    },
+    {
+      "title": "国产捉宠 RPG《伊莫》开启预载，PC 端 9 月 16 日开启公测",
+      "link": "https://www.ithome.com/1/001/995.htm",
+      "pubDate": "Mon, 14 Sep 2026 03:22:02 GMT",
+      "contentSnippet": "IT之家 9 月 14 日消息，国产多人在线大世界捉宠 RPG《伊莫》（Aniimo）今日开启预下载，PC 端将在 9 月 16 日正式开启公测，移动端则是 9 月 23 日。\n\nIT之家了解到，《伊莫》由杭州爪印工作室（Pawprint Studio）研发、FunPlus 旗下上海趣乐糖网络科技有限公司发行。本作是一款免费游玩的多人线上游戏，支持 PlayStation、Xbox 等主机平台以及 PC（Steam、Epic 等）与移动端，主打跨平台数据互通。\n游戏设定在广袤的艾德尔大陆，玩家将扮演“连结者”邂逅各种名为“伊莫”的神奇生物。本作主打独创的“联结”机制，玩家可与伊莫合体，继承其飞",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国产捉宠RPG《伊莫》开启预载，PC端9月16日公测，移动端9月23日上线。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息含开发商、发行商、平台及具体日期，细节具体，但缺原始出处链接。"
+    },
+    {
+      "title": "【Fintech 周报】信用卡日均“销卡”超10万张；OpenAI推出金融版ChatGPT",
+      "link": "https://www.tmtpost.com/8138755.html",
+      "pubDate": "Mon, 14 Sep 2026 11:21:44 +0800",
+      "contentSnippet": "保险法时隔11年再迎大修；金融监管总局丛林：大力整治“价格战”；5家支付机构同日被罚3661万元；中互金发布7条自律举措规范互联网贷款营销行为；9家银行AIC上半年净利润同比增长约1.4倍；四大国有行今年“秋招”缩招7000余人；年内多家银行拟停办个人贵金属代理业务；信用卡日均“销卡”超10万张；头部寿险公司营销员止跌，7年减少700万人；招商银行行长助理辞任；广州农商行收缩异地布局；6家上市助贷公司上半年“放款”少1789亿。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体金融周报汇总信用卡销卡、OpenAI金融版ChatGPT及多项监管动态",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "钛媒体为知名科技媒体，周报信息具体含多项数据，但为聚合摘要缺原始出处"
+    },
+    {
+      "title": "具身智能有没有泡沫，投资人也有分歧｜外滩大会",
+      "link": "https://www.tmtpost.com/8138902.html",
+      "pubDate": "Mon, 14 Sep 2026 11:21:22 +0800",
+      "contentSnippet": "“今天具身智能谈落地为时尚早。”",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体外滩大会报道称投资人对具身智能是否存在泡沫存在分歧。",
+      "credibilityScore": 78,
+      "credibilityLevel": "high",
+      "credibilityReason": "钛媒体为知名科技媒体，外滩大会为真实行业会议，但摘要过简，缺少具体数据与出处。"
+    },
+    {
+      "title": "华虹宏力完成 82.68 亿元收购案，华力微成为其全资子公司",
+      "link": "https://www.ithome.com/1/001/994.htm",
+      "pubDate": "Mon, 14 Sep 2026 03:18:25 GMT",
+      "contentSnippet": "IT之家 9 月 14 日消息，华虹宏力 (HHGrace) 上周发布公告，宣布已完成增发股份以收购华力微 97.4988% 股权的手续。这笔价值约 82.68 亿元的交易正式完成，华力微成为华虹宏力全资子公司。\n华虹宏力同时发行股份募集 75.56 亿元配套资金，其中 43.6% 用于华力微技术升级改造、7.43% 用于华力微特色工艺研发及产业化，其余 48.97% 则用于补充流动资金、偿还债务、支付中介机构费用。\n\n华虹宏力自身与华力微均拥有 65/55nm、40nm 制程代工工艺。交易后双方产能合并，优势工艺平台深度互补，打造覆盖范围更广泛的晶圆代工及配套服务。双方有望在技术层面形成协同",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "华虹宏力完成82.68亿元收购华力微，后者成为其全资子公司。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，交易金额、股权比例及资金用途等数据具体，信息源自公司公告。"
     }
   ]
 }
