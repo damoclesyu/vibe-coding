@@ -1,31 +1,31 @@
 {
-  "generatedAt": "2026-09-14T04:09:02.903Z",
+  "generatedAt": "2026-09-15T04:08:18.630Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "1584名选手大比拼！全国青少年智能无人系统应用大赛总决赛在沪启幕",
-      "link": "https://m.thepaper.cn/detail/34058189",
-      "pubDate": "Mon, 14 Sep 2026 03:58:19 GMT",
-      "contentSnippet": "9月12日，第二届全国青少年智能无人系统应用大赛总决赛（IUSAC2026）在上海东方绿舟开幕，本届赛事规模创新高，汇集了全国157所院校的339支队伍、1584名选手同台竞技。\n大赛旨在落实全民国防教育，青少年作为国家的未来，是国防教育的核心培育群体。作为两次大赛的主办地，上海不仅有着百年红色历史积淀，更在国防尖端技术领域取得了巨大成就。开幕式上，中国工程院院士刘大响和付梦印为青少年送上寄语。\n\n第二届全国青少年智能无人系统应用大赛总决赛开幕式在东方绿舟标志性的仿真航母飞行甲板上举行，主办方供图\n\n\n这场面向全国青少年的国防教育品牌赛事，以“‘智’汇青春、‘志’铸国防”为主题，聚焦无人机、无",
-      "sourceName": "澎湃新闻",
+      "title": "商务部等8部门发文促智能家居消费",
+      "link": "https://www.chinanews.com.cn/sh/2026/09-15/10696657.shtml",
+      "pubDate": "Tue, 15 Sep 2026 11:08:06 +0800",
+      "contentSnippet": "商务部等8部门关于印发《促进智能家居消费行动方案》的通知。为贯彻党中央、国务院决策部署，落实《中华人民共和国国民经济和社会发展第十五个五年规划纲要》关于丰富智能家居场景、支持老旧房屋适老化改造和智能化升级等工作要求，适应不同群体消费需求扩大优质供给，进一步促进智能家居消费，制定本行动方案。",
+      "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
-        "澎湃新闻"
+        "中国新闻网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "第二届全国青少年智能无人系统应用大赛总决赛在上海开幕，1584名选手参赛。",
-      "credibilityScore": 82,
+      "aiSummary": "商务部等8部门印发促进智能家居消费行动方案，落实十五五规划要求。",
+      "credibilityScore": 92,
       "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为知名媒体，信息具体含时间地点数据，有院士引述，但非一线通讯社。"
+      "credibilityReason": "来源为中国新闻网，属官方权威媒体；内容为政府正式文件，可交叉验证。"
     },
     {
-      "title": "港台青少年棋手盼未来赴内地  开展更多面对面交流",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-14/10696024.shtml",
-      "pubDate": "Mon, 14 Sep 2026 11:40:29 +0800",
-      "contentSnippet": "中新网上海9月14日电 (记者 缪璐)第六届上海杯象棋大师公开赛13日在上海市嘉定区南翔镇落幕。闭幕式上，来自台北的谢定恒不时拿出手机，为上台领奖的大陆棋手拍照。那些棋手，他曾在台湾通过直播反复研究其棋谱，此刻他们就这样出现在他眼前。",
+      "title": "金融总量合理增长 有力支撑经济向新向优向好发展",
+      "link": "https://www.chinanews.com.cn/cj/2026/09-15/10696655.shtml",
+      "pubDate": "Tue, 15 Sep 2026 11:05:11 +0800",
+      "contentSnippet": "央视网消息(新闻联播)：中国人民银行9月14日公布的数据显示，8月末，广义货币(M2)余额356.81万亿元，同比增长7.5%；社会融资规模存量为464.8万亿元。其中，对实体经济发放的人民币贷款余额278.63万亿元，同比增长5%。我国金融总量合理增长，社会融资条件保持宽松，为经济稳定增长和高质量发展营造了适宜的货币金融环境。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -33,16 +33,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "第六届上海杯象棋大师公开赛落幕，港台青少年棋手希望未来赴内地交流。",
-      "credibilityScore": 82,
+      "aiSummary": "央行数据显示8月末M2余额356.81万亿元，同比增长7.5%，金融总量合理增长。",
+      "credibilityScore": 92,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，属权威媒体；报道有具体时间地点人物，内容客观，但缺乏多源交叉验证。"
+      "credibilityReason": "来源为央视新闻联播转引央行官方数据，具体可查证，用词客观中性。"
     },
     {
-      "title": "（经济观察）着眼增长与韧性 金砖经贸合作持续深化",
-      "link": "https://www.chinanews.com.cn/cj/2026/09-14/10696034.shtml",
-      "pubDate": "Mon, 14 Sep 2026 11:37:49 +0800",
-      "contentSnippet": "中新社北京9月14日电 题：着眼增长与韧性  金砖经贸合作持续深化",
+      "title": "推动健康中国建设取得决定性进展（权威发布·开局起步“十五五”）",
+      "link": "https://www.chinanews.com.cn/jk/2026/09-15/10696653.shtml",
+      "pubDate": "Tue, 15 Sep 2026 11:02:11 +0800",
+      "contentSnippet": "9月14日，国务院新闻办举行“开局起步‘十五五’”系列主题新闻发布会，介绍推动健康中国建设取得决定性进展有关情况。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -50,33 +50,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中新社报道金砖国家经贸合作持续深化，着眼增长与韧性。",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium-high",
-      "credibilityReason": "来源为中新社，属权威媒体，但正文摘要过短，缺乏具体细节和直接引述，无法充分交叉验证。"
-    },
-    {
-      "title": "粤港澳球员齐聚东莞“以球会友”",
-      "link": "https://www.chinanews.com.cn/ty/2026/09-14/10696018.shtml",
-      "pubDate": "Mon, 14 Sep 2026 11:36:26 +0800",
-      "contentSnippet": "中新网东莞9月14日电 (记者 张璐)2026年广东省城市篮球联赛(简称“粤BA”)全明星赛暨粤港澳篮球邀请赛13日在东莞收官。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "粤港澳球员齐聚东莞参加粤BA全明星赛暨篮球邀请赛。",
+      "aiSummary": "国务院新闻办举行发布会，介绍推动健康中国建设取得决定性进展有关情况。",
       "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，属权威媒体，信息含具体时间地点，内容客观可查证。"
+      "credibilityReason": "来源为中新网，属官方权威媒体；内容涉及国务院新闻办发布会，信息具体可查证，用词客观中性。"
     },
     {
-      "title": "海外侨胞关注金砖峰会：汇聚全球南方合力  开启新的“金色十年”",
-      "link": "https://www.chinanews.com.cn/hr/2026/09-14/10696004.shtml",
-      "pubDate": "Mon, 14 Sep 2026 11:35:52 +0800",
-      "contentSnippet": "中新社北京9月14日电 (记者 吴侃  门睿)9月12日至13日，中国国家主席习近平在印度新德里出席金砖国家领导人第十八次会晤并发表重要讲话。多位海外侨胞接受中新社记者连线采访时表示，站在第三个“金色十年”的起点，期待“大金砖合作”开创新局，进一步赋能全球南方发展。",
+      "title": "2026山东民营企业百强系列榜单发布",
+      "link": "https://www.chinanews.com.cn/cj/2026/09-15/10696643.shtml",
+      "pubDate": "Tue, 15 Sep 2026 10:53:18 +0800",
+      "contentSnippet": "中新网济宁9月15日电 (吕妍 赵加山)2026山东民营企业百强系列榜单发布会暨全省优强民企助力济宁高质量发展大会9月14日在济宁举行。山东魏桥创业集团有限公司等200家企业入围山东民营企业200强，齐鲁制药集团有限公司等100家企业入围山东民营企业创新100强，万达国贸集团有限公司等100家企业入围山东民营企业服务业100强，歌尔股份有限公司等100家企业入围山东民营企业吸纳就业100强。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -84,16 +67,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "海外侨胞关注金砖峰会，期待大金砖合作赋能全球南方发展。",
-      "credibilityScore": 82,
+      "aiSummary": "2026山东民营企业百强系列榜单在济宁发布，魏桥等企业入围。",
+      "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "中新社为权威通讯社，有署名记者和具体时间地点，但内容以侨胞表态为主，缺乏独立核实。"
+      "credibilityReason": "中新网为权威媒体，有具体时间地点及企业名单，信息可查证，用词客观。"
     },
     {
-      "title": "从清凉产品热销欧洲，看懂中国制造出海的供应链底气｜国是访问",
-      "link": "https://www.chinanews.com.cn/gsztc/2026/09-14/10696014.shtml",
-      "pubDate": "Mon, 14 Sep 2026 11:24:58 +0800",
-      "contentSnippet": "今年夏季，欧洲多地遭遇持续极端高温天气，消暑降温需求集中爆发，带动空调、风扇、便携制冷设备、消暑家居等一众中国商品在欧洲市场走俏、订单激增。",
+      "title": "中国向联合国捐赠嫦娥六号月壤样品",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-15/10696644.shtml",
+      "pubDate": "Tue, 15 Sep 2026 10:52:46 +0800",
+      "contentSnippet": "中新社北京9月15日电 据中国国家航天局15日消息，当地时间9月14日，嫦娥六号月壤样品赠送仪式在维也纳联合国总部举行。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -101,16 +84,67 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "欧洲高温带动中国清凉产品热销，中新网分析中国制造供应链优势。",
+      "aiSummary": "中国国家航天局向联合国捐赠嫦娥六号月壤样品，仪式在维也纳举行。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新社，属权威媒体；信息具体，有明确时间地点和官方机构，但缺乏直接引述。"
+    },
+    {
+      "title": "习近平给福建省“漳州110”全体队员的回信",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-15/10696647.shtml",
+      "pubDate": "Tue, 15 Sep 2026 10:52:22 +0800",
+      "contentSnippet": "新华社北京9月15日电",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "新华社报道习近平给福建省'漳州110'全体队员回信。",
+      "credibilityScore": 95,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为新华社（经中新网转载），属最高权威官方通讯社，内容为领导人公开回信，可交叉验证。"
+    },
+    {
+      "title": "中国人保原党委委员、副总裁于泽被提起公诉",
+      "link": "https://m.thepaper.cn/detail/34072628",
+      "pubDate": "Tue, 15 Sep 2026 02:01:22 GMT",
+      "contentSnippet": "记者今天（15日）从最高人民检察院获悉，中国人民保险集团股份有限公司原党委委员、副总裁于泽涉嫌受贿一案，由国家监察委员会调查终结，移送检察机关审查起诉。经最高人民检察院交办，北京市人民检察院依法以涉嫌受贿罪对于泽作出逮捕决定。近日，北京市人民检察院第二分院已向北京市第二中级人民法院提起公诉。\n检察机关在审查起诉阶段，依法告知了被告人于泽享有的诉讼权利，并讯问了被告人，听取了辩护人的意见。检察机关起诉指控：被告人于泽利用担任太平保险有限公司天津分公司党委书记、总经理，太平保险有限公司市场总监，太平财产保险有限公司助理总经理，党委委员、副总经理，党委副书记、副总经理，党委书记、总经理，中国人民保险",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国人保原副总裁于泽涉嫌受贿被北京检察机关提起公诉。",
+      "credibilityScore": 92,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源澎湃新闻，引述最高检官方信息，事实具体可查证。"
+    },
+    {
+      "title": "视频画报｜习近平主席引领“大金砖合作”开启新篇章",
+      "link": "https://h.xinhuaxmt.com/vh512/share/13284627?newstype=1001&homeshow=1",
+      "pubDate": "Tue, 15 Sep 2026 00:42:10 GMT",
+      "contentSnippet": "视频画报｜习近平主席引领“大金砖合作”开启新篇章",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "澎湃新闻发布视频画报，称习近平主席引领大金砖合作开启新篇章。",
       "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "中国新闻网为权威媒体，内容具体但属评论分析类，缺乏直接引述与数据来源。"
+      "credibilityReason": "来源为澎湃新闻较权威，但内容为宣传性视频画报，缺乏具体事实细节和独立引述。"
     },
     {
-      "title": "石榴花开，籽籽同心：三项网络主题活动在内蒙古正式启动",
-      "link": "https://m.thepaper.cn/detail/34063858",
-      "pubDate": "Mon, 14 Sep 2026 03:22:04 GMT",
-      "contentSnippet": "2026年9月14日上午，由中央网信办网络传播局指导，内蒙古自治区党委网信办主办，央视网、澎湃新闻网等承办的“石榴花开·籽籽同心”、“‘新’中有你”、“何以中国”内蒙古篇——“黄河你好”等三项网络主题活动在内蒙古自治区首府呼和浩特正式启动。\n\n9月14日上午，“石榴花开·籽籽同心”等三项网络主题活动正式启动。本文图片均由 澎湃新闻记者 郑问 摄\n\n\n2023年6月，习近平总书记在内蒙古考察时指出，铸牢中华民族共同体意识是新时代党的民族工作的主线，也是民族地区各项工作的主线。此次启动的三项网络主题活动，正是对这一重大论断的生动实践。\n中央网信办网络传播局一级巡视员孙爱萍，内蒙古自治区党委宣传部副",
+      "title": "一票难求的《商鞅》藏着一道裂缝，这是它最深的当代价值",
+      "link": "https://m.thepaper.cn/detail/34070644",
+      "pubDate": "Tue, 15 Sep 2026 00:12:50 GMT",
+      "contentSnippet": "看完话剧《商鞅》，你不想为商鞅鼓掌，但又不能不为他震撼。舞台上其实站着两个商鞅。一个被导演陈薪伊不断托举，一个被编剧姚远不断审问。编剧塑造的那个带着人格阴暗面的商鞅和导演所处理的那个有着伟大生命力的商鞅，在这台戏里同时成立。\n陈薪伊说“生命的力量不可战胜”，姚远说“中国千百年来一直凝固着的一块文化”。这两句话之间的裂缝，就是《商鞅》最深的当代价值。它不给你答案，它给你张力。商鞅被车裂了，但《商鞅》活着。\n1996年岁末，朱镕基总理在北京看话剧《商鞅》，“为剧情所动，凄然泪下”。一位国家领导人为两千年前被车裂的改革家落泪，这一幕本身就足以说明《商鞅》从来不止是一出“历史剧”。\n三十年过去了，上海",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -118,50 +152,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "三项网络主题活动在内蒙古呼和浩特启动，旨在铸牢中华民族共同体意识。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为澎湃新闻，属较权威媒体；信息具体，有活动时间、地点、主办方及引述，但缺乏多源交叉验证。"
-    },
-    {
-      "title": "时政新闻眼“大金砖”如何实现大发展？习近平提出这些倡议",
-      "link": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=18402752095903302392&toc_style_id=feeds_default&track_id=6FFF3E3F-ED2C-4A71-879A-837DEF1B3AB5_811012857034&share_to=copy_url",
-      "pubDate": "Mon, 14 Sep 2026 01:11:10 GMT",
-      "contentSnippet": "时政新闻眼“大金砖”如何实现大发展？习近平提出这些倡议",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "澎湃新闻时政报道，习近平就'大金砖'发展提出倡议。",
+      "aiSummary": "澎湃新闻评话剧《商鞅》中导演与编剧视角的张力构成其当代价值。",
       "credibilityScore": 78,
       "credibilityLevel": "medium",
-      "credibilityReason": "澎湃新闻为较权威媒体，但正文摘要缺失，无法核实具体内容与引述。"
+      "credibilityReason": "来源为澎湃新闻较权威，内容具体有引述，但属文艺评论主观性强，事实可查证性有限。"
     },
     {
-      "title": "2026年是中国商业航天工业化爆发期元年，运载能力成万亿太空经济入场券",
-      "link": "https://m.thepaper.cn/detail/34065303",
-      "pubDate": "Mon, 14 Sep 2026 03:54:44 GMT",
-      "contentSnippet": "9月13日，2026浦江创新论坛商业航天专题论坛在上海举办。上海垣信卫星科技有限公司系统总体部总经理尚琳表示，当前中国商业航天正处于组网节奏与运力缺口的窗口期，运载能力仍是商业化发展的主要短板，谁能率先跑通可复用运载、大规模组网、一体化运营的闭环，谁就能在万亿级太空经济中占据先机。\n全球航天发射次数显著增加，2026年上半年全球共完成154次航天发射，累计将2330颗卫星送入预定轨道。其中中国航天完成44次发射，较2025年同期增长25.7%。\n商业航天已成为世界航天产业主要构成，上半年中国完成30次商业发射，占全部发射任务的68.2%。同期入轨卫星中，商业卫星达到206颗，占全部入轨卫星约9",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "2026浦江创新论坛商业航天论坛上，专家称运载能力是中国商业航天主要短板。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为知名媒体，有具体论坛、人物引述及发射数据，但标题含预测性表述。"
-    },
-    {
-      "title": "中新健康｜专家：“主动健康”首先要确立正确健康知识",
-      "link": "https://www.chinanews.com.cn/jk/2026/09-14/10696002.shtml",
-      "pubDate": "Mon, 14 Sep 2026 11:53:39 +0800",
-      "contentSnippet": "中新网北京9月14日电(记者 赵方园)“主动健康，首先要确定自己的健康知识是正确的。”近日，在“主动健康·从心开始，2026长寿时代心脏健康管理研讨沙龙”上，首都医科大学附属北京安贞医院老年心血管病中心主任医师申华指出，临床中经常遇到患者存在诸多健康认识误区，当前知识量巨大，人工智能工具普及后，很多人会利用AI，但其中涉及的知识本身就存在一些问题。",
+      "title": "国家统计局：智能绿色商品消费日益成为消费市场新亮点",
+      "link": "https://www.chinanews.com.cn/cj/2026/09-15/10696679.shtml",
+      "pubDate": "Tue, 15 Sep 2026 12:01:27 +0800",
+      "contentSnippet": "中新网9月15日电 国新办9月15日就2026年8月份国民经济运行情况举行新闻发布会。会上，国家统计局国民经济综合统计司司长付凌晖介绍，今年以来，各方面积极落实扩大消费各项政策措施，着力扩大优质供给，推进消费品以旧换新，挖掘服务消费潜力，培育消费新增长点，消费市场运行总体平稳。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -169,32 +169,49 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中新网报道专家在健康研讨会上指出主动健康需先确立正确健康知识。",
-      "credibilityScore": 82,
+      "aiSummary": "国家统计局称智能绿色商品消费成为消费市场新亮点，消费市场总体平稳。",
+      "credibilityScore": 92,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网权威媒体，有具体时间地点人物及直接引述，内容客观中性。"
+      "credibilityReason": "来源为中新网，引述国家统计局司长在国新办发布会上的官方表态，信息权威可查证。"
     },
     {
-      "title": "全力在亚运会上完成自我突破！中国田径队跳跃部集训氛围高涨",
-      "link": "https://m.thepaper.cn/detail/34065467",
-      "pubDate": "Mon, 14 Sep 2026 03:51:01 GMT",
-      "contentSnippet": "近日，中国田径队跳跃部在上海备战亚运。从7月份集结至今，跳跃部集训氛围高涨。多位队员表示，希望能够借助此次集训，全力在亚运会上完成自我突破。",
-      "sourceName": "澎湃新闻",
+      "title": "国家统计局：房地产交易总量有所改善、趋于稳定",
+      "link": "https://www.chinanews.com.cn/cj/2026/09-15/10696676.shtml",
+      "pubDate": "Tue, 15 Sep 2026 11:43:07 +0800",
+      "contentSnippet": "中新网9月15日电 9月15日，国新办就2026年8月份国民经济运行情况举行新闻发布会。在会上，国家统计局国民经济综合统计司司长付凌晖表示，今年以来，各地区各部门坚持因城施策，调整优化房地产政策，持续控增量、去库存、优供给，多渠道盘活存量商品房、化解库存，扎实推进城市更新，积极推动住房制度调整和优化，加快构建房地产发展新模式，效果正在逐步显现。主要表现在以下几个方面：",
+      "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
-        "澎湃新闻"
+        "中国新闻网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国田径队跳跃部在上海集训备战亚运，队员表示力争突破。",
-      "credibilityScore": 78,
+      "aiSummary": "国家统计局称房地产交易总量改善趋稳，政策效果逐步显现。",
+      "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为正规媒体，内容具体但缺直接引述，属常规体育报道。"
+      "credibilityReason": "来源为中新网，引述国家统计局司长发言，属官方权威信息，但内容为政策表述，缺乏具体数据。"
     },
     {
-      "title": "歌手席琳·迪翁在法国巴黎举行复出演唱会",
-      "link": "http://www.chinanews.com.cn/tp/hd2011/2026/09-14/1204220.shtml",
-      "pubDate": "Mon, 14 Sep 2026 11:50:14 +0800",
+      "title": "A股午评：超3900只个股飘绿，深指收涨，沪指、创业板指收跌",
+      "link": "https://www.chinanews.com.cn/cj/2026/09-15/10696678.shtml",
+      "pubDate": "Tue, 15 Sep 2026 11:42:37 +0800",
+      "contentSnippet": "A股午评：超3900只个股飘绿，深指收涨，沪指、创业板指收跌；存储芯片概念股走强，发电设备、半导体上涨；餐饮旅游、农业、保险下跌",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "A股午盘超3900只个股下跌，深指涨、沪指与创业板指跌，板块分化明显。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网，权威媒体；数据具体可查证，用词客观，但缺乏引述与多源验证。"
+    },
+    {
+      "title": "青岛：碱蓬草染红河海滩涂 红海滩迎来最佳观赏季",
+      "link": "http://www.chinanews.com.cn/tp/hd2011/2026/09-15/1204321.shtml",
+      "pubDate": "Tue, 15 Sep 2026 11:33:49 +0800",
       "contentSnippet": "",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
@@ -203,61 +220,44 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国新闻网报道称歌手席琳·迪翁于2026年9月在法国巴黎举行复出演唱会。",
-      "credibilityScore": 55,
+      "aiSummary": "中国新闻网报道青岛碱蓬草染红河海滩涂，红海滩迎来最佳观赏季。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，属较权威媒体，内容为自然景观报道，事实可查证，但正文摘要缺失，细节有限。"
+    },
+    {
+      "title": "化石破碎线索稀缺 揭秘科研人员如何复原消失的奥氏马",
+      "link": "https://www.chinanews.com.cn/sh/2026/09-15/10696672.shtml",
+      "pubDate": "Tue, 15 Sep 2026 11:33:47 +0800",
+      "contentSnippet": "中新网长春9月15日电 (记者 郭佳)近日，吉林大学生物考古实验室联合美国进化科技有限责任公司(Evolutio　LLC)，全球首次完成灭绝古马奥氏马的完整形态复原。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "吉林大学联合美国公司全球首次完成灭绝古马奥氏马完整形态复原。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "中新网为权威媒体，信息具体含机构名称与成果，但单一来源且细节有限。"
+    },
+    {
+      "title": "从亏本养殖到年入百万 看戈壁牧民夫妇如何凭一杯驼奶逆袭致富",
+      "link": "https://www.chinanews.com.cn/sh/2026/09-15/10696671.shtml",
+      "pubDate": "Tue, 15 Sep 2026 11:33:13 +0800",
+      "contentSnippet": "中新网阿拉善9月15日电 题：从亏本养殖到年入百万 看戈壁牧民夫妇如何凭一杯驼奶逆袭致富",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中新网报道阿拉善戈壁牧民夫妇靠驼奶从亏本养殖逆袭年入百万。",
+      "credibilityScore": 78,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名媒体但非一线，正文摘要缺失，无具体时间地点引述，无法交叉验证。"
-    },
-    {
-      "title": "赵勇已任上海市文旅局党组书记",
-      "link": "https://m.thepaper.cn/detail/34065385",
-      "pubDate": "Mon, 14 Sep 2026 03:48:00 GMT",
-      "contentSnippet": "据“今日闵行”微信公众号消息，9月13日下午，“声动闵行・我是歌王”2026市民歌手争霸赛总决赛举行，上海市文化和旅游局党组书记赵勇出席活动。\n这一消息显示，赵勇已任上海市文化和旅游局党组书记。\n\n赵勇\n\n\n公开资料显示，赵勇，男，汉族，1974年5月生，大学，法律硕士，中共党员。赵勇历任松江区委常委、宣传部部长，松江区委常委、副区长，黄浦区委常委、副区长，黄浦区委常委、副区长（正局长级），市政府驻西宁办主任，果洛州委副书记、副州长，普陀区委副书记（正局长级）。\n2026年8月，上海发布市管干部任职前公示，普陀区委副书记（正局长级）赵勇拟任市级机关正职。",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "澎湃新闻援引官方公众号消息，报道赵勇已任上海市文旅局党组书记。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为较权威媒体，引述官方公众号，含具体时间、人物履历及此前公示，信息可查证。"
-    },
-    {
-      "title": "因道路、设施养护需要，9月16日上海浦东世博地区部分路段临时交通管制",
-      "link": "https://m.thepaper.cn/detail/34065287",
-      "pubDate": "Mon, 14 Sep 2026 03:47:12 GMT",
-      "contentSnippet": "2026年9月14日，澎湃新闻记者从上海市公安局交管总队获悉，因道路、设施养护需要，为保障交通安全，根据《中华人民共和国道路交通安全法》等有关规定，决定对浦东世博地区部分道路采取临时交通管制措施。具体通告如下：\n一、2026年9月16日13:00-24:00，世博大道（周家渡路-高科西路）禁止一切行人和车辆（包括机动车与非机动车，下同）通行。\n2026年9月16日13:00-24:00，世博大道（长清北路-周家渡路）除南侧人行道开放行人通行外，禁止行人和车辆通行。\n二、2026年9月16日15:00-24:00，济坤路（世博大道-雪野路）禁止一切车辆通行。\n三、2026年9月16日19:00-",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "上海浦东世博地区部分路段9月16日因养护实施临时交通管制。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为正规媒体，引述公安交管部门通告，时间地点具体，可查证。"
-    },
-    {
-      "title": "上海职工医保个人账户可支付非免疫规划疫苗费用，9月15日起实施",
-      "link": "https://m.thepaper.cn/detail/34065490",
-      "pubDate": "Mon, 14 Sep 2026 03:47:07 GMT",
-      "contentSnippet": "据“上海医保”微信公众号2026年9月14日消息，为进一步增强本市参保人员自我健康管理意识、提升健康水平，结合本市疫苗接种工作实际和市民健康需求，上海将拓展职工医保个人账户历年结余资金使用范围。自2026年9月15日起，本市职工医保个人账户历年结余资金，可用于支付《上海市非免疫规划疫苗集团采购中选产品目录》内的非免疫规划疫苗（含被动免疫类生物制剂）费用及注射服务费。\n哪些疫苗可以用医保个人账户历年结余支付？\n纳入《上海市非免疫规划疫苗集团采购中选产品目录》内的非免疫规划疫苗（含被动免疫类生物制剂），均可使用职工医保个人账户历年结余资金支付。\n疫苗品种与对应价格，可登录上海药品集团采购（GPO）",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "上海职工医保个人账户历年结余资金自9月15日起可支付非免疫规划疫苗费用。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为澎湃新闻，引述官方公众号，政策内容具体，时间明确，可查证。"
+      "credibilityReason": "来源为中新网较权威，但正文仅摘要，缺少具体细节和引述，无法交叉验证。"
     }
   ]
 }

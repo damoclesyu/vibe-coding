@@ -1,31 +1,65 @@
 {
-  "generatedAt": "2026-09-14T04:10:14.166Z",
+  "generatedAt": "2026-09-15T04:09:31.379Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "【钛晨报】事关智能网联新能源汽车产业发展，九部门最新部署；奥尔特曼：OpenAI不会在2026年上市；智谱完成50亿美元融资用于扩大算力供给等用途",
-      "link": "https://www.tmtpost.com/8138491.html",
-      "pubDate": "Mon, 14 Sep 2026 07:20:00 +0800",
-      "contentSnippet": "DeepSeek灰度测试语音对话；图灵量子发布大规模芯片级可扩展光量子计算机TuringQ Gen3；现代汽车将于2029年推出自研驾驶辅助系统；特斯拉Semi卡车将进军欧洲，满载续航最高550公里；英伟达据悉正就向Anthropic的IPO项目投资高达100亿美元进行谈判；国务院国资委：统筹用好国内国际两个市场，优化海外投资布局；李强签署国务院令，公布《市场监督管理所条例》；中国证监会发布《期货公司监督管理办法》及配套实施；三部门联合印发《数字乡村高质量发展行动计划（2026—2030年）》；纳斯达克100指数将提高SpaceX权重，数十亿美元基金料将买入；伊朗称霍尔木兹海峡或将开新通道；中",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "国家统计局：截至 6 月末我国已建成 70 余条算力大通道",
+      "link": "https://www.ithome.com/1/002/511.htm",
+      "pubDate": "Tue, 15 Sep 2026 03:45:19 GMT",
+      "contentSnippet": "IT之家 9 月 15 日消息，国务院新闻办公室今日上午召开新闻发布会，国家统计局相关负责人介绍 8 月份国民经济运行情况，并答记者问。\n据央视新闻报道，发布会上介绍，今年是“十五五”开局之年，包括“六张网”在内的一批重大工程项目陆续开工建设，跨区域交通干线、能源水利重大工程、新型基础设施、城市更新等项目有序推进，对高质量发展的支撑作用有望进一步凸显。\n前八个月，与“六张网”相关的互联网和相关服务业投资同比增长 42%，航空运输业、水上运输业投资分别增长 16.7% 和 14.7%，电力供应业投资增长 12.7%，数据显示，截至 6 月末，我国已经围绕算力枢纽建成 70 余条算力大通道。\nIT",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "钛媒体"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "九部门部署智能网联新能源汽车产业，OpenAI否认2026年上市，智谱完成50亿美元融资。",
+      "aiSummary": "国家统计局称截至6月末我国已建成70余条算力大通道",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家引央视新闻，基于国新办发布会官方数据，信息具体可信"
+    },
+    {
+      "title": "工信部、国家发改委：“十五五”规划提高先进制程能力，突破高端手机核心芯片、PC 高性能芯片，加强开源鸿蒙等国产操作系统搭载",
+      "link": "https://www.ithome.com/1/002/403.htm",
+      "pubDate": "Tue, 15 Sep 2026 01:33:36 GMT",
+      "contentSnippet": "IT之家 9 月 15 日消息，为推动电子信息制造业高质量发展，工业和信息化部、国家发展改革委今日宣布联合印发《电子信息制造业发展“十五五”规划》（以下简称《规划》）。\n《规划》锚定基本实现新型工业化目标，明确以推动高质量发展为主题，统筹高质量发展和高水平安全，抢抓人工智能发展机遇，加快电子信息制造业全产业链创新，按照“筑基、提质、育新、治理”思路，部署了筑牢产业基础能力、增强电子整机与系统竞争力、培育产业发展新增长点、增强产业可持续发展能力等共 17 项任务、9 个专栏，突出场景和需求牵引，通过集成攻关、国产替代、生态建设等举措，补短锻长强基，抢占未来发展优势。\n《规划》预计到 2030 年",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "工信部与发改委印发电子信息制造业“十五五”规划，部署提高先进制程、突破高端芯片及加强国产操作系统搭载等任务。",
+      "credibilityScore": 92,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，报道官方政策文件，信息具体，有明确发布机构和任务细节，可信度高。"
+    },
+    {
+      "title": "岚图梦想家 9 车型 9 月 22 日上市：首搭虎踞 P 底盘，预售价 42.99 万元起",
+      "link": "https://www.ithome.com/1/002/517.htm",
+      "pubDate": "Tue, 15 Sep 2026 04:05:28 GMT",
+      "contentSnippet": "IT之家 9 月 15 日消息，在今日举行的岚图汽车虎踞智能底盘技术交流日上，岚图汽车宣布推出中国首个自主正向研发的旗舰 MPV 专属智能底盘 —— 虎踞 P 方案。\n\n岚图汽车董事长卢放同时宣布，岚图梦想家 9 将于 9 月 22 日正式上市，首搭岚图虎踞 P 底盘。岚图梦想家 9 已于 9 月 5 日开启预售，共推出 5 款车型，预售价 42.99 万元至 52.99 万元。开启预售 48 小时小订突破 30000 台。\n\n外观方面，新车配备 HUAWEI XPIXEL 双百万像素智慧投影大灯，前脸为扶摇直上龙鳞叠压式竖幅镀铬格栅，搭配鲲鹏展翅分体式贯穿大灯，内置北斗七星星芒灯光点阵。车身",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "岚图梦想家9将于9月22日上市，首搭虎踞P底盘，预售价42.99万元起。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容含具体政策、企业动态与数据，但部分信息未提供原始出处。"
+      "credibilityReason": "IT之家为知名科技媒体，信息含具体技术、价格及预售数据，来源为官方技术交流日，但缺少独立验证。"
     },
     {
-      "title": "理想汽车 CEO 李想：纯电架构的天生优势，决定了尺寸军备竞赛一定会结束",
-      "link": "https://www.ithome.com/1/002/016.htm",
-      "pubDate": "Mon, 14 Sep 2026 04:08:12 GMT",
-      "contentSnippet": "IT之家 9 月 14 日消息，理想汽车 CEO 李想今日发文探讨了旗舰 SUV 越做越大的问题。他认为，这只是过渡阶段，纯电架构的天生优势，决定了尺寸军备竞赛一定会结束。\n\n油车时代，想要更大的空间，就只能把车做大。纯电时代不需要。电机很小，前悬可以做短，省出来的空间直接还给座舱。电池平铺在底盘，地板可以做平，不需要靠车高来换头部空间。同样的内部空间，纯电车需要的外壳可以比油车小一圈。想明白这件事，在尺寸上做文章就没那么大意义了。\n现阶段尺寸还在卷，是因为行业还在用油车时代的思维惯性做产品。这个惯性会消退。你做到 2 米宽，我做到 2 米 05 宽，体感上没什么差别，但用户每天停车的焦虑多了",
+      "title": "HORI 为 Nintendo Switch 2 带来复古格斗控制器，采用模块化摇杆",
+      "link": "https://www.ithome.com/1/002/516.htm",
+      "pubDate": "Tue, 15 Sep 2026 04:01:57 GMT",
+      "contentSnippet": "IT之家 9 月 15 日消息，日本外设制造商 HORI 昨日公布了 HORI Arcade Classic Pro for Nintendo Switch 2 复古街机控制器。这款设备同时支持 Nintendo Switch，并通过 XInput 兼容运行 Windows 操作系统的设备。\n\nHORI Arcade Classic Pro for Nintendo Switch 2 采用模块化设计，左右两侧区域支持八向 / 四向摇杆、轨迹球、旋钮、八向摇杆 & 旋钮 4 种输入设备，用户可根据自身喜好安装在面板上；此外，其具备连击和按键分配功能。\n\n这款产品将于 2027 年 2 月 28",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -33,33 +67,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "李想称纯电架构优势将终结SUV尺寸军备竞赛，现为油车思维惯性",
+      "aiSummary": "HORI发布Switch 2复古街机控制器，采用模块化摇杆设计，2027年2月上市。",
       "credibilityScore": 78,
-      "credibilityLevel": "high",
-      "credibilityReason": "知名科技媒体IT之家报道，引述CEO公开观点，技术逻辑合理，但属主观判断无数据支撑"
+      "credibilityLevel": "medium",
+      "credibilityReason": "IT之家为知名科技媒体，产品细节具体，但缺少官方来源链接且发布时间为未来日期存疑。"
     },
     {
-      "title": "哈利 · 波特版 realme 真我 16 Pro 手机预热：天玑 7300 Max 芯片，7000mAh 电池",
-      "link": "https://www.ithome.com/1/002/015.htm",
-      "pubDate": "Mon, 14 Sep 2026 04:06:17 GMT",
-      "contentSnippet": "IT之家 9 月 14 日消息，科技媒体 gsmarena 昨日（9 月 13 日）发布博文，报道称 realme 真我已公开哈利 · 波特（Harry Potter）版 16 Pro 手机主要规格，沿用标准版配置，主要升级外观和包装方面。\n\n哈利 · 波特版 realme 真我 16 Pro 手机搭载天玑 7300 Max，配备 144Hz AMOLED 屏幕，峰值亮度为 6500 尼特。续航部分采用 7000mAh 电池，支持 80W 有线充电。\n根据官方公示信息，这款手机支持旁路充电与反向有线充电功能。旁路充电可在外接电源时，绕开电池供电路径，反向有线充电则可通过线缆向其他设备供电。IT",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "realme预热哈利·波特版真我16 Pro，搭载天玑7300 Max与7000mAh电池。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家援引gsmarena，规格具体含芯片、屏幕、电池等数据，来源可靠。"
-    },
-    {
-      "title": "AI制药的基建大赛开始了",
-      "link": "https://www.tmtpost.com/8138778.html",
-      "pubDate": "Mon, 14 Sep 2026 12:01:59 +0800",
-      "contentSnippet": "下一个竞争高地",
+      "title": "阿莫迪口嗨AI减速，这边Opus 5.2疑似已灰测",
+      "link": "https://www.tmtpost.com/8140043.html",
+      "pubDate": "Tue, 15 Sep 2026 12:00:55 +0800",
+      "contentSnippet": "倡议归倡议，竞争不能停。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -67,152 +84,169 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体分析AI制药进入基础设施竞争新阶段，但正文信息有限。",
+      "aiSummary": "钛媒体报道阿莫迪呼吁AI减速，同时Opus 5.2疑似已开始灰测。",
+      "credibilityScore": 55,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体，但内容极简略，缺少技术细节与原始出处，标题偏口语化。"
+    },
+    {
+      "title": "被KPI化“强暴”后的公关，该怎么办？",
+      "link": "https://www.tmtpost.com/8140033.html",
+      "pubDate": "Tue, 15 Sep 2026 12:00:50 +0800",
+      "contentSnippet": "KPI从工具变成目的，我们就是数据饲养员。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体评论公关行业被KPI异化，沦为数据驱动的工具。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "知名科技媒体，观点评论类文章，但标题情绪化，缺乏具体数据和原始出处。"
+    },
+    {
+      "title": "惠普战 X Pro 锐龙版上市：锐龙 AI 9 HX Pro 470、64GB + 2TB 存储，29999 元",
+      "link": "https://www.ithome.com/1/002/515.htm",
+      "pubDate": "Tue, 15 Sep 2026 04:00:26 GMT",
+      "contentSnippet": "IT之家 9 月 15 日消息，惠普战 X Pro 14 2026 锐龙版现已在京东上架开售，采用高雅尊爵蓝配色，搭载 AMD 锐龙 AI 9 HX Pro 470 处理器，配备 64GB 内存、2TB 固态硬盘，定价 29999 元。\n京东惠普（HP）战 X Pro 14 英寸 2026 轻薄办公笔记本电脑全新 AMD 锐龙 AI 9HX Pro 470 64G 2T OLED 2.8K 意外险蓝色 29999 元直达链接\n2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取。\n数码补贴：点此领券\n\n手机 / 平板 / 3C 数码支持 8.5 折政",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "惠普战X Pro锐龙版上架，搭锐龙AI 9 HX Pro 470、64GB+2TB，售价29999元。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，产品配置、价格、平台信息具体，但缺少官方来源引用。"
+    },
+    {
+      "title": "新信号，中国地方“风投”正集体转向",
+      "link": "https://www.tmtpost.com/8140030.html",
+      "pubDate": "Tue, 15 Sep 2026 11:56:02 +0800",
+      "contentSnippet": "多地政府投资基金正转向精细化、制度化。四川率先发布89个细分赛道清单，并允许单个项目100%亏损，解决“敢不敢投”与“投什么”问题。全国多省跟进，政府基金从拼政策优惠进入拼制度供给新阶段。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国地方政府投资基金转向精细化制度化，四川率先发布89个细分赛道清单并允许单个项目100%亏损。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "钛媒体为知名科技媒体，内容具体有政策细节，但缺少原始文件引用，属分析性报道。"
+    },
+    {
+      "title": "国产GPU“四小龙”齐聚资本市场：6132亿市值之后，真正的考验才刚开始",
+      "link": "https://www.tmtpost.com/8140099.html",
+      "pubDate": "Tue, 15 Sep 2026 11:55:58 +0800",
+      "contentSnippet": "国产GPU、四小龙、燧原科技、沐曦股份 、摩尔线程 、壁仞科技、科创板、寒武纪。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体分析国产GPU四小龙齐聚资本市场，市值6132亿后迎真正考验",
+      "credibilityScore": 78,
+      "credibilityLevel": "high",
+      "credibilityReason": "钛媒体为知名科技媒体，选题具体有数据，但正文摘要仅列关键词，信息详实度不足"
+    },
+    {
+      "title": "瑞士医疗企业Scanvio Medical研发AI辅助妇科超声诊断软件，提高子宫内膜异位症诊断效率",
+      "link": "https://www.tmtpost.com/8140119.html",
+      "pubDate": "Tue, 15 Sep 2026 11:55:52 +0800",
+      "contentSnippet": "实时解析妇科超声影像。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "瑞士Scanvio Medical研发AI妇科超声软件，提升子宫内膜异位症诊断效率。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "钛媒体为知名科技媒体，但正文仅一句话，缺乏技术细节、数据与原始出处。"
+    },
+    {
+      "title": "智谱为什么还需要融资",
+      "link": "https://www.tmtpost.com/8140067.html",
+      "pubDate": "Tue, 15 Sep 2026 11:48:21 +0800",
+      "contentSnippet": "上市的尽头不是自给自足，而是更高杠杆、更大规模的融资能力。在这个意义上，智谱的335亿和宇树的暴跌，讲的是同一个故事。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体分析智谱AI融资逻辑，认为上市意在获取更高杠杆融资能力。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "钛媒体为知名科技媒体，但摘要偏观点评论，缺少具体数据与原始出处支撑。"
+    },
+    {
+      "title": "阿莫迪所说的“僵尸网络”到底有多恐怖？",
+      "link": "https://www.tmtpost.com/8140051.html",
+      "pubDate": "Tue, 15 Sep 2026 11:48:15 +0800",
+      "contentSnippet": "许愿容易，收场难。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体解析阿莫迪所称'僵尸网络'的威胁程度，但正文信息严重不足。",
+      "credibilityScore": 45,
+      "credibilityLevel": "low",
+      "credibilityReason": "来源为知名媒体，但正文仅一句评论，缺乏技术细节、数据与原始出处，难以核实。"
+    },
+    {
+      "title": "高瓴创投90后大牛，空降DeepSeek当CFO",
+      "link": "https://www.tmtpost.com/8140058.html",
+      "pubDate": "Tue, 15 Sep 2026 11:48:10 +0800",
+      "contentSnippet": "DeepSeek敲定新任CFO。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体报道DeepSeek任命高瓴创投90后新任CFO，正文仅一句话。",
+      "credibilityScore": 55,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体钛媒体，但正文仅一句话，缺乏具体姓名、背景等细节，信息量严重不足。"
+    },
+    {
+      "title": "我们需要警惕一种情形：美国AI巨头的“减速论”，可能会对开源模型构成实质性绞杀",
+      "link": "https://www.tmtpost.com/8140111.html",
+      "pubDate": "Tue, 15 Sep 2026 11:43:45 +0800",
+      "contentSnippet": "争霸战的赢家，属于那个先让利润追上故事的人。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体评论称美国AI巨头'减速论'或对开源模型构成实质性绞杀",
       "credibilityScore": 62,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体，但正文仅一句摘要，缺少具体数据、案例和原始出处，信息详实度不足。"
+      "credibilityReason": "来源为知名科技媒体，但属观点评论，正文摘要过短，缺少具体事实与数据支撑"
     },
     {
-      "title": "零跑“B 系双子星”B01 / B10 量产下线突破 30 万台，创品牌车系最快新纪录",
-      "link": "https://www.ithome.com/1/002/010.htm",
-      "pubDate": "Mon, 14 Sep 2026 03:58:06 GMT",
-      "contentSnippet": "IT之家 9 月 14 日消息，零跑汽车官方今日宣布，旗下 B 系双子星 —— 零跑 B01 和零跑 B10 量产下线突破 30 万台。\n\n据介绍，此次 30 万台的量产下线仅用时 1 年 6 个月，创零跑车系最快量产 30 万台新纪录。同时，零跑 B10 创零跑海外最快 6 万台出口纪录。\n\n据IT之家此前报道，在今年 7 月，零跑汽车旗下新款零跑 B01 与新款零跑 B10 同步上市。作为年度改款车型，两款新车基于 LEAP3.5 技术架构打造，长续航版本均配备 800V 高压架构，外观与内饰设计延续老款风格。\nB01 定位紧凑型纯电轿车，推出 5 款车型，官方指导价区间为 9.58 万至",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "零跑B01/B10量产下线破30万台，创品牌车系最快纪录。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息含具体数据与官方来源，但缺乏独立核实。"
-    },
-    {
-      "title": "《汽车软件质量与缺陷管理规范》国家标准发布，将质量管控从事后处置转向缺陷预防",
-      "link": "https://www.ithome.com/1/002/009.htm",
-      "pubDate": "Mon, 14 Sep 2026 03:57:41 GMT",
-      "contentSnippet": "IT之家 9 月 14 日消息，市场监管总局（国家标准委）近日批准发布《汽车软件质量与缺陷管理规范》国家标准（GB/T 48140—2026）。本次新国标发布有利于推动汽车软件缺陷识别与防控关口前移，进一步健全智能网联汽车软件安全治理体系，将从今年 12 月 1 日起实施。\nIT之家了解到，当前“软件定义汽车”已经成为汽车行业发展趋势，软件在赋予汽车智能体验的同时，也带来新安全风险。软件缺陷多发态势叠加软件迭代升级常态化，对汽车软件质量与缺陷管理提出更加严格的体系化要求。\n因此市场监管总局特此推出新标准，新规运用 PDCA 循环（策划 — 实施 — 检查 — 处置）和基于风险的思维，建立了覆盖",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "市场监管总局发布汽车软件质量与缺陷管理国家标准，12月起实施。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家报道，有国标编号、发布机构及实施日期，信息具体，来源可信。"
-    },
-    {
-      "title": "摩托罗拉 Edge 70 Neo 手机跑分曝光：骁龙 7s Gen 3 芯片、6GB 内存",
-      "link": "https://www.ithome.com/1/002/008.htm",
-      "pubDate": "Mon, 14 Sep 2026 03:52:34 GMT",
-      "contentSnippet": "IT之家 9 月 14 日消息，科技媒体 NotebookCheck 昨日（9 月 13 日）发布博文，报道称摩托罗拉 Edge 70 Neo 手机现身 GeekBench 平台，7.0.0 版本单核成绩为 723 分，多核成绩为 2,943 分。\n\n根据跑分页面信息，摩托罗拉 Edge 70 Neo 手机配备高通骁龙 7s Gen 3 芯片。该芯片型号为 SM7635，采用 4nm 工艺。\n\n\n参数\n制程4nm\nCPU8 核：1×2.5GHz + 3×2.4GHz + 4×1.8GHz\nGPUAdreno 系列 GPU\n5G支持 5G 网络，具体频段取决于手机厂商\n影像支持最高 2 亿像素照",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "摩托罗拉Edge 70 Neo现身GeekBench，搭载骁龙7s Gen 3芯片与6GB内存。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家引述NotebookCheck及GeekBench跑分数据，参数具体，来源可查，但非官方发布。"
-    },
-    {
-      "title": "三星显示 × iQOO 双方史上最高规格技术合作官宣，阶段性成果将首次在 iQOO 16 上搭载",
-      "link": "https://www.ithome.com/1/002/007.htm",
-      "pubDate": "Mon, 14 Sep 2026 03:49:39 GMT",
-      "contentSnippet": "IT之家 9 月 14 日消息，在今天的三星显示 × iQOO 屏幕技术沟通会上，三星显示 × iQOO 双方史上最高规格技术合作正式官宣。\n\n双方首次官宣「三星显示 × iQOO 未来显示探索计划」，这项计划阶段性成果将首次在 iQOO 16 上搭载。iQOO 官方表示，未来双方将进一步加强合作，致力于为用户打造全球最佳屏幕视效体验。\n据IT之家今日早些时候报道，iQOO 16 新机官宣全球首发 2K 165Hz 屏幕。这块 2K 165Hz 三星珠峰屏安卓首发 M16 发光材料，支持 1100nits 手动峰值亮度、2800nits 全局峰值亮度以及 10000nits 局部峰值亮度。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "三星显示与iQOO官宣史上最高规格合作，成果将首发于iQOO 16的2K 165Hz屏幕。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，含具体屏幕参数与官方合作信息，但缺少原始出处链接。"
-    },
-    {
-      "title": "苹果优质售后新案例：免费为 6 年旧款 MacBook Air 升级 M5 新款",
-      "link": "https://www.ithome.com/1/002/005.htm",
-      "pubDate": "Mon, 14 Sep 2026 03:42:12 GMT",
-      "contentSnippet": "IT之家 9 月 14 日消息，科技媒体 Wccftech 今天（9 月 14 日）发布博文，报道称苹果的售后服务有口皆碑，最新案例是为 6 年老笔记本电脑免费升级到 M5 MacBook Air。\n网友 u/simalary44 昨日（9 月 13 日）在 Reddit 社区发帖，称其主力使用 2023 款 M3 MacBook Pro，并闲置了一台 2020 款 13 英寸 Retina MacBook Air。\n在送修 MacBook Pro 屏幕后，临时使用 MacBook Air 备用机，于是致电苹果客服，询问是否可以为 MacBook Air 提供更换电池和屏幕维修服务。\n根据苹果",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "苹果被曝免费为6年旧款MacBook Air升级M5新款，来源为Reddit网友帖。",
-      "credibilityScore": 35,
-      "credibilityLevel": "low",
-      "credibilityReason": "仅凭Reddit单方帖，无苹果官方或权威媒体证实，免费换新机违背常理，标题党倾向明显。"
-    },
-    {
-      "title": "OPPO Enco X4 耳机、Watch S2 手表 9 月 22 日发布",
-      "link": "https://www.ithome.com/1/002/004.htm",
-      "pubDate": "Mon, 14 Sep 2026 03:38:52 GMT",
-      "contentSnippet": "IT之家 9 月 14 日消息，OPPO 官方今天宣布 Enco X4 耳机、Watch S2 手表将在 9 月 22 日发布，预计将与 Find X10 系列手机同场亮相，两款新品已经开启预约。\n从官方公布的预热图片来看，OPPO Enco X4 是一款入耳式真无线耳机，新品主打旗舰定位，可选柔白、粉金、钛灰三种配色。\n\n而 OPPO Watch S2 则是一款圆形表盘的智能手表。作为参考，前代 OPPO Watch S 发布于 2025 年 10 月 16 日，售价 1299 元起。OPPO Watch S 厚 8.9mm，重 35g，配备一体精钢表壳，屏幕亮度达到 3000 尼特；支持",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "OPPO宣布Enco X4耳机和Watch S2手表将于9月22日发布，预计与Find X10同场亮相。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，信息具体含配色、前代参数等，但缺少官方原始链接。"
-    },
-    {
-      "title": "酷凛霜格 410 V2 / 620 V2 风冷上市：闭环电机风扇，79 / 179 元",
-      "link": "https://www.ithome.com/1/002/003.htm",
-      "pubDate": "Mon, 14 Sep 2026 03:36:37 GMT",
-      "contentSnippet": "IT之家 9 月 14 日消息，ID-COOLING（酷凛）今日发售了 2 款处理器风冷散热器，分别是单塔单风扇 4 热管直触的霜格 410 V2、双塔双风扇 6 热管铜底的霜格 620 V2，两者价格分别为 79 元和 179 元。\n\n京东酷凛 霜格 410 V2 散热器 79 元直达链接\n霜格 410 V2 / 620 V2 均搭载 2200RPM 闭环电机风扇，标配五步快装双平台通用支架 / 螺丝，拥有简约顶盖，采用内存模组避让设计，享受 3 年质保。\n\n京东酷凛 霜格 620 V2 散热器 179 元直达链接\n霜格 410 V2 高度 151mm、霜格 620 V2 高度则是 157m",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "酷凛发布霜格410 V2/620 V2风冷散热器，售价79/179元，搭载闭环电机风扇。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，产品参数、价格、质保等信息具体，但缺少原始出处引用。"
-    },
-    {
-      "title": "国产捉宠 RPG《伊莫》开启预载，PC 端 9 月 16 日开启公测",
-      "link": "https://www.ithome.com/1/001/995.htm",
-      "pubDate": "Mon, 14 Sep 2026 03:22:02 GMT",
-      "contentSnippet": "IT之家 9 月 14 日消息，国产多人在线大世界捉宠 RPG《伊莫》（Aniimo）今日开启预下载，PC 端将在 9 月 16 日正式开启公测，移动端则是 9 月 23 日。\n\nIT之家了解到，《伊莫》由杭州爪印工作室（Pawprint Studio）研发、FunPlus 旗下上海趣乐糖网络科技有限公司发行。本作是一款免费游玩的多人线上游戏，支持 PlayStation、Xbox 等主机平台以及 PC（Steam、Epic 等）与移动端，主打跨平台数据互通。\n游戏设定在广袤的艾德尔大陆，玩家将扮演“连结者”邂逅各种名为“伊莫”的神奇生物。本作主打独创的“联结”机制，玩家可与伊莫合体，继承其飞",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国产捉宠RPG《伊莫》开启预载，PC端9月16日公测，移动端9月23日上线。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息含开发商、发行商、平台及具体日期，细节具体，但缺原始出处链接。"
-    },
-    {
-      "title": "【Fintech 周报】信用卡日均“销卡”超10万张；OpenAI推出金融版ChatGPT",
-      "link": "https://www.tmtpost.com/8138755.html",
-      "pubDate": "Mon, 14 Sep 2026 11:21:44 +0800",
-      "contentSnippet": "保险法时隔11年再迎大修；金融监管总局丛林：大力整治“价格战”；5家支付机构同日被罚3661万元；中互金发布7条自律举措规范互联网贷款营销行为；9家银行AIC上半年净利润同比增长约1.4倍；四大国有行今年“秋招”缩招7000余人；年内多家银行拟停办个人贵金属代理业务；信用卡日均“销卡”超10万张；头部寿险公司营销员止跌，7年减少700万人；招商银行行长助理辞任；广州农商行收缩异地布局；6家上市助贷公司上半年“放款”少1789亿。",
+      "title": "耐克和lululemon双双失速，运动品牌进入碎片化时代",
+      "link": "https://www.tmtpost.com/8140080.html",
+      "pubDate": "Tue, 15 Sep 2026 11:43:39 +0800",
+      "contentSnippet": "耐克和lululemon为何双双失速。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -220,44 +254,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体金融周报汇总信用卡销卡、OpenAI金融版ChatGPT及多项监管动态",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，周报信息具体含多项数据，但为聚合摘要缺原始出处"
-    },
-    {
-      "title": "具身智能有没有泡沫，投资人也有分歧｜外滩大会",
-      "link": "https://www.tmtpost.com/8138902.html",
-      "pubDate": "Mon, 14 Sep 2026 11:21:22 +0800",
-      "contentSnippet": "“今天具身智能谈落地为时尚早。”",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体外滩大会报道称投资人对具身智能是否存在泡沫存在分歧。",
-      "credibilityScore": 78,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，外滩大会为真实行业会议，但摘要过简，缺少具体数据与出处。"
-    },
-    {
-      "title": "华虹宏力完成 82.68 亿元收购案，华力微成为其全资子公司",
-      "link": "https://www.ithome.com/1/001/994.htm",
-      "pubDate": "Mon, 14 Sep 2026 03:18:25 GMT",
-      "contentSnippet": "IT之家 9 月 14 日消息，华虹宏力 (HHGrace) 上周发布公告，宣布已完成增发股份以收购华力微 97.4988% 股权的手续。这笔价值约 82.68 亿元的交易正式完成，华力微成为华虹宏力全资子公司。\n华虹宏力同时发行股份募集 75.56 亿元配套资金，其中 43.6% 用于华力微技术升级改造、7.43% 用于华力微特色工艺研发及产业化，其余 48.97% 则用于补充流动资金、偿还债务、支付中介机构费用。\n\n华虹宏力自身与华力微均拥有 65/55nm、40nm 制程代工工艺。交易后双方产能合并，优势工艺平台深度互补，打造覆盖范围更广泛的晶圆代工及配套服务。双方有望在技术层面形成协同",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "华虹宏力完成82.68亿元收购华力微，后者成为其全资子公司。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，交易金额、股权比例及资金用途等数据具体，信息源自公司公告。"
+      "aiSummary": "耐克与lululemon业绩双双失速，运动品牌市场进入碎片化时代。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "钛媒体为知名科技商业媒体，选题有行业洞察，但正文摘要过简，缺少数据与原始出处支撑。"
     }
   ]
 }
