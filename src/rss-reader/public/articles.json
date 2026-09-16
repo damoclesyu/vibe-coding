@@ -1,14 +1,32 @@
 {
-  "generatedAt": "2026-09-15T04:08:18.630Z",
+  "generatedAt": "2026-09-16T04:04:37.188Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "商务部等8部门发文促智能家居消费",
-      "link": "https://www.chinanews.com.cn/sh/2026/09-15/10696657.shtml",
-      "pubDate": "Tue, 15 Sep 2026 11:08:06 +0800",
-      "contentSnippet": "商务部等8部门关于印发《促进智能家居消费行动方案》的通知。为贯彻党中央、国务院决策部署，落实《中华人民共和国国民经济和社会发展第十五个五年规划纲要》关于丰富智能家居场景、支持老旧房屋适老化改造和智能化升级等工作要求，适应不同群体消费需求扩大优质供给，进一步促进智能家居消费，制定本行动方案。",
+      "title": "国台办：第六届“携手圆梦——两岸同胞交流研讨活动”成功举办",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-16/10697355.shtml",
+      "pubDate": "Wed, 16 Sep 2026 11:53:01 +0800",
+      "contentSnippet": "中新网9月16日电 国务院台办16日举行例行新闻发布会。有记者问：第六届“携手圆梦——两岸同胞交流研讨活动”近日在新疆举行，受到两岸舆论高度关注。请介绍有关情况。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网",
+        "澎湃新闻"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "国台办在例行新闻发布会上介绍第六届两岸同胞交流研讨活动在新疆举办情况。",
+      "credibilityScore": 93,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网和澎湃新闻，属较权威媒体；内容为官方发布会实录，事实可查证。（多源覆盖 +5）"
+    },
+    {
+      "title": "司法部：加快推进24小时“不打烊”的公共法律服务",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-16/10697317.shtml",
+      "pubDate": "Wed, 16 Sep 2026 11:49:51 +0800",
+      "contentSnippet": "中新网9月16日电 9月16日，国新办就“十五五”时期推进全面依法治国任务落实和司法行政工作，服务保障经济社会高质量发展情况举行发布会。司法部副部长李明征在会上表示，“十四五”时期，公共法律服务实体、热线、网络三大平台提供法律咨询服务1.7亿多次，群众满意率达到95%以上。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -16,16 +34,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "商务部等8部门印发促进智能家居消费行动方案，落实十五五规划要求。",
+      "aiSummary": "司法部在国新办发布会上表示将加快推进24小时公共法律服务。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "中新网为权威媒体，引述司法部副部长具体发言，含明确数据，可交叉验证。"
+    },
+    {
+      "title": "李家超：香港首次制定五年规划是更好融入和服务国家发展大局谋划需要",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-16/10697371.shtml",
+      "pubDate": "Wed, 16 Sep 2026 11:47:35 +0800",
+      "contentSnippet": "新华社香港9月16日电(记者刘媛媛)香港特区行政长官李家超16日上午在特区立法会发表香港特区首个五年规划。他表示，在国家“十五五”规划开局之年，香港特别行政区首次制定五年规划。这是特区政府坚持和完善行政主导、提升治理效能的重大举措，是主动对接国家发展的战略、更好融入和服务国家发展大局的谋划需要，也是凝聚社会共识、团结各界力量，推动香港由治及兴、实现高质量发展的行动纲领。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "李家超在立法会发表香港首个五年规划，称旨在对接国家发展大局。",
       "credibilityScore": 92,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，属官方权威媒体；内容为政府正式文件，可交叉验证。"
+      "credibilityReason": "新华社供稿，中国新闻网转载，含具体时间地点人物及直接引述，来源权威。"
     },
     {
-      "title": "金融总量合理增长 有力支撑经济向新向优向好发展",
-      "link": "https://www.chinanews.com.cn/cj/2026/09-15/10696655.shtml",
-      "pubDate": "Tue, 15 Sep 2026 11:05:11 +0800",
-      "contentSnippet": "央视网消息(新闻联播)：中国人民银行9月14日公布的数据显示，8月末，广义货币(M2)余额356.81万亿元，同比增长7.5%；社会融资规模存量为464.8万亿元。其中，对实体经济发放的人民币贷款余额278.63万亿元，同比增长5%。我国金融总量合理增长，社会融资条件保持宽松，为经济稳定增长和高质量发展营造了适宜的货币金融环境。",
+      "title": "澳大利亚联邦众议长将访华",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-16/10697367.shtml",
+      "pubDate": "Wed, 16 Sep 2026 11:41:44 +0800",
+      "contentSnippet": "新华社北京9月16日电 应全国人大常委会委员长赵乐际邀请，澳大利亚联邦众议长迪克将于9月18日至22日率团访华。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -33,135 +68,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "央行数据显示8月末M2余额356.81万亿元，同比增长7.5%，金融总量合理增长。",
-      "credibilityScore": 92,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为央视新闻联播转引央行官方数据，具体可查证，用词客观中性。"
-    },
-    {
-      "title": "推动健康中国建设取得决定性进展（权威发布·开局起步“十五五”）",
-      "link": "https://www.chinanews.com.cn/jk/2026/09-15/10696653.shtml",
-      "pubDate": "Tue, 15 Sep 2026 11:02:11 +0800",
-      "contentSnippet": "9月14日，国务院新闻办举行“开局起步‘十五五’”系列主题新闻发布会，介绍推动健康中国建设取得决定性进展有关情况。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国务院新闻办举行发布会，介绍推动健康中国建设取得决定性进展有关情况。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，属官方权威媒体；内容涉及国务院新闻办发布会，信息具体可查证，用词客观中性。"
-    },
-    {
-      "title": "2026山东民营企业百强系列榜单发布",
-      "link": "https://www.chinanews.com.cn/cj/2026/09-15/10696643.shtml",
-      "pubDate": "Tue, 15 Sep 2026 10:53:18 +0800",
-      "contentSnippet": "中新网济宁9月15日电 (吕妍 赵加山)2026山东民营企业百强系列榜单发布会暨全省优强民企助力济宁高质量发展大会9月14日在济宁举行。山东魏桥创业集团有限公司等200家企业入围山东民营企业200强，齐鲁制药集团有限公司等100家企业入围山东民营企业创新100强，万达国贸集团有限公司等100家企业入围山东民营企业服务业100强，歌尔股份有限公司等100家企业入围山东民营企业吸纳就业100强。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "2026山东民营企业百强系列榜单在济宁发布，魏桥等企业入围。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "中新网为权威媒体，有具体时间地点及企业名单，信息可查证，用词客观。"
-    },
-    {
-      "title": "中国向联合国捐赠嫦娥六号月壤样品",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-15/10696644.shtml",
-      "pubDate": "Tue, 15 Sep 2026 10:52:46 +0800",
-      "contentSnippet": "中新社北京9月15日电 据中国国家航天局15日消息，当地时间9月14日，嫦娥六号月壤样品赠送仪式在维也纳联合国总部举行。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国国家航天局向联合国捐赠嫦娥六号月壤样品，仪式在维也纳举行。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新社，属权威媒体；信息具体，有明确时间地点和官方机构，但缺乏直接引述。"
-    },
-    {
-      "title": "习近平给福建省“漳州110”全体队员的回信",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-15/10696647.shtml",
-      "pubDate": "Tue, 15 Sep 2026 10:52:22 +0800",
-      "contentSnippet": "新华社北京9月15日电",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "新华社报道习近平给福建省'漳州110'全体队员回信。",
+      "aiSummary": "澳大利亚联邦众议长迪克应赵乐际邀请，将于9月18日至22日率团访华。",
       "credibilityScore": 95,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为新华社（经中新网转载），属最高权威官方通讯社，内容为领导人公开回信，可交叉验证。"
+      "credibilityReason": "新华社官方通稿，中国新闻网转载，信息具体（时间、人物、行程），来源权威。"
     },
     {
-      "title": "中国人保原党委委员、副总裁于泽被提起公诉",
-      "link": "https://m.thepaper.cn/detail/34072628",
-      "pubDate": "Tue, 15 Sep 2026 02:01:22 GMT",
-      "contentSnippet": "记者今天（15日）从最高人民检察院获悉，中国人民保险集团股份有限公司原党委委员、副总裁于泽涉嫌受贿一案，由国家监察委员会调查终结，移送检察机关审查起诉。经最高人民检察院交办，北京市人民检察院依法以涉嫌受贿罪对于泽作出逮捕决定。近日，北京市人民检察院第二分院已向北京市第二中级人民法院提起公诉。\n检察机关在审查起诉阶段，依法告知了被告人于泽享有的诉讼权利，并讯问了被告人，听取了辩护人的意见。检察机关起诉指控：被告人于泽利用担任太平保险有限公司天津分公司党委书记、总经理，太平保险有限公司市场总监，太平财产保险有限公司助理总经理，党委委员、副总经理，党委副书记、副总经理，党委书记、总经理，中国人民保险",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国人保原副总裁于泽涉嫌受贿被北京检察机关提起公诉。",
-      "credibilityScore": 92,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源澎湃新闻，引述最高检官方信息，事实具体可查证。"
-    },
-    {
-      "title": "视频画报｜习近平主席引领“大金砖合作”开启新篇章",
-      "link": "https://h.xinhuaxmt.com/vh512/share/13284627?newstype=1001&homeshow=1",
-      "pubDate": "Tue, 15 Sep 2026 00:42:10 GMT",
-      "contentSnippet": "视频画报｜习近平主席引领“大金砖合作”开启新篇章",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "澎湃新闻发布视频画报，称习近平主席引领大金砖合作开启新篇章。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为澎湃新闻较权威，但内容为宣传性视频画报，缺乏具体事实细节和独立引述。"
-    },
-    {
-      "title": "一票难求的《商鞅》藏着一道裂缝，这是它最深的当代价值",
-      "link": "https://m.thepaper.cn/detail/34070644",
-      "pubDate": "Tue, 15 Sep 2026 00:12:50 GMT",
-      "contentSnippet": "看完话剧《商鞅》，你不想为商鞅鼓掌，但又不能不为他震撼。舞台上其实站着两个商鞅。一个被导演陈薪伊不断托举，一个被编剧姚远不断审问。编剧塑造的那个带着人格阴暗面的商鞅和导演所处理的那个有着伟大生命力的商鞅，在这台戏里同时成立。\n陈薪伊说“生命的力量不可战胜”，姚远说“中国千百年来一直凝固着的一块文化”。这两句话之间的裂缝，就是《商鞅》最深的当代价值。它不给你答案，它给你张力。商鞅被车裂了，但《商鞅》活着。\n1996年岁末，朱镕基总理在北京看话剧《商鞅》，“为剧情所动，凄然泪下”。一位国家领导人为两千年前被车裂的改革家落泪，这一幕本身就足以说明《商鞅》从来不止是一出“历史剧”。\n三十年过去了，上海",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "澎湃新闻评话剧《商鞅》中导演与编剧视角的张力构成其当代价值。",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为澎湃新闻较权威，内容具体有引述，但属文艺评论主观性强，事实可查证性有限。"
-    },
-    {
-      "title": "国家统计局：智能绿色商品消费日益成为消费市场新亮点",
-      "link": "https://www.chinanews.com.cn/cj/2026/09-15/10696679.shtml",
-      "pubDate": "Tue, 15 Sep 2026 12:01:27 +0800",
-      "contentSnippet": "中新网9月15日电 国新办9月15日就2026年8月份国民经济运行情况举行新闻发布会。会上，国家统计局国民经济综合统计司司长付凌晖介绍，今年以来，各方面积极落实扩大消费各项政策措施，着力扩大优质供给，推进消费品以旧换新，挖掘服务消费潜力，培育消费新增长点，消费市场运行总体平稳。",
+      "title": "第十三届北京香山论坛开幕",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-16/10697347.shtml",
+      "pubDate": "Wed, 16 Sep 2026 11:41:20 +0800",
+      "contentSnippet": "中新社北京9月16日电 (李纯  刘梦青)第十三届北京香山论坛16日在北京国际会议中心开幕。中国国防部长董军出席论坛并作主旨发言。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -169,33 +85,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国家统计局称智能绿色商品消费成为消费市场新亮点，消费市场总体平稳。",
-      "credibilityScore": 92,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，引述国家统计局司长在国新办发布会上的官方表态，信息权威可查证。"
-    },
-    {
-      "title": "国家统计局：房地产交易总量有所改善、趋于稳定",
-      "link": "https://www.chinanews.com.cn/cj/2026/09-15/10696676.shtml",
-      "pubDate": "Tue, 15 Sep 2026 11:43:07 +0800",
-      "contentSnippet": "中新网9月15日电 9月15日，国新办就2026年8月份国民经济运行情况举行新闻发布会。在会上，国家统计局国民经济综合统计司司长付凌晖表示，今年以来，各地区各部门坚持因城施策，调整优化房地产政策，持续控增量、去库存、优供给，多渠道盘活存量商品房、化解库存，扎实推进城市更新，积极推动住房制度调整和优化，加快构建房地产发展新模式，效果正在逐步显现。主要表现在以下几个方面：",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国家统计局称房地产交易总量改善趋稳，政策效果逐步显现。",
+      "aiSummary": "第十三届北京香山论坛在北京开幕，中国国防部长董军出席并作主旨发言。",
       "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，引述国家统计局司长发言，属官方权威信息，但内容为政策表述，缺乏具体数据。"
+      "credibilityReason": "来源为中新社，属权威媒体；信息具体（时间、地点、人物明确），内容客观中性，可交叉验证。"
     },
     {
-      "title": "A股午评：超3900只个股飘绿，深指收涨，沪指、创业板指收跌",
-      "link": "https://www.chinanews.com.cn/cj/2026/09-15/10696678.shtml",
-      "pubDate": "Tue, 15 Sep 2026 11:42:37 +0800",
-      "contentSnippet": "A股午评：超3900只个股飘绿，深指收涨，沪指、创业板指收跌；存储芯片概念股走强，发电设备、半导体上涨；餐饮旅游、农业、保险下跌",
+      "title": "司法部：持续纠治乱执法、滥执法问题",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-16/10697299.shtml",
+      "pubDate": "Wed, 16 Sep 2026 11:40:28 +0800",
+      "contentSnippet": "中新网9月16日电 9月16日上午，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，介绍“十五五”时期推进全面依法治国任务落实和司法行政工作，服务保障经济社会高质量发展情况。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -203,33 +102,34 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "A股午盘超3900只个股下跌，深指涨、沪指与创业板指跌，板块分化明显。",
-      "credibilityScore": 82,
+      "aiSummary": "司法部在国新办发布会上表示将持续纠治乱执法、滥执法问题。",
+      "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，权威媒体；数据具体可查证，用词客观，但缺乏引述与多源验证。"
+      "credibilityReason": "来源为中国新闻网，属官方权威媒体，报道国务院新闻发布会内容，信息具体可查证。"
     },
     {
-      "title": "青岛：碱蓬草染红河海滩涂 红海滩迎来最佳观赏季",
-      "link": "http://www.chinanews.com.cn/tp/hd2011/2026/09-15/1204321.shtml",
-      "pubDate": "Tue, 15 Sep 2026 11:33:49 +0800",
-      "contentSnippet": "",
+      "title": "1至8月全国各级行政复议机关办理案件77.2万件",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-16/10697292.shtml",
+      "pubDate": "Wed, 16 Sep 2026 11:33:38 +0800",
+      "contentSnippet": "中新网9月16日电 9月16日上午，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，介绍“十五五”时期推进全面依法治国任务落实和司法行政工作，服务保障经济社会高质量发展情况。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
-        "中国新闻网"
+        "中国新闻网",
+        "澎湃新闻"
       ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国新闻网报道青岛碱蓬草染红河海滩涂，红海滩迎来最佳观赏季。",
-      "credibilityScore": 82,
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "国新办发布会披露，1至8月全国各级行政复议机关办理案件77.2万件。",
+      "credibilityScore": 93,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，属较权威媒体，内容为自然景观报道，事实可查证，但正文摘要缺失，细节有限。"
+      "credibilityReason": "来源为中新网、澎湃新闻，属权威媒体；信息出自国新办发布会，数据具体可查证。（多源覆盖 +5）"
     },
     {
-      "title": "化石破碎线索稀缺 揭秘科研人员如何复原消失的奥氏马",
-      "link": "https://www.chinanews.com.cn/sh/2026/09-15/10696672.shtml",
-      "pubDate": "Tue, 15 Sep 2026 11:33:47 +0800",
-      "contentSnippet": "中新网长春9月15日电 (记者 郭佳)近日，吉林大学生物考古实验室联合美国进化科技有限责任公司(Evolutio　LLC)，全球首次完成灭绝古马奥氏马的完整形态复原。",
+      "title": "国台办斥台当局将体育政治化",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-16/10697350.shtml",
+      "pubDate": "Wed, 16 Sep 2026 11:27:15 +0800",
+      "contentSnippet": "中新网9月16日电 9月16日，国务院台办举行例行新闻发布会。有记者问：近日，台湾体育部门修订发布“两岸运动交流处理规范”，要求台湾民众不得担任大陆国家代表队选手参加国际赛事，提示两岸运动交流的政策底线。请问对此有何评论？",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -237,27 +137,129 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "吉林大学联合美国公司全球首次完成灭绝古马奥氏马完整形态复原。",
-      "credibilityScore": 82,
+      "aiSummary": "国台办例行发布会回应台当局修订两岸运动交流规范，斥其将体育政治化。",
+      "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "中新网为权威媒体，信息具体含机构名称与成果，但单一来源且细节有限。"
+      "credibilityReason": "来源为中国新闻网，属官方权威媒体，内容为官方发布会实录，事实可查证，用词客观。"
     },
     {
-      "title": "从亏本养殖到年入百万 看戈壁牧民夫妇如何凭一杯驼奶逆袭致富",
-      "link": "https://www.chinanews.com.cn/sh/2026/09-15/10696671.shtml",
-      "pubDate": "Tue, 15 Sep 2026 11:33:13 +0800",
-      "contentSnippet": "中新网阿拉善9月15日电 题：从亏本养殖到年入百万 看戈壁牧民夫妇如何凭一杯驼奶逆袭致富",
-      "sourceName": "中国新闻网",
+      "title": "民进党妄称破坏两岸和平的是大陆，国台办驳斥",
+      "link": "https://m.thepaper.cn/detail/34079564",
+      "pubDate": "Wed, 16 Sep 2026 02:52:28 GMT",
+      "contentSnippet": "2026年9月16日上午，国台办在新闻发布厅举行例行新闻发布会，发言人朱凤莲就近期两岸热点问题回答记者提问。\n会上有记者提问：民进党近日称，破坏两岸和平的是大陆，台湾不接受大陆设定的一中原则，大陆就片面中断两岸制度化协商，停止陆客赴台个人游、阻挡陆生及陆客赴台等。请问对此有何评论？\n国台办发言人朱凤莲表示，民进党惯于颠倒黑白、甩锅卸责、倒打一耙。海峡两岸同属一个中国，台湾是中国的一部分，这是历史事实，也是法理现实。正是在体现一个中国原则的“九二共识”基础上，两岸才得以进行协商谈判并达成一系列惠及两岸同胞的成果。民进党上台后，顽固坚持“台独”立场，拒不承认体现一个中国原则的“九二共识”，单方面损",
+      "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
-        "中国新闻网"
+        "澎湃新闻"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中新网报道阿拉善戈壁牧民夫妇靠驼奶从亏本养殖逆袭年入百万。",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为中新网较权威，但正文仅摘要，缺少具体细节和引述，无法交叉验证。"
+      "aiSummary": "2026年9月16日上午，国台办在新闻发布厅举行例行新闻发布会，发言人朱凤莲就近",
+      "credibilityScore": 49,
+      "credibilityLevel": "low",
+      "credibilityReason": "因内容合规限制，使用来源权重作为默认评分"
+    },
+    {
+      "title": "国台办：实现两岸和平统一，是中华民族之福",
+      "link": "https://m.thepaper.cn/detail/34079527",
+      "pubDate": "Wed, 16 Sep 2026 02:52:16 GMT",
+      "contentSnippet": "2026年9月16日上午，国台办举行例行新闻发布会，发言人朱凤莲回答记者提问时表示，实现两岸和平统一，是中华民族之福。我们欢迎台湾同胞各抒己见、集思广益，为“两制”台湾方案提出具体意见建议。",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国台办发言人朱凤莲在例行发布会上表示，实现两岸和平统一是中华民族之福。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "澎湃新闻为知名媒体，引述国台办例行发布会具体发言，时间人物明确，内容可查证。"
+    },
+    {
+      "title": "台2027年度防务预算与特别预算占GDP近4%，国台办：自取灭亡",
+      "link": "https://m.thepaper.cn/detail/34079536",
+      "pubDate": "Wed, 16 Sep 2026 02:49:27 GMT",
+      "contentSnippet": "9月16日，国务院台办举行例行新闻发布会。总台记者提问：台媒报道，台行政部门通过的2027年度防务预算与特别预算占GDP接近4%，萧美琴重提赖清德允诺会将防务支出提升至GDP的5%。请问对此有何评论？\n发言人朱凤莲表示，民进党当局为了一党政治私利，妄图“以武谋独”“倚美谋独”，变本加厉挥霍台湾百姓的血汗钱，在穷兵黩武的邪路上狂奔。不仅挤占了岛内民生社会福利开支，损害台湾民众切身利益，更将台湾一步一步推向更危险的境地，让台湾民众成为“台独”炮灰。这种害台毁台、自取灭亡的行径，一定会遭到台湾民众的强烈反对。",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "9月16日，国务院台办举行例行新闻发布会。总台记者提问：台媒报道，台行政部门通过",
+      "credibilityScore": 49,
+      "credibilityLevel": "low",
+      "credibilityReason": "因内容合规限制，使用来源权重作为默认评分"
+    },
+    {
+      "title": "司法部：力争到“十五五”末期实现专职调解员数量占比超过20%",
+      "link": "https://m.thepaper.cn/detail/34079505",
+      "pubDate": "Wed, 16 Sep 2026 02:45:54 GMT",
+      "contentSnippet": "国务院新闻办公室今天举行“开局起步‘十五五’”系列主题新闻发布会，司法部有关负责人介绍，将部署开展“调解质量提升”系列活动，加强专职调解员队伍建设，力争到“十五五”末期实现专职调解员数量占比超过20%。",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "司法部提出力争到“十五五”末期专职调解员数量占比超过20%。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为澎湃新闻，引述国务院新闻发布会及司法部负责人，信息具体可查证。"
+    },
+    {
+      "title": "台湾学生把“桃园三结义”理解为桃园市结盟，国台办回应",
+      "link": "https://m.thepaper.cn/detail/34079516",
+      "pubDate": "Wed, 16 Sep 2026 02:45:53 GMT",
+      "contentSnippet": "9月16日，国务院台办举行例行新闻发布会。有记者问，民进党当局长期在岛内教育领域强推“去中国化”，在课纲里删减多篇中华优秀古文，导致台湾学生的历史认知混乱，竟有学生把“桃园三结义”理解为在台湾桃园市结盟，引发岛内学界忧虑。对此有何评论？\n发言人朱凤莲答问表示，民进党当局长期进行“去中国化”教育。搞“文化台独”已经造成了严重的后果，可悲可叹。中华文化是台湾同胞的精神家园，也是台湾经济社会发展的精神动力。当中华文化的根脉在岛内被生生剪断，当千锤百炼的古文经典遭剥离，那台湾的孩子就没有机会在课本上学到《岳阳楼记》《醉翁亭记》《劝学》等经典名篇，不知道诸葛亮、岳飞、文天祥等历史人物，不知道黄花岗七十二",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "9月16日，国务院台办举行例行新闻发布会。有记者问，民进党当局长期在岛内教育领域",
+      "credibilityScore": 49,
+      "credibilityLevel": "low",
+      "credibilityReason": "因内容合规限制，使用来源权重作为默认评分"
+    },
+    {
+      "title": "国台办谈平陆运河通航：欢迎广大台商台企共享西部陆海新通道机遇",
+      "link": "https://m.thepaper.cn/detail/34079493",
+      "pubDate": "Wed, 16 Sep 2026 02:45:44 GMT",
+      "contentSnippet": "9月16日，国务院台办举行例行新闻发布会。有记者问：9月16日，平陆运河正式建成通航，受到两岸产业界关注，请问这对沿岸台资企业发展带来哪些便利？\n发言人朱凤莲答问表示，平陆运河是大陆西部陆海新通道的骨干工程，受到两岸产业界广泛关注。台商普遍认为，平陆运河将便利台企联动大陆西部城市资源，通过铁、江、海联运可以有效降低进出口物流成本，形成西部原料加工-广西江海转运-东盟市场销售的产业链条，为台资企业开拓东盟市场创造新机遇。我们欢迎广大台商台企共享西部陆海新通道的机遇，扎根大陆，实现更好发展。",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国台办发言人朱凤莲表示，平陆运河通航欢迎台商共享西部陆海新通道机遇。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源澎湃新闻较权威，引述官方发布会及发言人原话，内容具体可查证。"
+    },
+    {
+      "title": "今年以来司法部已审查完成37件立法项目",
+      "link": "https://m.thepaper.cn/detail/34079460",
+      "pubDate": "Wed, 16 Sep 2026 02:45:44 GMT",
+      "contentSnippet": "司法部副部长李明征9月16日在国新办举行的“开局起步‘十五五’”系列主题新闻发布会上介绍，今年以来，司法部已审查完成37件立法项目，金融法、道路交通安全法等重要法律案提请全国人大常委会会议审议，集成电路布图设计保护条例、住房公积金管理条例、矿产资源法实施条例等重要法规施行，政府立法服务保障大局的精准性、有效性进一步提升，以良法推动改革、促进发展、保障善治的实践成效日益凸显。",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "司法部副部长李明征称今年以来司法部已审查完成37件立法项目。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为澎湃新闻，引述国新办发布会官员具体表述，时间地点明确，内容可查证。"
     }
   ]
 }

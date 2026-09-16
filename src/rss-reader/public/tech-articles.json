@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-15T04:09:31.379Z",
+  "generatedAt": "2026-09-16T04:06:06.299Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "国家统计局：截至 6 月末我国已建成 70 余条算力大通道",
-      "link": "https://www.ithome.com/1/002/511.htm",
-      "pubDate": "Tue, 15 Sep 2026 03:45:19 GMT",
-      "contentSnippet": "IT之家 9 月 15 日消息，国务院新闻办公室今日上午召开新闻发布会，国家统计局相关负责人介绍 8 月份国民经济运行情况，并答记者问。\n据央视新闻报道，发布会上介绍，今年是“十五五”开局之年，包括“六张网”在内的一批重大工程项目陆续开工建设，跨区域交通干线、能源水利重大工程、新型基础设施、城市更新等项目有序推进，对高质量发展的支撑作用有望进一步凸显。\n前八个月，与“六张网”相关的互联网和相关服务业投资同比增长 42%，航空运输业、水上运输业投资分别增长 16.7% 和 14.7%，电力供应业投资增长 12.7%，数据显示，截至 6 月末，我国已经围绕算力枢纽建成 70 余条算力大通道。\nIT",
+      "title": "通用汽车让步，部分燃油车继续支持苹果 CarPlay 车联方案",
+      "link": "https://www.ithome.com/1/003/004.htm",
+      "pubDate": "Wed, 16 Sep 2026 04:00:44 GMT",
+      "contentSnippet": "IT之家 9 月 16 日消息，彭博社昨日（9 月 15 日）发布博文，报道称通用汽车（GM）宣布让步，在部分燃油车型中会继续保留支持苹果 CarPlay 车联方案。\n通用汽车在 2023 年宣布，在未来推出的电动汽车中，将会放弃支持 CarPlay 车联方案，对于 iPhone 用户而言，无法直接把导航、音乐、通信等界面投射到原厂车机屏幕上。\nIT之家今年 9 月报道，通用汽车旗下凯迪拉克于 8 月上线  2027 款车型的在线配置器，2027 款 Lyriq 页面显示依然标配支持苹果 CarPlay 和谷歌 Android Auto 车联方案，是通用电动车取消 CarPlay 策略后出现的",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,16 +16,203 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国家统计局称截至6月末我国已建成70余条算力大通道",
+      "aiSummary": "通用汽车让步，部分燃油车将继续支持苹果CarPlay车联方案",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家编译彭博社报道，有明确原始出处，信息具体，涉及通用汽车政策变化，逻辑清晰"
+    },
+    {
+      "title": "雅马哈发布旗下最紧凑杜比全景声回音壁 B200A，长度 60cm",
+      "link": "https://www.ithome.com/1/002/992.htm",
+      "pubDate": "Wed, 16 Sep 2026 03:57:10 GMT",
+      "contentSnippet": "IT之家 9 月 16 日消息，Yamaha（雅马哈）本月 15 日宣布推出该企业旗下最紧凑的杜比全景声认证条形音箱（回音壁）产品 B200A。\n这一型号长度仅有 60cm，定价 1,580 元人民币 / 249.95 美元（IT之家注：现汇率约合 1,681 元人民币)。\n\n雅马哈消费音频总监 Alex Sadeghian 表示：\n\nB200A 的设计初衷是为那些既想获得更佳音质又不想占用太多空间的用户打造。\n无论是在卧室、公寓、家庭办公室还是游戏环境中，B200A 都能以紧凑的设计提供清晰、沉浸式的音效，让您轻松融入日常生活。\n\n\n雅马哈 B200A 内置 2 个 4.6cm 全频扬声器",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "雅马哈发布最紧凑杜比全景声回音壁B200A，长60cm，售价1580元。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息含具体尺寸、价格、扬声器规格及高管引述，来源明确。"
+    },
+    {
+      "title": "荣耀 Magic9 系列手机官宣搭载自研影像芯片荣耀驭光 H1：RAW 域视频无损降噪、信噪比提升 8dB，6nm 工艺",
+      "link": "https://www.ithome.com/1/002/986.htm",
+      "pubDate": "Wed, 16 Sep 2026 03:53:57 GMT",
+      "contentSnippet": "IT之家 9 月 16 日消息，荣耀 Magic 盛典暨荣耀 Magic9 系列新品发布会定档 9 月 28 日在北京举行。\n荣耀官方今日宣布，荣耀 Magic9 系列手机搭载自研影像芯片荣耀驭光 H1，采用 6nm 工艺，支持 RAW 域视频无损降噪，信噪比提升 8dB。\n\n据介绍，荣耀 Magic9 系列手机由阿莱联合研发，采用大导之眼设计，后置“电影三摄镜头系统”，搭载阿莱双两亿超清影像，首发 500mm 荣耀巨炮增距镜。新机还同时支持全新阿莱电影模式，号称“掌中电影机”。\n荣耀 Magic9 系列手机将支持阿莱色彩科学，包括：AWG3 广色域、阿莱官方全套 Look、APV 无损编码、",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "荣耀官宣Magic9系列搭载自研6nm影像芯片驭光H1，支持RAW域视频降噪，信噪比提升8dB。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息含具体芯片工艺、技术参数及发布时间，但部分宣传性表述缺乏第三方验证。"
+    },
+    {
+      "title": "华为智慧屏 Mate TV 2 将于 9 月 23 日开启预售，支持隔空艺语双控投屏等功能",
+      "link": "https://www.ithome.com/1/002/985.htm",
+      "pubDate": "Wed, 16 Sep 2026 03:51:33 GMT",
+      "contentSnippet": "IT之家 9 月 16 日消息，华为商城显示，华为智慧屏 Mate TV 2 将于 9 月 23 日 10:08 开启预售。\n官方预热信息确认，这款新品延续灵犀悬浮触控、灵犀指向遥控和灵犀手写笔配件。\n\n官方海报显示，华为智慧屏 Mate TV 2 搭载鸿蒙系统（IT之家注：上一代 MateTV 搭载 HarmonyOS 6.1），支持鸿蒙应用多路径下载。此外，新品还支持隔空手势抓取、艺语画面即投、立体视界等功能。\n\n结合此前爆料，MateTV 2 系列在画质、音质和智慧体验上均有迭代。98 英寸和 110 英寸版本支持原生 3D 及 2D 转 3D，预计采用 Super Mini LED 背",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "华为智慧屏Mate TV 2将于9月23日预售，搭载鸿蒙系统并支持隔空手势等新功能。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，信息具体含日期、功能细节，但部分内容基于爆料，官方信息有限。"
+    },
+    {
+      "title": "AI 让人人都能开发 App，vivo 应用商店开放个人开发者通道",
+      "link": "https://www.ithome.com/1/002/984.htm",
+      "pubDate": "Wed, 16 Sep 2026 03:51:30 GMT",
+      "contentSnippet": "IT之家 9 月 16 日消息，在今日的 2026 vivo 开发者大会上，vivo 宣布应用商店开放个人开发者通道。\n\nIT之家从大会获悉，个人开发者通道只需要个人实名认证，官方将有序开放 AI 应用、蓝河应用、IoT 应用。\nvivo 官方表示，AI 让应用开发门槛大幅降低，开放个人开发者通道，可以让更多创新被看见。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "vivo开发者大会宣布应用商店开放个人开发者通道，支持AI、蓝河、IoT应用。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道基于vivo开发者大会官方信息，内容具体但细节有限。"
+    },
+    {
+      "title": "高瓴90后，成了梁文锋的CFO",
+      "link": "https://www.tmtpost.com/8140956.html",
+      "pubDate": "Wed, 16 Sep 2026 11:47:45 +0800",
+      "contentSnippet": "空了很久的位置要坐上人了",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体报道高瓴背景90后将出任DeepSeek梁文锋的CFO",
+      "credibilityScore": 55,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体，但正文仅一句话，缺乏具体人名、数据与原始出处，信息量不足"
+    },
+    {
+      "title": "小破站砸10亿搞AI，图啥？",
+      "link": "https://www.tmtpost.com/8140959.html",
+      "pubDate": "Wed, 16 Sep 2026 11:47:43 +0800",
+      "contentSnippet": "买的是增长，还是入场券？",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体报道B站投入10亿布局AI，分析其战略意图与增长考量。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体钛媒体，但正文仅一句设问，缺少具体数据与技术细节，信息量不足。"
+    },
+    {
+      "title": "华为“放手”，赛力斯接手：问界主导权交接的一本账",
+      "link": "https://www.tmtpost.com/8141173.html",
+      "pubDate": "Wed, 16 Sep 2026 11:47:38 +0800",
+      "contentSnippet": "9月15日，一则消息让汽车圈和资本市场同时绷紧了神经。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "华为将问界主导权交接给赛力斯，引发汽车圈和资本市场关注。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体钛媒体，但正文摘要信息简略，缺少具体数据与原始出处支撑。"
+    },
+    {
+      "title": "71进15，车企要留在牌桌上，为什么绕不开“造好大车”？",
+      "link": "https://www.tmtpost.com/8140968.html",
+      "pubDate": "Wed, 16 Sep 2026 11:47:35 +0800",
+      "contentSnippet": "如何留在牌桌上？比销量更重要的一定是持续造血能力。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体分析车企竞争格局，指出造好大车是留在牌桌的关键。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体钛媒体，但正文摘要过简，缺少具体数据与原始出处支撑。"
+    },
+    {
+      "title": "吉利回应电池公司被宁德时代收购：未放弃电池自研，“85 亿元投资”不实",
+      "link": "https://www.ithome.com/1/002/982.htm",
+      "pubDate": "Wed, 16 Sep 2026 03:46:30 GMT",
+      "contentSnippet": "IT之家 9 月 16 日消息，国家市场监督管理总局公布的 2026 年 8 月 31 日至 9 月 6 日无条件批准经营者集中案件列表显示，“宁德时代新能源科技股份有限公司收购重庆耀宁新能源科技有限公司（下称重庆耀宁）股权案”已于 9 月 3 日审结，参与集中的经营者为宁德时代与极氪汽车（上海）有限公司。\n重庆耀宁成立于 2021 年 12 月，目前由江苏耀宁新能源有限公司 100% 持股；江苏耀宁的控股股东为浙江吉曜通行能源科技有限公司（下称吉曜通行），持股比例为 82.912%。吉曜通行成立于 2025 年 1 月，是吉利控股集团旗下的一级集团，同年 10 月成为江苏耀宁新进股东。\n据新",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "吉利回应宁德时代收购其电池公司传闻，否认放弃电池自研及85亿元投资",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，引用国家市场监管总局公示信息，事实具体，但正文不完整"
+    },
+    {
+      "title": "消息称三星电子扩大通用存储器模组制造外包规模，自有产能聚焦高阶产品",
+      "link": "https://www.ithome.com/1/002/981.htm",
+      "pubDate": "Wed, 16 Sep 2026 03:41:07 GMT",
+      "contentSnippet": "IT之家 9 月 16 日消息，韩媒 THE ELEC 当地时间昨日报道称，三星电子正积极扩大通用存储器模组制造业务的外包规模，以将更多资源分配至 AI 半导体后端生产。\n\n报道指出，三星电子目前仍极度缺乏半导体洁净室空间和制造设备。将位于韩国温阳、天安的现有封装厂用于 DDR5 内存模组、固态硬盘等通用产品的生产甚至可以说是在“浪费”资源。\n\n在此背景下，三星电子希望让制造合作伙伴承接更多的通用存储器模组制造订单，释放可用于先进高阶产品扩产的自家资源。Dreamtech、HANYANGDGT、SFA Semiconductor 等合作方正分别在印度、越南、菲律宾扩充产能。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "三星扩大通用存储器模组外包，自有产能转向AI半导体后端生产",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家引述韩媒THE ELEC报道，信息具体含合作方与产能布局，逻辑清晰，但非一手信源"
+    },
+    {
+      "title": "谢幕倒计时：苹果最后一款 21.5 英寸 Intel iMac 已“过时”",
+      "link": "https://www.ithome.com/1/002/980.htm",
+      "pubDate": "Wed, 16 Sep 2026 03:41:00 GMT",
+      "contentSnippet": "IT之家 9 月 16 日消息，科技媒体 AppleInsider 今天（9 月 16 日）发布博文，报道称 2019 款 21.5 英寸 iMac 已被列入“过时”（vintage）名单，这也是苹果最后一款搭载英特尔处理器的 21.5 英寸 iMac。\nIT之家援引苹果官方定义，过时产品是指 Apple 停止发售之日起已超过 5 年但未满 7 年的产品。按苹果规定，该机型将在 2028 年彻底进入“停产”（Discontinued / Obsolete）行列，也就是停止发售之日起已超过 7 年的产品。\n2019 款 21.5 英寸 iMac 采用第八代英特尔处理器与全新 AMD Radeon",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "苹果2019款21.5英寸Intel iMac被列入过时名单，2028年将彻底停产。",
       "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家引央视新闻，基于国新办发布会官方数据，信息具体可信"
+      "credibilityReason": "IT之家援引AppleInsider及苹果官方定义，信息具体，来源可靠，时效性强。"
     },
     {
-      "title": "工信部、国家发改委：“十五五”规划提高先进制程能力，突破高端手机核心芯片、PC 高性能芯片，加强开源鸿蒙等国产操作系统搭载",
-      "link": "https://www.ithome.com/1/002/403.htm",
-      "pubDate": "Tue, 15 Sep 2026 01:33:36 GMT",
-      "contentSnippet": "IT之家 9 月 15 日消息，为推动电子信息制造业高质量发展，工业和信息化部、国家发展改革委今日宣布联合印发《电子信息制造业发展“十五五”规划》（以下简称《规划》）。\n《规划》锚定基本实现新型工业化目标，明确以推动高质量发展为主题，统筹高质量发展和高水平安全，抢抓人工智能发展机遇，加快电子信息制造业全产业链创新，按照“筑基、提质、育新、治理”思路，部署了筑牢产业基础能力、增强电子整机与系统竞争力、培育产业发展新增长点、增强产业可持续发展能力等共 17 项任务、9 个专栏，突出场景和需求牵引，通过集成攻关、国产替代、生态建设等举措，补短锻长强基，抢占未来发展优势。\n《规划》预计到 2030 年",
+      "title": "小米推出 4999 元米家冰箱 Pro 439L 法式 自动制冰新品，国补价 4249.2 元",
+      "link": "https://www.ithome.com/1/002/979.htm",
+      "pubDate": "Wed, 16 Sep 2026 03:40:02 GMT",
+      "contentSnippet": "IT之家 9 月 16 日消息，小米官方今日宣布推出“米家冰箱 Pro 439L 法式 自动制冰”，官方指导价 4999 元，国补后到手价 4249.15 元起。\n京东米家冰箱 Pro 439L 自动制冰 双系统急速净味除菌新国标一级法式零嵌入 BCD-439WFSGPDIN 补贴 4999 元直达链接\n该冰箱支持 -30℃ 深冷瞬冻，运行噪音 32 分贝，日均耗电 0.69 度，压缩机提供 10 年包修服务。它还支持四档可调变温空间，可切换母婴、干货、零度、果蔬四种模式。配备水分子筛高保湿技术，果蔬保湿鲜存 7 天；支持 -30℃ 深冷瞬冻。\n\n其机身宽度 702mm，深度 597mm，占地",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -33,33 +220,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "工信部与发改委印发电子信息制造业“十五五”规划，部署提高先进制程、突破高端芯片及加强国产操作系统搭载等任务。",
-      "credibilityScore": 92,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，报道官方政策文件，信息具体，有明确发布机构和任务细节，可信度高。"
-    },
-    {
-      "title": "岚图梦想家 9 车型 9 月 22 日上市：首搭虎踞 P 底盘，预售价 42.99 万元起",
-      "link": "https://www.ithome.com/1/002/517.htm",
-      "pubDate": "Tue, 15 Sep 2026 04:05:28 GMT",
-      "contentSnippet": "IT之家 9 月 15 日消息，在今日举行的岚图汽车虎踞智能底盘技术交流日上，岚图汽车宣布推出中国首个自主正向研发的旗舰 MPV 专属智能底盘 —— 虎踞 P 方案。\n\n岚图汽车董事长卢放同时宣布，岚图梦想家 9 将于 9 月 22 日正式上市，首搭岚图虎踞 P 底盘。岚图梦想家 9 已于 9 月 5 日开启预售，共推出 5 款车型，预售价 42.99 万元至 52.99 万元。开启预售 48 小时小订突破 30000 台。\n\n外观方面，新车配备 HUAWEI XPIXEL 双百万像素智慧投影大灯，前脸为扶摇直上龙鳞叠压式竖幅镀铬格栅，搭配鲲鹏展翅分体式贯穿大灯，内置北斗七星星芒灯光点阵。车身",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "岚图梦想家9将于9月22日上市，首搭虎踞P底盘，预售价42.99万元起。",
+      "aiSummary": "小米推出米家冰箱Pro 439L法式自动制冰新品，售价4999元，国补后4249.15元起。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息含具体技术、价格及预售数据，来源为官方技术交流日，但缺少独立验证。"
+      "credibilityReason": "来源为知名科技媒体IT之家，产品参数具体详实，含价格、技术规格等细节，但缺少官方原始链接引用。"
     },
     {
-      "title": "HORI 为 Nintendo Switch 2 带来复古格斗控制器，采用模块化摇杆",
-      "link": "https://www.ithome.com/1/002/516.htm",
-      "pubDate": "Tue, 15 Sep 2026 04:01:57 GMT",
-      "contentSnippet": "IT之家 9 月 15 日消息，日本外设制造商 HORI 昨日公布了 HORI Arcade Classic Pro for Nintendo Switch 2 复古街机控制器。这款设备同时支持 Nintendo Switch，并通过 XInput 兼容运行 Windows 操作系统的设备。\n\nHORI Arcade Classic Pro for Nintendo Switch 2 采用模块化设计，左右两侧区域支持八向 / 四向摇杆、轨迹球、旋钮、八向摇杆 & 旋钮 4 种输入设备，用户可根据自身喜好安装在面板上；此外，其具备连击和按键分配功能。\n\n这款产品将于 2027 年 2 月 28",
+      "title": "vivo 自研蓝河操作系统 4 发布，WATCH 6 手表首发搭载",
+      "link": "https://www.ithome.com/1/002/977.htm",
+      "pubDate": "Wed, 16 Sep 2026 03:35:30 GMT",
+      "contentSnippet": "IT之家 9 月 16 日消息，在今日的 2026 vivo 开发者大会上，vivo 自研蓝河操作系统 4 正式发布，推出智能体操作系统（AgentOS）技术预览版，宣称“把生产力装进口袋”。\n\nIT之家从大会获悉，vivo WATCH 6 手表将首发搭载蓝河操作系统 4。该手表将于 9 月 21 日 19:00 发布，采用蓝宝石玻璃表镜设计，拥有超轻薄表体，支持进阶跑步指导等功能。",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -67,50 +237,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "HORI发布Switch 2复古街机控制器，采用模块化摇杆设计，2027年2月上市。",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "IT之家为知名科技媒体，产品细节具体，但缺少官方来源链接且发布时间为未来日期存疑。"
+      "aiSummary": "vivo发布自研蓝河操作系统4及AgentOS预览版，WATCH 6手表将首发搭载。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息源自vivo开发者大会，含具体产品与时间细节，但缺少技术参数和原始出处链接。"
     },
     {
-      "title": "阿莫迪口嗨AI减速，这边Opus 5.2疑似已灰测",
-      "link": "https://www.tmtpost.com/8140043.html",
-      "pubDate": "Tue, 15 Sep 2026 12:00:55 +0800",
-      "contentSnippet": "倡议归倡议，竞争不能停。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体报道阿莫迪呼吁AI减速，同时Opus 5.2疑似已开始灰测。",
-      "credibilityScore": 55,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体，但内容极简略，缺少技术细节与原始出处，标题偏口语化。"
-    },
-    {
-      "title": "被KPI化“强暴”后的公关，该怎么办？",
-      "link": "https://www.tmtpost.com/8140033.html",
-      "pubDate": "Tue, 15 Sep 2026 12:00:50 +0800",
-      "contentSnippet": "KPI从工具变成目的，我们就是数据饲养员。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体评论公关行业被KPI异化，沦为数据驱动的工具。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体，观点评论类文章，但标题情绪化，缺乏具体数据和原始出处。"
-    },
-    {
-      "title": "惠普战 X Pro 锐龙版上市：锐龙 AI 9 HX Pro 470、64GB + 2TB 存储，29999 元",
-      "link": "https://www.ithome.com/1/002/515.htm",
-      "pubDate": "Tue, 15 Sep 2026 04:00:26 GMT",
-      "contentSnippet": "IT之家 9 月 15 日消息，惠普战 X Pro 14 2026 锐龙版现已在京东上架开售，采用高雅尊爵蓝配色，搭载 AMD 锐龙 AI 9 HX Pro 470 处理器，配备 64GB 内存、2TB 固态硬盘，定价 29999 元。\n京东惠普（HP）战 X Pro 14 英寸 2026 轻薄办公笔记本电脑全新 AMD 锐龙 AI 9HX Pro 470 64G 2T OLED 2.8K 意外险蓝色 29999 元直达链接\n2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取。\n数码补贴：点此领券\n\n手机 / 平板 / 3C 数码支持 8.5 折政",
+      "title": "vivo OriginOS 7 升级计划公布，首批 10 月 9 日开启",
+      "link": "https://www.ithome.com/1/002/976.htm",
+      "pubDate": "Wed, 16 Sep 2026 03:29:37 GMT",
+      "contentSnippet": "IT之家 9 月 16 日消息，在今日举行的 2026 vivo 开发者大会上，vivo 官方发布了最新一代 OriginOS 7，将于 10 月正式开启升级。\nIT之家附升级计划如下：\n2026 年 10 月 9 日开启\nvivo\n\nX Fold6\n\nX Fold5\n\nX300 Utra 卫星通信版\n\nX300 Ultra\n\nX300 Pro 卫星通信版\n\nX300 Pro\n\nX300s\n\nX300\n\nX300E\n\nvivo Pad6 Pro\n\niQOO\n\niQOO 15 Ultra\n\niQOO 15\n\niQOO 15T\n\niQOO Neo11 至尊版\n\niQOO Neo11\n\niQOO P",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -118,146 +254,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "惠普战X Pro锐龙版上架，搭锐龙AI 9 HX Pro 470、64GB+2TB，售价29999元。",
+      "aiSummary": "vivo发布OriginOS 7，10月9日首批升级X300系列及iQOO机型",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，产品配置、价格、平台信息具体，但缺少官方来源引用。"
-    },
-    {
-      "title": "新信号，中国地方“风投”正集体转向",
-      "link": "https://www.tmtpost.com/8140030.html",
-      "pubDate": "Tue, 15 Sep 2026 11:56:02 +0800",
-      "contentSnippet": "多地政府投资基金正转向精细化、制度化。四川率先发布89个细分赛道清单，并允许单个项目100%亏损，解决“敢不敢投”与“投什么”问题。全国多省跟进，政府基金从拼政策优惠进入拼制度供给新阶段。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国地方政府投资基金转向精细化制度化，四川率先发布89个细分赛道清单并允许单个项目100%亏损。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容具体有政策细节，但缺少原始文件引用，属分析性报道。"
-    },
-    {
-      "title": "国产GPU“四小龙”齐聚资本市场：6132亿市值之后，真正的考验才刚开始",
-      "link": "https://www.tmtpost.com/8140099.html",
-      "pubDate": "Tue, 15 Sep 2026 11:55:58 +0800",
-      "contentSnippet": "国产GPU、四小龙、燧原科技、沐曦股份 、摩尔线程 、壁仞科技、科创板、寒武纪。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体分析国产GPU四小龙齐聚资本市场，市值6132亿后迎真正考验",
-      "credibilityScore": 78,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，选题具体有数据，但正文摘要仅列关键词，信息详实度不足"
-    },
-    {
-      "title": "瑞士医疗企业Scanvio Medical研发AI辅助妇科超声诊断软件，提高子宫内膜异位症诊断效率",
-      "link": "https://www.tmtpost.com/8140119.html",
-      "pubDate": "Tue, 15 Sep 2026 11:55:52 +0800",
-      "contentSnippet": "实时解析妇科超声影像。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "瑞士Scanvio Medical研发AI妇科超声软件，提升子宫内膜异位症诊断效率。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "钛媒体为知名科技媒体，但正文仅一句话，缺乏技术细节、数据与原始出处。"
-    },
-    {
-      "title": "智谱为什么还需要融资",
-      "link": "https://www.tmtpost.com/8140067.html",
-      "pubDate": "Tue, 15 Sep 2026 11:48:21 +0800",
-      "contentSnippet": "上市的尽头不是自给自足，而是更高杠杆、更大规模的融资能力。在这个意义上，智谱的335亿和宇树的暴跌，讲的是同一个故事。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体分析智谱AI融资逻辑，认为上市意在获取更高杠杆融资能力。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "钛媒体为知名科技媒体，但摘要偏观点评论，缺少具体数据与原始出处支撑。"
-    },
-    {
-      "title": "阿莫迪所说的“僵尸网络”到底有多恐怖？",
-      "link": "https://www.tmtpost.com/8140051.html",
-      "pubDate": "Tue, 15 Sep 2026 11:48:15 +0800",
-      "contentSnippet": "许愿容易，收场难。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体解析阿莫迪所称'僵尸网络'的威胁程度，但正文信息严重不足。",
-      "credibilityScore": 45,
-      "credibilityLevel": "low",
-      "credibilityReason": "来源为知名媒体，但正文仅一句评论，缺乏技术细节、数据与原始出处，难以核实。"
-    },
-    {
-      "title": "高瓴创投90后大牛，空降DeepSeek当CFO",
-      "link": "https://www.tmtpost.com/8140058.html",
-      "pubDate": "Tue, 15 Sep 2026 11:48:10 +0800",
-      "contentSnippet": "DeepSeek敲定新任CFO。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体报道DeepSeek任命高瓴创投90后新任CFO，正文仅一句话。",
-      "credibilityScore": 55,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，但正文仅一句话，缺乏具体姓名、背景等细节，信息量严重不足。"
-    },
-    {
-      "title": "我们需要警惕一种情形：美国AI巨头的“减速论”，可能会对开源模型构成实质性绞杀",
-      "link": "https://www.tmtpost.com/8140111.html",
-      "pubDate": "Tue, 15 Sep 2026 11:43:45 +0800",
-      "contentSnippet": "争霸战的赢家，属于那个先让利润追上故事的人。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体评论称美国AI巨头'减速论'或对开源模型构成实质性绞杀",
-      "credibilityScore": 62,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体，但属观点评论，正文摘要过短，缺少具体事实与数据支撑"
-    },
-    {
-      "title": "耐克和lululemon双双失速，运动品牌进入碎片化时代",
-      "link": "https://www.tmtpost.com/8140080.html",
-      "pubDate": "Tue, 15 Sep 2026 11:43:39 +0800",
-      "contentSnippet": "耐克和lululemon为何双双失速。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "耐克与lululemon业绩双双失速，运动品牌市场进入碎片化时代。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "钛媒体为知名科技商业媒体，选题有行业洞察，但正文摘要过简，缺少数据与原始出处支撑。"
+      "credibilityReason": "IT之家为知名科技媒体，内容具体含升级机型清单，但正文有错别字且无原始出处链接"
     }
   ]
 }
