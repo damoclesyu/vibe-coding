@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-16T04:06:06.299Z",
+  "generatedAt": "2026-09-17T04:12:51.996Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "通用汽车让步，部分燃油车继续支持苹果 CarPlay 车联方案",
-      "link": "https://www.ithome.com/1/003/004.htm",
-      "pubDate": "Wed, 16 Sep 2026 04:00:44 GMT",
-      "contentSnippet": "IT之家 9 月 16 日消息，彭博社昨日（9 月 15 日）发布博文，报道称通用汽车（GM）宣布让步，在部分燃油车型中会继续保留支持苹果 CarPlay 车联方案。\n通用汽车在 2023 年宣布，在未来推出的电动汽车中，将会放弃支持 CarPlay 车联方案，对于 iPhone 用户而言，无法直接把导航、音乐、通信等界面投射到原厂车机屏幕上。\nIT之家今年 9 月报道，通用汽车旗下凯迪拉克于 8 月上线  2027 款车型的在线配置器，2027 款 Lyriq 页面显示依然标配支持苹果 CarPlay 和谷歌 Android Auto 车联方案，是通用电动车取消 CarPlay 策略后出现的",
+      "title": "广电总局：使用 AI 的广电视听节目必须添加内容标识，严禁 AI 魔改",
+      "link": "https://www.ithome.com/1/003/428.htm",
+      "pubDate": "Thu, 17 Sep 2026 03:02:09 GMT",
+      "contentSnippet": "IT之家 9 月 17 日消息，国务院新闻办公室今天举行“开局起步‘十五五’”系列主题新闻发布会，国家广播电视总局有关负责人介绍“十五五”时期加快推动广播电视和网络视听高质量发展有关情况。\n据央视新闻报道，会上介绍，广电视听是人工智能创新发展的重要领域，也是人工智能落地应用的实践沃土。当前，人工智能技术已经广泛应用于电视剧、网络剧、微短剧、综艺、动画片等不同类型节目的策划、制作、审核、传播、服务等各环节，行业人工智能应用非常广泛。\n“十五五”期间，国家广播电视总局将在继续深化人工智能在广电视听领域各环节创新应用的同时，统筹发展与安全，坚持技术服务于人、技术服务于创作，积极引导、规范人工智能在视",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,16 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "通用汽车让步，部分燃油车将继续支持苹果CarPlay车联方案",
-      "credibilityScore": 82,
+      "aiSummary": "广电总局要求AI广电视听节目添加内容标识，严禁AI魔改",
+      "credibilityScore": 92,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家编译彭博社报道，有明确原始出处，信息具体，涉及通用汽车政策变化，逻辑清晰"
+      "credibilityReason": "来源为IT之家引央视新闻，属官方发布会信息，权威性高，内容具体"
     },
     {
-      "title": "雅马哈发布旗下最紧凑杜比全景声回音壁 B200A，长度 60cm",
-      "link": "https://www.ithome.com/1/002/992.htm",
-      "pubDate": "Wed, 16 Sep 2026 03:57:10 GMT",
-      "contentSnippet": "IT之家 9 月 16 日消息，Yamaha（雅马哈）本月 15 日宣布推出该企业旗下最紧凑的杜比全景声认证条形音箱（回音壁）产品 B200A。\n这一型号长度仅有 60cm，定价 1,580 元人民币 / 249.95 美元（IT之家注：现汇率约合 1,681 元人民币)。\n\n雅马哈消费音频总监 Alex Sadeghian 表示：\n\nB200A 的设计初衷是为那些既想获得更佳音质又不想占用太多空间的用户打造。\n无论是在卧室、公寓、家庭办公室还是游戏环境中，B200A 都能以紧凑的设计提供清晰、沉浸式的音效，让您轻松融入日常生活。\n\n\n雅马哈 B200A 内置 2 个 4.6cm 全频扬声器",
+      "title": "新突破！我国实现氪同位素测厚源“全国产化”",
+      "link": "https://www.ithome.com/1/003/422.htm",
+      "pubDate": "Thu, 17 Sep 2026 02:50:05 GMT",
+      "contentSnippet": "IT之家 9 月 17 日消息，据央视新闻今日报道，中核集团旗下中核四〇四有限公司在放射性同位素技术领域取得了突破性成果，标志着我国实现了氪同位素测厚源从“依赖进口”到“全国产化”的跨越。\n据了解，氪同位素作为重要的放射性同位素，在工业测厚、仪器仪表校准、示踪监测等方面应用广泛，尤其在新能源电池、特种造纸、薄膜等高端制造业的质量控制中不可或缺。\n此次，中核四〇四成功研制出具有自主知识产权的多种规格氪同位素测厚源产品，可匹配不同工业测厚应用场景的需求，这为我国高端制造业可持续、高质量发展提供了坚实保障。\nIT之家查询公开资料获悉，中核四〇四隶属于中国核工业集团有限公司，是根据国家发展需要，于 1",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -33,16 +33,50 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "雅马哈发布最紧凑杜比全景声回音壁B200A，长60cm，售价1580元。",
+      "aiSummary": "中核四〇四实现氪同位素测厚源全国产化，打破进口依赖。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家引央视新闻，主体为中核集团，信息具体但缺技术数据与原始报告。"
+    },
+    {
+      "title": "广电总局：电视“套娃”收费治理显著，全国电视频道虚假宣传医药广告已全面清除",
+      "link": "https://www.ithome.com/1/003/414.htm",
+      "pubDate": "Thu, 17 Sep 2026 02:34:56 GMT",
+      "contentSnippet": "IT之家 9 月 17 日消息，国务院新闻办公室今天举行“开局起步‘十五五’”系列主题新闻发布会，国家广播电视总局（简称广电总局）有关负责人介绍“十五五”时期加快推动广播电视和网络视听高质量发展有关情况。\n据央视新闻报道，会上介绍，过去三年，广电总局联合多部门持续推进电视“套娃”收费和操作复杂治理，成效显著。进入“十五五”，将在“双治理”基础上，向服务和体验“双提升”迈进：\n\n推广一体化电视等新型终端，更好满足人民群众便捷操作需求。今年，广电总局会同工信部，制定一体化电视技术标准，将机顶盒功能以软件形态内置于电视机中，打造极简终端形态，一台电视即可畅享直播、点播等全类型电视业务，用户配备通用遥",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "广电总局称电视套娃收费治理成效显著，虚假医药广告已全面清除。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家引央视新闻，属官方发布会信息，内容具体但缺原始文件链接。"
+    },
+    {
+      "title": "谷歌推送安卓 17 QPR2 Beta 5 更新：修复通话后蓝牙音频失真等问题",
+      "link": "https://www.ithome.com/1/003/470.htm",
+      "pubDate": "Thu, 17 Sep 2026 03:58:47 GMT",
+      "contentSnippet": "IT之家 9 月 17 日消息，科技媒体 Android Authority 昨日（9 月 16 日）发布博文，报道称谷歌已面向 Pixel 6a 到 Pixel 11 系列手机，推送安卓 17 QPR2 Beta 5 更新，整合 8 项修复。\n在推送版本方面，IT之家援引博文介绍，谷歌分为 2 个不同版本分发：\n\nBuild CP41.260828.005.A6：主要面向旧款设备，涵盖 Pixel 6a、Pixel 7 系列、Pixel Fold 和 Pixel Tablet。\n\nBuild CP41.260828.004.A8：适用于所有较新的硬件，包括 Pixel 8、Pixel 9、P",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "谷歌推送安卓17 QPR2 Beta 5更新，修复蓝牙音频失真等8项问题",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息含具体尺寸、价格、扬声器规格及高管引述，来源明确。"
+      "credibilityReason": "IT之家援引Android Authority，含具体版本号与机型细节，来源可靠，内容具体"
     },
     {
-      "title": "荣耀 Magic9 系列手机官宣搭载自研影像芯片荣耀驭光 H1：RAW 域视频无损降噪、信噪比提升 8dB，6nm 工艺",
-      "link": "https://www.ithome.com/1/002/986.htm",
-      "pubDate": "Wed, 16 Sep 2026 03:53:57 GMT",
-      "contentSnippet": "IT之家 9 月 16 日消息，荣耀 Magic 盛典暨荣耀 Magic9 系列新品发布会定档 9 月 28 日在北京举行。\n荣耀官方今日宣布，荣耀 Magic9 系列手机搭载自研影像芯片荣耀驭光 H1，采用 6nm 工艺，支持 RAW 域视频无损降噪，信噪比提升 8dB。\n\n据介绍，荣耀 Magic9 系列手机由阿莱联合研发，采用大导之眼设计，后置“电影三摄镜头系统”，搭载阿莱双两亿超清影像，首发 500mm 荣耀巨炮增距镜。新机还同时支持全新阿莱电影模式，号称“掌中电影机”。\n荣耀 Magic9 系列手机将支持阿莱色彩科学，包括：AWG3 广色域、阿莱官方全套 Look、APV 无损编码、",
+      "title": "朱江明回应零跑智驾何时追上特斯拉 FSD：没有可比性，中国车不能到美国，FSD 也没在中国落地",
+      "link": "https://www.ithome.com/1/003/456.htm",
+      "pubDate": "Thu, 17 Sep 2026 03:56:14 GMT",
+      "contentSnippet": "IT之家 9 月 17 日消息，2026 零跑技术日发布会后，零跑科技创始人、董事长、CEO 朱江明，零跑科技高级副总裁曹力，零跑科技高级副总裁周洪涛，零跑科技高级副总裁巫存，零跑科技高级副总裁宋忆宁与媒体对话。\n据新浪科技报道，被问及何时追上特斯拉 FSD，朱江明回应称，与特斯拉没有可比性，因为中国的车不能到美国去，特斯拉的 FSD 也还没在中国落地，这个就无解了。“马斯克怎么说都可以，怎么厉害都可以，因为都比不了。”\n但他指出，中国的路况是最难的，美国的外卖小哥也没中国多，路况完全不一样。在中国这样复杂的环境下，目前中国车企的智驾团队都很努力，而且越做越好，将来是一周不要接管，甚至半个月都",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -50,16 +84,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "荣耀官宣Magic9系列搭载自研6nm影像芯片驭光H1，支持RAW域视频降噪，信噪比提升8dB。",
+      "aiSummary": "零跑CEO朱江明回应智驾追赶特斯拉FSD，称两者无直接可比性。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息含具体芯片工艺、技术参数及发布时间，但部分宣传性表述缺乏第三方验证。"
+      "credibilityReason": "来源为IT之家，引用新浪科技，有具体人物和直接引语，但缺少技术数据支撑。"
     },
     {
-      "title": "华为智慧屏 Mate TV 2 将于 9 月 23 日开启预售，支持隔空艺语双控投屏等功能",
-      "link": "https://www.ithome.com/1/002/985.htm",
-      "pubDate": "Wed, 16 Sep 2026 03:51:33 GMT",
-      "contentSnippet": "IT之家 9 月 16 日消息，华为商城显示，华为智慧屏 Mate TV 2 将于 9 月 23 日 10:08 开启预售。\n官方预热信息确认，这款新品延续灵犀悬浮触控、灵犀指向遥控和灵犀手写笔配件。\n\n官方海报显示，华为智慧屏 Mate TV 2 搭载鸿蒙系统（IT之家注：上一代 MateTV 搭载 HarmonyOS 6.1），支持鸿蒙应用多路径下载。此外，新品还支持隔空手势抓取、艺语画面即投、立体视界等功能。\n\n结合此前爆料，MateTV 2 系列在画质、音质和智慧体验上均有迭代。98 英寸和 110 英寸版本支持原生 3D 及 2D 转 3D，预计采用 Super Mini LED 背",
+      "title": "朱江明：零跑近期不会把人形机器人作为重点，将来真正能带来价值的还是非人形",
+      "link": "https://www.ithome.com/1/003/451.htm",
+      "pubDate": "Thu, 17 Sep 2026 03:51:29 GMT",
+      "contentSnippet": "9 月 17 日上午消息，2026 零跑技术日发布会后，零跑科技创始人、董事长、CEO 朱江明，零跑科技高级副总裁曹力，零跑科技高级副总裁周洪涛，零跑科技高级副总裁巫存，零跑科技高级副总裁宋忆宁与媒体对话。\n\n在技术日上，面对火热的具身智能赛道，朱江明表态：“不炒概念、择机落地。能遛一遛的机器人不算本事，能赚钱的机器人才拿得出手。”据介绍，零跑人形机器人已实现完全自研、进入测试阶段，电机、控制器、电池、感知算法、计算平台等底层能力全部自主掌握；公司正小规模投入、积极探索可规模化落地、具备商业价值的应用场景。\n在对话中，谈及机器人话题，朱江明表示，零跑的机器人还在预研阶段，要至少能走能跑，现在机",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -67,33 +101,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "华为智慧屏Mate TV 2将于9月23日预售，搭载鸿蒙系统并支持隔空手势等新功能。",
-      "credibilityScore": 82,
+      "aiSummary": "零跑CEO朱江明称人形机器人非近期重点，能赚钱的机器人才有价值",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，信息具体含日期、功能细节，但部分内容基于爆料，官方信息有限。"
+      "credibilityReason": "IT之家为知名科技媒体，报道含具体人物、时间、直接引语及技术细节，来源明确"
     },
     {
-      "title": "AI 让人人都能开发 App，vivo 应用商店开放个人开发者通道",
-      "link": "https://www.ithome.com/1/002/984.htm",
-      "pubDate": "Wed, 16 Sep 2026 03:51:30 GMT",
-      "contentSnippet": "IT之家 9 月 16 日消息，在今日的 2026 vivo 开发者大会上，vivo 宣布应用商店开放个人开发者通道。\n\nIT之家从大会获悉，个人开发者通道只需要个人实名认证，官方将有序开放 AI 应用、蓝河应用、IoT 应用。\nvivo 官方表示，AI 让应用开发门槛大幅降低，开放个人开发者通道，可以让更多创新被看见。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "vivo开发者大会宣布应用商店开放个人开发者通道，支持AI、蓝河、IoT应用。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道基于vivo开发者大会官方信息，内容具体但细节有限。"
-    },
-    {
-      "title": "高瓴90后，成了梁文锋的CFO",
-      "link": "https://www.tmtpost.com/8140956.html",
-      "pubDate": "Wed, 16 Sep 2026 11:47:45 +0800",
-      "contentSnippet": "空了很久的位置要坐上人了",
+      "title": "行业模型不是通用模型缩小版，百望王志伟谈财税大模型落地产业实景",
+      "link": "https://www.tmtpost.com/8143131.html",
+      "pubDate": "Thu, 17 Sep 2026 11:50:19 +0800",
+      "contentSnippet": "发票是企业经营的数字DNA，百望股份用260亿张交易凭证，喂出一套财税大模型。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -101,16 +118,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体报道高瓴背景90后将出任DeepSeek梁文锋的CFO",
-      "credibilityScore": 55,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体，但正文仅一句话，缺乏具体人名、数据与原始出处，信息量不足"
+      "aiSummary": "百望股份用260亿张交易凭证训练财税大模型，王志伟谈行业模型落地",
+      "credibilityScore": 78,
+      "credibilityLevel": "high",
+      "credibilityReason": "钛媒体为知名科技媒体，含具体数据260亿张凭证及高管观点，但细节有限"
     },
     {
-      "title": "小破站砸10亿搞AI，图啥？",
-      "link": "https://www.tmtpost.com/8140959.html",
-      "pubDate": "Wed, 16 Sep 2026 11:47:43 +0800",
-      "contentSnippet": "买的是增长，还是入场券？",
+      "title": "超节点如何成为AI算力的新答案？丨ToB产业观察",
+      "link": "https://www.tmtpost.com/8142959.html",
+      "pubDate": "Thu, 17 Sep 2026 11:49:59 +0800",
+      "contentSnippet": "超节点的故事，就像是AI产业从“拼单点”走向“拼系统”的缩影。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -118,50 +135,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体报道B站投入10亿布局AI，分析其战略意图与增长考量。",
+      "aiSummary": "钛媒体分析超节点成为AI算力新方向，反映产业从单点走向系统化。",
       "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，但正文仅一句设问，缺少具体数据与技术细节，信息量不足。"
+      "credibilityReason": "知名科技媒体，选题专业，但摘要过简，缺少数据与原始出处支撑。"
     },
     {
-      "title": "华为“放手”，赛力斯接手：问界主导权交接的一本账",
-      "link": "https://www.tmtpost.com/8141173.html",
-      "pubDate": "Wed, 16 Sep 2026 11:47:38 +0800",
-      "contentSnippet": "9月15日，一则消息让汽车圈和资本市场同时绷紧了神经。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "华为将问界主导权交接给赛力斯，引发汽车圈和资本市场关注。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，但正文摘要信息简略，缺少具体数据与原始出处支撑。"
-    },
-    {
-      "title": "71进15，车企要留在牌桌上，为什么绕不开“造好大车”？",
-      "link": "https://www.tmtpost.com/8140968.html",
-      "pubDate": "Wed, 16 Sep 2026 11:47:35 +0800",
-      "contentSnippet": "如何留在牌桌上？比销量更重要的一定是持续造血能力。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体分析车企竞争格局，指出造好大车是留在牌桌的关键。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，但正文摘要过简，缺少具体数据与原始出处支撑。"
-    },
-    {
-      "title": "吉利回应电池公司被宁德时代收购：未放弃电池自研，“85 亿元投资”不实",
-      "link": "https://www.ithome.com/1/002/982.htm",
-      "pubDate": "Wed, 16 Sep 2026 03:46:30 GMT",
-      "contentSnippet": "IT之家 9 月 16 日消息，国家市场监督管理总局公布的 2026 年 8 月 31 日至 9 月 6 日无条件批准经营者集中案件列表显示，“宁德时代新能源科技股份有限公司收购重庆耀宁新能源科技有限公司（下称重庆耀宁）股权案”已于 9 月 3 日审结，参与集中的经营者为宁德时代与极氪汽车（上海）有限公司。\n重庆耀宁成立于 2021 年 12 月，目前由江苏耀宁新能源有限公司 100% 持股；江苏耀宁的控股股东为浙江吉曜通行能源科技有限公司（下称吉曜通行），持股比例为 82.912%。吉曜通行成立于 2025 年 1 月，是吉利控股集团旗下的一级集团，同年 10 月成为江苏耀宁新进股东。\n据新",
+      "title": "一航班落地后客舱冒烟，湖南航空回应称旅客携带的充电宝出现明火",
+      "link": "https://www.ithome.com/1/003/449.htm",
+      "pubDate": "Thu, 17 Sep 2026 03:48:17 GMT",
+      "contentSnippet": "IT之家 9 月 17 日消息，有多名网友近日反映，9 月 15 日晚，湖南航空 A67776 航班在落地长沙后机舱后舱着火。视频中旅客疑似正排队下飞机，飞机后舱可以看到大量烟雾，现场旅客催促赶紧撤离，空乘人员在安抚乘客情绪。\n\n湖南航空今日发布回应公告：\n\n9 月 15 日，A67776（成都天府-长沙）航班正常落地长沙并开启舱门，在旅客下机过程中，一名旅客随身携带的充电宝出现明火。机组发现后立即进行处置并组织旅客有序下机，明火被及时扑灭。事件未造成人员受伤，客舱设施未受损。\n湖南航空提醒广大旅客朋友，在乘机出行时，优先选择不携带充电宝，如需携带，按照符合“3C 认证”等相关要求检查随身携带",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -169,50 +152,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "吉利回应宁德时代收购其电池公司传闻，否认放弃电池自研及85亿元投资",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，引用国家市场监管总局公示信息，事实具体，但正文不完整"
-    },
-    {
-      "title": "消息称三星电子扩大通用存储器模组制造外包规模，自有产能聚焦高阶产品",
-      "link": "https://www.ithome.com/1/002/981.htm",
-      "pubDate": "Wed, 16 Sep 2026 03:41:07 GMT",
-      "contentSnippet": "IT之家 9 月 16 日消息，韩媒 THE ELEC 当地时间昨日报道称，三星电子正积极扩大通用存储器模组制造业务的外包规模，以将更多资源分配至 AI 半导体后端生产。\n\n报道指出，三星电子目前仍极度缺乏半导体洁净室空间和制造设备。将位于韩国温阳、天安的现有封装厂用于 DDR5 内存模组、固态硬盘等通用产品的生产甚至可以说是在“浪费”资源。\n\n在此背景下，三星电子希望让制造合作伙伴承接更多的通用存储器模组制造订单，释放可用于先进高阶产品扩产的自家资源。Dreamtech、HANYANGDGT、SFA Semiconductor 等合作方正分别在印度、越南、菲律宾扩充产能。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "三星扩大通用存储器模组外包，自有产能转向AI半导体后端生产",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家引述韩媒THE ELEC报道，信息具体含合作方与产能布局，逻辑清晰，但非一手信源"
-    },
-    {
-      "title": "谢幕倒计时：苹果最后一款 21.5 英寸 Intel iMac 已“过时”",
-      "link": "https://www.ithome.com/1/002/980.htm",
-      "pubDate": "Wed, 16 Sep 2026 03:41:00 GMT",
-      "contentSnippet": "IT之家 9 月 16 日消息，科技媒体 AppleInsider 今天（9 月 16 日）发布博文，报道称 2019 款 21.5 英寸 iMac 已被列入“过时”（vintage）名单，这也是苹果最后一款搭载英特尔处理器的 21.5 英寸 iMac。\nIT之家援引苹果官方定义，过时产品是指 Apple 停止发售之日起已超过 5 年但未满 7 年的产品。按苹果规定，该机型将在 2028 年彻底进入“停产”（Discontinued / Obsolete）行列，也就是停止发售之日起已超过 7 年的产品。\n2019 款 21.5 英寸 iMac 采用第八代英特尔处理器与全新 AMD Radeon",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "苹果2019款21.5英寸Intel iMac被列入过时名单，2028年将彻底停产。",
+      "aiSummary": "湖南航空航班落地后旅客充电宝起火冒烟，官方回应已及时扑灭无人受伤。",
       "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家援引AppleInsider及苹果官方定义，信息具体，来源可靠，时效性强。"
+      "credibilityReason": "IT之家为知名科技媒体，引用官方公告及现场视频，信息具体且来源明确。"
     },
     {
-      "title": "小米推出 4999 元米家冰箱 Pro 439L 法式 自动制冰新品，国补价 4249.2 元",
-      "link": "https://www.ithome.com/1/002/979.htm",
-      "pubDate": "Wed, 16 Sep 2026 03:40:02 GMT",
-      "contentSnippet": "IT之家 9 月 16 日消息，小米官方今日宣布推出“米家冰箱 Pro 439L 法式 自动制冰”，官方指导价 4999 元，国补后到手价 4249.15 元起。\n京东米家冰箱 Pro 439L 自动制冰 双系统急速净味除菌新国标一级法式零嵌入 BCD-439WFSGPDIN 补贴 4999 元直达链接\n该冰箱支持 -30℃ 深冷瞬冻，运行噪音 32 分贝，日均耗电 0.69 度，压缩机提供 10 年包修服务。它还支持四档可调变温空间，可切换母婴、干货、零度、果蔬四种模式。配备水分子筛高保湿技术，果蔬保湿鲜存 7 天；支持 -30℃ 深冷瞬冻。\n\n其机身宽度 702mm，深度 597mm，占地",
+      "title": "一箭双星，我国成功发射天仪 51、52 星",
+      "link": "https://www.ithome.com/1/003/447.htm",
+      "pubDate": "Thu, 17 Sep 2026 03:45:46 GMT",
+      "contentSnippet": "IT之家 9 月 17 日消息，据央视新闻报道，北京时间 2026 年 9 月 17 日 10 时 40 分，我国在酒泉卫星发射中心使用快舟十一号遥三运载火箭，成功将天仪 51、52 星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。\n此次任务是快舟十一号运载火箭的第 7 次飞行。\n\nIT之家注意到，今天早些时候，我国还在海南商业航天发射场使用长征十二号运载火箭，成功将卫星互联网低轨 25 组卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -220,16 +169,86 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "小米推出米家冰箱Pro 439L法式自动制冰新品，售价4999元，国补后4249.15元起。",
-      "credibilityScore": 82,
+      "aiSummary": "我国在酒泉成功发射天仪51、52星，快舟十一号火箭完成第7次飞行。",
+      "credibilityScore": 92,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，产品参数具体详实，含价格、技术规格等细节，但缺少官方原始链接引用。"
+      "credibilityReason": "来源为IT之家引央视新闻，含具体时间、地点、火箭型号及任务次数，信息详实权威。"
     },
     {
-      "title": "vivo 自研蓝河操作系统 4 发布，WATCH 6 手表首发搭载",
-      "link": "https://www.ithome.com/1/002/977.htm",
-      "pubDate": "Wed, 16 Sep 2026 03:35:30 GMT",
-      "contentSnippet": "IT之家 9 月 16 日消息，在今日的 2026 vivo 开发者大会上，vivo 自研蓝河操作系统 4 正式发布，推出智能体操作系统（AgentOS）技术预览版，宣称“把生产力装进口袋”。\n\nIT之家从大会获悉，vivo WATCH 6 手表将首发搭载蓝河操作系统 4。该手表将于 9 月 21 日 19:00 发布，采用蓝宝石玻璃表镜设计，拥有超轻薄表体，支持进阶跑步指导等功能。",
+      "title": "地方国资酒店集团，为何集体“发牌”？",
+      "link": "https://www.tmtpost.com/8142948.html",
+      "pubDate": "Thu, 17 Sep 2026 11:45:00 +0800",
+      "contentSnippet": "靠新品牌，能突围吗？",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体分析地方国资酒店集团为何集中推出新品牌及突围可能",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体钛媒体，但内容仅一句摘要，缺少具体数据与细节支撑"
+    },
+    {
+      "title": "一加 16 官宣首次实现「全局 165Hz 超高刷」，首发搭载 ColorOS 17",
+      "link": "https://www.ithome.com/1/003/446.htm",
+      "pubDate": "Thu, 17 Sep 2026 03:38:11 GMT",
+      "contentSnippet": "IT之家 9 月 17 日消息，一加中国区总裁李杰今日宣布，一加 16 首发搭载 ColorOS 17，并且还将首次实现「全局 165Hz 超高刷」。\n\nIT之家注意到，博主 @数码闲聊站 今日曝光一加 16 手机 165Hz 超高刷设置界面，直接在系统设置里就能开。据其爆料，新机搭载的东方屏 X4 发光材料、电路做了大升级，支持纯硬件级全局超高刷，实测不光是系统应用，是能下载的应用都能开。\n\nOPPO 官方今日公布了 ColorOS 17 正式版升级适配计划，将于 10 月 8 日起陆续开始推送，首批覆盖 OPPO Find N6 系列、OPPO Find X9 系列、一加 15/15T、真",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家",
+        "Solidot"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "一加16官宣首发ColorOS 17并首次实现全局165Hz超高刷，10月起推送升级。",
+      "credibilityScore": 83,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家等知名科技媒体，有官方高管宣布及具体产品细节，但部分信息依赖博主爆料，缺少独立验证。（多源覆盖 +5）"
+    },
+    {
+      "title": "摸着西贝过河的野人先生给公关们上了什么课？",
+      "link": "https://www.tmtpost.com/8142936.html",
+      "pubDate": "Thu, 17 Sep 2026 11:36:00 +0800",
+      "contentSnippet": "面对轻度主观舆情，不冲动、不盲从、不逞强，精准识别争议性质，克制表达欲望，摒弃机械化的公关操作套路。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体分析野人先生公关案例，探讨企业应对舆情策略。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "钛媒体为知名科技媒体，但内容偏观点评论，缺乏具体数据与原始出处。"
+    },
+    {
+      "title": "宏碁、华硕和联想 Googlebook 笔记本渲染图曝光：配彩色 Glowbar 灯带",
+      "link": "https://www.ithome.com/1/003/445.htm",
+      "pubDate": "Thu, 17 Sep 2026 03:34:33 GMT",
+      "contentSnippet": "IT之家 9 月 17 日消息，科技媒体 Android Headline 昨日（9 月 16 日）发布博文，分享了一组渲染图，展示了宏碁、华硕和联想（按照英文字母排序）即将推出的 Googlebook 笔记本产品，预估将会在 9 月 21 日集体亮相。\n\n本次曝光了 4 张照片，分别展示了宏碁、华硕以及联想三款机型，还有一张照片展示了同框合照，其亮点在于三款机型顶盖均采用彩色“Glowbar”灯带设计。\n\n宏碁 GP714-91N\n这款 Googlebook 内部代号为“Moonstone”，键盘拥有实体 Gemini 按键，可快速调用 AI 功能。B 面配备一块 14 英寸 2.8K 分辨",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家",
+        "Solidot"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "宏碁、华硕、联想Googlebook笔记本渲染图曝光，配彩色Glowbar灯带，9月21日亮相。",
+      "credibilityScore": 77,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为IT之家等知名科技媒体，有具体型号和细节，但渲染图非官方，发布时间为未来日期存疑。（多源覆盖 +5）"
+    },
+    {
+      "title": "ColorOS 17 正式版升级适配计划公布，OPPO、一加、真我全覆盖",
+      "link": "https://www.ithome.com/1/003/444.htm",
+      "pubDate": "Thu, 17 Sep 2026 03:34:24 GMT",
+      "contentSnippet": "IT之家 9 月 17 日消息，OPPO 官方今日公布了 ColorOS 17 正式版升级适配计划，将于 10 月 8 日起陆续开始推送，首批覆盖 OPPO Find N6 系列、OPPO Find X9 系列、一加 15/15T、真我 GT8 Pro 等。\n\nIT之家附 ColorOS 17 正式版升级计划文字版如下：\n2026 年 10 月\n10 月 8 日\nOPPO\n\nOPPO Find N6\n\nOPPO Find N6（卫星通信版）\n\nOPPO Find X9 Ultra\n\nOPPO Find X9 Ultra（卫星通信版）\n\nOPPO Find X9s Pro\n\nOPPO Find",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -237,27 +256,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "vivo发布自研蓝河操作系统4及AgentOS预览版，WATCH 6手表将首发搭载。",
-      "credibilityScore": 82,
+      "aiSummary": "OPPO公布ColorOS 17正式版升级计划，10月8日起推送，覆盖OPPO、一加、真我多款机型。",
+      "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息源自vivo开发者大会，含具体产品与时间细节，但缺少技术参数和原始出处链接。"
-    },
-    {
-      "title": "vivo OriginOS 7 升级计划公布，首批 10 月 9 日开启",
-      "link": "https://www.ithome.com/1/002/976.htm",
-      "pubDate": "Wed, 16 Sep 2026 03:29:37 GMT",
-      "contentSnippet": "IT之家 9 月 16 日消息，在今日举行的 2026 vivo 开发者大会上，vivo 官方发布了最新一代 OriginOS 7，将于 10 月正式开启升级。\nIT之家附升级计划如下：\n2026 年 10 月 9 日开启\nvivo\n\nX Fold6\n\nX Fold5\n\nX300 Utra 卫星通信版\n\nX300 Ultra\n\nX300 Pro 卫星通信版\n\nX300 Pro\n\nX300s\n\nX300\n\nX300E\n\nvivo Pad6 Pro\n\niQOO\n\niQOO 15 Ultra\n\niQOO 15\n\niQOO 15T\n\niQOO Neo11 至尊版\n\niQOO Neo11\n\niQOO P",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "vivo发布OriginOS 7，10月9日首批升级X300系列及iQOO机型",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容具体含升级机型清单，但正文有错别字且无原始出处链接"
+      "credibilityReason": "来源为知名科技媒体IT之家，内容具体含明确时间与机型列表，引用官方信息，但正文不完整。"
     }
   ]
 }
