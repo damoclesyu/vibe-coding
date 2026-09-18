@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-17T04:12:51.996Z",
+  "generatedAt": "2026-09-18T03:57:57.352Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "广电总局：使用 AI 的广电视听节目必须添加内容标识，严禁 AI 魔改",
-      "link": "https://www.ithome.com/1/003/428.htm",
-      "pubDate": "Thu, 17 Sep 2026 03:02:09 GMT",
-      "contentSnippet": "IT之家 9 月 17 日消息，国务院新闻办公室今天举行“开局起步‘十五五’”系列主题新闻发布会，国家广播电视总局有关负责人介绍“十五五”时期加快推动广播电视和网络视听高质量发展有关情况。\n据央视新闻报道，会上介绍，广电视听是人工智能创新发展的重要领域，也是人工智能落地应用的实践沃土。当前，人工智能技术已经广泛应用于电视剧、网络剧、微短剧、综艺、动画片等不同类型节目的策划、制作、审核、传播、服务等各环节，行业人工智能应用非常广泛。\n“十五五”期间，国家广播电视总局将在继续深化人工智能在广电视听领域各环节创新应用的同时，统筹发展与安全，坚持技术服务于人、技术服务于创作，积极引导、规范人工智能在视",
+      "title": "台积电暌违 3 年后重返龙潭设厂：锁定 A14 以下先进制程，首座厂目标 2030 年完工",
+      "link": "https://www.ithome.com/1/003/907.htm",
+      "pubDate": "Fri, 18 Sep 2026 00:24:26 GMT",
+      "contentSnippet": "IT之家 9 月 18 日消息，据中国台湾《经济日报》昨日报道，暌违 3 年后，台积电决定重返龙潭设厂。当天，“新竹科学园区龙潭园区扩建计划”草案获审议通过，此举为台积电重返龙潭扫清一道障碍。\n该计划预计扩建约 104 公顷土地，总开发经费约 956.28 亿元新台币（IT之家注：现汇率约合 201.2 亿元人民币），全案完成后估计可创造每年约 5,500 亿元新台币（现汇率约合 1,157.2 亿元人民币）产值，并带动 4500 个就业机会，预计 2028 年底前完成环评及土地开发许可审议，2030 年进行园区公共工程设计施工。\n台积电供应链透露，龙科三期定位将优先锁定 1.4 纳米（A14",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,101 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "广电总局要求AI广电视听节目添加内容标识，严禁AI魔改",
-      "credibilityScore": 92,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家引央视新闻，属官方发布会信息，权威性高，内容具体"
-    },
-    {
-      "title": "新突破！我国实现氪同位素测厚源“全国产化”",
-      "link": "https://www.ithome.com/1/003/422.htm",
-      "pubDate": "Thu, 17 Sep 2026 02:50:05 GMT",
-      "contentSnippet": "IT之家 9 月 17 日消息，据央视新闻今日报道，中核集团旗下中核四〇四有限公司在放射性同位素技术领域取得了突破性成果，标志着我国实现了氪同位素测厚源从“依赖进口”到“全国产化”的跨越。\n据了解，氪同位素作为重要的放射性同位素，在工业测厚、仪器仪表校准、示踪监测等方面应用广泛，尤其在新能源电池、特种造纸、薄膜等高端制造业的质量控制中不可或缺。\n此次，中核四〇四成功研制出具有自主知识产权的多种规格氪同位素测厚源产品，可匹配不同工业测厚应用场景的需求，这为我国高端制造业可持续、高质量发展提供了坚实保障。\nIT之家查询公开资料获悉，中核四〇四隶属于中国核工业集团有限公司，是根据国家发展需要，于 1",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中核四〇四实现氪同位素测厚源全国产化，打破进口依赖。",
+      "aiSummary": "台积电时隔3年重返龙潭设厂，锁定A14以下先进制程，首座厂目标2030年完工。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家引央视新闻，主体为中核集团，信息具体但缺技术数据与原始报告。"
+      "credibilityReason": "来源为IT之家引述台湾经济日报，含具体数据与规划细节，但缺台积电官方确认。"
     },
     {
-      "title": "广电总局：电视“套娃”收费治理显著，全国电视频道虚假宣传医药广告已全面清除",
-      "link": "https://www.ithome.com/1/003/414.htm",
-      "pubDate": "Thu, 17 Sep 2026 02:34:56 GMT",
-      "contentSnippet": "IT之家 9 月 17 日消息，国务院新闻办公室今天举行“开局起步‘十五五’”系列主题新闻发布会，国家广播电视总局（简称广电总局）有关负责人介绍“十五五”时期加快推动广播电视和网络视听高质量发展有关情况。\n据央视新闻报道，会上介绍，过去三年，广电总局联合多部门持续推进电视“套娃”收费和操作复杂治理，成效显著。进入“十五五”，将在“双治理”基础上，向服务和体验“双提升”迈进：\n\n推广一体化电视等新型终端，更好满足人民群众便捷操作需求。今年，广电总局会同工信部，制定一体化电视技术标准，将机顶盒功能以软件形态内置于电视机中，打造极简终端形态，一台电视即可畅享直播、点播等全类型电视业务，用户配备通用遥",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "广电总局称电视套娃收费治理成效显著，虚假医药广告已全面清除。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家引央视新闻，属官方发布会信息，内容具体但缺原始文件链接。"
-    },
-    {
-      "title": "谷歌推送安卓 17 QPR2 Beta 5 更新：修复通话后蓝牙音频失真等问题",
-      "link": "https://www.ithome.com/1/003/470.htm",
-      "pubDate": "Thu, 17 Sep 2026 03:58:47 GMT",
-      "contentSnippet": "IT之家 9 月 17 日消息，科技媒体 Android Authority 昨日（9 月 16 日）发布博文，报道称谷歌已面向 Pixel 6a 到 Pixel 11 系列手机，推送安卓 17 QPR2 Beta 5 更新，整合 8 项修复。\n在推送版本方面，IT之家援引博文介绍，谷歌分为 2 个不同版本分发：\n\nBuild CP41.260828.005.A6：主要面向旧款设备，涵盖 Pixel 6a、Pixel 7 系列、Pixel Fold 和 Pixel Tablet。\n\nBuild CP41.260828.004.A8：适用于所有较新的硬件，包括 Pixel 8、Pixel 9、P",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "谷歌推送安卓17 QPR2 Beta 5更新，修复蓝牙音频失真等8项问题",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家援引Android Authority，含具体版本号与机型细节，来源可靠，内容具体"
-    },
-    {
-      "title": "朱江明回应零跑智驾何时追上特斯拉 FSD：没有可比性，中国车不能到美国，FSD 也没在中国落地",
-      "link": "https://www.ithome.com/1/003/456.htm",
-      "pubDate": "Thu, 17 Sep 2026 03:56:14 GMT",
-      "contentSnippet": "IT之家 9 月 17 日消息，2026 零跑技术日发布会后，零跑科技创始人、董事长、CEO 朱江明，零跑科技高级副总裁曹力，零跑科技高级副总裁周洪涛，零跑科技高级副总裁巫存，零跑科技高级副总裁宋忆宁与媒体对话。\n据新浪科技报道，被问及何时追上特斯拉 FSD，朱江明回应称，与特斯拉没有可比性，因为中国的车不能到美国去，特斯拉的 FSD 也还没在中国落地，这个就无解了。“马斯克怎么说都可以，怎么厉害都可以，因为都比不了。”\n但他指出，中国的路况是最难的，美国的外卖小哥也没中国多，路况完全不一样。在中国这样复杂的环境下，目前中国车企的智驾团队都很努力，而且越做越好，将来是一周不要接管，甚至半个月都",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "零跑CEO朱江明回应智驾追赶特斯拉FSD，称两者无直接可比性。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家，引用新浪科技，有具体人物和直接引语，但缺少技术数据支撑。"
-    },
-    {
-      "title": "朱江明：零跑近期不会把人形机器人作为重点，将来真正能带来价值的还是非人形",
-      "link": "https://www.ithome.com/1/003/451.htm",
-      "pubDate": "Thu, 17 Sep 2026 03:51:29 GMT",
-      "contentSnippet": "9 月 17 日上午消息，2026 零跑技术日发布会后，零跑科技创始人、董事长、CEO 朱江明，零跑科技高级副总裁曹力，零跑科技高级副总裁周洪涛，零跑科技高级副总裁巫存，零跑科技高级副总裁宋忆宁与媒体对话。\n\n在技术日上，面对火热的具身智能赛道，朱江明表态：“不炒概念、择机落地。能遛一遛的机器人不算本事，能赚钱的机器人才拿得出手。”据介绍，零跑人形机器人已实现完全自研、进入测试阶段，电机、控制器、电池、感知算法、计算平台等底层能力全部自主掌握；公司正小规模投入、积极探索可规模化落地、具备商业价值的应用场景。\n在对话中，谈及机器人话题，朱江明表示，零跑的机器人还在预研阶段，要至少能走能跑，现在机",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "零跑CEO朱江明称人形机器人非近期重点，能赚钱的机器人才有价值",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道含具体人物、时间、直接引语及技术细节，来源明确"
-    },
-    {
-      "title": "行业模型不是通用模型缩小版，百望王志伟谈财税大模型落地产业实景",
-      "link": "https://www.tmtpost.com/8143131.html",
-      "pubDate": "Thu, 17 Sep 2026 11:50:19 +0800",
-      "contentSnippet": "发票是企业经营的数字DNA，百望股份用260亿张交易凭证，喂出一套财税大模型。",
+      "title": "【钛晨报】金融产品网络营销新规落地在即，上海证监局叫停“大V”合作营销；三大交易所发布中秋、国庆休市安排；宁德时代拟以14亿元在雅安新建4万吨碳酸锂年产能",
+      "link": "https://www.tmtpost.com/8144053.html",
+      "pubDate": "Fri, 18 Sep 2026 07:20:00 +0800",
+      "contentSnippet": "国务院办公厅印发《关于进一步加强烟花爆竹全链条安全监管的意见》；广电总局：机顶盒功能将以软件形态内置于电视机；三星、苹果和谷歌在美同时被调查；零跑汽车拟参与中国一汽旗下旗新动力A轮融资；问界将在2027年1月1日正式撤出鸿蒙智行和华为专卖店；诺基亚与微软合作推进网络自动化；三星据报加速推进下一代三折叠手机，最快今年底或明年初发布",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -118,16 +33,170 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "百望股份用260亿张交易凭证训练财税大模型，王志伟谈行业模型落地",
+      "aiSummary": "钛媒体晨报汇总金融营销新规、交易所休市、宁德时代扩产等多条科技财经快讯",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "知名科技媒体钛媒体，信息具体含数据，但为多条快讯汇总，部分内容缺原始出处"
+    },
+    {
+      "title": "机械大师预热双舱弯玻海景房机箱 CR680，支持右侧透倒置模式",
+      "link": "https://www.ithome.com/1/004/054.htm",
+      "pubDate": "Fri, 18 Sep 2026 03:53:15 GMT",
+      "contentSnippet": "IT之家 9 月 18 日消息，方糖机械大师 (Mechanic Master) 今日宣布将于 2026 年 10 月推出 CROWN“皇冠”系列的首款机箱产品 CR680。\n\nCR680 整体采用左右分舱 + 两片式曲面玻璃组的“海景房”侧透设计，外观干净利落，拥有“皇冠造型”上下支撑。其除标准左侧透模式外也原生支持翻转倒置的右侧透模式，放置更为灵活。\n该机箱顶部为透气格栅，支持面板免工具快拆；兼容背插主板，可容纳 2 组 360 冷排，集成可调副屏支架、可移动 & 伸缩显卡支架，右舱具备 4 个硬盘笼安装位；提供多种配色方案。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "机械大师预热CR680双舱曲面玻璃机箱，支持右侧透倒置模式，10月发布。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息具体含产品细节与发布时间，但缺乏官方原始链接。"
+    },
+    {
+      "title": "张雪机车官宣 2026 中国摩博会“五车齐发”，首款巡航、ADV 摩托车将至",
+      "link": "https://www.ithome.com/1/004/053.htm",
+      "pubDate": "Fri, 18 Sep 2026 03:40:51 GMT",
+      "contentSnippet": "IT之家 9 月 18 日消息，第二十四届中国国际摩托车博览会（简称 2026 中国摩博会）将于 2026 年 9 月 19 日-22 日在重庆国际博览中心举行，参展企业逾 1,000 家，展示规模和展商数均创历史新高。\n张雪机车今日宣布，将在 2026 中国摩博会“五车齐发”，推出 820X、600V、500F-2027、820RR-RS、820RR-RC 五款摩托车。\n\n网上已经流传出张雪 820X 摩托车的实车图，这是一款 ADV 车型（探险摩托车）。\n\n从图中可以看到，车上印有 820X 字样，配备类似手机比例的竖向仪表屏，尾部搭载尾箱。\nIT之家注意到，张雪 820X 已现身工信部申",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "张雪机车宣布2026中国摩博会发布五款新车，含首款巡航和ADV车型。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息具体含车型型号及工信部申报细节，但缺乏官方原始出处。"
+    },
+    {
+      "title": "腾讯极光投影仪 F5 上架：1080P 345CVIA，822 元（国补后 699 元）",
+      "link": "https://www.ithome.com/1/004/051.htm",
+      "pubDate": "Fri, 18 Sep 2026 03:39:15 GMT",
+      "contentSnippet": "IT之家 9 月 18 日消息，腾讯现已在京东上架一款 Tencent F5 极光投影仪，该机主打 1080P 345CVIA 流明，定价为 822 元，部分地区国补后 699 元。\n京东腾讯极光投影 F5822 元国补后 699 元直达链接\n\n\n该产品使用白色简约外观，采用全封闭光机结构，镜头为全玻璃材质，可防止受热产生变形与失焦。机身配备 210° 可调云台，支持多角度旋转。\n\n具体规格方面，该机为 1080P 345 CVIA 亮度，画面对比度达 1500:1，搭载海思芯片与腾讯 OS，支持“5 秒开机、自动梯形校准、AI 语音”等功能。设备支持 Wi-Fi 6 网络，提供 USB-A、",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "腾讯极光投影仪F5上架京东，1080P 345CVIA流明，国补后699元。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，产品规格、价格、功能等细节具体，信息源自京东上架，可信度较高。"
+    },
+    {
+      "title": "苹果 iPhone 18 Pro 首次用于美国职业棒球大联盟赛事直播：部署 14 部，带来独特视角",
+      "link": "https://www.ithome.com/1/004/050.htm",
+      "pubDate": "Fri, 18 Sep 2026 03:36:52 GMT",
+      "contentSnippet": "IT之家 9 月 18 日消息，科技媒体 AppleInsider 今天（9 月 18 日）发布博文，报道称 14 部苹果 iPhone 18 Pro 机型将首次应用于“周五晚棒球赛”（Friday Night Baseball）直播。\n本次直播活动于美国东部时间 2026 年 9 月 18 日晚上 10:15（北京时间 9 月 19 日上午 10:15）开赛，对阵双方为旧金山巨人队对洛杉矶道奇队。\n在部署数量方面，消息称在本次美国职业棒球大联盟（MLB）比赛中，官方将会在道奇体育场部署 14 部 iPhone 18 Pro 拍摄直播画面，数量较 2025 年 9 月使用的 4 部 iPhon",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家",
+        "Solidot"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "苹果iPhone 18 Pro首次用于MLB直播，部署14部提供独特视角。",
+      "credibilityScore": 87,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家编译AppleInsider，信息具体含时间、地点、数量，但缺原始链接，属知名科技媒体转载。（多源覆盖 +5）"
+    },
+    {
+      "title": "阿里发布 Qwen3.8-Omni-Flash 全模态模型：音视频能力提升，百万 Token 图文音视频输入 0.8 元",
+      "link": "https://www.ithome.com/1/004/049.htm",
+      "pubDate": "Fri, 18 Sep 2026 03:34:25 GMT",
+      "contentSnippet": "IT之家 9 月 18 日消息，阿里千问今日正式上线新一代原生全模态模型 Qwen3.8-Omni-Flash，并已在千问 AI 平台提供。该模型可同时处理文本、图像、音频和视频输入，支持 1M 上下文。\n\n全模态模型指可同时处理文本、图像、音频、视频等多种输入形式。官方称，该模型在保持同尺寸文本模型能力的同时，全模态能力较上一代明显提升。\n\n在累计 30 项评测上，Qwen3.8-Omni-Flash 相比上一代 Qwen3.5-Omni-Plus 平均得分提升超过 26%。在音视频 Agent、Coding 和长程任务方面，WildClawBench-MM 提升 36.5 分，Agenti",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "阿里发布Qwen3.8-Omni-Flash全模态模型，支持百万Token图文音视频输入，定价0.8元。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，信息具体含模型名称、评测数据和定价，但缺少官方原始链接。"
+    },
+    {
+      "title": "讯飞 AI 录音卡上架：支持 10 种外语翻译、30 小时续航，999 元",
+      "link": "https://www.ithome.com/1/004/040.htm",
+      "pubDate": "Fri, 18 Sep 2026 03:31:49 GMT",
+      "contentSnippet": "IT之家 9 月 18 日消息，科大讯飞现已在京东上架一款讯飞 AI 录音卡，该产品深度整合 AI 大模型，主打会议记录，定价为 999 元。\n京东科大讯飞 AI 录音卡 999 元直达链接\n\n\n该产品提供深空灰与曜石黑两色，尺寸为 85.6mm×54mm×4mm，重约 33g。正面为铝合金材质，背面采用玻纤与 PET 工艺，支持原生磁吸，可直接贴附于手机背面。机身配备一块 0.95 英寸 OLED 屏，可显示录音信息。\n\n\n该机内置 1 颗骨传导麦克风与 3 颗全向麦克风，可实现 8 米远距离拾音及专业降噪功能。机器具备 AI 转文字 / 总结能力，支持多种本地方言、10 种外语及 2 种民",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "科大讯飞上架999元AI录音卡，支持多语翻译、30小时续航及AI会议记录。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，产品参数具体详实，定价与销售渠道明确，但缺少官方原始出处引用。"
+    },
+    {
+      "title": "荣耀发布行业解决方案品牌荣耀天工，多款硬件亮相",
+      "link": "https://www.ithome.com/1/004/037.htm",
+      "pubDate": "Fri, 18 Sep 2026 03:30:38 GMT",
+      "contentSnippet": "IT之家 9 月 18 日消息，荣耀 (HONOR) 在本月 15 日进行的 2026 HGDC 荣耀全球开发者大会上发布了其行业解决方案品牌荣耀天工。\n\nIT之家了解到，荣耀天工覆盖软硬件两大维度，提供一系列行业解决方案和通用业务解决方案。\n\n在硬件方面，荣耀天工通过官网展示了 AI 工作站、商用笔记本、商用大型台式工作站产品；而其软件产品包括模型部署与推理加速平台、通用智能体平台、知识库、运维平台等。\n\n其中 AI 工作站类别包含基于英特尔酷睿 Ultra X7 处理器 358H 的标准版、基于 AMD 锐龙 AI Max+ 395 处理器的 Pro 版、基于 NVIDIA RTX Spa",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "荣耀发布行业解决方案品牌荣耀天工，涵盖AI工作站等软硬件产品。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道含具体产品型号和处理器细节，但缺少官方原始链接。"
+    },
+    {
+      "title": "iPhone的生态位，被豆包手机抢了吗？",
+      "link": "https://www.tmtpost.com/8144026.html",
+      "pubDate": "Fri, 18 Sep 2026 11:24:06 +0800",
+      "contentSnippet": "Agent即入口，豆包又近了一步。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体分析豆包手机以Agent为入口，是否冲击iPhone生态位。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "知名科技媒体，选题有行业视角，但摘要过简，缺数据与原始出处支撑。"
+    },
+    {
+      "title": "地瓜机器人C轮融资4亿美元：资本不再为Demo买单，只为量产续费",
+      "link": "https://www.tmtpost.com/8144105.html",
+      "pubDate": "Fri, 18 Sep 2026 11:24:05 +0800",
+      "contentSnippet": "建立一条从Demo走向量产的标准路径。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "地瓜机器人完成4亿美元C轮融资，资本聚焦量产落地而非Demo演示。",
       "credibilityScore": 78,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，含具体数据260亿张凭证及高管观点，但细节有限"
+      "credibilityLevel": "medium",
+      "credibilityReason": "钛媒体为知名科技媒体，融资信息具体，但正文极简略，缺少投资方及技术细节。"
     },
     {
-      "title": "超节点如何成为AI算力的新答案？丨ToB产业观察",
-      "link": "https://www.tmtpost.com/8142959.html",
-      "pubDate": "Thu, 17 Sep 2026 11:49:59 +0800",
-      "contentSnippet": "超节点的故事，就像是AI产业从“拼单点”走向“拼系统”的缩影。",
+      "title": "AI制药独角兽Anew单飞，字节推了一把“最烧钱的慢生意”",
+      "link": "https://www.tmtpost.com/8144119.html",
+      "pubDate": "Fri, 18 Sep 2026 11:24:03 +0800",
+      "contentSnippet": "新兴AI制药平台能否再长出不一样的Biotech模式？Anew是个很好的样本。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -135,50 +204,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体分析超节点成为AI算力新方向，反映产业从单点走向系统化。",
+      "aiSummary": "钛媒体报道AI制药独角兽Anew独立发展，字节跳动参与推动这一高投入慢周期业务。",
       "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体，选题专业，但摘要过简，缺少数据与原始出处支撑。"
+      "credibilityReason": "钛媒体为知名科技媒体，但摘要信息简略，缺少具体数据与原始出处，技术细节不足。"
     },
     {
-      "title": "一航班落地后客舱冒烟，湖南航空回应称旅客携带的充电宝出现明火",
-      "link": "https://www.ithome.com/1/003/449.htm",
-      "pubDate": "Thu, 17 Sep 2026 03:48:17 GMT",
-      "contentSnippet": "IT之家 9 月 17 日消息，有多名网友近日反映，9 月 15 日晚，湖南航空 A67776 航班在落地长沙后机舱后舱着火。视频中旅客疑似正排队下飞机，飞机后舱可以看到大量烟雾，现场旅客催促赶紧撤离，空乘人员在安抚乘客情绪。\n\n湖南航空今日发布回应公告：\n\n9 月 15 日，A67776（成都天府-长沙）航班正常落地长沙并开启舱门，在旅客下机过程中，一名旅客随身携带的充电宝出现明火。机组发现后立即进行处置并组织旅客有序下机，明火被及时扑灭。事件未造成人员受伤，客舱设施未受损。\n湖南航空提醒广大旅客朋友，在乘机出行时，优先选择不携带充电宝，如需携带，按照符合“3C 认证”等相关要求检查随身携带",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "湖南航空航班落地后旅客充电宝起火冒烟，官方回应已及时扑灭无人受伤。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引用官方公告及现场视频，信息具体且来源明确。"
-    },
-    {
-      "title": "一箭双星，我国成功发射天仪 51、52 星",
-      "link": "https://www.ithome.com/1/003/447.htm",
-      "pubDate": "Thu, 17 Sep 2026 03:45:46 GMT",
-      "contentSnippet": "IT之家 9 月 17 日消息，据央视新闻报道，北京时间 2026 年 9 月 17 日 10 时 40 分，我国在酒泉卫星发射中心使用快舟十一号遥三运载火箭，成功将天仪 51、52 星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。\n此次任务是快舟十一号运载火箭的第 7 次飞行。\n\nIT之家注意到，今天早些时候，我国还在海南商业航天发射场使用长征十二号运载火箭，成功将卫星互联网低轨 25 组卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "我国在酒泉成功发射天仪51、52星，快舟十一号火箭完成第7次飞行。",
-      "credibilityScore": 92,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家引央视新闻，含具体时间、地点、火箭型号及任务次数，信息详实权威。"
-    },
-    {
-      "title": "地方国资酒店集团，为何集体“发牌”？",
-      "link": "https://www.tmtpost.com/8142948.html",
-      "pubDate": "Thu, 17 Sep 2026 11:45:00 +0800",
-      "contentSnippet": "靠新品牌，能突围吗？",
+      "title": "拆解HYROX的生意经：商业狂飙，规则难做",
+      "link": "https://www.tmtpost.com/8144189.html",
+      "pubDate": "Fri, 18 Sep 2026 11:24:02 +0800",
+      "contentSnippet": "看似简单标准的赛制，背后考验的并不容易。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -186,80 +221,45 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体分析地方国资酒店集团为何集中推出新品牌及突围可能",
+      "aiSummary": "钛媒体拆解HYROX赛事商业模式，指出其商业扩张迅速但规则体系面临挑战。",
       "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，但内容仅一句摘要，缺少具体数据与细节支撑"
+      "credibilityReason": "来源为知名科技媒体钛媒体，选题具体，但正文摘要过简，缺少数据与原始出处支撑。"
     },
     {
-      "title": "一加 16 官宣首次实现「全局 165Hz 超高刷」，首发搭载 ColorOS 17",
-      "link": "https://www.ithome.com/1/003/446.htm",
-      "pubDate": "Thu, 17 Sep 2026 03:38:11 GMT",
-      "contentSnippet": "IT之家 9 月 17 日消息，一加中国区总裁李杰今日宣布，一加 16 首发搭载 ColorOS 17，并且还将首次实现「全局 165Hz 超高刷」。\n\nIT之家注意到，博主 @数码闲聊站 今日曝光一加 16 手机 165Hz 超高刷设置界面，直接在系统设置里就能开。据其爆料，新机搭载的东方屏 X4 发光材料、电路做了大升级，支持纯硬件级全局超高刷，实测不光是系统应用，是能下载的应用都能开。\n\nOPPO 官方今日公布了 ColorOS 17 正式版升级适配计划，将于 10 月 8 日起陆续开始推送，首批覆盖 OPPO Find N6 系列、OPPO Find X9 系列、一加 15/15T、真",
+      "title": "AI感知设备的隐私战争：手表在录音、眼镜在偷拍，大众正被悄悄“脱敏”",
+      "link": "https://www.tmtpost.com/8144468.html",
+      "pubDate": "Fri, 18 Sep 2026 11:23:52 +0800",
+      "contentSnippet": "但，真的能放心吗？",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体探讨AI感知设备引发的隐私争议，质疑其安全性。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "知名科技媒体，选题具现实意义，但正文摘要过简，缺乏具体数据与原始出处支撑。"
+    },
+    {
+      "title": "Qoder 福利：10 月前阿里千问 Qwen3.8-Flash 免费用，每日登录还能领 100 Credits",
+      "link": "https://www.ithome.com/1/004/011.htm",
+      "pubDate": "Fri, 18 Sep 2026 03:20:09 GMT",
+      "contentSnippet": "IT之家 9 月 18 日消息，阿里 Qoder 官方今日宣布，Qwen3.8-Flash 模型在 Qoder 平台限时免费（活动从 9 月 18 日 10:00 持续至 9 月 30 日 23:59:59）。\n活动期间，Qwen3.8-Flash 计费系数由 0.1× 降至 0.0×，每次调用不扣 Credits。用户无需领取免费资格，打开 Qoder 桌面端并在模型选择器中选择该模型即可使用。\n\n在此基础上，Qoder 还推出每日登录奖励。每天 10:00 开放新一轮领取，至次日 10:00 前可领（每个账号每轮可领一次 100 通用 Credits，错过不补），每笔奖励自领取之日起 30",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
         "IT之家",
-        "Solidot"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "一加16官宣首发ColorOS 17并首次实现全局165Hz超高刷，10月起推送升级。",
-      "credibilityScore": 83,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家等知名科技媒体，有官方高管宣布及具体产品细节，但部分信息依赖博主爆料，缺少独立验证。（多源覆盖 +5）"
-    },
-    {
-      "title": "摸着西贝过河的野人先生给公关们上了什么课？",
-      "link": "https://www.tmtpost.com/8142936.html",
-      "pubDate": "Thu, 17 Sep 2026 11:36:00 +0800",
-      "contentSnippet": "面对轻度主观舆情，不冲动、不盲从、不逞强，精准识别争议性质，克制表达欲望，摒弃机械化的公关操作套路。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
         "钛媒体"
       ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体分析野人先生公关案例，探讨企业应对舆情策略。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "钛媒体为知名科技媒体，但内容偏观点评论，缺乏具体数据与原始出处。"
-    },
-    {
-      "title": "宏碁、华硕和联想 Googlebook 笔记本渲染图曝光：配彩色 Glowbar 灯带",
-      "link": "https://www.ithome.com/1/003/445.htm",
-      "pubDate": "Thu, 17 Sep 2026 03:34:33 GMT",
-      "contentSnippet": "IT之家 9 月 17 日消息，科技媒体 Android Headline 昨日（9 月 16 日）发布博文，分享了一组渲染图，展示了宏碁、华硕和联想（按照英文字母排序）即将推出的 Googlebook 笔记本产品，预估将会在 9 月 21 日集体亮相。\n\n本次曝光了 4 张照片，分别展示了宏碁、华硕以及联想三款机型，还有一张照片展示了同框合照，其亮点在于三款机型顶盖均采用彩色“Glowbar”灯带设计。\n\n宏碁 GP714-91N\n这款 Googlebook 内部代号为“Moonstone”，键盘拥有实体 Gemini 按键，可快速调用 AI 功能。B 面配备一块 14 英寸 2.8K 分辨",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家",
-        "Solidot"
-      ],
       "coverageCount": 2,
       "coverageBoost": 5,
-      "aiSummary": "宏碁、华硕、联想Googlebook笔记本渲染图曝光，配彩色Glowbar灯带，9月21日亮相。",
-      "credibilityScore": 77,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为IT之家等知名科技媒体，有具体型号和细节，但渲染图非官方，发布时间为未来日期存疑。（多源覆盖 +5）"
-    },
-    {
-      "title": "ColorOS 17 正式版升级适配计划公布，OPPO、一加、真我全覆盖",
-      "link": "https://www.ithome.com/1/003/444.htm",
-      "pubDate": "Thu, 17 Sep 2026 03:34:24 GMT",
-      "contentSnippet": "IT之家 9 月 17 日消息，OPPO 官方今日公布了 ColorOS 17 正式版升级适配计划，将于 10 月 8 日起陆续开始推送，首批覆盖 OPPO Find N6 系列、OPPO Find X9 系列、一加 15/15T、真我 GT8 Pro 等。\n\nIT之家附 ColorOS 17 正式版升级计划文字版如下：\n2026 年 10 月\n10 月 8 日\nOPPO\n\nOPPO Find N6\n\nOPPO Find N6（卫星通信版）\n\nOPPO Find X9 Ultra\n\nOPPO Find X9 Ultra（卫星通信版）\n\nOPPO Find X9s Pro\n\nOPPO Find",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "OPPO公布ColorOS 17正式版升级计划，10月8日起推送，覆盖OPPO、一加、真我多款机型。",
-      "credibilityScore": 88,
+      "aiSummary": "阿里Qoder宣布Qwen3.8-Flash模型限时免费，每日登录可领100 Credits。",
+      "credibilityScore": 87,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，内容具体含明确时间与机型列表，引用官方信息，但正文不完整。"
+      "credibilityReason": "来源为IT之家和钛媒体，信息具体含活动时间与计费细节，但缺少官方原始链接。（多源覆盖 +5）"
     }
   ]
 }

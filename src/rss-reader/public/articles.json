@@ -1,48 +1,14 @@
 {
-  "generatedAt": "2026-09-17T04:11:38.864Z",
+  "generatedAt": "2026-09-18T03:56:43.074Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "广电总局：将推进广电主流媒体系统性变革和新型媒体建设",
-      "link": "https://m.thepaper.cn/detail/34087868",
-      "pubDate": "Thu, 17 Sep 2026 04:06:18 GMT",
-      "contentSnippet": "9月17日，国新办举行新闻发布会，介绍“十五五”时期加快推动广播电视和网络视听高质量发展有关情况。\n国家广播电视总局副局长刘建国会上表示，广电总局深入贯彻落实党的二十届三中、四中全会精神，在中宣部的指导下，坚持“五个以”来系统谋划和推进广电主流媒体系统性变革和新型媒体建设。\n刘建国介绍，这“五个以”就是坚持以用户导向为牵引，以内容创新为根本，以融合传播为驱动，以科技创新为支撑，以深化改革为保障。今年广电总局启动实施了“广播电视主流媒体系统性变革引领工程”，着力推进系统性变革当中一些重要领域的改革创新，这些重要领域包括四个方面。\n一是推动内容一体化生产，全面创新内容。实施“广播电视内容焕新计划”",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "广电总局在国新办发布会上宣布推进广电主流媒体系统性变革和新型媒体建设。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为澎湃新闻，引述国新办发布会及副局长刘建国具体发言，信息具体可查证。"
-    },
-    {
-      "title": "广电总局：将推广一体化电视等新型终端，可畅享全类型电视业务",
-      "link": "https://m.thepaper.cn/detail/34087975",
-      "pubDate": "Thu, 17 Sep 2026 03:51:35 GMT",
-      "contentSnippet": "9月17日，国新办举行新闻发布会，介绍“十五五”时期加快推动广播电视和网络视听高质量发展有关情况。\n国家广播电视总局新闻发言人、副局长何飚会上介绍，过去三年，广电总局坚持以人民为中心，联合多部门持续推进电视“套娃”收费和操作复杂治理，成效显著。进入“十五五”，将在“双治理”基础上，向服务和体验“双提升”迈进，主要做以下几方面工作：\n一是推广一体化电视等新型终端，更好满足人民群众便捷操作的需求。去年，广电总局组织中国广电、中国电信、中国联通、中国移动与产业各方通力协作，部署超千万插入式微型机顶盒，受到老百姓好评。今年，广电总局会同工信部，制定一体化电视技术标准，将机顶盒功能以软件形态内置于电视机",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "广电总局在国新办发布会上宣布将推广一体化电视等新型终端，提升电视服务体验。",
-      "credibilityScore": 92,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为澎湃新闻，引述国新办发布会及广电总局副局长具体发言，信息具体可查证。"
-    },
-    {
-      "title": "国家广电总局：今年前8个月上线微短剧43万部",
-      "link": "https://www.chinanews.com.cn/cj/2026/09-17/10698075.shtml",
-      "pubDate": "Thu, 17 Sep 2026 11:30:58 +0800",
-      "contentSnippet": "中新网9月17日电 9月17日，国新办就“十五五”时期加快推动广播电视和网络视听高质量发展有关情况举行新闻发布会。",
+      "title": "住房和城乡建设部：从14个方面提高住房品质要求",
+      "link": "https://www.chinanews.com.cn/cj/2026/09-18/10698783.shtml",
+      "pubDate": "Fri, 18 Sep 2026 11:49:38 +0800",
+      "contentSnippet": "中新网9月18日电 9月18日，国新办就“十五五”时期推进住房城乡建设事业高质量发展有关情况举行新闻发布会。住房和城乡建设部副部长陈绍旺在会上表示，提升人民群众居住水平关键是建设“好房子”。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -50,16 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国家广电总局在国新办发布会上披露，今年前8个月上线微短剧43万部。",
-      "credibilityScore": 92,
+      "aiSummary": "住建部副部长在国新办发布会上表示将从14个方面提高住房品质要求。",
+      "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，属权威媒体；引述国新办发布会官方数据，时间地点明确，可交叉验证。"
+      "credibilityReason": "来源为中新网，属权威媒体；有具体时间、场合、人物及职务，信息可查证。"
     },
     {
-      "title": "国家广电总局：严禁AI魔改，使用AI的广电视听节目必须添加内容标识",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-17/10698123.shtml",
-      "pubDate": "Thu, 17 Sep 2026 11:30:42 +0800",
-      "contentSnippet": "新闻发布会现场。袁秀月 摄\r\n\n　　中新网9月17日电 (记者 袁秀月)9月17日，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，国家广播电视总局副局长刘建国表示，“十五五”期间，国家广电总局将继续深化人工智能在广电视听领域各环节的创新应用，同时，统筹发展与安全，始终坚持技术服务于人、技术服务于创作，积极引导规范人工智能在视听内容生产全流程的创新应用，做到鼓励创新有尺度、规范发展有边界。比如，使用人工智能技术生成制作、播出的广电视听节目必须添加相应的标识；广电视听节目的制作关键环节以及成片内容的审核，必须坚持人工审核把关；严禁AI魔改等。人工智能技术还在持续迭代演进，国家广电总",
+      "title": "住房和城乡建设部：现房销售是大势所趋",
+      "link": "https://www.chinanews.com.cn/cj/2026/09-18/10698811.shtml",
+      "pubDate": "Fri, 18 Sep 2026 11:36:51 +0800",
+      "contentSnippet": "中新网9月18日电 9月18日，国新办就“十五五”时期推进住房城乡建设事业高质量发展有关情况举行新闻发布会。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -68,16 +34,16 @@
       ],
       "coverageCount": 2,
       "coverageBoost": 5,
-      "aiSummary": "国家广电总局要求AI生成的广电视听节目须添加标识并严禁AI魔改。",
+      "aiSummary": "住建部在国新办发布会上表示，现房销售是大势所趋。",
       "credibilityScore": 97,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网和澎湃新闻，属权威媒体，有具体发布会时间、人物及直接引述，内容可查证。（多源覆盖 +5）"
+      "credibilityReason": "来源为中新网、澎湃新闻等权威媒体，基于国新办发布会，信息具体可查证。（多源覆盖 +5）"
     },
     {
-      "title": "国家广电总局：破除对流量明星依赖，让电视剧回归“讲好”故事、讲“好故事”",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-17/10698122.shtml",
-      "pubDate": "Thu, 17 Sep 2026 11:29:16 +0800",
-      "contentSnippet": "新闻发布会现场。袁秀月 摄\r\n\n　　中新网9月17日电 (记者 袁秀月)9月17日，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，国家广播电视总局电视剧司司长冯胜勇介绍，“十五五”期间，广电总局将按照“找准选题、讲好故事、拍出精品”的要求，计划推出100部左右优秀电视剧、网络剧。具体突出“五个抓”，其中包括抓“一剧之本”。要引导行业把剧本创作摆到重要位置，破除对流量明星的依赖，让电视剧回归到“讲好”故事、讲“好故事”上来，让更多优秀编剧潜心创作，更多导演更有底气，更多演员回归“用角色说话”的初心。",
+      "title": "中国（广西）—东盟跨境产业链对接展示活动在南宁开幕",
+      "link": "https://www.chinanews.com.cn/aseaninfo/2026/09-18/10698776.shtml",
+      "pubDate": "Fri, 18 Sep 2026 11:34:03 +0800",
+      "contentSnippet": "中新网南宁9月18日电(张广权 肖景凤)中国(广西)—东盟跨境产业链对接展示活动17日在广西南宁市开幕。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -85,16 +51,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "广电总局电视剧司司长冯胜勇表示将破除对流量明星依赖，让电视剧回归讲好故事。",
-      "credibilityScore": 92,
+      "aiSummary": "中国（广西）—东盟跨境产业链对接展示活动在南宁开幕。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中新社（权威媒体），有具体发布会、官员姓名及直接引述，内容可查证。"
+      "credibilityReason": "来源为中新网，属权威媒体，信息含具体时间地点，但内容简短，缺少细节和引述。"
     },
     {
-      "title": "山东推进特色地矿品牌建设 以专业技术赋能经济社会发展",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-17/10698114.shtml",
-      "pubDate": "Thu, 17 Sep 2026 11:26:24 +0800",
-      "contentSnippet": "中新网济南9月17日电 (周艺伟 刘泮泮)地质工作是经济社会发展重要的先行性、基础性工作。如何更好地发挥地质支撑作用，服务经济社会高质量发展，是山东地矿系统持续深耕的课题。当前，打造特色地矿品牌，依托长期积累的专业技术赋能地方发展，成为该系统重点推进的工作之一。",
+      "title": "擦亮“E路同行·更好临朐”品牌 以网络人士统战工作助推县域高质量发展",
+      "link": "https://www.chinanews.com.cn/txy/2026/09-18/10698744.shtml",
+      "pubDate": "Fri, 18 Sep 2026 11:31:41 +0800",
+      "contentSnippet": "临朐县委统战部",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -102,102 +68,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中新网报道山东地矿系统推进特色地矿品牌建设，以专业技术服务经济社会发展。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，属较权威媒体，内容具体但缺少直接引述和具体数据，客观中性。"
-    },
-    {
-      "title": "国家广电总局：一个通用遥控器看电视即将实现",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-17/10698110.shtml",
-      "pubDate": "Thu, 17 Sep 2026 11:14:45 +0800",
-      "contentSnippet": "新闻发布会现场。袁秀月 摄\r\n\n　　中新网9月17日电 (记者 袁秀月)9月17日，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，国家广播电视总局新闻发言人、副局长何飚表示，过去三年，广电总局联合多部门持续推进电视“套娃”收费和操作复杂治理，成效显著。进入“十五五”，广电总局将在“双治理”基础上，向服务和体验“双提升”迈进。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国家广电总局称通用遥控器看电视即将实现，将推进服务体验双提升。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "中新网为权威媒体，有具体发布会时间、地点、发言人及引述，内容可查证。"
-    },
-    {
-      "title": "国家广电总局：机顶盒功能将以软件形态内置于电视机",
-      "link": "https://www.chinanews.com.cn/sh/2026/09-17/10698088.shtml",
-      "pubDate": "Thu, 17 Sep 2026 11:14:27 +0800",
-      "contentSnippet": "中新网9月17日电 国新办17日就“十五五”时期加快推动广播电视和网络视听高质量发展有关情况举行新闻发布会。会上，广电总局新闻发言人、副局长何飚表示，过去三年，广电总局联合多部门持续推进电视“套娃”收费和操作复杂治理，成效显著。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网",
-        "澎湃新闻"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "广电总局称机顶盒功能将以软件形态内置于电视机",
-      "credibilityScore": 97,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网和澎湃新闻，属权威媒体；引述国新办发布会及广电总局副局长具体发言，事实可查证（多源覆盖 +5）"
-    },
-    {
-      "title": "国家广电总局：全国电视频道虚假宣传医药广告已全面清除",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-17/10698104.shtml",
-      "pubDate": "Thu, 17 Sep 2026 11:09:31 +0800",
-      "contentSnippet": "新闻发布会现场。袁秀月 摄\r\n\n　　中新网9月17日电  (记者 袁秀月)9月17日，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，国家广播电视总局新闻发言人、副局长何飚表示，截至今年3月底，全国电视频道虚假宣传医药广告已经全面清除。国家广电总局持续开展监测排查，畅通投诉渠道，坚决防止问题反弹。“十五五”将深化广电视听广告播出违法违规问题的治理，让群众看得安心、看得放心。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国家广电总局称截至3月底全国电视频道虚假医药广告已全面清除。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "中新网为权威媒体，引述国新办发布会及副局长具体表态，信息可查证。"
-    },
-    {
-      "title": "张俊当选吉安市人民政府市长",
-      "link": "https://m.thepaper.cn/detail/34088163",
-      "pubDate": "Thu, 17 Sep 2026 04:05:22 GMT",
-      "contentSnippet": "据吉安发布消息，吉安市第五届人民代表大会第九次会议于2026年9月17日补选张俊同志为吉安市人民政府市长。",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "张俊在吉安市人大会议上补选为吉安市人民政府市长。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为知名媒体，引述官方发布，信息具体可查证。"
-    },
-    {
-      "title": "从马路集市到数字工厂 农行嘉兴分行全周期陪跑“毛衫小镇”蝶变",
-      "link": "https://www.chinanews.com.cn/cj/2026/09-17/10698136.shtml",
-      "pubDate": "Thu, 17 Sep 2026 11:57:28 +0800",
-      "contentSnippet": "初秋时节，走进嘉兴洪合镇浙江秋维特时装股份有限公司(以下简称“秋维特”)数字化车间，不见往昔嘈杂忙碌的人海，取而代之的是一排排整齐运转的智能横机。机器轻转、纱线穿梭，在系统精准调度下，设计、制版、织造、成型一气呵成，半小时，一件版型精致、工艺精细的针织成衣便崭新下线。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "农行嘉兴分行支持洪合镇毛衫产业数字化升级，助企业建成智能车间。",
+      "aiSummary": "临朐县委统战部打造网络人士统战品牌，助推县域高质量发展。",
       "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "中国新闻网为正规媒体，内容具体但属银行宣传稿，缺乏独立信源交叉验证。"
+      "credibilityReason": "来源为中新网较权威，但正文仅一句摘要，缺乏具体细节与引述，信息不完整。"
     },
     {
-      "title": "美联储加息周期重启，美股、A股、黄金将走向何方？",
-      "link": "https://m.thepaper.cn/detail/34088064",
-      "pubDate": "Thu, 17 Sep 2026 03:56:49 GMT",
-      "contentSnippet": "时隔三年多，美联储宣布加息25个基点。\n当地时间9月16日，美联储宣布将联邦基金利率目标区间上调25个基点，使基准基金利率从3.50%至3.75%上调到3.75%至4%。这是美联储自2023年7月以来时隔三年多的首次加息动作，点阵图与美联储主席沃什的表态均释放鹰派信号。\n对于美股、A股与黄金三个市场而言，将分别带来什么影响？\n美股：加息初期承压\n历史规律显示，加息初期美股普遍承压。但不少机构认为，估值压制已提前消化，企业盈利与经济基本面才是决定美股中长期走势的核心变量。\n从历史经验看，加息周期启动通常对股票不利。\nRiley Wealth首席市场策略师Art Hogan指出，尽管美联储此次的政",
+      "title": "住建部：房地产进入存量时代，将全力推动现房销售制等房地产三项基础性制度的落地实施",
+      "link": "https://m.thepaper.cn/detail/34095209",
+      "pubDate": "Fri, 18 Sep 2026 03:05:48 GMT",
+      "contentSnippet": "9月18日，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，住房城乡建设部房地产市场监管司司长张雪涛在发布会上表示，当前房地产市场出现了“两个转变”，一是房地产供求关系发生了重大变化，二是房地产进入了存量时代。二手房的交易占比从2020年的27%提高到2025年的46%。今年前八个月，根据国家统计局的数据，二手房交易占比已经达到了52%，超过50%就标志着房地产进入到了存量时代。\n在“十五五时期”我们将积极适应房地产的新形势、新变化和新要求。统筹防风险和促转型，统筹惠民生和稳增长，加快构建房地产发展新模式，健全多主体供给多渠道保障租购并举的住房制度，推动房地产的高质量发展。\n加快",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -205,33 +85,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "美联储时隔三年多宣布加息25个基点，基准利率升至3.75%-4%，分析其对美股、A股和黄金的影响。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为正规媒体，信息具体含时间、数据及机构引述，但需与美联储官方声明交叉验证。"
-    },
-    {
-      "title": "亚运会开幕倒计时 香港全城“撑”港队",
-      "link": "https://www.chinanews.com.cn/ty/2026/09-17/10698135.shtml",
-      "pubDate": "Thu, 17 Sep 2026 11:56:14 +0800",
-      "contentSnippet": "中新社香港9月17日电 (记者 赵静怡)“亚运会加油！”“个人赛及团体赛都全力争取好成绩，撑你呀！”第二十届亚洲运动会(简称“亚运会”)开幕在即，香港市民涌入中国香港男子击剑运动员、男子个人花剑奥运冠军张家朗的社交媒体平台，为其鼓劲。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "亚运会开幕前，香港市民在张家朗社交媒体留言为其鼓劲。",
+      "aiSummary": "住建部官员称房地产进入存量时代，将推动现房销售等三项基础性制度改革。",
       "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网权威，有具体时间地点人物及直接引述，内容可查证。"
+      "credibilityReason": "来源为澎湃新闻，引述国新办发布会官员具体表述及统计局数据，事实可查证。"
     },
     {
-      "title": "广电总局：电视“套娃”收费治理显著，将向服务和体验“双提升”迈进",
-      "link": "https://m.thepaper.cn/detail/34088244",
-      "pubDate": "Thu, 17 Sep 2026 03:52:09 GMT",
-      "contentSnippet": "9月17日，广电总局副局长何飚在国新办发布会上介绍，过去三年，广电总局坚持以人民为中心，联合多部门持续推进电视“套娃”收费和操作复杂治理，成效显著。进入“十五五”，将在“双治理”基础上，向服务和体验“双提升”迈进。",
+      "title": "联合国调查团：美国袭击伊朗米纳卜小学和一体育设施构成战争罪",
+      "link": "https://m.thepaper.cn/detail/34094739",
+      "pubDate": "Fri, 18 Sep 2026 02:41:57 GMT",
+      "contentSnippet": "联合国伊朗问题独立国际事实调查团17日表示，有合理理由相信，美国是袭击伊朗米纳卜市沙贾雷·塔耶贝小学和拉默尔德市一处体育中心的幕后责任方，这些袭击构成战争罪。\n据新华社报道，联合国伊朗问题独立国际事实调查团14日敦促美国和以色列遵守国际法，谴责美军近日对伊朗的空袭未采取必要措施而导致平民死亡，呼吁针对相关事件进行评估，确保受害者获得正义与赔偿。\n2月28日，美国袭击沙贾雷·塔耶贝小学造成一百多人死亡，其中包括约120名儿童。特朗普政府至今尚未直接承认对这起袭击负责，也未公布五角大楼的调查结果。联合国调查专家表示，此次袭击构成无差别袭击，造成平民伤亡和民用基础设施破坏，根据国际法构成战争罪。\n据",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -239,16 +102,50 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "广电总局称电视套娃收费治理成效显著，未来将推进服务与体验双提升。",
-      "credibilityScore": 88,
+      "aiSummary": "联合国调查团称有合理理由相信美国袭击伊朗小学和体育设施构成战争罪。",
+      "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "来源澎湃新闻较权威，引述国新办发布会及副局长具体发言，事实可查证。"
+      "credibilityReason": "澎湃新闻转引新华社及联合国调查团声明，来源较权威，信息具体，但缺少美方直接回应。"
     },
     {
-      "title": "（长征胜利90周年）福建长汀中复村：红色遗址交织乡村新貌引八方来客",
-      "link": "https://www.chinanews.com.cn/sh/2026/09-17/10698133.shtml",
-      "pubDate": "Thu, 17 Sep 2026 11:48:33 +0800",
-      "contentSnippet": "中新社福建长汀9月17日电 题：福建长汀中复村：红色遗址交织乡村新貌引八方来客",
+      "title": "从战场到家庭账单：美伊战事七个月，账面军费约380亿美元",
+      "link": "https://m.thepaper.cn/detail/34081386",
+      "pubDate": "Thu, 17 Sep 2026 23:36:43 GMT",
+      "contentSnippet": "据新华社报道，自今年2月底美伊战事爆发以来，冲突已进入第七个月。美国国会预算办公室15日发布报告，截至8月1日，美国国防部为这场战事付出的直接成本约380亿美元。综合多方数据看，军费开支、弹药消耗、能源价格与国内通胀正在相互叠加，战事负担正从国防预算加速向美国普通家庭传导。\n\n《时代》周刊网站报道，国会预算办公室发布报告认为，对伊战事已使美国损失近400亿美元，并加剧了通货膨胀。央视新闻 图\n\n\n军费账本：账面380亿美元\n根据美国国会预算办公室报告，从2月28日战事开始至8月1日，美国国防部相关成本支出主要用于补充消耗弹药、替换受损装备和增加飞行与燃料开支。这笔数字与国防部长赫格塞思7月向国",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "美伊战事七个月，美国会预算办公室报告称国防部直接成本约380亿美元。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "澎湃新闻转载新华社及国会预算办公室报告，来源权威，数据具体可查证。"
+    },
+    {
+      "title": "王毅同美国国务卿鲁比奥通电话",
+      "link": "http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E7%8E%8B%E6%AF%85%E5%90%8C%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%8A%A1%E5%8D%BF%E9%B2%81%E6%AF%94%E5%A5%A5%E9%80%9A%E7%94%B5%E8%AF%9D",
+      "pubDate": "Thu, 17 Sep 2026 22:21:00 +0800",
+      "contentSnippet": "",
+      "sourceName": "央视新闻",
+      "sourceWeight": 80,
+      "allSources": [
+        "央视新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "央视新闻报道王毅同美国国务卿鲁比奥通电话，正文摘要缺失。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "央视来源权威，但正文摘要缺失，无法核实具体内容，且鲁比奥任国务卿需确认。"
+    },
+    {
+      "title": "探访中国传统村落：福建罗源岭兜村",
+      "link": "https://www.chinanews.com.cn/tp/2026/09-18/10698794.shtml",
+      "pubDate": "Fri, 18 Sep 2026 11:53:50 +0800",
+      "contentSnippet": "9月17日，航拍岭兜村。（无人机照片）中新社记者 王东明 摄\r\n\n9月17日，村民在村中晒稻谷。（无人机照片）中新社记者 王东明 摄\r\n\n9月17日，游客在岭兜村参观游玩。中新社记者 王东明 摄\r\n\n9月17日，村民行走在村里古道上。中新社记者 王东明 摄\r\n\n9月17日，游客参观始建于宋朝的转水桥。中新社记者 王东明 摄\r\n\n9月17日，岭兜村古厝。中新社记者 王东明 摄\r\n\n9月17日，游客在岭兜村参观游玩。中新社记者 王东明 摄\r\n\n9月17日，航拍岭兜村周边美丽的山水风光。（无人机照片）中新社记者 王东明 摄",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -256,10 +153,112 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中新社报道福建长汀中复村红色遗址与乡村新貌吸引游客。",
+      "aiSummary": "中新社记者探访福建罗源岭兜村，以图片报道展示古村风貌与游客参观场景。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "中新社为权威通讯社，报道有具体时间地点，内容正面客观，但缺乏多源交叉验证。"
+      "credibilityReason": "来源为中新社，属权威媒体，有署名记者及具体时间地点，图片报道事实可查证，但内容较简短。"
+    },
+    {
+      "title": "感悟踏实而温热的“减”与“加”（评论员观察）",
+      "link": "https://www.chinanews.com.cn/ll/2026/09-18/10698773.shtml",
+      "pubDate": "Fri, 18 Sep 2026 11:53:10 +0800",
+      "contentSnippet": "每一处细微优化，每一项政策落地，都是治理能力的提升，也是对发展福祉的增进",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国新闻网发表评论员观察，论述政策优化与治理能力提升。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为权威媒体中国新闻网，但属评论文章，无具体事实数据，主观论述为主。"
+    },
+    {
+      "title": "湖北宜昌：峡江之畔唱响劳动者赞歌",
+      "link": "https://www.chinanews.com.cn/tp/2026/09-18/10698790.shtml",
+      "pubDate": "Fri, 18 Sep 2026 11:51:56 +0800",
+      "contentSnippet": "图为工厂音乐会在峡江之畔举行。（无人机照片）周星亮 摄  \r\n\n图为工厂音乐会现场歌声与欢呼声交织。（无人机照片）周星亮 摄  \r\n\n图为工厂音乐会现场歌声与欢呼声交织。周星亮 摄  \r\n\n图为工厂音乐会现场灯光绚烂，乐声激昂。周星亮 摄  \r\n\n图为工厂音乐会现场灯光绚烂，乐声激昂。周星亮 摄  \r\n\n图为工厂音乐会现场灯光绚烂，乐声激昂。周星亮 摄",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "湖北宜昌峡江之畔举办工厂音乐会，以图片报道形式展现劳动者文化活动。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，属较权威媒体；有具体地点、署名摄影记者及图片说明，内容具体可查证。"
+    },
+    {
+      "title": "东南大学举行2026年开学典礼 本硕博新生扬帆启航",
+      "link": "https://www.chinanews.com.cn/tp/2026/09-18/10698808.shtml",
+      "pubDate": "Fri, 18 Sep 2026 11:49:10 +0800",
+      "contentSnippet": "图为新生佩戴东南大学校徽。中新社记者 泱波 摄  \r\n\n图为开学典礼现场。（无人机照片）中新社记者 泱波 摄  \r\n\n图为新生代表向家长、重点生源中学校长代表献花致谢。中新社记者 泱波 摄  \r\n\n图为师生代表发言。中新社记者 泱波 摄  \r\n\n图为开学典礼现场。（无人机照片）中新社记者 泱波 摄  \r\n\n图为开学典礼现场。（无人机照片）中新社记者 泱波 摄",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "东南大学举行2026年开学典礼，本硕博新生参加，中新社记者现场摄影报道。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，属较权威媒体，有署名记者和具体图片说明，内容为常规校园活动报道，事实可查证。"
+    },
+    {
+      "title": "花瓣遮不住战争尸骨，抗议不过是“招魂”表演｜新漫评",
+      "link": "http://www.chinanews.com.cn/gj/shipin/2026/09-18/news1069288.shtml",
+      "pubDate": "Fri, 18 Sep 2026 11:48:03 +0800",
+      "contentSnippet": "近日，俄罗斯哈巴罗夫斯克一座纪念战胜日本军国主义的纪念碑正式揭幕。15米高的红军战士雕像，以枪托砸碎刻有日本菊花纹章的界碑。日本首相高市早苗随即高调抗议并要求拆除，遭俄方斥为荒谬。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "俄哈巴罗夫斯克揭幕反日纪念碑，日方抗议遭俄方驳斥。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "中国新闻网为正规媒体，事件具体可查证，但属评论性漫画栏目，用词带倾向性。"
+    },
+    {
+      "title": "A股午评：超4500只个股飘红，三大指数集体涨超1%",
+      "link": "https://www.chinanews.com.cn/cj/2026/09-18/10698825.shtml",
+      "pubDate": "Fri, 18 Sep 2026 11:40:27 +0800",
+      "contentSnippet": "A股午评：超4500只个股飘红，三大指数集体涨超1%，科创50大涨近4%；GPU、存储芯片走强，半导体爆发；汽车、煤炭、油气下跌",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "A股午盘三大指数集体涨超1%，超4500只个股上涨，半导体板块走强。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "中国新闻网为权威媒体，数据具体可查证，但属市场行情简讯，无直接引述。"
+    },
+    {
+      "title": "西北工业大学青年学子赴边疆开展民族团结进步主题社会实践",
+      "link": "https://www.chinanews.com.cn/txy/2026/09-18/10698735.shtml",
+      "pubDate": "Fri, 18 Sep 2026 11:36:39 +0800",
+      "contentSnippet": "2026年暑假，西北工业大学青年学子积极响应国家号召，深入学习贯彻《中华人民共和国民族团结进步促进法》，紧扣“青守边疆志”实践主题，聚焦红色戍边寻访、三航科教兴边、民族团结聚力三大核心方向，组织学子奔赴祖国万里边疆开展系列社会实践活动，在躬身实践中传承戍边精神、播撒科创火种、凝聚民族同心力量，以实际行动铸牢中华民族共同体意识。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "西北工业大学学子2026年暑假赴边疆开展民族团结主题社会实践。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，属较权威媒体；内容具体含时间、主题和方向，但缺少直接引述和具体地点数据。"
     }
   ]
 }
