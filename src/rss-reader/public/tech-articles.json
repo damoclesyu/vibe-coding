@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-18T03:57:57.352Z",
+  "generatedAt": "2026-09-19T03:55:24.628Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "台积电暌违 3 年后重返龙潭设厂：锁定 A14 以下先进制程，首座厂目标 2030 年完工",
-      "link": "https://www.ithome.com/1/003/907.htm",
-      "pubDate": "Fri, 18 Sep 2026 00:24:26 GMT",
-      "contentSnippet": "IT之家 9 月 18 日消息，据中国台湾《经济日报》昨日报道，暌违 3 年后，台积电决定重返龙潭设厂。当天，“新竹科学园区龙潭园区扩建计划”草案获审议通过，此举为台积电重返龙潭扫清一道障碍。\n该计划预计扩建约 104 公顷土地，总开发经费约 956.28 亿元新台币（IT之家注：现汇率约合 201.2 亿元人民币），全案完成后估计可创造每年约 5,500 亿元新台币（现汇率约合 1,157.2 亿元人民币）产值，并带动 4500 个就业机会，预计 2028 年底前完成环评及土地开发许可审议，2030 年进行园区公共工程设计施工。\n台积电供应链透露，龙科三期定位将优先锁定 1.4 纳米（A14",
+      "title": "北京市市场监督管理局对四家在线酒店旅游预订平台立案调查，飞猪、同程、途家、美团回应",
+      "link": "https://www.ithome.com/1/004/415.htm",
+      "pubDate": "Sat, 19 Sep 2026 03:33:41 GMT",
+      "contentSnippet": "9 月 19 日消息，北京市市场监督管理局根据国家市场监督管理总局工作部署和前期核查情况，依据《反不正当竞争法》《电子商务法》等法律法规，对杭州淘美航空服务有限公司（飞猪）、同程网络科技股份有限公司、途家在线信息技术（天津）有限公司、北京三快信息科技有限公司（美团）四家在线酒店旅游预订平台企业涉嫌相关违法行为立案调查，四家平台当天对此发布回应。\n飞猪表示，公司高度重视，并将积极配合北京市市场监督管理局的各项调查工作，全面落实监管要求。飞猪始终尊重并维护公平、开放、有序的市场环境，也将持续与行业各方一起，促进行业高质量发展。\n同程表示，对此高度重视，并将积极配合监管部门开展工作，全面落实监管的各",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,33 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "台积电时隔3年重返龙潭设厂，锁定A14以下先进制程，首座厂目标2030年完工。",
-      "credibilityScore": 82,
+      "aiSummary": "北京市监局对飞猪、同程、途家、美团四家平台立案调查，四家均回应配合。",
+      "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家引述台湾经济日报，含具体数据与规划细节，但缺台积电官方确认。"
+      "credibilityReason": "IT之家为知名科技媒体，报道引用官方调查及企业回应，事实具体，但缺少调查细节。"
     },
     {
-      "title": "【钛晨报】金融产品网络营销新规落地在即，上海证监局叫停“大V”合作营销；三大交易所发布中秋、国庆休市安排；宁德时代拟以14亿元在雅安新建4万吨碳酸锂年产能",
-      "link": "https://www.tmtpost.com/8144053.html",
-      "pubDate": "Fri, 18 Sep 2026 07:20:00 +0800",
-      "contentSnippet": "国务院办公厅印发《关于进一步加强烟花爆竹全链条安全监管的意见》；广电总局：机顶盒功能将以软件形态内置于电视机；三星、苹果和谷歌在美同时被调查；零跑汽车拟参与中国一汽旗下旗新动力A轮融资；问界将在2027年1月1日正式撤出鸿蒙智行和华为专卖店；诺基亚与微软合作推进网络自动化；三星据报加速推进下一代三折叠手机，最快今年底或明年初发布",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体晨报汇总金融营销新规、交易所休市、宁德时代扩产等多条科技财经快讯",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "知名科技媒体钛媒体，信息具体含数据，但为多条快讯汇总，部分内容缺原始出处"
-    },
-    {
-      "title": "机械大师预热双舱弯玻海景房机箱 CR680，支持右侧透倒置模式",
-      "link": "https://www.ithome.com/1/004/054.htm",
-      "pubDate": "Fri, 18 Sep 2026 03:53:15 GMT",
-      "contentSnippet": "IT之家 9 月 18 日消息，方糖机械大师 (Mechanic Master) 今日宣布将于 2026 年 10 月推出 CROWN“皇冠”系列的首款机箱产品 CR680。\n\nCR680 整体采用左右分舱 + 两片式曲面玻璃组的“海景房”侧透设计，外观干净利落，拥有“皇冠造型”上下支撑。其除标准左侧透模式外也原生支持翻转倒置的右侧透模式，放置更为灵活。\n该机箱顶部为透气格栅，支持面板免工具快拆；兼容背插主板，可容纳 2 组 360 冷排，集成可调副屏支架、可移动 & 伸缩显卡支架，右舱具备 4 个硬盘笼安装位；提供多种配色方案。",
+      "title": "“机顶盒内置”引发网友热议：专家解读一体化电视到底长什么样，广电总局目标在今年实现数千万规模部署",
+      "link": "https://www.ithome.com/1/004/382.htm",
+      "pubDate": "Sat, 19 Sep 2026 01:25:09 GMT",
+      "contentSnippet": "IT之家 9 月 19 日消息，国家广播电视总局 9 月 17 日在国务院新闻办公室发布会上介绍，将会同工业和信息化部制定一体化电视技术标准，把机顶盒功能以软件形态内置于电视机中。\n按照规划，一台电视即可接收直播、点播等全类型电视业务。用户配备通用遥控器，可一键开关机、一键看频道节目。\n实际上，这已经不是什么新闻了，IT之家近两年来至少已经报道过 12 次相关内容。但没想到的是，9 月 17 日消息公布后，“机顶盒内置”这一旧闻迅速引发网友讨论并登上热搜。\n\n今年 6 月 15 日，国家广播电视总局就已发布《一体化电视专网电视业务应用技术要求和测量方法》行业标准。这是我国首个针对一体化电视的基",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -50,16 +33,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "机械大师预热CR680双舱曲面玻璃机箱，支持右侧透倒置模式，10月发布。",
+      "aiSummary": "广电总局推动机顶盒功能内置电视，计划今年实现数千万规模部署。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体含产品细节与发布时间，但缺乏官方原始链接。"
+      "credibilityReason": "来源为IT之家，引用广电总局发布会及行业标准，信息具体，但正文摘要不完整。"
     },
     {
-      "title": "张雪机车官宣 2026 中国摩博会“五车齐发”，首款巡航、ADV 摩托车将至",
-      "link": "https://www.ithome.com/1/004/053.htm",
-      "pubDate": "Fri, 18 Sep 2026 03:40:51 GMT",
-      "contentSnippet": "IT之家 9 月 18 日消息，第二十四届中国国际摩托车博览会（简称 2026 中国摩博会）将于 2026 年 9 月 19 日-22 日在重庆国际博览中心举行，参展企业逾 1,000 家，展示规模和展商数均创历史新高。\n张雪机车今日宣布，将在 2026 中国摩博会“五车齐发”，推出 820X、600V、500F-2027、820RR-RS、820RR-RC 五款摩托车。\n\n网上已经流传出张雪 820X 摩托车的实车图，这是一款 ADV 车型（探险摩托车）。\n\n从图中可以看到，车上印有 820X 字样，配备类似手机比例的竖向仪表屏，尾部搭载尾箱。\nIT之家注意到，张雪 820X 已现身工信部申",
+      "title": "B 社《辐射 76》正式为 XBOX Series X|S、PS5 版本提供原生支持",
+      "link": "https://www.ithome.com/1/004/421.htm",
+      "pubDate": "Sat, 19 Sep 2026 03:54:16 GMT",
+      "contentSnippet": "IT之家 9 月 19 日消息，B 社宣布正式为《辐射 76》引入 XBOX Series X|S、PS5 原生支持，在兼容的电视或显示器上以最高 4K 分辨率和 60fps 运行。\n\n具体来看，《辐射 76》在 XBOX Series X|S、PS5 及 PS5 Pro 平台均以 60 FPS 为目标帧率运行。其中，XBOX Series X、XBOX One X 及 PS5 Pro 在兼容显示设备上支持 4K 分辨率；XBOX Series S、XBOX Series X、PS5 及 PS5 Pro 则支持 VRR，可在兼容显示设备上实现最高 60 FPS 的可变刷新率。PS5 和 PS4",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -67,51 +50,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "张雪机车宣布2026中国摩博会发布五款新车，含首款巡航和ADV车型。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体含车型型号及工信部申报细节，但缺乏官方原始出处。"
-    },
-    {
-      "title": "腾讯极光投影仪 F5 上架：1080P 345CVIA，822 元（国补后 699 元）",
-      "link": "https://www.ithome.com/1/004/051.htm",
-      "pubDate": "Fri, 18 Sep 2026 03:39:15 GMT",
-      "contentSnippet": "IT之家 9 月 18 日消息，腾讯现已在京东上架一款 Tencent F5 极光投影仪，该机主打 1080P 345CVIA 流明，定价为 822 元，部分地区国补后 699 元。\n京东腾讯极光投影 F5822 元国补后 699 元直达链接\n\n\n该产品使用白色简约外观，采用全封闭光机结构，镜头为全玻璃材质，可防止受热产生变形与失焦。机身配备 210° 可调云台，支持多角度旋转。\n\n具体规格方面，该机为 1080P 345 CVIA 亮度，画面对比度达 1500:1，搭载海思芯片与腾讯 OS，支持“5 秒开机、自动梯形校准、AI 语音”等功能。设备支持 Wi-Fi 6 网络，提供 USB-A、",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "腾讯极光投影仪F5上架京东，1080P 345CVIA流明，国补后699元。",
+      "aiSummary": "B社为《辐射76》推出Xbox Series X|S和PS5原生版本，支持4K/60fps及VRR。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，产品规格、价格、功能等细节具体，信息源自京东上架，可信度较高。"
+      "credibilityReason": "IT之家为知名科技媒体，内容具体含平台、分辨率、帧率等细节，但缺少官方公告链接。"
     },
     {
-      "title": "苹果 iPhone 18 Pro 首次用于美国职业棒球大联盟赛事直播：部署 14 部，带来独特视角",
-      "link": "https://www.ithome.com/1/004/050.htm",
-      "pubDate": "Fri, 18 Sep 2026 03:36:52 GMT",
-      "contentSnippet": "IT之家 9 月 18 日消息，科技媒体 AppleInsider 今天（9 月 18 日）发布博文，报道称 14 部苹果 iPhone 18 Pro 机型将首次应用于“周五晚棒球赛”（Friday Night Baseball）直播。\n本次直播活动于美国东部时间 2026 年 9 月 18 日晚上 10:15（北京时间 9 月 19 日上午 10:15）开赛，对阵双方为旧金山巨人队对洛杉矶道奇队。\n在部署数量方面，消息称在本次美国职业棒球大联盟（MLB）比赛中，官方将会在道奇体育场部署 14 部 iPhone 18 Pro 拍摄直播画面，数量较 2025 年 9 月使用的 4 部 iPhon",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家",
-        "Solidot"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "苹果iPhone 18 Pro首次用于MLB直播，部署14部提供独特视角。",
-      "credibilityScore": 87,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家编译AppleInsider，信息具体含时间、地点、数量，但缺原始链接，属知名科技媒体转载。（多源覆盖 +5）"
-    },
-    {
-      "title": "阿里发布 Qwen3.8-Omni-Flash 全模态模型：音视频能力提升，百万 Token 图文音视频输入 0.8 元",
-      "link": "https://www.ithome.com/1/004/049.htm",
-      "pubDate": "Fri, 18 Sep 2026 03:34:25 GMT",
-      "contentSnippet": "IT之家 9 月 18 日消息，阿里千问今日正式上线新一代原生全模态模型 Qwen3.8-Omni-Flash，并已在千问 AI 平台提供。该模型可同时处理文本、图像、音频和视频输入，支持 1M 上下文。\n\n全模态模型指可同时处理文本、图像、音频、视频等多种输入形式。官方称，该模型在保持同尺寸文本模型能力的同时，全模态能力较上一代明显提升。\n\n在累计 30 项评测上，Qwen3.8-Omni-Flash 相比上一代 Qwen3.5-Omni-Plus 平均得分提升超过 26%。在音视频 Agent、Coding 和长程任务方面，WildClawBench-MM 提升 36.5 分，Agenti",
+      "title": "AI 太烧钱：报道称 OpenAI 未来 5 年自由现金流为负 2780 亿美元",
+      "link": "https://www.ithome.com/1/004/420.htm",
+      "pubDate": "Sat, 19 Sep 2026 03:53:04 GMT",
+      "contentSnippet": "IT之家 9 月 19 日消息，金融时报（FT）昨日（9 月 18 日）发布博文，称获得一份演示文稿，显示 OpenAI 公司预计 2026 年至 2030 年累计产生 2,780 亿美元（IT之家注：现汇率约合 1.87 万亿元人民币）负自由现金流，此外计划在算力和基础设施上投入约 8,560 亿美元（现汇率约合 5.75 万亿元人民币）。\n自由现金流（Free Cash Flow）是企业在支付经营成本、资本支出及必要投资后，可自由用于偿债、分红、回购或继续投资的现金余额。\n自由现金流为负，通常表示企业当期经营与投资活动消耗的现金高于产生的现金，需依赖现有现金、融资或资产处置补充资金。\n根据",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -119,16 +67,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "阿里发布Qwen3.8-Omni-Flash全模态模型，支持百万Token图文音视频输入，定价0.8元。",
+      "aiSummary": "FT报道OpenAI预计2026至2030年累计负自由现金流达2780亿美元，算力投入约8560亿美元。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，信息具体含模型名称、评测数据和定价，但缺少官方原始链接。"
+      "credibilityReason": "IT之家引述金融时报获得的演示文稿，数据具体，来源可追溯，但原始文件未公开验证。"
     },
     {
-      "title": "讯飞 AI 录音卡上架：支持 10 种外语翻译、30 小时续航，999 元",
-      "link": "https://www.ithome.com/1/004/040.htm",
-      "pubDate": "Fri, 18 Sep 2026 03:31:49 GMT",
-      "contentSnippet": "IT之家 9 月 18 日消息，科大讯飞现已在京东上架一款讯飞 AI 录音卡，该产品深度整合 AI 大模型，主打会议记录，定价为 999 元。\n京东科大讯飞 AI 录音卡 999 元直达链接\n\n\n该产品提供深空灰与曜石黑两色，尺寸为 85.6mm×54mm×4mm，重约 33g。正面为铝合金材质，背面采用玻纤与 PET 工艺，支持原生磁吸，可直接贴附于手机背面。机身配备一块 0.95 英寸 OLED 屏，可显示录音信息。\n\n\n该机内置 1 颗骨传导麦克风与 3 颗全向麦克风，可实现 8 米远距离拾音及专业降噪功能。机器具备 AI 转文字 / 总结能力，支持多种本地方言、10 种外语及 2 种民",
+      "title": "Steam 喜加一：原价 22 元第一人称射击游戏《Deadshot》免费领",
+      "link": "https://www.ithome.com/1/004/419.htm",
+      "pubDate": "Sat, 19 Sep 2026 03:45:12 GMT",
+      "contentSnippet": "IT之家 9 月 19 日消息，独立游戏开发者 v0lt 制作的复古风格第一人称射击游戏《Deadshot》目前正在 Steam 平台进行限时免费领取“喜加一”活动。本作在国区定价为 22 元，玩家可以在北京时间 9 月 24 日前领取，IT之家附游戏地址（https://store.steampowered.com/app/2484180/Deadshot/）。\n\n《Deadshot》的游戏风格受到《半条命（半衰期）》和《毁灭战士》系列启发。游戏讲述一场突如其来的变异灾难席卷全球，世界在一夜之间遍布变异怪物。玩家将扮演一名在灾难中心醒来的士兵，拿起重火力武器，在危机四伏的环境中寻找事件真相。",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -136,16 +84,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "科大讯飞上架999元AI录音卡，支持多语翻译、30小时续航及AI会议记录。",
+      "aiSummary": "独立复古FPS《Deadshot》Steam限时免费领取，原价22元。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息具体含价格、时限及Steam原始链接，内容客观准确。"
+    },
+    {
+      "title": "微软发布 Win11 26H2 评估版 ISO 镜像：用于企业 IT 管理员测试新系统，可免费试用 90 天",
+      "link": "https://www.ithome.com/1/004/418.htm",
+      "pubDate": "Sat, 19 Sep 2026 03:40:53 GMT",
+      "contentSnippet": "IT之家 9 月 19 日消息，微软现已开始发布基于 Windows 11 26H2 的评估版 ISO 镜像，用户可以免费下载并免费试用 90 天，无需激活。\n\nIT之家注：评估版 ISO 主要面向企业 IT 管理员，用于提前测试评估新版本系统是否适合现有 IT 环境，微软并不建议普通家庭用户使用这一版本，目前提供的 ISO 基于最新的 KB5129195 OOB 更新，系统版本号为 Build 26300.9457：“26300.9457.260913-1737.26h2_ge_release_svc_refresh_CLIENTENTERPRISEEVAL_OEMRET_x64FRE_en",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微软发布Win11 26H2评估版ISO，供企业IT管理员免费试用90天。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，产品参数具体详实，定价与销售渠道明确，但缺少官方原始出处引用。"
+      "credibilityReason": "IT之家为知名科技媒体，内容含具体版本号、KB更新编号及适用对象，信息详实可验证。"
     },
     {
-      "title": "荣耀发布行业解决方案品牌荣耀天工，多款硬件亮相",
-      "link": "https://www.ithome.com/1/004/037.htm",
-      "pubDate": "Fri, 18 Sep 2026 03:30:38 GMT",
-      "contentSnippet": "IT之家 9 月 18 日消息，荣耀 (HONOR) 在本月 15 日进行的 2026 HGDC 荣耀全球开发者大会上发布了其行业解决方案品牌荣耀天工。\n\nIT之家了解到，荣耀天工覆盖软硬件两大维度，提供一系列行业解决方案和通用业务解决方案。\n\n在硬件方面，荣耀天工通过官网展示了 AI 工作站、商用笔记本、商用大型台式工作站产品；而其软件产品包括模型部署与推理加速平台、通用智能体平台、知识库、运维平台等。\n\n其中 AI 工作站类别包含基于英特尔酷睿 Ultra X7 处理器 358H 的标准版、基于 AMD 锐龙 AI Max+ 395 处理器的 Pro 版、基于 NVIDIA RTX Spa",
+      "title": "消息称《漫威金刚狼》上市前三天销量达 190 万份，为 2026 年 PS5 平台表现最好的索尼第一方游戏",
+      "link": "https://www.ithome.com/1/004/416.htm",
+      "pubDate": "Sat, 19 Sep 2026 03:34:37 GMT",
+      "contentSnippet": "IT之家 9 月 19 日消息，分析机构 Alinea Analytics 现已公布了《漫威金刚狼》的首发销售数据。数据显示，游戏上市前三天销量达到 190 万份，营收约 1.3 亿美元（IT之家注：现汇率约合 8.73 亿元人民币），其中约 100 万份来自发售前数字预购，实体版销售贡献了 22.9% 的营收。Alinea Analytics 强调，其统计的是实际售出（sell-through）数据，不包含零售商尚未售出的库存，因此与发行商通常公布的出货量数据存在差异。\n\n从数据来看，《漫威金刚狼》上市仅 3 天，累计销量已经超过 Alinea Analytics 统计的《死亡搁浅 2》PS",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -153,113 +118,146 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "荣耀发布行业解决方案品牌荣耀天工，涵盖AI工作站等软硬件产品。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道含具体产品型号和处理器细节，但缺少官方原始链接。"
-    },
-    {
-      "title": "iPhone的生态位，被豆包手机抢了吗？",
-      "link": "https://www.tmtpost.com/8144026.html",
-      "pubDate": "Fri, 18 Sep 2026 11:24:06 +0800",
-      "contentSnippet": "Agent即入口，豆包又近了一步。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体分析豆包手机以Agent为入口，是否冲击iPhone生态位。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体，选题有行业视角，但摘要过简，缺数据与原始出处支撑。"
-    },
-    {
-      "title": "地瓜机器人C轮融资4亿美元：资本不再为Demo买单，只为量产续费",
-      "link": "https://www.tmtpost.com/8144105.html",
-      "pubDate": "Fri, 18 Sep 2026 11:24:05 +0800",
-      "contentSnippet": "建立一条从Demo走向量产的标准路径。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "地瓜机器人完成4亿美元C轮融资，资本聚焦量产落地而非Demo演示。",
+      "aiSummary": "分析机构称《漫威金刚狼》上市三天销量190万份，营收约1.3亿美元。",
       "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "钛媒体为知名科技媒体，融资信息具体，但正文极简略，缺少投资方及技术细节。"
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，引用分析机构数据，含具体销量与营收细节，但非官方来源。"
     },
     {
-      "title": "AI制药独角兽Anew单飞，字节推了一把“最烧钱的慢生意”",
-      "link": "https://www.tmtpost.com/8144119.html",
-      "pubDate": "Fri, 18 Sep 2026 11:24:03 +0800",
-      "contentSnippet": "新兴AI制药平台能否再长出不一样的Biotech模式？Anew是个很好的样本。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体报道AI制药独角兽Anew独立发展，字节跳动参与推动这一高投入慢周期业务。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "钛媒体为知名科技媒体，但摘要信息简略，缺少具体数据与原始出处，技术细节不足。"
-    },
-    {
-      "title": "拆解HYROX的生意经：商业狂飙，规则难做",
-      "link": "https://www.tmtpost.com/8144189.html",
-      "pubDate": "Fri, 18 Sep 2026 11:24:02 +0800",
-      "contentSnippet": "看似简单标准的赛制，背后考验的并不容易。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体拆解HYROX赛事商业模式，指出其商业扩张迅速但规则体系面临挑战。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，选题具体，但正文摘要过简，缺少数据与原始出处支撑。"
-    },
-    {
-      "title": "AI感知设备的隐私战争：手表在录音、眼镜在偷拍，大众正被悄悄“脱敏”",
-      "link": "https://www.tmtpost.com/8144468.html",
-      "pubDate": "Fri, 18 Sep 2026 11:23:52 +0800",
-      "contentSnippet": "但，真的能放心吗？",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体探讨AI感知设备引发的隐私争议，质疑其安全性。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体，选题具现实意义，但正文摘要过简，缺乏具体数据与原始出处支撑。"
-    },
-    {
-      "title": "Qoder 福利：10 月前阿里千问 Qwen3.8-Flash 免费用，每日登录还能领 100 Credits",
-      "link": "https://www.ithome.com/1/004/011.htm",
-      "pubDate": "Fri, 18 Sep 2026 03:20:09 GMT",
-      "contentSnippet": "IT之家 9 月 18 日消息，阿里 Qoder 官方今日宣布，Qwen3.8-Flash 模型在 Qoder 平台限时免费（活动从 9 月 18 日 10:00 持续至 9 月 30 日 23:59:59）。\n活动期间，Qwen3.8-Flash 计费系数由 0.1× 降至 0.0×，每次调用不扣 Credits。用户无需领取免费资格，打开 Qoder 桌面端并在模型选择器中选择该模型即可使用。\n\n在此基础上，Qoder 还推出每日登录奖励。每天 10:00 开放新一轮领取，至次日 10:00 前可领（每个账号每轮可领一次 100 通用 Credits，错过不补），每笔奖励自领取之日起 30",
+      "title": "12.8 万元张雪 820RR-RC 赛道版发布：冠军同款涂装风格，不可上路",
+      "link": "https://www.ithome.com/1/004/414.htm",
+      "pubDate": "Sat, 19 Sep 2026 03:25:22 GMT",
+      "contentSnippet": "IT之家 9 月 19 日消息，张雪机车今日正式发布了 820RR-RC 赛道版车型，采用与 SBK 超级运动赛车同款的外观涂装风格，全国统一指导价为 128000 元。\nIT之家提醒：该车型定位为赛道专用车辆，不具备道路行驶资质，主要针对赛道日及竞速场景使用。\n\n820RR-RC 搭载一台 818.8cc 直列三缸发动机，采用 DOHC 每缸四气门、水冷 + 油冷散热结构，最大功率 113 千瓦，在每 13500 转时输出，最大扭矩 86 牛 · 米在每 10000 转时产生，最高转速可达 14750 转，压缩比为 14:1。\n其供油系统采用 BOSCH 电喷，动力、TCS 牵引力控制和发动",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
-        "IT之家",
-        "钛媒体"
+        "IT之家"
       ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "阿里Qoder宣布Qwen3.8-Flash模型限时免费，每日登录可领100 Credits。",
-      "credibilityScore": 87,
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "张雪发布820RR-RC赛道版摩托车，售价12.8万元，配818.8cc三缸发动机，不可上路。",
+      "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家和钛媒体，信息具体含活动时间与计费细节，但缺少官方原始链接。（多源覆盖 +5）"
+      "credibilityReason": "IT之家为知名科技媒体，内容含具体技术参数和价格，信息详实，但缺少官方原始出处链接。"
+    },
+    {
+      "title": "美国弗吉尼亚州宣布成立“人工智能工作组”，同步公布“数据中心问责框架”加强建设监管",
+      "link": "https://www.ithome.com/1/004/413.htm",
+      "pubDate": "Sat, 19 Sep 2026 03:25:18 GMT",
+      "contentSnippet": "IT之家 9 月 19 日消息，据外媒 The Verge 报道，美国弗吉尼亚州州长 Abigail Spanberger 近日签署第 22 号行政命令（Executive Order 22），宣布成立“人工智能工作组”，评估 AI 快速发展可能带来的就业、数据隐私和网络安全风险。官方同步公布“数据中心问责框架”（Data Center Accountability Framework），计划进一步加强对数据中心建设的监管，并提高地方社区在相关项目审批中的参与程度。\n根据行政命令，弗吉尼亚州政府行政部门、机构、委员会及其他受州长监督的单位，将不得针对商业数据中心项目签署或要求签署保密协议。州政",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "弗吉尼亚州成立AI工作组并发布数据中心问责框架，加强监管与社区参与",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家援引The Verge，含行政令编号及具体政策细节，来源较可靠，但缺少官方链接"
+    },
+    {
+      "title": "投行 Piper 称亚马逊、苹果、AMD 等正评估英特尔 14A 半导体工艺",
+      "link": "https://www.ithome.com/1/004/412.htm",
+      "pubDate": "Sat, 19 Sep 2026 03:22:56 GMT",
+      "contentSnippet": "IT之家 9 月 19 日消息，美国投行 Piper Sandler 最新研报指出，亚马逊、苹果、AMD、谷歌、特斯拉、微软、英伟达和高通（按照研报排序）正在评估英特尔 14A 制程。\n\nIntel 14A 是英特尔规划中的 1.4nm 级制程节点。该节点采用背面供电方案 PowerDirect，并引入 RibbonFET 2 晶体管与第 2 代全环绕栅极架构。\n\nIT之家曾于 8 月报道，Intel 14A 制程工艺拥有自 22nm 节点以来最佳的“缺陷密度曲线”（defect density curve）。\n\n英特尔首席执行官陈立武强调，14A 在缺陷密度和晶体管性能两项关键指标上均已超越",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "投行Piper研报称亚马逊、苹果、AMD等多家巨头正评估英特尔14A制程。",
+      "credibilityScore": 78,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，引用投行研报及具体技术细节，但缺乏英特尔官方确认。"
+    },
+    {
+      "title": "初创公司 Soulart 推出 Station VR 基站全身追踪设备：利用机器学习实现动捕，单台售价低于 400 美元",
+      "link": "https://www.ithome.com/1/004/410.htm",
+      "pubDate": "Sat, 19 Sep 2026 03:17:57 GMT",
+      "contentSnippet": "IT之家 9 月 19 日消息，韩国初创公司 Soulart 宣布为 VR 平台推出一款名为 Station 的基站全身追踪设备，号称采用 NPU 在本地完成身体动作识别，单台售价低于 400 美元，但目前产品仍处于早期阶段，实际售价和追踪效果还有待进一步验证。\n具体来看，Station 最大的特点是采用单基站设计，其本质上就是一个摄像头（整体风格类似 Kinect），利用机器学习进行动作识别，用户无需佩戴任何传感器即可进行全身追踪，单台设备的覆盖范围最高可达 50 平方米，追踪刷新率最高 120Hz。\n\nSoulart 表示，尽管用户购买单台 Station 即可进行全身动捕，但如果用户同时",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "韩国Soulart推出Station VR基站全身追踪设备，单台售价低于400美元。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体IT之家，产品细节具体，但信息源自厂商，实际效果待验证。"
+    },
+    {
+      "title": "张雪首款 ADV 摩托车 820X 发布，4.68 万元起",
+      "link": "https://www.ithome.com/1/004/409.htm",
+      "pubDate": "Sat, 19 Sep 2026 03:17:05 GMT",
+      "contentSnippet": "IT之家 9 月 19 日消息，在今日的第二十四届中国国际摩托车博览会上，张雪首款 ADV 车型（探险摩托车）—— 张雪 820X 正式发布，突击版售价 4.68 万元（2027 年上市），旅行版售价 5.78 万元。\n\n\n张雪 820X 搭载 818.8cc 排量直列三缸水冷发动机，最大功率 85kW，最大扭矩 80N·m。\n\n\n张雪 820X 车身尺寸为 2320x950x1455mm，轴距 1575mm，最高车速达 220km/h，不带尾箱的版本重量为 218kg。\n\n\n\n该车配备电子减震系统，支持阻尼智能匹配、阻尼自定义、后减震预载智能调整；搭载毫米波雷达，支持 ACC 自适应巡航、前",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "张雪首款ADV摩托车820X发布，4.68万元起，搭818.8cc三缸发动机。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，参数具体详实，但缺少官方原始出处引用。"
+    },
+    {
+      "title": "英伟达 GPU 驱动 Bug 被修复：RPCS3 模拟游戏帧率提升 37%、显存占用降低 32%",
+      "link": "https://www.ithome.com/1/004/408.htm",
+      "pubDate": "Sat, 19 Sep 2026 03:10:39 GMT",
+      "contentSnippet": "IT之家 9 月 19 日消息，科技媒体 Wccftech 昨日（9 月 18 日）发布博文，报道称 RPCS3 开发团队修复 NVIDIA GPU 驱动程序的一个 Bug，模拟游戏测试发现帧率可以提高 37%、显存占用降低 32%。\nIT之家援引博文介绍，RPCS3 开发团队指出在 NVIDIA GPU 驱动程序中，存在影响模拟器性能的问题，会限制部分游戏的帧率，并在多数测试中推高显存占用。\n\n贡献者 Yahfz 找到修复方案，可以变通缓解该驱动 Bug 影响，从而提高模拟器性能。开发团队在《GT 赛车 5》开放道路场景中，Ryzen 7 9850X3D 与 RTX 3070 的组合，帧率从",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "RPCS3团队修复NVIDIA驱动Bug，模拟游戏帧率提升37%、显存占用降低32%。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家援引Wccftech，有具体数据与硬件配置，来源较可靠，但非原始技术报告。"
+    },
+    {
+      "title": "张雪 820RR-RS 正式上市：818.8cc 三缸 + 全碳纤维覆盖件，13.8 万元不到国际品牌一成",
+      "link": "https://www.ithome.com/1/004/407.htm",
+      "pubDate": "Sat, 19 Sep 2026 03:09:17 GMT",
+      "contentSnippet": "IT之家 9 月 19 日消息，在第二十四届中国国际摩托车博览会（2026 中国摩博会）上，张雪机车 820RR-RS 正式发布，全国统一指导价 138000 元。\n张雪表示：13.8 万元这个价格当然不便宜，但可能有些车友都知道，一些国际品牌给到这个配置的，要卖到 150 万元，我们不到别人的 1/10。\n\n该车搭载 818.8cc 直列三缸 DOHC 水冷加油冷发动机，每缸四气门。最大功率 110kW（约 150PS）/13500rpm，最大扭矩 86N·m/10000rpm。\n其最高转速为 14750rpm，压缩比 14:1，供油方式为 BOSCH 电喷；动力模式提供雨天、道路、运动，以",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "张雪机车820RR-RS上市，818.8cc三缸，售价13.8万元。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，参数具体，但价格对比缺乏依据，略有宣传倾向。"
+    },
+    {
+      "title": "传承“十三姨”外观：本田 CB500 Super Four 摩托车新增“经典配色版”，43480 元",
+      "link": "https://www.ithome.com/1/004/406.htm",
+      "pubDate": "Sat, 19 Sep 2026 03:06:48 GMT",
+      "contentSnippet": "IT之家 9 月 19 日消息，本田摩托车在今天举行的 2026 中国摩博会活动中为旗下 CB500 Super Four 摩托车新增一款“经典配色版”，该版本车型采用红白配色，号称传承“十三姨（CB1300）”经典外观，定价为 43480 元。\n\n▲ 现款“烈焰红”配色\n该车整体造型复古，大灯灯嘴采用磨砂银色塑料材质，车头下方继承两颗喇叭，中间搭配印有 CB 标识的装饰罩；两侧的转向灯尺寸较大；前叉管径偏细、横向间距较短，正面视角整车纤细。\n\n▲ CB1300 摩托车\n该车搭载方形 TFT 仪表，可直观展示车辆信息，匹配钻石车架及日系鸭尾设计，匹配经典双圆灯造型尾灯，排气支架固定在后乘客脚踏",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "本田CB500 Super Four新增红白经典配色版，售价43480元，传承CB1300外观。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息含具体价格、车型细节及展会背景，但缺少官方来源引用。"
     }
   ]
 }
