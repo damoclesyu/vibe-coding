@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-19T03:55:24.628Z",
+  "generatedAt": "2026-09-20T04:12:35.356Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "北京市市场监督管理局对四家在线酒店旅游预订平台立案调查，飞猪、同程、途家、美团回应",
-      "link": "https://www.ithome.com/1/004/415.htm",
-      "pubDate": "Sat, 19 Sep 2026 03:33:41 GMT",
-      "contentSnippet": "9 月 19 日消息，北京市市场监督管理局根据国家市场监督管理总局工作部署和前期核查情况，依据《反不正当竞争法》《电子商务法》等法律法规，对杭州淘美航空服务有限公司（飞猪）、同程网络科技股份有限公司、途家在线信息技术（天津）有限公司、北京三快信息科技有限公司（美团）四家在线酒店旅游预订平台企业涉嫌相关违法行为立案调查，四家平台当天对此发布回应。\n飞猪表示，公司高度重视，并将积极配合北京市市场监督管理局的各项调查工作，全面落实监管要求。飞猪始终尊重并维护公平、开放、有序的市场环境，也将持续与行业各方一起，促进行业高质量发展。\n同程表示，对此高度重视，并将积极配合监管部门开展工作，全面落实监管的各",
+      "title": "苹果闹钟终于响了：iOS 27 支持中国大陆调休日，今日首次测试火上热搜",
+      "link": "https://www.ithome.com/1/004/709.htm",
+      "pubDate": "Sun, 20 Sep 2026 03:29:37 GMT",
+      "contentSnippet": "IT之家 9 月 20 日消息，苹果于 9 月 15 日凌晨推送了 iOS 27.0 正式版更新，迎来多项性能优化，补足了中国大陆节假日调休闹钟，并且中文输入法也进行了优化。\n\n今日（9 月 20 日）是 iOS 27 正式版更新后的第一个调休日，不少人测试 iOS 27 调休闹钟表示“真的响了”，相关话题“苹果闹钟终于响了”也火上热搜。\n\nIT之家注：根据国务院办公厅关于 2026 年部分节假日安排的通知，国庆节 10 月 1 日（周四）至 7 日（周三）放假调休，共 7 天。9 月 20 日（周日）、10 月 10 日（周六）上班。",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,67 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "北京市监局对飞猪、同程、途家、美团四家平台立案调查，四家均回应配合。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道引用官方调查及企业回应，事实具体，但缺少调查细节。"
-    },
-    {
-      "title": "“机顶盒内置”引发网友热议：专家解读一体化电视到底长什么样，广电总局目标在今年实现数千万规模部署",
-      "link": "https://www.ithome.com/1/004/382.htm",
-      "pubDate": "Sat, 19 Sep 2026 01:25:09 GMT",
-      "contentSnippet": "IT之家 9 月 19 日消息，国家广播电视总局 9 月 17 日在国务院新闻办公室发布会上介绍，将会同工业和信息化部制定一体化电视技术标准，把机顶盒功能以软件形态内置于电视机中。\n按照规划，一台电视即可接收直播、点播等全类型电视业务。用户配备通用遥控器，可一键开关机、一键看频道节目。\n实际上，这已经不是什么新闻了，IT之家近两年来至少已经报道过 12 次相关内容。但没想到的是，9 月 17 日消息公布后，“机顶盒内置”这一旧闻迅速引发网友讨论并登上热搜。\n\n今年 6 月 15 日，国家广播电视总局就已发布《一体化电视专网电视业务应用技术要求和测量方法》行业标准。这是我国首个针对一体化电视的基",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "广电总局推动机顶盒功能内置电视，计划今年实现数千万规模部署。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家，引用广电总局发布会及行业标准，信息具体，但正文摘要不完整。"
-    },
-    {
-      "title": "B 社《辐射 76》正式为 XBOX Series X|S、PS5 版本提供原生支持",
-      "link": "https://www.ithome.com/1/004/421.htm",
-      "pubDate": "Sat, 19 Sep 2026 03:54:16 GMT",
-      "contentSnippet": "IT之家 9 月 19 日消息，B 社宣布正式为《辐射 76》引入 XBOX Series X|S、PS5 原生支持，在兼容的电视或显示器上以最高 4K 分辨率和 60fps 运行。\n\n具体来看，《辐射 76》在 XBOX Series X|S、PS5 及 PS5 Pro 平台均以 60 FPS 为目标帧率运行。其中，XBOX Series X、XBOX One X 及 PS5 Pro 在兼容显示设备上支持 4K 分辨率；XBOX Series S、XBOX Series X、PS5 及 PS5 Pro 则支持 VRR，可在兼容显示设备上实现最高 60 FPS 的可变刷新率。PS5 和 PS4",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "B社为《辐射76》推出Xbox Series X|S和PS5原生版本，支持4K/60fps及VRR。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容具体含平台、分辨率、帧率等细节，但缺少官方公告链接。"
-    },
-    {
-      "title": "AI 太烧钱：报道称 OpenAI 未来 5 年自由现金流为负 2780 亿美元",
-      "link": "https://www.ithome.com/1/004/420.htm",
-      "pubDate": "Sat, 19 Sep 2026 03:53:04 GMT",
-      "contentSnippet": "IT之家 9 月 19 日消息，金融时报（FT）昨日（9 月 18 日）发布博文，称获得一份演示文稿，显示 OpenAI 公司预计 2026 年至 2030 年累计产生 2,780 亿美元（IT之家注：现汇率约合 1.87 万亿元人民币）负自由现金流，此外计划在算力和基础设施上投入约 8,560 亿美元（现汇率约合 5.75 万亿元人民币）。\n自由现金流（Free Cash Flow）是企业在支付经营成本、资本支出及必要投资后，可自由用于偿债、分红、回购或继续投资的现金余额。\n自由现金流为负，通常表示企业当期经营与投资活动消耗的现金高于产生的现金，需依赖现有现金、融资或资产处置补充资金。\n根据",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "FT报道OpenAI预计2026至2030年累计负自由现金流达2780亿美元，算力投入约8560亿美元。",
+      "aiSummary": "iOS 27正式版支持中国大陆调休闹钟，9月20日首个调休日实测生效并登上热搜。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家引述金融时报获得的演示文稿，数据具体，来源可追溯，但原始文件未公开验证。"
+      "credibilityReason": "IT之家为知名科技媒体，信息含具体版本、日期及国务院调休安排，逻辑清晰，但缺少官方原始出处链接。"
     },
     {
-      "title": "Steam 喜加一：原价 22 元第一人称射击游戏《Deadshot》免费领",
-      "link": "https://www.ithome.com/1/004/419.htm",
-      "pubDate": "Sat, 19 Sep 2026 03:45:12 GMT",
-      "contentSnippet": "IT之家 9 月 19 日消息，独立游戏开发者 v0lt 制作的复古风格第一人称射击游戏《Deadshot》目前正在 Steam 平台进行限时免费领取“喜加一”活动。本作在国区定价为 22 元，玩家可以在北京时间 9 月 24 日前领取，IT之家附游戏地址（https://store.steampowered.com/app/2484180/Deadshot/）。\n\n《Deadshot》的游戏风格受到《半条命（半衰期）》和《毁灭战士》系列启发。游戏讲述一场突如其来的变异灾难席卷全球，世界在一夜之间遍布变异怪物。玩家将扮演一名在灾难中心醒来的士兵，拿起重火力武器，在危机四伏的环境中寻找事件真相。",
+      "title": "消息称京东方、TCL 华星、惠科近期均上调 LCD 电视显示面板价格",
+      "link": "https://www.ithome.com/1/004/706.htm",
+      "pubDate": "Sun, 20 Sep 2026 03:24:54 GMT",
+      "contentSnippet": "IT之家 9 月 20 日消息，韩媒 THE ELEC 当地时间 18 日报道称，京东方 (BOE)、TCL 华星 (TCL CSOT)、惠科 (HKC) 三家企业近期均向客户发函，宣布上调 LCD 电视显示面板的价格。\n\n京东方的新定价将从下个季度（10 月起）开始实施，TCL 华星、惠科的新定价已从本月起开始实施。\n\n中国大陆制造商在大型 TV LCD 面板领域已占据主导地位，65\" / 75\" / 85\" 级面板的市占率达到 70~85%。三星显示、LG 显示均已退出这一细分市场，中国台湾地区的友达、群创也在缩减产能。\n\n报道援引消息人士的话称，部分中国 LCD 显示产线的开工率已降至",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -84,50 +33,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "独立复古FPS《Deadshot》Steam限时免费领取，原价22元。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体含价格、时限及Steam原始链接，内容客观准确。"
-    },
-    {
-      "title": "微软发布 Win11 26H2 评估版 ISO 镜像：用于企业 IT 管理员测试新系统，可免费试用 90 天",
-      "link": "https://www.ithome.com/1/004/418.htm",
-      "pubDate": "Sat, 19 Sep 2026 03:40:53 GMT",
-      "contentSnippet": "IT之家 9 月 19 日消息，微软现已开始发布基于 Windows 11 26H2 的评估版 ISO 镜像，用户可以免费下载并免费试用 90 天，无需激活。\n\nIT之家注：评估版 ISO 主要面向企业 IT 管理员，用于提前测试评估新版本系统是否适合现有 IT 环境，微软并不建议普通家庭用户使用这一版本，目前提供的 ISO 基于最新的 KB5129195 OOB 更新，系统版本号为 Build 26300.9457：“26300.9457.260913-1737.26h2_ge_release_svc_refresh_CLIENTENTERPRISEEVAL_OEMRET_x64FRE_en",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "微软发布Win11 26H2评估版ISO，供企业IT管理员免费试用90天。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容含具体版本号、KB更新编号及适用对象，信息详实可验证。"
-    },
-    {
-      "title": "消息称《漫威金刚狼》上市前三天销量达 190 万份，为 2026 年 PS5 平台表现最好的索尼第一方游戏",
-      "link": "https://www.ithome.com/1/004/416.htm",
-      "pubDate": "Sat, 19 Sep 2026 03:34:37 GMT",
-      "contentSnippet": "IT之家 9 月 19 日消息，分析机构 Alinea Analytics 现已公布了《漫威金刚狼》的首发销售数据。数据显示，游戏上市前三天销量达到 190 万份，营收约 1.3 亿美元（IT之家注：现汇率约合 8.73 亿元人民币），其中约 100 万份来自发售前数字预购，实体版销售贡献了 22.9% 的营收。Alinea Analytics 强调，其统计的是实际售出（sell-through）数据，不包含零售商尚未售出的库存，因此与发行商通常公布的出货量数据存在差异。\n\n从数据来看，《漫威金刚狼》上市仅 3 天，累计销量已经超过 Alinea Analytics 统计的《死亡搁浅 2》PS",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "分析机构称《漫威金刚狼》上市三天销量190万份，营收约1.3亿美元。",
+      "aiSummary": "韩媒报道京东方、TCL华星、惠科上调LCD电视面板价格，中国厂商主导大尺寸市场。",
       "credibilityScore": 78,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引用分析机构数据，含具体销量与营收细节，但非官方来源。"
+      "credibilityReason": "IT之家引述韩媒THE ELEC，信息具体含厂商、时间、市占率数据，但缺少官方确认，属行业传闻。"
     },
     {
-      "title": "12.8 万元张雪 820RR-RC 赛道版发布：冠军同款涂装风格，不可上路",
-      "link": "https://www.ithome.com/1/004/414.htm",
-      "pubDate": "Sat, 19 Sep 2026 03:25:22 GMT",
-      "contentSnippet": "IT之家 9 月 19 日消息，张雪机车今日正式发布了 820RR-RC 赛道版车型，采用与 SBK 超级运动赛车同款的外观涂装风格，全国统一指导价为 128000 元。\nIT之家提醒：该车型定位为赛道专用车辆，不具备道路行驶资质，主要针对赛道日及竞速场景使用。\n\n820RR-RC 搭载一台 818.8cc 直列三缸发动机，采用 DOHC 每缸四气门、水冷 + 油冷散热结构，最大功率 113 千瓦，在每 13500 转时输出，最大扭矩 86 牛 · 米在每 10000 转时产生，最高转速可达 14750 转，压缩比为 14:1。\n其供油系统采用 BOSCH 电喷，动力、TCS 牵引力控制和发动",
+      "title": "宏碁董事长陈俊圣：存储短缺部分缓解，2027 年底前 PC 价格有机会下降",
+      "link": "https://www.ithome.com/1/004/676.htm",
+      "pubDate": "Sun, 20 Sep 2026 02:29:20 GMT",
+      "contentSnippet": "IT之家 9 月 20 日消息，据中国台湾地区媒体《经济日报》昨天报道，宏碁董事长陈俊圣表示，今年四季度 PC 价格可能上涨 5%-20%，预计明年中期可能达到高峰后回落，最快明年底平均售价有机会下降。\n\n据IT之家此前援引媒体报道，针对部分 AI 巨头近日提出的放缓发展看法，陈俊圣认为不太可能，因为技术发展有自己的发展步调，只会越来越快，重点还是如何在过程中做有效治理。\n至于宏碁的应对策略，陈俊圣回应称，公司采取多引擎战略，不会只专注单一业务。宏碁原本以个人 PC 业务为主，现在 PC 业务占宏碁整体业务比重约 50%，其余部分已分布在不同事业体。\n对于内存和处理器的供应情况，陈俊圣表示，D",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -135,50 +50,69 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "张雪发布820RR-RC赛道版摩托车，售价12.8万元，配818.8cc三缸发动机，不可上路。",
+      "aiSummary": "宏碁董事长陈俊圣预计存储短缺缓解，2027年底前PC价格有望下降。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容含具体技术参数和价格，信息详实，但缺少官方原始出处链接。"
+      "credibilityReason": "IT之家援引台媒报道，有明确信源和具体数据，但正文不完整，细节略欠。"
     },
     {
-      "title": "美国弗吉尼亚州宣布成立“人工智能工作组”，同步公布“数据中心问责框架”加强建设监管",
-      "link": "https://www.ithome.com/1/004/413.htm",
-      "pubDate": "Sat, 19 Sep 2026 03:25:18 GMT",
-      "contentSnippet": "IT之家 9 月 19 日消息，据外媒 The Verge 报道，美国弗吉尼亚州州长 Abigail Spanberger 近日签署第 22 号行政命令（Executive Order 22），宣布成立“人工智能工作组”，评估 AI 快速发展可能带来的就业、数据隐私和网络安全风险。官方同步公布“数据中心问责框架”（Data Center Accountability Framework），计划进一步加强对数据中心建设的监管，并提高地方社区在相关项目审批中的参与程度。\n根据行政命令，弗吉尼亚州政府行政部门、机构、委员会及其他受州长监督的单位，将不得针对商业数据中心项目签署或要求签署保密协议。州政",
+      "title": "索尼扩展与三丽鸥合作，推出 Hello Kitty 限量特别版 Xperia 10 VIII 智能手机套装",
+      "link": "https://www.ithome.com/1/004/674.htm",
+      "pubDate": "Sun, 20 Sep 2026 02:25:06 GMT",
+      "contentSnippet": "IT之家 9 月 20 日消息，Sony（索尼）曾在本月早些时候宣布与 Sanrio（三丽鸥）展开合作，推出 Hello Kitty（凯蒂猫）联名限量款 WH-1000XM6、WH-CH730N、WH-CH530 耳机。\n\n而在本周四，索尼宣布在中国台湾地区扩大与三丽鸥的合作范围，带来“Xperia 10 VIII x Hello Kitty 限量特仕版”。\n这一套装包括 Xperia 10 VIII 智能手机本体（无任何联名图样雕刻或印刷）、Hello Kitty 独家联名斜背小物包、Hello Kitty 独家联名托特包，另以数字形式提供 3 款 Hello Kitty 原创设计桌面图片，",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
-        "IT之家"
+        "IT之家",
+        "钛媒体"
       ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "弗吉尼亚州成立AI工作组并发布数据中心问责框架，加强监管与社区参与",
-      "credibilityScore": 82,
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "索尼在中国台湾推出Hello Kitty联名Xperia 10 VIII限量套装，含手机及周边配件。",
+      "credibilityScore": 87,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家援引The Verge，含行政令编号及具体政策细节，来源较可靠，但缺少官方链接"
+      "credibilityReason": "来源为IT之家和钛媒体，属知名科技媒体，内容具体，有产品细节和发布时间，但缺少官方链接引用。（多源覆盖 +5）"
     },
     {
-      "title": "投行 Piper 称亚马逊、苹果、AMD 等正评估英特尔 14A 半导体工艺",
-      "link": "https://www.ithome.com/1/004/412.htm",
-      "pubDate": "Sat, 19 Sep 2026 03:22:56 GMT",
-      "contentSnippet": "IT之家 9 月 19 日消息，美国投行 Piper Sandler 最新研报指出，亚马逊、苹果、AMD、谷歌、特斯拉、微软、英伟达和高通（按照研报排序）正在评估英特尔 14A 制程。\n\nIntel 14A 是英特尔规划中的 1.4nm 级制程节点。该节点采用背面供电方案 PowerDirect，并引入 RibbonFET 2 晶体管与第 2 代全环绕栅极架构。\n\nIT之家曾于 8 月报道，Intel 14A 制程工艺拥有自 22nm 节点以来最佳的“缺陷密度曲线”（defect density curve）。\n\n英特尔首席执行官陈立武强调，14A 在缺陷密度和晶体管性能两项关键指标上均已超越",
+      "title": "联想公布便携显示器新品 L16a：低色域 16\" 1920×1200 60Hz IPS LCD",
+      "link": "https://www.ithome.com/1/004/723.htm",
+      "pubDate": "Sun, 20 Sep 2026 04:00:18 GMT",
+      "contentSnippet": "IT之家 9 月 20 日消息，联想 (Lenovo) 现已在其产品规格参考 (PSREF) 网站列出便携显示器新品 L16a。\n\n这一型号采用 WLED 背光的 16\" IPS LCD 显示面板，支持 1920×1200 分辨率、60Hz 刷新率，亮度 300nits、对比度 1500:1，响应时间低至 6ms，支持 6bit + FRC 色深，色域 45% NTSC。\n其集成 0~90° 可调支撑结构，拥有 2 个全功能 USB-C 480Mbps，质量则是 0.97kg。",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
-        "IT之家"
+        "IT之家",
+        "钛媒体"
       ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "投行Piper研报称亚马逊、苹果、AMD等多家巨头正评估英特尔14A制程。",
-      "credibilityScore": 78,
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "联想PSREF网站列出便携显示器L16a，16英寸1920×1200 60Hz IPS屏，45% NTSC低色域。",
+      "credibilityScore": 93,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，引用投行研报及具体技术细节，但缺乏英特尔官方确认。"
+      "credibilityReason": "来源为IT之家等知名科技媒体，信息源自联想官方PSREF网站，规格参数具体详实。（多源覆盖 +5）"
     },
     {
-      "title": "初创公司 Soulart 推出 Station VR 基站全身追踪设备：利用机器学习实现动捕，单台售价低于 400 美元",
-      "link": "https://www.ithome.com/1/004/410.htm",
-      "pubDate": "Sat, 19 Sep 2026 03:17:57 GMT",
-      "contentSnippet": "IT之家 9 月 19 日消息，韩国初创公司 Soulart 宣布为 VR 平台推出一款名为 Station 的基站全身追踪设备，号称采用 NPU 在本地完成身体动作识别，单台售价低于 400 美元，但目前产品仍处于早期阶段，实际售价和追踪效果还有待进一步验证。\n具体来看，Station 最大的特点是采用单基站设计，其本质上就是一个摄像头（整体风格类似 Kinect），利用机器学习进行动作识别，用户无需佩戴任何传感器即可进行全身追踪，单台设备的覆盖范围最高可达 50 平方米，追踪刷新率最高 120Hz。\n\nSoulart 表示，尽管用户购买单台 Station 即可进行全身动捕，但如果用户同时",
+      "title": "体验完 Step 5 Preview，我发现阶跃重新坐上国产大模型主桌",
+      "link": "https://www.ifanr.com/1680881?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pubDate": "Sun, 20 Sep 2026 04:00:16 +0000",
+      "contentSnippet": "模型入海，阶跃走向人群\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "sourceName": "爱范儿",
+      "sourceWeight": 82,
+      "allSources": [
+        "爱范儿"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "爱范儿体验阶跃Step 5 Preview，称其重回国产大模型第一梯队",
+      "credibilityScore": 62,
+      "credibilityLevel": "medium",
+      "credibilityReason": "知名科技媒体但正文缺失，仅标题观点，无技术细节与数据支撑"
+    },
+    {
+      "title": "LG 电子推出 AI 数据中心专用涡轮冷水机，号称全年耗电量降低 30%",
+      "link": "https://www.ithome.com/1/004/721.htm",
+      "pubDate": "Sun, 20 Sep 2026 03:57:12 GMT",
+      "contentSnippet": "IT之家 9 月 20 日消息，LG 电子今日宣布推出新款风冷无油变频涡轮冷水机，专为 AI 数据中心进行优化，可降低电力成本，同时满足灵活扩容需求。\n\n据介绍，该产品配备 LG 电子自研无油磁悬浮轴承技术。可通过电磁将旋转轴悬浮在空中，因此不会产生机械摩擦损耗，无需配备油循环泵和相关管路设备，也不会因为换热器内部形成油膜而导致冷却效率下降。\n同时，该产品应用自然冷媒预冷技术，可在冬季环境下不用压缩机实现冷却。具体而言，冷水机运行过程中，占总电力消耗 80% 以上的压缩机会停止运行，利用室内低温冷凝后的制冷剂自行循环，带走热量。\n与传统预冷技术相比，该方案可将数据中心全年电力消耗降低 30%，",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -186,16 +120,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "韩国Soulart推出Station VR基站全身追踪设备，单台售价低于400美元。",
+      "aiSummary": "LG推出AI数据中心专用无油涡轮冷水机，号称全年省电30%。",
       "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体IT之家，产品细节具体，但信息源自厂商，实际效果待验证。"
+      "credibilityReason": "知名科技媒体，技术细节具体，但数据源自厂商单方宣称，缺乏第三方验证。"
     },
     {
-      "title": "张雪首款 ADV 摩托车 820X 发布，4.68 万元起",
-      "link": "https://www.ithome.com/1/004/409.htm",
-      "pubDate": "Sat, 19 Sep 2026 03:17:05 GMT",
-      "contentSnippet": "IT之家 9 月 19 日消息，在今日的第二十四届中国国际摩托车博览会上，张雪首款 ADV 车型（探险摩托车）—— 张雪 820X 正式发布，突击版售价 4.68 万元（2027 年上市），旅行版售价 5.78 万元。\n\n\n张雪 820X 搭载 818.8cc 排量直列三缸水冷发动机，最大功率 85kW，最大扭矩 80N·m。\n\n\n张雪 820X 车身尺寸为 2320x950x1455mm，轴距 1575mm，最高车速达 220km/h，不带尾箱的版本重量为 218kg。\n\n\n\n该车配备电子减震系统，支持阻尼智能匹配、阻尼自定义、后减震预载智能调整；搭载毫米波雷达，支持 ACC 自适应巡航、前",
+      "title": "长鑫科技宣布第五代技术平台正式量产：每张晶圆产出提升 50% 以上，24GB LPDDR5X 全面进入国产主流旗舰手机",
+      "link": "https://www.ithome.com/1/004/720.htm",
+      "pubDate": "Sun, 20 Sep 2026 03:56:29 GMT",
+      "contentSnippet": "IT之家 9 月 20 日闪讯速报，据澎湃新闻今日报道，在 2026 世界制造业大会上，长鑫科技宣布第五代技术平台正式量产。\n\n据介绍，长鑫科技将内存阵列有源区半间距做到 11.95 纳米，存储器电容深宽比 45:1，核心动能区高度降至 6762 纳米；同时，第五代工艺平台的存储密度有了大幅提升，同等条件下，每张晶圆的产出，与上一代平台相比提升了 50% 以上。\n基于该平台打造的 24GB LPDDR5X 产品已经进入正式量产，全面进入国产主流旗舰手机。\n据IT之家此前报道，长鑫科技于 2025 年 10 月宣布量产 LPDDR5X 产品，芯片形态提供了覆盖 12GB、16GB、24GB 等多",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -203,16 +137,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "张雪首款ADV摩托车820X发布，4.68万元起，搭818.8cc三缸发动机。",
+      "aiSummary": "长鑫科技宣布第五代技术平台量产，晶圆产出提升超50%，24GB LPDDR5X进入国产旗舰手机。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，参数具体详实，但缺少官方原始出处引用。"
+      "credibilityReason": "IT之家援引澎湃新闻报道，有具体技术参数和量产细节，来源较权威，但缺少官方原始公告链接。"
     },
     {
-      "title": "英伟达 GPU 驱动 Bug 被修复：RPCS3 模拟游戏帧率提升 37%、显存占用降低 32%",
-      "link": "https://www.ithome.com/1/004/408.htm",
-      "pubDate": "Sat, 19 Sep 2026 03:10:39 GMT",
-      "contentSnippet": "IT之家 9 月 19 日消息，科技媒体 Wccftech 昨日（9 月 18 日）发布博文，报道称 RPCS3 开发团队修复 NVIDIA GPU 驱动程序的一个 Bug，模拟游戏测试发现帧率可以提高 37%、显存占用降低 32%。\nIT之家援引博文介绍，RPCS3 开发团队指出在 NVIDIA GPU 驱动程序中，存在影响模拟器性能的问题，会限制部分游戏的帧率，并在多数测试中推高显存占用。\n\n贡献者 Yahfz 找到修复方案，可以变通缓解该驱动 Bug 影响，从而提高模拟器性能。开发团队在《GT 赛车 5》开放道路场景中，Ryzen 7 9850X3D 与 RTX 3070 的组合，帧率从",
+      "title": "华为鸿蒙 HarmonyOS 7 推出超空间存储技术，何刚称部分压缩需在息屏充电时慢慢完成",
+      "link": "https://www.ithome.com/1/004/718.htm",
+      "pubDate": "Sun, 20 Sep 2026 03:51:34 GMT",
+      "contentSnippet": "IT之家 9 月 20 日消息，在 9 月 7 日的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，华为宣布面向鸿蒙 HarmonyOS 7 系统推出全新超空间存储技术，号称“升级即省几十 GB”。\n\n据介绍，HarmonyOS 7 超空间存储技术可实现：\n\n\n256GB 至多节省空间 22GB\n\n512GB 至多节省空间 51GB\n\n1TB 至多节省空间 109GB\n\n\n\nIT之家注意到，华为终端 BG CEO 何刚昨晚发文，对该技术的使用方式细节进行了补充：\n\n有些存储空间压缩需要在息屏充电时慢慢完成，刚升级完如果没有变化，可以等几天再看下。\n\n\n目前",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -220,16 +154,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "RPCS3团队修复NVIDIA驱动Bug，模拟游戏帧率提升37%、显存占用降低32%。",
+      "aiSummary": "华为鸿蒙7推出超空间存储技术，最高可省109GB，部分压缩需息屏充电完成。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家援引Wccftech，有具体数据与硬件配置，来源较可靠，但非原始技术报告。"
+      "credibilityReason": "IT之家为知名科技媒体，信息含具体容量数据及高管原话，但缺少技术原理细节。"
     },
     {
-      "title": "张雪 820RR-RS 正式上市：818.8cc 三缸 + 全碳纤维覆盖件，13.8 万元不到国际品牌一成",
-      "link": "https://www.ithome.com/1/004/407.htm",
-      "pubDate": "Sat, 19 Sep 2026 03:09:17 GMT",
-      "contentSnippet": "IT之家 9 月 19 日消息，在第二十四届中国国际摩托车博览会（2026 中国摩博会）上，张雪机车 820RR-RS 正式发布，全国统一指导价 138000 元。\n张雪表示：13.8 万元这个价格当然不便宜，但可能有些车友都知道，一些国际品牌给到这个配置的，要卖到 150 万元，我们不到别人的 1/10。\n\n该车搭载 818.8cc 直列三缸 DOHC 水冷加油冷发动机，每缸四气门。最大功率 110kW（约 150PS）/13500rpm，最大扭矩 86N·m/10000rpm。\n其最高转速为 14750rpm，压缩比 14:1，供油方式为 BOSCH 电喷；动力模式提供雨天、道路、运动，以",
+      "title": "厚积三十余载，三生制药把“初心”走成“全球领先”",
+      "link": "https://www.tmtpost.com/8144878.html",
+      "pubDate": "Sun, 20 Sep 2026 11:45:42 +0800",
+      "contentSnippet": "从沈阳一间实验室起步，到被全球顶级药企用真金白银与临床资源重仓，三生制药已经走过三十余年。支撑企业穿越周期、站上国际舞台的内核，始终是那句朴素的初心：让创新生物药触手可及，致力于成为全球领先的生物制药企业。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体报道三生制药三十余年发展历程，称其获全球顶级药企重仓，成为全球领先生物制药企业。",
+      "credibilityScore": 62,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体钛媒体，但内容偏企业宣传，缺乏具体数据、产品细节及原始出处，技术准确性有限。"
+    },
+    {
+      "title": "腾讯升级元宝 App“AI 录音笔”功能：边录边拍、设备内录、WorkBuddy 快捷分享...",
+      "link": "https://www.ithome.com/1/004/716.htm",
+      "pubDate": "Sun, 20 Sep 2026 03:44:29 GMT",
+      "contentSnippet": "IT之家 9 月 20 日消息，腾讯宣布升级旗下元宝 App 内置的“AI 录音笔”功能，主要新增“边录边拍”、“设备内录音”、“支持自定义编辑”等，同时打通 WorkBuddy、腾讯文档等产品快捷分享，用户将元宝 App 更新到 V2.85.0 及以上即可获得相应功能。\n\n▲ （元宝 AI 录音笔打开方式）\n腾讯表示，针对线下课堂、讲座、会议等场景，元宝 AI 录音笔创新推出了“边录边拍”功能。用户在录音的同时可随时拍摄板书、PPT 或手稿。音频实时转写、AI 总结与现场图片将自动聚合在同一条录音记录中。课后整理笔记时，用户无需再在相册、录音和文档应用间繁琐切换，核心信息排版清晰、一目了然。",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -237,16 +188,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "张雪机车820RR-RS上市，818.8cc三缸，售价13.8万元。",
-      "credibilityScore": 82,
+      "aiSummary": "腾讯元宝App升级AI录音笔，新增边录边拍、设备内录及WorkBuddy快捷分享功能。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，参数具体，但价格对比缺乏依据，略有宣传倾向。"
+      "credibilityReason": "来源为知名科技媒体IT之家，信息具体含版本号和功能细节，但缺少官方原始链接引用。"
     },
     {
-      "title": "传承“十三姨”外观：本田 CB500 Super Four 摩托车新增“经典配色版”，43480 元",
-      "link": "https://www.ithome.com/1/004/406.htm",
-      "pubDate": "Sat, 19 Sep 2026 03:06:48 GMT",
-      "contentSnippet": "IT之家 9 月 19 日消息，本田摩托车在今天举行的 2026 中国摩博会活动中为旗下 CB500 Super Four 摩托车新增一款“经典配色版”，该版本车型采用红白配色，号称传承“十三姨（CB1300）”经典外观，定价为 43480 元。\n\n▲ 现款“烈焰红”配色\n该车整体造型复古，大灯灯嘴采用磨砂银色塑料材质，车头下方继承两颗喇叭，中间搭配印有 CB 标识的装饰罩；两侧的转向灯尺寸较大；前叉管径偏细、横向间距较短，正面视角整车纤细。\n\n▲ CB1300 摩托车\n该车搭载方形 TFT 仪表，可直观展示车辆信息，匹配钻石车架及日系鸭尾设计，匹配经典双圆灯造型尾灯，排气支架固定在后乘客脚踏",
+      "title": "华为余承东详解智界 R7 焕新款内饰升级，主驾搭载 26 英寸超高清 HUD、流媒体内后视镜",
+      "link": "https://www.ithome.com/1/004/715.htm",
+      "pubDate": "Sun, 20 Sep 2026 03:42:41 GMT",
+      "contentSnippet": "IT之家 9 月 20 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东已于 9 月 4 日宣布，全新智界 R7 本月开启预订。据介绍，新车纯电续航至高 855km，带来八大升级。\n\nIT之家注意到，余承东今日再度发文，详细介绍了智界 R7 焕新款的内饰部分。他透露，新车除了拥有羽砂紫内饰色外，还有全新星云红内饰。\n\n\n此外，智界 R7 焕新款配置也做了升级：主驾搭载 26 英寸超高清 HUD、流媒体内后视镜，行车信息一目了然；双 17.2 英寸蝶羽双联屏，副驾观影也不用偏头。\n\n据IT之家了解，智界 R7 焕新款将支持「午休小憩房」功能，小憩模式新增颂钵深层舒缓模式，可",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -254,10 +205,61 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "本田CB500 Super Four新增红白经典配色版，售价43480元，传承CB1300外观。",
+      "aiSummary": "华为余承东介绍智界R7焕新款内饰升级，含26英寸HUD等配置",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息含具体价格、车型细节及展会背景，但缺少官方来源引用。"
+      "credibilityReason": "IT之家为知名科技媒体，内容具体含产品细节，但主要转述高管言论，缺少独立核实"
+    },
+    {
+      "title": "全新奥迪 S5 Avant 车型上市：首发版限量 99 台，57.18 万元",
+      "link": "https://www.ithome.com/1/004/714.htm",
+      "pubDate": "Sun, 20 Sep 2026 03:40:26 GMT",
+      "contentSnippet": "IT之家 9 月 20 日消息，全新奥迪 S5 Avant 车型今日上市，新车采用 PPC 平台，搭载 EA839 evo 3.0T V6 发动机，首发版限量 99 台，定价 57.18 万元。\n\n外观方面，该车采用奥迪最新家族式设计语言，前脸配备蜂窝式格栅，两侧拥有数字矩阵式 LED 大灯。来到侧面可以看到，该车拥有旅行车的修长姿态，后尾采用贯穿式尾灯，两边拥有四出椭圆运动排气，搭配银色护板。\n\n座舱方面，该车拥有驾驶者取向的设计，中控台向驾驶员一侧倾斜，搭载 OLED 曲面双联屏，凸显科技感。配备九分区智能全景天幕，带有头枕扬声器和 Bang & Olufsen 高端音响系统。\n\n\n性能方",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "全新奥迪S5 Avant上市，首发限量99台，售价57.18万元",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息含具体平台、发动机型号、价格及配置细节，但缺少官方来源引用"
+    },
+    {
+      "title": "阿里千问 App 升级“未成年人保护模式”：仅可使用学习功能、加强适龄内容回应",
+      "link": "https://www.ithome.com/1/004/713.htm",
+      "pubDate": "Sun, 20 Sep 2026 03:40:01 GMT",
+      "contentSnippet": "IT之家 9 月 20 日消息，阿里宣布为旗下千问 App 升级未成年人保护模式，在保留拍照答疑、AI 写作、翻译、深度研究等学习功能的同时，加强适龄内容回应、明确人机互动边界，并设置使用时长提醒，进一步便利青少年使用 AI。\n\n阿里表示，家长可在千问 App 设置中开启未成年人模式，设置独立密码。开启后，App 仅保留拍照答疑、AI 写作、翻译、深度研究四项功能，对话记录与普通模式完全隔离，并限制第三方链接访问，降低不可控内容的接触风险。\n同时，开启未成年人保护模式后，千问将加强对低俗、暴力等不适宜未成年人接触的内容的管理，并以符合未成年人认知特点的方式回应相关问题。与此同时，千问会对用户提",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "阿里千问App升级未成年人保护模式，仅保留学习功能并加强内容管理",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道含具体功能细节和官方声明，但缺少原始出处链接"
+    },
+    {
+      "title": "曝快递“反内卷”引发新一轮涨价，多家公司今起安徽区域单票最低上调 0.15 元",
+      "link": "https://www.ithome.com/1/004/712.htm",
+      "pubDate": "Sun, 20 Sep 2026 03:35:34 GMT",
+      "contentSnippet": "IT之家 9 月 20 日消息，据财联社今日报道，今日 0 时起，安徽区域多家快递公司在快递服务价格原执行价格基础上，单票最低上调 0.15 元，旨在缓解刚性成本压力，并逐步改善长期以来因低价竞争导致的末端派费偏低、网点经营困难等问题，以保障快件获得稳定、高效的配送服务。\n报道称，此调价主要面向 ToB 端。除安徽地区外，还有快递公司人士透露，该公司江苏地区亦于今日起执行旺季调价，上调幅度不低于 0.1 元 / 票。\n2025 年 7 月 29 日，国家邮政局召开了快递企业座谈会，就依法依规治理行业“内卷式”竞争，强化农村地区领取快件违规收费等突出问题的整治。同时邮政管理部门在会议中强调，要加",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "安徽多家快递今起对B端单票最低涨价0.15元，江苏同步旺季调价。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家引财联社，含具体调价幅度、区域及政策背景，但缺企业官方确认。"
     }
   ]
 }
