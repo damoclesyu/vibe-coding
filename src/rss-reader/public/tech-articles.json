@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-20T04:12:35.356Z",
+  "generatedAt": "2026-09-21T04:09:39.320Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "苹果闹钟终于响了：iOS 27 支持中国大陆调休日，今日首次测试火上热搜",
-      "link": "https://www.ithome.com/1/004/709.htm",
-      "pubDate": "Sun, 20 Sep 2026 03:29:37 GMT",
-      "contentSnippet": "IT之家 9 月 20 日消息，苹果于 9 月 15 日凌晨推送了 iOS 27.0 正式版更新，迎来多项性能优化，补足了中国大陆节假日调休闹钟，并且中文输入法也进行了优化。\n\n今日（9 月 20 日）是 iOS 27 正式版更新后的第一个调休日，不少人测试 iOS 27 调休闹钟表示“真的响了”，相关话题“苹果闹钟终于响了”也火上热搜。\n\nIT之家注：根据国务院办公厅关于 2026 年部分节假日安排的通知，国庆节 10 月 1 日（周四）至 7 日（周三）放假调休，共 7 天。9 月 20 日（周日）、10 月 10 日（周六）上班。",
+      "title": "跳过 19 命名：苹果 iPhone 20 Pro 系列早期屏幕信息曝光，测试无边四曲面设计",
+      "link": "https://www.ithome.com/1/005/121.htm",
+      "pubDate": "Mon, 21 Sep 2026 03:36:10 GMT",
+      "contentSnippet": "IT之家 9 月 21 日消息，博主 @数码闲聊站 今日爆料了苹果 iPhone 20 Pro 系列早期屏幕的部分参数：\n\niPhone 20 Pro —— 6.41\"±2686*1236p±\niPhone 20 Pro Max —— 6.96\"±2912*1340p±\n\n博主表示，苹果 iPhone 20 Pro 系列正测试无边四曲面设计，屏幕打孔方案（小灵动岛）。\n\n有网友询问命名为何不是 iPhone 19，博主回复称：“目前供应链信息是跳过，2027 款 iPhone 命名是 20 系列。”还有网友询问新机的屏幕是否尺寸有所加大，博主表示：“18PM 物理尺寸是 6.86 英寸，宣传",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,103 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "iOS 27正式版支持中国大陆调休闹钟，9月20日首个调休日实测生效并登上热搜。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息含具体版本、日期及国务院调休安排，逻辑清晰，但缺少官方原始出处链接。"
-    },
-    {
-      "title": "消息称京东方、TCL 华星、惠科近期均上调 LCD 电视显示面板价格",
-      "link": "https://www.ithome.com/1/004/706.htm",
-      "pubDate": "Sun, 20 Sep 2026 03:24:54 GMT",
-      "contentSnippet": "IT之家 9 月 20 日消息，韩媒 THE ELEC 当地时间 18 日报道称，京东方 (BOE)、TCL 华星 (TCL CSOT)、惠科 (HKC) 三家企业近期均向客户发函，宣布上调 LCD 电视显示面板的价格。\n\n京东方的新定价将从下个季度（10 月起）开始实施，TCL 华星、惠科的新定价已从本月起开始实施。\n\n中国大陆制造商在大型 TV LCD 面板领域已占据主导地位，65\" / 75\" / 85\" 级面板的市占率达到 70~85%。三星显示、LG 显示均已退出这一细分市场，中国台湾地区的友达、群创也在缩减产能。\n\n报道援引消息人士的话称，部分中国 LCD 显示产线的开工率已降至",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "韩媒报道京东方、TCL华星、惠科上调LCD电视面板价格，中国厂商主导大尺寸市场。",
-      "credibilityScore": 78,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家引述韩媒THE ELEC，信息具体含厂商、时间、市占率数据，但缺少官方确认，属行业传闻。"
-    },
-    {
-      "title": "宏碁董事长陈俊圣：存储短缺部分缓解，2027 年底前 PC 价格有机会下降",
-      "link": "https://www.ithome.com/1/004/676.htm",
-      "pubDate": "Sun, 20 Sep 2026 02:29:20 GMT",
-      "contentSnippet": "IT之家 9 月 20 日消息，据中国台湾地区媒体《经济日报》昨天报道，宏碁董事长陈俊圣表示，今年四季度 PC 价格可能上涨 5%-20%，预计明年中期可能达到高峰后回落，最快明年底平均售价有机会下降。\n\n据IT之家此前援引媒体报道，针对部分 AI 巨头近日提出的放缓发展看法，陈俊圣认为不太可能，因为技术发展有自己的发展步调，只会越来越快，重点还是如何在过程中做有效治理。\n至于宏碁的应对策略，陈俊圣回应称，公司采取多引擎战略，不会只专注单一业务。宏碁原本以个人 PC 业务为主，现在 PC 业务占宏碁整体业务比重约 50%，其余部分已分布在不同事业体。\n对于内存和处理器的供应情况，陈俊圣表示，D",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "宏碁董事长陈俊圣预计存储短缺缓解，2027年底前PC价格有望下降。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家援引台媒报道，有明确信源和具体数据，但正文不完整，细节略欠。"
-    },
-    {
-      "title": "索尼扩展与三丽鸥合作，推出 Hello Kitty 限量特别版 Xperia 10 VIII 智能手机套装",
-      "link": "https://www.ithome.com/1/004/674.htm",
-      "pubDate": "Sun, 20 Sep 2026 02:25:06 GMT",
-      "contentSnippet": "IT之家 9 月 20 日消息，Sony（索尼）曾在本月早些时候宣布与 Sanrio（三丽鸥）展开合作，推出 Hello Kitty（凯蒂猫）联名限量款 WH-1000XM6、WH-CH730N、WH-CH530 耳机。\n\n而在本周四，索尼宣布在中国台湾地区扩大与三丽鸥的合作范围，带来“Xperia 10 VIII x Hello Kitty 限量特仕版”。\n这一套装包括 Xperia 10 VIII 智能手机本体（无任何联名图样雕刻或印刷）、Hello Kitty 独家联名斜背小物包、Hello Kitty 独家联名托特包，另以数字形式提供 3 款 Hello Kitty 原创设计桌面图片，",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家",
-        "钛媒体"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "索尼在中国台湾推出Hello Kitty联名Xperia 10 VIII限量套装，含手机及周边配件。",
-      "credibilityScore": 87,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家和钛媒体，属知名科技媒体，内容具体，有产品细节和发布时间，但缺少官方链接引用。（多源覆盖 +5）"
-    },
-    {
-      "title": "联想公布便携显示器新品 L16a：低色域 16\" 1920×1200 60Hz IPS LCD",
-      "link": "https://www.ithome.com/1/004/723.htm",
-      "pubDate": "Sun, 20 Sep 2026 04:00:18 GMT",
-      "contentSnippet": "IT之家 9 月 20 日消息，联想 (Lenovo) 现已在其产品规格参考 (PSREF) 网站列出便携显示器新品 L16a。\n\n这一型号采用 WLED 背光的 16\" IPS LCD 显示面板，支持 1920×1200 分辨率、60Hz 刷新率，亮度 300nits、对比度 1500:1，响应时间低至 6ms，支持 6bit + FRC 色深，色域 45% NTSC。\n其集成 0~90° 可调支撑结构，拥有 2 个全功能 USB-C 480Mbps，质量则是 0.97kg。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家",
-        "钛媒体"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "联想PSREF网站列出便携显示器L16a，16英寸1920×1200 60Hz IPS屏，45% NTSC低色域。",
-      "credibilityScore": 93,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家等知名科技媒体，信息源自联想官方PSREF网站，规格参数具体详实。（多源覆盖 +5）"
-    },
-    {
-      "title": "体验完 Step 5 Preview，我发现阶跃重新坐上国产大模型主桌",
-      "link": "https://www.ifanr.com/1680881?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pubDate": "Sun, 20 Sep 2026 04:00:16 +0000",
-      "contentSnippet": "模型入海，阶跃走向人群\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "sourceName": "爱范儿",
-      "sourceWeight": 82,
-      "allSources": [
-        "爱范儿"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "爱范儿体验阶跃Step 5 Preview，称其重回国产大模型第一梯队",
+      "aiSummary": "博主爆料苹果iPhone 20 Pro系列早期屏幕参数，测试无边四曲面设计并跳过19命名。",
       "credibilityScore": 62,
       "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体但正文缺失，仅标题观点，无技术细节与数据支撑"
+      "credibilityReason": "来源为知名科技媒体转载博主爆料，有具体参数但缺乏官方证实，属传闻性质。"
     },
     {
-      "title": "LG 电子推出 AI 数据中心专用涡轮冷水机，号称全年耗电量降低 30%",
-      "link": "https://www.ithome.com/1/004/721.htm",
-      "pubDate": "Sun, 20 Sep 2026 03:57:12 GMT",
-      "contentSnippet": "IT之家 9 月 20 日消息，LG 电子今日宣布推出新款风冷无油变频涡轮冷水机，专为 AI 数据中心进行优化，可降低电力成本，同时满足灵活扩容需求。\n\n据介绍，该产品配备 LG 电子自研无油磁悬浮轴承技术。可通过电磁将旋转轴悬浮在空中，因此不会产生机械摩擦损耗，无需配备油循环泵和相关管路设备，也不会因为换热器内部形成油膜而导致冷却效率下降。\n同时，该产品应用自然冷媒预冷技术，可在冬季环境下不用压缩机实现冷却。具体而言，冷水机运行过程中，占总电力消耗 80% 以上的压缩机会停止运行，利用室内低温冷凝后的制冷剂自行循环，带走热量。\n与传统预冷技术相比，该方案可将数据中心全年电力消耗降低 30%，",
+      "title": "富士胶片扩大与塔塔电子合作，将在印度建设半导体材料工厂",
+      "link": "https://www.ithome.com/1/005/118.htm",
+      "pubDate": "Mon, 21 Sep 2026 03:31:41 GMT",
+      "contentSnippet": "IT之家 9 月 21 日消息，Fujifilm（富士胶片）当地时间本月 17 日宣布与 Tata Electronics（塔塔电子）签署谅解备忘录，为后者位于印度古吉拉特邦 Dholera 的半导体商业晶圆厂开发并供应所需的先进半导体材料。\n富士胶片还计划战略投资 80 亿印度卢比（IT之家注：现汇率约合 5.59 亿元人民币），在 Dholera 分阶段建立一座半导体材料工厂，保障塔塔电子等企业能获得无缝的半导体材料供应。\n\n两家企业致力于通过本地化开发半导体制造所需的关键原材料，增强印度供应链的韧性。此次合作将为印度化工制造商提供技术、质量保证和制造工艺方面的专业知识，以促进高纯度化学品",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -120,16 +33,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "LG推出AI数据中心专用无油涡轮冷水机，号称全年省电30%。",
+      "aiSummary": "富士胶片与塔塔电子签署备忘录，投资80亿卢比在印度建半导体材料工厂",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息含具体金额、地点、时间及合作细节，但缺少原始公告链接"
+    },
+    {
+      "title": "消息称特斯拉机器人团队在长三角审厂，多家企业已获订单",
+      "link": "https://www.ithome.com/1/005/100.htm",
+      "pubDate": "Mon, 21 Sep 2026 02:54:14 GMT",
+      "contentSnippet": "IT之家 9 月 21 日消息，据澎湃新闻今日报道，产业链人士透露，特斯拉机器人团队已经于上周在拓普集团、三花智控、均胜电子等供应链企业开启审厂工作。上述企业主要供给关节模组、执行器、精密结构件等核心机电部件。\n“在本次审厂前，这些企业都已经拿到了特斯拉人形机器人的订单，只是或多或少的区别。审厂将对相关产线质量、合规等方面开展评估，通过后将很快开始生产。”上述人士提到。\n该名产业链人士还表示，审厂工作并非网传的只在宁波展开，特斯拉该机器人团队本次的走访工作还覆盖了杭州、上海等长三角地区的供应链企业。相关企业基本也都是特斯拉此前在汽车方面就已有合作的供应链企业。\n21 世纪经济报道曾援引产业链人",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "特斯拉机器人团队在长三角审厂，多家供应链企业已获订单。",
       "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体，技术细节具体，但数据源自厂商单方宣称，缺乏第三方验证。"
+      "credibilityReason": "来源为IT之家引澎湃新闻，有具体企业及细节，但依赖匿名产业链人士，缺乏官方确认。"
     },
     {
-      "title": "长鑫科技宣布第五代技术平台正式量产：每张晶圆产出提升 50% 以上，24GB LPDDR5X 全面进入国产主流旗舰手机",
-      "link": "https://www.ithome.com/1/004/720.htm",
-      "pubDate": "Sun, 20 Sep 2026 03:56:29 GMT",
-      "contentSnippet": "IT之家 9 月 20 日闪讯速报，据澎湃新闻今日报道，在 2026 世界制造业大会上，长鑫科技宣布第五代技术平台正式量产。\n\n据介绍，长鑫科技将内存阵列有源区半间距做到 11.95 纳米，存储器电容深宽比 45:1，核心动能区高度降至 6762 纳米；同时，第五代工艺平台的存储密度有了大幅提升，同等条件下，每张晶圆的产出，与上一代平台相比提升了 50% 以上。\n基于该平台打造的 24GB LPDDR5X 产品已经进入正式量产，全面进入国产主流旗舰手机。\n据IT之家此前报道，长鑫科技于 2025 年 10 月宣布量产 LPDDR5X 产品，芯片形态提供了覆盖 12GB、16GB、24GB 等多",
+      "title": "造谣企业要求“收费删帖”：自媒体博主利用 AI 生成不实文章敲诈 230 万元被抓",
+      "link": "https://www.ithome.com/1/005/086.htm",
+      "pubDate": "Mon, 21 Sep 2026 02:25:16 GMT",
+      "contentSnippet": "IT之家 9 月 21 日消息，据央视新闻报道，近年来，部分自媒体涉企网络“黑嘴”刻意捏造企业负面信息，严重扰乱企业正常生产经营与市场秩序。今年以来，上海警方共侦破涉企谣言案件百余起，依法清理涉企不实信息 8.7 万余条；累计侦破涉企黑客类案件 68 起，抓获犯罪嫌疑人 210 余名。\n上海警方重点介绍了一起故意制造企业负面舆情，实施敲诈勒索的案件，犯罪嫌疑人针对一家刚刚宣布获得融资的科技企业，连续发布了十余篇不实文章，持续抹黑造谣企业，敲诈 230 万元。\n今年 5 月，上海长宁警方接到辖区一家科技企业的报案称，一自媒体公众号自今年 4 月以来，频繁发布涉及该企业的不实报道，对企业声誉造成恶",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -137,16 +67,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "长鑫科技宣布第五代技术平台量产，晶圆产出提升超50%，24GB LPDDR5X进入国产旗舰手机。",
-      "credibilityScore": 82,
+      "aiSummary": "自媒体博主用AI生成不实文章敲诈科技企业230万元，被上海警方抓获。",
+      "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家援引澎湃新闻报道，有具体技术参数和量产细节，来源较权威，但缺少官方原始公告链接。"
+      "credibilityReason": "IT之家转载央视报道，有具体案件数据、警方来源和细节，信息可信度高。"
     },
     {
-      "title": "华为鸿蒙 HarmonyOS 7 推出超空间存储技术，何刚称部分压缩需在息屏充电时慢慢完成",
-      "link": "https://www.ithome.com/1/004/718.htm",
-      "pubDate": "Sun, 20 Sep 2026 03:51:34 GMT",
-      "contentSnippet": "IT之家 9 月 20 日消息，在 9 月 7 日的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，华为宣布面向鸿蒙 HarmonyOS 7 系统推出全新超空间存储技术，号称“升级即省几十 GB”。\n\n据介绍，HarmonyOS 7 超空间存储技术可实现：\n\n\n256GB 至多节省空间 22GB\n\n512GB 至多节省空间 51GB\n\n1TB 至多节省空间 109GB\n\n\n\nIT之家注意到，华为终端 BG CEO 何刚昨晚发文，对该技术的使用方式细节进行了补充：\n\n有些存储空间压缩需要在息屏充电时慢慢完成，刚升级完如果没有变化，可以等几天再看下。\n\n\n目前",
+      "title": "我国首款藏语多语言全模态 AI 输入法发布，覆盖手机、电脑等全终端",
+      "link": "https://www.ithome.com/1/005/027.htm",
+      "pubDate": "Sun, 20 Sep 2026 23:50:15 GMT",
+      "contentSnippet": "IT之家 9 月 21 日消息，据科技日报昨晚报道，9 月 20 日，在青海师范大学教师教育高质量发展暨建校 70 周年大会科研成果展示环节，我国首款藏语多语言全模态 AI 输入法 —— 智达 AI 输入法及配套藏文字体集正式发布。\n\n据介绍，这是中国首款藏语多语言全模态 AI 输入法。该输入法由藏语智能全国重点实验室研发，依托实验室自主知识产权的大模型及相关 AI 基础设施，覆盖手机、电脑等全终端，支持文字、语音、图像等多模态输入，并可通过统一账号同步词库和输入习惯。\n青海师范大学教授、藏语智能全国重点实验室常务副主任多拉表示，本次发布的智达 AI 输入法是将智达大模型作为核心技术底座开发而",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -154,16 +84,135 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "华为鸿蒙7推出超空间存储技术，最高可省109GB，部分压缩需息屏充电完成。",
+      "aiSummary": "我国首款藏语多语言全模态AI输入法智达发布，覆盖全终端。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息含具体容量数据及高管原话，但缺少技术原理细节。"
+      "credibilityReason": "IT之家援引科技日报，来源权威；有研发机构、功能细节，但缺技术参数与独立验证。"
     },
     {
-      "title": "厚积三十余载，三生制药把“初心”走成“全球领先”",
-      "link": "https://www.tmtpost.com/8144878.html",
-      "pubDate": "Sun, 20 Sep 2026 11:45:42 +0800",
-      "contentSnippet": "从沈阳一间实验室起步，到被全球顶级药企用真金白银与临床资源重仓，三生制药已经走过三十余年。支撑企业穿越周期、站上国际舞台的内核，始终是那句朴素的初心：让创新生物药触手可及，致力于成为全球领先的生物制药企业。",
+      "title": "尼泊尔寻求从气候赔偿基金获得 2000 万美元的赔偿",
+      "link": "https://www.solidot.org/story?sid=85434",
+      "pubDate": "Sun, 20 Sep 2026 23:41:59 +0800",
+      "contentSnippet": "尼泊尔正面临从致命泥石流灾难后的艰巨重建任务。它寻求从气候赔偿基金 Fund for Responding to Loss and Damage 获得 2000 万美元的赔偿——即要求主要排放国承担责任，尼泊尔认为这场灾难是由气候变化引发的。尼泊尔外交部长 Shisir Khanal 表示，这不仅仅是寻求援助或慈善，更是一项关于正义以及“法律与道义责任”的诉求。他表示，该国的温室气体排放量几乎可忽略不计，但却要为一场并非由其引发的全球危机付出惨痛代价。相比数十亿美元的损失，2000 万美元的赔偿金虽然少，但却是检验气候赔偿基金公信力的一次重要考验。该基金设立于 2022 年的联合国气候大会期间",
+      "sourceName": "Solidot",
+      "sourceWeight": 75,
+      "allSources": [
+        "Solidot"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "尼泊尔就泥石流灾难向气候赔偿基金申请2000万美元，称气候变化所致。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体Solidot，内容具体含金额、官员引述及基金背景，但缺少原始报道链接。"
+    },
+    {
+      "title": "【IT之家图赏】一加 16「明日星光」实拍：星际探索美学，一加史上首个呼吸灯设计「全新星际光效」",
+      "link": "https://www.ithome.com/1/005/129.htm",
+      "pubDate": "Mon, 21 Sep 2026 04:09:01 GMT",
+      "contentSnippet": "IT之家 9 月 21 日消息，一加 16，即将发布。\n这一次，一加把设计灵感放到了更辽阔的星空里。从人类仰望星空，到一步步迈向星海，一加 16 以「星际探索美学」为设计理念，带来「明日星光」「火星杰作」「黑暗森林」三款全新配色。\n其中，「明日星光」是这次的主推配色，也是很有辨识度的一款设计。手机背面藏着一个小巧思 —— 将“寻找夜空中最亮的一颗星”的地图融入机身纹理，在不同设计元素之间，还能看到 X 元素、虚拟双子星坐标点等细节。\n这些元素各自有着不同的含义：X 代表“我”，象征无限可能；星星与坐标指向虚拟双子星；“星域 16”既像是星际探索中的坐标节点，也对应十六进制这一数字世界的基础语言",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "一加16手机图赏，展示星际探索美学设计与首个呼吸灯，但缺乏技术参数。",
+      "credibilityScore": 65,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体IT之家，但内容仅为外观图赏，无技术细节或原始出处，信息较简略。"
+    },
+    {
+      "title": "CHERRY XTRFY PIXIU 68 键盘曝光：小配列磁轴",
+      "link": "https://www.ithome.com/1/005/128.htm",
+      "pubDate": "Mon, 21 Sep 2026 04:05:28 GMT",
+      "contentSnippet": "IT之家 9 月 21 日消息，TYLOO 电子竞技俱乐部《无畏契约》分部在其本月 19 日的训练返图中展示了来自 CHERRY XTRFY 的键盘新品。@CHERRY中国 后续确认该新品是搭载磁轴的 PIXIU 68。\n\n可以看到 PIXIU 68 采用紧凑的 65% 配列，最右侧一列相较 K5 Ultra 补足一颗按键。其集成三面环绕式灯带，至少可选 2 种透光键帽方案。\nCHERRY XTRFY 此前的 PIXIU 系列键盘均搭载机械轴体，此次新增的磁轴 PIXIU 68 值得关注。\n\nTYLOO 电子竞技俱乐部《无畏契约》分部即将出战 9 月 24 日开幕的 2026《无畏契约》上海全",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "CHERRY XTRFY PIXIU 68磁轴键盘曝光，65%配列带环绕灯带",
+      "credibilityScore": 78,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家报道，有官方确认和电竞俱乐部实拍图佐证，但产品细节和参数信息较简略"
+    },
+    {
+      "title": "IDC：2026 上半年全球四足机器人出货量同比增长 92.5%，宇树、云深处、智元三大国产厂商霸榜",
+      "link": "https://www.ithome.com/1/005/123.htm",
+      "pubDate": "Mon, 21 Sep 2026 03:53:08 GMT",
+      "contentSnippet": "IT之家 9 月 21 日消息，国际数据公司（IDC）今日最新发布的《全球四足机器人市场份额，1H26》报告显示，2026 年上半年，全球四足机器人出货量超过 4.9 万台，同比增长 92.5%；市场规模超 4 亿美元（IT之家注：现汇率约合 26.82 亿元人民币）。\n更值得关注的是收入结构：教育科研和家用消费贡献了约 60% 的出货量，却只贡献了不到三分之一的收入；而政府、工业制造、公共事业等行业级应用，用不到 40% 的出货量，拿走了超过三分之二的收入。\n行业级应用已成为市场增长的核心引擎，2026 上半年行业应用市场规模超过 2.7 亿美元（现汇率约合 18.1 亿元人民币），同比增长",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "IDC报告显示2026上半年全球四足机器人出货量超4.9万台，同比增长92.5%，宇树、云深处、智元三大国产厂商领跑市场。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家，引用IDC权威报告，含具体出货量、增长率、市场规模及收入结构数据，信息详实可信。"
+    },
+    {
+      "title": "三方品牌首次：漫步者 Comfo Clip Q2 耳夹式耳机升级支持星闪 E2.0 功能",
+      "link": "https://www.ithome.com/1/005/127.htm",
+      "pubDate": "Mon, 21 Sep 2026 03:53:03 GMT",
+      "contentSnippet": "IT之家 9 月 21 日消息，漫步者本月初在京东上架了 Comfo Clip Q2 耳夹式耳机，该耳机基于 OpenHarmony 开源鸿蒙系统打造，搭载海思谛听芯片、匹配 12mm 动圈，定价 399 元。\n\nIT之家从漫步者供应商客服了解到，这款耳机已升级支持星闪功能。用户只需在手机应用商店将 Edifier Connect App 更新至最新版本并连接耳机，开启 App 后根据提示重新完成耳机配对，即可选择星闪连接模式。\n\n从官方 App 的描述来看，漫步者 Comfo Clip Q2 耳夹式耳机此次升级了星闪 E2.0，支持无损音频传输，延迟更低、抗干扰更强。\n\n值得一提的是，这也是",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "漫步者Comfo Clip Q2耳夹式耳机升级支持星闪E2.0，为三方品牌首次。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息含具体产品、芯片、定价及升级方式，但部分信息源自客服，缺少官方正式确认。"
+    },
+    {
+      "title": "市场监管总局：深入整治检验检测行业乱象，严打报告造假等行为",
+      "link": "https://www.ithome.com/1/005/125.htm",
+      "pubDate": "Mon, 21 Sep 2026 03:50:47 GMT",
+      "contentSnippet": "IT之家 9 月 21 日消息，据央视新闻今天报道，针对近期质量督察和媒体反映的一些领域检验检测报告造假等问题，市场监管总局部署开展检验检测机构综合整治攻坚行动，加强检验检测事前、事中、事后全链条监管，深入整治检验检测行业乱象。\nIT之家从原报道获悉，市场监管总局将持续深化生态环境监测、机动车检验等重点领域专项整治，始终保持严打高压态势，严厉打击假冒检验检测机构、出具虚假检验检测报告等违法行为。\n此外，市场监管总局将全面落实属地监管、行业管理和企业主体责任，强化跨部门、跨层级协同联动，积极探索形成可复制、可推广的治理经验，加快构建常态化长效化监管体系，切实维护检验检测行业公信力，为推进质量强国",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "市场监管总局部署检验检测机构综合整治行动，严打报告造假等违法行为。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家引央视新闻，属官方政策报道，信息具体但缺少具体数据支撑。"
+    },
+    {
+      "title": "Omdia 数据：TWS 耳机 2026Q2 出货现近 13 个季度首次同比下滑，OWS 逆势增长",
+      "link": "https://www.ithome.com/1/005/124.htm",
+      "pubDate": "Mon, 21 Sep 2026 03:49:05 GMT",
+      "contentSnippet": "IT之家 9 月 21 日消息，Omdia 在其英国当地时间 17 日的一份新闻稿中指出，全球 TWS 耳机出货量在 2026 年第 2 季度达到 8210 万件，年对年减少 0.7%，这是该数据近 13 个季度（自 2023Q2）以来的首次同比下滑。\n全球 TWS 市场的衰退主要由于中国市场的更新换代需求在 2025 年提前释放，导致 TWS 耳机在中国的出货量于 2026Q2 下降了 9.5%；美国、印度的出货也有所减少；新兴市场则呈现增长态势。\n\n▲ 图源：Omdia\n从品类形态细分，在传统 TWS 耳机表现不佳 (-2% YoY) 的同时，开放式 OWS 却逆势实现 12% 同比增长，",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "Omdia数据显示2026Q2全球TWS耳机出货量同比下滑0.7%，为13个季度来首次，OWS逆势增长12%。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家报道，引用Omdia新闻稿及具体数据，来源明确，信息详实，逻辑清晰。"
+    },
+    {
+      "title": "剪映杀入AI视频赛道，LibTV们将迎来冲击波？",
+      "link": "https://www.tmtpost.com/8146982.html",
+      "pubDate": "Mon, 21 Sep 2026 11:48:54 +0800",
+      "contentSnippet": "单点工具的比拼已成过去，打通创作全链路、布局下一代内容形态，正成为所有玩家共同的竞争方向。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -171,95 +220,44 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体报道三生制药三十余年发展历程，称其获全球顶级药企重仓，成为全球领先生物制药企业。",
-      "credibilityScore": 62,
+      "aiSummary": "钛媒体分析剪映入局AI视频赛道，指出全链路创作成竞争新方向。",
+      "credibilityScore": 78,
+      "credibilityLevel": "high",
+      "credibilityReason": "钛媒体为知名科技媒体，选题具行业视角，但正文摘要较简略，缺少具体数据与原始出处。"
+    },
+    {
+      "title": "雷军刘强东，联手投了刘芹",
+      "link": "https://www.tmtpost.com/8146941.html",
+      "pubDate": "Mon, 21 Sep 2026 11:48:44 +0800",
+      "contentSnippet": "一只4.5亿元的新基金。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "雷军、刘强东联手投资刘芹旗下4.5亿元新基金。",
+      "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，但内容偏企业宣传，缺乏具体数据、产品细节及原始出处，技术准确性有限。"
+      "credibilityReason": "钛媒体为知名科技媒体，信息有具体金额，但正文仅一句话，缺乏细节和原始出处。"
     },
     {
-      "title": "腾讯升级元宝 App“AI 录音笔”功能：边录边拍、设备内录、WorkBuddy 快捷分享...",
-      "link": "https://www.ithome.com/1/004/716.htm",
-      "pubDate": "Sun, 20 Sep 2026 03:44:29 GMT",
-      "contentSnippet": "IT之家 9 月 20 日消息，腾讯宣布升级旗下元宝 App 内置的“AI 录音笔”功能，主要新增“边录边拍”、“设备内录音”、“支持自定义编辑”等，同时打通 WorkBuddy、腾讯文档等产品快捷分享，用户将元宝 App 更新到 V2.85.0 及以上即可获得相应功能。\n\n▲ （元宝 AI 录音笔打开方式）\n腾讯表示，针对线下课堂、讲座、会议等场景，元宝 AI 录音笔创新推出了“边录边拍”功能。用户在录音的同时可随时拍摄板书、PPT 或手稿。音频实时转写、AI 总结与现场图片将自动聚合在同一条录音记录中。课后整理笔记时，用户无需再在相册、录音和文档应用间繁琐切换，核心信息排版清晰、一目了然。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "2026旺季观察—饮料：承压之下，即饮茶仍是“不太亮”的亮点",
+      "link": "https://www.tmtpost.com/8146939.html",
+      "pubDate": "Mon, 21 Sep 2026 11:48:39 +0800",
+      "contentSnippet": "本个旺季，几乎仅无糖即饮茶同比正向增长。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
       "allSources": [
-        "IT之家"
+        "钛媒体"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "腾讯元宝App升级AI录音笔，新增边录边拍、设备内录及WorkBuddy快捷分享功能。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，信息具体含版本号和功能细节，但缺少官方原始链接引用。"
-    },
-    {
-      "title": "华为余承东详解智界 R7 焕新款内饰升级，主驾搭载 26 英寸超高清 HUD、流媒体内后视镜",
-      "link": "https://www.ithome.com/1/004/715.htm",
-      "pubDate": "Sun, 20 Sep 2026 03:42:41 GMT",
-      "contentSnippet": "IT之家 9 月 20 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东已于 9 月 4 日宣布，全新智界 R7 本月开启预订。据介绍，新车纯电续航至高 855km，带来八大升级。\n\nIT之家注意到，余承东今日再度发文，详细介绍了智界 R7 焕新款的内饰部分。他透露，新车除了拥有羽砂紫内饰色外，还有全新星云红内饰。\n\n\n此外，智界 R7 焕新款配置也做了升级：主驾搭载 26 英寸超高清 HUD、流媒体内后视镜，行车信息一目了然；双 17.2 英寸蝶羽双联屏，副驾观影也不用偏头。\n\n据IT之家了解，智界 R7 焕新款将支持「午休小憩房」功能，小憩模式新增颂钵深层舒缓模式，可",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "华为余承东介绍智界R7焕新款内饰升级，含26英寸HUD等配置",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容具体含产品细节，但主要转述高管言论，缺少独立核实"
-    },
-    {
-      "title": "全新奥迪 S5 Avant 车型上市：首发版限量 99 台，57.18 万元",
-      "link": "https://www.ithome.com/1/004/714.htm",
-      "pubDate": "Sun, 20 Sep 2026 03:40:26 GMT",
-      "contentSnippet": "IT之家 9 月 20 日消息，全新奥迪 S5 Avant 车型今日上市，新车采用 PPC 平台，搭载 EA839 evo 3.0T V6 发动机，首发版限量 99 台，定价 57.18 万元。\n\n外观方面，该车采用奥迪最新家族式设计语言，前脸配备蜂窝式格栅，两侧拥有数字矩阵式 LED 大灯。来到侧面可以看到，该车拥有旅行车的修长姿态，后尾采用贯穿式尾灯，两边拥有四出椭圆运动排气，搭配银色护板。\n\n座舱方面，该车拥有驾驶者取向的设计，中控台向驾驶员一侧倾斜，搭载 OLED 曲面双联屏，凸显科技感。配备九分区智能全景天幕，带有头枕扬声器和 Bang & Olufsen 高端音响系统。\n\n\n性能方",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "全新奥迪S5 Avant上市，首发限量99台，售价57.18万元",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息含具体平台、发动机型号、价格及配置细节，但缺少官方来源引用"
-    },
-    {
-      "title": "阿里千问 App 升级“未成年人保护模式”：仅可使用学习功能、加强适龄内容回应",
-      "link": "https://www.ithome.com/1/004/713.htm",
-      "pubDate": "Sun, 20 Sep 2026 03:40:01 GMT",
-      "contentSnippet": "IT之家 9 月 20 日消息，阿里宣布为旗下千问 App 升级未成年人保护模式，在保留拍照答疑、AI 写作、翻译、深度研究等学习功能的同时，加强适龄内容回应、明确人机互动边界，并设置使用时长提醒，进一步便利青少年使用 AI。\n\n阿里表示，家长可在千问 App 设置中开启未成年人模式，设置独立密码。开启后，App 仅保留拍照答疑、AI 写作、翻译、深度研究四项功能，对话记录与普通模式完全隔离，并限制第三方链接访问，降低不可控内容的接触风险。\n同时，开启未成年人保护模式后，千问将加强对低俗、暴力等不适宜未成年人接触的内容的管理，并以符合未成年人认知特点的方式回应相关问题。与此同时，千问会对用户提",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "阿里千问App升级未成年人保护模式，仅保留学习功能并加强内容管理",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道含具体功能细节和官方声明，但缺少原始出处链接"
-    },
-    {
-      "title": "曝快递“反内卷”引发新一轮涨价，多家公司今起安徽区域单票最低上调 0.15 元",
-      "link": "https://www.ithome.com/1/004/712.htm",
-      "pubDate": "Sun, 20 Sep 2026 03:35:34 GMT",
-      "contentSnippet": "IT之家 9 月 20 日消息，据财联社今日报道，今日 0 时起，安徽区域多家快递公司在快递服务价格原执行价格基础上，单票最低上调 0.15 元，旨在缓解刚性成本压力，并逐步改善长期以来因低价竞争导致的末端派费偏低、网点经营困难等问题，以保障快件获得稳定、高效的配送服务。\n报道称，此调价主要面向 ToB 端。除安徽地区外，还有快递公司人士透露，该公司江苏地区亦于今日起执行旺季调价，上调幅度不低于 0.1 元 / 票。\n2025 年 7 月 29 日，国家邮政局召开了快递企业座谈会，就依法依规治理行业“内卷式”竞争，强化农村地区领取快件违规收费等突出问题的整治。同时邮政管理部门在会议中强调，要加",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "安徽多家快递今起对B端单票最低涨价0.15元，江苏同步旺季调价。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家引财联社，含具体调价幅度、区域及政策背景，但缺企业官方确认。"
+      "aiSummary": "钛媒体报道2026年饮料旺季，仅无糖即饮茶实现同比正增长。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "钛媒体为知名科技商业媒体，但正文极简略，缺少具体数据与原始出处，信息量有限。"
     }
   ]
 }

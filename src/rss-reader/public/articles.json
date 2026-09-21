@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-20T04:11:19.179Z",
+  "generatedAt": "2026-09-21T04:08:27.754Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "市场监管总局：将加强重点领域食品安全风险防控 完善“三品一特”监管措施",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-20/10699868.shtml",
-      "pubDate": "Sun, 20 Sep 2026 11:50:01 +0800",
-      "contentSnippet": "中新网9月20日电 9月20日，国新办就“十五五”时期推动市场监管高质量发展有关情况举行新闻发布会。会上，市场监管总局新闻发言人、副局长束为表示，食品、药品、工业产品、特种设备安全监管事关人民群众生命财产安全，容不得半点马虎，市场监管总局将完善“三品一特”安全监管措施。",
+      "title": "从金融支持到协同出海：中国银行助力“妈祖”方案服务全球防灾减灾",
+      "link": "https://www.chinanews.com.cn/cj/2026/09-21/10700650.shtml",
+      "pubDate": "Mon, 21 Sep 2026 11:51:46 +0800",
+      "contentSnippet": "从金融支持中国科技方案“走出去”，到助力共建“一带一路”国家提升防灾减灾能力，中国银行正在探索金融服务与气象科技国际合作的新路径。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -16,16 +16,51 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "市场监管总局在国新办发布会上表示将加强食品安全风险防控，完善“三品一特”监管措施。",
+      "aiSummary": "中国新闻网报道中国银行探索金融支持气象科技国际合作，助力'妈祖'方案服务全球防灾减灾。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名媒体中国新闻网，内容具体但缺乏直接引述和多方验证，属正面宣传报道。"
+    },
+    {
+      "title": "五部门印发通知 严惩生态环境技术服务机构弄虚作假",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-21/10700621.shtml",
+      "pubDate": "Mon, 21 Sep 2026 11:32:21 +0800",
+      "contentSnippet": "中新网9月21日电 据“生态环境部”微信公众号消息，近日，生态环境部联合最高人民法院、最高人民检察院、公安部、市场监管总局印发《关于持续加强生态环境技术服务机构监管深入开展弄虚作假问题整治的通知》(以下简称《通知》)，进一步严厉打击生态环境监测等技术服务机构数据弄虚作假行为，强化常态化监管，持续规范市场秩序，助力美丽中国建设。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网",
+        "澎湃新闻"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "五部门联合印发通知，严惩生态环境技术服务机构数据弄虚作假行为。",
+      "credibilityScore": 97,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网、澎湃新闻等权威媒体，引述官方公众号，信息具体可查证。（多源覆盖 +5）"
+    },
+    {
+      "title": "最高法发布《关于审理涉及刑事犯罪的民事纠纷案件若干问题的规定》",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-21/10700599.shtml",
+      "pubDate": "Mon, 21 Sep 2026 11:22:26 +0800",
+      "contentSnippet": "中新网9月21日电 据最高人民法院微信公众号消息，最高人民法院9月21日发布《关于审理涉及刑事犯罪的民事纠纷案件若干问题的规定》，自2026年9月22日起施行。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "最高法发布涉刑民事纠纷案件审理规定，9月22日起施行。",
       "credibilityScore": 92,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网权威报道，引述国新办发布会及具体官员发言，信息具体可查证。"
+      "credibilityReason": "来源为中新网引述最高法官方公众号，信息具体含发布时间与施行日期，权威性高。"
     },
     {
-      "title": "市场监管总局：加快完善与超大规模市场相适应的监管体系",
-      "link": "https://www.chinanews.com.cn/cj/2026/09-20/10699867.shtml",
-      "pubDate": "Sun, 20 Sep 2026 11:46:21 +0800",
-      "contentSnippet": "中新网9月20日电 9月20日，国新办就“十五五”时期推动市场监管高质量发展有关情况举行新闻发布会。会上，市场监管总局新闻发言人、副局长束为介绍，“十五五”时期，市场监管总局将加快完善与超大规模市场健康发展相适应的市场综合监管体系。",
+      "title": "山东东营以生态立法护大河之洲 推动法规从“纸面”走向“地面”",
+      "link": "https://www.chinanews.com.cn/sh/2026/09-21/10700617.shtml",
+      "pubDate": "Mon, 21 Sep 2026 11:21:26 +0800",
+      "contentSnippet": "中新网东营9月21日电 (周艺伟)“近日，保护区首次观测记录到国家二级重点保护野生动物棉凫。截至目前，保护区野生鸟类记录种类已更新至407种。”在位于山东省东营市的黄河三角洲国家级自然保护区，工作人员侯梅向记者介绍保护区生物多样性情况时提到了这一新变化。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -33,16 +68,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "市场监管总局在国新办发布会上表示，将加快完善与超大规模市场相适应的监管体系。",
-      "credibilityScore": 88,
+      "aiSummary": "中新网报道山东东营以生态立法保护黄河三角洲，鸟类记录增至407种。",
+      "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，属权威媒体；有具体时间、场合、发言人及职务，内容客观可查证。"
+      "credibilityReason": "来源为中新网，属较权威媒体；含具体时间地点人物及数据，有直接引述，内容可查证。"
     },
     {
-      "title": "市场监管总局：“十五五”时期着力整治侵害消费者权益突出问题",
-      "link": "https://www.chinanews.com.cn/cj/2026/09-20/10699863.shtml",
-      "pubDate": "Sun, 20 Sep 2026 11:30:14 +0800",
-      "contentSnippet": "中新网9月20日电  9月20日，国新办就“十五五”时期推动市场监管高质量发展有关情况举行新闻发布会。",
+      "title": "AI大数据赋能肾病诊疗 数智化腹膜透析中心联盟广州成立",
+      "link": "https://www.chinanews.com.cn/jk/2026/09-21/10700591.shtml",
+      "pubDate": "Mon, 21 Sep 2026 11:21:16 +0800",
+      "contentSnippet": "中新网广州9月21日电 (记者 蔡敏婕)当前，大数据、人工智能(AI)等新一代信息技术正加速与医疗行业深度融合，为腹膜透析高质量发展提供新的工具和路径。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -50,16 +85,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "市场监管总局在国新办发布会上表示，“十五五”时期将着力整治侵害消费者权益突出问题。",
-      "credibilityScore": 88,
+      "aiSummary": "中新网报道广州成立数智化腹膜透析中心联盟，推动AI大数据赋能肾病诊疗。",
+      "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，属权威媒体；基于国新办发布会，信息具体可查证，用词客观。"
+      "credibilityReason": "来源为中新网权威媒体，有署名记者，内容具体，属正常行业报道。"
     },
     {
-      "title": "答澎湃丨市场监管总局：持续规范文体旅游、养老托育、家政服务等领域市场秩序",
-      "link": "https://m.thepaper.cn/detail/34107896",
-      "pubDate": "Sun, 20 Sep 2026 03:28:18 GMT",
-      "contentSnippet": "2026年9月20日，国新办举行新闻发布会，介绍“十五五”时期推动市场监管高质量发展有关情况。市场监管总局新闻发言人、副局长束为在回答澎湃新闻记者提问时表示，“十五五”时期将强化部门协同，持续规范文体旅游、养老托育、家政服务等领域市场秩序，推动各行业主管部门完善规则标准，加强日常监管，化解消费风险。",
+      "title": "【好评中国·新角色】数智活水润乡村",
+      "link": "https://www.chinanews.com.cn/cj/2026/09-21/10700622.shtml",
+      "pubDate": "Mon, 21 Sep 2026 11:20:40 +0800",
+      "contentSnippet": "近日，中央网信办、农业农村部、工业和信息化部联合印发《数字乡村高质量发展行动计划(2026—2030年)》，明确了“十五五”时期推进数字乡村高质量发展的思路目标、重点任务和政策举措。如今，从高效便捷的田间“新农具”，到助农增收的直播间“新农活”，数字技术全方位赋能乡村治理、产业发展与民生提质，为乡村全面振兴注入强劲数智动能。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "三部委联合印发数字乡村高质量发展行动计划，部署十五五时期重点任务。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网，政策文件具体可查证，但属正面宣传报道，缺少直接引述。"
+    },
+    {
+      "title": "国家粮食和物资储备局回应厄尔尼诺影响：我国粮食生产稳定性比较强",
+      "link": "https://m.thepaper.cn/detail/34114080",
+      "pubDate": "Mon, 21 Sep 2026 03:14:37 GMT",
+      "contentSnippet": "2026年9月21日，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，介绍守住管好“大国粮仓”，保障国家粮食安全有关情况。国家发展和改革委员会党组成员、国家粮食和物资储备局局长刘焕鑫在回应“超强厄尔尼诺对粮食安全的影响”时表示，今年随着各项政策举措的落地见效，我国粮食综合生产能力稳步提升，再加上我们国家幅员辽阔，粮食生产稳定性比较强。",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -67,16 +119,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "市场监管总局在国新办发布会上表示，将规范文体旅游、养老托育、家政服务等领域市场秩序。",
+      "aiSummary": "国家粮食和物资储备局回应厄尔尼诺影响，称我国粮食生产稳定性较强。",
       "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为澎湃新闻，有具体时间、人物及直接引述，内容属官方发布会，可交叉验证。"
+      "credibilityReason": "来源为澎湃新闻，引述国新办发布会及局长刘焕鑫原话，时间地点人物具体，可交叉验证。"
     },
     {
-      "title": "市场监管总局：综合运用标准引领、价格执法等手段整治“内卷式”竞争",
-      "link": "https://www.chinanews.com.cn/cj/2026/09-20/10699864.shtml",
-      "pubDate": "Sun, 20 Sep 2026 11:23:26 +0800",
-      "contentSnippet": "中新网9月20日电 9月20日，国新办就“十五五”时期推动市场监管高质量发展有关情况举行新闻发布会。会上，市场监管总局新闻发言人、副局长束为表示，市场监管总局将优化经营主体准入管理，推动完善登记管理基础性、通用性法律制度，深化注册资本认缴登记制改革，进一步降低制度性交易成本，让企业和创业者进门更方便、办事更省心。",
+      "title": "白桦树汁产业规范进“车间” 伊春森林食品产业跑出加速度",
+      "link": "https://www.chinanews.com.cn/cj/2026/09-21/10700581.shtml",
+      "pubDate": "Mon, 21 Sep 2026 11:14:20 +0800",
+      "contentSnippet": "中新网伊春9月21日电(记者 赵宇航)20日，2026伊春市森林食品产业高质量发展大会在黑龙江省伊春市举行，大会以“共谋生态产业提质竞赢未来”为主题，聚焦森林食品产业标准化、品牌化、市场化、科技化发展，来自省内外领导嘉宾、院士专家、企业家、商协会、采购商、渠道经销商等齐聚伊春，共商合作发展。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -84,33 +136,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "市场监管总局在国新办发布会上表示将综合运用标准、价格执法等手段整治“内卷式”竞争。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，属权威媒体；有具体时间、场合、发言人及职务，信息可查证，用词客观。"
-    },
-    {
-      "title": "何以中国·运河之光｜一座港口、一座口岸、一条运河，见证广西“向海图强”",
-      "link": "https://www.chinanews.com.cn/aseaninfo/2026/09-20/10699866.shtml",
-      "pubDate": "Sun, 20 Sep 2026 11:23:16 +0800",
-      "contentSnippet": "9月17日，平陆运河通航第二天，记者跟随“何以中国·运河之光”网络主题宣传活动采访团走进钦州港自动化集装箱码头。这里是平陆运河的入海口，货物从这里真正地通江达海，通往东盟，流向世界。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国新闻网报道平陆运河通航次日，采访团走访钦州港自动化码头，展示广西向海经济。",
+      "aiSummary": "伊春举办森林食品产业大会，聚焦白桦树汁等产业标准化与品牌化发展。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网属较权威媒体，时间地点具体，但属主题宣传活动报道，倾向性明显。"
+      "credibilityReason": "中新网为权威媒体，有具体时间地点及记者署名，内容具体，但缺乏直接引述与数据。"
     },
     {
-      "title": "从这10部阿拉伯中国学经典著作，看到了阿拉伯世界对中国学研究的深度与广度",
-      "link": "https://m.thepaper.cn/detail/34107562",
-      "pubDate": "Sun, 20 Sep 2026 03:20:43 GMT",
-      "contentSnippet": "【编者按】今年9月，习近平主席对埃及进行国事访问时强调，双方要弘扬平等、互鉴、对话、包容的文明观，践行全球文明倡议，共同推动不同文明包容共存、交流互鉴，为推动构建人类命运共同体汇聚更多文明力量。为进一步推动中阿学术交流合作，“中国学的世界对话·阿拉伯国家专场”活动将于9月28-30日在开罗举行。澎湃新闻网转发“中国学”公众号特别推送的10部阿拉伯中国学经典著作，以期增进各界对阿拉伯中国学研究的了解认知。本次阿拉伯专场是世界中国学大会框架下的海外学术交流活动，由上海市人民政府新闻办公室、上海社会科学院主办，上海外国语大学、中阿改革发展研究中心、开罗大学、埃及外交事务委员会、金字塔政治与战略研究中",
+      "title": "打通民事权利救济堵点，最高法民刑交叉司法解释明起施行",
+      "link": "https://m.thepaper.cn/detail/34113830",
+      "pubDate": "Mon, 21 Sep 2026 02:10:11 GMT",
+      "contentSnippet": "民间借贷、金融借款、商品买卖等引发的经济纠纷，一旦一方当事人涉嫌刑事犯罪，权利人往往陷入两难：是只能等待刑事侦查追赃，还是也可以提起民事诉讼主张权利？过去实践中经常出现“只要涉刑、民事即停”的情况，导致民事救济渠道不畅。今天，最高人民法院发布《关于审理涉及刑事犯罪的民事纠纷案件若干问题的规定》，统一裁判理念、细化裁判规则，打通民事权利救济堵点。司法解释自2026年9月22日起施行。\n畅通民事救济渠道\n并非一律“先刑后民”\n据统计，2025年全国法院审结一审民刑交叉案件超过22万件。什么是民刑交叉案件？通俗来讲，就是老百姓遇到的借贷、买卖、经营等民事纠纷，同时牵扯诈骗、职务侵占、非法经营等刑事犯",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -118,16 +153,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "澎湃新闻推介10部阿拉伯中国学经典著作，配合中阿学术交流活动。",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium-high",
-      "credibilityReason": "澎湃新闻为知名媒体，内容具体可查证，但属转载推介，非一线通讯社。"
+      "aiSummary": "最高法发布民刑交叉案件司法解释，明确并非一律先刑后民，明起施行。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源澎湃新闻较权威，信息具体含发布时间与数据，引述司法解释内容，可交叉验证。"
     },
     {
-      "title": "市场监管总局：“十五五”时期加快修订价格法，严打恶意低价竞争",
-      "link": "https://m.thepaper.cn/detail/34107760",
-      "pubDate": "Sun, 20 Sep 2026 03:09:38 GMT",
-      "contentSnippet": "2026年9月20日，国新办举行新闻发布会，介绍“十五五”时期推动市场监管高质量发展有关情况。市场监管总局新闻发言人、副局长束为表示，“十五五”时期将加快推进价格法修订工作，研究制定关于制止低价倾销行为的规定，指导相关行业协会制定成本测算标准，推动形成“1+1+N”的低价倾销规制法律体系。带头对开展恶意低价竞争，扰乱生产经营秩序的企业进行成本调查和价格检查，依法从严处理。",
+      "title": "中美经贸磋商在美国纽约举行",
+      "link": "https://m.thepaper.cn/detail/34113727",
+      "pubDate": "Mon, 21 Sep 2026 02:03:05 GMT",
+      "contentSnippet": "当地时间9月20日，中美经贸中方牵头人、国务院副总理何立峰与美方牵头人、美国财政部长贝森特和贸易代表格里尔在美国纽约举行经贸磋商。双方以两国元首重要共识为引领，秉持相互尊重、和平共处、合作共赢的原则，围绕落实历次经贸磋商共识、促进双边贸易投资等双方共同关心的重要经贸问题，进行了坦诚、深入、富有建设性的交流，并就人工智能有关问题举行对话。",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -135,50 +170,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "市场监管总局在国新办发布会上表示，“十五五”时期将加快修订价格法，严打恶意低价竞争。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为澎湃新闻，引述国新办发布会及市场监管总局副局长具体表态，信息具体可查证。"
-    },
-    {
-      "title": "东帝汶首次以东盟成员国亮相旅游展区：蓝鲸同游成亮点",
-      "link": "https://www.chinanews.com.cn/aseaninfo/2026/09-20/10699842.shtml",
-      "pubDate": "Sun, 20 Sep 2026 11:02:55 +0800",
-      "contentSnippet": "中新网桂林9月20日电(邓竣缤 欧惠兰 杨宗盛)9月19日，第23届中国—东盟博览会旅游展区在广西桂林国际会展中心开幕。活动期间，代表东帝汶参展的亚澳国际旅游公司总经理朱国定受访时称，这是东帝汶首次正式以东盟成员国身份参加旅游展。东帝汶今年首次以成员国身份亮相，其近海“与蓝鲸潜水同游”体验全球罕见，成为展会亮点。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "东帝汶首次以东盟成员国身份参加中国—东盟博览会旅游展，蓝鲸同游成亮点。",
+      "aiSummary": "中美经贸牵头人9月20日在纽约举行磋商，就贸易投资及人工智能等议题交流。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "中新网为权威媒体，信息具体含时间地点人物，有直接引述，但单一来源。"
+      "credibilityReason": "澎湃新闻为正规媒体，信息具体含时间地点人物，但无直接引述，需官方通稿交叉验证。"
     },
     {
-      "title": "各地开展形式多样的群众性国防教育活动",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-20/10699840.shtml",
-      "pubDate": "Sun, 20 Sep 2026 10:58:18 +0800",
-      "contentSnippet": "央视网消息(新闻联播)：各地开展形式多样的群众性国防教育活动，引导广大干部群众增强国防观念、履行国防义务。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "央视新闻联播报道各地开展群众性国防教育活动，引导增强国防观念。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网转载央视新闻联播，属官方权威渠道，内容为常规政务报道，无争议信息。"
-    },
-    {
-      "title": "市场监管总局：让市场有进有出，用组合拳整治“内卷式”竞争",
-      "link": "https://m.thepaper.cn/detail/34107598",
-      "pubDate": "Sun, 20 Sep 2026 02:12:48 GMT",
-      "contentSnippet": "记者今天从国务院新闻办公室举行的开局起步“十五五”系列主题新闻发布会了解到，市场监管总局相关负责人表示，将优化经营主体准入管理，推动完善登记管理基础性、通用性法律制度，深化注册资本认缴登记制改革，进一步降低制度性交易成本，让企业和创业者进门更方便、办事更省心。\n同时，畅通市场退出渠道，推动长期未经营、停止经营的企业和个体工商户稳妥有序退出，让市场有进有出、吐故纳新。综合运用标准引领、价格执法、质量监管等手段整治“内卷式”竞争，引导经营主体把功夫下在提质增效上，而不是耗在低价内耗上。\n另外，将加强反垄断和反不正当竞争执法，提升垄断风险监测预警等技术能力，提高经营者集中审查质效。特别是对平台企业，",
+      "title": "独家｜产业链人士：特斯拉机器人团队在长三角审厂，多家企业已获订单",
+      "link": "https://m.thepaper.cn/detail/34113571",
+      "pubDate": "Mon, 21 Sep 2026 01:54:56 GMT",
+      "contentSnippet": "特斯拉机器人团队落地宁波审厂一事受到资本市场广泛关注。\n9月21日，澎湃新闻记者从产业链人士处获悉，特斯拉机器人团队已经于上周在拓普集团（601689）、三花智控（002050）、均胜电子（600699）等供应链企业开启审厂工作。上述企业主要供给关节模组、执行器、精密结构件等核心机电部件。\n“在本次审厂前，这些企业都已经拿到了特斯拉人形机器人的订单，只是或多或少的区别。审厂将对相关产线质量、合规等方面开展评估，通过后将很快开始生产。”上述人士提到。\n该名产业链人士还表示，审厂工作并非网传的只在宁波展开，特斯拉该机器人团队本次的走访工作还覆盖了杭州、上海等长三角地区的供应链企业。相关企业基本也都",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -186,78 +187,79 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "市场监管总局表示将优化准入退出机制，综合整治“内卷式”竞争。",
+      "aiSummary": "澎湃新闻援引产业链人士称特斯拉机器人团队在长三角审厂，多家供应链企业已获订单。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "澎湃为较权威媒体，信息具体但依赖匿名信源，缺乏特斯拉官方或企业直接确认。"
+    },
+    {
+      "title": "为了共同繁荣的梦想——习近平主席引领全球发展倡议造福世界",
+      "link": "https://www.news.cn/politics/leaders/20260920/039289bea896429580ee4a847940202a/c.html",
+      "pubDate": "Sun, 20 Sep 2026 23:57:18 GMT",
+      "contentSnippet": "为了共同繁荣的梦想——习近平主席引领全球发展倡议造福世界",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "澎湃新闻发文称习近平主席引领全球发展倡议造福世界，推动共同繁荣。",
+      "credibilityScore": 62,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名媒体澎湃新闻，但内容为宣传性评论，缺乏具体事实细节和独立引述，客观性有限。"
+    },
+    {
+      "title": "两部门：在北京口岸开展进口药品通关电子化试点工作",
+      "link": "https://www.chinanews.com.cn/cj/2026/09-21/10700638.shtml",
+      "pubDate": "Mon, 21 Sep 2026 12:03:35 +0800",
+      "contentSnippet": "中新网9月21日电 据国家药监局网站消息，国家药监局、海关总署日前发布公告称，为进一步推进政务服务数字化水平，提高进口药品(含药材)通关服务效能与便利化水平，自公告发布之日起，在北京口岸开展进口药品(含药材)通关电子化试点工作。进口药品(含药材)通关电子文书与纸质文书具有同等法律效力。试点期间，原有纸质文书继续有效，企业可按相关规定正常使用。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国家药监局与海关总署在北京口岸启动进口药品通关电子化试点，电子文书与纸质文书具同等法律效力。",
+      "credibilityScore": 92,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网，引述国家药监局官网公告，内容具体，属官方权威信息。"
+    },
+    {
+      "title": "国家粮食和物资储备局：中国粮食市场保持总体平稳",
+      "link": "https://www.chinanews.com.cn/cj/2026/09-21/10700642.shtml",
+      "pubDate": "Mon, 21 Sep 2026 11:59:20 +0800",
+      "contentSnippet": "中新网9月21日电 9月21日，国新办就守住管好“大国粮仓”，保障国家粮食安全有关情况举行新闻发布会。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国家粮食和物资储备局在国新办发布会上表示中国粮食市场保持总体平稳。",
       "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为澎湃新闻，引述国务院新闻发布会官方表态，内容具体可查证。"
+      "credibilityReason": "来源为中新网，属权威媒体；引述国新办发布会，信息具体可查证，用词客观。"
     },
     {
-      "title": "（爱知·名古屋亚运会）中国澳门选手邝子轩夺得男子长拳冠军",
-      "link": "http://www.chinanews.com.cn/tp/hd2011/2026/09-20/1204842.shtml",
-      "pubDate": "Sun, 20 Sep 2026 11:49:08 +0800",
-      "contentSnippet": "",
+      "title": "“十五五”时期我国粮食产业有望实现年工业总产值超4.5万亿元",
+      "link": "https://www.chinanews.com.cn/cj/2026/09-21/10700607.shtml",
+      "pubDate": "Mon, 21 Sep 2026 11:50:30 +0800",
+      "contentSnippet": "中新网9月21日电 9月21日，国新办就守住管好“大国粮仓”，保障国家粮食安全有关情况举行新闻发布会。会上，国家粮食和物资储备局局长刘焕鑫介绍，“十五五”时期，将深入实施优质粮食工程，不断提升粮食产业发展质量和效益，粮食产业有望实现年工业总产值4.5万亿元以上，更好满足人民群众从“吃得饱”向“吃得好”“吃得营养健康”转变的需要。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
-        "中国新闻网"
+        "中国新闻网",
+        "澎湃新闻"
       ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国澳门选手邝子轩在爱知名古屋亚运会男子长拳项目中夺得冠军。",
-      "credibilityScore": 82,
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "国家粮食和物资储备局局长在国新办发布会上表示，十五五时期粮食产业年工业总产值有望超4.5万亿元。",
+      "credibilityScore": 97,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，属较权威媒体；内容具体含赛事、项目、人物，但正文摘要缺失，无法交叉验证细节。"
-    },
-    {
-      "title": "中国射击队夺得名古屋亚运会女子10米气步枪团体赛金牌",
-      "link": "https://www.chinanews.com.cn/ty/2026/09-20/10699874.shtml",
-      "pubDate": "Sun, 20 Sep 2026 11:38:27 +0800",
-      "contentSnippet": "9月20日，名古屋亚运会女子10米气步枪团体赛，由王子菲、韩佳予、杜雨宸组成的中国队打破世界纪录，夺得金牌。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国射击队于名古屋亚运会女子10米气步枪团体赛破世界纪录并夺金。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "中国新闻网为权威媒体，信息含具体时间、人物、赛事，内容具体可查证。"
-    },
-    {
-      "title": "（爱知·名古屋亚运会）中国选手张玺瑞摘铁人三项男子个人银牌",
-      "link": "http://www.chinanews.com.cn/tp/hd2011/2026/09-20/1204836.shtml",
-      "pubDate": "Sun, 20 Sep 2026 11:33:38 +0800",
-      "contentSnippet": "",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国新闻网报道，中国选手张玺瑞在爱知名古屋亚运会铁人三项男子个人赛中摘得银牌。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，属较权威媒体；内容具体含赛事、项目、选手、成绩，事实可查证，但正文摘要缺失。"
-    },
-    {
-      "title": "中国高校科研排名刷新“世界秩序”",
-      "link": "https://www.chinanews.com.cn/cj/2026/09-20/10699870.shtml",
-      "pubDate": "Sun, 20 Sep 2026 11:33:28 +0800",
-      "contentSnippet": "在荷兰莱顿大学科学与技术研究中心发布的“莱顿世界大学排名”中，2006-2009年全球科学影响力前十名里，美国占七席，哈佛第一。而中国只有一所大学——浙江大学挤进前25。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "莱顿排名显示中国高校科研影响力仍落后美国，仅浙大进入前25。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，引用莱顿排名具体数据，但标题与内容存在反差，需交叉验证。"
+      "credibilityReason": "来源为中新网、澎湃新闻，引述国新办发布会及局长刘焕鑫直接发言，信息具体可查证。（多源覆盖 +5）"
     }
   ]
 }
