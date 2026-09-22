@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-21T04:09:39.320Z",
+  "generatedAt": "2026-09-22T04:06:25.653Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "跳过 19 命名：苹果 iPhone 20 Pro 系列早期屏幕信息曝光，测试无边四曲面设计",
-      "link": "https://www.ithome.com/1/005/121.htm",
-      "pubDate": "Mon, 21 Sep 2026 03:36:10 GMT",
-      "contentSnippet": "IT之家 9 月 21 日消息，博主 @数码闲聊站 今日爆料了苹果 iPhone 20 Pro 系列早期屏幕的部分参数：\n\niPhone 20 Pro —— 6.41\"±2686*1236p±\niPhone 20 Pro Max —— 6.96\"±2912*1340p±\n\n博主表示，苹果 iPhone 20 Pro 系列正测试无边四曲面设计，屏幕打孔方案（小灵动岛）。\n\n有网友询问命名为何不是 iPhone 19，博主回复称：“目前供应链信息是跳过，2027 款 iPhone 命名是 20 系列。”还有网友询问新机的屏幕是否尺寸有所加大，博主表示：“18PM 物理尺寸是 6.86 英寸，宣传",
+      "title": "龙芯发布自研通用 GPU 加速计算平台首个软件版本：支持 OpenCL 3.0、CUDA 及 AI 推理",
+      "link": "https://www.ithome.com/1/005/595.htm",
+      "pubDate": "Tue, 22 Sep 2026 03:05:18 GMT",
+      "contentSnippet": "IT之家 9 月 22 日消息，龙芯中科今日宣布推出支持自研通用 GPU 的龙芯加速计算平台（Loongson Accelerated Computing Platform）首个软件版本，面向龙芯通用 GPU 提供从底层驱动、编程环境到 AI 模型推理的完整软件支持。\n该平台基于龙芯 2K3000 和 9A1000 芯片集成的 LG200 系列通用 GPU 核心开发。在已有 OpenGL、Vulkan 图形软件栈的基础上，平台进一步覆盖算力芯片驱动、编译器、运行时环境、算子库、推理引擎、调试工具和性能分析工具等组件。\n龙芯加速计算平台支持 OpenCL 3.0 和 CUDA 两类编程模型接口，",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,33 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "博主爆料苹果iPhone 20 Pro系列早期屏幕参数，测试无边四曲面设计并跳过19命名。",
-      "credibilityScore": 62,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体转载博主爆料，有具体参数但缺乏官方证实，属传闻性质。"
-    },
-    {
-      "title": "富士胶片扩大与塔塔电子合作，将在印度建设半导体材料工厂",
-      "link": "https://www.ithome.com/1/005/118.htm",
-      "pubDate": "Mon, 21 Sep 2026 03:31:41 GMT",
-      "contentSnippet": "IT之家 9 月 21 日消息，Fujifilm（富士胶片）当地时间本月 17 日宣布与 Tata Electronics（塔塔电子）签署谅解备忘录，为后者位于印度古吉拉特邦 Dholera 的半导体商业晶圆厂开发并供应所需的先进半导体材料。\n富士胶片还计划战略投资 80 亿印度卢比（IT之家注：现汇率约合 5.59 亿元人民币），在 Dholera 分阶段建立一座半导体材料工厂，保障塔塔电子等企业能获得无缝的半导体材料供应。\n\n两家企业致力于通过本地化开发半导体制造所需的关键原材料，增强印度供应链的韧性。此次合作将为印度化工制造商提供技术、质量保证和制造工艺方面的专业知识，以促进高纯度化学品",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "富士胶片与塔塔电子签署备忘录，投资80亿卢比在印度建半导体材料工厂",
-      "credibilityScore": 82,
+      "aiSummary": "龙芯发布自研GPU加速计算平台首个软件版本，支持OpenCL 3.0与CUDA及AI推理。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息含具体金额、地点、时间及合作细节，但缺少原始公告链接"
+      "credibilityReason": "IT之家为知名科技媒体，报道含具体芯片型号、软件栈细节，信息详实，来源可信。"
     },
     {
-      "title": "消息称特斯拉机器人团队在长三角审厂，多家企业已获订单",
-      "link": "https://www.ithome.com/1/005/100.htm",
-      "pubDate": "Mon, 21 Sep 2026 02:54:14 GMT",
-      "contentSnippet": "IT之家 9 月 21 日消息，据澎湃新闻今日报道，产业链人士透露，特斯拉机器人团队已经于上周在拓普集团、三花智控、均胜电子等供应链企业开启审厂工作。上述企业主要供给关节模组、执行器、精密结构件等核心机电部件。\n“在本次审厂前，这些企业都已经拿到了特斯拉人形机器人的订单，只是或多或少的区别。审厂将对相关产线质量、合规等方面开展评估，通过后将很快开始生产。”上述人士提到。\n该名产业链人士还表示，审厂工作并非网传的只在宁波展开，特斯拉该机器人团队本次的走访工作还覆盖了杭州、上海等长三角地区的供应链企业。相关企业基本也都是特斯拉此前在汽车方面就已有合作的供应链企业。\n21 世纪经济报道曾援引产业链人",
+      "title": "铲除“幽灵外卖”、最高判刑 15 年，新一批网络食品安全犯罪典型案例发布",
+      "link": "https://www.ithome.com/1/005/580.htm",
+      "pubDate": "Tue, 22 Sep 2026 02:26:46 GMT",
+      "contentSnippet": "IT之家 9 月 22 日消息，最高人民法院、最高人民检察院今日联合发布一批依法惩治网络食品安全犯罪典型案例，通过以案释法，净化网络食品市场环境，切实保障人民群众合法权益。\n近年来，随着电子商务平台的快速发展，网络食品销售活动日趋活跃，极大便利了人民群众的消费需求。与此同时，一些不法分子利用网络空间特点，借助算法推荐快速精准锁定目标客户，通过组织虚假交易进行网络刷单，人为提升商品搜索排名，实现快速引流。在社交网络平台销售及直播带货等销售模式中，还通过私聊议价或者使用隐晦词汇等方式逃避平台监管，致使食品安全风险扩散的速度、广度及危害程度远超传统线下销售模式。\n此外，部分平台经营者食品安全主体责任",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -50,33 +33,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "特斯拉机器人团队在长三角审厂，多家供应链企业已获订单。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为IT之家引澎湃新闻，有具体企业及细节，但依赖匿名产业链人士，缺乏官方确认。"
-    },
-    {
-      "title": "造谣企业要求“收费删帖”：自媒体博主利用 AI 生成不实文章敲诈 230 万元被抓",
-      "link": "https://www.ithome.com/1/005/086.htm",
-      "pubDate": "Mon, 21 Sep 2026 02:25:16 GMT",
-      "contentSnippet": "IT之家 9 月 21 日消息，据央视新闻报道，近年来，部分自媒体涉企网络“黑嘴”刻意捏造企业负面信息，严重扰乱企业正常生产经营与市场秩序。今年以来，上海警方共侦破涉企谣言案件百余起，依法清理涉企不实信息 8.7 万余条；累计侦破涉企黑客类案件 68 起，抓获犯罪嫌疑人 210 余名。\n上海警方重点介绍了一起故意制造企业负面舆情，实施敲诈勒索的案件，犯罪嫌疑人针对一家刚刚宣布获得融资的科技企业，连续发布了十余篇不实文章，持续抹黑造谣企业，敲诈 230 万元。\n今年 5 月，上海长宁警方接到辖区一家科技企业的报案称，一自媒体公众号自今年 4 月以来，频繁发布涉及该企业的不实报道，对企业声誉造成恶",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "自媒体博主用AI生成不实文章敲诈科技企业230万元，被上海警方抓获。",
+      "aiSummary": "两高发布网络食品安全犯罪典型案例，最高判刑15年，严惩幽灵外卖。",
       "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家转载央视报道，有具体案件数据、警方来源和细节，信息可信度高。"
+      "credibilityReason": "来源为知名科技媒体IT之家，引述两高官方发布，内容具体，但缺少具体案例细节。"
     },
     {
-      "title": "我国首款藏语多语言全模态 AI 输入法发布，覆盖手机、电脑等全终端",
-      "link": "https://www.ithome.com/1/005/027.htm",
-      "pubDate": "Sun, 20 Sep 2026 23:50:15 GMT",
-      "contentSnippet": "IT之家 9 月 21 日消息，据科技日报昨晚报道，9 月 20 日，在青海师范大学教师教育高质量发展暨建校 70 周年大会科研成果展示环节，我国首款藏语多语言全模态 AI 输入法 —— 智达 AI 输入法及配套藏文字体集正式发布。\n\n据介绍，这是中国首款藏语多语言全模态 AI 输入法。该输入法由藏语智能全国重点实验室研发，依托实验室自主知识产权的大模型及相关 AI 基础设施，覆盖手机、电脑等全终端，支持文字、语音、图像等多模态输入，并可通过统一账号同步词库和输入习惯。\n青海师范大学教授、藏语智能全国重点实验室常务副主任多拉表示，本次发布的智达 AI 输入法是将智达大模型作为核心技术底座开发而",
+      "title": "小米 18 Pro 系列手机双尺寸同配全新「徕卡 2 亿像素大底潜望长焦」，支持 3.2X 光学变焦",
+      "link": "https://www.ithome.com/1/005/642.htm",
+      "pubDate": "Tue, 22 Sep 2026 04:04:58 GMT",
+      "contentSnippet": "IT之家 9 月 22 日消息，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰今日持续预热小米 18 Pro 系列手机。据介绍，系列新机双尺寸同配全新「徕卡 2 亿像素大底潜望长焦」。\n\n据介绍，全新「徕卡 2 亿像素大底潜望长焦」搭载 1/1.56″大底传感器，拥有原生 75mm 黄金焦段，支持 3.2X 光学变焦、12.8X 无损变焦。镜头采用双镜群浮动对焦结构，支持 12cm 长焦微距。\n据IT之家今日早些时候报道，系列新机首发徕卡双 2 亿像素影像系统。除了长焦外，还有一枚 1/1.28'' 大底超清主摄。\n\n根据规划，小米 18 Pro 系列手机将在 9 月 23 日 1",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -84,33 +50,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "我国首款藏语多语言全模态AI输入法智达发布，覆盖全终端。",
+      "aiSummary": "小米18 Pro系列预热，双尺寸同配徕卡2亿像素潜望长焦，支持3.2X光变。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家援引科技日报，来源权威；有研发机构、功能细节，但缺技术参数与独立验证。"
+      "credibilityReason": "IT之家为知名科技媒体，引述卢伟冰官方预热，参数具体，但缺乏独立验证。"
     },
     {
-      "title": "尼泊尔寻求从气候赔偿基金获得 2000 万美元的赔偿",
-      "link": "https://www.solidot.org/story?sid=85434",
-      "pubDate": "Sun, 20 Sep 2026 23:41:59 +0800",
-      "contentSnippet": "尼泊尔正面临从致命泥石流灾难后的艰巨重建任务。它寻求从气候赔偿基金 Fund for Responding to Loss and Damage 获得 2000 万美元的赔偿——即要求主要排放国承担责任，尼泊尔认为这场灾难是由气候变化引发的。尼泊尔外交部长 Shisir Khanal 表示，这不仅仅是寻求援助或慈善，更是一项关于正义以及“法律与道义责任”的诉求。他表示，该国的温室气体排放量几乎可忽略不计，但却要为一场并非由其引发的全球危机付出惨痛代价。相比数十亿美元的损失，2000 万美元的赔偿金虽然少，但却是检验气候赔偿基金公信力的一次重要考验。该基金设立于 2022 年的联合国气候大会期间",
-      "sourceName": "Solidot",
-      "sourceWeight": 75,
-      "allSources": [
-        "Solidot"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "尼泊尔就泥石流灾难向气候赔偿基金申请2000万美元，称气候变化所致。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体Solidot，内容具体含金额、官员引述及基金背景，但缺少原始报道链接。"
-    },
-    {
-      "title": "【IT之家图赏】一加 16「明日星光」实拍：星际探索美学，一加史上首个呼吸灯设计「全新星际光效」",
-      "link": "https://www.ithome.com/1/005/129.htm",
-      "pubDate": "Mon, 21 Sep 2026 04:09:01 GMT",
-      "contentSnippet": "IT之家 9 月 21 日消息，一加 16，即将发布。\n这一次，一加把设计灵感放到了更辽阔的星空里。从人类仰望星空，到一步步迈向星海，一加 16 以「星际探索美学」为设计理念，带来「明日星光」「火星杰作」「黑暗森林」三款全新配色。\n其中，「明日星光」是这次的主推配色，也是很有辨识度的一款设计。手机背面藏着一个小巧思 —— 将“寻找夜空中最亮的一颗星”的地图融入机身纹理，在不同设计元素之间，还能看到 X 元素、虚拟双子星坐标点等细节。\n这些元素各自有着不同的含义：X 代表“我”，象征无限可能；星星与坐标指向虚拟双子星；“星域 16”既像是星际探索中的坐标节点，也对应十六进制这一数字世界的基础语言",
+      "title": "戴森空气净化器 BP10 国行首销：20 米长气流净化、提供医护级除醛消杀能力，7699 元",
+      "link": "https://www.ithome.com/1/005/640.htm",
+      "pubDate": "Tue, 22 Sep 2026 04:03:23 GMT",
+      "contentSnippet": "IT之家 9 月 22 日消息，戴森旗下 BP10 巡航气流消毒净化器（空气净化器）国行现已在京东开启首销，该产品主打“20 米长气流净化”，拥有“医护级除醛消杀能力”，国行定价为 7699 元。\n京东戴森空气净化器 BP107699 元直达链接\n\n\n该净化器外观汲取航空美学，号称以喷气式飞机引擎为灵感。顶部配备星形喷嘴，利用内部导流叶片控制气流。机身支持 350° 旋转与 30° 夹角，能够输出前进式直射气流。最远送风距离达 20m，最大送风量 1300L/s，净化面积 144m²，置于角落即可实现大范围覆盖，官方称净化 12m² 空间需 90s。\n\n\n该净化器内置五重传感器，持续监测 PM",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -118,33 +67,67 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "一加16手机图赏，展示星际探索美学设计与首个呼吸灯，但缺乏技术参数。",
-      "credibilityScore": 65,
+      "aiSummary": "戴森BP10空气净化器国行首销，售价7699元，主打20米气流净化和医护级除醛消杀。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，产品参数具体详实，有官方定价和销售渠道，但缺少原始出处引用。"
+    },
+    {
+      "title": "机械师随身 Wi-Fi 上架：自带彩屏、赠 1500G 流量、3000mAh 电池，46 元",
+      "link": "https://www.ithome.com/1/005/638.htm",
+      "pubDate": "Tue, 22 Sep 2026 03:59:10 GMT",
+      "contentSnippet": "IT之家 9 月 22 日消息，机械师随身 Wi-Fi 现已在京东上架，官方详情页称该机赠 1500G 流量，定价 99 元，首发价 46 元。\n京东机械师随身 Wi-Fi 券后 46 元领 50 元券\n\n\n该机尺寸为 113x63x10.5 mm，采用白色机甲造型外观，带有彩屏可查看网络信号，整体轻薄，可放入口袋携带。\n该机搭载紫光展锐 UIS8310 芯片，支持 Wi-Fi 6 协议，支持 5GHz 及 2.4GHz 双频段切换，最多允许 32 台终端设备同时连接，网速范围为 20 Mbps 至 150 Mbps。机身内置 3000 mAh 电池，单次使用时长为 8 至 12 个小时，产品",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "机械师随身Wi-Fi上架京东，彩屏、Wi-Fi 6、1500G流量，首发46元。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，产品参数具体，有京东上架和定价信息，但缺少原始出处链接。"
+    },
+    {
+      "title": "北京大学材料科学与工程学院特聘研究员窦锦虎评价 MiMo-V2.6-Pro：达到训练有素博士研究人员水平",
+      "link": "https://www.ithome.com/1/005/637.htm",
+      "pubDate": "Tue, 22 Sep 2026 03:57:17 GMT",
+      "contentSnippet": "IT之家 9 月 22 日消息，小米今日凌晨正式发布并开源了全新的 Xiaomi MiMo-V2.6 系列，包含 Pro 与 Flash 两个原生全模态模型。小米称这是其探索 RSI（递归自我改进）路径的关键一步，通过规模化扩展强化学习算力，让模型在持续的探索与反馈中拓展智能边界。\n\n据小米技术官方分享，MiMo-V2.6-Pro 开始以“Co-Scientist”角色参与真实科研任务。\n\n在新材料研究中，MiMo-V2.6-Pro 围绕金属有机框架（MOF）材料设计展开研究，协助研究人员检索文献、梳理研究方向、提出候选方案，并调用计算工具对材料性能进行模拟分析与筛选，探索永久性污染物（PFA",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "北大研究员评价小米开源模型MiMo-V2.6-Pro达博士水平，参与MOF材料科研",
+      "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体IT之家，但内容仅为外观图赏，无技术细节或原始出处，信息较简略。"
+      "credibilityReason": "IT之家为知名科技媒体，信息具体含技术细节，但专家评价缺乏原始出处，宣传色彩较浓"
     },
     {
-      "title": "CHERRY XTRFY PIXIU 68 键盘曝光：小配列磁轴",
-      "link": "https://www.ithome.com/1/005/128.htm",
-      "pubDate": "Mon, 21 Sep 2026 04:05:28 GMT",
-      "contentSnippet": "IT之家 9 月 21 日消息，TYLOO 电子竞技俱乐部《无畏契约》分部在其本月 19 日的训练返图中展示了来自 CHERRY XTRFY 的键盘新品。@CHERRY中国 后续确认该新品是搭载磁轴的 PIXIU 68。\n\n可以看到 PIXIU 68 采用紧凑的 65% 配列，最右侧一列相较 K5 Ultra 补足一颗按键。其集成三面环绕式灯带，至少可选 2 种透光键帽方案。\nCHERRY XTRFY 此前的 PIXIU 系列键盘均搭载机械轴体，此次新增的磁轴 PIXIU 68 值得关注。\n\nTYLOO 电子竞技俱乐部《无畏契约》分部即将出战 9 月 24 日开幕的 2026《无畏契约》上海全",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "影像表现全面进阶 vivo X500系列影像旗舰新品正式发布",
+      "link": "https://www.tmtpost.com/8148469.html",
+      "pubDate": "Tue, 22 Sep 2026 11:53:58 +0800",
+      "contentSnippet": "2026年9月21日，vivo在上海正式发布全新影像旗舰vivo X500系列。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
       "allSources": [
-        "IT之家"
+        "钛媒体"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "CHERRY XTRFY PIXIU 68磁轴键盘曝光，65%配列带环绕灯带",
+      "aiSummary": "vivo在上海发布全新影像旗舰X500系列，主打影像表现全面进阶。",
       "credibilityScore": 78,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家报道，有官方确认和电竞俱乐部实拍图佐证，但产品细节和参数信息较简略"
+      "credibilityReason": "来源为知名科技媒体钛媒体，有明确发布时间地点，但正文细节有限，缺少具体参数与原始出处。"
     },
     {
-      "title": "IDC：2026 上半年全球四足机器人出货量同比增长 92.5%，宇树、云深处、智元三大国产厂商霸榜",
-      "link": "https://www.ithome.com/1/005/123.htm",
-      "pubDate": "Mon, 21 Sep 2026 03:53:08 GMT",
-      "contentSnippet": "IT之家 9 月 21 日消息，国际数据公司（IDC）今日最新发布的《全球四足机器人市场份额，1H26》报告显示，2026 年上半年，全球四足机器人出货量超过 4.9 万台，同比增长 92.5%；市场规模超 4 亿美元（IT之家注：现汇率约合 26.82 亿元人民币）。\n更值得关注的是收入结构：教育科研和家用消费贡献了约 60% 的出货量，却只贡献了不到三分之一的收入；而政府、工业制造、公共事业等行业级应用，用不到 40% 的出货量，拿走了超过三分之二的收入。\n行业级应用已成为市场增长的核心引擎，2026 上半年行业应用市场规模超过 2.7 亿美元（现汇率约合 18.1 亿元人民币），同比增长",
+      "title": "比亚迪第二代海鸥设计图曝光：采用最新设计语言，轴距加长 150 毫米",
+      "link": "https://www.ithome.com/1/005/636.htm",
+      "pubDate": "Tue, 22 Sep 2026 03:51:05 GMT",
+      "contentSnippet": "IT之家 9 月 22 日消息，比亚迪汽车海洋网销售事业部总经理张卓今日放出了一组关于第二代海鸥的设计图。他表示，第二代海鸥线条重塑，型面焕新，更多惊喜即将揭晓。\n\n第二代海鸥此前已完成工信部申报。新车采用最新设计语言，前脸造型焕新，配备三叉戟样式灯组。侧面来看，新车腰线上扬，营造俯冲姿态，并采用悬浮车顶设计。\n\n车身尺寸方面，申报信息显示长宽高分别为 4205 毫米、1810 毫米、1570 毫米，轴距 2650 毫米（IT之家注：相较上一代车型，新车长度增加 425 毫米，轴距加长 150 毫米）。\n\n车尾部分，整体造型简约，层次分明，配备两组倒梯形尾灯，灯组中间镶嵌 BYD 英文标识。",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -152,16 +135,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "IDC报告显示2026上半年全球四足机器人出货量超4.9万台，同比增长92.5%，宇树、云深处、智元三大国产厂商领跑市场。",
+      "aiSummary": "比亚迪第二代海鸥设计图曝光，采用新设计语言，轴距加长150毫米。",
       "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家，引用IDC权威报告，含具体出货量、增长率、市场规模及收入结构数据，信息详实可信。"
+      "credibilityReason": "IT之家为知名科技媒体，信息源自高管发布及工信部申报数据，细节具体，可信度高。"
     },
     {
-      "title": "三方品牌首次：漫步者 Comfo Clip Q2 耳夹式耳机升级支持星闪 E2.0 功能",
-      "link": "https://www.ithome.com/1/005/127.htm",
-      "pubDate": "Mon, 21 Sep 2026 03:53:03 GMT",
-      "contentSnippet": "IT之家 9 月 21 日消息，漫步者本月初在京东上架了 Comfo Clip Q2 耳夹式耳机，该耳机基于 OpenHarmony 开源鸿蒙系统打造，搭载海思谛听芯片、匹配 12mm 动圈，定价 399 元。\n\nIT之家从漫步者供应商客服了解到，这款耳机已升级支持星闪功能。用户只需在手机应用商店将 Edifier Connect App 更新至最新版本并连接耳机，开启 App 后根据提示重新完成耳机配对，即可选择星闪连接模式。\n\n从官方 App 的描述来看，漫步者 Comfo Clip Q2 耳夹式耳机此次升级了星闪 E2.0，支持无损音频传输，延迟更低、抗干扰更强。\n\n值得一提的是，这也是",
+      "title": "长城推出大国重器 GW-850HD 全模组电源：7 年质保、转换效率超 94%，599 元",
+      "link": "https://www.ithome.com/1/005/635.htm",
+      "pubDate": "Tue, 22 Sep 2026 03:49:48 GMT",
+      "contentSnippet": "IT之家 9 月 22 日消息，长城现已在京东上架大国重器 GW-850HD 全模组电源，提供 7 年质保，定价为 599 元。\n\n\n该电源尺寸为 150mm x 150mm x 86mm。进风口采用横向格栅设计，侧面印有标识，整体造型简明沉稳。\n规格方面，该电源符合 ATX 3.1 规范，原生提供 PCIe 5.1 的 12V-2x6 接口。产品通过 CQC IV 级认证，典型负载转换效率超 94%，单路 12V 最高输出达 849.96W。电源使用 LLC + 同步整流 + DC / DC 架构。电压精度控制在 ±3% 内，12V 输出纹波低于 80mV，5V 与 3.3V 纹波低于 40",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -169,16 +152,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "漫步者Comfo Clip Q2耳夹式耳机升级支持星闪E2.0，为三方品牌首次。",
+      "aiSummary": "长城推出GW-850HD全模组电源，599元，7年质保，转换效率超94%。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息含具体产品、芯片、定价及升级方式，但部分信息源自客服，缺少官方正式确认。"
+      "credibilityReason": "IT之家为知名科技媒体，内容含具体规格参数和认证信息，但缺少原始出处引用。"
     },
     {
-      "title": "市场监管总局：深入整治检验检测行业乱象，严打报告造假等行为",
-      "link": "https://www.ithome.com/1/005/125.htm",
-      "pubDate": "Mon, 21 Sep 2026 03:50:47 GMT",
-      "contentSnippet": "IT之家 9 月 21 日消息，据央视新闻今天报道，针对近期质量督察和媒体反映的一些领域检验检测报告造假等问题，市场监管总局部署开展检验检测机构综合整治攻坚行动，加强检验检测事前、事中、事后全链条监管，深入整治检验检测行业乱象。\nIT之家从原报道获悉，市场监管总局将持续深化生态环境监测、机动车检验等重点领域专项整治，始终保持严打高压态势，严厉打击假冒检验检测机构、出具虚假检验检测报告等违法行为。\n此外，市场监管总局将全面落实属地监管、行业管理和企业主体责任，强化跨部门、跨层级协同联动，积极探索形成可复制、可推广的治理经验，加快构建常态化长效化监管体系，切实维护检验检测行业公信力，为推进质量强国",
+      "title": "消息称苹果有望在 2029 款 iPhone Pro 直板智能手机导入 CoE OLED",
+      "link": "https://www.ithome.com/1/005/634.htm",
+      "pubDate": "Tue, 22 Sep 2026 03:49:41 GMT",
+      "contentSnippet": "IT之家 9 月 22 日消息，韩国显示产业分析机构 UBI Research 在当地时间本月 16 日的一份报告中预测，Apple（苹果）有望在 2029H2 发布的 iPhone Pro“直板”智能手机导入采用 CoE（封装上彩膜）技术的 OLED 显示面板。\n\n▲ iPhone 18 Pro\n传统 OLED 屏幕包含一层偏光片结构，在降低外部光线反射率的同时也阻挡内部光线射出。取消偏光片可提升发光效率，从而降低 OLED 功耗，还能削减面板厚度。\nCoE 彩色滤光片是目前的主流无偏光片 OLED 方案，已被广泛应用在不适宜保留偏光片的折叠屏设备中，并已在部分 Android 智能手机中得",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -186,50 +169,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "市场监管总局部署检验检测机构综合整治行动，严打报告造假等违法行为。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家引央视新闻，属官方政策报道，信息具体但缺少具体数据支撑。"
-    },
-    {
-      "title": "Omdia 数据：TWS 耳机 2026Q2 出货现近 13 个季度首次同比下滑，OWS 逆势增长",
-      "link": "https://www.ithome.com/1/005/124.htm",
-      "pubDate": "Mon, 21 Sep 2026 03:49:05 GMT",
-      "contentSnippet": "IT之家 9 月 21 日消息，Omdia 在其英国当地时间 17 日的一份新闻稿中指出，全球 TWS 耳机出货量在 2026 年第 2 季度达到 8210 万件，年对年减少 0.7%，这是该数据近 13 个季度（自 2023Q2）以来的首次同比下滑。\n全球 TWS 市场的衰退主要由于中国市场的更新换代需求在 2025 年提前释放，导致 TWS 耳机在中国的出货量于 2026Q2 下降了 9.5%；美国、印度的出货也有所减少；新兴市场则呈现增长态势。\n\n▲ 图源：Omdia\n从品类形态细分，在传统 TWS 耳机表现不佳 (-2% YoY) 的同时，开放式 OWS 却逆势实现 12% 同比增长，",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "Omdia数据显示2026Q2全球TWS耳机出货量同比下滑0.7%，为13个季度来首次，OWS逆势增长12%。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家报道，引用Omdia新闻稿及具体数据，来源明确，信息详实，逻辑清晰。"
-    },
-    {
-      "title": "剪映杀入AI视频赛道，LibTV们将迎来冲击波？",
-      "link": "https://www.tmtpost.com/8146982.html",
-      "pubDate": "Mon, 21 Sep 2026 11:48:54 +0800",
-      "contentSnippet": "单点工具的比拼已成过去，打通创作全链路、布局下一代内容形态，正成为所有玩家共同的竞争方向。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体分析剪映入局AI视频赛道，指出全链路创作成竞争新方向。",
+      "aiSummary": "韩机构预测苹果2029年iPhone Pro或采用CoE OLED面板",
       "credibilityScore": 78,
       "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，选题具行业视角，但正文摘要较简略，缺少具体数据与原始出处。"
+      "credibilityReason": "IT之家援引UBI Research报告，技术解释专业，但属预测性消息且无苹果官方确认"
     },
     {
-      "title": "雷军刘强东，联手投了刘芹",
-      "link": "https://www.tmtpost.com/8146941.html",
-      "pubDate": "Mon, 21 Sep 2026 11:48:44 +0800",
-      "contentSnippet": "一只4.5亿元的新基金。",
+      "title": "问界品牌专属专营：华为没有退，赛力斯站上前",
+      "link": "https://www.tmtpost.com/8148500.html",
+      "pubDate": "Tue, 22 Sep 2026 11:44:39 +0800",
+      "contentSnippet": "探索新合作模式，但问界还叫问界",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -237,27 +186,78 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "雷军、刘强东联手投资刘芹旗下4.5亿元新基金。",
-      "credibilityScore": 72,
+      "aiSummary": "钛媒体报道问界品牌探索专属专营新模式，华为未退出合作，赛力斯角色前移。",
+      "credibilityScore": 78,
       "credibilityLevel": "medium",
-      "credibilityReason": "钛媒体为知名科技媒体，信息有具体金额，但正文仅一句话，缺乏细节和原始出处。"
+      "credibilityReason": "钛媒体为知名科技媒体，话题具体，但摘要信息简略，缺少数据与原始出处支撑。"
     },
     {
-      "title": "2026旺季观察—饮料：承压之下，即饮茶仍是“不太亮”的亮点",
-      "link": "https://www.tmtpost.com/8146939.html",
-      "pubDate": "Mon, 21 Sep 2026 11:48:39 +0800",
-      "contentSnippet": "本个旺季，几乎仅无糖即饮茶同比正向增长。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "阿里 Qwen4 和下代视频模型训练中，Qwen4.5 后模型将扩展至 5-10T 参数",
+      "link": "https://www.ithome.com/1/005/633.htm",
+      "pubDate": "Tue, 22 Sep 2026 03:41:58 GMT",
+      "contentSnippet": "IT之家 9 月 22 日消息，IT之家今日从 2026 年云栖大会现场获悉，阿里巴巴公布了大模型一系列进展，大模型递归自我改进（RSI）已初步进入模型训练、推理及芯模协同等环节中，基于新一代架构的 Qwen4 已在训练中，未来 Qwen4.5、Qwen5 等版本将扩展至 5-10T 参数。\n\n同时，阿里的视频生成模型、语音模型、图像模型、世界模型、音乐模型以及全模态模型等均在当天或近期推出新版本。\n阿里全新的下一代视频生成模型将于 11 月发布，朝着更长、更可控、更完整、更智能的方向演进：在更长的时间里，新模型仍然能保持一致性，创作者可精准掌控人物、场景与镜头；同时，模型能具备导演级的创作思",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "钛媒体"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体报道2026年饮料旺季，仅无糖即饮茶实现同比正增长。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "钛媒体为知名科技商业媒体，但正文极简略，缺少具体数据与原始出处，信息量有限。"
+      "aiSummary": "阿里云栖大会公布Qwen4训练中，后续版本将扩展至5-10T参数。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家现场报道云栖大会，信息具体有出处，但参数规模等细节尚待官方确认。"
+    },
+    {
+      "title": "莲花全球首款超混 SUV 超跑车型 For Me Scura 上市：66.8 万元起，限量 66 台",
+      "link": "https://www.ithome.com/1/005/628.htm",
+      "pubDate": "Tue, 22 Sep 2026 03:38:38 GMT",
+      "contentSnippet": "IT之家 9 月 22 日消息，莲花汽车今日宣布推出全新 For Me Scura。新车为莲花集团全球首款超混 SUV 车型，官方指导价 66.8 万元，全球限量发售 66 台。\n该车型采用哑光灰车漆搭配碳纤维外观组件，内饰采用黑红双色真皮材质，每台车辆均配备专属编号铭牌。新车在保留原厂车型高性能的基础上，系统性引入源自航空工程理念的哑光“隐形”涂装。\n\n新车为轿跑 SUV 形态，配备贯穿式尾灯，采用专属哑光车漆，底盘由莲花工程团队按照 LTS 标准调校。\n动力方面，新车搭载双电机系统，最大输出功率 952 马力，官方公布的 0 至 100 公里每小时加速时间为 3.3 秒，纯电续航 420k",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "莲花推出全球首款超混SUV超跑For Me Scura，66.8万元起限量66台。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息含价格、动力、限量数等具体数据，但缺少官方原始链接引用。"
+    },
+    {
+      "title": "卢伟冰晒全新小米 18 Pro 系列手机拍摄样张，全系搭载徕卡双 2 亿超清影像系统",
+      "link": "https://www.ithome.com/1/005/616.htm",
+      "pubDate": "Tue, 22 Sep 2026 03:34:52 GMT",
+      "contentSnippet": "IT之家 9 月 22 日消息，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰刚刚晒出了全新小米 18 Pro 系列手机的拍摄样张。\n\n\n\n\n\n\n\n\n卢伟冰表示，全新小米 18 Pro 系列手机将全系搭载徕卡双 2 亿超清影像系统。\n\n根据规划，小米 18 Pro 系列手机将在 9 月 23 日 19:00 发布。参考IT之家此前报道，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰透露，新机会涨价，但相信大家会觉得合理。\n系列新机已官宣搭载 2nm 旗舰移动平台、徕卡双 2 亿超清影像系统、新一代超级像素屏幕（全新 M11 发光体系）、0.99mm 极窄边屏幕设计、32",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "卢伟冰晒小米18 Pro样张，确认全系搭载徕卡双2亿影像，9月23日发布。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息源自高管公开表态，含具体参数与发布时间，但内容较简短。"
+    },
+    {
+      "title": "通用汽车发言人重申苹果 CarPlay / 谷歌 Android Auto 禁令，目前暂时仅燃油车提供相应功能",
+      "link": "https://www.ithome.com/1/005/612.htm",
+      "pubDate": "Tue, 22 Sep 2026 03:34:00 GMT",
+      "contentSnippet": "IT之家 9 月 22 日消息，此前有消息称通用汽车（GM）可能改变调整策略，不再取消旗下车型苹果 CarPlay / 谷歌 Android Auto 兼容计划。不过，最新消息显示，这一说法并不准确。\n\n据消息源 Joanna Stern 透露，通用汽车发言人已经确认，2027 款雪佛兰 Silverado 和 GMC Sierra 搭载的新软件界面虽然可以同时支持 CarPlay / Android Auto，但这一设计仅适用于燃油版车型，不支持电动车型。\n通用汽车此前已经表示，CarPlay 和 Android Auto 未来一段时间仍会继续出现在旗下燃油车中，尽管 2027 款 Silv",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "通用汽车重申CarPlay/Android Auto禁令，仅燃油车暂时保留该功能",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，引用具体消息源和车型信息，内容具体但缺少官方原始声明链接"
     }
   ]
 }
