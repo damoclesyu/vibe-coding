@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-22T04:05:06.611Z",
+  "generatedAt": "2026-09-23T04:01:52.906Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "聚焦海南热带特色高效农业发展 专家促“科技赋能”",
-      "link": "https://www.chinanews.com.cn/cj/2026/09-22/10701318.shtml",
-      "pubDate": "Tue, 22 Sep 2026 11:47:48 +0800",
-      "contentSnippet": "中新网海口9月22日电 (张月和)“以科技赋能推动热带特色高效农业高质量发展。”21日在海口举行的2026“十五五·同心聚力自贸港”四期沙龙暨民革中山议政堂活动上，长期关注海南热带特色高效农业发展的民革党员、海南大学乡村治理系副主任田少卿结合自身实践调研如是建言。",
+      "title": "美国友人：元首互访为美中关系发展传递强有力信号",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-23/10702135.shtml",
+      "pubDate": "Wed, 23 Sep 2026 11:52:28 +0800",
+      "contentSnippet": "中新社华盛顿9月22日电 (记者 陈孟统)对于美中元首半年内实现互访，多位美国友人在接受中新社记者采访时表示，元首互访将为两国关系发展传递强有力信号，并对习近平主席来访表示欢迎和期待。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -16,16 +16,52 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "海南专家在海口沙龙建言以科技赋能热带特色高效农业发展。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，属权威媒体；信息具体，含时间地点人物及直接引述，用词客观。"
+      "aiSummary": "美中元首半年内互访，多位美国友人向中新社表示欢迎并称传递强有力信号。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "中新社为权威通讯社，有署名记者和具体时间地点，但仅单一来源采访，缺乏多方交叉验证。"
     },
     {
-      "title": "到2030年，我国海上风电装机容量将翻一番达到1亿千瓦",
-      "link": "https://m.thepaper.cn/detail/34122614",
-      "pubDate": "Tue, 22 Sep 2026 03:38:32 GMT",
-      "contentSnippet": "今天上午，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，介绍促进自然资源安全高效永续利用有关情况。\n相关负责人介绍，海洋新质生产力前景广阔，将加强海洋开发利用保护，推动海洋经济高质量发展。\n预计到2030年，全国海洋生产总值将突破13万亿元，北部、东部、南部海洋经济圈辐射带动能力、开发开放水平将进一步提升。\n此外，预计到2030年，我国海洋生物医药产业增加值将突破1300亿元，较2025年增长三成；\n海上风电装机容量实现翻一番，达到1亿千瓦。",
+      "title": "国台办：中秋和国庆假期将有更多台湾文旦柚进入大陆千家万户",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-23/10702050.shtml",
+      "pubDate": "Wed, 23 Sep 2026 11:42:45 +0800",
+      "contentSnippet": "中新网9月23日电 9月23日，国务院台办举行例行新闻发布会。有记者问：有中秋临近，大陆多地上架台湾文旦柚。9月22日，“品宝岛文旦柚 庆月圆中秋节”活动在深圳举办。请介绍有关情况。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网",
+        "澎湃新闻"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "国台办发布会介绍中秋国庆期间台湾文旦柚进入大陆市场情况。",
+      "credibilityScore": 93,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网和澎湃新闻，属较权威媒体，内容为官方发布会实录，事实可查证。（多源覆盖 +5）"
+    },
+    {
+      "title": "习近平主席引领推进中美人民友好事业的故事",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-23/10701951.shtml",
+      "pubDate": "Wed, 23 Sep 2026 11:27:30 +0800",
+      "contentSnippet": "“中美关系基础在民间，希望在人民，未来在青年，活力在地方。”",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网",
+        "澎湃新闻"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "中国新闻网与澎湃新闻发文，称习近平主席引领推进中美人民友好事业。",
+      "credibilityScore": 83,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为国内较权威媒体，内容为官方正面报道，但缺少具体事件细节与直接引述，偏向宣传性叙事。（多源覆盖 +5）"
+    },
+    {
+      "title": "福建省委书记周祖翼调任河南省委书记",
+      "link": "https://m.thepaper.cn/detail/34131037",
+      "pubDate": "Wed, 23 Sep 2026 03:16:43 GMT",
+      "contentSnippet": "据新华社2026年9月23日消息，日前，中共中央决定：周祖翼同志任河南省委委员、常委、书记，不再担任福建省委书记、常委、委员职务；刘宁同志不再担任河南省委书记、常委、委员职务。\n公开资料显示，周祖翼，男，汉族，1965年1月出生，浙江天台人，1984年6月加入中国共产党，研究生学历，理学博士，二十届中央委员。\n周祖翼曾任同济大学党委书记（副部长级），中组部部务委员（副部长级）兼干部二局局长，中组部副部长，中组部副部长、中央编办主任等职，于2022年5月任人社部党组书记，后获任部长。\n2022年11月，周祖翼出任福建省委书记。",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -33,16 +69,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国新办发布会介绍，预计2030年我国海上风电装机容量翻番达1亿千瓦。",
-      "credibilityScore": 88,
+      "aiSummary": "中共中央决定周祖翼任河南省委书记，不再担任福建省委书记。",
+      "credibilityScore": 95,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为澎湃新闻，引述国务院新闻办发布会官方数据，信息具体可查证。"
+      "credibilityReason": "来源为澎湃新闻引述新华社，属权威官方渠道，含具体时间、人物履历，信息可交叉验证。"
     },
     {
-      "title": "潮涌大湾盼团圆",
-      "link": "https://www.chinanews.com.cn/dwq/2026/09-22/10701338.shtml",
-      "pubDate": "Tue, 22 Sep 2026 11:19:43 +0800",
-      "contentSnippet": "濠江歌咏，万里潮生。“湾区升明月”2026大湾区电影音乐晚会汇聚海峡两岸暨港澳地区以及海外多国的百余名电影人、音乐人，唱响百余首流传经典与原创新作，用穿越时空的音乐和歌声抒发家国情怀，共同描绘“十五五”开局之年新画卷。",
+      "title": "“字由人二——汉字创意集”展览开幕式在广州举行",
+      "link": "https://www.chinanews.com.cn/tp/2026/09-23/10701996.shtml",
+      "pubDate": "Wed, 23 Sep 2026 11:12:47 +0800",
+      "contentSnippet": "图为展览吸引参观者。中新社记者 陈楚红 摄  \r\n\n图为中国台湾艺术家许悔之的作品《灵魂的眼睛》吸引参观者。中新社记者 陈楚红 摄  \r\n\n图为中国香港艺术家黄孝逵的作品《水月山风》吸引参观者拍照。中新社记者 陈楚红 摄  \r\n\n图为展览吸引参观者。中新社记者 陈楚红 摄  \r\n\n图为中国香港艺术家罗丽媚的作品《西夏文五言联》吸引参观者拍照。中新社记者 陈楚红 摄  \r\n\n图为展览现场的互动装置吸引参观者拍照。中新社记者 陈楚红 摄",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -50,16 +86,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "2026大湾区电影音乐晚会在澳门举办，百余名电影人音乐人参与演出。",
-      "credibilityScore": 82,
+      "aiSummary": "中国新闻网报道“字由人二——汉字创意集”展览在广州开幕，配有多幅现场图片。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，属较权威媒体；信息具体，有活动名称、时间、参与人数等细节，但缺少直接引述。"
+      "credibilityReason": "来源为中国新闻网（中新社），属权威媒体，内容为图文报道，有具体展览名称、地点及记者署名，事实可查证。"
     },
     {
-      "title": "写在习近平主席对美国进行国事访问之际",
-      "link": "https://h.xinhuaxmt.com/vh512/share/13297381?newstype=1001&homeshow=1",
-      "pubDate": "Tue, 22 Sep 2026 00:32:42 GMT",
-      "contentSnippet": "写在习近平主席对美国进行国事访问之际",
+      "title": "国台办回应大陆社媒“对台文化侵略论”",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-23/10701945.shtml",
+      "pubDate": "Wed, 23 Sep 2026 11:10:17 +0800",
+      "contentSnippet": "中新网9月23日电 9月23日，国务院台办举行例行新闻发布会。有记者问：近日，台行政部门负责人卓荣泰声称，“台湾现在面临小红书、抖音等外来的文化侵略，会用政府的力量保护本土文化产业”。请问对此有何评论？",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国台办回应台官员卓荣泰称小红书抖音为文化侵略的言论。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网官方报道，引述具体官员言论，事实可查证，但仅单方回应。"
+    },
+    {
+      "title": "台当局称面临小红书等“外来文化侵略”，国台办回应",
+      "link": "https://m.thepaper.cn/detail/34130938",
+      "pubDate": "Wed, 23 Sep 2026 03:03:39 GMT",
+      "contentSnippet": "9月23日，国务院台办举行例行新闻发布会。有记者问，近日，台行政部门负责人声称“台湾现在面临小红书、抖音等外来的文化侵略”。请问对此有何评论？\n发言人朱凤莲答问表示，所谓“外来文化侵略”纯属无稽之谈，台湾文化的母体是中华文化，既是中华文化的重要组成部分，也丰富了中华文化的内涵。台湾同胞特别是台湾青年通过大陆的社交平台，同大陆同胞进行文化交流，开展交流互鉴，增进相互了解，同时也在大陆的社交平台展示才艺，丰富文化生活，这是中华文化根植于台湾民间的生动体现，也是两岸民间交流的丰富渠道。民进党当局罔顾事实，倒行逆施，将正常的两岸文化交流政治化、污名化，大搞政治操弄，企图在两岸同胞之间筑起文化高墙，割裂",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -67,186 +120,101 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "澎湃新闻发布习近平主席对美国进行国事访问的报道。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为较权威媒体，内容具体，但缺乏直接引述和交叉验证细节。"
-    },
-    {
-      "title": "牡丹江推介冬季旅游：打造“风雪宁古塔”沉浸式体验场景",
-      "link": "https://www.chinanews.com.cn/sh/2026/09-22/10701366.shtml",
-      "pubDate": "Tue, 22 Sep 2026 11:59:37 +0800",
-      "contentSnippet": "中新网哈尔滨9月22日电 (王琳 王迎春)“镜泊湖·渤海雪国冬捕季”牡丹江镜泊湖旅游集团2026-2027冬季旅游产品政策推介会于21日在哈尔滨召开。会上透露，当地今冬将创新打造“风雪宁古塔”沉浸式体验场景。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "牡丹江在哈尔滨推介冬季旅游，将打造“风雪宁古塔”沉浸式体验场景。",
+      "aiSummary": "国台办回应台当局称小红书抖音为文化侵略，指其无稽之谈。",
       "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，属权威媒体，信息具体含时间地点人物，用词客观中性。"
+      "credibilityReason": "来源澎湃新闻为权威媒体，内容为官方发布会直接引述，事实可查证。"
     },
     {
-      "title": "第十七届中国统计开放日在黑龙江佳木斯举办",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-22/10701365.shtml",
-      "pubDate": "Tue, 22 Sep 2026 11:59:13 +0800",
-      "contentSnippet": "中新网黑龙江佳木斯9月22日电(诸葛瑞鑫)21日，第十七届中国统计开放日在佳木斯举办。本次活动由国家统计局主办，聚焦宣传第四次全国农业普查，为摸清“三农”家底、服务乡村振兴凝聚社会共识。",
-      "sourceName": "中国新闻网",
+      "title": "安徽等3省省委主要负责同志职务调整",
+      "link": "https://m.thepaper.cn/detail/34130867",
+      "pubDate": "Wed, 23 Sep 2026 02:36:24 GMT",
+      "contentSnippet": "日前，中共中央决定：李乐成同志任安徽省委委员、常委、书记，梁言顺同志不再担任安徽省委书记、常委、委员职务。\n周祖翼同志任河南省委委员、常委、书记，不再担任福建省委书记、常委、委员职务；刘宁同志不再担任河南省委书记、常委、委员职务。\n赵龙同志任福建省委书记。",
+      "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
-        "中国新闻网"
+        "澎湃新闻"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "第十七届中国统计开放日在黑龙江佳木斯举办，聚焦宣传第四次全国农业普查。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，属权威媒体；信息具体（时间、地点、主办方、主题），内容客观中性，可查证。"
-    },
-    {
-      "title": "网球名将郑钦文：想向对手展示中国体育的精气神",
-      "link": "https://www.chinanews.com.cn/ty/2026/09-22/10701362.shtml",
-      "pubDate": "Tue, 22 Sep 2026 11:55:49 +0800",
-      "contentSnippet": "中新网深圳9月22日电 (记者 张璐)2026比利·简·金杯深圳总决赛(简称“比赛”)将于9月22日至27日在深圳举行。本次中国队由郑钦文、张帅、王曦雨、郭涵煜、蒋欣玗组成，郑洁担任队长。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "郑钦文表示想在比利·简·金杯展示中国体育精气神，赛事于深圳举行。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，属权威媒体，信息具体含时间地点人物，但引述较简短。"
-    },
-    {
-      "title": "中制协警示AI平台“霸王条款”：你在平台创作的作品，“不止属于你”",
-      "link": "https://www.chinanews.com.cn/cul/2026/09-22/10701323.shtml",
-      "pubDate": "Tue, 22 Sep 2026 11:54:51 +0800",
-      "contentSnippet": "中新网北京9月22日电(记者 郎朗) 你的创意可能正在被AI“偷走”。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中制协警示AI平台霸王条款，称用户创作作品版权归属存争议。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，属权威媒体，有署名记者，内容具体但缺乏细节引述。"
-    },
-    {
-      "title": "杨利伟：中国一定会成为航天强国",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-22/10701363.shtml",
-      "pubDate": "Tue, 22 Sep 2026 11:54:39 +0800",
-      "contentSnippet": "中新网北京9月22日电 (记者 马帅莎)中国载人航天工程副总设计师、特级航天员杨利伟21日在北京表示，展望中国航天，在不远的将来，中国人的身影会出现在更深远的太空。中国不单会成为航天大国，也会向航天强国迈进，一定会成为航天强国。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "杨利伟在北京表示中国一定会成为航天强国，中国人将走向更深远的太空。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网权威媒体，有署名记者和具体时间地点，直接引述杨利伟原话，内容客观中性。"
-    },
-    {
-      "title": "鎏金铜蚕故里焕新颜 科技赋能蚕桑全产业链升级",
-      "link": "https://www.chinanews.com.cn/cj/2026/09-22/10701322.shtml",
-      "pubDate": "Tue, 22 Sep 2026 11:54:11 +0800",
-      "contentSnippet": "中新网陕西石泉9月22日电 (记者 李一璠)秋季，位于秦巴腹地的陕西省安康市石泉县，大片桑园顺着山势铺展。这里是国家一级文物汉代“鎏金铜蚕”的出土地，素有“丝路之源·金蚕之乡”的美誉。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中新网报道陕西安康石泉县依托鎏金铜蚕文化，以科技推动蚕桑产业链升级。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，属较权威媒体，有具体时间地点及记者署名，内容客观，但缺乏多源交叉验证。"
-    },
-    {
-      "title": "国家发改委：将加快推动《中华人民共和国卫星导航条例》出台实施",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-22/10701349.shtml",
-      "pubDate": "Tue, 22 Sep 2026 11:53:47 +0800",
-      "contentSnippet": "中新网9月22日电 国家发展改革委9月22日召开9月份新闻发布会。会上，国家发展改革委政策研究室副主任、新闻发言人李超指出，“十五五”时期，将坚持开放融合、协调合作、兼容互补、成果共享，推动北斗产业规模五年内突破1万亿元，实现北斗规模应用市场化、产业化、国际化新突破。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国家发改委在新闻发布会上表示将加快推动卫星导航条例出台实施。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，官方发布会直接引述，信息具体可查证。"
-    },
-    {
-      "title": "晋祠博物馆重要节假日实行预约限流 游客可提前10天预约",
-      "link": "https://www.chinanews.com.cn/sh/2026/09-22/10701321.shtml",
-      "pubDate": "Tue, 22 Sep 2026 11:52:55 +0800",
-      "contentSnippet": "中新网太原9月22日电 (记者 胡健)为规范游览秩序、保护文物古迹、保障游览安全，山西省太原市文物保护研究院21日发布公告，晋祠博物馆将在“春节”“五一”“中秋”“国庆”等重要节假日期间严格实行预约限流管理，按景区最大承载量管控客流，基本实现“无预约、不入馆”。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "晋祠博物馆宣布重要节假日实行预约限流，游客可提前10天预约。",
+      "aiSummary": "中共中央决定调整安徽、河南、福建三省省委主要负责人职务。",
       "credibilityScore": 92,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网一线媒体，有具体发布单位、日期和引述，信息可查证。"
+      "credibilityReason": "澎湃新闻为正规媒体，内容为中共中央人事任免，信息具体且可官方核实。"
     },
     {
-      "title": "中外专家“献策”全球气候变化下的石窟寺保护",
-      "link": "https://www.chinanews.com.cn/cul/2026/09-22/10701320.shtml",
-      "pubDate": "Tue, 22 Sep 2026 11:52:09 +0800",
-      "contentSnippet": "中新网大同9月22日电 (记者 胡健)2026石窟寺保护国际论坛21日至22日在山西大同举行，来自美国、意大利、日本、柬埔寨等多个国家和地区的专家学者，围绕“全球气候变化下的石窟寺保护”主题展开研讨，分享各国遗产保护经验与成果。",
-      "sourceName": "中国新闻网",
+      "title": "区分药用、非药用！芬太尼类物质犯罪定罪量刑有新标准",
+      "link": "https://m.thepaper.cn/detail/34130731",
+      "pubDate": "Wed, 23 Sep 2026 02:01:28 GMT",
+      "contentSnippet": "为依法准确惩处芬太尼类物质犯罪，近日，最高人民法院、最高人民检察院、公安部联合印发了《关于办理涉芬太尼类物质刑事案件适用法律等若干问题的意见》（法发〔2026〕12号）。《意见》严格依据刑法、刑事诉讼法等有关法律规定，对涉芬太尼类物质刑事案件适用法律等若干问题提出指导意见，强调依法从严惩治芬太尼类物质犯罪，坚决维护人民群众生命健康和社会和谐稳定。\n《意见》共18条，主要明确了芬太尼类物质犯罪的定罪量刑数量标准，将芬太尼类物质分为药用和非药用两类，药用的芬太尼类物质参照《最高人民法院关于审理毒品犯罪案件适用法律若干问题的解释》规定的有关芬太尼的数量标准，非药用的芬太尼类物质参照刑法规定的有关海洛",
+      "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
-        "中国新闻网"
+        "澎湃新闻"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "2026石窟寺保护国际论坛在山西大同举行，多国专家研讨气候变化下石窟寺保护。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，属权威媒体；信息具体，含时间地点人物；但缺乏直接引述，部分细节待核实。"
-    },
-    {
-      "title": "国家发改委：我国农业生产应对厄尔尼诺等风险挑战是有底气、有条件、有能力的",
-      "link": "https://www.chinanews.com.cn/cj/2026/09-22/10701347.shtml",
-      "pubDate": "Tue, 22 Sep 2026 11:49:06 +0800",
-      "contentSnippet": "中新网9月22日电 国家发展改革委9月22日召开9月份新闻发布会。会上，国家发展改革委政策研究室副主任、新闻发言人李超指出，据有关专业机构预测，今年秋冬季将出现一次超强厄尔尼诺事件，并于年底达到峰值，相关气候影响将延续至明年夏季，对全球粮食生产带来较大不确定性，必须高度重视。总体看，我国农业生产应对厄尔尼诺等风险挑战是有底气、有条件、有能力的。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国家发改委称我国农业生产有能力应对超强厄尔尼诺风险挑战。",
+      "aiSummary": "两高一部联合印发意见，明确芬太尼类物质犯罪定罪量刑标准，区分药用与非药用。",
       "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网官方发布会报道，有具体发言人、时间及专业机构预测，内容可查证。"
+      "credibilityReason": "来源为澎湃新闻，引用官方文件编号及联合发布机构，信息具体可查证。"
     },
     {
-      "title": "50余位海外侨领走进山西运城 共话经贸文化合作",
-      "link": "https://www.chinanews.com.cn/txy/2026/09-22/10701319.shtml",
-      "pubDate": "Tue, 22 Sep 2026 11:48:46 +0800",
-      "contentSnippet": "中新网运城9月22日电 (记者 杨杰英)9月21日晚，“好运河东聚侨力 关公故里谱新篇”海外侨领中华文化国情(山西)研修班运城经贸文化交流活动在山西运城举行。来自德国、澳大利亚等30余个国家和地区的50余位海外侨领参加活动。",
+      "title": "新闻蒸馏器｜特朗普联大演讲都说了什么：威胁“消灭”伊朗、AI改名“超级智能”",
+      "link": "https://m.thepaper.cn/detail/34130501",
+      "pubDate": "Wed, 23 Sep 2026 01:38:29 GMT",
+      "contentSnippet": "一句话读懂\n当地时间9月22日，美国总统特朗普在联合国大会发表近40分钟演讲，威胁如伊朗不达成协议就“消灭”该国、宣布与丹麦签署格陵兰安全协议、力推委内瑞拉石油交易，表示要把“人工智能”改称“超级智能”，同时抨击国际刑事法院、预言古巴政权垮台。\n\n当地时间2026年9月22日，美国纽约联合国总部，美国总统唐纳德·特朗普在联合国大会上发表讲话。视觉中国 图\n\n\n值得注意\n这更像一场对内的竞选式演讲：面对拖延近七个月、原本承诺“几天或几周”就能结束的伊朗战争，以及CNN民调显示逾七成美国人不认可其外交政策处理方式（逼近小布什政府伊拉克战争时期的低点），特朗普试图把过去一年密集的外交行动“打包”成可",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "特朗普在联大发表演讲，威胁消灭伊朗、宣布格陵兰安全协议并提议AI改名。",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium-high",
+      "credibilityReason": "澎湃新闻为较权威媒体，内容具体含时间地点，但部分表述夸张且缺乏直接引述，需交叉验证。"
+    },
+    {
+      "title": "专访｜吴心伯：中美元首再会晤“承上启下”，推动两国关系稳中有进",
+      "link": "https://m.thepaper.cn/detail/34126822",
+      "pubDate": "Tue, 22 Sep 2026 23:20:06 GMT",
+      "contentSnippet": "【编者按】\n9月23日至25日，应美国总统特朗普邀请，国家主席习近平将对美国进行国事访问。中美元首在半年内实现互访，具有历史性里程碑意义。《人民日报》22日刊文称，中美关系巨轮锚定全新坐标再启新程，中方愿同美方一道，落实两国元首达成的重要共识，推动中美建设性战略稳定关系行稳致远，为动荡变革的世界持续注入稳定性和正能量。\n英国皇家国际事务研究所高级研究员于洁9月初曾撰文指出，中美元首5月会晤后，“建设性战略稳定”成为两国多年来首次就双边关系的共同描述公开达成一致。这表明中美都认识到，竞争必须在有限稳定的框架内进行管控，以使两国都能追求各自的国内优先事项。强大的国内动力使得中美希望寻求更加稳定的关",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "澎湃新闻专访吴心伯，评中美元首半年内互访承上启下，推动关系稳中有进。",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "澎湃为知名媒体，专访学者有署名，但内容含未来事件，需待官方确认。"
+    },
+    {
+      "title": "习近平向第48届世界技能大赛致贺信",
+      "link": "http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%91%E7%AC%AC48%E5%B1%8A%E4%B8%96%E7%95%8C%E6%8A%80%E8%83%BD%E5%A4%A7%E8%B5%9B%E8%87%B4%E8%B4%BA%E4%BF%A1",
+      "pubDate": "Tue, 22 Sep 2026 21:40:00 +0800",
+      "contentSnippet": "",
+      "sourceName": "央视新闻",
+      "sourceWeight": 80,
+      "allSources": [
+        "央视新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "习近平向第48届世界技能大赛致贺信，央视新闻发布。",
+      "credibilityScore": 95,
+      "credibilityLevel": "high",
+      "credibilityReason": "央视新闻为权威官方媒体，内容为领导人贺信，来源可靠，事实可查证。"
+    },
+    {
+      "title": "把创新的种子撒进田间地头",
+      "link": "https://www.chinanews.com.cn/ll/2026/09-23/10702139.shtml",
+      "pubDate": "Wed, 23 Sep 2026 11:57:46 +0800",
+      "contentSnippet": "人民论坛网评 | 把创新的种子撒进田间地头",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -254,10 +222,44 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "50余位海外侨领在山西运城参加经贸文化交流活动。",
+      "aiSummary": "中国新闻网转载人民论坛网评，呼吁将创新种子撒进田间地头。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为中新网较权威，但正文仅为标题式评论摘要，无具体事实细节可查证。"
+    },
+    {
+      "title": "秋分养生记住“润、暖、稳”三字诀",
+      "link": "https://www.chinanews.com.cn/jk/2026/09-23/10702138.shtml",
+      "pubDate": "Wed, 23 Sep 2026 11:57:14 +0800",
+      "contentSnippet": "今年的9月23日是二十四节气的秋分。自此昼渐短、夜渐长，昼夜温差拉大，深秋帷幕正式拉开。秋分时节寒凉干燥，最易耗伤肺津，引发种种“秋燥”不适。东南大学附属中大医院中医内科主任张荣春提醒，秋分养生重在顺应时节，遵循养肺润燥、适当保暖、调和阴阳的核心原则，记住“润、暖、稳”三字诀，助您安稳度秋，规避季节性疾病。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "秋分时节，中医专家提醒养生遵循“润、暖、稳”三字诀以应对秋燥。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网权威，有具名专家引述，内容具体，属健康科普，可信度高。"
+    },
+    {
+      "title": "陈雨菲：没有的肯定想要 为团体金牌逐场拼搏",
+      "link": "https://www.chinanews.com.cn/ty/2026/09-23/10702137.shtml",
+      "pubDate": "Wed, 23 Sep 2026 11:55:26 +0800",
+      "contentSnippet": "中新网9月23日电 (记者 李志全)当地时间9月23日，在爱知·名古屋亚运会羽毛球项目女子团体半决赛中，中国女团以3:0战胜印度尼西亚队，晋级决赛。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国女团3:0胜印尼晋级亚运会羽毛球决赛，陈雨菲表态为团体金牌逐场拼搏。",
       "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，属权威媒体，信息具体含时间地点人物，用词客观中性。"
+      "credibilityReason": "中新网为权威媒体，有署名记者、具体时间地点比分，内容可查证。"
     }
   ]
 }
