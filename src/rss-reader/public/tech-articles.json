@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-24T03:58:15.345Z",
+  "generatedAt": "2026-09-25T04:12:49.154Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "苹果前 CEO 库克拿下美国半导体界最高荣誉奖项，AMD 苏姿丰大赞其成就",
-      "link": "https://www.ithome.com/1/006/703.htm",
-      "pubDate": "Thu, 24 Sep 2026 03:55:50 GMT",
-      "contentSnippet": "IT之家 9 月 24 日消息，美国半导体行业协会（SIA）于 9 月 22 日发布公告，苹果董事会执行主席蒂姆 · 库克获得 2026 年芯片行业最高荣誉 —— 罗伯特 · 诺伊斯奖。\n\nIT之家注：罗伯特 · 诺伊斯奖每年在 SIA 颁奖晚宴上颁发，以表彰在半导体行业方面取得杰出成就和领导力的个人。1990 年，SIA 董事会设立了该奖项，以纪念英特尔及半导体行业协会联合创始人罗伯特 · 诺伊斯。符合资格的候选人必须在半导体行业的技术和 / 或公共政策方面做出了重大贡献。提名人的努力必须不仅惠及某个公司或关联，并且能够增强整个行业的实力，这一点至关重要。\n库克将于 2026 年 11 月",
+      "title": "海信推出猎影 G5 Pro 显示器：24.5 英寸 2K 320Hz，1999 元",
+      "link": "https://www.ithome.com/1/007/110.htm",
+      "pubDate": "Fri, 25 Sep 2026 03:56:42 GMT",
+      "contentSnippet": "IT之家 9 月 25 日消息，海信现已推出猎影 G5 Pro 显示器，将于 9 月 29 日开售，售价 1999 元。\n\n这款显示器搭载了一块 24.5 英寸 2K 320Hz Fast IPS 屏幕，全新墨晶屏实现抗反射 + 防眩双重效果；配备 BFI 2.0 技术，响应时间达到 0.4ms GTG，支持 FreeSync Premium Pro 防撕裂技术。\n\nIT之家获悉，这款显示器加入了 FPS 专属 Gamma 模式，可提升人物的区分度；色彩方面覆盖 96% DCI-P3 色域，色准 ΔE<1.5，达到 Display HDR600。\n\n这款显示器采用 FPS 人体工学设计，支持",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,237 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "苹果董事会执行主席库克获2026年SIA罗伯特·诺伊斯奖，苏姿丰称赞其成就。",
+      "aiSummary": "海信推出猎影G5 Pro显示器，24.5英寸2K 320Hz，售价1999元",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引用SIA官方公告，奖项背景详实，但标题'前CEO'表述不准确。"
+      "credibilityReason": "IT之家为知名科技媒体，产品参数具体详实，含价格、规格及技术细节，但缺少官方原始链接"
     },
     {
-      "title": "阿维塔 T09 全球首秀定档 10 月 11 日，定位“50 万级科技新旗舰”",
-      "link": "https://www.ithome.com/1/006/701.htm",
-      "pubDate": "Thu, 24 Sep 2026 03:53:59 GMT",
-      "contentSnippet": "IT之家 9 月 24 日消息，阿维塔 T09 全球首秀定档 10 月 11 日，官方宣称该车是“50 万级科技新旗舰”。\n\n\nIT之家注意到，工信部 9 月 8 日发布第 411 批《道路机动车辆生产企业及产品公告》新产品公示，阿维塔 T09 完成申报。\n\n本次申报的阿维塔 T09 为插电式混合动力运动型乘用车，提供两种动力版本，长宽高分别为 5285/2025/1810 或 1820mm，轴距 3150mm，前轮距 1726mm，后轮距 1740mm，额定载客 6 人，支持选装前格栅、轮辋、车顶玻璃、前保险杠、前底护板、黑色扰流板、后保险杠、后底护板、无电动踏板、电动踏板、行李架、黑色字标",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "阿维塔T09定档10月11日全球首秀，定位50万级科技旗舰，已完成工信部申报。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引用工信部申报数据，信息具体详实，但官方宣称缺乏独立验证。"
-    },
-    {
-      "title": "暴力熊推出不锈钢版 Mycro Pro 处理器分体冷头，英特尔款支持 LGA1954",
-      "link": "https://www.ithome.com/1/006/700.htm",
-      "pubDate": "Thu, 24 Sep 2026 03:53:34 GMT",
-      "contentSnippet": "IT之家 9 月 24 日消息，Thermal Grizzly（暴力熊）当地时间本月 23 日宣布为 CPU 处理器推出 Mycro Pro Stainless Steel 分体式液冷冷头，提供英特尔、AMD 双平台款式。\n\nMycro Pro Stainless Steel 由未镀镍铜底、304 不锈钢外壳、阳极氧化铝安装支架构成，配备 2 个 G1/4\" 螺纹进出水口和 EPDM 密封圈，微水道的鳍片厚度与间距均为 0.2mm。\n\n该冷头英特尔版本针对 FCLGA1851 插槽优化，兼容 FCLGA1700、FCLGA1954；AMD 版本针对 AM5 插槽优化，兼容 AM4。双版本含税定",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "暴力熊推出Mycro Pro不锈钢分体冷头，支持英特尔LGA1954及AMD AM5平台。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息含具体材质、规格与插槽型号，来源明确，但缺少官方链接引用。"
-    },
-    {
-      "title": "小红书打击“黑公关”：封禁 8700 余个账号，协助抓捕 150 余人",
-      "link": "https://www.ithome.com/1/006/699.htm",
-      "pubDate": "Thu, 24 Sep 2026 03:53:19 GMT",
-      "contentSnippet": "IT之家 9 月 24 日消息，小红书今日发布了关于打击“黑公关”账号的治理公告，称已封禁相关账号 8700 余个，并向警方提供线索，协助打击五处线下窝点，抓捕涉案人员 150 余人。\n\n小红书表示，平台涌现出一批有规模有组织的“黑公关”团伙账号。\n据介绍，这些账号以“帮助品牌处理负面舆情”为幌子，批量操控账号发布违法违规内容，攻击小红书用户的笔记和账号，使其被处置，从中牟利。\n\n小红书表示，此类行为侵蚀平台友好的社区氛围，并严重违反《中华人民共和国刑法》第二百二十五条所述非法经营活动，构成犯罪。\n\n小红书称，平台始终倡导“真诚分享，友好互动，有序经营”的社区公约，将依法依规严厉打击相关行为，",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "小红书封禁8700余个黑公关账号，协助警方抓捕150余人。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道引用平台公告及具体数据，但缺乏独立核实。"
-    },
-    {
-      "title": "华为官宣小艺 Work 上线：首次使用 31 天限时免费享 1000 AI 点",
-      "link": "https://www.ithome.com/1/006/695.htm",
-      "pubDate": "Thu, 24 Sep 2026 03:45:30 GMT",
-      "contentSnippet": "IT之家 9 月 24 日消息，华为今日官宣小艺 Work 正式上线，支持市场调研、文档处理、PPT 制作、数据分析、内容创作、代码开发等场景，上应用市场更新小艺 App，解锁小艺 Work 全新 AI 工作方式。首次使用 31 天限时免费享 1000 AI 点。\n\n\n\n\n参考IT之家此前报道，今年 9 月 16 日，华为宣布小艺 Work 开启内测。该服务定位为面向日常办公、代码开发和创意创作的 AI 工作助理，支持鸿蒙手机、平板和电脑。\n据介绍，小艺 Work 可接收用户目标，自主拆解任务、安排步骤、调用工具并推进执行。任务进度可查看，关键节点由用户审核。\n该服务支持手机、平板与电脑跨端协",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "华为小艺Work正式上线，支持多场景AI办公，首月免费赠1000 AI点。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体含功能细节与时间节点，但缺少官方原始链接。"
-    },
-    {
-      "title": "高通官宣为骁龙 X2 系列 PC 处理器适配 Linux 系统，早期开发者预览版发布",
-      "link": "https://www.ithome.com/1/006/685.htm",
-      "pubDate": "Thu, 24 Sep 2026 03:43:07 GMT",
-      "contentSnippet": "IT之家 9 月 24 日消息，当地时间 9 月 23 日，高通在夏威夷 2026 骁龙峰会上宣布，骁龙 X2 系列 PC 处理器将正式支持 Linux 操作系统。\n高通产品管理高级总监凯达尔 · 孔达普在主题演讲中表示，多年来开发者一直呼吁“在骁龙上运行 Linux”，公司将从骁龙 X2 系列开始正式回应这一需求。\n\n这是骁龙 X 系列处理器继 Windows 和 Googlebook 之后官方支持的第三个操作系统。\n高通表示，Linux 支持将分阶段推进，首个正式支持的发行版为 Debian，基础支持计划于 2026 年底完成。高通表示，大量基础硬件适配工作已合入 Linux 内核上游主线",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "高通宣布骁龙X2系列PC处理器正式支持Linux，首发Debian，年底完成基础适配。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道含具体人物、时间、发行版及内核上游细节，信息详实可信。"
-    },
-    {
-      "title": "谷歌 Chrome 154 浏览器发布：默认警告 HTTP 网站、修复 108 个漏洞",
-      "link": "https://www.ithome.com/1/006/679.htm",
-      "pubDate": "Thu, 24 Sep 2026 03:42:36 GMT",
-      "contentSnippet": "IT之家 9 月 24 日消息，谷歌于 9 月 22 日发布公告，宣布正式推出 Chrome 浏览器 154 稳定版，会默认警告 HTTP 网站，并修复 108 项安全漏洞。\n\n安全修复方面，本次更新共计修复 108 项漏洞，公告中列出了多项“严重（Critical）”级别漏洞，涉及 ANGLE 图形层、GPU、WebGL、Service Worker、全屏功能及窗口对话框等组件。\n在功能方面，IT之家此前报道，用户访问不安全的 HTTP 网站后，Chrome 154 会默认警告提示，可能影响老旧网站、直接输入 IP 地址的管理页面、家庭路由器或某些本地设备后台。\n\nChrome 154 引入",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "谷歌发布Chrome 154稳定版，默认警告HTTP网站并修复108个安全漏洞。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体含版本号、漏洞数量及组件细节，引用谷歌官方公告，来源可靠。"
-    },
-    {
-      "title": "国家能源局：截至 8 月底全国累计发电装机容量 41.03 亿千瓦，同比增长 11.1%",
-      "link": "https://www.ithome.com/1/006/666.htm",
-      "pubDate": "Thu, 24 Sep 2026 03:39:04 GMT",
-      "contentSnippet": "IT之家 9 月 24 日消息，国家能源局今日发布 1—8 月份全国电力统计数据。\n截至 8 月底，全国累计发电装机容量 41.03 亿千瓦，同比增长 11.1%。其中，太阳能发电装机容量 12.99 亿千瓦，同比增长 16.3%；风电装机容量 6.93 亿千瓦，同比增长 19.6%。1—8 月份，全国发电设备累计平均利用 1942 小时，比上年同期降低 163 小时。\n\nIT之家注意到，国家能源局数据显示，2026 年 8 月全社会用电量再破万亿，达到 10332 亿千瓦时，同比增长 1.7%；用电负荷创历史新高达到 15.6 亿千瓦，较上年最大负荷高 4969 万千瓦，共有 7 天超过上年",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国家能源局发布1-8月电力数据，全国发电装机容量同比增长11.1%，太阳能和风电增长显著。",
-      "credibilityScore": 92,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为官方机构国家能源局，数据详实具体，IT之家为知名科技媒体，信息可信度高。"
-    },
-    {
-      "title": "鸿蒙智行尚界 Z7 / Z7T 专属肖战泊车语音包官宣即将上线",
-      "link": "https://www.ithome.com/1/006/647.htm",
-      "pubDate": "Thu, 24 Sep 2026 03:32:14 GMT",
-      "contentSnippet": "IT之家 9 月 24 日消息，鸿蒙智行尚界汽车官方今日宣布，尚界 Z7 / Z7T 专属肖战泊车语音包即将上线（具体上线时间暂未公布）。\n\n官方预热视频显示，肖战泊车语音包将使用肖战专属语音播报泊车场景相关提示，覆盖代客泊车、离车泊入等。\n作为参考，此前智界汽车也上线了刘亦菲语音包，在离车泊入等辅助泊车场景下，刘亦菲原音将向车外播报自车泊车意图。IT之家附泊车语音包使用方法如下：\n\n点击设置-辅助驾驶-其他设置-更多设置-开启专属泊车语音\n\n\n今年 7 月，鸿蒙智行尚界汽车宣布，尚界 Z7｜Z7T 累计交付突破 20000 台。系列车型于 4 月 22 日正式发布，全系标配 5 大华为黑科技",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "鸿蒙智行尚界宣布Z7/Z7T将上线肖战泊车语音包，覆盖代客泊车等场景。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体含操作路径与历史数据，但属官方宣传性质，缺乏独立验证。"
-    },
-    {
-      "title": "Yole 预测：高阶封装市场规模 2031 年将超 510 亿美元，接近 2025 年 5 倍",
-      "link": "https://www.ithome.com/1/006/645.htm",
-      "pubDate": "Thu, 24 Sep 2026 03:32:05 GMT",
-      "contentSnippet": "IT之家 9 月 24 日消息，机构 Yole Group 当地时间 23 日发布预测，认为高阶封装市场规模将在 2031 年突破 510 亿美元（IT之家注：现汇率约合 3,428.55 亿元人民币），接近 2025 年水平的 5 倍。\n这一数据对应 27% 的复合年均增长率 (CAGR)。与此同时，封装单位数量的 CAGR 为 33%、晶圆需求的 CAGR 则是 30%，显示封装结构的复杂度与规模将逐步提升。\n\n▲ 图源：Yole Group\n机构认为电信和基础设施将是高阶封装快速增长的关键驱动因素，将占到 2031 年整体收入的 70%；汽车行业的高阶封装规模将出现 36% 的 CAGR",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "Yole预测高阶封装市场2031年超510亿美元，CAGR达27%，电信基建为主要驱动力。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引用Yole Group原始报告，数据具体含CAGR等指标，逻辑清晰。"
-    },
-    {
-      "title": "微软更新 1.139 版 VS Code：大规模 Agent 会话首次加载提速约 12 倍",
-      "link": "https://www.ithome.com/1/006/637.htm",
-      "pubDate": "Thu, 24 Sep 2026 03:31:00 GMT",
-      "contentSnippet": "IT之家 9 月 24 日消息，微软昨日（9 月 23 日）发布公告，宣布更新推出 1.139 版 Visual Studio Code，更新重点转向 AI Agent 的远程开发与大规模会话管理，同时带来若干编辑器体验优化。\n\n在远程 Dev Container Agent 会话方面，开发者现在可在 SSH、Tunnel 和 WSL 承载的远程项目中，让 Agent 直接运行于 Dev Container 内。\nAgent 可使用项目既有的工具链和依赖，减少在本地电脑或远程主机重复配置环境的需要。使用该功能需要远端具备受支持的 Dev Container 配置及 Docker，且相关开关目前",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "微软发布VS Code 1.139版，AI Agent远程开发与大规模会话加载提速约12倍。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道含具体版本号、功能细节与性能数据，但缺少微软原始公告链接。"
-    },
-    {
-      "title": "送别“济公”！表演艺术家游本昌今晨去世，享年 93 岁",
-      "link": "https://www.ithome.com/1/006/633.htm",
-      "pubDate": "Thu, 24 Sep 2026 03:30:09 GMT",
-      "contentSnippet": "IT之家 9 月 24 日消息，据央视新闻今日报道，中国国家话剧院表演艺术家、一级演员游本昌，因病今晨在北京去世。\n\n游本昌出生于 1933 年，享年 93 岁。他生前长期从事戏剧表演，在《济公》等作品中塑造了许多深受人民群众喜爱的艺术形象。1951 年，从南京市私立钟英中学（现南京市钟英中学）毕业后加入南京文工团。1985 年，在演了 79 个“小角色”后，首次出演主角 ——“济公”，凭该角色被大众所知。1994 年成立北京本昌艺术传播中心，制作二十集电视系列剧《济公游记》，并担任导演、主演、出品人。\n2023 年，他出演了王家卫导演的电视剧《繁花》，作为男配角与主角阿宝形成师徒合作关系，在",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "表演艺术家游本昌今晨去世，享年93岁，曾饰演济公。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家援引央视新闻，信息具体，生平细节详实，来源权威。"
-    },
-    {
-      "title": "全新红旗 H9 开启预订：华为乾崑智驾 ADS 5 高阶版，纵置 2.0T 混动专用发动机 + 全球首创纵置双档混动电驱",
-      "link": "https://www.ithome.com/1/006/612.htm",
-      "pubDate": "Thu, 24 Sep 2026 03:22:03 GMT",
-      "contentSnippet": "IT之家 9 月 24 日消息，一汽红旗今日宣布，全新一代红旗 H9 即日起开启预订，价格暂未公布。作为参考，现款红旗 H9 指导价为 32.98 万元起。\n\n新车定位 C+ 级智慧豪华旗舰轿车，搭载华为乾崑智驾 ADS 5 高阶版与鸿蒙座舱 HarmonySpace，标配 896 线双光路图像级激光雷达，全车配备 40 颗高感知传感器。据官方数据，该系统可在 120 公里 / 小时时速下识别 120 米外高度 14 厘米的微小障碍物。\n车身尺寸方面，全新红旗 H9 长宽高分别为 5230/1955/1515 毫米，轴距 3120 毫米，较现款车型全面加长，轴距增加 200 毫米。作为参照，奔",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "全新红旗H9开启预订，搭载华为乾崑智驾ADS 5及纵置双档混动电驱。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息含具体技术参数与官方数据，但价格未公布且无原始出处链接。"
-    },
-    {
-      "title": "豆包公关负责人刘星回应“裁员、对话团队砍掉一半”传闻：不实，系分工组织调整",
-      "link": "https://www.ithome.com/1/006/610.htm",
-      "pubDate": "Thu, 24 Sep 2026 03:21:25 GMT",
-      "contentSnippet": "IT之家 9 月 24 日消息，豆包公关负责人刘星今日（9 月 24 日）发文：有媒体报道豆包 Session 团队组织调整，部分自媒体将其解读为豆包裁员、豆包对话团队砍掉一半，相关信息不实。实际上只是分工的组织调整。\n刘星表示，豆包通用 Session 团队的部分职能拆到了豆包的交易和豆包工作团队，所以人员也随着过去了。很多也是在做之前的工作。比如交易，也是优化交易对话体验。这个团队不到 50 人，分工调整涉及 11 人。其中 3 人离职。\n刘星称部分自媒体报道提及的“2 亿人用的豆包裁员”、“对话团队砍掉一半”等表述不实。IT之家附回应全文如下：\n\n据《晚点 LatePost》9 月 22",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "豆包公关负责人回应裁员传闻，称系分工组织调整，涉及11人，3人离职。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引述官方公关负责人直接回应，含具体人数细节，但原始报道被截断。"
-    },
-    {
-      "title": "企业AI落地，70分和80分之间",
-      "link": "https://www.tmtpost.com/8151329.html",
-      "pubDate": "Thu, 24 Sep 2026 11:20:03 +0800",
-      "contentSnippet": "AI技术落地并不等于真正产生价值，这些行业里走在最前边的人在一起讨论的，正是这中间的空白。",
+      "title": "高端 PCB 扩产潮升温，自动化装备成标配",
+      "link": "https://www.tmtpost.com/8152330.html",
+      "pubDate": "Fri, 25 Sep 2026 11:47:32 +0800",
+      "contentSnippet": "翼菲科技是较早把场景扎进PCB生产一线的样本",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -254,10 +33,234 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体探讨企业AI落地中技术应用与价值实现之间的差距",
+      "aiSummary": "钛媒体报道高端PCB扩产潮，自动化装备成标配，翼菲科技为早期入局样本。",
       "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体，选题专业，但正文摘要过简，缺少具体数据和原始出处"
+      "credibilityReason": "钛媒体为知名科技媒体，但正文摘要过短，缺乏具体数据与原始出处，信息详实度不足。"
+    },
+    {
+      "title": "比亚迪方程豹钛 9 内饰公布：预计四季度上市，定位 6 座插混大型 SUV 车型",
+      "link": "https://www.ithome.com/1/007/108.htm",
+      "pubDate": "Fri, 25 Sep 2026 03:47:06 GMT",
+      "contentSnippet": "IT之家 9 月 25 日消息，比亚迪方程豹钛 9 此前已经在 2026 成都国际车展迎来全球首秀。该车预计将于今年四季度上市。方程豹官方今日公布了这款车的内饰详情，我们一起来看一下吧。\n\n新车定位 6 座插混大型 SUV，长宽高分别为 5270/1999/1850mm，轴距 3130mm，提供 21 英寸、22 英寸两种规格多样式轮圈选择。IT之家注意到，其车尾采用天地门开启结构，提供 6 座布局，全系第三排座椅支持完全放倒。\n\n底盘方面，新车采用承载式车身结构，搭载云辇-P Ultra 智能液压悬架，全系标配后轮转向系统，适配城市道路行驶及轻度越野场景。\n\n动力方面，新车搭载 1.5T 发",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "比亚迪方程豹钛9内饰公布，定位6座插混大型SUV，预计四季度上市。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息含具体尺寸、配置及技术细节，来源明确，但缺少官方原始链接。"
+    },
+    {
+      "title": "GPT-6 Astra 需求空前，曝 OpenAI 正筹备 ChatGPT Pro Max 订阅层级",
+      "link": "https://www.ithome.com/1/007/107.htm",
+      "pubDate": "Fri, 25 Sep 2026 03:40:18 GMT",
+      "contentSnippet": "IT之家 9 月 25 日消息，Tibor Blaho 通过开发者工具查看 ChatGPT 网页端源代码时发现，其代码中出现了 PROMAX 相关字段。\n他认为，OpenAI 正在准备推出更高阶的 ChatGPT Pro 订阅方案，其推测月费可能达到 600 美元（IT之家注：现汇率约合 4,030 元人民币）。\n\n目前，OpenAI 尚未正式宣布推出这一更高阶 ChatGPT Pro 计划，也未确认相关代码是否对应未来正式上线的产品，因此产品名称、功能以及最终定价仍存在较大不确定性。\n近年来，OpenAI 持续调整 ChatGPT 的订阅体系，已推出 Plus、Pro 以及面向企业和团队用户",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家",
+        "爱范儿",
+        "InfoQ中文",
+        "Solidot"
+      ],
+      "coverageCount": 4,
+      "coverageBoost": 15,
+      "aiSummary": "开发者发现ChatGPT代码含PROMAX字段，推测OpenAI将推600美元月费高阶订阅。",
+      "credibilityScore": 87,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体，但核心信息基于开发者推测，OpenAI未确认，定价和产品均不确定。（多源覆盖 +15）"
+    },
+    {
+      "title": "华硕 ROG XBOX 掌机 X 20 周年版国行版上架：升级 7.4 英寸 OLED 屏，9999 元起",
+      "link": "https://www.ithome.com/1/007/106.htm",
+      "pubDate": "Fri, 25 Sep 2026 03:39:03 GMT",
+      "contentSnippet": "IT之家 9 月 25 日消息，华硕 ROG XBOX 掌机 X 20 周年版国行版现已上架电商平台，将于 10 月 15 日开售，售价 9999 元起：\n\n20 周年版：9999 元\n\n20 周年版套装：18999 元\n\n\n相比 20 周年版，20 周年版套装增加了 ROG XREAL R1 AR 游戏眼镜 20 周年版、dbrand Killswitch 保护套件（带支架保护壳、旅行防护盖、ROG 定制摇杆防滑帽、专属贴膜）、定制派力肯防护箱（箱体镌刻 ROG 20 周年限定徽章与 ROG 红锁扣）。\n\n该掌机采用 ROG 20 周年限定设计，半透机身搭配黑金装饰元素，机身带有专属 20",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "华硕ROG XBOX掌机X 20周年版国行上架，升级7.4英寸OLED屏，9999元起售。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息含具体价格、配置、发售日期，来源明确，但缺少官方引用链接。"
+    },
+    {
+      "title": "Muse 爆火提振 Meta 股价，扎克伯格超戴尔跃升《福布斯》全球第四大富豪",
+      "link": "https://www.ithome.com/1/007/105.htm",
+      "pubDate": "Fri, 25 Sep 2026 03:34:57 GMT",
+      "contentSnippet": "IT之家 9 月 25 日消息，据《福布斯》报道，随着 Meta 股价上涨，Meta 首席执行官马克 · 扎克伯格的个人财富超过戴尔科技董事长兼首席执行官迈克尔 · 戴尔，跃升为全球第四大富豪。\nIT之家发稿前查询 Meta 公司股价，当地时间 9 月 24 日收盘价格为 777.59 美元（IT之家注：现汇率约合 5,223 元人民币），股价上涨 4.5%，公司市值为 1.98 万亿美元（现汇率约合 13.3 万亿元人民币）。扎克伯格的净资产估计达到 2,664 亿美元（现汇率约合 1.79 万亿元人民币）（约合人民币 1.79 万亿元）。\n\n在《福布斯》全球亿万富翁榜单中，排在扎克伯格前面",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "Meta股价上涨4.5%，扎克伯格净资产达2664亿美元，跃升全球第四大富豪。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，引用福布斯报道，含具体股价、市值和净资产数据，但标题'Muse爆火'与正文关联不足。"
+    },
+    {
+      "title": "123 云盘新增专业空间：原空间更名为标准空间，老用户免费配额为 50GB + 2TB",
+      "link": "https://www.ithome.com/1/007/104.htm",
+      "pubDate": "Fri, 25 Sep 2026 03:28:25 GMT",
+      "contentSnippet": "IT之家 9 月 25 日消息，123 云盘官方于 9 月 24 日发布公告，宣布将原空间更名为“标准空间”，并新增“专业空间”。\n\n专业空间重复：相同专业文件每份均独立计算容量。\n\n标准空间重复：相同文件仅计一份容量。\n\n\n专业空间为多副本分布式对象存储空间，官方称更安全、更高速。它用于存放用户独自存储的文件，如商用素材、监控、录播等。大于 10GB 的超大文件、分卷压缩文件组，以及直链、图床、视频转码服务产生的文件，也计入专业空间。其中，多副本分布式对象存储指同一数据在多个存储节点保存多份副本，以提升可靠性与访问速度。\n标准空间为网络云存储空间，沿用重复文件与回收站文件不计容量机制。它用于",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "123云盘新增专业空间，原空间更名标准空间，老用户免费配额50GB+2TB。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道引用官方公告，技术细节具体，但缺少官方链接。"
+    },
+    {
+      "title": "西渝高铁西安至安康段 9 月 28 日开通运营：设计时速 350 公里，最快 45 分钟可达",
+      "link": "https://www.ithome.com/1/007/103.htm",
+      "pubDate": "Fri, 25 Sep 2026 03:12:25 GMT",
+      "contentSnippet": "IT之家 9 月 25 日消息，据央视新闻从国铁集团获悉，西渝高铁西安至安康段将于 9 月 28 日开通运营，西安东站至安康西站最快 45 分钟可达。\n西渝高铁起自西安东站，经商洛、安康、达州、广安等地，接入重庆西站，分西安至安康、安康至重庆两段建设。目前，安康至重庆段在建，此次开通的西安至安康段起自西安东站，途经陕西省西安市、商洛市、安康市，接入安康西站，线路全长 171 公里，设计时速 350 公里，全线共设西安东、牛背梁、柞水西、镇安西、安康西 5 座车站。\n\nIT之家获悉，西渝高铁西康段建成通车后，最高运营时速 350 公里。开通运营初期，铁路部门每日安排开行动车组列车最高达 20 列",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "西渝高铁西安至安康段9月28日开通，全长171公里，时速350公里，最快45分钟可达。",
+      "credibilityScore": 92,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家引央视新闻及国铁集团，信息含具体线路、里程、时速、车站等数据，权威且详实。"
+    },
+    {
+      "title": "新一代梅赛德斯-迈巴赫 S 级轿车上市：搭载高阶智能辅助驾驶系统，139.8 万元起",
+      "link": "https://www.ithome.com/1/007/102.htm",
+      "pubDate": "Fri, 25 Sep 2026 03:02:39 GMT",
+      "contentSnippet": "IT之家 9 月 25 日消息，新一代梅赛德斯-迈巴赫 S 级轿车上市，售价 139.8 万元起：\n\nS 680：335.3 万元\n\nS 580 极夜御型版：269.9 万元\n\nS 580：252.7 万元\n\nS 480：139.8 万元\n\n\n\n新车首度搭载梅赛德斯-奔驰 MB.OS 架构及最新一代智能人机交互系统，应用端侧多模态 VLM 大模型，搭载高阶智能辅助驾驶系统，未来还将通过 OTA 远程升级，成为率先搭载 Momenta R7 世界模型的豪华燃油车。\n\nIT之家获悉，新车采用了更具辨识度的设计语言，格栅轮廓、格栅框架中的“MAYBACH”字样与引擎盖上的三叉星徽立标首次实现点亮效果",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "新一代梅赛德斯-迈巴赫S级上市，139.8万元起，搭载MB.OS架构及高阶智驾系统。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息含具体车型售价、技术细节及出处，但部分技术表述需进一步核实。"
+    },
+    {
+      "title": "DeepSeek Harness 官方桌面版预览偷跑",
+      "link": "https://www.ithome.com/1/007/099.htm",
+      "pubDate": "Fri, 25 Sep 2026 02:51:02 GMT",
+      "contentSnippet": "IT之家 9 月 25 日消息，DeepSeek Harness 悄然上线官方桌面版，目前还是开发者预览版，版本号为 V0.1.7-rc.2。\nDeepSeek Harness 此前以 WebUI 方式呈现，本次推出的桌面版无需安装 Node.js、不用开终端、不用手动跑 npx@deepseek-ai / dsh，目前支持 Windowsx64、macOS Apple Silicon (M 系列)。\n当前版本仍属于开发者预览版，功能稳定性和兼容性可能存在一定限制。建议用户在体验新功能的同时，注意保存重要数据，并关注后续正式版本的发布信息。\nIT之家附上相关截图如下：\n\n\n\n\n\n\n\n\n\n\nDe",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "DeepSeek Harness 推出官方桌面预览版，支持 Windows 和 macOS。",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium-high",
+      "credibilityReason": "来源为知名科技媒体IT之家，含版本号等具体细节，但缺少官方出处和功能数据支撑。"
+    },
+    {
+      "title": "鸿蒙智行问界新 M8 内饰揭晓，新增「沙砾棕」与「澜月白」配色",
+      "link": "https://www.ithome.com/1/007/098.htm",
+      "pubDate": "Fri, 25 Sep 2026 02:49:34 GMT",
+      "contentSnippet": "IT之家 9 月 25 日消息，鸿蒙智行问界汽车官方刚刚正式公开了新 M8 旗舰 SUV 的内饰外观，新车带来了「天幕青」和「苍戎绿」两款全新车色，以及全新的「沙砾棕」与「澜月白」内饰颜色。\n\n据介绍，新车座椅采用经典菱格纹，彰显豪华格调。此外，新车还对中控台区域的一些细节进行了全新设计，虽然依然搭载一体式联屏，但对边框进行了重新设计，变得更加平直简洁，中控屏下方的空调出风口造型也有所变化。\n\n后排方面，新车依然提供五座和六座两种座椅布局，六座车型第二排为双零重力座椅，腿拖、按摩等功能一应俱全。\n\n这款新车已通过工信部申报，其车身尺寸 5190×1999×1795mm，轴距 3105mm。轮胎",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "鸿蒙智行问界新M8内饰配色公布，新增沙砾棕与澜月白，尺寸已申报。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息含具体配色、尺寸及工信部申报数据，来源可靠。"
+    },
+    {
+      "title": "prompt工程师，一个新兴职业的崛起与消失",
+      "link": "https://www.tmtpost.com/8152516.html",
+      "pubDate": "Fri, 25 Sep 2026 10:45:00 +0800",
+      "contentSnippet": "当机器越来越理解人，人就越来越少需要先学会机器喜欢的说话方式。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体探讨prompt工程师职业的兴起与可能消失，观点性较强。",
+      "credibilityScore": 68,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体，但内容偏观点评论，缺乏具体数据与原始出处支撑。"
+    },
+    {
+      "title": "加码半导体扩产节奏，消息称 SK 海力士、三星敲定全南-光州芯片项目规划",
+      "link": "https://www.ithome.com/1/007/097.htm",
+      "pubDate": "Fri, 25 Sep 2026 02:44:23 GMT",
+      "contentSnippet": "IT之家 9 月 25 日消息，今日，韩国全南光州统合特别市公开了与 SK 海力士、三星电子就湖南地方（韩国对全罗北道、全罗南道和光州广域市三地的合称）半导体集群企业协商的相关资料。\n韩国联合新闻报道称，参与该集群的两家企业分别强调了大规模用地保障与加快投资落地的必要性，相关投资构想正逐步细化。\n资料显示，SK 海力士明确表达了在光州军用机场地块上尽可能争取更大规模生产用地的意向。全南光州统合特别市在投资计划公布后立即与 SK 海力士建立了专门沟通渠道，自 2026 年 7 月至 9 月共开展了 9 次经营层与实务层协商，期间确认了该公司积极的投资意愿及对大面积用地的需求。\n报道称，SK 海力",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "SK海力士与三星敲定韩国全南-光州半导体集群投资规划，加速扩产。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家援引韩联社，含具体协商次数与时间，信息较详实，但缺官方直接确认。"
+    },
+    {
+      "title": "铃木汽车计划到 2030 年将新车研发周期缩短一半，研发效率提升 30%",
+      "link": "https://www.ithome.com/1/007/096.htm",
+      "pubDate": "Fri, 25 Sep 2026 02:39:25 GMT",
+      "contentSnippet": "IT之家 9 月 25 日消息，据路透社报道，日本汽车制造商铃木汽车周五（9 月 25 日）表示，公司计划以 2020 财年为基准，在 2030 年左右将新车型的研发周期减半，同时全面提升研发与生产效率。\n铃木在一份声明中表示，公司计划到 2030 年实现研发效率提升 30%、生产效率提升 50%。同时，该汽车制造商计划在 2030 财年或之后，将其在印度的年产能扩充至 400 万至 499 万辆。\n\n延伸阅读\n铃木汽车是日本汽车制造商，其在印度的业务主要由子公司马鲁蒂铃木（Maruti Suzuki）负责运营，印度也是铃木全球最大的单一市场。马鲁蒂铃木长期占据印度乘用车市场约 40% 的份额",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "铃木汽车计划2030年将新车研发周期减半，研发效率提升30%，并扩大印度产能。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家引述路透社报道，有具体目标数据和官方声明，来源可靠，信息详实。"
+    },
+    {
+      "title": "豆包边缘化豆包",
+      "link": "https://www.tmtpost.com/8152161.html",
+      "pubDate": "Fri, 25 Sep 2026 10:38:00 +0800",
+      "contentSnippet": "豆包正在变得越来越大。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体报道豆包产品规模持续扩大，但标题暗示其内部边缘化问题",
+      "credibilityScore": 62,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体钛媒体，但正文摘要仅一句话，信息严重不足，标题存在歧义，缺乏具体数据和细节支撑"
     }
   ]
 }
