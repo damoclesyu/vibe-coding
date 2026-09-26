@@ -1,14 +1,31 @@
 {
-  "generatedAt": "2026-09-25T04:11:35.225Z",
+  "generatedAt": "2026-09-26T04:16:07.764Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "中国海警开展全面执法巡查，记者首登黄岩岛核心水域",
-      "link": "https://m.thepaper.cn/detail/34148723",
-      "pubDate": "Fri, 25 Sep 2026 03:55:23 GMT",
-      "contentSnippet": "日前，由中国海警万山舰、川山舰等多艘舰艇组成的编队，在黄岩岛国家级自然保护区开展执法巡查行动。总台记者首登黄岩岛核心水域，独家拍摄。\n海警万山舰执法员黄明海：各舰加强对海观察瞭望。\n总台央视记者武兵：我现在是在黄岩岛国家级自然保护区内的潟湖这个位置，潟湖就是黄岩岛的外圈礁石自然围成的一片水域，这里也是黄岩岛的核心水域。现在执法小艇正在对附近海域船舶活动进行巡查，同时对破坏珊瑚礁及珍稀物种栖息地的违法行为进行依法查处。此外，执法员们还将观察珊瑚生长状况，为相关部门提供生态环境基础数据。\n海警万山舰执法员陈晨：我们此次将对采挖珊瑚礁、未经批准进入保护区等行为依法查处。\n下一步，中国海警将坚决维护国",
+      "title": "东西问｜白宫欢迎宴上提到的红杉：一棵国礼树，半世中美情",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-26/10704034.shtml",
+      "pubDate": "Sat, 26 Sep 2026 11:51:19 +0800",
+      "contentSnippet": "中新社杭州9月26日电 题：白宫欢迎宴上提到的红杉：一棵国礼树，半世中美情",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中新社报道白宫欢迎宴提及中美红杉国礼树，回顾两国交往历史。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新社，属权威通讯社，内容具体，有明确时间地点，用词客观中性。"
+    },
+    {
+      "title": "比尔·盖茨呼吁立法监管AI工具：“足够强大可能导致十亿人死亡”",
+      "link": "https://m.thepaper.cn/detail/34154543",
+      "pubDate": "Sat, 26 Sep 2026 03:26:44 GMT",
+      "contentSnippet": "微软公司联合创始人比尔·盖茨25日警告称，人工智能是一种“足够强大”的工具，“足以引发导致十亿人死亡的事件”。\n盖茨在NBC《与媒体见面》节目的采访片段中表示，“从未有过任何一种武器，能比得上怀有恶意的人借助最新AI工具所形成的威胁。”该节目将于27日正式播出。\n随着人工智能技术的飞速发展，硅谷对AI可能带来的灾难性危害的警告也日益增多。本月初，Anthropic员工雅各布·考克森宣布辞职，并指责其两家前雇主Anthropic和 OpenAI“竞相开发超级人工智能”，是在“拿我们的生命冒险”。另一位Anthropic的员工表示，他认为人工智能在未来十年内消灭所有人类的可能性超过10%。\n这些言",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -16,16 +33,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国海警在黄岩岛国家级自然保护区开展执法巡查，央视记者首次进入核心水域拍摄。",
+      "aiSummary": "比尔·盖茨警告AI工具强大到可能引发致十亿人死亡的事件，呼吁立法监管。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为澎湃新闻转载央视报道，有具体舰艇名称、执法员和记者直接引述，内容具体可查证，但属官方单方面报道，缺乏独立交叉验证。"
+      "credibilityReason": "澎湃新闻为较权威媒体，引述NBC节目具体信息，有直接引语，内容可查证。"
     },
     {
-      "title": "韩正会见保加利亚总统约托娃",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-25/10703611.shtml",
-      "pubDate": "Fri, 25 Sep 2026 11:28:31 +0800",
-      "contentSnippet": "新华社纽约9月24日电(记者刘亚南 徐静)当地时间2026年9月24日，国家副主席韩正在纽约出席联合国大会期间会见保加利亚总统约托娃。",
+      "title": "在美侨胞：中美关系稳定发展为世界增添确定性",
+      "link": "https://www.chinanews.com.cn/hr/2026/09-26/10704020.shtml",
+      "pubDate": "Sat, 26 Sep 2026 11:11:29 +0800",
+      "contentSnippet": "中新社北京9月26日电 (记者 门睿)应美国总统特朗普邀请，中国国家主席习近平于9月23日至25日对美国进行国事访问。多位在美国侨胞接受中新社连线采访时表示，此访进一步丰富两国关系定位的内涵，为两国关系发展注入积极因素，有助于增进两国人民福祉，促进世界和平与发展。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -33,120 +50,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "韩正在纽约出席联合国大会期间会见保加利亚总统约托娃。",
-      "credibilityScore": 92,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新社转载新华社通稿，含具体时间地点人物及署名记者，属权威官方报道。"
-    },
-    {
-      "title": "韩正会见塞尔维亚总统武契奇",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-25/10703612.shtml",
-      "pubDate": "Fri, 25 Sep 2026 11:28:15 +0800",
-      "contentSnippet": "新华社纽约9月24日电(记者尚绪谦 高山)当地时间2026年9月24日，国家副主席韩正在纽约出席联合国大会期间会见塞尔维亚总统武契奇。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "韩正在纽约出席联合国大会期间会见塞尔维亚总统武契奇。",
-      "credibilityScore": 95,
-      "credibilityLevel": "high",
-      "credibilityReason": "新华社原稿，中国新闻网转载，时间地点人物明确，属官方权威发布。"
-    },
-    {
-      "title": "美国民众：美中元首会晤有助于世界和平",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-25/10703609.shtml",
-      "pubDate": "Fri, 25 Sep 2026 11:26:23 +0800",
-      "contentSnippet": "中新社华盛顿9月24日电 (记者 沙晗汀 廖攀)当地时间9月24日上午，中国国家主席习近平同美国总统特朗普在白宫举行会谈。当天，众多中外人士聚集在白宫周边，见证这一历史时刻。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "美中元首在白宫举行会谈，民众称会晤有助于世界和平。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "中国新闻网为权威媒体，有署名记者及具体时间地点，但内容简短，缺乏直接引述。"
-    },
-    {
-      "title": "习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴",
-      "link": "http://www.chinanews.com.cn/tp/hd2011/2026/09-25/1205825.shtml",
-      "pubDate": "Fri, 25 Sep 2026 11:20:25 +0800",
-      "contentSnippet": "",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网",
-        "澎湃新闻",
-        "央视新闻"
-      ],
-      "coverageCount": 3,
-      "coverageBoost": 10,
-      "aiSummary": "习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴。",
-      "credibilityScore": 100,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为央视、中新网等权威官媒，多源交叉验证，内容具体可查证。（多源覆盖 +10）"
-    },
-    {
-      "title": "习近平：实现中华民族伟大复兴和让美国再次伟大并行不悖",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-25/10703585.shtml",
-      "pubDate": "Fri, 25 Sep 2026 10:37:30 +0800",
-      "contentSnippet": "当地时间9月24日上午，美国总统特朗普在白宫举行隆重仪式，欢迎中国国家主席习近平对美国进行国事访问。习近平在欢迎仪式上发表致辞，他说——",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "习近平在华盛顿表示，中华民族伟大复兴与让美国再次伟大可并行不悖。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "中国新闻网为权威媒体，内容具体含时间地点人物，引述直接，但需其他来源交叉验证。"
-    },
-    {
-      "title": "大外交·现场｜访美第二日：从“五军仪仗队”到国宴的历史细节",
-      "link": "https://m.thepaper.cn/detail/34148411",
-      "pubDate": "Fri, 25 Sep 2026 02:37:08 GMT",
-      "contentSnippet": "据新华社报道，当地时间9月24日上午，美国总统特朗普在白宫举行隆重仪式，热烈欢迎中国国家主席习近平对美国进行国事访问。\n\n隐形战机低空掠过、玫瑰园鼓号齐鸣、顶尖科技巨头齐聚国宴……美方以近年来罕见的高规格礼遇迎接中国领导人的到访。中美元首不仅围绕贸易、国家安全、人工智能等重大战略议题展开深层沟通，更通过互赠礼物、续写“大熊猫外交”，以及致敬历史的白宫国宴，向外界释放出推动中美关系这艘大船行稳致远的积极信号。\n有报道称，中美双方工作团队此前数周就接待日程与形式细节进行了深入沟通与周密对接，充分体现了两国对外交礼仪规范的恪守以及相互尊重的积极态度。一位白宫高级官员表示，华盛顿希望保持积极的交流氛围",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "澎湃新闻综合新华社报道，详述习近平访美第二日美方高规格接待及中美元首战略沟通。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为知名媒体，引述新华社及白宫官员，信息具体，但部分细节待官方确认。"
-    },
-    {
-      "title": "联大发言遭多国代表离场抗议，内塔尼亚胡急了：懦夫！",
-      "link": "https://m.thepaper.cn/detail/34148350",
-      "pubDate": "Fri, 25 Sep 2026 01:50:22 GMT",
-      "contentSnippet": "9月24日，以总理内塔尼亚胡在第81届联合国大会发表演讲。内塔尼亚胡刚一出场，现场多国代表纷纷离场以示抗议。内塔尼亚胡在讲话中将离场的各国代表称为“道德懦夫”。",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "内塔尼亚胡联大演讲遭多国代表离场抗议，其称离场者为“道德懦夫”。",
+      "aiSummary": "在美侨胞称习近平访美丰富中美关系定位，为世界增添确定性。",
       "credibilityScore": 78,
-      "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为知名媒体，事件具体可查证，但缺少直接引述和多方交叉验证。"
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为中新社较权威，但内容以侨胞表态为主，缺乏具体细节与独立交叉验证。"
     },
     {
-      "title": "澎湃读报丨主要央媒头版聚焦“中美元首华盛顿会晤”",
-      "link": "https://m.thepaper.cn/detail/34147905",
-      "pubDate": "Fri, 25 Sep 2026 01:34:50 GMT",
-      "contentSnippet": "【编者按】\n当地时间9月24日，习近平主席访美最重磅的一系列国事活动在白宫举行。中美元首在又一轮历史性互动中，就关乎两国关系和世界局势的重大问题深入交流。\n高规格礼遇，在24日白宫举行的一系列国事活动中贯穿始终，为这场“跨越太平洋的握手”留下生动注脚。9月25日出版的《人民日报》《新华每日电讯》《解放军报》《光明日报》《经济日报》等央媒在头版、二版等重要版面聚焦中美元首华盛顿会晤。\n人民日报\n\n新华每日电讯\n\n解放军报\n\n光明日报\n\n经济日报",
+      "title": "美媒：元首会晤显示美中关系趋稳",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-26/10704018.shtml",
+      "pubDate": "Sat, 26 Sep 2026 10:42:47 +0800",
+      "contentSnippet": "中新社华盛顿9月25日电 当地时间9月25日下午，中国国家主席习近平结束对美国的国事访问，启程返回北京。美国媒体普遍报道了此访美方对习近平主席的高规格礼遇，并称元首会晤显示两国关系趋稳。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "美媒报道习近平结束访美，称元首会晤显示美中关系趋稳。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "中新社为权威通讯社，信息具体，引述美媒报道，但缺乏多源交叉验证。"
+    },
+    {
+      "title": "“核”已至此：当我们谈论核威胁时，我们在谈论什么",
+      "link": "https://m.thepaper.cn/detail/34073842",
+      "pubDate": "Sat, 26 Sep 2026 02:35:10 GMT",
+      "contentSnippet": "伊朗的第一座核反应堆是在美国的援助下建造的。\n1953年12月，美国总统艾森豪威尔在联合国大会发表了著名的演讲《原子为和平》。此前一年，美国刚引爆世界上第一枚氢弹，演讲前四个月，苏联完成跟进测试，彼时斯大林新逝，莫斯科权力交接未定，盟友英国也已掌握核技术。艾森豪威尔此时提出向有意发展民用核能的国家提供核技术与教育，既是理想主义的倡议，也是冷战时的外交棋子。（尽管如此，艾森豪威尔任内美国的核武器储备仍从约一千枚攀升至近两万枚。）这次演讲直接推动了1957年国际原子能机构（IAEA）的成立，承担推动核能和平利用与监管各国核设施两项职能。借由“原子和平”计划，美国先后向30余国提供了总计约26吨高浓",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -154,50 +84,50 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "澎湃新闻汇总央媒头版报道中美元首华盛顿会晤，内容多为标题罗列。",
+      "aiSummary": "澎湃新闻回顾核威胁历史，从艾森豪威尔原子和平演讲到伊朗核反应堆起源。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "澎湃新闻为知名媒体，内容含具体历史事实与数据，但属背景分析而非一手报道。"
+    },
+    {
+      "title": "习言道｜在白宫，习近平提到了一棵树和一片林",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-26/10704008.shtml",
+      "pubDate": "Sat, 26 Sep 2026 10:18:42 +0800",
+      "contentSnippet": "中新网9月26日电 题：在白宫，习近平提到了一棵树和一片林",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中新网报道习近平在白宫讲话中提及一棵树和一片林。",
       "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为澎湃新闻，引用央媒头版，但正文仅标题罗列，缺乏具体细节与直接引述。"
+      "credibilityReason": "来源为中新网较权威，但正文摘要极简，缺乏具体引述和细节，无法充分核实。"
     },
     {
-      "title": "小浪花逛世赛丨学技能有未来，这场大赛释放的信号或许藏着未来行业的方向",
-      "link": "https://m.thepaper.cn/detail/34142209",
-      "pubDate": "Fri, 25 Sep 2026 00:08:16 GMT",
-      "contentSnippet": "中国是全世界唯一拥有联合国产业分类中全部工业门类的国家。9月24日，澎湃新闻记者在第四十八届世界技能大赛开赛期间，与上海市教育科学研究院职业技术教育研究所所长张晨探讨了关于职业教育的话题。关注大赛，帮年轻人校准方向、看清未来。",
-      "sourceName": "澎湃新闻",
+      "title": "访浙江杭州“友谊之树”：半世红杉见证中美情谊",
+      "link": "https://www.chinanews.com.cn/tp/2026/09-26/10703997.shtml",
+      "pubDate": "Sat, 26 Sep 2026 09:37:53 +0800",
+      "contentSnippet": "9月25日，杭州植物园内，尼克松赠送的北美红杉树干粗壮，近年来，杭州植物园引入科技装备监测该杉树的水肥等参数，保障其生长。中新社记者 王刚 摄\r\n\n9月25日，杭州植物园内，尼克松赠送的北美红杉绿叶不断生长。中新社记者 王刚 摄\r\n\n9月25日，市民在杭州植物园观看尼克松赠送的北美红杉。中新社记者 王刚 摄\r\n\n9月25日，市民带孩子前往杭州植物园参观尼克松赠送的北美红杉，并为其讲述背后的中美外交历史。中新社记者 王刚 摄\r\n\n9月25日，市民带孩子前往杭州植物园参观尼克松赠送的北美红杉，并为其讲述背后的中美外交历史。中新社记者 王刚 摄\r\n\n9月25日，曾在浙江省外事办公室接待组工作的陆和森",
+      "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
-        "澎湃新闻"
+        "中国新闻网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "澎湃新闻在世赛期间采访专家，探讨职业教育与技能人才未来方向。",
-      "credibilityScore": 78,
+      "aiSummary": "中新社报道杭州植物园内尼克松赠送的北美红杉，市民参观并了解中美外交历史。",
+      "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为知名媒体，有具体时间地点及专家实名引述，内容客观，但属专题报道非硬新闻。"
+      "credibilityReason": "来源为中新社，属权威通讯社；内容具体，有明确时间地点人物，配图署名，事实可查证。"
     },
     {
-      "title": "大国外交进行时丨特朗普：这是一次“伟大的会晤”",
-      "link": "https://m.thepaper.cn/detail/34147964",
-      "pubDate": "Fri, 25 Sep 2026 00:03:44 GMT",
-      "contentSnippet": "当地时间9月24日中午，中美元首会谈结束。特朗普总统将习近平主席送至上车处道别，称赞这是一次“伟大的会晤”。",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中美元首9月24日会谈结束，特朗普称这是一次“伟大的会晤”。",
-      "credibilityScore": 78,
-      "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为知名媒体，引述特朗普直接表态，时间地点具体，但缺少其他来源交叉验证。"
-    },
-    {
-      "title": "视频丨习近平同美国总统特朗普会谈",
-      "link": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=9392405670948536073&t=1790282859679&toc_style_id=feeds_default&track_id=7CBBAB00-667C-4167-B237-F4810A8297AE_811977194843&share_to=copy_url",
-      "pubDate": "Thu, 24 Sep 2026 23:49:47 GMT",
-      "contentSnippet": "视频丨习近平同美国总统特朗普会谈",
+      "title": "视频丨习近平圆满结束对美国的国事访问",
+      "link": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=4748487403424374886&toc_style_id=feeds_default&track_id=35CE4844-6E64-433E-B1C5-1461C1507BCB_812048390689&share_to=copy_url",
+      "pubDate": "Sat, 26 Sep 2026 00:36:31 GMT",
+      "contentSnippet": "视频丨习近平圆满结束对美国的国事访问",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -206,15 +136,32 @@
       ],
       "coverageCount": 2,
       "coverageBoost": 5,
-      "aiSummary": "央视新闻与澎湃新闻报道习近平同美国总统特朗普举行会谈。",
-      "credibilityScore": 97,
+      "aiSummary": "央视新闻与澎湃新闻报道习近平圆满结束对美国的国事访问。",
+      "credibilityScore": 100,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为央视新闻等权威官媒，内容为元首会谈，信息可交叉验证。（多源覆盖 +5）"
+      "credibilityReason": "来源为央视新闻等权威官方媒体，内容为外交活动事实性报道，可信度高。（多源覆盖 +5）"
     },
     {
-      "title": "独家视频 | 习近平在白宫欢迎仪式上发表致辞",
-      "link": "http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E7%8B%AC%E5%AE%B6%E8%A7%86%E9%A2%91%20%7C%20%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E7%99%BD%E5%AE%AB%E6%AC%A2%E8%BF%8E%E4%BB%AA%E5%BC%8F%E4%B8%8A%E5%8F%91%E8%A1%A8%E8%87%B4%E8%BE%9E",
-      "pubDate": "Thu, 24 Sep 2026 23:45:00 +0800",
+      "title": "澎湃读报丨主要央媒头版继续聚焦“中美元首华盛顿会晤”",
+      "link": "https://m.thepaper.cn/detail/34152938",
+      "pubDate": "Sat, 26 Sep 2026 00:28:16 GMT",
+      "contentSnippet": "9月23日至25日，习近平主席应美国总统特朗普邀请对美国进行国事访问。这是一次传承友谊之旅、拓展合作之旅、增进两国人民福祉之旅。两国元首就关乎两国关系和世界局势的重大问题坦诚深入交流，达成很多新的共识，丰富了中美建设性战略稳定关系的内涵，为中美关系提供了新的战略指引。国际社会普遍认为中美元首华盛顿会晤“向世界释放了确定性信号”，不仅有利于增进两国人民福祉，更为世界和平发展增添了希望。\n9月26日出版的《人民日报》《新华每日电讯》《解放军报》《光明日报》《经济日报》等央媒在头版、二版等重要版面聚焦中美元首会晤。\n人民日报\n\n\n新华每日电讯\n\n\n解放军报\n\n\n光明日报\n\n\n经济日报",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "澎湃新闻汇总央媒头版报道中美元首华盛顿会晤，称会晤释放确定性信号。",
+      "credibilityScore": 78,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为澎湃新闻，引述央媒头版，内容具体，但属官方媒体转述，缺乏独立核实。"
+    },
+    {
+      "title": "习近平和彭丽媛同美国总统特朗普夫妇茶叙",
+      "link": "http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%92%8C%E5%BD%AD%E4%B8%BD%E5%AA%9B%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%AB%E5%A6%87%E8%8C%B6%E5%8F%99",
+      "pubDate": "Sat, 26 Sep 2026 01:05:00 +0800",
       "contentSnippet": "",
       "sourceName": "央视新闻",
       "sourceWeight": 80,
@@ -223,33 +170,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "央视新闻报道习近平在白宫欢迎仪式上发表致辞。",
+      "aiSummary": "央视新闻报道习近平和彭丽媛同美国总统特朗普夫妇茶叙。",
       "credibilityScore": 95,
       "credibilityLevel": "high",
-      "credibilityReason": "央视新闻为权威官方媒体，来源可靠，内容具体，可信度高。"
+      "credibilityReason": "央视新闻为权威官方媒体，报道元首外交活动，来源可靠，内容具体。"
     },
     {
-      "title": "直播丨真有两把刷子！直击世赛第三日：方寸之间作画，毫厘之间“贴”出真功夫",
-      "link": "https://m.thepaper.cn/detail/34148834",
-      "pubDate": "Fri, 25 Sep 2026 04:00:12 GMT",
-      "contentSnippet": "9月25日，第48届世界技能大赛进入第三日。澎湃新闻记者锁定2.1馆，看两场指尖技艺对决高能来袭！油漆与装饰项目，选手在方寸之间挥笔作画，色彩、线条、精度一个都不能少，拼创意，更拼耐心；瓷砖贴面项目同步开赛，平整度、缝隙精准度，毫厘之间见真章。谁的手上功夫更能打？锁定直播，直击匠心对决！",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
+      "title": "中美同意共同构建“基于尊重、公平、对等的建设性战略稳定关系”",
+      "link": "http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E5%85%B1%E5%90%8C%E6%9E%84%E5%BB%BA%E2%80%9C%E5%9F%BA%E4%BA%8E%E5%B0%8A%E9%87%8D%E3%80%81%E5%85%AC%E5%B9%B3%E3%80%81%E5%AF%B9%E7%AD%89%E7%9A%84%E5%BB%BA%E8%AE%BE%E6%80%A7%E6%88%98%E7%95%A5%E7%A8%B3%E5%AE%9A%E5%85%B3%E7%B3%BB%E2%80%9D",
+      "pubDate": "Sat, 26 Sep 2026 00:35:00 +0800",
+      "contentSnippet": "",
+      "sourceName": "央视新闻",
+      "sourceWeight": 80,
       "allSources": [
-        "澎湃新闻"
+        "央视新闻"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "澎湃新闻直播第48届世界技能大赛第三日油漆装饰与瓷砖贴面项目比赛。",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "澎湃新闻为知名媒体，内容具体含时间地点项目，但属直播预告，缺少直接引述和独立核实。"
+      "aiSummary": "央视报道中美同意构建基于尊重、公平、对等的建设性战略稳定关系。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为央视新闻权威官方媒体，内容涉及外交表述，用词客观，但缺少具体细节和直接引述。"
     },
     {
-      "title": "台胞在闽北田间“以虫治虫”：把论文翻译成田埂上的语言",
-      "link": "https://www.chinanews.com.cn/sh/2026/09-25/10703629.shtml",
-      "pubDate": "Fri, 25 Sep 2026 11:59:09 +0800",
-      "contentSnippet": "中新社福建南平9月25日电 题：台胞在闽北田间“以虫治虫”：把论文翻译成田埂上的语言",
+      "title": "（爱知·名古屋亚运会）丰配友摘田径男子马拉松铜牌",
+      "link": "http://www.chinanews.com.cn/tp/hd2011/2026/09-26/1205978.shtml",
+      "pubDate": "Sat, 26 Sep 2026 12:11:55 +0800",
+      "contentSnippet": "",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -257,10 +204,61 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中新社报道台胞在福建南平推广以虫治虫农业技术。",
+      "aiSummary": "中国选手丰配友在爱知名古屋亚运会男子马拉松比赛中获得铜牌。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中新社，属权威通讯社，内容具体，有明确时间地点，但摘要信息有限。"
+      "credibilityReason": "中国新闻网为权威媒体，信息具体（赛事、项目、成绩），但正文摘要缺失，无法交叉验证细节。"
+    },
+    {
+      "title": "中秋档电影总票房破亿！超20部影片集中上新",
+      "link": "https://www.chinanews.com.cn/cul/2026/09-26/10704041.shtml",
+      "pubDate": "Sat, 26 Sep 2026 12:08:37 +0800",
+      "contentSnippet": "据网络平台数据",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国新闻网报道2026年中秋档电影总票房破亿，超20部影片集中上映。",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为中新网较权威，但正文仅引网络平台数据，无具体平台名称及直接引述，细节有限。"
+    },
+    {
+      "title": "纪念长征胜利90周年主题展览9月25日向公众开放",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-26/10704037.shtml",
+      "pubDate": "Sat, 26 Sep 2026 11:47:21 +0800",
+      "contentSnippet": "央视网消息(新闻联播)：9月25日，“伟大的远征——纪念中国工农红军长征胜利90周年主题展览”在中国人民革命军事博物馆正式对公众开放。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "纪念长征胜利90周年主题展览9月25日在军事博物馆向公众开放。",
+      "credibilityScore": 92,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网转载央视新闻联播，属权威官方媒体，时间地点明确，内容可查证。"
+    },
+    {
+      "title": "东西问｜张中华：琉璃河遗址怎样讲述北京考古故事？",
+      "link": "https://www.chinanews.com.cn/dxw/2026/09-26/10704033.shtml",
+      "pubDate": "Sat, 26 Sep 2026 11:47:17 +0800",
+      "contentSnippet": "中新社北京9月26日电 题：琉璃河遗址怎样讲述北京考古故事？",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中新社专访张中华，探讨琉璃河遗址对北京考古的意义。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "中国新闻网为权威媒体，有明确专访对象和具体时间，内容为考古学术访谈，可信度较高。"
     }
   ]
 }
