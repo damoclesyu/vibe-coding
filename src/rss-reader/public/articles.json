@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-26T04:16:07.764Z",
+  "generatedAt": "2026-09-27T04:31:51.396Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "东西问｜白宫欢迎宴上提到的红杉：一棵国礼树，半世中美情",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-26/10704034.shtml",
-      "pubDate": "Sat, 26 Sep 2026 11:51:19 +0800",
-      "contentSnippet": "中新社杭州9月26日电 题：白宫欢迎宴上提到的红杉：一棵国礼树，半世中美情",
+      "title": "习近平主席讲述赛考斯与殷玉珍的友谊故事",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-27/10704332.shtml",
+      "pubDate": "Sun, 27 Sep 2026 11:46:30 +0800",
+      "contentSnippet": "新华社华盛顿9月25日电 当地时间24日晚，习近平主席在美国总统特朗普举行的欢迎国宴上重温中美人民友好往来的故事，特别提到一段佳话，“20多年前，一位名叫赛考斯的美国人资助中国治沙人殷玉珍种树。不久前，这位老人回到中国，亲眼看到当年的沙漠已经变成一片郁郁葱葱的森林。”",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -16,16 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中新社报道白宫欢迎宴提及中美红杉国礼树，回顾两国交往历史。",
-      "credibilityScore": 85,
+      "aiSummary": "习近平在美总统国宴上讲述美国人赛考斯资助中国治沙人殷玉珍的友谊故事。",
+      "credibilityScore": 92,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中新社，属权威通讯社，内容具体，有明确时间地点，用词客观中性。"
+      "credibilityReason": "新华社通稿，中国新闻网转载，有具体时间地点人物，内容可交叉验证。"
     },
     {
-      "title": "比尔·盖茨呼吁立法监管AI工具：“足够强大可能导致十亿人死亡”",
-      "link": "https://m.thepaper.cn/detail/34154543",
-      "pubDate": "Sat, 26 Sep 2026 03:26:44 GMT",
-      "contentSnippet": "微软公司联合创始人比尔·盖茨25日警告称，人工智能是一种“足够强大”的工具，“足以引发导致十亿人死亡的事件”。\n盖茨在NBC《与媒体见面》节目的采访片段中表示，“从未有过任何一种武器，能比得上怀有恶意的人借助最新AI工具所形成的威胁。”该节目将于27日正式播出。\n随着人工智能技术的飞速发展，硅谷对AI可能带来的灾难性危害的警告也日益增多。本月初，Anthropic员工雅各布·考克森宣布辞职，并指责其两家前雇主Anthropic和 OpenAI“竞相开发超级人工智能”，是在“拿我们的生命冒险”。另一位Anthropic的员工表示，他认为人工智能在未来十年内消灭所有人类的可能性超过10%。\n这些言",
+      "title": "气候资讯｜9月全球前沿气候科学研究&极端天气气候事件",
+      "link": "https://m.thepaper.cn/detail/34116466",
+      "pubDate": "Sun, 27 Sep 2026 03:31:24 GMT",
+      "contentSnippet": "1. 全球升温或将突破1.5℃\n9月2日，联合国环境规划署 (UNEP) 发布题为《限制气温超标》（Limiting Overshoot）的报告，指出未来数年，全球升温可能突破1.5°C，气候风险和影响将由此上升至危险的新水平；即使在最乐观的情景下，全球气温峰值仍可能达到比工业化前水平高约1.8°C。但限制升温，实现《巴黎协定》确定的全球目标仍有可能。\n\n当地时间2026年9月23日，法国中东部的沙莫尼山谷，阿尔卑斯山勃朗峰地块的博松冰川上出现一处冰洞。\n\n\n全球目前已经经历了约1.4°C的升温，世界各地的社区正面临日益严重的热浪、洪水、干旱和生态系统损失。然而，突破1.5°C并不意味着应该放",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -33,50 +33,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "比尔·盖茨警告AI工具强大到可能引发致十亿人死亡的事件，呼吁立法监管。",
+      "aiSummary": "联合国环境规划署报告指出全球升温或将突破1.5°C，气候风险升至危险新水平。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为较权威媒体，引述NBC节目具体信息，有直接引语，内容可查证。"
+      "credibilityReason": "澎湃新闻为知名媒体，引述UNEP报告及具体数据，内容可查证，但非一线通讯社。"
     },
     {
-      "title": "在美侨胞：中美关系稳定发展为世界增添确定性",
-      "link": "https://www.chinanews.com.cn/hr/2026/09-26/10704020.shtml",
-      "pubDate": "Sat, 26 Sep 2026 11:11:29 +0800",
-      "contentSnippet": "中新社北京9月26日电 (记者 门睿)应美国总统特朗普邀请，中国国家主席习近平于9月23日至25日对美国进行国事访问。多位在美国侨胞接受中新社连线采访时表示，此访进一步丰富两国关系定位的内涵，为两国关系发展注入积极因素，有助于增进两国人民福祉，促进世界和平与发展。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "在美侨胞称习近平访美丰富中美关系定位，为世界增添确定性。",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为中新社较权威，但内容以侨胞表态为主，缺乏具体细节与独立交叉验证。"
-    },
-    {
-      "title": "美媒：元首会晤显示美中关系趋稳",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-26/10704018.shtml",
-      "pubDate": "Sat, 26 Sep 2026 10:42:47 +0800",
-      "contentSnippet": "中新社华盛顿9月25日电 当地时间9月25日下午，中国国家主席习近平结束对美国的国事访问，启程返回北京。美国媒体普遍报道了此访美方对习近平主席的高规格礼遇，并称元首会晤显示两国关系趋稳。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "美媒报道习近平结束访美，称元首会晤显示美中关系趋稳。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "中新社为权威通讯社，信息具体，引述美媒报道，但缺乏多源交叉验证。"
-    },
-    {
-      "title": "“核”已至此：当我们谈论核威胁时，我们在谈论什么",
-      "link": "https://m.thepaper.cn/detail/34073842",
-      "pubDate": "Sat, 26 Sep 2026 02:35:10 GMT",
-      "contentSnippet": "伊朗的第一座核反应堆是在美国的援助下建造的。\n1953年12月，美国总统艾森豪威尔在联合国大会发表了著名的演讲《原子为和平》。此前一年，美国刚引爆世界上第一枚氢弹，演讲前四个月，苏联完成跟进测试，彼时斯大林新逝，莫斯科权力交接未定，盟友英国也已掌握核技术。艾森豪威尔此时提出向有意发展民用核能的国家提供核技术与教育，既是理想主义的倡议，也是冷战时的外交棋子。（尽管如此，艾森豪威尔任内美国的核武器储备仍从约一千枚攀升至近两万枚。）这次演讲直接推动了1957年国际原子能机构（IAEA）的成立，承担推动核能和平利用与监管各国核设施两项职能。借由“原子和平”计划，美国先后向30余国提供了总计约26吨高浓",
+      "title": "视频丨通过碰瓷刷“存在感”？起底菲律宾的南海“碰瓷链”",
+      "link": "https://m.thepaper.cn/detail/34159504",
+      "pubDate": "Sun, 27 Sep 2026 03:20:49 GMT",
+      "contentSnippet": "9月27日，中国人民解放军南部战区位黄岩岛周边海空域组织海空联合演训，这是针对当前个别国家破坏地区和平稳定的必要行动，旨在检验提升部队维护国家领土主权和海洋权益的实战能力。\n\n近段时间，菲律宾在南海方向动作频频：小船前推、小飞机侵闯、无人机参与打击链演练、远程火力加快接入，域外军事力量也被不断拉入。\n\n单个平台看似不起眼，串起来，却是一套不断延伸的“碰瓷链”。",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -84,33 +50,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "澎湃新闻回顾核威胁历史，从艾森豪威尔原子和平演讲到伊朗核反应堆起源。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为知名媒体，内容含具体历史事实与数据，但属背景分析而非一手报道。"
-    },
-    {
-      "title": "习言道｜在白宫，习近平提到了一棵树和一片林",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-26/10704008.shtml",
-      "pubDate": "Sat, 26 Sep 2026 10:18:42 +0800",
-      "contentSnippet": "中新网9月26日电 题：在白宫，习近平提到了一棵树和一片林",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中新网报道习近平在白宫讲话中提及一棵树和一片林。",
+      "aiSummary": "澎湃新闻起底菲律宾在南海通过小型平台和域外力量构建“碰瓷链”，配合解放军黄岩岛演训。",
       "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为中新网较权威，但正文摘要极简，缺乏具体引述和细节，无法充分核实。"
+      "credibilityReason": "来源为澎湃新闻较权威，内容具体但含“碰瓷链”等主观定性用语，缺乏直接引述和独立交叉验证。"
     },
     {
-      "title": "访浙江杭州“友谊之树”：半世红杉见证中美情谊",
-      "link": "https://www.chinanews.com.cn/tp/2026/09-26/10703997.shtml",
-      "pubDate": "Sat, 26 Sep 2026 09:37:53 +0800",
-      "contentSnippet": "9月25日，杭州植物园内，尼克松赠送的北美红杉树干粗壮，近年来，杭州植物园引入科技装备监测该杉树的水肥等参数，保障其生长。中新社记者 王刚 摄\r\n\n9月25日，杭州植物园内，尼克松赠送的北美红杉绿叶不断生长。中新社记者 王刚 摄\r\n\n9月25日，市民在杭州植物园观看尼克松赠送的北美红杉。中新社记者 王刚 摄\r\n\n9月25日，市民带孩子前往杭州植物园参观尼克松赠送的北美红杉，并为其讲述背后的中美外交历史。中新社记者 王刚 摄\r\n\n9月25日，市民带孩子前往杭州植物园参观尼克松赠送的北美红杉，并为其讲述背后的中美外交历史。中新社记者 王刚 摄\r\n\n9月25日，曾在浙江省外事办公室接待组工作的陆和森",
+      "title": "国务院安委办、应急管理部调度抽查5省市中秋假期安全防范暗访检查工作",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-27/10704374.shtml",
+      "pubDate": "Sun, 27 Sep 2026 11:19:52 +0800",
+      "contentSnippet": "中新网9月27日电 据应急管理部微信公众号消息，为做好中秋国庆假期安全防范工作，国务院安委办、国家防减救灾办、应急管理部日前部署各地假期期间分级分行业派出工作组，采取“四不两直”方式，深入重点行业领域、重点场所、重点部位开展暗访检查，推动落实各项安全责任措施。9月26日，国务院安委办副主任、应急管理部副部长宋元明视频抽查北京、辽宁、山东、四川、陕西等5个省(直辖市)暗访检查工作开展情况，推动各地进一步强化安全防范措施，全力保障中秋国庆假期安全稳定。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -118,34 +67,34 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中新社报道杭州植物园内尼克松赠送的北美红杉，市民参观并了解中美外交历史。",
-      "credibilityScore": 88,
+      "aiSummary": "国务院安委办、应急管理部视频抽查5省市中秋假期安全防范暗访检查工作。",
+      "credibilityScore": 92,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中新社，属权威通讯社；内容具体，有明确时间地点人物，配图署名，事实可查证。"
+      "credibilityReason": "来源为中新网引述应急管理部官方消息，含具体时间、人物、措施，属权威发布。"
     },
     {
-      "title": "视频丨习近平圆满结束对美国的国事访问",
-      "link": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=4748487403424374886&toc_style_id=feeds_default&track_id=35CE4844-6E64-433E-B1C5-1461C1507BCB_812048390689&share_to=copy_url",
-      "pubDate": "Sat, 26 Sep 2026 00:36:31 GMT",
-      "contentSnippet": "视频丨习近平圆满结束对美国的国事访问",
-      "sourceName": "澎湃新闻",
+      "title": "黄岩岛附近 中国海警开展维权执法管控演练",
+      "link": "http://www.chinanews.com.cn/mil/shipin/2026/09-27/news1070314.shtml",
+      "pubDate": "Sun, 27 Sep 2026 11:06:22 +0800",
+      "contentSnippet": "",
+      "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
-        "澎湃新闻",
-        "央视新闻"
+        "中国新闻网",
+        "澎湃新闻"
       ],
       "coverageCount": 2,
       "coverageBoost": 5,
-      "aiSummary": "央视新闻与澎湃新闻报道习近平圆满结束对美国的国事访问。",
-      "credibilityScore": 100,
+      "aiSummary": "中国海警在黄岩岛附近开展维权执法管控演练，中新网和澎湃新闻报道。",
+      "credibilityScore": 87,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为央视新闻等权威官方媒体，内容为外交活动事实性报道，可信度高。（多源覆盖 +5）"
+      "credibilityReason": "来源为中新网和澎湃新闻，属较权威媒体，内容具体涉及时间地点，但缺少直接引述和多方交叉验证。（多源覆盖 +5）"
     },
     {
-      "title": "澎湃读报丨主要央媒头版继续聚焦“中美元首华盛顿会晤”",
-      "link": "https://m.thepaper.cn/detail/34152938",
-      "pubDate": "Sat, 26 Sep 2026 00:28:16 GMT",
-      "contentSnippet": "9月23日至25日，习近平主席应美国总统特朗普邀请对美国进行国事访问。这是一次传承友谊之旅、拓展合作之旅、增进两国人民福祉之旅。两国元首就关乎两国关系和世界局势的重大问题坦诚深入交流，达成很多新的共识，丰富了中美建设性战略稳定关系的内涵，为中美关系提供了新的战略指引。国际社会普遍认为中美元首华盛顿会晤“向世界释放了确定性信号”，不仅有利于增进两国人民福祉，更为世界和平发展增添了希望。\n9月26日出版的《人民日报》《新华每日电讯》《解放军报》《光明日报》《经济日报》等央媒在头版、二版等重要版面聚焦中美元首会晤。\n人民日报\n\n\n新华每日电讯\n\n\n解放军报\n\n\n光明日报\n\n\n经济日报",
+      "title": "视频丨维权维稳、正当必要！中方位黄岩岛周边联演两大背景原因解读",
+      "link": "https://m.thepaper.cn/detail/34159444",
+      "pubDate": "Sun, 27 Sep 2026 02:59:13 GMT",
+      "contentSnippet": "9月27日，中国人民解放军南部战区位黄岩岛周边海空域组织海空联合演训。国防大学张弛表示，此次演习背景有两方面：\n一方面，菲律宾利用担任东盟防长扩大会海上安全专家组共同主席国机会，裹挟相关国家在中国黄岩岛附近海空域搞联合军演。此外，菲方在中方节日期间采取挑衅行径并煽宣炒作。\n另一方面，中方组织此次演练，维权维稳，正当必要。",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -153,84 +102,50 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "澎湃新闻汇总央媒头版报道中美元首华盛顿会晤，称会晤释放确定性信号。",
+      "aiSummary": "解放军南部战区在黄岩岛周边组织海空联合演训，专家解读称系针对菲方挑衅的正当维权行动。",
       "credibilityScore": 78,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为澎湃新闻，引述央媒头版，内容具体，但属官方媒体转述，缺乏独立核实。"
+      "credibilityReason": "来源为澎湃新闻较权威，内容具体含时间地点人物，有专家直接引述，但属官方立场表述，缺乏独立多源交叉验证。"
     },
     {
-      "title": "习近平和彭丽媛同美国总统特朗普夫妇茶叙",
-      "link": "http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%92%8C%E5%BD%AD%E4%B8%BD%E5%AA%9B%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%AB%E5%A6%87%E8%8C%B6%E5%8F%99",
-      "pubDate": "Sat, 26 Sep 2026 01:05:00 +0800",
-      "contentSnippet": "",
-      "sourceName": "央视新闻",
-      "sourceWeight": 80,
-      "allSources": [
-        "央视新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "央视新闻报道习近平和彭丽媛同美国总统特朗普夫妇茶叙。",
-      "credibilityScore": 95,
-      "credibilityLevel": "high",
-      "credibilityReason": "央视新闻为权威官方媒体，报道元首外交活动，来源可靠，内容具体。"
-    },
-    {
-      "title": "中美同意共同构建“基于尊重、公平、对等的建设性战略稳定关系”",
-      "link": "http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E5%85%B1%E5%90%8C%E6%9E%84%E5%BB%BA%E2%80%9C%E5%9F%BA%E4%BA%8E%E5%B0%8A%E9%87%8D%E3%80%81%E5%85%AC%E5%B9%B3%E3%80%81%E5%AF%B9%E7%AD%89%E7%9A%84%E5%BB%BA%E8%AE%BE%E6%80%A7%E6%88%98%E7%95%A5%E7%A8%B3%E5%AE%9A%E5%85%B3%E7%B3%BB%E2%80%9D",
-      "pubDate": "Sat, 26 Sep 2026 00:35:00 +0800",
-      "contentSnippet": "",
-      "sourceName": "央视新闻",
-      "sourceWeight": 80,
-      "allSources": [
-        "央视新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "央视报道中美同意构建基于尊重、公平、对等的建设性战略稳定关系。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为央视新闻权威官方媒体，内容涉及外交表述，用词客观，但缺少具体细节和直接引述。"
-    },
-    {
-      "title": "（爱知·名古屋亚运会）丰配友摘田径男子马拉松铜牌",
-      "link": "http://www.chinanews.com.cn/tp/hd2011/2026/09-26/1205978.shtml",
-      "pubDate": "Sat, 26 Sep 2026 12:11:55 +0800",
-      "contentSnippet": "",
-      "sourceName": "中国新闻网",
+      "title": "玉渊谭天丨中美关系，需要一个穿越时间的答案",
+      "link": "https://m.thepaper.cn/detail/34159270",
+      "pubDate": "Sun, 27 Sep 2026 02:34:07 GMT",
+      "contentSnippet": "中美两国元首在半年内实现互访，具有历史性、里程碑意义。\n这次访问，从欢迎仪式到会谈和欢迎宴会，很多细节都被国内外媒体挖掘解读。访问刚开始，中方提到了一句话，值得放在整个行程中来看：\n世界在发展，时代在变化，但中美两国和平共处的历史逻辑没有变，两国人民友好交往的良好愿望没有变，国际社会对中美两国的普遍期待没有变。\n一些东西在变，但还有很多东西不能变，也不会变。\n01\n国际社会对中美两国的普遍期待没有变\n共同抗击日本军国主义的历史，是中美元首在讲话中，共同提到的话题。\n中方致辞中回顾了这段历史，特别提到中美曾“并肩抗击”：\n习近平在白宫欢迎仪式上的致辞\n第二次世界大战期间，中美并肩抗击法西斯侵略。",
+      "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
-        "中国新闻网"
+        "澎湃新闻"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国选手丰配友在爱知名古屋亚运会男子马拉松比赛中获得铜牌。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "中国新闻网为权威媒体，信息具体（赛事、项目、成绩），但正文摘要缺失，无法交叉验证细节。"
+      "aiSummary": "澎湃新闻转载玉渊谭天文章，评述中美元首半年内互访及中方关于两国关系不变的表态。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为澎湃新闻较权威，但玉渊谭天属官方自媒体，内容为评论而非独立报道，缺乏多源交叉验证。"
     },
     {
-      "title": "中秋档电影总票房破亿！超20部影片集中上新",
-      "link": "https://www.chinanews.com.cn/cul/2026/09-26/10704041.shtml",
-      "pubDate": "Sat, 26 Sep 2026 12:08:37 +0800",
-      "contentSnippet": "据网络平台数据",
-      "sourceName": "中国新闻网",
+      "title": "时政微纪录丨习主席的华盛顿时间：书写中美关系历史新篇",
+      "link": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=7831597446354476680&toc_style_id=feeds_default&share_to=copy_url&track_id=fd928a6c-1f4d-4b58-9e23-1fa44efc7ace",
+      "pubDate": "Sun, 27 Sep 2026 01:27:52 GMT",
+      "contentSnippet": "时政微纪录丨习主席的华盛顿时间：书写中美关系历史新篇",
+      "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
-        "中国新闻网"
+        "澎湃新闻"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国新闻网报道2026年中秋档电影总票房破亿，超20部影片集中上映。",
+      "aiSummary": "澎湃新闻发布时政微纪录，记录习近平主席在华盛顿的中美关系外交活动。",
       "credibilityScore": 78,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为中新网较权威，但正文仅引网络平台数据，无具体平台名称及直接引述，细节有限。"
+      "credibilityReason": "来源为澎湃新闻，属较权威媒体，但正文摘要极简，缺乏具体细节与直接引述，无法充分交叉验证。"
     },
     {
-      "title": "纪念长征胜利90周年主题展览9月25日向公众开放",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-26/10704037.shtml",
-      "pubDate": "Sat, 26 Sep 2026 11:47:21 +0800",
-      "contentSnippet": "央视网消息(新闻联播)：9月25日，“伟大的远征——纪念中国工农红军长征胜利90周年主题展览”在中国人民革命军事博物馆正式对公众开放。",
+      "title": "古人宫中赏月，那些你不知道的细节",
+      "link": "https://www.chinanews.com.cn/cul/2026/09-27/10704394.shtml",
+      "pubDate": "Sun, 27 Sep 2026 12:12:09 +0800",
+      "contentSnippet": "跟着学者逛故宫",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -238,16 +153,68 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "纪念长征胜利90周年主题展览9月25日在军事博物馆向公众开放。",
+      "aiSummary": "中国新闻网发布故宫赏月文化科普内容，由学者带领介绍古人宫中赏月细节。",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为权威媒体中国新闻网，内容为文化科普，但正文信息极简，缺乏具体细节和直接引述。"
+    },
+    {
+      "title": "中国队获得爱知·名古屋亚运会滑板女子街式金、铜牌",
+      "link": "https://www.chinanews.com.cn/ty/2026/09-27/10704392.shtml",
+      "pubDate": "Sun, 27 Sep 2026 12:05:25 +0800",
+      "contentSnippet": "中新网9月27日电 (记者 金旭)爱知·名古屋亚运会当地时间27日进行滑板女子街式决赛，中国选手朱沅铃以166.57分的总成绩夺得金牌。另一名中国选手崔宸曦以156.6分收获铜牌。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "爱知·名古屋亚运会滑板女子街式决赛，中国选手朱沅铃夺金、崔宸曦获铜。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "中新网为权威媒体，含记者署名、具体选手姓名与分数，信息可查证。"
+    },
+    {
+      "title": "陈艺文亚运会夺冠：接下来的单人比赛，争取把金牌留在中国队",
+      "link": "https://www.chinanews.com.cn/ty/2026/09-27/10704393.shtml",
+      "pubDate": "Sun, 27 Sep 2026 12:05:11 +0800",
+      "contentSnippet": "中新网9月27日电 (记者 朱晨曦)当地时间9月27日，在爱知·名古屋亚运会女子双人3米板决赛中，中国组合陈艺文/陈佳以五轮总分328.56分获得金牌。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "陈艺文/陈佳在爱知·名古屋亚运会女子双人3米板决赛中夺得金牌。",
       "credibilityScore": 92,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网转载央视新闻联播，属权威官方媒体，时间地点明确，内容可查证。"
+      "credibilityReason": "来源为中新网权威媒体，信息含具体时间、地点、人物、比分，事实可查证。"
     },
     {
-      "title": "东西问｜张中华：琉璃河遗址怎样讲述北京考古故事？",
-      "link": "https://www.chinanews.com.cn/dxw/2026/09-26/10704033.shtml",
-      "pubDate": "Sat, 26 Sep 2026 11:47:17 +0800",
-      "contentSnippet": "中新社北京9月26日电 题：琉璃河遗址怎样讲述北京考古故事？",
+      "title": "（爱知·名古屋亚运会）陈艺文/陈佳获女子双人3米板金牌",
+      "link": "http://www.chinanews.com.cn/tp/hd2011/2026/09-27/1206118.shtml",
+      "pubDate": "Sun, 27 Sep 2026 11:57:53 +0800",
+      "contentSnippet": "",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网",
+        "澎湃新闻"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "陈艺文/陈佳在爱知名古屋亚运会女子双人3米板夺金。",
+      "credibilityScore": 93,
+      "credibilityLevel": "high",
+      "credibilityReason": "中国新闻网与澎湃新闻均为较权威媒体，赛事信息具体可查证，但正文摘要缺失，无法交叉验证细节。（多源覆盖 +5）"
+    },
+    {
+      "title": "2026杭州网球公开赛：黄泽林战胜阿道弗·丹尼尔·巴列霍",
+      "link": "https://www.chinanews.com.cn/tp/2026/09-27/10704368.shtml",
+      "pubDate": "Sun, 27 Sep 2026 11:48:02 +0800",
+      "contentSnippet": "图为中国香港选手黄泽林在比赛中。中新社记者 肖健 摄  \r\n\n图为中国香港选手黄泽林在比赛中。中新社记者 肖健 摄  \r\n\n图为中国香港选手黄泽林在比赛中接球。中新社记者 肖健 摄  \r\n\n图为巴拉圭选手阿道弗·丹尼尔·巴列霍在比赛中接球。中新社记者 肖健 摄  \r\n\n图为巴拉圭选手阿道弗·丹尼尔·巴列霍在比赛中接球。中新社记者 肖健 摄  \r\n\n图为比赛现场。中新社记者 肖健 摄  \r\n\n图为中国香港选手黄泽林在比赛中接球。中新社记者 肖健 摄  \r\n\n图为中国香港选手黄泽林在比赛中。中新社记者 肖健 摄",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -255,10 +222,44 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中新社专访张中华，探讨琉璃河遗址对北京考古的意义。",
-      "credibilityScore": 85,
+      "aiSummary": "2026杭州网球公开赛，中国香港选手黄泽林战胜巴拉圭选手巴列霍。",
+      "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "中国新闻网为权威媒体，有明确专访对象和具体时间，内容为考古学术访谈，可信度较高。"
+      "credibilityReason": "来源中国新闻网权威，有具体赛事、选手及现场图片，但正文仅为图片说明，缺少比分等细节。"
+    },
+    {
+      "title": "2026中南中秋文化交流节在南非开幕",
+      "link": "http://www.chinanews.com.cn/tp/hd2011/2026/09-27/1206115.shtml",
+      "pubDate": "Sun, 27 Sep 2026 11:46:35 +0800",
+      "contentSnippet": "",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国新闻网报道2026中南中秋文化交流节在南非开幕，但正文摘要缺失。",
+      "credibilityScore": 55,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名媒体中国新闻网，但正文摘要缺失，无法核实具体细节，信息不完整。"
+    },
+    {
+      "title": "中国儿艺原创舞台剧《十二生肖》亮相悉尼",
+      "link": "http://www.chinanews.com.cn/tp/hd2011/2026/09-27/1206112.shtml",
+      "pubDate": "Sun, 27 Sep 2026 11:40:52 +0800",
+      "contentSnippet": "",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国儿艺原创舞台剧《十二生肖》在悉尼演出，中新社报道。",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为中新社，属较权威媒体，但正文摘要缺失，细节有限，无法交叉验证。"
     }
   ]
 }

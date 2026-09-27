@@ -1,32 +1,14 @@
 {
-  "generatedAt": "2026-09-26T04:17:21.177Z",
+  "generatedAt": "2026-09-27T04:33:07.711Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "微星推出 PRO MAX 271QPX14G 显示器：26.5\" WQHD 144Hz 雾面 QD-OLED",
-      "link": "https://www.ithome.com/1/007/327.htm",
-      "pubDate": "Sat, 26 Sep 2026 04:13:00 GMT",
-      "contentSnippet": "IT之家 9 月 26 日消息，微星 (MSI) 现已推出 PRO MAX 271QPX14G 显示器。这一型号采用 26.5\" QD-OLED Penta Tandem 面板，表面为抗眩光雾面，分辨率 WQHD (2560×1440)，刷新率为 144Hz。\n\nPRO MAX 271QPX14G 拥有 200nits 的 SDR 亮度、400nits 的 HDR 亮度；灰阶 (GtG) 响应时间 0.03ms；色域覆盖 99% DCI-P3 / 98% Adobe RGB，色偏（平均值）ΔE≤2，获得 Pantone Validated & SkinTone Validated 认证。\n该显",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家",
-        "Solidot"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "微星推出26.5英寸WQHD 144Hz雾面QD-OLED显示器PRO MAX 271QPX14G",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家等知名科技媒体，参数详实具体，含面板、亮度、色域等数据，逻辑清晰（多源覆盖 +5）"
-    },
-    {
-      "title": "Bungie 被砍的《命运》IP 游戏新作“Payback”曝光：MOBA 化、突出易上手性",
-      "link": "https://www.ithome.com/1/007/326.htm",
-      "pubDate": "Sat, 26 Sep 2026 04:10:04 GMT",
-      "contentSnippet": "IT之家 9 月 26 日消息，消息源 Jason Schreier 发文，称 Bungie 其实早在 2024 年就曾开发一款被内部视为“《命运》未来”的新项目，但最终遭到取消。\nJason Schreier  透露，《命运 3》的话题过去曾多次出现在 Bungie 内部会议中，但相关讨论经常因为开发成本过高而遭到质疑。在这种情况下，Bungie 转而开发代号“Payback”的外传类型项目，该项目由《命运》系列老兵 Luke Smith 和 Mark Noseworthy 负责，直到 2024 年被取消。\n具体来看，与传统《命运》作品相比，Payback 在玩法和目标用户方面都有明显不同。",
+      "title": "英飞凌泰国功率半导体工厂 10 月 1 日投产，总投资达 14.4 亿美元",
+      "link": "https://www.ithome.com/1/007/483.htm",
+      "pubDate": "Sun, 27 Sep 2026 02:50:02 GMT",
+      "contentSnippet": "IT之家 9 月 27 日消息，英飞凌近日宣布其泰国功率半导体工厂将于 10 月 1 日正式投产。该项目总投资达 14.4 亿美元（IT之家注：现汇率约合 96.9 亿元人民币），定位一体化功率半导体节点，承接全球功率半导体器件订单。\n\n据悉，该厂位于曼谷以南的北榄府，专注于后端工艺和功率半导体模块生产，建设工作始于 2025 年 1 月。新厂址采用自动化、数字化运营设计，使用 100% 绿色电力 。重点面向新能源汽车、新能源系统、数据中心等领域。\n该项目计划雇佣 5,000 名本地员工，配套人才培养与本土供应链培育计划将在后续落地。该基地将成为英飞凌继德国、中国之外的第三大功率模块生产基地，",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -34,84 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "Bungie被砍《命运》新作Payback曝光，MOBA化设计，2024年取消。",
+      "aiSummary": "英飞凌泰国功率半导体工厂10月1日投产，总投资14.4亿美元。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家引述知名记者Jason Schreier爆料，信息具体，但缺少官方确认。"
+      "credibilityReason": "IT之家为知名科技媒体，信息含投资额、选址、工艺定位等具体细节，逻辑清晰，但缺少官方原始链接引用。"
     },
     {
-      "title": "2026 金摇杆奖游戏提名公布：21 个类别开放投票，《007：初露锋芒》《大步走》领跑",
-      "link": "https://www.ithome.com/1/007/324.htm",
-      "pubDate": "Sat, 26 Sep 2026 04:08:51 GMT",
-      "contentSnippet": "IT之家 9 月 26 日消息，gamespress 昨日（9 月 25 日）发布公告，公布第 44 届金摇杆奖（Golden Joystick Awards）提名，公众投票通道同步开启，截至太平洋时间 10 月 23 日下午 4 点（北京时间 10 月 24 日早上 7 点）。\n作为全球历史最悠久的公众投票游戏奖项，本届设置 21 个由玩家投票的类别，获奖名单将于 11 月 11 日在伦敦颁奖典礼上揭晓并全球直播。\n\n本届奖项共设 21 个由公众投票的类别，涵盖“年度最佳主机游戏”“年度最佳 PC 游戏”“最受期待游戏”等。\n在 2026 年提名中，《007 初露锋芒》（007 First",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "第44届金摇杆奖提名公布，21个类别开放公众投票，《007：初露锋芒》等领跑。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体含时间、类别、投票细节，有原始公告出处，但正文摘要不完整。"
-    },
-    {
-      "title": "涉 iPhone / Apple Watch 触觉技术：苹果回应被判赔 57 亿美元，判决“无事实依据”将上诉",
-      "link": "https://www.ithome.com/1/007/320.htm",
-      "pubDate": "Sat, 26 Sep 2026 03:46:46 GMT",
-      "contentSnippet": "IT之家 9 月 26 日消息，彭博社今天（9 月 26 日）发布博文，报道称美国加州南区联邦陪审团裁定，苹果侵犯 Taction 公司两项触觉技术专利，需向后者赔偿超过 57 亿美元（IT之家注：现汇率约合 383.3 亿元人民币）。\nIT之家援引博文介绍，本次双方纠纷的专利编号为 US 10,659,885 与 US 10,820,117，涉及“可触摸感知的低频振动触觉换能器”。陪审团认定侵权成立，但非故意侵权。\n\n在落地产品方面，双方围绕着苹果 Taptic Engine 展开，该功能已装备在 iPhone、Apple Watch 等产品中，用于模拟点击等触觉反馈。IT之家查询相关资料，",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "苹果因触觉技术专利被判赔57亿美元，回应称判决无事实依据将上诉。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家援引彭博社，含专利号、金额等具体信息，来源较权威，但正文不完整。"
-    },
-    {
-      "title": "黑手党可能阻止了芬太尼流入意大利",
-      "link": "https://www.solidot.org/story?sid=85478",
-      "pubDate": "Sat, 26 Sep 2026 11:42:34 +0800",
-      "contentSnippet": "在电影《教父》中，维托柯里昂（Don Vito Corleone）拒绝参与海洛因交易，称毒品生意太脏。现实中的黑手党并非如此，但对于选择芬太尼还是海洛因等其它毒品，意大利黑手党看起来选择了拒绝芬太尼。这或许可以解释意大利芬太尼过量致死率异常低。2024 年比吗啡强效百倍的合成阿片类药物在意大利仅检测出两例致死事件。相比之下，德国 95 例，美国近 4.8 万例。意大利整体上的毒品消费水平无法解释这一现象。根据欧洲的数据，每年约有 2.1% 的意大利青年使用可卡因，德国的这一比例为 2.2%。芬太尼在意大利尚未造成太大影响，警方也没有查获多少芬太尼，反黑手党检察官 Nicola Gratteri",
-      "sourceName": "Solidot",
-      "sourceWeight": 75,
-      "allSources": [
-        "Solidot"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "意大利黑手党可能拒绝芬太尼交易，致该国芬太尼致死率异常低。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技社区Solidot，有具体数据对比，但缺乏原始研究出处，推测性较强。"
-    },
-    {
-      "title": "华为预告游戏助手将上线“弹幕通知”等功能，HarmonyOS 7.0.0.109 及以上版本支持",
-      "link": "https://www.ithome.com/1/007/319.htm",
-      "pubDate": "Sat, 26 Sep 2026 03:35:23 GMT",
-      "contentSnippet": "IT之家 9 月 26 日消息，在 9 月 7 日的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，鸿蒙 7 操作系统正式发布。\n\n目前，华为 Mate 80 系列手机、MatePad Edge、MateBook Pro 等设备已开启公测，Mate 60 系列、MatePad Pro 13.2 英寸 2025、WATCH GT 7 等已开启花粉 Beta 版尝鲜。而在鸿蒙 HarmonyOS 7 系统上，游戏助手也迎来一波升级，新增 HDR、分辨率、内存清理等功能。\n\nIT之家注意到，华为官网还发布新功能预告，在 HarmonyOS 7.0.0.109SP",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "华为预告鸿蒙游戏助手将上线弹幕通知等功能，需HarmonyOS 7.0.0.109及以上版本。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息含具体版本号和设备列表，但正文摘要被截断，细节略欠完整。"
-    },
-    {
-      "title": "阿里的蒸汽机时代",
-      "link": "https://www.tmtpost.com/8152987.html",
-      "pubDate": "Sat, 26 Sep 2026 11:35:14 +0800",
-      "contentSnippet": "从GMV到机器思考总量，吴泳铭给机器找了一个“马力”。",
+      "title": "从“价格战”到“品质战”，餐饮品牌下半场拼什么？",
+      "link": "https://www.tmtpost.com/8152641.html",
+      "pubDate": "Sun, 27 Sep 2026 08:23:42 +0800",
+      "contentSnippet": "品牌力的持续积累与行业共识的不断凝聚，将为餐饮行业的高质量发展注入持久动力。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -119,16 +33,50 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体评阿里从GMV转向机器思考总量，吴泳铭为AI时代定义新度量。",
+      "aiSummary": "钛媒体分析餐饮品牌从价格战转向品质战的竞争趋势",
+      "credibilityScore": 62,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体钛媒体，但正文摘要过于简略，缺乏具体数据与案例支撑"
+    },
+    {
+      "title": "种子也要有“太空专车”，我国启动研制商业航天育种专用卫星",
+      "link": "https://www.ithome.com/1/007/504.htm",
+      "pubDate": "Sun, 27 Sep 2026 04:19:18 GMT",
+      "contentSnippet": "IT之家 9 月 27 日消息，据陕西发布消息，陕西省航天育种工程技术研究中心与中科卫星科技集团有限公司在西安文理学院签署合作协议，共建太空生物空间诱变联合实验室，并宣布我国首个商业航天育种专用卫星研制启动。这意味着，种子今后去太空“遨游”将有自己的“专车”。\n\n据介绍，长期以来，我国航天育种多依托卫星搭载、空间站试验等“搭车”模式开展实验，缺少专门面向生物空间诱变的专用卫星平台，试验载荷、在轨时长、试验条件难以实现定制化、规模化开展。\n商业航天育种专用卫星的建设与发射，将改变我国航天育种试验“拼车搭载”的现状，为保障国家粮食安全、发展现代农业提供科技支撑。\n\n此次在西安文理学院成立的太空生物",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "我国启动研制首个商业航天育种专用卫星，改变航天育种搭车模式。",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体IT之家，引述官方签约消息，但缺少具体技术参数和原始出处链接。"
+    },
+    {
+      "title": "京东101HOME落地静安寺：线下家居卖场，该换个活法了",
+      "link": "https://www.tmtpost.com/8152919.html",
+      "pubDate": "Sun, 27 Sep 2026 12:09:06 +0800",
+      "contentSnippet": "当整个行业都在求索线下零售的破局方向时，京东101HOME将这套创新模式，交由国内一批眼光毒辣又“挑剔”的消费者检验，开启了一场压力测试。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "京东101HOME线下家居卖场落地静安寺，探索线下零售创新模式。",
       "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体钛媒体，观点具体但摘要简略，缺少数据与原始出处支撑。"
+      "credibilityReason": "钛媒体为知名科技媒体，但摘要内容较笼统，缺少具体数据与细节支撑。"
     },
     {
-      "title": "新加坡新规：公交上大声放音 / 视频最高可罚 500 新元",
-      "link": "https://www.ithome.com/1/007/318.htm",
-      "pubDate": "Sat, 26 Sep 2026 03:33:43 GMT",
-      "contentSnippet": "IT之家 9 月 26 日消息，新加坡陆路交通管理局（LTA）发布公告，宣布自 9 月 23 日开始实施《交通领域（杂项修正）法案》，明确把“在公共交通车厢内大声播放视频 / 音频”等滋扰行为列为违法，违者最高可罚 500 新元（IT之家注：现汇率约合 2,632 元人民币）。\nIT之家援引博文介绍，《交通领域（杂项修正）法案》于 2025 年 10 月投票通过，于 9 月 23 日正式生效，将原本适用于地铁的秩序监管框架扩展至公共巴士、巴士转换站及总站等场景。\n\n新规针对公交车场景，明确将大声播放音视频、把脚放在座位上、乱丢垃圾、在车厢内饮食这 4 项常见滋扰行为列为违法，上述行为若被认定滋",
+      "title": "东风猛士 X700 首批展车官宣陆续到店：搭载华为乾崑全栈智能，9 月 28 日开启预售",
+      "link": "https://www.ithome.com/1/007/498.htm",
+      "pubDate": "Sun, 27 Sep 2026 04:00:39 GMT",
+      "contentSnippet": "IT之家 9 月 27 日消息，东风猛士汽车今日宣布，旗下“豪华智慧全地形 SUV”猛士 X700 全国 84 城 172 家门店，首批展车陆续到店。\n\nIT之家附门店详情如下：\n\n据IT之家此前报道，猛士汽车猛士 X700 将于 9 月 28 日开启预售，新车是猛士品牌 X 系列的首款产品。猛士 X700 车顶配备 896 线激光雷达，延续猛士与华为乾崑全栈深度合作，搭载华为乾崑全栈智能，支持高速 NOA、城市 NOA、记忆泊车等功能。",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -136,84 +84,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "新加坡新规将公交内大声播放音视频等行为列为违法，最高罚500新元。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引用LTA公告及法案名称，信息具体，有原始出处。"
-    },
-    {
-      "title": "OPPO Find X10 Pro Max 手机体验：3 颗两亿镜头，就是这么豪横",
-      "link": "https://www.ithome.com/1/007/317.htm",
-      "pubDate": "Sat, 26 Sep 2026 03:15:14 GMT",
-      "contentSnippet": "9 月 22 日，OPPO 举办了新品发布会，正式发布了全新 OPPO Find X10 系列旗舰新机。其中，系列顶配的 Find X10 Pro Max，无疑是本次发布会大家最关注的核心产品。\n我们知道，Find X 系列一直是 OPPO 影像旗舰路线的集大成之作，以“真实影像 + 全能体验”为核心定位，特别是在影像上向来是不吝堆料且有自己的想法的，而这次的 Find X10 Pro Max 在这个路线上又进一步狂飙起来，全球首发三颗 2 亿像素哈苏全焦段镜头，覆盖主摄、超广角与潜望长焦，实现照片与视频能力双满配；同时搭载天玑 9600 Pro 2nm 旗舰芯片、8000mAh 冰川电池、新",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "OPPO发布Find X10 Pro Max，首发三颗2亿像素哈苏镜头及2nm天玑9600 Pro芯片。",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "IT之家为知名科技媒体，内容具体含产品细节，但发布时间为未来日期且缺少原始出处链接。"
-    },
-    {
-      "title": "罗巍晒荣耀 Magic9 Pro Max 手机增距镜中秋圆月拍摄样张，喊话“还有谁”",
-      "link": "https://www.ithome.com/1/007/315.htm",
-      "pubDate": "Sat, 26 Sep 2026 03:10:44 GMT",
-      "contentSnippet": "IT之家 9 月 26 日消息，荣耀首席影像工程师罗巍昨晚分享了 Magic9 Pro Max 手机使用增距镜拍摄的中秋圆月样张，并喊话“还有谁”。\n\nIT之家附荣耀 Magic9 Pro Max 手机拍摄样张如下：\n\n\n\n据IT之家此前报道，全新荣耀 Magic9 Pro Max 手机将搭载第六代骁龙 8 超级至尊版处理器。\n\n▲ IT之家开箱：荣耀 Magic9 Pro Max 图赏\n9 月 24 日下午，荣耀终端股份有限公司 CEO 李健公布了 Magic9 手机的价格（16GB+512GB）。\n\n“行业最低价”：6499 元\n\n“Magic 十年钜献价”：5999 元\n\n国补到手价：5",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "荣耀高管晒Magic9 Pro Max增距镜拍月样张并喊话，报道含价格与处理器信息。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，有具体产品、价格和处理器信息，但样张效果缺乏第三方验证。"
-    },
-    {
-      "title": "外媒称微软整合 Copilot 品牌加剧混乱，引发用户困惑",
-      "link": "https://www.ithome.com/1/007/314.htm",
-      "pubDate": "Sat, 26 Sep 2026 03:07:19 GMT",
-      "contentSnippet": "IT之家 9 月 26 日消息，科技媒体 Windows Latest 昨日（9 月 25 日）发布博文，报道称微软围绕着 Copilot 构建的品牌混乱加剧，增加了用户从品牌名称上辨析产品的难度。\nIT之家昨日报道，微软发布新版 Copilot“超级应用”，把聊天、编程和智能体三类 AI 能力集中到同一个界面中，定位是“为工作而生的 AI”。\n在应用发布后，微软还合并 Microsoft 365 Copilot（生产力套件）与 Copilot 应用，并将 X 平台官方账号统一至 @msftcopilot ，此举引发用户强烈困惑。\n\n@msftcopilot 账号截图\n在 X 平台上拥有 6.",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "外媒报道微软整合Copilot品牌致产品命名混乱，引发用户困惑。",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为IT之家编译，引述Windows Latest，有具体事件但缺乏原始数据与官方回应。"
-    },
-    {
-      "title": "华为何刚分享自己转做手机业务趣闻：被余承东一个电话“拽”了过来，原本负责无线全球销售",
-      "link": "https://www.ithome.com/1/007/313.htm",
-      "pubDate": "Sat, 26 Sep 2026 02:53:52 GMT",
-      "contentSnippet": "IT之家 9 月 26 日消息，华为终端 BG CEO 何刚昨日发布视频，分享了自己转做手机业务的趣闻。\n\n据何刚回忆，2011 年年底的时候，自己当时负责的是无线全球销售业务。余承东（现任华为常务董事、产品投资评审委员会主任、终端 BG 董事长）打来电话：“何刚，你来做手机吧。”于是自己就被余承东“拽”过来，到华为终端做手机业务了。\n\nIT之家查询公开资料获悉，何刚 1991 年就读西安电子科技大学电子工程学院本科，1998 年西安电子科技大学电路与系统设计专业研究生毕业后入职华为，现任华为终端 BG 首席执行官、华为终端 BG 可持续发展委员会主任。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "何刚回忆2011年被余承东电话邀约转做华为手机业务",
+      "aiSummary": "东风猛士X700首批展车陆续到店，搭载华为乾崑全栈智能，9月28日开启预售。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容源自何刚本人视频，有具体时间人物，但属趣闻轶事，技术信息有限"
+      "credibilityReason": "IT之家为知名科技媒体，信息具体含门店数量、激光雷达规格及预售日期，但缺少官方原始链接。"
     },
     {
-      "title": "小米汽车回应澎程进入对坐场景后备厢需清空：不需要清空，避免阻碍座椅向后滑动即可",
-      "link": "https://www.ithome.com/1/007/312.htm",
-      "pubDate": "Sat, 26 Sep 2026 02:42:36 GMT",
-      "contentSnippet": "IT之家 9 月 26 日消息，网传小米澎程系列汽车进入对坐场景需要清空后备厢近日引发热议。小米汽车官方发布了答网友问（第 292 集），针对该问题进行了回应，称不需要清空，只需根据小爱语音提示，确保后备厢物品不超过座椅滑轨末端位置，避免阻碍座椅向后滑动即可。\n\n另外，小米汽车还集中解答了前排选装旋转座椅是否不能选零重力座椅、行驶中是否可以使用前排座椅旋转功能、N70 系列和 N90 Max 是否可以安装车顶行李架等问题。\nIT之家附小米汽车本集答网友问重点内容如下：\n小米澎程进入对坐场景时，后备厢需要清空吗？\n\n不需要清空。进入会客厅模式前，只需根据小爱语音提示，确保后备厢物品不超过座椅滑轨",
+      "title": "四卡双待：荣耀 Magic9 系列手机将支持双实体卡 + 双 eSIM",
+      "link": "https://www.ithome.com/1/007/496.htm",
+      "pubDate": "Sun, 27 Sep 2026 03:56:15 GMT",
+      "contentSnippet": "IT之家 9 月 27 日消息，荣耀官方今天宣布，荣耀 Magic9 系列手机将支持「双实体卡 + 双 eSIM」融合架构，支持四卡随心切换、双号随时在线，等于说这台手机支持安装四张 SIM 卡，可以两张卡同时待机。\n\nIT之家了解到，荣耀 Magic9 系列手机将在明天发布，其中 Magic9 Pro Max 搭载自研至臻黑钻屏，包含 5600 层氮化硅镀膜，反射率降低至 1.5%。\n\n▲ IT之家开箱：荣耀 Magic9 Pro Max 手机图赏\n此外，博主 @数码闲聊站 已曝光荣耀 Magic9 Pro Max 手机规格信息，IT之家整理如下：\n\n6.8\"2868*1320p 1.5K+",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -221,16 +101,67 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "小米汽车回应澎程对坐场景无需清空后备厢，仅需避免阻碍座椅滑动",
+      "aiSummary": "荣耀Magic9系列官宣支持双实体卡+双eSIM四卡双待，明日发布。",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "IT之家为知名科技媒体，信息具体含规格细节，但部分引用博主爆料，官方信息有限。"
+    },
+    {
+      "title": "微软为新版 Outlook 新增发送前自动拼写检查功能，经典版添加更多 Copilot 功能",
+      "link": "https://www.ithome.com/1/007/495.htm",
+      "pubDate": "Sun, 27 Sep 2026 03:52:39 GMT",
+      "contentSnippet": "IT之家 9 月 27 日消息，微软想出了一项新功能，或许会成为用户选择新版 Outlook 而非经典版 Outlook 的理由：点击发送之前自动执行拼写检查。\n\n据IT之家了解，Outlook 原本就依托微软编辑器（Microsoft Editor）提供拼写检查，可以在用户撰写邮件的过程中实时检查文字错误。不过微软即将推出的这项新功能工作方式有所不同：当用户正要发送一封含有拼写错误的邮件时，该功能会主动介入，提醒用户先修正错误，再把邮件发送出去。\n目前，用户在 Outlook 撰写邮件时，已经可以在编辑框内看到拼写以及语法错误提示。这套能力由微软编辑器提供，相当于微软自家版的 Grammar",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微软为新版Outlook增加发送前自动拼写检查，并为经典版添加更多Copilot功能。",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium-high",
+      "credibilityReason": "来源为知名科技媒体IT之家，内容具体但缺少官方出处和具体版本时间，技术描述基本准确。"
+    },
+    {
+      "title": "V社创始人 G 胖回复网友邮件：承认练过蒙古呼麦，现在偶尔还会唱",
+      "link": "https://www.ithome.com/1/007/494.htm",
+      "pubDate": "Sun, 27 Sep 2026 03:52:08 GMT",
+      "contentSnippet": "IT之家 9 月 27 日消息，《反恐精英》创始人、前V社员工“Gooseman”（Minh Le）近日接受 Indie Game Joe 采访时透露，他以前的老板 G 胖（加布 · 纽维尔，Valve 创始人）曾连续数月练习“蒙古呼麦”唱法，甚至在办公室大展歌喉，导致不少员工不堪其扰，选择关上门办公。\n\n该传闻一经透露即在游戏社区迅速传播。后来网友 tbaszt 决定亲自给 G 胖发邮件，询问这件事到底真不真实。\n后来 G 胖回复了这名网友的电邮，承认自己确实练过蒙古喉音唱法。IT之家附 G 胖完整回复如下：\n\n是的，我确实尝试过自学。我曾经和美国歌手保罗 · 佩纳（Paul Pena）聊过",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "G胖邮件回复网友，承认曾自学蒙古呼麦唱法，偶尔还会唱。",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "IT之家为知名科技媒体，有邮件原文引用，但来源为网友转述，缺乏独立核实。"
+    },
+    {
+      "title": "iQOO Pad Ultra 小平板官宣跨端游戏空间功能升级，支持 PC 模拟器、PC 串流、大屏模式",
+      "link": "https://www.ithome.com/1/007/493.htm",
+      "pubDate": "Sun, 27 Sep 2026 03:44:09 GMT",
+      "contentSnippet": "IT之家 9 月 27 日消息，iQOO 手机官方今日宣布，在 iQOO Pad Ultra 小平板上，跨端游戏空间功能将迎来一波升级。\n\niQOO 官方还介绍了 iQOO Pad Ultra 小平板的生态配件，包括双面夹套件、拉伸 G1 手柄。新机将支持 PC 模拟器、PC 串流、游戏空间大屏模式，搭配游戏生态配件后主打沉浸游玩形态，握持手感有所提升。\n据IT之家此前报道，iQOO Pad Ultra 小平板已官宣将于 9 月 29 日 19:00 发布，新机提供星铠银 / 末影黑双色、8.8 英寸机身重约 298g、内置风扇，将首批搭载高通第六代骁龙 8 超级至尊版处理器。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "iQOO Pad Ultra小平板官宣跨端游戏功能升级，支持PC模拟器与串流",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引用小米官方答网友问，信息具体有出处，但内容偏官方回应"
+      "credibilityReason": "IT之家为知名科技媒体，信息具体含产品细节与发布时间，但缺少官方原始链接引用"
     },
     {
-      "title": "微软 Edge 154 稳定版浏览器发布：支持谷歌账号登录、优化首次运行体验等",
-      "link": "https://www.ithome.com/1/007/311.htm",
-      "pubDate": "Sat, 26 Sep 2026 02:41:10 GMT",
-      "contentSnippet": "IT之家 9 月 26 日消息，微软于 9 月 24 日发布公告，宣布推出 Microsoft Edge 154 稳定版（版本号 154.0.4258.37）更新，聚焦优化账户登录体验、增强凭证管理，以及淘汰部分旧技术等。\n优化账户登录方面，用户除了使用微软账号外，现在可以使用谷歌账号登录 Edge 浏览器，此功能适用于 Windows 和 macOS 设备。管理员可以使用 NonMicrosoftAccountSignInEnabled 策略来控制此功能的可用性。\n\n\n首次运行体验方面，Edge 154 稳定版在首次运行期间，新账号设置的右上角会显示一个关闭 (X) 按钮。取消设置后，Edg",
+      "title": "六联智能发布 4 盘位 \"Wildcat Lake\" AI NAS WS18，0.15L 迷你主机同场展出",
+      "link": "https://www.ithome.com/1/007/492.htm",
+      "pubDate": "Sun, 27 Sep 2026 03:40:19 GMT",
+      "contentSnippet": "IT之家 9 月 27 日消息，六联智能 (Sixunited) 本周在英特尔技术创新与产业生态大会 (Intel Connection 2026) 上发布了四盘位 AI NAS 机型 WS18。\n这一型号基于第 3 代英特尔酷睿处理器 \"Wildcat Lake\"，配备 LPDDR5 (X) 内存、UFS 3.1 存储，提供 3 个 PCIe Gen4 SSD 盘位、4 个 3.5\" 盘位，支持 Wi-Fi 6，提供 10GbE、2.5GbE 双网口以及 HDMI 2.1。\n\n另一款 NAS 产品 PTLT19-5HD-QSB 基于第 3 代英特尔酷睿 Ultra 处理器 \"Panther",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -238,16 +169,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "微软发布Edge 154稳定版，支持谷歌账号登录并优化首次运行体验。",
-      "credibilityScore": 85,
+      "aiSummary": "六联智能发布基于英特尔Wildcat Lake的四盘位AI NAS WS18及迷你主机",
+      "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道含具体版本号、策略名称及功能细节，信息具体可信。"
+      "credibilityReason": "IT之家为知名科技媒体，产品规格参数具体详实，有明确发布场合和处理器平台信息"
     },
     {
-      "title": "南京试驾 BMW 智能驾驶辅助：智驾时代，宝马依然是那台“驾驶者之车”",
-      "link": "https://www.ithome.com/1/007/309.htm",
-      "pubDate": "Sat, 26 Sep 2026 02:37:15 GMT",
-      "contentSnippet": "在汽车行业全面迈向智能化的当下，传统豪华品牌如何构建属于自己的智能驾驶护城河，成为行业持续关注的话题。\n9 月 21 日，IT之家受邀来到南京，参与 BMW 智能驾驶辅助全国首次公开道路试驾活动。\n在这场活动中，宝马也给出了自己的答案 ——“宝马味智驾”。\n\n本次试驾路线覆盖南京城区、高架、隧道以及紫金山周边连续弯道路段，全程约 25 公里，活动当天上午，IT之家先体验了新世代 BMW i3，下午则驾驶新世代 BMW iX3 完成了完整体验。\n从城市道路通行，到高架汇流、复杂路口，再到连续弯道路段，这套全新的 BMW 智能驾驶辅助系统在真实交通环境中展现了对于多样化场景的应对能力。\n\n而体验过",
+      "title": "爆料称 OpenAI 准备扩大 Ultrafast API 开放范围",
+      "link": "https://www.ithome.com/1/007/490.htm",
+      "pubDate": "Sun, 27 Sep 2026 03:34:37 GMT",
+      "contentSnippet": "IT之家 9 月 27 日消息，据 X 平台博主 @imjustnewatai 今日爆料，OpenAI Platform 和 API 文档已经出现 Ultrafast API 相关文档，预示着公司似乎准备扩大 Ultrafast API 开放范围。\n\nIT之家注意到，OpenAI 正在为 Responses API Playground 准备全新速度选项，用户可在 Standard、Fast 和 Ultrafast 三种处理速度之间选择，目前该功能处于隐藏状态。\nOpenAI 此前已正式预览搭载 GPT-5.6 Sol 的 Ultrafast 模式，称其输出速度最高可达每秒 750 个 Tok",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -255,10 +186,78 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "IT之家受邀参加宝马在南京举办的智能驾驶辅助公开道路试驾，体验新世代i3和iX3的智驾能力。",
+      "aiSummary": "爆料称OpenAI文档现Ultrafast API，或扩大开放范围",
+      "credibilityScore": 62,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为IT之家，但核心信息基于X博主爆料，缺乏官方确认，细节有限"
+    },
+    {
+      "title": "任天堂三十年前取消的 SFC 游戏《儿童卡比》被粉丝重制，现已可 PC 游玩",
+      "link": "https://www.ithome.com/1/007/489.htm",
+      "pubDate": "Sun, 27 Sep 2026 03:27:21 GMT",
+      "contentSnippet": "IT之家 9 月 27 日消息，据外媒 Notebookcheck 今天报道，近日有粉丝将任天堂三十年前砍掉的《儿童卡比》（Kid Kirby）游戏重见天日。目前本作已经可以在 PC 游玩，可在 itch.io 下载。\n\n据报道，本作由 Rockstar North 前身 DMA Design 开发，其玩法专门针对超级任天堂（IT之家注：SFC）的鼠标配件设计。玩法主要是通过拖动和甩动年幼版卡比，让它在关卡移动，整体玩法与后来较为成熟的《集合！卡比》（Kirby Mass Attack）有些相似。\n由于开发进度远超原定计划，加上 SFC Mouse 鼠标销量不佳，任天堂最终叫停了这个项目。据前",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "粉丝重制任天堂三十年前取消的SFC游戏《儿童卡比》，现已可在PC游玩。",
       "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "IT之家为知名科技媒体，引用外媒报道，信息具体，但缺少官方确认和原始出处链接。"
+    },
+    {
+      "title": "iQOO 王侃：iQOO 16 支持超 50 款热门游戏 165Hz 高刷模式，覆盖 MOBA、FPS、赛车等品类",
+      "link": "https://www.ithome.com/1/007/488.htm",
+      "pubDate": "Sun, 27 Sep 2026 03:21:58 GMT",
+      "contentSnippet": "IT之家 9 月 27 日消息，iQOO 旗舰系列产品经理王侃今日发布长文，详细介绍了 iQOO 16 手机的屏幕。他透露，基于安卓首发「三星 M16 发光材料」与「2K LEAD 2.0」显示技术，iQOO16 带来了行业首块 2K + 165Hz 屏幕，并且让功耗比同尺寸 1.5K 屏还低 31%。\n\n▲ IT之家开箱：iQOO 16「赛道」配色图赏\n据称，iQOO 16 支持超 50 款热门游戏的 165Hz 高刷模式，覆盖 MOBA、FPS、赛车等各类游戏；还支持 TOP100 日常应用，包括社交、购物、阅读、音乐、视频等主流应用类型。\n这块屏幕还支持手动峰值亮度 1100nit、全局",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "iQOO 16 首发 2K 165Hz 屏，支持超 50 款游戏高刷模式",
+      "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "知名科技媒体，有具体试驾时间、路线和车型细节，但缺乏原始技术数据和第三方验证。"
+      "credibilityReason": "IT之家为知名科技媒体，引述产品经理具体技术细节与数据，但缺乏独立验证"
+    },
+    {
+      "title": "太能打！过去一年 6 款《生化危机》游戏销量均破 300 万份",
+      "link": "https://www.ithome.com/1/007/487.htm",
+      "pubDate": "Sun, 27 Sep 2026 03:16:09 GMT",
+      "contentSnippet": "IT之家 9 月 27 日消息，《生化危机》是卡普空有史以来最受欢迎的游戏系列，同时也可以说是目前最具人气的恐怖游戏系列。多年以来，该系列始终能够推出品质稳定的作品，今年的《生化危机：安魂曲》（Resident Evil Requiem）也不例外。\n\n该系列的销售成绩同样十分亮眼。一份最新报告显示，在 2025 年年中至 2026 年年中这一年时间里，一共有 6 款《生化危机》游戏的销量突破 300 万份。对于同一个游戏 IP 旗下的作品而言，这样的数据相当突出。\nIT之家注意到，来自 Game File 的报告指出，仅过去这一年，就有 6 款《生化危机》作品各自的销量均超过 300 万份，名",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "报告称过去一年6款《生化危机》游戏销量均破300万份",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "IT之家为知名科技媒体，引用Game File报告，但正文截断、缺少具体数据出处"
+    },
+    {
+      "title": "中国首个面向全球与深空的太空计算基础设施“太空之弦”计算星座发布，G1 卫星预计明年发射",
+      "link": "https://www.ithome.com/1/007/486.htm",
+      "pubDate": "Sun, 27 Sep 2026 03:08:15 GMT",
+      "contentSnippet": "IT之家 9 月 27 日消息，据东方星链昨晚分享，其于 9 月 25 日联合地卫二发布了“太空之弦”计算星座 —— 中国首个面向全球与深空的太空计算基础设施。\n\n据介绍，“太空之弦”计算星座由三体计算星座共建方地卫二与东方星链共同推进建设。东方星链负责总体设计与运营，地卫二提供 AI 能力支持并拓展国际市场。星座将以计算服务为核心组织卫星与轨道资源，探索天基数据处理、模型部署和计算资源协同，逐步形成可调度、可供用户调用的太空计算服务能力。\n此次发布是前期在轨 AI 技术、卫星项目和国际合作积累向系统化星座建设的推进。\nIT之家从东方星链获悉，“太空之弦”计划采用「业务层」与「计算层」协同的架",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "东方星链联合地卫二发布中国首个全球与深空太空计算星座，G1卫星预计明年发射。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "IT之家为知名科技媒体，信息有具体企业、时间与规划，但缺乏技术参数和原始出处，部分表述偏宣传。"
     }
   ]
 }
