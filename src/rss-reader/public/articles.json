@@ -1,31 +1,14 @@
 {
-  "generatedAt": "2026-09-27T04:31:51.396Z",
+  "generatedAt": "2026-09-28T04:33:21.057Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "习近平主席讲述赛考斯与殷玉珍的友谊故事",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-27/10704332.shtml",
-      "pubDate": "Sun, 27 Sep 2026 11:46:30 +0800",
-      "contentSnippet": "新华社华盛顿9月25日电 当地时间24日晚，习近平主席在美国总统特朗普举行的欢迎国宴上重温中美人民友好往来的故事，特别提到一段佳话，“20多年前，一位名叫赛考斯的美国人资助中国治沙人殷玉珍种树。不久前，这位老人回到中国，亲眼看到当年的沙漠已经变成一片郁郁葱葱的森林。”",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "习近平在美总统国宴上讲述美国人赛考斯资助中国治沙人殷玉珍的友谊故事。",
-      "credibilityScore": 92,
-      "credibilityLevel": "high",
-      "credibilityReason": "新华社通稿，中国新闻网转载，有具体时间地点人物，内容可交叉验证。"
-    },
-    {
-      "title": "气候资讯｜9月全球前沿气候科学研究&极端天气气候事件",
-      "link": "https://m.thepaper.cn/detail/34116466",
-      "pubDate": "Sun, 27 Sep 2026 03:31:24 GMT",
-      "contentSnippet": "1. 全球升温或将突破1.5℃\n9月2日，联合国环境规划署 (UNEP) 发布题为《限制气温超标》（Limiting Overshoot）的报告，指出未来数年，全球升温可能突破1.5°C，气候风险和影响将由此上升至危险的新水平；即使在最乐观的情景下，全球气温峰值仍可能达到比工业化前水平高约1.8°C。但限制升温，实现《巴黎协定》确定的全球目标仍有可能。\n\n当地时间2026年9月23日，法国中东部的沙莫尼山谷，阿尔卑斯山勃朗峰地块的博松冰川上出现一处冰洞。\n\n\n全球目前已经经历了约1.4°C的升温，世界各地的社区正面临日益严重的热浪、洪水、干旱和生态系统损失。然而，突破1.5°C并不意味着应该放",
+      "title": "国新办发布会丨介绍落实“十五五”规划，推动中央企业高质量发展情况",
+      "link": "https://m.thepaper.cn/detail/34139671",
+      "pubDate": "Mon, 28 Sep 2026 03:53:03 GMT",
+      "contentSnippet": "2026年9月28日，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，请国务院国有资产监督管理委员会新闻发言人、副主任庞骁刚介绍落实“十五五”规划，推动中央企业高质量发展情况，并答记者问。",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -33,188 +16,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "联合国环境规划署报告指出全球升温或将突破1.5°C，气候风险升至危险新水平。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为知名媒体，引述UNEP报告及具体数据，内容可查证，但非一线通讯社。"
-    },
-    {
-      "title": "视频丨通过碰瓷刷“存在感”？起底菲律宾的南海“碰瓷链”",
-      "link": "https://m.thepaper.cn/detail/34159504",
-      "pubDate": "Sun, 27 Sep 2026 03:20:49 GMT",
-      "contentSnippet": "9月27日，中国人民解放军南部战区位黄岩岛周边海空域组织海空联合演训，这是针对当前个别国家破坏地区和平稳定的必要行动，旨在检验提升部队维护国家领土主权和海洋权益的实战能力。\n\n近段时间，菲律宾在南海方向动作频频：小船前推、小飞机侵闯、无人机参与打击链演练、远程火力加快接入，域外军事力量也被不断拉入。\n\n单个平台看似不起眼，串起来，却是一套不断延伸的“碰瓷链”。",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "澎湃新闻起底菲律宾在南海通过小型平台和域外力量构建“碰瓷链”，配合解放军黄岩岛演训。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为澎湃新闻较权威，内容具体但含“碰瓷链”等主观定性用语，缺乏直接引述和独立交叉验证。"
-    },
-    {
-      "title": "国务院安委办、应急管理部调度抽查5省市中秋假期安全防范暗访检查工作",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-27/10704374.shtml",
-      "pubDate": "Sun, 27 Sep 2026 11:19:52 +0800",
-      "contentSnippet": "中新网9月27日电 据应急管理部微信公众号消息，为做好中秋国庆假期安全防范工作，国务院安委办、国家防减救灾办、应急管理部日前部署各地假期期间分级分行业派出工作组，采取“四不两直”方式，深入重点行业领域、重点场所、重点部位开展暗访检查，推动落实各项安全责任措施。9月26日，国务院安委办副主任、应急管理部副部长宋元明视频抽查北京、辽宁、山东、四川、陕西等5个省(直辖市)暗访检查工作开展情况，推动各地进一步强化安全防范措施，全力保障中秋国庆假期安全稳定。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国务院安委办、应急管理部视频抽查5省市中秋假期安全防范暗访检查工作。",
-      "credibilityScore": 92,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网引述应急管理部官方消息，含具体时间、人物、措施，属权威发布。"
-    },
-    {
-      "title": "黄岩岛附近 中国海警开展维权执法管控演练",
-      "link": "http://www.chinanews.com.cn/mil/shipin/2026/09-27/news1070314.shtml",
-      "pubDate": "Sun, 27 Sep 2026 11:06:22 +0800",
-      "contentSnippet": "",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网",
-        "澎湃新闻"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "中国海警在黄岩岛附近开展维权执法管控演练，中新网和澎湃新闻报道。",
-      "credibilityScore": 87,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网和澎湃新闻，属较权威媒体，内容具体涉及时间地点，但缺少直接引述和多方交叉验证。（多源覆盖 +5）"
-    },
-    {
-      "title": "视频丨维权维稳、正当必要！中方位黄岩岛周边联演两大背景原因解读",
-      "link": "https://m.thepaper.cn/detail/34159444",
-      "pubDate": "Sun, 27 Sep 2026 02:59:13 GMT",
-      "contentSnippet": "9月27日，中国人民解放军南部战区位黄岩岛周边海空域组织海空联合演训。国防大学张弛表示，此次演习背景有两方面：\n一方面，菲律宾利用担任东盟防长扩大会海上安全专家组共同主席国机会，裹挟相关国家在中国黄岩岛附近海空域搞联合军演。此外，菲方在中方节日期间采取挑衅行径并煽宣炒作。\n另一方面，中方组织此次演练，维权维稳，正当必要。",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "解放军南部战区在黄岩岛周边组织海空联合演训，专家解读称系针对菲方挑衅的正当维权行动。",
-      "credibilityScore": 78,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为澎湃新闻较权威，内容具体含时间地点人物，有专家直接引述，但属官方立场表述，缺乏独立多源交叉验证。"
-    },
-    {
-      "title": "玉渊谭天丨中美关系，需要一个穿越时间的答案",
-      "link": "https://m.thepaper.cn/detail/34159270",
-      "pubDate": "Sun, 27 Sep 2026 02:34:07 GMT",
-      "contentSnippet": "中美两国元首在半年内实现互访，具有历史性、里程碑意义。\n这次访问，从欢迎仪式到会谈和欢迎宴会，很多细节都被国内外媒体挖掘解读。访问刚开始，中方提到了一句话，值得放在整个行程中来看：\n世界在发展，时代在变化，但中美两国和平共处的历史逻辑没有变，两国人民友好交往的良好愿望没有变，国际社会对中美两国的普遍期待没有变。\n一些东西在变，但还有很多东西不能变，也不会变。\n01\n国际社会对中美两国的普遍期待没有变\n共同抗击日本军国主义的历史，是中美元首在讲话中，共同提到的话题。\n中方致辞中回顾了这段历史，特别提到中美曾“并肩抗击”：\n习近平在白宫欢迎仪式上的致辞\n第二次世界大战期间，中美并肩抗击法西斯侵略。",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "澎湃新闻转载玉渊谭天文章，评述中美元首半年内互访及中方关于两国关系不变的表态。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为澎湃新闻较权威，但玉渊谭天属官方自媒体，内容为评论而非独立报道，缺乏多源交叉验证。"
-    },
-    {
-      "title": "时政微纪录丨习主席的华盛顿时间：书写中美关系历史新篇",
-      "link": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=7831597446354476680&toc_style_id=feeds_default&share_to=copy_url&track_id=fd928a6c-1f4d-4b58-9e23-1fa44efc7ace",
-      "pubDate": "Sun, 27 Sep 2026 01:27:52 GMT",
-      "contentSnippet": "时政微纪录丨习主席的华盛顿时间：书写中美关系历史新篇",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "澎湃新闻发布时政微纪录，记录习近平主席在华盛顿的中美关系外交活动。",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为澎湃新闻，属较权威媒体，但正文摘要极简，缺乏具体细节与直接引述，无法充分交叉验证。"
-    },
-    {
-      "title": "古人宫中赏月，那些你不知道的细节",
-      "link": "https://www.chinanews.com.cn/cul/2026/09-27/10704394.shtml",
-      "pubDate": "Sun, 27 Sep 2026 12:12:09 +0800",
-      "contentSnippet": "跟着学者逛故宫",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国新闻网发布故宫赏月文化科普内容，由学者带领介绍古人宫中赏月细节。",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为权威媒体中国新闻网，内容为文化科普，但正文信息极简，缺乏具体细节和直接引述。"
-    },
-    {
-      "title": "中国队获得爱知·名古屋亚运会滑板女子街式金、铜牌",
-      "link": "https://www.chinanews.com.cn/ty/2026/09-27/10704392.shtml",
-      "pubDate": "Sun, 27 Sep 2026 12:05:25 +0800",
-      "contentSnippet": "中新网9月27日电 (记者 金旭)爱知·名古屋亚运会当地时间27日进行滑板女子街式决赛，中国选手朱沅铃以166.57分的总成绩夺得金牌。另一名中国选手崔宸曦以156.6分收获铜牌。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "爱知·名古屋亚运会滑板女子街式决赛，中国选手朱沅铃夺金、崔宸曦获铜。",
+      "aiSummary": "国新办举行发布会，国资委副主任庞骁刚介绍央企落实“十五五”规划、推动高质量发展情况。",
       "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "中新网为权威媒体，含记者署名、具体选手姓名与分数，信息可查证。"
+      "credibilityReason": "来源为澎湃新闻，属较权威媒体；信息具体，含时间、机构、人物、职务，属官方发布会常规报道。"
     },
     {
-      "title": "陈艺文亚运会夺冠：接下来的单人比赛，争取把金牌留在中国队",
-      "link": "https://www.chinanews.com.cn/ty/2026/09-27/10704393.shtml",
-      "pubDate": "Sun, 27 Sep 2026 12:05:11 +0800",
-      "contentSnippet": "中新网9月27日电 (记者 朱晨曦)当地时间9月27日，在爱知·名古屋亚运会女子双人3米板决赛中，中国组合陈艺文/陈佳以五轮总分328.56分获得金牌。",
-      "sourceName": "中国新闻网",
+      "title": "国新办发布会丨介绍“十五五”时期加快农业农村现代化、扎实推进乡村全面振兴有关情况",
+      "link": "https://m.thepaper.cn/detail/34142435",
+      "pubDate": "Mon, 28 Sep 2026 03:52:26 GMT",
+      "contentSnippet": "2026年9月29日，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，请农业农村部部长张柱介绍“十五五”时期加快农业农村现代化、扎实推进乡村全面振兴有关情况，并答记者问。",
+      "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "陈艺文/陈佳在爱知·名古屋亚运会女子双人3米板决赛中夺得金牌。",
-      "credibilityScore": 92,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网权威媒体，信息含具体时间、地点、人物、比分，事实可查证。"
-    },
-    {
-      "title": "（爱知·名古屋亚运会）陈艺文/陈佳获女子双人3米板金牌",
-      "link": "http://www.chinanews.com.cn/tp/hd2011/2026/09-27/1206118.shtml",
-      "pubDate": "Sun, 27 Sep 2026 11:57:53 +0800",
-      "contentSnippet": "",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网",
         "澎湃新闻"
       ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "陈艺文/陈佳在爱知名古屋亚运会女子双人3米板夺金。",
-      "credibilityScore": 93,
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国新办将于9月29日举行发布会，农业农村部部长张柱介绍'十五五'农业农村现代化规划。",
+      "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "中国新闻网与澎湃新闻均为较权威媒体，赛事信息具体可查证，但正文摘要缺失，无法交叉验证细节。（多源覆盖 +5）"
+      "credibilityReason": "来源为澎湃新闻，属较权威媒体；信息具体，含时间、人物、主题，属官方发布会预告，可查证。"
     },
     {
-      "title": "2026杭州网球公开赛：黄泽林战胜阿道弗·丹尼尔·巴列霍",
-      "link": "https://www.chinanews.com.cn/tp/2026/09-27/10704368.shtml",
-      "pubDate": "Sun, 27 Sep 2026 11:48:02 +0800",
-      "contentSnippet": "图为中国香港选手黄泽林在比赛中。中新社记者 肖健 摄  \r\n\n图为中国香港选手黄泽林在比赛中。中新社记者 肖健 摄  \r\n\n图为中国香港选手黄泽林在比赛中接球。中新社记者 肖健 摄  \r\n\n图为巴拉圭选手阿道弗·丹尼尔·巴列霍在比赛中接球。中新社记者 肖健 摄  \r\n\n图为巴拉圭选手阿道弗·丹尼尔·巴列霍在比赛中接球。中新社记者 肖健 摄  \r\n\n图为比赛现场。中新社记者 肖健 摄  \r\n\n图为中国香港选手黄泽林在比赛中接球。中新社记者 肖健 摄  \r\n\n图为中国香港选手黄泽林在比赛中。中新社记者 肖健 摄",
+      "title": "大连市举办港澳台侨迎中秋联谊活动",
+      "link": "https://www.chinanews.com.cn/txy/2026/09-28/10704690.shtml",
+      "pubDate": "Mon, 28 Sep 2026 11:44:38 +0800",
+      "contentSnippet": "9月24日，大连市委统战部(市侨办)举办“月满滨城·四海同心”侨港澳代表人士及在连台生联谊活动。市委统战部副部长、市侨办主任王明亮参加活动并致辞，侨港澳代表人士及在连台生共50余人参加。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -222,16 +50,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "2026杭州网球公开赛，中国香港选手黄泽林战胜巴拉圭选手巴列霍。",
+      "aiSummary": "大连市委统战部举办港澳台侨代表人士及台生迎中秋联谊活动，50余人参加。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网权威，有具体赛事、选手及现场图片，但正文仅为图片说明，缺少比分等细节。"
+      "credibilityReason": "来源为中国新闻网，属较权威媒体；时间地点人物具体，含直接引述，内容可查证。"
     },
     {
-      "title": "2026中南中秋文化交流节在南非开幕",
-      "link": "http://www.chinanews.com.cn/tp/hd2011/2026/09-27/1206115.shtml",
-      "pubDate": "Sun, 27 Sep 2026 11:46:35 +0800",
-      "contentSnippet": "",
+      "title": "直播丨“新征程 勇前行”，2026年南昌市国庆烟花晚会",
+      "link": "https://m.thepaper.cn/detail/34163800",
+      "pubDate": "Mon, 28 Sep 2026 03:43:54 GMT",
+      "contentSnippet": "赣江之夜，星河漫卷，烟花耀英雄城。晚会立足南昌八一起义历史原点，循着点燃革命火种、赓续红色根脉、奋进伟大时代、奔赴崭新未来的叙事脉络，以漫天焰火诉说英雄城的红色故事。赣江之心老官洲水域，四万余发烟花高低腾跃、错落盛放；5000 架无人机凌空编队作画，与一江两岸灯光秀、音乐喷泉交相辉映，共同打造“灯光秀 + 喷泉 + 烟花 + 无人机”四位一体的沉浸式视听盛宴。这是一场献给伟大祖国的璀璨礼赞，也是红色基因、赣鄱底蕴与时代华彩的深情交汇。",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "澎湃新闻直播2026年南昌国庆烟花晚会，含四万余发烟花和五千架无人机表演。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "澎湃新闻为知名权威媒体，信息具体含时间地点数据，但属活动预告直播，无直接引述。"
+    },
+    {
+      "title": "2026年海峡两岸（泉州）街舞大赛收官",
+      "link": "https://www.chinanews.com.cn/gn/2026/09-28/10704756.shtml",
+      "pubDate": "Mon, 28 Sep 2026 11:38:22 +0800",
+      "contentSnippet": "中新网泉州9月28日电 (记者 孙虹)历时3个月选拔比拼，近50名台湾青年舞者、网络达人参与竞技、展演，2026年海峡两岸(泉州)街舞大赛在福建泉州圆满收官。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -239,27 +84,180 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国新闻网报道2026中南中秋文化交流节在南非开幕，但正文摘要缺失。",
-      "credibilityScore": 55,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名媒体中国新闻网，但正文摘要缺失，无法核实具体细节，信息不完整。"
+      "aiSummary": "2026年海峡两岸街舞大赛在泉州收官，近50名台湾青年舞者参与。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，属权威媒体；信息含具体时间地点人物，表述客观中性。"
     },
     {
-      "title": "中国儿艺原创舞台剧《十二生肖》亮相悉尼",
-      "link": "http://www.chinanews.com.cn/tp/hd2011/2026/09-27/1206112.shtml",
-      "pubDate": "Sun, 27 Sep 2026 11:40:52 +0800",
-      "contentSnippet": "",
-      "sourceName": "中国新闻网",
+      "title": "商务部公布中美贸易理事会和“300亿对300亿”对等降税框架有关情况",
+      "link": "https://m.thepaper.cn/detail/34163782",
+      "pubDate": "Mon, 28 Sep 2026 03:15:16 GMT",
+      "contentSnippet": "2026年5月，中美两国元首在北京会晤，同意双方建立政府间贸易理事会。9月20日—23日，中美双方在美国纽约和华盛顿举行第八轮经贸磋商，就中美贸易理事会工作规程、“300亿对300亿”对等降税框架职责文件、降税产品清单等达成共识。\n根据工作规程，贸易理事会的任务是优化双边贸易，将讨论优化双边贸易的安排和影响贸易的问题。相信贸易理事会将为中美在经贸领域不断拉长合作清单、压缩问题清单提供重要平台和机制保障，助力中美建设性战略稳定关系。\n中美双方在贸易理事会框架下就300亿美元对等降税框架达成共识。双方商定对各自规模约为300亿美元（参照2024年度双边贸易额）的进口产品，在符合双方各自国内法律和程",
+      "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
-        "中国新闻网"
+        "澎湃新闻"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国儿艺原创舞台剧《十二生肖》在悉尼演出，中新社报道。",
+      "aiSummary": "商务部公布中美贸易理事会及300亿对等降税框架共识情况。",
       "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为中新社，属较权威媒体，但正文摘要缺失，细节有限，无法交叉验证。"
+      "credibilityLevel": "medium-high",
+      "credibilityReason": "来源为澎湃新闻，引述商务部官方信息，内容具体，但缺乏独立交叉验证。"
+    },
+    {
+      "title": "全球前瞻｜美国对加拿大产品新进口禁令本周生效，日本前外相率团访华",
+      "link": "https://m.thepaper.cn/detail/34163502",
+      "pubDate": "Mon, 28 Sep 2026 02:58:17 GMT",
+      "contentSnippet": "本周9月28日至10月4日：\n据新华社此前报道，当地时间9月8日，美国白宫发布公告说，美国总统特朗普当天签署文件，禁止部分加拿大酒精饮料、摩托车、乳制品等商品进入美国市场，并对更多加拿大商品加征关税。禁令将于9月29日正式生效。\n据《参考消息》报道，巴西大选首轮投票定于10月4日举行，如无候选人得票过半，第二轮投票将在10月25日举行。\n据环球网9月28日报道，由日本前外务大臣、自民党籍众议院议员岩屋毅担任会长的日本国际贸易促进协会（以下简称“日本国贸促”）代表团于27日抵达北京，开启为期4天的访华行程。\n据央视新闻此前报道，今年8月，伊拉克总理扎伊迪会见了到访的美军中央司令部司令库珀。会见期",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "美国对加拿大部分产品进口禁令本周生效，日本前外相率团访华。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "澎湃新闻为知名媒体，引用新华社、参考消息等权威来源，信息具体可查证。"
+    },
+    {
+      "title": "大国正确相处的新路，就在脚下——习近平主席对美国进行国事访问纪实",
+      "link": "https://m.thepaper.cn/detail/34162393",
+      "pubDate": "Sun, 27 Sep 2026 18:56:44 GMT",
+      "contentSnippet": "观察2026年秋季的这三天两晚，也是从大国的互动去观察“百年未有之大变局”。\n“载入史册”“不是人们想象中的掰手腕，而是握手，一次次微笑握手”“共赢逻辑取代了零和博弈”……全球媒体和智库，竞相道出紧盯这些时日的观感。\n华盛顿的街巷，中美两国国旗在秋风中招展。自当地时间9月23日17时40分许，习近平主席乘专机抵达安德鲁斯空军基地，到25日13时，专机又从这里腾空而起。准确地说，这趟中国国家主席时隔11年再次对美国进行的国事访问，历时约43个小时。\n25日上午茶叙时，特朗普总统关切询问习近平主席的回国航程。\n越大陆，过大洋，万里之遥却又朝发夕至。习近平主席微笑着回应：“这是比较近的一条航线了。”",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "习近平主席时隔11年对美国进行国事访问，历时约43小时，获全球媒体关注。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "澎湃新闻为正规媒体，内容含具体时间地点及直接引述，但属正面宣传报道，缺乏独立核实。"
+    },
+    {
+      "title": "2026年“国庆”假期体育彩票休市及兑奖事宜通告",
+      "link": "https://m.thepaper.cn/detail/34163787",
+      "pubDate": "Mon, 28 Sep 2026 04:15:43 GMT",
+      "contentSnippet": "上海市体育彩票管理中心关于2026年“国庆”假期\n体育彩票休市及兑奖事宜的通告\n根据《财政部关于2026年彩票市场休市安排的公告》（财政部公告2025年第14号）规定，体育彩票2026年国庆节休市时间为10月1日（星期四）0:00至10月4日（星期日）24:00。休市期间，除即开型彩票外，停止全国其他各类彩票游戏的销售、开奖和兑奖。现对上海市国庆期间的体育彩票休市及兑奖事宜作如下安排：\n一、休市安排\n（1） 体育彩票全国联网乐透型、数字型游戏于10月1日（星期四）0:00停止销售，10月5日（星期一）0:00恢复销售。 \n（2）体育彩票足球传统游戏的竞猜场次安排、开售时间、停售时间和开奖时间等",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "上海体彩中心通告2026年国庆休市安排，10月1日至4日停售除即开型外彩票。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源澎湃新闻较权威，引用财政部公告编号，内容具体可查证，但非一线通讯社。"
+    },
+    {
+      "title": "美媒追问“你们究竟要不要造核弹？”，伊朗总统：完全不想！",
+      "link": "https://m.thepaper.cn/detail/34164002",
+      "pubDate": "Mon, 28 Sep 2026 04:12:30 GMT",
+      "contentSnippet": "当地时间9月24日，伊朗总统佩泽希齐扬在接受美媒采访时重申，伊朗“完全不”想要拥有核武器，愿意在国际法的框架内降低铀浓缩水平并接受核查。当地时间9月27日，特朗普在受访时表示，预计在接下来的一周将与伊朗继续举行谈判。",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "伊朗总统重申不寻求核武，特朗普称下周将与伊朗继续谈判。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "澎湃新闻为国内较权威媒体，引述具体时间人物及直接表态，内容可交叉验证。"
+    },
+    {
+      "title": "“梦想”号大洋钻探船钻获深海洋盆玄武岩样品",
+      "link": "https://www.chinanews.com.cn/sh/2026/09-28/10704784.shtml",
+      "pubDate": "Mon, 28 Sep 2026 12:12:08 +0800",
+      "contentSnippet": "中新社北京9月28日电 (记者 庞无忌)记者28日从中国自然资源部中国地质调查局获悉，近日，“梦想”号大洋钻探船成功钻获深海洋盆玄武岩样品。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国“梦想”号大洋钻探船成功钻获深海洋盆玄武岩样品。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新社，属权威媒体；信息具体，有官方机构来源，但缺乏直接引述和交叉验证。"
+    },
+    {
+      "title": "（爱知·名古屋亚运会）中国队包揽跳水女子1米板金银牌",
+      "link": "http://www.chinanews.com.cn/tp/hd2011/2026/09-28/1206249.shtml",
+      "pubDate": "Mon, 28 Sep 2026 12:09:29 +0800",
+      "contentSnippet": "",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国新闻网报道中国队在爱知名古屋亚运会跳水女子1米板项目包揽金银牌。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为权威媒体中国新闻网，内容具体，但缺少引述和细节，无法完全交叉验证。"
+    },
+    {
+      "title": "中国学的世界对话·阿拉伯国家专场丨汉学助推埃及学诞生：一段被遗忘的渊源",
+      "link": "https://m.thepaper.cn/detail/34164007",
+      "pubDate": "Mon, 28 Sep 2026 04:08:57 GMT",
+      "contentSnippet": "作为研究古代埃及文明的一门综合性学科，埃及学以解读古埃及的文字文献为基础，全面研究古埃及历史、宗教、艺术、建筑以及科技等。埃及学的诞生以1822年法国学者商博良破译古埃及文字为标志。此后，古埃及石刻、壁画、雕刻、文书上的秘密逐步揭开，人们得以触碰遥远但真实的古埃及文明。\n近几十年以来，更多学科开始介入埃及学，交叉研究兴盛不衰。中国与埃及都属于文明古国，对人类早期文明做出巨大贡献。埃及学与汉学的比较研究具有广阔的阐释空间。\n人们通常把埃及学的产生归功于商博良的天赋和勤奋。商博良的确堪称语言天才，他不仅精通古希腊语、拉丁语等西方语言，而且通晓汉语、阿拉伯语、波斯语、希伯来语、科普特语等东方语言，甚",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "澎湃新闻探讨汉学对埃及学诞生的影响，聚焦中埃文明比较研究。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "澎湃新闻为知名媒体，内容具体有学术依据，但非一线通讯社，部分细节待考证。"
+    },
+    {
+      "title": "9月人文社科联合书单｜权力与王座：一部中世纪新史",
+      "link": "https://m.thepaper.cn/detail/34161757",
+      "pubDate": "Mon, 28 Sep 2026 04:08:16 GMT",
+      "contentSnippet": "《大马士革事件：1860年大屠杀与现代中东的形成》\n[美]尤金·罗根著，李杨译，理想国｜民主与建设出版社\n1860年，大马士革发生穆斯林屠杀基督徒事件，自此奥斯曼旧秩序走向终结，中东现代格局开始形成。本书依据大马士革事件亲历者手记写成，还原不同民族、信仰和平共处的城市如何发生屠戮，奥斯曼政府如何有效平息暴乱。成功的治理令当地的和平延续了150余年。作者认为，即使历经战乱，社会的裂痕仍有修复的希望。\n\n《毒血：一场血液污染丑闻中的生与死》\n[英]卡拉·麦古根著，周悟拿译，中信出版集团\n20世纪80年代初，英国很多注射第八因子的血友病患者相继出现T细胞数量锐减、肺部真菌感染等症状。他们浑然不知，自",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "澎湃新闻发布9月人文社科联合书单，推荐多本历史与社科类新书。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "澎湃新闻为知名权威媒体，书单信息具体可查，内容客观中性，无情绪化用语。"
+    },
+    {
+      "title": "航拍贵州荔波“艺术村”——洪江村",
+      "link": "https://www.chinanews.com.cn/tp/2026/09-28/10704763.shtml",
+      "pubDate": "Mon, 28 Sep 2026 12:03:06 +0800",
+      "contentSnippet": "9月28日，航拍贵州省黔南州荔波县朝阳镇洪江村。中新社记者 瞿宏伦 摄\r\n\n9月28日，航拍贵州省黔南州荔波县朝阳镇洪江村。中新社记者 瞿宏伦 摄\r\n\n9月28日，航拍贵州省黔南州荔波县朝阳镇洪江村。中新社记者 瞿宏伦 摄\r\n\n9月28日，航拍贵州省黔南州荔波县朝阳镇洪江村。中新社记者 瞿宏伦 摄\r\n\n9月28日，航拍贵州省黔南州荔波县朝阳镇洪江村。中新社记者 瞿宏伦 摄\r\n\n9月28日，航拍贵州省黔南州荔波县朝阳镇洪江村。中新社记者 瞿宏伦 摄\r\n\n9月28日，航拍贵州省黔南州荔波县朝阳镇洪江村。中新社记者 瞿宏伦 摄\r\n\n9月28日，航拍贵州省黔南州荔波县朝阳镇洪江村。中新社记者 瞿宏伦",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中新社记者航拍贵州荔波县洪江村，展示当地艺术村风貌。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，属权威媒体，有署名记者和具体时间地点，但内容仅为图片说明，信息量有限。"
     }
   ]
 }
