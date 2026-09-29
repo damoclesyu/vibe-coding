@@ -1,31 +1,14 @@
 {
-  "generatedAt": "2026-09-28T04:34:37.527Z",
+  "generatedAt": "2026-09-29T05:02:53.301Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "京津冀将加快建设世界级智能网联新能源汽车先进制造业集群，攻关固态电池、汽车芯片、操作系统等",
-      "link": "https://www.ithome.com/1/007/686.htm",
-      "pubDate": "Mon, 28 Sep 2026 02:54:30 GMT",
-      "contentSnippet": "IT之家 9 月 28 日消息，在今日的 2026 世界智能网联汽车大会新闻发布会上，北京市经济和信息化局副局长苏国斌表示，京津冀三地将加快建设世界级智能网联新能源汽车先进制造业集群。\n下一步，京津冀三地将重点做好四方面工作：\n\n一是聚力核心技术攻关，突破多传感器融合感知、模型算法、固态电池、汽车芯片、操作系统等；\n\n二是深耕产业生态优化，壮大整车体量、引育重点企业、创新整零协同；\n\n三是夯实资源要素保障，高标准打造区域性供应链保障和零部件测试生产基地；\n\n四是强化产品安全质量。\n\n工业和信息化部装备工业一司副司长郝立顺在大会上表示，《智能网联新能源汽车产业发展“十五五”规划》将开创全球产业合",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "京津冀将加快建设世界级智能网联新能源汽车集群，攻关固态电池、汽车芯片等核心技术。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，引述政府官员具体发言，信息详实，但缺少原始文件链接。"
-    },
-    {
-      "title": "【钛晨报】中美达成八点成果共识；中秋假期消费市场需求旺盛，智能、绿色商品销售火热；中国移动、中国电信、中国联通，集中叫停“0元购机”",
-      "link": "https://www.tmtpost.com/8153534.html",
-      "pubDate": "Mon, 28 Sep 2026 07:20:00 +0800",
-      "contentSnippet": "长安汽车：力争在2028年实现人形机器人量产；Meta数据隐私案败诉，或面临最高2190亿美元天价罚款；OpenAI确认干预3家美国政府网站；苹果因侵犯触觉反馈专利被判赔付57亿美元；中国信通院何阳：中国初步具备开展算力期货研究条件；2028年前后，FAST有望实现全链条国产化；美国一家AI实验室：AI演化出自己的方言",
+      "title": "人工智能发展绝非坦途：五重结构性制约深度解析",
+      "link": "https://www.tmtpost.com/8153979.html",
+      "pubDate": "Tue, 29 Sep 2026 10:37:00 +0800",
+      "contentSnippet": "正视硅基与碳基共生过程中的多重制约，理性看待技术红利与潜在风险，才能推动人工智能行稳致远，真正实现技术向善、普惠共享、安全可控的高质量发展。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -33,16 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体晨报汇总中美共识、消费数据及多家科技企业动态",
+      "aiSummary": "钛媒体发文分析人工智能发展的五重结构性制约，呼吁理性看待技术风险。",
       "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体，信息具体但为聚合摘要，缺少原始出处和深度核实"
+      "credibilityReason": "来源为知名科技媒体钛媒体，主题专业，但摘要仅泛泛而谈，缺少具体数据与原始出处。"
     },
     {
-      "title": "Meta 公布“Hologram”全新拟真虚拟形象，今年秋季陆续上线雷朋 Display 智能眼镜 / Quest 头显",
-      "link": "https://www.ithome.com/1/007/767.htm",
-      "pubDate": "Mon, 28 Sep 2026 04:31:04 GMT",
-      "contentSnippet": "IT之家 9 月 28 日消息，Meta 宣布将于今年秋季起陆续为旗下雷朋 Display 智能眼镜 / Quest 头显上线“Hologram”全新虚拟形象功能，这项技术类似苹果 Vision Pro 的 Persona，能够通过生成式 AI 打造与真人外观高度接近的虚拟形象。\n\n事实上，Meta 早在 7 年前就展示了名为 Codec Avatars 的拟真虚拟形象项目，不过目前消费者可以买到的 Meta VR 产品仍主要使用较为卡通化的自定义形象角色。按照目前的规划，后续 Meta 会逐步将用户的自定义形象角色从卡通化转向拟真写实化。\n据介绍，用户首次使用 Hologram 时，需要打开",
+      "title": "中国一汽与广汽工业签署战略合作框架协议",
+      "link": "https://www.ithome.com/1/008/135.htm",
+      "pubDate": "Tue, 29 Sep 2026 02:28:06 GMT",
+      "contentSnippet": "IT之家 9 月 29 日消息，中国一汽、广汽工业今天（29 日）宣布签署战略合作框架协议。\nIT之家附官方公告如下：\n\n9 月 29 日，中国第一汽车集团有限公司（以下简称“中国一汽”）与广州汽车工业集团有限公司（以下简称“广汽工业”）正式签署战略合作框架协议。此举不仅是对国家关于汽车产业高质量发展号召的积极响应，更是两家企业基于市场发展趋势和自身发展需求的战略联袂，标志着双方合作迈向战略协同新阶段。\n当前，中国汽车产业正处于由大向强、结构深度调整的关键阶段。作为中国汽车工业的领军企业与创新发展的核心驱动者，中国一汽和广汽工业在品牌建设、整车制造、市场布局、国际化经营、关键技术自主创新等方面",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -50,16 +33,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "Meta宣布今秋为雷朋Display眼镜和Quest头显上线Hologram拟真虚拟形象功能。",
+      "aiSummary": "中国一汽与广汽工业签署战略合作框架协议，响应汽车产业高质量发展号召。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，附官方公告原文，信息具体，但缺少合作细节与数据支撑。"
+    },
+    {
+      "title": "Finisar全球供应链负责人归国创业，在深圳造光芯片",
+      "link": "https://www.tmtpost.com/8154127.html",
+      "pubDate": "Tue, 29 Sep 2026 10:25:03 +0800",
+      "contentSnippet": "瑞康光联押注的，是这股浪潮里最需要时间、也最考验耐心的一点：真正交货的能力。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "Finisar前全球供应链负责人回国创业，在深圳成立瑞康光联，专注光芯片量产交付。",
       "credibilityScore": 78,
       "credibilityLevel": "medium",
-      "credibilityReason": "IT之家为知名科技媒体，内容具体且提及Codec Avatars技术背景，但正文摘要不完整，缺少官方原始出处链接。"
+      "credibilityReason": "钛媒体为知名科技媒体，人物背景具体，但正文信息简略，缺少技术细节与原始出处。"
     },
     {
-      "title": "荣耀 CEO 李健：Magic9 系列手机今日 16:08 正式开售",
-      "link": "https://www.ithome.com/1/007/766.htm",
-      "pubDate": "Mon, 28 Sep 2026 04:19:23 GMT",
-      "contentSnippet": "IT之家 9 月 28 日消息，荣耀终端股份有限公司 CEO 李健刚刚宣布，Magic9 系列手机将于今日 16:08 正式开售。\n\n据IT之家此前报道，李健还在 9 月 24 日率先公开了 Magic9 新机售价（16+512GB）：\n\n“行业最低价”：6499 元\n\n“Magic 十年钜献价”：5999 元\n\n国补到手价：5499 元\n\n\n另外，安兔兔官方今日发文称在后台发现了一款荣耀新机，型号为“WKL-AN80”，预计为 Magic9 Pro Max 旗舰手机。安兔兔表示，这款新机的跑分成绩目前曝光的同平台机型中跑分属于比较拔尖的存在。\n测试机型跑分超 552 万（总分 5524187",
+      "title": "vivo 更新考勤制度：最晚 9 点前打卡，每日工作时长需 8 小时，10 月 8 日开始执行",
+      "link": "https://www.ithome.com/1/008/236.htm",
+      "pubDate": "Tue, 29 Sep 2026 04:59:54 GMT",
+      "contentSnippet": "9 月 29 日中午消息，有消息称，vivo 中国区近日发布全员邮件，更新了考勤管理制度。相关人士向新浪科技确认了该消息。\n据悉，邮件中提出，公司执行标准工时制：\n\n每周 5 天工作制，每日标准工作时长 8 小时；\n\n上班打卡时间段为 8:30-9:00，当日最晚打卡时间不晚于 9:00；\n\n12:30-14:00、18:30-19:00 划定为休息时段，不计入有效工时，员工每日工作时长需满足 8 小时。\n\n邮件称，若遇到突发特殊情况需要晚到，员工可提前通过 v 消息向直属上级报备。以上考勤新规适用于 vivo 中国区全体在职员工，并将于 2026 年 10 月 8 日正式开始执行。",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -67,16 +67,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "荣耀CEO李健宣布Magic9系列手机今日16:08正式开售，起售价5999元。",
+      "aiSummary": "vivo中国区更新考勤制度，要求9点前打卡且每日工作满8小时，10月8日起执行。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息含具体售价、开售时间及跑分数据，来源为CEO官方宣布，可信度较高。"
+      "credibilityReason": "IT之家报道，新浪科技确认，信息具体含打卡时段和休息安排，但原始邮件未公开。"
     },
     {
-      "title": "雷蛇推出 Hello Kitty 和朋友们联名键帽盲盒，包含 5 大 IP 形象",
-      "link": "https://www.ithome.com/1/007/765.htm",
-      "pubDate": "Mon, 28 Sep 2026 04:18:39 GMT",
-      "contentSnippet": "IT之家 9 月 28 日消息，Razer（雷蛇）本月 25 日宣布推出与 Sanrio（三丽鸥）合作的 Hello Kitty 和朋友们主题键帽盲盒。这一盲盒汇集凯蒂猫、酷洛米、美乐蒂、大耳狗、布丁狗 IP 形象。\n\n标准版的联名键帽迷你人偶由多部件 PVC 组成，细节清晰，外部采用移印工艺，表面呈现光滑的半光泽效果；有 1/24 的可能性获得的限定特别版则拥有反光强烈的镜面设计。\n\n雷蛇 | Hello Kitty 和朋友们键帽盲盒以 1 件和 5+1 套装（包含全部 5 种）的形式销售，键帽兼容标准 MX 轴体。",
+      "title": "惊悚又硬核：研究团队造出能用指尖行走的机械手",
+      "link": "https://www.ithome.com/1/008/235.htm",
+      "pubDate": "Tue, 29 Sep 2026 04:55:40 GMT",
+      "contentSnippet": "IT之家 9 月 29 日消息，苏黎世联邦理工学院（ETH Zurich）软体机器人实验室的研究人员制作出了一款可以依靠指尖自行行走的机械手。\n\n据IT之家了解，这款机械手基于市面上一款常规的仿人机械手改造而成，共有五根手指，配备 20 个驱动关节，每根手指拥有四个关节。研究人员并没有重新设计手部结构，而是直接沿用了这套现成的手指部件，借助仿真环境里的强化学习算法教会它移动。手掌部位加装了电池、基于树莓派（Raspberry Pi）搭建的机载计算机以及运动传感器，整套设备可以完全独立运行。整机重量为 818 克。\n\n教会这只手行走是一项很大的挑战，机械手的各根手指长短不一，大拇指与其余四指呈对",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -84,16 +84,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "雷蛇与三丽鸥合作推出Hello Kitty主题键帽盲盒，含5大IP形象。",
+      "aiSummary": "ETH Zurich团队改造仿人机械手，通过强化学习实现指尖行走，整机可独立运行。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体含产品细节、工艺和销售形式，但缺少官方链接引用。"
+      "credibilityReason": "来源为知名科技媒体IT之家，技术细节具体（20关节、818克、树莓派），有明确研究机构，但缺少原始论文链接。"
     },
     {
-      "title": "2D 时代的 GTA 也有画质升级，开发者用英伟达 RTX Remix 让《GTA 2》支持光追",
-      "link": "https://www.ithome.com/1/007/764.htm",
-      "pubDate": "Mon, 28 Sep 2026 04:16:21 GMT",
-      "contentSnippet": "IT之家 9 月 28 日消息，当地时间 27 日，据外媒 TechPowerUp 报道，Mod 作者 gebdag 发布了《GTA 2》RTX Remix 模组，为其带来完整路径追踪和动态昼夜光照。\n\n\n\n\nIT之家注：《GTA 2》发布于 1999 年，仍是 2D 画风的俯视角游戏。2001 年发布的《GTA 3》是《侠盗猎车手》系列迈入 3D 时代的开山之作。\n英伟达 GeForce 宣传大使雅各布 · 弗里曼分享了一段演示视频。\n\n\n整个开发过程最大的难点在技术层面：《GTA 2》采用 DirectDraw 和早期版本 Direct3D，而 RTX Remix 并不原生支持这两套技术。",
+      "title": "消息称小鹏靠碳积分交易累计收入已超 10 亿元",
+      "link": "https://www.ithome.com/1/008/234.htm",
+      "pubDate": "Tue, 29 Sep 2026 04:49:56 GMT",
+      "contentSnippet": "IT之家 9 月 29 日消息，据第一财经今日报道，小鹏与保时捷及多家国际主机厂达成了碳积分交易合作，交易覆盖欧盟、英国、澳大利亚等全球多个市场，累计总交易收入预估超 10 亿元。\n报道称，今年二季度，小鹏海外销量首次突破 2 万台，同比增长 81%。基于海外销量，小鹏积累了大量碳积分额度。该公司形成包括整车、技术服务、碳积分等多元收入结构。\nIT之家注：电动车销量较低的车企可以与市场领先的电动车企共享排放数据，并通过购买碳积分来降低自身的平均排放水平，从而避免支付高达数亿欧元的欧盟罚款。按照规定，汽车制造商需在每年 12 月 31 日前向欧盟委员会申报碳积分交易协议。欧盟委员会可以要求额外的",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -101,16 +101,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "Mod作者用英伟达RTX Remix为2D《GTA 2》加入路径追踪和动态昼夜光照。",
-      "credibilityScore": 82,
+      "aiSummary": "小鹏与保时捷等车企碳积分交易累计收入超10亿元",
+      "credibilityScore": 78,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家编译TechPowerUp报道，技术细节具体，有Mod作者和演示视频出处，但非一手采访。"
+      "credibilityReason": "IT之家引述第一财经报道，信息具体含数据，但原始出处为二手转述，细节待官方确认"
     },
     {
-      "title": "谷歌为 Google AI 订阅会员新增 Colab 高级权益，可使用高性能云端计算资源",
-      "link": "https://www.ithome.com/1/007/762.htm",
-      "pubDate": "Mon, 28 Sep 2026 04:14:38 GMT",
-      "contentSnippet": "IT之家 9 月 28 日消息，谷歌宣布为旗下 Google AI 订阅会员新增 Google Colab 高级权益，符合条件的订阅用户将获得 Colab 计算单元，并可使用性能更高的 GPU、TPU 等云端计算资源。\n\n公开信息显示，Google Colab 是一项无需安装的托管式 Jupyter Notebook 服务，用户可以直接编写和运行 Python 代码，并使用 GPU、TPU 等云端计算资源。\n随着 Colab 高级权益加入 Google AI 订阅体系，Google AI Ultra 除了提供 20TB 起步的云端存储空间、最高 20 倍的 Gemini 使用额度以及 YouT",
+      "title": "豆包将推个人助理产品：4 月已内测，曾用代号“Spell”",
+      "link": "https://www.ithome.com/1/008/233.htm",
+      "pubDate": "Tue, 29 Sep 2026 04:38:12 GMT",
+      "contentSnippet": "9 月 29 日消息，新浪科技获悉，豆包在个人助理方向正在推进相关产品规划。一位知情人士表示，延续去年豆包手机助手在 personal agent 方向的策略，今年 4 月，豆包内部就已开始内测个人助理方向的探索产品。\n该人士透露，该探索项目当时代号为“Spell”，主要由豆包手机助手团队主导，但由于豆包手机发布等原因，一直没有正式对外。\n该人士表示，Muse、Instinct 等个人助理类产品在海外获得关注后，豆包也在加速 personal agent 能力的对外发布，计划将此前的 Spell 项目与豆包产品更深度结合，新产品将由 Spell 项目与豆包对话团队共同负责，预期较快会对外推出。",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -118,135 +118,35 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "谷歌为Google AI订阅会员新增Colab高级权益，可使用高性能GPU、TPU云端计算资源。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容具体，含产品细节与订阅权益信息，但缺少官方原始链接引用。"
-    },
-    {
-      "title": "荣耀 WKL-AN80 新机现身安兔兔：第 6 代骁龙 8 超级至尊版、跑分超 552 万，预计是 Magic9 Pro Max",
-      "link": "https://www.ithome.com/1/007/760.htm",
-      "pubDate": "Mon, 28 Sep 2026 04:07:34 GMT",
-      "contentSnippet": "IT之家 9 月 28 日消息，安兔兔官方今日发文称在后台发现了一款荣耀新机，型号为“WKL-AN80”，预计为 Magic9 Pro Max 旗舰手机。安兔兔表示，这款新机的跑分成绩目前曝光的同平台机型中跑分属于比较拔尖的存在。\n\n▲ IT之家开箱：荣耀 Magic9 Pro Max 图赏\n测试机型跑分超 552 万（总分 5524187），搭载第 6 代骁龙 8 超级至尊版移动平台，系统基于 Android 17 打造，拥有 16GB+1TB 规格。安兔兔官方称该机 CPU 成绩 1452764、GPU 成绩 2081549、MEM 成绩 736389、UX 成绩则是 1253485。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "荣耀新机WKL-AN80现身安兔兔，跑分超552万，预计为Magic9 Pro Max。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引用安兔兔官方数据，跑分细节具体，但发布时间为未来日期存疑。"
-    },
-    {
-      "title": "七彩虹为隐星 P15 笔记本上线“熊猫本”配色：i5-13420H + 16G + 512G + RTX3050 复古规格，6299 元",
-      "link": "https://www.ithome.com/1/007/759.htm",
-      "pubDate": "Mon, 28 Sep 2026 04:07:34 GMT",
-      "contentSnippet": "IT之家 9 月 28 日消息，七彩虹宣布为旗下隐星 P15 笔记本带来一款“熊猫色”版本，该版本采用了“i5-13420H + 16GB RAM + 512G SSD + RTX3050 规格”，定价为 6299 元，部分地区国补后低至 5354.15 元。\n\n该版本机型之所以被称为“熊猫本”主要是其 A/C/D 面为银色配色，B 面边框采用了黑色配色。其配备一块 1920x1080 分辨率 144Hz 面板，使用全尺寸多彩背光键盘。\n\n该机搭载英特尔酷睿 i5-13420H 处理器，匹配 16GB DDR4 3200MHz RAM 和 512GB PCIe 3.0 SSD，使用 RTX 3",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "七彩虹隐星P15推熊猫配色版，i5-13420H配RTX3050，售价6299元。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，产品规格、价格、配色细节具体，信息有据可查。"
-    },
-    {
-      "title": "补能行业变天！蔚来迎来新盟友，吉利将推出换电新车型",
-      "link": "https://www.ifanr.com/1682222?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pubDate": "Mon, 28 Sep 2026 04:00:32 +0000",
-      "contentSnippet": "换电走到今天，或许才刚刚进入第二阶段。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "sourceName": "爱范儿",
-      "sourceWeight": 82,
-      "allSources": [
-        "爱范儿"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "吉利将推换电新车型并加入蔚来换电联盟，补能行业格局生变。",
+      "aiSummary": "豆包内部4月已内测代号Spell的个人助理产品，计划近期对外推出。",
       "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "爱范儿为知名科技媒体，但正文摘要过简，缺少具体车型、数据及官方出处，信息详实度不足。"
+      "credibilityReason": "IT之家转载新浪科技，信源为匿名知情人士，无官方确认，但内容具体、逻辑合理。"
     },
     {
-      "title": "七彩虹战斧 BA26M-G 黑刃 G 机箱、战斧黑刃 SE 风扇正式发布",
-      "link": "https://www.ithome.com/1/007/755.htm",
-      "pubDate": "Mon, 28 Sep 2026 03:58:47 GMT",
-      "contentSnippet": "IT之家 9 月 28 日消息，七彩虹 (Colorful) 今日发布了 BATTLE-AX 系列 PC 组件新品，分别是战斧 BA26M-G 黑刃 G 机箱、F120H25 SE / FD120H25 SE 战斧黑刃 SE 正反叶机箱风扇。\n\nBA26M-G 机箱整体为 5 扩展槽 M-ATX 兼容规格，采用上下分舱布局，2 块玻璃面板带来无左前柱的全视“海景房”顺畅视野。\n其外部多处 UV 印刷战斧元素，支持便捷拆装；兼容 390mm 扩展卡、220mm ATX 电源；拥有 9 个风扇位，顶部支持 360 冷排并配备磁吸防尘网；前置 I/O 包括 1 个 USB-A 5Gbps、2 个 U",
+      "title": "Googlebook 来了，谷歌确认 Chromebook 将于 2034 年停止 ChromeOS 更新",
+      "link": "https://www.ithome.com/1/008/232.htm",
+      "pubDate": "Tue, 29 Sep 2026 04:29:47 GMT",
+      "contentSnippet": "IT之家 9 月 29 日消息，谷歌全新的 Googlebook 笔记本电脑正式发布之后，不少人产生了疑问：很多用户，尤其是学生群体十分熟悉的 Chromebook 产品接下来将何去何从？谷歌表示将在 2034 年年中逐步停止推送 ChromeOS 系统更新。这一时间点与此前法庭文件记录的规划保持一致，如今该方案已经正式敲定。\n\n谷歌在面向企业与教育领域的 Chrome 信息技术管理员发布的一份支持文档当中说明：“我们旗下许多新款 Chromebook 设备将具备迁移至 Googlebook 操作系统的资格。”不过文档尚未列出具体机型，也没有说明升级该如何实施。\n据IT之家了解，Chromeb",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
-        "IT之家"
+        "IT之家",
+        "少数派",
+        "Solidot"
       ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "七彩虹发布战斧BA26M-G黑刃G机箱及黑刃SE系列正反叶风扇新品",
-      "credibilityScore": 82,
+      "coverageCount": 3,
+      "coverageBoost": 10,
+      "aiSummary": "谷歌确认Chromebook将于2034年中停止ChromeOS更新，部分设备可迁移至Googlebook系统。",
+      "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容含具体规格参数，但缺少官方原始链接引用"
+      "credibilityReason": "来源为IT之家等知名科技媒体，信息具体含时间节点与官方文档引用，但缺乏原始链接且部分细节未明。（多源覆盖 +10）"
     },
     {
-      "title": "荣耀手表 6 Pro 今起首销：纳米微晶陶瓷、穿戴首款双层 OLED 屏幕，首发 1699 元起",
-      "link": "https://www.ithome.com/1/007/753.htm",
-      "pubDate": "Mon, 28 Sep 2026 03:48:02 GMT",
-      "contentSnippet": "IT之家 9 月 28 日消息，荣耀手表 6 Pro 系列今日正式开售，新品定位“心脏血压健康专家”，采用纳米微晶陶瓷材质，搭载灵瞳感知系统，支持心脏停搏监测、无感血压 2.0 等功能，首发价 1699 元起。\n\n京东荣耀手表 6 Pro1699 元起直达链接\n\n据介绍，荣耀手表 6 Pro 双系列五款设计，搭载 1.5 英寸像素光刻屏（穿戴首款双层 OLED 屏幕），首次将半导体高精度光刻技术引入腕间像素设计，同时搭载双层 OLED + MagicOS 全新通透毛玻璃动效，全局激发亮度 4500nits。\n\n荣耀将“主动社会求救”能力引入心脏骤停等极端场景。面对心脏停搏风险，荣耀健康系统可自",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "荣耀手表6 Pro首销，搭载穿戴首款双层OLED屏及心脏血压监测功能，1699元起。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，产品参数具体，但缺少官方原始出处引用。"
-    },
-    {
-      "title": "航嘉推出高能 S67 mini 氮化镓充电器：1A2C 三口输出，本体 109 元",
-      "link": "https://www.ithome.com/1/007/747.htm",
-      "pubDate": "Mon, 28 Sep 2026 03:45:24 GMT",
-      "contentSnippet": "IT之家 9 月 28 日消息，航嘉 (HuntKey) 近日推出了两脚充电器新品高能 S67 mini。这一型号额定功率 67W，配备 1A2C 共 3 个 USB 端口，本体售价 109 元。\n\n高能 S67 mini 采用氮化镓 (GaN) 功率半导体材料，电路上为反激拓扑 + buck 降压方案，搭配石墨烯 + 灌胶复合散热。其通过 CCC 新国标认证，适用海拔上限达 5000m，拥有 OVP、OCP、OTP、SCP 以及过充、过放、雷击浪涌、静电、火焰防护。\n该充电器的 C1、C2、A1 接口分别单独支持 67W、67W、33W，双口下支持 45W + 20W + 0、45W + 0",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "航嘉推出67W氮化镓充电器S67 mini，1A2C三口，售价109元。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，产品参数、电路方案、认证及价格等信息具体详实，来源可靠。"
-    },
-    {
-      "title": "华为开源盘古 openPangu-2.0 的预训练、SFT 代码和后训练 RL 代码正式开源上线",
-      "link": "https://www.ithome.com/1/007/740.htm",
-      "pubDate": "Mon, 28 Sep 2026 03:43:19 GMT",
-      "contentSnippet": "IT之家 9 月 28 日消息，华为今日宣布，开源盘古 openPangu-2.0 的预训练、 SFT 代码和后训练 RL 代码正式开源上线。\n\n开源盘古 openPangu 是华为开源 AI 模型品牌，致力于通过昇腾原生训练与推理技术，为业界用好昇腾提供最佳实践参考。\nopenPangu-2.0 模型相关组件已陆续上线开源平台。IT之家附开源地址如下：\n\nhttps://gitcode.com/ascend-tribe/openPangu-2.0-Training\n\nhttps://gitcode.com/ascend-tribe/openPangu-2.0-RL",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "华为开源盘古openPangu-2.0预训练、SFT及后训练RL代码，上线GitCode平台。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体含开源地址，但内容较简略，缺少技术细节与官方原始公告引用。"
-    },
-    {
-      "title": "从“命悬一线”到426亿元：长江边小镇，出了个“偏科天才”",
-      "link": "https://www.tmtpost.com/8153817.html",
-      "pubDate": "Mon, 28 Sep 2026 11:38:24 +0800",
-      "contentSnippet": "从“命悬一线”到426亿元：长江边小镇，出了个“偏科天才”",
+      "title": "车企开始自己做电池，宁德时代们的位置要变了",
+      "link": "https://www.tmtpost.com/8151229.html",
+      "pubDate": "Tue, 29 Sep 2026 12:27:57 +0800",
+      "contentSnippet": "车企这一轮下场做电池，与其说是在离开某一家供应商，不如说是在重新定义自己和供应商之间的关系。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -254,10 +154,112 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体报道长江边小镇企业从濒危到426亿元估值的偏科天才创业故事。",
-      "credibilityScore": 72,
+      "aiSummary": "车企自研电池重塑供应链关系，宁德时代等供应商地位面临调整",
+      "credibilityScore": 78,
+      "credibilityLevel": "high",
+      "credibilityReason": "钛媒体为知名科技媒体，选题具行业洞察，但正文摘要较简略，缺少具体数据与原始出处"
+    },
+    {
+      "title": "华为 WATCH GT 6 系列手表 HarmonyOS 7 公测版开推：系统界面焕新、新增光穹等表盘",
+      "link": "https://www.ithome.com/1/008/231.htm",
+      "pubDate": "Tue, 29 Sep 2026 04:22:52 GMT",
+      "contentSnippet": "IT之家 9 月 29 日消息，华为 WATCH GT 6 系列智能手表已于昨日开启 HarmonyOS 7 公测版升级尝鲜招募。\n\n▲ IT之家评测室：华为 WATCH GT 6 Pro 首发评测\n\n华为手机 / 平板：【我的华为 / 服务】APP > 首页 > 升级尝鲜（根据提示一键报名）\n\n其他品牌手机 / 平板：微信小程序 >【我的华为】> 点击首页热门活动下对应产品图（根据提示填写信息报名）\n\n\nIT之家附华为 WATCH GT 6 系列手表此次更新内容如下：\n\n新增\n\n1.系统界面焕新升级，表盘及多任务列表等新增光影效果，锻炼记录等页面更具层次感，为您呈现更舒适的交互体验\n\n2.新",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "华为WATCH GT 6系列开启HarmonyOS 7公测，界面焕新并新增光穹等表盘。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，内容具体含升级路径与更新清单，但缺少官方原始链接。"
+    },
+    {
+      "title": "乌龟海岸推出《我的世界：地下城 2》主题 Nintendo Switch 2 手柄、耳机、收纳包",
+      "link": "https://www.ithome.com/1/008/230.htm",
+      "pubDate": "Tue, 29 Sep 2026 04:21:54 GMT",
+      "contentSnippet": "IT之家 9 月 29 日消息，Turtle Beach（乌龟海岸）当地时间昨日宣布推出《我的世界：地下城 2》主题外设。这一系列包含无线手柄控制器、有线头戴式耳机、旅行收纳包。\n\n联名款 Rematch Wireless Controller 采用动态光栅设计，其面盖图案会随着角度变化在 Valorie 和 Creeper 之间切换。其配备 TMR，内置语音聊天 C 键，定价 69.99 美元（IT之家注：现汇率约合 470.4 元人民币）。\n\n另外两款产品（Airlite Fit 有线头戴式耳机、PlayTrek 旅行收纳包）均定价 29.99 美元（现汇率约合 201.6 元人民币）。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "乌龟海岸推出《我的世界：地下城2》主题Switch 2外设，含手柄、耳机和收纳包。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息含具体产品名、定价和设计细节，但缺少官方原始链接。"
+    },
+    {
+      "title": "部分 Win10/Win11 用户反馈开机约 3~5 分钟卡死，根源指向微软安全启动更新任务",
+      "link": "https://www.ithome.com/1/008/229.htm",
+      "pubDate": "Tue, 29 Sep 2026 04:15:57 GMT",
+      "contentSnippet": "IT之家 9 月 29 日消息，科技媒体 NeoWin 于 9 月 27 日发布博文，报道称过去数月时间里，陆续有用户反馈 Windows 11 开机使用约 3~5 分钟后出现卡死情况，初步调查指向默认的“安全启动更新计划任务”。\n该媒体指出受影响用户通常在开机约 3~5 分钟后卡死，部分用户测试断网情况下使用，没有复现该故障；但在联网状态下，这种情况更加容易复现。\n用户借助任务管理器和事件查看器排查后，将问题指向“安全启动更新计划任务”（Secure-Boot-Update scheduled task）。该任务会在设备联网后检查安全启动更新，因此容易被误认为网络连接引发故障。IT之家附上相",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "用户反馈Win11开机3~5分钟卡死，疑与安全启动更新任务有关",
+      "credibilityScore": 78,
       "credibilityLevel": "medium",
-      "credibilityReason": "钛媒体为知名科技媒体，但仅有标题摘要，缺乏技术细节和原始出处，信息量不足。"
+      "credibilityReason": "来源为IT之家转述NeoWin，有排查细节但缺微软官方确认，属用户反馈层面"
+    },
+    {
+      "title": "比亚迪王朝网第 1000 万辆汽车下线，车型为大汉",
+      "link": "https://www.ithome.com/1/008/227.htm",
+      "pubDate": "Tue, 29 Sep 2026 04:03:18 GMT",
+      "contentSnippet": "IT之家 9 月 29 日消息，比亚迪王朝网销售事业部总经理路天今日在微博发文称，比亚迪王朝第 1000 万辆汽车下线，下线车型是即将上市的 D 级旗舰轿车 —— 大汉。这是王朝网发展历程中的重要里程碑时刻。\n\n从时间线来看，王朝网的销量规模增长显著：2026 年 1 月时王朝累销约 886 万辆，到 9 月即突破 1000 万辆。王朝网是比亚迪的销量主力，在比亚迪前 1500 万辆新能源汽车中，王朝网累计贡献约 900 万辆，海洋网约 600 万辆。\n\nIT之家注意到，大汉作为王朝网首款 D 级旗舰轿车，车身尺寸达 5256/1999/1510mm，轴距 3130mm，纯电后驱版最高续航达",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "比亚迪王朝网第1000万辆汽车下线，车型为即将上市的D级旗舰轿车大汉。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息源自高管微博，含具体销量数据与车型参数，但缺原始链接。"
+    },
+    {
+      "title": "微软优化 Edge 浏览器：网页提示不乱跑、扩展 AI 智能体技能",
+      "link": "https://www.ithome.com/1/008/226.htm",
+      "pubDate": "Tue, 29 Sep 2026 04:02:50 GMT",
+      "contentSnippet": "IT之家 9 月 29 日消息，微软于 9 月 21 日发布更新日志，面向 Microsoft Edge 浏览器开发者，引入一系列新功能 / 新工具。相关改进落地后，可以让网页应用更流畅，AI 智能体可以驾驭更多浏览器任务。\n这些新功能 / 新工具虽然是“开发者向”，不过开发者通过调用这些新特性，可以转化为用户能感知的体验升级，重点让网页应用更快、更稳。\n微软新增的“软导航”、“交互内容绘制”等性能指标，帮助开发者找出单页应用（SPA）里“看起来卡但没真正跳转”的瓶颈，可以减少点按钮、切换标签、加载列表时掉帧、白屏、假死情况，让操作更跟手。\n开发者可以借助新的 JS 自分析标记，更快排查“样式",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微软为Edge浏览器开发者推出新功能，优化网页性能并增强AI智能体能力。",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体IT之家，内容具体涉及技术细节，但缺少原始出处链接，且发布时间为未来日期存疑。"
+    },
+    {
+      "title": "1 分钟 12 圈定圆漂移，岚图追光 S 拿下全新吉尼斯世界纪录",
+      "link": "https://www.ithome.com/1/008/225.htm",
+      "pubDate": "Tue, 29 Sep 2026 04:02:45 GMT",
+      "contentSnippet": "IT之家 9 月 29 日消息，今天（29 日）上午，岚图汽车官微宣布，岚图追光 S 拿下全新的吉尼斯世界纪录：1 分钟内驾驶电动汽车定圆漂移圈数最多。一辆配备原厂胎、标准胎压的岚图追光 S 量产车在水泥地面上，1 分钟完成了 12 圈定圆漂移。\n\n此前，该车还实现了 360° 隧道大回环穿越成功（IT之家注：在隧道中完成 360 度旋转穿越，轮胎贴着墙面飞驰，最终平稳回到地面）。\n该车已于今年 8 月正式上市，定位“全球首款科技 FUV”，全系标配华为乾崑智驾四激光雷达方案，22.99 万元起售。\n\n四激光后驱 Max 版：22.99 万元，限时权益价 22.39 万元\n\n四激光后驱 Ult",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "岚图追光S以1分钟12圈定圆漂移获吉尼斯世界纪录，配华为智驾。",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "IT之家为知名科技媒体，有具体数据和吉尼斯背书，但缺乏官方链接和第三方验证。"
     }
   ]
 }
