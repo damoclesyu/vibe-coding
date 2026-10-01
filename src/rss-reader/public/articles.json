@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-30T04:48:21.412Z",
+  "generatedAt": "2026-10-01T05:01:04.901Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "观察｜胡春春：德国地方选举暴露刺眼现实，谁执政谁“倒霉”",
-      "link": "https://m.thepaper.cn/detail/34177891",
-      "pubDate": "Wed, 30 Sep 2026 04:27:37 GMT",
-      "contentSnippet": "近日，德国东部三个州举行地方选举引发热议。极右翼的德国选择党在萨安州、梅前州成为第一大党，柏林州则由左翼党领先。德国总理默茨所在的基民盟在三个州均表现不佳，默茨本人面临执政危机。澎湃新闻记者连线此前在德国多地考察的上海外国语大学欧洲研究所执行所长胡春春进行了解读。",
+      "title": "50年无规划、资本切割与死胡同：曼谷“逢雨必淹”下沉悲剧｜907编辑部",
+      "link": "https://m.thepaper.cn/detail/34185560",
+      "pubDate": "Thu, 01 Oct 2026 04:39:41 GMT",
+      "contentSnippet": "央视援引泰国防灾减灾厅9月30日晚通报称，9月16日以来，洪灾已波及全国43个府及首都曼谷，超过323万人受影响，造成24人死亡。截至30日18时，仍有29个府及曼谷存在洪灾，约319万人受影响。目前，泰国中部和东部多地水位仍在上涨。\n曼谷自9月25日周五到27日骤降高达320毫米的暴雨，几乎相当于当地整个9月的总降雨量。低洼地区的排水系统彻底瘫痪，全城50个区均受波及，多条主要干道一片汪洋，首都56处主要公路交通断绝，曼谷市市长差察·西迪汶26日罕见式的宣布全市为洪水灾区。\n泰国总理阿努廷在27日去邦卡皮区视察并发放物资。但阿努廷脱鞋赤脚在水里走的照片和影片被质疑是在作秀，因为积水中极可能含",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -16,50 +16,67 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "德国东部三州地方选举极右翼选择党表现强劲，执政基民盟受挫。",
+      "aiSummary": "泰国洪灾波及43府及曼谷，超323万人受影响，24人死亡，曼谷遭遇罕见暴雨。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "澎湃新闻为知名媒体，引用央视及泰国防灾减灾厅数据，信息具体，但非一线通讯社且部分细节待核实。"
+    },
+    {
+      "title": "村田晃大强闯中国驻日使馆案在日首次公开庭审",
+      "link": "https://m.thepaper.cn/detail/34185562",
+      "pubDate": "Thu, 01 Oct 2026 03:53:05 GMT",
+      "contentSnippet": "日本东京地方法院10月1日对日本自卫队官员村田晃大强闯中国驻日本大使馆案举行首次公开庭审。\n日本检方以闯入建筑物、威胁使馆工作人员等罪名对其提起公诉。据日本共同社报道，村田晃大在庭审中承认了闯入建筑物和违反枪支刀具法的罪名，但对于威胁使馆工作人员的指控，其辩方认为“不构成犯罪”。\n今年3月24日，日本陆上自卫队现役三等陆尉村田晃大携刀翻墙强行闯入中国驻日大使馆，威胁杀害中国外交人员，随后被警方逮捕。8月，日本陆上自卫队对村田晃大作出免职处分。\n中国驻日使馆就闯馆事件向日方提出严正交涉并表示强烈抗议，要求日方作出负责任的交代。中国外交部表示，中方敦促日方切实负起责任，严惩凶犯、彻查整改。然而，截",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "日本东京地方法院首次公开庭审自卫队官员村田晃大强闯中国驻日使馆案。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "澎湃新闻为知名媒体，引述共同社报道，时间地点人物具体，但缺少庭审直接引述。"
+    },
+    {
+      "title": "乘客称凭借电视节目知识万米高空救机，特朗普直呼“不可思议”",
+      "link": "https://m.thepaper.cn/detail/34185315",
+      "pubDate": "Thu, 01 Oct 2026 03:46:32 GMT",
+      "contentSnippet": "据新华社报道，以色列总理内塔尼亚胡当地时间9月30日发表视频声明证实，当天在一架载有以色列乘客的迪拜航空公司航班上，一名飞行员刺伤另一名飞行员后试图使飞机坠毁，后被乘客和机组人员制服。\n内塔尼亚胡说，袭击嫌疑人已被逮捕，目前正在接受沙特阿拉伯当局的讯问。\n据美国有线电视新闻网（CNN）报道，美国总统特朗普当地时间30日表示，他已就此次事件与内塔尼亚胡通话。特朗普称，乘客们合力制服袭击者的过程“简直令人难以置信”。\n特朗普在白宫接受记者采访时说：“看起来，副驾驶可能是一名恐怖分子”，并称赞了一名乘客的英勇举动。\n按特朗普的说法，这名乘客是一名“水管工”，在没有任何飞行经验的情况下，帮助重新控制了",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "内塔尼亚胡证实迪拜航空航班飞行员袭击事件，特朗普称乘客英勇制服袭击者。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "澎湃新闻转引新华社和CNN，有直接引述，但标题与正文细节存在出入，部分信息待核实。"
+    },
+    {
+      "title": "“载以色列乘客，蓄意坠机！”，内塔尼亚胡还原迪拜航空客机安全事件",
+      "link": "https://m.thepaper.cn/detail/34185338",
+      "pubDate": "Thu, 01 Oct 2026 03:42:56 GMT",
+      "contentSnippet": "9月30日，以色列总理内塔尼亚胡发表讲话，确认当天从迪拜飞往以色列的航班上发生了一起“极其严重的安全事件”，并表示机上几乎所有的乘客都是以色列人。内塔尼亚胡表示，飞机在接近以色列领空时，机上一名飞行员刺伤了另一名飞行员，推测行凶者企图让飞机坠毁。",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "内塔尼亚胡称迪拜飞以色列航班发生飞行员刺伤事件，疑蓄意坠机。",
       "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "澎湃为知名媒体，有专家署名解读，但选举具体数据缺失，未提供直接引述。"
+      "credibilityReason": "澎湃新闻为较权威媒体，引述内塔尼亚胡讲话，但事件细节单一来源，缺乏独立核实。"
     },
     {
-      "title": "福建舰副舰长收到台湾小朋友画作，国台办回应",
-      "link": "https://m.thepaper.cn/detail/34178162",
-      "pubDate": "Wed, 30 Sep 2026 04:26:26 GMT",
-      "contentSnippet": "2026年9月30日，国务院台办举行例行新闻发布会。发言人张晗回答记者提问时表示，我们将不断创造条件，让更多台湾同胞了解人民海军的建设发展，共享作为中国人的骄傲与荣光。",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国台办回应福建舰副舰长收到台湾小朋友画作，称将创造条件让台胞了解人民海军。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为澎湃新闻，属较权威媒体；内容具体，有官方发言人引述，事实可查证。"
-    },
-    {
-      "title": "内塔尼亚胡声称“敌人可能在大选前动手”，反对党：危言耸听",
-      "link": "https://m.thepaper.cn/detail/34178160",
-      "pubDate": "Wed, 30 Sep 2026 04:16:47 GMT",
-      "contentSnippet": "当地时间9月29日，以色列总理内塔尼亚胡在以军一个空军基地发表视频声明称，有迹象表明“敌人可能在10月27日以色列大选前对以发动袭击”。同日，以色列军方和安全部门消息人士称，截至目前没有确凿信息或证据表明，以色列将在选举前遭到重大袭击。",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "内塔尼亚胡称敌人或在大选前袭击以色列，军方消息人士称无确凿证据。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为知名媒体，报道含具体时间地点及军方消息人士引述，内容可查证。"
-    },
-    {
-      "title": "美国6只、日本0只：韩国媒体一句话，戳中日本“零熊猫时代”的尴尬",
-      "link": "https://www.chinanews.com.cn/sh/2026/09-30/10706112.shtml",
-      "pubDate": "Wed, 30 Sep 2026 12:16:18 +0800",
-      "contentSnippet": "9月29日，韩国《韩民族日报》一篇报道的标题，有些扎心——《中国“不借熊猫给日本”，美国已有6只……高市早苗心里不是滋味》。",
+      "title": "中俄两大界江进入20天秋季禁渔期 700余艘渔船撤离作业水域",
+      "link": "https://www.chinanews.com.cn/gn/2026/10-01/10706621.shtml",
+      "pubDate": "Thu, 1 Oct 2026 11:09:40 +0800",
+      "contentSnippet": "中新社哈尔滨10月1日电 10月1日0时起，中俄界江黑龙江、乌苏里江开启为期20天的秋季禁渔期，重点守护大马哈鱼跨境洄游繁殖。两条界江全年禁渔各55天，分为伏季、秋季两个阶段落实。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -67,51 +84,50 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "韩媒报道称中国不借熊猫给日本，美国已有6只，日本进入零熊猫时代。",
-      "credibilityScore": 72,
+      "aiSummary": "中俄界江黑龙江、乌苏里江10月1日起进入20天秋季禁渔期，保护大马哈鱼洄游。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新社，属权威媒体，信息具体含时间地点及禁渔天数，但缺乏直接引述。"
+    },
+    {
+      "title": "服务嵌入发展全链条 海南三篇“文章”激发经营主体活力",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-01/10706626.shtml",
+      "pubDate": "Thu, 1 Oct 2026 11:09:02 +0800",
+      "contentSnippet": "中新网海口10月1日电 (记者 张茜翼)经营主体高质量发展，是营商环境的“试金石”，更是自贸港建设的“动力源”。海南把服务嵌入经营主体发展全链条，做好高效审批、全程护航、信用赋能三篇“文章”，让经营主体在自贸港安心经营、加快成长。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中新网报道海南通过高效审批、全程护航、信用赋能三举措激发经营主体活力。",
+      "credibilityScore": 78,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网属较权威媒体，有署名记者，内容具体但缺乏直接引述和数据支撑。"
+    },
+    {
+      "title": "中国担当赋能“一带一路”共建",
+      "link": "https://www.chinanews.com.cn/ydyl/2026/10-01/10706619.shtml",
+      "pubDate": "Thu, 1 Oct 2026 10:49:45 +0800",
+      "contentSnippet": "当前全球地缘经济格局深度重构，逆全球化思潮持续发酵，别有用心者炮制出“中国挤压”论调，污蔑中国制造业发展“挤占”全球南方国家工业化空间，妄图破坏中国同全球南方国家合作。然而，回望中国共建“一带一路”倡议10多年的客观实践与丰硕成果，不难发现，这一论调纯属无稽之谈。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中新网发文驳斥“中国挤压”论，称一带一路实践成果丰硕。",
+      "credibilityScore": 62,
       "credibilityLevel": "medium",
-      "credibilityReason": "中新网较权威，但转述韩媒标题，缺乏中方直接回应及多源交叉验证。"
+      "credibilityReason": "来源为中新网较权威，但属官方评论文章，缺少具体数据与直接引述，用词带立场。"
     },
     {
-      "title": "烈士纪念日向人民英雄敬献花篮仪式在京隆重举行 习近平等党和国家领导人出席",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-30/10706088.shtml",
-      "pubDate": "Wed, 30 Sep 2026 12:13:20 +0800",
-      "contentSnippet": "原标题：烈士纪念日向人民英雄敬献花篮仪式在京隆重举行",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网",
-        "澎湃新闻"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "烈士纪念日向人民英雄敬献花篮仪式在北京举行，习近平等党和国家领导人出席。",
-      "credibilityScore": 100,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网和澎湃新闻等权威媒体，内容为官方公开活动，事实明确可查证。（多源覆盖 +5）"
-    },
-    {
-      "title": "易会满被公诉 曾任中国证监会主席",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-30/10706106.shtml",
-      "pubDate": "Wed, 30 Sep 2026 12:00:31 +0800",
-      "contentSnippet": "中新社北京9月30日电 (记者 张素)记者9月30日从中国最高人民检察院获悉，十四届全国政协经济委员会原副主任易会满涉嫌受贿一案，由国家监察委员会调查终结，移送检察机关审查起诉。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国最高检对涉嫌受贿的易会满移送审查起诉。",
-      "credibilityScore": 92,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新社，引述最高检官方信息，事实具体可查证。"
-    },
-    {
-      "title": "黑龙江一女职工被控殴打男同事致耳膜穿孔判刑八个月，最高法指令再审",
-      "link": "https://m.thepaper.cn/detail/34177871",
-      "pubDate": "Wed, 30 Sep 2026 03:59:25 GMT",
-      "contentSnippet": "上班期间的琐事，引发了两名同事的冲突。事后男同事因耳膜穿孔被鉴定为轻伤，女同事被以故意伤害罪判刑八个月。\n这起9年前发生在黑龙江铁路部门的“小案子”，目前已被最高人民法院指令再审。\n案发时，被告人闫秀红与被害人宋某是中铁哈尔滨局三棵树机务段的职工，两人在车间休息室发生冲突。宋某称，他被闫秀红用手击打导致左耳受伤，闫秀红则称她只是上前抢手机并未殴打对方。\n此案提起公诉后，齐齐哈尔铁路运输法院曾判闫秀红无罪，后来检察机关抗诉，法院重审认定闫秀红构成故意伤害罪。刑满释放后的闫秀红提出申诉，她认为宋某耳膜穿孔应是其耳朵疾病引发。\n案件重审时发现，宋某在案发前曾到医院急诊科检查耳朵，另外本案关键证人的证",
+      "title": "中国科学家发现会飞的新恐龙，独立于鸟类演化出飞行能力",
+      "link": "https://m.thepaper.cn/detail/34170951",
+      "pubDate": "Thu, 01 Oct 2026 02:23:05 GMT",
+      "contentSnippet": "鸟类起源于兽脚类恐龙，但科学家们至今也没搞明白恐龙是如何飞向蓝天的。白垩纪早期，长着四只翅膀的小盗龙类与早期鸟类拥有极度相似的飞行骨骼，它们与鸟类的关系成为探索生命飞行之谜的重要线索。\n9月29日，发表在《自然-通讯》（Nature Communications）上的一项研究为回答这个问题提供了新的证据。中国地质科学院地质研究所、河北地质大学联合国际科研团队，通过对辽宁发现的一具恐龙化石进行多学科分析，证实小盗龙类与鸟类的飞行器官是完全独立演化而来的，推翻了两者共享发育约束模式的传统假说。\n\n巴氏诺瑞龙艺术复原图，由《自然》杂志提供，作者张闯\n\n\n关于小盗龙类飞行能力的起源，科学界有着三种假说",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -119,147 +135,130 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "黑龙江女职工被控殴打同事致耳膜穿孔判刑八个月，最高法指令再审。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为知名媒体，报道含具体时间地点人物，引述双方说法，最高法指令再审可查证。"
-    },
-    {
-      "title": "国台办谈“台独”是中美共同的敌人",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-30/10706087.shtml",
-      "pubDate": "Wed, 30 Sep 2026 11:50:02 +0800",
-      "contentSnippet": "中新网9月30电 9月30日，国务院台办举行例行新闻发布会。有记者问：近日，《人民日报》刊文表示，一个中国原则是中美关系的政治基础。“台独”是中美共同的敌人，管控“台独”是中美构建建设性战略稳定关系的关键一环，引发两岸舆论热议。请问对此有何评论？",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中新网9月30电 9月30日，国务院台办举行例行新闻发布会。有记者问：近日，《人",
-      "credibilityScore": 49,
-      "credibilityLevel": "low",
-      "credibilityReason": "因内容合规限制，使用来源权重作为默认评分"
-    },
-    {
-      "title": "第八届中国—欧盟电影节“Meet China”国际传播单元巴黎活动举行",
-      "link": "https://www.chinanews.com.cn/cul/2026/09-30/10706076.shtml",
-      "pubDate": "Wed, 30 Sep 2026 11:48:42 +0800",
-      "contentSnippet": "中新网巴黎9月29日电 当地时间9月29日，第八届中国—欧盟电影节“Meet China”国际传播单元展映与交流活动在法国巴黎举行。来自中欧影视、文化、媒体等领域的嘉宾与当地观众共同观看中国影像作品，并围绕跨文化影像创作与交流展开对话。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "第八届中国—欧盟电影节“Meet China”单元展映交流活动在巴黎举行。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，属较权威媒体，时间地点人物具体，内容客观，但缺少直接引述与多源验证。"
-    },
-    {
-      "title": "良法善治·回响｜一个窗口，总书记看得这么细",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-30/10706058.shtml",
-      "pubDate": "Wed, 30 Sep 2026 11:44:40 +0800",
-      "contentSnippet": "近日，习近平总书记就建设更高水平平安中国作出重要指示，明确“四个更加”目标：国家更加安全、社会更加有序、治理更加有效、人民更加满意。平安，已经成为“中国之治”的显著标志。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国新闻网报道习近平总书记就建设更高水平平安中国作出重要指示，提出“四个更加”目标。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，属权威媒体；内容具体含“四个更加”目标，用词客观，但缺少具体时间地点等细节。"
-    },
-    {
-      "title": "美国人支持美军保护台湾比例下降 国台办回应",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-30/10706086.shtml",
-      "pubDate": "Wed, 30 Sep 2026 11:09:58 +0800",
-      "contentSnippet": "中新网9月30日电 9月30日，国务院台办举行例行新闻发布会。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国台办回应民调显示美国人支持美军保护台湾比例下降。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为官方媒体中国新闻网，报道国台办例行发布会，信息权威可查证。"
-    },
-    {
-      "title": "国台办：民进党妄图挑战联合国权威绝无可能",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-30/10706084.shtml",
-      "pubDate": "Wed, 30 Sep 2026 11:09:24 +0800",
-      "contentSnippet": "中新网9月30日电 9月30日，国务院台办举行例行新闻发布会。有记者问：近日，台外事部门负责人林佳龙投书日媒称，以规则为基础的国际秩序正面临威权国家的挑战，“中国更刻意曲解联合国大会第2758号决议，企图阻碍台湾参与国际组织。若国际社会未加以制止，相关论述恐被中国用来为未来武力侵略台湾制造法律依据”。请问对此有何评论？",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国台办回应民进党官员投书日媒曲解联大2758号决议，称其挑战联合国权威绝无可能。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网官方报道，引述国台办例行发布会及记者提问，内容具体可查证。"
-    },
-    {
-      "title": "国台办回应美官员要求台湾官员减少访问华盛顿",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-30/10706081.shtml",
-      "pubDate": "Wed, 30 Sep 2026 11:07:14 +0800",
-      "contentSnippet": "中新网9月30日电 9月30日，国务院台办举行例行新闻发布会。有记者问：据美媒报道，美国政府官员要求台湾官员减少访问华盛顿，不希望台湾成为推进美中关系的“绊脚石”。请问对此有何评论？",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网",
-        "澎湃新闻"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "国台办例行发布会回应美方要求台湾官员减少访问华盛顿的报道。",
-      "credibilityScore": 93,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网和澎湃新闻，属较权威媒体，内容为官方例行发布会，事实可查证。（多源覆盖 +5）"
-    },
-    {
-      "title": "赖清德称“将编列1.3万亿新台币军费” 国台办回应",
-      "link": "https://www.chinanews.com.cn/gn/2026/09-30/10706080.shtml",
-      "pubDate": "Wed, 30 Sep 2026 11:05:50 +0800",
-      "contentSnippet": "中新网9月30日电 9月30日，国务院台办举行例行新闻发布会。有记者问：近日，赖清德宣称，明年将编列超1.3万亿新台币防务预算，投入军事采购、国际合作及防务自主，尤其是强化无人机、机器人等产业。请问对此有何评论？",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国台办回应赖清德宣称明年将编列超1.3万亿新台币防务预算。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网官方报道，引述国台办发布会实录，事实具体可查证。"
-    },
-    {
-      "title": "假期出行查路况？除了看导航，这些直播间直击公路现场",
-      "link": "https://www.chinanews.com.cn/sh/2026/09-30/10706079.shtml",
-      "pubDate": "Wed, 30 Sep 2026 11:04:49 +0800",
-      "contentSnippet": "“邯郸到北京京港澳能上吗”“京港澳高速河北段能不能走”……又到中秋国庆假期出行高峰，类似提问在各个平台上格外集中。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国新闻网报道假期出行高峰，公众通过直播间查询京港澳等高速路况。",
+      "aiSummary": "中国团队研究辽宁恐龙化石，证实小盗龙类飞行器官独立于鸟类演化。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，属权威媒体；内容具体，引述真实提问，用词客观，事实可查证。"
+      "credibilityReason": "澎湃新闻为知名媒体，引述《自然-通讯》具体研究，信息可查证，但非一线通讯社。"
+    },
+    {
+      "title": "首届FIFA东盟杯：中国香港队2:0战胜文莱队",
+      "link": "https://www.chinanews.com.cn/tp/2026/10-01/10706608.shtml",
+      "pubDate": "Thu, 1 Oct 2026 10:20:41 +0800",
+      "contentSnippet": "图为中国香港队球员陈肇钧(红衣16号)头球破门。中新网记者 陈永诺 摄\r\n\n图为中国香港队球员安永佳进球后庆祝。中新网记者 陈永诺 摄\r\n\n图为中国香港队球员吴宇曦(红衣20号)在比赛中拼抢。中新网记者 陈永诺 摄\r\n\n图为中国香港队球员陈肇钧(红衣16号)在比赛中。中新网记者 陈永诺 摄\r\n\n图为中国香港队球员孙铭谦(红衣23号)在比赛中拼抢。中新网记者 陈永诺 摄\r\n\n图为中国香港队球员赵聡悟(红衣10号)在比赛中拼抢。中新网记者 陈永诺 摄",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国香港队在首届FIFA东盟杯中以2:0战胜文莱队。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网，属较权威媒体，有现场记者署名及图片，内容具体可查证。"
+    },
+    {
+      "title": "海南琼中“十五五”蓝图：“六个新高地”作答山区县高质量发展",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-01/10706612.shtml",
+      "pubDate": "Thu, 1 Oct 2026 10:20:19 +0800",
+      "contentSnippet": "中新网海口10月1日电 (记者 符宇群)海南省琼中黎族苗族自治县委副书记、县长郑达峰9月30日在海南省新闻办公室举行的发布会上表示，立足自贸港封关运作新起点，琼中将以建设“六个新高地”为总体框架，加快建设“一区三地”，奋力打造海南自贸港“两山”转化实践范例，力争2030年生产总值达130亿元。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "海南琼中县发布'十五五'规划，提出'六个新高地'框架，力争2030年GDP达130亿元。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网，属权威媒体；有具体人物、时间、地点及数据，引述官方发布会内容，可查证。"
+    },
+    {
+      "title": "海南发布“十五五”市场监管高质量发展规划 锚定一流营商环境",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-01/10706611.shtml",
+      "pubDate": "Thu, 1 Oct 2026 10:18:09 +0800",
+      "contentSnippet": "中新网海口10月1日电 (记者 张茜翼)海南省新闻办公室9月30日举行“开局起步‘十五五’”系列主题新闻发布会，就《海南省“十五五”市场监管高质量发展规划》(下称《规划》)进行介绍。《规划》聚焦市场准入、公平竞争、质量提升、安全监管、知识产权保护等关键领域，推动建设一流营商环境。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "海南发布“十五五”市场监管高质量发展规划，聚焦市场准入等关键领域。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网，属权威媒体，信息具体（时间、地点、人物、规划名称），用词客观中性。"
+    },
+    {
+      "title": "中国队获得亚运会射击男子25米手枪速射团体银牌",
+      "link": "https://www.chinanews.com.cn/ty/2026/10-01/10706636.shtml",
+      "pubDate": "Thu, 1 Oct 2026 12:54:03 +0800",
+      "contentSnippet": "10月1日，名古屋亚运会射击男子25米手枪速射团体决赛，由苏连博凡、何世瑜、杨宇浩组成的中国队获得银牌！",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "名古屋亚运会射击男子25米手枪速射团体决赛，中国队获银牌。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "中国新闻网为权威媒体，信息含具体时间、项目、运动员姓名，内容具体可查证。"
+    },
+    {
+      "title": "票房破亿！一大波国庆档电影上新，我们影院见",
+      "link": "https://www.chinanews.com.cn/cul/2026/10-01/10706635.shtml",
+      "pubDate": "Thu, 1 Oct 2026 12:41:14 +0800",
+      "contentSnippet": "据网络平台数据",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国新闻网报道国庆档电影票房破亿，新片陆续上映。",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为正规媒体，但正文仅引网络平台数据，缺乏具体片名、票房数字及直接引述。"
+    },
+    {
+      "title": "心同此愿 山河永念",
+      "link": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=6655563710116111183&t=1790753652702&toc_style_id=feeds_default&share_to=web_copy_url",
+      "pubDate": "Thu, 01 Oct 2026 04:22:31 GMT",
+      "contentSnippet": "心同此愿 山河永念",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "澎湃新闻发布标题为“心同此愿 山河永念”的简短内容，无具体事件信息。",
+      "credibilityScore": 55,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名媒体澎湃新闻，但内容极简，缺乏具体事实与细节，无法核实。"
+    },
+    {
+      "title": "我国秋粮收获过两成",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-01/10706634.shtml",
+      "pubDate": "Thu, 1 Oct 2026 12:05:00 +0800",
+      "contentSnippet": "新华社北京10月1日电(记者韩佳诺)记者10月1日从农业农村部获悉，农业农村部最新农情调度显示，我国秋粮收获过两成，其中西南已收六成半，长江中下游过四成，黄淮海近两成，西北近三成，东北零星收获。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网",
+        "澎湃新闻"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "农业农村部调度显示，我国秋粮收获过两成，各主产区进度不一。",
+      "credibilityScore": 100,
+      "credibilityLevel": "high",
+      "credibilityReason": "新华社电，农业农村部官方调度数据，含具体产区进度，来源权威可查证。（多源覆盖 +5）"
     }
   ]
 }
