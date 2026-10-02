@@ -1,82 +1,14 @@
 {
-  "generatedAt": "2026-10-01T05:01:04.901Z",
+  "generatedAt": "2026-10-02T04:51:03.118Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "50年无规划、资本切割与死胡同：曼谷“逢雨必淹”下沉悲剧｜907编辑部",
-      "link": "https://m.thepaper.cn/detail/34185560",
-      "pubDate": "Thu, 01 Oct 2026 04:39:41 GMT",
-      "contentSnippet": "央视援引泰国防灾减灾厅9月30日晚通报称，9月16日以来，洪灾已波及全国43个府及首都曼谷，超过323万人受影响，造成24人死亡。截至30日18时，仍有29个府及曼谷存在洪灾，约319万人受影响。目前，泰国中部和东部多地水位仍在上涨。\n曼谷自9月25日周五到27日骤降高达320毫米的暴雨，几乎相当于当地整个9月的总降雨量。低洼地区的排水系统彻底瘫痪，全城50个区均受波及，多条主要干道一片汪洋，首都56处主要公路交通断绝，曼谷市市长差察·西迪汶26日罕见式的宣布全市为洪水灾区。\n泰国总理阿努廷在27日去邦卡皮区视察并发放物资。但阿努廷脱鞋赤脚在水里走的照片和影片被质疑是在作秀，因为积水中极可能含",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "泰国洪灾波及43府及曼谷，超323万人受影响，24人死亡，曼谷遭遇罕见暴雨。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为知名媒体，引用央视及泰国防灾减灾厅数据，信息具体，但非一线通讯社且部分细节待核实。"
-    },
-    {
-      "title": "村田晃大强闯中国驻日使馆案在日首次公开庭审",
-      "link": "https://m.thepaper.cn/detail/34185562",
-      "pubDate": "Thu, 01 Oct 2026 03:53:05 GMT",
-      "contentSnippet": "日本东京地方法院10月1日对日本自卫队官员村田晃大强闯中国驻日本大使馆案举行首次公开庭审。\n日本检方以闯入建筑物、威胁使馆工作人员等罪名对其提起公诉。据日本共同社报道，村田晃大在庭审中承认了闯入建筑物和违反枪支刀具法的罪名，但对于威胁使馆工作人员的指控，其辩方认为“不构成犯罪”。\n今年3月24日，日本陆上自卫队现役三等陆尉村田晃大携刀翻墙强行闯入中国驻日大使馆，威胁杀害中国外交人员，随后被警方逮捕。8月，日本陆上自卫队对村田晃大作出免职处分。\n中国驻日使馆就闯馆事件向日方提出严正交涉并表示强烈抗议，要求日方作出负责任的交代。中国外交部表示，中方敦促日方切实负起责任，严惩凶犯、彻查整改。然而，截",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "日本东京地方法院首次公开庭审自卫队官员村田晃大强闯中国驻日使馆案。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为知名媒体，引述共同社报道，时间地点人物具体，但缺少庭审直接引述。"
-    },
-    {
-      "title": "乘客称凭借电视节目知识万米高空救机，特朗普直呼“不可思议”",
-      "link": "https://m.thepaper.cn/detail/34185315",
-      "pubDate": "Thu, 01 Oct 2026 03:46:32 GMT",
-      "contentSnippet": "据新华社报道，以色列总理内塔尼亚胡当地时间9月30日发表视频声明证实，当天在一架载有以色列乘客的迪拜航空公司航班上，一名飞行员刺伤另一名飞行员后试图使飞机坠毁，后被乘客和机组人员制服。\n内塔尼亚胡说，袭击嫌疑人已被逮捕，目前正在接受沙特阿拉伯当局的讯问。\n据美国有线电视新闻网（CNN）报道，美国总统特朗普当地时间30日表示，他已就此次事件与内塔尼亚胡通话。特朗普称，乘客们合力制服袭击者的过程“简直令人难以置信”。\n特朗普在白宫接受记者采访时说：“看起来，副驾驶可能是一名恐怖分子”，并称赞了一名乘客的英勇举动。\n按特朗普的说法，这名乘客是一名“水管工”，在没有任何飞行经验的情况下，帮助重新控制了",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "内塔尼亚胡证实迪拜航空航班飞行员袭击事件，特朗普称乘客英勇制服袭击者。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻转引新华社和CNN，有直接引述，但标题与正文细节存在出入，部分信息待核实。"
-    },
-    {
-      "title": "“载以色列乘客，蓄意坠机！”，内塔尼亚胡还原迪拜航空客机安全事件",
-      "link": "https://m.thepaper.cn/detail/34185338",
-      "pubDate": "Thu, 01 Oct 2026 03:42:56 GMT",
-      "contentSnippet": "9月30日，以色列总理内塔尼亚胡发表讲话，确认当天从迪拜飞往以色列的航班上发生了一起“极其严重的安全事件”，并表示机上几乎所有的乘客都是以色列人。内塔尼亚胡表示，飞机在接近以色列领空时，机上一名飞行员刺伤了另一名飞行员，推测行凶者企图让飞机坠毁。",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "内塔尼亚胡称迪拜飞以色列航班发生飞行员刺伤事件，疑蓄意坠机。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "澎湃新闻为较权威媒体，引述内塔尼亚胡讲话，但事件细节单一来源，缺乏独立核实。"
-    },
-    {
-      "title": "中俄两大界江进入20天秋季禁渔期 700余艘渔船撤离作业水域",
-      "link": "https://www.chinanews.com.cn/gn/2026/10-01/10706621.shtml",
-      "pubDate": "Thu, 1 Oct 2026 11:09:40 +0800",
-      "contentSnippet": "中新社哈尔滨10月1日电 10月1日0时起，中俄界江黑龙江、乌苏里江开启为期20天的秋季禁渔期，重点守护大马哈鱼跨境洄游繁殖。两条界江全年禁渔各55天，分为伏季、秋季两个阶段落实。",
+      "title": "国庆假期 游客在上海欣赏黄浦江两岸美景",
+      "link": "https://www.chinanews.com.cn/tp/2026/10-02/10707056.shtml",
+      "pubDate": "Fri, 2 Oct 2026 11:53:53 +0800",
+      "contentSnippet": "10月1日晚，游客在上海和平饭店户外平台欣赏城市夜景。为庆祝中华人民共和国成立77周年，营造欢乐祥和的节日氛围，2026年国庆假期，上海全市景观照明开启重大活动模式。中新社记者 殷立勤 摄\r\n\n10月1日晚，游客在上海市黄浦区外滩滨江步道上用手机拍摄夜景。为庆祝中华人民共和国成立77周年，营造欢乐祥和的节日氛围，2026年国庆假期，上海全市景观照明开启重大活动模式。中新社记者 殷立勤 摄\r\n\n10月1日晚，游客在上海市黄浦区外滩滨江步道上用手机拍摄夜景。为庆祝中华人民共和国成立77周年，营造欢乐祥和的节日氛围，2026年国庆假期，上海全市景观照明开启重大活动模式。中新社记者 殷立勤 摄\r\n\n1",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -84,16 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中俄界江黑龙江、乌苏里江10月1日起进入20天秋季禁渔期，保护大马哈鱼洄游。",
+      "aiSummary": "国庆假期游客在上海外滩欣赏黄浦江夜景，全市景观照明开启重大活动模式。",
       "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中新社，属权威媒体，信息具体含时间地点及禁渔天数，但缺乏直接引述。"
+      "credibilityReason": "来源为中国新闻网（中新社），有署名记者和具体时间地点，内容为常规节日报道，事实可查证。"
     },
     {
-      "title": "服务嵌入发展全链条 海南三篇“文章”激发经营主体活力",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-01/10706626.shtml",
-      "pubDate": "Thu, 1 Oct 2026 11:09:02 +0800",
-      "contentSnippet": "中新网海口10月1日电 (记者 张茜翼)经营主体高质量发展，是营商环境的“试金石”，更是自贸港建设的“动力源”。海南把服务嵌入经营主体发展全链条，做好高效审批、全程护航、信用赋能三篇“文章”，让经营主体在自贸港安心经营、加快成长。",
+      "title": "广西梧州首届“两湾联动 向海图强”龙舟邀请赛开赛 人工智能贯穿全程",
+      "link": "https://www.chinanews.com.cn/ty/2026/10-02/10707049.shtml",
+      "pubDate": "Fri, 2 Oct 2026 11:50:39 +0800",
+      "contentSnippet": "中新网梧州10月2日电(张广权)10月1日，广西梧州市喜迎国庆第一届“两湾联动 向海图强”龙舟邀请赛开赛。来自粤港澳大湾区、北部湾城市及梧州本土的22支龙舟队伍齐聚西江，在约3000米赛道上展开竞逐。人工智能技术贯穿赛事环节。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -101,33 +33,118 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中新网报道海南通过高效审批、全程护航、信用赋能三举措激发经营主体活力。",
+      "aiSummary": "广西梧州举办首届龙舟邀请赛，22支队伍参赛，人工智能技术贯穿赛事。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，属较权威媒体，信息具体含时间地点数据，但缺乏直接引述和交叉验证。"
+    },
+    {
+      "title": "台湾夫妇南昌掌勺 一碗卤肉饭煨出两岸食客共鸣",
+      "link": "https://www.chinanews.com.cn/gn/2026/10-02/10707063.shtml",
+      "pubDate": "Fri, 2 Oct 2026 11:32:10 +0800",
+      "contentSnippet": "中新社南昌10月2日电 题：台湾夫妇南昌掌勺  一碗卤肉饭煨出两岸食客共鸣",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中新社报道台湾夫妇在南昌经营卤肉饭，吸引两岸食客。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新社，属权威通讯社，内容具体但摘要信息有限，无直接引述。"
+    },
+    {
+      "title": "厄立特里亚宣布与埃塞俄比亚断交",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-02/10707027.shtml",
+      "pubDate": "Fri, 2 Oct 2026 11:24:42 +0800",
+      "contentSnippet": "中新社北京10月2日电 阿斯马拉消息：当地时间10月1日，厄立特里亚外交部发布声明，宣布与埃塞俄比亚断绝所有外交关系。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "厄立特里亚外交部宣布与埃塞俄比亚断绝所有外交关系。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "中新社为权威通讯社，信息具体（时间、地点、主体），但缺乏直接引述及多源验证。"
+    },
+    {
+      "title": "习近平主席华盛顿之行：三个场景的历史分量",
+      "link": "https://www.chinanews.com.cn/gn/2026/10-02/10707031.shtml",
+      "pubDate": "Fri, 2 Oct 2026 11:18:05 +0800",
+      "contentSnippet": "新华社北京9月30日电#8195;题：习近平主席华盛顿之行：三个场景的历史分量",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中新网转载新华社报道，评述习近平主席华盛顿之行的三个历史性场景。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网转载新华社，属权威官方媒体，内容为外交活动评述，事实可查证。"
+    },
+    {
+      "title": "国际货币基金组织：“非常欢迎”中美经贸团队磋商取得积极共识",
+      "link": "https://m.thepaper.cn/detail/34190721",
+      "pubDate": "Fri, 02 Oct 2026 02:37:10 GMT",
+      "contentSnippet": "国际货币基金组织（IMF）发言人朱莉·科扎克10月1日在例行新闻发布会上表示，美伊战事对世界经济产生影响，不仅波及政策缓冲空间有限的国家和能源净进口国，那些尚未融入人工智能（AI）供应链、难以充分享受相关增长红利的国家“尤其值得关注”，状况令人担忧。\n科扎克指出，有一些国家未能从人工智能投资热潮中受益，同时又受到能源冲击的严重影响，而且政策缓冲空间有限。“这一类国家，其中大多数是低收入国家和脆弱国家，最令人担忧。”她补充道，其中一些国家已经与IMF达成了援助安排，IMF也正与其保持密切合作。\n科扎克在回答新华社记者提问时说，IMF“非常欢迎”中美经贸团队磋商取得积极共识。她表示，中美经贸团队保",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "IMF发言人称美伊战事冲击世界经济，并欢迎中美经贸磋商积极共识。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "澎湃新闻为正规媒体，引述IMF发言人及新华社提问，信息具体可查证。"
+    },
+    {
+      "title": "吴愉夺得亚运会拳击女子51公斤级金牌",
+      "link": "https://www.chinanews.com.cn/ty/2026/10-02/10707070.shtml",
+      "pubDate": "Fri, 2 Oct 2026 12:16:51 +0800",
+      "contentSnippet": "10月2日，名古屋亚运会拳击女子51公斤级决赛，中国选手吴愉夺得金牌！",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国选手吴愉在名古屋亚运会拳击女子51公斤级决赛中夺得金牌。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "中国新闻网为权威媒体，信息具体（时间、地点、项目、人物），但缺少直接引述和细节。"
+    },
+    {
+      "title": "美媒：美国向沙特和卡塔尔增派“爱国者”导弹系统，以保护当地能源设施",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-02/10707069.shtml",
+      "pubDate": "Fri, 2 Oct 2026 12:06:48 +0800",
+      "contentSnippet": "中新网10月2日电 据美国阿克西奥斯新闻网站10月1日报道，两名美国官员和一名地区消息人士透露，近几周，美军向沙特阿拉伯和卡塔尔增派了两套“爱国者”导弹系统，以保护当地石油和天然气设施。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "美媒称美国向沙特和卡塔尔增派两套爱国者导弹系统以保护能源设施。",
       "credibilityScore": 78,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网属较权威媒体，有署名记者，内容具体但缺乏直接引述和数据支撑。"
+      "credibilityReason": "中新网转引美媒，有匿名官员消息源，内容具体但缺乏官方证实。"
     },
     {
-      "title": "中国担当赋能“一带一路”共建",
-      "link": "https://www.chinanews.com.cn/ydyl/2026/10-01/10706619.shtml",
-      "pubDate": "Thu, 1 Oct 2026 10:49:45 +0800",
-      "contentSnippet": "当前全球地缘经济格局深度重构，逆全球化思潮持续发酵，别有用心者炮制出“中国挤压”论调，污蔑中国制造业发展“挤占”全球南方国家工业化空间，妄图破坏中国同全球南方国家合作。然而，回望中国共建“一带一路”倡议10多年的客观实践与丰硕成果，不难发现，这一论调纯属无稽之谈。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中新网发文驳斥“中国挤压”论，称一带一路实践成果丰硕。",
-      "credibilityScore": 62,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为中新网较权威，但属官方评论文章，缺少具体数据与直接引述，用词带立场。"
-    },
-    {
-      "title": "中国科学家发现会飞的新恐龙，独立于鸟类演化出飞行能力",
-      "link": "https://m.thepaper.cn/detail/34170951",
-      "pubDate": "Thu, 01 Oct 2026 02:23:05 GMT",
-      "contentSnippet": "鸟类起源于兽脚类恐龙，但科学家们至今也没搞明白恐龙是如何飞向蓝天的。白垩纪早期，长着四只翅膀的小盗龙类与早期鸟类拥有极度相似的飞行骨骼，它们与鸟类的关系成为探索生命飞行之谜的重要线索。\n9月29日，发表在《自然-通讯》（Nature Communications）上的一项研究为回答这个问题提供了新的证据。中国地质科学院地质研究所、河北地质大学联合国际科研团队，通过对辽宁发现的一具恐龙化石进行多学科分析，证实小盗龙类与鸟类的飞行器官是完全独立演化而来的，推翻了两者共享发育约束模式的传统假说。\n\n巴氏诺瑞龙艺术复原图，由《自然》杂志提供，作者张闯\n\n\n关于小盗龙类飞行能力的起源，科学界有着三种假说",
+      "title": "副驾动机、武器来源与有无指使，迪拜飞以色列航班安全事件启动涉恐调查",
+      "link": "https://m.thepaper.cn/detail/34190722",
+      "pubDate": "Fri, 02 Oct 2026 04:02:54 GMT",
+      "contentSnippet": "据新华社报道，阿联酋总检察长哈马德·赛义夫·沙姆西下令对迪拜航空公司客机驾驶舱冲突事件展开调查，包括调查其是否与恐怖主义活动有关，以及是否存在事先策划或指使。\n9月30日，载有以色列乘客的迪拜航空FZ1073航班从阿联酋迪拜飞往以色列特拉维夫途中发生安全事件。被认为是阿曼籍的副机长涉嫌在驾驶舱持刀刺伤机长，飞机巡航高度在约1分钟内从1万米陡降到5100米，尾翼受损。\n一群乘客冲进驾驶舱并制服副驾驶。视频显示，副机长被制服后跪在地上，双手被耳机线绑着。事发后，该飞机改道并安全降落在沙特的塔布克机场。由于涉事飞机在阿联酋注册并涂装阿联酋国旗，阿联酋司法机关对该事件拥有调查管辖权。\n以色列和沙特同样",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -135,16 +152,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国团队研究辽宁恐龙化石，证实小盗龙类飞行器官独立于鸟类演化。",
-      "credibilityScore": 85,
+      "aiSummary": "阿联酋调查迪拜航空副驾刺伤机长事件，涉恐调查启动。",
+      "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为知名媒体，引述《自然-通讯》具体研究，信息可查证，但非一线通讯社。"
+      "credibilityReason": "新华社为权威来源，事件细节具体，引述官方检察长，多国交叉可查证。"
     },
     {
-      "title": "首届FIFA东盟杯：中国香港队2:0战胜文莱队",
-      "link": "https://www.chinanews.com.cn/tp/2026/10-01/10706608.shtml",
-      "pubDate": "Thu, 1 Oct 2026 10:20:41 +0800",
-      "contentSnippet": "图为中国香港队球员陈肇钧(红衣16号)头球破门。中新网记者 陈永诺 摄\r\n\n图为中国香港队球员安永佳进球后庆祝。中新网记者 陈永诺 摄\r\n\n图为中国香港队球员吴宇曦(红衣20号)在比赛中拼抢。中新网记者 陈永诺 摄\r\n\n图为中国香港队球员陈肇钧(红衣16号)在比赛中。中新网记者 陈永诺 摄\r\n\n图为中国香港队球员孙铭谦(红衣23号)在比赛中拼抢。中新网记者 陈永诺 摄\r\n\n图为中国香港队球员赵聡悟(红衣10号)在比赛中拼抢。中新网记者 陈永诺 摄",
+      "title": "国庆假期首日 重庆火车站发送旅客量创历史新高",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707059.shtml",
+      "pubDate": "Fri, 2 Oct 2026 12:02:28 +0800",
+      "contentSnippet": "中新网重庆10月2日电 (张旭)中国铁路成都局集团有限公司重庆车站(以下简称“重庆火车站”)10月2日发布消息称，10月1日，重庆火车站发送旅客42.4万人次，同比增长15.4%，创单日旅客发送量历史新高。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -152,16 +169,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国香港队在首届FIFA东盟杯中以2:0战胜文莱队。",
+      "aiSummary": "国庆首日重庆火车站发送旅客42.4万人次，同比增长15.4%，创历史新高。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "中新网为权威媒体，数据具体、来源明确（铁路部门发布），时间地点清晰，可交叉验证。"
+    },
+    {
+      "title": "中国队夺得亚运会射箭反曲弓混合团体金牌",
+      "link": "https://www.chinanews.com.cn/ty/2026/10-02/10707068.shtml",
+      "pubDate": "Fri, 2 Oct 2026 12:00:12 +0800",
+      "contentSnippet": "10月2日，名古屋亚运会射箭反曲弓混合团体决赛，由朱静怡、李梦麒组成的中国队夺得金牌！",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "名古屋亚运会射箭反曲弓混合团体决赛，中国队朱静怡、李梦麒组合夺金。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，属较权威媒体，有现场记者署名及图片，内容具体可查证。"
+      "credibilityReason": "中国新闻网为权威媒体，信息含时间地点人物，但缺少引述及多源交叉验证。"
     },
     {
-      "title": "海南琼中“十五五”蓝图：“六个新高地”作答山区县高质量发展",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-01/10706612.shtml",
-      "pubDate": "Thu, 1 Oct 2026 10:20:19 +0800",
-      "contentSnippet": "中新网海口10月1日电 (记者 符宇群)海南省琼中黎族苗族自治县委副书记、县长郑达峰9月30日在海南省新闻办公室举行的发布会上表示，立足自贸港封关运作新起点，琼中将以建设“六个新高地”为总体框架，加快建设“一区三地”，奋力打造海南自贸港“两山”转化实践范例，力争2030年生产总值达130亿元。",
+      "title": "丹青水韵油彩绘就“琼州风华” 海口三馆联办美术作品展",
+      "link": "https://www.chinanews.com.cn/cul/2026/10-02/10707057.shtml",
+      "pubDate": "Fri, 2 Oct 2026 11:58:15 +0800",
+      "contentSnippet": "中新网海口10月2日电 (张茜翼 李凤)当百年骑楼遇见油彩，当椰风海韵落入水色，一场关于琼州风华的艺术叙事在海口徐徐展开。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -169,16 +203,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "海南琼中县发布'十五五'规划，提出'六个新高地'框架，力争2030年GDP达130亿元。",
+      "aiSummary": "中新网报道海口三馆联办美术作品展，展现琼州风华。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网，属较权威媒体，信息具体含时间地点人物，用词客观。"
+    },
+    {
+      "title": "中国驻德国使馆举行庆祝中华人民共和国成立77周年招待会",
+      "link": "https://www.chinanews.com.cn/hr/2026/10-02/10707052.shtml",
+      "pubDate": "Fri, 2 Oct 2026 11:58:09 +0800",
+      "contentSnippet": "中新网柏林10月2日电 当地时间9月30日，中国驻德国使馆举行庆祝中华人民共和国成立77周年招待会。德各界人士、外国驻德使节以及在德中资机构、华侨华人、留学生代表等近500人出席。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国驻德国使馆举行国庆77周年招待会，近500人出席。",
       "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，属权威媒体；有具体人物、时间、地点及数据，引述官方发布会内容，可查证。"
+      "credibilityReason": "中国新闻网为官方媒体，信息具体（时间、地点、人数），属常规外交活动报道，可信度高。"
     },
     {
-      "title": "海南发布“十五五”市场监管高质量发展规划 锚定一流营商环境",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-01/10706611.shtml",
-      "pubDate": "Thu, 1 Oct 2026 10:18:09 +0800",
-      "contentSnippet": "中新网海口10月1日电 (记者 张茜翼)海南省新闻办公室9月30日举行“开局起步‘十五五’”系列主题新闻发布会，就《海南省“十五五”市场监管高质量发展规划》(下称《规划》)进行介绍。《规划》聚焦市场准入、公平竞争、质量提升、安全监管、知识产权保护等关键领域，推动建设一流营商环境。",
+      "title": "荟萃海内外史料文物 “南京有座琉璃塔” 特展引人入胜",
+      "link": "https://www.chinanews.com.cn/tp/2026/10-02/10707058.shtml",
+      "pubDate": "Fri, 2 Oct 2026 11:57:29 +0800",
+      "contentSnippet": "10月1日，江苏南京，观众在大报恩寺遗址博物馆特展馆内参观“南京有座琉璃塔”特展。该展览展陈的百余件(套)珍贵文物及相关展品串联起琉璃塔从营建到走向世界的历程。据悉，本次展览获得来自10个国家30多家博物馆及相关机构的支持，汇集相关文物、文献及研究成果，是近年来大报恩寺遗址相关主题内容较为集中、全面的一次呈现。中新社记者 泱波 摄\r\n\n10月1日，江苏南京，观众在大报恩寺遗址博物馆特展馆内参观“南京有座琉璃塔”特展。该展览展陈的百余件(套)珍贵文物及相关展品串联起琉璃塔从营建到走向世界的历程。据悉，本次展览获得来自10个国家30多家博物馆及相关机构的支持，汇集相关文物、文献及研究成果，是近年来",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -186,33 +237,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "海南发布“十五五”市场监管高质量发展规划，聚焦市场准入等关键领域。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，属权威媒体，信息具体（时间、地点、人物、规划名称），用词客观中性。"
-    },
-    {
-      "title": "中国队获得亚运会射击男子25米手枪速射团体银牌",
-      "link": "https://www.chinanews.com.cn/ty/2026/10-01/10706636.shtml",
-      "pubDate": "Thu, 1 Oct 2026 12:54:03 +0800",
-      "contentSnippet": "10月1日，名古屋亚运会射击男子25米手枪速射团体决赛，由苏连博凡、何世瑜、杨宇浩组成的中国队获得银牌！",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "名古屋亚运会射击男子25米手枪速射团体决赛，中国队获银牌。",
+      "aiSummary": "南京大报恩寺遗址博物馆举办“南京有座琉璃塔”特展，展出百余件文物。",
       "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "中国新闻网为权威媒体，信息含具体时间、项目、运动员姓名，内容具体可查证。"
+      "credibilityReason": "来源为中新社，属权威媒体；信息具体，含时间、地点、数据，可交叉验证。"
     },
     {
-      "title": "票房破亿！一大波国庆档电影上新，我们影院见",
-      "link": "https://www.chinanews.com.cn/cul/2026/10-01/10706635.shtml",
-      "pubDate": "Thu, 1 Oct 2026 12:41:14 +0800",
-      "contentSnippet": "据网络平台数据",
+      "title": "我国力争2030年饲草总产量达1.3亿吨",
+      "link": "https://www.chinanews.com.cn/gn/2026/10-02/10707067.shtml",
+      "pubDate": "Fri, 2 Oct 2026 11:56:35 +0800",
+      "contentSnippet": "新华社北京10月2日电(记者古一平)农业农村部近日印发《全国畜牧兽医行业发展“十五五”规划》，提出15项定量目标，包括肉类总产量、禽蛋产量、奶类产量等。规划显示，2030年我国饲草总产量将达到1.3亿吨。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -220,45 +254,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国新闻网报道国庆档电影票房破亿，新片陆续上映。",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为正规媒体，但正文仅引网络平台数据，缺乏具体片名、票房数字及直接引述。"
-    },
-    {
-      "title": "心同此愿 山河永念",
-      "link": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=6655563710116111183&t=1790753652702&toc_style_id=feeds_default&share_to=web_copy_url",
-      "pubDate": "Thu, 01 Oct 2026 04:22:31 GMT",
-      "contentSnippet": "心同此愿 山河永念",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "澎湃新闻发布标题为“心同此愿 山河永念”的简短内容，无具体事件信息。",
-      "credibilityScore": 55,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名媒体澎湃新闻，但内容极简，缺乏具体事实与细节，无法核实。"
-    },
-    {
-      "title": "我国秋粮收获过两成",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-01/10706634.shtml",
-      "pubDate": "Thu, 1 Oct 2026 12:05:00 +0800",
-      "contentSnippet": "新华社北京10月1日电(记者韩佳诺)记者10月1日从农业农村部获悉，农业农村部最新农情调度显示，我国秋粮收获过两成，其中西南已收六成半，长江中下游过四成，黄淮海近两成，西北近三成，东北零星收获。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网",
-        "澎湃新闻"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "农业农村部调度显示，我国秋粮收获过两成，各主产区进度不一。",
-      "credibilityScore": 100,
+      "aiSummary": "农业农村部印发畜牧业“十五五”规划，提出2030年饲草总产量达1.3亿吨等目标。",
+      "credibilityScore": 92,
       "credibilityLevel": "high",
-      "credibilityReason": "新华社电，农业农村部官方调度数据，含具体产区进度，来源权威可查证。（多源覆盖 +5）"
+      "credibilityReason": "来源为新华社（经中新网转载），引用官方规划文件，信息具体可查证。"
     }
   ]
 }

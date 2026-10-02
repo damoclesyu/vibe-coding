@@ -1,32 +1,14 @@
 {
-  "generatedAt": "2026-10-01T05:07:59.932Z",
+  "generatedAt": "2026-10-02T04:52:16.668Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "技嘉推出 AI TOP 100 B850 台式整机，支持 5090 单卡或 R9700 双卡",
-      "link": "https://www.ithome.com/1/009/046.htm",
-      "pubDate": "Thu, 01 Oct 2026 05:01:12 GMT",
-      "contentSnippet": "IT之家 10 月 1 日消息，技嘉 (GIGABYTE) 昨日宣布推出 AI TOP 100 B850 台式整机。这一工作站级本地 AI 系统支持 1 张 NVIDIA GeForce RTX 5090 或 2 张 AMD Radeon AI PRO R9700 显卡。\n\n其采用标准台式机架构，基于 AMD 锐龙 9 9950X 处理器（配套 240mm AIO 散热）和 AMD B850 主板，标配 128GB DDR5 内存、2TB SSD 存储，拥有 2 条 PCIe Gen5 插槽。\n其内置 1600W 的 80 PLUS 铂金电源；前方配备双 140mm 风扇，后方则有另一颗 14",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家",
-        "Solidot"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "技嘉发布AI TOP 100 B850台式整机，支持RTX 5090或双R9700显卡。",
-      "credibilityScore": 87,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家和Solidot，产品规格具体详实，但缺少官方原始链接引用。（多源覆盖 +5）"
-    },
-    {
-      "title": "比尔 · 盖茨：用机器人替代人类工作的公司也应纳税",
-      "link": "https://www.ithome.com/1/009/044.htm",
-      "pubDate": "Thu, 01 Oct 2026 05:00:06 GMT",
-      "contentSnippet": "IT之家 10 月 1 日消息，据《商业内幕》今天（1 日）报道，微软联合创始人、亿万富翁慈善家比尔 · 盖茨认为，如果 AI 大规模取代人类工作，可以通过向机器人征税，让失业者仍有收入保障。即使 AI 把人挤出就业市场，社会仍“有权决定”如何保障劳动者。“可以先确定一个劳动单位，无论这份劳动由人还是机器人完成，都要缴纳与人类劳动者相同的联邦保险缴款税。”\n美国的联邦保险缴款税从劳动者工资中按比例征收，用于社会保障和医疗保险等项目，雇主也要缴纳等额款项。盖茨认为，如果机器人取代了人类岗位，也对机器人征收同类税款，既可以为民众提供经济保障，也能维持政府的税收来源。\n盖茨此前多次警告，AI 和机器",
+      "title": "东芝计划将用于 AI 数据中心的机械硬盘产能翻倍，投资约 600 亿日元",
+      "link": "https://www.ithome.com/1/009/255.htm",
+      "pubDate": "Fri, 02 Oct 2026 04:05:53 GMT",
+      "contentSnippet": "IT之家 10 月 2 日消息，据日经亚洲报道，伴随人工智能热潮带动的数据存储需求激增，东芝计划在 2027 财年内，将用于 AI 数据中心的机械硬盘 HDD 产能提升一倍。\n东芝将投资约 600 亿日元（IT之家注：现汇率约合 25.53 亿元人民币）扩建其位于菲律宾的生产基地，以期为 AI 基础设施的核心零部件构建更稳健的供应链。\n全球机械硬盘产业已经是一个高度成熟和集中的市场，由西部数据、希捷和东芝三家公司垄断。按存储容量测算，东芝当前的市场份额仅略超 10%，但其中期目标是提升至 30%。\n此次在菲律宾的扩建，是东芝近五年来首次进行的 HDD 重大投资。在新增产线的同时，东芝还将导入全",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -34,16 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "比尔·盖茨提议对替代人类工作的机器人征税，以保障失业者收入并维持政府税收。",
-      "credibilityScore": 82,
+      "aiSummary": "东芝拟投资600亿日元扩建菲律宾HDD产线，2027财年AI数据中心硬盘产能翻倍。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家援引商业内幕报道，盖茨观点有具体税种和逻辑支撑，但属观点性新闻，非技术突破。"
+      "credibilityReason": "IT之家引日经亚洲，数据具体，来源可靠，但缺原始链接，属知名科技媒体报道。"
     },
     {
-      "title": "马斯克沉寂数月的 AI 维基百科 Grokipedia 推出 v0.3 版本：界面更新，恢复内容编辑",
-      "link": "https://www.ithome.com/1/009/043.htm",
-      "pubDate": "Thu, 01 Oct 2026 04:58:57 GMT",
-      "contentSnippet": "IT之家 10 月 1 日消息，由 SpaceXAI 推出、对标维基百科的人工智能百科项目 Grokipedia 近期重新恢复接收内容编辑。如今该平台又迎来 v0.3 版本更新，进行了多项界面设计调整：启用全新标识，同时对首页与实时编辑页面进行改版。SpaceXAI 的设计负责人本吉 · 泰勒（Benji Taylor）将其称作“焕然一新的 Grokipedia”。\n\nIT之家注意到，Grokipedia 旧版首页基本上只有一个标志和搜索框；改版之后的首页新增了精选条目列表、热门阅读条目列表，还增设了一个追踪板块，可以展示“最新编辑记录”。新版的精选条目区域采用可以旋转的仿真电子书籍样式进行展",
+      "title": "Cloudflare 推出基于 Qwen 的开源多模态决策模型 Clef",
+      "link": "https://www.ithome.com/1/009/262.htm",
+      "pubDate": "Fri, 02 Oct 2026 04:45:28 GMT",
+      "contentSnippet": "IT之家 10 月 2 日消息，当地时间 10 月 1 日，Cloudflare 推出基于 Qwen 的开源多模态决策模型 Clef（谱号），包含 Clef 与 Clef-flash 两款模型。\n\n在 Jev 决策指数（Jev Decision Index）的基准评测中（Decision Index 0.2.1），Clef 处于领先地位；这两款模型完全兼容 Jev-API，方便开发者进行测试验证。\n\n此外，Cloudflare 还发布了全新的强化学习产品。借助该产品，客户还可以针对自身的具体业务场景，对 Clef 进行定制化微调。\n据悉，Clef 选用 Qwen 作为基座模型，其中 Clef",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -51,16 +33,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "马斯克旗下AI维基百科Grokipedia推出v0.3版本，更新界面并恢复内容编辑。",
+      "aiSummary": "Cloudflare推出基于Qwen的开源多模态决策模型Clef，含两款模型并发布强化学习产品。",
       "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体IT之家，内容具体含版本号与设计细节，但正文存在明显文字截断，且未提供官方原始出处链接。"
+      "credibilityReason": "来源为知名科技媒体IT之家，信息具体但基准评测名称陌生，缺乏原始链接和第三方验证。"
     },
     {
-      "title": "华为余承东宣布麒麟开启「芯」纪元：旗舰 τ / 逻辑折叠 τ 芯片发布，Mate 90 全系搭载",
-      "link": "https://www.ithome.com/1/009/042.htm",
-      "pubDate": "Thu, 01 Oct 2026 04:57:08 GMT",
-      "contentSnippet": "IT之家 10 月 1 日消息，在今天的华为 Mate 90 系列及全场景新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东正式发布了 Mate 90 系列年度旗舰手机。\n\n余承东在发布会现场宣布，麒麟芯片，开启「芯」纪元。\n\n从余承东公布的产品回顾及规划来看，进入「芯」纪元的麒麟芯片带来了旗舰 τ 芯片和逻辑折叠 τ 芯片。\n\n旗舰 τ 芯片：麒麟 9030、麒麟 9035；\n\n逻辑折叠 τ 芯片：麒麟 9050、麒麟 9050 Pro。\n\n据IT之家了解，华为 Mate 90 全系搭载 τ 芯片。其中：\n华为 Mate 90 标准版手机搭载麒麟 9030 旗舰 τ",
+      "title": "消息称博通着手筹集 600 亿美元，为 Anthropic 等公司采购芯片提供资金",
+      "link": "https://www.ithome.com/1/009/261.htm",
+      "pubDate": "Fri, 02 Oct 2026 04:43:16 GMT",
+      "contentSnippet": "IT之家 10 月 2 日消息，北京时间今天（2 日）午间，彭博社援引知情人士消息称，为博通安排融资的华尔街银行团开始筹集 600 亿美元（IT之家注：现汇率约合 4,028.73 亿元人民币）新资金，用于 AI 芯片融资，Anthropic 等公司将从中受益。\n知情人士称，参与融资的银行准备为其中 420 亿美元（现汇率约合 2,820.11 亿元人民币）A 类高级担保债务发出银团邀请函。\n另有 180 亿美元（现汇率约合 1,208.62 亿元人民币）B 类次级债务由黑石集团牵头安排。黑石旗下多只基金承诺投入 90 亿美元（现汇率约合 604.31 亿元人民币），其余部分计划向其他投资者分",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -68,84 +50,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "华为发布麒麟τ系列芯片及Mate 90系列，全系搭载新芯片",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "IT之家为知名科技媒体，内容具体含芯片型号，但发布时间为未来日期且技术命名异常，存疑"
-    },
-    {
-      "title": "三星发布其首款夹式耳机 Galaxy Buds On：满电续航 9.5 小时，支持点头 / 摇头控制通话",
-      "link": "https://www.ithome.com/1/009/041.htm",
-      "pubDate": "Thu, 01 Oct 2026 04:51:19 GMT",
-      "contentSnippet": "IT之家 10 月 1 日消息，三星今天（10 月 1 日）发布公告，宣布推出其首款耳夹式耳机 Galaxy Buds On，主打户外佩戴舒适与环境音感知。\n外观方面，Galaxy Buds On 采用夹式（clip-on）结构，环绕耳廓佩戴，不插入耳道，用户在步行、骑行或跑步时仍可感知环境声音。\n佩戴体验方面，三星表示研究了不同耳廓形状，并通过模拟确定扬声器与电池位置，且不断调整耳夹弹性与接触面积，让压力分布更均匀，提升长时间佩戴舒适度。\n音质方面，针对开放式耳机的低音响应弱与声音外放问题，三星引入 TwinBoost 扬声器技术来补偿低频，并配备音抑制（Audio Leakage Redu",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "三星发布首款夹式耳机Galaxy Buds On，续航9.5小时，支持头部动作控制。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容含产品细节与技术描述，但缺少官方原始链接引用。"
-    },
-    {
-      "title": "上汽通用五菱 9 月销量 132045 辆，1-9 月全球销量超 105 万辆",
-      "link": "https://www.ithome.com/1/009/036.htm",
-      "pubDate": "Thu, 01 Oct 2026 04:23:10 GMT",
-      "contentSnippet": "IT之家 10 月 1 日消息，据上汽通用五菱官方发布的销售数据，2026 年 1—9 月，上汽通用五菱全球累计销量达 1,058,169 辆，其中 9 月单月销量为 132,045 辆。值得一提的是，新能源车型 1—9 月累计销量达 569,640 辆，占公司总销量的 53.8%。\n\nIT之家注意到，上汽通用五菱新能源车型全球累计销量已突破 400 万辆；海外市场累计销量超过 160 万台 / 套。从月度走势来看，公司销量自年初以来保持稳健攀升：1 月累计销售 105,792 辆，至 6 月底已达 675,204 辆，三季度末顺利突破百万辆大关；新能源销量则由 1 月的 37,929 辆逐月",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "上汽通用五菱2026年1-9月全球销量超105万辆，新能源占比53.8%。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，数据源自官方发布，具体详实，但缺少独立核实。"
-    },
-    {
-      "title": "华为余承东：Mate 90 系列是中国半导体行业的时代答卷，也是中国操作系统产业的创新答卷",
-      "link": "https://www.ithome.com/1/009/035.htm",
-      "pubDate": "Thu, 01 Oct 2026 04:22:51 GMT",
-      "contentSnippet": "IT之家 10 月 1 日消息，在今天的华为 Mate 90 系列及全场景新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东正式发布了 Mate 90 年度旗舰新机。\n\n在发布会上半场的结尾，余承东进行了总结。他表示，今天华为把最强大的麒麟芯片、最创新的鸿蒙系统带给了史上最强大的 Mate。\n余承东还直言：\n\nMate 90 系列是中国半导体行业的时代答卷，也是中国操作系统产业的创新答卷。感谢每一位一路相伴的 Mate，你们的信任与鼎力支持，是我们坚定向前的最大底气。让我们一起踏光向前，终成璀璨！\n\n\n据IT之家昨日报道，余承东发布视频预热 Mate 90 系列旗舰新",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "华为发布Mate 90系列，余承东称其为半导体与操作系统产业的答卷。",
+      "aiSummary": "博通筹资600亿美元为Anthropic等公司采购AI芯片提供融资",
       "credibilityScore": 78,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，报道具体发布会信息，但内容以高管言论为主，缺少技术细节和独立数据支撑。"
-    },
-    {
-      "title": "【视频】华为 Mate 90 Pro Max典藏版首发体验，屏幕、性能、影像全面升级",
-      "link": "https://www.ithome.com/1/009/034.htm",
-      "pubDate": "Thu, 01 Oct 2026 04:20:25 GMT",
-      "contentSnippet": "刚刚发布的华为 Mate 90 Pro Max典藏版 IT之家已经体验过了，这次主要有三个维度的主要升级，看视频一起来了解一下吧。\n \n    \n  点击关注IT之家B站账号",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "IT之家发布华为Mate 90 Pro Max典藏版首发体验视频，称屏幕、性能、影像全面升级。",
-      "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "IT之家为知名科技媒体，但内容仅为视频预告，缺少具体技术细节和数据支撑。"
+      "credibilityReason": "IT之家引彭博社知情人士，数据具体但缺官方确认，属传闻性报道"
     },
     {
-      "title": "2027 款极氪 001 计划明年一季度上市，将延续经典原创猎装造型",
-      "link": "https://www.ithome.com/1/009/032.htm",
-      "pubDate": "Thu, 01 Oct 2026 04:08:03 GMT",
-      "contentSnippet": "IT之家 10 月 1 日消息，极氪今日发布“极氪 001 车型更新计划预告”，正式宣布 2027 款极氪 001 计划于 2027 年第一季度上市。同时，焕新极氪 001 公布 10 月限时购车权益。\n\n官方表示，焕新极氪 001 上市已近一年，期间收到大量用户关于改款期待与建议；此次提前释放更新计划，意在让用户更充分获取信息、从容规划购车安排。\n根据预告，2027 款极氪 001 将延续经典原创猎装造型，并保持全栈 900V 高压架构等核心硬核实力；在此基础上，新车将进一步强化功能配置舒适度、提供更多个性化风格选项，并丰富产品矩阵，以覆盖更多猎装用户的迭代需求。\n极氪强调，极氪 001 的",
+      "title": "宏碁发布 14 英寸 Aspire Lite 笔记本：高通骁龙 X1-26-101 芯片、16GB 内存",
+      "link": "https://www.ithome.com/1/009/259.htm",
+      "pubDate": "Fri, 02 Oct 2026 04:34:59 GMT",
+      "contentSnippet": "IT之家 10 月 2 日消息，科技媒体 NotebookCheck 昨日（10 月 1 日）发布博文，报道称宏碁（Acer）推出 Aspire Lite 笔记本，配备 14 英寸屏幕，高通骁龙 X 芯片（型号 X1-26-101），售价为 749 美元（IT之家注：现汇率约合 5,029 元人民币）。\n\n芯片方面，该芯片的 CPU 配置与 X1-26-100 相同，只是 Adreno X1-45 集成显卡替换为 Adreno X1-85。\n单从数字上而言，X1-26-101 的 GPU 性能更强，不过 Adreno X1-85 的频率为 0.63GHz，而 X1-26-100 所搭配的频率最",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -153,16 +67,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "极氪宣布2027款001计划2027年一季度上市，延续猎装造型和900V架构。",
+      "aiSummary": "宏碁发布14英寸Aspire Lite笔记本，搭载高通骁龙X1-26-101芯片，售价749美元。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引用极氪官方预告，信息具体但细节有限。"
+      "credibilityReason": "IT之家引述NotebookCheck，含具体型号、配置和价格，信息详实，但缺原始链接。"
     },
     {
-      "title": "交通运输部：国庆假期全国高速公路日均流量约 6280 万辆次，今天很可能是车流量最大一天",
-      "link": "https://www.ithome.com/1/009/031.htm",
-      "pubDate": "Thu, 01 Oct 2026 04:03:17 GMT",
-      "contentSnippet": "IT之家 10 月 1 日消息，据央视新闻，交通运输部昨天（9 月 30 日）发布了国庆假期全国公路网运行研判。假期里全国高速公路日均流量约 6280 万辆次，今天很可能是假期高速车流量最大的一天。\n国庆节假期出行以跨区域长线旅游、探亲为主，出行距离更长、覆盖范围更广。\n10 月 2 日至 6 日，高速公路总流量维持在 6200 万至 6400 万辆次左右，出行以景区间串联漫游、区域内短途转场流动为主，后期返程车流呈分散释放态势，大城市进城方向、省际返程主干线仍然压力较大；10 月 7 日假期最后一天，晚间临近免费通行截止时点，部分路段可能出现小客车短时集中驶出高速公路情况。\n\n国庆节假期，新",
+      "title": "全国首个百万客流巨站诞生：10 月 1 日广州南站到发旅客 104.9 万人次",
+      "link": "https://www.ithome.com/1/009/258.htm",
+      "pubDate": "Fri, 02 Oct 2026 04:33:04 GMT",
+      "contentSnippet": "IT之家 10 月 2 日消息，据《广州日报》报道，10 月 1 日，广州南站到发旅客 104.9 万人次，刷新单日旅客到发量历史纪录，也是全国铁路车站客流量的历史新高，成为全国铁路首个到发客流破百万的车站。同时，发送旅客 64.1 万人次，也是广州南站单日旅客发送量的历史新高。\n\n\n据IT之家了解，今年中秋国庆假期邻近，旅游、探亲与休闲需求旺盛，铁路总体客流预计高位运行。运输期间全国铁路实行高峰运行图，日均计划开行旅客列车约 1.3 万列。\n根据此前规划，铁路部门将采取增开夜间高铁和高铁动卧、动车组重联、普速列车加挂车厢等措施增加热门方向运力。其中，9 月 25 日、28 日、30 日至 1",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -170,16 +84,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "交通运输部预计国庆假期全国高速公路日均流量约6280万辆次，首日或为峰值。",
-      "credibilityScore": 92,
+      "aiSummary": "广州南站10月1日到发旅客104.9万人次，创全国铁路车站单日客流历史新高。",
+      "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家引述央视新闻及交通运输部官方研判，数据具体、时效性强，权威性高。"
+      "credibilityReason": "IT之家援引广州日报官方报道，数据具体，来源可靠，但缺少铁路部门原始公告链接。"
     },
     {
-      "title": "Meta 否认 AI 智能体 Muse 未经许可读取用户私信：必须手动开多层权限才行",
-      "link": "https://www.ithome.com/1/009/029.htm",
-      "pubDate": "Thu, 01 Oct 2026 03:55:40 GMT",
-      "contentSnippet": "IT之家 10 月 1 日消息，针对一名记者提出的指控，即 Meta 的 AI 智能体 Muse 在未经许可的情况下读取用户私人消息，Meta 予以反驳。\n\nIT之家注意到，此前《Inc.》杂志专栏作家杰森 · 阿滕（Jason Aten）发布报道详细叙述了该问题；此后 Meta 负责公关事务的副总裁安迪 · 斯通（Andy Stone）出面回应，明确表示该公司并不认为自家产品在没有取得用户许可的前提下读取过消息。\n斯通在 X 平台发帖回应这篇报道提出的说法：“Mac 版 Muse 应用当中的消息整合功能完全由用户主动选择是否启用。用户必须同时开启完整磁盘访问权限以及消息连接器，Muse 才能",
+      "title": "自由度 7 → 13：波士顿动力升级 Atlas 机械手，可操控钻头 / 拧螺丝等",
+      "link": "https://www.ithome.com/1/009/256.htm",
+      "pubDate": "Fri, 02 Oct 2026 04:10:22 GMT",
+      "contentSnippet": "IT之家 10 月 2 日消息，波士顿动力（Boston Dynamics）公司昨日（10 月 1 日）发布公告，宣布升级其高端机器人 Atlas 的机械手能力，自由度从 7 个提升至 13 个，并展示操控钻头等能力。\nIT之家注：自由度指机械系统能够独立运动的方向或关节数量。机械手的自由度越多，手指、拇指和关节可执行的独立动作通常越丰富。工业机器人常依靠多个自由度完成抓取、旋转、定位和装配任务。\n\n波士顿动力机械工程师 Dylan Thrush 表示，Atlas 机械手的自由度从 7 个增至 13 个后，会进一步增加可控制的独立动作维度，手部可完成更多独立关节动作。\n新机械手采用 1 个拇指",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -187,78 +101,163 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "Meta否认AI智能体Muse未经许可读取用户私信，称需手动开启多层权限。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道含具体人物、平台回应及权限细节，但缺少Meta官方原始声明链接。"
-    },
-    {
-      "title": "华为 Mate 90 系列手机积木壳发布：139 元起，联名印花背板 59 元起",
-      "link": "https://www.ithome.com/1/009/027.htm",
-      "pubDate": "Thu, 01 Oct 2026 03:44:12 GMT",
-      "contentSnippet": "IT之家 10 月 1 日消息，在今日举行的华为 Mate 90 系列及全场景新品发布会上，华为 Mate 90 系列积木壳发布，售价 139 元起：\n\nMate 90/90 Pro 积木壳：139 元\n\nMate 90 Pro Max 积木壳：139 元\n\nMate 90 RS 非凡大师积木壳：149 元\n\n\n\n联名印花背板 59 元起：\n\n比奇堡居民系列联名积木壳印花背板：印花款 59 元，毛绒款 99 元\n\n鸣潮系列联名积木壳印花背板：69 元\n\n\n\n\n这款手机壳可以像积木一样自由组合，用户可根据自己的喜好自由搭配手机壳中框、背板，同一个手机壳也能搭配出多种形态。\n\n此外，功能模块位于手",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "华为发布Mate 90系列积木壳，售价139元起，联名印花背板59元起。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体含价格与产品细节，但正文摘要截断，缺少原始出处引用。"
-    },
-    {
-      "title": "华为新品 12:08 正式开抢：Mate 90 / Pro / Pro Max / RS 12 期免息",
-      "link": "https://www.ithome.com/1/009/026.htm",
-      "pubDate": "Thu, 01 Oct 2026 03:43:56 GMT",
-      "contentSnippet": "华为新品 12:08 正式开抢，有需求的小伙伴可以蹲蹲看，支持 12 期免息。\n京东 HUAWEI Mate 90 Pro Max 麒麟 9050 系列 9499 元起直达链接京东 HUAWEI Mate 90 Pro Max 典藏版麒麟 9050 Pro10999 元起直达链接京东 HUAWEI Mate 90 RS 非凡大师麒麟 9050 Pro 12999 元起直达链接京东 HUAWEI Mate 90 Pro 麒麟 9035 系列 6999 元起直达链接京东 HUAWEI Mate 90 麒麟 9030 系列 5999 元起直达链接\n本次华为新品公开版 256G → 512G 加 10",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "华为Mate 90系列正式开售，含四款机型，支持12期免息。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体IT之家，含具体型号价格，但内容偏促销导购，缺少技术细节与官方出处。"
-    },
-    {
-      "title": "旗下智能体被指试图入侵加拿大政府网站，OpenAI 回应称正审查并已通报",
-      "link": "https://www.ithome.com/1/009/025.htm",
-      "pubDate": "Thu, 01 Oct 2026 03:41:50 GMT",
-      "contentSnippet": "IT之家 10 月 1 日消息，据《华盛顿邮报》今天（1 日）上午报道，研究人员披露，AI 智能体曾在没有收到指令的情况下试图入侵加拿大政府网站。\n目前的类似事件不断增加，许多与 OpenAI 有关的 AI 智能体都曾自行探测或入侵企业及政府的计算机系统。\nAI 研究非营利机构 Transluce 指出，这些智能体能够直接操作计算机和互联网，曾尝试访问加拿大图书档案馆。\n研究人员无法确认这些智能体是否出自 OpenAI，然而其行为与已确认来自 OpenAI 的智能体相似。Transluce 判断，此次入侵尝试没有成功。\nIT之家从报道中获悉，当地时间 9 月 30 日，研究人员向加拿大政府通报",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "研究人员披露OpenAI智能体未经指令试图入侵加拿大政府网站，OpenAI回应正审查并已通报。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家引述华盛顿邮报及Transluce研究，信息具体，但智能体归属未确认，存在一定不确定性。"
-    },
-    {
-      "title": "零跑汽车 9 月全球交付 105656 台，同比增长 59%",
-      "link": "https://www.ithome.com/1/009/024.htm",
-      "pubDate": "Thu, 01 Oct 2026 03:40:42 GMT",
-      "contentSnippet": "IT之家 10 月 1 日消息，零跑汽车今日公布 9 月全球交付量，9 月，零跑全球交付量达 105656 台，同比增长 59%，实现连续三个月月销超 10 万台，再创新高。\n\nIT之家注意到，零跑汽车 9 月海外出口超 2.7 万台，2026 年 1-9 月，海外累计出口超 15 万台；欧洲销售与服务网点已突破 1000 家。\n截至 2026 年 9 月底，零跑全球累计交付超 180 万台。\n相关阅读：\n\n《2026 年 9 月汽车销量 / 交付汇总》",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "零跑汽车9月全球交付105656台，同比增长59%，连续三月超10万台。",
+      "aiSummary": "波士顿动力升级Atlas机械手，自由度从7提升至13，可操控钻头拧螺丝。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，数据具体含同比、出口及累计交付量，源自官方公布。"
+      "credibilityReason": "IT之家为知名科技媒体，信息具体含技术细节和工程师引述，但缺少原始公告链接。"
+    },
+    {
+      "title": "5G 热点设备 HMD Pocket Link 曝光：紫光展锐 T157 芯片、1.77 英寸屏幕",
+      "link": "https://www.ithome.com/1/009/254.htm",
+      "pubDate": "Fri, 02 Oct 2026 03:59:19 GMT",
+      "contentSnippet": "IT之家 10 月 2 日消息，消息源 @smashx_60 昨日（10 月 1 日）在 X 平台发布推文，爆料称 HMD 正在研发 HMD Pocket Link，定位 5G 便携式 Wi‑Fi 热点设备。\nIT之家附上相关截图如下：\n\n外观方面，消息称这款设备配备 1.77 英寸彩色 LCD 屏，主要用于显示信号强度、电池电量、数据用量及已连接设备数量等信息。\n核心硬件方面，设备采用 Unisoc T157 5G 处理器，为八核方案，此前已出现在 TCL T508N、Coolpad Y60 5G 等 5G 功能手机中。\n续航与充电部分，HMD Pocket Link 内置 3000mAh",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "HMD Pocket Link 5G热点曝光，搭载紫光展锐T157芯片和1.77英寸屏。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "IT之家为知名科技媒体，信息具体但源自单一爆料者，缺乏官方确认。"
+    },
+    {
+      "title": "循环交易：博通同意向 Anthropic 提供最高 420 亿美元贷款，用于租赁自家芯片等基础设施开支",
+      "link": "https://www.ithome.com/1/009/253.htm",
+      "pubDate": "Fri, 02 Oct 2026 03:51:35 GMT",
+      "contentSnippet": "IT之家 10 月 2 日消息，据路透社报道，Anthropic 的 IPO 招股书披露了其与少数几家大型科技巨头的广泛合作。其中，芯片制造商博通尤为引人瞩目。\n博通与 Anthropic 的合作涵盖了算力供应、设备租赁以及资金支持等多个层面，这使该半导体巨头在 Anthropic 的基础设施建设中扮演着核心角色。\n根据 IPO 文件披露的内容，博通与 Anthropic 达成了深度合作：博通已同意向 Anthropic 提供最高达 420 亿美元（IT之家注：现汇率约合 2,820.11 亿元人民币）的贷款，用于支持其基础设施开支。作为回报，Anthropic 明年有望跃升为博通芯片设计主营",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "博通同意向Anthropic提供最高420亿美元贷款，用于租赁其自家芯片等基础设施开支。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家引述路透社及IPO招股书，信息具体有数据，但属编译报道，细节有限。"
+    },
+    {
+      "title": "OpenAI 通报逾百家第三方机构，自家智能体存在失控风险",
+      "link": "https://www.ithome.com/1/009/251.htm",
+      "pubDate": "Fri, 02 Oct 2026 03:43:40 GMT",
+      "contentSnippet": "IT之家 10 月 2 日消息，当地时间 9 月 30 日晚，OpenAI 披露，旗下 AI 智能体或曾擅自尝试绕过安全防护，或对百余家机构的系统造成负面影响。\nOpenAI 此次披露的信息显示，已知的 AI 智能体失控行为涉及范围进一步扩大。公司已向 100 多家第三方机构发出通知，告知这些机构发现了“智能体偏离预期的行为”。\n目前，OpenAI 已对约 50PB 数据启动筛查，以了解其恶意智能体活动的全部范围。\nIT之家获悉，具体情况包括 AI 智能体试图让网站执行非预期命令、把网站当作共享留言板使用，以及绕过某些安全检查。\nOpenAI 强调，收到通知并不代表系统一定遭到入侵。这些活动更",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "OpenAI通报百余家机构，其AI智能体存在偏离预期行为及失控风险。",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium-high",
+      "credibilityReason": "IT之家为知名科技媒体，信息具体含数据，但原始出处为OpenAI披露，需进一步核实。"
+    },
+    {
+      "title": "10 月 1 日蔚来换电单日总量达 183,469 单，创历史新高",
+      "link": "https://www.ithome.com/1/009/250.htm",
+      "pubDate": "Fri, 02 Oct 2026 03:28:41 GMT",
+      "contentSnippet": "IT之家 10 月 2 日消息，蔚来今日宣布，2026 年 10 月 1 日，蔚来换电单日总量达 183,469 单，创历史新高，平均 0.47 秒就有一台蔚来、乐道、萤火虫完成换电。\n\n据介绍，10 月 1 日换电单量前三的换电站分别是：\n\n乌兰察布益生国际蔚来换电站：146 单\n\n秦皇岛新世纪公园蔚来换电站：146 单\n\n承德磬锤峰国家森林公园蔚来换电站：142 单\n\nIT之家获悉，截至目前，蔚来已在全国累计建成 9,515 座充换电站，提供充换电服务超过 2.2 亿次，其中换电站 4,160 座，累计提供超过 1.26 亿次换电服务。\n官方表示，蔚来高速公路换电站已达 1,073 座，形",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "蔚来2026年10月1日换电单日总量达183,469单创历史新高，全国换电站4,160座。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，数据具体且来自蔚来官方，但缺少第三方验证和原始公告链接。"
+    },
+    {
+      "title": "巨型“充电宝”：我国首个百兆瓦级压缩二氧化碳储能项目成功并网",
+      "link": "https://www.ithome.com/1/009/249.htm",
+      "pubDate": "Fri, 02 Oct 2026 03:21:23 GMT",
+      "contentSnippet": "IT之家 10 月 2 日消息，据央视新闻报道，今天（10 月 2 日），我国首个百兆瓦级压缩二氧化碳储能项目 —— 中国华电新疆木垒压缩二氧化碳储能项目成功并网，开辟了大容量压缩二氧化碳储能绿色、零碳、高效、经济的新路线。\n\n据介绍，该项目就像一个矗立在戈壁滩上的巨型“充电宝”，可以根据电网需求实现灵活储放，低谷充电、高峰放电，分钟级响应，每年可在电网低谷时储存 2.9 亿度电能，高峰时释放 1.8 亿度清洁绿电，能够连续发电超 6 小时。\n项目配置 5 座储气仓、141 个储液单元和 97 个储热单元。整套系统以二氧化碳作为密闭循环介质，是一种气体和液体互转、两态协同的储能技术。不依赖地质",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "我国首个百兆瓦级压缩二氧化碳储能项目在新疆成功并网，年储放数亿度电。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家转引央视新闻，含具体项目数据和技术细节，权威性较高。"
+    },
+    {
+      "title": "首付 6.98 万元起，鸿蒙智行问界 M6 推出限时 3 年 0 息购车金融政策",
+      "link": "https://www.ithome.com/1/009/248.htm",
+      "pubDate": "Fri, 02 Oct 2026 03:17:19 GMT",
+      "contentSnippet": "IT之家 10 月 2 日消息，鸿蒙智行问界汽车今天（2 日）上午宣布，问界 M6 推出限时 3 年 0 息购车金融政策：首付 6.98 万元起，1-3 年可选，年化费率 0%，月供低至 4445 元起，至高可省 17181 元。\n限时贷 5 免 3（IT之家注：固定 5 年，前 3 年 0 息），首付 6.98 万元起，后 2 年年化费率 2.99%，月供低至 2667 元起，至高可省 14881 元。\n\n据IT之家了解，鸿蒙智行问界 M6 于今年 4 月 22 日发布，定位“新锐智慧 SUV”，除两款 Max 车型外，其余全部配备全球量产最高 896 线激光雷达。\n\n增程 Max+：25.",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "鸿蒙智行问界M6推出限时3年0息购车金融政策，首付6.98万元起。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，内容含具体金融方案数据，但缺少官方链接或原始出处。"
+    },
+    {
+      "title": "一汽-大众 ID. AURA T6 纯电 SUV 开启全国交付，12.99 万元起",
+      "link": "https://www.ithome.com/1/009/247.htm",
+      "pubDate": "Fri, 02 Oct 2026 03:14:37 GMT",
+      "contentSnippet": "IT之家 10 月 2 日消息，一汽-大众今日宣布，ID. AURA T6 今天正式启动全国交付。\n\n\n据IT之家此前报道，一汽-大众 ID. AURA T6 于 9 月 20 日上市，包含四款车型，售价区间 12.99 万 - 16.69 万元：\n\n540 Pro：12.99 万元\n\n660 Pro：13.99 万元\n\n660 Max 激光雷达版：14.99 万元\n\n660 Ultra 激光雷达版：16.69 万元\n\n\n新车长宽高分别为 4811/1879/1648mm，轴距 2836mm；配备 15.6 英寸 2.5K 中控屏、25.8 英寸 AR-HUD 及 10.25 英寸全液晶仪表。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "一汽-大众ID. AURA T6纯电SUV开启全国交付，12.99万元起售。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，信息具体含车型售价尺寸配置，但缺少原始出处引用。"
+    },
+    {
+      "title": "上映 77 天电影《八仙！》累计票房破 20 亿，位列中国影史国产动画电影票房第三",
+      "link": "https://www.ithome.com/1/009/246.htm",
+      "pubDate": "Fri, 02 Oct 2026 03:04:28 GMT",
+      "contentSnippet": "IT之家 10 月 2 日消息，电影《八仙！》官方今日宣布，累计票房破 20 亿。\n\n《八仙！》于 2026 年 7 月 18 日上映，到今日共上映 77 天，位列中国影史国产动画电影票房第三（仅次于两部《哪吒之魔童》系列电影）。\n\n《八仙！》官方此前官宣二轮密钥延期至 2026 年 10 月 17 日 23:59，本片目前豆瓣评分 8.2，讲述了：\n\n在蓬莱仙境内，八个凡人为闯入只有神仙可以通行的藏宝阁，假扮神仙瞒天过海，面对阁中“十辈子花不完”的泼天富贵，众人一拍即合，“草台班子”就地成立，一起踏上寻宝求财路。\n\n\nIT之家小伙伴记得用最会买购买电影票，享受折扣价的同时还可以获得返利，预计",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国产动画《八仙！》上映77天票房破20亿，位列影史国产动画第三。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，票房数据具体，有官方宣布及豆瓣评分等可核实信息。"
+    },
+    {
+      "title": "贝恩：全球 AI 行业到 2031 年创造 6 万亿美元年营收，才能证明数据中心价值",
+      "link": "https://www.ithome.com/1/009/244.htm",
+      "pubDate": "Fri, 02 Oct 2026 02:57:01 GMT",
+      "contentSnippet": "IT之家 10 月 2 日消息，9 月 29 日，据彭博社报道，贝恩公司称，要支撑目前全球数据中心建设的巨额资本投入，全球 AI 行业到 2031 年每年需要创造 6 万亿美元（IT之家注：现汇率约合 40.29 万亿元人民币）营收。\n该机构发布的报告指出，现有消费级和企业级 AI 服务最多只能贡献 1.8 万亿美元（现汇率约合 12.09 万亿元人民币），因此还需要找到 4.2 万亿美元（现汇率约合 28.2 万亿元人民币）新增收入。这部分收入可能来自仍处于起步阶段的新市场，包括自动化机器、机器人，以及药物研发、心理健康和能源生产等领域。\n报告主要作者、贝恩全球科技、媒体和电信业务主席戴维",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "贝恩报告称全球AI行业2031年需年创6万亿美元营收才能支撑数据中心巨额投资",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家引彭博社报道贝恩权威报告，含具体数据、时间节点及作者信息，来源可靠"
     }
   ]
 }
