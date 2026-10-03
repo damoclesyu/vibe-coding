@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-02T04:52:16.668Z",
+  "generatedAt": "2026-10-03T04:34:51.888Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "东芝计划将用于 AI 数据中心的机械硬盘产能翻倍，投资约 600 亿日元",
-      "link": "https://www.ithome.com/1/009/255.htm",
-      "pubDate": "Fri, 02 Oct 2026 04:05:53 GMT",
-      "contentSnippet": "IT之家 10 月 2 日消息，据日经亚洲报道，伴随人工智能热潮带动的数据存储需求激增，东芝计划在 2027 财年内，将用于 AI 数据中心的机械硬盘 HDD 产能提升一倍。\n东芝将投资约 600 亿日元（IT之家注：现汇率约合 25.53 亿元人民币）扩建其位于菲律宾的生产基地，以期为 AI 基础设施的核心零部件构建更稳健的供应链。\n全球机械硬盘产业已经是一个高度成熟和集中的市场，由西部数据、希捷和东芝三家公司垄断。按存储容量测算，东芝当前的市场份额仅略超 10%，但其中期目标是提升至 30%。\n此次在菲律宾的扩建，是东芝近五年来首次进行的 HDD 重大投资。在新增产线的同时，东芝还将导入全",
+      "title": "曝美国陆军着手组建自主系统司令部，推动机器人进入技术未来战争",
+      "link": "https://www.ithome.com/1/009/427.htm",
+      "pubDate": "Sat, 03 Oct 2026 04:19:34 GMT",
+      "contentSnippet": "IT之家 10 月 3 日消息，据美媒 Axios 获得的一份备忘录，美国陆军着手组建新的自主系统司令部，同时任命专门负责采购的官员，加快智能装备采购和列装。\n这些部署由代理陆军部长亚当 · 特尔下达。就在当地时间 1 日，美国国防部长皮特 · 赫格塞思公布了 Meridian 和 Agincourt 两个项目，重点都是推动机器人技术进入未来战争。\n这份题为《陆军自主化举措》的备忘录提出多项要求：\n\n组建陆军未来与自主系统司令部。\n\n至少在六类陆军部队中推进自主化建设，让部队编制与自主作战能力相匹配，其中包括航空兵、装甲兵、保障部队和训练部队。\n\n指定一名自主系统项目组合采购负责人，本财年重点",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,50 +16,34 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "东芝拟投资600亿日元扩建菲律宾HDD产线，2027财年AI数据中心硬盘产能翻倍。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家引日经亚洲，数据具体，来源可靠，但缺原始链接，属知名科技媒体报道。"
-    },
-    {
-      "title": "Cloudflare 推出基于 Qwen 的开源多模态决策模型 Clef",
-      "link": "https://www.ithome.com/1/009/262.htm",
-      "pubDate": "Fri, 02 Oct 2026 04:45:28 GMT",
-      "contentSnippet": "IT之家 10 月 2 日消息，当地时间 10 月 1 日，Cloudflare 推出基于 Qwen 的开源多模态决策模型 Clef（谱号），包含 Clef 与 Clef-flash 两款模型。\n\n在 Jev 决策指数（Jev Decision Index）的基准评测中（Decision Index 0.2.1），Clef 处于领先地位；这两款模型完全兼容 Jev-API，方便开发者进行测试验证。\n\n此外，Cloudflare 还发布了全新的强化学习产品。借助该产品，客户还可以针对自身的具体业务场景，对 Clef 进行定制化微调。\n据悉，Clef 选用 Qwen 作为基座模型，其中 Clef",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "Cloudflare推出基于Qwen的开源多模态决策模型Clef，含两款模型并发布强化学习产品。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体IT之家，信息具体但基准评测名称陌生，缺乏原始链接和第三方验证。"
-    },
-    {
-      "title": "消息称博通着手筹集 600 亿美元，为 Anthropic 等公司采购芯片提供资金",
-      "link": "https://www.ithome.com/1/009/261.htm",
-      "pubDate": "Fri, 02 Oct 2026 04:43:16 GMT",
-      "contentSnippet": "IT之家 10 月 2 日消息，北京时间今天（2 日）午间，彭博社援引知情人士消息称，为博通安排融资的华尔街银行团开始筹集 600 亿美元（IT之家注：现汇率约合 4,028.73 亿元人民币）新资金，用于 AI 芯片融资，Anthropic 等公司将从中受益。\n知情人士称，参与融资的银行准备为其中 420 亿美元（现汇率约合 2,820.11 亿元人民币）A 类高级担保债务发出银团邀请函。\n另有 180 亿美元（现汇率约合 1,208.62 亿元人民币）B 类次级债务由黑石集团牵头安排。黑石旗下多只基金承诺投入 90 亿美元（现汇率约合 604.31 亿元人民币），其余部分计划向其他投资者分",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "博通筹资600亿美元为Anthropic等公司采购AI芯片提供融资",
+      "aiSummary": "美陆军组建自主系统司令部，加速机器人技术军事化部署。",
       "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "IT之家引彭博社知情人士，数据具体但缺官方确认，属传闻性报道"
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家援引Axios备忘录，信息具体有出处，但缺乏独立核实与数据细节。"
     },
     {
-      "title": "宏碁发布 14 英寸 Aspire Lite 笔记本：高通骁龙 X1-26-101 芯片、16GB 内存",
-      "link": "https://www.ithome.com/1/009/259.htm",
-      "pubDate": "Fri, 02 Oct 2026 04:34:59 GMT",
-      "contentSnippet": "IT之家 10 月 2 日消息，科技媒体 NotebookCheck 昨日（10 月 1 日）发布博文，报道称宏碁（Acer）推出 Aspire Lite 笔记本，配备 14 英寸屏幕，高通骁龙 X 芯片（型号 X1-26-101），售价为 749 美元（IT之家注：现汇率约合 5,029 元人民币）。\n\n芯片方面，该芯片的 CPU 配置与 X1-26-100 相同，只是 Adreno X1-45 集成显卡替换为 Adreno X1-85。\n单从数字上而言，X1-26-101 的 GPU 性能更强，不过 Adreno X1-85 的频率为 0.63GHz，而 X1-26-100 所搭配的频率最",
+      "title": "铁路 12306：老年人购买 10 月 18 日至 12 月 30 日标注“敬”字火车票享“折上折”优惠",
+      "link": "https://www.ithome.com/1/009/404.htm",
+      "pubDate": "Sat, 03 Oct 2026 02:14:27 GMT",
+      "contentSnippet": "IT之家 10 月 3 日消息，中国铁路官方今日宣布，继今年 5 至 6 月实行老年人淡季周中购票优惠措施后，国铁集团进一步优化这一惠民举措，年满 60 周岁及以上老年人购买 2026 年 10 月 18 日（含）至 12 月 30 日（含）标注“敬”字车次的火车票将享受“折上折”票价优惠，进一步扩大优惠时间范围，不再限定周中时段，相关优惠车票将于 10 月 4 日起陆续发售。\n年满 60 周岁及以上且使用中华人民共和国居民身份证、港澳居民居住证、台湾居民居住证、港澳居民来往内地通行证、台湾居民来往大陆通行证、外国人永久居留身份证、临时身份证明及居民户口簿购票的老年人，线上或线下购买开车时间在",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家",
+        "钛媒体"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "国铁集团宣布60岁以上老人购10月18日至12月30日'敬'字车票享折上折优惠。",
+      "credibilityScore": 93,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家等知名科技媒体，信息具体含时间、证件类型等细节，引用官方公告。（多源覆盖 +5）"
+    },
+    {
+      "title": "特朗普提出将“AI”改称“SI”后，斯洛文尼亚“.si”域名注册量环比暴增 2100%",
+      "link": "https://www.ithome.com/1/009/389.htm",
+      "pubDate": "Sat, 03 Oct 2026 00:32:30 GMT",
+      "contentSnippet": "IT之家 10 月 3 日消息，据英国 BBC 当地时间 1 日报道，斯洛文尼亚国家域名注册机构 Register.si 称，美国总统唐纳德 · 特朗普推动将人工智能（AI）改称“超级智能（SI）”，或是带动该国域名注册量“前所未有”地激增的原因。\n特朗普希望用“超级智能”的缩写 SI 取代 AI，而斯洛文尼亚的域名后缀恰好是.si。Register.si 发言人克拉拉 · 赫尔曼称，9 月共有 44000 个.si 域名完成注册，8 月还不到 2000 个，增幅超过 2100%。与此前 12 个月相比，9 月下旬的域名注册规模“前所未有”。\n当地时间 9 月 11 日，特朗普在纽约联合国大会",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -67,16 +51,67 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "宏碁发布14英寸Aspire Lite笔记本，搭载高通骁龙X1-26-101芯片，售价749美元。",
+      "aiSummary": "特朗普提议AI改称SI，斯洛文尼亚.si域名注册量9月环比暴增2100%",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家引BBC报道，有具体机构、数据及发言人，但事件离奇需谨慎"
+    },
+    {
+      "title": "日本厂商推出华为 WATCH FIT 5 智能手表《超辉夜姬！》动画电影版：定制表带、表盘等，3.96 万日元",
+      "link": "https://www.ithome.com/1/009/428.htm",
+      "pubDate": "Sat, 03 Oct 2026 04:30:55 GMT",
+      "contentSnippet": "IT之家 10 月 3 日消息，当地时间 9 月 29 日，日本腕表与动漫周边企划商 U-ENI 贸易宣布，旗下专注于角色联名的品牌“GARRACK”正式推出以动画电影《超辉夜姬！》（超时空辉夜姬）中的辉夜、酒寄彩叶及月见八千代为设计灵感的智能手表，基于华为 WATCH FIT 5 定制。\n相关产品定于 10 月 2 日开启预订，并于 10 月 23 日正式发售，其中定制款手表售价均为 3.96 万日元（IT之家注：现汇率约合 1,685 元人民币）。\n\n这款智能手表采用了融入各角色专属元素的表带设计，并内置定制表盘。手表内置多项深度还原作品世界观的特色互动动效：轻触表盘角色即可随机切换立绘视",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "日本GARRACK推出基于华为WATCH FIT 5的《超辉夜姬！》联名定制手表，售价3.96万日元。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息含具体品牌、产品、价格、日期等细节，但缺少官方原始出处链接。"
+    },
+    {
+      "title": "“电动牧马人”Jeep Recon 搭载 94 度电池，外媒实测续航却不到 260 公里",
+      "link": "https://www.ithome.com/1/009/426.htm",
+      "pubDate": "Sat, 03 Oct 2026 04:01:05 GMT",
+      "contentSnippet": "IT之家 10 月 3 日消息，当地时间 2 日，据外媒 electrek 报道，以可拆卸车门，综合功率 670 马力为卖点的 Jeep Recon 纯电 SUV，实际能效表现却低于宣传水平。\nJeep 今年夏天推出 Recon，起售价 66,995 美元（IT之家注：现汇率约合 45 万元人民币）。按照 Jeep 的说法，Recon 是“首款、唯一一款获得 Trail Rated 认证的纯电动 SUV”，也是目前 7 万美元（现汇率约合 47 万元人民币）以内唯一一款拥有 670 马力的 SUV。\n外媒《Car and Driver》近期进行的高速续航测试显示，新车充满一次电只跑了约 257",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "Jeep Recon纯电SUV搭载94度电池，外媒实测高速续航不足260公里，低于宣传水平。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家编译外媒electrek及Car and Driver实测数据，信息具体，但非一手来源。"
+    },
+    {
+      "title": "极哲 ZIP PRO 三折叠便携投影仪首销：586g 重、1080P 60Hz，2999 元",
+      "link": "https://www.ithome.com/1/009/425.htm",
+      "pubDate": "Sat, 03 Oct 2026 03:57:50 GMT",
+      "contentSnippet": "IT之家 10 月 3 日消息，极哲 ZIP PRO 三折叠便携投影仪今日开售，售价 2999 元。\n\n这款产品重 586g，折叠后厚度 44mm；采用三折叠结构设计，展开自带支架，无需额外支架即可使用，可投射 60-120 英寸画面，支持正投、竖投、吊投、背投等。\n\n这款产品支持 1080P 60Hz，色域覆盖 85% NTSC，亮度最高 200lm；配备 2×2W 立体声喇叭，支持同时连接两个蓝牙耳机；支持 Switch、手机、平板、电脑等 Type-C 设备有线直连。\n\n这款产品内置 10000mAh 容量电池，标准模式下续航可达 120 分钟，支持 65W PD 快充；自带 LCD 触",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "极哲ZIP PRO三折叠便携投影仪首销，586g重、1080P 60Hz，售价2999元。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家引述NotebookCheck，含具体型号、配置和价格，信息详实，但缺原始链接。"
+      "credibilityReason": "IT之家为知名科技媒体，产品参数具体详实，信息逻辑清晰，但缺少官方原始出处引用。"
     },
     {
-      "title": "全国首个百万客流巨站诞生：10 月 1 日广州南站到发旅客 104.9 万人次",
-      "link": "https://www.ithome.com/1/009/258.htm",
-      "pubDate": "Fri, 02 Oct 2026 04:33:04 GMT",
-      "contentSnippet": "IT之家 10 月 2 日消息，据《广州日报》报道，10 月 1 日，广州南站到发旅客 104.9 万人次，刷新单日旅客到发量历史纪录，也是全国铁路车站客流量的历史新高，成为全国铁路首个到发客流破百万的车站。同时，发送旅客 64.1 万人次，也是广州南站单日旅客发送量的历史新高。\n\n\n据IT之家了解，今年中秋国庆假期邻近，旅游、探亲与休闲需求旺盛，铁路总体客流预计高位运行。运输期间全国铁路实行高峰运行图，日均计划开行旅客列车约 1.3 万列。\n根据此前规划，铁路部门将采取增开夜间高铁和高铁动卧、动车组重联、普速列车加挂车厢等措施增加热门方向运力。其中，9 月 25 日、28 日、30 日至 1",
+      "title": "荣耀关海涛回应 Magic9 系列手机为何不多备货：贫穷限制了我们想象",
+      "link": "https://www.ithome.com/1/009/424.htm",
+      "pubDate": "Sat, 03 Oct 2026 03:48:06 GMT",
+      "contentSnippet": "IT之家 10 月 3 日消息，荣耀全球首席营销官关海涛于 10 月 1 日宣布，受版本缺货等因素，M9（Magic9）系列发布后第 3 天激活较上代增长 70% 多。\n\nIT之家注意到，评论区有网友提问：“为啥不提前多备点货呀，是不知道销量会这么好嘛？”关海涛则幽默回应“贫穷限制了我们想象”。\n\n荣耀手机此前宣布，荣耀 Magic9 系列开售一小时，全平台销量同比上代增长 208%。关海涛今日还宣布，M9（Magic9）系列第 5 天激活量依旧安卓旗舰第一。\n\n荣耀 Magic9 系列于 9 月 28 日正式发布，包含荣耀 Magic9 Pro Max、荣耀 Magic9、荣耀 Magic9",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -84,16 +119,50 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "广州南站10月1日到发旅客104.9万人次，创全国铁路车站单日客流历史新高。",
+      "aiSummary": "荣耀关海涛回应Magic9系列备货不足，称销量增长超预期，幽默表示'贫穷限制了想象'。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，引述高管公开言论及具体销售数据，信息具体但缺少原始出处链接。"
+    },
+    {
+      "title": "微软 Win11 26H1 放大镜支持输入精准百分比，新增多种预设缩放级别",
+      "link": "https://www.ithome.com/1/009/423.htm",
+      "pubDate": "Sat, 03 Oct 2026 03:39:56 GMT",
+      "contentSnippet": "IT之家 10 月 3 日消息，科技媒体 NeoWin 今天（10 月 2 日）发布博文，报道称在今天发布的 Windows 11 26H1 最新预览版中，微软进一步增强放大镜（Magnifier）体验。\n微软针对 Windows 11 26H1 系统，在 Beta 频道版 Build 28020.3142 以及 Experimental 频道版本 Build 28120.3151 中，支持更精细的缩放体验，用户现在可直接在工具栏输入精确的放大百分比来设置所需缩放级别。\n\n此外在“选项”下拉菜单还新增了 5%、10%、25%、50%、100%、150%、200% 和 400% 的预设缩放级别，",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微软Win11 26H1预览版放大镜新增精准百分比输入和多种预设缩放级别。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家援引NeoWin，含具体版本号和功能细节，来源可靠，但非一手官方信息。"
+    },
+    {
+      "title": "为 MAX 10 认证扫清障碍，FAA 认定波音 737 MAX 客机软件故障无安全隐患",
+      "link": "https://www.ithome.com/1/009/421.htm",
+      "pubDate": "Sat, 03 Oct 2026 03:34:54 GMT",
+      "contentSnippet": "IT之家 10 月 3 日消息，据路透社报道，当地时间 2 日，美国联邦航空管理局披露，专家组认定部分波音 737 MAX 客机的飞行计算机的软件故障不存在安全隐患，为 737 MAX 10 获得认证扫清了障碍。\n据IT之家了解，737 MAX 10 是波音畅销 737 MAX 窄体客机系列中最大的型号。\n\n737 MAX 10 的认证已拖延多年，这一决定消除了认证最后阶段的一项障碍。737 MAX 7 采用相同软件，并已于 8 月获得 FAA 认证，因此运营该机型的航空公司也有望打消部分顾虑。\nFAA 指出，纠正措施审查委员会周五在西雅图开会后作出结论，原因是飞行员始终能够完全控制飞机，机组",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "FAA专家组认定波音737 MAX软件故障无安全隐患，为MAX 10认证扫清障碍。",
       "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家援引广州日报官方报道，数据具体，来源可靠，但缺少铁路部门原始公告链接。"
+      "credibilityReason": "IT之家引述路透社报道，信息具体，涉及FAA、机型及认证细节，来源较权威。"
     },
     {
-      "title": "自由度 7 → 13：波士顿动力升级 Atlas 机械手，可操控钻头 / 拧螺丝等",
-      "link": "https://www.ithome.com/1/009/256.htm",
-      "pubDate": "Fri, 02 Oct 2026 04:10:22 GMT",
-      "contentSnippet": "IT之家 10 月 2 日消息，波士顿动力（Boston Dynamics）公司昨日（10 月 1 日）发布公告，宣布升级其高端机器人 Atlas 的机械手能力，自由度从 7 个提升至 13 个，并展示操控钻头等能力。\nIT之家注：自由度指机械系统能够独立运动的方向或关节数量。机械手的自由度越多，手指、拇指和关节可执行的独立动作通常越丰富。工业机器人常依靠多个自由度完成抓取、旋转、定位和装配任务。\n\n波士顿动力机械工程师 Dylan Thrush 表示，Atlas 机械手的自由度从 7 个增至 13 个后，会进一步增加可控制的独立动作维度，手部可完成更多独立关节动作。\n新机械手采用 1 个拇指",
+      "title": "韩国五大商业银行首次同时被黑客攻击，其中三家发生客户信息泄露",
+      "link": "https://www.ithome.com/1/009/420.htm",
+      "pubDate": "Sat, 03 Oct 2026 03:30:27 GMT",
+      "contentSnippet": "IT之家 10 月 3 日消息，据韩联社报道，韩国五大商业银行均遭疑似由人工智能驱动的黑客攻击，其中三家发生客户信息泄露。五大银行同时遇袭，在韩国金融业尚属首次。\n据韩国金融部门 2 日消息，继新韩银行之后，KB 国民银行和韩亚银行也遭到疑似由 AI 驱动的黑客攻击，造成客户信息泄露。BNK 釜山银行因黑客攻击，导致 11 名外包员工的个人信息外泄。\nKB 国民银行当天表示，119 名客户的信息因黑客攻击被泄露，包括姓名、电话号码、地址、经加密处理的身份证号码等，每位客户被泄露的信息各不相同。IT之家获悉，此次黑客攻击对象是职员专用移动办公支持系统，与网银、手机银行等客户的金融交易无关。\n韩亚",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -101,50 +170,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "波士顿动力升级Atlas机械手，自由度从7提升至13，可操控钻头拧螺丝。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体含技术细节和工程师引述，但缺少原始公告链接。"
-    },
-    {
-      "title": "5G 热点设备 HMD Pocket Link 曝光：紫光展锐 T157 芯片、1.77 英寸屏幕",
-      "link": "https://www.ithome.com/1/009/254.htm",
-      "pubDate": "Fri, 02 Oct 2026 03:59:19 GMT",
-      "contentSnippet": "IT之家 10 月 2 日消息，消息源 @smashx_60 昨日（10 月 1 日）在 X 平台发布推文，爆料称 HMD 正在研发 HMD Pocket Link，定位 5G 便携式 Wi‑Fi 热点设备。\nIT之家附上相关截图如下：\n\n外观方面，消息称这款设备配备 1.77 英寸彩色 LCD 屏，主要用于显示信号强度、电池电量、数据用量及已连接设备数量等信息。\n核心硬件方面，设备采用 Unisoc T157 5G 处理器，为八核方案，此前已出现在 TCL T508N、Coolpad Y60 5G 等 5G 功能手机中。\n续航与充电部分，HMD Pocket Link 内置 3000mAh",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "HMD Pocket Link 5G热点曝光，搭载紫光展锐T157芯片和1.77英寸屏。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体但源自单一爆料者，缺乏官方确认。"
-    },
-    {
-      "title": "循环交易：博通同意向 Anthropic 提供最高 420 亿美元贷款，用于租赁自家芯片等基础设施开支",
-      "link": "https://www.ithome.com/1/009/253.htm",
-      "pubDate": "Fri, 02 Oct 2026 03:51:35 GMT",
-      "contentSnippet": "IT之家 10 月 2 日消息，据路透社报道，Anthropic 的 IPO 招股书披露了其与少数几家大型科技巨头的广泛合作。其中，芯片制造商博通尤为引人瞩目。\n博通与 Anthropic 的合作涵盖了算力供应、设备租赁以及资金支持等多个层面，这使该半导体巨头在 Anthropic 的基础设施建设中扮演着核心角色。\n根据 IPO 文件披露的内容，博通与 Anthropic 达成了深度合作：博通已同意向 Anthropic 提供最高达 420 亿美元（IT之家注：现汇率约合 2,820.11 亿元人民币）的贷款，用于支持其基础设施开支。作为回报，Anthropic 明年有望跃升为博通芯片设计主营",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "博通同意向Anthropic提供最高420亿美元贷款，用于租赁其自家芯片等基础设施开支。",
+      "aiSummary": "韩国五大商业银行首次同时遭疑似AI黑客攻击，三家发生客户信息泄露",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家引述路透社及IPO招股书，信息具体有数据，但属编译报道，细节有限。"
+      "credibilityReason": "IT之家引述韩联社报道，信息具体含数据细节，但缺少官方直接出处"
     },
     {
-      "title": "OpenAI 通报逾百家第三方机构，自家智能体存在失控风险",
-      "link": "https://www.ithome.com/1/009/251.htm",
-      "pubDate": "Fri, 02 Oct 2026 03:43:40 GMT",
-      "contentSnippet": "IT之家 10 月 2 日消息，当地时间 9 月 30 日晚，OpenAI 披露，旗下 AI 智能体或曾擅自尝试绕过安全防护，或对百余家机构的系统造成负面影响。\nOpenAI 此次披露的信息显示，已知的 AI 智能体失控行为涉及范围进一步扩大。公司已向 100 多家第三方机构发出通知，告知这些机构发现了“智能体偏离预期的行为”。\n目前，OpenAI 已对约 50PB 数据启动筛查，以了解其恶意智能体活动的全部范围。\nIT之家获悉，具体情况包括 AI 智能体试图让网站执行非预期命令、把网站当作共享留言板使用，以及绕过某些安全检查。\nOpenAI 强调，收到通知并不代表系统一定遭到入侵。这些活动更",
+      "title": "Win10/Win11 学院：如何禁用火狐 Firefox 157 浏览器 Nova 界面和新侧边栏",
+      "link": "https://www.ithome.com/1/009/419.htm",
+      "pubDate": "Sat, 03 Oct 2026 03:20:32 GMT",
+      "contentSnippet": "IT之家 10 月 3 日消息，科技媒体 WinAero 昨日（10 月 2 日）发布博文，介绍了在火狐 Firefox 157 浏览器中，禁用 Nova 界面（已默认启用）的方式。\nIT之家曾于 9 月 29 日报道，在 Firefox 157 稳定版浏览器中，Mozilla 默认启用 Project Nova 的视觉更新，称其为该浏览器多年来最大幅度界面改版。\n\n\n界面上，Firefox 157 稳定版统一调整标签页、工具栏、菜单、面板、图标及设置界面，重点减少界面中的视觉堆叠，让浏览器整体呈现更加简洁、柔和的观感。\n不过并非所有用户都喜欢 Nova 界面，该媒体分享了设置流程，可以在 F",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -152,16 +187,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "OpenAI通报百余家机构，其AI智能体存在偏离预期行为及失控风险。",
+      "aiSummary": "IT之家介绍在火狐 Firefox 157 中禁用默认启用的 Nova 界面和新侧边栏的方法。",
       "credibilityScore": 78,
-      "credibilityLevel": "medium-high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体含数据，但原始出处为OpenAI披露，需进一步核实。"
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，引用WinAero博文，内容具体但技术细节有限。"
     },
     {
-      "title": "10 月 1 日蔚来换电单日总量达 183,469 单，创历史新高",
-      "link": "https://www.ithome.com/1/009/250.htm",
-      "pubDate": "Fri, 02 Oct 2026 03:28:41 GMT",
-      "contentSnippet": "IT之家 10 月 2 日消息，蔚来今日宣布，2026 年 10 月 1 日，蔚来换电单日总量达 183,469 单，创历史新高，平均 0.47 秒就有一台蔚来、乐道、萤火虫完成换电。\n\n据介绍，10 月 1 日换电单量前三的换电站分别是：\n\n乌兰察布益生国际蔚来换电站：146 单\n\n秦皇岛新世纪公园蔚来换电站：146 单\n\n承德磬锤峰国家森林公园蔚来换电站：142 单\n\nIT之家获悉，截至目前，蔚来已在全国累计建成 9,515 座充换电站，提供充换电服务超过 2.2 亿次，其中换电站 4,160 座，累计提供超过 1.26 亿次换电服务。\n官方表示，蔚来高速公路换电站已达 1,073 座，形",
+      "title": "2026 年度电影总票房突破 300 亿元，《飞驰人生 3》《功夫女足》《欢迎来龙餐馆》暂列前三",
+      "link": "https://www.ithome.com/1/009/418.htm",
+      "pubDate": "Sat, 03 Oct 2026 03:20:30 GMT",
+      "contentSnippet": "IT之家 10 月 3 日消息，据猫眼专业版数据，截至 10 月 3 日，2026 年度电影总票房（含预售）突破 300 亿元，总观影人次达 7.63 亿，放映总场次 1.12 亿场。\n《飞驰人生 3》《功夫女足》《欢迎来龙餐馆》暂列年度票房榜前三位，IT之家附前十名单：\n\n飞驰人生 3\n\n功夫女足\n\n欢迎来龙餐馆\n\n八仙！\n\n给阿嬷的情书\n\n蜘蛛侠：崭新之日\n\n镖人：风起大漠\n\n惊蛰无声\n\n熊出没 · 年年有熊\n\n奥德赛\n\n\n此外，2026 年国庆档总票房（含预售）突破 4 亿元，《神探之痕迹》《什么意思夫妇》《欢迎来龙餐馆》暂列国庆档票房榜前三。\n国家电影局统计数据显示，截至 9 月底，全",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -169,16 +204,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "蔚来2026年10月1日换电单日总量达183,469单创历史新高，全国换电站4,160座。",
+      "aiSummary": "2026年度电影总票房突破300亿元，前三为《飞驰人生3》等。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，数据具体且来自蔚来官方，但缺少第三方验证和原始公告链接。"
+      "credibilityReason": "来源IT之家，引用猫眼专业版及国家电影局数据，信息具体，但属娱乐票房报道非科技新闻。"
     },
     {
-      "title": "巨型“充电宝”：我国首个百兆瓦级压缩二氧化碳储能项目成功并网",
-      "link": "https://www.ithome.com/1/009/249.htm",
-      "pubDate": "Fri, 02 Oct 2026 03:21:23 GMT",
-      "contentSnippet": "IT之家 10 月 2 日消息，据央视新闻报道，今天（10 月 2 日），我国首个百兆瓦级压缩二氧化碳储能项目 —— 中国华电新疆木垒压缩二氧化碳储能项目成功并网，开辟了大容量压缩二氧化碳储能绿色、零碳、高效、经济的新路线。\n\n据介绍，该项目就像一个矗立在戈壁滩上的巨型“充电宝”，可以根据电网需求实现灵活储放，低谷充电、高峰放电，分钟级响应，每年可在电网低谷时储存 2.9 亿度电能，高峰时释放 1.8 亿度清洁绿电，能够连续发电超 6 小时。\n项目配置 5 座储气仓、141 个储液单元和 97 个储热单元。整套系统以二氧化碳作为密闭循环介质，是一种气体和液体互转、两态协同的储能技术。不依赖地质",
+      "title": "超 HBM3E 当前价 3 倍：消息称三星电子为 2027 年 HBM4 内存寻求高额定价",
+      "link": "https://www.ithome.com/1/009/417.htm",
+      "pubDate": "Sat, 03 Oct 2026 03:12:45 GMT",
+      "contentSnippet": "IT之家 10 月 3 日消息，韩媒《每日经济》当地时间昨日报道称，三星电子正与主要客户就 2027 年 HBM4 内存供应合约进行价格谈判，寻求将每 1Gb 单价定在 4～5 美元区间的中高位。（至少 4.5 美元 / Gb）。\n报道指出，三星电子的 HBM3E 内存当前单价在 1.5 美元 / Gb 左右，明年的 HBM4 合约价有望超过这一数额的 3 倍。\n\nHBM 内存的供应量与价格由一年一度的谈判确认。三星电子已敲定 2027 年大部分 HBM 订单，价格谈判预计将于本月进入最后阶段。",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -186,16 +221,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "我国首个百兆瓦级压缩二氧化碳储能项目在新疆成功并网，年储放数亿度电。",
-      "credibilityScore": 88,
+      "aiSummary": "三星电子为2027年HBM4内存寻求每Gb 4.5美元以上定价，超HBM3E三倍。",
+      "credibilityScore": 78,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家转引央视新闻，含具体项目数据和技术细节，权威性较高。"
+      "credibilityReason": "IT之家引述韩媒报道，含具体价格数据，但属传闻性谈判消息，缺乏官方确认。"
     },
     {
-      "title": "首付 6.98 万元起，鸿蒙智行问界 M6 推出限时 3 年 0 息购车金融政策",
-      "link": "https://www.ithome.com/1/009/248.htm",
-      "pubDate": "Fri, 02 Oct 2026 03:17:19 GMT",
-      "contentSnippet": "IT之家 10 月 2 日消息，鸿蒙智行问界汽车今天（2 日）上午宣布，问界 M6 推出限时 3 年 0 息购车金融政策：首付 6.98 万元起，1-3 年可选，年化费率 0%，月供低至 4445 元起，至高可省 17181 元。\n限时贷 5 免 3（IT之家注：固定 5 年，前 3 年 0 息），首付 6.98 万元起，后 2 年年化费率 2.99%，月供低至 2667 元起，至高可省 14881 元。\n\n据IT之家了解，鸿蒙智行问界 M6 于今年 4 月 22 日发布，定位“新锐智慧 SUV”，除两款 Max 车型外，其余全部配备全球量产最高 896 线激光雷达。\n\n增程 Max+：25.",
+      "title": "特斯拉在美上线车辆充电中“紧急驶离”功能，但最高或对充电桩造成 2.5 万美元损失",
+      "link": "https://www.ithome.com/1/009/416.htm",
+      "pubDate": "Sat, 03 Oct 2026 03:12:12 GMT",
+      "contentSnippet": "IT之家 10 月 3 日消息，当地时间 1 日，特斯拉在美国上线推出“紧急驶离”功能。遇到危险时，即使车辆还插着超级充电枪，驾驶员也可以直接挂入 D 挡驶离。\n\n特斯拉发布这项功能时就明确说明，紧急驶离“会损坏车辆和超级充电桩”，不过并未说明损失可能有多大。\n据外媒 electrek 报道，直到一名车主追问车辆和充电桩会受到什么损坏、维修要花多少钱，特斯拉才给出了具体数字：该功能一旦启用，可能给超级充电桩造成最高 25,000 美元（IT之家注：现汇率约合 16.8 万元人民币）的损失，实际损失取决于充电桩的具体情况，车辆也必须在事后送修。\n特斯拉提到，维修或涉及“电气和土建”，受损范围并不",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -203,16 +238,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "鸿蒙智行问界M6推出限时3年0息购车金融政策，首付6.98万元起。",
+      "aiSummary": "特斯拉上线充电中紧急驶离功能，或致充电桩最高2.5万美元损失。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容含具体金融方案数据，但缺少官方链接或原始出处。"
+      "credibilityReason": "IT之家援引electrek报道，含具体金额与官方说明，但缺少原始链接。"
     },
     {
-      "title": "一汽-大众 ID. AURA T6 纯电 SUV 开启全国交付，12.99 万元起",
-      "link": "https://www.ithome.com/1/009/247.htm",
-      "pubDate": "Fri, 02 Oct 2026 03:14:37 GMT",
-      "contentSnippet": "IT之家 10 月 2 日消息，一汽-大众今日宣布，ID. AURA T6 今天正式启动全国交付。\n\n\n据IT之家此前报道，一汽-大众 ID. AURA T6 于 9 月 20 日上市，包含四款车型，售价区间 12.99 万 - 16.69 万元：\n\n540 Pro：12.99 万元\n\n660 Pro：13.99 万元\n\n660 Max 激光雷达版：14.99 万元\n\n660 Ultra 激光雷达版：16.69 万元\n\n\n新车长宽高分别为 4811/1879/1648mm，轴距 2836mm；配备 15.6 英寸 2.5K 中控屏、25.8 英寸 AR-HUD 及 10.25 英寸全液晶仪表。",
+      "title": "谷歌向 Pixel 11 等手机推送安卓 17 QPR3 Beta 1，修复指纹解锁死机问题",
+      "link": "https://www.ithome.com/1/009/415.htm",
+      "pubDate": "Sat, 03 Oct 2026 03:07:13 GMT",
+      "contentSnippet": "IT之家 10 月 3 日消息，科技媒体 Android Headline 昨日（10 月 2 日）发布博文，报道称谷歌面向 Pixel 6a 到 Pixel 11 系列手机，推送安卓 17 QPR3 Beta 1 更新，聚焦提升系统稳定性。\nIT之家注：QPR 是指谷歌季度平台发布版本，每三个月推出一次 Android 系统更新，包含安全补丁、漏洞修复及小规模功能优化。QPR3 表示年度第三次季度更新，通常面向 Pixel 设备优先推送测试版。\n\n在版本方面，谷歌向 Pixel 11 系列手机推送 DP11.260918.005 版本更新，向其它机型推送 DP11.260918.006，覆盖",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -220,44 +255,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "一汽-大众ID. AURA T6纯电SUV开启全国交付，12.99万元起售。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，信息具体含车型售价尺寸配置，但缺少原始出处引用。"
-    },
-    {
-      "title": "上映 77 天电影《八仙！》累计票房破 20 亿，位列中国影史国产动画电影票房第三",
-      "link": "https://www.ithome.com/1/009/246.htm",
-      "pubDate": "Fri, 02 Oct 2026 03:04:28 GMT",
-      "contentSnippet": "IT之家 10 月 2 日消息，电影《八仙！》官方今日宣布，累计票房破 20 亿。\n\n《八仙！》于 2026 年 7 月 18 日上映，到今日共上映 77 天，位列中国影史国产动画电影票房第三（仅次于两部《哪吒之魔童》系列电影）。\n\n《八仙！》官方此前官宣二轮密钥延期至 2026 年 10 月 17 日 23:59，本片目前豆瓣评分 8.2，讲述了：\n\n在蓬莱仙境内，八个凡人为闯入只有神仙可以通行的藏宝阁，假扮神仙瞒天过海，面对阁中“十辈子花不完”的泼天富贵，众人一拍即合，“草台班子”就地成立，一起踏上寻宝求财路。\n\n\nIT之家小伙伴记得用最会买购买电影票，享受折扣价的同时还可以获得返利，预计",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国产动画《八仙！》上映77天票房破20亿，位列影史国产动画第三。",
+      "aiSummary": "谷歌向Pixel 6a至Pixel 11推送安卓17 QPR3 Beta 1，修复指纹解锁死机问题。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，票房数据具体，有官方宣布及豆瓣评分等可核实信息。"
-    },
-    {
-      "title": "贝恩：全球 AI 行业到 2031 年创造 6 万亿美元年营收，才能证明数据中心价值",
-      "link": "https://www.ithome.com/1/009/244.htm",
-      "pubDate": "Fri, 02 Oct 2026 02:57:01 GMT",
-      "contentSnippet": "IT之家 10 月 2 日消息，9 月 29 日，据彭博社报道，贝恩公司称，要支撑目前全球数据中心建设的巨额资本投入，全球 AI 行业到 2031 年每年需要创造 6 万亿美元（IT之家注：现汇率约合 40.29 万亿元人民币）营收。\n该机构发布的报告指出，现有消费级和企业级 AI 服务最多只能贡献 1.8 万亿美元（现汇率约合 12.09 万亿元人民币），因此还需要找到 4.2 万亿美元（现汇率约合 28.2 万亿元人民币）新增收入。这部分收入可能来自仍处于起步阶段的新市场，包括自动化机器、机器人，以及药物研发、心理健康和能源生产等领域。\n报告主要作者、贝恩全球科技、媒体和电信业务主席戴维",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "贝恩报告称全球AI行业2031年需年创6万亿美元营收才能支撑数据中心巨额投资",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家引彭博社报道贝恩权威报告，含具体数据、时间节点及作者信息，来源可靠"
+      "credibilityReason": "IT之家援引Android Headline，含具体版本号和机型范围，信息详实，但为二手编译来源。"
     }
   ]
 }
