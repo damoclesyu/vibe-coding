@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-03T04:33:40.619Z",
+  "generatedAt": "2026-10-04T05:04:24.604Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "秋染侨乡青田 全球农遗“稻鱼共生”绘就和美丰收富民图",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-03/10707398.shtml",
-      "pubDate": "Sat, 3 Oct 2026 10:50:58 +0800",
-      "contentSnippet": "中新网丽水10月3日电(周健 林勇超 留芯迪)在侨乡浙江青田，青田稻鱼共生系统被联合国粮农组织列为首批全球重要农业文化遗产。金秋十月，稻浪翻滚如金波，田鱼肥美正当时，一幅稻鱼共生的秋收画卷在当地徐徐铺展。",
+      "title": "河源第三届鱼灯夜游活动启幕",
+      "link": "https://www.chinanews.com.cn/dwq/2026/10-04/10707771.shtml",
+      "pubDate": "Sun, 4 Oct 2026 12:48:14 +0800",
+      "contentSnippet": "中新网河源10月4日电 (记者 张璐)华灯初上，渔火映江。“江湖渔火·太平夜市”河源第三届鱼灯夜游活动(简称“活动”)3日晚启幕。千盏孔明灯沿江亮起，两岸灯光随音乐节拍起伏，水上、岸上、夜空交相呼应。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -16,16 +16,50 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中新网报道浙江青田稻鱼共生系统秋收景象，该遗产获联合国粮农组织认定。",
-      "credibilityScore": 82,
+      "aiSummary": "河源第三届鱼灯夜游活动于10月3日晚启幕，千盏孔明灯沿江亮起。",
+      "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "中新网为权威媒体，事实可查证，但缺乏直接引述，部分细节简略。"
+      "credibilityReason": "来源为中新网，属权威媒体，有署名记者及具体时间地点，内容客观具体。"
     },
     {
-      "title": "老年旅客淡季火车票将享“折上折”相关优惠车票明起陆续发售",
-      "link": "https://m.thepaper.cn/detail/34194280",
-      "pubDate": "Sat, 03 Oct 2026 02:34:33 GMT",
-      "contentSnippet": "记者3日从中国国家铁路集团有限公司获悉，继今年5至6月实行老年人淡季周中购票优惠措施后，国铁集团进一步优化这一惠民举措，年满60周岁及以上老年人购买2026年10月18日（含）至12月30日（含）标注“敬”字车次的火车票将享受“折上折”票价优惠，进一步扩大优惠时间范围，不再限定周中时段，相关优惠车票将于10月4日起陆续发售。\n国铁集团客运中心相关负责人介绍，年满60周岁及以上且使用中华人民共和国居民身份证、港澳居民居住证、台湾居民居住证、港澳居民来往内地通行证、台湾居民来往大陆通行证、外国人永久居留身份证、临时身份证明及居民户口簿购票的老年人，线上或线下购买开车时间在2026年10月18日（含",
+      "title": "美官员称两名伊朗代表团成员被“驱逐”出境 二人曾出席纽约联合国大会",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-04/10707766.shtml",
+      "pubDate": "Sun, 4 Oct 2026 12:36:09 +0800",
+      "contentSnippet": "中新网10月4日电 据法新社援引美国方面当地时间3日消息，美国官员透露，出席纽约联合国大会的伊朗代表团两名成员于3日被“驱逐”出境，此前几天他们已被要求离开美国。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "美官员称两名出席联合国大会的伊朗代表团成员被驱逐出境。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "中新网引述法新社及美国官员消息，来源较权威，信息具体，但缺少伊方回应及多源交叉验证。"
+    },
+    {
+      "title": "金观平：释放历史经典产业消费潜能",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-04/10707743.shtml",
+      "pubDate": "Sun, 4 Oct 2026 11:27:11 +0800",
+      "contentSnippet": "历史经典产业脱胎于千百年的生产生活实践，凝结着独特的传统技艺、地域特色与民族审美，是增强文化自信的重要载体。工业和信息化部等六部门近期联合印发《关于推动历史经典产业高质量发展的意见》，从国家层面系统部署保护传承与创新发展工作。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "工信部等六部门联合发文推动历史经典产业高质量发展，释放消费潜能。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网较权威，引用具体政策文件，但属评论文章非事件报道。"
+    },
+    {
+      "title": "inFlux上海纽约双城时尚展即将亮相静安CAZ",
+      "link": "https://m.thepaper.cn/detail/34197708",
+      "pubDate": "Sun, 04 Oct 2026 03:01:31 GMT",
+      "contentSnippet": "2026年6月，静安南京西路—苏河湾中央活力区CAZ与国际时尚产业权威媒体WWD China正式推出中美时尚共创项目“inFlux上海纽约时尚引力计划”，持续打造专业化国际时尚品牌入华加速平台，构建覆盖落地、运营与发展的全链路服务体系。10月9日至16日，上海时装周期间，作为该计划的重要阶段性成果，inFlux上海纽约双城时尚展将落地静安CAZ的“南西·海上驿”空间，并于10月9日举行开幕日活动。\ninFlux上海纽约时尚引力计划于《奔流：从上海出发——全球城市人文对话》第三季上海纽约双城对话中正式启动，inFlux源自拉丁语，寓意“流动”，契合“奔流”以水为媒、对话全球的概念内核。“从CBD",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -33,33 +67,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国铁集团扩大老年人淡季火车票优惠，10月18日起享折上折，10月4日陆续发售。",
-      "credibilityScore": 92,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源澎湃新闻，引述国铁集团官方信息，细节具体，可交叉验证。"
-    },
-    {
-      "title": "宠物上门喂养服务需求旺盛 新兴服务哪些风险不能忽视？",
-      "link": "https://www.chinanews.com.cn/sh/2026/10-03/10707428.shtml",
-      "pubDate": "Sat, 3 Oct 2026 12:27:22 +0800",
-      "contentSnippet": "国庆假期期间，很多人选择出游或是返乡，可家里的宠物“毛孩子”们却不方便带着一起走。除了传统的寄养，如今越来越多的养宠人会选择宠物上门喂养照料服务。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国庆假期宠物上门喂养需求旺盛，中新网报道该新兴服务需关注潜在风险。",
+      "aiSummary": "inFlux上海纽约双城时尚展将于10月9日至16日上海时装周期间在静安CAZ举办。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，权威性较高；内容具体但缺少直接引述和数据，属趋势性报道。"
+      "credibilityReason": "澎湃新闻为知名媒体，信息具体含时间地点人物，但缺少直接引述，属文化时尚类报道。"
     },
     {
-      "title": "新场景激活发展新动能",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-03/10707426.shtml",
-      "pubDate": "Sat, 3 Oct 2026 12:23:22 +0800",
-      "contentSnippet": "场景是新技术、新产品、新业态创新性应用的具体情境，一头连着技术、一头连着产业，一头连着研发、一头连着市场。大型矿区里，清洁能源重卡穿行如织；长江航道上，无人机外卖“从天而降”；京杭大运河，新能源船舶驶在零碳航道……一个个具体而生动的场景，把“养在深闺”的技术和产品送进千行百业、推向广阔天地。场景正加速成为释放创新活力、激活发展新动能的重要载体。",
+      "title": "外交部：中方欢迎普京总统出席在深圳举行的APEC领导人非正式会议",
+      "link": "http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E4%B8%AD%E6%96%B9%E6%AC%A2%E8%BF%8E%E6%99%AE%E4%BA%AC%E6%80%BB%E7%BB%9F%E5%87%BA%E5%B8%AD%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B8%BE%E8%A1%8C%E7%9A%84APEC%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9D%9E%E6%AD%A3%E5%BC%8F%E4%BC%9A%E8%AE%AE",
+      "pubDate": "Sat, 03 Oct 2026 20:27:00 +0800",
+      "contentSnippet": "",
+      "sourceName": "央视新闻",
+      "sourceWeight": 80,
+      "allSources": [
+        "央视新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "外交部称中方欢迎普京出席深圳APEC领导人非正式会议。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为央视新闻权威官方媒体，外交部表态属可查证官方信息，但正文摘要缺失、无直接引述。"
+    },
+    {
+      "title": "前9月广州南沙汽车口岸出口工程车货值约20亿元",
+      "link": "https://www.chinanews.com.cn/dwq/2026/10-04/10707783.shtml",
+      "pubDate": "Sun, 4 Oct 2026 13:02:41 +0800",
+      "contentSnippet": "中新网广州10月4日电 (许青青 关悦)据广州海关消息，广州南沙口岸汽车出口保持强劲增长态势，出口品类进一步扩大。今年前9月，广州南沙汽车口岸出口汽车超40万辆，同比增长约36%。其中，出口工程车货值约20亿元，同比增长6倍多。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -67,16 +101,67 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中新网报道新场景成为激活发展新动能的重要载体，列举矿区、航道等应用案例。",
-      "credibilityScore": 72,
+      "aiSummary": "广州南沙口岸前9月出口汽车超40万辆，工程车货值约20亿元。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "中新网为权威媒体，引述广州海关数据，信息具体含时间地点数据，可查证。"
+    },
+    {
+      "title": "美国青年的“中国假期”：好奇为桥 包容作舟",
+      "link": "https://www.chinanews.com.cn/edu/2026/10-04/10707781.shtml",
+      "pubDate": "Sun, 4 Oct 2026 12:56:26 +0800",
+      "contentSnippet": "中新网嘉兴10月4日电 题：美国青年的“中国假期”：好奇为桥 包容作舟",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中新网报道美国青年在中国假期期间通过好奇与包容促进交流。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网，属较权威媒体，但报道简短，缺少具体细节和直接引述。"
+    },
+    {
+      "title": "（乡村行·看振兴）“碉堡咖啡”飘香处 浙江民盟精准赋能乡村振兴",
+      "link": "https://www.chinanews.com.cn/txy/2026/10-04/10707779.shtml",
+      "pubDate": "Sun, 4 Oct 2026 12:55:20 +0800",
+      "contentSnippet": "中新网嘉兴10月4日电(郭其钰)国庆假期，在浙江省嘉兴市嘉善县惠民街道枫南村的抗战碉堡遗址旁，由浙江民盟参与助力的“碉堡咖啡”正式对外营业。不远处，窑烤面包、露营休闲等业态相继落地，昔日的抗战碉堡遗址正成为乡村文旅新地标。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "浙江嘉善枫南村抗战碉堡遗址旁开设“碉堡咖啡”，系民盟助力乡村振兴项目。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，属权威媒体；时间地点人物具体，但缺乏直接引述与多源交叉验证。"
+    },
+    {
+      "title": "国庆档票房破6亿！“电影+”激发消费新增量",
+      "link": "https://www.chinanews.com.cn/cul/2026/10-04/10707780.shtml",
+      "pubDate": "Sun, 4 Oct 2026 12:54:14 +0800",
+      "contentSnippet": "据网络平台数据",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国新闻网报道国庆档票房破6亿，称“电影+”激发消费新增量。",
+      "credibilityScore": 75,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为中新网较权威，但内容为宏观宣传性报道，缺少具体数据、时间及直接引述，客观性一般。"
+      "credibilityReason": "来源为中新网较权威，但正文仅一句摘要，缺少具体数据、引述及交叉验证。"
     },
     {
-      "title": "国庆假期活力涌动 乐游山水祝福祖国",
-      "link": "https://www.chinanews.com.cn/sh/2026/10-03/10707424.shtml",
-      "pubDate": "Sat, 3 Oct 2026 12:19:32 +0800",
-      "contentSnippet": "这个国庆假期，神州大地活力涌动。人们乐游山水，体验传统文化，在丰富多彩的活动中欢度假日。",
+      "title": "AI“奔县” 浙江县域文旅谋“智变”",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-04/10707778.shtml",
+      "pubDate": "Sun, 4 Oct 2026 12:52:52 +0800",
+      "contentSnippet": "中新网宁波10月4日电(林波)戴上AI眼镜行走在浙江省宁波市奉化区溪口镇武岭西路，实景古迹叠加历史故事，出现在游客眼前；一句问话，AI便能快速推荐打卡机位、规划游览路线……",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -84,16 +169,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国新闻网报道国庆假期民众乐游山水、体验传统文化，欢度假日。",
-      "credibilityScore": 78,
+      "aiSummary": "中新网报道浙江奉化溪口镇引入AI眼镜等智慧文旅应用，推动县域文旅智能化转型。",
+      "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，属较权威媒体；内容为节日综述，无具体数据或引述，细节较笼统。"
+      "credibilityReason": "来源为中国新闻网，属权威媒体；内容具体含时间地点人物，但缺乏多源交叉验证。"
     },
     {
-      "title": "云冈石窟年客流量提前破500万人次",
-      "link": "https://www.chinanews.com.cn/gn/2026/10-03/10707422.shtml",
-      "pubDate": "Sat, 3 Oct 2026 12:14:25 +0800",
-      "contentSnippet": "中新网大同10月3日电 (丁宏伟 宋佳烨 胡健)记者3日从位于山西大同的云冈研究院获悉，截至10月2日11时19分，云冈石窟景区2026年度游客接待量突破500万人次，比去年提前23天。",
+      "title": "湖北武汉：国庆假期 黄鹤楼红墙吸引游客打卡",
+      "link": "https://www.chinanews.com.cn/tp/2026/10-04/10707776.shtml",
+      "pubDate": "Sun, 4 Oct 2026 12:52:34 +0800",
+      "contentSnippet": "10月4日，湖北武汉，游客络绎不绝来到黄鹤楼红墙拍照游玩。以红墙为背景与黄鹤楼同框，感受浓厚的国庆氛围。图为游客手拿明信片拍摄黄鹤楼同框照。中新社记者 张畅 摄  \r\n\n10月4日，湖北武汉，游客络绎不绝来到黄鹤楼红墙拍照游玩。以红墙为背景与黄鹤楼同框，感受浓厚的国庆氛围。图为游客在黄鹤楼红墙前打卡拍照。中新社记者 张畅 摄  \r\n\n10月4日，湖北武汉，游客络绎不绝来到黄鹤楼红墙拍照游玩。以红墙为背景与黄鹤楼同框，感受浓厚的国庆氛围。图为游客在黄鹤楼红墙前打卡拍照。中新社记者 张畅 摄  \r\n\n10月4日，湖北武汉，游客络绎不绝来到黄鹤楼红墙拍照游玩。以红墙为背景与黄鹤楼同框，感受浓厚的国庆",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -101,50 +186,67 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "云冈石窟2026年度游客接待量突破500万人次，比去年提前23天。",
+      "aiSummary": "国庆假期武汉黄鹤楼红墙吸引游客打卡拍照，中新社记者现场报道。",
       "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "中新网为权威媒体，信息含具体时间、地点、数据及官方来源，事实可查证。"
+      "credibilityReason": "来源为中国新闻网（中新社），属权威媒体，有署名记者和具体时间地点，内容为客观旅游报道。"
     },
     {
-      "title": "苏州阳澄半岛乐园攀爬项目设“无人监管风险自担” 提示，律师：无效力，属经营管理缺陷",
-      "link": "https://m.thepaper.cn/detail/34194435",
-      "pubDate": "Sat, 03 Oct 2026 04:12:54 GMT",
-      "contentSnippet": "“十一”假期前夕，澎湃新闻记者在苏州阳澄半岛乐园实地探访时看到，在主打攀爬、匍匐训练的“冒险小径”游乐项目前，设立了一块“无人员监管、游玩风险自担”的提示。现场，有多位小朋友在游玩。多位律师表示“该提示在法律上无效力。”",
-      "sourceName": "澎湃新闻",
+      "title": "“社会运行论”标识性概念·原创性理论发布与研讨会举行",
+      "link": "https://www.chinanews.com.cn/edu/2026/10-04/10707777.shtml",
+      "pubDate": "Sun, 4 Oct 2026 12:51:48 +0800",
+      "contentSnippet": "中新网北京10月4日电 在著名社会学家、中国人民大学原副校长郑杭生九十周年诞辰之际，“社会运行论”标识性概念·原创性理论发布与研讨会暨郑杭生铜像揭幕仪式近日在中国人民大学通州校区举行。",
+      "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
-        "澎湃新闻"
+        "中国新闻网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "苏州阳澄半岛乐园攀爬项目设“风险自担”提示，律师称该提示无法律效力。",
+      "aiSummary": "中国人民大学举行'社会运行论'理论发布研讨会暨郑杭生铜像揭幕仪式。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为知名媒体，记者实地探访，引述多位律师意见，事实具体可查证。"
+      "credibilityReason": "中新网为权威媒体，信息具体含时间地点人物，但属学术活动报道，无争议性内容。"
     },
     {
-      "title": "南岳衡山中心景区10月3日已接近最大承载量，暂停当日线上预约",
-      "link": "https://m.thepaper.cn/detail/34194447",
-      "pubDate": "Sat, 03 Oct 2026 04:11:51 GMT",
-      "contentSnippet": "10月3日上午9时，湖南衡阳南岳区文化旅游广电体育局、湖南南岳文化旅游集团有限公司发布关于南岳衡山中心景区10月3日限流的提示。\n提示称，南岳衡山中心景区10月3日预约入园人数已接近最大承载量，为保障游客安全，上午11时起暂停当日线上预约，无预约不入园。已成功预约的游客请携带身份证在预约时段内有序入园；在规定时间内未入园的游客请通过“南岳一码游”申请退款或改签。\n尚未购票的游客建议预约10月4日及后续日期的门票和景区交通票，也可选择前往南岳大庙、万寿大鼎、水濂洞、祝融探火太空体验馆、南岳里、时光之城·1944以及东洲岛、衡山渡等周边景区游览。",
-      "sourceName": "澎湃新闻",
+      "title": "首届阿斯塔纳人工智能电影节落幕 中国创作者团队获“最佳故事”奖",
+      "link": "https://www.chinanews.com.cn/cul/2026/10-04/10707775.shtml",
+      "pubDate": "Sun, 4 Oct 2026 12:50:04 +0800",
+      "contentSnippet": "中新社阿斯塔纳10月4日电 (记者 单璐)首届阿斯塔纳人工智能电影节3日在哈萨克斯坦首都阿斯塔纳落幕。来自中国的创作者团队2xLabs凭借人工智能短片《合龙》(The Last Span)获得开放竞赛单元最佳故事奖。",
+      "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
-        "澎湃新闻"
+        "中国新闻网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "南岳衡山景区10月3日预约人数接近最大承载量，上午11时起暂停当日线上预约。",
+      "aiSummary": "首届阿斯塔纳AI电影节落幕，中国团队2xLabs凭短片获最佳故事奖。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "中新社为权威媒体，有署名记者及具体时间地点，但单一来源，细节有限。"
+    },
+    {
+      "title": "东莞点球4:3淘汰梅州 挺进粤超总决赛",
+      "link": "https://www.chinanews.com.cn/dwq/2026/10-04/10707770.shtml",
+      "pubDate": "Sun, 4 Oct 2026 12:43:48 +0800",
+      "contentSnippet": "中新网东莞10月4日电(许青青 查雨霏)2026广东省城市足球超级联赛(粤超)半决赛次回合于3日晚在东莞市体育中心打响，东莞队坐镇主场，通过点球大战以4:3击败梅州队，成功闯入总决赛。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "东莞队点球4:3淘汰梅州队，晋级粤超总决赛。",
       "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为知名媒体，信息具体含时间、措施及官方机构名称，可交叉验证。"
+      "credibilityReason": "来源为中新网，权威性高；信息含具体时间、地点、比分及记者署名，事实可查证。"
     },
     {
-      "title": "国庆遇上“子梅鱼季” 浙江柳市镇尝鲜“食旅经济”",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-03/10707423.shtml",
-      "pubDate": "Sat, 3 Oct 2026 12:11:23 +0800",
-      "contentSnippet": "中新网温州10月3日电(张益聪)“没想到一条子梅鱼还能吃出四种花样，一道比一道惊喜！”3日，浙江温州乐清市柳市镇“瓯潮里”文旅街区内鱼香四溢，来温州一年有余的摩洛哥友人瑞姆在首届“子梅鱼季”品尝鱼鲜，他深感不虚此行。",
+      "title": "国庆假期前三天浙江普陀山水域客运量超39万人次",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-04/10707768.shtml",
+      "pubDate": "Sun, 4 Oct 2026 12:42:41 +0800",
+      "contentSnippet": "浙江舟山，民众乘船出行。何青供图\r\n\n　　中新网杭州10月4日电(记者 王逸飞 通讯员 何青)记者4日从浙江海事部门获悉，今年国庆假期前三天，浙江舟山的普陀山水域累计旅客运输量超39万人次(含渡运)。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -152,112 +254,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中新网报道浙江柳市镇国庆期间举办首届子梅鱼季，带动当地食旅经济。",
+      "aiSummary": "国庆假期前三天浙江普陀山水域客运量超39万人次，数据来自浙江海事部门。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网权威媒体，有具体时间地点人物引述，但属地方节庆报道，细节有限。"
-    },
-    {
-      "title": "中国新发现一种有羽毛恐龙化石 为飞行特征差异演化提供新证据",
-      "link": "https://www.chinanews.com.cn/gn/2026/10-03/10707421.shtml",
-      "pubDate": "Sat, 3 Oct 2026 12:03:45 +0800",
-      "contentSnippet": "中新网北京10月3日电 (记者 孙自法)施普林格·自然旗下学术期刊《自然-通讯》最新发表一篇古生物学论文称，研究人员在中国东北约1.45亿年至1亿年前的地层中，新发现一种有羽毛恐龙化石，命名为巴氏诺瑞龙，对其研究分析为“不同类群的鸟状恐龙在飞行相关特征演化上存在差异”这一理论提供了新证据。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国东北发现约1.45亿至1亿年前有羽毛恐龙化石，命名巴氏诺瑞龙，研究发表于《自然-通讯》。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "中新网为权威媒体，引述《自然-通讯》论文，信息具体含时间地点，来源可查证。"
-    },
-    {
-      "title": "2032年布里斯班奥运会、残奥会会徽正式发布",
-      "link": "https://m.thepaper.cn/detail/34194550",
-      "pubDate": "Sat, 03 Oct 2026 04:03:21 GMT",
-      "contentSnippet": "10月3日，2032年布里斯班奥运会、残奥会会徽正式发布。\n\n根据官方介绍，会徽灵感源自澳大利亚原住民神话——火鸟，是昆士兰本土传说形象，羽毛渐变成粉、橙、黄三色，如同火焰升腾；中间小圆点象征心脏，代表土地、人文的内核。\n火鸟的具体原型则是大洋洲等地常见的凤头鹦鹉。\n2032年布里斯班奥运会、残奥会会徽原定于10月5日（下周一）发布，但3日一早，组委会工作人员操作失误，提前公开了视频预览。\n\n正因此，组委会在会徽发布的帖子上写上一句“Consider this your official reveal”（就当这是官方正式揭晓吧）。\n布里斯班奥运会将于2032年7月23日至8月8日在澳大利亚昆士",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "2032年布里斯班奥运会及残奥会会徽因工作人员失误提前发布，官方顺势揭晓。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为知名媒体，信息具体含时间、设计灵感及失误细节，但非一线通讯社，缺少直接引述。"
-    },
-    {
-      "title": "女子团体摘金 中国队首夺亚运会高尔夫项目金牌",
-      "link": "https://www.chinanews.com.cn/ty/2026/10-03/10707420.shtml",
-      "pubDate": "Sat, 3 Oct 2026 11:56:42 +0800",
-      "contentSnippet": "10月3日，名古屋亚运会高尔夫女子团体决赛，中国队夺得金牌！这是中国队在亚运会高尔夫球项目获得的首枚金牌。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "名古屋亚运会高尔夫女子团体决赛中国队夺金，系亚运高尔夫项目首金。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "中新网为权威媒体，时间地点具体，但报道简短，缺少引述与细节。"
-    },
-    {
-      "title": "《青绿》导演韩真周莉亚又出新作：舞剧《栋梁》展现古建测绘中的林徽因",
-      "link": "https://m.thepaper.cn/detail/34192203",
-      "pubDate": "Sat, 03 Oct 2026 03:51:56 GMT",
-      "contentSnippet": "“她希望后人记住她的身份：中国第一位女建筑师——林工。我们想让观众看见一个有血有肉的林徽因。”舞坛“双子星”韩真、周莉亚又出新作，把焦点对准了林徽因。\n10月9日-11日，由浙江演艺集团制作的《栋梁》将登陆上海文化广场，参演中国上海国际艺术节。\n舞剧以林徽因的古建筑测绘事业为核心叙事脉络，将个人理想与命运沉浮，融入民族文化存续的宏大历史背景。\n\n剧照\n\n \n\n剧照\n\n\n两位导演的创作缘起于一种“天然的吸引”，对林徽因这个名字本能的好奇。\n林徽因带给人很多诗情画意的想象。当两位导演真正翻开史料，看到的却是一个背着测量仪器翻山越岭的营造学社成员，一个在昏暗油灯下绘制古建图纸的测绘者，一个在战火流离",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "韩真周莉亚新舞剧《栋梁》聚焦林徽因古建测绘，10月登陆上海国际艺术节。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为知名媒体，信息具体含时间地点人物，有直接引述，内容可查证。"
-    },
-    {
-      "title": "十一黄金周，在上海虹口音乐谷参与一场“漫游音乐嘉年华”",
-      "link": "https://m.thepaper.cn/detail/34193357",
-      "pubDate": "Sat, 03 Oct 2026 03:46:17 GMT",
-      "contentSnippet": "2026超动感・音乐谷漫游音乐嘉年华在十一黄金周期间落地虹口上海音乐谷。活动无须预约、免费向市民开放，以“点亮音乐谷，动感黄金周”为主题，集合舞台演出、数字IP特装、潮玩市集、建筑光影秀，打造沉浸式城市音乐狂欢。\n虹口音乐谷是全国少有的国家级音乐产业集聚区，本次嘉年华把产业实验室搬到城市公共街区，让前沿产业成果直面大众。\n丝芭演艺、看见音乐等音乐谷在地龙头企业集体亮相虹口数字音乐产业体验市集。SNH48女团带来现场舞台表演，同步设置主题展示摊位；看见音乐带来AI版权确权、数字音乐分发等技术成果，直观展示数字版权服务的产业价值。现场主舞台、互动舞台轮番上演街头快闪、爵士演奏、即兴戏剧，“电波闪铺",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "上海虹口音乐谷在十一黄金周举办免费音乐嘉年华，融合演出与数字音乐产业展示。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为较权威媒体，信息具体含时间地点人物，用词客观，但属活动宣传性质，缺少独立交叉验证。"
-    },
-    {
-      "title": "郑云龙主演《哈姆雷特》再登首都剧场，将南下巡演并亮相上海国际艺术节",
-      "link": "https://m.thepaper.cn/detail/34192443",
-      "pubDate": "Sat, 03 Oct 2026 03:45:14 GMT",
-      "contentSnippet": "“生存还是毁灭”，这一古老命题在首都剧场再次回响。9月30日，由冯远征、杨佳音执导，郑云龙、陆璐、杜子俊、曾泳醍、赵正添、刘奕、魏嘉诚等青年演员主演的《哈姆雷特》，在首轮演出的基础上进一步打磨，以更为成熟的舞台面貌再度登台。\n\n本轮演出剧照。剧照摄影：王小宁\n\n\n《哈姆雷特》是莎士比亚的代表剧作，讲述了丹麦王子哈姆雷特为父亲复仇的故事。全剧借哈姆雷特的迟疑与追问，深入探索背叛、复仇、生死与人性，至今仍能引发观众共鸣。\n提炼出“选择”这个更贴近现代人生活的核心主题\n作为北京人艺新排剧目，新版《哈姆雷特》在2025年完成首轮演出后，广受观众、专家好评。大家一致认为，该剧不失剧院一贯的大方中正气质，",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "郑云龙主演北京人艺新版《哈姆雷特》再登首都剧场，将南下巡演并亮相上海国际艺术节。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为知名媒体，报道含具体时间、地点、主创名单，内容属文化演出资讯，可查证性强。"
+      "credibilityReason": "中国新闻网为权威媒体，数据源自浙江海事部门，信息具体可查证，但缺乏多源交叉验证。"
     }
   ]
 }
