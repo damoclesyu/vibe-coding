@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-04T05:04:24.604Z",
+  "generatedAt": "2026-10-05T04:51:03.010Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "河源第三届鱼灯夜游活动启幕",
-      "link": "https://www.chinanews.com.cn/dwq/2026/10-04/10707771.shtml",
-      "pubDate": "Sun, 4 Oct 2026 12:48:14 +0800",
-      "contentSnippet": "中新网河源10月4日电 (记者 张璐)华灯初上，渔火映江。“江湖渔火·太平夜市”河源第三届鱼灯夜游活动(简称“活动”)3日晚启幕。千盏孔明灯沿江亮起，两岸灯光随音乐节拍起伏，水上、岸上、夜空交相呼应。",
+      "title": "国庆假期前四日 经港珠澳大桥珠海公路口岸出入境旅客超45万人次",
+      "link": "https://www.chinanews.com.cn/dwq/2026/10-05/10708071.shtml",
+      "pubDate": "Mon, 5 Oct 2026 11:50:31 +0800",
+      "contentSnippet": "国庆期间，粤港澳大湾区多地推出丰富特色文旅活动，“一桥连三地”港珠澳大桥成为内地及港澳居民双向奔赴感受国庆节日氛围的热门跨境通道。国庆假期前四日，据珠海边检总站港珠澳大桥边检站数据统计，10月1日0时截至10月4日24时，经口岸出入境客流超过45万人次，车流超过9.3万辆次。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -16,16 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "河源第三届鱼灯夜游活动于10月3日晚启幕，千盏孔明灯沿江亮起。",
+      "aiSummary": "国庆假期前四日经港珠澳大桥珠海口岸出入境旅客超45万人次。",
       "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，属权威媒体，有署名记者及具体时间地点，内容客观具体。"
+      "credibilityReason": "中新网为权威媒体，引用边检站具体统计数据，时间地点明确，内容可查证。"
     },
     {
-      "title": "美官员称两名伊朗代表团成员被“驱逐”出境 二人曾出席纽约联合国大会",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-04/10707766.shtml",
-      "pubDate": "Sun, 4 Oct 2026 12:36:09 +0800",
-      "contentSnippet": "中新网10月4日电 据法新社援引美国方面当地时间3日消息，美国官员透露，出席纽约联合国大会的伊朗代表团两名成员于3日被“驱逐”出境，此前几天他们已被要求离开美国。",
+      "title": "“互利共赢、共促发展的重要平台”——访埃塞俄比亚政策研究所高级顾问德米西",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-05/10708051.shtml",
+      "pubDate": "Mon, 5 Oct 2026 11:03:24 +0800",
+      "contentSnippet": "“金砖国家已发展成为促进全球治理和南南合作最具影响力的机制之一。”埃塞俄比亚政策研究所高级顾问巴鲁·德米西日前接受本报记者专访时表示，金砖合作机制在提升新兴经济体话语权、推动构建更加公正合理的国际秩序方面作出重要贡献。“在当前背景下，金砖合作机制的意义已远超经济合作范畴，成为新兴经济体互利共赢、共促发展的重要平台。”",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -33,33 +33,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "美官员称两名出席联合国大会的伊朗代表团成员被驱逐出境。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "中新网引述法新社及美国官员消息，来源较权威，信息具体，但缺少伊方回应及多源交叉验证。"
+      "aiSummary": "埃塞俄比亚智库顾问德米西受访称金砖机制是新兴经济体互利共赢的重要平台。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为中新网较权威，有具名受访者及直接引述，但属单一专访，观点性内容难以交叉验证。"
     },
     {
-      "title": "金观平：释放历史经典产业消费潜能",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-04/10707743.shtml",
-      "pubDate": "Sun, 4 Oct 2026 11:27:11 +0800",
-      "contentSnippet": "历史经典产业脱胎于千百年的生产生活实践，凝结着独特的传统技艺、地域特色与民族审美，是增强文化自信的重要载体。工业和信息化部等六部门近期联合印发《关于推动历史经典产业高质量发展的意见》，从国家层面系统部署保护传承与创新发展工作。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "工信部等六部门联合发文推动历史经典产业高质量发展，释放消费潜能。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网较权威，引用具体政策文件，但属评论文章非事件报道。"
-    },
-    {
-      "title": "inFlux上海纽约双城时尚展即将亮相静安CAZ",
-      "link": "https://m.thepaper.cn/detail/34197708",
-      "pubDate": "Sun, 04 Oct 2026 03:01:31 GMT",
-      "contentSnippet": "2026年6月，静安南京西路—苏河湾中央活力区CAZ与国际时尚产业权威媒体WWD China正式推出中美时尚共创项目“inFlux上海纽约时尚引力计划”，持续打造专业化国际时尚品牌入华加速平台，构建覆盖落地、运营与发展的全链路服务体系。10月9日至16日，上海时装周期间，作为该计划的重要阶段性成果，inFlux上海纽约双城时尚展将落地静安CAZ的“南西·海上驿”空间，并于10月9日举行开幕日活动。\ninFlux上海纽约时尚引力计划于《奔流：从上海出发——全球城市人文对话》第三季上海纽约双城对话中正式启动，inFlux源自拉丁语，寓意“流动”，契合“奔流”以水为媒、对话全球的概念内核。“从CBD",
+      "title": "人民日报头版：“国庆时刻”，感悟新时代治国理政之道",
+      "link": "https://m.thepaper.cn/detail/34200620",
+      "pubDate": "Mon, 05 Oct 2026 00:07:18 GMT",
+      "contentSnippet": "“此时此刻，我们为新中国取得的举世瞩目成就无比自豪，对中国式现代化的光明前景充满信心。”9月30日，庆祝中华人民共和国成立77周年招待会上，习近平总书记的话语铿锵有力。\n历史总在特殊节点驻足，凝望来路，叩问远方。\n国庆，不仅是亿万中华儿女同心欢庆的荣光时刻，更是领略党领导人民治国理政的“时间之窗”。\n回望新时代以来的“国庆时刻”，时间长卷镌刻着治国理政的宏阔经纬：在天安门广场凝望历史，在人民大会堂礼赞奋斗，在世界舞台阐述中国主张……大党大国领航者的深邃思考与战略擘画清晰可感。\n中流砥柱·“伟大的中国共产党”\n水阔波平、巨轮穿梭，今年国庆假期，平陆运河岸边车流往来，人们争睹“一河通江海”的世纪画",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -67,33 +50,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "inFlux上海纽约双城时尚展将于10月9日至16日上海时装周期间在静安CAZ举办。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为知名媒体，信息具体含时间地点人物，但缺少直接引述，属文化时尚类报道。"
-    },
-    {
-      "title": "外交部：中方欢迎普京总统出席在深圳举行的APEC领导人非正式会议",
-      "link": "http://weixin.sogou.com/weixin?type=2&query=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB+%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E4%B8%AD%E6%96%B9%E6%AC%A2%E8%BF%8E%E6%99%AE%E4%BA%AC%E6%80%BB%E7%BB%9F%E5%87%BA%E5%B8%AD%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B8%BE%E8%A1%8C%E7%9A%84APEC%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9D%9E%E6%AD%A3%E5%BC%8F%E4%BC%9A%E8%AE%AE",
-      "pubDate": "Sat, 03 Oct 2026 20:27:00 +0800",
-      "contentSnippet": "",
-      "sourceName": "央视新闻",
-      "sourceWeight": 80,
-      "allSources": [
-        "央视新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "外交部称中方欢迎普京出席深圳APEC领导人非正式会议。",
+      "aiSummary": "人民日报头版刊文，借国庆节点阐述新时代治国理政理念。",
       "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为央视新闻权威官方媒体，外交部表态属可查证官方信息，但正文摘要缺失、无直接引述。"
+      "credibilityReason": "来源为澎湃新闻转载人民日报头版，权威性高，内容有具体引述，用词客观。"
     },
     {
-      "title": "前9月广州南沙汽车口岸出口工程车货值约20亿元",
-      "link": "https://www.chinanews.com.cn/dwq/2026/10-04/10707783.shtml",
-      "pubDate": "Sun, 4 Oct 2026 13:02:41 +0800",
-      "contentSnippet": "中新网广州10月4日电 (许青青 关悦)据广州海关消息，广州南沙口岸汽车出口保持强劲增长态势，出口品类进一步扩大。今年前9月，广州南沙汽车口岸出口汽车超40万辆，同比增长约36%。其中，出口工程车货值约20亿元，同比增长6倍多。",
+      "title": "针对摩托车商拍“落地签”等安全隐患 重庆启动专项整治",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-05/10708086.shtml",
+      "pubDate": "Mon, 5 Oct 2026 12:39:54 +0800",
+      "contentSnippet": "总台报道有反馈丨针对摩托车商拍“落地签”等安全隐患 重庆启动专项整治",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -101,16 +67,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "广州南沙口岸前9月出口汽车超40万辆，工程车货值约20亿元。",
+      "aiSummary": "重庆针对摩托车商拍“落地签”等安全隐患启动专项整治。",
       "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "中新网为权威媒体，引述广州海关数据，信息具体含时间地点数据，可查证。"
+      "credibilityReason": "来源中国新闻网为权威媒体，内容具体，有总台报道反馈依据，可交叉验证。"
     },
     {
-      "title": "美国青年的“中国假期”：好奇为桥 包容作舟",
-      "link": "https://www.chinanews.com.cn/edu/2026/10-04/10707781.shtml",
-      "pubDate": "Sun, 4 Oct 2026 12:56:26 +0800",
-      "contentSnippet": "中新网嘉兴10月4日电 题：美国青年的“中国假期”：好奇为桥 包容作舟",
+      "title": "巴西大选10月25日进行第二轮角逐",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-05/10708067.shtml",
+      "pubDate": "Mon, 5 Oct 2026 12:25:29 +0800",
+      "contentSnippet": "中新社圣保罗10月4日电 (记者 林春茵)当地时间4日晚，巴西高等选举法院公布巴西总统选举首轮投票结果显示，参选候选人中无人得票超过半数，得票最多的前总统雅伊尔·博索纳罗之子、自由党候选人弗拉维奥·博索纳罗和巴西现任总统、劳工党候选人卢拉将于10月25日进行第二轮角逐。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -118,16 +84,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中新网报道美国青年在中国假期期间通过好奇与包容促进交流。",
-      "credibilityScore": 75,
+      "aiSummary": "巴西总统选举首轮无人过半，博索纳罗之子与卢拉将于10月25日进行第二轮角逐。",
+      "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，属较权威媒体，但报道简短，缺少具体细节和直接引述。"
+      "credibilityReason": "中国新闻网为权威媒体，信息具体含时间地点人物，引述官方选举法院结果，可交叉验证。"
     },
     {
-      "title": "（乡村行·看振兴）“碉堡咖啡”飘香处 浙江民盟精准赋能乡村振兴",
-      "link": "https://www.chinanews.com.cn/txy/2026/10-04/10707779.shtml",
-      "pubDate": "Sun, 4 Oct 2026 12:55:20 +0800",
-      "contentSnippet": "中新网嘉兴10月4日电(郭其钰)国庆假期，在浙江省嘉兴市嘉善县惠民街道枫南村的抗战碉堡遗址旁，由浙江民盟参与助力的“碉堡咖啡”正式对外营业。不远处，窑烤面包、露营休闲等业态相继落地，昔日的抗战碉堡遗址正成为乡村文旅新地标。",
+      "title": "列车化身非遗体验点 在武夷有轨电车沉浸式体验传统文化",
+      "link": "http://www.chinanews.com.cn/sh/shipin/cns-d/2026/10-05/news1071033.shtml",
+      "pubDate": "Mon, 5 Oct 2026 12:12:41 +0800",
+      "contentSnippet": "国庆假期，武夷有轨电车实行全线免费乘车，吸引了众多民众前来打卡。列车穿行于武夷山水之间，游客在乘车的同时沉浸式感受非遗的独特魅力。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -135,50 +101,50 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "浙江嘉善枫南村抗战碉堡遗址旁开设“碉堡咖啡”，系民盟助力乡村振兴项目。",
+      "aiSummary": "国庆假期武夷有轨电车免费乘车，游客在列车上沉浸式体验非遗文化。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，属权威媒体；时间地点人物具体，但缺乏直接引述与多源交叉验证。"
+      "credibilityReason": "来源中国新闻网为权威媒体，内容具体含时间地点，但缺少直接引述，属正面宣传报道。"
     },
     {
-      "title": "国庆档票房破6亿！“电影+”激发消费新增量",
-      "link": "https://www.chinanews.com.cn/cul/2026/10-04/10707780.shtml",
-      "pubDate": "Sun, 4 Oct 2026 12:54:14 +0800",
-      "contentSnippet": "据网络平台数据",
-      "sourceName": "中国新闻网",
+      "title": "上海云南青海多地青少年舞者汇聚，以街舞演绎“大国少年”风采",
+      "link": "https://m.thepaper.cn/detail/34200157",
+      "pubDate": "Mon, 05 Oct 2026 04:08:33 GMT",
+      "contentSnippet": "国庆期间，2026潮舞申城·燃动贤城“华夏街舞·大国少年”展演在九棵树（上海）未来艺术中心森林剧场圆满落下帷幕。作为2026上海市民文化节优质特色活动，本次展演包括10月2日上海各区街舞展演专场、10月3日东西部合作联合展演两场，汇聚沪上及云南、青海多地青少年舞者，以潮流街舞演绎华夏风采。\n10月2日晚，上海各区街舞团队专场率先上演。来自上海各区市民日校、夜校、周末美育课堂教学点的学员，以及市内各类优质街舞团队轮番登台。作品紧扣海派文化、江南风韵、新时代少年精神等主题，多元舞种展现上海青少年昂扬向上的青春面貌。\n\n10月3日，东西部合作主题展演登场。东西部各地街舞团队集体亮相，来自彩云之南、高",
+      "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
-        "中国新闻网"
+        "澎湃新闻"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国新闻网报道国庆档票房破6亿，称“电影+”激发消费新增量。",
-      "credibilityScore": 75,
+      "aiSummary": "上海国庆期间举办青少年街舞展演，汇聚沪滇青多地舞者。",
+      "credibilityScore": 78,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为中新网较权威，但正文仅一句摘要，缺少具体数据、引述及交叉验证。"
+      "credibilityReason": "澎湃新闻为知名媒体，信息具体含时间地点，但属正面宣传报道，缺少独立交叉验证。"
     },
     {
-      "title": "AI“奔县” 浙江县域文旅谋“智变”",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-04/10707778.shtml",
-      "pubDate": "Sun, 4 Oct 2026 12:52:52 +0800",
-      "contentSnippet": "中新网宁波10月4日电(林波)戴上AI眼镜行走在浙江省宁波市奉化区溪口镇武岭西路，实景古迹叠加历史故事，出现在游客眼前；一句问话，AI便能快速推荐打卡机位、规划游览路线……",
-      "sourceName": "中国新闻网",
+      "title": "《海派滑稽》16年后再版，王汝刚为20位滑稽大师立传",
+      "link": "https://m.thepaper.cn/detail/34199234",
+      "pubDate": "Mon, 05 Oct 2026 04:08:07 GMT",
+      "contentSnippet": "由国家级非物质文化遗产独脚戏、滑稽戏双项目代表性传承人王汝刚所作《海派滑稽》新书分享会10月3日在上海香港三联书店举行。这本“滑稽人写滑稽人”的著作，在问世16年后迎来了一次再版。分享会上，王汝刚用幽默通俗的话语分享了写作前后的心路和细节，也回顾了书中所写滑稽大师的人生故事。\n\n王汝刚（左二）在新书分享会上\n\n\n《海派滑稽》最早于2010年初版出版，是当年“海派文化丛书”系列一块浓墨重彩的拼图。书中，王汝刚以列传形式介绍了二十位老艺人的生平，从“老牌滑稽”王无能到 “文明滑稽” 周柏春，从 “社会滑稽” 江笑笑到 “马褂滑稽” 范哈哈，通过对他们的人生经历、轶闻趣事、嬉笑劝世和艺术特色的娓娓道",
+      "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
-        "中国新闻网"
+        "澎湃新闻"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中新网报道浙江奉化溪口镇引入AI眼镜等智慧文旅应用，推动县域文旅智能化转型。",
+      "aiSummary": "王汝刚《海派滑稽》再版，新书分享会在上海举行，书中为二十位滑稽大师立传。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，属权威媒体；内容具体含时间地点人物，但缺乏多源交叉验证。"
+      "credibilityReason": "澎湃新闻为知名媒体，报道含具体时间地点人物，内容客观可查证，但非一线通讯社。"
     },
     {
-      "title": "湖北武汉：国庆假期 黄鹤楼红墙吸引游客打卡",
-      "link": "https://www.chinanews.com.cn/tp/2026/10-04/10707776.shtml",
-      "pubDate": "Sun, 4 Oct 2026 12:52:34 +0800",
-      "contentSnippet": "10月4日，湖北武汉，游客络绎不绝来到黄鹤楼红墙拍照游玩。以红墙为背景与黄鹤楼同框，感受浓厚的国庆氛围。图为游客手拿明信片拍摄黄鹤楼同框照。中新社记者 张畅 摄  \r\n\n10月4日，湖北武汉，游客络绎不绝来到黄鹤楼红墙拍照游玩。以红墙为背景与黄鹤楼同框，感受浓厚的国庆氛围。图为游客在黄鹤楼红墙前打卡拍照。中新社记者 张畅 摄  \r\n\n10月4日，湖北武汉，游客络绎不绝来到黄鹤楼红墙拍照游玩。以红墙为背景与黄鹤楼同框，感受浓厚的国庆氛围。图为游客在黄鹤楼红墙前打卡拍照。中新社记者 张畅 摄  \r\n\n10月4日，湖北武汉，游客络绎不绝来到黄鹤楼红墙拍照游玩。以红墙为背景与黄鹤楼同框，感受浓厚的国庆",
+      "title": "从“闲人免进”到热门“打卡地”，工业游为啥走红",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-05/10708076.shtml",
+      "pubDate": "Mon, 5 Oct 2026 12:05:52 +0800",
+      "contentSnippet": "原标题：走近大国重器 感受硬核实力(文化中国行·人文观察)",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -186,16 +152,50 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国庆假期武汉黄鹤楼红墙吸引游客打卡拍照，中新社记者现场报道。",
+      "aiSummary": "中国新闻网报道工业旅游从'闲人免进'变为热门打卡地，聚焦大国重器。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网为权威媒体，内容具体，但摘要简短，缺少直接引述和详细数据。"
+    },
+    {
+      "title": "旅比华人画家举办个展庆祝中比建交55周年",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-05/10708025.shtml",
+      "pubDate": "Mon, 5 Oct 2026 12:00:24 +0800",
+      "contentSnippet": "中新网比利时列日10月5日电 (记者 德永健)为庆祝中比建交55周年，旅比华人画家张文海个人画展3日在比利时东部城市列日开展。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "旅比华人画家张文海在比利时列日举办个展，庆祝中比建交55周年。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，属较权威媒体，信息具体（时间、地点、人物、事件），有记者署名，内容客观中性。"
+    },
+    {
+      "title": "横琴口岸单日客流突破15万人次 创口岸启用以来新高",
+      "link": "https://www.chinanews.com.cn/dwq/2026/10-05/10708073.shtml",
+      "pubDate": "Mon, 5 Oct 2026 11:58:11 +0800",
+      "contentSnippet": "记者从珠海边检总站横琴边检站了解到，10月4日，横琴口岸迎来国庆假期出入境客流峰值。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "横琴口岸10月4日单日客流突破15万人次，创启用以来新高。",
       "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网（中新社），属权威媒体，有署名记者和具体时间地点，内容为客观旅游报道。"
+      "credibilityReason": "来源为中新网，引述珠海边检官方数据，时间地点具体，内容可查证。"
     },
     {
-      "title": "“社会运行论”标识性概念·原创性理论发布与研讨会举行",
-      "link": "https://www.chinanews.com.cn/edu/2026/10-04/10707777.shtml",
-      "pubDate": "Sun, 4 Oct 2026 12:51:48 +0800",
-      "contentSnippet": "中新网北京10月4日电 在著名社会学家、中国人民大学原副校长郑杭生九十周年诞辰之际，“社会运行论”标识性概念·原创性理论发布与研讨会暨郑杭生铜像揭幕仪式近日在中国人民大学通州校区举行。",
+      "title": "美国撤回驻英空军基地全部12架B-1轰炸机，释放什么信号？",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-05/10708072.shtml",
+      "pubDate": "Mon, 5 Oct 2026 11:55:09 +0800",
+      "contentSnippet": "中新网10月5日电(魏晨曦)据《纽约时报》、英国广播公司(BBC)等多家外媒报道，当地时间4日，两名美国官员表示，美方已将部署在英国皇家空军费尔福德基地的全部12架B-1轰炸机撤回美国。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -203,16 +203,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国人民大学举行'社会运行论'理论发布研讨会暨郑杭生铜像揭幕仪式。",
+      "aiSummary": "美方撤回驻英费尔福德基地全部12架B-1轰炸机，引外媒关注。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "中新网为权威媒体，信息具体含时间地点人物，但属学术活动报道，无争议性内容。"
+      "credibilityReason": "中新网引述纽约时报、BBC及美国官员，来源较权威，事实具体可查证。"
     },
     {
-      "title": "首届阿斯塔纳人工智能电影节落幕 中国创作者团队获“最佳故事”奖",
-      "link": "https://www.chinanews.com.cn/cul/2026/10-04/10707775.shtml",
-      "pubDate": "Sun, 4 Oct 2026 12:50:04 +0800",
-      "contentSnippet": "中新社阿斯塔纳10月4日电 (记者 单璐)首届阿斯塔纳人工智能电影节3日在哈萨克斯坦首都阿斯塔纳落幕。来自中国的创作者团队2xLabs凭借人工智能短片《合龙》(The Last Span)获得开放竞赛单元最佳故事奖。",
+      "title": "访香港创科及工业局局长孙东：“香港正处在创科发展的历史最好时期”",
+      "link": "https://www.chinanews.com.cn/dwq/2026/10-05/10708068.shtml",
+      "pubDate": "Mon, 5 Oct 2026 11:46:00 +0800",
+      "contentSnippet": "中新社香港10月5日电 题：访香港创科及工业局局长孙东：“香港正处在创科发展的历史最好时期”",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -220,33 +220,34 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "首届阿斯塔纳AI电影节落幕，中国团队2xLabs凭短片获最佳故事奖。",
+      "aiSummary": "中新社专访香港创科及工业局局长孙东，称香港正处创科发展历史最好时期。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "中新社为权威媒体，有署名记者及具体时间地点，但单一来源，细节有限。"
+      "credibilityReason": "来源为中新社属权威通讯社，内容为官员专访有直接引述，但正文摘要过短细节有限。"
     },
     {
-      "title": "东莞点球4:3淘汰梅州 挺进粤超总决赛",
-      "link": "https://www.chinanews.com.cn/dwq/2026/10-04/10707770.shtml",
-      "pubDate": "Sun, 4 Oct 2026 12:43:48 +0800",
-      "contentSnippet": "中新网东莞10月4日电(许青青 查雨霏)2026广东省城市足球超级联赛(粤超)半决赛次回合于3日晚在东莞市体育中心打响，东莞队坐镇主场，通过点球大战以4:3击败梅州队，成功闯入总决赛。",
+      "title": "明知犯罪却不收手 缅北白家犯罪集团首要分子白应苍临刑前画面曝光",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-05/10708070.shtml",
+      "pubDate": "Mon, 5 Oct 2026 11:45:28 +0800",
+      "contentSnippet": "由公安部和中央广播电视总台联合摄制的纪录片《缅北电诈覆灭纪实》于10月5日至7日，在央视综合频道18点档首播。纪录片全面展现了在党中央坚强领导下，我国公安机关会同有关部门开展打击缅北涉我犯罪专项工作，彻底铲除缅北“四大家族”等犯罪集团的艰苦历程和显著成就。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
-        "中国新闻网"
+        "中国新闻网",
+        "澎湃新闻"
       ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "东莞队点球4:3淘汰梅州队，晋级粤超总决赛。",
-      "credibilityScore": 88,
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "央视播出缅北电诈覆灭纪录片，曝光白家犯罪集团首要分子临刑前画面。",
+      "credibilityScore": 93,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，权威性高；信息含具体时间、地点、比分及记者署名，事实可查证。"
+      "credibilityReason": "来源为中新网和澎湃新闻，属较权威媒体；内容具体，有明确播出时间和平台，但缺乏独立第三方交叉验证。（多源覆盖 +5）"
     },
     {
-      "title": "国庆假期前三天浙江普陀山水域客运量超39万人次",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-04/10707768.shtml",
-      "pubDate": "Sun, 4 Oct 2026 12:42:41 +0800",
-      "contentSnippet": "浙江舟山，民众乘船出行。何青供图\r\n\n　　中新网杭州10月4日电(记者 王逸飞 通讯员 何青)记者4日从浙江海事部门获悉，今年国庆假期前三天，浙江舟山的普陀山水域累计旅客运输量超39万人次(含渡运)。",
+      "title": "（侨乡新貌）海外侨亲回家免费看戏：熟悉乡音唤醒乡愁",
+      "link": "https://www.chinanews.com.cn/txy/2026/10-05/10708065.shtml",
+      "pubDate": "Mon, 5 Oct 2026 11:43:40 +0800",
+      "contentSnippet": "中新社泉州10月5日电 题：海外侨亲回家免费看戏：熟悉乡音唤醒乡愁",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -254,10 +255,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国庆假期前三天浙江普陀山水域客运量超39万人次，数据来自浙江海事部门。",
+      "aiSummary": "中新社报道海外侨亲在泉州免费看戏，乡音唤起乡愁。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "中国新闻网为权威媒体，数据源自浙江海事部门，信息具体可查证，但缺乏多源交叉验证。"
+      "credibilityReason": "来源为中新社，属权威通讯社，内容具体但引述有限，无争议性。"
     }
   ]
 }
