@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-05T04:52:14.564Z",
+  "generatedAt": "2026-10-06T05:39:37.882Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "JEDEC 发布首份全行业硅光子学（SiPh）可靠性标准 JESD264",
-      "link": "https://www.ithome.com/1/009/775.htm",
-      "pubDate": "Mon, 05 Oct 2026 02:34:56 GMT",
-      "contentSnippet": "IT之家 10 月 5 日消息，JEDEC 固态技术协会美国当地时间本月 1 日发布了 JESD264 硅光子学 (SiPh) 器件认证和可靠性要求，这是首份全行业级别的硅光器件统一认证和可靠性实践规范。\n硅光领域此前缺乏标准化的、行业通用的可靠性所有权和验证框架，导致整个供应链存在不确定性。JESD264 通过建立测试和制造控制的通用基准，有助于降低部署风险，并支持硅光技术在高速数据中心、电信和人工智能网络中的更广泛应用。\n该标准支持包含激光器、调制器、光电二极管和无源光学结构的复杂光子芯片组的集成；还明确了代工厂、外包封测、系统开发商之间的可靠性责任，从而有助于提高整个硅光生态系统的一致性",
+      "title": "为防范 AI 深度伪造，意大利总理梅洛尼申请将自己的声音注册为商标",
+      "link": "https://www.ithome.com/1/009/979.htm",
+      "pubDate": "Tue, 06 Oct 2026 04:58:16 GMT",
+      "contentSnippet": "IT之家 10 月 6 日消息，据路透社报道，公开档案显示，意大利总理焦尔吉娅 · 梅洛尼已经向欧盟知识产权局（EUIPO）提交申请，希望将自己的声音注册成为商标，以此防范由 AI 生成的深度伪造内容。\n\n图源：梅洛尼 X 账号\n欧盟知识产权局网站上这份申请的日期为 10 月 5 日，梅洛尼办公室也证实了该申请。申请材料当中附带一段时长 4 秒的录音，录音里她用意大利语重复说了两遍：“我是焦尔吉娅 · 梅洛尼。”\n“Io sono Giorgia（我是焦尔吉娅）”正是她 2021 年自传的书名。这句话源自梅洛尼 2019 年在一场政治集会上的著名发言，甚至还曾经被改编成迪斯科舞曲。\n近些年来，",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,16 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "JEDEC发布首份全行业硅光子学可靠性标准JESD264，规范器件认证与测试基准。",
-      "credibilityScore": 88,
+      "aiSummary": "意大利总理梅洛尼向欧盟知识产权局申请将其声音注册为商标，以防范AI深度伪造。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体含标准编号与发布机构，逻辑清晰，但缺少原始链接引用。"
+      "credibilityReason": "IT之家引述路透社报道，有EUIPO申请日期及办公室证实等具体细节，来源可靠。"
     },
     {
-      "title": "DeepSeek V4.1 Flash 发力，中美顶尖模型 LiveBench 跑分差距缩至 3%",
-      "link": "https://www.ithome.com/1/009/751.htm",
-      "pubDate": "Mon, 05 Oct 2026 00:50:23 GMT",
-      "contentSnippet": "北京时间 10 月 5 日，据彭博行业研究称，过去几个月，随着 DeepSeek 等中国 AI 实验室的模型不断进步，美国 AI 公司相对中国同行的性能领先优势急剧缩小，降至历史最低水平，这让美国的科技主导地位面临威胁。\n\nDeepSeek\n彭博行业研究高级分析师罗伯特 · 利亚 (Robert Lea) 在周一的一份报告中写道，在 DeepSeek 9 月发布 V4.1 Flash 之后，中国顶尖模型在基准测试得分上仅落后美国竞争对手 3%。这一差距较 5 月份的约 9% 和今年早些时候的 15% 有所收窄。\n他表示，这种性能的持续提升意味着中国竞争者将进一步扩大市场份额。\n彭博指出，中国模",
+      "title": "消息称希捷与东芝竞购 TDK 硬盘磁头业务，争夺 AI 存储供应链关键环节",
+      "link": "https://www.ithome.com/1/009/975.htm",
+      "pubDate": "Tue, 06 Oct 2026 04:23:39 GMT",
+      "contentSnippet": "IT之家 10 月 6 日消息，据彭博社报道，希捷科技控股以及东芝公司正在争夺 TDK 的硬盘磁头业务。两家竞争对手都希望借此跟上 AI 数据中心存储设备的旺盛需求。\n\n知情人士称，东芝于今年春季率先同 TDK 开启收购谈判；随后希捷在夏季提出了更高的报价。由于相关磋商仍处于保密阶段，消息人士要求匿名，并表示这笔收购交易的价值最高可达数十亿美元。\n如果有一方成功竞得该项业务，就将掌控硬盘供应链当中的关键一环。目前机械硬盘市场由三家厂商把持，而独立磁头供应商的存在，对维持行业竞争格局至关重要。TDK 是全球唯一一家独立生产硬盘磁记录磁头制造商；磁头是硬盘内部实际完成数据读写的零部件。TDK 同时",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -33,16 +33,118 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "彭博报告称DeepSeek V4.1 Flash发布后，中美顶尖模型LiveBench跑分差距缩至3%。",
+      "aiSummary": "希捷与东芝竞购TDK硬盘磁头业务，争夺AI存储供应链关键环节",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家引述彭博社报道，信息具体含时间线与报价细节，但依赖匿名信源，尚未获官方证实"
+    },
+    {
+      "title": "挪威政府拟在部分敏感区域实施人工智能眼镜临时禁令",
+      "link": "https://www.ithome.com/1/009/945.htm",
+      "pubDate": "Tue, 06 Oct 2026 01:24:58 GMT",
+      "contentSnippet": "IT之家 10 月 6 日消息，挪威政府当地时间本月 5 日表示，计划尽快向议会提交临时禁止在部分敏感区域使用人工智能眼镜的草案，并为后续永久性立法设立专家咨询机构。\n这里的“敏感区域”可能包括公园、海滩、博物馆、购物中心、学校、幼儿园、游乐场、课外活动中心、医疗机构、设有更衣淋浴设施的健身场所。挪威政府还将评估该禁令的适用设备范围，以及是否应涵盖高等院校及其它教育机构。\n\n图源：Pexels\n该国数字化和公共管理部长 Torgeir Micaelsen 表示：\n\n我担心引入新型强力技术后，人们可能会在不知情的情况下被拍照、录像或录音。因此，我们将提议在特定场所暂时禁止使用 AI 眼镜。这将为",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "挪威政府拟在敏感区域临时禁用AI眼镜，并推动永久立法。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道含具体时间、官员表态及政策细节，但缺少原始官方文件链接。"
+    },
+    {
+      "title": "高盛上调台积电目标价至 3300 新台币，预示约 28% 上涨空间",
+      "link": "https://www.ithome.com/1/009/937.htm",
+      "pubDate": "Tue, 06 Oct 2026 00:57:51 GMT",
+      "contentSnippet": "IT之家 10 月 6 日消息，台积电 10 月 5 日在中国台湾股市创出历史新高，早盘最高冲上 2,580 新台币（IT之家注：现汇率约合 543.1 元人民币），13:30 收盘价定在 2,575 新台币（现汇率约合 542 元人民币），涨幅 3%，市值升至约 66.78 万亿新台币（现汇率约合 14.06 万亿元人民币）。\n高盛将台积电 12 个月目标价从 3,100 元新台币（现汇率约合 652.5 元人民币）上调至 3,300 元新台币（现汇率约合 694.6 元人民币），预示约 28% 的上涨空间。\n高盛预计随着人工智能对 GPU、网络芯片和服务器 CPU 的需求不断增长，台积电明",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "高盛上调台积电目标价至3300新台币，预计AI需求推动约28%上涨空间。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道含具体股价、目标价及机构分析，数据详实，但未提供高盛报告原始出处。"
+    },
+    {
+      "title": "谷歌 Pixel 12 系列手机曝光：Fold 折叠内屏升至 2296×2404 分辨率",
+      "link": "https://www.ithome.com/1/009/985.htm",
+      "pubDate": "Tue, 06 Oct 2026 05:34:42 GMT",
+      "contentSnippet": "IT之家 10 月 6 日消息，科技媒体 ovrplus 于 10 月 4 日发布博文，通过挖掘 GSMA IMEI 数据库，发现了谷歌 Pixel 12、Pixel 12 Pro、Pixel 12 Pro XL 与 Pixel 12 Pro Fold 四款手机的踪迹。\n\nIT之家援引博文内容以及注册相关信息，附上 4 款手机的注册代码以及屏幕分辨率信息：\n\n机型注册代码（IMEI）屏幕分辨率（像素）\nPixel 12GC0QU1080×2424\nPixel 12 ProGWU591280×2824\nPixel 12 Pro XLG7U1Y1344×2952\nPixel 12 Pro Fold",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "谷歌Pixel 12系列四款机型现身IMEI数据库，Fold内屏分辨率升至2296×2404。",
+      "credibilityScore": 72,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息源自IMEI数据库挖掘，有具体型号和分辨率数据，但非官方发布，属爆料性质。"
+    },
+    {
+      "title": "功夫游戏《师父 Sifu》官宣 10 月 12 日推出手游版本，搓屏幕战斗",
+      "link": "https://www.ithome.com/1/009/983.htm",
+      "pubDate": "Tue, 06 Oct 2026 05:30:01 GMT",
+      "contentSnippet": "IT之家 10 月 6 日消息，功夫游戏《师父 Sifu》官宣将于 10 月 12 日推出手游版本，登陆 iOS 和安卓平台。\n\n《师父 Sifu》由 Sloclap 开发、Kepler Interactive 发行，最初于 2022 年 2 月在 PS4、PS5 和 Windows 平台发布，随后于同年 11 月登陆 Xbox One、Xbox Series S|X、任天堂 Switch 平台。\n自发售以来，《师父 Sifu》已售出超过 400 万份，并在 2023 年获得了 Steam 年度“纵使手残仍大爱”奖。\n《师父 Sifu》的手游版本采用屏幕虚拟按键操控方式，玩家可以点按屏幕进行出",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "功夫游戏《师父 Sifu》官宣10月12日推出手游版，登陆iOS和安卓。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息具体含发售日期、平台、销量等数据，来源可靠。"
+    },
+    {
+      "title": "英特尔 Nova Lake 处理器首发策略曝光：大容量缓存 BFC 型号先上市",
+      "link": "https://www.ithome.com/1/009/982.htm",
+      "pubDate": "Tue, 06 Oct 2026 05:16:48 GMT",
+      "contentSnippet": "IT之家 10 月 6 日消息，消息源 @jaykihn0 昨日（10 月 5 日）在 X 平台发布推文，称配备大容量末级缓存（bLLC）的 BFC 型号，将是 Nova Lake 产品线中最早发布的版本。\n根据此前泄露的信息，BFC 代表配备额外缓存的 Nova Lake 芯片。该设计被指用于提升游戏场景表现，定位接近 AMD Ryzen X3D 系列处理器。\nJaykihn 曾被问及 BFC 型号会与标准版同步上市，还是在后续推出。他在 2026 年 10 月 4 日的 X 帖子中回复称，BFC 将在该系列中最早发布。\n\n现有信息显示，Nova Lake 将先进入桌面平台，服务器版本暂不在",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "英特尔Nova Lake大缓存BFC型号将率先上市，定位对标AMD X3D",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "IT之家为知名科技媒体，但核心信息源自爆料者推文，缺乏官方确认，细节有限"
+    },
+    {
+      "title": "碰撞前 10 米辅助驾驶消失，网传高速追尾事故引发热议",
+      "link": "https://www.ithome.com/1/009/981.htm",
+      "pubDate": "Tue, 06 Oct 2026 05:13:01 GMT",
+      "contentSnippet": "IT之家 10 月 6 日消息，据第一财经日报今日报道，近日在沪昆高速安顺段，一名司机在高速上使用“导航辅助驾驶”（NOA）行车，但却在临近前方大货车约 10 米位置时，遭遇 NOA 突然退出交由驾驶人接管，而此时车速为 120km/h。\n司机直呼：“与前车尾部仅约 10 米的距离，根本来不及制动。”最终，小车直接追尾撞上了大货车。\n\n今日午间，“碰撞前 10 米辅助驾驶消失”话题登上微博热搜。第一财经日报表示，去年，某车辆在高速公路行驶过程中提示注意障碍物后约 1 秒转由驾驶员接管，但接管后不足 10 秒即发生碰撞。近年来，类似的事件已发生不下 10 起，引起大众广泛关注。\nIT之家提醒：目",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "沪昆高速一司机使用NOA时系统在距前车10米处突然退出，导致追尾事故。",
       "credibilityScore": 78,
       "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引用彭博行业研究报告及分析师观点，有具体数据和对比，但缺少原始报告链接。"
+      "credibilityReason": "来源为IT之家和第一财经，事件具体，但缺少官方事故认定和车企回应，细节依赖单方描述。"
     },
     {
-      "title": "再涨价！消息称台积电先进晶圆价格 2027Q1 拟计划再上调 6%~8%",
-      "link": "https://www.ithome.com/1/009/740.htm",
-      "pubDate": "Sun, 04 Oct 2026 23:29:15 GMT",
-      "contentSnippet": "IT之家 10 月 5 日消息，韩媒 ddaily 于 10 月 2 日发布博文，报道称在决定上调 10%~20% 基础上，台积电计划 2027 年第一季度针对最先进晶圆出货价格，再次上调约 6%~8%，理由是制造成本和电力费用上涨。\n报道援引半导体业界消息称，台积电 2 纳米制程订单激增，公司已将晶圆订单目标较原计划提高 15% 至 20%。\n为应对订单增长，台积电将位于新竹宝山和高雄等地的 5 座 2 纳米专用量产工厂转入全面运转状态，而先进制程产能集中让部分客户难以获得新增晶圆配额。\n高通（Qualcomm）、AMD 等芯片设计企业面临制造成本上升与单一供应链风险，因此部分客户开始寻求台",
+      "title": "捷豹 Type 01 四座电动 GT 量产版谍照曝光，三电机超 1000 马力",
+      "link": "https://www.ithome.com/1/009/980.htm",
+      "pubDate": "Tue, 06 Oct 2026 04:59:26 GMT",
+      "contentSnippet": "IT之家 10 月 6 日消息，汽车媒体 thesupercarblog 昨日（10 月 5 日）发布博文，分享了一张图片，展示了捷豹 Type 01 四座电动 GT 量产版，该电动汽车将于美国当地时间 10 月 6 日在纽约发布。\n\nIT之家发稿前，该图片已应捷豹要求下架，在 X 平台上仍有部分用户晒出\n外观方面，量产版 Type 01 保留概念车的整体设计语言。前脸设计相较概念车有所优化，加入熏黑元素与 LED 灯组，高肩线设计搭配齐平式门把手与小巧车窗，让后视镜在视觉上显得更为突出。\n内饰采用新复古风格设计。仪表盘布局简洁，中央配备小型竖向触控屏，搭配宽幅数字驾驶员信息显示屏与双辐方向盘",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -50,33 +152,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "台积电拟2027年一季度再上调先进晶圆价格6%~8%，因成本上涨。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "IT之家转载韩媒消息，有具体数据但非一手来源，涨价传闻待官方证实。"
-    },
-    {
-      "title": "特朗普宣布成立超级智能工作组，谋求维持美国技术领先地位",
-      "link": "https://www.ithome.com/1/009/792.htm",
-      "pubDate": "Mon, 05 Oct 2026 04:39:32 GMT",
-      "contentSnippet": "IT之家 10 月 5 日消息，正如此前所承诺的，美国总统唐纳德 · 特朗普已经宣布成立全新的超级智能工作组（Super Intelligence Force）。他表示，该机构将由美国国家情报总监杰伊 · 克莱顿（Jay Clayton）以及本届政府的其他官员牵头负责。\n特朗普当地时间上周日上午在自己的社交平台“真实社交（Truth Social）”上发帖称：“超级智能工作组的任务是协调联邦政府的各项相关工作，确保美国能够继续在超级智能领域引领全世界。很多人认为，这项技术的影响力已经超过工业革命与互联网。工作组还将捍卫全体美国人的利益，改善民众的生活。”\n\nIT之家注意到，在 9 月份，针对人",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "特朗普宣布成立超级智能工作组，由情报总监牵头，确保美国在超级智能领域领先。",
-      "credibilityScore": 75,
+      "aiSummary": "捷豹Type 01四座电动GT量产版谍照曝光，三电机超1000马力，将于纽约发布。",
+      "credibilityScore": 78,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道引用了特朗普社交平台原文，但缺乏具体政策细节和独立核实。"
+      "credibilityReason": "IT之家转载thesupercarblog谍照，信息具体但原始出处非权威，图片已下架，缺乏官方数据支撑。"
     },
     {
-      "title": "迪士尼宣布《复仇者联盟 4》重映后反超《阿凡达》再登全球影史票房冠军，漫威电影累计超 350 亿美元",
-      "link": "https://www.ithome.com/1/009/791.htm",
-      "pubDate": "Mon, 05 Oct 2026 04:30:47 GMT",
-      "contentSnippet": "IT之家 10 月 5 日消息，漫威影业今日宣布，《复仇者联盟 4：终局之战》再次夺回全球影史票房冠军。\n这也意味着，漫威影业出品的 38 部院线电影全球票房累计超 350 亿美元（现汇率约合 2,348.63 亿元人民币），使漫威电影宇宙成为影史上最成功的电影系列。\n\n迪士尼当地时间 10 月 4 日公布的数据显示，《复仇者联盟 4：终局之战》重映后全球累计票房达到 29.255 亿美元（IT之家注：现汇率约合 196.31 亿元人民币），超过《阿凡达》的 29.237 亿美元（现汇率约合 196.19 亿元人民币），再次成为全球票房最高的电影。两部影片目前仅相差约 180 万美元。\n《复仇",
+      "title": "华为余承东谈内存压力：每部手机成本大增 200 美元，为保公司生存不得不涨价",
+      "link": "https://www.ithome.com/1/009/978.htm",
+      "pubDate": "Tue, 06 Oct 2026 04:51:49 GMT",
+      "contentSnippet": "IT之家 10 月 6 日消息，华为海外 X 账号今日（10 月 6 日）发布了 9 月 29 日的国际媒体圆桌会议摘要。华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东与多家国际媒体的记者就华为消费者业务及 HarmonyOS 生态系统进行了交流。\n\n在谈到内存成本上涨话题时，余承东坦言，内存组件价格的急剧上涨导致每部手机额外增加了超过 200 美元（IT之家注：现汇率约合 1,343 元人民币）成本。由于华为的手机内存配置比其他手机更高，成本上涨也更多。\n“总体来说，这无疑是整个行业面临的巨大挑战。我们看到许多手机制造商在提高价格。我们以非常缓慢的速度涨价，因为我们试图自己承",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -84,16 +169,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "迪士尼宣布《复联4》重映后以29.255亿美元反超《阿凡达》，再登全球影史票房冠军。",
+      "aiSummary": "余承东称内存涨价致每部手机成本增超200美元，华为被迫缓慢涨价。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引用迪士尼官方数据，票房数字具体，但属娱乐新闻非科技报道。"
+      "credibilityReason": "IT之家为知名科技媒体，引述华为官方X账号及高管公开会议发言，信息具体有出处。"
     },
     {
-      "title": "在低迷的行业里暴富：公狗剧场靠“男色经济”，一年狂卖1个亿",
-      "link": "https://www.tmtpost.com/8150262.html",
-      "pubDate": "Mon, 05 Oct 2026 12:08:47 +0800",
-      "contentSnippet": "公狗剧场巡演 600场年入过亿，男色经济正改写演出市场。",
+      "title": "余承东回应苹果入局折叠屏：欢迎同行加入竞争，iPhone Duo 发布后华为 Pura X Max 销量大增 76%",
+      "link": "https://www.ithome.com/1/009/976.htm",
+      "pubDate": "Tue, 06 Oct 2026 04:39:03 GMT",
+      "contentSnippet": "IT之家 10 月 6 日消息，华为海外 X 账号今日（10 月 6 日）发布了 9 月 29 日的国际媒体圆桌会议摘要。华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东与多家国际媒体的记者就华为消费者业务及 HarmonyOS 生态系统进行了交流。\n\n有记者询问华为 Mate XT 2 三折叠手机的具体销售或出货量数据。此外，苹果也首次推出了其折叠形态产品，记者询问余承东如何看待这对华为在折叠屏手机行业地位的影响。\n余承东回答称，Mate XT 2 是华为三折叠手机产品的第二代。第一代及其改款型号的销量超过 100 万部。第二代于 9 月 7 日上市。截至 9 月 29 日，M",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "余承东回应苹果入局折叠屏，称欢迎竞争，并透露华为Pura X Max销量大增76%。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为IT之家，内容具体但标题中'iPhone Duo'及'76%'数据缺乏正文支撑，可信度中等。"
+    },
+    {
+      "title": "火箭发动机的“技术鄙视链”",
+      "link": "https://www.tmtpost.com/8159826.html",
+      "pubDate": "Tue, 06 Oct 2026 12:32:05 +0800",
+      "contentSnippet": "猛禽之后，中国火箭也在追全流量补燃。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -101,16 +203,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "公狗剧场靠男色经济巡演600场年入过亿，改写演出市场。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "钛媒体为知名科技媒体，但内容偏商业现象报道，数据来源未明，缺乏具体财务细节。"
+      "aiSummary": "钛媒体分析火箭发动机技术路线，指出中国火箭正追赶全流量补燃循环。",
+      "credibilityScore": 78,
+      "credibilityLevel": "high",
+      "credibilityReason": "钛媒体为知名科技媒体，选题专业，但摘要过简，缺少具体数据与原始出处。"
     },
     {
-      "title": "定价逻辑变了，估值方法也变了，安全溢价如何重写关键矿产？",
-      "link": "https://www.tmtpost.com/8150494.html",
-      "pubDate": "Mon, 05 Oct 2026 12:08:41 +0800",
-      "contentSnippet": "价格里多了一部分，传统模型算不出来。它不来自成本，来自安全。",
+      "title": "世界模型赛道：谁在收编，谁在突围？",
+      "link": "https://www.tmtpost.com/8159876.html",
+      "pubDate": "Tue, 06 Oct 2026 12:31:56 +0800",
+      "contentSnippet": "芯片巨头们开抢模型",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -118,16 +220,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体分析关键矿产定价逻辑变化，安全溢价正重写估值方法。",
+      "aiSummary": "钛媒体分析世界模型赛道竞争格局，芯片巨头争抢模型主导权",
       "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体，选题专业，但正文摘要过简，缺少数据与原始出处支撑。"
+      "credibilityReason": "钛媒体为知名科技媒体，选题专业，但正文摘要过简，缺少具体数据与原始出处"
     },
     {
-      "title": "董宇辉已成往事，俞敏洪和陈行甲渐入佳境",
-      "link": "https://www.tmtpost.com/8159123.html",
-      "pubDate": "Mon, 05 Oct 2026 12:08:08 +0800",
-      "contentSnippet": "俞敏洪公开致谢陈行甲，称深深被他感动，不仅加鸡腿还要加鸭腿，二人计划合著《我们从黑土地走过》。俞敏洪，或许找到了那个懂他的人。",
+      "title": "重塑苹果设计团队核心地位，特努斯瞄准下一个十年竞争",
+      "link": "https://www.tmtpost.com/8159881.html",
+      "pubDate": "Tue, 06 Oct 2026 12:31:54 +0800",
+      "contentSnippet": "而当设计团队地位被再次拔高，乃至可能成为苹果产品开发起点，那么苹果在AI时代能否复刻iPhone神迹，用全新产品范式开启下一个十年，我们拭目以待。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -135,129 +237,27 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "俞敏洪公开致谢陈行甲并计划合著新书，钛媒体报道二人合作渐入佳境。",
-      "credibilityScore": 62,
+      "aiSummary": "钛媒体分析苹果重塑设计团队地位，展望其AI时代下一个十年竞争。",
+      "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，但内容偏人物关系与情感叙事，缺乏技术或商业数据支撑，信息较简略。"
+      "credibilityReason": "知名科技媒体，话题具体但摘要偏评论性，缺少数据与原始出处支撑"
     },
     {
-      "title": "德国电力公司推出游戏玩家专属电价套餐：瞄准高耗电家庭，电力 100% 来自可再生能源",
-      "link": "https://www.ithome.com/1/009/790.htm",
-      "pubDate": "Mon, 05 Oct 2026 04:01:45 GMT",
-      "contentSnippet": "IT之家 10 月 5 日消息，德国公用事业与电力零售企业 SWK Energie 推出了一项面向游戏玩家的全新营销策略。据 ComputerBase 报道，这项名为 meinGAMING 的业务围绕游戏玩家展开大量营销宣传，例如将供电的稳定性比作“你最喜爱的游戏服务器”，还邀约 Limcube 这类游戏主播开展网红推广。\n\n但这并不代表该公司往电网当中注入了某种神奇的游戏专属电力，可以让玩家插上电源之后直接获得更高的游戏帧率。实际上它只是一款面向高耗电家庭设计的电价套餐，不管你家里同时运行四台搭载 RTX 5090 的游戏主机，还是每天同时给四台电动汽车充电，都适用这套方案。\n该公司在常见问",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "AI 越来越强，公司为什么还是做不快？",
+      "link": "https://www.tmtpost.com/8159894.html",
+      "pubDate": "Tue, 06 Oct 2026 12:31:52 +0800",
+      "contentSnippet": "成果看起来越完整，剩下的工作越容易被误解为拖延。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
       "allSources": [
-        "IT之家"
+        "钛媒体"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "德国SWK Energie推出游戏玩家专属电价套餐，实为面向高耗电家庭的100%可再生能源方案。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家编译ComputerBase报道，信息具体，明确澄清非游戏专属电力，来源可追溯。"
-    },
-    {
-      "title": "美国造车新势力 Rivian 第三季度交付 19248 辆，同比增长 46%",
-      "link": "https://www.ithome.com/1/009/788.htm",
-      "pubDate": "Mon, 05 Oct 2026 03:50:49 GMT",
-      "contentSnippet": "IT之家 10 月 5 日消息，当地时间 10 月 2 日，美国造车新势力 Rivian 公布了截至 2026 年 9 月 30 日的季度产量与交付量数据。\n本季度，该公司位于美国伊利诺伊州诺默尔的生产工厂共生产汽车 19,751 辆，同期完成交付 19,248 辆（同比增长 46%）。\nRivian 曾在今年早些时候上调 2026 全年交付指引，目标区间定在 65,000 至 70,000 辆。若要达成该目标，公司第四季度的交付量需在第三季度的基础上至少环比增长 20.5%，达到 23,193 辆。\n据悉，交付量的攀升，主要得益于其入门 SUV Rivian R2 产能的持续爬坡。这款新车型",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "Rivian第三季度交付19248辆，同比增长46%，R2产能爬坡推动增长。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，数据具体含产量交付量及同比，引用官方季度数据，逻辑清晰。"
-    },
-    {
-      "title": "纽约时报：石油大国闹油荒，俄罗斯人抢购中国电动汽车",
-      "link": "https://www.ithome.com/1/009/787.htm",
-      "pubDate": "Mon, 05 Oct 2026 03:44:32 GMT",
-      "contentSnippet": "北京时间 10 月 5 日，《纽约时报》发文称，随着乌克兰越来越多地将战火带到俄罗斯，俄罗斯出现了燃料短缺的情况，这促使俄罗斯人开始抢购中国电动汽车。\n\n俄罗斯加油站排起长队\n谢尔盖 · 采利科夫 (Sergei Tselikov) 是俄罗斯首屈一指的汽车行业专家，先后拥有过 20 多辆车，包括沃尔沃、大众和路虎。这些车全都配备了燃油发动机。\n但是今年 7 月，随着乌克兰无人机袭击俄罗斯炼油厂，俄罗斯全国各地的司机在加油站排队数小时加油。于是，他购买了一辆中国品牌长城汽车生产的纯电动掀背车。他必须迅速出手，由于需求激增，这款车的价格在几天内上涨了约 2000 美元。\n“我试着给我的一辆车加油，",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "纽约时报报道俄罗斯因燃料短缺，民众抢购中国电动汽车。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为纽约时报经IT之家转载，有具体人物、品牌和价格细节，但缺乏原始链接。"
-    },
-    {
-      "title": "Thrustmaster 推出《跑车浪漫旅 7》授权直驱方向盘套装 T-GT III",
-      "link": "https://www.ithome.com/1/009/786.htm",
-      "pubDate": "Mon, 05 Oct 2026 03:39:24 GMT",
-      "contentSnippet": "IT之家 10 月 5 日消息，Thrustmaster（图马思特）近日宣布推出直驱方向盘 T-GT III。这一套装得到《跑车浪漫旅 7》(Gran Turismo 7) 与 PlayStation 官方授权。\n\nT-GT III 是史上第一款为《跑车浪漫旅》设计的直接轴向驱动套装，也是第一款内含压力传感踏板组的套装。\n其可提供 5N·m 恒定扭矩、10N·m 峰值扭矩，支持换挡震动、引擎轰鸣等触觉反馈效果；配套皮革饰面 T-GT 方向盘，拥有 4 个旋转编码器。Thrustmaster 承诺为其持续提供与游戏更新配套的软件和固件更新。\nIT之家了解到，Thrustmaster T-GT I",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "图马思特发布《跑车浪漫旅7》授权直驱方向盘T-GT III，含压力传感踏板。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容含具体扭矩、编码器等细节，但缺少原始出处链接。"
-    },
-    {
-      "title": "联想来酷推出 N27 Pro 一体台式机：酷睿 i5-13420H，4499 元起",
-      "link": "https://www.ithome.com/1/009/785.htm",
-      "pubDate": "Mon, 05 Oct 2026 03:30:53 GMT",
-      "contentSnippet": "IT之家 10 月 5 日消息，联想来酷现已推出 N27 Pro 一体台式机，搭载酷睿 i5-13420H 处理器，售价 4499 元起：\n\n16GB+512GB：4499 元\n\n16GB+1TB：4999 元\n\n\nIT之家获悉，这款新品提供云翎黑、雪羽白两种配色可选，配备 27 英寸 2.5K（2560×1440） 100Hz 高刷屏，色域覆盖 99% sRGB 高色域，支持 -5°~15° 俯仰角调节。\n\n这款一体机搭载英特尔酷睿 i5-13420H 处理器，拥有 8 核心 12 线程，可选 16GB 内存 + 1TB SSD；标配无线键鼠套装，采用 2.4G 无线连接。\n\n接口方面，这款",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "联想来酷推出N27 Pro一体机，搭i5-13420H，4499元起。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，产品规格、价格、配置等细节具体，信息清晰可信。"
-    },
-    {
-      "title": "Akasa 发布 5.2L 无风扇 ITX 机箱 Euler MX2，兼容多代 35W 英特尔处理器",
-      "link": "https://www.ithome.com/1/009/784.htm",
-      "pubDate": "Mon, 05 Oct 2026 03:27:13 GMT",
-      "contentSnippet": "IT之家 10 月 5 日消息，Akasa（爱克生）英国当地时间本月 2 日发布了其无风扇机箱新品 Euler MX2。这一型号兼容 35W TDP 的多代英特尔处理器。\n\nEuler MX2 机身由阳极氧化铝材构成，三维 272.6 × 205 ×92.6 (mm)，体积 5.2L。其支持英特尔 Socket V/H 平台的 Mini-ITX 主板，内置 220V DC-DC 电源，提供 2 个 2.5\" 9.5mm 硬盘位，提供 2 个前置 USB-A 5Gbps，后部则有 2 个 COM 开口。\n\nAkasa Euler MX2 机箱定价 195 英镑 / 198 欧元（IT之家注：现汇",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "Akasa发布5.2L无风扇ITX机箱Euler MX2，兼容35W英特尔处理器，售价195英镑。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容含具体尺寸、接口、价格等细节，信息具体可信。"
-    },
-    {
-      "title": "微软发布 Win11 26H2 组策略模板，方便企业管理员调整配置",
-      "link": "https://www.ithome.com/1/009/783.htm",
-      "pubDate": "Mon, 05 Oct 2026 03:16:50 GMT",
-      "contentSnippet": "IT之家 10 月 5 日消息，Neowin 今日发现，微软 9 月底发布了一份面向企业管理员的 Windows 11 2026 更新（26H2）配套管理工具，方便 IT 管理员在部署新版本系统前检查现有组策略配置，并管理 26H2 新增及调整的策略。\n此次发布的 Administrative Templates（ADMX）版本为 1.0，安装包文件名为“Administrative Templates (.admx) for Windows 11 Sep 2026 Update.msi”，大小约 14.6MB。\n微软表示，该软件包包含 Windows 11 2026 更新（26H2）的完整管",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "微软发布Win11 26H2组策略模板，方便企业管理员调整配置。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，内容具体含版本号、文件名、大小等细节，引用Neowin发现，信息可信。"
+      "aiSummary": "钛媒体探讨AI能力增强但企业落地效率仍受组织与认知因素制约",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "知名科技媒体，观点性评论有洞察，但摘要缺具体数据与原始出处"
     }
   ]
 }
