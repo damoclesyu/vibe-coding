@@ -1,14 +1,82 @@
 {
-  "generatedAt": "2026-10-06T05:38:26.370Z",
+  "generatedAt": "2026-10-07T05:08:21.142Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "北疆七日：一路向东，石榴花开",
-      "link": "https://m.thepaper.cn/detail/34204426",
-      "pubDate": "Tue, 06 Oct 2026 03:58:51 GMT",
-      "contentSnippet": "近日，黑龙江省民族宗教事务委员会组织开展“北疆石榴行 媒体看边疆”系列宣传活动。由中央及省级媒体记者、自媒体博主组成的采访团，沿黑龙江边境线一路向东，先后走进黑河市爱辉区、伊春市嘉荫县、鹤岗市萝北县、佳木斯市同江市和抚远市。\n七天时间，行程上千公里，从界江夜市到恐龙故乡，从垦荒农场到赫哲村寨，从非遗课堂到互嵌社区，一路所见所闻，是一座座边境城镇的蝶变故事，也是不同民族在同一片土地上相互往来、共同经营的生动生活图景。\n\n不同民族在黑龙江交往交流交融。本文图片均由黑龙江民宗委提供\n\n\n黑河爱辉：中俄界江畔，各民族交往交流交融的前沿\n黑河市爱辉区是“十五五”边境重点城镇，与俄罗斯布拉戈维申斯克市隔江",
+      "title": "中越边境云南河口口岸今年出入境流量突破500万人次",
+      "link": "https://www.chinanews.com.cn/aseaninfo/2026/10-07/10708633.shtml",
+      "pubDate": "Wed, 7 Oct 2026 11:48:00 +0800",
+      "contentSnippet": "【东盟专线】中越边境云南河口口岸今年出入境流量突破500万人次",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中越边境云南河口口岸今年出入境流量突破500万人次。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "中国新闻网为权威媒体，数据具体可查，但正文摘要过短，缺少细节引述。"
+    },
+    {
+      "title": "国庆假期“赛事热”带动文旅消费",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-07/10708656.shtml",
+      "pubDate": "Wed, 7 Oct 2026 12:59:31 +0800",
+      "contentSnippet": "中新网杭州10月7日电 题：国庆假期“赛事热”带动文旅消费",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中新网报道国庆假期赛事热带动文旅消费，仅见标题和电头。",
+      "credibilityScore": 62,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为中新网较权威，但正文缺失，仅标题和电头，无法核实具体内容。"
+    },
+    {
+      "title": "国庆假期“邂逅”怒江峡谷户外新经济",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-07/10708655.shtml",
+      "pubDate": "Wed, 7 Oct 2026 12:55:00 +0800",
+      "contentSnippet": "中新网云南怒江10月7日电 题：国庆假期“邂逅”怒江峡谷户外新经济",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中新网报道国庆假期怒江峡谷户外新经济发展情况。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网，属权威媒体，有具体时间地点，但正文摘要过短，细节有限。"
+    },
+    {
+      "title": "（机遇香港）文旅流量变消费增量 国庆盛事激活香港经济动能",
+      "link": "https://www.chinanews.com.cn/dwq/2026/10-07/10708654.shtml",
+      "pubDate": "Wed, 7 Oct 2026 12:41:36 +0800",
+      "contentSnippet": "中新社香港10月7日电 (记者 邱兆翔)中国内地国庆黄金周假期已近尾声。今年假期香港不仅迎来规模可观的访港人潮，文旅消费更呈现可喜变化：到访客流不再止步于浅层观光“打卡”，而是高效转化为消费增量，餐饮、零售两大板块率先受益，为香港经济发展注入强劲动力。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中新社报道国庆黄金周访港客流转化为消费增量，餐饮零售受益。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "中新社为权威通讯社，有署名记者和具体时间地点，但缺乏数据引述及多源验证。"
+    },
+    {
+      "title": "美国罪犯被执行死刑失败后恢复清醒并能说话，专家：前所未有",
+      "link": "https://m.thepaper.cn/detail/34207737",
+      "pubDate": "Wed, 07 Oct 2026 04:22:14 GMT",
+      "contentSnippet": "美国死刑犯克丽丝塔·派克（Christa Pike）在上周执行死刑失败后被送医救治，她的律师10月6日表示，派克已经“恢复意识并能够说话”。\n据央视新闻报道，美国田纳西州州长比尔·李当地时间3日说，该州监狱系统负责人弗兰克·斯特拉达已宣布辞职。这是该州一名女犯人被执行注射死刑失败后，监狱系统进行的一次重要人事调整。\n派克因1995年伙同男友谋杀19岁的科琳·斯勒默被判处死刑。上周，她在美国田纳西州接受致命注射时连续两次失败，最终幸存。随后她被送往医院，医护人员帮助清除被注入体内的药物，她连续数日处于昏迷状态，一度依靠呼吸机维持生命。\n据《华盛顿邮报》报道，派克的律师6日表示，当事人目前仍在医院",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -16,50 +84,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "黑龙江民宗委组织媒体沿边境线采访，报道北疆民族团结与城镇发展。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为澎湃新闻较权威，内容具体但属官方宣传活动，缺乏独立交叉验证。"
-    },
-    {
-      "title": "河南这座小院，藏着你不知道的考古往事",
-      "link": "https://www.chinanews.com.cn/sh/2026/10-06/10708379.shtml",
-      "pubDate": "Tue, 6 Oct 2026 11:18:40 +0800",
-      "contentSnippet": "图为“殷墟甲骨文出土史馆”。受访者供图\r\n\n　　国庆节假期前夕，“甲骨文之乡”河南安阳发布甲骨文研究新成果。细细研读新闻后，34岁的安阳小屯村村民张栋梁把这个消息分享给了台湾学者李修平。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国新闻网报道河南安阳发布甲骨文研究新成果，村民与台湾学者分享消息。",
-      "credibilityScore": 82,
+      "aiSummary": "美国女死囚注射死刑失败后恢复意识，监狱系统负责人辞职。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网较权威，内容具体含时间地点人物，但摘要简短，缺乏直接引述和交叉验证。"
+      "credibilityReason": "澎湃新闻转载央视和华盛顿邮报，有具体时间人物，多源交叉验证。"
     },
     {
-      "title": "评论：短剧《过海》折射两岸同胞“双向奔赴”",
-      "link": "https://www.chinanews.com.cn/gn/2026/10-06/10708376.shtml",
-      "pubDate": "Tue, 6 Oct 2026 11:13:22 +0800",
-      "contentSnippet": "中新社北京10月6日电 题：短剧《过海》折射两岸同胞“双向奔赴”",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中新社评论称短剧《过海》折射两岸同胞双向奔赴。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为中新社较权威，但属评论文章，缺乏具体事实与多源验证。"
-    },
-    {
-      "title": "60集电视剧《伟大的长征》10月9日央视一套黄金档开播",
-      "link": "https://m.thepaper.cn/detail/34204528",
-      "pubDate": "Tue, 06 Oct 2026 03:07:46 GMT",
-      "contentSnippet": "为纪念中国工农红军长征胜利90周年，由中宣部文艺局、国家广播电视总局电视剧司全程指导，中共北京市委宣传部、北京市广电局精心策划并历时五年多全力推动创作的60集重大革命题材电视剧《伟大的长征》正式定档，将于10月9日起在央视一套（CCTV-1）黄金时段播出，爱奇艺、咪咕视频等网络视听平台同步首播。\n\n《伟大的长征》海报\n\n\n《伟大的长征》以1934年1月至1937年1月为时代背景，以中央红军长征为主线，是首部全景展示红一、 红二、红四方面军和红二十五军等多路红军波澜壮阔的长征历程，同时兼顾北上抗日先遣队、南方游击队、陕北红军奋斗的鸿篇巨制。讴歌了以毛泽东同志为代表的中国共产党人坚定的理想信念、百",
+      "title": "特写｜中网冠军发布会，藏着德约的坚韧、奉献和永不言败",
+      "link": "https://m.thepaper.cn/detail/34207739",
+      "pubDate": "Wed, 07 Oct 2026 04:18:57 GMT",
+      "contentSnippet": "中国网球公开赛男单冠军奖杯叫作“中国之杯”，它的灵感来自故宫博物院清代乾隆时期的金质礼器。\n北京时间10月6日21点20分，它被摆在了国家网球中心钻石球场主新闻发布厅的台面上，旁边是一个手持球拍的诺瓦克·德约科维奇造型的人偶。40分钟前，它们一起出现在2026中国网球公开赛男单决赛颁奖仪式上，出现在第7次夺得这项赛事男单冠军的德约科维奇手里。\n在这场备受关注的决赛中，39岁的塞尔维亚老将首盘7比6胜出，第二盘亚力克斯·德米纳尔在1比0领先时宣布因为左腿内收肌出现问题而退赛。德约科维奇在北京创造自公开赛时代以来史无前例的单项赛事34连胜的纪录，连续21年在ATP巡回赛夺冠，收获个人职业生涯第10",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -67,16 +101,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "60集电视剧《伟大的长征》定档10月9日央视一套黄金档播出。",
-      "credibilityScore": 82,
+      "aiSummary": "澎湃新闻特写德约科维奇第7次夺得中网男单冠军，决赛对手德米纳尔因伤退赛。",
+      "credibilityScore": 78,
       "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为正规媒体，信息具体含播出时间平台，但属官方宣传性质，无独立核实。"
+      "credibilityReason": "澎湃新闻为知名媒体，内容具体含时间地点数据，但属特写报道，部分细节需交叉验证。"
     },
     {
-      "title": "中国代表驳斥少数国家诋毁中国人权状况",
-      "link": "https://www.chinanews.com.cn/gn/2026/10-06/10708372.shtml",
-      "pubDate": "Tue, 6 Oct 2026 11:01:49 +0800",
-      "contentSnippet": "中新社联合国10月5日电 中国常驻联合国副代表孙磊5日针对少数国家在联大第三委员会一般性辩论中恶意诋毁中国人权状况作答辩发言，指出这些国家自以为高人一等，动辄摆出一副“人权教师爷”的做派，但其国内人权问题突出，根本没有资格奢谈人权，更无权对中国说三道四。",
+      "title": "这很中国·温暖相遇｜从课本里到走到生活中 巴基斯坦青年被中国“暖”到了",
+      "link": "http://www.chinanews.com.cn/sh/shipin/2026/10-07/news1071114.shtml",
+      "pubDate": "Wed, 7 Oct 2026 12:18:46 +0800",
+      "contentSnippet": "里知旺来自巴基斯坦，高中时便通过课本和网络认识了中国。从那时起，他便对中国心生向往。来到中国求学后，他收获了许多温暖与感动。最初，他的中文并不熟练，但外出时总能遇到陌生人善意的帮助；学校里，老师和同学也常常帮助他，除了教他知识，也教他中国的文化。从课堂到日常，从语言到习俗，他一点点融入这里的生活，里知旺不禁表示，自己早已爱上中式生活。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -84,16 +118,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国常驻联合国副代表孙磊在联大驳斥少数国家对中国的人权指责。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，属官方媒体，信息具体（时间、地点、人物），但仅单方面陈述，无对方回应。"
+      "aiSummary": "巴基斯坦青年里知旺在华求学获帮助，称爱上中式生活。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "中国新闻网为官方媒体，但内容为个人叙事，缺乏具体时间地点及可交叉验证细节。"
     },
     {
-      "title": "国庆返程提示：全国铁路迎来返程客流高峰 重点旅客接送站有新规",
-      "link": "https://www.chinanews.com.cn/sh/2026/10-06/10708410.shtml",
-      "pubDate": "Tue, 6 Oct 2026 13:33:48 +0800",
-      "contentSnippet": "国庆假期即将收尾，不少人结束出游、探亲行程，踏上归家返工之路。此刻，国铁集团运输调度指挥大厅里，列车实时调度正在进行。跟随总台央视记者一起来了解今天铁路的运行情况。",
+      "title": "农工党中央、台盟中央“地域+领域”组团式帮扶毕节工作推进会在毕节举行",
+      "link": "https://www.chinanews.com.cn/txy/2026/10-07/10708640.shtml",
+      "pubDate": "Wed, 7 Oct 2026 12:16:56 +0800",
+      "contentSnippet": "中新网贵阳10月7日电 (记者 张伟)农工党中央、台盟中央“地域+领域”组团式帮扶毕节工作推进会日前在贵州省毕节市举行。会上，四川大学华西医院与大方县政府签订深化帮扶协议，重庆市妇幼保健院、重庆市第十三人民医院与赫章县妇幼保健院签订对口帮扶协议，广东省人民医院与浙江省人民医院毕节医院签订肿瘤专科医联体合作协议，天津市眼科医院与毕节市中医医院签订医联体、眼科专科联盟合作协议，天津市胸科医院与百里杜鹃管理区人民医院签订胸痛救治网络建设帮扶协议。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -101,16 +135,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国庆假期返程高峰，全国铁路迎客流高峰，重点旅客接送站有新规。",
+      "aiSummary": "农工党、台盟中央在毕节召开帮扶推进会，多家医院签署对口帮扶协议。",
       "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网为权威媒体，引述总台央视记者，内容具体，符合节假日返程规律。"
+      "credibilityReason": "来源为中新网，属权威媒体；内容具体，含时间、地点、机构及协议细节，可查证。"
     },
     {
-      "title": "多达650架 俄罗斯首都遭乌克兰大规模无人机袭击",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-06/10708406.shtml",
-      "pubDate": "Tue, 6 Oct 2026 13:19:50 +0800",
-      "contentSnippet": "中新网10月6日电 据俄罗斯卫星通讯社报道，俄罗斯首都莫斯科市市长索比亚宁表示，自当地时间5日20时30分至6日5时，共有650架乌克兰无人机飞往莫斯科地区方向，大部分无人机被俄防空部队在远距离击落。",
+      "title": "世界银行上调东亚和太平洋地区2026年经济增速预测",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-07/10708644.shtml",
+      "pubDate": "Wed, 7 Oct 2026 12:14:06 +0800",
+      "contentSnippet": "中新网马尼拉10月7日电 　世界银行6日发布东亚和太平洋地区最新一期经济半年报，将2026年该地区经济增速预测上调至4.5%，较4月预测高0.3个百分点。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -118,118 +152,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "俄方称莫斯科遭650架乌克兰无人机袭击，大部分被击落。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "中国新闻网为正规媒体，引述俄官方直接表态，但信息单一来源，缺乏乌方回应及独立验证。"
-    },
-    {
-      "title": "国庆黄金周即将收官，上海口岸入境外籍旅客热度不减",
-      "link": "https://m.thepaper.cn/detail/34204678",
-      "pubDate": "Tue, 06 Oct 2026 05:02:56 GMT",
-      "contentSnippet": "国庆假期进入尾声，上海口岸迎来返程客流高峰。2026年10月6日，记者从上海边检获悉，10月1日至5日，上海边检机关累计查验出入境旅客57.7万人次，同比增长2.4%，日均11.5万人次。其中，浦东、虹桥两大国际机场口岸出入境旅客达54.8万人次。\n随着假期进入尾声，上海口岸客流也由前期“出境热”逐渐转向“返程热”。10月6日上午，浦东国际机场入境大厅内，来自世界各地的航班接连抵达。边检查验区域内，结束行程返沪的旅客络绎不绝。“趁着国庆假期带家人出国玩了几天，今天回来也是为了避开最后一天的集中返程。”刚刚办完入境手续的旅客李女士说。\n形成对比的是，上海口岸入境外籍旅客热度不减。10月1日至5日",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国庆假期上海口岸出入境旅客57.7万人次，入境外籍旅客热度不减。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为知名媒体，数据来自上海边检，有具体数字和直接引述，但非一线通讯社。"
-    },
-    {
-      "title": "金观平：锻造高素质技能人才队伍",
-      "link": "https://www.chinanews.com.cn/ll/2026/10-06/10708403.shtml",
-      "pubDate": "Tue, 6 Oct 2026 12:57:14 +0800",
-      "contentSnippet": "近期举行的第48届世界技能大赛新增轨道车辆技术、无人机系统、智慧安防技术、软件测试等7个赛项。从比赛项目的变化中，可以透视产业发展的新趋势，也能看到技能人才需求的新方向。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国新闻网报道第48届世界技能大赛新增7个赛项，反映产业新趋势与技能人才需求方向。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为权威媒体中国新闻网，内容具体可查证，但为评论文章，缺少直接引述。"
-    },
-    {
-      "title": "海拔4000米的救援：售货摊主变身“警务助理”守护国道线",
-      "link": "https://m.thepaper.cn/detail/34204543",
-      "pubDate": "Tue, 06 Oct 2026 04:53:35 GMT",
-      "contentSnippet": "10月5日，四川夹金山迎来2026年的第一场降雪。国道351线夹金山段路面湿滑、雾气弥漫，山区道路通行风险陡增，路边售货摊主刘华青协助公安交警成功救助了数十台被困车辆。\n\n6日，刘华青告诉澎湃新闻，现在夹金山已经放晴，道路畅通无阻。其实，夹金山每年国庆假期都会下雪，今年还晚了两天，交警部门都有充分准备，这些年出现大面积车辆滞留、被困的情况并不多。\n夹金山垭口海拔4000多米，路段弯急坡陡，一旦积雪结冰，车辆极易打滑被困。刘华青因常年与交警一起，为过往受困或需要救援的司机提供帮助，大家都亲切地叫他“黑娃”。他的售货摊也因此被过往司机和游客称为“风雪驿站”，这些年，热心公益的“黑娃”也因此成为宝兴",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "四川夹金山降雪致国道车辆被困，售货摊主协助交警救助数十台车辆。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为知名媒体，有具体时间地点人物及直接引述，细节可查证，但非一线通讯社。"
-    },
-    {
-      "title": "视频丨男子屡次被打、被逼到割腕，缅北电诈集团手段残忍！画面曝光",
-      "link": "https://m.thepaper.cn/detail/34204672",
-      "pubDate": "Tue, 06 Oct 2026 04:23:45 GMT",
-      "contentSnippet": "由公安部和中央广播电视总台联合摄制的纪录片《缅北电诈覆灭纪实》于10月5日至7日，在央视综合频道18点档首播。纪录片全面展现了在党中央坚强领导下，我国公安机关会同有关部门开展打击缅北涉我犯罪专项工作，彻底铲除缅北“四大家族”等犯罪集团的艰苦历程和显著成就。\n\n诈骗集团每一套成熟的“收割”体系，都是精准对标被害人的话术包装，更暗藏着电信网络诈骗杀人不见血的残忍。\n\n广东省深圳市中级人民法院刑事审判第一庭法官 姜菁菁：从某种意义上来说，贷款诈骗的被害人本身就是生活陷入绝境，所以在没有办法的情况下，才想用贷款这样的方式去解决他生活当中的困境，诈骗分子利用他们急需周转的这种心理，把被害人不留后路地逼向",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "央视播出公安部联合摄制纪录片，揭露缅北电诈集团残忍手段。",
+      "aiSummary": "世界银行上调东亚和太平洋地区2026年经济增速预测至4.5%。",
       "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为澎湃新闻，引述央视纪录片及法官实名发言，内容具体可查证。"
+      "credibilityReason": "中新网为权威媒体，引用世界银行报告，数据具体可查证，但非一线通讯社。"
     },
     {
-      "title": "国庆半程答卷：“奔县”与“进馆”外，小城热背后的供给难题｜一周文旅扫描",
-      "link": "https://m.thepaper.cn/detail/34204634",
-      "pubDate": "Tue, 06 Oct 2026 04:19:42 GMT",
-      "contentSnippet": "2026年的中秋与国庆假期接续而至，双节叠加拼出最长13天连续假期，全国文旅市场迎来供需两旺的“超级黄金周”。国庆假期过半，中国文旅市场已交出一份结构性变化的半程答卷，“小城霸榜、文博升温”的双向热度，与此同时，四条高铁同日通车、红色地标客流井喷、机关食堂变身“平价餐厅”等热点，也彰显出文旅供给端正在主动拓宽边界、回应需求。当然，在热度之下，小城接待能力的结构性短板也随之显现。\n以下为2026年9月28日-10月4日全国重要文旅热点事件：\n国庆旅游呈现“奔县”与“进馆”趋势\n综合各旅游与出行平台数据，今年国庆假期文旅消费呈现“小城霸榜、文博升温”的双向热度，“奔县”与“进馆”成为最鲜明的两条并",
-      "sourceName": "澎湃新闻",
+      "title": "美报告披露最新对伊战损：损失81架军机，含12架F-15E战机",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-07/10708645.shtml",
+      "pubDate": "Wed, 7 Oct 2026 12:12:30 +0800",
+      "contentSnippet": "中新网10月7日电 综合报道，美国国会研究服务部最新发布的报告显示，自2月28日美国和以色列对伊朗发起军事打击以来，共有81架美军飞机受损或被毁。",
+      "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
-        "澎湃新闻"
+        "中国新闻网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "澎湃新闻盘点2026年国庆文旅市场，呈现小城热与文博热，但供给短板显现。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为知名权威媒体，内容具体含时间数据，但属综述性报道，部分信息需交叉验证。"
+      "aiSummary": "美报告称对伊军事行动中美军81架飞机受损或被毁，含12架F-15E。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "中国新闻网为正规媒体，引述美国国会报告，但报道简短，缺少直接引述与交叉验证。"
     },
     {
-      "title": "国庆返程高峰将至！山西高速在重点服务区临时增设“充电宝”",
-      "link": "https://m.thepaper.cn/detail/34204632",
-      "pubDate": "Tue, 06 Oct 2026 04:15:34 GMT",
-      "contentSnippet": "针对国庆假期返程充电集中、部分服务区易排队拥堵等问题，山西交控在多处高速服务区增设充电设施，投放移动充电车、移动储能方舱等应急设备，以提升高速快充补给能力。",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "山西高速在重点服务区增设移动充电设备应对国庆返程充电高峰。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为知名媒体，信息具体含时间地点措施，但缺少直接引述和官方来源交叉验证。"
-    },
-    {
-      "title": "返程高峰将至 今日铁路预计发送旅客2210万人次",
-      "link": "https://www.chinanews.com.cn/sh/2026/10-06/10708401.shtml",
-      "pubDate": "Tue, 6 Oct 2026 12:15:05 +0800",
-      "contentSnippet": "今天是国庆假期第六天，全国交通出行迎来返程客流。记者从交通运输部了解到，昨天(5日)，全社会跨区域人员流动量超3亿人次。今天全国铁路预计发送旅客2210万人次，计划加开列车2199列。",
+      "title": "南京大屠杀幸存者郭秀兰去世 登记在册的在世幸存者仅剩20位",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-07/10708643.shtml",
+      "pubDate": "Wed, 7 Oct 2026 12:10:20 +0800",
+      "contentSnippet": "据侵华日军南京大屠杀遇难同胞纪念馆消息，南京大屠杀幸存者郭秀兰于10月7日上午10时左右在家中离世，享年94岁。截至目前，登记在册在世的幸存者仅存20位。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -238,28 +187,79 @@
       ],
       "coverageCount": 2,
       "coverageBoost": 5,
-      "aiSummary": "国庆假期第六天，全国铁路预计发送旅客2210万人次，加开列车2199列。",
-      "credibilityScore": 93,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网和澎湃新闻，引用交通运输部数据，信息具体可查证。（多源覆盖 +5）"
-    },
-    {
-      "title": "泰山景区辟谣“泰山躲雨80元一小时”",
-      "link": "https://www.chinanews.com.cn/sh/2026/10-06/10708400.shtml",
-      "pubDate": "Tue, 6 Oct 2026 12:03:13 +0800",
-      "contentSnippet": "中新网10月6日电 据“泰山景区”微信公众号消息，泰山景区管委会10月6日发布辟谣通告称，近日，有个别自媒体账号拼凑网络视频等资料，发布“网友称泰山躲雨80元一小时”等虚假信息。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网",
-        "澎湃新闻"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "泰山景区管委会辟谣自媒体发布的“躲雨80元一小时”虚假信息。",
+      "aiSummary": "南京大屠杀幸存者郭秀兰去世，享年94岁，登记在册在世幸存者仅剩20位。",
       "credibilityScore": 97,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网和澎湃新闻，引用官方辟谣通告，事实明确可查证。（多源覆盖 +5）"
+      "credibilityReason": "来源为中新网和澎湃新闻，权威性高；信息具体，有纪念馆消息和明确时间地点人物，可交叉验证。（多源覆盖 +5）"
+    },
+    {
+      "title": "内蒙古锡林郭勒盟：“牛奶湖”全面排查整改，拆除清理临建设施",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-07/10708642.shtml",
+      "pubDate": "Wed, 7 Oct 2026 12:09:08 +0800",
+      "contentSnippet": "总台报道有反馈丨“牛奶湖”全面排查整改 拆除清理临建设施",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网",
+        "澎湃新闻"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "内蒙古锡林郭勒盟对“牛奶湖”开展全面排查整改，拆除清理临建设施。",
+      "credibilityScore": 87,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网和澎湃新闻，较权威；内容具体，但报道简短，缺少直接引述和细节。（多源覆盖 +5）"
+    },
+    {
+      "title": "“非洲手机之王”传音控股拟全球发售8664.83万股H股，预计10月15日在港交所挂牌上市",
+      "link": "https://m.thepaper.cn/detail/34207660",
+      "pubDate": "Wed, 07 Oct 2026 04:08:37 GMT",
+      "contentSnippet": "10月7日，被称为“非洲手机之王”的传音控股（02636.HK）公告称，公司拟全球发售8664.83万股H股(视乎超额配股权行使与否而定)。\n其中，香港公开发售中初步提呈发售866.49万股H股(可予重新分配)，占全球发售项下初步可供认购发售股份总数约10.0%；国际发售中初步提呈发售7798.34万股H股(可予重新分配及视乎超额配股权行使与否而定)，占全球发售项下初步可供认购发售股份总数约90.0%。\n公司将在10月7日至10月12日招股，预期定价日为10月13日；发售价将为每股发售股份35.3港元-38.8港元，每手买卖单位将为100股，中信证券为独家保荐人；预期H股将于10月15日开始于",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "传音控股公告拟全球发售8664.83万股H股，预计10月15日在港交所挂牌上市。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "澎湃新闻为知名媒体，内容含具体数据、时间、保荐人等可查证细节，来源较权威。"
+    },
+    {
+      "title": "江河100·夜上海｜活力街区：22点后好去处",
+      "link": "https://m.thepaper.cn/detail/34169905",
+      "pubDate": "Wed, 07 Oct 2026 04:08:23 GMT",
+      "contentSnippet": "当商场的卷帘门落下，上海的另一半生活刚开张。夜上海，不止到22点。继7个夜游街区之后，澎湃研究所继续推荐“一江一河”沿岸7个22点后好去处。\n这些散落在城市的不同坐标——虹口的百年弄堂、苏州河畔的老厂房与粮仓、静安的红砖石库门，或是普陀欧式穹顶下的商圈——它们互不相邻，也来历各异，有的由百年里弄修缮重生，有的在停产厂房里长出新的日常。\n白天，这里是写字楼、是展馆、是安静的街区，22点之后，又被一一点亮。它们并非孤立的夜游地点，以其为圆心、500米步行半径内，街巷、食肆、展馆、酒吧或小店彼此串联。不少地方彼此之间步行可达，连成一片可玩可乐的夜游街区。\n深夜，弄堂里脱口秀正到笑点，老厂房屋顶上有人",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "澎湃新闻推荐上海“一江一河”沿岸7个22点后夜游好去处，涵盖虹口、静安等街区。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "澎湃新闻为知名权威媒体，内容具体，属城市生活推荐报道，无争议性事实，可信度较高。"
+    },
+    {
+      "title": "我国将投入超5万亿元建设新型电网 这网新在哪儿？",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-07/10708639.shtml",
+      "pubDate": "Wed, 7 Oct 2026 12:05:32 +0800",
+      "contentSnippet": "“十五五”时期，我国将投入超过5万亿元建设新型电网，远超“十四五”时期的规模。这笔投资究竟要打造一张怎样的网？还要面对哪些难啃的硬骨头？",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国新闻网报道称“十五五”期间将投入超5万亿元建设新型电网，规模远超“十四五”。",
+      "credibilityScore": 78,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网较权威，数据具体，但缺乏直接引述和官方文件出处，细节待核实。"
     }
   ]
 }
