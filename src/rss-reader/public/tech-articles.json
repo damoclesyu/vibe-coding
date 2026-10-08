@@ -1,31 +1,50 @@
 {
-  "generatedAt": "2026-10-07T05:09:34.624Z",
+  "generatedAt": "2026-10-08T05:20:08.136Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "半年净利暴增96%，重回中国台湾首富宝座，郭台铭靠AI赚翻了",
-      "link": "https://www.tmtpost.com/8148632.html",
-      "pubDate": "Wed, 07 Oct 2026 12:36:16 +0800",
-      "contentSnippet": "郭台铭靠 AI重回中国台湾首富之位 。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "阿里巴巴蔡崇信：开源是欧洲发展 AI 的最佳选择",
+      "link": "https://www.ithome.com/1/010/451.htm",
+      "pubDate": "Thu, 08 Oct 2026 04:19:53 GMT",
+      "contentSnippet": "IT之家 10 月 8 日消息，据彭博社报道，阿里巴巴集团董事会主席蔡崇信认为，欧洲要在技术上摆脱对中美的依赖，最佳选择是开源 AI。他呼吁欧洲建设自己的算力基础设施，用于训练和运行 AI 模型。\n当地时间 7 日，蔡崇信在意大利都灵的 Wave by Vento 大会上指出：“没有哪个国家愿意完全依赖另一个国家的技术。一旦政府换届、形势发生变化，对方就能直接切断技术供应。欧洲必须认真投入算力基础设施建设，让模型能够运行，把模型训练和推理放在欧洲本地的基础设施上进行。”\n在他看来，中美的实验室争相招揽 AI 研究人员，可欧洲仍未充分发挥他们的作用。欧洲应把重点放在利用专有工业数据训练模型上，以",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "钛媒体"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "郭台铭旗下鸿海因AI业务净利暴增96%，重回台湾首富。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "钛媒体为知名科技媒体，但正文仅摘要，缺乏具体数据与原始出处，细节不足。"
+      "aiSummary": "蔡崇信称开源AI是欧洲摆脱中美技术依赖的最佳选择，呼吁建本地算力设施。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家引彭博社报道，有具体人物、时间、地点及直接引语，来源可靠，内容具体。"
     },
     {
-      "title": "储量全球第一，中国钨产量为何还在下降？",
-      "link": "https://www.tmtpost.com/8152246.html",
-      "pubDate": "Wed, 07 Oct 2026 12:36:11 +0800",
-      "contentSnippet": "全球钨供应链，正被中国政策重新定价。",
+      "title": "IT早报 1008：余承东称华为基本摆脱美国技术依赖；小米澎湃 OS4 全面兼容苹果生态；21988 元起微软 Surface Laptop Ultra 上架；2026 诺贝尔化学奖公布...",
+      "link": "https://www.ithome.com/1/010/361.htm",
+      "pubDate": "Wed, 07 Oct 2026 23:51:53 GMT",
+      "contentSnippet": "“IT早报”时间，大家好，现在是 2026 年 10 月 8 日星期四，今天的重要科技资讯有：\n1. 余承东称华为自 2019 年以来为生存克服了许多困难，基本摆脱美国技术依赖\n华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东在 9 月 29 日的国际媒体圆桌会议上透露，为了生存，华为自 2019 年以来克服了许多困难。他坦言，依靠这些芯片、鸿蒙操作系统，以及中国国内的供应链、材料和工艺制程，华为基本摆脱了对美国技术的依赖。>> 查看详情\n2. 小米官宣澎湃 OS 4 全面兼容苹果生态：重要信息双向同步、妙享桌面支持 Apple 三件套等\n小米澎湃 OS 官方微博 10 月 7",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家",
+        "少数派",
+        "Solidot"
+      ],
+      "coverageCount": 3,
+      "coverageBoost": 10,
+      "aiSummary": "IT早报汇总华为摆脱美国技术依赖、小米澎湃OS4兼容苹果生态等科技资讯",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家等知名科技媒体，内容具体但为早报汇编，缺少深度核实与原始出处（多源覆盖 +10）"
+    },
+    {
+      "title": "【钛晨报】推动体育赛事发展，国务院办公厅最新部署；SpaceX拟募资400亿美元采购英伟达芯片；中国央行连续第23个月增持黄金",
+      "link": "https://www.tmtpost.com/8160058.html",
+      "pubDate": "Thu, 08 Oct 2026 07:20:00 +0800",
+      "contentSnippet": "GLM-5.3上架Amazon，智谱打开海外收入分成通道；华为与高通宣布达成广泛专利许可协议；抖音7.5亿收购案终止；英伟达宣布将推出DGX SPARK 64GB，可在本地运行最高1000亿参数AI模型；软银完成对OpenAI追加投资最后一笔100亿美元，累计投资达646亿美元；国家税务总局发布全国统一的税务行政处罚裁量基准；中国推进7项天然气国际标准成功立项；财政部部长蓝佛安：要研究制定针对性强的增量政策，更加注重扩大国内有效需求；国庆假期后首个交易日，20只基金将集中开启认购；月之暗面据悉即将完成IPO前融资，估值将达500亿美元；Anthropic据悉计划在感恩节假期前进行大规模IPO；",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -33,16 +52,118 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体分析中国钨储量全球第一但产量下降及对全球供应链的影响",
+      "aiSummary": "钛媒体晨报汇总国务院体育部署、SpaceX募资、央行增持黄金等多条科技财经快讯",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体钛媒体，信息具体但多为摘要转述，缺少原始出处和深度核实"
+    },
+    {
+      "title": "投票：微软 Win11 系统 5 周年，你满意吗？",
+      "link": "https://www.ithome.com/1/010/459.htm",
+      "pubDate": "Thu, 08 Oct 2026 05:10:31 GMT",
+      "contentSnippet": "IT之家 10 月 8 日消息，微软于 2021 年 10 月 5 日发布 Windows 11 系统，距今已满 5 周年，全球用户规模突破 10 亿大关仅用 1,576 天，比 Windows 10 提前 130 天，时间缩短约 7.62%。\n随着 26H2 支持任务栏四边贴靠，持续优化开始菜单与右键菜单等体验，你对 Windows 11 的真实满意度如何？如果现在有一台新电脑，你会优先选择哪个系统？在“旧功能回归”清单里，你最在意哪一项？\ndocument.write(\"\");\ndocument.getElementById(\"vote2403\").innerHTML = voteStr;",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微软Win11发布满5周年，IT之家发起用户满意度投票并回顾其发展数据。",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体IT之家，含用户规模等具体数据，但属互动投票类内容，技术深度有限。"
+    },
+    {
+      "title": "国家能源局：国庆假期高速公路充电量达 1.63 亿千瓦时，日均同比增长 51.42%",
+      "link": "https://www.ithome.com/1/010/458.htm",
+      "pubDate": "Thu, 08 Oct 2026 04:59:14 GMT",
+      "contentSnippet": "IT之家 10 月 8 日消息，国家能源局今日发布的数据显示，今年国庆假期全国高速公路新能源汽车充电需求大幅增长。通过对纳入国家充电设施监测服务平台的 6.27 万个高速公路充电设施（枪）进行统计分析，自 10 月 1 日 0 时至 10 月 7 日 24 时，我国高速公路新能源汽车充电次数共计 671.10 万次，充电量达到 1.63 亿千瓦时，日均充电量 2325.66 万千瓦时，日均充电量同比增长 51.42%。\n假期首日即创下历史纪录。据国家能源局公告，“十一”国庆假期首日，全国高速公路充电量达到 2804.69 万千瓦时，较去年“十一”国庆假期首日增长 60.40%，创历史节假日单日",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国家能源局数据显示国庆假期高速公路充电量达1.63亿千瓦时，日均同比增长51.42%。",
+      "credibilityScore": 95,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源权威（国家能源局官方数据），信息详实含具体统计口径和数字，IT之家为知名科技媒体。"
+    },
+    {
+      "title": "Manus 母公司蝴蝶效应宣布完成超 5 亿美元新一轮融资，腾讯、红杉中国等继续加持",
+      "link": "https://www.ithome.com/1/010/457.htm",
+      "pubDate": "Thu, 08 Oct 2026 04:50:26 GMT",
+      "contentSnippet": "IT之家 10 月 8 日消息，Manus 母公司蝴蝶效应今日宣布完成超过 5 亿美元（IT之家注：现汇率约合 33.56 亿元人民币）新一轮融资。\n本轮融资由博裕投资、IDG 资本领投，老股东腾讯、红杉中国、真格基金继续加持。\n\n2025 年 3 月，蝴蝶效应公司推出 Manus，曾在市场一夜爆火。然而，当年 6 月，Manus 企业总部迁至新加坡，大幅裁减国内团队，彻底停止中国境内服务与运营。作为一家依靠中国工程师和基础设施环境发展起来的 AI 公司，Manus 在获得美国投资后突然与中国元素进行“切割”，引发争议。\n据IT之家今年 4 月报道，外商投资安全审查工作机制办公室（国家发展改革",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "Manus母公司蝴蝶效应完成超5亿美元融资，腾讯红杉等老股东继续加持。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，融资细节具体，有明确投资方及背景信息，但缺少官方公告链接。"
+    },
+    {
+      "title": "市场监管总局加严灯具、镇流器等产品 CCC 认证要求",
+      "link": "https://www.ithome.com/1/010/456.htm",
+      "pubDate": "Thu, 08 Oct 2026 04:41:24 GMT",
+      "contentSnippet": "IT之家 10 月 8 日消息，为严格强制性产品认证（CCC 认证）监管，强化源头治理，切实保障人民群众生命财产安全，市场监管总局（国家认监委）今日发布《关于发布灯具、镇流器强制性产品认证实施规则的公告》（以下简称《公告》），以更细要求、更严举措规范认证实施，筑牢产品质量安全底线。\n新版规则优化灯具的认证模式，分别对通用灯具、大型灯具、单批次定制灯具确定 3 种不同的认证模式，进一步增强针对性，便利不同类型认证需求。\n《公告》对新版规则过渡期进行明确，规定自 2027 年 1 月 1 日起，应当按照新版规则开展 CCC 认证活动，已经颁发的有效 CCC 认证证书可继续使用。新版规则的实施，将进",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "市场监管总局发布灯具、镇流器CCC认证新规，2027年起实施",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，内容引用官方公告，信息具体，来源明确"
+    },
+    {
+      "title": "“卖出去也不赚钱”：消息称三星手机 2026Q4 最高减产 30%",
+      "link": "https://www.ithome.com/1/010/454.htm",
+      "pubDate": "Thu, 08 Oct 2026 04:37:47 GMT",
+      "contentSnippet": "IT之家 10 月 8 日消息，Money Today 今天（10 月 8 日）发布博文，报道称三星电子移动体验（MX）部门已计划智能手机减产计划，预估 2026 年第四季度产量最高降幅达到 30%，标题还称三星手机“即便卖出去，也不赚钱”。\n\nIT之家注：原文中并未明确指出这 30% 是如何对比得出的，可能是环比、同比，或者是此前预期产量对比。\n多家 IT 行业知情人士收到风声，称三星 MX 部门已通知多家合作伙伴，要求将产品供应量减少 20% 至 30%。\n产量方面，主要依托 Galaxy Z Fold8 等新产品推动，三星电子原计划全年生产高达 2.7 亿部智能手机。但随着第四季度产量大",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "三星MX部门计划2026年Q4手机减产最高30%，因卖出去也不赚钱。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "IT之家编译韩媒报道，有具体减产比例和产量数据，但原始出处模糊，减产对比基准未明确。"
+    },
+    {
+      "title": "比亚迪公布第三代唐内饰：设计灵感来自“宇宙飞船控制台”",
+      "link": "https://www.ithome.com/1/010/453.htm",
+      "pubDate": "Thu, 08 Oct 2026 04:31:01 GMT",
+      "contentSnippet": "IT之家 10 月 8 日消息，今天（8 日）午间，比亚迪王朝网销售事业部总经理路天在微博公布了第三代唐车型的内饰。\n据其介绍，新车内饰设计灵感源自科幻片里的宇宙飞船控制台，极具未来感。作为一款 8 系大五座科技旗舰 SUV，它的空间也很百变，适配不同人群的出行需求。\n\n新车的内饰提供两套配色：沙丘米、琥珀棕，分别拥有“温润松弛”和“醇厚沉稳”的质感。\n\n\n新车是王朝 8 系旗舰之作，搭载行业集成度最高的一体贯穿式大灯，超 1000mm 同级最长二排腿部空间，二排座椅仰角 130°，比飞机商务舱多 10°。该车全球首发星际双屏，包括 35.4 英寸一体远端星环屏 +30 英寸全景巨幕屏，取代了",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "比亚迪公布第三代唐内饰，灵感源自宇宙飞船控制台，配双大屏。",
       "credibilityScore": 78,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体钛媒体，选题专业具体，但摘要信息较简略，缺少数据细节支撑"
+      "credibilityReason": "来源为知名科技媒体IT之家，引述比亚迪高管微博，信息具体但缺乏独立验证。"
     },
     {
-      "title": "办了 118 年的美国罗切斯特车展宣布停办",
-      "link": "https://www.ithome.com/1/010/190.htm",
-      "pubDate": "Wed, 07 Oct 2026 04:58:49 GMT",
-      "contentSnippet": "IT之家 10 月 7 日消息，美国罗切斯特车展官方 10 月 2 日发布公告，在举办 118 年后，车展现已宣布停办。\n\n罗切斯特车展最早可以追溯到 1908 年，主办方罗切斯特汽车经销商协会表示，举办该展会已不再经济可行。\n\nIT之家获悉，罗切斯特车展在每年的晚冬时节举办，展示最新的卡车和小汽车。每年冬天，都有不少纽约人都会冒着大雪去看看最新的产品。\n然而，车展观众人数近几年大幅下降，再未恢复，尤其是过去 4 年的观众数量低于之前的水平。主办方表示，结束车展的决定“非常艰难”。然而，他们必须考虑市场环境的变化以及举办活动的经济效益。主办方还指出，“消费者有很多选择来获取下一次购车的信息”，",
+      "title": "ACEMAGIC F9A 迷你工作站 PRO 495 + 192GB + 2TB 款上市，首发价 49998 元",
+      "link": "https://www.ithome.com/1/010/452.htm",
+      "pubDate": "Thu, 08 Oct 2026 04:26:36 GMT",
+      "contentSnippet": "IT之家 10 月 8 日消息，ACEMAGIC（阿迈奇）现已在国内电商平台上架 F9A 迷你主机工作站的 AMD 锐龙 AI Max+ PRO 495 处理器搭配 192GB 内存、2TB 存储配置。该款式标价 50,999 元，新品首发特惠价 49,998 元。\n\nF9A PRO 495 可将 160GB 统一内存配置为显存，支持 300B 参数 LLM 本地运行。其拥有一体成型铝制机身，三维 158.5 × 158.5 × 81.5 (mm)，体积约为 2L，内置 5 热管散热系统，支持 140W 峰值性能 / 120W 稳定性能，质量约 1.6kg。\n其拥有 2 个 M.2 (PCIe",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -50,50 +171,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "美国罗切斯特车展在举办118年后宣布停办，因观众人数下降、经济不可行。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道有具体时间、主办方声明和原因，信息详实，但缺少原始公告链接。"
-    },
-    {
-      "title": "微软 XBOX 高管澄清：《GTA 6》并无首发独占云游戏协议",
-      "link": "https://www.ithome.com/1/010/189.htm",
-      "pubDate": "Wed, 07 Oct 2026 04:54:33 GMT",
-      "contentSnippet": "IT之家 10 月 7 日消息，此前有报道称 XBOX 已经拿下 Rockstar《GTA 6》的云串流独占权益，微软一位游戏业务高层已经对该说法予以否认。\n\n这篇最初由 The Verge 发布的报道声称，XBOX 达成了一项协议：游戏首发阶段仅有 XBOX 云游戏可以提供《GTA 6》的云端串流服务。由于 Rockstar 当时尚未官宣 PC 原生版本，倘若属实，这或许就为 PC 玩家提供了一条无需购置主机即可游玩本作的途径。但现在看来事情并非如此。\nIT之家注意到，XBOX 首席战略官马修 · 鲍尔（Matthew Ball）在 X 平台发帖回应这则新闻。他表示，围绕《GTA 6》与 X",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "微软高管否认XBOX获得《GTA 6》云游戏首发独占协议，澄清此前报道不实。",
+      "aiSummary": "ACEMAGIC F9A迷你工作站上市，搭载锐龙AI Max+ PRO 495及192GB内存，首发价49998元。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家编译报道，引述The Verge原始报道及微软高管X平台直接回应，信息链条清晰，但正文略有截断。"
+      "credibilityReason": "IT之家为知名科技媒体，产品参数、价格、尺寸等细节具体，但缺少官方原始出处链接。"
     },
     {
-      "title": "CounterPoint 报告 2026Q2 欧洲运营商渠道手机销量：苹果超三星荣登榜首，vivo 增速 90% 最快",
-      "link": "https://www.ithome.com/1/010/188.htm",
-      "pubDate": "Wed, 07 Oct 2026 04:40:34 GMT",
-      "contentSnippet": "IT之家 10 月 7 日消息，市场调查机构 CounterPoint Research 今天（10 月 7 日）发布博文，报告称 2026 年第二季度欧洲智能手机总销量同比下降 8%，其中运营商渠道销量同比仅降 4%，自由市场智能手机销量则下降了 11%。\n该机构认为运营商渠道因合约机占比高、高端机型集中，受内存成本上涨冲击较小，此外高端品牌在运营商渠道的销售韧性更强。\n在品牌格局方面，从市场份额来看，苹果与三星仍占据主导地位，苹果（37%）在 2026 年 Q2 超越三星（34%），成为欧洲运营商渠道市场份额第一品牌。IT之家附上相关图片如下：\n\n从增幅来看，vivo 在运营商渠道销量同比",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "CounterPoint报告显示2026Q2欧洲运营商渠道苹果超三星登顶，vivo增速90%最快",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家引述权威机构CounterPoint数据，含具体份额与增速，来源可溯，但正文摘要不完整"
-    },
-    {
-      "title": "网球机器人火了，但好生意要从“有效付费小时”算起",
-      "link": "https://www.tmtpost.com/8160190.html",
-      "pubDate": "Wed, 07 Oct 2026 12:35:37 +0800",
-      "contentSnippet": "网球人口增长、陪练稀缺、资本加码，网球机器人迎来机会。但出货量只能证明有人买，有效付费小时才检验生意能否持续。",
+      "title": "一次同意，二十一次缺席",
+      "link": "https://www.tmtpost.com/8160632.html",
+      "pubDate": "Thu, 08 Oct 2026 12:17:40 +0800",
+      "contentSnippet": "一次点击同意，带来了二十一个月的自动扣款。授权仍在生效，人的注意力却早已离开。文章从自动续费出发，结合人脸识别误判与医疗AI研究，讨论为何保留人工审核，并不等于保留独立判断，以及如何通过清晰的授权边界、有效提醒和纠错退出机制，让人能在自动运行的流程中重新介入。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -101,16 +188,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体分析网球机器人市场，指出有效付费小时比出货量更能检验商业模式可持续性。",
+      "aiSummary": "钛媒体从自动续费切入，探讨AI流程中人工审核与独立判断的边界问题。",
       "credibilityScore": 78,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，视角专业有行业洞察，但正文摘要较简略，缺少具体数据支撑。"
+      "credibilityLevel": "medium",
+      "credibilityReason": "知名科技媒体，选题具体有深度，但偏评论性文章，缺少一手数据与原始出处。"
     },
     {
-      "title": "OpenRouter，美版硅基流动的流水单  ——三张榜，一个正在贬值的信用",
-      "link": "https://www.tmtpost.com/8160102.html",
-      "pubDate": "Wed, 07 Oct 2026 12:35:27 +0800",
-      "contentSnippet": "太空兔匿名免费冲上OpenRouter周榜，一度压过DeepSeek和GLM，那13.9万亿Token证明的是获客不是实力。更深的问题是度量衡所有权：中国模型烧掉六成Token，却只换回平台营收的小头，连做广告都在替别人的裁判席抬轿。定价权、情报权、准入权三权旁落，厂商借榜营销成了囚徒困境。出路不在屠榜，在造秤。",
+      "title": "都在等罗永浩翻车",
+      "link": "https://www.tmtpost.com/8160670.html",
+      "pubDate": "Thu, 08 Oct 2026 12:17:38 +0800",
+      "contentSnippet": "替别人说话很痛快，保留自己的判断，更难。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -118,16 +205,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体分析OpenRouter榜单信用贬值，指中国模型消耗六成Token却收益微薄，呼吁自建评价体系。",
+      "aiSummary": "钛媒体评论罗永浩舆论处境，探讨替人发声与保留独立判断的难度。",
+      "credibilityScore": 62,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体，但内容为观点评论，缺乏具体事实与数据支撑。"
+    },
+    {
+      "title": "零食加速向「新鲜」进化，但真正的门槛不是开店",
+      "link": "https://www.tmtpost.com/8160876.html",
+      "pubDate": "Thu, 08 Oct 2026 12:17:31 +0800",
+      "contentSnippet": "市场喧嚣，真正变量在谁先拿到可持续盈利的账本里。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体分析零食行业向新鲜化转型，指出可持续盈利才是真正门槛。",
       "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "钛媒体为知名科技媒体，观点有数据支撑，但含主观评论色彩，缺乏原始出处引用。"
+      "credibilityReason": "知名科技媒体，观点清晰，但摘要缺乏具体数据与原始出处，信息较简略。"
     },
     {
-      "title": "“AI 教父”辛顿提议 AI 行业建立 FDA 式审批机制：模型推出前需通过安全审核",
-      "link": "https://www.ithome.com/1/010/187.htm",
-      "pubDate": "Wed, 07 Oct 2026 04:32:57 GMT",
-      "contentSnippet": "IT之家 10 月 7 日消息，杰弗里 · 辛顿（Geoffrey Hinton）希望 AI 企业跨过一道制药行业早已熟悉的监管门槛。\n\n在当地时间周二播出的《Smart Girl Dumb Questions》播客节目当中，这位被称作“AI 教父”的诺贝尔奖得主、计算机科学家提出建议：AI 公司在产品正式发布之前，必须先向监管机构证明自身产品具备安全性。\n“你不能直接研制一款新药就把它推向市场。”辛顿对播客主持人纳伊玛 · 拉扎（Nayeema Raza）说道，“你必须说服美国食品药品监督管理局（FDA）。而为了完成这件事，你需要开展大量工作，相关投入大约要十亿美元级别。”\n“对于人工智能而",
+      "title": "华为余承东亲自为霍英东集团总裁霍震寰交付尊界 V800，名人车主阵容再扩容",
+      "link": "https://www.ithome.com/1/010/450.htm",
+      "pubDate": "Thu, 08 Oct 2026 04:17:08 GMT",
+      "contentSnippet": "IT之家 10 月 8 日消息，华为常务董事、终端 BG 董事长余承东于国庆假期期间亲自完成了一次交车，将一台鸿蒙智行尊界 V800 交付给霍英东集团行政总裁霍震寰，现场二人一同竖起大拇指。公开资料显示，霍震寰为霍英东次子，长期执掌霍英东集团。\n\n这并非余承东首次亲自为名人车主交车。据IT之家此前报道，功夫巨星李连杰成为尊界 S800 第一万台车主，由余承东与江汽集团董事长项兴初联合交车；影后刘嘉玲作为尊界 S800 典藏大观全国首批车主，同样由余承东亲自交付。\n\n本次交付的尊界 V800 是鸿蒙智行与江淮汽车联合打造的百万级超豪华 MPV，于 2026 年 8 月 5 日正式上市。新车推出尊",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -135,16 +239,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "辛顿提议AI行业建立FDA式审批机制，模型发布前需通过安全审核",
+      "aiSummary": "余承东国庆期间亲自向霍震寰交付尊界V800，名人车主阵容再扩容。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引述辛顿播客原话，信息具体，但缺少原始播客链接"
+      "credibilityReason": "IT之家为知名科技媒体，信息具体含人物、车型、时间，但缺乏官方直接引用。"
     },
     {
-      "title": "日本旭化成医药部门网站遭遇网络攻击，最多 55.87 万人信息可能泄露",
-      "link": "https://www.ithome.com/1/010/185.htm",
-      "pubDate": "Wed, 07 Oct 2026 04:31:54 GMT",
-      "contentSnippet": "IT之家 10 月 7 日消息，日本旭化成集团的制药子公司 Asahi Kasei Therapeutics 于 10 月 6 日披露，其医疗专业网站“Pharma DIGITAL”遭到网络攻击，可能泄露约 558,700 人的个人信息。\n可能泄露的具体数据包括大约 514,000 名医疗专业人的姓名、关联机构和部门，以及约 44,000 人的电子邮件地址，还涉及旭化成子公司约 700 名员工。\n\n未经授权访问的目标是“Pharma DIGITAL”，这是一个面向医疗专业人员的网站，用于发布药品信息及相关材料。该网站的数据库成为被攻击的重点。\nAsahi Kasei Therapeutics",
+      "title": "国产动作肉鸽游戏续作《霓虹深渊 2》发售，Steam 首发 46.40 元",
+      "link": "https://www.ithome.com/1/010/449.htm",
+      "pubDate": "Thu, 08 Oct 2026 04:13:08 GMT",
+      "contentSnippet": "IT之家 10 月 8 日消息，经典动作 Roguelike 续作《霓虹深渊 2》今日正式发售，同步登陆 Steam、PS5、Xbox Series X|S、微软商店及任天堂 Switch 平台（系列首次登陆 PS5 和 Switch），首发加入 XGP，支持中文；手游同日在 TapTap 开启公测。\n本作由 Veewo Games 开发并联合 Kepler Ghost 发行，Steam 国区原价 58 元，首发特惠 46.40 元。手游采用免费下载、付费解锁的买断制，与 PC 端内容同步更新。本作支持简体中文界面、字幕与完整音频，最多支持 4 人在线联机游玩。\nIT之家附游戏商品页（http",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -152,112 +256,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "日本旭化成制药子公司网站遭网络攻击，约55.87万人信息或泄露",
-      "credibilityScore": 85,
+      "aiSummary": "国产动作肉鸽续作《霓虹深渊2》多平台发售，Steam首发46.4元",
+      "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息含具体数据、时间及官方披露来源，内容客观详实"
-    },
-    {
-      "title": "本月开业，孩之宝将在苏州开设中国第 3 家小猪佩奇主题亲子游乐咖啡厅",
-      "link": "https://www.ithome.com/1/010/184.htm",
-      "pubDate": "Wed, 07 Oct 2026 04:23:51 GMT",
-      "contentSnippet": "IT之家 10 月 7 日消息，科技媒体 variety 昨日（10 月 6 日）发布博文，报道称孩之宝（Hasbro）本月（2026 年 10 月）在中国苏州开设第 3 家小猪佩奇（Peppa Pig）主题亲子游乐咖啡厅。\nIT之家查询公开资料，前两家分别位于杭州和成都。杭州首店于 2022 年开业，面积约 1,100 平方米，设置了土豆城市、森林区、猪爷爷的蔬菜花园、火车区和派对屋等动画场景；成都店则于 2023 年开业，面积约 1,300 平方米。\n消息称 10 月开业的苏州店将延续“主题餐饮＋互动游乐＋角色见面”的模式，主要面向学龄前儿童及亲子家庭，将提供小猪佩奇主题食品、游乐设施及现",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "孩之宝本月将在苏州开设中国第三家小猪佩奇主题亲子游乐咖啡厅。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家援引variety报道，含具体时间、门店数量及面积等细节，来源较可靠。"
-    },
-    {
-      "title": "漫威 Comet 游戏预告曝光：蜘蛛侠、金刚狼等可玩，玩法接近《原神》",
-      "link": "https://www.ithome.com/1/010/183.htm",
-      "pubDate": "Wed, 07 Oct 2026 04:14:08 GMT",
-      "contentSnippet": "IT之家 10 月 7 日消息，游戏媒体 80.lv 昨日（10 月 6 日）发布博文，报道称漫威新游《Project Comet》预告片曝光，显示该作由 Scopely 开发，定位为免费开放世界动作 RPG。\n该视频由 @热血懒羊羊 上传到 B 站，IT之家发稿前发现相关视频已不再公开显示，不过该视频已在 B 站和海外平台扩散。在预告片中，该游戏的核心标签涵盖免费游玩（Free to Play）、开放世界（Open World）、动作角色扮演（Action RPG）、PC 与手机跨平台（Cross Play）。\n\n视频画面中出现蜘蛛侠（Spider-Man）、金刚狼（Wolverine）、奇",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "漫威新游《Project Comet》预告曝光，Scopely开发，免费开放世界动作RPG。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "IT之家转载80.lv，有具体细节但原始视频已下架，缺乏官方确认。"
-    },
-    {
-      "title": "失眠组听劝：《漫威金刚狼》气味轨迹等指引现已支持关闭",
-      "link": "https://www.ithome.com/1/010/182.htm",
-      "pubDate": "Wed, 07 Oct 2026 04:12:56 GMT",
-      "contentSnippet": "IT之家 10 月 7 日消息，在《漫威金刚狼》的最新补丁当中，失眠组（Insomniac）终于上线了玩家期盼已久的选项：玩家可以自行选择是否显示游戏里的气味轨迹；该功能被设置为可开关的“提示”选项，并绑定到手柄按键上。\n\nIT之家注意到，这次更新于 10 月 6 日正式推送。此前数月一直有玩家提出批评，认为气味轨迹的指引过于保姆化，剥夺了玩家自主探索的空间。\n失眠组在 X（原推特）上说明，将气味轨迹改为可关闭选项，直接源自社区反馈。现在玩家可以通过提示按键开启或者关闭气味轨迹；PS5 手柄上默认绑定为 R3 按键。\n除此之外，音频提示标识、梦魇树根这类指引效果同样支持开关控制，让玩家可以自行",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "失眠组为《漫威金刚狼》更新补丁，新增气味轨迹等指引可关闭选项。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容具体含补丁时间、按键绑定及官方回应，但缺少原始链接。"
-    },
-    {
-      "title": "全球内存短缺缩影：GameStop 二手索尼 PS5 Pro 比新机溢价 55.56%",
-      "link": "https://www.ithome.com/1/010/181.htm",
-      "pubDate": "Wed, 07 Oct 2026 03:53:45 GMT",
-      "contentSnippet": "IT之家 10 月 7 日消息，科技媒体 Tom's Hardware 昨日（10 月 6 日）发布博文，报道称 GameStop 二手索尼 PS5 Pro 标价 1,399.99 美元（IT之家注：现汇率约合 9,397 元人民币），比新机官方推荐零售价（899.99 美元（现汇率约合 6,041 元人民币））高 500 美元（现汇率约合 3,356 元人民币），溢价 55.56%。\nIT之家附上相关截图如下：\n\n网友 u/dicklicker69_- 昨日在 Reddit 社区发帖，自称是门店员工（社区版主已确认发帖者身份），分享了一张 GameStop 的产品定价表格，文件称“二手主机价",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "GameStop二手PS5 Pro标价1399.99美元，比新机溢价55.56%，反映全球内存短缺。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家编译Tom's Hardware，有具体价格数据和Reddit原始截图，但二手溢价归因内存短缺缺乏直接证据。"
-    },
-    {
-      "title": "内存持续短缺之际，AMD CEO 苏姿丰将与三星芯片部门负责人会面",
-      "link": "https://www.ithome.com/1/010/180.htm",
-      "pubDate": "Wed, 07 Oct 2026 03:41:15 GMT",
-      "contentSnippet": "IT之家 10 月 7 日消息，据彭博社报道，消息人士透露，AMD 首席执行官苏姿丰（Lisa Su）计划于周三与三星电子半导体业务负责人举行会晤，这是人工智能行业两位关键人物又一次面对面会谈。\n\n知情人士称，苏姿丰在访问韩国期间，将会见负责三星核心芯片部门的副董事长全永铉（Jun Young‑hyun）。\n当前各类存储产品普遍紧缺，给全球电子行业带来压力，也制约着 AI 基础设施与服务的扩张。存储芯片价格持续飙升，已经成为数据中心运营商最主要的成本项之一。早在今年 3 月，AMD 就已经和三星达成供货协议，合作方向包含新一代高带宽内存（HBM）以及先进存储芯片。\n这是七个月之内苏姿丰第二次到",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "AMD CEO苏姿丰将会晤三星芯片负责人，商讨存储芯片短缺与HBM合作。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家援引彭博社消息，信息具体，涉及HBM合作与存储短缺背景，但依赖匿名消息源。"
-    },
-    {
-      "title": "微软 Surface Laptop Ultra 笔记本规格曝光：最高 128GB 内存，面向 AI 开发和内容创作",
-      "link": "https://www.ithome.com/1/010/178.htm",
-      "pubDate": "Wed, 07 Oct 2026 03:30:02 GMT",
-      "contentSnippet": "IT之家 10 月 7 日消息，科技媒体 Windows Central 昨日（10 月 6 日）发布博文，分享了微软 Surface Laptop Ultra 笔记本的 2 种规格配置，包含 18 核和 20 核心 RTX Spark 方案，目前尚不清楚具体售价信息。\nIT之家援引博文内容，附上相关规格信息如下：\n\n项目规格\n平台／芯片NVIDIA RTX Spark Superchip，集成 NVIDIA Grace CPU 与 Blackwell RTX GPU，原生支持 CUDA。\n处理器选项18 核 CPU，搭配 5120 核 GPU；20 核 CPU，搭配 6144 核 GPU。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "微软Surface Laptop Ultra规格曝光，搭载NVIDIA RTX Spark芯片，最高128GB内存，面向AI开发。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "IT之家援引Windows Central，规格具体但无官方确认，售价未知，属传闻阶段。"
+      "credibilityReason": "IT之家为知名科技媒体，信息具体含价格、平台、开发商等细节，有商品页出处"
     }
   ]
 }
