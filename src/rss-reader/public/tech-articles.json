@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-08T05:20:08.136Z",
+  "generatedAt": "2026-10-09T05:23:15.611Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "阿里巴巴蔡崇信：开源是欧洲发展 AI 的最佳选择",
-      "link": "https://www.ithome.com/1/010/451.htm",
-      "pubDate": "Thu, 08 Oct 2026 04:19:53 GMT",
-      "contentSnippet": "IT之家 10 月 8 日消息，据彭博社报道，阿里巴巴集团董事会主席蔡崇信认为，欧洲要在技术上摆脱对中美的依赖，最佳选择是开源 AI。他呼吁欧洲建设自己的算力基础设施，用于训练和运行 AI 模型。\n当地时间 7 日，蔡崇信在意大利都灵的 Wave by Vento 大会上指出：“没有哪个国家愿意完全依赖另一个国家的技术。一旦政府换届、形势发生变化，对方就能直接切断技术供应。欧洲必须认真投入算力基础设施建设，让模型能够运行，把模型训练和推理放在欧洲本地的基础设施上进行。”\n在他看来，中美的实验室争相招揽 AI 研究人员，可欧洲仍未充分发挥他们的作用。欧洲应把重点放在利用专有工业数据训练模型上，以",
+      "title": "国家邮政局：我国建成世界受益人数最多寄递网络，年人均快递使用量超 140 件",
+      "link": "https://www.ithome.com/1/010/827.htm",
+      "pubDate": "Fri, 09 Oct 2026 02:23:39 GMT",
+      "contentSnippet": "IT之家 10 月 9 日消息，据央视新闻报道，今天（9 日）是第 57 届世界邮政日。今年邮政日的主题是“完善邮政服务网络，开拓行业无限可能”。国家邮政局数据显示，我国已建成世界上规模最大、覆盖最广、受益人数最多的寄递网络，年人均快递使用量超 140 件。\n我国持续拓展网络覆盖，京津冀、长三角、粤港澳大湾区、成渝地区、中部城市群等枢纽集群基本成型。依托“枢纽 + 通道 + 网络”，每秒超 6300 件、日均 5.4 亿件包裹进入寄递渠道，年人均快递使用量超过 140 件，快递服务全程平均时限和公众满意度持续提升。\n除此之外，我国中西部 17 个试点县 2939 个建制村通过邮政兜底实现“快递",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,103 +16,50 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "蔡崇信称开源AI是欧洲摆脱中美技术依赖的最佳选择，呼吁建本地算力设施。",
-      "credibilityScore": 85,
+      "aiSummary": "国家邮政局称我国建成世界最大寄递网络，年人均快递使用量超140件。",
+      "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家引彭博社报道，有具体人物、时间、地点及直接引语，来源可靠，内容具体。"
+      "credibilityReason": "来源为IT之家转引央视新闻及国家邮政局官方数据，信息具体含多项量化指标，权威性较高。"
     },
     {
-      "title": "IT早报 1008：余承东称华为基本摆脱美国技术依赖；小米澎湃 OS4 全面兼容苹果生态；21988 元起微软 Surface Laptop Ultra 上架；2026 诺贝尔化学奖公布...",
-      "link": "https://www.ithome.com/1/010/361.htm",
-      "pubDate": "Wed, 07 Oct 2026 23:51:53 GMT",
-      "contentSnippet": "“IT早报”时间，大家好，现在是 2026 年 10 月 8 日星期四，今天的重要科技资讯有：\n1. 余承东称华为自 2019 年以来为生存克服了许多困难，基本摆脱美国技术依赖\n华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东在 9 月 29 日的国际媒体圆桌会议上透露，为了生存，华为自 2019 年以来克服了许多困难。他坦言，依靠这些芯片、鸿蒙操作系统，以及中国国内的供应链、材料和工艺制程，华为基本摆脱了对美国技术的依赖。>> 查看详情\n2. 小米官宣澎湃 OS 4 全面兼容苹果生态：重要信息双向同步、妙享桌面支持 Apple 三件套等\n小米澎湃 OS 官方微博 10 月 7",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "2万亿美元估值靠什么撑？Anthropic 核心技术负责人：蒸馏会毁掉前沿研发，中美 AI 竞赛不会单边暂停",
+      "link": "https://www.infoq.cn/article/dS754RhjExrwFP6tWD9d?utm_source=rss&utm_medium=article",
+      "pubDate": "Thu, 08 Oct 2026 14:10:29 GMT",
+      "contentSnippet": "点击查看原文>",
+      "sourceName": "InfoQ中文",
+      "sourceWeight": 78,
       "allSources": [
-        "IT之家",
-        "少数派",
+        "InfoQ中文"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "Anthropic技术负责人谈2万亿估值支撑、蒸馏技术风险及中美AI竞赛走向",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "InfoQ为知名技术媒体，主题专业，但正文仅摘要无实质内容，缺少数据与原始出处"
+    },
+    {
+      "title": "世界各地的民调认为社交媒体伤害民主",
+      "link": "https://www.solidot.org/story?sid=85547",
+      "pubDate": "Thu, 08 Oct 2026 16:31:44 +0800",
+      "contentSnippet": "皮尤研究中心对 37 国民众展开的调查显示，世界各地民众认为社交媒体伤害民主的比例过去几年在上升。其中美国民众对社媒的看法尤其负面，64% 的成年人认为它对民主有害。其它国家在认识到社交媒弊端方面正赶上美国。美国等富裕国家的民众倾向于认为社媒在伤害民主。在受访国家中，认为社媒对民主产生负面影响的人数比例达到或超过半数的七个国家同时也都是最富裕的国家：澳大利亚、加拿大、法国、德国、荷兰、英国和美国。以色列和新加坡是例外——这两个高收入国家认为社媒不利于民主的人数相对较少。GDP 较低国家民众对社媒的看法不那么负面。加纳、肯尼亚、尼日利亚、菲律宾和泰国约有四分之三或更多受访者认为社媒对民主有益。",
+      "sourceName": "Solidot",
+      "sourceWeight": 75,
+      "allSources": [
         "Solidot"
       ],
-      "coverageCount": 3,
-      "coverageBoost": 10,
-      "aiSummary": "IT早报汇总华为摆脱美国技术依赖、小米澎湃OS4兼容苹果生态等科技资讯",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家等知名科技媒体，内容具体但为早报汇编，缺少深度核实与原始出处（多源覆盖 +10）"
-    },
-    {
-      "title": "【钛晨报】推动体育赛事发展，国务院办公厅最新部署；SpaceX拟募资400亿美元采购英伟达芯片；中国央行连续第23个月增持黄金",
-      "link": "https://www.tmtpost.com/8160058.html",
-      "pubDate": "Thu, 08 Oct 2026 07:20:00 +0800",
-      "contentSnippet": "GLM-5.3上架Amazon，智谱打开海外收入分成通道；华为与高通宣布达成广泛专利许可协议；抖音7.5亿收购案终止；英伟达宣布将推出DGX SPARK 64GB，可在本地运行最高1000亿参数AI模型；软银完成对OpenAI追加投资最后一笔100亿美元，累计投资达646亿美元；国家税务总局发布全国统一的税务行政处罚裁量基准；中国推进7项天然气国际标准成功立项；财政部部长蓝佛安：要研究制定针对性强的增量政策，更加注重扩大国内有效需求；国庆假期后首个交易日，20只基金将集中开启认购；月之暗面据悉即将完成IPO前融资，估值将达500亿美元；Anthropic据悉计划在感恩节假期前进行大规模IPO；",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体晨报汇总国务院体育部署、SpaceX募资、央行增持黄金等多条科技财经快讯",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，信息具体但多为摘要转述，缺少原始出处和深度核实"
-    },
-    {
-      "title": "投票：微软 Win11 系统 5 周年，你满意吗？",
-      "link": "https://www.ithome.com/1/010/459.htm",
-      "pubDate": "Thu, 08 Oct 2026 05:10:31 GMT",
-      "contentSnippet": "IT之家 10 月 8 日消息，微软于 2021 年 10 月 5 日发布 Windows 11 系统，距今已满 5 周年，全球用户规模突破 10 亿大关仅用 1,576 天，比 Windows 10 提前 130 天，时间缩短约 7.62%。\n随着 26H2 支持任务栏四边贴靠，持续优化开始菜单与右键菜单等体验，你对 Windows 11 的真实满意度如何？如果现在有一台新电脑，你会优先选择哪个系统？在“旧功能回归”清单里，你最在意哪一项？\ndocument.write(\"\");\ndocument.getElementById(\"vote2403\").innerHTML = voteStr;",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "微软Win11发布满5周年，IT之家发起用户满意度投票并回顾其发展数据。",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体IT之家，含用户规模等具体数据，但属互动投票类内容，技术深度有限。"
-    },
-    {
-      "title": "国家能源局：国庆假期高速公路充电量达 1.63 亿千瓦时，日均同比增长 51.42%",
-      "link": "https://www.ithome.com/1/010/458.htm",
-      "pubDate": "Thu, 08 Oct 2026 04:59:14 GMT",
-      "contentSnippet": "IT之家 10 月 8 日消息，国家能源局今日发布的数据显示，今年国庆假期全国高速公路新能源汽车充电需求大幅增长。通过对纳入国家充电设施监测服务平台的 6.27 万个高速公路充电设施（枪）进行统计分析，自 10 月 1 日 0 时至 10 月 7 日 24 时，我国高速公路新能源汽车充电次数共计 671.10 万次，充电量达到 1.63 亿千瓦时，日均充电量 2325.66 万千瓦时，日均充电量同比增长 51.42%。\n假期首日即创下历史纪录。据国家能源局公告，“十一”国庆假期首日，全国高速公路充电量达到 2804.69 万千瓦时，较去年“十一”国庆假期首日增长 60.40%，创历史节假日单日",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国家能源局数据显示国庆假期高速公路充电量达1.63亿千瓦时，日均同比增长51.42%。",
-      "credibilityScore": 95,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源权威（国家能源局官方数据），信息详实含具体统计口径和数字，IT之家为知名科技媒体。"
-    },
-    {
-      "title": "Manus 母公司蝴蝶效应宣布完成超 5 亿美元新一轮融资，腾讯、红杉中国等继续加持",
-      "link": "https://www.ithome.com/1/010/457.htm",
-      "pubDate": "Thu, 08 Oct 2026 04:50:26 GMT",
-      "contentSnippet": "IT之家 10 月 8 日消息，Manus 母公司蝴蝶效应今日宣布完成超过 5 亿美元（IT之家注：现汇率约合 33.56 亿元人民币）新一轮融资。\n本轮融资由博裕投资、IDG 资本领投，老股东腾讯、红杉中国、真格基金继续加持。\n\n2025 年 3 月，蝴蝶效应公司推出 Manus，曾在市场一夜爆火。然而，当年 6 月，Manus 企业总部迁至新加坡，大幅裁减国内团队，彻底停止中国境内服务与运营。作为一家依靠中国工程师和基础设施环境发展起来的 AI 公司，Manus 在获得美国投资后突然与中国元素进行“切割”，引发争议。\n据IT之家今年 4 月报道，外商投资安全审查工作机制办公室（国家发展改革",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "Manus母公司蝴蝶效应完成超5亿美元融资，腾讯红杉等老股东继续加持。",
+      "aiSummary": "皮尤调查37国显示，多数民众认为社交媒体伤害民主，美国比例最高达64%。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，融资细节具体，有明确投资方及背景信息，但缺少官方公告链接。"
+      "credibilityReason": "来源为知名科技媒体Solidot，引用皮尤研究中心数据，信息具体但缺少原文链接。"
     },
     {
-      "title": "市场监管总局加严灯具、镇流器等产品 CCC 认证要求",
-      "link": "https://www.ithome.com/1/010/456.htm",
-      "pubDate": "Thu, 08 Oct 2026 04:41:24 GMT",
-      "contentSnippet": "IT之家 10 月 8 日消息，为严格强制性产品认证（CCC 认证）监管，强化源头治理，切实保障人民群众生命财产安全，市场监管总局（国家认监委）今日发布《关于发布灯具、镇流器强制性产品认证实施规则的公告》（以下简称《公告》），以更细要求、更严举措规范认证实施，筑牢产品质量安全底线。\n新版规则优化灯具的认证模式，分别对通用灯具、大型灯具、单批次定制灯具确定 3 种不同的认证模式，进一步增强针对性，便利不同类型认证需求。\n《公告》对新版规则过渡期进行明确，规定自 2027 年 1 月 1 日起，应当按照新版规则开展 CCC 认证活动，已经颁发的有效 CCC 认证证书可继续使用。新版规则的实施，将进",
+      "title": "比亚迪人形机器人外观专利公布",
+      "link": "https://www.ithome.com/1/010/907.htm",
+      "pubDate": "Fri, 09 Oct 2026 05:19:51 GMT",
+      "contentSnippet": "IT之家 10 月 9 日消息，国家知识产权局今日（10 月 9 日）公示了一项具身智能机器人的外观设计专利，专利权人为比亚迪股份有限公司。\n\n该专利展示了一款人形机器人的外观设计，用于具备行走、平衡及交互功能的智能机器人，可应用于服务机器人、教育或工业场景。\n\n\n综合IT之家此前报道，比亚迪执行副总裁李柯今年 6 月表示，希望未来每家比亚迪门店都能部署机器人，并能够向顾客介绍和演示车辆，面向家庭和服务行业的人形机器人将成为比亚迪的一个巨大市场。“我的目标是在每家门店放两三台机器人。机器人可以为顾客讲解，也可以活跃气氛，甚至能够展示和演示车辆。”",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -120,16 +67,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "市场监管总局发布灯具、镇流器CCC认证新规，2027年起实施",
-      "credibilityScore": 88,
+      "aiSummary": "比亚迪人形机器人外观专利获国家知识产权局公示，可用于服务、教育或工业场景。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容引用官方公告，信息具体，来源明确"
+      "credibilityReason": "IT之家为知名科技媒体，引用国家知识产权局公示及高管公开表态，信息具体有据。"
     },
     {
-      "title": "“卖出去也不赚钱”：消息称三星手机 2026Q4 最高减产 30%",
-      "link": "https://www.ithome.com/1/010/454.htm",
-      "pubDate": "Thu, 08 Oct 2026 04:37:47 GMT",
-      "contentSnippet": "IT之家 10 月 8 日消息，Money Today 今天（10 月 8 日）发布博文，报道称三星电子移动体验（MX）部门已计划智能手机减产计划，预估 2026 年第四季度产量最高降幅达到 30%，标题还称三星手机“即便卖出去，也不赚钱”。\n\nIT之家注：原文中并未明确指出这 30% 是如何对比得出的，可能是环比、同比，或者是此前预期产量对比。\n多家 IT 行业知情人士收到风声，称三星 MX 部门已通知多家合作伙伴，要求将产品供应量减少 20% 至 30%。\n产量方面，主要依托 Galaxy Z Fold8 等新产品推动，三星电子原计划全年生产高达 2.7 亿部智能手机。但随着第四季度产量大",
+      "title": "最便宜谷歌 Googlebook 上市不足一周，至少 4 人遭遇无限重启循环",
+      "link": "https://www.ithome.com/1/010/906.htm",
+      "pubDate": "Fri, 09 Oct 2026 05:11:59 GMT",
+      "contentSnippet": "IT之家 10 月 9 日消息，科技媒体 Android Authority 昨日（10 月 8 日）发布博文，报道称上市不到 1 周时间，至少有 4 名宏碁 Googlebook 14 用户反馈，设备在更新后陷入无限重启循环。\nIT之家注：谷歌在 9 月 21 日的活动中，发布了 5 款 Googlebook，其中宏碁 Googlebook 14 是其中最便宜的型号，也是唯一一款二合一笔记本电脑。\n根据用户反馈，首次开机并连接手机后，系统提示更新。用户点击更新之后，笔记本一会儿显示宏碁的标志几秒钟，一会儿显示“正在更新”大约十分钟，如此反复循环。\n\n另一名用户称，设备进入恢复模式后提示缺少网",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -137,101 +84,152 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "三星MX部门计划2026年Q4手机减产最高30%，因卖出去也不赚钱。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "IT之家编译韩媒报道，有具体减产比例和产量数据，但原始出处模糊，减产对比基准未明确。"
-    },
-    {
-      "title": "比亚迪公布第三代唐内饰：设计灵感来自“宇宙飞船控制台”",
-      "link": "https://www.ithome.com/1/010/453.htm",
-      "pubDate": "Thu, 08 Oct 2026 04:31:01 GMT",
-      "contentSnippet": "IT之家 10 月 8 日消息，今天（8 日）午间，比亚迪王朝网销售事业部总经理路天在微博公布了第三代唐车型的内饰。\n据其介绍，新车内饰设计灵感源自科幻片里的宇宙飞船控制台，极具未来感。作为一款 8 系大五座科技旗舰 SUV，它的空间也很百变，适配不同人群的出行需求。\n\n新车的内饰提供两套配色：沙丘米、琥珀棕，分别拥有“温润松弛”和“醇厚沉稳”的质感。\n\n\n新车是王朝 8 系旗舰之作，搭载行业集成度最高的一体贯穿式大灯，超 1000mm 同级最长二排腿部空间，二排座椅仰角 130°，比飞机商务舱多 10°。该车全球首发星际双屏，包括 35.4 英寸一体远端星环屏 +30 英寸全景巨幕屏，取代了",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "比亚迪公布第三代唐内饰，灵感源自宇宙飞船控制台，配双大屏。",
-      "credibilityScore": 78,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，引述比亚迪高管微博，信息具体但缺乏独立验证。"
-    },
-    {
-      "title": "ACEMAGIC F9A 迷你工作站 PRO 495 + 192GB + 2TB 款上市，首发价 49998 元",
-      "link": "https://www.ithome.com/1/010/452.htm",
-      "pubDate": "Thu, 08 Oct 2026 04:26:36 GMT",
-      "contentSnippet": "IT之家 10 月 8 日消息，ACEMAGIC（阿迈奇）现已在国内电商平台上架 F9A 迷你主机工作站的 AMD 锐龙 AI Max+ PRO 495 处理器搭配 192GB 内存、2TB 存储配置。该款式标价 50,999 元，新品首发特惠价 49,998 元。\n\nF9A PRO 495 可将 160GB 统一内存配置为显存，支持 300B 参数 LLM 本地运行。其拥有一体成型铝制机身，三维 158.5 × 158.5 × 81.5 (mm)，体积约为 2L，内置 5 热管散热系统，支持 140W 峰值性能 / 120W 稳定性能，质量约 1.6kg。\n其拥有 2 个 M.2 (PCIe",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "ACEMAGIC F9A迷你工作站上市，搭载锐龙AI Max+ PRO 495及192GB内存，首发价49998元。",
+      "aiSummary": "宏碁最便宜Googlebook 14上市不到一周，至少4名用户反馈更新后无限重启。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，产品参数、价格、尺寸等细节具体，但缺少官方原始出处链接。"
+      "credibilityReason": "IT之家援引Android Authority报道，有具体用户反馈和产品细节，来源较可靠，但事件仍在早期。"
     },
     {
-      "title": "一次同意，二十一次缺席",
-      "link": "https://www.tmtpost.com/8160632.html",
-      "pubDate": "Thu, 08 Oct 2026 12:17:40 +0800",
-      "contentSnippet": "一次点击同意，带来了二十一个月的自动扣款。授权仍在生效，人的注意力却早已离开。文章从自动续费出发，结合人脸识别误判与医疗AI研究，讨论为何保留人工审核，并不等于保留独立判断，以及如何通过清晰的授权边界、有效提醒和纠错退出机制，让人能在自动运行的流程中重新介入。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "JetBrains 编程 AI 模型 Mellum2.1 发布：高负载推理吞吐量近 Qwen3.5-9B 两倍",
+      "link": "https://www.ithome.com/1/010/905.htm",
+      "pubDate": "Fri, 09 Oct 2026 04:59:08 GMT",
+      "contentSnippet": "IT之家 10 月 9 日消息，JetBrains 昨日（10 月 8 日）发布博文，宣布上线 Mellum2.1 模型，重点增强智能体编程能力。该模型延续 Mellum2 的 12B 混合专家架构，拥有 2.5B 活跃参数，并继续采用 Apache 2.0 许可证发布。\nMellum2.1 主要升级预训练后的强化学习阶段，从短期收尾环节扩展为训练主体，并在数学、算法竞赛、科学、工具使用和软件工程等任务中补充训练数据。\nJetBrains 为该模型搭建了内部强化学习环境基础设施，在训练期间启动数百万个沙盒，覆盖数千个环境。此外在训练前，团队还筛选了开放数据集，剔除测试缺陷、不可验证答案及难度失",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "钛媒体"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体从自动续费切入，探讨AI流程中人工审核与独立判断的边界问题。",
-      "credibilityScore": 78,
+      "aiSummary": "JetBrains发布Mellum2.1编程AI模型，强化智能体编程能力，高负载推理吞吐量近Qwen3.5-9B两倍。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，信息具体含架构参数、许可证及训练细节，但缺少原始博文链接。"
+    },
+    {
+      "title": "“RISC-V 第一股”奕斯伟计算在香港上市，“京东方之父”王东升创办",
+      "link": "https://www.ithome.com/1/010/903.htm",
+      "pubDate": "Fri, 09 Oct 2026 04:39:56 GMT",
+      "contentSnippet": "IT之家 10 月 9 日消息，“RISC-V 第一股”奕斯伟计算今日（10 月 9 日）正式在香港联合交易所主板挂牌上市，成为资本市场首只以 RISC-V 为核心架构的芯片股。\n\nIT之家查询公开资料获悉，北京奕斯伟计算技术股份有限公司（简称“奕斯伟计算”）是一家基于 RISC-V 架构的芯片产品提供商，总部位于北京，由“京东方之父”、原京东方董事长王东升创办。\n根据弗若斯特沙利文数据，中国 RISC-V 主控芯片市场规模由 2021 年的 11 亿元增长至 2025 年的 377 亿元，年复合增长率达 139.5%，预计 2030 年市场规模将攀升至 2,194 亿元。\n奕斯伟计算的核心战",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "奕斯伟计算在香港上市，成RISC-V第一股，由王东升创办。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息具体含上市时间、地点、人物及市场数据，来源可靠。"
+    },
+    {
+      "title": "《怪物猎人物语 3：命运双龙》游戏 11 月 18 日登陆 XBOX on PC，首次支持 XBOX Play Anywhere",
+      "link": "https://www.ithome.com/1/010/902.htm",
+      "pubDate": "Fri, 09 Oct 2026 04:29:30 GMT",
+      "contentSnippet": "IT之家 10 月 9 日消息，微软 @XBOXWire 昨日（10 月 8 日）在 X 平台发布推文，宣布《怪物猎人物语 3：命运双龙》（Monster Hunter Stories 3: Twisted Reflection）游戏将于 2026 年 11 月 18 日登陆 XBOX on PC，并首次支持 XBOX Play Anywhere。\n\nIT之家注：XBOX on PC 是微软面向 Windows 设备提供的 Xbox 游戏运行环境。玩家可通过 Xbox 应用在 Windows PC 安装、启动和管理 Xbox 游戏，并使用 Xbox 账户访问游戏库、成就及相关服务。\n《怪物猎人",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "《怪物猎人物语3》将于2026年11月18日登陆XBOX on PC，首次支持XBOX Play Anywhere。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，引用微软官方推文，信息具体含日期与功能细节，但缺少游戏内容细节。"
+    },
+    {
+      "title": "短短 10 个月几乎翻倍，AI 模型评测平台 Arena 估值升至 31 亿美元",
+      "link": "https://www.ithome.com/1/010/899.htm",
+      "pubDate": "Fri, 09 Oct 2026 04:22:28 GMT",
+      "contentSnippet": "IT之家 10 月 9 日消息，当地时间 8 日，AI 模型评测平台 Arena 竞技场宣布完成 2 亿美元（IT之家注：现汇率约合 13.43 亿元人民币） B 轮融资，估值达到 31 亿美元（现汇率约合 208.17 亿元人民币）。Arena 最初是加州大学伯克利分校 2023 年的一项研究项目，通过公众投票对 AI 模型进行排名。\nArena 此前披露，今年 6 月的年化营收达到 1 亿美元（现汇率约合 6.72 亿元人民币）。\n本轮融资由光速创投和 Khosla Ventures 共同领投，Salesforce Ventures、01 Advisors、戴尔科技资本、Endeavor",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "AI模型评测平台Arena完成2亿美元B轮融资，估值达31亿美元，10个月内近乎翻倍。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息含具体融资额、估值、投资方及营收数据，来源明确，但缺少官方原始链接。"
+    },
+    {
+      "title": "纯手工黏土定格动画电影《小羊肖恩 3 怪兽来袭》定档 10 月 24 日内地上映，全片超 10 万帧定格画面",
+      "link": "https://www.ithome.com/1/010/898.htm",
+      "pubDate": "Fri, 09 Oct 2026 04:22:20 GMT",
+      "contentSnippet": "IT之家 10 月 9 日消息，小羊肖恩官方今日宣布，定格动画电影《小羊肖恩 3 怪兽来袭》定档 10 月 24 日内地上映。\n\n据介绍，该动画电影由纯手工黏土定格制作，全片超过 10 万帧定格画面。该片已在今年 9 月于英国、北美上映。\n\nIT之家附剧情简介：\n\n青苔农场的居民正翘首以盼万圣节的到来，而笨手笨脚的农夫意外毁了羊群心爱的南瓜地。为了解决问题，肖恩化身疯狂科学家，结果事情失控，森林中一只神秘怪兽横空出世。\n\n\nIT之家小伙伴记得用最会买购买电影票，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "《小羊肖恩3》定档10月24日内地上映，全片超10万帧手工黏土定格画面。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息具体含帧数细节，有官方定档来源，但含促销推广内容。"
+    },
+    {
+      "title": "对标苹果 AirPods Max：三星 Galaxy Studio 曝光，时隔 11 年重返头戴式耳机市场",
+      "link": "https://www.ithome.com/1/010/895.htm",
+      "pubDate": "Fri, 09 Oct 2026 04:20:17 GMT",
+      "contentSnippet": "IT之家 10 月 9 日消息，消息源 @evowizz 昨日（10 月 8 日）在 X 平台发布推文，爆料称三星首款头戴式耳机名为 Galaxy Studio，上市后将会和苹果的 AirPods Max 正面竞争。\n\nIT之家查询公开资料，@evowizz 在爆料方面相对不是很活跃，不过他此前曾精准爆料三星首款耳夹式耳机名为 Galaxy Buds On，可信度较高，目前海外 9to5Google、Android Authority 和 Android Headline 等诸多主流安卓媒体已采信跟进报道。\n在头戴式耳机方面，三星曾于 2015 年推出 Level Over 与 Level O",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "三星头戴式耳机Galaxy Studio曝光，将正面竞争苹果AirPods Max。",
+      "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体，选题具体有深度，但偏评论性文章，缺少一手数据与原始出处。"
+      "credibilityReason": "IT之家为知名科技媒体，爆料者有过准确记录且被多家外媒跟进，但消息源单一，缺乏官方确认。"
     },
     {
-      "title": "都在等罗永浩翻车",
-      "link": "https://www.tmtpost.com/8160670.html",
-      "pubDate": "Thu, 08 Oct 2026 12:17:38 +0800",
-      "contentSnippet": "替别人说话很痛快，保留自己的判断，更难。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」",
+      "link": "https://www.qbitai.com/2026/10/502330.html",
+      "pubDate": "Fri, 09 Oct 2026 04:15:05 +0000",
+      "contentSnippet": "机器人摆脱展会、舞台Demo，产生真实商业价值，究竟需要哪些东西？",
+      "sourceName": "量子位",
+      "sourceWeight": 80,
       "allSources": [
-        "钛媒体"
+        "量子位"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体评论罗永浩舆论处境，探讨替人发声与保留独立判断的难度。",
+      "aiSummary": "量子位报道Sharpa灵巧手将指尖触觉升级为全面体感，探讨机器人商业化路径。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "量子位为知名科技媒体，但摘要缺乏技术细节与原始出处，标题有宣传倾向。"
+    },
+    {
+      "title": "消息称 OPPO 阔直板工程机是标准 16:9：LIPO 极窄四等边设计，目测边框 1mm±",
+      "link": "https://www.ithome.com/1/010/872.htm",
+      "pubDate": "Fri, 09 Oct 2026 04:08:30 GMT",
+      "contentSnippet": "IT之家 10 月 9 日消息，博主 @数码闲聊站 今日发文透露，O（OPPO）阔直板工程机是标准 16:9，LIPO 极窄四等边设计，目测边框 1mm±，看标准视频会铺满整块屏幕，机身宽度大概是 81mm。\n\n博主随后在评论区补充，81mm 是屏幕宽度，封装后可能会宽一点，反正是 85mm 以内。该产品定位是旗舰线，肯定“不便宜的”。\n\n\nIT之家注意到，博主还透露，蓝厂（vivo）在评估（阔直板），进度没那么快。\n\n作为参考，目前已经发布的华为 Pura X View 阔直板手机搭载了一块 6.39 英寸 2232 × 1320 分辨率屏幕（比例 16:9.5），四等边黑边宽度均为 1.0",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "OPPO阔直板工程机曝光：16:9屏幕、LIPO极窄四等边、边框约1mm",
       "credibilityScore": 62,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体，但内容为观点评论，缺乏具体事实与数据支撑。"
+      "credibilityReason": "IT之家转载博主爆料，无官方确认，细节具体但属传闻性质"
     },
     {
-      "title": "零食加速向「新鲜」进化，但真正的门槛不是开店",
-      "link": "https://www.tmtpost.com/8160876.html",
-      "pubDate": "Thu, 08 Oct 2026 12:17:31 +0800",
-      "contentSnippet": "市场喧嚣，真正变量在谁先拿到可持续盈利的账本里。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体分析零食行业向新鲜化转型，指出可持续盈利才是真正门槛。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体，观点清晰，但摘要缺乏具体数据与原始出处，信息较简略。"
-    },
-    {
-      "title": "华为余承东亲自为霍英东集团总裁霍震寰交付尊界 V800，名人车主阵容再扩容",
-      "link": "https://www.ithome.com/1/010/450.htm",
-      "pubDate": "Thu, 08 Oct 2026 04:17:08 GMT",
-      "contentSnippet": "IT之家 10 月 8 日消息，华为常务董事、终端 BG 董事长余承东于国庆假期期间亲自完成了一次交车，将一台鸿蒙智行尊界 V800 交付给霍英东集团行政总裁霍震寰，现场二人一同竖起大拇指。公开资料显示，霍震寰为霍英东次子，长期执掌霍英东集团。\n\n这并非余承东首次亲自为名人车主交车。据IT之家此前报道，功夫巨星李连杰成为尊界 S800 第一万台车主，由余承东与江汽集团董事长项兴初联合交车；影后刘嘉玲作为尊界 S800 典藏大观全国首批车主，同样由余承东亲自交付。\n\n本次交付的尊界 V800 是鸿蒙智行与江淮汽车联合打造的百万级超豪华 MPV，于 2026 年 8 月 5 日正式上市。新车推出尊",
+      "title": "Counterpoint 预测：笔电 OLED 面板出货近两年将分别增长 50% 和 24%",
+      "link": "https://www.ithome.com/1/010/868.htm",
+      "pubDate": "Fri, 09 Oct 2026 04:06:32 GMT",
+      "contentSnippet": "IT之家 10 月 9 日消息，Counterpoint Research 昨日发布最新预测：笔记本电脑 OLED 显示面板出货将在 2026 和 2027 年分别实现 50% 和 24% 增长，主导高端笔记本电脑显示屏市场。\n与此同时，Mini LED 的笔电面板出货将在今年下滑 38% 并在 2027 年进一步大幅萎缩 60%。包含 OLED 与 Mini LED 的高端笔电屏幕今年有望录得 11% 出货增长，而整体笔电面板出货则会衰退 3%。\n\n▲ 图源：Counterpoint Research\n随着 OLED 在轻薄化设计、画质表现及成本竞争力方面的优势逐步显现，笔电制造商正日益倾向",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -239,16 +237,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "余承东国庆期间亲自向霍震寰交付尊界V800，名人车主阵容再扩容。",
-      "credibilityScore": 82,
+      "aiSummary": "Counterpoint预测笔电OLED面板2026、2027年分别增长50%和24%，Mini LED同期大幅萎缩。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体含人物、车型、时间，但缺乏官方直接引用。"
+      "credibilityReason": "来源为IT之家，引用Counterpoint Research原始预测数据，含具体增长率，信息详实可信。"
     },
     {
-      "title": "国产动作肉鸽游戏续作《霓虹深渊 2》发售，Steam 首发 46.40 元",
-      "link": "https://www.ithome.com/1/010/449.htm",
-      "pubDate": "Thu, 08 Oct 2026 04:13:08 GMT",
-      "contentSnippet": "IT之家 10 月 8 日消息，经典动作 Roguelike 续作《霓虹深渊 2》今日正式发售，同步登陆 Steam、PS5、Xbox Series X|S、微软商店及任天堂 Switch 平台（系列首次登陆 PS5 和 Switch），首发加入 XGP，支持中文；手游同日在 TapTap 开启公测。\n本作由 Veewo Games 开发并联合 Kepler Ghost 发行，Steam 国区原价 58 元，首发特惠 46.40 元。手游采用免费下载、付费解锁的买断制，与 PC 端内容同步更新。本作支持简体中文界面、字幕与完整音频，最多支持 4 人在线联机游玩。\nIT之家附游戏商品页（http",
+      "title": "央视曝光锂电池代加工骗局：号称在家月入过万，但一分加工费都拿不到",
+      "link": "https://www.ithome.com/1/010/860.htm",
+      "pubDate": "Fri, 09 Oct 2026 04:04:03 GMT",
+      "contentSnippet": "IT之家 10 月 9 日消息，央视财经今日曝光了锂电池代加工骗局，号称在家月入过万，实则是电池代工陷阱。\n报道称，“投资少、上手快，足不出户就能月入过万元……”这个“锂电池代加工”加盟项目在短视频平台大肆宣传，不少人看到后交押金、领原材料回家加工。\n但他们很快发现，培训时一学就会，回家动手做出来的电池，无论怎么努力，永远不合格，一分加工费都拿不到。\n有报案人表示，交纳 19,000 多元押金后给这家公司代加工“锂电池”，几个月下来竟然没有做出一件“合格”产品。\n\n图源：Pexels\n经查，这个犯罪团伙自 2025 年 3 月起，在没有任何生产锂电池资质的情况下，打着“锂电池代加工”的名义，共",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -256,10 +254,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国产动作肉鸽续作《霓虹深渊2》多平台发售，Steam首发46.4元",
-      "credibilityScore": 88,
+      "aiSummary": "央视曝光锂电池代加工骗局，以在家月入过万为诱饵骗取押金，产品永远不合格。",
+      "credibilityScore": 92,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体含价格、平台、开发商等细节，有商品页出处"
+      "credibilityReason": "央视财经曝光，IT之家转载，有具体案例和金额，来源权威，事实清晰。"
     }
   ]
 }
