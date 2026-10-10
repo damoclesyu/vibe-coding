@@ -1,48 +1,48 @@
 {
-  "generatedAt": "2026-10-09T05:23:15.611Z",
+  "generatedAt": "2026-10-10T05:07:33.067Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "国家邮政局：我国建成世界受益人数最多寄递网络，年人均快递使用量超 140 件",
-      "link": "https://www.ithome.com/1/010/827.htm",
-      "pubDate": "Fri, 09 Oct 2026 02:23:39 GMT",
-      "contentSnippet": "IT之家 10 月 9 日消息，据央视新闻报道，今天（9 日）是第 57 届世界邮政日。今年邮政日的主题是“完善邮政服务网络，开拓行业无限可能”。国家邮政局数据显示，我国已建成世界上规模最大、覆盖最广、受益人数最多的寄递网络，年人均快递使用量超 140 件。\n我国持续拓展网络覆盖，京津冀、长三角、粤港澳大湾区、成渝地区、中部城市群等枢纽集群基本成型。依托“枢纽 + 通道 + 网络”，每秒超 6300 件、日均 5.4 亿件包裹进入寄递渠道，年人均快递使用量超过 140 件，快递服务全程平均时限和公众满意度持续提升。\n除此之外，我国中西部 17 个试点县 2939 个建制村通过邮政兜底实现“快递",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "早报｜供应链回应iPhone 18 Pro砍单传闻/小米、华为手机同日调价/山姆拟限制亲友卡换绑",
+      "link": "https://www.ifanr.com/1683465?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pubDate": "Sat, 10 Oct 2026 00:14:25 +0000",
+      "contentSnippet": "· 豆包据称在建设水电燃气缴费等生活服务能力\r\n· IDC：第三季度全球 PC 出货量下降 20.1%，旺季未现\r\n· 曾被字节辞退的田柯宇获近 3000 万美元融资，研发世界模型\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "sourceName": "爱范儿",
+      "sourceWeight": 82,
       "allSources": [
-        "IT之家"
+        "爱范儿"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国家邮政局称我国建成世界最大寄递网络，年人均快递使用量超140件。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家转引央视新闻及国家邮政局官方数据，信息具体含多项量化指标，权威性较高。"
-    },
-    {
-      "title": "2万亿美元估值靠什么撑？Anthropic 核心技术负责人：蒸馏会毁掉前沿研发，中美 AI 竞赛不会单边暂停",
-      "link": "https://www.infoq.cn/article/dS754RhjExrwFP6tWD9d?utm_source=rss&utm_medium=article",
-      "pubDate": "Thu, 08 Oct 2026 14:10:29 GMT",
-      "contentSnippet": "点击查看原文>",
-      "sourceName": "InfoQ中文",
-      "sourceWeight": 78,
-      "allSources": [
-        "InfoQ中文"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "Anthropic技术负责人谈2万亿估值支撑、蒸馏技术风险及中美AI竞赛走向",
+      "aiSummary": "爱范儿早报汇总iPhone 18 Pro砍单传闻、小米华为调价及PC出货量下降等科技资讯。",
       "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "InfoQ为知名技术媒体，主题专业，但正文仅摘要无实质内容，缺少数据与原始出处"
+      "credibilityReason": "爱范儿为知名科技媒体，内容涉及多方传闻与IDC数据，但摘要简略缺乏细节和原始出处。"
     },
     {
-      "title": "世界各地的民调认为社交媒体伤害民主",
-      "link": "https://www.solidot.org/story?sid=85547",
-      "pubDate": "Thu, 08 Oct 2026 16:31:44 +0800",
-      "contentSnippet": "皮尤研究中心对 37 国民众展开的调查显示，世界各地民众认为社交媒体伤害民主的比例过去几年在上升。其中美国民众对社媒的看法尤其负面，64% 的成年人认为它对民主有害。其它国家在认识到社交媒弊端方面正赶上美国。美国等富裕国家的民众倾向于认为社媒在伤害民主。在受访国家中，认为社媒对民主产生负面影响的人数比例达到或超过半数的七个国家同时也都是最富裕的国家：澳大利亚、加拿大、法国、德国、荷兰、英国和美国。以色列和新加坡是例外——这两个高收入国家认为社媒不利于民主的人数相对较少。GDP 较低国家民众对社媒的看法不那么负面。加纳、肯尼亚、尼日利亚、菲律宾和泰国约有四分之三或更多受访者认为社媒对民主有益。",
+      "title": "【钛晨报】中央重磅部署19项举措，新质生产力发展路径明确；证监会发文，权益类基金成立门槛拟降至5000万元；浙商大佬俞发祥遭立案，两家A股公司回应",
+      "link": "https://www.tmtpost.com/8163364.html",
+      "pubDate": "Sat, 10 Oct 2026 07:20:00 +0800",
+      "contentSnippet": "天孚通信回应海外进出口政策限制传闻；懂车帝辟谣网传内部整顿通知；特斯拉弃用“自动驾驶”命名，以争取欧洲监管批准；iPhone 18 Pro系列被曝削减零部件产量，供应链人士回应；山姆拟限制亲友卡绑定；企查查A股IPO终止；美发布应对所谓“结构性产能和生产过剩”问题部长级联合声明，中方回应。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体晨报汇总中央部署新质生产力、证监会基金门槛调整及多家企业动态。",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体钛媒体，内容涵盖多领域具体事件，但为摘要汇总，缺少原始出处和深度细节。"
+    },
+    {
+      "title": "美光台工厂工会获得罢工权，支持率 99%",
+      "link": "https://www.solidot.org/story?sid=85559",
+      "pubDate": "Fri, 09 Oct 2026 15:13:32 +0800",
+      "contentSnippet": "美光桃园工会宣布，经过 6 天投票及 10 月 6 日晚间开票，工会已取得罢工及设置罢工纠察线的权利。工会表示，领票名册共 2258 人，投票 2012 人，其中 1994 票同意、14 票不同意、4 张废票，投票率 89.1%；同意票占全体会员 88.3%，占实际投票人数约 99.1%。工会要求建立营业利益 15% 员工分润制度，并呼吁美光董事会正面回应四大诉求。工会指出，这次抗争的核心不只是奖金多寡，而是要求企业建立公平、透明的获利分享制度。工会主张，美光应设立以营业利益 15% 为基础的员工分润机制，让分配金额随公司获利调整。美光在台湾有两座工厂，除桃园工厂工会外，另一个台中工厂工会也在",
       "sourceName": "Solidot",
       "sourceWeight": 75,
       "allSources": [
@@ -50,16 +50,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "皮尤调查37国显示，多数民众认为社交媒体伤害民主，美国比例最高达64%。",
+      "aiSummary": "美光桃园工会高票通过罢工投票，要求15%营业利益分润。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体Solidot，引用皮尤研究中心数据，信息具体但缺少原文链接。"
+      "credibilityReason": "来源为知名科技媒体Solidot，数据具体（投票人数、比例），事件清晰，但缺少美光官方回应。"
     },
     {
-      "title": "比亚迪人形机器人外观专利公布",
-      "link": "https://www.ithome.com/1/010/907.htm",
-      "pubDate": "Fri, 09 Oct 2026 05:19:51 GMT",
-      "contentSnippet": "IT之家 10 月 9 日消息，国家知识产权局今日（10 月 9 日）公示了一项具身智能机器人的外观设计专利，专利权人为比亚迪股份有限公司。\n\n该专利展示了一款人形机器人的外观设计，用于具备行走、平衡及交互功能的智能机器人，可应用于服务机器人、教育或工业场景。\n\n\n综合IT之家此前报道，比亚迪执行副总裁李柯今年 6 月表示，希望未来每家比亚迪门店都能部署机器人，并能够向顾客介绍和演示车辆，面向家庭和服务行业的人形机器人将成为比亚迪的一个巨大市场。“我的目标是在每家门店放两三台机器人。机器人可以为顾客讲解，也可以活跃气氛，甚至能够展示和演示车辆。”",
+      "title": "产品搭载与小米“小爱同学”近似的“小爱小爱”语音指令，两公司被判构成不正当竞争",
+      "link": "https://www.ithome.com/1/011/323.htm",
+      "pubDate": "Sat, 10 Oct 2026 04:57:51 GMT",
+      "contentSnippet": "IT之家 10 月 10 日消息，据人民法院报，近日，浙江省慈溪市人民法院审结了一起涉及语音唤醒词的不正当竞争纠纷案。被告公司擅自在生产、销售的智能家电上搭载与国内某知名品牌近似的语音唤醒词，法院认定其行为构成不正当竞争，判令被告公司承担相应赔偿责任。\n“小爱同学”为小米科技公司旗下的人工智能交互引擎名称、搭载人工智能语音交互引擎的智能音箱名称，也是该交互引擎的语音指令唤醒词，搭载在小米公司众多产品设备中。\n2026 年 1 月，该公司向慈溪法院起诉称，某电器公司与某电器科技公司生产、销售的某款智能语音茶吧机载有“小爱小爱”语音模块，该款产品的网店销售页面和使用说明书中也有“小爱小爱”等智能语",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -67,16 +67,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "比亚迪人形机器人外观专利获国家知识产权局公示，可用于服务、教育或工业场景。",
-      "credibilityScore": 85,
+      "aiSummary": "两公司因智能家电搭载近似小米“小爱同学”的“小爱小爱”唤醒词，被判不正当竞争。",
+      "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引用国家知识产权局公示及高管公开表态，信息具体有据。"
+      "credibilityReason": "IT之家为知名科技媒体，引用人民法院报，案件信息具体，来源权威，但正文略有截断。"
     },
     {
-      "title": "最便宜谷歌 Googlebook 上市不足一周，至少 4 人遭遇无限重启循环",
-      "link": "https://www.ithome.com/1/010/906.htm",
-      "pubDate": "Fri, 09 Oct 2026 05:11:59 GMT",
-      "contentSnippet": "IT之家 10 月 9 日消息，科技媒体 Android Authority 昨日（10 月 8 日）发布博文，报道称上市不到 1 周时间，至少有 4 名宏碁 Googlebook 14 用户反馈，设备在更新后陷入无限重启循环。\nIT之家注：谷歌在 9 月 21 日的活动中，发布了 5 款 Googlebook，其中宏碁 Googlebook 14 是其中最便宜的型号，也是唯一一款二合一笔记本电脑。\n根据用户反馈，首次开机并连接手机后，系统提示更新。用户点击更新之后，笔记本一会儿显示宏碁的标志几秒钟，一会儿显示“正在更新”大约十分钟，如此反复循环。\n\n另一名用户称，设备进入恢复模式后提示缺少网",
+      "title": "华为 Pura X View 阔直板手机获鸿蒙 HarmonyOS 7.0.0.109 SP10 升级，支持多人互助通信共享功能",
+      "link": "https://www.ithome.com/1/011/321.htm",
+      "pubDate": "Sat, 10 Oct 2026 04:53:57 GMT",
+      "contentSnippet": "IT之家 10 月 10 日消息，华为今日面向 Pura X View 手机率先推送了鸿蒙 HarmonyOS 7.0.0.109 SP10 版本升级，包体大小约 4.83GB。新版本带来了多人互助通信共享、熄屏循迹导航等功能。\n\nIT之家附华为 Pura X View 阔直板手机此次更新内容如下：\n\n多设备协同\n\n通信共享功能再升级，手机与搭载 HarmonyOS 7 的手机、平板、鸿蒙电脑之间支持多人互助通信共享，通过碰一碰或者登录同一华为账号共享网络建立互助网络，在移动网络信号弱或网络负载大等场景下可获得更快、更稳的网络体验。\n\n桌面和个性化\n\n系统熄屏显示新增熄屏循迹导航功能，开启后，",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -84,16 +84,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "宏碁最便宜Googlebook 14上市不到一周，至少4名用户反馈更新后无限重启。",
+      "aiSummary": "华为Pura X View推送鸿蒙7.0.0.109 SP10升级，新增多人互助通信共享与熄屏循迹导航。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家援引Android Authority报道，有具体用户反馈和产品细节，来源较可靠，但事件仍在早期。"
+      "credibilityReason": "IT之家为知名科技媒体，信息含具体版本号、包体大小及功能细节，但缺少官方原始出处链接。"
     },
     {
-      "title": "JetBrains 编程 AI 模型 Mellum2.1 发布：高负载推理吞吐量近 Qwen3.5-9B 两倍",
-      "link": "https://www.ithome.com/1/010/905.htm",
-      "pubDate": "Fri, 09 Oct 2026 04:59:08 GMT",
-      "contentSnippet": "IT之家 10 月 9 日消息，JetBrains 昨日（10 月 8 日）发布博文，宣布上线 Mellum2.1 模型，重点增强智能体编程能力。该模型延续 Mellum2 的 12B 混合专家架构，拥有 2.5B 活跃参数，并继续采用 Apache 2.0 许可证发布。\nMellum2.1 主要升级预训练后的强化学习阶段，从短期收尾环节扩展为训练主体，并在数学、算法竞赛、科学、工具使用和软件工程等任务中补充训练数据。\nJetBrains 为该模型搭建了内部强化学习环境基础设施，在训练期间启动数百万个沙盒，覆盖数千个环境。此外在训练前，团队还筛选了开放数据集，剔除测试缺陷、不可验证答案及难度失",
+      "title": "减轻用眼疲劳：曝三星 Galaxy S27 Pro / Ultra 手机支持 DC 调光",
+      "link": "https://www.ithome.com/1/011/320.htm",
+      "pubDate": "Sat, 10 Oct 2026 04:52:33 GMT",
+      "contentSnippet": "IT之家 10 月 10 日消息，消息源 @WalleGalaxy 昨日（10 月 9 日）在 X 平台发布推文，爆料称三星 Galaxy S27 Pro 和 Galaxy S27 Ultra 两款旗舰手机将支持 DC 调光，有助于减少眼睛疲劳。\n\n三星手机此前主要通过脉冲宽度调制（PWM）调节屏幕亮度，Galaxy S26 Ultra 也采用该方式。PWM 通过高频开关屏幕发光来改变亮度，部分对闪烁敏感的用户可能出现眼疲劳、疲倦或头痛。\n而 DC 调光（DC dimming）通过降低流向像素的电流来调暗屏幕，这种方式可平滑降低亮度，并减少传统 PWM 调光带来的快速闪烁。\n\n数码博主 @i冰",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -101,16 +101,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "JetBrains发布Mellum2.1编程AI模型，强化智能体编程能力，高负载推理吞吐量近Qwen3.5-9B两倍。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，信息具体含架构参数、许可证及训练细节，但缺少原始博文链接。"
+      "aiSummary": "爆料称三星Galaxy S27 Pro/Ultra将支持DC调光以减少眼疲劳",
+      "credibilityScore": 65,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为IT之家，但核心信息来自单一爆料者，缺乏官方确认，技术解释基本准确"
     },
     {
-      "title": "“RISC-V 第一股”奕斯伟计算在香港上市，“京东方之父”王东升创办",
-      "link": "https://www.ithome.com/1/010/903.htm",
-      "pubDate": "Fri, 09 Oct 2026 04:39:56 GMT",
-      "contentSnippet": "IT之家 10 月 9 日消息，“RISC-V 第一股”奕斯伟计算今日（10 月 9 日）正式在香港联合交易所主板挂牌上市，成为资本市场首只以 RISC-V 为核心架构的芯片股。\n\nIT之家查询公开资料获悉，北京奕斯伟计算技术股份有限公司（简称“奕斯伟计算”）是一家基于 RISC-V 架构的芯片产品提供商，总部位于北京，由“京东方之父”、原京东方董事长王东升创办。\n根据弗若斯特沙利文数据，中国 RISC-V 主控芯片市场规模由 2021 年的 11 亿元增长至 2025 年的 377 亿元，年复合增长率达 139.5%，预计 2030 年市场规模将攀升至 2,194 亿元。\n奕斯伟计算的核心战",
+      "title": "CMF by Nothing Speaker S/M 蓝牙音箱曝光：牛奶盒造型",
+      "link": "https://www.ithome.com/1/011/319.htm",
+      "pubDate": "Sat, 10 Oct 2026 04:23:39 GMT",
+      "contentSnippet": "IT之家 10 月 10 日消息，据 droid life 报道，Nothing 旗下子品牌 CMF（CMF by Nothing）即将推出两款全新蓝牙音箱，分别命名为“Speaker S”与“Speaker M”。\nNothing 已向美国 FCC 提交了两款新设备的认证申请，设备型号分别为 E494 和 E495。第三方电商页面则直接泄露了这两款蓝牙音箱的外观。\n\n根据电商平台页面公布的部分参数，尺寸更大的 Speaker M 额定输出功率为 12W，采用了酷似“牛奶盒”的外观设计；拥有 18 小时续航，支持蓝牙 5.4 与 IP54 级防泼溅，并配有便携手提把手。\n\nIT之家注意到，小号",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -118,33 +118,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "奕斯伟计算在香港上市，成RISC-V第一股，由王东升创办。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体含上市时间、地点、人物及市场数据，来源可靠。"
-    },
-    {
-      "title": "《怪物猎人物语 3：命运双龙》游戏 11 月 18 日登陆 XBOX on PC，首次支持 XBOX Play Anywhere",
-      "link": "https://www.ithome.com/1/010/902.htm",
-      "pubDate": "Fri, 09 Oct 2026 04:29:30 GMT",
-      "contentSnippet": "IT之家 10 月 9 日消息，微软 @XBOXWire 昨日（10 月 8 日）在 X 平台发布推文，宣布《怪物猎人物语 3：命运双龙》（Monster Hunter Stories 3: Twisted Reflection）游戏将于 2026 年 11 月 18 日登陆 XBOX on PC，并首次支持 XBOX Play Anywhere。\n\nIT之家注：XBOX on PC 是微软面向 Windows 设备提供的 Xbox 游戏运行环境。玩家可通过 Xbox 应用在 Windows PC 安装、启动和管理 Xbox 游戏，并使用 Xbox 账户访问游戏库、成就及相关服务。\n《怪物猎人",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "《怪物猎人物语3》将于2026年11月18日登陆XBOX on PC，首次支持XBOX Play Anywhere。",
+      "aiSummary": "CMF by Nothing 两款蓝牙音箱 Speaker S/M 曝光，M 款 12W 功率、18 小时续航。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引用微软官方推文，信息具体含日期与功能细节，但缺少游戏内容细节。"
+      "credibilityReason": "IT之家援引 droid life 及 FCC 认证，参数具体，但电商泄露信息未经官方确认。"
     },
     {
-      "title": "短短 10 个月几乎翻倍，AI 模型评测平台 Arena 估值升至 31 亿美元",
-      "link": "https://www.ithome.com/1/010/899.htm",
-      "pubDate": "Fri, 09 Oct 2026 04:22:28 GMT",
-      "contentSnippet": "IT之家 10 月 9 日消息，当地时间 8 日，AI 模型评测平台 Arena 竞技场宣布完成 2 亿美元（IT之家注：现汇率约合 13.43 亿元人民币） B 轮融资，估值达到 31 亿美元（现汇率约合 208.17 亿元人民币）。Arena 最初是加州大学伯克利分校 2023 年的一项研究项目，通过公众投票对 AI 模型进行排名。\nArena 此前披露，今年 6 月的年化营收达到 1 亿美元（现汇率约合 6.72 亿元人民币）。\n本轮融资由光速创投和 Khosla Ventures 共同领投，Salesforce Ventures、01 Advisors、戴尔科技资本、Endeavor",
+      "title": "这三个摄影 App， 配得上你全新的 iPhone 18 Pro",
+      "link": "https://www.ifanr.com/1683596?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pubDate": "Sat, 10 Oct 2026 04:12:06 +0000",
+      "contentSnippet": "iPhone 摄影又双叒叕一次进化\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "sourceName": "爱范儿",
+      "sourceWeight": 82,
+      "allSources": [
+        "爱范儿"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "爱范儿推荐三款摄影App适配iPhone 18 Pro，但正文内容缺失。",
+      "credibilityScore": 55,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体爱范儿，但正文仅一句摘要，缺乏具体App名称、功能细节和数据支撑。"
+    },
+    {
+      "title": "大众在德因金融信息披露违规被罚款 120 万欧元",
+      "link": "https://www.ithome.com/1/011/318.htm",
+      "pubDate": "Sat, 10 Oct 2026 04:11:34 GMT",
+      "contentSnippet": "IT之家 10 月 10 日消息，德国联邦金融监管局 (BaFin) 当地时间 9 日宣布，该机构在本月 1 日对大众汽车处以 120 万欧元（IT之家注：现汇率约合 901.2 万元人民币）的罚款。\n\nBaFin 指出，大众汽车早前发布的 2023 财年业绩预测远高于市场预期。这一业绩预期本应通过特别公告立即披露，但该公司却仅通过新闻稿发布了这一内幕信息。\n大众汽车的这一行为违反了德国《市场滥用条例》，尤其是其中的第 17 条第 1 款第 1 项。BaFin 可对此处以罚款，最高罚款额为 250 万欧元或公司总收入的 2%。",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -152,67 +152,50 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "AI模型评测平台Arena完成2亿美元B轮融资，估值达31亿美元，10个月内近乎翻倍。",
+      "aiSummary": "大众因未按规定披露2023财年业绩预测，被德国BaFin罚款120万欧元。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，信息具体，引用监管机构BaFin及具体法规条款，有原始出处。"
+    },
+    {
+      "title": "Circana 分析师：美国游戏主机市场或陷入 80 年代初至今最严重危机",
+      "link": "https://www.ithome.com/1/011/317.htm",
+      "pubDate": "Sat, 10 Oct 2026 04:07:26 GMT",
+      "contentSnippet": "IT之家 10 月 10 日消息，据外媒 Eurogamer 今天（10 日）报道，AI 数据中心对内存芯片的需求激增，推动 PS5 和 XBOX Series X/S 在全球大多数市场涨至历史最高价。\n市场研究机构 Circana 分析师马特 · 皮斯卡特拉担心，美国游戏主机市场可能正陷入 20 世纪 80 年代初以来最严重的危机。彼时，游戏行业曾经历一场全面崩盘。\n皮斯卡特拉公布的数据显示，随着 XBOX 和 PS5 不断涨价，美国游戏主机销量明显下滑。今年前 8 个月，XBOX 主机销量同比下降 33%，创下同期历史最低纪录；PlayStation 主机销量也下滑 25%，跌至 2013",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "分析师警告美国游戏主机市场或因涨价陷入80年代初以来最严重危机",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息含具体融资额、估值、投资方及营收数据，来源明确，但缺少官方原始链接。"
+      "credibilityReason": "IT之家引述Eurogamer及Circana分析师数据，含具体销量降幅，来源可追溯，但为二手编译"
     },
     {
-      "title": "纯手工黏土定格动画电影《小羊肖恩 3 怪兽来袭》定档 10 月 24 日内地上映，全片超 10 万帧定格画面",
-      "link": "https://www.ithome.com/1/010/898.htm",
-      "pubDate": "Fri, 09 Oct 2026 04:22:20 GMT",
-      "contentSnippet": "IT之家 10 月 9 日消息，小羊肖恩官方今日宣布，定格动画电影《小羊肖恩 3 怪兽来袭》定档 10 月 24 日内地上映。\n\n据介绍，该动画电影由纯手工黏土定格制作，全片超过 10 万帧定格画面。该片已在今年 9 月于英国、北美上映。\n\nIT之家附剧情简介：\n\n青苔农场的居民正翘首以盼万圣节的到来，而笨手笨脚的农夫意外毁了羊群心爱的南瓜地。为了解决问题，肖恩化身疯狂科学家，结果事情失控，森林中一只神秘怪兽横空出世。\n\n\nIT之家小伙伴记得用最会买购买电影票，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "天津，一座被低估的AI基建重镇",
+      "link": "https://www.tmtpost.com/8163595.html",
+      "pubDate": "Sat, 10 Oct 2026 12:06:59 +0800",
+      "contentSnippet": "低调的天津从来不只是“注册地”，更是科技产业链上的共建者和押注者",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
       "allSources": [
-        "IT之家"
+        "钛媒体"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "《小羊肖恩3》定档10月24日内地上映，全片超10万帧手工黏土定格画面。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体含帧数细节，有官方定档来源，但含促销推广内容。"
-    },
-    {
-      "title": "对标苹果 AirPods Max：三星 Galaxy Studio 曝光，时隔 11 年重返头戴式耳机市场",
-      "link": "https://www.ithome.com/1/010/895.htm",
-      "pubDate": "Fri, 09 Oct 2026 04:20:17 GMT",
-      "contentSnippet": "IT之家 10 月 9 日消息，消息源 @evowizz 昨日（10 月 8 日）在 X 平台发布推文，爆料称三星首款头戴式耳机名为 Galaxy Studio，上市后将会和苹果的 AirPods Max 正面竞争。\n\nIT之家查询公开资料，@evowizz 在爆料方面相对不是很活跃，不过他此前曾精准爆料三星首款耳夹式耳机名为 Galaxy Buds On，可信度较高，目前海外 9to5Google、Android Authority 和 Android Headline 等诸多主流安卓媒体已采信跟进报道。\n在头戴式耳机方面，三星曾于 2015 年推出 Level Over 与 Level O",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "三星头戴式耳机Galaxy Studio曝光，将正面竞争苹果AirPods Max。",
+      "aiSummary": "钛媒体分析天津在AI基建领域的产业布局与价值被低估。",
       "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "IT之家为知名科技媒体，爆料者有过准确记录且被多家外媒跟进，但消息源单一，缺乏官方确认。"
+      "credibilityReason": "钛媒体为知名科技媒体，选题专业，但摘要信息简略，缺少具体数据与原始出处。"
     },
     {
-      "title": "灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」",
-      "link": "https://www.qbitai.com/2026/10/502330.html",
-      "pubDate": "Fri, 09 Oct 2026 04:15:05 +0000",
-      "contentSnippet": "机器人摆脱展会、舞台Demo，产生真实商业价值，究竟需要哪些东西？",
-      "sourceName": "量子位",
-      "sourceWeight": 80,
-      "allSources": [
-        "量子位"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "量子位报道Sharpa灵巧手将指尖触觉升级为全面体感，探讨机器人商业化路径。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "量子位为知名科技媒体，但摘要缺乏技术细节与原始出处，标题有宣传倾向。"
-    },
-    {
-      "title": "消息称 OPPO 阔直板工程机是标准 16:9：LIPO 极窄四等边设计，目测边框 1mm±",
-      "link": "https://www.ithome.com/1/010/872.htm",
-      "pubDate": "Fri, 09 Oct 2026 04:08:30 GMT",
-      "contentSnippet": "IT之家 10 月 9 日消息，博主 @数码闲聊站 今日发文透露，O（OPPO）阔直板工程机是标准 16:9，LIPO 极窄四等边设计，目测边框 1mm±，看标准视频会铺满整块屏幕，机身宽度大概是 81mm。\n\n博主随后在评论区补充，81mm 是屏幕宽度，封装后可能会宽一点，反正是 85mm 以内。该产品定位是旗舰线，肯定“不便宜的”。\n\n\nIT之家注意到，博主还透露，蓝厂（vivo）在评估（阔直板），进度没那么快。\n\n作为参考，目前已经发布的华为 Pura X View 阔直板手机搭载了一块 6.39 英寸 2232 × 1320 分辨率屏幕（比例 16:9.5），四等边黑边宽度均为 1.0",
+      "title": "Python 3.15 稳定版发布，默认采用 UTF-8 编码",
+      "link": "https://www.ithome.com/1/011/316.htm",
+      "pubDate": "Sat, 10 Oct 2026 04:05:01 GMT",
+      "contentSnippet": "IT之家 10 月 10 日消息，当地时间 10 月 9 日，Python 3.15.0 稳定版正式发布，相较于 Python 3.14，该版本带来了大量新特性与性能优化，汇聚了来自 1,012 位贡献者完成的 5,643 次代码提交。\n\n相比 3.14，Python 3.15 的主要新特性包括：\n解释器层面的改进\n\nPEP 661：新增内置哨兵类型 (Sentinel Built-in Type)\n\nPEP 686：Python 现已默认采用 UTF-8 编码\n\nPEP 798：推导式 (Comprehensions) 支持解包操作\n\nPEP 810：支持显式延迟导入 (Lazy Impor",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -220,16 +203,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "OPPO阔直板工程机曝光：16:9屏幕、LIPO极窄四等边、边框约1mm",
-      "credibilityScore": 62,
-      "credibilityLevel": "medium",
-      "credibilityReason": "IT之家转载博主爆料，无官方确认，细节具体但属传闻性质"
+      "aiSummary": "Python 3.15稳定版发布，默认采用UTF-8编码并新增多项特性",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道含具体PEP编号、贡献者及提交数据，信息详实可查证"
     },
     {
-      "title": "Counterpoint 预测：笔电 OLED 面板出货近两年将分别增长 50% 和 24%",
-      "link": "https://www.ithome.com/1/010/868.htm",
-      "pubDate": "Fri, 09 Oct 2026 04:06:32 GMT",
-      "contentSnippet": "IT之家 10 月 9 日消息，Counterpoint Research 昨日发布最新预测：笔记本电脑 OLED 显示面板出货将在 2026 和 2027 年分别实现 50% 和 24% 增长，主导高端笔记本电脑显示屏市场。\n与此同时，Mini LED 的笔电面板出货将在今年下滑 38% 并在 2027 年进一步大幅萎缩 60%。包含 OLED 与 Mini LED 的高端笔电屏幕今年有望录得 11% 出货增长，而整体笔电面板出货则会衰退 3%。\n\n▲ 图源：Counterpoint Research\n随着 OLED 在轻薄化设计、画质表现及成本竞争力方面的优势逐步显现，笔电制造商正日益倾向",
+      "title": "戴尔 AW3226Q 显示器上市：32\" UHD 165Hz OLED，到手价 4999 元",
+      "link": "https://www.ithome.com/1/011/314.htm",
+      "pubDate": "Sat, 10 Oct 2026 04:02:33 GMT",
+      "contentSnippet": "IT之家 10 月 10 日消息，Dell（戴尔）Alienware（外星人）现已在电商平台销售显示器新品 AW3226Q。这一型号采用 RGB 条纹像素排列 OLED 技术，表面为抗反镜面效果，到手价低至 4,999 元。\n\n天猫戴尔 AW3226Q 显示器 4999 元直达链接\nAW3226Q 基于 32\" (31.5\") 平板面板，获得 VESA DisplayHDR True Black 400 与 Dolby Vision 认证。其具备 UHD 分辨率、165Hz 刷新率；峰值亮度 1000nits；灰阶 (GtG) 响应时间 0.03ms；色域 99% DCI-P3，色偏 ΔE＜2",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -237,16 +220,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "Counterpoint预测笔电OLED面板2026、2027年分别增长50%和24%，Mini LED同期大幅萎缩。",
+      "aiSummary": "戴尔外星人AW3226Q显示器上市，32英寸4K 165Hz OLED，售价4999元。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家，引用Counterpoint Research原始预测数据，含具体增长率，信息详实可信。"
+      "credibilityReason": "IT之家为知名科技媒体，参数具体详实，含认证与价格，但缺少官方原始出处链接。"
     },
     {
-      "title": "央视曝光锂电池代加工骗局：号称在家月入过万，但一分加工费都拿不到",
-      "link": "https://www.ithome.com/1/010/860.htm",
-      "pubDate": "Fri, 09 Oct 2026 04:04:03 GMT",
-      "contentSnippet": "IT之家 10 月 9 日消息，央视财经今日曝光了锂电池代加工骗局，号称在家月入过万，实则是电池代工陷阱。\n报道称，“投资少、上手快，足不出户就能月入过万元……”这个“锂电池代加工”加盟项目在短视频平台大肆宣传，不少人看到后交押金、领原材料回家加工。\n但他们很快发现，培训时一学就会，回家动手做出来的电池，无论怎么努力，永远不合格，一分加工费都拿不到。\n有报案人表示，交纳 19,000 多元押金后给这家公司代加工“锂电池”，几个月下来竟然没有做出一件“合格”产品。\n\n图源：Pexels\n经查，这个犯罪团伙自 2025 年 3 月起，在没有任何生产锂电池资质的情况下，打着“锂电池代加工”的名义，共",
+      "title": "雷蛇猎魂光蛛 V3 专业迷你版 8KHZ 光轴键盘上市，1499 元",
+      "link": "https://www.ithome.com/1/011/313.htm",
+      "pubDate": "Sat, 10 Oct 2026 03:50:55 GMT",
+      "contentSnippet": "IT之家 10 月 10 日消息，Razer（雷蛇）现已开始在电商平台销售猎魂光蛛 V3 专业迷你版 8KHZ (Huntsman V3 Pro Mini 8KHz) 键盘。\n这一型号搭载第二代雷蛇模拟光轴，采用紧凑的 60% 配列，支持 8000Hz 轮询率，延迟短至 0.48ms，售价 1499 元。\n\n京东雷蛇 猎魂光蛛 V3 专业迷你版 8KHZ 键盘 1499 元直达链接\n猎魂光蛛 V3 专业迷你版 8KHZ 在 2.0mm 默认触发点下的轴体触发压力约为 40gf，支持快速触发、瞬时触发、可调节触发、快速敲击。\n该键盘拥有 5052 铝合金上盖，内部采用厚泡沫消音棉，轴体得到润滑，",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -254,10 +237,27 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "央视曝光锂电池代加工骗局，以在家月入过万为诱饵骗取押金，产品永远不合格。",
-      "credibilityScore": 92,
+      "aiSummary": "雷蛇猎魂光蛛V3专业迷你版8KHz光轴键盘上市，售价1499元。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "央视财经曝光，IT之家转载，有具体案例和金额，来源权威，事实清晰。"
+      "credibilityReason": "IT之家为知名科技媒体，信息含具体参数、价格及购买链接，来源可靠。"
+    },
+    {
+      "title": "曝 ASML 光刻机配件韩国市场将统一涨价 10%，三星、SK 海力士已接受",
+      "link": "https://www.ithome.com/1/011/312.htm",
+      "pubDate": "Sat, 10 Oct 2026 03:50:39 GMT",
+      "contentSnippet": "IT之家 10 月 10 日消息，据韩媒 The Elec 报道，全球最大半导体设备制造商 ASML（阿斯麦）决定，将供应韩国市场的光刻机替换设备部件价格统一提高 10%。\n此次涨价涉及极紫外光刻机和深紫外光刻机的全部备件，从 2027 年 1 月供货的产品开始执行新价格。\n业内人士消息称，ASML 总部 9 月初就已通过韩国分公司向三星电子和 SK 海力士提出涨价方案，经过与两家公司采购部门协商，最终敲定涨价事宜。\n涨价不仅涉及定期采购的耗材，还包括因故障或性能下降而需要更换的重要部件。光刻机内部装有大量精密零部件，包括负责光线传输的透镜、反射镜等光学部件，以及光源、精密驱动装置等。备件涨价",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "ASML对韩光刻机备件统一涨价10%，三星、SK海力士已接受，2027年起执行。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家引述韩媒The Elec，信息具体含时间、幅度、对象，但缺ASML官方确认。"
     }
   ]
 }
