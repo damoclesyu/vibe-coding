@@ -1,31 +1,48 @@
 {
-  "generatedAt": "2026-10-10T05:07:33.067Z",
+  "generatedAt": "2026-10-11T04:57:19.979Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "早报｜供应链回应iPhone 18 Pro砍单传闻/小米、华为手机同日调价/山姆拟限制亲友卡换绑",
-      "link": "https://www.ifanr.com/1683465?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pubDate": "Sat, 10 Oct 2026 00:14:25 +0000",
-      "contentSnippet": "· 豆包据称在建设水电燃气缴费等生活服务能力\r\n· IDC：第三季度全球 PC 出货量下降 20.1%，旺季未现\r\n· 曾被字节辞退的田柯宇获近 3000 万美元融资，研发世界模型\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "sourceName": "爱范儿",
-      "sourceWeight": 82,
+      "title": "广东省省长孟凡利会见苹果执行董事长库克",
+      "link": "https://www.ithome.com/1/011/588.htm",
+      "pubDate": "Sun, 11 Oct 2026 04:38:56 GMT",
+      "contentSnippet": "IT之家 10 月 11 日消息，据南方 + 报道，10 月 11 日，广东省委副书记、省长孟凡利在广州会见美国苹果公司执行董事长蒂姆 · 库克一行。\n蒂姆 · 库克感谢广东省对苹果公司发展的长期支持。他表示，广东是全球重要的制造业中心，拥有完备的产业链供应链、强劲的创新创造活力，更有极富潜力的消费市场与合作空间，聚集了大量苹果供应链伙伴和生态开发者。广东对苹果公司在华发展至关重要，公司很愿意进一步扩大在粤业务布局，围绕供应链协同、创新生态赋能、智能制造和绿色制造、销售渠道拓展等方面，与广东有关城市和企业探讨更多合作，更好实现互利共赢。\n孟凡利对蒂姆 · 库克一行表示欢迎。他说，苹果公司是全球",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "爱范儿"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "爱范儿早报汇总iPhone 18 Pro砍单传闻、小米华为调价及PC出货量下降等科技资讯。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "爱范儿为知名科技媒体，内容涉及多方传闻与IDC数据，但摘要简略缺乏细节和原始出处。"
+      "aiSummary": "广东省省长孟凡利在广州会见苹果执行董事长库克，双方探讨扩大在粤业务合作。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家引述南方+，属正规媒体报道，内容具体但缺少独立核实与更多细节。"
     },
     {
-      "title": "【钛晨报】中央重磅部署19项举措，新质生产力发展路径明确；证监会发文，权益类基金成立门槛拟降至5000万元；浙商大佬俞发祥遭立案，两家A股公司回应",
-      "link": "https://www.tmtpost.com/8163364.html",
-      "pubDate": "Sat, 10 Oct 2026 07:20:00 +0800",
-      "contentSnippet": "天孚通信回应海外进出口政策限制传闻；懂车帝辟谣网传内部整顿通知；特斯拉弃用“自动驾驶”命名，以争取欧洲监管批准；iPhone 18 Pro系列被曝削减零部件产量，供应链人士回应；山姆拟限制亲友卡绑定；企查查A股IPO终止；美发布应对所谓“结构性产能和生产过剩”问题部长级联合声明，中方回应。",
+      "title": "四部门征求意见进一步加强汽车产品创新设计等管理，岚图董事长卢放表态支持",
+      "link": "https://www.ithome.com/1/011/556.htm",
+      "pubDate": "Sun, 11 Oct 2026 01:08:40 GMT",
+      "contentSnippet": "IT之家 10 月 11 日消息，工业和信息化部等四部门 10 日公开发布关于进一步加强汽车产品创新设计和研发测试验证有关管理工作的通知（征求意见稿）。汽车产品创新设计技术指南围绕虚拟操纵件、门把手、新型人机交互系统、大角度座椅等方面提出具体测试验证要求。\n岚图汽车科技股份有限公司董事长卢放今日转发了新华社的有关报道，并表示：\n\n支持！创新要以安全为前提。一起努力，规范创新设计、强化测试验证，守护出行安全，促进行业更高质量发展。\n\n\n根据汽车产品创新设计技术指南，汽车生产企业应当将安全风险评估前置，在产品研发设计阶段，对有关创新设计进行复杂工况、极端场景下的失效模式分析，充分识别潜在安全风险，",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "四部门就汽车创新设计管理征求意见，岚图董事长卢放表态支持。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，引用官方征求意见稿及具体技术指南内容，信息有据可查。"
+    },
+    {
+      "title": "抱歉，AI眼镜目前仍是个“鸡肋”",
+      "link": "https://www.tmtpost.com/8164235.html",
+      "pubDate": "Sun, 11 Oct 2026 12:44:00 +0800",
+      "contentSnippet": "AI眼镜出货量高速增长，却仍未找到不可替代的核心价值。从硬件、交互到隐私，真正决定其未来的，不是能做多少事，而是什么事情必须由眼镜来做。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -33,152 +50,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体晨报汇总中央部署新质生产力、证监会基金门槛调整及多家企业动态。",
+      "aiSummary": "钛媒体分析AI眼镜出货量增长但缺乏不可替代核心价值，仍属鸡肋产品。",
       "credibilityScore": 78,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，内容涵盖多领域具体事件，但为摘要汇总，缺少原始出处和深度细节。"
+      "credibilityReason": "知名科技媒体钛媒体，观点分析有逻辑，但摘要缺少具体数据与原始出处支撑。"
     },
     {
-      "title": "美光台工厂工会获得罢工权，支持率 99%",
-      "link": "https://www.solidot.org/story?sid=85559",
-      "pubDate": "Fri, 09 Oct 2026 15:13:32 +0800",
-      "contentSnippet": "美光桃园工会宣布，经过 6 天投票及 10 月 6 日晚间开票，工会已取得罢工及设置罢工纠察线的权利。工会表示，领票名册共 2258 人，投票 2012 人，其中 1994 票同意、14 票不同意、4 张废票，投票率 89.1%；同意票占全体会员 88.3%，占实际投票人数约 99.1%。工会要求建立营业利益 15% 员工分润制度，并呼吁美光董事会正面回应四大诉求。工会指出，这次抗争的核心不只是奖金多寡，而是要求企业建立公平、透明的获利分享制度。工会主张，美光应设立以营业利益 15% 为基础的员工分润机制，让分配金额随公司获利调整。美光在台湾有两座工厂，除桃园工厂工会外，另一个台中工厂工会也在",
-      "sourceName": "Solidot",
-      "sourceWeight": 75,
-      "allSources": [
-        "Solidot"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "美光桃园工会高票通过罢工投票，要求15%营业利益分润。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体Solidot，数据具体（投票人数、比例），事件清晰，但缺少美光官方回应。"
-    },
-    {
-      "title": "产品搭载与小米“小爱同学”近似的“小爱小爱”语音指令，两公司被判构成不正当竞争",
-      "link": "https://www.ithome.com/1/011/323.htm",
-      "pubDate": "Sat, 10 Oct 2026 04:57:51 GMT",
-      "contentSnippet": "IT之家 10 月 10 日消息，据人民法院报，近日，浙江省慈溪市人民法院审结了一起涉及语音唤醒词的不正当竞争纠纷案。被告公司擅自在生产、销售的智能家电上搭载与国内某知名品牌近似的语音唤醒词，法院认定其行为构成不正当竞争，判令被告公司承担相应赔偿责任。\n“小爱同学”为小米科技公司旗下的人工智能交互引擎名称、搭载人工智能语音交互引擎的智能音箱名称，也是该交互引擎的语音指令唤醒词，搭载在小米公司众多产品设备中。\n2026 年 1 月，该公司向慈溪法院起诉称，某电器公司与某电器科技公司生产、销售的某款智能语音茶吧机载有“小爱小爱”语音模块，该款产品的网店销售页面和使用说明书中也有“小爱小爱”等智能语",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "两公司因智能家电搭载近似小米“小爱同学”的“小爱小爱”唤醒词，被判不正当竞争。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引用人民法院报，案件信息具体，来源权威，但正文略有截断。"
-    },
-    {
-      "title": "华为 Pura X View 阔直板手机获鸿蒙 HarmonyOS 7.0.0.109 SP10 升级，支持多人互助通信共享功能",
-      "link": "https://www.ithome.com/1/011/321.htm",
-      "pubDate": "Sat, 10 Oct 2026 04:53:57 GMT",
-      "contentSnippet": "IT之家 10 月 10 日消息，华为今日面向 Pura X View 手机率先推送了鸿蒙 HarmonyOS 7.0.0.109 SP10 版本升级，包体大小约 4.83GB。新版本带来了多人互助通信共享、熄屏循迹导航等功能。\n\nIT之家附华为 Pura X View 阔直板手机此次更新内容如下：\n\n多设备协同\n\n通信共享功能再升级，手机与搭载 HarmonyOS 7 的手机、平板、鸿蒙电脑之间支持多人互助通信共享，通过碰一碰或者登录同一华为账号共享网络建立互助网络，在移动网络信号弱或网络负载大等场景下可获得更快、更稳的网络体验。\n\n桌面和个性化\n\n系统熄屏显示新增熄屏循迹导航功能，开启后，",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "华为Pura X View推送鸿蒙7.0.0.109 SP10升级，新增多人互助通信共享与熄屏循迹导航。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息含具体版本号、包体大小及功能细节，但缺少官方原始出处链接。"
-    },
-    {
-      "title": "减轻用眼疲劳：曝三星 Galaxy S27 Pro / Ultra 手机支持 DC 调光",
-      "link": "https://www.ithome.com/1/011/320.htm",
-      "pubDate": "Sat, 10 Oct 2026 04:52:33 GMT",
-      "contentSnippet": "IT之家 10 月 10 日消息，消息源 @WalleGalaxy 昨日（10 月 9 日）在 X 平台发布推文，爆料称三星 Galaxy S27 Pro 和 Galaxy S27 Ultra 两款旗舰手机将支持 DC 调光，有助于减少眼睛疲劳。\n\n三星手机此前主要通过脉冲宽度调制（PWM）调节屏幕亮度，Galaxy S26 Ultra 也采用该方式。PWM 通过高频开关屏幕发光来改变亮度，部分对闪烁敏感的用户可能出现眼疲劳、疲倦或头痛。\n而 DC 调光（DC dimming）通过降低流向像素的电流来调暗屏幕，这种方式可平滑降低亮度，并减少传统 PWM 调光带来的快速闪烁。\n\n数码博主 @i冰",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "爆料称三星Galaxy S27 Pro/Ultra将支持DC调光以减少眼疲劳",
-      "credibilityScore": 65,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为IT之家，但核心信息来自单一爆料者，缺乏官方确认，技术解释基本准确"
-    },
-    {
-      "title": "CMF by Nothing Speaker S/M 蓝牙音箱曝光：牛奶盒造型",
-      "link": "https://www.ithome.com/1/011/319.htm",
-      "pubDate": "Sat, 10 Oct 2026 04:23:39 GMT",
-      "contentSnippet": "IT之家 10 月 10 日消息，据 droid life 报道，Nothing 旗下子品牌 CMF（CMF by Nothing）即将推出两款全新蓝牙音箱，分别命名为“Speaker S”与“Speaker M”。\nNothing 已向美国 FCC 提交了两款新设备的认证申请，设备型号分别为 E494 和 E495。第三方电商页面则直接泄露了这两款蓝牙音箱的外观。\n\n根据电商平台页面公布的部分参数，尺寸更大的 Speaker M 额定输出功率为 12W，采用了酷似“牛奶盒”的外观设计；拥有 18 小时续航，支持蓝牙 5.4 与 IP54 级防泼溅，并配有便携手提把手。\n\nIT之家注意到，小号",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "CMF by Nothing 两款蓝牙音箱 Speaker S/M 曝光，M 款 12W 功率、18 小时续航。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家援引 droid life 及 FCC 认证，参数具体，但电商泄露信息未经官方确认。"
-    },
-    {
-      "title": "这三个摄影 App， 配得上你全新的 iPhone 18 Pro",
-      "link": "https://www.ifanr.com/1683596?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pubDate": "Sat, 10 Oct 2026 04:12:06 +0000",
-      "contentSnippet": "iPhone 摄影又双叒叕一次进化\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "sourceName": "爱范儿",
-      "sourceWeight": 82,
-      "allSources": [
-        "爱范儿"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "爱范儿推荐三款摄影App适配iPhone 18 Pro，但正文内容缺失。",
-      "credibilityScore": 55,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体爱范儿，但正文仅一句摘要，缺乏具体App名称、功能细节和数据支撑。"
-    },
-    {
-      "title": "大众在德因金融信息披露违规被罚款 120 万欧元",
-      "link": "https://www.ithome.com/1/011/318.htm",
-      "pubDate": "Sat, 10 Oct 2026 04:11:34 GMT",
-      "contentSnippet": "IT之家 10 月 10 日消息，德国联邦金融监管局 (BaFin) 当地时间 9 日宣布，该机构在本月 1 日对大众汽车处以 120 万欧元（IT之家注：现汇率约合 901.2 万元人民币）的罚款。\n\nBaFin 指出，大众汽车早前发布的 2023 财年业绩预测远高于市场预期。这一业绩预期本应通过特别公告立即披露，但该公司却仅通过新闻稿发布了这一内幕信息。\n大众汽车的这一行为违反了德国《市场滥用条例》，尤其是其中的第 17 条第 1 款第 1 项。BaFin 可对此处以罚款，最高罚款额为 250 万欧元或公司总收入的 2%。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "大众因未按规定披露2023财年业绩预测，被德国BaFin罚款120万欧元。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，信息具体，引用监管机构BaFin及具体法规条款，有原始出处。"
-    },
-    {
-      "title": "Circana 分析师：美国游戏主机市场或陷入 80 年代初至今最严重危机",
-      "link": "https://www.ithome.com/1/011/317.htm",
-      "pubDate": "Sat, 10 Oct 2026 04:07:26 GMT",
-      "contentSnippet": "IT之家 10 月 10 日消息，据外媒 Eurogamer 今天（10 日）报道，AI 数据中心对内存芯片的需求激增，推动 PS5 和 XBOX Series X/S 在全球大多数市场涨至历史最高价。\n市场研究机构 Circana 分析师马特 · 皮斯卡特拉担心，美国游戏主机市场可能正陷入 20 世纪 80 年代初以来最严重的危机。彼时，游戏行业曾经历一场全面崩盘。\n皮斯卡特拉公布的数据显示，随着 XBOX 和 PS5 不断涨价，美国游戏主机销量明显下滑。今年前 8 个月，XBOX 主机销量同比下降 33%，创下同期历史最低纪录；PlayStation 主机销量也下滑 25%，跌至 2013",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "分析师警告美国游戏主机市场或因涨价陷入80年代初以来最严重危机",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家引述Eurogamer及Circana分析师数据，含具体销量降幅，来源可追溯，但为二手编译"
-    },
-    {
-      "title": "天津，一座被低估的AI基建重镇",
-      "link": "https://www.tmtpost.com/8163595.html",
-      "pubDate": "Sat, 10 Oct 2026 12:06:59 +0800",
-      "contentSnippet": "低调的天津从来不只是“注册地”，更是科技产业链上的共建者和押注者",
+      "title": "Manus被AI大厂重新定价",
+      "link": "https://www.tmtpost.com/8164195.html",
+      "pubDate": "Sun, 11 Oct 2026 12:38:00 +0800",
+      "contentSnippet": "Meta退单后，Manus的身价还涨了？",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -186,16 +67,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体分析天津在AI基建领域的产业布局与价值被低估。",
+      "aiSummary": "钛媒体报道Meta退单后Manus身价反涨，AI大厂重新定价",
       "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "钛媒体为知名科技媒体，选题专业，但摘要信息简略，缺少具体数据与原始出处。"
+      "credibilityReason": "钛媒体为知名科技媒体，但摘要信息简略，缺少具体数据与原始出处"
     },
     {
-      "title": "Python 3.15 稳定版发布，默认采用 UTF-8 编码",
-      "link": "https://www.ithome.com/1/011/316.htm",
-      "pubDate": "Sat, 10 Oct 2026 04:05:01 GMT",
-      "contentSnippet": "IT之家 10 月 10 日消息，当地时间 10 月 9 日，Python 3.15.0 稳定版正式发布，相较于 Python 3.14，该版本带来了大量新特性与性能优化，汇聚了来自 1,012 位贡献者完成的 5,643 次代码提交。\n\n相比 3.14，Python 3.15 的主要新特性包括：\n解释器层面的改进\n\nPEP 661：新增内置哨兵类型 (Sentinel Built-in Type)\n\nPEP 686：Python 现已默认采用 UTF-8 编码\n\nPEP 798：推导式 (Comprehensions) 支持解包操作\n\nPEP 810：支持显式延迟导入 (Lazy Impor",
+      "title": "磐镭 YO2 锐龙 AI Max+ PRO 495 版迷你工作站开售：192GB+2TB 售价 49999 元",
+      "link": "https://www.ithome.com/1/011/587.htm",
+      "pubDate": "Sun, 11 Oct 2026 04:34:16 GMT",
+      "contentSnippet": "IT之家 10 月 11 日消息，搭载 AMD 锐龙 AI MAX+ PRO 495 处理器的旗舰级迷你工作站磐镭 YO2 现已开售，192GB 内存 + 2TB SSD 售价 49999 元。\n\n这款迷你工作站搭载 AMD 锐龙 AI Max+ PRO 495 处理器，4nm 制程，Zen5 架构，16 核 32 线程，最高加速频率 5.2GHz；内置 Radeon 8065S 核显，RDNA 3.5 架构，40 核图形单元，最高 160GB 动态显存；NPU 独立算力 55 TOPS，总算力 131TOPS。\n这款迷你工作站标配 192GB LPDDR5X 四通道内存，配备 3 个 PCI",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -203,61 +84,180 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "Python 3.15稳定版发布，默认采用UTF-8编码并新增多项特性",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道含具体PEP编号、贡献者及提交数据，信息详实可查证"
-    },
-    {
-      "title": "戴尔 AW3226Q 显示器上市：32\" UHD 165Hz OLED，到手价 4999 元",
-      "link": "https://www.ithome.com/1/011/314.htm",
-      "pubDate": "Sat, 10 Oct 2026 04:02:33 GMT",
-      "contentSnippet": "IT之家 10 月 10 日消息，Dell（戴尔）Alienware（外星人）现已在电商平台销售显示器新品 AW3226Q。这一型号采用 RGB 条纹像素排列 OLED 技术，表面为抗反镜面效果，到手价低至 4,999 元。\n\n天猫戴尔 AW3226Q 显示器 4999 元直达链接\nAW3226Q 基于 32\" (31.5\") 平板面板，获得 VESA DisplayHDR True Black 400 与 Dolby Vision 认证。其具备 UHD 分辨率、165Hz 刷新率；峰值亮度 1000nits；灰阶 (GtG) 响应时间 0.03ms；色域 99% DCI-P3，色偏 ΔE＜2",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "戴尔外星人AW3226Q显示器上市，32英寸4K 165Hz OLED，售价4999元。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，参数具体详实，含认证与价格，但缺少官方原始出处链接。"
-    },
-    {
-      "title": "雷蛇猎魂光蛛 V3 专业迷你版 8KHZ 光轴键盘上市，1499 元",
-      "link": "https://www.ithome.com/1/011/313.htm",
-      "pubDate": "Sat, 10 Oct 2026 03:50:55 GMT",
-      "contentSnippet": "IT之家 10 月 10 日消息，Razer（雷蛇）现已开始在电商平台销售猎魂光蛛 V3 专业迷你版 8KHZ (Huntsman V3 Pro Mini 8KHz) 键盘。\n这一型号搭载第二代雷蛇模拟光轴，采用紧凑的 60% 配列，支持 8000Hz 轮询率，延迟短至 0.48ms，售价 1499 元。\n\n京东雷蛇 猎魂光蛛 V3 专业迷你版 8KHZ 键盘 1499 元直达链接\n猎魂光蛛 V3 专业迷你版 8KHZ 在 2.0mm 默认触发点下的轴体触发压力约为 40gf，支持快速触发、瞬时触发、可调节触发、快速敲击。\n该键盘拥有 5052 铝合金上盖，内部采用厚泡沫消音棉，轴体得到润滑，",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "雷蛇猎魂光蛛V3专业迷你版8KHz光轴键盘上市，售价1499元。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息含具体参数、价格及购买链接，来源可靠。"
-    },
-    {
-      "title": "曝 ASML 光刻机配件韩国市场将统一涨价 10%，三星、SK 海力士已接受",
-      "link": "https://www.ithome.com/1/011/312.htm",
-      "pubDate": "Sat, 10 Oct 2026 03:50:39 GMT",
-      "contentSnippet": "IT之家 10 月 10 日消息，据韩媒 The Elec 报道，全球最大半导体设备制造商 ASML（阿斯麦）决定，将供应韩国市场的光刻机替换设备部件价格统一提高 10%。\n此次涨价涉及极紫外光刻机和深紫外光刻机的全部备件，从 2027 年 1 月供货的产品开始执行新价格。\n业内人士消息称，ASML 总部 9 月初就已通过韩国分公司向三星电子和 SK 海力士提出涨价方案，经过与两家公司采购部门协商，最终敲定涨价事宜。\n涨价不仅涉及定期采购的耗材，还包括因故障或性能下降而需要更换的重要部件。光刻机内部装有大量精密零部件，包括负责光线传输的透镜、反射镜等光学部件，以及光源、精密驱动装置等。备件涨价",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "ASML对韩光刻机备件统一涨价10%，三星、SK海力士已接受，2027年起执行。",
+      "aiSummary": "磐镭YO2迷你工作站开售，搭载锐龙AI Max+ PRO 495，售价49999元。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家引述韩媒The Elec，信息具体含时间、幅度、对象，但缺ASML官方确认。"
+      "credibilityReason": "IT之家为知名科技媒体，参数具体详实，但缺少原始出处引用，价格偏高需核实。"
+    },
+    {
+      "title": "美图公司大起大落",
+      "link": "https://www.tmtpost.com/8164230.html",
+      "pubDate": "Sun, 11 Oct 2026 12:33:00 +0800",
+      "contentSnippet": "美图公司股价起伏频繁，经历多次起伏，但凭借业绩增长和AI技术转型，仍保持发展，成为科技领域的典型案例。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "美图公司股价起伏频繁，凭借业绩增长和AI技术转型保持发展。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "钛媒体为知名科技媒体，但内容较简略，缺少具体数据支撑和原始出处。"
+    },
+    {
+      "title": "DDR4 内存重出江湖，PC 终于癫成我不认识的样子",
+      "link": "https://www.ifanr.com/1683529?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pubDate": "Sun, 11 Oct 2026 04:30:19 +0000",
+      "contentSnippet": "买新不如修旧\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "sourceName": "爱范儿",
+      "sourceWeight": 82,
+      "allSources": [
+        "爱范儿"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "爱范儿报道DDR4内存重新流行，反映PC市场买新不如修旧的现象。",
+      "credibilityScore": 62,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体爱范儿，但正文摘要极简，缺乏具体数据和技术细节，标题偏口语化。"
+    },
+    {
+      "title": "3D 芯片堆得上去，未必堆得划算：量产卡在良率与成本",
+      "link": "https://www.tmtpost.com/8163821.html",
+      "pubDate": "Sun, 11 Oct 2026 12:27:20 +0800",
+      "contentSnippet": "芯片越堆越高，性能未必越好，利润也未必越多。决定 3D 集成能否规模商业化的，不只是键合精度，而是每颗合格芯片最终要花多少钱。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体分析3D芯片集成量产瓶颈，指出良率与成本是商业化关键。",
+      "credibilityScore": 78,
+      "credibilityLevel": "high",
+      "credibilityReason": "知名科技媒体，观点专业具体，但缺少数据与原始出处支撑。"
+    },
+    {
+      "title": "西西弗书店是怎么赚钱的？",
+      "link": "https://www.tmtpost.com/8164243.html",
+      "pubDate": "Sun, 11 Oct 2026 12:26:01 +0800",
+      "contentSnippet": "卖书真的很难赚钱。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体分析西西弗书店盈利模式，指出单纯卖书难以赚钱。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体钛媒体，但正文摘要过简，缺少具体数据与细节支撑。"
+    },
+    {
+      "title": "张雪机车宣布拿下 9 月中大排量摩托车国内品牌销量第一",
+      "link": "https://www.ithome.com/1/011/585.htm",
+      "pubDate": "Sun, 11 Oct 2026 04:24:00 GMT",
+      "contentSnippet": "IT之家 10 月 11 日消息，张雪机车今日晒出海报，宣布拿下 9 月中大排量摩托车（≥ 250CC）国内品牌销量第一，9 月销量 9,979 台，第二名的春风动力中大排量摩托车销量 9,153 台。\n\n据IT之家 9 月 19 日报道，在第二十四届中国国际摩托车博览会上，张雪机车创始人张雪透露，夺冠后摩托车热销，原计划 2026 年产量为 5~6 万台，已提前在 8 月完成，预计到年末能完成 10 万台产量。\n\n张雪机车还在摩博会“五车齐发”，推出 820X、600V、500F-2027、820RR-RS、820RR-RC 五款摩托车。\n2026 世界超级摩托车锦标赛（WSBK）第十一站",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "张雪机车宣布9月中大排量摩托车国内销量第一，达9979台。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "IT之家为知名科技媒体，数据具体，但销量数据源自厂商海报，缺乏第三方验证。"
+    },
+    {
+      "title": "利润暴涨968%，天赐材料却急着赴港募资，中国电解液龙头们在海外是否还能称王称霸",
+      "link": "https://www.tmtpost.com/8164289.html",
+      "pubDate": "Sun, 11 Oct 2026 12:22:57 +0800",
+      "contentSnippet": "天赐材料通过港交所聆讯，募资出海扩产待验证。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "天赐材料通过港交所聆讯，利润暴涨后赴港募资出海扩产",
+      "credibilityScore": 78,
+      "credibilityLevel": "high",
+      "credibilityReason": "钛媒体为知名科技媒体，信息有具体数据支撑，但正文摘要较简略，缺少原始出处引用"
+    },
+    {
+      "title": "鼠疫概念股集体澄清，A股“沾边即涨”套路仍在收割，短线舆情题材的投资陷阱如何规避？",
+      "link": "https://www.tmtpost.com/8164285.html",
+      "pubDate": "Sun, 11 Oct 2026 12:22:52 +0800",
+      "contentSnippet": "A股鼠疫概念炒作复盘，提示投资者需甄别题材避险。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体复盘A股鼠疫概念股炒作，提示投资者甄别题材陷阱。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体钛媒体，选题具体，但正文信息简略，缺少数据与原始出处支撑。"
+    },
+    {
+      "title": "中国AI，开始为算力算账",
+      "link": "https://www.tmtpost.com/8164264.html",
+      "pubDate": "Sun, 11 Oct 2026 12:21:41 +0800",
+      "contentSnippet": "模型越卖越便宜，算力投资却越烧越猛。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体分析中国AI行业模型降价与算力投资激增的矛盾现状",
+      "credibilityScore": 78,
+      "credibilityLevel": "high",
+      "credibilityReason": "钛媒体为知名科技媒体，选题切中行业痛点，但摘要信息较简略，缺少具体数据支撑"
+    },
+    {
+      "title": "小米汽车副总裁李肖爽回顾澎程座椅滑轨拉矿卡挑战，重申“安全高于一切”",
+      "link": "https://www.ithome.com/1/011/584.htm",
+      "pubDate": "Sun, 11 Oct 2026 04:13:05 GMT",
+      "contentSnippet": "IT之家 10 月 11 日消息，小米汽车副总裁李肖爽今日发布视频，回顾了小米澎程的座椅滑轨拉矿卡挑战。\n\n他重申：“安全高于一切。”\n\n小米汽车近年来一直在反复强调汽车安全。在今年 7 月的小米澎程技术发布会上，小米创办人、董事长兼 CEO 雷军在登台演讲时表示，安全是基础，安全是前提，安全高于一切。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "小米汽车副总裁李肖爽回顾澎程座椅滑轨拉矿卡挑战，重申安全高于一切。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体IT之家，内容具体但缺乏第三方数据验证，属企业宣传性质报道。"
+    },
+    {
+      "title": "欧洲本地首台小鹏 G9L 在麦格纳奥地利工厂顺利完成试制，该车将于 10 月 12 日全球上市",
+      "link": "https://www.ithome.com/1/011/583.htm",
+      "pubDate": "Sun, 11 Oct 2026 04:01:44 GMT",
+      "contentSnippet": "IT之家 10 月 11 日消息，小鹏汽车官方宣布，欧洲本地首台小鹏 G9L 已于 10 月 7 日在麦格纳奥地利工厂顺利完成试制。\n\n小鹏汽车官方表示，该工厂隶属麦格纳集团 —— 全球领先的汽车零部件供应商与整车代工商，其格拉茨工厂拥有百年积淀和成熟的高端车型整车量产经验。随着首台小鹏 G9L 在麦格纳奥地利工厂试装车下线，标志着小鹏欧洲本地化战略的又一重要进展。\n\n据IT之家此前报道，小鹏 G9L 即将亮相巴黎车展，正式开启全球上市，计划登陆全球 64 个国家和地区。该车已于 9 月 17 日晚间在国内正式上市，定位“黄金大五座科技旗舰”，拥有超级增程、纯电两种动力选择，限时优惠价 23.",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "小鹏G9L欧洲首台试制车在麦格纳奥地利工厂下线，将于10月12日全球上市。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息具体含工厂、日期、车型细节，但缺少官方原始链接。"
     }
   ]
 }
