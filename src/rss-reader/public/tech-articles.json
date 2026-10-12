@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-11T04:57:19.979Z",
+  "generatedAt": "2026-10-12T05:11:22.303Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "广东省省长孟凡利会见苹果执行董事长库克",
-      "link": "https://www.ithome.com/1/011/588.htm",
-      "pubDate": "Sun, 11 Oct 2026 04:38:56 GMT",
-      "contentSnippet": "IT之家 10 月 11 日消息，据南方 + 报道，10 月 11 日，广东省委副书记、省长孟凡利在广州会见美国苹果公司执行董事长蒂姆 · 库克一行。\n蒂姆 · 库克感谢广东省对苹果公司发展的长期支持。他表示，广东是全球重要的制造业中心，拥有完备的产业链供应链、强劲的创新创造活力，更有极富潜力的消费市场与合作空间，聚集了大量苹果供应链伙伴和生态开发者。广东对苹果公司在华发展至关重要，公司很愿意进一步扩大在粤业务布局，围绕供应链协同、创新生态赋能、智能制造和绿色制造、销售渠道拓展等方面，与广东有关城市和企业探讨更多合作，更好实现互利共赢。\n孟凡利对蒂姆 · 库克一行表示欢迎。他说，苹果公司是全球",
+      "title": "吉利远程星享 M7E 车型上市：限时 11.39 万元，续航 465km 首搭金砖致远电池",
+      "link": "https://www.ithome.com/1/011/832.htm",
+      "pubDate": "Mon, 12 Oct 2026 03:34:34 GMT",
+      "contentSnippet": "IT之家 10 月 12 日消息，吉利远程旗下纯电商务车星享 M7E 昨日正式上市，官方指导价 12.59 万元，2026 年 12 月 31 日 24 点前下定的用户可享限时专享价 11.39 万元。\n\n星享 M7E 是吉利远程旗下首款搭载金砖致远电池的量产车型，吉利远程同步推出首任车主“电池终身质保”权益，12 月 31 日前下定的首任车主还可享受“三电终身质保”。购车用户还可享保险礼、用车礼、金融礼、增换礼等多重限时权益。\n\n星享 M7E 定位介于货运 Van 与乘用 MPV 之间，车身尺寸为 5000×1820×1985mm，轴距 3205mm；车内采用 2+2+3 经典七座布局，第二",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,33 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "广东省省长孟凡利在广州会见苹果执行董事长库克，双方探讨扩大在粤业务合作。",
-      "credibilityScore": 82,
+      "aiSummary": "吉利远程星享M7E上市，限时11.39万元，续航465km，首搭金砖致远电池。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家引述南方+，属正规媒体报道，内容具体但缺少独立核实与更多细节。"
+      "credibilityReason": "来源为知名科技媒体IT之家，信息具体含价格、续航、尺寸等数据，但缺少原始出处引用。"
     },
     {
-      "title": "四部门征求意见进一步加强汽车产品创新设计等管理，岚图董事长卢放表态支持",
-      "link": "https://www.ithome.com/1/011/556.htm",
-      "pubDate": "Sun, 11 Oct 2026 01:08:40 GMT",
-      "contentSnippet": "IT之家 10 月 11 日消息，工业和信息化部等四部门 10 日公开发布关于进一步加强汽车产品创新设计和研发测试验证有关管理工作的通知（征求意见稿）。汽车产品创新设计技术指南围绕虚拟操纵件、门把手、新型人机交互系统、大角度座椅等方面提出具体测试验证要求。\n岚图汽车科技股份有限公司董事长卢放今日转发了新华社的有关报道，并表示：\n\n支持！创新要以安全为前提。一起努力，规范创新设计、强化测试验证，守护出行安全，促进行业更高质量发展。\n\n\n根据汽车产品创新设计技术指南，汽车生产企业应当将安全风险评估前置，在产品研发设计阶段，对有关创新设计进行复杂工况、极端场景下的失效模式分析，充分识别潜在安全风险，",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "四部门就汽车创新设计管理征求意见，岚图董事长卢放表态支持。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，引用官方征求意见稿及具体技术指南内容，信息有据可查。"
-    },
-    {
-      "title": "抱歉，AI眼镜目前仍是个“鸡肋”",
-      "link": "https://www.tmtpost.com/8164235.html",
-      "pubDate": "Sun, 11 Oct 2026 12:44:00 +0800",
-      "contentSnippet": "AI眼镜出货量高速增长，却仍未找到不可替代的核心价值。从硬件、交互到隐私，真正决定其未来的，不是能做多少事，而是什么事情必须由眼镜来做。",
+      "title": "电脑卖不动，但联想们更赚钱了",
+      "link": "https://www.tmtpost.com/8164778.html",
+      "pubDate": "Mon, 12 Oct 2026 09:38:54 +0800",
+      "contentSnippet": "利润和供应链话语权都在重新分配。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -50,118 +33,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体分析AI眼镜出货量增长但缺乏不可替代核心价值，仍属鸡肋产品。",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体钛媒体，观点分析有逻辑，但摘要缺少具体数据与原始出处支撑。"
-    },
-    {
-      "title": "Manus被AI大厂重新定价",
-      "link": "https://www.tmtpost.com/8164195.html",
-      "pubDate": "Sun, 11 Oct 2026 12:38:00 +0800",
-      "contentSnippet": "Meta退单后，Manus的身价还涨了？",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体报道Meta退单后Manus身价反涨，AI大厂重新定价",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "钛媒体为知名科技媒体，但摘要信息简略，缺少具体数据与原始出处"
-    },
-    {
-      "title": "磐镭 YO2 锐龙 AI Max+ PRO 495 版迷你工作站开售：192GB+2TB 售价 49999 元",
-      "link": "https://www.ithome.com/1/011/587.htm",
-      "pubDate": "Sun, 11 Oct 2026 04:34:16 GMT",
-      "contentSnippet": "IT之家 10 月 11 日消息，搭载 AMD 锐龙 AI MAX+ PRO 495 处理器的旗舰级迷你工作站磐镭 YO2 现已开售，192GB 内存 + 2TB SSD 售价 49999 元。\n\n这款迷你工作站搭载 AMD 锐龙 AI Max+ PRO 495 处理器，4nm 制程，Zen5 架构，16 核 32 线程，最高加速频率 5.2GHz；内置 Radeon 8065S 核显，RDNA 3.5 架构，40 核图形单元，最高 160GB 动态显存；NPU 独立算力 55 TOPS，总算力 131TOPS。\n这款迷你工作站标配 192GB LPDDR5X 四通道内存，配备 3 个 PCI",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "磐镭YO2迷你工作站开售，搭载锐龙AI Max+ PRO 495，售价49999元。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，参数具体详实，但缺少原始出处引用，价格偏高需核实。"
-    },
-    {
-      "title": "美图公司大起大落",
-      "link": "https://www.tmtpost.com/8164230.html",
-      "pubDate": "Sun, 11 Oct 2026 12:33:00 +0800",
-      "contentSnippet": "美图公司股价起伏频繁，经历多次起伏，但凭借业绩增长和AI技术转型，仍保持发展，成为科技领域的典型案例。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "美图公司股价起伏频繁，凭借业绩增长和AI技术转型保持发展。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "钛媒体为知名科技媒体，但内容较简略，缺少具体数据支撑和原始出处。"
-    },
-    {
-      "title": "DDR4 内存重出江湖，PC 终于癫成我不认识的样子",
-      "link": "https://www.ifanr.com/1683529?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pubDate": "Sun, 11 Oct 2026 04:30:19 +0000",
-      "contentSnippet": "买新不如修旧\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "sourceName": "爱范儿",
-      "sourceWeight": 82,
-      "allSources": [
-        "爱范儿"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "爱范儿报道DDR4内存重新流行，反映PC市场买新不如修旧的现象。",
-      "credibilityScore": 62,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体爱范儿，但正文摘要极简，缺乏具体数据和技术细节，标题偏口语化。"
-    },
-    {
-      "title": "3D 芯片堆得上去，未必堆得划算：量产卡在良率与成本",
-      "link": "https://www.tmtpost.com/8163821.html",
-      "pubDate": "Sun, 11 Oct 2026 12:27:20 +0800",
-      "contentSnippet": "芯片越堆越高，性能未必越好，利润也未必越多。决定 3D 集成能否规模商业化的，不只是键合精度，而是每颗合格芯片最终要花多少钱。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体分析3D芯片集成量产瓶颈，指出良率与成本是商业化关键。",
+      "aiSummary": "钛媒体报道PC销量下滑但联想等厂商利润反增，供应链话语权重分配。",
       "credibilityScore": 78,
       "credibilityLevel": "high",
-      "credibilityReason": "知名科技媒体，观点专业具体，但缺少数据与原始出处支撑。"
+      "credibilityReason": "钛媒体为知名科技媒体，选题专业，但摘要过简，缺少数据与原始出处支撑。"
     },
     {
-      "title": "西西弗书店是怎么赚钱的？",
-      "link": "https://www.tmtpost.com/8164243.html",
-      "pubDate": "Sun, 11 Oct 2026 12:26:01 +0800",
-      "contentSnippet": "卖书真的很难赚钱。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体分析西西弗书店盈利模式，指出单纯卖书难以赚钱。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，但正文摘要过简，缺少具体数据与细节支撑。"
-    },
-    {
-      "title": "张雪机车宣布拿下 9 月中大排量摩托车国内品牌销量第一",
-      "link": "https://www.ithome.com/1/011/585.htm",
-      "pubDate": "Sun, 11 Oct 2026 04:24:00 GMT",
-      "contentSnippet": "IT之家 10 月 11 日消息，张雪机车今日晒出海报，宣布拿下 9 月中大排量摩托车（≥ 250CC）国内品牌销量第一，9 月销量 9,979 台，第二名的春风动力中大排量摩托车销量 9,153 台。\n\n据IT之家 9 月 19 日报道，在第二十四届中国国际摩托车博览会上，张雪机车创始人张雪透露，夺冠后摩托车热销，原计划 2026 年产量为 5~6 万台，已提前在 8 月完成，预计到年末能完成 10 万台产量。\n\n张雪机车还在摩博会“五车齐发”，推出 820X、600V、500F-2027、820RR-RS、820RR-RC 五款摩托车。\n2026 世界超级摩托车锦标赛（WSBK）第十一站",
+      "title": "“百度世界 2026”定档 11 月 12 日，将有“重磅嘉宾、企业级 AI 产品”集中亮相",
+      "link": "https://www.ithome.com/1/011/859.htm",
+      "pubDate": "Mon, 12 Oct 2026 05:04:24 GMT",
+      "contentSnippet": "IT之家 10 月 12 日消息，百度官方今日宣布，百度世界 2026 将于 11 月 12 日在北京 · 国家会议中心二期举办。目前，大会官网已开启售票通道。\n本届大会以“下一幕，智能组织”为主题。十年前，百度创始人李彦宏在百度世界 2016 上提出“互联网的下一幕，是人工智能”。十年后，“下一幕，智能组织”的大会主题与这一判断形成呼应，将关注点进一步引向 AI 驱动的组织重构。\n\n根据官方预告，百度世界 2026 将带来：\n\n\nN 个重磅发布：重磅嘉宾、企业级 AI 产品集中亮相\n\n12 场分论坛：各路专家碰头，把“智能组织”聊透\n\n30+ 公开课：大咖齐聚，解锁硬核 AI 技术实战经验",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -169,95 +50,215 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "张雪机车宣布9月中大排量摩托车国内销量第一，达9979台。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "IT之家为知名科技媒体，数据具体，但销量数据源自厂商海报，缺乏第三方验证。"
-    },
-    {
-      "title": "利润暴涨968%，天赐材料却急着赴港募资，中国电解液龙头们在海外是否还能称王称霸",
-      "link": "https://www.tmtpost.com/8164289.html",
-      "pubDate": "Sun, 11 Oct 2026 12:22:57 +0800",
-      "contentSnippet": "天赐材料通过港交所聆讯，募资出海扩产待验证。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "天赐材料通过港交所聆讯，利润暴涨后赴港募资出海扩产",
-      "credibilityScore": 78,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，信息有具体数据支撑，但正文摘要较简略，缺少原始出处引用"
-    },
-    {
-      "title": "鼠疫概念股集体澄清，A股“沾边即涨”套路仍在收割，短线舆情题材的投资陷阱如何规避？",
-      "link": "https://www.tmtpost.com/8164285.html",
-      "pubDate": "Sun, 11 Oct 2026 12:22:52 +0800",
-      "contentSnippet": "A股鼠疫概念炒作复盘，提示投资者需甄别题材避险。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体复盘A股鼠疫概念股炒作，提示投资者甄别题材陷阱。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，选题具体，但正文信息简略，缺少数据与原始出处支撑。"
-    },
-    {
-      "title": "中国AI，开始为算力算账",
-      "link": "https://www.tmtpost.com/8164264.html",
-      "pubDate": "Sun, 11 Oct 2026 12:21:41 +0800",
-      "contentSnippet": "模型越卖越便宜，算力投资却越烧越猛。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体分析中国AI行业模型降价与算力投资激增的矛盾现状",
-      "credibilityScore": 78,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，选题切中行业痛点，但摘要信息较简略，缺少具体数据支撑"
-    },
-    {
-      "title": "小米汽车副总裁李肖爽回顾澎程座椅滑轨拉矿卡挑战，重申“安全高于一切”",
-      "link": "https://www.ithome.com/1/011/584.htm",
-      "pubDate": "Sun, 11 Oct 2026 04:13:05 GMT",
-      "contentSnippet": "IT之家 10 月 11 日消息，小米汽车副总裁李肖爽今日发布视频，回顾了小米澎程的座椅滑轨拉矿卡挑战。\n\n他重申：“安全高于一切。”\n\n小米汽车近年来一直在反复强调汽车安全。在今年 7 月的小米澎程技术发布会上，小米创办人、董事长兼 CEO 雷军在登台演讲时表示，安全是基础，安全是前提，安全高于一切。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "小米汽车副总裁李肖爽回顾澎程座椅滑轨拉矿卡挑战，重申安全高于一切。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体IT之家，内容具体但缺乏第三方数据验证，属企业宣传性质报道。"
-    },
-    {
-      "title": "欧洲本地首台小鹏 G9L 在麦格纳奥地利工厂顺利完成试制，该车将于 10 月 12 日全球上市",
-      "link": "https://www.ithome.com/1/011/583.htm",
-      "pubDate": "Sun, 11 Oct 2026 04:01:44 GMT",
-      "contentSnippet": "IT之家 10 月 11 日消息，小鹏汽车官方宣布，欧洲本地首台小鹏 G9L 已于 10 月 7 日在麦格纳奥地利工厂顺利完成试制。\n\n小鹏汽车官方表示，该工厂隶属麦格纳集团 —— 全球领先的汽车零部件供应商与整车代工商，其格拉茨工厂拥有百年积淀和成熟的高端车型整车量产经验。随着首台小鹏 G9L 在麦格纳奥地利工厂试装车下线，标志着小鹏欧洲本地化战略的又一重要进展。\n\n据IT之家此前报道，小鹏 G9L 即将亮相巴黎车展，正式开启全球上市，计划登陆全球 64 个国家和地区。该车已于 9 月 17 日晚间在国内正式上市，定位“黄金大五座科技旗舰”，拥有超级增程、纯电两种动力选择，限时优惠价 23.",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "小鹏G9L欧洲首台试制车在麦格纳奥地利工厂下线，将于10月12日全球上市。",
+      "aiSummary": "百度世界2026定档11月12日，主题为'下一幕，智能组织'，将发布企业级AI产品。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体含工厂、日期、车型细节，但缺少官方原始链接。"
+      "credibilityReason": "IT之家为知名科技媒体，内容基于百度官方公告，信息具体但缺乏产品细节。"
+    },
+    {
+      "title": "海尔推出 M1 Plus 智能晾衣架：支持 AI 离线语音，689 元",
+      "link": "https://www.ithome.com/1/011/857.htm",
+      "pubDate": "Mon, 12 Oct 2026 04:59:01 GMT",
+      "contentSnippet": "IT之家 10 月 12 日消息，海尔推出了新款 M1 Plus 电动智能晾衣架，首发价 689 元起。\n这款产品主打 AI 离线语音控制，无需联网、无需音箱即可使用，支持连续对话，句句有回应，通过语音就能控制晾衣架升降、开关照明，不用再寻找遥控器。\n\n这款晾衣架共 80 个晾晒位，包含 54 个挂衣孔、24 个万能夹、2 根 2.13m 伸缩晒被杆；同时支持科学分区晾晒，分为母婴挂衣区、日常挂衣区、宠物挂衣区、大件晒被区。\n\n机身设计方面，这款晾衣架整机厚度仅 8.5cm，不挡阳台柜、不压层高，简约白色外观可以适配原木风、工业风、极简风等多种装修风格，同时支持内嵌安装，可以适配水泥顶、石膏吊",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "海尔推出M1 Plus智能晾衣架，支持AI离线语音，首发价689元起。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，产品参数、价格、功能细节具体，信息源自官方发布，可信度较高。"
+    },
+    {
+      "title": "长城坦克 500 车型官宣 10 月 16 日上新：豪华再进阶、聪明再进一步、安全再多一重",
+      "link": "https://www.ithome.com/1/011/856.htm",
+      "pubDate": "Mon, 12 Oct 2026 04:53:22 GMT",
+      "contentSnippet": "IT之家 10 月 12 日消息，长城旗下硬派越野品牌坦克 SUV 今日官宣，坦克 500 车型将于 10 月 16 日上新，豪华再进阶、聪明再进一步、安全再多一重。\n\n\n\n综合IT之家此前报道，全新坦克 500 车型于 2025 年 8 月上市，官方指导价 33.5 万元 ~37.5 万元。\n该车定位为“全场景智能豪华越野 SUV”，最大的亮点为配备了激光雷达，并搭载 Coffee Pilot Ultra 长城汽车第三代辅助驾驶系统；提供 3.0T 燃油、2.0T Hi4-T、2.0T Hi4-Z 等三种动力。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "坦克500将于10月16日上新，主打豪华、智能与安全升级。",
+      "credibilityScore": 78,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息含具体日期、价格及配置，但官方细节有限，属常规新车预告。"
+    },
+    {
+      "title": "以财务真相、资本效率与行业定义权重估中国核心资产，2026巴伦中国价值榜单全球启动",
+      "link": "https://www.tmtpost.com/8165046.html",
+      "pubDate": "Mon, 12 Oct 2026 12:51:14 +0800",
+      "contentSnippet": "Barron's 巴伦 1921 年由道琼斯创刊，百余年来深刻影响全球投资者、企业管理者与基金经理的决策。如今它以 “全球视野，发现中国价值” 为使命，搭建本土商业价值度量衡，寻找值得全球资本长期配置的中国资产。2026巴伦中国价值榜单覆盖企业、人物、机构三大维度，设置多类细分序列，囊括核心资产、行业标杆、商业领袖与穿越周期的投资力量。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "巴伦中国启动2026价值榜单评选，覆盖企业、人物、机构三大维度。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体钛媒体，内容具体但属商业活动宣传，缺少数据支撑和独立信源。"
+    },
+    {
+      "title": "IT之家“拿下”真 · 麒麟 9050 Pro 芯片，华为终端创新技术沟通会彩蛋揭晓",
+      "link": "https://www.ithome.com/1/011/855.htm",
+      "pubDate": "Mon, 12 Oct 2026 04:44:17 GMT",
+      "contentSnippet": "IT之家 10 月 12 日现场消息，华为终端创新技术沟通会今日在上海练秋湖启幕。目前，第一天的技术分享活动已告一段落。\n\n在今天活动的最后，华为终端 BG CTO、华为终端 BG 硬件工程与产品开发管理部部长李小龙准备了一份惊喜彩蛋 —— 采用真正的麒麟 9050 Pro 芯片制作的伴手礼。\n\nIT之家也在第一时间“拿下”了这枚真 · 麒麟 9050 Pro 芯片。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "华为终端创新技术沟通会彩蛋：IT之家获赠真麒麟9050 Pro芯片伴手礼",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家现场报道，有具体时间地点人物，但内容简略，缺少芯片技术细节和官方确认"
+    },
+    {
+      "title": "349 元雅浚 G6 PRO 风冷散热器上市：六热管双塔，12cm+13cm 双风扇支持 280W 解热",
+      "link": "https://www.ithome.com/1/011/854.htm",
+      "pubDate": "Mon, 12 Oct 2026 04:44:13 GMT",
+      "contentSnippet": "IT之家 10 月 12 日消息，雅浚（ProArtist）新上架了一款 G6 PRO 风冷散热器，现已开售，京东显示为 349 元，厂商提供 3 年质保服务。\n京东雅浚（ProArtist）G6 CPU 风冷散热器 双塔 6 热管台式电脑散热风扇 G6 PRO349 元直达链接\n雅浚 G6 PRO 采用六热管双塔设计，整体尺寸为 125×109×158mm，搭配 12cm 与 13cm 双风扇组合，官方标称整体解热功耗可达 280W（IT之家注：普通版 265W）。\n这款散热器能够兼容市面上大部分主流机箱，内存默认最高支持 38mm；散热器顶部带有阳极电镀、喷砂与拉丝金属盖板装饰；热管与鳍片",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "雅浚G6 PRO风冷散热器上市，售价349元，六热管双塔设计，标称解热280W。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，产品参数具体，有京东价格和质保信息，但缺少第三方评测数据。"
+    },
+    {
+      "title": "海尔浴霸 M1 系列人感除臭版发布：承袭海尔冰箱净味技术，首发 699 元",
+      "link": "https://www.ithome.com/1/011/853.htm",
+      "pubDate": "Mon, 12 Oct 2026 04:34:42 GMT",
+      "contentSnippet": "IT之家 10 月 12 日消息，海尔宣布推出新款海尔浴霸 M1 系列人感除臭版，首发到手价 699 元。\n\n据商品页面介绍，该系列产品搭载黑金净味技术，承袭海尔冰箱净味科技，内置一键除臭程序模组和诺奖同源晶态模块，可主动捕捉吸附并全时分解异味分子。\n海尔表示，经广东省微生物分析检测中心权威检测，在 1m³ 空间、 2h 的实验条件下，该产品所应用的除臭模块对氨气和硫化氢除臭率平均值均大于 91% ，可让卫生间尤其是暗卫全天候保持清新。\n\n另外，该产品搭配漩吸换气技术，拥有 180m³/h 换气量，换气风速 ≥ 9.2m/s ，可快速抽排浴室空气，将异味整体置换排出室外，应对浓异味场景见效更快",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "海尔发布浴霸M1人感除臭版，搭载冰箱净味技术，首发价699元",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，产品参数具体，引用检测机构数据，但缺乏独立验证"
+    },
+    {
+      "title": "阶跃 Step 5 Preview 模型上线腾讯 WorkBuddy，10 月 12 至 25 日独家限免",
+      "link": "https://www.ithome.com/1/011/852.htm",
+      "pubDate": "Mon, 12 Oct 2026 04:34:29 GMT",
+      "contentSnippet": "IT之家 10 月 12 日消息，阶跃 StepFun 今日宣布，阶跃 Step 5 Preview 模型上线腾讯 WorkBuddy。2026 年 10 月 12 日至 10 月 25 日，在 WorkBuddy 开启独家限免。\n\n据IT之家此前报道，9 月 20 日，阶跃推出旗舰模型 Step 5 Preview，面向 AI 编程、软件工程、专业知识工作、金融等场景，提升模型执行真实世界 Agentic 任务表现，10 月 15 日开源完整权重。\n该模型采用稀疏 MoE 混合专家架构，总参数量 600B、激活参数 27B，支持 100 万 Token 上下文窗口，原生支持文本与视觉输入。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家",
+        "钛媒体"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "阶跃Step 5 Preview模型上线腾讯WorkBuddy，10月12至25日独家限免。",
+      "credibilityScore": 90,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家和钛媒体等知名科技媒体，含具体参数、时间及开源计划，信息详实。（多源覆盖 +5）"
+    },
+    {
+      "title": "宇树科技王兴兴：过去十几年我犯的最大错误就是对 AI 还不够相信",
+      "link": "https://www.ithome.com/1/011/850.htm",
+      "pubDate": "Mon, 12 Oct 2026 04:15:58 GMT",
+      "contentSnippet": "IT之家 10 月 12 日消息，第二十六届中国国际工业博览会于 2026 年 10 月 12 日至 16 日在国家会展中心（上海）举办。\n据第一财经报道，在开幕式上的深度对话环节中，宇树科技创始人王兴兴分享称，前段时间 GPT-6 的发布对具身智能行业的认知影响很大，公司团队也将其部署至机器人做任务进行测试，效果表现还不错。在他看来，具身智能行业临界点的到来还是会比较快的，相对快的话甚至可能是一两年。\n王兴兴表示，要让机器人实现大规模应用，还要解决泛化性和效率的问题，但未来几年这些问题将得以解决。\n王兴兴还提到，“现在我个人对 AI 的信仰反而与日俱增，过去十几年我犯的最大错误就是对 AI",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "宇树科技王兴兴称GPT-6推动具身智能，行业临界点或一两年内到来。",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "IT之家引第一财经，来源较可靠，但GPT-6等细节无法核实，内容偏简略。"
+    },
+    {
+      "title": "无问芯穹完成 23 亿元 C 轮融资，单轮及累计融资额均创中国 AI 原生基础设施赛道最高纪录",
+      "link": "https://www.ithome.com/1/011/849.htm",
+      "pubDate": "Mon, 12 Oct 2026 04:08:12 GMT",
+      "contentSnippet": "IT之家 10 月 12 日消息，据证券时报消息，人工智能基础设施（AI Infra）企业无问芯穹已完成 23 亿元的 C 轮融资，其成立以来的累计融资额达 43 亿元，单轮及累计融资额均创下中国 AI 原生基础设施赛道最高纪录。\n公开信息显示，无问芯穹成立于 2023 年，是清华大学和上海交通大学两大高校的科技成果转化企业。\nIT之家注意到，据彭博社本月引述知情人士消息，无问芯穹最近几个月已以保密形式向港交所递交 IPO 申请，计划募资数亿美元，目标最快于 2027 年上半年挂牌上市。\n\n延伸阅读\n无问芯穹全称上海无问芯穹智能科技股份有限公司，成立于 2023 年 5 月，由清华大学电子工程",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "无问芯穹完成23亿元C轮融资，累计43亿元，创中国AI基础设施赛道纪录。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家援引证券时报，信息具体含金额与出处，但部分细节待官方确认。"
+    },
+    {
+      "title": "万代南梦宫宣布《火影忍者》手游将面向全球发行，腾讯国服 2016 年上线",
+      "link": "https://www.ithome.com/1/011/848.htm",
+      "pubDate": "Mon, 12 Oct 2026 04:03:03 GMT",
+      "contentSnippet": "IT之家 10 月 12 日消息，当地时间 10 月 11 日，万代南梦宫与腾讯在纽约动漫展上联合宣布，由腾讯魔方工作室研发的《火影忍者》手游将推出全球版本，正式面向国际市场发行。\n\n《火影忍者》手游由万代南梦宫正版授权、腾讯魔方工作室研发，最初于 2016 年 5 月 19 日在中国大陆上线，登陆 iOS 和 Android 平台，后于 2025 年 7 月 4 日登陆华为鸿蒙系统。\n\n该游戏以动漫风格的忍术、华丽的奥义大招和快节奏战斗为特色，玩家可收集系列中众多经典忍者角色进行对战。这款游戏此前仅在中国大陆运营，此次全球发行距离游戏首次上线已超过 10 年。\n\n“螺旋丸项目”是万代南梦宫为",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "万代南梦宫与腾讯宣布《火影忍者》手游将推出全球版本，该游戏国服2016年上线。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息具体含时间地点，但正文摘要被截断，缺少原始出处链接。"
+    },
+    {
+      "title": "华为首发星迹定位技术，支持车道亚米级 / 室内车位级导航、专业跑步精准轨迹等",
+      "link": "https://www.ithome.com/1/011/847.htm",
+      "pubDate": "Mon, 12 Oct 2026 04:01:17 GMT",
+      "contentSnippet": "IT之家 10 月 12 日现场消息，在今天的华为终端创新技术沟通会上，华为终端 BG CTO、华为终端 BG 硬件工程与产品开发管理部部长李小龙分享了华为星迹定位技术的核心亮点。\n\n随着隧道、跑步、地库、滑雪、室内、高架 / 运动场等场景的拓展，李小龙表示，传统定位技术已无法满足消费者复杂场景需求，因此华为首发了星迹定位技术。\n针对高架行驶时没有高精度导航无法及时变道这一痛点，华为采用海思短距芯片 + GNSS 载波相位测量，实现测距精度提升超 10 倍。\n\n\n值得一提的是，华为星迹定位技术在车道级导航下能实现亚米级的定位精度。\n\n另外，通过 RTK+AI-PDR 融合，华为 Mate 90",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "华为发布星迹定位技术，实现车道亚米级及室内车位级导航精度。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，现场报道有具体技术细节和CTO发言，但缺乏原始出处链接。"
+    },
+    {
+      "title": "松下与谷歌合作，共同打造家庭安防解决方案",
+      "link": "https://www.ithome.com/1/011/840.htm",
+      "pubDate": "Mon, 12 Oct 2026 03:56:09 GMT",
+      "contentSnippet": "IT之家 10 月 12 日消息，Panasonic（松下）当地时间本月 6 日宣布与 Google（谷歌）达成合作协议：双方将结合松下在可视对讲和监控领域的专业技术、谷歌在 GenAI 与云方面的优势共同开发新一代家庭安防解决方案。\n松下在新闻稿中坦诚，日本入室盗窃犯罪近年来手段日益复杂、暴力程度逐步上升，家庭安防需求快速增长。而现有的安防解决方案无法做到有的放矢，为住户带来了不必要的“垃圾”信息处理负担。\n\n松下和谷歌将围绕以下四个主题开展联合开发：\n\n利用基于人工智能的视频分析技术，通过高精度识别可疑行为和异常事件，实现高级异常检测\n\n根据家庭成员构成和生活方式，通过定制化的通知和推荐，",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "松下与谷歌合作开发AI家庭安防方案，聚焦异常检测与个性化通知。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道引用松下官方新闻稿，信息具体，合作细节清晰。"
     }
   ]
 }
