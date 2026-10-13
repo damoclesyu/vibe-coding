@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-12T05:10:02.159Z",
+  "generatedAt": "2026-10-13T06:09:25.823Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "李强将出席第140届广交会开幕式及相关活动",
-      "link": "https://www.chinanews.com.cn/gn/2026/10-12/10711910.shtml",
-      "pubDate": "Mon, 12 Oct 2026 12:26:24 +0800",
-      "contentSnippet": "中新社北京10月12日电 中国商务部新闻发言人何亚东12日宣布：第140届广交会将于2026年10月15日至11月4日在广州举办。国务院总理李强将出席开幕式及相关活动并作主旨演讲。(完)",
+      "title": "王国金：愿持续推动中美民间友好往来",
+      "link": "https://www.chinanews.com.cn/hr/2026/10-13/10713651.shtml",
+      "pubDate": "Tue, 13 Oct 2026 14:03:57 +0800",
+      "contentSnippet": "中新网北京10月13日电 题：王国金：愿持续推动中美民间友好往来",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -16,50 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "商务部宣布李强将出席第140届广交会开幕式并作主旨演讲。",
-      "credibilityScore": 92,
-      "credibilityLevel": "high",
-      "credibilityReason": "中新社为权威媒体，引述商务部发言人官方宣布，信息具体可查证。"
-    },
-    {
-      "title": "中方对巴拉圭通信和技术部长比利亚特采取反制措施",
-      "link": "https://www.chinanews.com.cn/gn/2026/10-12/10711908.shtml",
-      "pubDate": "Mon, 12 Oct 2026 12:25:13 +0800",
-      "contentSnippet": "中新社北京10月12日电 中国外交部12日公布关于对巴拉圭通信和技术部长比利亚特采取反制措施的决定。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国外交部宣布对巴拉圭通信和技术部长比利亚特采取反制措施。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新社（权威通讯社），内容具体（时间、人物、机构），但缺少反制原因等细节。"
-    },
-    {
-      "title": "金观平：用好保障人民健康的“大处方”",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-12/10711898.shtml",
-      "pubDate": "Mon, 12 Oct 2026 11:20:32 +0800",
-      "contentSnippet": "国务院近期分别批复《国家残疾预防行动计划(2026—2030年)》和《医疗康复护理扩容提升工程实施方案》。前者体现预防为主、防治结合，着力关口前移、早期干预；后者则明确“扩容、提质、均衡、连续”，统筹增加资源供给，提升服务能力。两份文件直面社会民生短板弱项，要求重点面对基层采取有力措施，更好满足全人群、全方位、全生命周期健康需求。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国务院批复残疾预防五年计划及医疗康复扩容方案，聚焦基层健康服务。",
+      "aiSummary": "中新网报道王国金表示愿持续推动中美民间友好往来。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网权威媒体，内容涉及具体政策文件，事实可查证，但属评论性文章。"
+      "credibilityReason": "来源为中新网，属较权威媒体，内容具体但正文信息有限，缺少直接引述细节。"
     },
     {
-      "title": "“赛考斯”将在罗马与殷玉珍重逢：很期待！可能还会哭；计划2027年再去中国",
-      "link": "https://www.chinanews.com.cn/sh/2026/10-12/10711897.shtml",
-      "pubDate": "Mon, 12 Oct 2026 11:18:32 +0800",
-      "contentSnippet": "近期，美国友人“赛考斯”(本名罗纳德·萨科尔斯基)启动赛考斯基金会(The Sakolsky Foundation)的筹建工作，同时开通名为“赛考斯先生”的微信公众号及“美国赛考斯先生”视频号，持续分享基金会及相关交流项目的进展。据“赛考斯先生”发文介绍，赛考斯基金会是专注教育与中美学生交流的非营利组织，目前正在美国加州进行注册。",
+      "title": "台湾网红柳杰克：台湾就是中国一个省！",
+      "link": "https://www.chinanews.com.cn/gn/2026/10-13/10713648.shtml",
+      "pubDate": "Tue, 13 Oct 2026 13:58:53 +0800",
+      "contentSnippet": "中新网10月13日电(燕新台)近日，台湾自媒体博主柳杰克在岛内一场论坛活动中公开表示：“台湾就是中国的一个省。”",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -67,197 +33,231 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "美国友人赛考斯筹建基金会，计划2027年再访中国并与殷玉珍在罗马重逢。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "中国新闻网为权威媒体，信息具体含人名、机构名及时间，但缺乏直接引述和第三方交叉验证。"
-    },
-    {
-      "title": "小学生布置多少作业最好？广东这份作业“体检”报告出炉",
-      "link": "https://www.chinanews.com.cn/edu/2026/10-12/10711941.shtml",
-      "pubDate": "Mon, 12 Oct 2026 13:03:26 +0800",
-      "contentSnippet": "广东5万小学生作业“体检”报告出炉：",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "广东发布5万小学生作业体检报告，探讨作业量适宜标准。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网权威，内容具体有数据，但摘要信息有限，无直接引述。"
-    },
-    {
-      "title": "四川大熊猫种群稳步恢复 伞护效应逐步显现",
-      "link": "https://www.chinanews.com.cn/sh/2026/10-12/10711940.shtml",
-      "pubDate": "Mon, 12 Oct 2026 12:54:17 +0800",
-      "contentSnippet": "中新社成都10月12日电 (单鹏)四川省林业和草原局副局长、大熊猫国家公园四川管理局局长周古鹏12日在成都表示，五年来四川持续开展大熊猫、雪豹、川金丝猴等珍稀野生动物及其栖息地专项调查，从调查结果看，大熊猫国家公园生态保护成效显著，栖息地质量持续改善，生物多样性稳步提升。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "四川林草局官员称大熊猫国家公园生态保护成效显著，栖息地质量持续改善。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "中新社为权威媒体，有具名官员引述，内容具体可查证，但缺乏数据细节。"
-    },
-    {
-      "title": "广州新沙港铁海联运汽车出口前三季同比增近两倍",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-12/10711938.shtml",
-      "pubDate": "Mon, 12 Oct 2026 12:53:33 +0800",
-      "contentSnippet": "中新社广州10月12日电 (记者 方伟彬)记者12日从广州边检总站获悉，今年前三季度，广州港新沙港区经铁路集港出口国产商品车达7.2万余辆，同比增长190%，占该港汽车出口总量近五成；同期出口总量突破16万辆。铁海联运已成为国产汽车经新沙港出海的核心通道。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "广州新沙港前三季铁海联运汽车出口7.2万辆，同比增长190%。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "中新社为权威媒体，有署名记者、具体数据和官方来源，事实可查证。"
-    },
-    {
-      "title": "郑钦文谈“低谷期”：这不一定是坏事，总有回来的时候",
-      "link": "https://www.chinanews.com.cn/ty/2026/10-12/10711937.shtml",
-      "pubDate": "Mon, 12 Oct 2026 12:30:46 +0800",
-      "contentSnippet": "郑钦文：我以为低谷期是一两个月，但没想到持续了差不多半年；这不一定是坏事，总有回来的时候",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "郑钦文受访称低谷期持续约半年，认为不一定是坏事，总有回来的时候。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "中国新闻网为权威媒体，含直接引述，内容具体，用词客观中性。"
-    },
-    {
-      "title": "中央政法委有关负责同志解读《关于依法从严查处危害食品安全违法犯罪的意见》",
-      "link": "https://www.chinanews.com.cn/gn/2026/10-12/10711936.shtml",
-      "pubDate": "Mon, 12 Oct 2026 12:21:47 +0800",
-      "contentSnippet": "中新网10月12日电 据中央政法委网站消息，近日，中央政法委印发《关于依法从严查处危害食品安全违法犯罪的意见》。为何出台意见？如何抓好意见贯彻落实？中央政法委有关负责同志12日进行了解读。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中央政法委印发依法从严查处危害食品安全违法犯罪的意见并解读。",
-      "credibilityScore": 92,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网引述中央政法委官网，属官方权威渠道，内容具体可查证。"
-    },
-    {
-      "title": "（经济观察）第二十六届工博会：机器人技多不压身，“智”造业东风吹更劲",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-12/10711909.shtml",
-      "pubDate": "Mon, 12 Oct 2026 12:21:33 +0800",
-      "contentSnippet": "中新社上海10月12日电 (记者 郑莹莹)以“智能经济 智造无界”为主题的第二十六届中国国际工业博览会(简称“工博会”)于10月12日至16日在上海举办，来自24个国家和地区的3200多家参展商参展，展览面积达31万平方米。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "第二十六届工博会10月12日至16日在上海举办，3200多家参展商参展。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网（中新社），属权威媒体，信息具体含时间地点数据，但缺乏多源交叉验证。"
-    },
-    {
-      "title": "万名跑者参与角逐海淀马拉松 9人刷新赛事纪录",
-      "link": "https://www.chinanews.com.cn/ty/2026/10-12/10711926.shtml",
-      "pubDate": "Mon, 12 Oct 2026 12:11:33 +0800",
-      "contentSnippet": "中新网北京10月12日电 10月11日清晨，晨光洒满北京中关村壹号，“海马蓝”参赛服汇成一片跃动的海洋。7时30分，发令枪响，万名跑者从科技创新高地出发，踏上海淀马拉松这条串联科技、文化与生态的42.195公里特色赛道。主办方表示，赛事以“奔跑海淀，向新出发”为主题，旨在推动文商旅体展深度融合。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "北京海淀马拉松10月11日举行，万名跑者参与，9人刷新赛事纪录。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "中新网为权威媒体，信息具体含时间地点数据，但缺少直接引述和独立交叉验证。"
-    },
-    {
-      "title": "事关肉制品、校园食品，中央政法委发文！这些行为将被从严查处",
-      "link": "https://www.chinanews.com.cn/gn/2026/10-12/10711927.shtml",
-      "pubDate": "Mon, 12 Oct 2026 12:02:48 +0800",
-      "contentSnippet": "当前我国食品安全形势持续稳中向好，同时也出现了一些新情况、新问题，特别是近期发生的“甲醛白菜”“敌敌畏消杀”“药水杨梅”等严重冲击食品安全底线事件，引发社会广泛关注。为确保广大人民群众“舌尖上的安全”，近日，中央政法委印发《关于依法从严查处危害食品安全违法犯罪的意见》，对政法机关依法从严查处危害食品安全违法犯罪提出要求。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中央政法委印发意见，要求依法从严查处危害食品安全违法犯罪行为。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网（权威媒体），引述中央政法委官方文件，内容具体可查证，用词客观中性。"
-    },
-    {
-      "title": "心愿清单暖侨心 上海普陀70个侨界微心愿全部兑现",
-      "link": "https://www.chinanews.com.cn/hr/2026/10-12/10711906.shtml",
-      "pubDate": "Mon, 12 Oct 2026 11:56:38 +0800",
-      "contentSnippet": "中新网上海10月12日电 (范宇斌)一张张写满生活小事的心愿清单，串起上海市普陀区侨界一个个温暖约定。近日，普陀区侨办、区侨联联动全区10个街镇和涉侨团体推出“心愿马上兑”暖侨实事项目，面向早期归侨、困难归侨侨眷征集微心愿，同时向社会各界发出寻找“心愿合伙人”的邀约。经各街镇摸排梳理，70个微心愿纳入清单，由侨界青年、侨联委员和爱心侨企一一认领。截至目前，70个微心愿已全部落地兑现。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "上海普陀区侨办联动多方兑现70个侨界微心愿，帮扶早期归侨及困难侨眷。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网权威媒体，信息具体含时间地点数据，但属正面宣传类报道，缺乏独立交叉验证。"
-    },
-    {
-      "title": "《低空经济气象保障》系列丛书出版发行",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-12/10711905.shtml",
-      "pubDate": "Mon, 12 Oct 2026 11:55:32 +0800",
-      "contentSnippet": "中新网北京10月12日电 (记者 刘亮)由国内气象监测、预报与保障领域专家团队联合编撰的《低空经济气象保障》系列丛书，近日在中国标准出版社正式出版发行。该丛书构建了低空气象保障的理论、技术和方案体系，为我国低空经济产业的安全、高效、可持续发展提供了系统的学术支撑与实践指南。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国新闻网报道《低空经济气象保障》系列丛书由中国标准出版社出版发行。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，有署名记者，信息具体（时间、出版社、编撰方），内容客观中性，可查证。"
-    },
-    {
-      "title": "长征路上学党史｜在金沙江畔听云岭大地红色回响",
-      "link": "https://www.chinanews.com.cn/iframe/2026/10-12/10711922.shtml",
-      "pubDate": "Mon, 12 Oct 2026 11:52:02 +0800",
-      "contentSnippet": "",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国新闻网报道长征路上学党史活动，聚焦金沙江畔红色历史回响。",
+      "aiSummary": "台湾自媒体博主柳杰克在岛内论坛公开表示台湾是中国的一个省。",
       "credibilityScore": 78,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名媒体中国新闻网，主题正面具体，但正文摘要缺失，无法核实细节。"
+      "credibilityReason": "来源中国新闻网较权威，有具体时间地点和直接引述，但单一来源且事件细节有限。"
+    },
+    {
+      "title": "自然资源部印发《盘活存量土地和低效用地典型案例2026版》",
+      "link": "https://www.chinanews.com.cn/gn/2026/10-13/10713621.shtml",
+      "pubDate": "Tue, 13 Oct 2026 13:11:10 +0800",
+      "contentSnippet": "中新网10月13日电 据“自然资源部”微信公众号消息，日前，自然资源部发布《盘活存量土地和低效用地典型案例2026版》(以下简称2026版案例)，推出六大类共29个典型案例，集中展现各地以存量土地盘活支撑高质量发展的最新实践，旨在充分发挥示范引领作用，进一步深化、实化、显化盘活用好存量低效用地的改革成效。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "自然资源部发布2026版盘活存量土地典型案例，含六大类29个案例。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网引述自然资源部官方公众号，信息具体，属权威政务发布。"
+    },
+    {
+      "title": "海口海关（本级）及其后勤管理中心2026-2028年公务车辆维修保养服务采购项目公开征集公告",
+      "link": "https://www.chinanews.com.cn/aseaninfo/2026/10-13/10713672.shtml",
+      "pubDate": "Tue, 13 Oct 2026 14:03:11 +0800",
+      "contentSnippet": "一、征集条件",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "海口海关公开征集2026-2028年公务车辆维修保养服务采购项目供应商。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网较权威，内容为政府采购公告，信息具体可查证，但正文摘要过短。"
+    },
+    {
+      "title": "9月中国电商物流指数持续回升 供需两端向好",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-13/10713646.shtml",
+      "pubDate": "Tue, 13 Oct 2026 14:02:23 +0800",
+      "contentSnippet": "中新社北京10月13日电 (记者 阮煜琳)中国物流与采购联合会13日发布数据显示，9月，中国电商物流指数为111.9点，环比回升0.4点。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国物流与采购联合会数据显示，9月中国电商物流指数环比回升0.4点至111.9点。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "中新社为权威媒体，引用官方机构具体数据，时间地点明确，内容客观可查证。"
+    },
+    {
+      "title": "19800元享终身免费旅居康养？北京警方打掉一养老诈骗团伙",
+      "link": "https://www.chinanews.com.cn/fz/2026/10-13/10713670.shtml",
+      "pubDate": "Tue, 13 Oct 2026 13:59:25 +0800",
+      "contentSnippet": "近日，北京海淀警方成功破获一起针对中老年群体的养老诈骗案件，打掉一个假借“全国旅居康养”名义实施诈骗的犯罪团伙，抓获4名犯罪嫌疑人。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "北京海淀警方打掉一假借旅居康养名义诈骗中老年人的团伙，抓获4人。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网权威媒体，信息具体含地点、人数、案情，用词客观，可信度高。"
+    },
+    {
+      "title": "中缅泰老青年相聚侨乡保山 讲述“我们共同的故事”",
+      "link": "https://www.chinanews.com.cn/aseaninfo/2026/10-13/10713645.shtml",
+      "pubDate": "Tue, 13 Oct 2026 13:55:35 +0800",
+      "contentSnippet": "中新网云南保山10月13日电 (记者 陈静)12日晚，“根脉延续·侨印永昌”2026年“讲好我们共同的故事”展演活动在云南省保山市举行。来自中国、缅甸、泰国、老挝等国的青年代表、华校师生和侨团代表在线上线下相聚，循着“寻根”“铸魂”“致远”三个篇章，讲述属于自己的“根、魂、梦”。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中缅泰老青年代表在云南保山参加“讲好我们共同的故事”展演活动。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网，属权威媒体，信息含具体时间地点人物，用词客观，可查证。"
+    },
+    {
+      "title": "海口海关2026年“两新”实验室仪器设备更新项目（分散采购部分）（二次招标）招标公告",
+      "link": "https://www.chinanews.com.cn/aseaninfo/2026/10-13/10713664.shtml",
+      "pubDate": "Tue, 13 Oct 2026 13:53:25 +0800",
+      "contentSnippet": "项目概况",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "海口海关发布2026年实验室仪器设备更新项目二次招标公告。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网较权威，招标公告属可查证信息，但正文内容极简，缺乏具体细节。"
+    },
+    {
+      "title": "（乡村行·看振兴）青年蹲点“浙中蜜蜂村”：大山里的“青春必修课”",
+      "link": "https://www.chinanews.com.cn/edu/2026/10-13/10713644.shtml",
+      "pubDate": "Tue, 13 Oct 2026 13:52:21 +0800",
+      "contentSnippet": "中新网金华10月13日电 题：青年蹲点“浙中蜜蜂村”：大山里的“青春必修课”",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中新网报道青年在浙中蜜蜂村蹲点实践，作为乡村振兴中的青春必修课。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网，属权威媒体，内容具体但仅摘要，缺少直接引述和交叉验证。"
+    },
+    {
+      "title": "六盘山风味邂逅贺兰山佳酿 固原风物亮相中国（宁夏）国际葡萄酒文旅博览会",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-13/10713643.shtml",
+      "pubDate": "Tue, 13 Oct 2026 13:51:26 +0800",
+      "contentSnippet": "中新网银川10月13日电 (记者 李佩珊)10月12日至14日，第六届中国(宁夏)国际葡萄酒文化旅游博览会在银川举办。固原市以“举杯贺兰山 好物出六盘”为主题打造260平方米风物展，带来“六盘风味+贺兰佳酿”餐酒搭配体验，组织60余家农特产品、文旅文创、餐饮企业集中参展，借葡萄酒盛会推介六盘山好物，展现深厚人文底蕴。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "固原市以260平方米展区亮相第六届宁夏国际葡萄酒文旅博览会，推介六盘山农特产品与文旅资源。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网，属权威媒体；信息具体（时间、地点、规模、企业数），有记者署名，内容客观可查证。"
+    },
+    {
+      "title": "多家4A级旅游景区，被清理",
+      "link": "https://www.chinanews.com.cn/ll/2026/10-13/10713661.shtml",
+      "pubDate": "Tue, 13 Oct 2026 13:50:02 +0800",
+      "contentSnippet": "摘下的是招牌，守住的是信任(一线行走)",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国新闻网报道多家4A级旅游景区被清理摘牌。",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为权威媒体中国新闻网，但正文摘要过短，缺乏具体景区名单、时间及官方依据等细节。"
+    },
+    {
+      "title": "2026年U15女子垒球亚洲杯在山东威海开赛",
+      "link": "https://www.chinanews.com.cn/ty/2026/10-13/10713641.shtml",
+      "pubDate": "Tue, 13 Oct 2026 13:42:42 +0800",
+      "contentSnippet": "中新网威海10月13日电 (王娇妮 谢菁)2026年U15女子垒球亚洲杯12日在山东威海高新区手曲垒球运动基地主赛场开赛，吸引来自8个国家和地区的青少年队伍参赛。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "2026年U15女子垒球亚洲杯在山东威海开赛，8个国家和地区青少年队伍参赛。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网，属权威媒体，信息含具体时间地点人物，内容客观可查证。"
+    },
+    {
+      "title": "受大风天气影响 新疆部分旅客列车停运",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-13/10713654.shtml",
+      "pubDate": "Tue, 13 Oct 2026 13:41:46 +0800",
+      "contentSnippet": "据新疆维吾尔自治区气象台发布的天气预报，今天(10月13日)白天到夜间，吐鲁番、巴州等地的部分区域有4~5级西北风，风口风力9~10级。铁路部门动态调整列车运行方案，对部分旅客列车采取停运措施，主动规避安全风险。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "新疆因大风天气停运部分旅客列车，铁路部门动态调整运行方案。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "中国新闻网为权威媒体，信息具体含气象数据和铁路措施，但缺少具体车次和直接引述。"
+    },
+    {
+      "title": "海南新增四处中国重要农业文化遗产",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-13/10713640.shtml",
+      "pubDate": "Tue, 13 Oct 2026 13:40:20 +0800",
+      "contentSnippet": "中新网海口10月13日电 (记者 王晓斌)农业农村部近日公布第八批中国重要农业文化遗产名单，海南省海南昌江木棉稻田复合系统、海南屯昌猪养殖系统、海南儋州古盐田、海南五指山热带雨林大叶茶文化系统4项入选。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "农业农村部公布第八批中国重要农业文化遗产，海南四处入选。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网，属权威媒体，信息具体含时间地点人物，可交叉验证。"
+    },
+    {
+      "title": "“新艺中国·数艺无界”文化和科技融合新质生产力大会在长沙举行",
+      "link": "https://www.chinanews.com.cn/gn/2026/10-13/10713639.shtml",
+      "pubDate": "Tue, 13 Oct 2026 13:34:30 +0800",
+      "contentSnippet": "中新网长沙10月13日电 (记者 徐雪莹 程小路)“新艺中国·数艺无界”文化和科技融合新质生产力大会13日在湖南长沙举行，全国新的社会阶层人士“新艺中国”服务团湖南服务考察同步启动。中央统战部副部长王瑞军，湖南省委常委、省委统战部部长隋忠诚出席活动并致辞。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "文化和科技融合新质生产力大会在长沙举行，中央统战部副部长等出席致辞。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网，属权威媒体，信息具体含时间地点人物，但缺乏多源交叉验证。"
     }
   ]
 }
