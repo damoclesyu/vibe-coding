@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-13T06:09:25.823Z",
+  "generatedAt": "2026-10-14T04:12:11.349Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "王国金：愿持续推动中美民间友好往来",
-      "link": "https://www.chinanews.com.cn/hr/2026/10-13/10713651.shtml",
-      "pubDate": "Tue, 13 Oct 2026 14:03:57 +0800",
-      "contentSnippet": "中新网北京10月13日电 题：王国金：愿持续推动中美民间友好往来",
+      "title": "“偷取枝条”培育未授权蓝莓苗，法院这样判",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-14/10714226.shtml",
+      "pubDate": "Wed, 14 Oct 2026 12:05:02 +0800",
+      "contentSnippet": "中新网北京10月14日电(记者 高萌)在10月16日世界粮食日即将到来之际，14日，最高人民法院发布一批植物新品种保护典型案例。在其中一个案例中，一个种植基地自称“找关系偷取枝条”种植销售一未授权品种的蓝莓苗，法院对其适用了惩罚性赔偿。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -16,16 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中新网报道王国金表示愿持续推动中美民间友好往来。",
-      "credibilityScore": 82,
+      "aiSummary": "最高法发布植物新品种保护典型案例，一基地偷取枝条培育未授权蓝莓苗被判惩罚性赔偿。",
+      "credibilityScore": 92,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，属较权威媒体，内容具体但正文信息有限，缺少直接引述细节。"
+      "credibilityReason": "来源为中新网，引述最高法发布案例，有具体时间、记者署名，内容客观可查证。"
     },
     {
-      "title": "台湾网红柳杰克：台湾就是中国一个省！",
-      "link": "https://www.chinanews.com.cn/gn/2026/10-13/10713648.shtml",
-      "pubDate": "Tue, 13 Oct 2026 13:58:53 +0800",
-      "contentSnippet": "中新网10月13日电(燕新台)近日，台湾自媒体博主柳杰克在岛内一场论坛活动中公开表示：“台湾就是中国的一个省。”",
+      "title": "海关总署：前三季度我国与共建“一带一路”国家进出口20.37万亿元",
+      "link": "https://www.chinanews.com.cn/ydyl/2026/10-14/10714253.shtml",
+      "pubDate": "Wed, 14 Oct 2026 11:22:03 +0800",
+      "contentSnippet": "中新网10月14日电 14日上午，国新办举行新闻发布会，介绍2026年前三季度进出口情况。海关总署新闻发言人、统计分析司司长吕大良介绍，近年来，我国与“一带一路”共建国家经贸合作不断加深，双边贸易规模稳步扩大。今年前三季度，我国对共建国家的进出口20.37万亿元，增长17.1%，出口、进口分别增长16.6%和17.9%。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -33,16 +33,203 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "台湾自媒体博主柳杰克在岛内论坛公开表示台湾是中国的一个省。",
+      "aiSummary": "海关总署发布数据，前三季度我国与共建“一带一路”国家进出口20.37万亿元，增长17.1%。",
+      "credibilityScore": 92,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网官方报道，引述海关总署发布会具体数据，信息可查证。"
+    },
+    {
+      "title": "国台办：十一假期“小三通”客运航线客流持续火热",
+      "link": "https://www.chinanews.com.cn/gn/2026/10-14/10714248.shtml",
+      "pubDate": "Wed, 14 Oct 2026 11:19:07 +0800",
+      "contentSnippet": "中新网10月14日电 10月14日，国务院台办举行例行新闻发布会。有记者问：今年“十一”假期，“小三通”客运航线迎来两岸同胞探亲访友和旅游热潮。请介绍有关情况。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国台办发布会介绍十一假期“小三通”客运航线客流持续火热情况。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网，属权威媒体；内容为官方发布会实录，事实可查证，但细节有限。"
+    },
+    {
+      "title": "国务院台办：依法维护台湾同胞的合法权益",
+      "link": "https://www.chinanews.com.cn/gn/2026/10-14/10714225.shtml",
+      "pubDate": "Wed, 14 Oct 2026 11:14:01 +0800",
+      "contentSnippet": "中新网10月14日电 10月14日，国务院台办举行例行新闻发布会。有记者问：据了解，国台办一直高度重视协调解决涉台投资纠纷，许多台商受助后还向国台办来信致谢、赠送锦旗。能否请发言人介绍近年来大陆在台胞权益保护上做了哪些工作？",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国台办例行发布会介绍依法维护台湾同胞合法权益相关工作。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网官方报道，内容为官方发布会实录，事实可查证，用词客观中性。"
+    },
+    {
+      "title": "赖清德称“不许扭曲二战历史” 国台办回应",
+      "link": "https://www.chinanews.com.cn/gn/2026/10-14/10714232.shtml",
+      "pubDate": "Wed, 14 Oct 2026 11:06:44 +0800",
+      "contentSnippet": "中新网10月14日电 10月14日，国务院台办举行例行新闻发布会。有记者问，9月24日举行的中美元首会晤将中美二战盟友历史列入成果清单。民进党当局称这是“传递错误历史叙事”，赖清德在所谓“双十”讲话中妄称“绝不容许扭曲二战历史”。岛内舆论批评民进党上台后切割抗战历史，现在又回头来争抢对二战历史的诠释，实属贻笑大方。请问对此有何评论？",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国台办回应赖清德涉二战历史言论，批评民进党切割抗战历史。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网官方报道，引述国台办发布会内容，事实可查证。"
+    },
+    {
+      "title": "今年前三季度外贸增速近五年同期最快",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-14/10714237.shtml",
+      "pubDate": "Wed, 14 Oct 2026 10:55:50 +0800",
+      "contentSnippet": "今天上午，国务院新闻办公室举行新闻发布会，介绍2026年前三季度进出口情况。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国新办发布会介绍2026年前三季度进出口情况，外贸增速为近五年同期最快。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网，引述国新办发布会，信息具体可查证，但正文摘要过短。"
+    },
+    {
+      "title": "（活力中国调研行）平陆运河通航将满月 广西从“末梢”变“枢纽”",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-14/10714201.shtml",
+      "pubDate": "Wed, 14 Oct 2026 10:53:22 +0800",
+      "contentSnippet": "中新网广西钦州10月14日电 (记者 杨程晨 翟李强)2026年9月16日，新中国成立以来第一条国家层面统筹建设的通江达海运河——平陆运河建成通航。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中新网报道平陆运河通航将满月，称广西从末梢变枢纽。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网，属较权威媒体，信息具体含时间地点，但缺乏多源交叉验证。"
+    },
+    {
+      "title": "国台办回应欧洲议会涉台报告",
+      "link": "https://www.chinanews.com.cn/gn/2026/10-14/10714234.shtml",
+      "pubDate": "Wed, 14 Oct 2026 10:52:18 +0800",
+      "contentSnippet": "中新网10月14日电 10月14日，国务院台办举行例行新闻发布会。有记者问：近日，欧洲议会发布欧中政治关系报告，鼓噪拒绝中国施压国际组织，限制台湾参与国际交流，强调欧盟以“一个中国政策”作为对台外交政策的指导框架，且从未替一个中国原则背书。台外事部门对此表示感谢，请问对此有何评论？",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国台办回应欧洲议会涉台报告，重申一个中国原则。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网官方报道，内容具体，引述记者提问，事实可查证。"
+    },
+    {
+      "title": "“核”以报国 马余刚院士解码大科学时代的核科技前沿",
+      "link": "https://www.chinanews.com.cn/edu/2026/10-14/10714290.shtml",
+      "pubDate": "Wed, 14 Oct 2026 11:53:59 +0800",
+      "contentSnippet": "中新网上海10月14日电 (记者 陈静)今年10月16日，恰逢中国第一颗原子弹爆炸成功62周年，也是华东师范大学建校75周年。13日，核物理领域知名科学家、中国科学院院士、华东师范大学校长马余刚为师生们带来一堂《“核”以报国——漫谈大科学时代的核科技》沉浸式大思政课。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中新网报道马余刚院士在华东师大讲授核科技思政课，纪念原子弹爆炸62周年。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网权威媒体，时间地点人物具体，内容为公开学术活动，可查证。"
+    },
+    {
+      "title": "河南通许：一碗酸辣粉“煮”出百亿产业",
+      "link": "https://www.chinanews.com.cn/tp/2026/10-14/10714259.shtml",
+      "pubDate": "Wed, 14 Oct 2026 11:51:11 +0800",
+      "contentSnippet": "图为企业生产线上准备封口的酸辣粉。邓小强 摄\r\n\n图为工人在生产流水线上作业。邓小强 摄\r\n\n图为工人在生产流水线上作业。邓小强 摄\r\n\n图为工人在生产流水线上作业。邓小强 摄\r\n\n图为通许县一家企业的酸辣粉商品展示区。邓小强 摄",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "河南通许县发展酸辣粉产业，规模达百亿，带动当地就业与生产。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网为权威媒体，内容具体有图片和地点，但缺少直接引述和数据细节。"
+    },
+    {
+      "title": "长春大冬会正式点燃“知识之火”",
+      "link": "https://www.chinanews.com.cn/ty/2026/10-14/10714292.shtml",
+      "pubDate": "Wed, 14 Oct 2026 11:48:39 +0800",
+      "contentSnippet": "中新网长春10月14日电 (记者 郭佳)长春2027第33届世界大学生冬季运动会(简称“长春大冬会”)火种欢迎仪式14日在长春举行，从意大利都灵采集的火种在本届赛事举办地点燃首支火炬及火种盆。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "长春2027大冬会火种欢迎仪式举行，从都灵采集的火种点燃首支火炬。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "中新网为权威媒体，有署名记者、具体时间地点，信息可查证，但单一来源。"
+    },
+    {
+      "title": "长征路上学党史｜走进陕北 探访燎原星火",
+      "link": "https://www.chinanews.com.cn/iframe/2026/10-14/10714299.shtml",
+      "pubDate": "Wed, 14 Oct 2026 11:48:33 +0800",
+      "contentSnippet": "",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国新闻网报道'长征路上学党史'活动走进陕北探访革命旧址。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名通讯社中国新闻网，主题为党史教育活动，但正文摘要缺失，无法核实具体细节。"
+    },
+    {
+      "title": "中国葡萄酒以本土化品种与新场景拥抱大众消费",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-14/10714293.shtml",
+      "pubDate": "Wed, 14 Oct 2026 11:47:53 +0800",
+      "contentSnippet": "中新网银川10月14日电 题：中国葡萄酒以本土化品种与新场景拥抱大众消费",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中新网报道中国葡萄酒以本土化品种和新消费场景拓展大众市场。",
       "credibilityScore": 78,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源中国新闻网较权威，有具体时间地点和直接引述，但单一来源且事件细节有限。"
+      "credibilityReason": "来源为中新网，属较权威媒体，但正文摘要过短，缺乏具体数据与引述，细节不足。"
     },
     {
-      "title": "自然资源部印发《盘活存量土地和低效用地典型案例2026版》",
-      "link": "https://www.chinanews.com.cn/gn/2026/10-13/10713621.shtml",
-      "pubDate": "Tue, 13 Oct 2026 13:11:10 +0800",
-      "contentSnippet": "中新网10月13日电 据“自然资源部”微信公众号消息，日前，自然资源部发布《盘活存量土地和低效用地典型案例2026版》(以下简称2026版案例)，推出六大类共29个典型案例，集中展现各地以存量土地盘活支撑高质量发展的最新实践，旨在充分发挥示范引领作用，进一步深化、实化、显化盘活用好存量低效用地的改革成效。",
+      "title": "A股午评：超3600只个股飘绿，沪指收涨，深指、创业板指收跌",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-14/10714295.shtml",
+      "pubDate": "Wed, 14 Oct 2026 11:39:38 +0800",
+      "contentSnippet": "A股午评：超3600只个股飘绿，沪指收涨，深指、创业板指收跌；发电设备、通信设备、生物科技、半导体下挫；文化传媒、油气上涨",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -50,33 +237,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "自然资源部发布2026版盘活存量土地典型案例，含六大类29个案例。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网引述自然资源部官方公众号，信息具体，属权威政务发布。"
-    },
-    {
-      "title": "海口海关（本级）及其后勤管理中心2026-2028年公务车辆维修保养服务采购项目公开征集公告",
-      "link": "https://www.chinanews.com.cn/aseaninfo/2026/10-13/10713672.shtml",
-      "pubDate": "Tue, 13 Oct 2026 14:03:11 +0800",
-      "contentSnippet": "一、征集条件",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "海口海关公开征集2026-2028年公务车辆维修保养服务采购项目供应商。",
+      "aiSummary": "A股午盘超3600只个股下跌，沪指微涨而深指、创业板指收跌，板块分化明显。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网较权威，内容为政府采购公告，信息具体可查证，但正文摘要过短。"
+      "credibilityReason": "来源为中新网，属权威媒体；数据具体可查，但缺乏引述和交叉验证细节。"
     },
     {
-      "title": "9月中国电商物流指数持续回升 供需两端向好",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-13/10713646.shtml",
-      "pubDate": "Tue, 13 Oct 2026 14:02:23 +0800",
-      "contentSnippet": "中新社北京10月13日电 (记者 阮煜琳)中国物流与采购联合会13日发布数据显示，9月，中国电商物流指数为111.9点，环比回升0.4点。",
+      "title": "2026年“乡村振兴杯”青少年足球邀请赛在京开幕",
+      "link": "https://www.chinanews.com.cn/ty/2026/10-14/10714244.shtml",
+      "pubDate": "Wed, 14 Oct 2026 11:32:02 +0800",
+      "contentSnippet": "中新网北京10月14日电 据北京市足球运动协会消息，10月13日，2026年“乡村振兴杯”青少年足球邀请赛在北京市足球青训分中心-华彬生态园足球基地开幕，来自“星球计划”、“足球第一课”项目受益学校和乡村振兴重点帮扶县的16支青少年U11代表队、共224名足球小将齐聚京城。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -84,180 +254,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国物流与采购联合会数据显示，9月中国电商物流指数环比回升0.4点至111.9点。",
+      "aiSummary": "2026年“乡村振兴杯”青少年足球邀请赛在北京开幕，16支U11代表队参赛。",
       "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "中新社为权威媒体，引用官方机构具体数据，时间地点明确，内容客观可查证。"
-    },
-    {
-      "title": "19800元享终身免费旅居康养？北京警方打掉一养老诈骗团伙",
-      "link": "https://www.chinanews.com.cn/fz/2026/10-13/10713670.shtml",
-      "pubDate": "Tue, 13 Oct 2026 13:59:25 +0800",
-      "contentSnippet": "近日，北京海淀警方成功破获一起针对中老年群体的养老诈骗案件，打掉一个假借“全国旅居康养”名义实施诈骗的犯罪团伙，抓获4名犯罪嫌疑人。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "北京海淀警方打掉一假借旅居康养名义诈骗中老年人的团伙，抓获4人。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网权威媒体，信息具体含地点、人数、案情，用词客观，可信度高。"
-    },
-    {
-      "title": "中缅泰老青年相聚侨乡保山 讲述“我们共同的故事”",
-      "link": "https://www.chinanews.com.cn/aseaninfo/2026/10-13/10713645.shtml",
-      "pubDate": "Tue, 13 Oct 2026 13:55:35 +0800",
-      "contentSnippet": "中新网云南保山10月13日电 (记者 陈静)12日晚，“根脉延续·侨印永昌”2026年“讲好我们共同的故事”展演活动在云南省保山市举行。来自中国、缅甸、泰国、老挝等国的青年代表、华校师生和侨团代表在线上线下相聚，循着“寻根”“铸魂”“致远”三个篇章，讲述属于自己的“根、魂、梦”。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中缅泰老青年代表在云南保山参加“讲好我们共同的故事”展演活动。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，属权威媒体，信息含具体时间地点人物，用词客观，可查证。"
-    },
-    {
-      "title": "海口海关2026年“两新”实验室仪器设备更新项目（分散采购部分）（二次招标）招标公告",
-      "link": "https://www.chinanews.com.cn/aseaninfo/2026/10-13/10713664.shtml",
-      "pubDate": "Tue, 13 Oct 2026 13:53:25 +0800",
-      "contentSnippet": "项目概况",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "海口海关发布2026年实验室仪器设备更新项目二次招标公告。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源中国新闻网较权威，招标公告属可查证信息，但正文内容极简，缺乏具体细节。"
-    },
-    {
-      "title": "（乡村行·看振兴）青年蹲点“浙中蜜蜂村”：大山里的“青春必修课”",
-      "link": "https://www.chinanews.com.cn/edu/2026/10-13/10713644.shtml",
-      "pubDate": "Tue, 13 Oct 2026 13:52:21 +0800",
-      "contentSnippet": "中新网金华10月13日电 题：青年蹲点“浙中蜜蜂村”：大山里的“青春必修课”",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中新网报道青年在浙中蜜蜂村蹲点实践，作为乡村振兴中的青春必修课。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，属权威媒体，内容具体但仅摘要，缺少直接引述和交叉验证。"
-    },
-    {
-      "title": "六盘山风味邂逅贺兰山佳酿 固原风物亮相中国（宁夏）国际葡萄酒文旅博览会",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-13/10713643.shtml",
-      "pubDate": "Tue, 13 Oct 2026 13:51:26 +0800",
-      "contentSnippet": "中新网银川10月13日电 (记者 李佩珊)10月12日至14日，第六届中国(宁夏)国际葡萄酒文化旅游博览会在银川举办。固原市以“举杯贺兰山 好物出六盘”为主题打造260平方米风物展，带来“六盘风味+贺兰佳酿”餐酒搭配体验，组织60余家农特产品、文旅文创、餐饮企业集中参展，借葡萄酒盛会推介六盘山好物，展现深厚人文底蕴。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "固原市以260平方米展区亮相第六届宁夏国际葡萄酒文旅博览会，推介六盘山农特产品与文旅资源。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，属权威媒体；信息具体（时间、地点、规模、企业数），有记者署名，内容客观可查证。"
-    },
-    {
-      "title": "多家4A级旅游景区，被清理",
-      "link": "https://www.chinanews.com.cn/ll/2026/10-13/10713661.shtml",
-      "pubDate": "Tue, 13 Oct 2026 13:50:02 +0800",
-      "contentSnippet": "摘下的是招牌，守住的是信任(一线行走)",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国新闻网报道多家4A级旅游景区被清理摘牌。",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为权威媒体中国新闻网，但正文摘要过短，缺乏具体景区名单、时间及官方依据等细节。"
-    },
-    {
-      "title": "2026年U15女子垒球亚洲杯在山东威海开赛",
-      "link": "https://www.chinanews.com.cn/ty/2026/10-13/10713641.shtml",
-      "pubDate": "Tue, 13 Oct 2026 13:42:42 +0800",
-      "contentSnippet": "中新网威海10月13日电 (王娇妮 谢菁)2026年U15女子垒球亚洲杯12日在山东威海高新区手曲垒球运动基地主赛场开赛，吸引来自8个国家和地区的青少年队伍参赛。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "2026年U15女子垒球亚洲杯在山东威海开赛，8个国家和地区青少年队伍参赛。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，属权威媒体，信息含具体时间地点人物，内容客观可查证。"
-    },
-    {
-      "title": "受大风天气影响 新疆部分旅客列车停运",
-      "link": "https://www.chinanews.com.cn/sh/2026/10-13/10713654.shtml",
-      "pubDate": "Tue, 13 Oct 2026 13:41:46 +0800",
-      "contentSnippet": "据新疆维吾尔自治区气象台发布的天气预报，今天(10月13日)白天到夜间，吐鲁番、巴州等地的部分区域有4~5级西北风，风口风力9~10级。铁路部门动态调整列车运行方案，对部分旅客列车采取停运措施，主动规避安全风险。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "新疆因大风天气停运部分旅客列车，铁路部门动态调整运行方案。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "中国新闻网为权威媒体，信息具体含气象数据和铁路措施，但缺少具体车次和直接引述。"
-    },
-    {
-      "title": "海南新增四处中国重要农业文化遗产",
-      "link": "https://www.chinanews.com.cn/sh/2026/10-13/10713640.shtml",
-      "pubDate": "Tue, 13 Oct 2026 13:40:20 +0800",
-      "contentSnippet": "中新网海口10月13日电 (记者 王晓斌)农业农村部近日公布第八批中国重要农业文化遗产名单，海南省海南昌江木棉稻田复合系统、海南屯昌猪养殖系统、海南儋州古盐田、海南五指山热带雨林大叶茶文化系统4项入选。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "农业农村部公布第八批中国重要农业文化遗产，海南四处入选。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，属权威媒体，信息具体含时间地点人物，可交叉验证。"
-    },
-    {
-      "title": "“新艺中国·数艺无界”文化和科技融合新质生产力大会在长沙举行",
-      "link": "https://www.chinanews.com.cn/gn/2026/10-13/10713639.shtml",
-      "pubDate": "Tue, 13 Oct 2026 13:34:30 +0800",
-      "contentSnippet": "中新网长沙10月13日电 (记者 徐雪莹 程小路)“新艺中国·数艺无界”文化和科技融合新质生产力大会13日在湖南长沙举行，全国新的社会阶层人士“新艺中国”服务团湖南服务考察同步启动。中央统战部副部长王瑞军，湖南省委常委、省委统战部部长隋忠诚出席活动并致辞。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "文化和科技融合新质生产力大会在长沙举行，中央统战部副部长等出席致辞。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，属权威媒体，信息具体含时间地点人物，但缺乏多源交叉验证。"
+      "credibilityReason": "中国新闻网为权威媒体，信息具体（时间、地点、队伍数量），引述足协消息，可查证。"
     }
   ]
 }

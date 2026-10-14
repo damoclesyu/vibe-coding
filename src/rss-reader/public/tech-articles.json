@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-13T06:10:36.321Z",
+  "generatedAt": "2026-10-14T04:13:20.501Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "我国一批自研重器将集中亮相 2026 珠海航展，首次开放海上展区静态展出海军现役舰艇",
-      "link": "https://www.ithome.com/1/012/251.htm",
-      "pubDate": "Tue, 13 Oct 2026 03:20:40 GMT",
-      "contentSnippet": "IT之家 10 月 13 日消息，第十六届中国国际航空航天博览会新闻发布会于今日（10 月 13 日）在北京举行，集中介绍本届航展筹备进展和参展亮点。\n据央视新闻报道，发布会上介绍，一批代表我国航空航天和国防科技最新自主创新成果的产品将集中亮相。\n\n航天科技集团展出“进出空间、利用空间、探索空间、天空地一体化防务、低空经济”五大主题，航天科工重点推出全新的一体化防空体系和升级版的反无人机体系。\n\n中国航空工业集团携整机、机载、科技、制造等领域 370 多项产品参展，较上届增幅超过 30％，向全球观众展示新中国航空工业发展 75 载的硬核实力与创新活力。\n\n中国航发将展出近 90 型航空发动机、",
+      "title": "中欧就混动汽车、电动汽车贸易问题达成共识，中汽协会表态支持",
+      "link": "https://www.ithome.com/1/012/795.htm",
+      "pubDate": "Wed, 14 Oct 2026 04:02:44 GMT",
+      "contentSnippet": "IT之家 10 月 14 日消息，今天（14 日）午间，中国汽车工业协会发布《中国汽车工业协会关于中欧混动汽车、电动汽车磋商共识的声明》。\n声明提到，近日，中欧双方秉持相互尊重、平等协商的原则，在贸易投资磋商机制下就混动汽车、电动汽车贸易问题开展了密集磋商并达成共识。中国汽车工业协会对此高度关注，并对磋商取得的积极成果表示欢迎和支持。\n中汽协会指出，当前全球贸易保护主义抬头，国际经贸环境的不确定性明显上升。汽车产业全球化程度高、产业链供应链长、跨国协作紧密，面临政策壁垒、供应链重构等多重挑战。如果任由贸易摩擦升级，不仅会推高企业成本、扰乱正常市场秩序，也会损害消费者利益，影响汽车产业转型升级。",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,33 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "第十六届珠海航展发布会披露，一批自研重器将集中亮相，首次开放海上展区静态展出海军现役舰艇。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家援引央视新闻及官方发布会，信息具体有数据支撑，来源权威，时效性强。"
-    },
-    {
-      "title": "德晟达英特尔 B960 / Q970 主板 M26-NVLS-ATX09 现身",
-      "link": "https://www.ithome.com/1/012/330.htm",
-      "pubDate": "Tue, 13 Oct 2026 06:00:39 GMT",
-      "contentSnippet": "IT之家 10 月 13 日消息，嵌入式与 AI 算力硬件企业德晟达 (Decenta) 已在官网公开了基于英特尔 FCLGA1954 平台的 M26-NVLS-ATX09 主板。该型号采用标准 ATX 板型，可选 B960 / Q970 芯片组变体。\n\n这款主板拥有 4 条 DDR5-6400 U-DIMM 内存插槽、至多 2 条全长 PCIe Gen5 插槽 (1×16 / 2×8)、2 条 PCIe ×4 插槽、2 条 PCIe×2 插槽、1 条 PCI 插槽，2 个 M.2 盘位（其中 1 个支持 PCIe Gen5 ×4）。\n\n其支持 HDMI、DisplayPort、VGA 视频信",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "德晟达发布基于英特尔FCLGA1954平台的M26-NVLS-ATX09 ATX主板，可选B960/Q970芯片组。",
+      "aiSummary": "中欧就混动及电动汽车贸易问题达成共识，中汽协发声明表示欢迎支持。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息含具体型号、芯片组、接口规格等细节，源自官网公开信息。"
+      "credibilityReason": "来源为知名科技媒体IT之家，引用中汽协官方声明，信息具体，但缺少具体协议细节。"
     },
     {
-      "title": "DPReview 称苹果 iPhone 18 Pro/Max 手动快门仅拍单帧，弱光环境下噪点增加",
-      "link": "https://www.ithome.com/1/012/329.htm",
-      "pubDate": "Tue, 13 Oct 2026 06:00:13 GMT",
-      "contentSnippet": "IT之家 10 月 13 日消息，科技媒体 DPReview 今天（10 月 13 日）发布博文，报道称在苹果 iPhone 18 Pro 和 iPhone 18 Pro Max 上，用户手动设置快门速度后会停止多帧堆叠，仅拍摄单帧照片，夜间模式也会失效。\n该媒体测试指出，iPhone 18 Pro 和 iPhone 18 Pro Max 上通过 Pro 级控制选项（Pro Controls），手动设置快门速度后，会停止多帧堆叠（frame stacking）。\n\niPhone 18 Pro 系列于 9 月发布，主摄像头首次配备机械可变光圈，并新增手动设置光圈、快门速度和白平衡的 Pro 控制",
+      "title": "马来西亚将借助中国卫星技术实现洪水提前预警",
+      "link": "https://www.ithome.com/1/012/757.htm",
+      "pubDate": "Wed, 14 Oct 2026 03:09:54 GMT",
+      "contentSnippet": "IT之家 10 月 14 日消息，马来西亚将借助中国卫星技术，针对每年东北季风季侵袭本国的洪水实现更早预警。马来西亚国家新闻社（Bernama）报道：马来西亚寻求中方在灾害早期预警系统方面的技术支持。\n\n据报道，马来西亚副总理艾哈迈德 · 扎希德 · 哈米迪称，这套基于卫星的系统能够提供更精准、全面的气象预报，帮助主管部门更好地为灾害做准备并减轻灾害损失。扎希德同时担任马来西亚国家中央灾害管理委员会主席，本次对华工作访问将持续至本周五。\n每年 11 月至次年 3 月，马来西亚受东北季风影响，持续性强降雨频发，极易爆发突发性洪水与山体滑坡。\n2021 年 12 月的特大洪水是马来西亚史上最严重的",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -50,169 +33,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "DPReview称iPhone 18 Pro手动快门会停止多帧堆叠，仅拍单帧致弱光噪点增加",
+      "aiSummary": "马来西亚拟借助中国卫星技术提升洪水预警能力，副总理访华寻求灾害预警支持。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家编译自权威影像媒体DPReview，技术细节具体，但缺原始链接且为未来产品"
+      "credibilityReason": "IT之家为知名科技媒体，引述马来西亚国家新闻社及副总理表态，信息具体，但缺少卫星技术细节。"
     },
     {
-      "title": "华为：2023 年以来，基于麒麟芯片的终端产品累计发货已经过亿",
-      "link": "https://www.ithome.com/1/012/327.htm",
-      "pubDate": "Tue, 13 Oct 2026 05:58:18 GMT",
-      "contentSnippet": "IT之家 10 月 13 日现场消息，华为今日（10 月 13 日）在上海练秋湖举办 2026 麒麟媒体沟通会，华为半导体业务无线终端芯片产品管理部部长徐松余发表演讲。\n\n徐松余谈到了麒麟 9050 系列的一些性能规格，并首次公布麒麟 9050 Pro 芯片详细架构图。他表示，首款逻辑折叠韬芯片 —— 麒麟 9050 系列在中国半导体产业界的支持下成功量产，但韬路径未来的发展还有众多挑战，包括工具链和方法论、工艺差异补偿、跨层互联开销优化、能耗控制、基准测试方法等。\n华为官方称，麒麟近年走过了一段并不平坦的路。2023 年 8 月，在半导体产业界的支持下，麒麟重新回到消费者身边，并持续支撑 M",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "华为称2023年以来麒麟芯片终端累计发货过亿，并发布麒麟9050 Pro架构",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家现场报道，有具体人物、产品、数据，但部分技术表述需核实"
-    },
-    {
-      "title": "江淮汽车今日股价直线拉升，最高涨超 9%",
-      "link": "https://www.ithome.com/1/012/326.htm",
-      "pubDate": "Tue, 13 Oct 2026 05:55:20 GMT",
-      "contentSnippet": "IT之家 10 月 13 日消息，江淮汽车直线拉升，迅速翻红后最高涨超 9%。截至IT之家发文，江淮汽车股价涨超 5%，总市值约 525 亿元。\n\n尊界事件发酵后，江淮汽车上周曾遭遇股价两连跌停。根据江淮汽车官方公告，该公司 9 月汽车销量 27,201 辆，同比下降 18.69%；新能源乘用车销量 2,932 辆，同比下降 18.85%。\n\n《尊界 V800 制动踏板检测情况说明》于今日公布，该说明显示，2026 年 10 月 11 日，国家认可的第三方检测机构对尊界 V800 制动踏板进行检验，尊界 V800 符合行标 QC/T 788-2018 要求 (纵向力 1500N，位移量 < 5",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "江淮汽车股价今日直线拉升涨超9%，此前因尊界事件两连跌停，官方公布制动踏板检测合格。",
-      "credibilityScore": 78,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，含具体股价、销量数据及官方公告引用，但缺乏原始检测报告链接。"
-    },
-    {
-      "title": "中国汽研回应尊界 V800 检测报告：只对企业送来样品或样车负责，对后续批量生产产品不做任何保证",
-      "link": "https://www.ithome.com/1/012/320.htm",
-      "pubDate": "Tue, 13 Oct 2026 05:51:11 GMT",
-      "contentSnippet": "IT之家 10 月 13 日消息，针对制动踏板争议，第一财经今日从尊界汽车处获悉《尊界 V800 制动踏板检测情况说明》。\n\n该说明显示，2026 年 10 月 11 日，国家认可的第三方检测机构对尊界 V800 制动踏板进行检验，尊界 V800 符合行标 QC/T 788-2018 要求（纵向力 1500N，位移量 ＜ 5mm），并做加严检验至纵向力 3000N 后，未出现裂纹和损坏。\n随后，中国汽车工程研究院股份有限公司检测中心档案室人员也向第一财经记者确认了这份报告的存在。但该人员表示：“我们的报告只对企业送来的样品或者样车负责，对于企业后续批量生产的产品，我们不做任何保证。”\n另外，江",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国汽研回应尊界V800检测报告，称仅对送检样品负责，不保证批量产品。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引用第一财经及检测机构人员原话，信息具体有出处，但正文不完整。"
-    },
-    {
-      "title": "零跑 B01 累计交付突破 10 万台：定位紧凑型纯电轿车，官方指导价 9.58 万元起",
-      "link": "https://www.ithome.com/1/012/317.htm",
-      "pubDate": "Tue, 13 Oct 2026 05:45:06 GMT",
-      "contentSnippet": "IT之家 10 月 13 日消息，零跑汽车官方今日宣布，零跑 B01 汽车自 2025 年 7 月上市至今，累计交付突破 100,000 台。\n\n据零跑汽车官方介绍，零跑连续三个月月销超十万台，国庆销量创新高，10 月 7 日单日突破 7,600 台。\nIT之家注意到，今年 9 月，零跑汽车官方宣布，旗下 B 系双子星 —— 零跑 B01 和零跑 B10 量产下线突破 30 万台。此次 30 万台的量产下线仅用时 1 年 6 个月，创零跑车系最快量产 30 万台新纪录。同时，零跑 B10 创零跑海外最快 6 万台出口纪录。\n\n作为参考，今年 7 月，零跑汽车旗下新款零跑 B01 与新款零跑 B",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "零跑B01累计交付突破10万台，定位紧凑型纯电轿车，9.58万元起售。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，数据来自零跑官方，信息具体，但缺乏第三方验证。"
-    },
-    {
-      "title": "缅北魏家犯罪集团一审 3 人被判死刑，五年诈骗金额近 60 亿元",
-      "link": "https://www.ithome.com/1/012/295.htm",
-      "pubDate": "Tue, 13 Oct 2026 05:37:58 GMT",
-      "contentSnippet": "IT之家 10 月 13 日消息，据央视新闻报道，2026 年 10 月 13 日，福建省泉州市中级人民法院和南安市人民法院一审公开宣判魏家犯罪集团系列案。对魏怀仁、陈大卫、廖景芳 3 名被告人判处死刑；对魏青涛、康敏、熊恒星 3 名被告人判处无期徒刑，对苏红相、邓子达、陈龙江等 55 名被告人分别判处二十四年至三年三个月不等有期徒刑，并相应判处罚金、没收财产、驱逐出境等附加刑。\n报道称，魏家是继明家、白家后，缅北“四大家族”里又一个接受中国法律审判的犯罪集团。在这“四大家族”里，魏家通过构建独一无二的政、军、商犯罪铁三角，成为危害最烈的缅北犯罪势力。\n家族一代核心人物老二魏超仁深耕政界，老三",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "缅北魏家犯罪集团一审宣判，3人死刑，五年诈骗近60亿元。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家引央视新闻，有具体法院、判决细节，信息详实可信。"
-    },
-    {
-      "title": "苹果 iPhone 18 Pro/Max 测试：无可变电压供电充电器也能接近满速快充",
-      "link": "https://www.ithome.com/1/012/294.htm",
-      "pubDate": "Tue, 13 Oct 2026 05:37:09 GMT",
-      "contentSnippet": "IT之家 10 月 13 日消息，科技媒体 LTT Labs 实测显示，在苹果 iPhone 18 Pro 和 iPhone 18 Pro Max 上，使用未支持可变电压供电（AVS）的 USB PD 充电器，也能达到媲美支持 AVS 充电器接近的快充速度。\nAVS 是一种 USB Power Delivery 充电协议功能，支持充电器根据被充电设备的请求，在较宽范围内精细调整输出电压。USB PD 是 USB Power Delivery 的缩写，是基于 USB-C 接口的快充供电标准。设备与充电器通过通信协商电压和电流，从而在安全范围内提高充电功率。\nIT之家附上官方声明内容如下：\n\niP",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "LTT Labs实测显示iPhone 18 Pro用非AVS充电器也能接近满速快充",
-      "credibilityScore": 78,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家编译LTT Labs实测，有具体技术解释，但正文截断且缺原始数据链接"
-    },
-    {
-      "title": "华为徐松余：下一代麒麟 2027 芯片就绪，未来 10 年（逻辑折叠）演进可持续",
-      "link": "https://www.ithome.com/1/012/289.htm",
-      "pubDate": "Tue, 13 Oct 2026 05:26:06 GMT",
-      "contentSnippet": "IT之家 10 月 13 日现场消息，华为今日（10 月 13 日）在上海练秋湖举办 2026 麒麟媒体沟通会，华为半导体业务无线终端芯片产品管理部部长徐松余发表演讲。\n\n徐松余今日首次公布逻辑折叠韬芯片麒麟 9050 Pro 详细架构图，包括新一代灵犀 CPU、马良 GPU、达芬奇架构 NPU、麒麟 AI ISP、Balong AI Modem、FFTS 函数流任务调度器、音视频处理器、安全处理器和灵犀微核协同工作。\n\nIT之家注意到，徐松余还透露，下一代麒麟 2027 芯片也已经就绪，到目前为止，所有的测试结果都符合预期，因此在未来 10 年（逻辑折叠）的演进是可持续的。至于具体到哪个阶段",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "华为公布麒麟9050 Pro架构，并称下一代2027芯片已就绪，逻辑折叠演进可持续。",
-      "credibilityScore": 78,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家现场报道，有具体架构细节和高管署名，但缺少原始演讲全文及第三方验证。"
-    },
-    {
-      "title": "微软调整 Win10/Win11 新版 Outlook AI 功能，10 月全球停用 Copilot 主题",
-      "link": "https://www.ithome.com/1/012/288.htm",
-      "pubDate": "Tue, 13 Oct 2026 05:17:43 GMT",
-      "contentSnippet": "IT之家 10 月 13 日消息，科技媒体 Windows Latest 今天（10 月 13 日）发布博文，报道称微软将于 2026 年 10 月中下旬在全球停用 Microsoft Outlook 中的 Copilot 主题功能，覆盖 macOS 和 Windows 新版 Outlook，以及网页版 Outlook.com。\nIT之家援引博文介绍，Copilot 主题是微软为新版 Outlook 引入的 AI 界面定制功能，用户可让 Copilot 根据提示生成主题，用于改变 Outlook 界面的视觉风格。\n\n用户在 Outlook 中选择 Copilot 主题入口后，可输入描述或选择预",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "微软将于2026年10月全球停用Outlook中的Copilot主题AI界面定制功能。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家援引Windows Latest，信息具体含时间范围与平台，但缺少官方确认及停用原因。"
-    },
-    {
-      "title": "Counterpoint 调研称全球超 7 成消费者推迟购买手机或寻找替代机型",
-      "link": "https://www.ithome.com/1/012/287.htm",
-      "pubDate": "Tue, 13 Oct 2026 05:14:33 GMT",
-      "contentSnippet": "IT之家 10 月 13 日消息，Counterpoint Research 今日发布年度全球智能手机消费者调研报告，在未来六个月内有购机计划的消费者中，63% 已注意到智能手机价格上涨。\n报告称，在日常消费的各类产品和服务中，智能手机是消费者感受到价格明显上涨的两大品类之一，与燃油 / 汽油、食品杂货及日常必需品并列。中国消费者对智能手机价格上涨的认知比例最高，达 81%，其次为德国（70%）、印度（66%），美国和英国（均为 50%）。\nCounterpoint Research 研究总监 Tarun Pathak 表示：“存储成本上涨正在推高智能手机价格，OEM 厂商吸收成本上涨影响的空",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "Counterpoint调研显示全球超七成消费者因手机涨价推迟购机或寻找替代机型",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家，引用Counterpoint权威调研数据，含具体比例和地区细节，信息详实"
-    },
-    {
-      "title": "传统豪华车降价，中国新豪华向上，阿维塔T09想争的不只是50万元市场",
-      "link": "https://www.tmtpost.com/8165939.html",
-      "pubDate": "Tue, 13 Oct 2026 13:07:37 +0800",
-      "contentSnippet": "阿维塔T09冲击50万元以上市场，也进一步抬高了品牌向上与全球化的想象空间。",
+      "title": "一只18A“超购王”的停摆：停牌半年、调出港股通，中慧生物年内第三位董事辞任",
+      "link": "https://www.tmtpost.com/8167657.html",
+      "pubDate": "Tue, 13 Oct 2026 21:37:12 +0800",
+      "contentSnippet": "密集人事迭代，全部发生在年报难产、独立法证调查推进、复牌遥遥无期的特殊窗口期。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -220,16 +50,50 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "阿维塔T09冲击50万元以上市场，意在推动品牌向上与全球化。",
+      "aiSummary": "中慧生物停牌半年、调出港股通，年内第三位董事辞任，年报难产。",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "钛媒体为知名科技财经媒体，内容具体涉及停牌、调出港股通等事实，但缺少原始公告引用。"
+    },
+    {
+      "title": "超长蛋挞退潮，谁是幕后推手？",
+      "link": "https://www.tmtpost.com/8166275.html",
+      "pubDate": "Tue, 13 Oct 2026 18:38:32 +0800",
+      "contentSnippet": "供应链太快，是把双刃剑。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体分析超长蛋挞热潮退去，归因于供应链快速反应的双刃剑效应。",
       "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "钛媒体为知名科技媒体，但摘要内容简略，缺少产品细节与数据支撑。"
+      "credibilityReason": "知名科技媒体，选题具体但正文极简，缺乏数据与原始出处，深度有限。"
     },
     {
-      "title": "服役约 35 年后，微软桌面排版软件 Microsoft Publisher 退役",
-      "link": "https://www.ithome.com/1/012/286.htm",
-      "pubDate": "Tue, 13 Oct 2026 05:07:10 GMT",
-      "contentSnippet": "IT之家 10 月 13 日消息，科技媒体 Windows Latest 今天（10 月 13 日）发布博文，报道称在服役约 35 年（首次发布于 1991 年）后，微软桌面排版软件 Microsoft Publisher 已退役，部分用户可能无法在 Microsoft 365 中打开 .pub 文件。\nIT之家曾于今年 2 月报道，微软已经通过弹窗方式，提醒 Microsoft 365 订阅用户将于 2026 年 10 月 1 日停止支持桌面排版软件 Publisher。此外 Office 2021 和 Office LTSC 2021 等永久授权版本的支持周期也于 10 月 13 日结束。",
+      "title": "银行分化了",
+      "link": "https://www.tmtpost.com/8167559.html",
+      "pubDate": "Wed, 14 Oct 2026 12:02:08 +0800",
+      "contentSnippet": "利好大行的新规则",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体报道银行分化，称新规利好大行",
+      "credibilityScore": 62,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体钛媒体，但正文仅一句话，缺少具体规则、数据及原始出处，信息过于简略"
+    },
+    {
+      "title": "微软推送 Win11 26H1 十月累积更新 28000.3231：任务栏可四边贴靠",
+      "link": "https://www.ithome.com/1/012/794.htm",
+      "pubDate": "Wed, 14 Oct 2026 03:58:57 GMT",
+      "contentSnippet": "IT之家 10 月 14 日消息，在本月补丁星期二活动日（10 月 13 日），微软面向 Windows 11 26H1 系统推送 KB5127646 累积更新，用户安装后版本号升至 Build 28000.3231。\n\nIT之家附上更新日志内容如下：\n一、任务栏\n\n新增任务栏自定义选项，适配不同使用习惯，充分利用屏幕空间。\n\n支持自定义任务栏屏幕位置：路径：设置 → 个性化 → 任务栏 → 任务栏行为，可将任务栏放置在底部、顶部、左侧、右侧。切换位置后，悬浮提示、菜单、动画效果会跟随任务栏；小图标、“永不合并任务栏按钮”等绝大多数个性化设置均可正常生效。\n\n小型任务栏模式：适合小屏设备，最大",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -237,16 +101,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "微软桌面排版软件Publisher在服役约35年后正式退役，部分用户无法打开.pub文件。",
-      "credibilityScore": 88,
+      "aiSummary": "微软推送Win11 26H1累积更新，任务栏支持四边贴靠与小型模式。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体含时间节点和版本细节，引用Windows Latest及微软官方弹窗，逻辑清晰。"
+      "credibilityReason": "IT之家为知名科技媒体，更新日志具体详实，含版本号与操作路径，信息可信度高。"
     },
     {
-      "title": "Visa 中国获批筹备银行卡清算机构",
-      "link": "https://www.ithome.com/1/012/284.htm",
-      "pubDate": "Tue, 13 Oct 2026 05:03:39 GMT",
-      "contentSnippet": "IT之家 10 月 13 日消息，数字支付企业 Visa 今日宣布，已正式获中国人民银行批准在中国境内筹备银行卡清算机构。这标志着 Visa 服务中国境内支付市场进程中的一个重要进展。\nVisa 首席执行官麦凯恩（Ryan McInerney）表示：“此次筹备申请获批是 Visa 长期致力于服务中国市场的又一重要里程碑。期待按照中国人民银行的相关监管规定，积极开展后续工作，以争取早日在国内展业。”\nVisa 将继续完成后续工作，并在中国境内开展银行卡清算业务。\n\nIT之家注：银行卡清算是指持卡人刷卡消费后，银行、商家和清算机构之间算清楚钱、完成资金划转的过程，由持牌清算机构统一处理跨行交易和结",
+      "title": "谷歌调整 Chrome 浏览器漏洞赏金计划：高危漏洞最高奖励 2 万美元",
+      "link": "https://www.ithome.com/1/012/793.htm",
+      "pubDate": "Wed, 14 Oct 2026 03:55:47 GMT",
+      "contentSnippet": "IT之家 10 月 14 日消息，谷歌依靠安全研究员提交的漏洞报告，再结合内部安全团队，保障 Chrome 等应用抵御漏洞利用攻击。过去数月，谷歌已对漏洞奖励计划（VRP）作出多项调整，包括 5 月下调 Chrome 漏洞奖金、7 月借助 AI 提升 Chrome 安全性。如今，谷歌将对 Chrome 漏洞奖励计划进行新一轮调整。\n\n谷歌在一篇博客文章中公布了全新奖金档位与漏洞分类。内存损坏类漏洞的基础奖金提升至原来四倍，达到 2,000 美元（IT之家注：现汇率约合 13,410 元人民币）。此外，浏览器、图形处理器（GPU）以及网络进程中可控读取与崩溃类漏洞报告，奖金为 4,000 美元（",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -254,10 +118,147 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "Visa获中国人民银行批准在中国境内筹备银行卡清算机构，迈出进入中国支付市场重要一步。",
+      "aiSummary": "谷歌调整Chrome漏洞赏金计划，内存损坏类漏洞基础奖金提升至2000美元，高危漏洞最高奖励2万美元。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，内容具体含奖金数额与漏洞分类，引用谷歌官方博客，信息可信度较高。"
+    },
+    {
+      "title": "Elgato 首款无线麦克风 Wave Go 发布，支持领夹与手持模式",
+      "link": "https://www.ithome.com/1/012/792.htm",
+      "pubDate": "Wed, 14 Oct 2026 03:52:31 GMT",
+      "contentSnippet": "IT之家 10 月 14 日消息，CORSAIR（海盗船）旗下内容创作品牌 Elgato 德国当地时间昨日发布了其首款无线麦克风设备 Wave Go。这一产品支持领夹与手持模式，适配多样化的录音场景。\n\nWave Go 套件包括领夹发射器、USB-C 接收器、与发射器配套的智能手柄、2 个磁吸固定点、挡风罩、USB-C 线材和收纳盒。其发射器可搭配磁吸固定点以单独的领夹式使用，也可与智能手柄组成完整的手持麦克风。\n\nElgato 表示，Wave Go 可提供更接近广播麦克风的音质。其采用电容式拾音头，内置 EQ Shift 音频配置调整功能、自动增益功能，还拥有限幅器和低切滤波器。此外，其 2",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "Elgato发布首款无线麦克风Wave Go，支持领夹与手持双模式。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，产品细节具体，含套件清单与技术参数，但缺少价格与原始出处链接。"
+    },
+    {
+      "title": "微软 Win10 推送 10 月扩展安全更新：修复文件历史记录备份故障",
+      "link": "https://www.ithome.com/1/012/786.htm",
+      "pubDate": "Wed, 14 Oct 2026 03:47:49 GMT",
+      "contentSnippet": "IT之家 10 月 14 日消息，在本月补丁星期二活动日（10 月 13 日），微软面向 Windows 10 扩展安全更新（ESU）用户推送 KB5126657 更新，覆盖 Windows 10 22H2 和 21H2，安装后版本号升至 Build 19045.7807 与 19044.7807。\n时区与时间规则\n本次更新为加拿大不列颠哥伦比亚省、艾伯塔省启用永久夏令时，相关规则将于 2026 年 11 月正式生效；同时新增曼尼托巴标准时间时区，时区标识为（UTC-5:00）曼尼托巴。\nReFS 外部存储安全审计\n更新为外接存储设备上的 ReFS 文件系统卷，新增审计功能与可选策略管控。审计",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微软推送Win10 ESU更新KB5126657，修复文件历史记录备份故障并新增时区与ReFS审计功能",
       "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，内容具体，引用Visa官方及CEO声明，信息有据可查。"
+      "credibilityReason": "IT之家为知名科技媒体，内容含具体KB编号、版本号及功能细节，信息详实可信"
+    },
+    {
+      "title": "彭博社报告：云游戏与 AI 或将终结传统游戏主机",
+      "link": "https://www.ithome.com/1/012/783.htm",
+      "pubDate": "Wed, 14 Oct 2026 03:45:48 GMT",
+      "contentSnippet": "IT之家 10 月 14 日消息，彭博社今天（14 日）发布的《深度分析：云游戏与 AI 或最终终结游戏主机》行业研究报告预测，到 2035 年，云游戏市场规模将达到 380 亿美元（IT之家注：现汇率约合 2,547.91 亿元人民币）。随着云游戏日益普及，传统游戏主机可能最终失去自身在大众消费市场的地位。\n\n报告指出，AI 将使游戏越来越复杂，对硬件性能的要求也会不断提高。相比每隔几年推出一代性能更强的新主机，利用数据中心运行游戏，再通过互联网将画面传输给玩家，能够更有效地满足需求。\n其中，任天堂在云游戏领域的布局相对有限，一直将其放在公司战略的次要位置，因此可能难以适应这一转变。索尼集团",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "彭博社报告预测云游戏与AI或终结传统游戏主机，2035年云游戏市场达380亿美元。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为彭博社报告经IT之家编译，有具体数据与预测，但属远期预测，确定性有限。"
+    },
+    {
+      "title": "雷神 ZERO Air 15 双十一开启优惠：1.54kg 轻量机身搭载 RTX 5060，支持 160W 性能释放",
+      "link": "https://www.ithome.com/1/012/769.htm",
+      "pubDate": "Wed, 14 Oct 2026 03:36:25 GMT",
+      "contentSnippet": "IT之家 10 月 14 日消息，双十一大促已经开启，笔记本市场也迎来集中优惠。\n对于不少用户来说，如今一台电脑的使用场景已经不再局限于单纯游戏，日常办公、内容创作、影音娱乐等需求也越来越常见。因此，在选择游戏本时，除了关注处理器和显卡性能，机身重量、屏幕体验以及移动便携性也成为不少消费者考虑的因素。\n此前在 CES 2026 上，雷神推出了全新的 LightGaming 轻型游戏本产品 —— 雷神 ZERO Air 15。该产品主打在轻量化机身中实现较高性能释放，官方数据显示，其整机重量约 1.54kg，厚度薄至 15.9mm，同时支持最高 160W 性能输出。双十一期间，雷神 ZERO A",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家",
+        "Solidot"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "雷神ZERO Air 15双十一促销，1.54kg轻量机身配RTX 5060，支持160W性能释放。",
+      "credibilityScore": 87,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家等知名科技媒体，产品参数具体，但缺少价格和原始评测数据支撑。（多源覆盖 +5）"
+    },
+    {
+      "title": "谷歌车机版 Google Play 即将迎来重大体验更新，支持动态屏幕适配",
+      "link": "https://www.ithome.com/1/012/767.htm",
+      "pubDate": "Wed, 14 Oct 2026 03:36:00 GMT",
+      "contentSnippet": "IT之家 10 月 14 日消息，Google（谷歌）当地时间 13 日宣布，车机版 Google Play 应用程序商店即将在未来数周迎来重大体验更新。\n\n各家汽车制造商对车载显示系统的呈现方式有着不同的看法，这导致运行车机版 Google Play 的屏幕存在各异的大小、方向、形状。\n而即将到来的更新将为车机版 Google Play 带来动态屏幕规格适配，保障每块屏幕都能提供合适的视觉体验。\n\n车机版 Google Play 还将在主页提供用户所需的内容，让用户能轻松浏览简化的导航和精心策划的合集，Firefox 等应用程序也将入驻。谷歌还将推出更丰富的车载媒体功能，如在停车时可通过仪表",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "谷歌宣布车机版Google Play将更新，支持动态屏幕适配并引入Firefox等应用。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，信息具体含技术细节，但缺少原始官方链接引用。"
+    },
+    {
+      "title": "《糖果传奇》开发商打造的免费游戏引擎：Defold 正式支持微软 XBOX",
+      "link": "https://www.ithome.com/1/012/766.htm",
+      "pubDate": "Wed, 14 Oct 2026 03:32:02 GMT",
+      "contentSnippet": "IT之家 10 月 14 日消息，Defold 基金会于 10 月 12 日发布公告，发布开源跨平台游戏引擎 Defold 1.14.0，正式支持 Microsoft XBOX 游戏开发，并向经微软批准的开发者免费提供相关资源。\n\nIT之家注：Defold 自 2008 年问世，定位为免费、源码可获取的跨平台游戏引擎，支持网页、移动端、桌面端及主机发行，其特点是运行体积较小、注重性能，并提供跨平台构建工作流，开发者可复用同一代码库面向多个平台发布作品。\n\nDefold 最初由《糖果传奇》（Candy Crush）的 King 工作室开发，而 King 现隶属微软公司。该游戏引擎此前已支持任天堂",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "Defold 1.14.0发布，正式支持Xbox游戏开发，向获批开发者免费提供资源。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息具体含版本号与日期，有官方公告出处，技术描述准确。"
+    },
+    {
+      "title": "比亚迪欧洲建厂最新计划：匈牙利厂 Q4 启动大规模生产，法国已进入候选",
+      "link": "https://www.ithome.com/1/012/765.htm",
+      "pubDate": "Wed, 14 Oct 2026 03:31:24 GMT",
+      "contentSnippet": "IT之家 10 月 14 日消息，据第一财经，比亚迪执行副总裁李柯在 2026 巴黎车展上披露，比亚迪将在欧洲大规模投资制造，比亚迪匈牙利工厂计划在今年第四季度启动大规模生产。同时，比亚迪也将在欧洲建立第二、第三工厂，目前法国已进入比亚迪欧洲建厂的候选名单。\n\n彭博社此前披露，比亚迪计划长期在欧洲建设 4 座工厂，包括 3 座整车组装厂和 1 座电动汽车电池厂。随着欧盟逐步推出本地制造相关规则，比亚迪正寻求扩大欧洲本地生产能力，以满足监管要求并吸引更多消费者。\n此外，今年 7 月，比亚迪欧洲市场特别顾问阿尔弗雷多 · 阿尔塔维拉表示，计划寻求一个“棕地（IT之家注：收购或租赁已有的设施，并对其",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "比亚迪匈牙利工厂Q4启动大规模生产，法国进入欧洲第二三工厂候选名单。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家援引第一财经及彭博社，高管实名披露，信息具体，但缺少官方直接确认。"
+    },
+    {
+      "title": "Mozilla 推出企业版火狐浏览器 Firefox Enterprise",
+      "link": "https://www.ithome.com/1/012/764.htm",
+      "pubDate": "Wed, 14 Oct 2026 03:25:29 GMT",
+      "contentSnippet": "IT之家 10 月 14 日消息，Mozilla 当地时间本月 12 日宣布推出企业版火狐浏览器 Firefox Enterprise。此举旨在满足全球（尤其是欧洲）企业客户对数字主权的需求。\n\nMozilla 强调 Firefox 基于当前唯一的独立主要浏览器引擎 Gecko，这意味机构可以通过另一途径来减少对单一架构的依赖。\nFirefox Enterprise 专为具有严格安全、治理、合规要求的组织而打造，将 Firefox 与组织可在自身基础设施上运行的管理控制台相结合。通过该控制台，IT 团队可以集中管理浏览器策略和访问权限，控制数据在浏览器中的传输方式，并设置 AI 使用的相关限制",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "Mozilla推出企业版Firefox Enterprise，主打数字主权与集中管理",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，内容具体含产品定位与功能细节，但缺少官方原始链接引用"
     }
   ]
 }
