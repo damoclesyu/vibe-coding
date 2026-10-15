@@ -1,48 +1,14 @@
 {
-  "generatedAt": "2026-10-14T04:13:20.501Z",
+  "generatedAt": "2026-10-15T04:14:19.001Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "中欧就混动汽车、电动汽车贸易问题达成共识，中汽协会表态支持",
-      "link": "https://www.ithome.com/1/012/795.htm",
-      "pubDate": "Wed, 14 Oct 2026 04:02:44 GMT",
-      "contentSnippet": "IT之家 10 月 14 日消息，今天（14 日）午间，中国汽车工业协会发布《中国汽车工业协会关于中欧混动汽车、电动汽车磋商共识的声明》。\n声明提到，近日，中欧双方秉持相互尊重、平等协商的原则，在贸易投资磋商机制下就混动汽车、电动汽车贸易问题开展了密集磋商并达成共识。中国汽车工业协会对此高度关注，并对磋商取得的积极成果表示欢迎和支持。\n中汽协会指出，当前全球贸易保护主义抬头，国际经贸环境的不确定性明显上升。汽车产业全球化程度高、产业链供应链长、跨国协作紧密，面临政策壁垒、供应链重构等多重挑战。如果任由贸易摩擦升级，不仅会推高企业成本、扰乱正常市场秩序，也会损害消费者利益，影响汽车产业转型升级。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中欧就混动及电动汽车贸易问题达成共识，中汽协发声明表示欢迎支持。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，引用中汽协官方声明，信息具体，但缺少具体协议细节。"
-    },
-    {
-      "title": "马来西亚将借助中国卫星技术实现洪水提前预警",
-      "link": "https://www.ithome.com/1/012/757.htm",
-      "pubDate": "Wed, 14 Oct 2026 03:09:54 GMT",
-      "contentSnippet": "IT之家 10 月 14 日消息，马来西亚将借助中国卫星技术，针对每年东北季风季侵袭本国的洪水实现更早预警。马来西亚国家新闻社（Bernama）报道：马来西亚寻求中方在灾害早期预警系统方面的技术支持。\n\n据报道，马来西亚副总理艾哈迈德 · 扎希德 · 哈米迪称，这套基于卫星的系统能够提供更精准、全面的气象预报，帮助主管部门更好地为灾害做准备并减轻灾害损失。扎希德同时担任马来西亚国家中央灾害管理委员会主席，本次对华工作访问将持续至本周五。\n每年 11 月至次年 3 月，马来西亚受东北季风影响，持续性强降雨频发，极易爆发突发性洪水与山体滑坡。\n2021 年 12 月的特大洪水是马来西亚史上最严重的",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "马来西亚拟借助中国卫星技术提升洪水预警能力，副总理访华寻求灾害预警支持。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引述马来西亚国家新闻社及副总理表态，信息具体，但缺少卫星技术细节。"
-    },
-    {
-      "title": "一只18A“超购王”的停摆：停牌半年、调出港股通，中慧生物年内第三位董事辞任",
-      "link": "https://www.tmtpost.com/8167657.html",
-      "pubDate": "Tue, 13 Oct 2026 21:37:12 +0800",
-      "contentSnippet": "密集人事迭代，全部发生在年报难产、独立法证调查推进、复牌遥遥无期的特殊窗口期。",
+      "title": "中国科学家首次以书生科学多模态大模型攻克世界级数学难题",
+      "link": "https://www.tmtpost.com/8169589.html",
+      "pubDate": "Thu, 15 Oct 2026 12:02:07 +0800",
+      "contentSnippet": "上海人工智能实验室今天宣布，实验室访问学者、大湾区大学教授许地生团队依托“书生”科学多模态大模型S2，破解了世界级数学难题三维吉斯（Ghys）猜想。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -50,33 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中慧生物停牌半年、调出港股通，年内第三位董事辞任，年报难产。",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "钛媒体为知名科技财经媒体，内容具体涉及停牌、调出港股通等事实，但缺少原始公告引用。"
-    },
-    {
-      "title": "超长蛋挞退潮，谁是幕后推手？",
-      "link": "https://www.tmtpost.com/8166275.html",
-      "pubDate": "Tue, 13 Oct 2026 18:38:32 +0800",
-      "contentSnippet": "供应链太快，是把双刃剑。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体分析超长蛋挞热潮退去，归因于供应链快速反应的双刃剑效应。",
+      "aiSummary": "上海AI实验室团队依托书生科学多模态大模型S2破解三维吉斯猜想。",
       "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体，选题具体但正文极简，缺乏数据与原始出处，深度有限。"
+      "credibilityReason": "钛媒体为知名科技媒体，信息具体含机构与模型名，但缺乏论文出处及同行验证细节。"
     },
     {
-      "title": "银行分化了",
-      "link": "https://www.tmtpost.com/8167559.html",
-      "pubDate": "Wed, 14 Oct 2026 12:02:08 +0800",
-      "contentSnippet": "利好大行的新规则",
+      "title": "茶百道，拿了瑞幸的剧本？",
+      "link": "https://www.tmtpost.com/8168817.html",
+      "pubDate": "Thu, 15 Oct 2026 11:40:00 +0800",
+      "contentSnippet": "瑞幸能翻身，茶百道难了。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -84,181 +33,231 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体报道银行分化，称新规利好大行",
+      "aiSummary": "钛媒体分析茶百道效仿瑞幸模式但难以复制其翻身路径",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "钛媒体为知名科技媒体，但正文摘要过简，缺少数据与细节支撑"
+    },
+    {
+      "title": "Anthropic三季度营收168亿美元，撑得起2万亿美元IPO吗？",
+      "link": "https://www.tmtpost.com/8169448.html",
+      "pubDate": "Thu, 15 Oct 2026 11:14:00 +0800",
+      "contentSnippet": "交给投资者日的成绩单。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体报道Anthropic三季度营收168亿美元，探讨其2万亿美元IPO估值合理性。",
       "credibilityScore": 62,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，但正文仅一句话，缺少具体规则、数据及原始出处，信息过于简略"
+      "credibilityReason": "来源为知名科技媒体，但正文仅一句摘要，缺少数据出处与细节支撑，信息完整性不足。"
     },
     {
-      "title": "微软推送 Win11 26H1 十月累积更新 28000.3231：任务栏可四边贴靠",
-      "link": "https://www.ithome.com/1/012/794.htm",
-      "pubDate": "Wed, 14 Oct 2026 03:58:57 GMT",
-      "contentSnippet": "IT之家 10 月 14 日消息，在本月补丁星期二活动日（10 月 13 日），微软面向 Windows 11 26H1 系统推送 KB5127646 累积更新，用户安装后版本号升至 Build 28000.3231。\n\nIT之家附上更新日志内容如下：\n一、任务栏\n\n新增任务栏自定义选项，适配不同使用习惯，充分利用屏幕空间。\n\n支持自定义任务栏屏幕位置：路径：设置 → 个性化 → 任务栏 → 任务栏行为，可将任务栏放置在底部、顶部、左侧、右侧。切换位置后，悬浮提示、菜单、动画效果会跟随任务栏；小图标、“永不合并任务栏按钮”等绝大多数个性化设置均可正常生效。\n\n小型任务栏模式：适合小屏设备，最大",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "做IP的都在AI上找答案，快看想做游戏之后的“第十艺术”",
+      "link": "https://www.tmtpost.com/8164712.html",
+      "pubDate": "Thu, 15 Oct 2026 11:13:00 +0800",
+      "contentSnippet": "“处”出来的关系，能不能像“读”出来的故事那样算作IP，还没有先例。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
       "allSources": [
-        "IT之家"
+        "钛媒体"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "微软推送Win11 26H1累积更新，任务栏支持四边贴靠与小型模式。",
-      "credibilityScore": 85,
+      "aiSummary": "钛媒体探讨AI时代IP定义，提出游戏之后'第十艺术'概念，但内容简略。",
+      "credibilityScore": 62,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体钛媒体，但内容较简略抽象，缺少具体数据与原始出处支撑。"
+    },
+    {
+      "title": "胖东来要开的百米酒店，究竟是怎么个事？",
+      "link": "https://www.tmtpost.com/8169411.html",
+      "pubDate": "Thu, 15 Oct 2026 11:07:00 +0800",
+      "contentSnippet": "期待2029年酒店开业的那天。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体解析胖东来百米酒店项目，期待2029年开业。",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，更新日志具体详实，含版本号与操作路径，信息可信度高。"
+      "credibilityReason": "来源为知名科技媒体钛媒体，但内容较简略，缺少具体细节和数据支撑。"
     },
     {
-      "title": "谷歌调整 Chrome 浏览器漏洞赏金计划：高危漏洞最高奖励 2 万美元",
-      "link": "https://www.ithome.com/1/012/793.htm",
-      "pubDate": "Wed, 14 Oct 2026 03:55:47 GMT",
-      "contentSnippet": "IT之家 10 月 14 日消息，谷歌依靠安全研究员提交的漏洞报告，再结合内部安全团队，保障 Chrome 等应用抵御漏洞利用攻击。过去数月，谷歌已对漏洞奖励计划（VRP）作出多项调整，包括 5 月下调 Chrome 漏洞奖金、7 月借助 AI 提升 Chrome 安全性。如今，谷歌将对 Chrome 漏洞奖励计划进行新一轮调整。\n\n谷歌在一篇博客文章中公布了全新奖金档位与漏洞分类。内存损坏类漏洞的基础奖金提升至原来四倍，达到 2,000 美元（IT之家注：现汇率约合 13,410 元人民币）。此外，浏览器、图形处理器（GPU）以及网络进程中可控读取与崩溃类漏洞报告，奖金为 4,000 美元（",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "复杂高客单新品如何靠YouTube 的“全链路叙事”斩获全球大奖？",
+      "link": "https://www.qbitai.com/2026/10/503350.html",
+      "pubDate": "Thu, 15 Oct 2026 03:01:20 +0000",
+      "contentSnippet": "企业该如何打破海外认知壁垒？",
+      "sourceName": "量子位",
+      "sourceWeight": 80,
       "allSources": [
-        "IT之家"
+        "量子位"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "谷歌调整Chrome漏洞赏金计划，内存损坏类漏洞基础奖金提升至2000美元，高危漏洞最高奖励2万美元。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，内容具体含奖金数额与漏洞分类，引用谷歌官方博客，信息可信度较高。"
+      "aiSummary": "量子位报道企业如何通过YouTube全链路叙事打破海外认知壁垒并斩获全球大奖。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体量子位，但内容偏营销方法论，缺乏具体数据与原始出处，技术准确性一般。"
     },
     {
-      "title": "Elgato 首款无线麦克风 Wave Go 发布，支持领夹与手持模式",
-      "link": "https://www.ithome.com/1/012/792.htm",
-      "pubDate": "Wed, 14 Oct 2026 03:52:31 GMT",
-      "contentSnippet": "IT之家 10 月 14 日消息，CORSAIR（海盗船）旗下内容创作品牌 Elgato 德国当地时间昨日发布了其首款无线麦克风设备 Wave Go。这一产品支持领夹与手持模式，适配多样化的录音场景。\n\nWave Go 套件包括领夹发射器、USB-C 接收器、与发射器配套的智能手柄、2 个磁吸固定点、挡风罩、USB-C 线材和收纳盒。其发射器可搭配磁吸固定点以单独的领夹式使用，也可与智能手柄组成完整的手持麦克风。\n\nElgato 表示，Wave Go 可提供更接近广播麦克风的音质。其采用电容式拾音头，内置 EQ Shift 音频配置调整功能、自动增益功能，还拥有限幅器和低切滤波器。此外，其 2",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "一大批区域国资酒店集团，悄悄把生意做到了学校、医院",
+      "link": "https://www.tmtpost.com/8169312.html",
+      "pubDate": "Thu, 15 Oct 2026 11:01:00 +0800",
+      "contentSnippet": "国资酒店扎堆布局生活服务，中小酒管别抄错作业了。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
       "allSources": [
-        "IT之家"
+        "钛媒体"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "Elgato发布首款无线麦克风Wave Go，支持领夹与手持双模式。",
+      "aiSummary": "钛媒体报道区域国资酒店集团拓展学校、医院等生活服务业务",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体钛媒体，但正文摘要过简，缺少具体数据与案例支撑"
+    },
+    {
+      "title": "App+1｜Mangata：把每次散步当作一次探索旅行",
+      "link": "https://sspai.com/post/115238",
+      "pubDate": "Thu, 15 Oct 2026 11:00:00 +0800",
+      "contentSnippet": "不一定要拍满，也不一定要发。走完看看留下了什么，就够了。查看全文",
+      "sourceName": "少数派",
+      "sourceWeight": 78,
+      "allSources": [
+        "少数派"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "少数派介绍散步探索应用Mangata，强调记录过程而非拍照分享。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "知名科技媒体少数派，内容具体但摘要简略，缺少技术细节与原始出处。"
+    },
+    {
+      "title": "这届毕业生，卡在 AI 率里",
+      "link": "https://www.tmtpost.com/8167970.html",
+      "pubDate": "Thu, 15 Oct 2026 10:54:00 +0800",
+      "contentSnippet": "为了证明论文是自己写的，先学会迎合AI。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "毕业生为证明论文原创性，被迫迎合AI检测工具，陷入AI率困境。",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "钛媒体为知名科技媒体，选题具体有现实意义，但摘要信息简略，缺少数据与原始出处支撑。"
+    },
+    {
+      "title": "固态电池，别只盯着宁德时代了",
+      "link": "https://www.tmtpost.com/8169297.html",
+      "pubDate": "Thu, 15 Oct 2026 10:48:00 +0800",
+      "contentSnippet": "产业突破带来的高增长，未必只属于台前的主角。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体分析固态电池产业突破，指出高增长机会不限于宁德时代等头部企业。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体钛媒体，但正文摘要过简，缺乏具体数据与技术细节支撑。"
+    },
+    {
+      "title": "又见广撒网式投资，腾讯近两年最看重的赛道屡出手",
+      "link": "https://www.tmtpost.com/8169279.html",
+      "pubDate": "Thu, 15 Oct 2026 10:41:00 +0800",
+      "contentSnippet": "低调地布局十多年了。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体报道腾讯低调布局投资赛道超十年，近期频繁出手。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体钛媒体，但正文摘要极简，缺少具体投资数据、案例及原始出处，信息详实度不足。"
+    },
+    {
+      "title": "强生三季报深度拆解：MNC扫货中国资产，2027年还能否持续？",
+      "link": "https://www.tmtpost.com/8169176.html",
+      "pubDate": "Thu, 15 Oct 2026 10:35:00 +0800",
+      "contentSnippet": "MNC的资产饥渴仍在继续放大，中国创新药BD浪潮只是刚刚开始。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体分析强生三季报，探讨MNC扫货中国资产及2027年持续性。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "钛媒体为知名科技财经媒体，选题具体，但摘要信息简略，缺少数据与原始出处支撑。"
+    },
+    {
+      "title": "公募基金市场近期关注",
+      "link": "https://www.tmtpost.com/8169503.html",
+      "pubDate": "Thu, 15 Oct 2026 10:30:36 +0800",
+      "contentSnippet": "货币政策方面，9月，资金面呈\"月初平稳、月中收敛、节前修复\"走势，DR001、DR007一度上行至1.43%、1.44%；央行重启14天逆回购（9月18日投1000亿元）、MLF净投2000亿元并提隔夜上限至1万亿呵护跨季，月末DR007降至1.3862%平稳跨季；Q3例会改提\"加大逆周期调节\"。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体报道9月资金面走势及央行货币政策操作，涉及逆回购和MLF投放。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体钛媒体，内容含具体数据，但属金融领域非科技报道，且无原始出处引用。"
+    },
+    {
+      "title": "66666元顺心卡，海航把机票卖成了理财宝",
+      "link": "https://www.tmtpost.com/8169172.html",
+      "pubDate": "Thu, 15 Oct 2026 10:29:00 +0800",
+      "contentSnippet": "最便宜的机票，藏着最贵的问题。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "海航推出66666元顺心卡，钛媒体质疑其机票产品暗藏问题。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "钛媒体为知名科技媒体，标题具体有金额，但摘要过简，缺少产品细节与数据支撑。"
+    },
+    {
+      "title": "《公开募集证券投资基金运作管理办法（征求意见稿）》｜政策解读",
+      "link": "https://www.tmtpost.com/8169464.html",
+      "pubDate": "Thu, 15 Oct 2026 10:17:30 +0800",
+      "contentSnippet": "本次修订一方面降低部分基金成立门槛、优化指数投资和产品运作安排，另一方面强化了对基金投资风格、风险收益特征的约束，更加重视持有人利益保护。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "证监会修订基金运作管理办法，降低成立门槛并强化持有人利益保护",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，产品细节具体，含套件清单与技术参数，但缺少价格与原始出处链接。"
-    },
-    {
-      "title": "微软 Win10 推送 10 月扩展安全更新：修复文件历史记录备份故障",
-      "link": "https://www.ithome.com/1/012/786.htm",
-      "pubDate": "Wed, 14 Oct 2026 03:47:49 GMT",
-      "contentSnippet": "IT之家 10 月 14 日消息，在本月补丁星期二活动日（10 月 13 日），微软面向 Windows 10 扩展安全更新（ESU）用户推送 KB5126657 更新，覆盖 Windows 10 22H2 和 21H2，安装后版本号升至 Build 19045.7807 与 19044.7807。\n时区与时间规则\n本次更新为加拿大不列颠哥伦比亚省、艾伯塔省启用永久夏令时，相关规则将于 2026 年 11 月正式生效；同时新增曼尼托巴标准时间时区，时区标识为（UTC-5:00）曼尼托巴。\nReFS 外部存储安全审计\n更新为外接存储设备上的 ReFS 文件系统卷，新增审计功能与可选策略管控。审计",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "微软推送Win10 ESU更新KB5126657，修复文件历史记录备份故障并新增时区与ReFS审计功能",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容含具体KB编号、版本号及功能细节，信息详实可信"
-    },
-    {
-      "title": "彭博社报告：云游戏与 AI 或将终结传统游戏主机",
-      "link": "https://www.ithome.com/1/012/783.htm",
-      "pubDate": "Wed, 14 Oct 2026 03:45:48 GMT",
-      "contentSnippet": "IT之家 10 月 14 日消息，彭博社今天（14 日）发布的《深度分析：云游戏与 AI 或最终终结游戏主机》行业研究报告预测，到 2035 年，云游戏市场规模将达到 380 亿美元（IT之家注：现汇率约合 2,547.91 亿元人民币）。随着云游戏日益普及，传统游戏主机可能最终失去自身在大众消费市场的地位。\n\n报告指出，AI 将使游戏越来越复杂，对硬件性能的要求也会不断提高。相比每隔几年推出一代性能更强的新主机，利用数据中心运行游戏，再通过互联网将画面传输给玩家，能够更有效地满足需求。\n其中，任天堂在云游戏领域的布局相对有限，一直将其放在公司战略的次要位置，因此可能难以适应这一转变。索尼集团",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "彭博社报告预测云游戏与AI或终结传统游戏主机，2035年云游戏市场达380亿美元。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为彭博社报告经IT之家编译，有具体数据与预测，但属远期预测，确定性有限。"
-    },
-    {
-      "title": "雷神 ZERO Air 15 双十一开启优惠：1.54kg 轻量机身搭载 RTX 5060，支持 160W 性能释放",
-      "link": "https://www.ithome.com/1/012/769.htm",
-      "pubDate": "Wed, 14 Oct 2026 03:36:25 GMT",
-      "contentSnippet": "IT之家 10 月 14 日消息，双十一大促已经开启，笔记本市场也迎来集中优惠。\n对于不少用户来说，如今一台电脑的使用场景已经不再局限于单纯游戏，日常办公、内容创作、影音娱乐等需求也越来越常见。因此，在选择游戏本时，除了关注处理器和显卡性能，机身重量、屏幕体验以及移动便携性也成为不少消费者考虑的因素。\n此前在 CES 2026 上，雷神推出了全新的 LightGaming 轻型游戏本产品 —— 雷神 ZERO Air 15。该产品主打在轻量化机身中实现较高性能释放，官方数据显示，其整机重量约 1.54kg，厚度薄至 15.9mm，同时支持最高 160W 性能输出。双十一期间，雷神 ZERO A",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家",
-        "Solidot"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "雷神ZERO Air 15双十一促销，1.54kg轻量机身配RTX 5060，支持160W性能释放。",
-      "credibilityScore": 87,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家等知名科技媒体，产品参数具体，但缺少价格和原始评测数据支撑。（多源覆盖 +5）"
-    },
-    {
-      "title": "谷歌车机版 Google Play 即将迎来重大体验更新，支持动态屏幕适配",
-      "link": "https://www.ithome.com/1/012/767.htm",
-      "pubDate": "Wed, 14 Oct 2026 03:36:00 GMT",
-      "contentSnippet": "IT之家 10 月 14 日消息，Google（谷歌）当地时间 13 日宣布，车机版 Google Play 应用程序商店即将在未来数周迎来重大体验更新。\n\n各家汽车制造商对车载显示系统的呈现方式有着不同的看法，这导致运行车机版 Google Play 的屏幕存在各异的大小、方向、形状。\n而即将到来的更新将为车机版 Google Play 带来动态屏幕规格适配，保障每块屏幕都能提供合适的视觉体验。\n\n车机版 Google Play 还将在主页提供用户所需的内容，让用户能轻松浏览简化的导航和精心策划的合集，Firefox 等应用程序也将入驻。谷歌还将推出更丰富的车载媒体功能，如在停车时可通过仪表",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "谷歌宣布车机版Google Play将更新，支持动态屏幕适配并引入Firefox等应用。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，信息具体含技术细节，但缺少原始官方链接引用。"
-    },
-    {
-      "title": "《糖果传奇》开发商打造的免费游戏引擎：Defold 正式支持微软 XBOX",
-      "link": "https://www.ithome.com/1/012/766.htm",
-      "pubDate": "Wed, 14 Oct 2026 03:32:02 GMT",
-      "contentSnippet": "IT之家 10 月 14 日消息，Defold 基金会于 10 月 12 日发布公告，发布开源跨平台游戏引擎 Defold 1.14.0，正式支持 Microsoft XBOX 游戏开发，并向经微软批准的开发者免费提供相关资源。\n\nIT之家注：Defold 自 2008 年问世，定位为免费、源码可获取的跨平台游戏引擎，支持网页、移动端、桌面端及主机发行，其特点是运行体积较小、注重性能，并提供跨平台构建工作流，开发者可复用同一代码库面向多个平台发布作品。\n\nDefold 最初由《糖果传奇》（Candy Crush）的 King 工作室开发，而 King 现隶属微软公司。该游戏引擎此前已支持任天堂",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "Defold 1.14.0发布，正式支持Xbox游戏开发，向获批开发者免费提供资源。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体含版本号与日期，有官方公告出处，技术描述准确。"
-    },
-    {
-      "title": "比亚迪欧洲建厂最新计划：匈牙利厂 Q4 启动大规模生产，法国已进入候选",
-      "link": "https://www.ithome.com/1/012/765.htm",
-      "pubDate": "Wed, 14 Oct 2026 03:31:24 GMT",
-      "contentSnippet": "IT之家 10 月 14 日消息，据第一财经，比亚迪执行副总裁李柯在 2026 巴黎车展上披露，比亚迪将在欧洲大规模投资制造，比亚迪匈牙利工厂计划在今年第四季度启动大规模生产。同时，比亚迪也将在欧洲建立第二、第三工厂，目前法国已进入比亚迪欧洲建厂的候选名单。\n\n彭博社此前披露，比亚迪计划长期在欧洲建设 4 座工厂，包括 3 座整车组装厂和 1 座电动汽车电池厂。随着欧盟逐步推出本地制造相关规则，比亚迪正寻求扩大欧洲本地生产能力，以满足监管要求并吸引更多消费者。\n此外，今年 7 月，比亚迪欧洲市场特别顾问阿尔弗雷多 · 阿尔塔维拉表示，计划寻求一个“棕地（IT之家注：收购或租赁已有的设施，并对其",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "比亚迪匈牙利工厂Q4启动大规模生产，法国进入欧洲第二三工厂候选名单。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家援引第一财经及彭博社，高管实名披露，信息具体，但缺少官方直接确认。"
-    },
-    {
-      "title": "Mozilla 推出企业版火狐浏览器 Firefox Enterprise",
-      "link": "https://www.ithome.com/1/012/764.htm",
-      "pubDate": "Wed, 14 Oct 2026 03:25:29 GMT",
-      "contentSnippet": "IT之家 10 月 14 日消息，Mozilla 当地时间本月 12 日宣布推出企业版火狐浏览器 Firefox Enterprise。此举旨在满足全球（尤其是欧洲）企业客户对数字主权的需求。\n\nMozilla 强调 Firefox 基于当前唯一的独立主要浏览器引擎 Gecko，这意味机构可以通过另一途径来减少对单一架构的依赖。\nFirefox Enterprise 专为具有严格安全、治理、合规要求的组织而打造，将 Firefox 与组织可在自身基础设施上运行的管理控制台相结合。通过该控制台，IT 团队可以集中管理浏览器策略和访问权限，控制数据在浏览器中的传输方式，并设置 AI 使用的相关限制",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "Mozilla推出企业版Firefox Enterprise，主打数字主权与集中管理",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容具体含产品定位与功能细节，但缺少官方原始链接引用"
+      "credibilityReason": "钛媒体为知名科技财经媒体，政策解读内容具体，但缺少原文链接及具体条款数据"
     }
   ]
 }
