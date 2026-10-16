@@ -1,263 +1,264 @@
 {
-  "generatedAt": "2026-10-15T04:14:19.001Z",
+  "generatedAt": "2026-10-16T03:52:08.695Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "中国科学家首次以书生科学多模态大模型攻克世界级数学难题",
-      "link": "https://www.tmtpost.com/8169589.html",
-      "pubDate": "Thu, 15 Oct 2026 12:02:07 +0800",
-      "contentSnippet": "上海人工智能实验室今天宣布，实验室访问学者、大湾区大学教授许地生团队依托“书生”科学多模态大模型S2，破解了世界级数学难题三维吉斯（Ghys）猜想。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "第九届进博会 11 月 5 日在上海开幕，首发首展首秀数量创新高、场馆实现 Wi-Fi 7 网络全覆盖",
+      "link": "https://www.ithome.com/1/013/822.htm",
+      "pubDate": "Fri, 16 Oct 2026 03:26:12 GMT",
+      "contentSnippet": "IT之家 10 月 16 日消息，国务院新闻办公室今日举行新闻发布会，介绍第九届中国国际进口博览会筹备情况，并答记者问。\n据央视新闻报道，发布会上介绍，第九届进博会将于 11 月 5 日至 10 日在上海举办，虹桥论坛将同期举办。\n\n目前，各项筹备基本就绪，将有 162 个国家、地区和国际组织参与，4,142 家境外企业参展，整体面积首次超过 44 万平方米。\n发布会上介绍，第九届进博会多项数据再创新高：\n\n从规模看，企业展面积首次突破 37 万平方米。\n\n从展商看，世界 500 强和行业龙头企业首次超过 300 家，九届“全勤”的企业和机构近 200 家；首次参展的“新面孔”企业超 2,00",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "钛媒体"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "上海AI实验室团队依托书生科学多模态大模型S2破解三维吉斯猜想。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "钛媒体为知名科技媒体，信息具体含机构与模型名，但缺乏论文出处及同行验证细节。"
-    },
-    {
-      "title": "茶百道，拿了瑞幸的剧本？",
-      "link": "https://www.tmtpost.com/8168817.html",
-      "pubDate": "Thu, 15 Oct 2026 11:40:00 +0800",
-      "contentSnippet": "瑞幸能翻身，茶百道难了。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体分析茶百道效仿瑞幸模式但难以复制其翻身路径",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "钛媒体为知名科技媒体，但正文摘要过简，缺少数据与细节支撑"
-    },
-    {
-      "title": "Anthropic三季度营收168亿美元，撑得起2万亿美元IPO吗？",
-      "link": "https://www.tmtpost.com/8169448.html",
-      "pubDate": "Thu, 15 Oct 2026 11:14:00 +0800",
-      "contentSnippet": "交给投资者日的成绩单。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体报道Anthropic三季度营收168亿美元，探讨其2万亿美元IPO估值合理性。",
-      "credibilityScore": 62,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体，但正文仅一句摘要，缺少数据出处与细节支撑，信息完整性不足。"
-    },
-    {
-      "title": "做IP的都在AI上找答案，快看想做游戏之后的“第十艺术”",
-      "link": "https://www.tmtpost.com/8164712.html",
-      "pubDate": "Thu, 15 Oct 2026 11:13:00 +0800",
-      "contentSnippet": "“处”出来的关系，能不能像“读”出来的故事那样算作IP，还没有先例。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体探讨AI时代IP定义，提出游戏之后'第十艺术'概念，但内容简略。",
-      "credibilityScore": 62,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，但内容较简略抽象，缺少具体数据与原始出处支撑。"
-    },
-    {
-      "title": "胖东来要开的百米酒店，究竟是怎么个事？",
-      "link": "https://www.tmtpost.com/8169411.html",
-      "pubDate": "Thu, 15 Oct 2026 11:07:00 +0800",
-      "contentSnippet": "期待2029年酒店开业的那天。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体解析胖东来百米酒店项目，期待2029年开业。",
-      "credibilityScore": 75,
+      "aiSummary": "第九届进博会11月5日上海开幕，首发首展数量创新高，场馆Wi-Fi 7全覆盖。",
+      "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体钛媒体，但内容较简略，缺少具体细节和数据支撑。"
+      "credibilityReason": "来源IT之家，引国新办发布会及央视数据，信息具体，但正文截断且Wi-Fi 7细节待核实。"
     },
     {
-      "title": "复杂高客单新品如何靠YouTube 的“全链路叙事”斩获全球大奖？",
-      "link": "https://www.qbitai.com/2026/10/503350.html",
-      "pubDate": "Thu, 15 Oct 2026 03:01:20 +0000",
-      "contentSnippet": "企业该如何打破海外认知壁垒？",
-      "sourceName": "量子位",
-      "sourceWeight": 80,
+      "title": "美国推动全球“AI”改口“SI”，谋求写入国际货币基金组织声明",
+      "link": "https://www.ithome.com/1/013/788.htm",
+      "pubDate": "Fri, 16 Oct 2026 03:11:31 GMT",
+      "contentSnippet": "IT之家 10 月 16 日消息，路透社昨日（10 月 15 日）发布博文，报道称美国正力推国际社会以“超级智能”（Super Intelligence，简称 SI）取代“人工智能”（AI）这一通用称呼，并希望将新术语写入国际货币与金融委员会（IMFC）的共识声明中。\nIT之家援引博文介绍，在曼谷举行的 IMF 与世界银行年会上，美国财政部负责国际事务的副部长艾琳 · 布朗（Erin Browne）表示，相比较 AI 而言，“超级智能”（SI）更能准确概括这项新兴技术。她称，美国上月已要求联邦政府各机构改用该表述，并明确将推广这一术语视为美方优先事项。\n由于美国目前担任二十国集团（G20）轮值",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "量子位"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "量子位报道企业如何通过YouTube全链路叙事打破海外认知壁垒并斩获全球大奖。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体量子位，但内容偏营销方法论，缺乏具体数据与原始出处，技术准确性一般。"
-    },
-    {
-      "title": "一大批区域国资酒店集团，悄悄把生意做到了学校、医院",
-      "link": "https://www.tmtpost.com/8169312.html",
-      "pubDate": "Thu, 15 Oct 2026 11:01:00 +0800",
-      "contentSnippet": "国资酒店扎堆布局生活服务，中小酒管别抄错作业了。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体报道区域国资酒店集团拓展学校、医院等生活服务业务",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，但正文摘要过简，缺少具体数据与案例支撑"
-    },
-    {
-      "title": "App+1｜Mangata：把每次散步当作一次探索旅行",
-      "link": "https://sspai.com/post/115238",
-      "pubDate": "Thu, 15 Oct 2026 11:00:00 +0800",
-      "contentSnippet": "不一定要拍满，也不一定要发。走完看看留下了什么，就够了。查看全文",
-      "sourceName": "少数派",
-      "sourceWeight": 78,
-      "allSources": [
-        "少数派"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "少数派介绍散步探索应用Mangata，强调记录过程而非拍照分享。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体少数派，内容具体但摘要简略，缺少技术细节与原始出处。"
-    },
-    {
-      "title": "这届毕业生，卡在 AI 率里",
-      "link": "https://www.tmtpost.com/8167970.html",
-      "pubDate": "Thu, 15 Oct 2026 10:54:00 +0800",
-      "contentSnippet": "为了证明论文是自己写的，先学会迎合AI。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "毕业生为证明论文原创性，被迫迎合AI检测工具，陷入AI率困境。",
+      "aiSummary": "美国推动以'超级智能'(SI)取代'AI'称呼，并谋求写入IMF声明。",
       "credibilityScore": 78,
       "credibilityLevel": "medium",
-      "credibilityReason": "钛媒体为知名科技媒体，选题具体有现实意义，但摘要信息简略，缺少数据与原始出处支撑。"
+      "credibilityReason": "IT之家援引路透社报道，有具体人物和场合，但术语替换说法需谨慎核实。"
     },
     {
-      "title": "固态电池，别只盯着宁德时代了",
-      "link": "https://www.tmtpost.com/8169297.html",
-      "pubDate": "Thu, 15 Oct 2026 10:48:00 +0800",
-      "contentSnippet": "产业突破带来的高增长，未必只属于台前的主角。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "可穿戴“无人机哨兵”问世：单兵最远 6 公里发现空中威胁",
+      "link": "https://www.ithome.com/1/013/757.htm",
+      "pubDate": "Fri, 16 Oct 2026 02:48:03 GMT",
+      "contentSnippet": "IT之家 10 月 16 日消息，科技媒体 newatlas 昨日（10 月 15 日）发布博文，报道称丹麦国防企业 MyDefence 近日推出可穿戴无人机探测设备 Wingman Edge，可以让前线士兵具备对小型无人机的早期预警能力。\n该设备通过被动接收无人机的控制、通信、Wi‑Fi 及视频回传等无线电信号进行探测，最远可在约 6 公里（3.73 英里）外识别潜在威胁。\n\n图源：MyDefence\nIT之家援引博文介绍，与只依赖既有“威胁特征库”的传统探测方式不同，Wingman Edge 结合基于特征的射频识别与设备端 AI 频谱分析。它可连续扫描 200 MHz 至 6 GHz 频段",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "钛媒体"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体分析固态电池产业突破，指出高增长机会不限于宁德时代等头部企业。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，但正文摘要过简，缺乏具体数据与技术细节支撑。"
-    },
-    {
-      "title": "又见广撒网式投资，腾讯近两年最看重的赛道屡出手",
-      "link": "https://www.tmtpost.com/8169279.html",
-      "pubDate": "Thu, 15 Oct 2026 10:41:00 +0800",
-      "contentSnippet": "低调地布局十多年了。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体报道腾讯低调布局投资赛道超十年，近期频繁出手。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，但正文摘要极简，缺少具体投资数据、案例及原始出处，信息详实度不足。"
-    },
-    {
-      "title": "强生三季报深度拆解：MNC扫货中国资产，2027年还能否持续？",
-      "link": "https://www.tmtpost.com/8169176.html",
-      "pubDate": "Thu, 15 Oct 2026 10:35:00 +0800",
-      "contentSnippet": "MNC的资产饥渴仍在继续放大，中国创新药BD浪潮只是刚刚开始。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体分析强生三季报，探讨MNC扫货中国资产及2027年持续性。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "钛媒体为知名科技财经媒体，选题具体，但摘要信息简略，缺少数据与原始出处支撑。"
-    },
-    {
-      "title": "公募基金市场近期关注",
-      "link": "https://www.tmtpost.com/8169503.html",
-      "pubDate": "Thu, 15 Oct 2026 10:30:36 +0800",
-      "contentSnippet": "货币政策方面，9月，资金面呈\"月初平稳、月中收敛、节前修复\"走势，DR001、DR007一度上行至1.43%、1.44%；央行重启14天逆回购（9月18日投1000亿元）、MLF净投2000亿元并提隔夜上限至1万亿呵护跨季，月末DR007降至1.3862%平稳跨季；Q3例会改提\"加大逆周期调节\"。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体报道9月资金面走势及央行货币政策操作，涉及逆回购和MLF投放。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，内容含具体数据，但属金融领域非科技报道，且无原始出处引用。"
-    },
-    {
-      "title": "66666元顺心卡，海航把机票卖成了理财宝",
-      "link": "https://www.tmtpost.com/8169172.html",
-      "pubDate": "Thu, 15 Oct 2026 10:29:00 +0800",
-      "contentSnippet": "最便宜的机票，藏着最贵的问题。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "海航推出66666元顺心卡，钛媒体质疑其机票产品暗藏问题。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "钛媒体为知名科技媒体，标题具体有金额，但摘要过简，缺少产品细节与数据支撑。"
-    },
-    {
-      "title": "《公开募集证券投资基金运作管理办法（征求意见稿）》｜政策解读",
-      "link": "https://www.tmtpost.com/8169464.html",
-      "pubDate": "Thu, 15 Oct 2026 10:17:30 +0800",
-      "contentSnippet": "本次修订一方面降低部分基金成立门槛、优化指数投资和产品运作安排，另一方面强化了对基金投资风格、风险收益特征的约束，更加重视持有人利益保护。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "证监会修订基金运作管理办法，降低成立门槛并强化持有人利益保护",
+      "aiSummary": "丹麦MyDefence推出可穿戴无人机探测设备Wingman Edge，最远6公里预警。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技财经媒体，政策解读内容具体，但缺少原文链接及具体条款数据"
+      "credibilityReason": "IT之家援引newatlas报道，技术细节具体，有原始出处，但非一手信息。"
+    },
+    {
+      "title": "联合国报告：全球数字鸿沟可能进一步扩大",
+      "link": "https://www.ithome.com/1/013/752.htm",
+      "pubDate": "Fri, 16 Oct 2026 02:34:28 GMT",
+      "contentSnippet": "IT之家 10 月 16 日消息，据央视新闻报道，当地时间 15 日，联合国经济和社会事务部发布《2026 年世界社会报告》。\n该报告指出，经济、数字和能源转型正以前所未有的速度重塑世界，但数十亿人仍被排除在就业、技能培训、公共服务、基础设施和社会保障之外，无法从这些变革中受益。\n2025 年约有 22 亿人无法接入互联网，已经联网的人群也受到网络服务费用高昂、服务质量不佳等因素的限制，难以真正参与数字社会。\nIT之家从报告原文中获悉，联合国呼吁，如果不采取针对性措施，网络连接、数字设备、数据和 AI 技能方面的不平等，可能让现有的数字鸿沟进一步扩大，使教育、收入和经济机会方面的差距更加严重，",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "联合国报告警告全球数字鸿沟可能扩大，2025年约22亿人无法接入互联网。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家引央视报道，有联合国报告原文出处，数据具体，内容客观中立。"
+    },
+    {
+      "title": "苹果库克：AI 应用正迎来爆发式增长，在多个方面对供应链产生深远影响",
+      "link": "https://www.ithome.com/1/013/743.htm",
+      "pubDate": "Fri, 16 Oct 2026 01:51:27 GMT",
+      "contentSnippet": "IT之家 10 月 16 日消息，据财联社报道，在今日举办的全球财富管理论坛 2026 上海苏河湾大会上，苹果公司执行董事长、清华大学经管学院顾问委员会主席蒂姆 · 库克（Tim Cook）指出，人工智能应用正迎来爆发式增长。\n\n当前，AI 辅助编程显著降低了编程门槛，使此前几乎未接触过代码的人群也能够编写代码。与此同时，人工智能已在多个方面对供应链产生深远影响。\n过去，质检环节高度依赖人工。如今，机器学习使检测变得高度自动化且更加精准。以 iPhone 颜色检测为例，为确保数百万台量产设备颜色保持一致，相关检测与成像工作均借助机器学习完成。\n\n据IT之家了解，这是库克卸任 CEO 转任董事会",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "库克称AI应用爆发式增长，正深刻影响供应链与编程领域。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家援引财联社，有具体人物、场合及iPhone质检案例，但缺原始演讲全文。"
+    },
+    {
+      "title": "机械革命无界 14 SE 至尊版轻薄本上架：256V + 512GB，标价 5199 元",
+      "link": "https://www.ithome.com/1/013/842.htm",
+      "pubDate": "Fri, 16 Oct 2026 03:49:34 GMT",
+      "contentSnippet": "IT之家 10 月 16 日消息，机械革命 (MECHREVO) 现已在电商平台上架无界 14 SE 至尊版笔记本电脑，当前标价 5,199 元，10 月 23 日 00:00 开售。\n这一型号基于英特尔酷睿 Ultra 7 处理器 256V，集成 16GB LPDDR5X-8533 内存，配备 512GB SSD 存储，拥有 14\" 1920×1200 60Hz 高色域雾面屏幕。\n\n无界 14 SE 至尊版机身采用金属 + 复合碳纤维材料，内置 55Whr 电池和低噪声散热系统，轻约 1.2kg。其拥有 2 个 M.2 2280 SSD 盘位，支持 Wi-Fi 6，提供 2 个全功能 USB",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "机械革命无界14 SE至尊版轻薄本上架，搭载酷睿Ultra 7 256V，售价5199元。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息具体含型号、配置、价格及开售时间，来源可靠。"
+    },
+    {
+      "title": "国铁集团启动全国铁路列车车次编排改革：旅客列车增改 X、N、V 等字头字母，信息更直观",
+      "link": "https://www.ithome.com/1/013/840.htm",
+      "pubDate": "Fri, 16 Oct 2026 03:49:00 GMT",
+      "contentSnippet": "IT之家 10 月 16 日消息，中国国家铁路集团有限公司宣布，为更好地适应铁路运输发展和市场需求，启动全国铁路列车车次编排改革工作，将在 11 月下旬、12 月下旬分 2 批对现行列车车次的字头字母、数字号段编排进行全面优化调整。\n新版《列车车次编排规定》丰富和拓展了车次编排可使用的号段资源，方便旅客货主通过规范的字头字母、数字号段快速了解运输产品内容。\nIT之家获悉，与 2014 版列车车次的编排相比，新版列车车次做了全面系统优化调整，其中动车组旅客列车车次的字头字母由原来的 4 个增加至 7 个，可编排的列车车次数量增长近 40%。\n\n▲ 图源中国铁路，下同\n旅客列车方面，国铁集团本级负",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国铁集团启动全国列车车次编排改革，动车组字头字母增至7个，车次容量增近40%。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，引用国铁集团官方信息，含具体数据和实施时间，但正文摘要不完整。"
+    },
+    {
+      "title": "苹果 iPad mini 8 新款保护套曝光，旧壳恐无法通用",
+      "link": "https://www.ithome.com/1/013/839.htm",
+      "pubDate": "Fri, 16 Oct 2026 03:48:02 GMT",
+      "contentSnippet": "IT之家 10 月 16 日消息，科技媒体 MacRumors 今天（10 月 16 日）发布博文，报道称苹果在法国监管信息网站上列出了一款尚未发布的 iPad mini 智能保护套，型号为 A3632。\nIT之家附上监管页面截图，报道称该型号与现有 iPad mini 及历代 iPad mini 的保护套型号均不匹配，因此该媒体将其视为 iPad mini 8 今年发布的间接证据。\n\n该媒体指出，如果 iPad mini 8 沿用旧款设计，通常情况下苹果不会登记全新保护套，而新保护套通常要适配新机身的尺寸、摄像头开孔、按键位置或磁吸结构，因此暗示 iPad mini 8 会带来设计方面的变化",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "苹果法国监管网站曝光新款iPad mini保护套，暗示iPad mini 8设计将有变化。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为IT之家编译MacRumors，有监管型号佐证，但属间接推测，缺乏官方确认。"
+    },
+    {
+      "title": "卡普空《怪物猎人：荒野》Switch 2 版序章体验版官宣，10 月 20 日推出",
+      "link": "https://www.ithome.com/1/013/838.htm",
+      "pubDate": "Fri, 16 Oct 2026 03:45:25 GMT",
+      "contentSnippet": "IT之家 10 月 16 日消息，卡普空 15 日宣布，旗下《怪物猎人：荒野》的任天堂 Switch 2 版将于下周推出序章体验版，玩家可从 10 月 20 日起在 Switch 2 的 eShop 商店免费下载体验版，正式版也将在当天开放数字预购。\n\nSwitch 2 版的试玩内容与 PS5、Xbox Series X/S 和 Steam 平台现有的序章体验版基本相同。玩家可以使用完整的角色创建功能，并免费游玩开场剧情，直到完成第 1 章第 3 节的“前往森林”任务。\nSwitch 2 正式版定于 12 月 4 日发售，玩家届时可以继承体验版存档，继续游戏。与其他平台的序章体验版一样，Swi",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "卡普空宣布《怪物猎人：荒野》Switch 2序章体验版10月20日上线，正式版12月4日发售。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息具体含日期、平台、任务细节，来源为卡普空官方宣布，可信度高。"
+    },
+    {
+      "title": "荣耀新一代 Earbuds 耳夹式耳机上架：单耳重 5.6 克、综合续航 40 小时，到手价 449 元",
+      "link": "https://www.ithome.com/1/013/837.htm",
+      "pubDate": "Fri, 16 Oct 2026 03:37:44 GMT",
+      "contentSnippet": "IT之家 10 月 16 日消息，荣耀新一代 Earbuds 耳夹式耳机现已上架电商平台，将于 10 月 18 日 08:24 开售，到手价 449 元。\n\n这款耳机主打全天候舒适佩戴，耳挂采用食品级亲肤硅胶，搭配天鹅颈曲线设计；单只耳机重 5.6 克，C 桥最窄处 3.2mm；获得 Hi-Res Wireless 金标认证，支持 LHDC 5.0 无损格式。\n\nIT之家获悉，这款耳机综合续航可达 40 小时，单次连续听歌可达 10 小时，充电 10 分钟即可听歌 3 小时；支持左右耳自适应佩戴，支持双设备流转、音频共享、生态互联。\n\n京东荣耀 Earbuds 耳夹式耳机 珠光白 449 元直",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "荣耀新款耳夹式耳机上架，重5.6克，续航40小时，售价449元。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源IT之家为知名科技媒体，产品参数具体详实，有明确售价和开售时间，信息可信度高。"
+    },
+    {
+      "title": "消息称拼多多在上海又买了一栋楼，花了“12 个小目标”",
+      "link": "https://www.ithome.com/1/013/836.htm",
+      "pubDate": "Fri, 16 Oct 2026 03:36:23 GMT",
+      "contentSnippet": "IT之家 10 月 16 日消息，据财联社 10 月 15 日晚报道，多位业内人士证实，拼多多从铁狮门手中，收购了位于上海长宁区的晶耀虹桥一幢甲级办公楼。\n一家知名房产机构高层透露，拼多多本次收购没有通过中介，而是直接与出让方进行的交易。“拼多多买的不是几个楼面，而是整栋楼。我们目前了解到的信息是，这笔交易是今年三季度成交的，金额约 12 亿元。”\n\n\n财联社今年 7 月消息称，拼多多在上海浦东新区买了一栋楼 —— 位于陆家嘴的星展银行大厦。如果消息属实，这是拼多多今年第二次大手笔在上海买楼。\nIT之家注意到，今年 6 月，中国电建建设运营的雄安 · 电建智汇城项目正式与拼多多集团完成签约，拼",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "拼多多被曝以约12亿元收购上海长宁区晶耀虹桥一栋甲级办公楼，为今年第二次在沪买楼。",
+      "credibilityScore": 78,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家援引财联社及业内人士，信息具体有金额和地点，但核心交易未经官方证实，属传闻性报道。"
+    },
+    {
+      "title": "微软完成 SOTA 基模 MAI-Base-2 预训练，性能强于所有参测开源权重模型",
+      "link": "https://www.ithome.com/1/013/835.htm",
+      "pubDate": "Fri, 16 Oct 2026 03:34:26 GMT",
+      "contentSnippet": "IT之家 10 月 16 日消息，Microsoft（微软）当地时间昨日宣布，其已经完成了新一代 SOTA 基础模型 MAI-Base-2 的预训练工作。这一模型在性能方面强于所有参测开源权重模型。\nMAI-Base-2 总参数规模达 2.8T，活跃参数规模 80B，在 6,000 个 NVIDIA GB200 GPU 上历经 38 天训练而成。在整个训练过程中，该模型平均浮点算力利用率为 21%、有效吞吐量为 89%。\n根据微软的说法，MAI-Base-2 的预训练算力效率是 DeepSeek-V4-Pro-Base 的 4~12 倍。\n\n微软表示，三项举措对于 MAI-Base-2 的成功",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微软完成2.8T参数MAI-Base-2预训练，性能超越所有参测开源权重模型。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道含具体参数、训练细节及对比数据，但缺少原始论文或官方链接。"
+    },
+    {
+      "title": "台积电已量产 5 倍光罩尺寸先进封装且良率优异，随时可为竞争对手客户“救场”",
+      "link": "https://www.ithome.com/1/013/827.htm",
+      "pubDate": "Fri, 16 Oct 2026 03:28:25 GMT",
+      "contentSnippet": "IT之家 10 月 16 日消息，科技媒体 TechNews 昨日（10 月 15 日）报道，在台积电第三财季（2026 年 7 月～2026 年 9 月）财报电话会上，董事长兼 CEO 魏哲家宣布已量产 5 倍光罩尺寸先进封装，且良率“非常优秀”。他称，就目前而言，除台积电外，尚无其他企业能够做到这一规模，且客户对量产结果十分满意。\nIT之家注：“光罩尺寸”可简单理解为芯片制造中一次曝光所能覆盖的面积单位。AI 芯片、高性能计算芯片越来越依赖将多个计算芯片、高带宽内存等封装在同一大型基板上，因此封装面积越大，能容纳的算力、内存和互连密度通常越高，但也更难保证良率。\n魏哲家表示，台积电正在开发",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "台积电宣布量产5倍光罩尺寸先进封装，良率优异，暂无竞争对手可及。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家引述财报电话会及CEO发言，信息具体有出处，技术解释清晰，但缺原始链接。"
+    },
+    {
+      "title": "全球首次，爱立信、Verizon 宣布完成室外 6G 通话测试",
+      "link": "https://www.ithome.com/1/013/813.htm",
+      "pubDate": "Fri, 16 Oct 2026 03:22:50 GMT",
+      "contentSnippet": "IT之家 10 月 16 日消息，美国电信运营商 Verizon 与爱立信宣布，双方在加利福尼亚州康科德市的一处 Verizon 商用网络站点，利用 7GHz 频段完成了全球首次 6G 预标准技术现场通话测试。\n根据爱立信当地时间 15 日发布的新闻稿，爱立信的 6G 概念验证设备完成现场部署并通过验证，让 6G 技术走出实验室，进入真实环境接受测试。双方不仅能够评估室外网络性能，还可以研究无线信号穿过建筑物进入室内后的表现。\nIT之家注：“预标准 6G 技术”指正式技术标准尚未确定、仍处于早期研发和测试阶段的 6G 技术。\n\n此次测试使用的爱立信 6G 概念验证设备，位于 Verizon 位",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "爱立信与Verizon在加州完成全球首次室外6G预标准通话测试",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "知名科技媒体IT之家报道，引用爱立信官方新闻稿，含具体地点、频段和技术细节，但6G预标准测试尚属早期，实际影响力有限"
+    },
+    {
+      "title": "魅族 Flyme 12.7 超级 Aicy 个人事务 AI 智能体开放首批内测名额，今日 14:00 开始招募",
+      "link": "https://www.ithome.com/1/013/811.htm",
+      "pubDate": "Fri, 16 Oct 2026 03:22:06 GMT",
+      "contentSnippet": "IT之家 10 月 16 日消息，FlymeAIOS 今日宣布，个人事务 AI 智能体超级 Aicy 开放首批内测名额，10 月 16 日 14:00 起开始招募，10 月 19 日起系统陆续推送更新。\n官方表示，个人事务 AI 智能体 Aicy 看得懂（视觉）、聊得顺（交互）、想得深（大模型）、接得住（海量互联网服务），覆盖用户的多样日常事务。\n\nIT之家附相关要求如下：\n\n报名版本要求：Flyme 12.6.0.0A\n\n报名入口：系统设置-我的手机-系统更新-公告栏\n\n支持机型\n\n魅族 22\n\n魅族 21\n\n魅族 21 Pro\n\n魅族 21 Note\n\n魅族 20\n\n魅族 20 Pro",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家",
+        "钛媒体"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "魅族Flyme 12.7超级Aicy个人事务AI智能体开放首批内测招募，10月19日起推送。",
+      "credibilityScore": 87,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家和钛媒体等知名科技媒体，信息具体含版本、机型、时间等细节，但缺乏官方原始链接。（多源覆盖 +5）"
     }
   ]
 }
