@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-16T03:52:08.695Z",
+  "generatedAt": "2026-10-17T03:42:04.360Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "第九届进博会 11 月 5 日在上海开幕，首发首展首秀数量创新高、场馆实现 Wi-Fi 7 网络全覆盖",
-      "link": "https://www.ithome.com/1/013/822.htm",
-      "pubDate": "Fri, 16 Oct 2026 03:26:12 GMT",
-      "contentSnippet": "IT之家 10 月 16 日消息，国务院新闻办公室今日举行新闻发布会，介绍第九届中国国际进口博览会筹备情况，并答记者问。\n据央视新闻报道，发布会上介绍，第九届进博会将于 11 月 5 日至 10 日在上海举办，虹桥论坛将同期举办。\n\n目前，各项筹备基本就绪，将有 162 个国家、地区和国际组织参与，4,142 家境外企业参展，整体面积首次超过 44 万平方米。\n发布会上介绍，第九届进博会多项数据再创新高：\n\n从规模看，企业展面积首次突破 37 万平方米。\n\n从展商看，世界 500 强和行业龙头企业首次超过 300 家，九届“全勤”的企业和机构近 200 家；首次参展的“新面孔”企业超 2,00",
+      "title": "Anthropic 向美国国会推介 AI 监管草案，仅允许出现严重风险时封锁模型",
+      "link": "https://www.ithome.com/1/014/193.htm",
+      "pubDate": "Fri, 16 Oct 2026 23:05:10 GMT",
+      "contentSnippet": "IT之家 10 月 17 日消息，据 POLITICO 报道，三名知情人士透露，Anthropic 的代表已悄悄向美国国会山的议员推介了一份法案草案，旨在规范前沿人工智能的安全与防务标准。\n据悉，目前美国国会正审慎评估如何对这一飞速发展的行业确立监管框架，而该草案的提出，标志着这家顶级 AI 实验室正在采取切实行动，试图左右针对自身技术的监管规则。\n“该法案体现了 Anthropic 在《先进人工智能框架》中提出的核心方案，我们自 6 月起就一直在向联邦及各州立法者游说推介，”Anthropic 发言人表示，“我们坚信国会应当在这些务实合理的政策上采取立法行动。”\n草案大幅收紧了监管干预的门槛",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,249 +16,248 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "第九届进博会11月5日上海开幕，首发首展数量创新高，场馆Wi-Fi 7全覆盖。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家，引国新办发布会及央视数据，信息具体，但正文截断且Wi-Fi 7细节待核实。"
-    },
-    {
-      "title": "美国推动全球“AI”改口“SI”，谋求写入国际货币基金组织声明",
-      "link": "https://www.ithome.com/1/013/788.htm",
-      "pubDate": "Fri, 16 Oct 2026 03:11:31 GMT",
-      "contentSnippet": "IT之家 10 月 16 日消息，路透社昨日（10 月 15 日）发布博文，报道称美国正力推国际社会以“超级智能”（Super Intelligence，简称 SI）取代“人工智能”（AI）这一通用称呼，并希望将新术语写入国际货币与金融委员会（IMFC）的共识声明中。\nIT之家援引博文介绍，在曼谷举行的 IMF 与世界银行年会上，美国财政部负责国际事务的副部长艾琳 · 布朗（Erin Browne）表示，相比较 AI 而言，“超级智能”（SI）更能准确概括这项新兴技术。她称，美国上月已要求联邦政府各机构改用该表述，并明确将推广这一术语视为美方优先事项。\n由于美国目前担任二十国集团（G20）轮值",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "美国推动以'超级智能'(SI)取代'AI'称呼，并谋求写入IMF声明。",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "IT之家援引路透社报道，有具体人物和场合，但术语替换说法需谨慎核实。"
-    },
-    {
-      "title": "可穿戴“无人机哨兵”问世：单兵最远 6 公里发现空中威胁",
-      "link": "https://www.ithome.com/1/013/757.htm",
-      "pubDate": "Fri, 16 Oct 2026 02:48:03 GMT",
-      "contentSnippet": "IT之家 10 月 16 日消息，科技媒体 newatlas 昨日（10 月 15 日）发布博文，报道称丹麦国防企业 MyDefence 近日推出可穿戴无人机探测设备 Wingman Edge，可以让前线士兵具备对小型无人机的早期预警能力。\n该设备通过被动接收无人机的控制、通信、Wi‑Fi 及视频回传等无线电信号进行探测，最远可在约 6 公里（3.73 英里）外识别潜在威胁。\n\n图源：MyDefence\nIT之家援引博文介绍，与只依赖既有“威胁特征库”的传统探测方式不同，Wingman Edge 结合基于特征的射频识别与设备端 AI 频谱分析。它可连续扫描 200 MHz 至 6 GHz 频段",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "丹麦MyDefence推出可穿戴无人机探测设备Wingman Edge，最远6公里预警。",
+      "aiSummary": "Anthropic向美国国会推介AI监管草案，收紧模型封锁门槛",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家援引newatlas报道，技术细节具体，有原始出处，但非一手信息。"
+      "credibilityReason": "IT之家援引POLITICO及知情人士，有发言人回应，信息具体但属二手转述"
     },
     {
-      "title": "联合国报告：全球数字鸿沟可能进一步扩大",
-      "link": "https://www.ithome.com/1/013/752.htm",
-      "pubDate": "Fri, 16 Oct 2026 02:34:28 GMT",
-      "contentSnippet": "IT之家 10 月 16 日消息，据央视新闻报道，当地时间 15 日，联合国经济和社会事务部发布《2026 年世界社会报告》。\n该报告指出，经济、数字和能源转型正以前所未有的速度重塑世界，但数十亿人仍被排除在就业、技能培训、公共服务、基础设施和社会保障之外，无法从这些变革中受益。\n2025 年约有 22 亿人无法接入互联网，已经联网的人群也受到网络服务费用高昂、服务质量不佳等因素的限制，难以真正参与数字社会。\nIT之家从报告原文中获悉，联合国呼吁，如果不采取针对性措施，网络连接、数字设备、数据和 AI 技能方面的不平等，可能让现有的数字鸿沟进一步扩大，使教育、收入和经济机会方面的差距更加严重，",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "京东双十一取消定金预售，押注服务消费推上百项产品",
+      "link": "https://www.tmtpost.com/8171375.html",
+      "pubDate": "Fri, 16 Oct 2026 19:07:47 +0800",
+      "contentSnippet": "当双十一进入第18个年头，单纯比拼价格早已不再是制胜的法宝，随着电商增长放缓，平台竞争焦点逐步转移到供应链履约、服务能力、产业数字化。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
       "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "联合国报告警告全球数字鸿沟可能扩大，2025年约22亿人无法接入互联网。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家引央视报道，有联合国报告原文出处，数据具体，内容客观中立。"
-    },
-    {
-      "title": "苹果库克：AI 应用正迎来爆发式增长，在多个方面对供应链产生深远影响",
-      "link": "https://www.ithome.com/1/013/743.htm",
-      "pubDate": "Fri, 16 Oct 2026 01:51:27 GMT",
-      "contentSnippet": "IT之家 10 月 16 日消息，据财联社报道，在今日举办的全球财富管理论坛 2026 上海苏河湾大会上，苹果公司执行董事长、清华大学经管学院顾问委员会主席蒂姆 · 库克（Tim Cook）指出，人工智能应用正迎来爆发式增长。\n\n当前，AI 辅助编程显著降低了编程门槛，使此前几乎未接触过代码的人群也能够编写代码。与此同时，人工智能已在多个方面对供应链产生深远影响。\n过去，质检环节高度依赖人工。如今，机器学习使检测变得高度自动化且更加精准。以 iPhone 颜色检测为例，为确保数百万台量产设备颜色保持一致，相关检测与成像工作均借助机器学习完成。\n\n据IT之家了解，这是库克卸任 CEO 转任董事会",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "库克称AI应用爆发式增长，正深刻影响供应链与编程领域。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家援引财联社，有具体人物、场合及iPhone质检案例，但缺原始演讲全文。"
-    },
-    {
-      "title": "机械革命无界 14 SE 至尊版轻薄本上架：256V + 512GB，标价 5199 元",
-      "link": "https://www.ithome.com/1/013/842.htm",
-      "pubDate": "Fri, 16 Oct 2026 03:49:34 GMT",
-      "contentSnippet": "IT之家 10 月 16 日消息，机械革命 (MECHREVO) 现已在电商平台上架无界 14 SE 至尊版笔记本电脑，当前标价 5,199 元，10 月 23 日 00:00 开售。\n这一型号基于英特尔酷睿 Ultra 7 处理器 256V，集成 16GB LPDDR5X-8533 内存，配备 512GB SSD 存储，拥有 14\" 1920×1200 60Hz 高色域雾面屏幕。\n\n无界 14 SE 至尊版机身采用金属 + 复合碳纤维材料，内置 55Whr 电池和低噪声散热系统，轻约 1.2kg。其拥有 2 个 M.2 2280 SSD 盘位，支持 Wi-Fi 6，提供 2 个全功能 USB",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "机械革命无界14 SE至尊版轻薄本上架，搭载酷睿Ultra 7 256V，售价5199元。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体含型号、配置、价格及开售时间，来源可靠。"
-    },
-    {
-      "title": "国铁集团启动全国铁路列车车次编排改革：旅客列车增改 X、N、V 等字头字母，信息更直观",
-      "link": "https://www.ithome.com/1/013/840.htm",
-      "pubDate": "Fri, 16 Oct 2026 03:49:00 GMT",
-      "contentSnippet": "IT之家 10 月 16 日消息，中国国家铁路集团有限公司宣布，为更好地适应铁路运输发展和市场需求，启动全国铁路列车车次编排改革工作，将在 11 月下旬、12 月下旬分 2 批对现行列车车次的字头字母、数字号段编排进行全面优化调整。\n新版《列车车次编排规定》丰富和拓展了车次编排可使用的号段资源，方便旅客货主通过规范的字头字母、数字号段快速了解运输产品内容。\nIT之家获悉，与 2014 版列车车次的编排相比，新版列车车次做了全面系统优化调整，其中动车组旅客列车车次的字头字母由原来的 4 个增加至 7 个，可编排的列车车次数量增长近 40%。\n\n▲ 图源中国铁路，下同\n旅客列车方面，国铁集团本级负",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国铁集团启动全国列车车次编排改革，动车组字头字母增至7个，车次容量增近40%。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引用国铁集团官方信息，含具体数据和实施时间，但正文摘要不完整。"
-    },
-    {
-      "title": "苹果 iPad mini 8 新款保护套曝光，旧壳恐无法通用",
-      "link": "https://www.ithome.com/1/013/839.htm",
-      "pubDate": "Fri, 16 Oct 2026 03:48:02 GMT",
-      "contentSnippet": "IT之家 10 月 16 日消息，科技媒体 MacRumors 今天（10 月 16 日）发布博文，报道称苹果在法国监管信息网站上列出了一款尚未发布的 iPad mini 智能保护套，型号为 A3632。\nIT之家附上监管页面截图，报道称该型号与现有 iPad mini 及历代 iPad mini 的保护套型号均不匹配，因此该媒体将其视为 iPad mini 8 今年发布的间接证据。\n\n该媒体指出，如果 iPad mini 8 沿用旧款设计，通常情况下苹果不会登记全新保护套，而新保护套通常要适配新机身的尺寸、摄像头开孔、按键位置或磁吸结构，因此暗示 iPad mini 8 会带来设计方面的变化",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "苹果法国监管网站曝光新款iPad mini保护套，暗示iPad mini 8设计将有变化。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为IT之家编译MacRumors，有监管型号佐证，但属间接推测，缺乏官方确认。"
-    },
-    {
-      "title": "卡普空《怪物猎人：荒野》Switch 2 版序章体验版官宣，10 月 20 日推出",
-      "link": "https://www.ithome.com/1/013/838.htm",
-      "pubDate": "Fri, 16 Oct 2026 03:45:25 GMT",
-      "contentSnippet": "IT之家 10 月 16 日消息，卡普空 15 日宣布，旗下《怪物猎人：荒野》的任天堂 Switch 2 版将于下周推出序章体验版，玩家可从 10 月 20 日起在 Switch 2 的 eShop 商店免费下载体验版，正式版也将在当天开放数字预购。\n\nSwitch 2 版的试玩内容与 PS5、Xbox Series X/S 和 Steam 平台现有的序章体验版基本相同。玩家可以使用完整的角色创建功能，并免费游玩开场剧情，直到完成第 1 章第 3 节的“前往森林”任务。\nSwitch 2 正式版定于 12 月 4 日发售，玩家届时可以继承体验版存档，继续游戏。与其他平台的序章体验版一样，Swi",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "卡普空宣布《怪物猎人：荒野》Switch 2序章体验版10月20日上线，正式版12月4日发售。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体含日期、平台、任务细节，来源为卡普空官方宣布，可信度高。"
-    },
-    {
-      "title": "荣耀新一代 Earbuds 耳夹式耳机上架：单耳重 5.6 克、综合续航 40 小时，到手价 449 元",
-      "link": "https://www.ithome.com/1/013/837.htm",
-      "pubDate": "Fri, 16 Oct 2026 03:37:44 GMT",
-      "contentSnippet": "IT之家 10 月 16 日消息，荣耀新一代 Earbuds 耳夹式耳机现已上架电商平台，将于 10 月 18 日 08:24 开售，到手价 449 元。\n\n这款耳机主打全天候舒适佩戴，耳挂采用食品级亲肤硅胶，搭配天鹅颈曲线设计；单只耳机重 5.6 克，C 桥最窄处 3.2mm；获得 Hi-Res Wireless 金标认证，支持 LHDC 5.0 无损格式。\n\nIT之家获悉，这款耳机综合续航可达 40 小时，单次连续听歌可达 10 小时，充电 10 分钟即可听歌 3 小时；支持左右耳自适应佩戴，支持双设备流转、音频共享、生态互联。\n\n京东荣耀 Earbuds 耳夹式耳机 珠光白 449 元直",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "荣耀新款耳夹式耳机上架，重5.6克，续航40小时，售价449元。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源IT之家为知名科技媒体，产品参数具体详实，有明确售价和开售时间，信息可信度高。"
-    },
-    {
-      "title": "消息称拼多多在上海又买了一栋楼，花了“12 个小目标”",
-      "link": "https://www.ithome.com/1/013/836.htm",
-      "pubDate": "Fri, 16 Oct 2026 03:36:23 GMT",
-      "contentSnippet": "IT之家 10 月 16 日消息，据财联社 10 月 15 日晚报道，多位业内人士证实，拼多多从铁狮门手中，收购了位于上海长宁区的晶耀虹桥一幢甲级办公楼。\n一家知名房产机构高层透露，拼多多本次收购没有通过中介，而是直接与出让方进行的交易。“拼多多买的不是几个楼面，而是整栋楼。我们目前了解到的信息是，这笔交易是今年三季度成交的，金额约 12 亿元。”\n\n\n财联社今年 7 月消息称，拼多多在上海浦东新区买了一栋楼 —— 位于陆家嘴的星展银行大厦。如果消息属实，这是拼多多今年第二次大手笔在上海买楼。\nIT之家注意到，今年 6 月，中国电建建设运营的雄安 · 电建智汇城项目正式与拼多多集团完成签约，拼",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "拼多多被曝以约12亿元收购上海长宁区晶耀虹桥一栋甲级办公楼，为今年第二次在沪买楼。",
-      "credibilityScore": 78,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家援引财联社及业内人士，信息具体有金额和地点，但核心交易未经官方证实，属传闻性报道。"
-    },
-    {
-      "title": "微软完成 SOTA 基模 MAI-Base-2 预训练，性能强于所有参测开源权重模型",
-      "link": "https://www.ithome.com/1/013/835.htm",
-      "pubDate": "Fri, 16 Oct 2026 03:34:26 GMT",
-      "contentSnippet": "IT之家 10 月 16 日消息，Microsoft（微软）当地时间昨日宣布，其已经完成了新一代 SOTA 基础模型 MAI-Base-2 的预训练工作。这一模型在性能方面强于所有参测开源权重模型。\nMAI-Base-2 总参数规模达 2.8T，活跃参数规模 80B，在 6,000 个 NVIDIA GB200 GPU 上历经 38 天训练而成。在整个训练过程中，该模型平均浮点算力利用率为 21%、有效吞吐量为 89%。\n根据微软的说法，MAI-Base-2 的预训练算力效率是 DeepSeek-V4-Pro-Base 的 4~12 倍。\n\n微软表示，三项举措对于 MAI-Base-2 的成功",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "微软完成2.8T参数MAI-Base-2预训练，性能超越所有参测开源权重模型。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道含具体参数、训练细节及对比数据，但缺少原始论文或官方链接。"
-    },
-    {
-      "title": "台积电已量产 5 倍光罩尺寸先进封装且良率优异，随时可为竞争对手客户“救场”",
-      "link": "https://www.ithome.com/1/013/827.htm",
-      "pubDate": "Fri, 16 Oct 2026 03:28:25 GMT",
-      "contentSnippet": "IT之家 10 月 16 日消息，科技媒体 TechNews 昨日（10 月 15 日）报道，在台积电第三财季（2026 年 7 月～2026 年 9 月）财报电话会上，董事长兼 CEO 魏哲家宣布已量产 5 倍光罩尺寸先进封装，且良率“非常优秀”。他称，就目前而言，除台积电外，尚无其他企业能够做到这一规模，且客户对量产结果十分满意。\nIT之家注：“光罩尺寸”可简单理解为芯片制造中一次曝光所能覆盖的面积单位。AI 芯片、高性能计算芯片越来越依赖将多个计算芯片、高带宽内存等封装在同一大型基板上，因此封装面积越大，能容纳的算力、内存和互连密度通常越高，但也更难保证良率。\n魏哲家表示，台积电正在开发",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "台积电宣布量产5倍光罩尺寸先进封装，良率优异，暂无竞争对手可及。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家引述财报电话会及CEO发言，信息具体有出处，技术解释清晰，但缺原始链接。"
-    },
-    {
-      "title": "全球首次，爱立信、Verizon 宣布完成室外 6G 通话测试",
-      "link": "https://www.ithome.com/1/013/813.htm",
-      "pubDate": "Fri, 16 Oct 2026 03:22:50 GMT",
-      "contentSnippet": "IT之家 10 月 16 日消息，美国电信运营商 Verizon 与爱立信宣布，双方在加利福尼亚州康科德市的一处 Verizon 商用网络站点，利用 7GHz 频段完成了全球首次 6G 预标准技术现场通话测试。\n根据爱立信当地时间 15 日发布的新闻稿，爱立信的 6G 概念验证设备完成现场部署并通过验证，让 6G 技术走出实验室，进入真实环境接受测试。双方不仅能够评估室外网络性能，还可以研究无线信号穿过建筑物进入室内后的表现。\nIT之家注：“预标准 6G 技术”指正式技术标准尚未确定、仍处于早期研发和测试阶段的 6G 技术。\n\n此次测试使用的爱立信 6G 概念验证设备，位于 Verizon 位",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "爱立信与Verizon在加州完成全球首次室外6G预标准通话测试",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "知名科技媒体IT之家报道，引用爱立信官方新闻稿，含具体地点、频段和技术细节，但6G预标准测试尚属早期，实际影响力有限"
-    },
-    {
-      "title": "魅族 Flyme 12.7 超级 Aicy 个人事务 AI 智能体开放首批内测名额，今日 14:00 开始招募",
-      "link": "https://www.ithome.com/1/013/811.htm",
-      "pubDate": "Fri, 16 Oct 2026 03:22:06 GMT",
-      "contentSnippet": "IT之家 10 月 16 日消息，FlymeAIOS 今日宣布，个人事务 AI 智能体超级 Aicy 开放首批内测名额，10 月 16 日 14:00 起开始招募，10 月 19 日起系统陆续推送更新。\n官方表示，个人事务 AI 智能体 Aicy 看得懂（视觉）、聊得顺（交互）、想得深（大模型）、接得住（海量互联网服务），覆盖用户的多样日常事务。\n\nIT之家附相关要求如下：\n\n报名版本要求：Flyme 12.6.0.0A\n\n报名入口：系统设置-我的手机-系统更新-公告栏\n\n支持机型\n\n魅族 22\n\n魅族 21\n\n魅族 21 Pro\n\n魅族 21 Note\n\n魅族 20\n\n魅族 20 Pro",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家",
         "钛媒体"
       ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "魅族Flyme 12.7超级Aicy个人事务AI智能体开放首批内测招募，10月19日起推送。",
-      "credibilityScore": 87,
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "京东双十一取消定金预售，转向服务消费与供应链能力竞争",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家和钛媒体等知名科技媒体，信息具体含版本、机型、时间等细节，但缺乏官方原始链接。（多源覆盖 +5）"
+      "credibilityReason": "钛媒体为知名科技媒体，内容涉及电商策略转型，但摘要缺少具体数据和原始出处支撑"
+    },
+    {
+      "title": "为避免银行存款大量流失，花旗、美银出手限制智能体访问客户账户",
+      "link": "https://www.ithome.com/1/014/260.htm",
+      "pubDate": "Sat, 17 Oct 2026 03:32:42 GMT",
+      "contentSnippet": "IT之家 10 月 17 日消息，美国银行业向监管机构警告，AI 智能体可能为了帮助用户获得更高收益，自动将闲置资金转往其他账户，导致银行存款大量流失。据英国《金融时报》16 日报道，花旗集团和美国银行也已出手，限制 AI 智能体访问客户账户。\n花旗称，为保障客户账户和个人信息安全，该行禁止第三方 AI 智能体或助手登录客户账户，也不允许其直接通过花旗的数字银行平台办理交易。\n美国银行 CEO 布莱恩 · 莫伊尼汉透露，该行也限制了 AI 智能体访问个人客户存款，并着手制定规则，明确 AI 授权支付的最终责任归属：“我们坚信，账户资金转出必须经过人工授权。我们正在跟智能体服务商沟通，告诉他们：",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "花旗、美银限制AI智能体访问客户账户，防止存款流失",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家援引金融时报报道，引述银行高管具体表态，信息有出处，内容具体可信"
+    },
+    {
+      "title": "行业首个基于确定性网络的智能体互联平台 AXP 在南京发布：支持百万级智能体注册接入、十万级智能体同时运行",
+      "link": "https://www.ithome.com/1/014/259.htm",
+      "pubDate": "Sat, 17 Oct 2026 03:30:28 GMT",
+      "contentSnippet": "IT之家 10 月 17 日消息，10 月 16 日，第十届未来网络发展大会在南京上秦淮国际文化交流中心开幕。行业首个基于确定性网络的智能体互联平台 AXP 正式发布。\n\n紫金山实验室联合中国移动、江苏未来网络集团、江苏省未来网络创新研究院联合研发，发布基于确定性网络（指在一个网络域内给承载的业务提供确定性业务保证的能力）的智能体互联平台 AXP，可实现智算网深度融合调度、异构智能体协议统一转换，支持百万级智能体注册接入、十万级智能体同时在线运行，达成秒级故障感知切换、百毫秒级语义寻址响应。\nIT之家获悉，依托国家级未来网络试验设施（CENI），平台可完成 4000 公里以上跨域高精度智能体寻",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "紫金山实验室等联合发布基于确定性网络的智能体互联平台AXP，支持百万级注册接入",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "IT之家为知名科技媒体，信息含具体数据与研发机构，但技术指标来自发布方单方宣称，缺乏第三方验证"
+    },
+    {
+      "title": "Win11 用户还能再用 3 年：微软老牌虚拟化组件 App-V Server 扩展支持至 2029 年",
+      "link": "https://www.ithome.com/1/014/258.htm",
+      "pubDate": "Sat, 17 Oct 2026 03:19:36 GMT",
+      "contentSnippet": "IT之家 10 月 17 日消息，科技媒体 NeoWin 昨日（10 月 16 日）发布博文，报道称微软扩展支持 App-V Server（微软应用虚拟化服务器），支持期限延长至 2029 年 10 月 9 日。\nIT之家注：App-V 是微软于 2008 年通过 Microsoft Desktop Optimization Pack（MDOP）推出的应用虚拟化技术，其前身来自微软收购的 Softricity 公司及其 SoftGrid 产品。\n\n功能方面，App-V Server 主要将 Win32 应用以“流式”方式集中分发到用户设备，无需在每台电脑上完成完整本地安装；企业曾广泛用它来简化",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微软将App-V Server支持期限延长至2029年10月9日",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家援引NeoWin报道，含具体日期与技术背景，来源可追溯，内容客观"
+    },
+    {
+      "title": "R 星技术总监菲尔 · 胡克：《GTA 6》的开发工作会持续到最后一刻",
+      "link": "https://www.ithome.com/1/014/256.htm",
+      "pubDate": "Sat, 17 Oct 2026 03:10:25 GMT",
+      "contentSnippet": "IT之家 10 月 17 日消息，距离 11 月 19 日发售仅剩一个月，备受期待的《GTA 6》仍未完成最终版本的制作，开发团队还在修复漏洞、优化游戏内容，并进行最后的调整。\n《GTA 6》定于 2026 年 11 月 19 日发售，11 月 12 日开放预下载。Xbox Series X|S、PlayStation 5 和 PlayStation 5 Pro 版本预计将在 11 月 12 日前后通过微软和索尼的平台认证。\n彭博社记者杰森 · 施莱尔采访了 R 星多名高管，了解《GTA 6》的开发过程。他在深度报道中援引 R 星技术总监菲尔 · 胡克的说法称，游戏开发工作会持续到最后一刻：“",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "R星技术总监称《GTA 6》开发将持续到发售前最后一刻",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，引用彭博社记者采访R星高管的一手报道，信息具体含发售日期与平台细节"
+    },
+    {
+      "title": "长安汽车新任董事长赵非称国内车市下滑严重：但海外还有机会，要全力以赴聚焦海外发展",
+      "link": "https://www.ithome.com/1/014/255.htm",
+      "pubDate": "Sat, 17 Oct 2026 03:09:19 GMT",
+      "contentSnippet": "IT之家 10 月 17 日消息，据第一财经报道，长安汽车新任董事长赵非在 16 日举行的一场媒体沟通会上表示，“国内的这种竞争态势，有时候其实已经进入到一个马太效应、洗牌的这么一个阶段。可能某些友商就会有一些非理性的行为，到了最后这个阶段，它的产品、定价，对这个市场的规则、正常的一个可持续发展（来说）可能就会有偏颇了。”\n赵非谈到，国内车市下滑严重，但海外还有机会，长安要全力以赴聚焦海外发展，长安在新能源和智能化上面，可能比国外的一些友商更强，这让长安保持住优势。\n赵非表示，长安将坚持既有的战略方向和运营机制，把海外、产品、效率和品牌整合作为接下来的四个聚焦方向。四个聚焦中，海外排在首位。长",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "长安新董事长赵非称国内车市下滑严重，将聚焦海外发展",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家引述第一财经报道，有具体人物、场合和直接引语，来源可追溯，但属转述且细节有限"
+    },
+    {
+      "title": "微软发布 Win11 26H1 28120.3272 预览版：新增光标指示器，修复音频组件致部分游戏 / 应用崩溃问题",
+      "link": "https://www.ithome.com/1/014/254.htm",
+      "pubDate": "Sat, 17 Oct 2026 03:07:42 GMT",
+      "contentSnippet": "IT之家 10 月 17 日消息，微软今天（10 月 17 日）发布博文，邀请 Experimental 频道的 Windows Insider 项目成员，测试适用于 Windows 11 26H1 的新预览版 Build 28120.3272，主要修复音频组件导致部分应用崩溃故障。\nWindows 11 26H1 主要适用于高通骁龙 X2 系列 ARM 笔记本（最主要目标平台），还有 NVIDIA N1X 等新一代 SoC 芯片设备，这些设备主打长续航、低功耗、原生 NPU 算力。\nIT之家附上本次更新日志内容如下：\n变更与改进正在逐步推出\n【搜索】\n\n简化搜索主页界面，减少视觉干扰，方便快",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微软发布Win11 26H1预览版28120.3272，新增光标指示器并修复音频崩溃",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，引用微软官方博文，含具体版本号和更新日志，但正文摘要截断，细节略不完整"
+    },
+    {
+      "title": "纯血鸿蒙智行再进化？曝智界独立造车资质备案中，通过后新车尾标将变更为“智界汽车”",
+      "link": "https://www.ithome.com/1/014/253.htm",
+      "pubDate": "Sat, 17 Oct 2026 03:01:09 GMT",
+      "contentSnippet": "IT之家 10 月 17 日消息，工信部昨晚发布了《道路机动车辆生产企业及产品公告》（第 412 批）拟发布的新准入车辆生产企业及已准入企业变更信息清单，安徽智界新能源汽车有限公司在列。\n\n据博主 @未来的学习笔记 解读，智界的独立造车资质已经在备案中了，通过之后，新车尾标就会变成“智界汽车”。作为参考，现阶段智界汽车的尾标为“奇瑞汽车”。\n\n据IT之家此前报道，去年 7 月，智界产品总监 @智界海蓝天 发文，提出了“纯血鸿蒙智行”概念。该产品总监表示，2025 年发布的全新智界 R7 / S7 是智界品牌战略 2.0 首发之作、100% 纯血鸿蒙智行，由华为全栈技术深度赋能。\n\n另外，奇瑞汽",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "智界独立造车资质备案中，通过后新车尾标将变更为智界汽车",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，引用工信部公告及博主解读，信息具体，但核心结论依赖博主推断"
+    },
+    {
+      "title": "工信部副部长熊继军：上半年储能电池产量超 420GWh，坚决防范“内卷式”竞争",
+      "link": "https://www.ithome.com/1/014/252.htm",
+      "pubDate": "Sat, 17 Oct 2026 02:57:15 GMT",
+      "contentSnippet": "IT之家 10 月 17 日消息，10 月 15 日，2026 世界储能大会在福建宁德开幕。世界储能大会已在宁德举办三届，累计吸引 50 余个国家和地区的政府部门、知名专家、企业高管及行业机构等代表参会。\n据中证金牛座报道，工业和信息化部副部长熊继军在致辞中表示，我国新型储能产业发展成效显著，下一步将统筹发展与安全，强化技术创新，坚持需求牵引，共建全球生态，坚决防范“内卷式”竞争，推动行业从规模扩张向创新引领转变。\n据介绍，从产业规模看，2026 年上半年储能电池产量超过 420 吉瓦时（GWh），同比增长 110%；截至 2026 年 6 月底，新型储能累计装机超过 1.53 亿千瓦，较“十",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "工信部副部长熊继军称上半年储能电池产量超420GWh，防范内卷式竞争",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家援引中证金牛座报道官方会议发言，数据具体，来源可追溯，属权威信息转述"
+    },
+    {
+      "title": "小米准备 REDMI Book 16 2027 笔电，可选英特尔酷睿 5 处理器 320",
+      "link": "https://www.ithome.com/1/014/251.htm",
+      "pubDate": "Sat, 17 Oct 2026 02:56:48 GMT",
+      "contentSnippet": "IT之家 10 月 17 日消息，根据 Geekbench 基准测试数据库的记录，小米正在准备 REDMI Book 16 2027 笔记本电脑。该机型的参测示例均基于英特尔 \"Wildcat Lake\" 酷睿 5 处理器 320，配备 16GB DDR5-4800 内存。\n\nIT之家注意到，小米 REDMI Book 此前就出现在了英特尔今年早些时候公布的第 3 代酷睿处理器消费级与商用产品名单中。\n相关阅读：\n\n《小米 REDMI 首款耳夹式耳机 Clip Neo 珍珠白、零度黑亮相，K100 同场发布》\n\n《小米 REDMI K100 手机官宣本月见，号称“重塑旗舰新基线”》",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "小米REDMI Book 16 2027笔电现身Geekbench，搭载英特尔酷睿5 320处理器",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息源自Geekbench数据库记录，有具体型号与配置，但缺乏官方确认"
+    },
+    {
+      "title": "微软发布法律版 Copilot：律师的 AI 新同事，整合审查合同等超 20 项技能",
+      "link": "https://www.ithome.com/1/014/250.htm",
+      "pubDate": "Sat, 17 Oct 2026 02:55:12 GMT",
+      "contentSnippet": "IT之家 10 月 17 日消息，微软副董事长兼总裁布拉德 · 史密斯（Brad Smith）昨日（10 月 16 日）发布推文，宣布微软推出 Copilot for Legal，为全球商用客户提供超过 20 项面向法律工作的专用 AI Skills（技能）。\n这些专用 Skills 围绕着法律工作专门构建，以法律插件形式集成到 Copilot 中。每项技能都针对一个具体法律任务，例如起草合同、审查协议、追踪义务或整理案件时间线。IT之家附上相关截图如下：\n\n在官方博文中，微软表示 Microsoft 365 Copilot 已整合起草、审查合同，义务追踪、整理案例等 AI Skills 任务",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微软推出法律版Copilot，集成超20项法律专用AI技能",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息含具体产品名称、高管来源及功能细节，但缺少原始博文链接"
+    },
+    {
+      "title": "“台积电的获利能力没有上限”，魏哲家称 AI 需求持续升温、供需缺口仍大",
+      "link": "https://www.ithome.com/1/014/249.htm",
+      "pubDate": "Sat, 17 Oct 2026 02:42:06 GMT",
+      "contentSnippet": "IT之家 10 月 17 日消息，据台媒经济日报昨日报道，台积电董事长兼总裁魏哲家在 15 日举行的说法会上，高喊 AI 需求持续升温，供需缺口仍大，并表示台积电本季度美元营收继续创新高，全年美元营收同比增长约 44%。\n魏哲家强调，台积电全力以赴扩产，市场需求非常强劲且持续成长，“台积电的获利能力没有上限”，但也不会一蹴可几，台积电的理念和策略始终是与客户合作，希望帮助客户成功，然后才能实现自身价值。\n魏哲家表示，AI 应用正由聊天机器人走向 AI 助理，AI 智能体使用率增加，开源模型普及也有助提升效率、降低使用门槛，带动更多先进芯片需求。除了 AI 加速器，AI 中央处理器（CPU）与网",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "台积电魏哲家称AI需求升温供需缺口大，全年美元营收增约44%",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "IT之家转引台媒法说会内容，有具体营收数据，但属二手转述且标题略夸张"
+    },
+    {
+      "title": "为了查“公园哪个门人最多”，一批腾讯AI智能体，在高德上折腾了11天",
+      "link": "https://www.tmtpost.com/8171881.html",
+      "pubDate": "Sat, 17 Oct 2026 10:42:00 +0800",
+      "contentSnippet": "在智能体时代，谁的AI能调用更多真实世界的服务和信息，谁的入口就更有价值。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "腾讯AI智能体在高德地图测试11天，探索真实世界服务调用能力",
+      "credibilityScore": 75,
+      "credibilityLevel": "medium",
+      "credibilityReason": "钛媒体为知名科技媒体，内容具体但缺乏技术细节和原始数据支撑，标题略显夸张"
+    },
+    {
+      "title": "古尔曼称苹果首款折叠 iPhone Duo 需求“空前”，首销线下恐难直接买下",
+      "link": "https://www.ithome.com/1/014/247.htm",
+      "pubDate": "Sat, 17 Oct 2026 02:38:06 GMT",
+      "contentSnippet": "IT之家 10 月 17 日消息，彭博社记者马克 · 古尔曼（Mark Gurman）今天（10 月 17 日）在 X 平台连续发文称，苹果明显是在供应量尚未充足的情况下“过早”推出首款折叠屏手机 iPhone Duo，目的可能是抢先将其推向市场。\n古尔曼特别指出在苹果的官方声明中，重点强调“线上”渠道将继续接受订单，却未明确说明实体店的现货供应，推测 iPhone Duo 发售后，顾客可以到线下 Apple Store 体验该产品，但恐怕很难在首发日直接线下买到新机。IT之家附上相关截图如下：\n\n他还预计，部分门店在首发当天的展示样机数量，甚至可能超过可供出售的库存数量。此前彭博社报道称，在",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "古尔曼称苹果首款折叠屏iPhone Duo需求空前，线下首发恐难现货购买",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium-high",
+      "credibilityReason": "来源为IT之家转述彭博社古尔曼爆料，信源较可靠但属推测性报道，缺乏官方数据支撑"
     }
   ]
 }

@@ -1,134 +1,14 @@
 {
-  "generatedAt": "2026-10-16T03:50:52.097Z",
+  "generatedAt": "2026-10-17T03:40:52.728Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "亚行报告显示——亚太地区经济展现韧性",
-      "link": "https://world.huanqiu.com/article/4TdGqbNEZJG",
-      "pubDate": "(Fri,16 Oct 2026 11:02:55 CST)",
-      "contentSnippet": "面对外部环境的不确定性，亚行强调加强区域合作的重要性。报告认为，更可靠的供应链、更好的互联互通以及更简化的贸易程序，可以降低局部供应中断对各经济体造成的影响，各方还应进一步加强粮食和能源安全领域的区域合作。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "亚行报告称亚太经济展现韧性，强调加强区域合作以应对不确定性。",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为环球网，较权威；内容具体但缺少直接引述和原始报告链接，细节不完整。"
-    },
-    {
-      "title": "第九届进博会筹备基本就绪 4142家境外企业参展",
-      "link": "https://capital.huanqiu.com/article/4TdGLuorWNA",
-      "pubDate": "(Fri,16 Oct 2026 10:49:04 CST)",
-      "contentSnippet": "国务院新闻办公室今日举行新闻发布会，介绍第九届中国国际进口博览会筹备情况，并答记者问",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网",
-        "中国新闻网"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "国新办发布会介绍第九届进博会筹备基本就绪，4142家境外企业参展。",
-      "credibilityScore": 97,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网/环球网，属官方发布会转述，信息具体可查证。（多源覆盖 +5）"
-    },
-    {
-      "title": "感染者不开口、医务人员不敢说，地方立法明确：艾滋病感染者、病人负有向配偶、性伴侣、结婚登记对象主动告知感染事实的法定义务",
-      "link": "https://society.huanqiu.com/article/4TdFSd2xIxF",
-      "pubDate": "(Fri,16 Oct 2026 10:24:07 CST)",
-      "contentSnippet": "面向未来，“双轨告知”制度是否有望从少数地方立法向全国层面推广？",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "环球网报道地方立法要求艾滋病感染者向配偶等主动告知感染事实。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为环球网较权威，内容具体涉及法定义务，但正文摘要简短，缺乏直接引述和细节。"
-    },
-    {
-      "title": "北京市中小学特色实践课程观摩活动在密云区不老屯镇中心小学举行",
-      "link": "https://yrd.huanqiu.com/article/4TdFSadvt93",
-      "pubDate": "(Fri,16 Oct 2026 10:24:05 CST)",
-      "contentSnippet": "10月14日上午，北京市综合实践活动领域的领导、专家和教师代表齐聚密云区不老屯镇中心小学，共同参与“立足在地资源 聚力新质育人 助推五育融合高质量发展”暨北京市",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "北京市中小学特色实践课程观摩活动在密云区不老屯镇中心小学举行。",
-      "credibilityScore": 75,
-      "credibilityLevel": "medium",
-      "credibilityReason": "环球网为知名媒体，活动信息具体，但报道简短且无直接引述，权威性一般。"
-    },
-    {
-      "title": "联合国秘书长：全球生物多样性目标执行进度“远不够”",
-      "link": "https://world.huanqiu.com/article/4TdFPlz0Man",
-      "pubDate": "(Fri,16 Oct 2026 10:22:49 CST)",
-      "contentSnippet": "联合国《生物多样性公约》第十七次缔约方大会将于10月19日至30日在亚美尼亚首都埃里温举行。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "联合国秘书长称全球生物多样性目标执行进度远不够，缔约方大会将在亚美尼亚举行。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "环球网援引联合国秘书长表态，事件具体可查证，但缺少直接引述，权威性略低于一线通讯社。"
-    },
-    {
-      "title": "外媒：巴基斯坦一学校屋顶坍塌事故致超30人死亡，巴总统、总理发声",
-      "link": "https://world.huanqiu.com/article/4TdEqdYJpHa",
-      "pubDate": "(Fri,16 Oct 2026 10:06:57 CST)",
-      "contentSnippet": "综合巴基斯坦《黎明报》等媒体报道，巴基斯坦一所学校15日发生建筑物屋顶坍塌事故，造成超过30人死亡。巴基斯坦总统扎尔达里与总理夏巴兹当天对此作出回应。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "巴基斯坦一学校屋顶坍塌致超30人死亡，总统与总理作出回应。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "环球网引述巴基斯坦《黎明报》，事件要素具体，有官方回应，但缺乏直接引述和独立交叉验证。"
-    },
-    {
-      "title": "黑龙江省原副省长、公安厅原厅长毕宝文被提起公诉",
-      "link": "https://china.huanqiu.com/article/4TdEe6wmK8K",
-      "pubDate": "(Fri,16 Oct 2026 10:01:18 CST)",
-      "contentSnippet": "记者今天（16日）从最高人民检察院获悉，黑龙江省政府原党组成员、副省长，黑龙江省公安厅原党委书记、厅长毕宝文涉嫌受贿、利用影响力受贿一案，由国家监察委员会调查终结，移送检察机关审查起诉。最高人民检察院依法以涉嫌受贿罪、利用影响力受贿罪对毕宝文作出逮捕决定，并指定由辽宁省沈阳市人民检察院审查起诉。近日，沈阳市人民检察院已向沈阳市中级人民法院提起公诉。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "黑龙江省原副省长、公安厅原厅长毕宝文因涉嫌受贿被提起公诉。",
-      "credibilityScore": 95,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为环球网引述最高人民检察院，属官方权威信息，内容具体且可交叉验证。"
-    },
-    {
-      "title": "应急管理部：整治烟花爆竹违法乱象 20项具体措施强化全链条监管",
-      "link": "https://www.chinanews.com.cn/gn/2026/10-16/10715533.shtml",
-      "pubDate": "Fri, 16 Oct 2026 11:45:04 +0800",
-      "contentSnippet": "中新网10月16日电 应急管理部16日举行季度例行新闻发布会，有记者问，近期，国务院办公厅印发了关于进一步加强烟花爆竹全链条安全监管的意见。请问有哪些重点举措，将推动解决烟花爆竹领域哪些突出问题？",
+      "title": "（近观中国）考察乌兰察布，习近平关注算力背后的考量",
+      "link": "https://www.chinanews.com.cn/gn/2026/10-17/10716101.shtml",
+      "pubDate": "Sat, 17 Oct 2026 11:22:03 +0800",
+      "contentSnippet": "中新社北京10月17日电 题：考察乌兰察布，习近平关注算力背后的考量",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -136,130 +16,248 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "应急管理部发布会介绍国办烟花爆竹全链条安全监管意见，含20项措施整治违法乱象。",
-      "credibilityScore": 92,
-      "credibilityLevel": "high",
-      "credibilityReason": "中新网为权威媒体，报道官方发布会，信息具体可查证，用词客观中性。"
-    },
-    {
-      "title": "应急管理部：严格安全生产监管执法 依法惩治安全生产违法犯罪行为",
-      "link": "https://www.chinanews.com.cn/gn/2026/10-16/10715530.shtml",
-      "pubDate": "Fri, 16 Oct 2026 11:29:53 +0800",
-      "contentSnippet": "中新网10月16日电 应急管理部16日举行季度例行新闻发布会，会上应急管理部新闻发言人、新闻宣传司司长申展利介绍国务院安委办、应急管理部贯彻落实全国安全生产视频会议精神，进一步加强安全生产工作的具体举措。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "应急管理部发布会介绍加强安全生产监管执法、惩治违法犯罪行为的举措。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "中新网为权威媒体，有具体时间、人物和发布会信息，内容客观可查证。"
-    },
-    {
-      "title": "最高检发布检察机关依法维护老年人合法权益典型案例",
-      "link": "https://www.chinanews.com.cn/gn/2026/10-16/10715532.shtml",
-      "pubDate": "Fri, 16 Oct 2026 11:16:12 +0800",
-      "contentSnippet": "中新网10月16日电 据最高人民检察院微信公众号消息，10月16日，在今年全国“敬老月”活动期间，最高人民检察院发布一批检察机关依法维护老年人合法权益典型案例，以鲜活案例阐释法律精神，引导各级检察机关坚持“四大检察”综合履职，以检察力量为老年人安享幸福晚年保驾护航。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "最高检在敬老月发布维护老年人权益典型案例，引导检察机关综合履职。",
-      "credibilityScore": 92,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为官方权威渠道最高检，中新网转载，信息具体可查证，用词客观中性。"
-    },
-    {
-      "title": "（活力中国调研行）广西南宁：Token工厂“智联”东盟",
-      "link": "https://www.chinanews.com.cn/aseaninfo/2026/10-16/10715511.shtml",
-      "pubDate": "Fri, 16 Oct 2026 10:57:47 +0800",
-      "contentSnippet": "中新网广西南宁10月16日电 (李嘉薇 俞靖)近日，“活力中国调研行”主题采访团走进南宁，实地探访五象云谷词元(Token)工厂。这是国内首个实现商业化运营的词元工厂，由润建股份有限公司投资建设，正尝试以词元为统一计量单位，将算力服务铺向东盟。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中新网报道南宁五象云谷词元工厂，称其为国内首个商业化词元工厂，面向东盟提供算力服务。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，属权威媒体；信息含具体时间、地点、企业名称，但缺乏独立交叉验证。"
-    },
-    {
-      "title": "铁路车次编排将调整 更高时速动车组新增X字头",
-      "link": "https://china.huanqiu.com/article/4TdHu6Z0GR7",
-      "pubDate": "(Fri,16 Oct 2026 11:32:29 CST)",
-      "contentSnippet": "国铁集团运输部相关负责人介绍，X读“新”，表示最高运行时速350公里以上的复兴号动车组列车，寓意“新时速、新产品”，车次编排为X1至X9998。此次改革将同步实施新版《列车车次编排规定》，动车组旅客列车字头由4个增至7个，可编排车次数量增长近40%。车次变更后，列车开行区段、运行时刻仍按现行运行图执行。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网",
-        "中国新闻网"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "国铁集团将调整车次编排，新增X字头复兴号动车组，时速350公里以上。",
-      "credibilityScore": 93,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为环球网和中国新闻网，引述国铁集团负责人，信息具体可查证。（多源覆盖 +5）"
-    },
-    {
-      "title": "国际计量大会决定取消闰秒",
-      "link": "https://world.huanqiu.com/article/4TdHfgORpgi",
-      "pubDate": "(Fri,16 Oct 2026 11:25:59 CST)",
-      "contentSnippet": "第28届国际计量大会15日在法国凡尔赛通过决议，决定自2027年5月20日起实施“连续协调世界时”。此举意味着协调世界时（UTC）将不再通过增减闰秒进行调整，可在未来数个世纪保持连续运行。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
-      "allSources": [
-        "环球网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国际计量大会通过决议，自2027年起取消闰秒，UTC将连续运行。",
+      "aiSummary": "中新社报道习近平考察乌兰察布，关注算力发展背后的考量。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "环球网为正规媒体，内容具体含时间地点，但非一线通讯社，缺少直接引述。"
+      "credibilityReason": "来源为中国新闻网（中新社），属权威通讯社；内容为时政报道，信息具体但正文摘要简短，缺少直接引述。"
     },
     {
-      "title": "特朗普称泽连斯基不想解决乌克兰危机",
-      "link": "https://world.huanqiu.com/article/4TdHdDtzKt0",
-      "pubDate": "(Fri,16 Oct 2026 11:24:52 CST)",
-      "contentSnippet": "美国总统特朗普15日称，乌克兰总统泽连斯基“不想解决”乌克兰危机，不值得美国与之打交道，与泽连斯基达成协议要比与俄罗斯总统普京难。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
+      "title": "第二届迪利曼对话会在菲律宾举办 探讨南海和平之路",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-17/10716086.shtml",
+      "pubDate": "Sat, 17 Oct 2026 10:05:13 +0800",
+      "contentSnippet": "中新网马尼拉10月17日电 第二届迪利曼对话会15日在菲律宾迪利曼学院菲律宾—中国研究中心举办，主题为“中国—东盟关系的东南亚声音：南海和平之路”。中国驻菲律宾大使井泉、迪利曼学院院长兼首席执行官科塞滕、菲律宾—中国研究中心主任罗梅尔·班劳伊、菲律宾—中国相互了解协会主席劳尔·兰比诺、菲前国家安全顾问克拉丽塔·卡洛斯等各界人士出席活动。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
       "allSources": [
-        "环球网"
+        "中国新闻网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "特朗普称泽连斯基不想解决乌克兰危机，认为与普京达成协议更容易。",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "环球网为知名媒体，引述特朗普直接表态，但单一来源且无多方交叉验证。"
+      "aiSummary": "第二届迪利曼对话会在菲律宾举办，探讨南海和平之路",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "中新网为权威媒体，报道含具体时间地点人物，信息可查证，用词客观"
     },
     {
-      "title": "为世界带来繁荣新机遇（编辑手记）",
-      "link": "https://china.huanqiu.com/article/4TdHUrETIgg",
-      "pubDate": "(Fri,16 Oct 2026 11:21:05 CST)",
-      "contentSnippet": "放眼未来，中国开放的大门只会越开越大，为世界发展繁荣持续注入新动力。",
-      "sourceName": "环球网",
-      "sourceWeight": 85,
+      "title": "2026中欧隐形冠军（宁德）ESG绿色产业合作对话活动举行",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-17/10716075.shtml",
+      "pubDate": "Sat, 17 Oct 2026 09:41:22 +0800",
+      "contentSnippet": "中新网宁德10月17日电 (记者 吕巧琴 叶茂)16日，2026中欧隐形冠军(宁德)ESG绿色产业合作对话活动在福建省宁德市举行，活动汇聚中欧80余名企业代表，就“循ESG绿色发展之源、筑中欧产业命运共同体”主题开展交流对接和产业考察。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
       "allSources": [
-        "环球网"
+        "中国新闻网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "环球网发布编辑手记，称中国开放大门将越开越大，为世界繁荣注入新动力。",
-      "credibilityScore": 55,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为环球网，属知名媒体但非一线；内容为评论性表述，缺乏具体事实与数据支撑。"
+      "aiSummary": "2026中欧隐形冠军ESG绿色产业合作对话活动在福建宁德举行。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网，属权威媒体；时间地点人物具体，有记者署名，用词客观。"
+    },
+    {
+      "title": "中外记者走进昆山 体验机器人6S店里的“中国智造”",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-17/10716080.shtml",
+      "pubDate": "Sat, 17 Oct 2026 09:36:32 +0800",
+      "contentSnippet": "中新网南京10月17日电(记者 梁晓辉 孙晨慧) 一千平方米，能装下什么？昆山一家机器人6S店给出的答案是：具备语音交互能力的AI猫形机器人、可参与格斗竞技的人形机器人，以及用于港口货轮藤壶清洗的水下机器人。近日，参加2026年“一带一路”记者组织论坛活动的中外记者走进江苏昆山，也顺手把“中国智造”装进行囊。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中外记者参访昆山机器人6S店，体验多款机器人产品。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网，有署名记者，时间地点具体，内容客观，但属活动报道，细节有限。"
+    },
+    {
+      "title": "从三叠纪化石到明代屯堡，高原大地上的文明“石”书",
+      "link": "https://www.chinanews.com.cn/cul/2026/10-17/10716114.shtml",
+      "pubDate": "Sat, 17 Oct 2026 11:31:36 +0800",
+      "contentSnippet": "何以中国｜从三叠纪化石到明代屯堡，高原大地上的文明“石”书",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中新网报道贵州高原从三叠纪化石到明代屯堡的石文化遗存。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网，属较权威媒体；内容涉及可查证的文化遗产，但正文信息简略。"
+    },
+    {
+      "title": "企步新长征｜手搓麻线到3D打印，陕北窑洞里走出的鞋厂迈入智能时代",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-17/10716110.shtml",
+      "pubDate": "Sat, 17 Oct 2026 11:26:40 +0800",
+      "contentSnippet": "中新网延安10月17日电(记者 宋宇晟 陈庆洋) 在陕西延安志丹县保安革命旧址，一排红砂石窑洞静静矗立。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中新网报道延安志丹县鞋厂从手工麻线发展到3D打印的智能化历程。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网（权威通讯社），有署名记者和具体地点，内容具体可查证，但正文摘要较短，细节有限。"
+    },
+    {
+      "title": "活力中国调研行｜广西职教“出海” 老挝兄弟求学",
+      "link": "https://www.chinanews.com.cn/edu/2026/10-17/10716113.shtml",
+      "pubDate": "Sat, 17 Oct 2026 11:23:01 +0800",
+      "contentSnippet": "视频：活力中国调研行｜广西职教“出海” 老挝兄弟求学来源：新华社",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "广西职业教育出海，老挝兄弟来华求学",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "中新网转载新华社视频报道，来源权威，主题具体可查证，属正面调研报道"
+    },
+    {
+      "title": "红星照耀中国｜世界读懂红军制胜之道",
+      "link": "https://www.chinanews.com.cn/gn/2026/10-17/10716112.shtml",
+      "pubDate": "Sat, 17 Oct 2026 11:19:05 +0800",
+      "contentSnippet": "视频：红星照耀中国丨世界读懂红军制胜之道来源：央视新闻客户端",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国新闻网报道央视视频，讲述世界读懂红军制胜之道。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网及央视，权威性较高，但内容为宣传性视频摘要，缺乏具体事实细节。"
+    },
+    {
+      "title": "“十五五”专项规划里的文化力量",
+      "link": "https://www.chinanews.com.cn/cul/2026/10-17/10716111.shtml",
+      "pubDate": "Sat, 17 Oct 2026 11:16:23 +0800",
+      "contentSnippet": "新华社北京10月15日电 题：新华社文化随笔：“十五五”专项规划里的文化力量",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "新华社文化随笔解读“十五五”专项规划中的文化力量。",
+      "credibilityScore": 92,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为新华社（一线通讯社），转载自中国新闻网，内容为官方政策解读，权威性高。"
+    },
+    {
+      "title": "AI乌镇 科创桐乡｜1米88“大个子”！濮院街头有了“机器人交警”",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-17/10716109.shtml",
+      "pubDate": "Sat, 17 Oct 2026 11:13:11 +0800",
+      "contentSnippet": "2026年世界互联网大会乌镇峰会日益临近，濮院时尚古镇作为第二分会场，将迎来大批嘉宾和游客。届时交通出行秩序如何保障？",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "桐乡濮院为世界互联网大会乌镇峰会部署1.88米机器人交警保障交通。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "中国新闻网为权威媒体，信息含具体时间地点人物，属峰会预热报道，可交叉验证。"
+    },
+    {
+      "title": "两部门联合发文 推动“电影+体育”跨界合作",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-17/10716105.shtml",
+      "pubDate": "Sat, 17 Oct 2026 11:05:32 +0800",
+      "contentSnippet": "近日，国家电影局、体育总局联合印发《关于开展“跟着电影去运动”行动 推动电影与体育双向赋能的通知》。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国家电影局与体育总局联合发文推动电影与体育跨界合作。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，属较权威媒体；信息具体，含发文部门与文件名，事实可查证。"
+    },
+    {
+      "title": "鲁班工坊系列国家标准公布",
+      "link": "https://www.chinanews.com.cn/edu/2026/10-17/10716104.shtml",
+      "pubDate": "Sat, 17 Oct 2026 11:04:04 +0800",
+      "contentSnippet": "10月17日，由教育部提出的鲁班工坊建设通用要求、工程实践创新项目教学模式实施要求、教学装备通用要求和运行质量评估指南等4项国家标准，在2026年世界职业技术教育发展大会闭幕式上公布，自2027年4月1日起实施。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "教育部提出的鲁班工坊4项国家标准在世界职教大会闭幕式公布，2027年4月起实施。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "中国新闻网为正规媒体，信息含具体时间、数量与实施日期，事实可查证，但缺直接引述。"
+    },
+    {
+      "title": "长江为什么叫长江？",
+      "link": "https://www.chinanews.com.cn/gn/2026/10-17/10716103.shtml",
+      "pubDate": "Sat, 17 Oct 2026 10:57:10 +0800",
+      "contentSnippet": "何以中国·当惊世界殊丨长江为什么叫长江？",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国新闻网科普栏目探讨长江名称由来，内容为地理文化知识。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为权威媒体中国新闻网，属知识科普类内容，事实可查证，无争议性。"
+    },
+    {
+      "title": "以长征之名",
+      "link": "https://www.chinanews.com.cn/gn/2026/10-17/10716102.shtml",
+      "pubDate": "Sat, 17 Oct 2026 10:55:04 +0800",
+      "contentSnippet": "视频：以长征之名来源：新华社",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "新华社发布视频《以长征之名》，中国新闻网转载。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网转载新华社视频，权威性高，但信息量极少，无法进一步核实细节。"
+    },
+    {
+      "title": "乡村大集，走红更要长红（“三农”观察）",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-17/10716100.shtml",
+      "pubDate": "Sat, 17 Oct 2026 10:49:20 +0800",
+      "contentSnippet": "数据来源：农业农村部等\r\n\n　　到乡村去赶集！",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国新闻网报道乡村大集走红现象，探讨其可持续发展。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，属较权威媒体；但正文摘要极简，仅提及数据来源，缺少具体细节和直接引述。"
     }
   ]
 }
