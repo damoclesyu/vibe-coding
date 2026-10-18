@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-17T03:42:04.360Z",
+  "generatedAt": "2026-10-18T03:48:30.288Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "Anthropic 向美国国会推介 AI 监管草案，仅允许出现严重风险时封锁模型",
-      "link": "https://www.ithome.com/1/014/193.htm",
-      "pubDate": "Fri, 16 Oct 2026 23:05:10 GMT",
-      "contentSnippet": "IT之家 10 月 17 日消息，据 POLITICO 报道，三名知情人士透露，Anthropic 的代表已悄悄向美国国会山的议员推介了一份法案草案，旨在规范前沿人工智能的安全与防务标准。\n据悉，目前美国国会正审慎评估如何对这一飞速发展的行业确立监管框架，而该草案的提出，标志着这家顶级 AI 实验室正在采取切实行动，试图左右针对自身技术的监管规则。\n“该法案体现了 Anthropic 在《先进人工智能框架》中提出的核心方案，我们自 6 月起就一直在向联邦及各州立法者游说推介，”Anthropic 发言人表示，“我们坚信国会应当在这些务实合理的政策上采取立法行动。”\n草案大幅收紧了监管干预的门槛",
+      "title": "韩国财政部长李炯日：半导体行业的繁荣势头至少将持续到 2027 年",
+      "link": "https://www.ithome.com/1/014/457.htm",
+      "pubDate": "Sun, 18 Oct 2026 02:06:55 GMT",
+      "contentSnippet": "IT之家 10 月 18 日消息，据 CNBC 于当地时间 10 月 17 日报道，韩国副总理兼财政经济部长李炯日（Lee Hyoung-Il）周六表示，半导体行业的繁荣势头至少将持续到 2027 年。\n\n目前，我们认为这种增长至少可以持续到明年。这是因为半导体的供需缺口仍然非常大，并且供应端仍在持续扩张。\n\nIT之家注意到，在李炯日发出上述言论之际，受投资者对美联储加息以及行业竞争加剧的担忧影响，在刚刚过去的交易周，半导体板块大幅下跌。包括三星、SK 海力士和首尔半导体在内的韩国芯片股遭到猛烈抛售。\n李炯日指出，芯片股加剧了今年韩国股市的波动。他将市场的剧烈震荡归因于韩国半导体产业在韩国经济",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,33 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "Anthropic向美国国会推介AI监管草案，收紧模型封锁门槛",
+      "aiSummary": "韩国财政部长称半导体行业繁荣至少持续到2027年，供需缺口仍大。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家援引POLITICO及知情人士，有发言人回应，信息具体但属二手转述"
+      "credibilityReason": "来源为IT之家转引CNBC，有明确人物、时间及市场背景，信息具体但属二手编译。"
     },
     {
-      "title": "京东双十一取消定金预售，押注服务消费推上百项产品",
-      "link": "https://www.tmtpost.com/8171375.html",
-      "pubDate": "Fri, 16 Oct 2026 19:07:47 +0800",
-      "contentSnippet": "当双十一进入第18个年头，单纯比拼价格早已不再是制胜的法宝，随着电商增长放缓，平台竞争焦点逐步转移到供应链履约、服务能力、产业数字化。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "京东双十一取消定金预售，转向服务消费与供应链能力竞争",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容涉及电商策略转型，但摘要缺少具体数据和原始出处支撑"
-    },
-    {
-      "title": "为避免银行存款大量流失，花旗、美银出手限制智能体访问客户账户",
-      "link": "https://www.ithome.com/1/014/260.htm",
-      "pubDate": "Sat, 17 Oct 2026 03:32:42 GMT",
-      "contentSnippet": "IT之家 10 月 17 日消息，美国银行业向监管机构警告，AI 智能体可能为了帮助用户获得更高收益，自动将闲置资金转往其他账户，导致银行存款大量流失。据英国《金融时报》16 日报道，花旗集团和美国银行也已出手，限制 AI 智能体访问客户账户。\n花旗称，为保障客户账户和个人信息安全，该行禁止第三方 AI 智能体或助手登录客户账户，也不允许其直接通过花旗的数字银行平台办理交易。\n美国银行 CEO 布莱恩 · 莫伊尼汉透露，该行也限制了 AI 智能体访问个人客户存款，并着手制定规则，明确 AI 授权支付的最终责任归属：“我们坚信，账户资金转出必须经过人工授权。我们正在跟智能体服务商沟通，告诉他们：",
+      "title": "今起实施：60 岁及以上老人购买 10 月 18 日至 12 月 30 日标注“敬”字火车票享“折上折”",
+      "link": "https://www.ithome.com/1/014/442.htm",
+      "pubDate": "Sun, 18 Oct 2026 00:52:49 GMT",
+      "contentSnippet": "IT之家 10 月 18 日消息，据中国铁路官方消息，继今年 5 至 6 月实行老年人淡季周中购票优惠措施后，国铁集团进一步优化这一惠民举措，年满 60 周岁及以上老年人购买 2026 年 10 月 18 日（含）至 12 月 30 日（含）标注“敬”字车次的火车票将享受“折上折”票价优惠，进一步扩大优惠时间范围，不再限定周中时段，相关优惠车票将于 10 月 4 日起陆续发售。\n\n据介绍，年满 60 周岁及以上且使用中华人民共和国居民身份证、港澳居民居住证、台湾居民居住证、港澳居民来往内地通行证、台湾居民来往大陆通行证、外国人永久居留身份证、临时身份证明及居民户口簿购票的老年人，线上或线下购买",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -50,33 +33,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "花旗、美银限制AI智能体访问客户账户，防止存款流失",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家援引金融时报报道，引述银行高管具体表态，信息有出处，内容具体可信"
-    },
-    {
-      "title": "行业首个基于确定性网络的智能体互联平台 AXP 在南京发布：支持百万级智能体注册接入、十万级智能体同时运行",
-      "link": "https://www.ithome.com/1/014/259.htm",
-      "pubDate": "Sat, 17 Oct 2026 03:30:28 GMT",
-      "contentSnippet": "IT之家 10 月 17 日消息，10 月 16 日，第十届未来网络发展大会在南京上秦淮国际文化交流中心开幕。行业首个基于确定性网络的智能体互联平台 AXP 正式发布。\n\n紫金山实验室联合中国移动、江苏未来网络集团、江苏省未来网络创新研究院联合研发，发布基于确定性网络（指在一个网络域内给承载的业务提供确定性业务保证的能力）的智能体互联平台 AXP，可实现智算网深度融合调度、异构智能体协议统一转换，支持百万级智能体注册接入、十万级智能体同时在线运行，达成秒级故障感知切换、百毫秒级语义寻址响应。\nIT之家获悉，依托国家级未来网络试验设施（CENI），平台可完成 4000 公里以上跨域高精度智能体寻",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "紫金山实验室等联合发布基于确定性网络的智能体互联平台AXP，支持百万级注册接入",
+      "aiSummary": "国铁对60岁以上老人购买标注'敬'字火车票实施折上折优惠",
       "credibilityScore": 78,
       "credibilityLevel": "medium",
-      "credibilityReason": "IT之家为知名科技媒体，信息含具体数据与研发机构，但技术指标来自发布方单方宣称，缺乏第三方验证"
+      "credibilityReason": "来源为IT之家，引述中国铁路官方消息，信息具体含时间范围与证件类型，但属政策类报道，技术性有限"
     },
     {
-      "title": "Win11 用户还能再用 3 年：微软老牌虚拟化组件 App-V Server 扩展支持至 2029 年",
-      "link": "https://www.ithome.com/1/014/258.htm",
-      "pubDate": "Sat, 17 Oct 2026 03:19:36 GMT",
-      "contentSnippet": "IT之家 10 月 17 日消息，科技媒体 NeoWin 昨日（10 月 16 日）发布博文，报道称微软扩展支持 App-V Server（微软应用虚拟化服务器），支持期限延长至 2029 年 10 月 9 日。\nIT之家注：App-V 是微软于 2008 年通过 Microsoft Desktop Optimization Pack（MDOP）推出的应用虚拟化技术，其前身来自微软收购的 Softricity 公司及其 SoftGrid 产品。\n\n功能方面，App-V Server 主要将 Win32 应用以“流式”方式集中分发到用户设备，无需在每台电脑上完成完整本地安装；企业曾广泛用它来简化",
+      "title": "李未可 X-AI 记忆眼镜预售：能持续录音 12 小时、支持 128 种语言实时翻译，699 元起",
+      "link": "https://www.ithome.com/1/014/477.htm",
+      "pubDate": "Sun, 18 Oct 2026 03:43:07 GMT",
+      "contentSnippet": "IT之家 10 月 18 日消息，李未可 Lawaken X-AI 记忆眼镜现已预售，预售到手价 699 元起：\n\n枪色经典圈丝框：699 元\n\n深灰板材圆框：899 元\n\n渐变灰板材方框：899 元\n\n亮银飞行员圈丝框：899 元\n\n灰银纯钛眉毛架：1099 元\n\n黑金钛架眉毛架：1099 元\n\n\n这款 AI 记忆眼镜主打全场景 AI 记录，覆盖高频会议、灵感碎片、商务拜访、多线程项目管理、微信 / 电话沟通等多种高频场景；机身重量 26 克（不含镜片及模组），提供多种框型可选，支持快拆设计，可更换镜框适配不同穿搭场景。\n\n这款眼镜支持自动抓取待办、关键结论与优先级划分，用户可通过语音提问一",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -84,50 +50,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "微软将App-V Server支持期限延长至2029年10月9日",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家援引NeoWin报道，含具体日期与技术背景，来源可追溯，内容客观"
-    },
-    {
-      "title": "R 星技术总监菲尔 · 胡克：《GTA 6》的开发工作会持续到最后一刻",
-      "link": "https://www.ithome.com/1/014/256.htm",
-      "pubDate": "Sat, 17 Oct 2026 03:10:25 GMT",
-      "contentSnippet": "IT之家 10 月 17 日消息，距离 11 月 19 日发售仅剩一个月，备受期待的《GTA 6》仍未完成最终版本的制作，开发团队还在修复漏洞、优化游戏内容，并进行最后的调整。\n《GTA 6》定于 2026 年 11 月 19 日发售，11 月 12 日开放预下载。Xbox Series X|S、PlayStation 5 和 PlayStation 5 Pro 版本预计将在 11 月 12 日前后通过微软和索尼的平台认证。\n彭博社记者杰森 · 施莱尔采访了 R 星多名高管，了解《GTA 6》的开发过程。他在深度报道中援引 R 星技术总监菲尔 · 胡克的说法称，游戏开发工作会持续到最后一刻：“",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "R星技术总监称《GTA 6》开发将持续到发售前最后一刻",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引用彭博社记者采访R星高管的一手报道，信息具体含发售日期与平台细节"
-    },
-    {
-      "title": "长安汽车新任董事长赵非称国内车市下滑严重：但海外还有机会，要全力以赴聚焦海外发展",
-      "link": "https://www.ithome.com/1/014/255.htm",
-      "pubDate": "Sat, 17 Oct 2026 03:09:19 GMT",
-      "contentSnippet": "IT之家 10 月 17 日消息，据第一财经报道，长安汽车新任董事长赵非在 16 日举行的一场媒体沟通会上表示，“国内的这种竞争态势，有时候其实已经进入到一个马太效应、洗牌的这么一个阶段。可能某些友商就会有一些非理性的行为，到了最后这个阶段，它的产品、定价，对这个市场的规则、正常的一个可持续发展（来说）可能就会有偏颇了。”\n赵非谈到，国内车市下滑严重，但海外还有机会，长安要全力以赴聚焦海外发展，长安在新能源和智能化上面，可能比国外的一些友商更强，这让长安保持住优势。\n赵非表示，长安将坚持既有的战略方向和运营机制，把海外、产品、效率和品牌整合作为接下来的四个聚焦方向。四个聚焦中，海外排在首位。长",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "长安新董事长赵非称国内车市下滑严重，将聚焦海外发展",
+      "aiSummary": "李未可X-AI记忆眼镜预售699元起，支持12小时录音和128种语言实时翻译。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家引述第一财经报道，有具体人物、场合和直接引语，来源可追溯，但属转述且细节有限"
+      "credibilityReason": "来源为知名科技媒体IT之家，产品参数和价格信息具体，但缺少官方原始出处引用。"
     },
     {
-      "title": "微软发布 Win11 26H1 28120.3272 预览版：新增光标指示器，修复音频组件致部分游戏 / 应用崩溃问题",
-      "link": "https://www.ithome.com/1/014/254.htm",
-      "pubDate": "Sat, 17 Oct 2026 03:07:42 GMT",
-      "contentSnippet": "IT之家 10 月 17 日消息，微软今天（10 月 17 日）发布博文，邀请 Experimental 频道的 Windows Insider 项目成员，测试适用于 Windows 11 26H1 的新预览版 Build 28120.3272，主要修复音频组件导致部分应用崩溃故障。\nWindows 11 26H1 主要适用于高通骁龙 X2 系列 ARM 笔记本（最主要目标平台），还有 NVIDIA N1X 等新一代 SoC 芯片设备，这些设备主打长续航、低功耗、原生 NPU 算力。\nIT之家附上本次更新日志内容如下：\n变更与改进正在逐步推出\n【搜索】\n\n简化搜索主页界面，减少视觉干扰，方便快",
+      "title": "太空水稻再繁育！神二十三乘组完成新一批样品采集播种",
+      "link": "https://www.ithome.com/1/014/475.htm",
+      "pubDate": "Sun, 18 Oct 2026 03:38:20 GMT",
+      "contentSnippet": "IT之家 10 月 18 日消息，据央视新闻报道，上周，神舟二十三号乘组朱杨柱、张志远、黎家盈三位航天员在空间科学实（试）验、在轨研究测试等方面都有新收获。\n\n在空间科学实（试）验方面，“空间水稻多代遗传稳定性与环境适应性调控的分子机理研究”项目进展顺利。航天员已完成新一批水稻实验样品采集、播种及存储工作。采集的样品待后续随返回舱下行，由科学家进行表型和分子层面的综合分析，解析长期空间微重力对水稻遗传稳定性的作用机制。\n据IT之家了解，2022 年，神舟十四号航天员在空间站种下 6 粒地面选育的水稻种子，经过 120 天从发芽到成熟的全部过程，共收获了 59 粒第一代“太空水稻”种子。今年 5",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -135,16 +67,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "微软发布Win11 26H1预览版28120.3272，新增光标指示器并修复音频崩溃",
+      "aiSummary": "神舟二十三号乘组完成新一批太空水稻样品采集与播种，推进多代遗传稳定性研究。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引用微软官方博文，含具体版本号和更新日志，但正文摘要截断，细节略不完整"
+      "credibilityReason": "来源为IT之家转引央视新闻，信息具体含项目名称、航天员姓名及实验细节，但正文摘要不完整。"
     },
     {
-      "title": "纯血鸿蒙智行再进化？曝智界独立造车资质备案中，通过后新车尾标将变更为“智界汽车”",
-      "link": "https://www.ithome.com/1/014/253.htm",
-      "pubDate": "Sat, 17 Oct 2026 03:01:09 GMT",
-      "contentSnippet": "IT之家 10 月 17 日消息，工信部昨晚发布了《道路机动车辆生产企业及产品公告》（第 412 批）拟发布的新准入车辆生产企业及已准入企业变更信息清单，安徽智界新能源汽车有限公司在列。\n\n据博主 @未来的学习笔记 解读，智界的独立造车资质已经在备案中了，通过之后，新车尾标就会变成“智界汽车”。作为参考，现阶段智界汽车的尾标为“奇瑞汽车”。\n\n据IT之家此前报道，去年 7 月，智界产品总监 @智界海蓝天 发文，提出了“纯血鸿蒙智行”概念。该产品总监表示，2025 年发布的全新智界 R7 / S7 是智界品牌战略 2.0 首发之作、100% 纯血鸿蒙智行，由华为全栈技术深度赋能。\n\n另外，奇瑞汽",
+      "title": "中国移动香港建成全港首个 U6GHz 网络，可实现 3Gbps 以上的下载速率",
+      "link": "https://www.ithome.com/1/014/468.htm",
+      "pubDate": "Sun, 18 Oct 2026 03:20:10 GMT",
+      "contentSnippet": "IT之家 10 月 18 日消息，中国移动香港有限公司昨日宣布，建成全港首个 U6GHz 网络，并于旺角旗舰店完成网络测试及验证，推进 Upper 6GHz 频段在移动网络中的应用探索。\n\nU6GHz 即 Upper 6GHz 频段，可提供连续大带宽，是支持 5G-A 及未来 6G 演进的重要频谱资源。中国香港于 2024 年 11 月 29 日完成 6／7GHz 频谱拍卖，成为全球首个拍卖该频段供公共移动服务使用的地区。\n据介绍，中国移动香港成功竞投 100MHz 连续频谱，并适度超前部署，推进网络能力验证与终端适配，为未来 6G 商用积累经验。\n新增 U6GHz 频谱可与现有频段协同使用，",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -152,50 +84,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "智界独立造车资质备案中，通过后新车尾标将变更为智界汽车",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引用工信部公告及博主解读，信息具体，但核心结论依赖博主推断"
-    },
-    {
-      "title": "工信部副部长熊继军：上半年储能电池产量超 420GWh，坚决防范“内卷式”竞争",
-      "link": "https://www.ithome.com/1/014/252.htm",
-      "pubDate": "Sat, 17 Oct 2026 02:57:15 GMT",
-      "contentSnippet": "IT之家 10 月 17 日消息，10 月 15 日，2026 世界储能大会在福建宁德开幕。世界储能大会已在宁德举办三届，累计吸引 50 余个国家和地区的政府部门、知名专家、企业高管及行业机构等代表参会。\n据中证金牛座报道，工业和信息化部副部长熊继军在致辞中表示，我国新型储能产业发展成效显著，下一步将统筹发展与安全，强化技术创新，坚持需求牵引，共建全球生态，坚决防范“内卷式”竞争，推动行业从规模扩张向创新引领转变。\n据介绍，从产业规模看，2026 年上半年储能电池产量超过 420 吉瓦时（GWh），同比增长 110%；截至 2026 年 6 月底，新型储能累计装机超过 1.53 亿千瓦，较“十",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "工信部副部长熊继军称上半年储能电池产量超420GWh，防范内卷式竞争",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家援引中证金牛座报道官方会议发言，数据具体，来源可追溯，属权威信息转述"
-    },
-    {
-      "title": "小米准备 REDMI Book 16 2027 笔电，可选英特尔酷睿 5 处理器 320",
-      "link": "https://www.ithome.com/1/014/251.htm",
-      "pubDate": "Sat, 17 Oct 2026 02:56:48 GMT",
-      "contentSnippet": "IT之家 10 月 17 日消息，根据 Geekbench 基准测试数据库的记录，小米正在准备 REDMI Book 16 2027 笔记本电脑。该机型的参测示例均基于英特尔 \"Wildcat Lake\" 酷睿 5 处理器 320，配备 16GB DDR5-4800 内存。\n\nIT之家注意到，小米 REDMI Book 此前就出现在了英特尔今年早些时候公布的第 3 代酷睿处理器消费级与商用产品名单中。\n相关阅读：\n\n《小米 REDMI 首款耳夹式耳机 Clip Neo 珍珠白、零度黑亮相，K100 同场发布》\n\n《小米 REDMI K100 手机官宣本月见，号称“重塑旗舰新基线”》",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "小米REDMI Book 16 2027笔电现身Geekbench，搭载英特尔酷睿5 320处理器",
+      "aiSummary": "中国移动香港建成全港首个U6GHz网络，下载速率超3Gbps",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息源自Geekbench数据库记录，有具体型号与配置，但缺乏官方确认"
+      "credibilityReason": "IT之家为知名科技媒体，内容含频段、频谱拍卖、速率等具体数据，逻辑清晰，但缺少官方原始链接"
     },
     {
-      "title": "微软发布法律版 Copilot：律师的 AI 新同事，整合审查合同等超 20 项技能",
-      "link": "https://www.ithome.com/1/014/250.htm",
-      "pubDate": "Sat, 17 Oct 2026 02:55:12 GMT",
-      "contentSnippet": "IT之家 10 月 17 日消息，微软副董事长兼总裁布拉德 · 史密斯（Brad Smith）昨日（10 月 16 日）发布推文，宣布微软推出 Copilot for Legal，为全球商用客户提供超过 20 项面向法律工作的专用 AI Skills（技能）。\n这些专用 Skills 围绕着法律工作专门构建，以法律插件形式集成到 Copilot 中。每项技能都针对一个具体法律任务，例如起草合同、审查协议、追踪义务或整理案件时间线。IT之家附上相关截图如下：\n\n在官方博文中，微软表示 Microsoft 365 Copilot 已整合起草、审查合同，义务追踪、整理案例等 AI Skills 任务",
+      "title": "中奖者并非随机选出，马斯克就百万美元选民抽奖欺诈诉讼达成和解",
+      "link": "https://www.ithome.com/1/014/467.htm",
+      "pubDate": "Sun, 18 Oct 2026 02:53:29 GMT",
+      "contentSnippet": "IT之家 10 月 18 日消息，2024 年，埃隆・马斯克承诺每天向摇摆州一名随机抽选的登记选民发放 100 万美元（IT之家注：现汇率约合 670.3 万元人民币）奖金。该活动引发了多项法律争议，其合法性受到质疑，还有两名亚利桑那州居民提起诉讼，称这场抽奖属于欺诈。目前马斯克已同意和解这两起在得州奥斯汀立案的诉讼，不过和解协议的细节并未对外公开。\n\n原告方主张，马斯克在宣布这项抽奖活动时，谎称奖金会随机抽取。费城市地方检察官也曾提起诉讼，要求叫停该抽奖活动，指控马斯克在运营非法彩票。在一场听证会上，马斯克旗下“美国政治行动委员会（America PAC）”代表克里斯・戈贝尔（Chris G",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -203,50 +101,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "微软推出法律版Copilot，集成超20项法律专用AI技能",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息含具体产品名称、高管来源及功能细节，但缺少原始博文链接"
-    },
-    {
-      "title": "“台积电的获利能力没有上限”，魏哲家称 AI 需求持续升温、供需缺口仍大",
-      "link": "https://www.ithome.com/1/014/249.htm",
-      "pubDate": "Sat, 17 Oct 2026 02:42:06 GMT",
-      "contentSnippet": "IT之家 10 月 17 日消息，据台媒经济日报昨日报道，台积电董事长兼总裁魏哲家在 15 日举行的说法会上，高喊 AI 需求持续升温，供需缺口仍大，并表示台积电本季度美元营收继续创新高，全年美元营收同比增长约 44%。\n魏哲家强调，台积电全力以赴扩产，市场需求非常强劲且持续成长，“台积电的获利能力没有上限”，但也不会一蹴可几，台积电的理念和策略始终是与客户合作，希望帮助客户成功，然后才能实现自身价值。\n魏哲家表示，AI 应用正由聊天机器人走向 AI 助理，AI 智能体使用率增加，开源模型普及也有助提升效率、降低使用门槛，带动更多先进芯片需求。除了 AI 加速器，AI 中央处理器（CPU）与网",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "台积电魏哲家称AI需求升温供需缺口大，全年美元营收增约44%",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "IT之家转引台媒法说会内容，有具体营收数据，但属二手转述且标题略夸张"
-    },
-    {
-      "title": "为了查“公园哪个门人最多”，一批腾讯AI智能体，在高德上折腾了11天",
-      "link": "https://www.tmtpost.com/8171881.html",
-      "pubDate": "Sat, 17 Oct 2026 10:42:00 +0800",
-      "contentSnippet": "在智能体时代，谁的AI能调用更多真实世界的服务和信息，谁的入口就更有价值。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "腾讯AI智能体在高德地图测试11天，探索真实世界服务调用能力",
+      "aiSummary": "马斯克就百万美元选民抽奖欺诈诉讼达成和解，细节未公开",
       "credibilityScore": 75,
       "credibilityLevel": "medium",
-      "credibilityReason": "钛媒体为知名科技媒体，内容具体但缺乏技术细节和原始数据支撑，标题略显夸张"
+      "credibilityReason": "来源为知名科技媒体IT之家，事件具体有诉讼细节，但和解协议未公开，信息依赖原告主张"
     },
     {
-      "title": "古尔曼称苹果首款折叠 iPhone Duo 需求“空前”，首销线下恐难直接买下",
-      "link": "https://www.ithome.com/1/014/247.htm",
-      "pubDate": "Sat, 17 Oct 2026 02:38:06 GMT",
-      "contentSnippet": "IT之家 10 月 17 日消息，彭博社记者马克 · 古尔曼（Mark Gurman）今天（10 月 17 日）在 X 平台连续发文称，苹果明显是在供应量尚未充足的情况下“过早”推出首款折叠屏手机 iPhone Duo，目的可能是抢先将其推向市场。\n古尔曼特别指出在苹果的官方声明中，重点强调“线上”渠道将继续接受订单，却未明确说明实体店的现货供应，推测 iPhone Duo 发售后，顾客可以到线下 Apple Store 体验该产品，但恐怕很难在首发日直接线下买到新机。IT之家附上相关截图如下：\n\n他还预计，部分门店在首发当天的展示样机数量，甚至可能超过可供出售的库存数量。此前彭博社报道称，在",
+      "title": "创历史同期新高：今年前三季度全国铁路发送旅客 37.1 亿人次，同比增长 4.8%",
+      "link": "https://www.ithome.com/1/014/466.htm",
+      "pubDate": "Sun, 18 Oct 2026 02:44:22 GMT",
+      "contentSnippet": "IT之家 10 月 18 日消息，中国铁路今日宣布，今年前三季度，全国铁路累计发送旅客 37.1 亿人次、同比增长 4.8%，创历史同期新高。\n前三季度，全国铁路日均安排开行旅客列车 11511 列，同比增长 5.3%；全国铁路累计开行旅游列车 2860 列，同比增长 25.5%，其中旅游专列 1613 列、旅游专线列车 1247 列；全国铁路发送外籍旅客 1900.2 万人次、同比增长 33.4%。\n据IT之家此前报道，10 月 16 日，国铁集团启动全国铁路列车车次编排改革，将在 11 月下旬、12 月下旬分 2 批对现行列车车次的字头字母、数字号段编排进行全面优化调整。\n\n第一批列车车次",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -254,10 +118,146 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "古尔曼称苹果首款折叠屏iPhone Duo需求空前，线下首发恐难现货购买",
+      "aiSummary": "前三季度全国铁路发送旅客37.1亿人次，同比增长4.8%创同期新高",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家报道，引用中国铁路官方数据，含多项具体指标，来源明确，内容客观"
+    },
+    {
+      "title": "山灵流媒体解码前级耳放一体机 SM50 开售：ES9039Q2M DAC 芯片，首发 2598 元",
+      "link": "https://www.ithome.com/1/014/465.htm",
+      "pubDate": "Sun, 18 Oct 2026 02:37:54 GMT",
+      "contentSnippet": "IT之家 10 月 18 日消息，山灵流媒体解码前级耳放一体机 SM50 今日正式开售，零售价 2698 元，首发价 2598 元。\n\n该机是集网络串流、本地播放、蓝牙接收、USB DAC、数字解码、耳机放大及前级 / 线路输出于一体的全能一体机；搭载 ES9039Q2M DAC 芯片，配备 3.5mm 与 4.4mm 双耳机输出，其中 3.5mm 输出功率达 182mW @32Ω，4.4mm 平衡输出功率达 700mW @32Ω，并提供高、低两档增益选择。\n\n该机预留了丰富的输入输出接口：音源输入支持串流播放、蓝牙、本地及 NAS、 USB DAC；数字输出支持 USB 、同轴；模拟输出支持",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "山灵SM50流媒体解码耳放一体机开售，首发2598元，搭载ES9039Q2M芯片",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，产品参数具体（芯片型号、输出功率、接口），信息详实，但缺少原始出处引用"
+    },
+    {
+      "title": "DOOGEE Note60 W 系列手机亮相：6.38 英寸 90Hz 阔面屏设计，撞脸华为 Pura X View",
+      "link": "https://www.ithome.com/1/014/464.htm",
+      "pubDate": "Sun, 18 Oct 2026 02:34:47 GMT",
+      "contentSnippet": "IT之家 10 月 18 日消息，据 DOOGEE 公众号最新消息，其全新阔面屏手机 Note60 W 于第 140 届广交会正式首发。\n\n▲ DOOGEE Note60 W\n据介绍，DOOGEE Note60 W 系列手机采用 6.38 英寸 90Hz 阔面屏设计，打破传统屏幕比例；机身厚度约 8.4mm，内置 6500mAh 大容量电池；同时预装最新 Android 17 系统。\n值得一提的是，从官方公布的宣传海报来看，DOOGEE Note60 W 的外观与华为 Pura X View 极为相似，包括背部的相机模组造型、摄像头排布、条纹设计、品牌 LOGO 位置和机型壁纸。不过 DOOG",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "DOOGEE Note60 W阔面屏手机亮相广交会，外观撞脸华为Pura X View",
       "credibilityScore": 78,
-      "credibilityLevel": "medium-high",
-      "credibilityReason": "来源为IT之家转述彭博社古尔曼爆料，信源较可靠但属推测性报道，缺乏官方数据支撑"
+      "credibilityLevel": "medium",
+      "credibilityReason": "IT之家为知名科技媒体，信息含屏幕、电池等具体参数，但来源为厂商公众号，缺乏独立验证"
+    },
+    {
+      "title": "陈立武：美国政府不会干预英特尔经营，公司重组工作已完成 80%",
+      "link": "https://www.ithome.com/1/014/463.htm",
+      "pubDate": "Sun, 18 Oct 2026 02:32:50 GMT",
+      "contentSnippet": "IT之家 10 月 18 日消息，英特尔首席执行官陈立武（Lip-Bu Tan）在接受《日经新闻》专访时表示，美国总统唐纳德・特朗普的政府没有任何政策打算借助所持英特尔少数股权干预这家芯片厂商的经营战略。\n\n陈立武本月早些时候在东京称：“他们没有相关政策，对公司治理也不具备任何影响力。”他强调英特尔保持“独立”，有权基于自身最大利益自主决策。\n美国政府去年将此前划拨的联邦资助转为 89 亿美元（IT之家注：现汇率约合 596.56 亿元人民币）投资，由此获得英特尔 9.9% 股份；在 8 月的二次增发后，持股被稀释至约 8.2%。\n这家深陷困境的美国芯片企业正努力重建先进半导体制造领域的地位。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "英特尔CEO称美政府不会干预经营，公司重组已完成80%",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，引用日经新闻专访，含具体持股数据，信息可核查"
+    },
+    {
+      "title": "iQOO Neo12 手机官宣搭载旗舰 16 机型同款超感触控芯片，支持至高 5000Hz 瞬时触控采样率",
+      "link": "https://www.ithome.com/1/014/461.htm",
+      "pubDate": "Sun, 18 Oct 2026 02:24:08 GMT",
+      "contentSnippet": "IT之家 10 月 18 日消息，在 10 月 14 日的维信诺 × iQOO × 清华大学屏幕技术沟通会上，iQOO 产品副总裁罗峰现场宣布，iQOO Neo12“十月底见”（PPT 显示十月见）。\n\n维沃移动通信有限公司 iQOO Neo 产品经理罗佳慧发文介绍称，iQOO Neo12 将搭载 2K 185Hz 超冠屏、自研电竞芯片 Q3，行业首发 2K 185FPS 超分超帧并发，还适配超 50 款原生 185 帧游戏。\n罗佳慧透露，新机还搭载了 iQOO 16 同款 Q-flex 操控技术、同款超感触控芯片，支持至高 5000Hz 瞬时触控采样率以及至高 500Hz 多指触控采样率。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "iQOO Neo12官宣搭载iQOO 16同款超感触控芯片，支持5000Hz瞬时触控采样率",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息源自产品经理公开发文及技术沟通会，参数具体，但缺少官方规格页佐证"
+    },
+    {
+      "title": "零跑 A10s 上市：全新镜夜黑外观、505km 续航，9.28 万元",
+      "link": "https://www.ithome.com/1/014/460.htm",
+      "pubDate": "Sun, 18 Oct 2026 02:22:54 GMT",
+      "contentSnippet": "IT之家 10 月 18 日消息，零跑汽车今日宣布零跑 A10s 正式上市，上市指导价 9.28 万元。\n\nIT之家获悉，新车采用全新镜夜黑外观、专属摩登灰内饰，此外还包含以下专属内容：\n\n专属 18 英寸酷黑运动轮毂\n\n专属枪灰色零跑 LOGO、专属「s」红色尾标\n\n专属仿麂皮座椅、专属枪灰冷调座舱装饰\n\n专属红色缝线座椅、专属小零刺绣\n\n\n新车定位智能精品长续航 SUV，拥有 1.55 平方米全景天幕（99.9% 紫外线隔绝玻璃，带电动遮阳帘）、2.63 平方米超大软包（全球标准环保材料）；官方称新车得房率 88.1%，拥有 106L 可冲洗下沉储物舱。\n新车搭载激光雷达 + 车位到车位领",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "零跑A10s上市，售价9.28万元，续航505km，配激光雷达",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息具体含价格配置参数，但缺乏官方原始链接及第三方验证"
+    },
+    {
+      "title": "研究发现：全麻手术中佩戴降噪耳机可降低术后恶心呕吐概率",
+      "link": "https://www.ithome.com/1/014/459.htm",
+      "pubDate": "Sun, 18 Oct 2026 02:22:03 GMT",
+      "contentSnippet": "IT之家 10 月 18 日消息，据 Newscientist 报道，术后恶心呕吐十分常见，但在手术过程中佩戴降噪耳机有助于预防这类令人不适的副作用。这项简单的干预手段，也佐证了一个观点：即便我们失去对周围环境的主观感知，大脑依然会处理声音信号。\n\n休斯顿贝勒医学院的维吉・卡特洛维茨（Vigi Katlowitz）表示：“这些数据非常鼓舞人心，也和数十年来的研究结论相一致 —— 麻醉并不是简单的电源开关。”\n据IT之家了解，恶心呕吐是麻醉药常见的副作用。临床上一般会常规给药进行预防。来自中国苏州苏州大学附属第一医院的刘华跃及其团队，希望研究一种非药物方案，并在圣地亚哥举办的麻醉学年会上公布了研",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "研究称全麻手术中佩戴降噪耳机可降低术后恶心呕吐概率",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "转引New Scientist报道，有研究者和会议出处，但正文截断、缺数据细节，属二手编译"
+    },
+    {
+      "title": "荣耀 WIN 2 系列手机官宣搭载荣耀鸿燕通信，配备全新自研射频增强芯片 HONOR C3",
+      "link": "https://www.ithome.com/1/014/458.htm",
+      "pubDate": "Sun, 18 Oct 2026 02:15:08 GMT",
+      "contentSnippet": "IT之家 10 月 18 日消息，荣耀手机官方微博今日正持续预热 WIN 系列新机。据介绍，系列新机将搭载荣耀鸿燕通信，配备全新自研射频增强芯片 HONOR C3，可强化复杂网络环境通信性能。\n\n荣耀官方表示，在弱网、拥塞高压场景，新机游戏延时更低、卡顿更少，抢网更快一步；关键团战，连接始终在线，操作稳定跟手。\n据IT之家今日早些时候报道，系列新机还会搭载全新电竞 WIN 键，支持 3 档可调震动、3 档响应灵敏度，搭配 5 种响应光效与无极按键透明度；支持游戏内自由映射键位。海报显示，电竞 WIN 键仅荣耀 WIN2 手机支持。\n\n值得一提的是，维信诺此前还宣布，维信诺与荣耀全球首发 2K",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "荣耀WIN 2系列官宣搭载鸿燕通信及自研射频芯片HONOR C3",
+      "credibilityScore": 75,
+      "credibilityLevel": "medium",
+      "credibilityReason": "IT之家为知名科技媒体，信息源自官方预热，但多为宣传口径，缺乏第三方验证与具体技术参数"
+    },
+    {
+      "title": "“能装一个宇宙”：我国首个十万卡 AI 超集群真机亮相",
+      "link": "https://www.ithome.com/1/014/456.htm",
+      "pubDate": "Sun, 18 Oct 2026 02:06:43 GMT",
+      "contentSnippet": "IT之家 10 月 18 日消息，据央视新闻报道，正在深圳举行的 2026 全国高性能计算学术大会上，今年刚刚建成的我国首个全国产十万卡 AI 超集群真机亮相，并将发布十大重要应用成果。它的算力可以支撑在计算机里，创造一个数字孪生大脑，甚至是创造一个模拟百亿光年演化的宇宙。\n\n据介绍，十万卡，就是把十万张 AI 加速卡高速互联。这个算力基础设施最核心的突破，就在于它把人类的两种底层思维 —— 超算和智算，在同一套算力底座上用到了极致。\n\n但规模不是它最厉害的地方，曙光 8000 是明确走“超算和智算原生融合”路线的算力系统 —— 同一套底座上，既能跑最高精度的科学计算，也能跑大模型训练和推理。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "我国首个全国产十万卡AI超集群真机在深圳亮相，主打超算智算融合。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家转引央视新闻，有具体产品名和大会背景，但技术细节和原始数据较少。"
     }
   ]
 }

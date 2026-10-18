@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-17T03:40:52.728Z",
+  "generatedAt": "2026-10-18T03:47:19.339Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "（近观中国）考察乌兰察布，习近平关注算力背后的考量",
-      "link": "https://www.chinanews.com.cn/gn/2026/10-17/10716101.shtml",
-      "pubDate": "Sat, 17 Oct 2026 11:22:03 +0800",
-      "contentSnippet": "中新社北京10月17日电 题：考察乌兰察布，习近平关注算力背后的考量",
+      "title": "2026年“一带一路”记者组织论坛聚焦“交汇融通·向新向前·世界变局中的媒体变革”",
+      "link": "https://www.chinanews.com.cn/gn/2026/10-18/10716572.shtml",
+      "pubDate": "Sun, 18 Oct 2026 11:42:43 +0800",
+      "contentSnippet": "中新网南京10月18日电 (记者 徐珊珊 孙晨慧)2026年“一带一路”记者组织论坛17日在江苏南京举行。围绕“交汇融通·向新向前·世界变局中的媒体变革”主题，来自50余个国家和地区的近百位记者组织负责人和媒体代表进行深入研讨交流。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -16,33 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中新社报道习近平考察乌兰察布，关注算力发展背后的考量。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网（中新社），属权威通讯社；内容为时政报道，信息具体但正文摘要简短，缺少直接引述。"
-    },
-    {
-      "title": "第二届迪利曼对话会在菲律宾举办 探讨南海和平之路",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-17/10716086.shtml",
-      "pubDate": "Sat, 17 Oct 2026 10:05:13 +0800",
-      "contentSnippet": "中新网马尼拉10月17日电 第二届迪利曼对话会15日在菲律宾迪利曼学院菲律宾—中国研究中心举办，主题为“中国—东盟关系的东南亚声音：南海和平之路”。中国驻菲律宾大使井泉、迪利曼学院院长兼首席执行官科塞滕、菲律宾—中国研究中心主任罗梅尔·班劳伊、菲律宾—中国相互了解协会主席劳尔·兰比诺、菲前国家安全顾问克拉丽塔·卡洛斯等各界人士出席活动。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "第二届迪利曼对话会在菲律宾举办，探讨南海和平之路",
+      "aiSummary": "2026年一带一路记者组织论坛在南京举行，50余国媒体代表参会研讨。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "中新网为权威媒体，报道含具体时间地点人物，信息可查证，用词客观"
+      "credibilityReason": "中国新闻网为官方通讯社背景媒体，信息含时间地点人物数据，属官方活动报道，可交叉验证。"
     },
     {
-      "title": "2026中欧隐形冠军（宁德）ESG绿色产业合作对话活动举行",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-17/10716075.shtml",
-      "pubDate": "Sat, 17 Oct 2026 09:41:22 +0800",
-      "contentSnippet": "中新网宁德10月17日电 (记者 吕巧琴 叶茂)16日，2026中欧隐形冠军(宁德)ESG绿色产业合作对话活动在福建省宁德市举行，活动汇聚中欧80余名企业代表，就“循ESG绿色发展之源、筑中欧产业命运共同体”主题开展交流对接和产业考察。",
+      "title": "习言道丨一个社会幸福不幸福 很重要的是看老年人幸福不幸福",
+      "link": "http://www.chinanews.com.cn/gn/shipin/2026/10-18/news1072149.shtml",
+      "pubDate": "Sun, 18 Oct 2026 11:36:51 +0800",
+      "contentSnippet": "“一个社会幸福不幸福，很重要的是看老年人幸福不幸福。”今天是重阳节，一起重温习近平尊老敬老的暖心话。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -50,84 +33,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "2026中欧隐形冠军ESG绿色产业合作对话活动在福建宁德举行。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，属权威媒体；时间地点人物具体，有记者署名，用词客观。"
-    },
-    {
-      "title": "中外记者走进昆山 体验机器人6S店里的“中国智造”",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-17/10716080.shtml",
-      "pubDate": "Sat, 17 Oct 2026 09:36:32 +0800",
-      "contentSnippet": "中新网南京10月17日电(记者 梁晓辉 孙晨慧) 一千平方米，能装下什么？昆山一家机器人6S店给出的答案是：具备语音交互能力的AI猫形机器人、可参与格斗竞技的人形机器人，以及用于港口货轮藤壶清洗的水下机器人。近日，参加2026年“一带一路”记者组织论坛活动的中外记者走进江苏昆山，也顺手把“中国智造”装进行囊。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中外记者参访昆山机器人6S店，体验多款机器人产品。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，有署名记者，时间地点具体，内容客观，但属活动报道，细节有限。"
-    },
-    {
-      "title": "从三叠纪化石到明代屯堡，高原大地上的文明“石”书",
-      "link": "https://www.chinanews.com.cn/cul/2026/10-17/10716114.shtml",
-      "pubDate": "Sat, 17 Oct 2026 11:31:36 +0800",
-      "contentSnippet": "何以中国｜从三叠纪化石到明代屯堡，高原大地上的文明“石”书",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中新网报道贵州高原从三叠纪化石到明代屯堡的石文化遗存。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，属较权威媒体；内容涉及可查证的文化遗产，但正文信息简略。"
-    },
-    {
-      "title": "企步新长征｜手搓麻线到3D打印，陕北窑洞里走出的鞋厂迈入智能时代",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-17/10716110.shtml",
-      "pubDate": "Sat, 17 Oct 2026 11:26:40 +0800",
-      "contentSnippet": "中新网延安10月17日电(记者 宋宇晟 陈庆洋) 在陕西延安志丹县保安革命旧址，一排红砂石窑洞静静矗立。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中新网报道延安志丹县鞋厂从手工麻线发展到3D打印的智能化历程。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网（权威通讯社），有署名记者和具体地点，内容具体可查证，但正文摘要较短，细节有限。"
-    },
-    {
-      "title": "活力中国调研行｜广西职教“出海” 老挝兄弟求学",
-      "link": "https://www.chinanews.com.cn/edu/2026/10-17/10716113.shtml",
-      "pubDate": "Sat, 17 Oct 2026 11:23:01 +0800",
-      "contentSnippet": "视频：活力中国调研行｜广西职教“出海” 老挝兄弟求学来源：新华社",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "广西职业教育出海，老挝兄弟来华求学",
+      "aiSummary": "重阳节之际，中国新闻网重温习近平关于尊老敬老、老年人幸福感的讲话。",
       "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "中新网转载新华社视频报道，来源权威，主题具体可查证，属正面调研报道"
+      "credibilityReason": "来源为中国新闻网（权威媒体），内容为领导人公开讲话引述，事实可查证，用词客观。"
     },
     {
-      "title": "红星照耀中国｜世界读懂红军制胜之道",
-      "link": "https://www.chinanews.com.cn/gn/2026/10-17/10716112.shtml",
-      "pubDate": "Sat, 17 Oct 2026 11:19:05 +0800",
-      "contentSnippet": "视频：红星照耀中国丨世界读懂红军制胜之道来源：央视新闻客户端",
+      "title": "李强会见乌兹别克斯坦总统米尔济约耶夫",
+      "link": "https://www.chinanews.com.cn/gn/2026/10-18/10716552.shtml",
+      "pubDate": "Sun, 18 Oct 2026 11:13:48 +0800",
+      "contentSnippet": "中新社塔什干10月18日电 中国国务院总理李强10月17日在塔什干会见乌兹别克斯坦总统米尔济约耶夫。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -135,33 +50,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国新闻网报道央视视频，讲述世界读懂红军制胜之道。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网及央视，权威性较高，但内容为宣传性视频摘要，缺乏具体事实细节。"
-    },
-    {
-      "title": "“十五五”专项规划里的文化力量",
-      "link": "https://www.chinanews.com.cn/cul/2026/10-17/10716111.shtml",
-      "pubDate": "Sat, 17 Oct 2026 11:16:23 +0800",
-      "contentSnippet": "新华社北京10月15日电 题：新华社文化随笔：“十五五”专项规划里的文化力量",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "新华社文化随笔解读“十五五”专项规划中的文化力量。",
+      "aiSummary": "李强在塔什干会见乌兹别克斯坦总统米尔济约耶夫。",
       "credibilityScore": 92,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为新华社（一线通讯社），转载自中国新闻网，内容为官方政策解读，权威性高。"
+      "credibilityReason": "中新社为权威通讯社，电头明确，时间地点人物具体，内容可交叉验证。"
     },
     {
-      "title": "AI乌镇 科创桐乡｜1米88“大个子”！濮院街头有了“机器人交警”",
-      "link": "https://www.chinanews.com.cn/sh/2026/10-17/10716109.shtml",
-      "pubDate": "Sat, 17 Oct 2026 11:13:11 +0800",
-      "contentSnippet": "2026年世界互联网大会乌镇峰会日益临近，濮院时尚古镇作为第二分会场，将迎来大批嘉宾和游客。届时交通出行秩序如何保障？",
+      "title": "李强同乌兹别克斯坦总理阿里波夫会谈",
+      "link": "https://www.chinanews.com.cn/gn/2026/10-18/10716550.shtml",
+      "pubDate": "Sun, 18 Oct 2026 11:13:40 +0800",
+      "contentSnippet": "中新社塔什干10月18日电 中国国务院总理李强10月17日下午在塔什干同乌兹别克斯坦总理阿里波夫举行会谈。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -169,33 +67,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "桐乡濮院为世界互联网大会乌镇峰会部署1.88米机器人交警保障交通。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "中国新闻网为权威媒体，信息含具体时间地点人物，属峰会预热报道，可交叉验证。"
-    },
-    {
-      "title": "两部门联合发文 推动“电影+体育”跨界合作",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-17/10716105.shtml",
-      "pubDate": "Sat, 17 Oct 2026 11:05:32 +0800",
-      "contentSnippet": "近日，国家电影局、体育总局联合印发《关于开展“跟着电影去运动”行动 推动电影与体育双向赋能的通知》。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国家电影局与体育总局联合发文推动电影与体育跨界合作。",
+      "aiSummary": "李强在塔什干同乌兹别克斯坦总理阿里波夫举行会谈",
       "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，属较权威媒体；信息具体，含发文部门与文件名，事实可查证。"
+      "credibilityReason": "中新社官方通稿，时间地点人物具体，属权威时政报道"
     },
     {
-      "title": "鲁班工坊系列国家标准公布",
-      "link": "https://www.chinanews.com.cn/edu/2026/10-17/10716104.shtml",
-      "pubDate": "Sat, 17 Oct 2026 11:04:04 +0800",
-      "contentSnippet": "10月17日，由教育部提出的鲁班工坊建设通用要求、工程实践创新项目教学模式实施要求、教学装备通用要求和运行质量评估指南等4项国家标准，在2026年世界职业技术教育发展大会闭幕式上公布，自2027年4月1日起实施。",
+      "title": "（近观中国）从一湖水到一张网，读懂习近平乌兰察布之行",
+      "link": "https://www.chinanews.com.cn/gn/2026/10-18/10716549.shtml",
+      "pubDate": "Sun, 18 Oct 2026 11:12:05 +0800",
+      "contentSnippet": "中新社北京10月18日电 题：从一湖水到一张网，读懂习近平乌兰察布之行",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -203,33 +84,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "教育部提出的鲁班工坊4项国家标准在世界职教大会闭幕式公布，2027年4月起实施。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "中国新闻网为正规媒体，信息含具体时间、数量与实施日期，事实可查证，但缺直接引述。"
-    },
-    {
-      "title": "长江为什么叫长江？",
-      "link": "https://www.chinanews.com.cn/gn/2026/10-17/10716103.shtml",
-      "pubDate": "Sat, 17 Oct 2026 10:57:10 +0800",
-      "contentSnippet": "何以中国·当惊世界殊丨长江为什么叫长江？",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国新闻网科普栏目探讨长江名称由来，内容为地理文化知识。",
+      "aiSummary": "中新社报道习近平乌兰察布之行，聚焦湖水与网络议题。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为权威媒体中国新闻网，属知识科普类内容，事实可查证，无争议性。"
+      "credibilityReason": "来源为中新社，属权威通讯社，报道具体但摘要信息有限，需全文验证。"
     },
     {
-      "title": "以长征之名",
-      "link": "https://www.chinanews.com.cn/gn/2026/10-17/10716102.shtml",
-      "pubDate": "Sat, 17 Oct 2026 10:55:04 +0800",
-      "contentSnippet": "视频：以长征之名来源：新华社",
+      "title": "健康中国迈入“十五五” 这场大会释放多重新信号",
+      "link": "https://www.chinanews.com.cn/gn/2026/10-18/10716587.shtml",
+      "pubDate": "Sun, 18 Oct 2026 11:44:29 +0800",
+      "contentSnippet": "晶采观察丨健康中国迈入“十五五” 这场大会释放多重新信号",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -237,27 +101,163 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "新华社发布视频《以长征之名》，中国新闻网转载。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网转载新华社视频，权威性高，但信息量极少，无法进一步核实细节。"
-    },
-    {
-      "title": "乡村大集，走红更要长红（“三农”观察）",
-      "link": "https://www.chinanews.com.cn/cj/2026/10-17/10716100.shtml",
-      "pubDate": "Sat, 17 Oct 2026 10:49:20 +0800",
-      "contentSnippet": "数据来源：农业农村部等\r\n\n　　到乡村去赶集！",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国新闻网报道乡村大集走红现象，探讨其可持续发展。",
+      "aiSummary": "中国新闻网报道健康中国迈入“十五五”大会释放新信号",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，属较权威媒体；但正文摘要极简，仅提及数据来源，缺少具体细节和直接引述。"
+      "credibilityReason": "来源为权威媒体中国新闻网，但正文摘要过短，缺乏具体细节和直接引述，信息有限。"
+    },
+    {
+      "title": "马拉松“破2”第一人萨维在北京与中国跑者共话耕耘之道",
+      "link": "https://www.chinanews.com.cn/ty/2026/10-18/10716574.shtml",
+      "pubDate": "Sun, 18 Oct 2026 11:43:41 +0800",
+      "contentSnippet": "中新网北京10月18日电(记者 国璇) 2026北京马拉松在18日早上正式鸣枪起跑，31岁的肯尼亚运动员、马拉松“破2”第一人塞巴斯蒂安·萨维亲临北马赛道，为选手助威。近期，萨维开启首次中国行，他在北马前夕的交流活动中与中国跑者分享世界纪录背后的耕者精神，让长期坚持与创新突破的体育精神在中外文化交流中产生共鸣。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "马拉松“破2”第一人萨维现身2026北京马拉松，与中国跑者交流。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网，属权威媒体，信息具体（时间、人物、事件），用词客观，可交叉验证。"
+    },
+    {
+      "title": "回望长征 读懂跨越九十余载的信仰力量",
+      "link": "https://www.chinanews.com.cn/gn/2026/10-18/10716586.shtml",
+      "pubDate": "Sun, 18 Oct 2026 11:41:57 +0800",
+      "contentSnippet": "“伟大的远征——纪念中国工农红军长征胜利90周年”主题展览对外开展以来，社会各界观展热情高涨。跟随记者走进中国人民革命军事博物馆，重温这场震撼世界的伟大远征。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国新闻网报道长征胜利90周年主题展览在中国人民革命军事博物馆展出。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，属较权威媒体；信息具体，含展览名称、地点及时间，内容客观中性，可查证。"
+    },
+    {
+      "title": "九载“西马”：一条赛道，半部唐诗",
+      "link": "https://www.chinanews.com.cn/ty/2026/10-18/10716567.shtml",
+      "pubDate": "Sun, 18 Oct 2026 11:37:37 +0800",
+      "contentSnippet": "中新网西安10月18日电 (记者 张一辰)西安马拉松(以下简称：“西马”)18日清晨如期开跑，3.6万名跑者从永宁门南广场出发一路向北。赛道之上，不只有速度与耐力的角逐，更是一场串联古今、浸润诗韵的城市漫游。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "西安马拉松18日开跑，3.6万跑者从永宁门出发参与赛事。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网，属权威媒体，信息含时间地点人数等具体细节，表述客观。"
+    },
+    {
+      "title": "“新”中有你｜“红色的山口”擦亮绿色发展的底色",
+      "link": "https://www.chinanews.com.cn/cj/2026/10-18/10716585.shtml",
+      "pubDate": "Sun, 18 Oct 2026 11:37:11 +0800",
+      "contentSnippet": "今年五一假期，有网友发视频称，她到内蒙古乌兰察布乌兰哈达火山景区游玩时，发现不少游客身穿“宇航服”在火山前打卡拍照，由于人数太多，登上火山口的道路甚至排起了长队。近年来，不只是旅游业“火出圈”，乌兰察布的绿色经济也在蓬勃发展。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中新网报道乌兰察布火山旅游与绿色经济发展情况",
+      "credibilityScore": 78,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网较权威，内容具体含时间地点，但引述网友视频，细节待交叉验证"
+    },
+    {
+      "title": "多艘“违规”油轮起火 伊朗海军就穿越霍尔木兹海峡发警告",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-18/10716583.shtml",
+      "pubDate": "Sun, 18 Oct 2026 11:34:35 +0800",
+      "contentSnippet": "中新网10月18日电 据外媒报道，伊朗海军17日发布声明宣布，当天早些时候，持续监视与管控霍尔木兹海峡东部入口的海军监测小组发现，一艘“违规”油轮在阿曼湾、靠近海峡东部入口处起火并停航。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "伊朗海军称多艘违规油轮在霍尔木兹海峡附近起火并发出警告。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium-high",
+      "credibilityReason": "中新网转引外媒，来源较权威但缺原始出处与直接引述，细节有限。"
+    },
+    {
+      "title": "47台大科学装置相继投用 戈壁小镇如何成为世界级天文观测基地？",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-18/10716581.shtml",
+      "pubDate": "Sun, 18 Oct 2026 11:33:11 +0800",
+      "contentSnippet": "九十年前，红军将士跨越雪山草地，迎着朝阳前行，走出一条通往新中国的道路。九十年后，柴达木盆地的茫茫戈壁里，另一群“新长征者”接续出发，为中国天文事业开辟通往星辰大海的新征程。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中新网报道青海戈壁建成47台大科学装置，成为世界级天文观测基地。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，属权威媒体；内容具体，有装置数量与地点；但正文摘要偏宣传性，缺少直接引述。"
+    },
+    {
+      "title": "改革、谋策、存典协同推进 上海演艺全新启航",
+      "link": "https://www.chinanews.com.cn/sh/2026/10-18/10716563.shtml",
+      "pubDate": "Sun, 18 Oct 2026 11:32:27 +0800",
+      "contentSnippet": "中新网上海10月18日电 (记者 王笈)《上海戏剧振兴三年行动计划(2026—2028年)》发布暨上海演艺集团成立仪式17日在上海大歌剧院举办，活动同步推出《上海市级国有文艺院团经典保留作品集萃》，标志着上海演艺事业改革发展翻开崭新一页。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "上海发布戏剧振兴三年行动计划并成立上海演艺集团。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "中新网为权威媒体，有记者署名及具体时间地点，信息可查证，但属官方活动报道，独立验证有限。"
+    },
+    {
+      "title": "（长征胜利90周年）香港七旬老人郑镇炎重走长征路后：薪火相传，步履不停",
+      "link": "https://www.chinanews.com.cn/gn/2026/10-18/10716565.shtml",
+      "pubDate": "Sun, 18 Oct 2026 11:31:06 +0800",
+      "contentSnippet": "中新社香港10月18日电 题：香港七旬老人郑镇炎重走长征路后：薪火相传，步履不停",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "香港七旬老人郑镇炎重走长征路，称将薪火相传、步履不停。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新社（权威通讯社），有具体人物、时间、地点，属正面人物报道，事实可查证。"
+    },
+    {
+      "title": "鲁比奥：美政府无人下令降低乌克兰接入“星链”速度",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-18/10716534.shtml",
+      "pubDate": "Sun, 18 Oct 2026 11:29:52 +0800",
+      "contentSnippet": "中新网10月18日电 综合美媒当地时间17日报道，乌克兰总统泽连斯基表示，尽管本周早些时候有迹象显示“星链”服务已全面恢复，但乌克兰对“星链”的使用仍受到部分限制。对此，美国国务卿鲁比奥当地时间17日表示，美国政府没有任何人下令让“星链”减速。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "鲁比奥否认美政府下令降低乌克兰星链接入速度，回应泽连斯基称乌使用仍受限。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "中国新闻网为权威媒体，引述美媒报道及鲁比奥直接表态，时间地点人物具体，但未提供原始出处链接。"
     }
   ]
 }
