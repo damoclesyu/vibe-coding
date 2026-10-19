@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-18T03:48:30.288Z",
+  "generatedAt": "2026-10-19T03:57:42.408Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "韩国财政部长李炯日：半导体行业的繁荣势头至少将持续到 2027 年",
-      "link": "https://www.ithome.com/1/014/457.htm",
-      "pubDate": "Sun, 18 Oct 2026 02:06:55 GMT",
-      "contentSnippet": "IT之家 10 月 18 日消息，据 CNBC 于当地时间 10 月 17 日报道，韩国副总理兼财政经济部长李炯日（Lee Hyoung-Il）周六表示，半导体行业的繁荣势头至少将持续到 2027 年。\n\n目前，我们认为这种增长至少可以持续到明年。这是因为半导体的供需缺口仍然非常大，并且供应端仍在持续扩张。\n\nIT之家注意到，在李炯日发出上述言论之际，受投资者对美联储加息以及行业竞争加剧的担忧影响，在刚刚过去的交易周，半导体板块大幅下跌。包括三星、SK 海力士和首尔半导体在内的韩国芯片股遭到猛烈抛售。\n李炯日指出，芯片股加剧了今年韩国股市的波动。他将市场的剧烈震荡归因于韩国半导体产业在韩国经济",
+      "title": "研究人员开发 AI 系统：可通过 Wi‑Fi 信号识别隐藏手枪",
+      "link": "https://www.ithome.com/1/014/738.htm",
+      "pubDate": "Mon, 19 Oct 2026 03:32:53 GMT",
+      "contentSnippet": "IT之家 10 月 19 日消息，瑞典国防研究局（FOI）的一组 AI 研究人员开发出一套 AI 系统，能够利用 Wi‑Fi 信号识别隐藏的手枪，可以作为可见光摄像头、笨重金属探测器之外的非侵入式替代方案。相关论文于 10 月 13 日发布在 arXiv 平台，这套名为 WiFireNet 的系统，通过分析物体对环境 Wi‑Fi 信号造成扰动所产生的信道状态信息（CSI）完成识别。整套系统由 Wi‑Fi 发射端、接收端以及 WiFireNet 人工智能模型构成。\n\n普通 Wi‑Fi 信号在传播途中遇到物体时，会根据物体的形状、摆放角度与材质，发生穿透和反射，产生独有的信号特征。这类数据就是信道",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,16 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "韩国财政部长称半导体行业繁荣至少持续到2027年，供需缺口仍大。",
-      "credibilityScore": 82,
+      "aiSummary": "瑞典FOI开发WiFireNet系统，利用Wi-Fi信号识别隐藏手枪",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家转引CNBC，有明确人物、时间及市场背景，信息具体但属二手编译。"
+      "credibilityReason": "来源为IT之家，引用arXiv论文及瑞典国防研究局，技术细节具体，逻辑清晰"
     },
     {
-      "title": "今起实施：60 岁及以上老人购买 10 月 18 日至 12 月 30 日标注“敬”字火车票享“折上折”",
-      "link": "https://www.ithome.com/1/014/442.htm",
-      "pubDate": "Sun, 18 Oct 2026 00:52:49 GMT",
-      "contentSnippet": "IT之家 10 月 18 日消息，据中国铁路官方消息，继今年 5 至 6 月实行老年人淡季周中购票优惠措施后，国铁集团进一步优化这一惠民举措，年满 60 周岁及以上老年人购买 2026 年 10 月 18 日（含）至 12 月 30 日（含）标注“敬”字车次的火车票将享受“折上折”票价优惠，进一步扩大优惠时间范围，不再限定周中时段，相关优惠车票将于 10 月 4 日起陆续发售。\n\n据介绍，年满 60 周岁及以上且使用中华人民共和国居民身份证、港澳居民居住证、台湾居民居住证、港澳居民来往内地通行证、台湾居民来往大陆通行证、外国人永久居留身份证、临时身份证明及居民户口簿购票的老年人，线上或线下购买",
+      "title": "今年前三季度国内生产总值同比增长 4.6%，工业机器人产量同比增长 29.1%",
+      "link": "https://www.ithome.com/1/014/685.htm",
+      "pubDate": "Mon, 19 Oct 2026 02:15:16 GMT",
+      "contentSnippet": "IT之家 10 月 19 日消息，据央视新闻报道，国务院新闻办今日召开新闻发布会，国家统计局公布了今年前三季度经济数据。\n前三季度，我国国民经济顶住压力保持平稳运行，呈现动能向新、结构向优的发展态势，生产供给较快增长，对外贸易增势良好，就业物价总体稳定，民生保障有力有效，发展韧性和活力持续彰显。初步核算，前三季度国内生产总值 1,071,071 亿元，按不变价格计算，同比增长 4.6%。\n分产业看：\n\n第一产业增加值 58,994 亿元，同比增长 3.7%；\n\n第二产业增加值 383,822 亿元，同比增长 3.8%；\n\n第三产业增加值 628,255 亿元，同比增长 5.2%。\n\n分季度看，",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -33,16 +33,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国铁对60岁以上老人购买标注'敬'字火车票实施折上折优惠",
-      "credibilityScore": 78,
+      "aiSummary": "国家统计局公布前三季度GDP同比增长4.6%，工业机器人产量增29.1%",
+      "credibilityScore": 92,
+      "credibilityLevel": "high",
+      "credibilityReason": "引用央视新闻及国家统计局官方数据，来源权威，数据详实具体，无夸大表述"
+    },
+    {
+      "title": "谷歌的芯片不容小视",
+      "link": "https://www.tmtpost.com/8172978.html",
+      "pubDate": "Mon, 19 Oct 2026 11:51:00 +0800",
+      "contentSnippet": "谷歌造芯的故事，要从2015年说起。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体回顾谷歌自2015年起的造芯历程，强调其芯片实力不容忽视。",
+      "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为IT之家，引述中国铁路官方消息，信息具体含时间范围与证件类型，但属政策类报道，技术性有限"
+      "credibilityReason": "知名科技媒体，主题具体但摘要信息简略，缺少数据与原始出处支撑。"
     },
     {
-      "title": "李未可 X-AI 记忆眼镜预售：能持续录音 12 小时、支持 128 种语言实时翻译，699 元起",
-      "link": "https://www.ithome.com/1/014/477.htm",
-      "pubDate": "Sun, 18 Oct 2026 03:43:07 GMT",
-      "contentSnippet": "IT之家 10 月 18 日消息，李未可 Lawaken X-AI 记忆眼镜现已预售，预售到手价 699 元起：\n\n枪色经典圈丝框：699 元\n\n深灰板材圆框：899 元\n\n渐变灰板材方框：899 元\n\n亮银飞行员圈丝框：899 元\n\n灰银纯钛眉毛架：1099 元\n\n黑金钛架眉毛架：1099 元\n\n\n这款 AI 记忆眼镜主打全场景 AI 记录，覆盖高频会议、灵感碎片、商务拜访、多线程项目管理、微信 / 电话沟通等多种高频场景；机身重量 26 克（不含镜片及模组），提供多种框型可选，支持快拆设计，可更换镜框适配不同穿搭场景。\n\n这款眼镜支持自动抓取待办、关键结论与优先级划分，用户可通过语音提问一",
+      "title": "腾讯 WorkBuddy 教育公益版上线：全国教师每人每月可领 2000 积分，能连续领 1 年",
+      "link": "https://www.ithome.com/1/014/752.htm",
+      "pubDate": "Mon, 19 Oct 2026 03:49:22 GMT",
+      "contentSnippet": "IT之家 10 月 19 日消息，腾讯 SSV（可持续社会价值事业部）今日宣布，WorkBuddy 教育公益版正式上线，面向全国教师开放。\n开通账号后，全国老师每人每月可领 2000 积分，能连续领 12 个月。不挑地区，不限学段。\n据介绍，腾讯 SSV 与 WorkBuddy 团队制作了专门给老师用的 AI 教学助理，联合北京大学、北京师范大学等高校，把教学设计、课件设计、公开课打磨、分层教学、家校沟通、学生心理这些教育研究，拆成老师能直接调用的 100 多位教育专家（陆续上线中）。\n\n▲ 在【专家 · 技能 · 连接器】中选择【专家】可查看\n此外，WorkBuddy 还上线了创意教学、剧本",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -50,16 +67,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "李未可X-AI记忆眼镜预售699元起，支持12小时录音和128种语言实时翻译。",
-      "credibilityScore": 82,
+      "aiSummary": "腾讯WorkBuddy教育公益版上线，全国教师每月可领2000积分连领12个月",
+      "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，产品参数和价格信息具体，但缺少官方原始出处引用。"
+      "credibilityReason": "IT之家为知名科技媒体，信息具体含积分规则与合作高校，但缺官方链接及产品细节验证"
     },
     {
-      "title": "太空水稻再繁育！神二十三乘组完成新一批样品采集播种",
-      "link": "https://www.ithome.com/1/014/475.htm",
-      "pubDate": "Sun, 18 Oct 2026 03:38:20 GMT",
-      "contentSnippet": "IT之家 10 月 18 日消息，据央视新闻报道，上周，神舟二十三号乘组朱杨柱、张志远、黎家盈三位航天员在空间科学实（试）验、在轨研究测试等方面都有新收获。\n\n在空间科学实（试）验方面，“空间水稻多代遗传稳定性与环境适应性调控的分子机理研究”项目进展顺利。航天员已完成新一批水稻实验样品采集、播种及存储工作。采集的样品待后续随返回舱下行，由科学家进行表型和分子层面的综合分析，解析长期空间微重力对水稻遗传稳定性的作用机制。\n据IT之家了解，2022 年，神舟十四号航天员在空间站种下 6 粒地面选育的水稻种子，经过 120 天从发芽到成熟的全部过程，共收获了 59 粒第一代“太空水稻”种子。今年 5",
+      "title": "“Manus效应”的辐射：科技竞争的前沿，正在移向生物医药",
+      "link": "https://www.tmtpost.com/8172947.html",
+      "pubDate": "Mon, 19 Oct 2026 11:46:00 +0800",
+      "contentSnippet": "对产业的三点启示。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体分析Manus效应对生物医药科技竞争格局的三点产业启示",
+      "credibilityScore": 62,
+      "credibilityLevel": "medium",
+      "credibilityReason": "知名科技媒体但正文仅摘要、缺数据与原始出处，技术细节不足"
+    },
+    {
+      "title": "斯巴鲁公布软件定义汽车计划：开发周期缩短约 40%，与 AMD 联合开发集成 ECU",
+      "link": "https://www.ithome.com/1/014/750.htm",
+      "pubDate": "Mon, 19 Oct 2026 03:44:29 GMT",
+      "contentSnippet": "IT之家 10 月 19 日消息，据路透社报道，斯巴鲁于当地时间上周日公布了一项计划，将在本十年后半段推出软件定义汽车（SDV），并把整车开发周期缩短约 40%，以此加快新车型投放速度。\n\n这家日本车企在位于东京北部佐野市的研发中心举办了战略说明会，表示会在全系车型逐步搭载全新自研的集成电子控制单元（ECU）。\n斯巴鲁称，计划借助数字仿真完成原型开发，并行开展设计、测试与生产准备工作，从而压缩开发时长。\n该公司表示，目标是让旗下软件定义汽车支持 OTA 远程升级，覆盖驾驶辅助、自动驾驶以及整车性能相关功能。\n斯巴鲁介绍，这套集成 ECU 的核心芯片，由其与美国芯片厂商 AMD 联合开发。\n斯巴",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -67,16 +101,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "神舟二十三号乘组完成新一批太空水稻样品采集与播种，推进多代遗传稳定性研究。",
-      "credibilityScore": 82,
+      "aiSummary": "斯巴鲁公布软件定义汽车计划，开发周期缩短40%，与AMD联合开发集成ECU",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家转引央视新闻，信息具体含项目名称、航天员姓名及实验细节，但正文摘要不完整。"
+      "credibilityReason": "IT之家引述路透社报道，信息具体含数据与合作伙伴，来源可靠，但正文略截断"
     },
     {
-      "title": "中国移动香港建成全港首个 U6GHz 网络，可实现 3Gbps 以上的下载速率",
-      "link": "https://www.ithome.com/1/014/468.htm",
-      "pubDate": "Sun, 18 Oct 2026 03:20:10 GMT",
-      "contentSnippet": "IT之家 10 月 18 日消息，中国移动香港有限公司昨日宣布，建成全港首个 U6GHz 网络，并于旺角旗舰店完成网络测试及验证，推进 Upper 6GHz 频段在移动网络中的应用探索。\n\nU6GHz 即 Upper 6GHz 频段，可提供连续大带宽，是支持 5G-A 及未来 6G 演进的重要频谱资源。中国香港于 2024 年 11 月 29 日完成 6／7GHz 频谱拍卖，成为全球首个拍卖该频段供公共移动服务使用的地区。\n据介绍，中国移动香港成功竞投 100MHz 连续频谱，并适度超前部署，推进网络能力验证与终端适配，为未来 6G 商用积累经验。\n新增 U6GHz 频谱可与现有频段协同使用，",
+      "title": "电影《八仙！》提名第 39 届中国电影金鸡奖最佳动画片，累计票房已破 20 亿",
+      "link": "https://www.ithome.com/1/014/749.htm",
+      "pubDate": "Mon, 19 Oct 2026 03:44:18 GMT",
+      "contentSnippet": "IT之家 10 月 19 日消息，国产动画电影《八仙！》今日官宣影片提名了第 39 届中国电影金鸡奖最佳动画片。\n\nIT之家查询获悉，目前本片累计票房已破 20 亿，位列中国影史国产动画电影票房第三（仅次于两部《哪吒之魔童》系列电影）。\n\n\nIT之家小伙伴记得用最会买购买电影票，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -84,33 +118,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国移动香港建成全港首个U6GHz网络，下载速率超3Gbps",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容含频段、频谱拍卖、速率等具体数据，逻辑清晰，但缺少官方原始链接"
-    },
-    {
-      "title": "中奖者并非随机选出，马斯克就百万美元选民抽奖欺诈诉讼达成和解",
-      "link": "https://www.ithome.com/1/014/467.htm",
-      "pubDate": "Sun, 18 Oct 2026 02:53:29 GMT",
-      "contentSnippet": "IT之家 10 月 18 日消息，2024 年，埃隆・马斯克承诺每天向摇摆州一名随机抽选的登记选民发放 100 万美元（IT之家注：现汇率约合 670.3 万元人民币）奖金。该活动引发了多项法律争议，其合法性受到质疑，还有两名亚利桑那州居民提起诉讼，称这场抽奖属于欺诈。目前马斯克已同意和解这两起在得州奥斯汀立案的诉讼，不过和解协议的细节并未对外公开。\n\n原告方主张，马斯克在宣布这项抽奖活动时，谎称奖金会随机抽取。费城市地方检察官也曾提起诉讼，要求叫停该抽奖活动，指控马斯克在运营非法彩票。在一场听证会上，马斯克旗下“美国政治行动委员会（America PAC）”代表克里斯・戈贝尔（Chris G",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "马斯克就百万美元选民抽奖欺诈诉讼达成和解，细节未公开",
+      "aiSummary": "国产动画《八仙！》获金鸡奖最佳动画片提名，累计票房破20亿",
       "credibilityScore": 75,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体IT之家，事件具体有诉讼细节，但和解协议未公开，信息依赖原告主张"
+      "credibilityReason": "来源为知名科技媒体IT之家，票房与提名信息具体，但含购票推广内容，且缺少官方出处链接"
     },
     {
-      "title": "创历史同期新高：今年前三季度全国铁路发送旅客 37.1 亿人次，同比增长 4.8%",
-      "link": "https://www.ithome.com/1/014/466.htm",
-      "pubDate": "Sun, 18 Oct 2026 02:44:22 GMT",
-      "contentSnippet": "IT之家 10 月 18 日消息，中国铁路今日宣布，今年前三季度，全国铁路累计发送旅客 37.1 亿人次、同比增长 4.8%，创历史同期新高。\n前三季度，全国铁路日均安排开行旅客列车 11511 列，同比增长 5.3%；全国铁路累计开行旅游列车 2860 列，同比增长 25.5%，其中旅游专列 1613 列、旅游专线列车 1247 列；全国铁路发送外籍旅客 1900.2 万人次、同比增长 33.4%。\n据IT之家此前报道，10 月 16 日，国铁集团启动全国铁路列车车次编排改革，将在 11 月下旬、12 月下旬分 2 批对现行列车车次的字头字母、数字号段编排进行全面优化调整。\n\n第一批列车车次",
+      "title": "ID-COOLING 机箱 FLOW 500 预售：M-ATX 兼容，到手 269~389 元",
+      "link": "https://www.ithome.com/1/014/748.htm",
+      "pubDate": "Mon, 19 Oct 2026 03:41:56 GMT",
+      "contentSnippet": "IT之家 10 月 19 日消息，ID-COOLING（酷凛）现已启动机箱新品 FLOW 500 的预售。该产品包括 4 个款式，到手价在 269~389 元区间。\n\nFLOW 500 是一款 5 扩展槽的电源前置结构 M-ATX 侧透机箱，采用免工具拆卸设计，三维 435×242×350 (mm)，体积近 37L。其兼容 403mm 扩展卡、200mm ATX 电源、180mm 处理器散热器，提供 1 个 3.5\" / 2.5\" 盘位、1 个 2.5\" 盘位。\n\n该机箱拥有 9 个风扇位，上下均设有防尘网。其中前方支持 2 颗 120mm 风扇，上下方各支持 3 颗 120mm 风扇，后方支",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -118,135 +135,50 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "前三季度全国铁路发送旅客37.1亿人次，同比增长4.8%创同期新高",
+      "aiSummary": "ID-COOLING FLOW 500 M-ATX机箱开启预售，269元起",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家报道，引用中国铁路官方数据，含多项具体指标，来源明确，内容客观"
+      "credibilityReason": "IT之家为知名科技媒体，产品参数具体详实，价格与规格信息明确，属常规新品报道"
     },
     {
-      "title": "山灵流媒体解码前级耳放一体机 SM50 开售：ES9039Q2M DAC 芯片，首发 2598 元",
-      "link": "https://www.ithome.com/1/014/465.htm",
-      "pubDate": "Sun, 18 Oct 2026 02:37:54 GMT",
-      "contentSnippet": "IT之家 10 月 18 日消息，山灵流媒体解码前级耳放一体机 SM50 今日正式开售，零售价 2698 元，首发价 2598 元。\n\n该机是集网络串流、本地播放、蓝牙接收、USB DAC、数字解码、耳机放大及前级 / 线路输出于一体的全能一体机；搭载 ES9039Q2M DAC 芯片，配备 3.5mm 与 4.4mm 双耳机输出，其中 3.5mm 输出功率达 182mW @32Ω，4.4mm 平衡输出功率达 700mW @32Ω，并提供高、低两档增益选择。\n\n该机预留了丰富的输入输出接口：音源输入支持串流播放、蓝牙、本地及 NAS、 USB DAC；数字输出支持 USB 、同轴；模拟输出支持",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "一条黄鳝撑起百亿盘子，仙桃凭什么坐稳“中国鳝都”？",
+      "link": "https://www.tmtpost.com/8172896.html",
+      "pubDate": "Mon, 19 Oct 2026 11:41:14 +0800",
+      "contentSnippet": "仙桃用三十年证明，沉下心把一条鱼做深做透，普通水塘，也能孕育百亿产业。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
       "allSources": [
-        "IT之家"
+        "钛媒体"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "山灵SM50流媒体解码耳放一体机开售，首发2598元，搭载ES9039Q2M芯片",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，产品参数具体（芯片型号、输出功率、接口），信息详实，但缺少原始出处引用"
-    },
-    {
-      "title": "DOOGEE Note60 W 系列手机亮相：6.38 英寸 90Hz 阔面屏设计，撞脸华为 Pura X View",
-      "link": "https://www.ithome.com/1/014/464.htm",
-      "pubDate": "Sun, 18 Oct 2026 02:34:47 GMT",
-      "contentSnippet": "IT之家 10 月 18 日消息，据 DOOGEE 公众号最新消息，其全新阔面屏手机 Note60 W 于第 140 届广交会正式首发。\n\n▲ DOOGEE Note60 W\n据介绍，DOOGEE Note60 W 系列手机采用 6.38 英寸 90Hz 阔面屏设计，打破传统屏幕比例；机身厚度约 8.4mm，内置 6500mAh 大容量电池；同时预装最新 Android 17 系统。\n值得一提的是，从官方公布的宣传海报来看，DOOGEE Note60 W 的外观与华为 Pura X View 极为相似，包括背部的相机模组造型、摄像头排布、条纹设计、品牌 LOGO 位置和机型壁纸。不过 DOOG",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "DOOGEE Note60 W阔面屏手机亮相广交会，外观撞脸华为Pura X View",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "IT之家为知名科技媒体，信息含屏幕、电池等具体参数，但来源为厂商公众号，缺乏独立验证"
-    },
-    {
-      "title": "陈立武：美国政府不会干预英特尔经营，公司重组工作已完成 80%",
-      "link": "https://www.ithome.com/1/014/463.htm",
-      "pubDate": "Sun, 18 Oct 2026 02:32:50 GMT",
-      "contentSnippet": "IT之家 10 月 18 日消息，英特尔首席执行官陈立武（Lip-Bu Tan）在接受《日经新闻》专访时表示，美国总统唐纳德・特朗普的政府没有任何政策打算借助所持英特尔少数股权干预这家芯片厂商的经营战略。\n\n陈立武本月早些时候在东京称：“他们没有相关政策，对公司治理也不具备任何影响力。”他强调英特尔保持“独立”，有权基于自身最大利益自主决策。\n美国政府去年将此前划拨的联邦资助转为 89 亿美元（IT之家注：现汇率约合 596.56 亿元人民币）投资，由此获得英特尔 9.9% 股份；在 8 月的二次增发后，持股被稀释至约 8.2%。\n这家深陷困境的美国芯片企业正努力重建先进半导体制造领域的地位。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "英特尔CEO称美政府不会干预经营，公司重组已完成80%",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引用日经新闻专访，含具体持股数据，信息可核查"
-    },
-    {
-      "title": "iQOO Neo12 手机官宣搭载旗舰 16 机型同款超感触控芯片，支持至高 5000Hz 瞬时触控采样率",
-      "link": "https://www.ithome.com/1/014/461.htm",
-      "pubDate": "Sun, 18 Oct 2026 02:24:08 GMT",
-      "contentSnippet": "IT之家 10 月 18 日消息，在 10 月 14 日的维信诺 × iQOO × 清华大学屏幕技术沟通会上，iQOO 产品副总裁罗峰现场宣布，iQOO Neo12“十月底见”（PPT 显示十月见）。\n\n维沃移动通信有限公司 iQOO Neo 产品经理罗佳慧发文介绍称，iQOO Neo12 将搭载 2K 185Hz 超冠屏、自研电竞芯片 Q3，行业首发 2K 185FPS 超分超帧并发，还适配超 50 款原生 185 帧游戏。\n罗佳慧透露，新机还搭载了 iQOO 16 同款 Q-flex 操控技术、同款超感触控芯片，支持至高 5000Hz 瞬时触控采样率以及至高 500Hz 多指触控采样率。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "iQOO Neo12官宣搭载iQOO 16同款超感触控芯片，支持5000Hz瞬时触控采样率",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息源自产品经理公开发文及技术沟通会，参数具体，但缺少官方规格页佐证"
-    },
-    {
-      "title": "零跑 A10s 上市：全新镜夜黑外观、505km 续航，9.28 万元",
-      "link": "https://www.ithome.com/1/014/460.htm",
-      "pubDate": "Sun, 18 Oct 2026 02:22:54 GMT",
-      "contentSnippet": "IT之家 10 月 18 日消息，零跑汽车今日宣布零跑 A10s 正式上市，上市指导价 9.28 万元。\n\nIT之家获悉，新车采用全新镜夜黑外观、专属摩登灰内饰，此外还包含以下专属内容：\n\n专属 18 英寸酷黑运动轮毂\n\n专属枪灰色零跑 LOGO、专属「s」红色尾标\n\n专属仿麂皮座椅、专属枪灰冷调座舱装饰\n\n专属红色缝线座椅、专属小零刺绣\n\n\n新车定位智能精品长续航 SUV，拥有 1.55 平方米全景天幕（99.9% 紫外线隔绝玻璃，带电动遮阳帘）、2.63 平方米超大软包（全球标准环保材料）；官方称新车得房率 88.1%，拥有 106L 可冲洗下沉储物舱。\n新车搭载激光雷达 + 车位到车位领",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "零跑A10s上市，售价9.28万元，续航505km，配激光雷达",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体含价格配置参数，但缺乏官方原始链接及第三方验证"
-    },
-    {
-      "title": "研究发现：全麻手术中佩戴降噪耳机可降低术后恶心呕吐概率",
-      "link": "https://www.ithome.com/1/014/459.htm",
-      "pubDate": "Sun, 18 Oct 2026 02:22:03 GMT",
-      "contentSnippet": "IT之家 10 月 18 日消息，据 Newscientist 报道，术后恶心呕吐十分常见，但在手术过程中佩戴降噪耳机有助于预防这类令人不适的副作用。这项简单的干预手段，也佐证了一个观点：即便我们失去对周围环境的主观感知，大脑依然会处理声音信号。\n\n休斯顿贝勒医学院的维吉・卡特洛维茨（Vigi Katlowitz）表示：“这些数据非常鼓舞人心，也和数十年来的研究结论相一致 —— 麻醉并不是简单的电源开关。”\n据IT之家了解，恶心呕吐是麻醉药常见的副作用。临床上一般会常规给药进行预防。来自中国苏州苏州大学附属第一医院的刘华跃及其团队，希望研究一种非药物方案，并在圣地亚哥举办的麻醉学年会上公布了研",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "研究称全麻手术中佩戴降噪耳机可降低术后恶心呕吐概率",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "转引New Scientist报道，有研究者和会议出处，但正文截断、缺数据细节，属二手编译"
-    },
-    {
-      "title": "荣耀 WIN 2 系列手机官宣搭载荣耀鸿燕通信，配备全新自研射频增强芯片 HONOR C3",
-      "link": "https://www.ithome.com/1/014/458.htm",
-      "pubDate": "Sun, 18 Oct 2026 02:15:08 GMT",
-      "contentSnippet": "IT之家 10 月 18 日消息，荣耀手机官方微博今日正持续预热 WIN 系列新机。据介绍，系列新机将搭载荣耀鸿燕通信，配备全新自研射频增强芯片 HONOR C3，可强化复杂网络环境通信性能。\n\n荣耀官方表示，在弱网、拥塞高压场景，新机游戏延时更低、卡顿更少，抢网更快一步；关键团战，连接始终在线，操作稳定跟手。\n据IT之家今日早些时候报道，系列新机还会搭载全新电竞 WIN 键，支持 3 档可调震动、3 档响应灵敏度，搭配 5 种响应光效与无极按键透明度；支持游戏内自由映射键位。海报显示，电竞 WIN 键仅荣耀 WIN2 手机支持。\n\n值得一提的是，维信诺此前还宣布，维信诺与荣耀全球首发 2K",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "荣耀WIN 2系列官宣搭载鸿燕通信及自研射频芯片HONOR C3",
+      "aiSummary": "钛媒体报道仙桃依托黄鳝养殖三十年打造百亿产业，坐稳中国鳝都",
       "credibilityScore": 75,
-      "credibilityLevel": "medium",
-      "credibilityReason": "IT之家为知名科技媒体，信息源自官方预热，但多为宣传口径，缺乏第三方验证与具体技术参数"
+      "credibilityLevel": "high",
+      "credibilityReason": "知名科技媒体钛媒体出品，主题具体有产业数据支撑，但摘要较简略缺原始出处"
     },
     {
-      "title": "“能装一个宇宙”：我国首个十万卡 AI 超集群真机亮相",
-      "link": "https://www.ithome.com/1/014/456.htm",
-      "pubDate": "Sun, 18 Oct 2026 02:06:43 GMT",
-      "contentSnippet": "IT之家 10 月 18 日消息，据央视新闻报道，正在深圳举行的 2026 全国高性能计算学术大会上，今年刚刚建成的我国首个全国产十万卡 AI 超集群真机亮相，并将发布十大重要应用成果。它的算力可以支撑在计算机里，创造一个数字孪生大脑，甚至是创造一个模拟百亿光年演化的宇宙。\n\n据介绍，十万卡，就是把十万张 AI 加速卡高速互联。这个算力基础设施最核心的突破，就在于它把人类的两种底层思维 —— 超算和智算，在同一套算力底座上用到了极致。\n\n但规模不是它最厉害的地方，曙光 8000 是明确走“超算和智算原生融合”路线的算力系统 —— 同一套底座上，既能跑最高精度的科学计算，也能跑大模型训练和推理。",
+      "title": "什么是乌兰察布？",
+      "link": "https://www.tmtpost.com/8172931.html",
+      "pubDate": "Mon, 19 Oct 2026 11:41:10 +0800",
+      "contentSnippet": "草原小城成了中国AI的心脏，这一轮技术革命，正让更多中国人上桌。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体解读乌兰察布从草原小城转型为中国AI算力心脏的产业变迁。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "知名科技媒体，选题具体，但摘要偏叙事化，缺少数据与原始出处支撑。"
+    },
+    {
+      "title": "快狗打车拟 1 元出售中国内地业务，并更名“GOGO 科技”",
+      "link": "https://www.ithome.com/1/014/747.htm",
+      "pubDate": "Mon, 19 Oct 2026 03:39:45 GMT",
+      "contentSnippet": "IT之家 10 月 19 日消息，快狗打车控股有限公司 10 月 16 日发布公告，宣布拟以人民币 1.00 元出售全资附属公司 GGEx Holdings Limited 全部已发行股本，并建议将公司中文名称由“快狗打车控股有限公司”更改为“GOGO 科技”。\n出售完成后，集团将不再以“快狗打车”品牌在中国内地经营任何业务，业务将转为专注香港及其他海外市场，并以“GOGOX”品牌经营。\n\n快狗打车公告称，董事会注意到，目标集团主要经营的中国市场，从战略规划的角度而言，已不再属于本集团的核心地域重点。尽管目标集团维持其运营能力，但其业务范围及地域覆盖范围并不完全符合本集团当前的优先事项。因此，",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -254,10 +186,78 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "我国首个全国产十万卡AI超集群真机在深圳亮相，主打超算智算融合。",
-      "credibilityScore": 82,
+      "aiSummary": "快狗打车拟1元出售中国内地业务，更名GOGO科技",
+      "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家转引央视新闻，有具体产品名和大会背景，但技术细节和原始数据较少。"
+      "credibilityReason": "IT之家为知名科技媒体，报道引用公司公告，信息具体有出处，逻辑清晰"
+    },
+    {
+      "title": "新江湖演义——当AI代理参战，竞争变成什么？",
+      "link": "https://www.tmtpost.com/8172977.html",
+      "pubDate": "Mon, 19 Oct 2026 11:36:57 +0800",
+      "contentSnippet": "当AI代理替各方争取利益，个体效率的提升，可能抬高共同的竞争成本。本文从定价、筛选与资源争夺出发，讨论“局部忠诚悖论”：为什么每个AI都听话，参与竞争的门槛却可能越来越高？",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体探讨AI代理竞争中的局部忠诚悖论与效率成本问题",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "知名科技媒体，选题专业有深度，但偏观点分析缺数据支撑"
+    },
+    {
+      "title": "直营物流，走到拼交付的时刻",
+      "link": "https://www.tmtpost.com/8172935.html",
+      "pubDate": "Mon, 19 Oct 2026 11:36:50 +0800",
+      "contentSnippet": "京东收购德邦，顺丰入股极兔。当物流业走出低价内卷的时代，直营物流巨头也在尽可能抓住机遇，为未来战略做准备。当价格稳定，交付能力尤为关键。完善服务板块、探索海外市场，这是直营物流的重要看点。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "京东收购德邦、顺丰入股极兔，直营物流转向交付能力竞争",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体钛媒体，内容涉及具体行业事件，但摘要较简略，缺少数据与原始出处支撑"
+    },
+    {
+      "title": "豆包刘星回应“国内超一半算力在造爽剧”：字节总算力中，只有约 10% 用于视频生成模型的训练和推理",
+      "link": "https://www.ithome.com/1/014/729.htm",
+      "pubDate": "Mon, 19 Oct 2026 03:30:25 GMT",
+      "contentSnippet": "IT之家 10 月 19 日消息，近日，“国内超一半算力在造爽剧”的话题引发关注。\nIT之家注意到，据中文在线在一份“投资者关系活动记录表”中披露，国内 AI Token 消耗 55% 烧在短剧和视频生成，24% 烧在电商广告，真正用于研发的只有 15%。AI 短剧与视频生成的 Token 消耗量已达到软件开发的两倍以上，成为整个 Token 经济学中第一大核心消耗场景。\n豆包公关负责人刘星今日发文表示，这个算力数据有些不靠谱，就字节来说，我们公司的总算力中，只有约 10%，用于视频生成模型的训练和推理。\n\n相关阅读：\n\n《AI 短剧爆火：制作成本仅为真人剧 1/10，平均每 36 秒诞生 1",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "豆包回应称字节总算力仅约10%用于视频生成模型",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "IT之家为知名科技媒体，引述双方原始表态，但数据来源为公关回应，缺乏第三方验证"
+    },
+    {
+      "title": "Pulsar 推出 eS Xlite 趴握鼠标：VAXEE 参与研发，1199 元",
+      "link": "https://www.ithome.com/1/014/728.htm",
+      "pubDate": "Mon, 19 Oct 2026 03:21:28 GMT",
+      "contentSnippet": "IT之家 10 月 19 日消息，韩国外设品牌 Pulsar 现已发售 eS Xlite 鼠标。这一型号由 Pulsar 与 VAXEE 联合开发，采用面向趴握的腰身收窄、中高拱背右手人体工学模具，售价 1,199 元人民币。\n\neS Xlite 三维 123.5 × 66.3 × 42.1 (mm)，起始质量 51±2g。其基于原相 PAR2863FJ 主控、XS-2 光学传感器 (42K DPI)，配备 100M 光学微动开关、TTC 金轮编码器，集成 500mAh 电池。\n\n该鼠标支持 8kHz 回报率，具备 20000fps 高帧率 Turbo 模式；500Hz 回报率下续航可达 16",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "Pulsar与VAXEE联合推出eS Xlite趴握鼠标，售价1199元",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，产品参数具体详实，含尺寸、重量、传感器型号等细节"
     }
   ]
 }
