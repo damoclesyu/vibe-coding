@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-19T03:57:42.408Z",
+  "generatedAt": "2026-10-20T04:10:33.420Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "研究人员开发 AI 系统：可通过 Wi‑Fi 信号识别隐藏手枪",
-      "link": "https://www.ithome.com/1/014/738.htm",
-      "pubDate": "Mon, 19 Oct 2026 03:32:53 GMT",
-      "contentSnippet": "IT之家 10 月 19 日消息，瑞典国防研究局（FOI）的一组 AI 研究人员开发出一套 AI 系统，能够利用 Wi‑Fi 信号识别隐藏的手枪，可以作为可见光摄像头、笨重金属探测器之外的非侵入式替代方案。相关论文于 10 月 13 日发布在 arXiv 平台，这套名为 WiFireNet 的系统，通过分析物体对环境 Wi‑Fi 信号造成扰动所产生的信道状态信息（CSI）完成识别。整套系统由 Wi‑Fi 发射端、接收端以及 WiFireNet 人工智能模型构成。\n\n普通 Wi‑Fi 信号在传播途中遇到物体时，会根据物体的形状、摆放角度与材质，发生穿透和反射，产生独有的信号特征。这类数据就是信道",
+      "title": "英伟达黄仁勋：AI 发展不能急刹车，但必须装“安全带”",
+      "link": "https://www.ithome.com/1/015/127.htm",
+      "pubDate": "Tue, 20 Oct 2026 02:00:38 GMT",
+      "contentSnippet": "IT之家 10 月 20 日消息，科技媒体 Android Headline 昨日（10 月 19 日）发布博文，报道称英伟达首席执行官黄仁勋在伦敦表示，反对以“急刹车”或严厉监管来限制 AI 发展，应该建立“安全带”，通过更智能的安全标准、监测机制和事故防范措施约束。\n黄仁勋将 AI 比作电网、供水系统等关键基础设施，反对简单禁止或施加繁重监管方案，主张建立聪明的安全标准。他透露，自己经常与 AI 研究人员交流风险监控和安全协议问题，并提出英国可作为中美等各方开展 AI 安全对话的中立平台。英伟达还承诺在五年内向英国 AI 安全研究投入 2.5 亿美元（IT之家注：现汇率约合 16.73 亿",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,16 +16,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "瑞典FOI开发WiFireNet系统，利用Wi-Fi信号识别隐藏手枪",
+      "aiSummary": "黄仁勋反对急刹车式监管AI，主张建安全标准并投英国AI安全研究",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家转引科技媒体，含具体言论、金额与出处，内容具体但为二手编译"
+    },
+    {
+      "title": "打破“唯论文”标尺，5 个专业推行用实践成果申请硕博学位",
+      "link": "https://www.ithome.com/1/015/093.htm",
+      "pubDate": "Tue, 20 Oct 2026 00:59:18 GMT",
+      "contentSnippet": "IT之家 10 月 20 日消息，据中央广播电视总台中国之声今日报道，部分专业学位研究生申请学位，将不再“唯论文”。\n国务院学位委员会办公室近日印发《关于做好专业学位研究生以实践成果申请学位工作的意见》，在前期工程硕博士用实践成果申请学位基础上，推动翻译、农业、临床医学、会计、艺术 5 个专业学位类别试点先行。\n今年毕业季，多所高校扩大了实践成果申请专业学位的试点，部分硕博研究生不用撰写传统学位论文，而是凭实践成果顺利获得学位。\n\n图源：Pexels\n2024 年 4 月《中华人民共和国学位法》颁布，首次从法律层面明确研究生可以“通过学位论文答辩或者规定的实践成果答辩申请学位”，对改革学位授予",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国务院学位办推动5个专业学位类别试点以实践成果申请学位，打破唯论文标准",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家，引用arXiv论文及瑞典国防研究局，技术细节具体，逻辑清晰"
+      "credibilityReason": "来源为IT之家转引央广报道，引述国务院学位委员会正式文件及学位法，信息具体有据"
     },
     {
-      "title": "今年前三季度国内生产总值同比增长 4.6%，工业机器人产量同比增长 29.1%",
-      "link": "https://www.ithome.com/1/014/685.htm",
-      "pubDate": "Mon, 19 Oct 2026 02:15:16 GMT",
-      "contentSnippet": "IT之家 10 月 19 日消息，据央视新闻报道，国务院新闻办今日召开新闻发布会，国家统计局公布了今年前三季度经济数据。\n前三季度，我国国民经济顶住压力保持平稳运行，呈现动能向新、结构向优的发展态势，生产供给较快增长，对外贸易增势良好，就业物价总体稳定，民生保障有力有效，发展韧性和活力持续彰显。初步核算，前三季度国内生产总值 1,071,071 亿元，按不变价格计算，同比增长 4.6%。\n分产业看：\n\n第一产业增加值 58,994 亿元，同比增长 3.7%；\n\n第二产业增加值 383,822 亿元，同比增长 3.8%；\n\n第三产业增加值 628,255 亿元，同比增长 5.2%。\n\n分季度看，",
+      "title": "八位堂 XBOX 无线手柄专属充电底座新增经典黑 / 白款，套装 169 元",
+      "link": "https://www.ithome.com/1/015/240.htm",
+      "pubDate": "Tue, 20 Oct 2026 04:05:50 GMT",
+      "contentSnippet": "IT之家 10 月 20 日消息，八位堂 (8BitDo) 今日宣布推出 XBOX 无线手柄专属充电底座 (Ultimate Charging Dock for XBOX Controllers) 的经典黑 / 白款，两个版本的套装到手价均为 169 元。\n\n八位堂 XBOX 无线手柄专属充电底座获得 XBOX 官方授权，兼容 XBOX Series X|S 及 XBOX One 无线手柄，针对 XBOX 手柄的尺寸、结构、充电方式进行专属设计。\n其采用无线充电方案，从源头避免触点氧化；搭载半固态锂电池，集成全套安全防护结构与被动式风道散热系统；配备带灯光调节的 LED 充电指示灯。\n\n天猫八",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -33,16 +50,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国家统计局公布前三季度GDP同比增长4.6%，工业机器人产量增29.1%",
-      "credibilityScore": 92,
+      "aiSummary": "八位堂推出XBOX手柄充电底座经典黑白款，套装169元",
+      "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "引用央视新闻及国家统计局官方数据，来源权威，数据详实具体，无夸大表述"
+      "credibilityReason": "IT之家为知名科技媒体，产品信息具体含价格、兼容性及技术细节，来源明确"
     },
     {
-      "title": "谷歌的芯片不容小视",
-      "link": "https://www.tmtpost.com/8172978.html",
-      "pubDate": "Mon, 19 Oct 2026 11:51:00 +0800",
-      "contentSnippet": "谷歌造芯的故事，要从2015年说起。",
+      "title": "奇瑞犀牛 S 固态电池中试线 2027 年投入使用，400Wh/kg 能量密度",
+      "link": "https://www.ithome.com/1/015/230.htm",
+      "pubDate": "Tue, 20 Oct 2026 04:00:21 GMT",
+      "contentSnippet": "IT之家 10 月 20 日现场消息，在今日上午的 2026 奇瑞全球创新大会上，奇瑞公布了旗下犀牛电池的进展和未来规划。\n\n奇瑞犀牛 S 固态电池可实现 400Wh/kg 能量密度，支持 -40~100℃ 宽温域，通过 200℃ 热箱测试。\n\nIT之家在大会现场会获悉，在攻克材料界面问题的同时，奇瑞目前正在集中资源攻克电池包系统以及 DMS 管理系统。官方坦言固态电池从实验室到大规模的商业化，的确还有很长的路要走，但奇瑞坚定地走好每一步。\n奇瑞宣布犀牛 S 固态电池中试线将于 2027 年投入使用。\n\n奇瑞还公布了全球首台商业化 E-Fuel 发电产品 —— 氢燃料 SOFC（单体固体氧化物",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "奇瑞发布犀牛S固态电池，400Wh/kg，中试线2027年投用",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家现场报道，有具体技术参数和官方规划，但中试线时间较远，信息源自厂商发布"
+    },
+    {
+      "title": "字节Seed大重组：吴永辉的“大兵团”作战，与出走的联合创始人",
+      "link": "https://www.tmtpost.com/8173652.html",
+      "pubDate": "Tue, 20 Oct 2026 11:59:37 +0800",
+      "contentSnippet": "字节Seed完成架构调整，推进大模型研发工业化",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -50,33 +84,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体回顾谷歌自2015年起的造芯历程，强调其芯片实力不容忽视。",
+      "aiSummary": "字节Seed完成架构调整，推进大模型研发工业化",
       "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体，主题具体但摘要信息简略，缺少数据与原始出处支撑。"
+      "credibilityReason": "钛媒体为知名科技媒体，但正文仅摘要，缺少具体数据与原始出处，细节不足"
     },
     {
-      "title": "腾讯 WorkBuddy 教育公益版上线：全国教师每人每月可领 2000 积分，能连续领 1 年",
-      "link": "https://www.ithome.com/1/014/752.htm",
-      "pubDate": "Mon, 19 Oct 2026 03:49:22 GMT",
-      "contentSnippet": "IT之家 10 月 19 日消息，腾讯 SSV（可持续社会价值事业部）今日宣布，WorkBuddy 教育公益版正式上线，面向全国教师开放。\n开通账号后，全国老师每人每月可领 2000 积分，能连续领 12 个月。不挑地区，不限学段。\n据介绍，腾讯 SSV 与 WorkBuddy 团队制作了专门给老师用的 AI 教学助理，联合北京大学、北京师范大学等高校，把教学设计、课件设计、公开课打磨、分层教学、家校沟通、学生心理这些教育研究，拆成老师能直接调用的 100 多位教育专家（陆续上线中）。\n\n▲ 在【专家 · 技能 · 连接器】中选择【专家】可查看\n此外，WorkBuddy 还上线了创意教学、剧本",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "腾讯WorkBuddy教育公益版上线，全国教师每月可领2000积分连领12个月",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体含积分规则与合作高校，但缺官方链接及产品细节验证"
-    },
-    {
-      "title": "“Manus效应”的辐射：科技竞争的前沿，正在移向生物医药",
-      "link": "https://www.tmtpost.com/8172947.html",
-      "pubDate": "Mon, 19 Oct 2026 11:46:00 +0800",
-      "contentSnippet": "对产业的三点启示。",
+      "title": "DeepSeek学霸的降维打击：没刷榜，在工位打游戏，模型能力却控制不住地涨",
+      "link": "https://www.tmtpost.com/8173268.html",
+      "pubDate": "Tue, 20 Oct 2026 11:59:35 +0800",
+      "contentSnippet": "DeepSeek极客玩梗凡尔赛，折射中国大模型智力竞争",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -84,67 +101,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体分析Manus效应对生物医药科技竞争格局的三点产业启示",
-      "credibilityScore": 62,
-      "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体但正文仅摘要、缺数据与原始出处，技术细节不足"
+      "aiSummary": "钛媒体称DeepSeek团队未刷榜，模型能力却持续提升",
+      "credibilityScore": 45,
+      "credibilityLevel": "low",
+      "credibilityReason": "标题党风格明显，正文仅摘要无实质技术细节和数据支撑，缺乏原始出处"
     },
     {
-      "title": "斯巴鲁公布软件定义汽车计划：开发周期缩短约 40%，与 AMD 联合开发集成 ECU",
-      "link": "https://www.ithome.com/1/014/750.htm",
-      "pubDate": "Mon, 19 Oct 2026 03:44:29 GMT",
-      "contentSnippet": "IT之家 10 月 19 日消息，据路透社报道，斯巴鲁于当地时间上周日公布了一项计划，将在本十年后半段推出软件定义汽车（SDV），并把整车开发周期缩短约 40%，以此加快新车型投放速度。\n\n这家日本车企在位于东京北部佐野市的研发中心举办了战略说明会，表示会在全系车型逐步搭载全新自研的集成电子控制单元（ECU）。\n斯巴鲁称，计划借助数字仿真完成原型开发，并行开展设计、测试与生产准备工作，从而压缩开发时长。\n该公司表示，目标是让旗下软件定义汽车支持 OTA 远程升级，覆盖驾驶辅助、自动驾驶以及整车性能相关功能。\n斯巴鲁介绍，这套集成 ECU 的核心芯片，由其与美国芯片厂商 AMD 联合开发。\n斯巴",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "斯巴鲁公布软件定义汽车计划，开发周期缩短40%，与AMD联合开发集成ECU",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家引述路透社报道，信息具体含数据与合作伙伴，来源可靠，但正文略截断"
-    },
-    {
-      "title": "电影《八仙！》提名第 39 届中国电影金鸡奖最佳动画片，累计票房已破 20 亿",
-      "link": "https://www.ithome.com/1/014/749.htm",
-      "pubDate": "Mon, 19 Oct 2026 03:44:18 GMT",
-      "contentSnippet": "IT之家 10 月 19 日消息，国产动画电影《八仙！》今日官宣影片提名了第 39 届中国电影金鸡奖最佳动画片。\n\nIT之家查询获悉，目前本片累计票房已破 20 亿，位列中国影史国产动画电影票房第三（仅次于两部《哪吒之魔童》系列电影）。\n\n\nIT之家小伙伴记得用最会买购买电影票，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国产动画《八仙！》获金鸡奖最佳动画片提名，累计票房破20亿",
-      "credibilityScore": 75,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体IT之家，票房与提名信息具体，但含购票推广内容，且缺少官方出处链接"
-    },
-    {
-      "title": "ID-COOLING 机箱 FLOW 500 预售：M-ATX 兼容，到手 269~389 元",
-      "link": "https://www.ithome.com/1/014/748.htm",
-      "pubDate": "Mon, 19 Oct 2026 03:41:56 GMT",
-      "contentSnippet": "IT之家 10 月 19 日消息，ID-COOLING（酷凛）现已启动机箱新品 FLOW 500 的预售。该产品包括 4 个款式，到手价在 269~389 元区间。\n\nFLOW 500 是一款 5 扩展槽的电源前置结构 M-ATX 侧透机箱，采用免工具拆卸设计，三维 435×242×350 (mm)，体积近 37L。其兼容 403mm 扩展卡、200mm ATX 电源、180mm 处理器散热器，提供 1 个 3.5\" / 2.5\" 盘位、1 个 2.5\" 盘位。\n\n该机箱拥有 9 个风扇位，上下均设有防尘网。其中前方支持 2 颗 120mm 风扇，上下方各支持 3 颗 120mm 风扇，后方支",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "ID-COOLING FLOW 500 M-ATX机箱开启预售，269元起",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，产品参数具体详实，价格与规格信息明确，属常规新品报道"
-    },
-    {
-      "title": "一条黄鳝撑起百亿盘子，仙桃凭什么坐稳“中国鳝都”？",
-      "link": "https://www.tmtpost.com/8172896.html",
-      "pubDate": "Mon, 19 Oct 2026 11:41:14 +0800",
-      "contentSnippet": "仙桃用三十年证明，沉下心把一条鱼做深做透，普通水塘，也能孕育百亿产业。",
+      "title": "宠物经济，未老先衰",
+      "link": "https://www.tmtpost.com/8174121.html",
+      "pubDate": "Tue, 20 Oct 2026 11:59:34 +0800",
+      "contentSnippet": "宠物存量时代、宠物老龄化悄然降临",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -152,50 +118,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体报道仙桃依托黄鳝养殖三十年打造百亿产业，坐稳中国鳝都",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "知名科技媒体钛媒体出品，主题具体有产业数据支撑，但摘要较简略缺原始出处"
-    },
-    {
-      "title": "什么是乌兰察布？",
-      "link": "https://www.tmtpost.com/8172931.html",
-      "pubDate": "Mon, 19 Oct 2026 11:41:10 +0800",
-      "contentSnippet": "草原小城成了中国AI的心脏，这一轮技术革命，正让更多中国人上桌。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体解读乌兰察布从草原小城转型为中国AI算力心脏的产业变迁。",
+      "aiSummary": "钛媒体分析宠物经济进入存量时代，宠物老龄化趋势显现",
       "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体，选题具体，但摘要偏叙事化，缺少数据与原始出处支撑。"
+      "credibilityReason": "知名科技媒体，主题具体但摘要信息简略，缺少数据支撑和原始出处"
     },
     {
-      "title": "快狗打车拟 1 元出售中国内地业务，并更名“GOGO 科技”",
-      "link": "https://www.ithome.com/1/014/747.htm",
-      "pubDate": "Mon, 19 Oct 2026 03:39:45 GMT",
-      "contentSnippet": "IT之家 10 月 19 日消息，快狗打车控股有限公司 10 月 16 日发布公告，宣布拟以人民币 1.00 元出售全资附属公司 GGEx Holdings Limited 全部已发行股本，并建议将公司中文名称由“快狗打车控股有限公司”更改为“GOGO 科技”。\n出售完成后，集团将不再以“快狗打车”品牌在中国内地经营任何业务，业务将转为专注香港及其他海外市场，并以“GOGOX”品牌经营。\n\n快狗打车公告称，董事会注意到，目标集团主要经营的中国市场，从战略规划的角度而言，已不再属于本集团的核心地域重点。尽管目标集团维持其运营能力，但其业务范围及地域覆盖范围并不完全符合本集团当前的优先事项。因此，",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "快狗打车拟1元出售中国内地业务，更名GOGO科技",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道引用公司公告，信息具体有出处，逻辑清晰"
-    },
-    {
-      "title": "新江湖演义——当AI代理参战，竞争变成什么？",
-      "link": "https://www.tmtpost.com/8172977.html",
-      "pubDate": "Mon, 19 Oct 2026 11:36:57 +0800",
-      "contentSnippet": "当AI代理替各方争取利益，个体效率的提升，可能抬高共同的竞争成本。本文从定价、筛选与资源争夺出发，讨论“局部忠诚悖论”：为什么每个AI都听话，参与竞争的门槛却可能越来越高？",
+      "title": "“金九银十”泡汤，猪价还在等一个答案",
+      "link": "https://www.tmtpost.com/8174108.html",
+      "pubDate": "Tue, 20 Oct 2026 11:59:32 +0800",
+      "contentSnippet": "旺季也救不了猪价？",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -203,33 +135,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体探讨AI代理竞争中的局部忠诚悖论与效率成本问题",
-      "credibilityScore": 75,
+      "aiSummary": "钛媒体分析猪价旺季不旺现象，探讨市场走势",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "知名科技媒体，但内容简略缺少数据细节，且非科技领域报道"
+    },
+    {
+      "title": "达尔优 COOL75 磁轴键盘上市：钻石灯箱 + 音量触控条，499 元起",
+      "link": "https://www.ithome.com/1/015/229.htm",
+      "pubDate": "Tue, 20 Oct 2026 03:59:06 GMT",
+      "contentSnippet": "IT之家 10 月 20 日消息，达尔优（Dareu）现已开始销售磁轴键盘新品 COOL75。这一型号采用 75% 配列，两侧设有钻石氛围灯箱，顶部则是调节音量大小的云控条，售价 499 元起。\n\nCOOL75 拥有拉丝铝合金上盖，内部为 FR4 定位板、4 层填充等组成的 Gasket 结构。其支持 8kHz 回报率 USB-C 有线连接，按键延迟 0.1ms、Rapid Trigger 精度 0.01mm。\n\n该键盘提供樱花粉 / 金属银 / 量子蜂巢黑 3 种版本，具体情况如下：\n\n\n樱花粉金属银量子蜂巢黑\n外壳工艺电泳阳极氧化\n轴体冰刃磁轴鲁班磁轴\n键帽透光碳纹粉 · 侧刻银色金属漆",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "达尔优COOL75磁轴键盘上市，499元起，配钻石灯箱和音量触控条",
+      "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "知名科技媒体，选题专业有深度，但偏观点分析缺数据支撑"
+      "credibilityReason": "IT之家为知名科技媒体，产品参数具体（8kHz回报率、0.1ms延迟、0.01mm精度），信息详实但缺少官方原始出处链接"
     },
     {
-      "title": "直营物流，走到拼交付的时刻",
-      "link": "https://www.tmtpost.com/8172935.html",
-      "pubDate": "Mon, 19 Oct 2026 11:36:50 +0800",
-      "contentSnippet": "京东收购德邦，顺丰入股极兔。当物流业走出低价内卷的时代，直营物流巨头也在尽可能抓住机遇，为未来战略做准备。当价格稳定，交付能力尤为关键。完善服务板块、探索海外市场，这是直营物流的重要看点。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "京东收购德邦、顺丰入股极兔，直营物流转向交付能力竞争",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，内容涉及具体行业事件，但摘要较简略，缺少数据与原始出处支撑"
-    },
-    {
-      "title": "豆包刘星回应“国内超一半算力在造爽剧”：字节总算力中，只有约 10% 用于视频生成模型的训练和推理",
-      "link": "https://www.ithome.com/1/014/729.htm",
-      "pubDate": "Mon, 19 Oct 2026 03:30:25 GMT",
-      "contentSnippet": "IT之家 10 月 19 日消息，近日，“国内超一半算力在造爽剧”的话题引发关注。\nIT之家注意到，据中文在线在一份“投资者关系活动记录表”中披露，国内 AI Token 消耗 55% 烧在短剧和视频生成，24% 烧在电商广告，真正用于研发的只有 15%。AI 短剧与视频生成的 Token 消耗量已达到软件开发的两倍以上，成为整个 Token 经济学中第一大核心消耗场景。\n豆包公关负责人刘星今日发文表示，这个算力数据有些不靠谱，就字节来说，我们公司的总算力中，只有约 10%，用于视频生成模型的训练和推理。\n\n相关阅读：\n\n《AI 短剧爆火：制作成本仅为真人剧 1/10，平均每 36 秒诞生 1",
+      "title": "英伟达 Vera CPU 获 AI 初创公司 Modal 订单，杀入英特尔、AMD 主场",
+      "link": "https://www.ithome.com/1/015/228.htm",
+      "pubDate": "Tue, 20 Oct 2026 03:50:40 GMT",
+      "contentSnippet": "IT之家 10 月 20 日消息，据路透社报道，英伟达拿下又一家高速成长 AI 初创企业的中央处理器订单。在此之前，这家企业完全依赖英特尔与 AMD 的芯片。这是一个早期信号，说明英伟达进军这个长期由两大对手把持市场的战略已经初见成效。\n\n云算力初创公司 Modal 面向 AI 开发者提供算力租赁服务。该公司表示，计划首次采用英伟达全新 Vera 中央处理器来托管智能体（AI agents），也就是能够替人类执行长周期任务的 AI 系统。在此之前，Modal 这类业务仅在英特尔和 AMD 芯片上运行。\nModal 上周完成了由 Accel 领投的 7.5 亿美元（IT之家注：现汇率约合 50.",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -237,27 +169,95 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "豆包回应称字节总算力仅约10%用于视频生成模型",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "IT之家为知名科技媒体，引述双方原始表态，但数据来源为公关回应，缺乏第三方验证"
-    },
-    {
-      "title": "Pulsar 推出 eS Xlite 趴握鼠标：VAXEE 参与研发，1199 元",
-      "link": "https://www.ithome.com/1/014/728.htm",
-      "pubDate": "Mon, 19 Oct 2026 03:21:28 GMT",
-      "contentSnippet": "IT之家 10 月 19 日消息，韩国外设品牌 Pulsar 现已发售 eS Xlite 鼠标。这一型号由 Pulsar 与 VAXEE 联合开发，采用面向趴握的腰身收窄、中高拱背右手人体工学模具，售价 1,199 元人民币。\n\neS Xlite 三维 123.5 × 66.3 × 42.1 (mm)，起始质量 51±2g。其基于原相 PAR2863FJ 主控、XS-2 光学传感器 (42K DPI)，配备 100M 光学微动开关、TTC 金轮编码器，集成 500mAh 电池。\n\n该鼠标支持 8kHz 回报率，具备 20000fps 高帧率 Turbo 模式；500Hz 回报率下续航可达 16",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "Pulsar与VAXEE联合推出eS Xlite趴握鼠标，售价1199元",
+      "aiSummary": "英伟达Vera CPU获AI初创Modal订单，进军英特尔AMD主导的CPU市场",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，产品参数具体详实，含尺寸、重量、传感器型号等细节"
+      "credibilityReason": "IT之家引述路透社报道，信息具体含企业名称、产品及融资数据，来源可靠"
+    },
+    {
+      "title": "奇瑞全新一代 AI 座舱产品“超能小奇”亮相：超懂你、超能干、超安心",
+      "link": "https://www.ithome.com/1/015/226.htm",
+      "pubDate": "Tue, 20 Oct 2026 03:48:11 GMT",
+      "contentSnippet": "IT之家 10 月 20 日现场消息，在今日上午的 2026 奇瑞全球创新大会上，奇瑞公布了在汽车座舱方面的进展。\n\n奇瑞灵犀智舱迎来升级，带来全新一代 AI 座舱产品“超能小奇”，宣称拥有超懂你、超能干、超安心三个核心能力。\n奇瑞在今年 1 月发布了灵犀智舱，带来车机智能助手“小奇同学”。\nIT之家在大会现场了解到，“超能小奇”迎来智能化升级，拥有自主理解力、自主记忆力、自主共情力，支持全域协同，广泛链接生态，在隐私方面也迎来进化。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "奇瑞发布全新AI座舱产品“超能小奇”，宣称具备自主理解、记忆与共情能力。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体IT之家，有现场消息和产品细节，但内容以厂商宣传口径为主，缺乏具体技术参数和第三方验证。"
+    },
+    {
+      "title": "吉利汽车与曹操出行等联合打造，中国首款原生开发 Robotaxi 首台工程样车下线",
+      "link": "https://www.ithome.com/1/015/225.htm",
+      "pubDate": "Tue, 20 Oct 2026 03:41:09 GMT",
+      "contentSnippet": "IT之家 10 月 20 日消息，曹操出行今日宣布，近日，曹操出行与吉利汽车等合作伙伴联合打造的中国首款原生开发 Robotaxi 首台工程样车正式下线，标志着项目正式进入量产级方案实车验证阶段。\n\n据介绍，该车型从产品开发之初即围绕 Robotaxi 无人化运营需求进行整车设计和工程开发，在整车架构、座舱体验、运营履约、安全保障以及全生命周期运营等方面进行系统性考量。按照规划，EvaCab 曹操出行定制版将于 2027 年量产。\nIT之家注意到，吉利控股集团安聪慧 9 月接受采访时曾表示，曹操出行将全面采用换电模式，正在开发的 Robotaxi 车型也将采用换电模式，该产品很快将会落地。\n今",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "曹操出行与吉利联合打造的中国首款原生Robotaxi工程样车下线，计划2027年量产",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "IT之家为知名科技媒体，信息含具体时间节点和产品规划，但缺乏技术参数细节，部分表述源自企业宣传"
+    },
+    {
+      "title": "奇瑞凌霄 eVTOL 亮相：首发两款机型，最大航程超 1000km",
+      "link": "https://www.ithome.com/1/015/224.htm",
+      "pubDate": "Tue, 20 Oct 2026 03:39:42 GMT",
+      "contentSnippet": "IT之家 10 月 20 日现场消息，在今日上午的 2026 奇瑞全球创新大会上，奇瑞凌霄 eVTOL 电动垂直起降飞行器正式亮相。\n\nIT之家在大会现场了解到，奇瑞公布了两款凌霄 eVTOL 机型：\n\n凌霄 Q212 两座复合翼载人 eVTOL：纯电动力时速 120km/h，满载续航超 1 小时，采用分布式动力；\n\n凌霄 J506 五座全倾转六旋翼载人 eVTOL：速度超 350km/h，航程超 1000km，支持智能化自主飞行。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "奇瑞发布凌霄eVTOL两款机型，最大航程超1000km",
+      "credibilityScore": 75,
+      "credibilityLevel": "medium",
+      "credibilityReason": "IT之家现场报道，机型参数具体，但航程等数据缺原始出处，需官方确认"
+    },
+    {
+      "title": "微软的“怀旧执念”：Win11 26H2 仍保留部分 Win95 内存管理器代码",
+      "link": "https://www.ithome.com/1/015/222.htm",
+      "pubDate": "Tue, 20 Oct 2026 03:38:26 GMT",
+      "contentSnippet": "IT之家 10 月 20 日消息，科技媒体 Windows Latest 昨日（10 月 19 日）发布博文，报道称在 Windows 11 最新的 26H2 版本中，微软依然保留名为 EmulateHeap 的兼容性修复组件，该组件可以追溯到 Windows 95 时代。\n\nEmulateHeap 是一个运行 Windows 95 堆管理器的修复程序，它仍然存在于 Windows 11 26H2 系统中。\n起源方面，早期 Windows 3.x 版《模拟城市》（SimCity）游戏存在“释放后使用”（use-after-free）漏洞，程序在释放内存后仍继续读取该内存。由于旧系统不会立即回收",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "Win11 26H2仍保留可追溯至Win95的EmulateHeap兼容组件",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "IT之家转述Windows Latest，技术细节具体但属二手编译，缺微软官方确认"
+    },
+    {
+      "title": "奇瑞 CheryMind 垂域基础大模型亮相，为物理 AI 而生",
+      "link": "https://www.ithome.com/1/015/219.htm",
+      "pubDate": "Tue, 20 Oct 2026 03:32:35 GMT",
+      "contentSnippet": "IT之家 10 月 20 日现场消息，在今日上午的 2026 奇瑞全球创新大会上，奇瑞 CheryMind 垂域基础大模型亮相，宣称该模型为物理 AI 而生。\n\n奇瑞宣称 6 万 + 员工每天都在使用 CheryMind，该模型已覆盖 200 + 业务场景，打通 400 + 企业系统，覆盖 700TB 企业知识、200PB 工程数据，“正在重塑企业运转方式”。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "奇瑞发布CheryMind垂域大模型，宣称服务6万员工覆盖200+业务场景",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "IT之家现场报道来源可靠，但数据均为厂商单方宣称，缺乏第三方验证和技术细节"
     }
   ]
 }
