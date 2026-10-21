@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-20T04:10:33.420Z",
+  "generatedAt": "2026-10-21T03:58:59.034Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "英伟达黄仁勋：AI 发展不能急刹车，但必须装“安全带”",
-      "link": "https://www.ithome.com/1/015/127.htm",
-      "pubDate": "Tue, 20 Oct 2026 02:00:38 GMT",
-      "contentSnippet": "IT之家 10 月 20 日消息，科技媒体 Android Headline 昨日（10 月 19 日）发布博文，报道称英伟达首席执行官黄仁勋在伦敦表示，反对以“急刹车”或严厉监管来限制 AI 发展，应该建立“安全带”，通过更智能的安全标准、监测机制和事故防范措施约束。\n黄仁勋将 AI 比作电网、供水系统等关键基础设施，反对简单禁止或施加繁重监管方案，主张建立聪明的安全标准。他透露，自己经常与 AI 研究人员交流风险监控和安全协议问题，并提出英国可作为中美等各方开展 AI 安全对话的中立平台。英伟达还承诺在五年内向英国 AI 安全研究投入 2.5 亿美元（IT之家注：现汇率约合 16.73 亿",
+      "title": "消息称亚马逊 AWS 面临数据中心供电瓶颈，AI 算力机架无法按时启用",
+      "link": "https://www.ithome.com/1/015/702.htm",
+      "pubDate": "Wed, 21 Oct 2026 02:31:43 GMT",
+      "contentSnippet": "IT之家 10 月 21 日消息，外媒 Business Inside 北京时间本月 19 日报道称，亚马逊云科技 (AWS) 旗下部分数据中心面临供电能力瓶颈，导致订购的机架级 AI 算力系统无法按时启用。\n\nAWS 在今年 8 月预计，其每个月将收到价值 30 亿美元（IT之家注：现汇率约合 200.74 亿元人民币）左右的机架。知情人士透露，其中部分设备因供电不足只能暂时存放在临时仓库。AWS 正密切监控其数据中心供电进程，综合各种手段加速电力就绪。\nAWS 还调整了其“货到付款”的惯例，在供应链的早期阶段就取得机架的所有权。这有利于 AWS 确保算力资源的供应，但也意味着其需要承担机架",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,220 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "黄仁勋反对急刹车式监管AI，主张建安全标准并投英国AI安全研究",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家转引科技媒体，含具体言论、金额与出处，内容具体但为二手编译"
-    },
-    {
-      "title": "打破“唯论文”标尺，5 个专业推行用实践成果申请硕博学位",
-      "link": "https://www.ithome.com/1/015/093.htm",
-      "pubDate": "Tue, 20 Oct 2026 00:59:18 GMT",
-      "contentSnippet": "IT之家 10 月 20 日消息，据中央广播电视总台中国之声今日报道，部分专业学位研究生申请学位，将不再“唯论文”。\n国务院学位委员会办公室近日印发《关于做好专业学位研究生以实践成果申请学位工作的意见》，在前期工程硕博士用实践成果申请学位基础上，推动翻译、农业、临床医学、会计、艺术 5 个专业学位类别试点先行。\n今年毕业季，多所高校扩大了实践成果申请专业学位的试点，部分硕博研究生不用撰写传统学位论文，而是凭实践成果顺利获得学位。\n\n图源：Pexels\n2024 年 4 月《中华人民共和国学位法》颁布，首次从法律层面明确研究生可以“通过学位论文答辩或者规定的实践成果答辩申请学位”，对改革学位授予",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国务院学位办推动5个专业学位类别试点以实践成果申请学位，打破唯论文标准",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家转引央广报道，引述国务院学位委员会正式文件及学位法，信息具体有据"
-    },
-    {
-      "title": "八位堂 XBOX 无线手柄专属充电底座新增经典黑 / 白款，套装 169 元",
-      "link": "https://www.ithome.com/1/015/240.htm",
-      "pubDate": "Tue, 20 Oct 2026 04:05:50 GMT",
-      "contentSnippet": "IT之家 10 月 20 日消息，八位堂 (8BitDo) 今日宣布推出 XBOX 无线手柄专属充电底座 (Ultimate Charging Dock for XBOX Controllers) 的经典黑 / 白款，两个版本的套装到手价均为 169 元。\n\n八位堂 XBOX 无线手柄专属充电底座获得 XBOX 官方授权，兼容 XBOX Series X|S 及 XBOX One 无线手柄，针对 XBOX 手柄的尺寸、结构、充电方式进行专属设计。\n其采用无线充电方案，从源头避免触点氧化；搭载半固态锂电池，集成全套安全防护结构与被动式风道散热系统；配备带灯光调节的 LED 充电指示灯。\n\n天猫八",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "八位堂推出XBOX手柄充电底座经典黑白款，套装169元",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，产品信息具体含价格、兼容性及技术细节，来源明确"
-    },
-    {
-      "title": "奇瑞犀牛 S 固态电池中试线 2027 年投入使用，400Wh/kg 能量密度",
-      "link": "https://www.ithome.com/1/015/230.htm",
-      "pubDate": "Tue, 20 Oct 2026 04:00:21 GMT",
-      "contentSnippet": "IT之家 10 月 20 日现场消息，在今日上午的 2026 奇瑞全球创新大会上，奇瑞公布了旗下犀牛电池的进展和未来规划。\n\n奇瑞犀牛 S 固态电池可实现 400Wh/kg 能量密度，支持 -40~100℃ 宽温域，通过 200℃ 热箱测试。\n\nIT之家在大会现场会获悉，在攻克材料界面问题的同时，奇瑞目前正在集中资源攻克电池包系统以及 DMS 管理系统。官方坦言固态电池从实验室到大规模的商业化，的确还有很长的路要走，但奇瑞坚定地走好每一步。\n奇瑞宣布犀牛 S 固态电池中试线将于 2027 年投入使用。\n\n奇瑞还公布了全球首台商业化 E-Fuel 发电产品 —— 氢燃料 SOFC（单体固体氧化物",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "奇瑞发布犀牛S固态电池，400Wh/kg，中试线2027年投用",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家现场报道，有具体技术参数和官方规划，但中试线时间较远，信息源自厂商发布"
-    },
-    {
-      "title": "字节Seed大重组：吴永辉的“大兵团”作战，与出走的联合创始人",
-      "link": "https://www.tmtpost.com/8173652.html",
-      "pubDate": "Tue, 20 Oct 2026 11:59:37 +0800",
-      "contentSnippet": "字节Seed完成架构调整，推进大模型研发工业化",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "字节Seed完成架构调整，推进大模型研发工业化",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "钛媒体为知名科技媒体，但正文仅摘要，缺少具体数据与原始出处，细节不足"
-    },
-    {
-      "title": "DeepSeek学霸的降维打击：没刷榜，在工位打游戏，模型能力却控制不住地涨",
-      "link": "https://www.tmtpost.com/8173268.html",
-      "pubDate": "Tue, 20 Oct 2026 11:59:35 +0800",
-      "contentSnippet": "DeepSeek极客玩梗凡尔赛，折射中国大模型智力竞争",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体称DeepSeek团队未刷榜，模型能力却持续提升",
-      "credibilityScore": 45,
-      "credibilityLevel": "low",
-      "credibilityReason": "标题党风格明显，正文仅摘要无实质技术细节和数据支撑，缺乏原始出处"
-    },
-    {
-      "title": "宠物经济，未老先衰",
-      "link": "https://www.tmtpost.com/8174121.html",
-      "pubDate": "Tue, 20 Oct 2026 11:59:34 +0800",
-      "contentSnippet": "宠物存量时代、宠物老龄化悄然降临",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体分析宠物经济进入存量时代，宠物老龄化趋势显现",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体，主题具体但摘要信息简略，缺少数据支撑和原始出处"
-    },
-    {
-      "title": "“金九银十”泡汤，猪价还在等一个答案",
-      "link": "https://www.tmtpost.com/8174108.html",
-      "pubDate": "Tue, 20 Oct 2026 11:59:32 +0800",
-      "contentSnippet": "旺季也救不了猪价？",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体分析猪价旺季不旺现象，探讨市场走势",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体，但内容简略缺少数据细节，且非科技领域报道"
-    },
-    {
-      "title": "达尔优 COOL75 磁轴键盘上市：钻石灯箱 + 音量触控条，499 元起",
-      "link": "https://www.ithome.com/1/015/229.htm",
-      "pubDate": "Tue, 20 Oct 2026 03:59:06 GMT",
-      "contentSnippet": "IT之家 10 月 20 日消息，达尔优（Dareu）现已开始销售磁轴键盘新品 COOL75。这一型号采用 75% 配列，两侧设有钻石氛围灯箱，顶部则是调节音量大小的云控条，售价 499 元起。\n\nCOOL75 拥有拉丝铝合金上盖，内部为 FR4 定位板、4 层填充等组成的 Gasket 结构。其支持 8kHz 回报率 USB-C 有线连接，按键延迟 0.1ms、Rapid Trigger 精度 0.01mm。\n\n该键盘提供樱花粉 / 金属银 / 量子蜂巢黑 3 种版本，具体情况如下：\n\n\n樱花粉金属银量子蜂巢黑\n外壳工艺电泳阳极氧化\n轴体冰刃磁轴鲁班磁轴\n键帽透光碳纹粉 · 侧刻银色金属漆",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "达尔优COOL75磁轴键盘上市，499元起，配钻石灯箱和音量触控条",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，产品参数具体（8kHz回报率、0.1ms延迟、0.01mm精度），信息详实但缺少官方原始出处链接"
-    },
-    {
-      "title": "英伟达 Vera CPU 获 AI 初创公司 Modal 订单，杀入英特尔、AMD 主场",
-      "link": "https://www.ithome.com/1/015/228.htm",
-      "pubDate": "Tue, 20 Oct 2026 03:50:40 GMT",
-      "contentSnippet": "IT之家 10 月 20 日消息，据路透社报道，英伟达拿下又一家高速成长 AI 初创企业的中央处理器订单。在此之前，这家企业完全依赖英特尔与 AMD 的芯片。这是一个早期信号，说明英伟达进军这个长期由两大对手把持市场的战略已经初见成效。\n\n云算力初创公司 Modal 面向 AI 开发者提供算力租赁服务。该公司表示，计划首次采用英伟达全新 Vera 中央处理器来托管智能体（AI agents），也就是能够替人类执行长周期任务的 AI 系统。在此之前，Modal 这类业务仅在英特尔和 AMD 芯片上运行。\nModal 上周完成了由 Accel 领投的 7.5 亿美元（IT之家注：现汇率约合 50.",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "英伟达Vera CPU获AI初创Modal订单，进军英特尔AMD主导的CPU市场",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家引述路透社报道，信息具体含企业名称、产品及融资数据，来源可靠"
-    },
-    {
-      "title": "奇瑞全新一代 AI 座舱产品“超能小奇”亮相：超懂你、超能干、超安心",
-      "link": "https://www.ithome.com/1/015/226.htm",
-      "pubDate": "Tue, 20 Oct 2026 03:48:11 GMT",
-      "contentSnippet": "IT之家 10 月 20 日现场消息，在今日上午的 2026 奇瑞全球创新大会上，奇瑞公布了在汽车座舱方面的进展。\n\n奇瑞灵犀智舱迎来升级，带来全新一代 AI 座舱产品“超能小奇”，宣称拥有超懂你、超能干、超安心三个核心能力。\n奇瑞在今年 1 月发布了灵犀智舱，带来车机智能助手“小奇同学”。\nIT之家在大会现场了解到，“超能小奇”迎来智能化升级，拥有自主理解力、自主记忆力、自主共情力，支持全域协同，广泛链接生态，在隐私方面也迎来进化。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "奇瑞发布全新AI座舱产品“超能小奇”，宣称具备自主理解、记忆与共情能力。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体IT之家，有现场消息和产品细节，但内容以厂商宣传口径为主，缺乏具体技术参数和第三方验证。"
-    },
-    {
-      "title": "吉利汽车与曹操出行等联合打造，中国首款原生开发 Robotaxi 首台工程样车下线",
-      "link": "https://www.ithome.com/1/015/225.htm",
-      "pubDate": "Tue, 20 Oct 2026 03:41:09 GMT",
-      "contentSnippet": "IT之家 10 月 20 日消息，曹操出行今日宣布，近日，曹操出行与吉利汽车等合作伙伴联合打造的中国首款原生开发 Robotaxi 首台工程样车正式下线，标志着项目正式进入量产级方案实车验证阶段。\n\n据介绍，该车型从产品开发之初即围绕 Robotaxi 无人化运营需求进行整车设计和工程开发，在整车架构、座舱体验、运营履约、安全保障以及全生命周期运营等方面进行系统性考量。按照规划，EvaCab 曹操出行定制版将于 2027 年量产。\nIT之家注意到，吉利控股集团安聪慧 9 月接受采访时曾表示，曹操出行将全面采用换电模式，正在开发的 Robotaxi 车型也将采用换电模式，该产品很快将会落地。\n今",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "曹操出行与吉利联合打造的中国首款原生Robotaxi工程样车下线，计划2027年量产",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "IT之家为知名科技媒体，信息含具体时间节点和产品规划，但缺乏技术参数细节，部分表述源自企业宣传"
-    },
-    {
-      "title": "奇瑞凌霄 eVTOL 亮相：首发两款机型，最大航程超 1000km",
-      "link": "https://www.ithome.com/1/015/224.htm",
-      "pubDate": "Tue, 20 Oct 2026 03:39:42 GMT",
-      "contentSnippet": "IT之家 10 月 20 日现场消息，在今日上午的 2026 奇瑞全球创新大会上，奇瑞凌霄 eVTOL 电动垂直起降飞行器正式亮相。\n\nIT之家在大会现场了解到，奇瑞公布了两款凌霄 eVTOL 机型：\n\n凌霄 Q212 两座复合翼载人 eVTOL：纯电动力时速 120km/h，满载续航超 1 小时，采用分布式动力；\n\n凌霄 J506 五座全倾转六旋翼载人 eVTOL：速度超 350km/h，航程超 1000km，支持智能化自主飞行。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "奇瑞发布凌霄eVTOL两款机型，最大航程超1000km",
+      "aiSummary": "AWS数据中心供电瓶颈致AI算力机架无法按时启用",
       "credibilityScore": 75,
-      "credibilityLevel": "medium",
-      "credibilityReason": "IT之家现场报道，机型参数具体，但航程等数据缺原始出处，需官方确认"
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家编译外媒报道，有具体金额和时间细节，但原始信源为匿名知情人士，缺乏官方确认"
     },
     {
-      "title": "微软的“怀旧执念”：Win11 26H2 仍保留部分 Win95 内存管理器代码",
-      "link": "https://www.ithome.com/1/015/222.htm",
-      "pubDate": "Tue, 20 Oct 2026 03:38:26 GMT",
-      "contentSnippet": "IT之家 10 月 20 日消息，科技媒体 Windows Latest 昨日（10 月 19 日）发布博文，报道称在 Windows 11 最新的 26H2 版本中，微软依然保留名为 EmulateHeap 的兼容性修复组件，该组件可以追溯到 Windows 95 时代。\n\nEmulateHeap 是一个运行 Windows 95 堆管理器的修复程序，它仍然存在于 Windows 11 26H2 系统中。\n起源方面，早期 Windows 3.x 版《模拟城市》（SimCity）游戏存在“释放后使用”（use-after-free）漏洞，程序在释放内存后仍继续读取该内存。由于旧系统不会立即回收",
+      "title": "双十一雷神猎刃 S 迎至高 1500 元优惠，配 i9-13900HX、RTX 5060 及 240Hz 电竞屏",
+      "link": "https://www.ithome.com/1/015/684.htm",
+      "pubDate": "Wed, 21 Oct 2026 01:52:29 GMT",
+      "contentSnippet": "双十一大促已经开启，PC 产品也迎来新一轮促销周期。虽然近两年受上游成本、供应链等因素影响，部分笔记本产品价格有所上涨，但对于有游戏、设计、视频剪辑等需求的用户而言，高性能笔记本依然是刚需选择。因此，趁着双十一优惠节点入手一款配置更均衡、性能释放更充分的产品，仍是当前不少用户升级设备的考虑方向。\n就在近日，雷神猎刃 S 也正式开启大促，双十一期间，雷神猎刃 S 可享受国补立减 15%，最高立省 1500 元。同时，晒单还可获得雷神加速器季卡与休闲背包等赠品。购买时额外加 299 元，还可将整机延保升级至 3 年，并附赠 Microsoft 365 个人版 3 个月订阅以及 1TB 个人云盘服务",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -237,16 +33,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "Win11 26H2仍保留可追溯至Win95的EmulateHeap兼容组件",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "IT之家转述Windows Latest，技术细节具体但属二手编译，缺微软官方确认"
+      "aiSummary": "雷神猎刃S双十一促销，最高优惠1500元，搭载i9-13900HX和RTX 5060。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，内容具体含配置和优惠细节，但缺乏原始出处和独立验证。"
     },
     {
-      "title": "奇瑞 CheryMind 垂域基础大模型亮相，为物理 AI 而生",
-      "link": "https://www.ithome.com/1/015/219.htm",
-      "pubDate": "Tue, 20 Oct 2026 03:32:35 GMT",
-      "contentSnippet": "IT之家 10 月 20 日现场消息，在今日上午的 2026 奇瑞全球创新大会上，奇瑞 CheryMind 垂域基础大模型亮相，宣称该模型为物理 AI 而生。\n\n奇瑞宣称 6 万 + 员工每天都在使用 CheryMind，该模型已覆盖 200 + 业务场景，打通 400 + 企业系统，覆盖 700TB 企业知识、200PB 工程数据，“正在重塑企业运转方式”。",
+      "title": "澳大利亚寻求组建全球联盟，共同对抗“科技巨头”伤害儿童",
+      "link": "https://www.ithome.com/1/015/652.htm",
+      "pubDate": "Wed, 21 Oct 2026 01:02:51 GMT",
+      "contentSnippet": "IT之家 10 月 21 日消息，据彭博社今天（21 日）凌晨报道，澳大利亚通信部长阿妮卡 · 威尔斯希望联合其他国家，向 Meta 等科技巨头施压，要求加强网络安全保护。\n41 岁的威尔斯育有三个年幼的孩子。她透露，澳大利亚希望建立一套可供其他国家借鉴的监管标准，要求全球最大的科技企业保护儿童。从色情和暴力内容、网络诱骗者到深度伪造内容，儿童面临的网络危害正与日俱增。\n澳大利亚政府上周提出一项全面的立法方案，要求数字服务提供商从产品设计阶段就落实安全保护措施，涵盖社交媒体、AI 聊天机器人等各类数字服务。\n威尔斯希望，能够以新法案为基础，与其他国家共同制定一套网络安全基本标准，重点保护儿童。",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -254,10 +50,214 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "奇瑞发布CheryMind垂域大模型，宣称服务6万员工覆盖200+业务场景",
+      "aiSummary": "澳大利亚通信部长寻求组建全球联盟，施压科技巨头加强儿童网络安全保护。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家引述彭博社，信息具体含人物、法案细节，逻辑清晰，但缺少原始链接。"
+    },
+    {
+      "title": "比亚迪成为2026年APEC会议官方合作伙伴",
+      "link": "https://www.qbitai.com/2026/10/504452.html",
+      "pubDate": "Tue, 20 Oct 2026 09:57:35 +0000",
+      "contentSnippet": "2026年10月16日，比亚迪集团正式成为亚太经合组织第三十三次领导人非正式会议官方合作伙伴",
+      "sourceName": "量子位",
+      "sourceWeight": 80,
+      "allSources": [
+        "量子位"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "比亚迪成为2026年APEC会议官方合作伙伴",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "量子位为知名科技媒体，消息具体含日期与会议届次，但缺乏官方来源链接及合作细节"
+    },
+    {
+      "title": "在拍《GTA 6》游戏真人预告？“罪恶都市”车队现身美国迈阿密街头",
+      "link": "https://www.ithome.com/1/015/790.htm",
+      "pubDate": "Wed, 21 Oct 2026 03:57:24 GMT",
+      "contentSnippet": "IT之家 10 月 21 日消息，科技媒体 NotebookCheck 昨日（10 月 20 日）发布博文，报道称多段社交媒体视频显示，一支挂着“Vice City”（罪恶都市）车牌的超级跑车与老爷车车队在迈阿密封闭街道上疾驰，旁边还有搭载大型摄影设备的车辆和航拍无人机。\nIT之家附上相关视频如下：\n\n由于这些车辆与《侠盗猎车手 6》（GTA 6）预告片及截图中的车型高度吻合，外界普遍猜测 Rockstar Games 可能正在拍摄一支真人版预告片，或为游戏上市展开大规模实景营销。\n\n报道指出，车队曾出现在迈阿密海湾市场附近，警方一度封闭道路以配合拍摄；部分车辆可对应游戏中的 Progen E",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "迈阿密街头现罪恶都市车队，疑为GTA 6真人预告拍摄",
       "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "IT之家现场报道来源可靠，但数据均为厂商单方宣称，缺乏第三方验证和技术细节"
+      "credibilityReason": "来源为IT之家编译NotebookCheck，有视频佐证但核心为外界猜测，缺乏官方确认"
+    },
+    {
+      "title": "朝阳合生汇，北京网红店最严厉的母亲",
+      "link": "https://www.tmtpost.com/8175724.html",
+      "pubDate": "Wed, 21 Oct 2026 11:52:00 +0800",
+      "contentSnippet": "北京商场邪修指南。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体发布朝阳合生汇商场经营分析文章，探讨网红店生存法则。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体钛媒体，但标题口语化、摘要简略，缺少具体数据与原始出处，技术性较弱。"
+    },
+    {
+      "title": "松下加速光伏建材商业进程，2029 年 4 月量产玻璃型钙钛矿太阳能电池",
+      "link": "https://www.ithome.com/1/015/789.htm",
+      "pubDate": "Wed, 21 Oct 2026 03:49:12 GMT",
+      "contentSnippet": "IT之家 10 月 21 日消息，Panasonic（松下）日本当地时间昨日宣布加速光伏建材的商业化进程，将玻璃型钙钛矿太阳能电池的量产时间从原定的 2030 财年提前至 2029 年 4 月。\n\n松下已在今年 9 月开始销售由大阪府守口市研发基地生产的玻璃型钙钛矿太阳能电池先行量产型号，为后续在滋贺县长滨市的正式量产打下基础。\n\n松下表示，许多城市建筑屋顶空间有限，难以大面积安装传统太阳能电池。而玻璃型产品可利用窗户和墙壁等此前被忽略的潜在发电位置。\n满足光伏建材要求的产品不仅需要具备发电能力，还要具备一般建材的多种特性，如与建筑风格相协调的设计和透明度、可根据安装地点灵活调整尺寸、易于安装",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "松下将玻璃型钙钛矿太阳能电池量产时间提前至2029年4月，加速光伏建材商业化。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道含具体时间节点、地点及产品特性，信息详实但缺少原始出处链接。"
+    },
+    {
+      "title": "小米米家车载吸尘器便携版开启众筹：20000Pa 大吸力，众筹价 189 元",
+      "link": "https://www.ithome.com/1/015/788.htm",
+      "pubDate": "Wed, 21 Oct 2026 03:46:26 GMT",
+      "contentSnippet": "IT之家 10 月 21 日消息，小米米家车载吸尘器便携版今日开启众筹，众筹价 189 元，建议零售价为 269 元。作为一款主打“强劲吸净、折叠随行”的车载清洁新品，该产品凭借 20000Pa 大吸力、轻巧折叠机身与丰富配件，瞄准车内及日常多场景清洁需求。\n\n\nIT之家注意到，米家车载吸尘器便携版搭载转速高达 15000 转 / 分钟的 35mm 高速无刷电机，在纤巧机身内迸发澎湃动力，可提供 20000Pa 大吸力。\n\n新品采用机身折叠设计，整机重量仅 446g，单手可轻松握持，减轻长时间清洁的手部负担；折叠后体积更加紧凑，日常收纳不占空间。机身展开后呈现纤长形态，握持顺手，清理车内座椅底",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "小米米家车载吸尘器便携版众筹，20000Pa吸力，众筹价189元",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，产品参数、价格、电机规格等细节具体，信息源自官方众筹，但缺少独立验证"
+    },
+    {
+      "title": "看面相断生死，AI居然真做到了？",
+      "link": "https://www.tmtpost.com/8175722.html",
+      "pubDate": "Wed, 21 Oct 2026 11:45:00 +0800",
+      "contentSnippet": "模型评出的122名极高风险患者，64人在90天内去世。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体报道AI通过面相预测死亡风险，称模型识别的高风险患者中过半在90天内去世。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体，含具体数据，但标题夸张，缺乏研究出处与同行评审信息。"
+    },
+    {
+      "title": "等级森严：梅赛德斯-AMG 高性能电动车划分声浪，GT 53 听直六、GT 63 吼 V8",
+      "link": "https://www.ithome.com/1/015/787.htm",
+      "pubDate": "Wed, 21 Oct 2026 03:44:43 GMT",
+      "contentSnippet": "IT之家 10 月 21 日消息，汽车媒体 CarBuzz 昨日（10 月 20 日）发布博文，报道称梅赛德斯-AMG 正为其首批高性能电动车打造新的声浪系统，但因为高低等级配置而引发媒体和车主的争议。\n在即将推出的 AMG GT SUV 与 GT 四门轿跑上，梅赛德斯-AMG 为弥补电动车缺少内燃机轰鸣的体验，计划引入名为 AMGForce Sport+ 的模拟声浪与换挡体感系统，不过会按车型“分层定制”。\n具体而言，入门版 GT 53 采用双电机、536 马力，模拟 AMG 调校的直列六缸发动机声浪；而定位更高的 GT 55 和 GT 63 分别拥有 805 马力和 1153 马力，则独家",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "梅赛德斯-AMG为高性能电动车推出分层模拟声浪系统，引发争议",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "IT之家转载CarBuzz报道，信息具体含车型参数，但属二手编译且声浪系统细节待官方确认"
+    },
+    {
+      "title": "腾讯领跑、百度第二，AI办公远未定局",
+      "link": "https://www.tmtpost.com/8175513.html",
+      "pubDate": "Wed, 21 Oct 2026 11:38:57 +0800",
+      "contentSnippet": "迁移门槛大大降低，你的客户还稳吗？",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体分析AI办公市场竞争格局，腾讯领跑百度第二",
+      "credibilityScore": 65,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体钛媒体，但正文摘要信息极简，缺少数据和原始出处支撑"
+    },
+    {
+      "title": "“一家酒店挂四个招牌”的背后……",
+      "link": "https://www.tmtpost.com/8175594.html",
+      "pubDate": "Wed, 21 Oct 2026 11:38:53 +0800",
+      "contentSnippet": "酒店业存量竞争正考验品牌与业主的平衡术。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体分析酒店业存量竞争下品牌与业主的平衡问题",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体钛媒体，但摘要信息简略，缺少具体数据和案例细节"
+    },
+    {
+      "title": "消息称佳能计划到 2029 年将后端光刻机产能提升 50%",
+      "link": "https://www.ithome.com/1/015/780.htm",
+      "pubDate": "Wed, 21 Oct 2026 03:34:16 GMT",
+      "contentSnippet": "IT之家 10 月 21 日消息，日媒《日刊工业新闻》当地时间昨日报道称，Canon（佳能）计划到 2029 年将其面向半导体后端工艺的光刻机产能较当前水平提升 50%。\n\n▲ FPA-8000iW\n佳能正在开发用于先进封装工艺的 i 线光刻设备。该企业还开发了一种分辨率达 0.8μm (800nm) 的大尺寸基板光刻机台，能处理 510×515 (mm) 基板，具备高对准精度和大视场角。\n佳能半导体设备事业部负责人三浦圣也在接受采访时表示，无掩膜直写图案化方案目前暂时还不是 i 线光刻机在 RDL 生产领域的直接竞争对手。\n相关阅读：\n\n《佳能时隔 21 年开设新光刻机工厂，狠抓非先进机台需",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "佳能计划2029年将后端光刻机产能提升50%，开发先进封装i线设备",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "IT之家引述日媒报道，含具体产品型号和技术参数，但属二手转述且缺官方确认"
+    },
+    {
+      "title": "算力已经不再是最大的挑战，互连才是",
+      "link": "https://www.tmtpost.com/8175846.html",
+      "pubDate": "Wed, 21 Oct 2026 11:33:48 +0800",
+      "contentSnippet": "真正决定算力能跑多远的，不再是单颗芯片的峰值数字，而是数据在芯片之间、机柜之间、集群之间流动时的每一微秒。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体指出AI算力瓶颈已从单芯片峰值转向芯片与集群间互连效率",
+      "credibilityScore": 72,
+      "credibilityLevel": "high",
+      "credibilityReason": "知名科技媒体，观点符合行业趋势，但摘要缺具体数据与原始出处"
+    },
+    {
+      "title": "赛道主题徕卡 Q3 43 相机发售：碳纤维机身、专属“F1 拍摄模式”",
+      "link": "https://www.ithome.com/1/015/772.htm",
+      "pubDate": "Wed, 21 Oct 2026 03:31:53 GMT",
+      "contentSnippet": "IT之家 10 月 21 日消息，媒体 variety 最新报道称，德国相机品牌徕卡（Leica）和一级方程式赛车（Formula 1）达成授权合作，推出赛道主题相机徕卡 Q3 43 Formula 1 Edition，售价 9,950 美元（IT之家注：现汇率约合 66,579 元人民币），已在徕卡门店、官方线上商店及部分专业零售渠道开售。\n\n外观方面，这款主题相机以 F1 驾驶舱为设计灵感，其中无线充电手柄、拇指托和快门按钮采用碳纤维材质，而黑色超细纤维绒面蒙皮模仿 F1 方向盘的质感；控制按钮上的红色点缀则呼应车手在比赛中所用的彩色按键。\n\n机身顶盖和镜头盖印有 F1 标志，并随附联名背",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "徕卡与F1联名推出Q3 43特别版相机，售价9950美元",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息含具体价格和设计细节，但原始出处为variety非科技专业媒体，技术细节有限"
     }
   ]
 }
