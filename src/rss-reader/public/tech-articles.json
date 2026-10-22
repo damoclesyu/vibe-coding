@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-21T03:58:59.034Z",
+  "generatedAt": "2026-10-22T03:59:21.941Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "消息称亚马逊 AWS 面临数据中心供电瓶颈，AI 算力机架无法按时启用",
-      "link": "https://www.ithome.com/1/015/702.htm",
-      "pubDate": "Wed, 21 Oct 2026 02:31:43 GMT",
-      "contentSnippet": "IT之家 10 月 21 日消息，外媒 Business Inside 北京时间本月 19 日报道称，亚马逊云科技 (AWS) 旗下部分数据中心面临供电能力瓶颈，导致订购的机架级 AI 算力系统无法按时启用。\n\nAWS 在今年 8 月预计，其每个月将收到价值 30 亿美元（IT之家注：现汇率约合 200.74 亿元人民币）左右的机架。知情人士透露，其中部分设备因供电不足只能暂时存放在临时仓库。AWS 正密切监控其数据中心供电进程，综合各种手段加速电力就绪。\nAWS 还调整了其“货到付款”的惯例，在供应链的早期阶段就取得机架的所有权。这有利于 AWS 确保算力资源的供应，但也意味着其需要承担机架",
+      "title": "工业和信息化部工业软件标准化技术委员会成立",
+      "link": "https://www.ithome.com/1/016/202.htm",
+      "pubDate": "Thu, 22 Oct 2026 01:20:18 GMT",
+      "contentSnippet": "IT之家 10 月 22 日消息，工业和信息化部今日官宣，10 月 21 日，工业和信息化部工业软件标准化技术委员会（以下简称“工业软件标委会”）成立大会在浙江省杭州市召开。\n\n工业和信息化部官方介绍称，成立工业软件标委会，是深入贯彻落实党中央、国务院决策部署，充分发挥标准的基础性、战略性、引领性作用，加快科技创新成果落地转化与推广应用，引导和推动工业软件产业高质量发展的重要举措。\n工业软件标委会主要负责关键技术、数据互操作、产品服务、融合应用及生态建设等行业标准制修订工作，秘书处设在工业和信息化部电子第五研究所。\n成立大会后，工业软件标委会第一次全体委员会议召开，审议通过了标委会章程、秘书处",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,16 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "AWS数据中心供电瓶颈致AI算力机架无法按时启用",
-      "credibilityScore": 75,
+      "aiSummary": "工信部工业软件标准化技术委员会在杭州成立，负责行业标准制修订。",
+      "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家编译外媒报道，有具体金额和时间细节，但原始信源为匿名知情人士，缺乏官方确认"
+      "credibilityReason": "来源为IT之家，引述工信部官方信息，内容具体，有成立时间地点及职责说明。"
     },
     {
-      "title": "双十一雷神猎刃 S 迎至高 1500 元优惠，配 i9-13900HX、RTX 5060 及 240Hz 电竞屏",
-      "link": "https://www.ithome.com/1/015/684.htm",
-      "pubDate": "Wed, 21 Oct 2026 01:52:29 GMT",
-      "contentSnippet": "双十一大促已经开启，PC 产品也迎来新一轮促销周期。虽然近两年受上游成本、供应链等因素影响，部分笔记本产品价格有所上涨，但对于有游戏、设计、视频剪辑等需求的用户而言，高性能笔记本依然是刚需选择。因此，趁着双十一优惠节点入手一款配置更均衡、性能释放更充分的产品，仍是当前不少用户升级设备的考虑方向。\n就在近日，雷神猎刃 S 也正式开启大促，双十一期间，雷神猎刃 S 可享受国补立减 15%，最高立省 1500 元。同时，晒单还可获得雷神加速器季卡与休闲背包等赠品。购买时额外加 299 元，还可将整机延保升级至 3 年，并附赠 Microsoft 365 个人版 3 个月订阅以及 1TB 个人云盘服务",
+      "title": "宇树科技王兴兴：目前物理 AI 已经看到被击穿的苗头",
+      "link": "https://www.ithome.com/1/016/326.htm",
+      "pubDate": "Thu, 22 Oct 2026 03:53:59 GMT",
+      "contentSnippet": "IT之家 10 月 22 日消息，据《科创板日报》报道，在 2026 世界物理 AI 大会暨宇树合作伙伴生态大会上，宇树科技创始人王兴兴表示全世界几乎所有人，对 AI 的重视程度和信仰都还不够，包括他自己。\n\n王兴兴表示，随着 GPT-6 的发布，目前物理 AI 已经看到被击穿的苗头，很可能最近 1-2 年或 2-3 年，目前具身智能迈过 ChatGPT 时刻的最核心挑战是 AI 模型的输入输出和真实机器人的对齐。他认为，在商业服务的落地会比家庭、工业领域更快些。\n\n延伸阅读\n2026 世界物理 AI 大会暨宇树合作伙伴生态大会于 2026 年 10 月 22 日在杭州国际博览中心二期举行，大",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -33,16 +33,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "雷神猎刃S双十一促销，最高优惠1500元，搭载i9-13900HX和RTX 5060。",
-      "credibilityScore": 75,
+      "aiSummary": "宇树王兴兴称物理AI已现突破苗头，1-3年内或迎具身智能ChatGPT时刻",
+      "credibilityScore": 78,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，内容具体含配置和优惠细节，但缺乏原始出处和独立验证。"
+      "credibilityReason": "IT之家转引科创板日报，有具体会议、人物与观点，但核心论断属预测性表述，缺乏数据支撑"
     },
     {
-      "title": "澳大利亚寻求组建全球联盟，共同对抗“科技巨头”伤害儿童",
-      "link": "https://www.ithome.com/1/015/652.htm",
-      "pubDate": "Wed, 21 Oct 2026 01:02:51 GMT",
-      "contentSnippet": "IT之家 10 月 21 日消息，据彭博社今天（21 日）凌晨报道，澳大利亚通信部长阿妮卡 · 威尔斯希望联合其他国家，向 Meta 等科技巨头施压，要求加强网络安全保护。\n41 岁的威尔斯育有三个年幼的孩子。她透露，澳大利亚希望建立一套可供其他国家借鉴的监管标准，要求全球最大的科技企业保护儿童。从色情和暴力内容、网络诱骗者到深度伪造内容，儿童面临的网络危害正与日俱增。\n澳大利亚政府上周提出一项全面的立法方案，要求数字服务提供商从产品设计阶段就落实安全保护措施，涵盖社交媒体、AI 聊天机器人等各类数字服务。\n威尔斯希望，能够以新法案为基础，与其他国家共同制定一套网络安全基本标准，重点保护儿童。",
+      "title": "振华推出 VGA 12+4PIN 过电流保护转接线，支持视觉、听觉双重警告",
+      "link": "https://www.ithome.com/1/016/325.htm",
+      "pubDate": "Thu, 22 Oct 2026 03:53:13 GMT",
+      "contentSnippet": "IT之家 10 月 22 日消息，振华 (Super Flower) 近日推出了 VGA 12+4PIN 过电流保护转接线。这一产品拥有明确的公母区分，具备 ARGB 灯光 + 蜂鸣器的视觉、听觉双重同步警告机制。\n\n这款转接线可及时侦测显卡电流状态，当某一 +12V 线路电流≥9.5A 而＜12A 或两条 +12V 间电流差＞6A 时（持续 10s），其会进入橘色 LED + 短促哔声的提示状态。\n而当某一 +12V 线路的电流＞12A 且持续 10s 时，该转接线将进入报警模式：先是 180s 的红灯 LED + 长鸣，若用户还不介入处置则红灯续亮 15s 并触发显卡黑屏保护。",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -50,33 +50,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "澳大利亚通信部长寻求组建全球联盟，施压科技巨头加强儿童网络安全保护。",
-      "credibilityScore": 82,
+      "aiSummary": "振华推出VGA 12+4PIN过电流保护转接线，支持声光报警及黑屏保护。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家引述彭博社，信息具体含人物、法案细节，逻辑清晰，但缺少原始链接。"
+      "credibilityReason": "IT之家为知名科技媒体，报道含具体电流阈值、持续时间及保护机制等详细技术参数，信息具体可信。"
     },
     {
-      "title": "比亚迪成为2026年APEC会议官方合作伙伴",
-      "link": "https://www.qbitai.com/2026/10/504452.html",
-      "pubDate": "Tue, 20 Oct 2026 09:57:35 +0000",
-      "contentSnippet": "2026年10月16日，比亚迪集团正式成为亚太经合组织第三十三次领导人非正式会议官方合作伙伴",
-      "sourceName": "量子位",
-      "sourceWeight": 80,
-      "allSources": [
-        "量子位"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "比亚迪成为2026年APEC会议官方合作伙伴",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "量子位为知名科技媒体，消息具体含日期与会议届次，但缺乏官方来源链接及合作细节"
-    },
-    {
-      "title": "在拍《GTA 6》游戏真人预告？“罪恶都市”车队现身美国迈阿密街头",
-      "link": "https://www.ithome.com/1/015/790.htm",
-      "pubDate": "Wed, 21 Oct 2026 03:57:24 GMT",
-      "contentSnippet": "IT之家 10 月 21 日消息，科技媒体 NotebookCheck 昨日（10 月 20 日）发布博文，报道称多段社交媒体视频显示，一支挂着“Vice City”（罪恶都市）车牌的超级跑车与老爷车车队在迈阿密封闭街道上疾驰，旁边还有搭载大型摄影设备的车辆和航拍无人机。\nIT之家附上相关视频如下：\n\n由于这些车辆与《侠盗猎车手 6》（GTA 6）预告片及截图中的车型高度吻合，外界普遍猜测 Rockstar Games 可能正在拍摄一支真人版预告片，或为游戏上市展开大规模实景营销。\n\n报道指出，车队曾出现在迈阿密海湾市场附近，警方一度封闭道路以配合拍摄；部分车辆可对应游戏中的 Progen E",
+      "title": "王腾详解今日宜休 ISHO iFlow AI 温控系统：无感监测、智能控温、双区独立",
+      "link": "https://www.ithome.com/1/016/324.htm",
+      "pubDate": "Thu, 22 Oct 2026 03:52:32 GMT",
+      "contentSnippet": "IT之家 10 月 22 日消息，今天（22 日）上午，今日宜休科技公司创始人 @王腾Thomas 发文详细介绍了今日宜休的第二款产品 ——ISHO iFlow AI 温控系统。\n\n王腾表示，该产品可实现无感监测、智能控温、双区独立，将提供从无感监测到睡眠干预的全新解决方案。其中，床笠负责感知用户睡眠状态和实时温度，主机负责计算和调温，再通过水循环来调节床笠表面温度。不同睡眠阶段匹配不同的温控策略，使得每个用户可以入睡更快、深睡更深、浅睡更稳。无需更换现有床垫，套上即用。\n\n根据王腾今天早些时候的介绍，该产品为深睡与精力恢复而生，能够实现睡眠的主动进化，带来从无感监测到睡眠干预的全新解决方案。",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -84,33 +67,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "迈阿密街头现罪恶都市车队，疑为GTA 6真人预告拍摄",
+      "aiSummary": "王腾介绍ISHO iFlow AI温控系统，实现无感监测与智能控温",
       "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为IT之家编译NotebookCheck，有视频佐证但核心为外界猜测，缺乏官方确认"
+      "credibilityReason": "IT之家为知名科技媒体，内容具体但主要转述创始人说法，缺乏第三方数据与原始出处"
     },
     {
-      "title": "朝阳合生汇，北京网红店最严厉的母亲",
-      "link": "https://www.tmtpost.com/8175724.html",
-      "pubDate": "Wed, 21 Oct 2026 11:52:00 +0800",
-      "contentSnippet": "北京商场邪修指南。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体发布朝阳合生汇商场经营分析文章，探讨网红店生存法则。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，但标题口语化、摘要简略，缺少具体数据与原始出处，技术性较弱。"
-    },
-    {
-      "title": "松下加速光伏建材商业进程，2029 年 4 月量产玻璃型钙钛矿太阳能电池",
-      "link": "https://www.ithome.com/1/015/789.htm",
-      "pubDate": "Wed, 21 Oct 2026 03:49:12 GMT",
-      "contentSnippet": "IT之家 10 月 21 日消息，Panasonic（松下）日本当地时间昨日宣布加速光伏建材的商业化进程，将玻璃型钙钛矿太阳能电池的量产时间从原定的 2030 财年提前至 2029 年 4 月。\n\n松下已在今年 9 月开始销售由大阪府守口市研发基地生产的玻璃型钙钛矿太阳能电池先行量产型号，为后续在滋贺县长滨市的正式量产打下基础。\n\n松下表示，许多城市建筑屋顶空间有限，难以大面积安装传统太阳能电池。而玻璃型产品可利用窗户和墙壁等此前被忽略的潜在发电位置。\n满足光伏建材要求的产品不仅需要具备发电能力，还要具备一般建材的多种特性，如与建筑风格相协调的设计和透明度、可根据安装地点灵活调整尺寸、易于安装",
+      "title": "英伟达黄仁勋：GPU 寿命可达 8 年以上，AI 正在改写硬件折旧规则",
+      "link": "https://www.ithome.com/1/016/322.htm",
+      "pubDate": "Thu, 22 Oct 2026 03:44:25 GMT",
+      "contentSnippet": "IT之家 10 月 22 日消息，科技媒体 Wccftech 昨日（10 月 21 日）发布博文，报道称在 GTC 柏林大会上，英伟达首席执行官黄仁勋表示，随着软件持续更新和 AI 应用需求扩大，GPU 的实际使用寿命已从过去普遍认为的约 4 年，延长至 8 年甚至更久。\n\n黄仁勋在活动中表示：\n英伟达的计算系统应用非常广泛，而且性能优化非常出色，能够长时间保持高效运行，这已经成为我们的重要优势之一。\n此外，由于我们采用软件可编程技术，并在资产的整个生命周期内不断改进软件，持续更新，因此能够确保其长期高效运行。\n因此，人们发现，以前认为的四年生命周期实际上可能是八年甚至更久。而且，无论客户是谁",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -118,16 +84,50 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "松下将玻璃型钙钛矿太阳能电池量产时间提前至2029年4月，加速光伏建材商业化。",
+      "aiSummary": "黄仁勋称GPU寿命从4年延长至8年以上，AI改写硬件折旧规则",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家转引Wccftech，有明确场合与直接引语，但属二手编译且缺原始链接"
+    },
+    {
+      "title": "国家能源局：截至 2026 年 9 月底我国电动汽车充电基础设施（枪）总数达 2477.7 万个，同比增长 37.2%",
+      "link": "https://www.ithome.com/1/016/318.htm",
+      "pubDate": "Thu, 22 Oct 2026 03:43:37 GMT",
+      "contentSnippet": "IT之家 10 月 22 日消息，今日国家能源局发布 2026 年 9 月全国电动汽车充电设施数据。\n\n根据国家充电设施监测服务平台数据，截至 2026 年 9 月底，我国电动汽车充电基础设施（枪）总数达到 2477.7 万个，同比增长 37.2%。\nIT之家注意到，其中公共充电设施（枪）520.7 万个，同比增长 16.3%，额定总功率达到 2.66 亿千瓦，单枪平均功率约为 51.10 千瓦；私人充电设施（枪）1957.0 万个，同比增长 44.0%，私人充电设施报装用电容量达到 1.67 亿千伏安。\n\n延伸阅读\n从历史数据看，我国电动汽车充电设施（枪）数量增长持续提速：截至 2025 年",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国家能源局数据显示2026年9月底全国充电枪达2477.7万个，同比增37.2%",
+      "credibilityScore": 92,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为国家能源局官方数据，经IT之家转载，数据具体详实，含分类统计与功率指标"
+    },
+    {
+      "title": "极摩客推出 NucBox G3 Ultra 迷你主机，基于英特尔奔腾 Gold 7505",
+      "link": "https://www.ithome.com/1/016/305.htm",
+      "pubDate": "Thu, 22 Oct 2026 03:41:10 GMT",
+      "contentSnippet": "IT之家 10 月 22 日消息，极摩客 (GMKtec) 近日宣布推出 NucBox G3 Ultra 迷你主机。该型号基于英特尔奔腾 Gold 7505，这是一款双核 \"Tiger Lake\" 处理器。\n\nNucBox G3 Ultra 三维 114×106×44 (mm)，内置支持 15W 性能释放的单风扇单热管散热，集成 16GB LPDDR4-3200 内存，提供 2 个 M.2 2280 SSD 盘位，支持 Wi-Fi 6 & 蓝牙 5.2 无线连接。\n其正面提供 2 个 USB-A 10Gbps；反面提供 1 个 USB-A 10Gbps、1 个 USB-A 480Mbps、2",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "极摩客推出基于英特尔奔腾Gold 7505的NucBox G3 Ultra迷你主机",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道含具体时间节点、地点及产品特性，信息详实但缺少原始出处链接。"
+      "credibilityReason": "IT之家为知名科技媒体，产品规格参数具体详实，技术描述准确，但缺少官方原始出处链接"
     },
     {
-      "title": "小米米家车载吸尘器便携版开启众筹：20000Pa 大吸力，众筹价 189 元",
-      "link": "https://www.ithome.com/1/015/788.htm",
-      "pubDate": "Wed, 21 Oct 2026 03:46:26 GMT",
-      "contentSnippet": "IT之家 10 月 21 日消息，小米米家车载吸尘器便携版今日开启众筹，众筹价 189 元，建议零售价为 269 元。作为一款主打“强劲吸净、折叠随行”的车载清洁新品，该产品凭借 20000Pa 大吸力、轻巧折叠机身与丰富配件，瞄准车内及日常多场景清洁需求。\n\n\nIT之家注意到，米家车载吸尘器便携版搭载转速高达 15000 转 / 分钟的 35mm 高速无刷电机，在纤巧机身内迸发澎湃动力，可提供 20000Pa 大吸力。\n\n新品采用机身折叠设计，整机重量仅 446g，单手可轻松握持，减轻长时间清洁的手部负担；折叠后体积更加紧凑，日常收纳不占空间。机身展开后呈现纤长形态，握持顺手，清理车内座椅底",
+      "title": "国产 3A 游戏《影之刃零》最终预告发布，10 月 29 日正式发售",
+      "link": "https://www.ithome.com/1/016/288.htm",
+      "pubDate": "Thu, 22 Oct 2026 03:36:45 GMT",
+      "contentSnippet": "IT之家 10 月 22 日消息，国产 3A 游戏《影之刃零》今天发布了最终预告，该作将于 10 月 27 日 10 点开启全平台预下载，10 月 29 日 10 点正式解锁，登陆 PS5 与 PC 平台，国区数字标准版售价 268 元，数字豪华版售价 328 元。PS5 实体光碟将于 2027 年推出。\n\n\n据IT之家了解，《影之刃零》由灵游坊自主研发发行，采用虚幻引擎 5 打造，定位黑暗武侠题材第三人称动作冒险与单机动作 RPG，把中国武术与蒸汽朋克融合为功夫朋克风格，美术深沉黑暗，主打快节奏高速战斗。\n\n在《影之刃零》中，玩家将化身心脏遭受重创的剑客，在仅余六十六天的生命里，逃亡于刀光剑",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -135,33 +135,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "小米米家车载吸尘器便携版众筹，20000Pa吸力，众筹价189元",
-      "credibilityScore": 82,
+      "aiSummary": "国产3A游戏《影之刃零》发布最终预告，10月29日登陆PS5与PC",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，产品参数、价格、电机规格等细节具体，信息源自官方众筹，但缺少独立验证"
+      "credibilityReason": "IT之家为知名科技媒体，信息具体含发售时间、售价、平台及技术细节，来源明确"
     },
     {
-      "title": "看面相断生死，AI居然真做到了？",
-      "link": "https://www.tmtpost.com/8175722.html",
-      "pubDate": "Wed, 21 Oct 2026 11:45:00 +0800",
-      "contentSnippet": "模型评出的122名极高风险患者，64人在90天内去世。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体报道AI通过面相预测死亡风险，称模型识别的高风险患者中过半在90天内去世。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体，含具体数据，但标题夸张，缺乏研究出处与同行评审信息。"
-    },
-    {
-      "title": "等级森严：梅赛德斯-AMG 高性能电动车划分声浪，GT 53 听直六、GT 63 吼 V8",
-      "link": "https://www.ithome.com/1/015/787.htm",
-      "pubDate": "Wed, 21 Oct 2026 03:44:43 GMT",
-      "contentSnippet": "IT之家 10 月 21 日消息，汽车媒体 CarBuzz 昨日（10 月 20 日）发布博文，报道称梅赛德斯-AMG 正为其首批高性能电动车打造新的声浪系统，但因为高低等级配置而引发媒体和车主的争议。\n在即将推出的 AMG GT SUV 与 GT 四门轿跑上，梅赛德斯-AMG 为弥补电动车缺少内燃机轰鸣的体验，计划引入名为 AMGForce Sport+ 的模拟声浪与换挡体感系统，不过会按车型“分层定制”。\n具体而言，入门版 GT 53 采用双电机、536 马力，模拟 AMG 调校的直列六缸发动机声浪；而定位更高的 GT 55 和 GT 63 分别拥有 805 马力和 1153 马力，则独家",
+      "title": "Caviar 推出景泰蓝版 iPhone Duo 折叠手机：18K 金框搭配蓝底彩色掐丝珐琅",
+      "link": "https://www.ithome.com/1/016/279.htm",
+      "pubDate": "Thu, 22 Oct 2026 03:33:30 GMT",
+      "contentSnippet": "IT之家 10 月 22 日消息，奢侈定制厂商 Caviar 昨日推出“世界珍宝”（World Treasures）系列，基于苹果首款折叠 iPhone Duo 定制打造，通过贵金属、珐琅与钻石进行奢华改装，起售价 7.3 万美元（IT之家注：现汇率约合 48.8 万元人民币），其中景泰蓝版 iPhone Duo 售价为 80,290 美元（现汇率约合 53.7 万元人民币）。\n\n此次定制并未改变 iPhone Duo 的内部硬件与性能规格，主要替换原厂外壳，采用 950 铂金、18K 金、珠宝珐琅及天然钻石等材料，并辅以手工金属加工与宝石镶嵌工艺。\n\n本次推出“世界珍宝”（World Tre",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -169,95 +152,112 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "梅赛德斯-AMG为高性能电动车推出分层模拟声浪系统，引发争议",
+      "aiSummary": "奢侈品牌Caviar推出景泰蓝定制版iPhone Duo折叠手机，售价超8万美元。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，信息含具体价格与材质细节，但产品本身属奢侈定制，技术价值有限。"
+    },
+    {
+      "title": "奔驰 CEO 康林松确认：“小 G”上市比你想的还要早",
+      "link": "https://www.ithome.com/1/016/276.htm",
+      "pubDate": "Thu, 22 Oct 2026 03:31:21 GMT",
+      "contentSnippet": "IT之家 10 月 22 日消息，奔驰 CEO 康林松近日接受彭博社采访时确认，“小 G”上市时间将“比你想象的更早”，距离正式上市已不到 24 个月。\n奔驰早在 2023 年就宣布开发“小 G”，并于 2025 年发布首张官方预告图。此次，康林松进一步透露：“大家好像都很喜欢 G 级，毕竟它是一款经典。当初我们宣布要推出尺寸更小的 G 级时，我的手机简直被消息刷爆了。我可以告诉大家，新车肯定会推出，而且比你们想象的更早。”\n\n奔驰此前曾在预告中将新车称为“g-Class”，特意将字母 g 改成小写，但最终名称仍未确定。新车有望在 2027 年亮相，确定最迟 2028 年底前就能上市。\n“小",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "奔驰CEO确认小G级SUV将提前上市，距发布不到24个月",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，引用彭博社采访及CEO原话，时间节点具体，但缺少官方公告链接"
+    },
+    {
+      "title": "HHKB Professional Elite 键盘发布：品牌 30 周年纪念，极简主义设计",
+      "link": "https://www.ithome.com/1/016/275.htm",
+      "pubDate": "Thu, 22 Oct 2026 03:28:23 GMT",
+      "contentSnippet": "IT之家 10 月 22 日消息，PFU 当地时间今日宣布为旗下品牌 HHKB (Happy Hacking Keyboard) 诞生 30 周年推出特别限量版纪念键盘 HHKB Professional Elite。\n\nHHKB 由东京大学名誉教授和田英一于 1996 年创立，始终秉持着极简与留白的设计理念。此次的 30 周年纪念产品以 2006 年的 10 周年纪念款 HHKB Professional HG 为基础，名称中的 \"Elite\" 则可追溯至首款 HHKB Professional 的开发代号。\nHHKB Professional Elite 拥有一体铝材机加工机身，表面经过喷",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "PFU推出HHKB 30周年限量纪念键盘Professional Elite，铝制机身极简设计",
       "credibilityScore": 78,
       "credibilityLevel": "medium",
-      "credibilityReason": "IT之家转载CarBuzz报道，信息具体含车型参数，但属二手编译且声浪系统细节待官方确认"
+      "credibilityReason": "IT之家为知名科技媒体，产品信息具体含历史沿革，但正文摘要不完整且缺少价格等关键细节"
     },
     {
-      "title": "腾讯领跑、百度第二，AI办公远未定局",
-      "link": "https://www.tmtpost.com/8175513.html",
-      "pubDate": "Wed, 21 Oct 2026 11:38:57 +0800",
-      "contentSnippet": "迁移门槛大大降低，你的客户还稳吗？",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "保时捷海外开班教漂移，1500 美元可学拖刹入弯、车身姿态控制、漂移技巧",
+      "link": "https://www.ithome.com/1/016/270.htm",
+      "pubDate": "Thu, 22 Oct 2026 03:19:39 GMT",
+      "contentSnippet": "IT之家 10 月 22 日消息，当地时间 21 日，保时捷宣布，2027 年，保时捷赛道驾驶体验项目将新增半天的 GT3 漂移课程，收费 1,500 美元（IT之家注：现汇率约合 10,034 元人民币）。对于希望接受更系统培训的驾驶者，保时捷还准备了为期三天的 GT3 高级驾驶课程，收费 2.3 万美元（现汇率约合 15.4 万元人民币）。\n两项新课程都将在美国阿拉巴马州伯明翰的巴伯赛车公园独家开设，也是保时捷首次将整个驾驶培训课程专门用于单一车型，训练全程只使用 911 GT3。\n\n其中，价格较低的 GT Drift 漂移课程从简短的车辆动力学理论课开始，随后转入滑移训练场，学习拖刹入弯",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "钛媒体"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体分析AI办公市场竞争格局，腾讯领跑百度第二",
+      "aiSummary": "保时捷2027年推出1500美元GT3漂移课程，在美巴伯赛车公园开设",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息含具体价格、时间、地点及课程细节，来源为保时捷官方宣布"
+    },
+    {
+      "title": "曾暴涨 7 倍，大模型企业 MiniMax 股价跌破 IPO 发行价",
+      "link": "https://www.ithome.com/1/016/269.htm",
+      "pubDate": "Thu, 22 Oct 2026 03:12:12 GMT",
+      "contentSnippet": "IT之家 10 月 22 日消息，MiniMax 的股价已经回吐自今年 1 月上市以来的全部涨幅。激烈的行业竞争，迫使投资者重新评估这家大模型企业。\nIT之家注意到，该股今日在港股盘中最大跌幅达 7.3%，跌至 159.3 港元，跌破其 IPO 发行价 165 港元。\n\nMiniMax 于 2026 年 1 月 9 日以 165 港元的定价上限登陆港交所，全球发售约 3358 万股，募集资金总额约 55.4 亿港元，公司成立仅四年即完成上市，刷新 AI 企业最快上市纪录。上市首日其股价大涨 109% 至 345 港元，3 月受应用概念催化一度冲高至 1330 港元，较发行价涨超 7 倍。\n但随",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "MiniMax股价跌破165港元IPO发行价，回吐上市以来全部涨幅",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道含具体股价、发行价、募资额等数据，信息详实且逻辑清晰"
+    },
+    {
+      "title": "欧盟委员会针对 Booking.com（缤客）启动《数字服务法案》调查",
+      "link": "https://www.ithome.com/1/016/268.htm",
+      "pubDate": "Thu, 22 Oct 2026 03:11:50 GMT",
+      "contentSnippet": "IT之家 10 月 22 日消息，欧盟委员会当地时间 21 日宣布对 Booking.com（缤客）启动调查，评估这家旅游电子商务公司是否违反了欧盟的《数字服务法案》。\n此次调查的重点包括以下三点：\n\nBooking.com 是否已妥善识别和评估平台上出现的潜在欺诈和不合规房源信息。\n\nBooking.com 是否以安全的方式向相关方共享用户数据，以避免数据泄露导致的网络钓鱼诈骗攻击。\n\nBooking.com 是否在搜索排名竞价上遵守了广告透明度义务，是否让用户能明确识别“推广房源”的广告性质，是否清晰地向用户提供了广告背景信息和广告展示设置修改方式。\n\n\n图源：Pixabay\nBookin",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "欧盟委员会依据《数字服务法案》对Booking.com启动调查，聚焦欺诈房源、数据安全与广告透明度。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道引述欧盟委员会官方宣布，调查要点具体明确，信息可核实。"
+    },
+    {
+      "title": "华为 Pura90 Plus 手机曝光：6.8 英寸 1.5K 大屏，今年唯一 50Mp 1 英寸 RYYB 可变光圈主摄",
+      "link": "https://www.ithome.com/1/016/267.htm",
+      "pubDate": "Thu, 22 Oct 2026 03:11:25 GMT",
+      "contentSnippet": "IT之家 10 月 22 日消息，博主 @数码闲聊站 今日爆料了华为 Pura90 Plus 手机：\n\n内部代号 Lucia，6.8 英寸 1.5K 大屏，左上角三角形三摄镜组，配色曜石黑 / 雪域白 / 晨曦金 / 霞光紫，核心出装 —— 今年唯一 50Mp 1 英寸 RYYB 可变光圈主摄\n\n\n有网友询问“那个 6.1 几的什么时候落地”，博主回复称“预计明年下半年，开屏了”。\n今年 4 月，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东正式发布了 Pura 90 系列手机。\nIT之家附参考配置，华为 Pura 90 标准版搭载海思麒麟 9010S 芯片，后置全新三角标 D",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "华为Pura90 Plus曝光：6.8英寸1.5K屏，配50Mp 1英寸RYYB可变光圈主摄",
       "credibilityScore": 65,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，但正文摘要信息极简，缺少数据和原始出处支撑"
-    },
-    {
-      "title": "“一家酒店挂四个招牌”的背后……",
-      "link": "https://www.tmtpost.com/8175594.html",
-      "pubDate": "Wed, 21 Oct 2026 11:38:53 +0800",
-      "contentSnippet": "酒店业存量竞争正考验品牌与业主的平衡术。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体分析酒店业存量竞争下品牌与业主的平衡问题",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，但摘要信息简略，缺少具体数据和案例细节"
-    },
-    {
-      "title": "消息称佳能计划到 2029 年将后端光刻机产能提升 50%",
-      "link": "https://www.ithome.com/1/015/780.htm",
-      "pubDate": "Wed, 21 Oct 2026 03:34:16 GMT",
-      "contentSnippet": "IT之家 10 月 21 日消息，日媒《日刊工业新闻》当地时间昨日报道称，Canon（佳能）计划到 2029 年将其面向半导体后端工艺的光刻机产能较当前水平提升 50%。\n\n▲ FPA-8000iW\n佳能正在开发用于先进封装工艺的 i 线光刻设备。该企业还开发了一种分辨率达 0.8μm (800nm) 的大尺寸基板光刻机台，能处理 510×515 (mm) 基板，具备高对准精度和大视场角。\n佳能半导体设备事业部负责人三浦圣也在接受采访时表示，无掩膜直写图案化方案目前暂时还不是 i 线光刻机在 RDL 生产领域的直接竞争对手。\n相关阅读：\n\n《佳能时隔 21 年开设新光刻机工厂，狠抓非先进机台需",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "佳能计划2029年将后端光刻机产能提升50%，开发先进封装i线设备",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "IT之家引述日媒报道，含具体产品型号和技术参数，但属二手转述且缺官方确认"
-    },
-    {
-      "title": "算力已经不再是最大的挑战，互连才是",
-      "link": "https://www.tmtpost.com/8175846.html",
-      "pubDate": "Wed, 21 Oct 2026 11:33:48 +0800",
-      "contentSnippet": "真正决定算力能跑多远的，不再是单颗芯片的峰值数字，而是数据在芯片之间、机柜之间、集群之间流动时的每一微秒。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体指出AI算力瓶颈已从单芯片峰值转向芯片与集群间互连效率",
-      "credibilityScore": 72,
-      "credibilityLevel": "high",
-      "credibilityReason": "知名科技媒体，观点符合行业趋势，但摘要缺具体数据与原始出处"
-    },
-    {
-      "title": "赛道主题徕卡 Q3 43 相机发售：碳纤维机身、专属“F1 拍摄模式”",
-      "link": "https://www.ithome.com/1/015/772.htm",
-      "pubDate": "Wed, 21 Oct 2026 03:31:53 GMT",
-      "contentSnippet": "IT之家 10 月 21 日消息，媒体 variety 最新报道称，德国相机品牌徕卡（Leica）和一级方程式赛车（Formula 1）达成授权合作，推出赛道主题相机徕卡 Q3 43 Formula 1 Edition，售价 9,950 美元（IT之家注：现汇率约合 66,579 元人民币），已在徕卡门店、官方线上商店及部分专业零售渠道开售。\n\n外观方面，这款主题相机以 F1 驾驶舱为设计灵感，其中无线充电手柄、拇指托和快门按钮采用碳纤维材质，而黑色超细纤维绒面蒙皮模仿 F1 方向盘的质感；控制按钮上的红色点缀则呼应车手在比赛中所用的彩色按键。\n\n机身顶盖和镜头盖印有 F1 标志，并随附联名背",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "徕卡与F1联名推出Q3 43特别版相机，售价9950美元",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息含具体价格和设计细节，但原始出处为variety非科技专业媒体，技术细节有限"
+      "credibilityReason": "来源为IT之家但核心信息仅来自博主爆料，缺乏官方确认和原始出处，技术细节有限"
     }
   ]
 }
