@@ -1,263 +1,265 @@
 {
-  "generatedAt": "2026-10-23T04:02:47.584Z",
+  "generatedAt": "2026-10-24T03:57:07.083Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "谁在给OpenAI供应具身数据？",
-      "link": "https://www.qbitai.com/2026/10/504800.html",
-      "pubDate": "Thu, 22 Oct 2026 07:05:59 +0000",
-      "contentSnippet": "挤进全球Physical AI核心供应链",
-      "sourceName": "量子位",
-      "sourceWeight": 80,
+      "title": "上海警方大数据精准打击“职业碰瓷大户”：一年多制造交通事故 200 余起，涉案金额达 60 余万元",
+      "link": "https://www.ithome.com/1/017/333.htm",
+      "pubDate": "Sat, 24 Oct 2026 03:46:19 GMT",
+      "contentSnippet": "IT之家 10 月 24 日消息，据上海市公安局交通警察总队披露，看似寻常的车辆碰擦，背后可能是精心策划的“碰瓷”骗局。针对手法隐蔽、取证难度大的交通事故“碰瓷”诈骗，上海警方依托大数据精准研判，多警种协同攻坚，在全市开展专项打击行动，已成功抓获 6 名涉嫌“碰瓷”诈骗的犯罪嫌疑人。\n\n在此次行动中，交管总队专案组成功抓获了一名高频作案的“碰瓷大户”。据调查，朱某堪称“职业碰瓷人”，他日常驾车在黄浦、徐汇、浦东等各区域道路四处巡游，专门瞄准其他车辆变道时制造轻微碰擦，单日最高连续作案 5 起。\nIT之家注意到，朱某单次索赔金额仅数百元至一千元，靠频繁作案累积非法所得。由于事故形态常见，赔付金额",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "量子位"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "量子位报道OpenAI具身数据供应链，但正文仅一句摘要，信息严重不足。",
-      "credibilityScore": 55,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名AI媒体，但正文仅一句摘要，缺少具体供应商、数据细节和原始出处，信息量不足以支撑高可信度。"
-    },
-    {
-      "title": "从乌镇叙事到水乡新貌，桐乡AI产业进化样本",
-      "link": "https://www.tmtpost.com/8178456.html",
-      "pubDate": "Fri, 23 Oct 2026 11:59:17 +0800",
-      "contentSnippet": "桐乡不仅有在全国县市一级最完整的智能汽车产业链及“车路云一体化”试点加持，它正从乌镇峰会的“AI叙事”转变成一个工业水乡的产业进化样本。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "桐乡依托智能汽车产业链和车路云试点，从乌镇峰会AI叙事转向产业进化样本",
-      "credibilityScore": 75,
+      "aiSummary": "上海警方用大数据打击碰瓷诈骗，抓获6人，一人作案200余起",
+      "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容涉及具体产业链和试点信息，但摘要较简略，缺少数据细节和原始出处"
+      "credibilityReason": "来源为IT之家，引用上海交警总队官方披露，信息具体含数据，但非首发权威媒体"
     },
     {
-      "title": "前千寻具身智能负责人解浚源北美创业，成立具身数采公司 gi labs",
-      "link": "https://www.tmtpost.com/8178785.html",
-      "pubDate": "Fri, 23 Oct 2026 11:58:50 +0800",
-      "contentSnippet": "产品预计11月初陆续量产",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "美国公开第 7 批 UAP 解密档案：含 28 份文件，累计已公开 478 份",
+      "link": "https://www.ithome.com/1/017/320.htm",
+      "pubDate": "Sat, 24 Oct 2026 02:29:48 GMT",
+      "contentSnippet": "IT之家 10 月 24 日消息，美国战争部（Department of War，原国防部）于当地时间昨日（10 月 23 日）发布博文，公开第七批经解密的“不明异常现象”（UAP，常被通俗称为 UFO）历史档案。\n该批资料隶属“总统 UAP 接触事件解封与报告系统”（PURSUE），公众可在官方专页 WAR.GOV/ UFO 查阅、检索和下载。IT之家附上相关图片如下：\n\n五角大楼首席发言人肖恩 · 帕内尔（Sean Parnell）在声明中表示，本轮公开的是第七批解密及历史性 UAP 文件；相关资料将继续集中存放在 WAR.GOV/ UFO，后续档案将按“滚动方式”陆续发布。他还称，战争部",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "钛媒体"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "前千寻具身智能负责人解浚源在北美创立具身数采公司gi labs，产品预计11月初量产。",
+      "aiSummary": "美国战争部公开第七批UAP解密档案28份，累计478份",
       "credibilityScore": 72,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，信息含具体人物、公司名及量产时间，但正文细节较少，缺少原始出处引用。"
+      "credibilityLevel": "medium",
+      "credibilityReason": "IT之家为知名科技媒体，信息具体含批次数量与官方来源，但UAP话题敏感且细节有限，需谨慎看待"
     },
     {
-      "title": "RISC-V中国峰会在深圳开幕：车规芯片已量产上车，AI与数据中心仍在补软件",
-      "link": "https://www.tmtpost.com/8178185.html",
-      "pubDate": "Fri, 23 Oct 2026 11:41:14 +0800",
-      "contentSnippet": "RISC-V各方向推进速度并不一致",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "小米公益基金会驰援西藏那曲地震救灾",
+      "link": "https://www.ithome.com/1/017/267.htm",
+      "pubDate": "Fri, 23 Oct 2026 13:51:30 GMT",
+      "contentSnippet": "IT之家 10 月 23 日消息，小米公益基金会紧急联动备灾伙伴 @中国红十字基金会 @北京新阳光慈善基金会 驰援西藏那曲地震救灾，助力受灾群众早日恢复正常生活。\nIT之家附小米原文如下：\n\n小米公益基金会联动备灾伙伴驰援西藏那曲地震救灾\n2026 年 10 月 22 日晚，西藏那曲市巴青县发生 7.0 级地震，造成重大人员伤亡。国务院抗震救灾指挥部办公室、应急管理部已将国家地震灾害应急响应提升至三级。\n小米公益基金会迅速响应应急管理部政社协同保障机制，第一时间启动应急响应，联动中国红十字基金会、北京新阳光慈善基金会快速开展一线救援协同与应急生活物资保障工作。联合中国红十字基金会捐赠的 400",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "钛媒体"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "RISC-V中国峰会在深圳开幕，车规芯片已量产，AI与数据中心软件生态待补。",
+      "aiSummary": "小米公益基金会联动两家基金会驰援西藏那曲地震救灾",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium-high",
+      "credibilityReason": "来源为知名科技媒体IT之家，引用小米官方原文，信息具体；但属企业公益宣传，缺乏独立核实"
+    },
+    {
+      "title": "希腊通过法案禁止 15 岁以下儿童使用社媒",
+      "link": "https://www.solidot.org/story?sid=85696",
+      "pubDate": "Fri, 23 Oct 2026 19:07:11 +0800",
+      "contentSnippet": "希腊议会周五通过了一项法案，禁止 15 岁以下的儿童使用社媒平台。此举旨在回应公众对社交媒体会对未成年人的健康与安全产生负面影响之日益增长的担忧。禁令将于 2027 年 1 月 1 日生效。澳大利亚是首个通过立法限制未成年人使用社媒的国家。法国也曾通过类似法律，但于 8 月被宪法委员会裁定无效。希腊总理基 Kyriakos Mitsotakis 表示，社媒平台有 2 个半月的时间制定方案，核实用户年龄并保护其隐私。希腊政府表示，将支持家长共同遏制“无限滚动”现象——这种行为会导致儿童睡眠不足、注意力难以集中，挤占与朋友相处的时间。",
+      "sourceName": "Solidot",
+      "sourceWeight": 75,
+      "allSources": [
+        "Solidot"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "希腊通过法案禁止15岁以下儿童使用社媒，2027年生效",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "Solidot为知名科技媒体，报道含具体时间、国家对比及总理表态，信息详实但缺原始法案链接"
+    },
+    {
+      "title": "联合国警告厄尔尼诺可能导致数千万人粮食短缺",
+      "link": "https://www.solidot.org/story?sid=85694",
+      "pubDate": "Fri, 23 Oct 2026 17:32:18 +0800",
+      "contentSnippet": "今年的厄尔尼诺事件强度可能前所未有。它将于 2026 年底前后达到峰值，但其影响在此之后仍将持续很长时间。热带太平洋（厄尔尼诺的中心区域）的海面温度在 2026 年 11 月至 2027 年 1 月期间可能比平均值高出 3.8°C。 一次非常强的厄尔尼诺会扰乱许多地区的正常温度和降水格局。它可能给一些地区带来严重干旱，给另一些地区带来强降雨和洪水，并导致世界大片地区温度升高。极端天气事件可能会成倍增多，并发生级联效应。\n联合国人道主义事务协调厅（OCHA）厅长弗莱彻警告称，全球可能有多达 5000 万人面临严重的粮食短缺。他呼吁各国政府做好充分准备。厄尔尼诺可能会给非洲、中南美和东南亚等地带来",
+      "sourceName": "Solidot",
+      "sourceWeight": 75,
+      "allSources": [
+        "Solidot"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "联合国警告强厄尔尼诺或致全球5000万人面临严重粮食短缺",
+      "credibilityScore": 78,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体Solidot，引用联合国OCHA官员警告及具体海温数据，但缺少原始报告链接"
+    },
+    {
+      "title": "技嘉展示 B850 AORUS ELITE-P 主板：延续“雕妹”主题，黑色外观",
+      "link": "https://www.ithome.com/1/017/335.htm",
+      "pubDate": "Sat, 24 Oct 2026 03:55:30 GMT",
+      "contentSnippet": "IT之家 10 月 24 日消息，技嘉 (GIGABYTE) 官方社媒账户近期展示了尚未上线官网的 B850 AORUS ELITE-P 主板。\n\n这一型号与此前推出的 B850 AORUS ELITE-P ICE（上图右侧）一样属于技嘉的“雕妹”产品线，两者整体外观一致，拥有相同的 IP 元素装饰以及 LCD Edge View 动态显示区域。\n\n不过，无 \"ICE\" 后缀的版本为黑色外观，这让部分灰色的装饰元素在更强烈的对比下更为显著。\n\nB850 AORUS ELITE-P ICE 搭载 16+2+2 项供电，支持 DDR5-8200 内存超频，提供 4 个 M.2 插槽，具备 5GbE",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "技嘉展示黑色版B850 AORUS ELITE-P主板，延续雕妹主题设计",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息具体含供电、内存、接口细节，来源为官方社媒，但尚未上线官网，细节略有限"
+    },
+    {
+      "title": "美国拟推新规：自动驾驶汽车要用青绿色灯光“自报家门”",
+      "link": "https://www.ithome.com/1/017/334.htm",
+      "pubDate": "Sat, 24 Oct 2026 03:48:36 GMT",
+      "contentSnippet": "IT之家 10 月 24 日消息，科技媒体 The Verge 昨日（10 月 23 日）发布博文，报道称美国国家公路交通安全管理局（NHTSA）正推动新提案，为自动驾驶汽车引入统一的青绿色（蓝绿色）外部标识灯，让行人、其他驾驶员和执法人员能一眼识别“车辆正由自动驾驶系统操控”。\n美国国家公路交通安全管理局最新发布联邦机动车安全标准第 108 号（FMVSS 108）的修订提案，目前处于征求意见阶段，公众可在《联邦公报》正式发布后 30 天内提交意见。\nIT之家援引博文介绍，青色自动驾驶标识灯并非强制安装，但一旦车企选择配备，其颜色、亮度、数量、安装位置和激活方式都须遵循统一标准，以避免不同厂",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "美NHTSA拟推新规，自动驾驶车可用青绿色标识灯自报家门",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家援引The Verge及NHTSA提案，信息具体，含法规编号与征求意见流程，来源可溯"
+    },
+    {
+      "title": "LibreOffice 背后公司再掀 18 年前“旧账”，抨击微软操纵 OOXML 标准",
+      "link": "https://www.ithome.com/1/017/332.htm",
+      "pubDate": "Sat, 24 Oct 2026 03:33:55 GMT",
+      "contentSnippet": "IT之家 10 月 24 日消息，开源办公套件 LibreOffice 背后的非营利组织“文档基金会”（TDF）昨日（10 月 23 日）发布长文，再次公开批评微软，称其曾在 2006 年至 2008 年间操纵国际标准化进程，推动自家 Office Open XML（OOXML）格式获得 ISO / IEC 29,500 国际标准地位。\n文档基金会认为，尽管 OOXML 已获 ISO 批准，其实际生态仍高度依赖微软，难以称为真正开放的文档标准。IT之家附上博文标题截图如下：\n\n文档基金会指出，OOXML 规范当时长达约 6,000 页，却被通过原本适用于成熟、简短规范的 ISO“快速通道”程序",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "文档基金会批评微软18年前操纵OOXML标准获ISO认证",
+      "credibilityScore": 75,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体IT之家，内容具体有细节，但属转述TDF单方观点，缺少微软回应及独立核实"
+    },
+    {
+      "title": "上汽名爵概念小车 MG Go 量产版谍照曝光，后门把手藏在 C 柱里",
+      "link": "https://www.ithome.com/1/017/331.htm",
+      "pubDate": "Sat, 24 Oct 2026 03:24:40 GMT",
+      "contentSnippet": "IT之家 10 月 24 日消息，博主 @SugarDesign 昨天（23 日）放出了一张上汽名爵 MG Go 的量产版谍照，新车将是一款纯电小车，拥有方头方脑的姿态，尾灯内部则形成了独特的十字状。\n\n这款小车还有一处独特的设计：将后门的门把手隐藏到了 C 柱里面，强调些许个性气息。而其侧面的车身轮廓，则与 2011-2024 年生产的第二代 MG 3（IT之家注：下图）不谋而合。\n\n回顾前文提到的 MG Go 车型，其曾在今年古德伍德速度节期间以概念车的身份迎来首秀，灵感来自 MGB GT 和 MG 6R4 B 组拉力赛车等多款 MG 经典车型。根据介绍，MG Go 不是单纯复古，而是借用",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "上汽名爵MG Go量产版谍照曝光，纯电小车后门把手藏于C柱",
+      "credibilityScore": 75,
+      "credibilityLevel": "medium",
+      "credibilityReason": "知名科技媒体IT之家报道，信息具体但主要依赖博主谍照，缺乏官方确认"
+    },
+    {
+      "title": "梦幻联动：Valve 开发者出手，为任天堂 Switch 2 控制器打造 Linux 驱动",
+      "link": "https://www.ithome.com/1/017/330.htm",
+      "pubDate": "Sat, 24 Oct 2026 03:16:47 GMT",
+      "contentSnippet": "IT之家 10 月 24 日消息，科技媒体 phoronix 昨日（10 月 23 日）发布博文，报道称在 Linux 7.14 内核合并请求中，针对 HID（人机接口设备）子系统的更新通过引入初步原生驱动支持，首次添加支持任天堂 Switch 2 控制器。\n这项工作由开发者 Vicki Pfau 代表 Valve 完成，历经 16 轮补丁修改后进入 Linux 主线内核。该驱动目前可为 Joy-Con 2、Pro Controller 2 以及任天堂 Switch Online 版 GameCube 控制器提供基础输入支持。\n\nIT之家援引博文介绍，Switch 2 控制器采用了较为特殊的分",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "Valve开发者Vicki Pfau为Switch 2控制器提交Linux原生驱动，已进入内核主线",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家援引Phoronix报道，含开发者姓名、内核版本、补丁轮次等具体细节，来源可追溯"
+    },
+    {
+      "title": "宇航员的福音：太空眼药水贴片问世，失重也能精准给药",
+      "link": "https://www.ithome.com/1/017/328.htm",
+      "pubDate": "Sat, 24 Oct 2026 03:04:27 GMT",
+      "contentSnippet": "IT之家 10 月 24 日消息，科技媒体 NewsAlts 昨日（10 月 23 日）发布博文，报道称韩国科学技术院（KAIST）携手首尔大学盆唐医院研究团队，近日开发出一款可穿戴微流控眼药贴片，可在几乎失重的太空环境中帮助宇航员自行、精准地滴入眼药水。\n该研究由 KAIST 的 Ki-Hun Jeong 教授领导，相关成果已发表于《传感器与执行器 B：化学》（Sensors and Actuators B: Chemical.）上。\n\n图源：KAIST\n这款贴片约拇指指甲大小，主要由柔性生物相容聚合物制成，可贴在眼睛旁边。其内部设有三个由微通道相连的腔室，分别容纳预湿润的织物、由维生素 C",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "韩国团队研发可穿戴微流控眼药贴片，助宇航员在失重环境精准滴眼药水",
       "credibilityScore": 78,
       "credibilityLevel": "medium",
-      "credibilityReason": "钛媒体为知名科技媒体，内容涉及具体产业进展，但摘要信息简略，缺少数据与原始出处细节。"
+      "credibilityReason": "来源为IT之家转载，有研究机构、期刊出处和作者信息，但正文细节不完整，缺乏数据验证"
     },
     {
-      "title": "县城中产打“减肥针”，很快不用排队了",
-      "link": "https://www.tmtpost.com/8177985.html",
-      "pubDate": "Fri, 23 Oct 2026 11:26:00 +0800",
-      "contentSnippet": "“减肥药王”窗口期的关键一战。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "漫威《复仇者联盟 5：毁灭之日》新先导预发布：雷神和美队重逢叙旧，内地 12 月 16 日上映",
+      "link": "https://www.ithome.com/1/017/327.htm",
+      "pubDate": "Sat, 24 Oct 2026 02:58:49 GMT",
+      "contentSnippet": "IT之家 10 月 24 日消息，漫威《复仇者联盟 5：毁灭之日》联动 MLB 发布最新先导预告。\n\n新预告释出了更多新内容，包括神奇先生打棒球、雷神和前美国队长史蒂夫叙旧，蚁人不小心忘了山姆是新任美国队长等剧情切片。\nIT之家注：《复仇者联盟 5：毁灭之日》将讲述多元宇宙的故事，会链接 X 战警、神奇四侠等超级英雄的世界。而毁灭博士在故事里将执行他的计划 —— 多元宇宙碰撞导致了他的家庭破碎，因此他决定创造一个全新秩序的宇宙。\n本片内地已定档 12 月 16 日全球领先上映。\n\n《复仇者联盟 5：毁灭之日》剧照如下：\n\n\n\n\n\n\n\n\n\nIT之家小伙伴记得用最会买购买电影票，享受折扣价的同时还",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "钛媒体"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体报道县城中产使用减肥针，称排队现象将缓解",
-      "credibilityScore": 72,
+      "aiSummary": "漫威《复仇者联盟5》发布新先导预告，内地定档12月16日上映",
+      "credibilityScore": 75,
       "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体，选题具体，但摘要信息简略，缺少数据与原始出处支撑"
+      "credibilityReason": "来源为知名科技媒体IT之家，内容具体含档期与剧情细节，但属娱乐影视报道且含推广信息，技术性有限"
     },
     {
-      "title": "扫地机集体下滑，张峻彬能带云鲸摆脱others吗？",
-      "link": "https://www.tmtpost.com/8177924.html",
-      "pubDate": "Fri, 23 Oct 2026 11:23:00 +0800",
-      "contentSnippet": "扫地机扫不动了，云鲸不能再“偏科”。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "英伟达黄仁勋开炮：“AI 毁灭人类”纯属捏造，是博眼球的廉价炒作",
+      "link": "https://www.ithome.com/1/017/326.htm",
+      "pubDate": "Sat, 24 Oct 2026 02:56:44 GMT",
+      "contentSnippet": "IT之家 10 月 24 日消息，法新社于 10 月 22 日发布博文，报道称在柏林举行的公司会议上，英伟达首席执行官黄仁勋再度抨击“AI 毁灭人类”言论，认为其是无稽之谈，更多是为了制造头条新闻而进行的“捏造”和“廉价”炒作。\nIT之家翻译黄仁勋相关言论内容如下：\n\n当你听到说 AI 将会终结人类文明时，请不要相信这个言论。这些言论靠“捏造”和“廉价”炒作，博得“头条新闻”，但绝非事实。\n\n今年 9 月在接受《纽约时报》采访时，英伟达首席执行官黄仁勋也表达了相同观点，当前行业和民众对 AI 的恐慌情绪已经过头了，并认为当前 AI 不一定会替代职业，但会首先替代任务。\n针对某些科学专家认为“A",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "钛媒体"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体分析扫地机行业集体下滑，探讨云鲸创始人张峻彬能否带领公司摆脱边缘化困境。",
-      "credibilityScore": 72,
+      "aiSummary": "黄仁勋柏林会议上抨击AI毁灭人类论调为廉价炒作",
+      "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体钛媒体，选题基于行业趋势，但摘要信息较简略，缺少具体数据支撑。"
+      "credibilityReason": "IT之家编译法新社报道，有明确原始出处和具体言论，但属转译报道且内容偏简略"
     },
     {
-      "title": "人形机器人租金暴跌，厂商为什么还在铺渠道？",
-      "link": "https://www.tmtpost.com/8177860.html",
-      "pubDate": "Fri, 23 Oct 2026 11:20:00 +0800",
-      "contentSnippet": "更多门店只能让更多人看见机器人，不能让机器人自动获得工作。机器人渠道真正成熟的标志，不是又开出多少家4S店，而是每多交付一台机器人，不必再多配一名跟在旁边的工程师。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "悉尼一男子告诉 Claude“自己想枪击托儿所”，被警方逮捕",
+      "link": "https://www.ithome.com/1/017/325.htm",
+      "pubDate": "Sat, 24 Oct 2026 02:54:58 GMT",
+      "contentSnippet": "IT之家 10 月 24 日消息，澳大利亚悉尼一名男子戴维 · 兰 · 萨克雷向 Anthropic 的聊天机器人 Claude 透露，自己想杀害住所附近一家托儿所的儿童，随后被警方逮捕。\n据《悉尼先驱晨报》报道，29 岁的萨克雷与 Claude 的对话引起了国际刑警组织注意，随后于当地时间 18 日被警方拘留。警方指控他利用通信服务实施骚扰、恐吓或冒犯行为，涉嫌违反澳大利亚刑法。\n检方提交的文件显示，萨克雷曾对 Claude 说：“我现在就想去附近的韦斯特菲尔德购物中心，朝当地的托儿所开枪扫射。”\n\n报道提到，国际刑警组织通过什么途径获取了聊天记录，以及 Anthropic 是否主动向国际刑",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "钛媒体"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体分析人形机器人租金暴跌下厂商仍铺渠道的现象",
+      "aiSummary": "悉尼男子向Claude透露枪击托儿所意图，被警方逮捕",
       "credibilityScore": 78,
       "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体，观点具体有行业洞察，但正文为摘要节选，缺少数据与原始出处支撑"
+      "credibilityReason": "IT之家编译自《悉尼先驱晨报》，有具体人物、时间、指控细节，但关键信息（国际刑警获取途径）缺失，属二手编译"
     },
     {
-      "title": "小红书为何投不出下一个“完美日记”？",
-      "link": "https://www.tmtpost.com/8178523.html",
-      "pubDate": "Fri, 23 Oct 2026 11:15:00 +0800",
-      "contentSnippet": "种草红利退潮，美妆投资回归产品、技术和耐心。",
+      "title": "A Sabotaged Model Run, a Fired Intern, and a $30 Million Second Act",
+      "link": "https://www.tmtpost.com/8180275.html",
+      "pubDate": "Sat, 24 Oct 2026 10:53:04 +0800",
+      "contentSnippet": "In 2024, a ByteDance video-model team lost months to failures that looked like physics breaking. Engineers later traced the chaos to hidden code linked to a rival intern. He was dismissed and sued. Two years on, after raising nearly $30 million, he called the episode rough justice—and the argument r",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
-        "钛媒体"
+        "钛媒体",
+        "InfoQ中文",
+        "Solidot"
       ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "种草红利退潮，美妆投资回归产品、技术和耐心",
-      "credibilityScore": 75,
+      "coverageCount": 3,
+      "coverageBoost": 10,
+      "aiSummary": "字节跳动前实习生被指破坏视频模型训练，两年后融资近3000万美元",
+      "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，标题有分析深度，但摘要信息较简略，缺少具体数据支撑"
-    },
-    {
-      "title": "悄悄“清算”行政酒廊的万豪，又反悔了？",
-      "link": "https://www.tmtpost.com/8178463.html",
-      "pubDate": "Fri, 23 Oct 2026 11:09:00 +0800",
-      "contentSnippet": "开着亏钱，关了挨骂？",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "万豪调整行政酒廊政策引发争议后出现反复",
-      "credibilityScore": 60,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体，但摘要信息简略，缺少具体政策细节和数据支撑"
-    },
-    {
-      "title": "被AI改造的内容行业：焦虑、效率和新机会",
-      "link": "https://www.tmtpost.com/8177399.html",
-      "pubDate": "Fri, 23 Oct 2026 11:03:21 +0800",
-      "contentSnippet": "电商、游戏、广告、短剧、直播……AI正在进入真实商业。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体分析AI在电商、游戏、广告、短剧、直播等内容行业的应用与影响",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "知名科技媒体钛媒体出品，主题具体涉及多行业AI应用，但摘要信息较简略，缺少数据细节和原始出处"
-    },
-    {
-      "title": "马斯克的算力生意一年回本，Meta的Muse遥遥无期",
-      "link": "https://www.tmtpost.com/8178416.html",
-      "pubDate": "Fri, 23 Oct 2026 11:03:00 +0800",
-      "contentSnippet": "长期的AI故事要讲，短期的账更得算。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体对比马斯克与Meta的AI算力投资回报，称前者一年回本后者遥遥无期",
-      "credibilityScore": 55,
-      "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体但正文仅一句摘要，缺乏数据支撑与原始出处，论断难以核实"
-    },
-    {
-      "title": "宁德时代半年股价腰斩，212亿利润为何撑不起信心？",
-      "link": "https://www.tmtpost.com/8178476.html",
-      "pubDate": "Fri, 23 Oct 2026 10:59:44 +0800",
-      "contentSnippet": "营收高增长难掩利润增速放缓，宁德时代股价重挫，毛利率与现金流双双承压。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "宁德时代半年股价腰斩，212亿利润难撑信心，毛利率现金流承压",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容涉及具体财务数据，但摘要较简略，缺少原始出处引用"
-    },
-    {
-      "title": "浙旅投“笑纳”祥源文旅景区酒店资产？",
-      "link": "https://www.tmtpost.com/8178306.html",
-      "pubDate": "Fri, 23 Oct 2026 10:59:00 +0800",
-      "contentSnippet": "国资成为文旅业重要力量。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "浙旅投或接手祥源文旅景区酒店资产，国资加码文旅业",
-      "credibilityScore": 60,
-      "credibilityLevel": "medium",
-      "credibilityReason": "钛媒体为知名科技媒体，但正文仅一句摘要，缺乏交易细节与原始出处，信息量不足"
-    },
-    {
-      "title": "中国人不开的全地形车，卖到美国有多挣钱？",
-      "link": "https://www.tmtpost.com/8178288.html",
-      "pubDate": "Fri, 23 Oct 2026 10:53:00 +0800",
-      "contentSnippet": "中国品牌争夺全球千亿市场。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体报道中国全地形车品牌出口美国市场，争夺全球千亿规模市场。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "钛媒体为知名科技媒体，选题具体，但摘要信息简略，缺少数据与原始出处支撑。"
-    },
-    {
-      "title": "“宁王”跌掉一半，真正的坎在2027年",
-      "link": "https://www.tmtpost.com/8178284.html",
-      "pubDate": "Fri, 23 Oct 2026 10:48:00 +0800",
-      "contentSnippet": "需求是真是假、降价会不会来、“宁王”能否替代、差异化的护城河还守不守得住？",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体分析宁德时代股价腰斩及2027年行业关键挑战",
-      "credibilityScore": 72,
-      "credibilityLevel": "high",
-      "credibilityReason": "知名科技媒体，议题具体，但摘要缺数据细节，发布时间为未来，需核实"
+      "credibilityReason": "来源为知名科技媒体，事件细节具体，但核心指控依赖匿名信源，缺乏官方证实（多源覆盖 +10）"
     }
   ]
 }
