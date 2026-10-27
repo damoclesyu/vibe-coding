@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-26T04:00:41.272Z",
+  "generatedAt": "2026-10-27T04:21:51.202Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "王腾：ISHO 今日宜休，目标用 5-10 年时间成为全球领先的 AI 睡眠科技品牌",
-      "link": "https://www.ithome.com/1/017/809.htm",
-      "pubDate": "Mon, 26 Oct 2026 03:17:36 GMT",
-      "contentSnippet": "IT之家 10 月 26 日消息，ISHO 今日宜休今日发布了第一支品牌理念片。公司创始人王腾发文，介绍了对 ISHO 今日宜休品牌和产品的思考。\n\n他表示，从决定创业的第一天起，就明确了一件事：ISHO 今日宜休，希望打造一个 AI 睡眠科技生态，帮助更多用户能够更好的恢复和拥有好状态。我们背靠中国优秀的工程师资源和顶级的产业链能力，目标用 5-10 年的时间成为全球领先的 AI 睡眠科技品牌。\n王腾透露，ISHO 在亚洲、北美、欧洲、大洋洲、中东等地的 27 个国家或地区提交了商标注册，其中俄罗斯、沙特阿拉伯、阿联酋、新加坡、菲律宾、澳大利亚等多个国家和地区已经获批取得注册，其余国家品牌落",
+      "title": "阿里巴巴起诉美国国防部取得初步胜利，法院叫停相关禁令",
+      "link": "https://www.ithome.com/1/018/327.htm",
+      "pubDate": "Tue, 27 Oct 2026 03:45:09 GMT",
+      "contentSnippet": "IT之家 10 月 27 日消息，据彭博社报道，阿里巴巴集团在美国法院赢得了一项裁决，该公司此前对美国国防部将其列为“中国军方关联企业”的黑名单提出了异议。\n美国加州圣何塞的一名联邦法官于当地时间周一下达裁定，要求特朗普政府停止执行一项禁令，该禁令禁止五角大楼与任何为阿里巴巴集团进行“游说活动”的公司开展业务往来。\nIT之家注意到，6 月 8 日，美国国防部更新“中国军事企业名单”，将阿里巴巴、百度、比亚迪等中国企业列入其中。随后，阿里巴巴等多家公司发表声明表示强烈反对。\n阿里巴巴 6 月 9 日在港交所公告，公司注意到美国国防部已将阿里巴巴集团列入中国军工企业名单。美国国防部不得直接或间接从",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,50 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "王腾创立ISHO今日宜休，目标5-10年成全球领先AI睡眠科技品牌",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体含商标注册细节，但内容以创始人愿景表述为主，缺乏产品技术数据支撑"
-    },
-    {
-      "title": "2026 年前三季度，我国摩托车整车出口 1516.36 万辆同比增长 11.76%",
-      "link": "https://www.ithome.com/1/017/742.htm",
-      "pubDate": "Mon, 26 Oct 2026 00:37:32 GMT",
-      "contentSnippet": "IT之家 10 月 26 日消息，中国摩托车商会根据海关数据统计分析，2026 年 1-9 月，我国摩托车整车出口量为 1,516.36 万辆，较去年同期增长 11.76%，出口额为 102.87 亿美元（IT之家注：现汇率约合 688.12 亿元人民币），较去年同期增长 21.19%。\n其中非洲出口量最多，涨幅最大，出口量为 572.21 万辆，同比增长 32.05%，出口额为 31.95 亿美元（现汇率约合 213.72 亿元人民币），同比增长 38.60%。\n\n2026 年 1-9 月，我国摩托车整车进口量为 5.40 万辆，较去年同期增长 11.39%，进口额为 2.93 亿美元（现汇",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "2026年前三季度我国摩托车出口1516.36万辆，同比增长11.76%",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家报道，引用中国摩托车商会海关数据，出口量额及分区域数据详实，来源可溯"
-    },
-    {
-      "title": "AI“专属保险”：全国首个人工智能应用风险综合保障方案正式发布",
-      "link": "https://www.ithome.com/1/017/726.htm",
-      "pubDate": "Sun, 25 Oct 2026 23:21:57 GMT",
-      "contentSnippet": "IT之家 10 月 26 日消息，据央视财经报道，在近期结束的 2026 金融街论坛年会上，全国首个人工智能应用风险综合保障方案正式发布。通过保险产品分别对人工智能服务给第三方造成的损失，和人工智能供应方自身费用损失进行保障，填补国内 AI 保险市场空白。\nIT之家注意到，AI 正在接管越来越多的事情：打电话、做客服、分析农产品价格、写文案剪视频。可一旦它“说错话”侵权，或者“算错账”造成损失，谁来负责？\n今年 9 月，最高人民法院发布《关于依法审理涉人工智能纠纷案件的意见》，明确了关键规则：生成式 AI 侵权一般适用过错责任，“内容由 AI 生成”不能作为免责抗辩。也就是说谁有过错谁担责，不",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "全国首个人工智能应用风险综合保障方案在2026金融街论坛年会上发布，填补国内AI保险市场空白。",
+      "aiSummary": "阿里巴巴起诉美国国防部获初步胜利，法院叫停相关禁令",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家转引央视财经，有具体发布场合和产品保障范围，信息较详实，但缺少方案细节和原始文件引用。"
+      "credibilityReason": "IT之家援引彭博社报道，含具体时间地点和裁定内容，信息详实，但属转述报道"
     },
     {
-      "title": "遭网络攻击后，多家日本企业开始向用户支付补偿金",
-      "link": "https://www.ithome.com/1/017/817.htm",
-      "pubDate": "Mon, 26 Oct 2026 03:52:34 GMT",
-      "contentSnippet": "IT之家 10 月 26 日消息，据路透社报道，接连多轮网络攻击扰乱网络服务、引发市场对经济稳定的担忧后，多家日本企业开始向用户支付补偿金。\n\nGMO 互联网集团宣布，将对旗下外汇交易服务遭非法入侵给客户造成的损失予以赔付。董事长熊谷正寿（Masatoshi Kumagai）周日在博客中表示，所有客户都将收到 5,000 日元（IT之家注：现汇率约合 212.7 元人民币）的“初步诚意补偿金”。\n日本政府上周五宣布，将组建专项团队，借助 AI 模拟网络攻击，排查各类技术系统的漏洞。当下大量互联网服务依托 PHP 编程语言，业内机构正紧急应对 PHP 重大漏洞带来的安全风险。\n截至上周五收盘，G",
+      "title": "英伟达 RTX 5090 显卡陷停产疑云：消息称合作厂商已订不到核心芯片",
+      "link": "https://www.ithome.com/1/018/272.htm",
+      "pubDate": "Tue, 27 Oct 2026 03:14:09 GMT",
+      "contentSnippet": "IT之家 10 月 27 日消息，科技媒体 Wccftech 今天（10 月 27 日）发布博文，报道称围绕英伟达旗舰游戏显卡 GeForce RTX 5090 是否停产的争议仍在持续。\n此前有报道称该显卡已进入生命周期终点（EOL），但英伟达随后予以否认，表示 RTX 5090“绝对没有停产”，仍在继续出货，只是供应链因显存价格上涨等因素而受到限制。\n\n英伟达官方声明\n该媒体指出，从普通消费者角度来看，正规渠道已难以购入 RTX 5090 显卡，在全球多个市场多数零售渠道已显示售罄。\n德国超频玩家 Der8auer 披露，一家未具名的英伟达板卡合作伙伴表示，公司并未收到 RTX 5090 正",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -67,67 +33,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "日本多家企业遭网络攻击后向用户支付补偿金",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家编译路透社报道，有具体企业、金额和官方应对措施，信息详实可溯源"
-    },
-    {
-      "title": "Acoustune 发布 XHS1400 耳机：发声单元与连接器为独立模块",
-      "link": "https://www.ithome.com/1/017/816.htm",
-      "pubDate": "Mon, 26 Oct 2026 03:49:15 GMT",
-      "contentSnippet": "IT之家 10 月 26 日消息，日本音频设备品牌 Acoustune 当地时间 23 日发布 XHS1400 耳机。这一产品也是其 \"XHS\" 系列的首发型号，可选黑 /金 2 种配色，售价为 5.83 万日元（IT之家注：现汇率约合 2,480 元人民币）。\n\nXHS1400 的发声单元与连接器均为可拆卸独立模块，用户可将其发声单元与兼容的无线连接器组合为无线耳机。\n其外壳和声腔均采用铝合金，振膜为医用级 Myrinx 树脂，搭配锂镁合金圆顶镀膜，提供浑厚深沉的低音和清晰锐利的中高频。该耳机线原装连接器模块采用 Pentaconn Ear 接口，配合原装线材 ARC83 无氧铜线材实现 4",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "Acoustune发布XHS1400耳机，发声单元与连接器可拆卸独立模块",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息含价格、材质、接口等具体细节，来源明确，但缺少官方原始链接"
-    },
-    {
-      "title": "原生桌面级应用 WPS  for Pad 正式上线小米应用商城，支持 18 Fold、平板设备下载使用",
-      "link": "https://www.ithome.com/1/017/815.htm",
-      "pubDate": "Mon, 26 Oct 2026 03:37:59 GMT",
-      "contentSnippet": "IT之家 10 月 26 日消息，金山办公 WPS 官方微博刚刚宣布，专为平板量身打造的原生桌面级应用 WPS  for Pad，已正式上线小米应用商城。\n\n据介绍，使用小米平板 & 小米 18 Fold 的用户，将设备升级至小米澎湃 OS4 系统后，可以直接前往小米应用商城搜索「WPS for Pad」下载使用。\nIT之家注意到，WPS 还将和小米平板举行联合直播活动。届时，小米用户运营负责人 @神得强 Steven 会在直播中分享用户上手的使用体验，并进行现场实机演示。\n\n\n延伸阅读\nWPS for Pad 最早于 2026 年 3 月 9 日面向 iPad 发布，金山办公称其为 iPad",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "WPS for Pad原生桌面级应用上线小米应用商城，支持小米平板及18 Fold。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息源自WPS官方微博，内容具体含设备与系统要求，但缺少技术细节。"
-    },
-    {
-      "title": "报告：微软 XBOX 高管过去六年有五年未达成绩效目标",
-      "link": "https://www.ithome.com/1/017/813.htm",
-      "pubDate": "Mon, 26 Oct 2026 03:30:22 GMT",
-      "contentSnippet": "IT之家 10 月 26 日消息，微软 XBOX 正在大刀阔斧重组，试图扭转业务下滑的颓势。按照计划，到 2027 财年末，游戏业务将裁撤近 3200 名开发人员；目前已有数百人被解雇，多家工作室完成重组，后续还规划了多轮裁员。\n\n一份新报道披露，微软首席执行官以及 XBOX 一众高层，过去六年里有五年没能完成年度绩效目标，而这些绩效指标直接和他们的薪酬挂钩。\nIT之家注意到，GameFile 近期报道提到，XBOX 高管没能达成 Game Pass 订阅增长、XBOX 内容与服务板块的相关考核节点。\n单看刚结束的这个财年，XBOX 原定目标是在 6 月底前实现内容与服务收入增长 4.3%，最",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "报告称微软XBOX高管六年中五年未达成绩效目标，涉及Game Pass增长等指标",
+      "aiSummary": "英伟达RTX 5090陷停产疑云，厂商称订不到核心芯片，官方否认停产",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引用GameFile报道并含具体数据，但正文摘要不完整，缺少原始报告链接"
+      "credibilityReason": "IT之家转引Wccftech，含官方声明与多方信源，但核心信息未具名、缺原始出处"
     },
     {
-      "title": "英伟达下调 Rubin GPU 系统 HBM 与 NVLink 带宽，网络带宽提升",
-      "link": "https://www.ithome.com/1/017/812.htm",
-      "pubDate": "Mon, 26 Oct 2026 03:26:52 GMT",
-      "contentSnippet": "IT之家 10 月 26 日消息，根据 NVIDIA 第一方今年 10 月文档和第三方保存的今年六月文档间的对比，NVIDIA 下调了 Rubin GPU 系统的 HBM 与 NVLink 带宽，但网络带宽有所提升。\n\nVera Rubin 超级芯片的 HBM4 GPU 内存带宽此前是 44TB/s，现在是 38.5TB/s；NVLink 带宽此前是 7.2TB/s，现在是 6TB/s；横向扩展网络带宽此前是 0.8TB/s，现在是 0.9TB/s。这些数据基本上等比例地反映在 Vera Rubin NVL4 和 Vera Rubin NVL72 上，不过 Vera Rubin NVL4 的横",
+      "title": "Anthropic 上市文件披露：当今 AI 产业严重依赖天然气",
+      "link": "https://www.ithome.com/1/018/270.htm",
+      "pubDate": "Tue, 27 Oct 2026 03:09:14 GMT",
+      "contentSnippet": "IT之家 10 月 27 日消息，据外媒 The Verge 今天（27 日）早间报道，准备上市的 Anthropic 在 S-1 注册文件中，揭示了生成式 AI 产业对甲烷的严重依赖。文件写道，电力供应以及供电条件良好的数据中心选址，都面临激烈竞争。\nAnthropic 向美国证券交易委员会提交的文件承认，数据中心越来越依赖主要成分是甲烷的“天然气”。\n这意味着 Anthropic 建设 AI 数据中心的计划，将受到燃料涨价和供应链瓶颈的制约。文件还承认，燃烧化石燃料造成的全球气温上升，也会进一步推高自身运营成本。\n\n部分规划中的数据中心需要依靠燃气轮机现场发电。Anthropic 从大型云",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -135,131 +50,214 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "英伟达下调Rubin GPU的HBM与NVLink带宽，网络带宽提升",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道引用官方文档对比，数据具体，但缺少官方直接确认"
-    },
-    {
-      "title": "小鹏汽车回应车撞报废安全气囊未弹出：未达到传感器触发条件，尊重客户第三方鉴定诉求",
-      "link": "https://www.ithome.com/1/017/811.htm",
-      "pubDate": "Mon, 26 Oct 2026 03:20:24 GMT",
-      "contentSnippet": "IT之家 10 月 26 日消息，据南京晨报报道，10 月 15 日，刘先生驾驶小鹏 X9 过程中撞上了路牙，然后车辆失控接连撞上行道树和电线杆，随后车辆发生侧翻，车头被撞稀巴烂，所幸没有发生人员伤亡。保险公司勘察后认为，这辆车毁损严重，已经没有维修的必要，建议直接报废。\n\n面对这种情况，刘先生多次找到小鹏汽车 4S 店，询问汽车被撞报废了，车辆的安全气囊为何都没有打开。4S 店给刘先生的回复是该车发生碰撞时不符合气囊点爆的场景。\n10 月 22 日，南京晨报记者接到了小鹏汽车发来的邮件。在这封邮件中，小鹏汽车对于刘先生车辆发生严重损毁事故为何安全气囊没有打开一事进行了回应。\n小鹏汽车在回应中",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "小鹏回应X9撞报废气囊未弹出，称未达触发条件并尊重第三方鉴定",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家援引南京晨报及小鹏官方邮件回应，信息有出处，但技术细节简略"
-    },
-    {
-      "title": "恭喜星巴克，终于被文明了",
-      "link": "https://www.tmtpost.com/8181684.html",
-      "pubDate": "Mon, 26 Oct 2026 11:19:33 +0800",
-      "contentSnippet": "规矩立住了，就能不烧心。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体评论星巴克相关事件，标题含讽刺意味，正文信息极少",
-      "credibilityScore": 45,
-      "credibilityLevel": "low",
-      "credibilityReason": "标题党倾向明显，正文仅一句评论，无具体事实、数据或原始出处，信息严重不足"
-    },
-    {
-      "title": "vivo Y600 手机开启预售：搭载 10000mAh 大电池，国补到手价 1699 元起",
-      "link": "https://www.ithome.com/1/017/810.htm",
-      "pubDate": "Mon, 26 Oct 2026 03:19:20 GMT",
-      "contentSnippet": "IT之家 10 月 26 日消息，vivo 旗下主打长续航与户外可靠性的 Y 系列新机 vivo Y600 已开启预售，该机以“万级长续航”为核心卖点，搭载标称 10000mAh 超大容量电池，并围绕低温、跌落、防水、信号、护眼与家庭适老场景做了系统级强化，试图把千元档手机的耐用性与全场景能力进一步上探。\n\n\nIT之家附新机售价如下：\n\n6GB+128GB：零售价 1999 元，国补到手价 1699.15 元；\n\n8GB+128GB：零售价 2099 元，特惠立减 100 元，国补到手价 1699.15 元；\n\n6GB+256GB：零售价 2199 元，国补到手价 1869.15 元；\n\n8G",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "vivo Y600开启预售，配10000mAh电池，国补价1699元起",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息含具体配置与价格，来源明确，但缺少官方原始链接"
-    },
-    {
-      "title": "China’s Overseas Short-Drama Trade Shifts From Sets to Platforms",
-      "link": "https://www.tmtpost.com/8181687.html",
-      "pubDate": "Mon, 26 Oct 2026 11:19:05 +0800",
-      "contentSnippet": "Vertical short dramas once depended on rushed live shoots in Los Angeles. Generative video has collapsed production budgets, pushed work back to China, and favored apps that can distribute at scale. ByteDance is testing a free, ad-supported model overseas. Makers without distribution are losing leve",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体",
-        "少数派",
-        "InfoQ中文"
-      ],
-      "coverageCount": 3,
-      "coverageBoost": 10,
-      "aiSummary": "生成式视频降低短剧成本，中国短剧出海转向平台分发，字节跳动测试海外免费广告模式",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，内容有行业趋势和具体案例，但缺少数据支撑和原始出处，属分析性报道（多源覆盖 +10）"
-    },
-    {
-      "title": "小鹏集团 Robotaxi 小鹏悠游获批 L4 级自动驾驶示范运营资质",
-      "link": "https://www.ithome.com/1/017/808.htm",
-      "pubDate": "Mon, 26 Oct 2026 03:15:42 GMT",
-      "contentSnippet": "IT之家 10 月 26 日消息，小鹏汽车今日宣布，近日，小鹏集团获批广州市智能网联汽车应用示范运营资格，可在广州全域开展 L4 级 Robotaxi 示范运营。\n\n今年 1 月，小鹏集团取得广州智能网联汽车道路测试许可，正式进入常态化 L4 公开道路测试。3 月，小鹏集团成立 Robotaxi 业务部，统筹产品定义、研发测试与运营全链路工作，加速商业落地进程。\n今年 5 月，小鹏 GX 首台 Robotaxi 量产车正式下线。7 月，小鹏汽车 Robotaxi 开始内测，小鹏集团董事长、CEO 何小鹏成为第一单用户。\n\n今年 8 月，何小鹏透露，搭载第二代 VLA 的前装量产 Robotax",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "小鹏获批广州全域L4级Robotaxi示范运营资质",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道含具体时间线与产品细节，信息可追溯至企业官方宣布"
-    },
-    {
-      "title": "小米汽车 App“车辆助手”第二批公测开启招募，对话交互可查询车辆状态、即时 / 定时控车等",
-      "link": "https://www.ithome.com/1/017/807.htm",
-      "pubDate": "Mon, 26 Oct 2026 03:09:20 GMT",
-      "contentSnippet": "IT之家 10 月 26 日消息，小米汽车今日宣布，小米汽车 App「车辆助手」公测（第二批）体验官开启招募。\n据介绍，该功能可在 App 内对话交互，即可查询车辆状态、即时 / 定时控车，创建小米超级任务，还能总结驾驶风格、记忆用车习惯。\n\n官方表示，本功能尚在测试迭代，面向全量车主招募体验官，本次将结合报名信息综合筛选体验官。11 月 2 日完成审核通知，结果将通过站内信、短信下发，也可在 App「我的‑我的活动」查看。\n本次报名无需更新车机，跟随活动指引进行小米汽车 App 公测版本升级即可体验。\nIT之家附报名地址：\n\nhttps://web.community.car.miui.co",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "小米汽车App车辆助手第二批公测招募，支持对话查车况与控车",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息源自小米汽车官方公告，含具体功能与时间节点，但缺技术细节"
-    },
-    {
-      "title": "内娱综艺，集体进入“撕吧”模式",
-      "link": "https://www.tmtpost.com/8181635.html",
-      "pubDate": "Mon, 26 Oct 2026 11:08:00 +0800",
-      "contentSnippet": "越来越多的内娱综艺进入了‘撕吧’模式。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体分析内娱综艺集体转向冲突性'撕吧'模式的现象。",
-      "credibilityScore": 72,
+      "aiSummary": "Anthropic上市文件披露AI产业严重依赖天然气发电",
+      "credibilityScore": 78,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，但内容为行业观察评论，缺乏具体数据与原始出处，技术性较弱。"
+      "credibilityReason": "引用S-1文件及The Verge报道，来源可溯，但正文摘要截断、细节有限，属二手编译"
+    },
+    {
+      "title": "全国首个、推动跨品牌互联互通，海尔承建的国家人工智能应用中试基地（家居家电方向）在青岛启动",
+      "link": "https://www.ithome.com/1/018/341.htm",
+      "pubDate": "Tue, 27 Oct 2026 04:20:49 GMT",
+      "contentSnippet": "IT之家 10 月 27 日消息，海尔集团发文宣布，家居家电方向的国家人工智能应用中试基地（以下简称“中试基地”），于今日（10 月 27 日）在青岛举行建设启动仪式。\n该基地由商务部推荐、国家发改委审批、海尔智家承建，来自家居家电企业、人工智能技术团队、高校院所的 200 多位行业专家代表出席活动。\n\n该基地的目标是打造全球引领的“新一代智慧家电”中试基地，让 AI 创新从“单打独斗”走向全行业“联合攻坚”，沉淀可复用的公共能力，推动人工智能规模化、标准化应用。\nIT之家注：中试，即“中间阶段试验”，是指把处在试制阶段的新产品转化到生产过程的过渡性试验，是产品在实验室研发成功后、正式投入大规",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "海尔承建的家居家电国家AI中试基地在青岛启动",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息含审批主体、承建方及活动细节，但缺乏具体技术数据与原始文件引用"
+    },
+    {
+      "title": "《仙剑奇侠传四：重制》游戏官宣 12 月 5 日公布定价、发售时间等信息",
+      "link": "https://www.ithome.com/1/018/340.htm",
+      "pubDate": "Tue, 27 Oct 2026 04:13:22 GMT",
+      "contentSnippet": "IT之家 10 月 27 日消息，方块游戏今日发布公告，《仙剑奇侠传四：重制》的开发工作进展平稳，但作品仍需细细打磨。逢《仙剑奇侠传四》问世十九周年，2026 年 12 月 5 日，方块游戏将在安徽合肥举办“寻仙之夜”仙剑大型嘉年华活动。\n\n本次活动免费向玩家开放，活动现场不仅设有制作人对话、舞台演出、沉浸式游园等环节，也会在当天现场正式公开《仙剑奇侠传四：重制》相关情报，包含全新游戏 PV、音乐、实机演示、定价、发售时间与实体版相关消息。\n\n\n活动时间：2026 年 12 月 5 日 10:00 - 18:00\n\n晚会时间：16:00 – 18:00\n\n举办地点：安徽合肥滨湖国际会展中心 4",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "方块游戏宣布12月5日合肥嘉年华将公布《仙剑四重制》定价及发售时间",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息源自官方公告，时间地点细节具体，但属转发非原创"
+    },
+    {
+      "title": "知情人士：DeepSeek 大举扩充团队，梁文锋长期在北京租房",
+      "link": "https://www.ithome.com/1/018/339.htm",
+      "pubDate": "Tue, 27 Oct 2026 04:11:26 GMT",
+      "contentSnippet": "凤凰网科技讯 10 月 27 日，随着新一轮融资受到关注，DeepSeek 的团队扩张也在加速。多位知情人士向凤凰网科技透露，DeepSeek 近期扩张势头很猛。一位接近 DeepSeek 的人士表示，公司正在向投资人规划新的增长路线，其中包括大举扩充团队。\n这位接近 DeepSeek 的人士还透露，DeepSeek 的办公地主要位于北京和杭州。创始人梁文锋长期在北京租房居住，房间布置一直比较简单。\n近期，多家媒体报道称，DeepSeek 即将完成新一轮融资，规模约为 1000 亿元人民币。据相关报道，这轮融资的计划规模从最初的 500 亿元上调至 800 亿元，随后进一步增至约 1000 亿",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "知情人士称DeepSeek加速扩团队，梁文锋长期在北京租房",
+      "credibilityScore": 62,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为凤凰网科技转述匿名知情人士，融资规模等关键信息缺乏官方确认，细节偏八卦"
+    },
+    {
+      "title": "佛罗里达理工大学喜提“飞行警车”：极速 102km/h 的 eVTOL 飞行器",
+      "link": "https://www.ithome.com/1/018/338.htm",
+      "pubDate": "Tue, 27 Oct 2026 04:07:03 GMT",
+      "contentSnippet": "IT之家 10 月 27 日消息，据外媒 Carscoops 今天（27 日）上午报道，佛罗里达理工大学接收了一架电动垂直起降飞行器（eVTOL） Jetson ONE，外形类似大型四旋翼无人机，可搭载一名驾驶员。\n校方称，这架“飞行警车”价值 14.8 万美元（IT之家注：现汇率约合 98.9 万元人民币），不仅能协助搜寻失踪人员，还能前往普通车辆无法抵达的偏远地区。学生也可以利用它收集数据、开展研究，积累新型飞行技术的实际操作经验。\n\n这架飞行器昵称 Astro，取自 20 世纪 60 年代动画片《杰森一家》中的宠物狗。制造商 Jetson 总部设在加利福尼亚州，公司也因这部动画片而得名。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "佛罗里达理工大学接收14.8万美元Jetson ONE eVTOL飞行器用于搜寻与研究",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "IT之家转引Carscoops，信息具体含价格型号，但缺技术参数与原始出处，属知名媒体二手编译"
+    },
+    {
+      "title": "消息称日本经产省将发放 1000 亿日元柔性钙钛矿太阳能电池商业化补贴",
+      "link": "https://www.ithome.com/1/018/337.htm",
+      "pubDate": "Tue, 27 Oct 2026 04:06:44 GMT",
+      "contentSnippet": "IT之家 10 月 27 日消息，《日本经济新闻》当地时间昨日报道称，该国经济产业省即将选定向理光和长州产业两家企业合计授予 1,000 亿日元（现汇率约合 42.45 亿元人民币）的补贴，用于支持柔性钙钛矿太阳能电池的商业化。\n这项补贴持续到 2029 财年（2030 年 3 月底结束），获资助企业至少也要向大规模生产设施的建设投入同等数额的资金。\n\n▲ 理光产品\nIT之家了解到，理光在柔性钙钛矿太阳能电池上采用喷墨打印技术路线，而长州产业则将钙钛矿层叠加在传统的硅太阳能电池板上。其它日本企业方面，积水化学子公司计划 2027 年启动钙钛矿太阳能电池量产，松下则规划了光伏建材。\n日本政府计划",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "日本经产省拟向理光和长州产业发放1000亿日元补贴，支持柔性钙钛矿太阳能电池商业化。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家援引日经新闻报道，含具体金额、企业、技术路线和时间节点，信息详实，但属二手转述。"
+    },
+    {
+      "title": "微信鸿蒙版 App 获 8.0.23.16 邀测升级：公众号图标对齐其他端、新增铃声设置入口等",
+      "link": "https://www.ithome.com/1/018/336.htm",
+      "pubDate": "Tue, 27 Oct 2026 04:04:15 GMT",
+      "contentSnippet": "IT之家 10 月 27 日消息，微信鸿蒙版 App 已在华为应用市场（App Gallery）开启了 8.0.23.16 (8394512) 版本邀测升级（需收到短信通知后点击链接跳转安装），测试时间为 2026/10/26-2026/11/25。\n\n和往常一样，本次更新的说明依旧为“修复了一些已知问题”。据博主 @伤心萨摩耶Ciuciu 反馈，8.0.23 版本的微信新增了如下特性：\n\n\n部分 Flutter 跨端页面（如朋友圈、听一听、表情管理等页面）响应系统字体粗细；\n\n更换铃声选择界面右上角新增铃声设置入口，支持启用或停用个性化内容推荐；\n\n发表视频号内容时新增添加标注；\n\n发现-直",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微信鸿蒙版8.0.23.16邀测升级，新增公众号图标对齐、铃声设置入口等特性。",
+      "credibilityScore": 78,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，信息具体含版本号与测试时间，但部分特性依赖博主反馈，官方更新说明简略。"
+    },
+    {
+      "title": "解决外卖进不了医院问题，顺丰速运、顺丰同城、美团共推骑手“接力送”方案",
+      "link": "https://www.ithome.com/1/018/328.htm",
+      "pubDate": "Tue, 27 Oct 2026 03:48:28 GMT",
+      "contentSnippet": "IT之家 10 月 27 日消息，据顺丰同城官方 10 月 26 日消息，为推进新就业群体友好场景建设，破解大型综合医院“外卖进不了院、送不上楼”难题，依托顺丰速运、顺丰同城、美团三方共建的医院“骑手（快递）一站式服务中心”，顺丰同城携手顺丰速运、美团、医院、社区街道推出医院场景“接力送”分段配送方案，以取送分离、分段接力、定点交接、专业运营的创新模式，让用户收餐更便捷、骑手配送更高效。\n\n据介绍，大型医院是即时配送长期以来的难点场景。部分医院实行封闭管理，外部骑手难以进入院区送餐，餐品只能放在院外指定点位，需要医护职工、患者家属等下楼自取；也有医院允许骑手进入院区，但由于楼栋分散、电梯资源紧",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "顺丰同城、顺丰速运与美团共推医院场景骑手接力送方案",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家报道，引用顺丰同城官方消息，信息具体，但缺乏数据支撑和第三方验证"
+    },
+    {
+      "title": "酷凛 FROZN A612 BLACK 风冷上市：8cm 厚单塔，280W TDP，首发价 249 元",
+      "link": "https://www.ithome.com/1/018/326.htm",
+      "pubDate": "Tue, 27 Oct 2026 03:45:06 GMT",
+      "contentSnippet": "IT之家 10 月 27 日消息，ID-COOLING（酷凛）现已开始在电商平台销售处理器风冷散热器 FROZN A612 BLACK（雪格 612 墨影），首发价 249 元。\n\n这一散热器采用厚单塔双风扇六热管铜底设计，整体高度 160mm，塔体厚度 80mm，配备 2 颗 12025 规格的 AM-120 闭环电机风扇，拥有 280W 的热设计功耗。\n\nFROZN A612 BLACK 塔体采用折 Fin + 扣 Fin 工艺，热管偏移以避免对内存模组等组件安装的干扰，支持快装风扇，配备全金属压力扣具，兼容英特尔 Socket V / H 和 AMD Socket AM5 / AM4 平",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "酷凛FROZN A612 BLACK风冷散热器上市，280W TDP首发249元",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，产品规格参数具体详实，含价格、尺寸、兼容性等细节"
+    },
+    {
+      "title": "工信部组织召开汽车产业国际合作圆桌会，12 个国家和地区代表参会",
+      "link": "https://www.ithome.com/1/018/325.htm",
+      "pubDate": "Tue, 27 Oct 2026 03:35:40 GMT",
+      "contentSnippet": "IT之家 10 月 27 日消息，工业和信息化今日发文，在 2026 世界智能网联汽车大会期间，工业和信息化部党组成员、副部长辛国斌主持召开汽车产业国际合作圆桌会。\n来自马来西亚、埃及、韩国、澳大利亚、芬兰、德国、卢森堡、新西兰、新加坡、泰国、英国等 12 个国家和地区的政府部门、驻华使馆、国际机构和行业组织近 50 名代表参会。\n辛国斌表示，智能网联汽车正在推动汽车产品形态、能源消费结构、交通出行模式发生深刻变化。全球主要汽车国家纷纷加快战略布局，加强技术研发与示范应用，完善政策法规与标准规范，为产业发展创造良好环境。我们愿与各方一道，加强对话沟通、深化政策协同、强化务实合作，与全球行业同仁",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "工信部副部长辛国斌主持汽车产业国际合作圆桌会，12国代表参会",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家，引述工信部官方发文，信息具体含人物、国家数、会议背景，属权威官方信息转述"
+    },
+    {
+      "title": "闪迪哨兵 microSD 存储卡上市：行车记录仪、安防监控双版本",
+      "link": "https://www.ithome.com/1/018/323.htm",
+      "pubDate": "Tue, 27 Oct 2026 03:33:00 GMT",
+      "contentSnippet": "IT之家 10 月 27 日消息，Sandisk（闪迪）此前推出的 SANDISK Guardian 哨兵系列 microSD 存储卡现已上市。\n\n这批存储卡分为适合行车记录仪的 Dash Cam 和适合安防监控的 Security Cam 两个分支版本，两者均覆盖 32GB / 64GB / 128GB / 256GB / 512GB 共五个容量点，享受 2 年质保\n闪迪哨兵行车记录仪 microSD 卡专为复杂驾驶环境下实现持续、高耐久性视频录制而设计，能够应对长途驾驶过程中的高温及潮湿，支持从 FHD 至 4K UHD 的高分辨率视频录制。其到手价如下：\n\n32GB：189 元；\n\n64",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "闪迪哨兵系列microSD卡上市，分行车记录仪和安防监控两版本，五容量可选",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，产品信息具体含容量价格质保，但缺少官方原始出处引用"
+    },
+    {
+      "title": "反诈博主“徽剑”被曝 2 年前遭买凶遇害，曾公开举报陈志犯罪集团重要骨干成员刘忍",
+      "link": "https://www.ithome.com/1/018/321.htm",
+      "pubDate": "Tue, 27 Oct 2026 03:32:48 GMT",
+      "contentSnippet": "IT之家 10 月 27 日消息，据界面新闻今日报道，反诈博主“徽剑”（原名吴恺）已于两年前遇害。他生前持续公开举报的对象，正是 2026 年 6 月被押解回国的柬埔寨太子集团骨干、柬埔寨安徽商会会长刘忍。\n\n报道提到，吴恺曾在微信公众号上持续曝光缅北、柬埔寨电诈内幕，拥有数十万粉丝。后“徽剑”公众号停止更新，外界一度流传他“因敲诈勒索被抓”。\n界面新闻近日获得的裁判文书显示，吴恺当时在广东惠州被数人劫持，辗转带至广东河源、江西赣州，遭持续殴打折磨，被遗弃在赣州定南县一处山上后死亡。\n根据公开报道，吴恺早年是深圳一名网络策划人。2012 年，他以“徽剑”为网名在微博爆料某地产名人绯闻，被《环球",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "反诈博主徽剑两年前遭劫持殴打遇害，生前举报电诈骨干",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "IT之家引述界面新闻及裁判文书，信息具体；但事件敏感且细节待官方确认"
+    },
+    {
+      "title": "华瓷股份三季度盈利承压：外销订单受约束，第二增长曲线尚在路上|看财报",
+      "link": "https://www.tmtpost.com/8183215.html",
+      "pubDate": "Tue, 27 Oct 2026 11:29:01 +0800",
+      "contentSnippet": "新材料业务是否成为第二曲线，要等时间的检验",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "华瓷股份三季度盈利承压，外销订单受限，第二增长曲线待验证",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体钛媒体，基于财报数据，内容具体但细节有限，属客观分析报道"
     }
   ]
 }
