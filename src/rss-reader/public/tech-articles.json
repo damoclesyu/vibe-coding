@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-27T04:21:51.202Z",
+  "generatedAt": "2026-10-28T04:52:27.978Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "阿里巴巴起诉美国国防部取得初步胜利，法院叫停相关禁令",
-      "link": "https://www.ithome.com/1/018/327.htm",
-      "pubDate": "Tue, 27 Oct 2026 03:45:09 GMT",
-      "contentSnippet": "IT之家 10 月 27 日消息，据彭博社报道，阿里巴巴集团在美国法院赢得了一项裁决，该公司此前对美国国防部将其列为“中国军方关联企业”的黑名单提出了异议。\n美国加州圣何塞的一名联邦法官于当地时间周一下达裁定，要求特朗普政府停止执行一项禁令，该禁令禁止五角大楼与任何为阿里巴巴集团进行“游说活动”的公司开展业务往来。\nIT之家注意到，6 月 8 日，美国国防部更新“中国军事企业名单”，将阿里巴巴、百度、比亚迪等中国企业列入其中。随后，阿里巴巴等多家公司发表声明表示强烈反对。\n阿里巴巴 6 月 9 日在港交所公告，公司注意到美国国防部已将阿里巴巴集团列入中国军工企业名单。美国国防部不得直接或间接从",
+      "title": "全球首展：高通 6G 终端原型机将在第九届进博会正式亮相",
+      "link": "https://www.ithome.com/1/018/881.htm",
+      "pubDate": "Wed, 28 Oct 2026 04:31:17 GMT",
+      "contentSnippet": "IT之家 10 月 28 日消息，据《科创板日报》今天（28 日）午间报道，第九届中国国际进口博览会开幕在即，高通将连续第九年参展，展示 6G、智能体 AI 与多元智能终端成果。\n据悉，高通将于本次进博会进行 6G 终端原型机的全球首展。该原型机已用于与中国移动、中兴通讯等中国产业伙伴的联合 6G 技术测试和互操作验证。\n此外，展台还将集中呈现智能体 AI 与多元智能终端创新，包括智能体设备、最新旗舰智能手机、AI PC、智能眼镜、汽车和机器人等多元智能终端，以及 AI 影像、XR 等互动体验。\n据IT之家此前报道，今年 9 月 20 日，中国移动、高通共同宣布，双方在中国移动协同创新基地基于",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,16 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "阿里巴巴起诉美国国防部获初步胜利，法院叫停相关禁令",
+      "aiSummary": "高通将在第九届进博会全球首展6G终端原型机，已用于与中国移动等联合测试。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家援引彭博社报道，含具体时间地点和裁定内容，信息详实，但属转述报道"
+      "credibilityReason": "来源为知名科技媒体IT之家，引用科创板日报，信息具体含合作方与测试细节，但正文摘要不完整。"
     },
     {
-      "title": "英伟达 RTX 5090 显卡陷停产疑云：消息称合作厂商已订不到核心芯片",
-      "link": "https://www.ithome.com/1/018/272.htm",
-      "pubDate": "Tue, 27 Oct 2026 03:14:09 GMT",
-      "contentSnippet": "IT之家 10 月 27 日消息，科技媒体 Wccftech 今天（10 月 27 日）发布博文，报道称围绕英伟达旗舰游戏显卡 GeForce RTX 5090 是否停产的争议仍在持续。\n此前有报道称该显卡已进入生命周期终点（EOL），但英伟达随后予以否认，表示 RTX 5090“绝对没有停产”，仍在继续出货，只是供应链因显存价格上涨等因素而受到限制。\n\n英伟达官方声明\n该媒体指出，从普通消费者角度来看，正规渠道已难以购入 RTX 5090 显卡，在全球多个市场多数零售渠道已显示售罄。\n德国超频玩家 Der8auer 披露，一家未具名的英伟达板卡合作伙伴表示，公司并未收到 RTX 5090 正",
+      "title": "AI 推高元器件成本，消息称惠普、华硕、宏碁将部分 PC 产能迁回中国",
+      "link": "https://www.ithome.com/1/018/779.htm",
+      "pubDate": "Wed, 28 Oct 2026 03:04:44 GMT",
+      "contentSnippet": "IT之家 10 月 28 日消息，据《日经亚洲》报道，惠普、华硕、宏碁等主流个人电脑厂商正应对零部件成本暴涨的压力，将部分产能从泰国、越南迁回中国，同时和新一代代工厂展开合作。\n\n多名消息人士透露，受人工智能需求拉动，内存与存储芯片供应严重紧缺，整机物料成本上涨，这些 PC 厂商正寻求提升生产效率。中国拥有成熟的产业工人队伍、更低的成本以及完备的供应链体系，零部件获取渠道齐全，仍是电脑生产的最优选择。\n这些 PC 厂商转而和一些知名度相对较低的中国代工厂合作，因为体量更大的老牌代工厂如今订单重心转向了利润率更高的 AI 数据中心服务器。消息还称，排名第三的美国 PC 厂商戴尔（仅次于联想和惠普",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -33,50 +33,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "英伟达RTX 5090陷停产疑云，厂商称订不到核心芯片，官方否认停产",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家转引Wccftech，含官方声明与多方信源，但核心信息未具名、缺原始出处"
-    },
-    {
-      "title": "Anthropic 上市文件披露：当今 AI 产业严重依赖天然气",
-      "link": "https://www.ithome.com/1/018/270.htm",
-      "pubDate": "Tue, 27 Oct 2026 03:09:14 GMT",
-      "contentSnippet": "IT之家 10 月 27 日消息，据外媒 The Verge 今天（27 日）早间报道，准备上市的 Anthropic 在 S-1 注册文件中，揭示了生成式 AI 产业对甲烷的严重依赖。文件写道，电力供应以及供电条件良好的数据中心选址，都面临激烈竞争。\nAnthropic 向美国证券交易委员会提交的文件承认，数据中心越来越依赖主要成分是甲烷的“天然气”。\n这意味着 Anthropic 建设 AI 数据中心的计划，将受到燃料涨价和供应链瓶颈的制约。文件还承认，燃烧化石燃料造成的全球气温上升，也会进一步推高自身运营成本。\n\n部分规划中的数据中心需要依靠燃气轮机现场发电。Anthropic 从大型云",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "Anthropic上市文件披露AI产业严重依赖天然气发电",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "引用S-1文件及The Verge报道，来源可溯，但正文摘要截断、细节有限，属二手编译"
-    },
-    {
-      "title": "全国首个、推动跨品牌互联互通，海尔承建的国家人工智能应用中试基地（家居家电方向）在青岛启动",
-      "link": "https://www.ithome.com/1/018/341.htm",
-      "pubDate": "Tue, 27 Oct 2026 04:20:49 GMT",
-      "contentSnippet": "IT之家 10 月 27 日消息，海尔集团发文宣布，家居家电方向的国家人工智能应用中试基地（以下简称“中试基地”），于今日（10 月 27 日）在青岛举行建设启动仪式。\n该基地由商务部推荐、国家发改委审批、海尔智家承建，来自家居家电企业、人工智能技术团队、高校院所的 200 多位行业专家代表出席活动。\n\n该基地的目标是打造全球引领的“新一代智慧家电”中试基地，让 AI 创新从“单打独斗”走向全行业“联合攻坚”，沉淀可复用的公共能力，推动人工智能规模化、标准化应用。\nIT之家注：中试，即“中间阶段试验”，是指把处在试制阶段的新产品转化到生产过程的过渡性试验，是产品在实验室研发成功后、正式投入大规",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "海尔承建的家居家电国家AI中试基地在青岛启动",
+      "aiSummary": "AI推高元器件成本，惠普华硕宏碁将部分PC产能迁回中国",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息含审批主体、承建方及活动细节，但缺乏具体技术数据与原始文件引用"
+      "credibilityReason": "IT之家援引日经亚洲报道，有多名消息人士，信息具体，逻辑清晰，但缺原始链接"
     },
     {
-      "title": "《仙剑奇侠传四：重制》游戏官宣 12 月 5 日公布定价、发售时间等信息",
-      "link": "https://www.ithome.com/1/018/340.htm",
-      "pubDate": "Tue, 27 Oct 2026 04:13:22 GMT",
-      "contentSnippet": "IT之家 10 月 27 日消息，方块游戏今日发布公告，《仙剑奇侠传四：重制》的开发工作进展平稳，但作品仍需细细打磨。逢《仙剑奇侠传四》问世十九周年，2026 年 12 月 5 日，方块游戏将在安徽合肥举办“寻仙之夜”仙剑大型嘉年华活动。\n\n本次活动免费向玩家开放，活动现场不仅设有制作人对话、舞台演出、沉浸式游园等环节，也会在当天现场正式公开《仙剑奇侠传四：重制》相关情报，包含全新游戏 PV、音乐、实机演示、定价、发售时间与实体版相关消息。\n\n\n活动时间：2026 年 12 月 5 日 10:00 - 18:00\n\n晚会时间：16:00 – 18:00\n\n举办地点：安徽合肥滨湖国际会展中心 4",
+      "title": "柳叶刀倒计时报告：气候变化对人类健康的危害正加速攀升",
+      "link": "https://www.ithome.com/1/018/736.htm",
+      "pubDate": "Wed, 28 Oct 2026 00:58:22 GMT",
+      "contentSnippet": "IT之家 10 月 28 日消息，一份于周三发布的全球重要评估报告显示，气候变化对人类健康造成的负面影响不仅日益加剧，而且其恶化速度也比十年前更快。\n\n据IT之家了解，这份报告是国际科学家合作项目《柳叶刀倒计时》（Lancet Countdown）发布的第十份年度报告。该项目持续追踪全球变暖与人类健康之间的关系。本次报告对比了《巴黎气候协定》签署前后的两个十年，发现多项重大健康威胁在协定签署后加速恶化，其中包括致命高温和干旱。与此同时，各国也在加大清洁能源投资，并采取措施保护民众免受气候灾害影响。\n这份报告发布之际，欧洲刚刚经历了一个高温肆虐的夏季，热浪造成数万人死亡。此外，联合国将于近期在土",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -84,118 +50,51 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "方块游戏宣布12月5日合肥嘉年华将公布《仙剑四重制》定价及发售时间",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息源自官方公告，时间地点细节具体，但属转发非原创"
-    },
-    {
-      "title": "知情人士：DeepSeek 大举扩充团队，梁文锋长期在北京租房",
-      "link": "https://www.ithome.com/1/018/339.htm",
-      "pubDate": "Tue, 27 Oct 2026 04:11:26 GMT",
-      "contentSnippet": "凤凰网科技讯 10 月 27 日，随着新一轮融资受到关注，DeepSeek 的团队扩张也在加速。多位知情人士向凤凰网科技透露，DeepSeek 近期扩张势头很猛。一位接近 DeepSeek 的人士表示，公司正在向投资人规划新的增长路线，其中包括大举扩充团队。\n这位接近 DeepSeek 的人士还透露，DeepSeek 的办公地主要位于北京和杭州。创始人梁文锋长期在北京租房居住，房间布置一直比较简单。\n近期，多家媒体报道称，DeepSeek 即将完成新一轮融资，规模约为 1000 亿元人民币。据相关报道，这轮融资的计划规模从最初的 500 亿元上调至 800 亿元，随后进一步增至约 1000 亿",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "知情人士称DeepSeek加速扩团队，梁文锋长期在北京租房",
-      "credibilityScore": 62,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为凤凰网科技转述匿名知情人士，融资规模等关键信息缺乏官方确认，细节偏八卦"
-    },
-    {
-      "title": "佛罗里达理工大学喜提“飞行警车”：极速 102km/h 的 eVTOL 飞行器",
-      "link": "https://www.ithome.com/1/018/338.htm",
-      "pubDate": "Tue, 27 Oct 2026 04:07:03 GMT",
-      "contentSnippet": "IT之家 10 月 27 日消息，据外媒 Carscoops 今天（27 日）上午报道，佛罗里达理工大学接收了一架电动垂直起降飞行器（eVTOL） Jetson ONE，外形类似大型四旋翼无人机，可搭载一名驾驶员。\n校方称，这架“飞行警车”价值 14.8 万美元（IT之家注：现汇率约合 98.9 万元人民币），不仅能协助搜寻失踪人员，还能前往普通车辆无法抵达的偏远地区。学生也可以利用它收集数据、开展研究，积累新型飞行技术的实际操作经验。\n\n这架飞行器昵称 Astro，取自 20 世纪 60 年代动画片《杰森一家》中的宠物狗。制造商 Jetson 总部设在加利福尼亚州，公司也因这部动画片而得名。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "佛罗里达理工大学接收14.8万美元Jetson ONE eVTOL飞行器用于搜寻与研究",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "IT之家转引Carscoops，信息具体含价格型号，但缺技术参数与原始出处，属知名媒体二手编译"
-    },
-    {
-      "title": "消息称日本经产省将发放 1000 亿日元柔性钙钛矿太阳能电池商业化补贴",
-      "link": "https://www.ithome.com/1/018/337.htm",
-      "pubDate": "Tue, 27 Oct 2026 04:06:44 GMT",
-      "contentSnippet": "IT之家 10 月 27 日消息，《日本经济新闻》当地时间昨日报道称，该国经济产业省即将选定向理光和长州产业两家企业合计授予 1,000 亿日元（现汇率约合 42.45 亿元人民币）的补贴，用于支持柔性钙钛矿太阳能电池的商业化。\n这项补贴持续到 2029 财年（2030 年 3 月底结束），获资助企业至少也要向大规模生产设施的建设投入同等数额的资金。\n\n▲ 理光产品\nIT之家了解到，理光在柔性钙钛矿太阳能电池上采用喷墨打印技术路线，而长州产业则将钙钛矿层叠加在传统的硅太阳能电池板上。其它日本企业方面，积水化学子公司计划 2027 年启动钙钛矿太阳能电池量产，松下则规划了光伏建材。\n日本政府计划",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "日本经产省拟向理光和长州产业发放1000亿日元补贴，支持柔性钙钛矿太阳能电池商业化。",
+      "aiSummary": "柳叶刀倒计时报告称气候变化健康危害加速恶化",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家援引日经新闻报道，含具体金额、企业、技术路线和时间节点，信息详实，但属二手转述。"
+      "credibilityReason": "引用权威医学期刊年度报告，有具体对比数据，但缺少报告原文链接及详细数据"
     },
     {
-      "title": "微信鸿蒙版 App 获 8.0.23.16 邀测升级：公众号图标对齐其他端、新增铃声设置入口等",
-      "link": "https://www.ithome.com/1/018/336.htm",
-      "pubDate": "Tue, 27 Oct 2026 04:04:15 GMT",
-      "contentSnippet": "IT之家 10 月 27 日消息，微信鸿蒙版 App 已在华为应用市场（App Gallery）开启了 8.0.23.16 (8394512) 版本邀测升级（需收到短信通知后点击链接跳转安装），测试时间为 2026/10/26-2026/11/25。\n\n和往常一样，本次更新的说明依旧为“修复了一些已知问题”。据博主 @伤心萨摩耶Ciuciu 反馈，8.0.23 版本的微信新增了如下特性：\n\n\n部分 Flutter 跨端页面（如朋友圈、听一听、表情管理等页面）响应系统字体粗细；\n\n更换铃声选择界面右上角新增铃声设置入口，支持启用或停用个性化内容推荐；\n\n发表视频号内容时新增添加标注；\n\n发现-直",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "【钛晨报】多项智能出行国际标准发布；Anthropic降价引爆调用量，知名投资人：1000亿美元级年终ARR再成可能；东山精密：最终发售价为每股86.8港元，国际发售获3.17倍认购",
+      "link": "https://www.tmtpost.com/8183890.html",
+      "pubDate": "Wed, 28 Oct 2026 07:20:00 +0800",
+      "contentSnippet": "年收入逼近400亿元？红果短剧回应：不实；并入火山近百日后，飞书首席战略官史志隽将卸任转顾问；马斯克称SpaceX移动网络建设将耗时2至3年；新规出炉：有线电视不得播放开机广告；事关能源保供中长期合同管理，国家发展改革委作出部署；13家科创50公司正在实施回购计划，预计金额上限超50亿元；中国作为首批签约国签署《联合国可转让货物单证公约》；崔东树：2026年1-9月汽车行业利润率3.3%；国家统计局：1—9月份全国规模以上工业企业利润增长15.5%",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
       "allSources": [
-        "IT之家"
+        "钛媒体",
+        "Solidot"
       ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "微信鸿蒙版8.0.23.16邀测升级，新增公众号图标对齐、铃声设置入口等特性。",
-      "credibilityScore": 78,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，信息具体含版本号与测试时间，但部分特性依赖博主反馈，官方更新说明简略。"
-    },
-    {
-      "title": "解决外卖进不了医院问题，顺丰速运、顺丰同城、美团共推骑手“接力送”方案",
-      "link": "https://www.ithome.com/1/018/328.htm",
-      "pubDate": "Tue, 27 Oct 2026 03:48:28 GMT",
-      "contentSnippet": "IT之家 10 月 27 日消息，据顺丰同城官方 10 月 26 日消息，为推进新就业群体友好场景建设，破解大型综合医院“外卖进不了院、送不上楼”难题，依托顺丰速运、顺丰同城、美团三方共建的医院“骑手（快递）一站式服务中心”，顺丰同城携手顺丰速运、美团、医院、社区街道推出医院场景“接力送”分段配送方案，以取送分离、分段接力、定点交接、专业运营的创新模式，让用户收餐更便捷、骑手配送更高效。\n\n据介绍，大型医院是即时配送长期以来的难点场景。部分医院实行封闭管理，外部骑手难以进入院区送餐，餐品只能放在院外指定点位，需要医护职工、患者家属等下楼自取；也有医院允许骑手进入院区，但由于楼栋分散、电梯资源紧",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "顺丰同城、顺丰速运与美团共推医院场景骑手接力送方案",
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "钛媒体晨报汇总智能出行标准、Anthropic降价及东山精密港股定价等科技财经要闻",
       "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家报道，引用顺丰同城官方消息，信息具体，但缺乏数据支撑和第三方验证"
+      "credibilityReason": "钛媒体为知名科技媒体，信息具体含数据，但晨报为聚合摘要，部分条目缺原始出处（多源覆盖 +5）"
     },
     {
-      "title": "酷凛 FROZN A612 BLACK 风冷上市：8cm 厚单塔，280W TDP，首发价 249 元",
-      "link": "https://www.ithome.com/1/018/326.htm",
-      "pubDate": "Tue, 27 Oct 2026 03:45:06 GMT",
-      "contentSnippet": "IT之家 10 月 27 日消息，ID-COOLING（酷凛）现已开始在电商平台销售处理器风冷散热器 FROZN A612 BLACK（雪格 612 墨影），首发价 249 元。\n\n这一散热器采用厚单塔双风扇六热管铜底设计，整体高度 160mm，塔体厚度 80mm，配备 2 颗 12025 规格的 AM-120 闭环电机风扇，拥有 280W 的热设计功耗。\n\nFROZN A612 BLACK 塔体采用折 Fin + 扣 Fin 工艺，热管偏移以避免对内存模组等组件安装的干扰，支持快装风扇，配备全金属压力扣具，兼容英特尔 Socket V / H 和 AMD Socket AM5 / AM4 平",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "数据中心搅动世界",
+      "link": "https://www.solidot.org/story?sid=85726",
+      "pubDate": "Tue, 27 Oct 2026 22:58:58 +0800",
+      "contentSnippet": "很多人几年前可能还不知道什么是数据中心，它是现代互联网服务的引擎，也是今天 AI 热的核心。但数据中心数量的快速增长、巨大的电力消耗，以及环境影响，正在全球引发公众的抵制。根据 Data Center Map 的数据，目前全世界有约 12,250 个数据中心，而 2021 年这个数字是大约 8000 个，其中美国最多有 4,767 个，弗吉尼亚州密度最高。美国的数据中心装机容量为 53.73 GW，中国 31.90 GW，欧盟 11.92 GW，日韩 6.58 GW，印度为 3.55 GW，英国 2.59 GW。目前全球投入运营的最大数据中心是中国电信在内蒙古呼和浩特的一处设施，占地约 100",
+      "sourceName": "Solidot",
+      "sourceWeight": 75,
       "allSources": [
-        "IT之家"
+        "Solidot"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "酷凛FROZN A612 BLACK风冷散热器上市，280W TDP首发249元",
-      "credibilityScore": 85,
+      "aiSummary": "全球数据中心数量激增引发电力消耗与环境抵制，美国装机容量领先。",
+      "credibilityScore": 78,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，产品规格参数具体详实，含价格、尺寸、兼容性等细节"
+      "credibilityReason": "来源为知名科技媒体Solidot，引用Data Center Map数据，信息具体含装机容量与排名，但正文摘要截断且未提供原始报告链接。"
     },
     {
-      "title": "工信部组织召开汽车产业国际合作圆桌会，12 个国家和地区代表参会",
-      "link": "https://www.ithome.com/1/018/325.htm",
-      "pubDate": "Tue, 27 Oct 2026 03:35:40 GMT",
-      "contentSnippet": "IT之家 10 月 27 日消息，工业和信息化今日发文，在 2026 世界智能网联汽车大会期间，工业和信息化部党组成员、副部长辛国斌主持召开汽车产业国际合作圆桌会。\n来自马来西亚、埃及、韩国、澳大利亚、芬兰、德国、卢森堡、新西兰、新加坡、泰国、英国等 12 个国家和地区的政府部门、驻华使馆、国际机构和行业组织近 50 名代表参会。\n辛国斌表示，智能网联汽车正在推动汽车产品形态、能源消费结构、交通出行模式发生深刻变化。全球主要汽车国家纷纷加快战略布局，加强技术研发与示范应用，完善政策法规与标准规范，为产业发展创造良好环境。我们愿与各方一道，加强对话沟通、深化政策协同、强化务实合作，与全球行业同仁",
+      "title": "Switch 2越狱新进展：开发者成功在苹果macOS上运行《马力欧卡丁车 世界》",
+      "link": "https://www.ithome.com/1/018/883.htm",
+      "pubDate": "Wed, 28 Oct 2026 04:51:36 GMT",
+      "contentSnippet": "IT之家 10 月 28 日消息，借助 ns2jb 漏洞，Switch 2 之前已终于实现越狱，现在这项破解成果有了最新进展。\n\nIT之家注意到，开发者威尔 · 福斯特（Will Faust）今日在 X 平台发布了一段视频，展示了 Switch 2 独占游戏《马力欧卡丁车世界》在 macOS 上运行的画面。福斯特强调这段录像是真实的，这个项目是 Nxnative 的一个分支版本，专门适配 Switch 2。Nxnative 原本是一款可以在苹果 macOS、iOS 以及 iPadOS 上运行 Switch 游戏的工具。\n当然，这款赛车游戏在 macOS 上的运行效果还很粗糙，下方视频就能明显看",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -203,33 +102,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "工信部副部长辛国斌主持汽车产业国际合作圆桌会，12国代表参会",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家，引述工信部官方发文，信息具体含人物、国家数、会议背景，属权威官方信息转述"
-    },
-    {
-      "title": "闪迪哨兵 microSD 存储卡上市：行车记录仪、安防监控双版本",
-      "link": "https://www.ithome.com/1/018/323.htm",
-      "pubDate": "Tue, 27 Oct 2026 03:33:00 GMT",
-      "contentSnippet": "IT之家 10 月 27 日消息，Sandisk（闪迪）此前推出的 SANDISK Guardian 哨兵系列 microSD 存储卡现已上市。\n\n这批存储卡分为适合行车记录仪的 Dash Cam 和适合安防监控的 Security Cam 两个分支版本，两者均覆盖 32GB / 64GB / 128GB / 256GB / 512GB 共五个容量点，享受 2 年质保\n闪迪哨兵行车记录仪 microSD 卡专为复杂驾驶环境下实现持续、高耐久性视频录制而设计，能够应对长途驾驶过程中的高温及潮湿，支持从 FHD 至 4K UHD 的高分辨率视频录制。其到手价如下：\n\n32GB：189 元；\n\n64",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "闪迪哨兵系列microSD卡上市，分行车记录仪和安防监控两版本，五容量可选",
+      "aiSummary": "开发者利用Switch 2越狱漏洞在macOS上运行《马力欧卡丁车世界》",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，产品信息具体含容量价格质保，但缺少官方原始出处引用"
+      "credibilityReason": "IT之家为知名科技媒体，信息含开发者姓名、项目名称及视频来源，但缺乏官方验证和详细技术细节"
     },
     {
-      "title": "反诈博主“徽剑”被曝 2 年前遭买凶遇害，曾公开举报陈志犯罪集团重要骨干成员刘忍",
-      "link": "https://www.ithome.com/1/018/321.htm",
-      "pubDate": "Tue, 27 Oct 2026 03:32:48 GMT",
-      "contentSnippet": "IT之家 10 月 27 日消息，据界面新闻今日报道，反诈博主“徽剑”（原名吴恺）已于两年前遇害。他生前持续公开举报的对象，正是 2026 年 6 月被押解回国的柬埔寨太子集团骨干、柬埔寨安徽商会会长刘忍。\n\n报道提到，吴恺曾在微信公众号上持续曝光缅北、柬埔寨电诈内幕，拥有数十万粉丝。后“徽剑”公众号停止更新，外界一度流传他“因敲诈勒索被抓”。\n界面新闻近日获得的裁判文书显示，吴恺当时在广东惠州被数人劫持，辗转带至广东河源、江西赣州，遭持续殴打折磨，被遗弃在赣州定南县一处山上后死亡。\n根据公开报道，吴恺早年是深圳一名网络策划人。2012 年，他以“徽剑”为网名在微博爆料某地产名人绯闻，被《环球",
+      "title": "腾讯 WorkBuddy 手机远程控制电脑功能上线，实时显示屏幕内容",
+      "link": "https://www.ithome.com/1/018/882.htm",
+      "pubDate": "Wed, 28 Oct 2026 04:32:32 GMT",
+      "contentSnippet": "IT之家 10 月 28 日消息，腾讯 WorkBuddy 今日宣布，由腾讯 Edge One 团队提供技术支持，WorkBuddy 正式上线「远程控制」。\n在手机上打开 App，一键连上电脑，就能看到电脑桌面的实时画面，并直接动手接管。这一次，用户在手机上除了能看到任务过程和结果，还能实时看到并操作电脑桌面。\n在远程控制模式下，用户可以像看直播一样，实时看到 Agent 在电脑屏幕上的每一步操作。\n而且两端设备连接之后，电脑画面会以小窗形式悬浮在手机 App 首页或会话页顶部，下面的输入框照常使用，发现任务跑偏时依然可以及时纠正。\n\n除了在手机上实时看到电脑屏幕画面，连接成功之后还可以更进一",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -237,16 +119,50 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "反诈博主徽剑两年前遭劫持殴打遇害，生前举报电诈骨干",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "IT之家引述界面新闻及裁判文书，信息具体；但事件敏感且细节待官方确认"
+      "aiSummary": "腾讯WorkBuddy上线远程控制功能，手机可实时查看并操作电脑桌面",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，信息具体含技术团队和功能细节，但缺少官方原始链接引用"
     },
     {
-      "title": "华瓷股份三季度盈利承压：外销订单受约束，第二增长曲线尚在路上|看财报",
-      "link": "https://www.tmtpost.com/8183215.html",
-      "pubDate": "Tue, 27 Oct 2026 11:29:01 +0800",
-      "contentSnippet": "新材料业务是否成为第二曲线，要等时间的检验",
+      "title": "跻身最赚钱游戏之列：微软 XBOX 确认《使命召唤》系列累计营收突破 400 亿美元",
+      "link": "https://www.ithome.com/1/018/880.htm",
+      "pubDate": "Wed, 28 Oct 2026 04:20:52 GMT",
+      "contentSnippet": "IT之家 10 月 28 日消息，问世至今近 23 年，《使命召唤》系列现已成长为游戏史上最赚钱的系列之一。\n27 日凌晨，XBOX CEO 阿莎 · 夏尔马宣布，系列累计营收突破 400 亿美元（IT之家注：现汇率约合 2,672.42 亿元人民币）。她谈到了《使命召唤：现代战争 4》的成功：“《现代战争 4》是《使命召唤》系列 24 年历史中最受赞誉的作品之一，整个系列的累计营收也达到 400 亿美元。这是一个了不起的里程碑。祝贺动视团队，也感谢一路支持我们的玩家。”\n\n凭借 400 亿美元的累计营收，《使命召唤》正式跻身游戏史上最赚钱的系列之列，排在《马力欧》和《宝可梦》等重量级 IP",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微软XBOX确认《使命召唤》系列累计营收突破400亿美元。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息源自XBOX CEO公开宣布，数据具体，但缺少原始链接。"
+    },
+    {
+      "title": "因非法获取并破解《崩坏：星穹铁道》测试版本内容，泄密人员被判赔偿米哈游 100 万元",
+      "link": "https://www.ithome.com/1/018/879.htm",
+      "pubDate": "Wed, 28 Oct 2026 04:19:03 GMT",
+      "contentSnippet": "IT之家 10 月 28 日消息，米哈游法务部今日发文称，近日，米哈游旗下一起因不正当手段破解游戏测试版软件包、披露游戏未公开内容而引发的侵害商业秘密纠纷案件迎来一审判决，法院判决杨某、郭某立即停止侵害商业秘密的行为，在指定范围内发布声明、消除影响，连带赔偿经济损失及维权合理开支 100 万元，目前判决已生效。\n\n本案认定，通过不正当手段获取游戏测试版本软件包、进行“解包”披露及建立平台进行传播的行为，构成商业秘密侵权。\n事件回顾\n此前米哈游法务部巡查发现，QQ 频道“咖啡森林”的运营者杨某，在社群内长期发布《崩坏：星穹铁道》未公开版本的软件测试包及使用教程，用户根据该教程进行下载搭建即可游玩",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "米哈游诉泄密者破解《星穹铁道》测试包案一审胜诉，获赔100万元",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道引用米哈游法务部官方声明，含判决细节与事件经过，信息具体可信"
+    },
+    {
+      "title": "豆包不如先做老年机",
+      "link": "https://www.tmtpost.com/8183800.html",
+      "pubDate": "Wed, 28 Oct 2026 12:17:17 +0800",
+      "contentSnippet": "老年群体是努比亚和豆包重合度相当高的消费群体",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -254,10 +170,96 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "华瓷股份三季度盈利承压，外销订单受限，第二增长曲线待验证",
-      "credibilityScore": 75,
+      "aiSummary": "钛媒体评论称豆包应优先做老年机，因老年群体与努比亚豆包用户重合度高",
+      "credibilityScore": 55,
+      "credibilityLevel": "medium",
+      "credibilityReason": "钛媒体为知名科技媒体，但此文为观点评论，标题带倾向性，正文摘要信息简略，缺少数据支撑"
+    },
+    {
+      "title": "连续上调指引，药明康德再次惊艳CXO",
+      "link": "https://www.tmtpost.com/8183760.html",
+      "pubDate": "Wed, 28 Oct 2026 12:17:12 +0800",
+      "contentSnippet": "连续上调指引，药明康德再次惊艳CXO",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "药明康德连续上调业绩指引，CXO行业表现引关注。",
+      "credibilityScore": 65,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体钛媒体，但正文仅标题摘要，缺乏具体数据与原始出处，信息详实度不足。"
+    },
+    {
+      "title": "总靠 AI 干活，你的专业能力可能正在悄悄退化",
+      "link": "https://www.ithome.com/1/018/877.htm",
+      "pubDate": "Wed, 28 Oct 2026 04:10:38 GMT",
+      "contentSnippet": "IT之家 10 月 28 日消息，人工智能已经在不少专业领域承担起助手的角色，医生、科研人员、软件开发人员都会在工作中使用它。糟糕的是，这会导致研究者所说的技能退化现象：人们把工作交给 AI 处理，自身专业能力随之下滑。\n\nIT之家注意到，理论哲学方向的研究院研究员凯萨 · 凯尔基（Kaisa Kärki）在题为《谁应当为应对专业技能退化负责？》的研究论文中探讨了这一问题，该研究成果发表于《人类事务》期刊。\n“技能退化带来的一个难题是，从业者很难在日常工作中察觉到这个变化，一部分原因来自人们对依赖 AI 这件事存在认知偏差。当我们和大语言模型对话，得到看起来很有说服力的回复时，很容易产生过度依",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "研究指出过度依赖AI会导致医生、科研人员等专业人士技能退化",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium-high",
+      "credibilityReason": "知名科技媒体IT之家报道，引用学术论文及期刊来源，但正文摘要不完整，缺少具体数据支撑"
+    },
+    {
+      "title": "“编程面试已死”：Anthropic 称 AI 时代编程题已无法筛选程序员",
+      "link": "https://www.ithome.com/1/018/876.htm",
+      "pubDate": "Wed, 28 Oct 2026 04:10:37 GMT",
+      "contentSnippet": "IT之家 10 月 28 日消息，Anthropic 招聘经理、Claude 相关产品工程负责人 Felix Rieseberg 本月表示，他已在其团队的招聘流程中取消传统编程题面试。他在社交平台发文称：“编程面试已经死了，至少对我的团队而言。”\n\nRieseberg 认为当 Claude 已能轻松完成小型 React 挑战，甚至处理底层汇编问题后，继续用编程题筛选工程师，就像继续考问汇编语言一样失去意义。面试结果衡量的更多是 AI 的能力，而非在真实工作中，候选人可能表现出的判断力、产品品味和协作能力。\n他同时向初级工程师提出一个颇为大胆的建议：在“执行力成本”大幅下降的 AI 时代，资历不",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家",
+        "Solidot"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "Anthropic高管称AI能轻松完成编程题，团队已取消传统编程面试。",
+      "credibilityScore": 83,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体钛媒体，基于财报数据，内容具体但细节有限，属客观分析报道"
+      "credibilityReason": "来源为IT之家/Solidot，有具体人物和言论，但缺乏原始出处链接及多方验证。（多源覆盖 +5）"
+    },
+    {
+      "title": "豆包工作功能上新：支持将“录制电脑操作”保存为技能",
+      "link": "https://www.ithome.com/1/018/860.htm",
+      "pubDate": "Wed, 28 Oct 2026 04:00:26 GMT",
+      "contentSnippet": "IT之家 10 月 28 日消息，今天（28 日）上午，豆包通过公众号宣布，豆包工作操作电脑能力整体升级，屏幕点击精度、速度提升，更准、更快。\n继此前支持跨应用操作、将浏览器操作录成技能后，此次更新则支持将录制电脑操作保存为技能。根据介绍，用户演示一遍还能边操作边讲，把做法教给豆包工作。豆包学会后存为技能，下次就能照着做；Mac 电脑锁屏后，任务也能继续。\n\n结束录制后，豆包工作会把操作流程和讲解整理成个人技能。下次做同类任务时，选用这个技能，再告诉它这次要处理什么，就能够省去重复解释操作步骤。\n此外，在“设置 → 工作任务模式设置”中，开启“允许豆包在锁屏时工作”后，需要操作电脑的任务，Ma",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "豆包工作新增录制电脑操作保存为技能功能，支持锁屏继续执行任务",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，信息具体含功能细节，但引用官方公众号宣传，缺乏独立验证"
+    },
+    {
+      "title": "索尼推出手机主摄图像传感器 LYTIA 720，提升暗光及 HDR 视频拍摄表现",
+      "link": "https://www.ithome.com/1/018/859.htm",
+      "pubDate": "Wed, 28 Oct 2026 03:59:50 GMT",
+      "contentSnippet": "IT之家 10 月 28 日消息，索尼半导体解决方案今日宣布将推出面向智能手机主摄像头的 LYTIA 720 图像传感器。该产品图像尺寸为 1/1.56\"，有效像素约为 50MP，采用堆栈式结构，预计 11 月上旬量产出货。\n\nLYTIA 720 搭载可将电荷高效转换为电压的 UHCG 电路技术，相较此前的同规格产品 LYTIA 700 减半了暗光环境下产生的随机噪点。\nLYTIA 720 也是 LYTIA 系列中首款支持全像素自动对焦 4K 60fps HDR 视频拍摄的 1/1.56\" 图像尺寸、1μm 像素间距产品。其通过 AD 转换电路，在降低传感器功耗的同时实现了该效果。\n此外，其支",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "索尼发布LYTIA 720手机图像传感器，50MP，暗光噪点减半，支持4K 60fps HDR视频。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家报道，信息具体含规格参数与量产时间，源自索尼官方宣布，技术细节清晰。"
     }
   ]
 }
