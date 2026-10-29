@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-28T04:52:27.978Z",
+  "generatedAt": "2026-10-29T05:03:17.428Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "全球首展：高通 6G 终端原型机将在第九届进博会正式亮相",
-      "link": "https://www.ithome.com/1/018/881.htm",
-      "pubDate": "Wed, 28 Oct 2026 04:31:17 GMT",
-      "contentSnippet": "IT之家 10 月 28 日消息，据《科创板日报》今天（28 日）午间报道，第九届中国国际进口博览会开幕在即，高通将连续第九年参展，展示 6G、智能体 AI 与多元智能终端成果。\n据悉，高通将于本次进博会进行 6G 终端原型机的全球首展。该原型机已用于与中国移动、中兴通讯等中国产业伙伴的联合 6G 技术测试和互操作验证。\n此外，展台还将集中呈现智能体 AI 与多元智能终端创新，包括智能体设备、最新旗舰智能手机、AI PC、智能眼镜、汽车和机器人等多元智能终端，以及 AI 影像、XR 等互动体验。\n据IT之家此前报道，今年 9 月 20 日，中国移动、高通共同宣布，双方在中国移动协同创新基地基于",
+      "title": "2027 款领克 08 EM-P 官宣 11 月 5 日亮相",
+      "link": "https://www.ithome.com/1/019/399.htm",
+      "pubDate": "Thu, 29 Oct 2026 03:30:34 GMT",
+      "contentSnippet": "IT之家 10 月 29 日消息，领克汽车官微今天（29 日）上午宣布，2027 款领克 08 EM-P 将于 11 月 5 日正式登场。\n\n官方预告图显示，新车预计将延续现款车型的设计，将主打橙黑双拼配色。不过新车的配置信息仍待公开，IT之家也将持续关注。\n作为参考，今年 6 月，领克 EM-P 家族三款版型上新。其中，全新领克 08 EM-P 新增 230 超长续航 Max 版，限时价 16.98 万元起。该版本搭载 38.2kWh 神盾金砖磷酸铁锂电池，CLTC 纯电续航达 230km，CLTC 馈电油耗低至 4.5L/100km，动力沿用 1.5T Evo 高效电混专用发动机加 3 挡",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,102 +16,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "高通将在第九届进博会全球首展6G终端原型机，已用于与中国移动等联合测试。",
+      "aiSummary": "领克官宣2027款08 EM-P将于11月5日亮相，主打橙黑配色",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，引用科创板日报，信息具体含合作方与测试细节，但正文摘要不完整。"
+      "credibilityReason": "IT之家为知名科技媒体，引用官方官微及预告图，含现款配置数据，但新车信息有限"
     },
     {
-      "title": "AI 推高元器件成本，消息称惠普、华硕、宏碁将部分 PC 产能迁回中国",
-      "link": "https://www.ithome.com/1/018/779.htm",
-      "pubDate": "Wed, 28 Oct 2026 03:04:44 GMT",
-      "contentSnippet": "IT之家 10 月 28 日消息，据《日经亚洲》报道，惠普、华硕、宏碁等主流个人电脑厂商正应对零部件成本暴涨的压力，将部分产能从泰国、越南迁回中国，同时和新一代代工厂展开合作。\n\n多名消息人士透露，受人工智能需求拉动，内存与存储芯片供应严重紧缺，整机物料成本上涨，这些 PC 厂商正寻求提升生产效率。中国拥有成熟的产业工人队伍、更低的成本以及完备的供应链体系，零部件获取渠道齐全，仍是电脑生产的最优选择。\n这些 PC 厂商转而和一些知名度相对较低的中国代工厂合作，因为体量更大的老牌代工厂如今订单重心转向了利润率更高的 AI 数据中心服务器。消息还称，排名第三的美国 PC 厂商戴尔（仅次于联想和惠普",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "AI推高元器件成本，惠普华硕宏碁将部分PC产能迁回中国",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家援引日经亚洲报道，有多名消息人士，信息具体，逻辑清晰，但缺原始链接"
-    },
-    {
-      "title": "柳叶刀倒计时报告：气候变化对人类健康的危害正加速攀升",
-      "link": "https://www.ithome.com/1/018/736.htm",
-      "pubDate": "Wed, 28 Oct 2026 00:58:22 GMT",
-      "contentSnippet": "IT之家 10 月 28 日消息，一份于周三发布的全球重要评估报告显示，气候变化对人类健康造成的负面影响不仅日益加剧，而且其恶化速度也比十年前更快。\n\n据IT之家了解，这份报告是国际科学家合作项目《柳叶刀倒计时》（Lancet Countdown）发布的第十份年度报告。该项目持续追踪全球变暖与人类健康之间的关系。本次报告对比了《巴黎气候协定》签署前后的两个十年，发现多项重大健康威胁在协定签署后加速恶化，其中包括致命高温和干旱。与此同时，各国也在加大清洁能源投资，并采取措施保护民众免受气候灾害影响。\n这份报告发布之际，欧洲刚刚经历了一个高温肆虐的夏季，热浪造成数万人死亡。此外，联合国将于近期在土",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "柳叶刀倒计时报告称气候变化健康危害加速恶化",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "引用权威医学期刊年度报告，有具体对比数据，但缺少报告原文链接及详细数据"
-    },
-    {
-      "title": "【钛晨报】多项智能出行国际标准发布；Anthropic降价引爆调用量，知名投资人：1000亿美元级年终ARR再成可能；东山精密：最终发售价为每股86.8港元，国际发售获3.17倍认购",
-      "link": "https://www.tmtpost.com/8183890.html",
-      "pubDate": "Wed, 28 Oct 2026 07:20:00 +0800",
-      "contentSnippet": "年收入逼近400亿元？红果短剧回应：不实；并入火山近百日后，飞书首席战略官史志隽将卸任转顾问；马斯克称SpaceX移动网络建设将耗时2至3年；新规出炉：有线电视不得播放开机广告；事关能源保供中长期合同管理，国家发展改革委作出部署；13家科创50公司正在实施回购计划，预计金额上限超50亿元；中国作为首批签约国签署《联合国可转让货物单证公约》；崔东树：2026年1-9月汽车行业利润率3.3%；国家统计局：1—9月份全国规模以上工业企业利润增长15.5%",
+      "title": "iPhoneDuo裂痕背后，撕开了供应链的“最后一毫米”",
+      "link": "https://www.tmtpost.com/8185533.html",
+      "pubDate": "Thu, 29 Oct 2026 11:25:00 +0800",
+      "contentSnippet": "折叠屏，苹果晚了整整五年；裂开的，却不只是那块屏。  从发售当天溢价一万余元，到不到三天跌破官方定价，iPhone Duo用一个“过山车式”的首周，把问题从个别质量投诉，抬升成了行业信号。  iFixit的拆解指向一个反直觉的结论：图纸是合格的，失效发生在装配端的“最后一毫米”。前魅族副总裁李楠一句“苹果和供应链生疏了”，点中了要害。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
-        "钛媒体",
-        "Solidot"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "钛媒体晨报汇总智能出行标准、Anthropic降价及东山精密港股定价等科技财经要闻",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，信息具体含数据，但晨报为聚合摘要，部分条目缺原始出处（多源覆盖 +5）"
-    },
-    {
-      "title": "数据中心搅动世界",
-      "link": "https://www.solidot.org/story?sid=85726",
-      "pubDate": "Tue, 27 Oct 2026 22:58:58 +0800",
-      "contentSnippet": "很多人几年前可能还不知道什么是数据中心，它是现代互联网服务的引擎，也是今天 AI 热的核心。但数据中心数量的快速增长、巨大的电力消耗，以及环境影响，正在全球引发公众的抵制。根据 Data Center Map 的数据，目前全世界有约 12,250 个数据中心，而 2021 年这个数字是大约 8000 个，其中美国最多有 4,767 个，弗吉尼亚州密度最高。美国的数据中心装机容量为 53.73 GW，中国 31.90 GW，欧盟 11.92 GW，日韩 6.58 GW，印度为 3.55 GW，英国 2.59 GW。目前全球投入运营的最大数据中心是中国电信在内蒙古呼和浩特的一处设施，占地约 100",
-      "sourceName": "Solidot",
-      "sourceWeight": 75,
-      "allSources": [
-        "Solidot"
+        "钛媒体"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "全球数据中心数量激增引发电力消耗与环境抵制，美国装机容量领先。",
-      "credibilityScore": 78,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体Solidot，引用Data Center Map数据，信息具体含装机容量与排名，但正文摘要截断且未提供原始报告链接。"
-    },
-    {
-      "title": "Switch 2越狱新进展：开发者成功在苹果macOS上运行《马力欧卡丁车 世界》",
-      "link": "https://www.ithome.com/1/018/883.htm",
-      "pubDate": "Wed, 28 Oct 2026 04:51:36 GMT",
-      "contentSnippet": "IT之家 10 月 28 日消息，借助 ns2jb 漏洞，Switch 2 之前已终于实现越狱，现在这项破解成果有了最新进展。\n\nIT之家注意到，开发者威尔 · 福斯特（Will Faust）今日在 X 平台发布了一段视频，展示了 Switch 2 独占游戏《马力欧卡丁车世界》在 macOS 上运行的画面。福斯特强调这段录像是真实的，这个项目是 Nxnative 的一个分支版本，专门适配 Switch 2。Nxnative 原本是一款可以在苹果 macOS、iOS 以及 iPadOS 上运行 Switch 游戏的工具。\n当然，这款赛车游戏在 macOS 上的运行效果还很粗糙，下方视频就能明显看",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "开发者利用Switch 2越狱漏洞在macOS上运行《马力欧卡丁车世界》",
+      "aiSummary": "钛媒体分析iPhone Duo折叠屏裂痕问题，指供应链装配精度不足。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息含开发者姓名、项目名称及视频来源，但缺乏官方验证和详细技术细节"
+      "credibilityReason": "知名科技媒体，引用iFixit拆解及业内人士观点，但缺乏具体数据与官方回应。"
     },
     {
-      "title": "腾讯 WorkBuddy 手机远程控制电脑功能上线，实时显示屏幕内容",
-      "link": "https://www.ithome.com/1/018/882.htm",
-      "pubDate": "Wed, 28 Oct 2026 04:32:32 GMT",
-      "contentSnippet": "IT之家 10 月 28 日消息，腾讯 WorkBuddy 今日宣布，由腾讯 Edge One 团队提供技术支持，WorkBuddy 正式上线「远程控制」。\n在手机上打开 App，一键连上电脑，就能看到电脑桌面的实时画面，并直接动手接管。这一次，用户在手机上除了能看到任务过程和结果，还能实时看到并操作电脑桌面。\n在远程控制模式下，用户可以像看直播一样，实时看到 Agent 在电脑屏幕上的每一步操作。\n而且两端设备连接之后，电脑画面会以小窗形式悬浮在手机 App 首页或会话页顶部，下面的输入框照常使用，发现任务跑偏时依然可以及时纠正。\n\n除了在手机上实时看到电脑屏幕画面，连接成功之后还可以更进一",
+      "title": "七工匠推出 AF 10mm F4 APS-C 镜头：约 71g 重，索尼 E / 富士 X 卡口，首发 669 元",
+      "link": "https://www.ithome.com/1/019/417.htm",
+      "pubDate": "Thu, 29 Oct 2026 04:53:46 GMT",
+      "contentSnippet": "IT之家 10 月 29 日消息，七工匠今日推出 AF 10mm F4 APS-C 相机镜头，首发 669 元。\n\n这款镜头重约 71g，高度 33mm；支持自动对焦，搭载 STM 马达，最近对焦距离 0.2m；采用 7 组 9 片镜片（包含 1 枚 ED 低色散、1 枚高折射、2 枚非球面镜片），滤镜尺寸 37mm。\n\nIT之家附这款新品详细参数（商品页未公布 STM 曲线）：\n\n\n京东七工匠 AF 10mm F4669 元直达链接\n\n京东 11.11 无门槛红包 面额至高 26888 元，每天抽 3 次：点此抽红包。\n\n淘宝 11.11 无门槛红包 面额至高 26888 元，每天抽 1 次",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -119,50 +50,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "腾讯WorkBuddy上线远程控制功能，手机可实时查看并操作电脑桌面",
+      "aiSummary": "七工匠发布AF 10mm F4 APS-C镜头，重71g，首发669元。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，信息具体含技术团队和功能细节，但缺少官方原始链接引用"
+      "credibilityReason": "IT之家为知名科技媒体，参数具体详实，含镜片结构、重量、对焦距离等细节，但缺少原始出处和STM曲线。"
     },
     {
-      "title": "跻身最赚钱游戏之列：微软 XBOX 确认《使命召唤》系列累计营收突破 400 亿美元",
-      "link": "https://www.ithome.com/1/018/880.htm",
-      "pubDate": "Wed, 28 Oct 2026 04:20:52 GMT",
-      "contentSnippet": "IT之家 10 月 28 日消息，问世至今近 23 年，《使命召唤》系列现已成长为游戏史上最赚钱的系列之一。\n27 日凌晨，XBOX CEO 阿莎 · 夏尔马宣布，系列累计营收突破 400 亿美元（IT之家注：现汇率约合 2,672.42 亿元人民币）。她谈到了《使命召唤：现代战争 4》的成功：“《现代战争 4》是《使命召唤》系列 24 年历史中最受赞誉的作品之一，整个系列的累计营收也达到 400 亿美元。这是一个了不起的里程碑。祝贺动视团队，也感谢一路支持我们的玩家。”\n\n凭借 400 亿美元的累计营收，《使命召唤》正式跻身游戏史上最赚钱的系列之列，排在《马力欧》和《宝可梦》等重量级 IP",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "微软XBOX确认《使命召唤》系列累计营收突破400亿美元。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息源自XBOX CEO公开宣布，数据具体，但缺少原始链接。"
-    },
-    {
-      "title": "因非法获取并破解《崩坏：星穹铁道》测试版本内容，泄密人员被判赔偿米哈游 100 万元",
-      "link": "https://www.ithome.com/1/018/879.htm",
-      "pubDate": "Wed, 28 Oct 2026 04:19:03 GMT",
-      "contentSnippet": "IT之家 10 月 28 日消息，米哈游法务部今日发文称，近日，米哈游旗下一起因不正当手段破解游戏测试版软件包、披露游戏未公开内容而引发的侵害商业秘密纠纷案件迎来一审判决，法院判决杨某、郭某立即停止侵害商业秘密的行为，在指定范围内发布声明、消除影响，连带赔偿经济损失及维权合理开支 100 万元，目前判决已生效。\n\n本案认定，通过不正当手段获取游戏测试版本软件包、进行“解包”披露及建立平台进行传播的行为，构成商业秘密侵权。\n事件回顾\n此前米哈游法务部巡查发现，QQ 频道“咖啡森林”的运营者杨某，在社群内长期发布《崩坏：星穹铁道》未公开版本的软件测试包及使用教程，用户根据该教程进行下载搭建即可游玩",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "米哈游诉泄密者破解《星穹铁道》测试包案一审胜诉，获赔100万元",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道引用米哈游法务部官方声明，含判决细节与事件经过，信息具体可信"
-    },
-    {
-      "title": "豆包不如先做老年机",
-      "link": "https://www.tmtpost.com/8183800.html",
-      "pubDate": "Wed, 28 Oct 2026 12:17:17 +0800",
-      "contentSnippet": "老年群体是努比亚和豆包重合度相当高的消费群体",
+      "title": "AI裁员背后：消失的不只是工作，还有年轻人的机会",
+      "link": "https://www.tmtpost.com/8185164.html",
+      "pubDate": "Thu, 29 Oct 2026 12:53:18 +0800",
+      "contentSnippet": "企业用AI省下的人工成本已经写进财报，但裁员公告远远装不下这场变化。那些没有被招聘的人、逐渐消失的职业入口，以及技术收益的重新分配，正在成为更大的问题。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -170,16 +67,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体评论称豆包应优先做老年机，因老年群体与努比亚豆包用户重合度高",
-      "credibilityScore": 55,
+      "aiSummary": "钛媒体分析AI裁员隐性影响：消失的招聘入口与年轻人机会",
+      "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "钛媒体为知名科技媒体，但此文为观点评论，标题带倾向性，正文摘要信息简略，缺少数据支撑"
+      "credibilityReason": "知名科技媒体，选题有深度，但摘要偏观点化，缺少具体数据与原始出处支撑"
     },
     {
-      "title": "连续上调指引，药明康德再次惊艳CXO",
-      "link": "https://www.tmtpost.com/8183760.html",
-      "pubDate": "Wed, 28 Oct 2026 12:17:12 +0800",
-      "contentSnippet": "连续上调指引，药明康德再次惊艳CXO",
+      "title": "张雪刷新纪录，书记被扔下水，麻阳读懂流量了吗？",
+      "link": "https://www.tmtpost.com/8185656.html",
+      "pubDate": "Thu, 29 Oct 2026 12:52:52 +0800",
+      "contentSnippet": "被看见是运气，被记住才是本事。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -187,16 +84,84 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "药明康德连续上调业绩指引，CXO行业表现引关注。",
+      "aiSummary": "钛媒体评论张雪破纪录及书记落水事件，探讨麻阳如何借流量发展。",
       "credibilityScore": 65,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，但正文仅标题摘要，缺乏具体数据与原始出处，信息详实度不足。"
+      "credibilityReason": "知名科技媒体评论，但内容简略、偏观点分析，缺少具体数据与原始出处。"
     },
     {
-      "title": "总靠 AI 干活，你的专业能力可能正在悄悄退化",
-      "link": "https://www.ithome.com/1/018/877.htm",
-      "pubDate": "Wed, 28 Oct 2026 04:10:38 GMT",
-      "contentSnippet": "IT之家 10 月 28 日消息，人工智能已经在不少专业领域承担起助手的角色，医生、科研人员、软件开发人员都会在工作中使用它。糟糕的是，这会导致研究者所说的技能退化现象：人们把工作交给 AI 处理，自身专业能力随之下滑。\n\nIT之家注意到，理论哲学方向的研究院研究员凯萨 · 凯尔基（Kaisa Kärki）在题为《谁应当为应对专业技能退化负责？》的研究论文中探讨了这一问题，该研究成果发表于《人类事务》期刊。\n“技能退化带来的一个难题是，从业者很难在日常工作中察觉到这个变化，一部分原因来自人们对依赖 AI 这件事存在认知偏差。当我们和大语言模型对话，得到看起来很有说服力的回复时，很容易产生过度依",
+      "title": "红果开始给自己踩刹车了",
+      "link": "https://www.tmtpost.com/8185237.html",
+      "pubDate": "Thu, 29 Oct 2026 12:44:28 +0800",
+      "contentSnippet": "但让用户停不下来，与让用户长期愿意留下来，终究不是一回事。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体分析红果短剧从追求用户时长转向长期留存策略",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "知名科技媒体钛媒体出品，选题聚焦行业趋势，但摘要内容简略缺少具体数据支撑"
+    },
+    {
+      "title": "人形机器人，要出大结果了",
+      "link": "https://www.tmtpost.com/8185839.html",
+      "pubDate": "Thu, 29 Oct 2026 12:44:22 +0800",
+      "contentSnippet": "AI正在长出手脚，美国的优势在于更聪明的大脑，中国则拥有最强最完善的身体。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体称人形机器人将迎重大突破，中美各有优势",
+      "credibilityScore": 65,
+      "credibilityLevel": "medium",
+      "credibilityReason": "知名科技媒体但内容简略，缺乏具体数据和原始出处，标题有夸大倾向"
+    },
+    {
+      "title": "科创板首例市值退市股来了",
+      "link": "https://www.tmtpost.com/8185818.html",
+      "pubDate": "Thu, 29 Oct 2026 12:44:17 +0800",
+      "contentSnippet": "能上市，也要能退市 。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "科创板出现首例因市值不达标而退市的公司，体现退市常态化。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体钛媒体，主题符合科创板退市制度事实，但正文摘要极简，缺少公司名称、具体市值数据及监管依据等细节，信息完整度不足。"
+    },
+    {
+      "title": "全国第19张“千万门票”，会被哪座城市抢占？",
+      "link": "https://www.tmtpost.com/8185652.html",
+      "pubDate": "Thu, 29 Oct 2026 12:40:36 +0800",
+      "contentSnippet": "人愿意来，更愿意留下来安家立业，这才是一座城市真正的底气。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体分析哪座城市将获得全国第19张千万人口门票",
+      "credibilityScore": 65,
+      "credibilityLevel": "medium",
+      "credibilityReason": "知名科技媒体但内容为城市人口预测分析，摘要缺乏具体数据支撑，属评论性报道"
+    },
+    {
+      "title": "连续 4 年获得全球新能源销冠：比亚迪员工总数突破 102 万，其中研发工程师 12 万名",
+      "link": "https://www.ithome.com/1/019/415.htm",
+      "pubDate": "Thu, 29 Oct 2026 04:39:51 GMT",
+      "contentSnippet": "IT之家 10 月 29 日消息，据新浪汽车报道，10 月 28 日，在第三十三届中国汽车工程学会年会上，比亚迪汽车董事长王传福在演讲中透露，比亚迪总员工已突破 102 万人，其中中国区 96 万人，海外 6 万人，并拥有高达 12 万名研发工程师，分布在电池、电机、电控、半导体等核心领域。\n从 1994 年创业到 2003 年入局造车，王传福表示，比亚迪坚持高度垂直整合模式，如今已连续 4 年获得全球新能源销冠。他强调，比亚迪的发展就是中国汽车工业从跟跑到领跑的缩影。\nIT之家注意到，在颁奖及发布环节，王传福荣获 2026 中国汽车工程学会科学技术奖汽车工业饶斌奖，该奖被称为“中国汽车工业最",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -204,62 +169,96 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "研究指出过度依赖AI会导致医生、科研人员等专业人士技能退化",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium-high",
-      "credibilityReason": "知名科技媒体IT之家报道，引用学术论文及期刊来源，但正文摘要不完整，缺少具体数据支撑"
+      "aiSummary": "比亚迪员工总数突破102万，研发工程师达12万名，连续4年全球新能源销冠。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家引述新浪汽车，信息源自王传福公开演讲，数据具体可查，但非一手报道。"
     },
     {
-      "title": "“编程面试已死”：Anthropic 称 AI 时代编程题已无法筛选程序员",
-      "link": "https://www.ithome.com/1/018/876.htm",
-      "pubDate": "Wed, 28 Oct 2026 04:10:37 GMT",
-      "contentSnippet": "IT之家 10 月 28 日消息，Anthropic 招聘经理、Claude 相关产品工程负责人 Felix Rieseberg 本月表示，他已在其团队的招聘流程中取消传统编程题面试。他在社交平台发文称：“编程面试已经死了，至少对我的团队而言。”\n\nRieseberg 认为当 Claude 已能轻松完成小型 React 挑战，甚至处理底层汇编问题后，继续用编程题筛选工程师，就像继续考问汇编语言一样失去意义。面试结果衡量的更多是 AI 的能力，而非在真实工作中，候选人可能表现出的判断力、产品品味和协作能力。\n他同时向初级工程师提出一个颇为大胆的建议：在“执行力成本”大幅下降的 AI 时代，资历不",
+      "title": "摩尔线程单季扣非净利润首次转正，国产GPU生意走到哪一步了？",
+      "link": "https://www.tmtpost.com/8185837.html",
+      "pubDate": "Thu, 29 Oct 2026 12:37:44 +0800",
+      "contentSnippet": "从综合毛利率看，摩尔线程在国产AI芯片厂商中处于较高水平，2026年上半年，其综合毛利率为56.95%。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "摩尔线程单季扣非净利润首次转正，2026上半年毛利率56.95%。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "钛媒体为知名科技媒体，报道含具体财务数据，逻辑清晰，但缺少原始财报出处。"
+    },
+    {
+      "title": "“世界”等待张一鸣",
+      "link": "https://www.tmtpost.com/8185843.html",
+      "pubDate": "Thu, 29 Oct 2026 12:36:16 +0800",
+      "contentSnippet": "Genie 4发布，字节的世界模型还远吗？",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体分析字节跳动Genie 4发布后其世界模型技术进展与前景。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体钛媒体，但标题偏悬念式，正文摘要过简，缺乏具体数据与原始出处，技术细节不足。"
+    },
+    {
+      "title": "谷歌云收入翻倍，股价为什么还跌了？",
+      "link": "https://www.tmtpost.com/8185797.html",
+      "pubDate": "Thu, 29 Oct 2026 12:36:08 +0800",
+      "contentSnippet": "现金在失血。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "谷歌云收入翻倍但股价下跌，钛媒体分析称因现金流失血",
+      "credibilityScore": 65,
+      "credibilityLevel": "medium",
+      "credibilityReason": "知名科技媒体，标题有分析性，但正文摘要过短，缺少具体数据和原始出处支撑"
+    },
+    {
+      "title": "现代汽车 2026 财年前三季度报归母净利润 6.56 万亿韩元，同比下降 22.1%",
+      "link": "https://www.ithome.com/1/019/414.htm",
+      "pubDate": "Thu, 29 Oct 2026 04:35:39 GMT",
+      "contentSnippet": "IT之家 10 月 29 日消息，现代汽车今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度报（2026 年 1 月～2026 年 9 月）业绩快报及第三财季（2026 年 7 月～2026 年 9 月）业绩快报报告：\n\n2026 财年前三季度报\n\n营业总收入：140.26 万亿韩元（IT之家注：现汇率约合 7053.9 亿元人民币），同比增长 0.6%\n\n归母净利润：6.56 万亿韩元（现汇率约合 329.93 亿元人民币），同比下降 22.1%\n\n2026 财年第三财季\n\n营业总收入：45.11 万亿韩元（现汇率约合 2268.59 亿元人民币），同比下降 3",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "现代汽车2026财年前三季度归母净利润6.56万亿韩元，同比下降22.1%",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，引用官方业绩快报，数据具体含营收利润及汇率换算，来源明确"
+    },
+    {
+      "title": "三星：新版睡眠呼吸暂停检测算法下月率先向韩版 Galaxy Watch 9/Ultra2 手表及 Galaxy Ring 智能戒指推送",
+      "link": "https://www.ithome.com/1/019/413.htm",
+      "pubDate": "Thu, 29 Oct 2026 04:29:31 GMT",
+      "contentSnippet": "IT之家 10 月 29 日消息，三星宣布旗下 Galaxy 设备新版睡眠呼吸暂停检测算法已获得韩国食品医药品安全处（MFDS）批准，新版算法相较原版不仅能够检测中重度睡眠呼吸暂停的相关迹象，还可借助 AI 统计用户睡眠期间每小时出现的呼吸中断次数，并根据发生频率划分为轻度、偶发和频繁三个等级。\nIT之家获悉，韩版 Galaxy Watch Ultra2、Galaxy Watch9 和 Galaxy Ring 智能戒指将于今年 11 月率先获得新版算法，随后，运行 Wear OS 7.0 或更高版本系统的 Galaxy Watch7 和 Galaxy Watch8 也将获得更新。\n\n三星表示，",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
         "IT之家",
-        "Solidot"
+        "少数派"
       ],
       "coverageCount": 2,
       "coverageBoost": 5,
-      "aiSummary": "Anthropic高管称AI能轻松完成编程题，团队已取消传统编程面试。",
-      "credibilityScore": 83,
+      "aiSummary": "三星新版睡眠呼吸暂停检测算法获韩国批准，11月推送Galaxy设备",
+      "credibilityScore": 87,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家/Solidot，有具体人物和言论，但缺乏原始出处链接及多方验证。（多源覆盖 +5）"
-    },
-    {
-      "title": "豆包工作功能上新：支持将“录制电脑操作”保存为技能",
-      "link": "https://www.ithome.com/1/018/860.htm",
-      "pubDate": "Wed, 28 Oct 2026 04:00:26 GMT",
-      "contentSnippet": "IT之家 10 月 28 日消息，今天（28 日）上午，豆包通过公众号宣布，豆包工作操作电脑能力整体升级，屏幕点击精度、速度提升，更准、更快。\n继此前支持跨应用操作、将浏览器操作录成技能后，此次更新则支持将录制电脑操作保存为技能。根据介绍，用户演示一遍还能边操作边讲，把做法教给豆包工作。豆包学会后存为技能，下次就能照着做；Mac 电脑锁屏后，任务也能继续。\n\n结束录制后，豆包工作会把操作流程和讲解整理成个人技能。下次做同类任务时，选用这个技能，再告诉它这次要处理什么，就能够省去重复解释操作步骤。\n此外，在“设置 → 工作任务模式设置”中，开启“允许豆包在锁屏时工作”后，需要操作电脑的任务，Ma",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "豆包工作新增录制电脑操作保存为技能功能，支持锁屏继续执行任务",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，信息具体含功能细节，但引用官方公众号宣传，缺乏独立验证"
-    },
-    {
-      "title": "索尼推出手机主摄图像传感器 LYTIA 720，提升暗光及 HDR 视频拍摄表现",
-      "link": "https://www.ithome.com/1/018/859.htm",
-      "pubDate": "Wed, 28 Oct 2026 03:59:50 GMT",
-      "contentSnippet": "IT之家 10 月 28 日消息，索尼半导体解决方案今日宣布将推出面向智能手机主摄像头的 LYTIA 720 图像传感器。该产品图像尺寸为 1/1.56\"，有效像素约为 50MP，采用堆栈式结构，预计 11 月上旬量产出货。\n\nLYTIA 720 搭载可将电荷高效转换为电压的 UHCG 电路技术，相较此前的同规格产品 LYTIA 700 减半了暗光环境下产生的随机噪点。\nLYTIA 720 也是 LYTIA 系列中首款支持全像素自动对焦 4K 60fps HDR 视频拍摄的 1/1.56\" 图像尺寸、1μm 像素间距产品。其通过 AD 转换电路，在降低传感器功耗的同时实现了该效果。\n此外，其支",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "索尼发布LYTIA 720手机图像传感器，50MP，暗光噪点减半，支持4K 60fps HDR视频。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家报道，信息具体含规格参数与量产时间，源自索尼官方宣布，技术细节清晰。"
+      "credibilityReason": "来源为知名科技媒体IT之家，信息具体含监管机构、产品型号和时间节点，但缺少原始链接引用（多源覆盖 +5）"
     }
   ]
 }
