@@ -1,31 +1,31 @@
 {
-  "generatedAt": "2026-10-29T05:03:17.428Z",
+  "generatedAt": "2026-10-30T05:01:46.614Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "2027 款领克 08 EM-P 官宣 11 月 5 日亮相",
-      "link": "https://www.ithome.com/1/019/399.htm",
-      "pubDate": "Thu, 29 Oct 2026 03:30:34 GMT",
-      "contentSnippet": "IT之家 10 月 29 日消息，领克汽车官微今天（29 日）上午宣布，2027 款领克 08 EM-P 将于 11 月 5 日正式登场。\n\n官方预告图显示，新车预计将延续现款车型的设计，将主打橙黑双拼配色。不过新车的配置信息仍待公开，IT之家也将持续关注。\n作为参考，今年 6 月，领克 EM-P 家族三款版型上新。其中，全新领克 08 EM-P 新增 230 超长续航 Max 版，限时价 16.98 万元起。该版本搭载 38.2kWh 神盾金砖磷酸铁锂电池，CLTC 纯电续航达 230km，CLTC 馈电油耗低至 4.5L/100km，动力沿用 1.5T Evo 高效电混专用发动机加 3 挡",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "卓驭发布商用车智能辅助驾驶解决方案「磐行」，一年可以让重卡省下 2-3 万元油钱",
+      "link": "https://www.ifanr.com/1686855?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pubDate": "Fri, 30 Oct 2026 04:54:24 +0000",
+      "contentSnippet": "省钱才是硬道理。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "sourceName": "爱范儿",
+      "sourceWeight": 82,
       "allSources": [
-        "IT之家"
+        "爱范儿"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "领克官宣2027款08 EM-P将于11月5日亮相，主打橙黑配色",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引用官方官微及预告图，含现款配置数据，但新车信息有限"
+      "aiSummary": "卓驭发布商用车智驾方案磐行，称重卡年省油费2-3万元",
+      "credibilityScore": 60,
+      "credibilityLevel": "medium",
+      "credibilityReason": "爱范儿为知名科技媒体，但正文仅一句口号式摘要，缺乏技术细节与数据出处，节油数据无法核实"
     },
     {
-      "title": "iPhoneDuo裂痕背后，撕开了供应链的“最后一毫米”",
-      "link": "https://www.tmtpost.com/8185533.html",
-      "pubDate": "Thu, 29 Oct 2026 11:25:00 +0800",
-      "contentSnippet": "折叠屏，苹果晚了整整五年；裂开的，却不只是那块屏。  从发售当天溢价一万余元，到不到三天跌破官方定价，iPhone Duo用一个“过山车式”的首周，把问题从个别质量投诉，抬升成了行业信号。  iFixit的拆解指向一个反直觉的结论：图纸是合格的，失效发生在装配端的“最后一毫米”。前魅族副总裁李楠一句“苹果和供应链生疏了”，点中了要害。",
+      "title": "Anthropic上市前夜，大模型生意如何算账？",
+      "link": "https://www.tmtpost.com/8186936.html",
+      "pubDate": "Fri, 30 Oct 2026 12:28:06 +0800",
+      "contentSnippet": "一家模型公司的增长与代价",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -33,33 +33,67 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体分析iPhone Duo折叠屏裂痕问题，指供应链装配精度不足。",
+      "aiSummary": "钛媒体分析Anthropic上市前大模型商业模式的增长与代价",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "知名科技媒体，选题具体，但正文摘要过简，缺少数据与原始出处支撑"
+    },
+    {
+      "title": "预制数据中心，突然火了",
+      "link": "https://www.tmtpost.com/8186452.html",
+      "pubDate": "Fri, 30 Oct 2026 11:48:31 +0800",
+      "contentSnippet": "数据中心早就开始预制了。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体分析预制数据中心突然走红的现象",
+      "credibilityScore": 65,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体，但正文摘要仅一句话，信息过于简略，缺少数据与细节支撑"
+    },
+    {
+      "title": "试驾宝马新世代iX3，还要等到11月底",
+      "link": "https://www.tmtpost.com/8186636.html",
+      "pubDate": "Fri, 30 Oct 2026 11:48:29 +0800",
+      "contentSnippet": "大圆柱电池“全责”？",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体报道宝马新世代iX3试驾需等到11月底，提及大圆柱电池。",
+      "credibilityScore": 72,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体钛媒体，内容涉及具体车型和技术，但信息较简略，缺少详细数据和原始出处。"
+    },
+    {
+      "title": "宜家中国正在把自己打散",
+      "link": "https://www.tmtpost.com/8186671.html",
+      "pubDate": "Fri, 30 Oct 2026 11:48:28 +0800",
+      "contentSnippet": "宜家正在拆分集中在大卖场的价值，通过不同的产品形式、门店形态和销售渠道离消费者更近。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "宜家中国拆分大卖场模式，通过多形态门店和渠道贴近消费者",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "知名科技媒体，引用iFixit拆解及业内人士观点，但缺乏具体数据与官方回应。"
+      "credibilityReason": "钛媒体为知名科技媒体，内容具体但摘要简略，缺少数据和原始出处支撑"
     },
     {
-      "title": "七工匠推出 AF 10mm F4 APS-C 镜头：约 71g 重，索尼 E / 富士 X 卡口，首发 669 元",
-      "link": "https://www.ithome.com/1/019/417.htm",
-      "pubDate": "Thu, 29 Oct 2026 04:53:46 GMT",
-      "contentSnippet": "IT之家 10 月 29 日消息，七工匠今日推出 AF 10mm F4 APS-C 相机镜头，首发 669 元。\n\n这款镜头重约 71g，高度 33mm；支持自动对焦，搭载 STM 马达，最近对焦距离 0.2m；采用 7 组 9 片镜片（包含 1 枚 ED 低色散、1 枚高折射、2 枚非球面镜片），滤镜尺寸 37mm。\n\nIT之家附这款新品详细参数（商品页未公布 STM 曲线）：\n\n\n京东七工匠 AF 10mm F4669 元直达链接\n\n京东 11.11 无门槛红包 面额至高 26888 元，每天抽 3 次：点此抽红包。\n\n淘宝 11.11 无门槛红包 面额至高 26888 元，每天抽 1 次",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "七工匠发布AF 10mm F4 APS-C镜头，重71g，首发669元。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，参数具体详实，含镜片结构、重量、对焦距离等细节，但缺少原始出处和STM曲线。"
-    },
-    {
-      "title": "AI裁员背后：消失的不只是工作，还有年轻人的机会",
-      "link": "https://www.tmtpost.com/8185164.html",
-      "pubDate": "Thu, 29 Oct 2026 12:53:18 +0800",
-      "contentSnippet": "企业用AI省下的人工成本已经写进财报，但裁员公告远远装不下这场变化。那些没有被招聘的人、逐渐消失的职业入口，以及技术收益的重新分配，正在成为更大的问题。",
+      "title": "禾赛的具身二胎",
+      "link": "https://www.tmtpost.com/8186657.html",
+      "pubDate": "Fri, 30 Oct 2026 11:48:26 +0800",
+      "contentSnippet": "具身行业不欢迎独生子。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -67,16 +101,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体分析AI裁员隐性影响：消失的招聘入口与年轻人机会",
+      "aiSummary": "钛媒体报道禾赛科技布局具身智能第二业务线",
+      "credibilityScore": 65,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体钛媒体，但正文摘要极简，缺少技术细节和数据支撑，信息量不足"
+    },
+    {
+      "title": "OpenAI健康板块负责人：AI医疗健康的上限和下限",
+      "link": "https://www.tmtpost.com/8186695.html",
+      "pubDate": "Fri, 30 Oct 2026 11:48:24 +0800",
+      "contentSnippet": "从救人到越界，只有一步之遥。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "OpenAI健康板块负责人谈AI医疗健康的上限与下限，强调从救人到越界仅一步之遥。",
       "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体，选题有深度，但摘要偏观点化，缺少具体数据与原始出处支撑"
+      "credibilityReason": "钛媒体为知名科技媒体，但正文摘要极简，缺乏具体数据与原始出处，信息详实度不足。"
     },
     {
-      "title": "张雪刷新纪录，书记被扔下水，麻阳读懂流量了吗？",
-      "link": "https://www.tmtpost.com/8185656.html",
-      "pubDate": "Thu, 29 Oct 2026 12:52:52 +0800",
-      "contentSnippet": "被看见是运气，被记住才是本事。",
+      "title": "Netflix的中年危机：巨头抱团围堵，短剧疯狂抢滩",
+      "link": "https://www.tmtpost.com/8186663.html",
+      "pubDate": "Fri, 30 Oct 2026 11:48:23 +0800",
+      "contentSnippet": "谁在抢走Netflix的观众？",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -84,16 +135,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体评论张雪破纪录及书记落水事件，探讨麻阳如何借流量发展。",
+      "aiSummary": "钛媒体分析Netflix面临的中年危机，探讨巨头围堵与短剧冲击。",
       "credibilityScore": 65,
       "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体评论，但内容简略、偏观点分析，缺少具体数据与原始出处。"
+      "credibilityReason": "来源为知名科技媒体钛媒体，但正文摘要极简，缺乏具体数据与原始出处，信息详实度不足。"
     },
     {
-      "title": "红果开始给自己踩刹车了",
-      "link": "https://www.tmtpost.com/8185237.html",
-      "pubDate": "Thu, 29 Oct 2026 12:44:28 +0800",
-      "contentSnippet": "但让用户停不下来，与让用户长期愿意留下来，终究不是一回事。",
+      "title": "Qoder背后，阿里云的应用难题",
+      "link": "https://www.tmtpost.com/8186917.html",
+      "pubDate": "Fri, 30 Oct 2026 11:48:21 +0800",
+      "contentSnippet": "Qoder要为谁而变",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -101,16 +152,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体分析红果短剧从追求用户时长转向长期留存策略",
-      "credibilityScore": 75,
+      "aiSummary": "钛媒体分析阿里云Qoder产品定位与阿里云应用生态难题",
+      "credibilityScore": 72,
       "credibilityLevel": "high",
-      "credibilityReason": "知名科技媒体钛媒体出品，选题聚焦行业趋势，但摘要内容简略缺少具体数据支撑"
+      "credibilityReason": "钛媒体为知名科技媒体，选题具体，但摘要信息简略，缺少数据与原始出处支撑"
     },
     {
-      "title": "人形机器人，要出大结果了",
-      "link": "https://www.tmtpost.com/8185839.html",
-      "pubDate": "Thu, 29 Oct 2026 12:44:22 +0800",
-      "contentSnippet": "AI正在长出手脚，美国的优势在于更聪明的大脑，中国则拥有最强最完善的身体。",
+      "title": "独家：决定小度命运的两次转折",
+      "link": "https://www.tmtpost.com/8186931.html",
+      "pubDate": "Fri, 30 Oct 2026 11:48:20 +0800",
+      "contentSnippet": "后妈资源再多，亲爹仍然不可或缺",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -118,33 +169,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体称人形机器人将迎重大突破，中美各有优势",
-      "credibilityScore": 65,
-      "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体但内容简略，缺乏具体数据和原始出处，标题有夸大倾向"
-    },
-    {
-      "title": "科创板首例市值退市股来了",
-      "link": "https://www.tmtpost.com/8185818.html",
-      "pubDate": "Thu, 29 Oct 2026 12:44:17 +0800",
-      "contentSnippet": "能上市，也要能退市 。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "科创板出现首例因市值不达标而退市的公司，体现退市常态化。",
+      "aiSummary": "钛媒体独家复盘小度业务两次关键转折，探讨其发展命运。",
       "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，主题符合科创板退市制度事实，但正文摘要极简，缺少公司名称、具体市值数据及监管依据等细节，信息完整度不足。"
+      "credibilityReason": "来源为知名科技媒体钛媒体，但摘要信息简略且含比喻性表述，缺少具体数据与原始出处。"
     },
     {
-      "title": "全国第19张“千万门票”，会被哪座城市抢占？",
-      "link": "https://www.tmtpost.com/8185652.html",
-      "pubDate": "Thu, 29 Oct 2026 12:40:36 +0800",
-      "contentSnippet": "人愿意来，更愿意留下来安家立业，这才是一座城市真正的底气。",
+      "title": "宇树现人形",
+      "link": "https://www.tmtpost.com/8186939.html",
+      "pubDate": "Fri, 30 Oct 2026 11:48:17 +0800",
+      "contentSnippet": "真实的生意，不需要光环",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -152,113 +186,78 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体分析哪座城市将获得全国第19张千万人口门票",
-      "credibilityScore": 65,
-      "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体但内容为城市人口预测分析，摘要缺乏具体数据支撑，属评论性报道"
-    },
-    {
-      "title": "连续 4 年获得全球新能源销冠：比亚迪员工总数突破 102 万，其中研发工程师 12 万名",
-      "link": "https://www.ithome.com/1/019/415.htm",
-      "pubDate": "Thu, 29 Oct 2026 04:39:51 GMT",
-      "contentSnippet": "IT之家 10 月 29 日消息，据新浪汽车报道，10 月 28 日，在第三十三届中国汽车工程学会年会上，比亚迪汽车董事长王传福在演讲中透露，比亚迪总员工已突破 102 万人，其中中国区 96 万人，海外 6 万人，并拥有高达 12 万名研发工程师，分布在电池、电机、电控、半导体等核心领域。\n从 1994 年创业到 2003 年入局造车，王传福表示，比亚迪坚持高度垂直整合模式，如今已连续 4 年获得全球新能源销冠。他强调，比亚迪的发展就是中国汽车工业从跟跑到领跑的缩影。\nIT之家注意到，在颁奖及发布环节，王传福荣获 2026 中国汽车工程学会科学技术奖汽车工业饶斌奖，该奖被称为“中国汽车工业最",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "比亚迪员工总数突破102万，研发工程师达12万名，连续4年全球新能源销冠。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家引述新浪汽车，信息源自王传福公开演讲，数据具体可查，但非一手报道。"
-    },
-    {
-      "title": "摩尔线程单季扣非净利润首次转正，国产GPU生意走到哪一步了？",
-      "link": "https://www.tmtpost.com/8185837.html",
-      "pubDate": "Thu, 29 Oct 2026 12:37:44 +0800",
-      "contentSnippet": "从综合毛利率看，摩尔线程在国产AI芯片厂商中处于较高水平，2026年上半年，其综合毛利率为56.95%。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "摩尔线程单季扣非净利润首次转正，2026上半年毛利率56.95%。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，报道含具体财务数据，逻辑清晰，但缺少原始财报出处。"
-    },
-    {
-      "title": "“世界”等待张一鸣",
-      "link": "https://www.tmtpost.com/8185843.html",
-      "pubDate": "Thu, 29 Oct 2026 12:36:16 +0800",
-      "contentSnippet": "Genie 4发布，字节的世界模型还远吗？",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体分析字节跳动Genie 4发布后其世界模型技术进展与前景。",
+      "aiSummary": "钛媒体报道宇树科技人形机器人业务，强调真实商业价值而非概念炒作。",
       "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，但标题偏悬念式，正文摘要过简，缺乏具体数据与原始出处，技术细节不足。"
+      "credibilityReason": "来源为知名科技媒体钛媒体，但正文信息极简，缺乏具体产品参数和数据支撑。"
     },
     {
-      "title": "谷歌云收入翻倍，股价为什么还跌了？",
-      "link": "https://www.tmtpost.com/8185797.html",
-      "pubDate": "Thu, 29 Oct 2026 12:36:08 +0800",
-      "contentSnippet": "现金在失血。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "《久坐健康指南》作者、运动健康领域创作者阿帅装了啥？",
+      "link": "https://sspai.com/prime/story/zhuanglesha-261030",
+      "pubDate": "Fri, 30 Oct 2026 11:30:43 +0800",
+      "contentSnippet": "编者按：@阿帅的健康笔记长期专注于运动健康领域的创作，发表了不少兼具实用性与科普性的文章，并著有付费栏目《久坐健康指南》，受到许多读者喜爱。本期《装了啥》邀请他分享运动、创作与工作中的心得，以及常用的 ...查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+      "sourceName": "少数派",
+      "sourceWeight": 78,
       "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "谷歌云收入翻倍但股价下跌，钛媒体分析称因现金流失血",
-      "credibilityScore": 65,
-      "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体，标题有分析性，但正文摘要过短，缺少具体数据和原始出处支撑"
-    },
-    {
-      "title": "现代汽车 2026 财年前三季度报归母净利润 6.56 万亿韩元，同比下降 22.1%",
-      "link": "https://www.ithome.com/1/019/414.htm",
-      "pubDate": "Thu, 29 Oct 2026 04:35:39 GMT",
-      "contentSnippet": "IT之家 10 月 29 日消息，现代汽车今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度报（2026 年 1 月～2026 年 9 月）业绩快报及第三财季（2026 年 7 月～2026 年 9 月）业绩快报报告：\n\n2026 财年前三季度报\n\n营业总收入：140.26 万亿韩元（IT之家注：现汇率约合 7053.9 亿元人民币），同比增长 0.6%\n\n归母净利润：6.56 万亿韩元（现汇率约合 329.93 亿元人民币），同比下降 22.1%\n\n2026 财年第三财季\n\n营业总收入：45.11 万亿韩元（现汇率约合 2268.59 亿元人民币），同比下降 3",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "现代汽车2026财年前三季度归母净利润6.56万亿韩元，同比下降22.1%",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引用官方业绩快报，数据具体含营收利润及汇率换算，来源明确"
-    },
-    {
-      "title": "三星：新版睡眠呼吸暂停检测算法下月率先向韩版 Galaxy Watch 9/Ultra2 手表及 Galaxy Ring 智能戒指推送",
-      "link": "https://www.ithome.com/1/019/413.htm",
-      "pubDate": "Thu, 29 Oct 2026 04:29:31 GMT",
-      "contentSnippet": "IT之家 10 月 29 日消息，三星宣布旗下 Galaxy 设备新版睡眠呼吸暂停检测算法已获得韩国食品医药品安全处（MFDS）批准，新版算法相较原版不仅能够检测中重度睡眠呼吸暂停的相关迹象，还可借助 AI 统计用户睡眠期间每小时出现的呼吸中断次数，并根据发生频率划分为轻度、偶发和频繁三个等级。\nIT之家获悉，韩版 Galaxy Watch Ultra2、Galaxy Watch9 和 Galaxy Ring 智能戒指将于今年 11 月率先获得新版算法，随后，运行 Wear OS 7.0 或更高版本系统的 Galaxy Watch7 和 Galaxy Watch8 也将获得更新。\n\n三星表示，",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家",
         "少数派"
       ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "三星新版睡眠呼吸暂停检测算法获韩国批准，11月推送Galaxy设备",
-      "credibilityScore": 87,
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "少数派《装了啥》栏目邀请运动健康创作者阿帅分享常用工具与心得。",
+      "credibilityScore": 65,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体，但文章为会员付费内容，摘要信息简略，缺少技术细节与数据支撑。"
+    },
+    {
+      "title": "精确到秒的时间记录是怎样的？我的柳比歇夫法半年实践",
+      "link": "https://sspai.com/post/116435",
+      "pubDate": "Fri, 30 Oct 2026 11:13:40 +0800",
+      "contentSnippet": "就像一个运动员无法预计自己能否取得金牌，但能控制自己投入于训练的时间一样，我们无法决定性地控制工作和生活中每一项事项的成功与否，但可以控制自己投入更多还是更少的时间。查看全文",
+      "sourceName": "少数派",
+      "sourceWeight": 78,
+      "allSources": [
+        "少数派"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "少数派作者分享柳比歇夫时间记录法半年实践心得",
+      "credibilityScore": 60,
+      "credibilityLevel": "medium",
+      "credibilityReason": "个人经验分享类文章，来源为知名平台但缺乏数据支撑和原始出处，属主观实践记录"
+    },
+    {
+      "title": "CMF Speaker 系列体验：好听的牛奶盒，还能自己做外壳",
+      "link": "https://www.ifanr.com/1686140?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pubDate": "Fri, 30 Oct 2026 03:00:59 +0000",
+      "contentSnippet": "如牛奶般醇厚\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "sourceName": "爱范儿",
+      "sourceWeight": 82,
+      "allSources": [
+        "爱范儿"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "爱范儿体验CMF Speaker系列音箱，称音质醇厚且支持自制外壳。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "知名科技媒体，但摘要过简，缺乏技术参数与数据支撑，信息具体度不足。"
+    },
+    {
+      "title": "宇树财报夜：击穿物理世界之前，先要穿过利润表",
+      "link": "https://www.tmtpost.com/8186718.html",
+      "pubDate": "Fri, 30 Oct 2026 10:53:15 +0800",
+      "contentSnippet": "故事更动听了，利润却更改难看了",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体分析宇树科技财报，指出其故事动听但利润表现恶化。",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，信息具体含监管机构、产品型号和时间节点，但缺少原始链接引用（多源覆盖 +5）"
+      "credibilityReason": "来源为知名科技媒体钛媒体，标题具体指向财报分析，但摘要简略缺乏数据细节。"
     }
   ]
 }
