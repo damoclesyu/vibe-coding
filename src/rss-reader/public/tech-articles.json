@@ -1,31 +1,14 @@
 {
-  "generatedAt": "2026-10-30T05:01:46.614Z",
+  "generatedAt": "2026-10-31T04:49:32.992Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "卓驭发布商用车智能辅助驾驶解决方案「磐行」，一年可以让重卡省下 2-3 万元油钱",
-      "link": "https://www.ifanr.com/1686855?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pubDate": "Fri, 30 Oct 2026 04:54:24 +0000",
-      "contentSnippet": "省钱才是硬道理。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "sourceName": "爱范儿",
-      "sourceWeight": 82,
-      "allSources": [
-        "爱范儿"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "卓驭发布商用车智驾方案磐行，称重卡年省油费2-3万元",
-      "credibilityScore": 60,
-      "credibilityLevel": "medium",
-      "credibilityReason": "爱范儿为知名科技媒体，但正文仅一句口号式摘要，缺乏技术细节与数据出处，节油数据无法核实"
-    },
-    {
-      "title": "Anthropic上市前夜，大模型生意如何算账？",
-      "link": "https://www.tmtpost.com/8186936.html",
-      "pubDate": "Fri, 30 Oct 2026 12:28:06 +0800",
-      "contentSnippet": "一家模型公司的增长与代价",
+      "title": "美国军事霸权：非常规手段能化解巨额债务危机吗？",
+      "link": "https://www.tmtpost.com/8188356.html",
+      "pubDate": "Sat, 31 Oct 2026 11:11:18 +0800",
+      "contentSnippet": "非常规手段能否持续压低美国融资成本？战争与制裁带来的财政支出、通胀压力和供应链冲击，又会怎样反过来影响债务动态？",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -33,231 +16,248 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体分析Anthropic上市前大模型商业模式的增长与代价",
-      "credibilityScore": 72,
+      "aiSummary": "钛媒体分析美国能否用军事霸权等非常规手段化解巨额债务危机",
+      "credibilityScore": 62,
       "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体，选题具体，但正文摘要过简，缺少数据与原始出处支撑"
+      "credibilityReason": "来源为知名科技媒体，但议题偏宏观评论，摘要仅设问无数据与原始出处，信息较简略"
     },
     {
-      "title": "预制数据中心，突然火了",
-      "link": "https://www.tmtpost.com/8186452.html",
-      "pubDate": "Fri, 30 Oct 2026 11:48:31 +0800",
-      "contentSnippet": "数据中心早就开始预制了。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "市场监管总局批准发布 2 项生物芯片国家标准，时隔 15 年更新、行业术语有了“普通话”",
+      "link": "https://www.ithome.com/1/020/458.htm",
+      "pubDate": "Sat, 31 Oct 2026 04:48:27 GMT",
+      "contentSnippet": "IT之家 10 月 31 日消息，据国家市场监管总局 10 月 30 日公告，市场监管总局（国家标准委）批准发布《生物芯片基本术语》《人体疾病易感 DNA 多态性检测微阵列芯片》2 项新版推荐性国家标准，将自 2027 年 2 月 1 日起实施。\n《生物芯片基本术语》（GB/T 27990—2026）作为生物芯片领域的基础性标准，代替了实施十余年的 2011 年版，系统重构了行业概念体系。标准紧扣技术演进与产业需求，新增核酸检测芯片、免疫检测芯片、器官芯片等核心术语，并进一步完善了生物芯片、微阵列芯片、微流控芯片等基础定义的表述。内容覆盖基础术语、芯片探针、微阵列芯片分类、微流控芯片分类四大板",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "钛媒体"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体分析预制数据中心突然走红的现象",
-      "credibilityScore": 65,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体，但正文摘要仅一句话，信息过于简略，缺少数据与细节支撑"
-    },
-    {
-      "title": "试驾宝马新世代iX3，还要等到11月底",
-      "link": "https://www.tmtpost.com/8186636.html",
-      "pubDate": "Fri, 30 Oct 2026 11:48:29 +0800",
-      "contentSnippet": "大圆柱电池“全责”？",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体报道宝马新世代iX3试驾需等到11月底，提及大圆柱电池。",
-      "credibilityScore": 72,
+      "aiSummary": "市场监管总局批准发布2项生物芯片国家标准，将于2027年2月实施",
+      "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体钛媒体，内容涉及具体车型和技术，但信息较简略，缺少详细数据和原始出处。"
+      "credibilityReason": "来源为知名科技媒体，引用官方公告，标准编号与实施日期具体，信息详实可信"
     },
     {
-      "title": "宜家中国正在把自己打散",
-      "link": "https://www.tmtpost.com/8186671.html",
-      "pubDate": "Fri, 30 Oct 2026 11:48:28 +0800",
-      "contentSnippet": "宜家正在拆分集中在大卖场的价值，通过不同的产品形式、门店形态和销售渠道离消费者更近。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "腾讯地图公布 Agent 能力全景图，元宝、微信小微、OPPO 小布助手等已接入",
+      "link": "https://www.ithome.com/1/020/457.htm",
+      "pubDate": "Sat, 31 Oct 2026 04:41:10 GMT",
+      "contentSnippet": "IT之家 10 月 31 日消息，10 月 30 日，2026 腾讯全球数字生态大会在深圳举行。\n在腾讯地图产业应用专场上，腾讯正式对外公布 Agent 能力全景图，面向产业客户、智能硬件及开发者全面开放地图 Agent 能力。\n\nIT之家获悉，目前，元宝、微信小微、OPPO 小布助手、乐奇 AI 眼镜、光帆 AI 全感穿戴设备等已经接入腾讯地图的 Agent 能力。\n\n在元宝里，一句话就能调用地图完成路线规划，一句话打车服务也即将上线。\n\n通过小微，用户能在视频号、聊天等各个场景里获取 AI + 地图的原生体验。比如在视频号里刷到店铺的种草视频，一句话就能查到线下店在哪里。\n\n\n在汽车端，腾",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "钛媒体"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "宜家中国拆分大卖场模式，通过多形态门店和渠道贴近消费者",
+      "aiSummary": "腾讯地图公布Agent能力全景图，向产业客户和开发者开放，多款AI助手已接入",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道含具体产品名称、场景细节和发布会信息，但缺少官方原始链接引用"
+    },
+    {
+      "title": "苹果中国官网上线 Apple 智能介绍页面：首批核心功能今年稍晚推出，千问整合一体",
+      "link": "https://www.ithome.com/1/020/456.htm",
+      "pubDate": "Sat, 31 Oct 2026 04:39:03 GMT",
+      "contentSnippet": "IT之家 10 月 31 日消息，据IT之家小伙伴反馈，苹果中国区官网今日上线了 Apple 智能的介绍页面，提示 Apple 智能的首批核心功能将于今年稍晚推出。\n\n苹果今日宣布首批 Apple 智能功能即将在中国推出，并与阿里巴巴达成合作，在部分体验中接入千问。这是 Apple 智能自 2024 年发布以来，国行版本首次获得实质性落地进展。\n这一系列 Apple 智能功能将自 11 月 4 日起随最新的 iOS 开发者 Beta 版开放测试，并将于 12 月 iOS 27.3 正式发布时面向中国用户推出。其他平台的支持将在获得必要审批后推出。\n苹果中国区官网也列出了 Apple 智能兼容设",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "苹果中国官网上线Apple智能介绍页，首批功能今年稍晚推出并整合千问。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容具体但摘要简略，缺少数据和原始出处支撑"
+      "credibilityReason": "IT之家为知名科技媒体，信息具体含时间节点与合作伙伴，但缺少官方链接等原始出处。"
     },
     {
-      "title": "禾赛的具身二胎",
-      "link": "https://www.tmtpost.com/8186657.html",
-      "pubDate": "Fri, 30 Oct 2026 11:48:26 +0800",
-      "contentSnippet": "具身行业不欢迎独生子。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "广汽埃安 i60 今日交付第十万台：销量连续 10 个月过万台，订单连续 2 个月突破 2 万台",
+      "link": "https://www.ithome.com/1/020/454.htm",
+      "pubDate": "Sat, 31 Oct 2026 04:22:39 GMT",
+      "contentSnippet": "IT之家 10 月 31 日消息，广汽埃安今日宣布，今日 15:00 举行埃安 i60 第十万台交付仪式。\n官方表示，广汽埃安 i60 是最快交付 10 万台的双动力 SUV，订单连续 2 个月突破 2 万台，销量连续 10 个月过万台。\n\n据IT之家此前报道，广汽埃安旗下 2027 款埃安 i60 于 9 月 15 日上市，共推出 6 款车型，限时焕新价 10.68 万元起。同时，2026 款 530 宁德时代标准版限时焕新价 10.36 万元。\n\n520 宁德版车型：指导价 11.48 万元，限时焕新价 10.68 万元\n\n520 宁德激光版车型：指导价 12.68 万元，限时焕新价 11",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "钛媒体"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体报道禾赛科技布局具身智能第二业务线",
-      "credibilityScore": 65,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，但正文摘要极简，缺少技术细节和数据支撑，信息量不足"
-    },
-    {
-      "title": "OpenAI健康板块负责人：AI医疗健康的上限和下限",
-      "link": "https://www.tmtpost.com/8186695.html",
-      "pubDate": "Fri, 30 Oct 2026 11:48:24 +0800",
-      "contentSnippet": "从救人到越界，只有一步之遥。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "OpenAI健康板块负责人谈AI医疗健康的上限与下限，强调从救人到越界仅一步之遥。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "钛媒体为知名科技媒体，但正文摘要极简，缺乏具体数据与原始出处，信息详实度不足。"
-    },
-    {
-      "title": "Netflix的中年危机：巨头抱团围堵，短剧疯狂抢滩",
-      "link": "https://www.tmtpost.com/8186663.html",
-      "pubDate": "Fri, 30 Oct 2026 11:48:23 +0800",
-      "contentSnippet": "谁在抢走Netflix的观众？",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体分析Netflix面临的中年危机，探讨巨头围堵与短剧冲击。",
-      "credibilityScore": 65,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，但正文摘要极简，缺乏具体数据与原始出处，信息详实度不足。"
-    },
-    {
-      "title": "Qoder背后，阿里云的应用难题",
-      "link": "https://www.tmtpost.com/8186917.html",
-      "pubDate": "Fri, 30 Oct 2026 11:48:21 +0800",
-      "contentSnippet": "Qoder要为谁而变",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体分析阿里云Qoder产品定位与阿里云应用生态难题",
-      "credibilityScore": 72,
+      "aiSummary": "广汽埃安i60第十万台交付，连续10个月销量过万、订单连续2月破2万。",
+      "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，选题具体，但摘要信息简略，缺少数据与原始出处支撑"
+      "credibilityReason": "来源为知名科技媒体IT之家，信息含具体交付时间、销量数据及车型价格，但数据主要引自厂商官方，缺乏第三方验证。"
     },
     {
-      "title": "独家：决定小度命运的两次转折",
-      "link": "https://www.tmtpost.com/8186931.html",
-      "pubDate": "Fri, 30 Oct 2026 11:48:20 +0800",
-      "contentSnippet": "后妈资源再多，亲爹仍然不可或缺",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "罗技 MX 系列首个特别版鼠标、MX KEYPAD 国行发售，买就送腾讯 WorkBuddy 积分",
+      "link": "https://www.ithome.com/1/020/453.htm",
+      "pubDate": "Sat, 31 Oct 2026 04:07:35 GMT",
+      "contentSnippet": "IT之家 10 月 31 日现场消息，罗技于 10 月 30 日至 31 日在上海 C·PARK 海粟文化广场举办 2026 罗技创享日创意市集，开展合作交流、展示多款新品。\n\n在线下体验环节，罗技以开放式创意市集为载体，将办公硬件、个性化软件及 AI 工具融入不同工作与生活场景，邀请消费者亲身体验工具协同带来的便利，并与合作伙伴共同交流未来办公体验与合作方向。\n\n\n本次创享日，罗技围绕不同专业用户的工作需求，重点带来 MX MASTER 4 开发者特别版、MX KEYPAD 创意工作台及 Zone Vibe Pro AI 降噪耳机，并展示 Mobi Fold 折叠口袋鼠标、Pebble Up",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "钛媒体"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体独家复盘小度业务两次关键转折，探讨其发展命运。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，但摘要信息简略且含比喻性表述，缺少具体数据与原始出处。"
-    },
-    {
-      "title": "宇树现人形",
-      "link": "https://www.tmtpost.com/8186939.html",
-      "pubDate": "Fri, 30 Oct 2026 11:48:17 +0800",
-      "contentSnippet": "真实的生意，不需要光环",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体报道宇树科技人形机器人业务，强调真实商业价值而非概念炒作。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，但正文信息极简，缺乏具体产品参数和数据支撑。"
-    },
-    {
-      "title": "《久坐健康指南》作者、运动健康领域创作者阿帅装了啥？",
-      "link": "https://sspai.com/prime/story/zhuanglesha-261030",
-      "pubDate": "Fri, 30 Oct 2026 11:30:43 +0800",
-      "contentSnippet": "编者按：@阿帅的健康笔记长期专注于运动健康领域的创作，发表了不少兼具实用性与科普性的文章，并著有付费栏目《久坐健康指南》，受到许多读者喜爱。本期《装了啥》邀请他分享运动、创作与工作中的心得，以及常用的 ...查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-      "sourceName": "少数派",
-      "sourceWeight": 78,
-      "allSources": [
-        "少数派"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "少数派《装了啥》栏目邀请运动健康创作者阿帅分享常用工具与心得。",
-      "credibilityScore": 65,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体，但文章为会员付费内容，摘要信息简略，缺少技术细节与数据支撑。"
-    },
-    {
-      "title": "精确到秒的时间记录是怎样的？我的柳比歇夫法半年实践",
-      "link": "https://sspai.com/post/116435",
-      "pubDate": "Fri, 30 Oct 2026 11:13:40 +0800",
-      "contentSnippet": "就像一个运动员无法预计自己能否取得金牌，但能控制自己投入于训练的时间一样，我们无法决定性地控制工作和生活中每一项事项的成功与否，但可以控制自己投入更多还是更少的时间。查看全文",
-      "sourceName": "少数派",
-      "sourceWeight": 78,
-      "allSources": [
-        "少数派"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "少数派作者分享柳比歇夫时间记录法半年实践心得",
-      "credibilityScore": 60,
-      "credibilityLevel": "medium",
-      "credibilityReason": "个人经验分享类文章，来源为知名平台但缺乏数据支撑和原始出处，属主观实践记录"
-    },
-    {
-      "title": "CMF Speaker 系列体验：好听的牛奶盒，还能自己做外壳",
-      "link": "https://www.ifanr.com/1686140?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pubDate": "Fri, 30 Oct 2026 03:00:59 +0000",
-      "contentSnippet": "如牛奶般醇厚\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "sourceName": "爱范儿",
-      "sourceWeight": 82,
-      "allSources": [
-        "爱范儿"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "爱范儿体验CMF Speaker系列音箱，称音质醇厚且支持自制外壳。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体，但摘要过简，缺乏技术参数与数据支撑，信息具体度不足。"
-    },
-    {
-      "title": "宇树财报夜：击穿物理世界之前，先要穿过利润表",
-      "link": "https://www.tmtpost.com/8186718.html",
-      "pubDate": "Fri, 30 Oct 2026 10:53:15 +0800",
-      "contentSnippet": "故事更动听了，利润却更改难看了",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体分析宇树科技财报，指出其故事动听但利润表现恶化。",
-      "credibilityScore": 75,
+      "aiSummary": "罗技在上海创享日发布MX MASTER 4开发者特别版、MX KEYPAD等国行新品",
+      "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体钛媒体，标题具体指向财报分析，但摘要简略缺乏数据细节。"
+      "credibilityReason": "IT之家为知名科技媒体，现场报道含具体产品名称与活动细节，但缺少价格和规格数据"
+    },
+    {
+      "title": "开源装机工具 Rufus 4.16 Beta 发布：绕过影响数百万台 PC 的 UEFI NTFS 漏洞",
+      "link": "https://www.ithome.com/1/020/452.htm",
+      "pubDate": "Sat, 31 Oct 2026 04:04:39 GMT",
+      "contentSnippet": "IT之家 10 月 31 日消息，开源装机工具 Rufus 昨日（10 月 30 日）更新  4.16 Beta 版本，主要绕过了 UEFI NTFS 错误，改进了 USB 检测，并引入了其他几项增强功能。\nIT之家翻译更新日志内容如下：\n\n终于绕过了那个愚蠢的 AMI NTFS 驱动程序缺陷，让运行时 UEFI 介质验证能够在 AMI 搞砸的数百万台 PC 上正常工作。\n\n终于能够正确报告 USB 3.2+ 设备了（USB 3.2 = 20 Gbps，USB 4.0 = 40 Gbps，USB 4.1 = 80 Gbps—— 看看吧，USB 论坛，这其实真的没那么难！）\n\n修复了在运行时 U",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "Rufus 4.16 Beta发布，绕过AMI UEFI NTFS驱动缺陷并改进USB检测。",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "知名科技媒体翻译官方更新日志，技术细节具体，但正文截断且缺原始链接。"
+    },
+    {
+      "title": "大厂减市场预算，加AI预算",
+      "link": "https://www.tmtpost.com/8188331.html",
+      "pubDate": "Sat, 31 Oct 2026 11:53:33 +0800",
+      "contentSnippet": "当一家公司能用模型解释增长，它就不需要再用媒体预算解释增长。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体称大厂削减市场预算转投AI，以模型解释增长替代媒体投放",
+      "credibilityScore": 62,
+      "credibilityLevel": "medium",
+      "credibilityReason": "知名科技媒体，但正文仅一句观点式表述，缺乏具体企业、数据与原始出处，信息详实度不足"
+    },
+    {
+      "title": "初代选秀，一地鸡毛",
+      "link": "https://www.tmtpost.com/8187453.html",
+      "pubDate": "Sat, 31 Oct 2026 11:53:28 +0800",
+      "contentSnippet": "当“选秀往事”成为新生意。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体回顾初代选秀节目兴衰，探讨其商业化转型。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "知名科技媒体，但内容偏文化评论，缺乏技术细节和数据支撑，时效性一般。"
+    },
+    {
+      "title": "汇源丢了商标之后，还能再造一个国民品牌吗？",
+      "link": "https://www.tmtpost.com/8188303.html",
+      "pubDate": "Sat, 31 Oct 2026 11:53:23 +0800",
+      "contentSnippet": "想再造新品牌？这一条路更不好走。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体分析汇源失去商标后能否再造国民品牌，认为新品牌之路更难走。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体钛媒体，但正文仅一句摘要，缺少数据与原始出处，信息较简略。"
+    },
+    {
+      "title": "不再“一刀切”：微软 Win11 预览版可单独管控应用摄像头、麦克风、定位权限",
+      "link": "https://www.ithome.com/1/020/451.htm",
+      "pubDate": "Sat, 31 Oct 2026 03:53:07 GMT",
+      "contentSnippet": "IT之家 10 月 31 日消息，微软昨日（10 月 30 日）发布博文，邀请 Windows Insider 项目成员，在 Windows 11 25H2 Beta 26220.9836，以及 Windows 11 Experimental（Future Platforms）预览版 Build 29698.1000 中，进一步精细化应用权限管控。\n根据微软官方更新日志内容，在上述 Windows 11 预览版中，微软补齐隐私能力，桌面应用现在可以按单个程序分别管理摄像头、麦克风和位置权限。\nIT之家援引 NeoWin 媒体报道，传统桌面应用此前操控这类敏感权限，用户只能通过设备级总开关统一控",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微软Win11预览版新增桌面应用摄像头、麦克风、定位权限的单独管控功能。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，引用了微软官方博文和具体版本号，信息详实有出处。"
+    },
+    {
+      "title": "工信部：2026 年前三季度我国软件业务收入 118031 亿元，同比增长 8.4%",
+      "link": "https://www.ithome.com/1/020/450.htm",
+      "pubDate": "Sat, 31 Oct 2026 03:51:03 GMT",
+      "contentSnippet": "IT之家 10 月 31 日消息，工信部今日发布数据，2026 年前三季度，我国软件和信息技术服务业（以下简称“软件业”）运行态势良好，软件业务收入稳健增长，利润总额增势平稳，软件业务出口保持较快增长。\n2026 年前三季度，我国软件业务收入 118,031 亿元，同比增长 8.4%。软件业利润总额 13,300 亿元，同比增长 1.6%。软件业务出口 519.4 亿美元（IT之家注：现汇率约合 3,464.17 亿元人民币），同比增长 12.2%。\n\n\n软件产品收入稳定增长。前三季度，软件产品收入同比增长 5%，占全行业收入比重为 20.8%。其中，基础软件产品收入同比增长 7.8%；工业软",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "工信部数据：2026年前三季度我国软件业务收入118031亿元，同比增长8.4%",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，引用工信部官方统计数据，含具体数值和同比增速，信息详实可信"
+    },
+    {
+      "title": "奇瑞执行副总裁戚士龙回应智界独立造车：希望更像新势力，而非“大一号”传统车企",
+      "link": "https://www.ithome.com/1/020/449.htm",
+      "pubDate": "Sat, 31 Oct 2026 03:41:10 GMT",
+      "contentSnippet": "IT之家 10 月 31 日消息，本月早些时候，工信部《道路机动车辆生产企业及产品公告》（第 412 批）显示，安徽智界新能源汽车有限公司被列入“拟发布新准入车辆生产企业”清单，也就是将获批独立造车资质。\n据新浪科技报道，在 10 月 31 日举行的三季度媒体沟通交流会上，奇瑞汽车股份有限公司执行副总裁戚士龙回应智界独立造车时表示，希望智界团队更像新势力企业，而不是简单做成“大一号”的传统车企。\n戚士龙表示，将从组织规模化、产品高端化及品牌逐步优化等方面，提升智界独立运营能力。据悉，智界明年还会有新产品导入，而海外业务仍由奇瑞集团独立运营。\n\nIT之家注意到，工信部的同一份文件中，奇瑞汽车股份",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "奇瑞高管回应智界独立造车，希望其更像新势力企业",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，引用工信部公告及新浪科技报道，信息有出处，但正文略简"
+    },
+    {
+      "title": "奥迪中国正式“分家”，一汽和上汽谁能赢？",
+      "link": "https://www.tmtpost.com/8188009.html",
+      "pubDate": "Sat, 31 Oct 2026 11:39:46 +0800",
+      "contentSnippet": "奥迪中国重新划分南北业务，十年博弈落幕，一汽和上汽谁能赢？",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "奥迪中国重新划分南北业务，十年博弈落幕，一汽和上汽谁将胜出。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体钛媒体，但正文摘要简略，缺少具体业务划分细节和数据支撑，标题带有竞争性悬念。"
+    },
+    {
+      "title": "微软更新 Win11 26H2 26340.9843 预览版：重构搜索体验，增强 XBOX 游戏模式",
+      "link": "https://www.ithome.com/1/020/448.htm",
+      "pubDate": "Sat, 31 Oct 2026 03:38:59 GMT",
+      "contentSnippet": "IT之家 10 月 31 日消息，微软昨日（10 月 30 日）发布博文，邀请 Beta 和 Experimental 通道 Windows Insider 项目成员，测试适用于 Windows 11 25H2/26H2 的预览版更新。\n一、Beta 频道 Windows 11 25H2 26220.9836 预览版\nBeta 频道 Windows Insider 项目成员安装 Windows 11 25H2 更新后，版本号升至 Build 26220.9836 ，IT之家附上相关更新内容如下：\n1.1、安全\n安全密钥的 PIN 码输入界面已更新。“其他用户”图标已被移除，以提供更直观、更便捷",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微软发布Win11 26H2预览版，重构搜索并增强XBOX游戏模式",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，引用微软官方博文，含具体版本号与更新细节，但摘要信息略简"
     }
   ]
 }
