@@ -1,31 +1,14 @@
 {
-  "generatedAt": "2026-10-31T04:49:32.992Z",
+  "generatedAt": "2026-11-01T05:12:53.523Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "美国军事霸权：非常规手段能化解巨额债务危机吗？",
-      "link": "https://www.tmtpost.com/8188356.html",
-      "pubDate": "Sat, 31 Oct 2026 11:11:18 +0800",
-      "contentSnippet": "非常规手段能否持续压低美国融资成本？战争与制裁带来的财政支出、通胀压力和供应链冲击，又会怎样反过来影响债务动态？",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体分析美国能否用军事霸权等非常规手段化解巨额债务危机",
-      "credibilityScore": 62,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体，但议题偏宏观评论，摘要仅设问无数据与原始出处，信息较简略"
-    },
-    {
-      "title": "市场监管总局批准发布 2 项生物芯片国家标准，时隔 15 年更新、行业术语有了“普通话”",
-      "link": "https://www.ithome.com/1/020/458.htm",
-      "pubDate": "Sat, 31 Oct 2026 04:48:27 GMT",
-      "contentSnippet": "IT之家 10 月 31 日消息，据国家市场监管总局 10 月 30 日公告，市场监管总局（国家标准委）批准发布《生物芯片基本术语》《人体疾病易感 DNA 多态性检测微阵列芯片》2 项新版推荐性国家标准，将自 2027 年 2 月 1 日起实施。\n《生物芯片基本术语》（GB/T 27990—2026）作为生物芯片领域的基础性标准，代替了实施十余年的 2011 年版，系统重构了行业概念体系。标准紧扣技术演进与产业需求，新增核酸检测芯片、免疫检测芯片、器官芯片等核心术语，并进一步完善了生物芯片、微阵列芯片、微流控芯片等基础定义的表述。内容覆盖基础术语、芯片探针、微阵列芯片分类、微流控芯片分类四大板",
+      "title": "GOG 平台希望复兴 PC 实体游戏，面临两重障碍",
+      "link": "https://www.ithome.com/1/020/705.htm",
+      "pubDate": "Sun, 01 Nov 2026 04:59:32 GMT",
+      "contentSnippet": "IT之家 11 月 1 日消息，据游戏媒体 GamesRadar 今天报道，致力于销售无 DRM 数字游戏的 GOG（IT之家注：Good Old Games）平台最近希望，PC 平台消亡数十年的实体游戏能够有朝一日迎来复兴。\n\nGOG 高级业务拓展与合作经理 Marcin Paczynski 表示：“理想情况下，我想让玩家能够在 GOG 购买实体游戏。你可以进入 GOG 游戏库，点击想要的实体版游戏，下单后商品送到你手中。”\n不过这种计划听起来更像是无法实现的梦想。因为重新建立 PC 实体游戏供应链是非常复杂的事情，GOG 目前经营的业务，也和实体商品搭不上边。\nMarcin Paczyns",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -33,50 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "市场监管总局批准发布2项生物芯片国家标准，将于2027年2月实施",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体，引用官方公告，标准编号与实施日期具体，信息详实可信"
-    },
-    {
-      "title": "腾讯地图公布 Agent 能力全景图，元宝、微信小微、OPPO 小布助手等已接入",
-      "link": "https://www.ithome.com/1/020/457.htm",
-      "pubDate": "Sat, 31 Oct 2026 04:41:10 GMT",
-      "contentSnippet": "IT之家 10 月 31 日消息，10 月 30 日，2026 腾讯全球数字生态大会在深圳举行。\n在腾讯地图产业应用专场上，腾讯正式对外公布 Agent 能力全景图，面向产业客户、智能硬件及开发者全面开放地图 Agent 能力。\n\nIT之家获悉，目前，元宝、微信小微、OPPO 小布助手、乐奇 AI 眼镜、光帆 AI 全感穿戴设备等已经接入腾讯地图的 Agent 能力。\n\n在元宝里，一句话就能调用地图完成路线规划，一句话打车服务也即将上线。\n\n通过小微，用户能在视频号、聊天等各个场景里获取 AI + 地图的原生体验。比如在视频号里刷到店铺的种草视频，一句话就能查到线下店在哪里。\n\n\n在汽车端，腾",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "腾讯地图公布Agent能力全景图，向产业客户和开发者开放，多款AI助手已接入",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道含具体产品名称、场景细节和发布会信息，但缺少官方原始链接引用"
-    },
-    {
-      "title": "苹果中国官网上线 Apple 智能介绍页面：首批核心功能今年稍晚推出，千问整合一体",
-      "link": "https://www.ithome.com/1/020/456.htm",
-      "pubDate": "Sat, 31 Oct 2026 04:39:03 GMT",
-      "contentSnippet": "IT之家 10 月 31 日消息，据IT之家小伙伴反馈，苹果中国区官网今日上线了 Apple 智能的介绍页面，提示 Apple 智能的首批核心功能将于今年稍晚推出。\n\n苹果今日宣布首批 Apple 智能功能即将在中国推出，并与阿里巴巴达成合作，在部分体验中接入千问。这是 Apple 智能自 2024 年发布以来，国行版本首次获得实质性落地进展。\n这一系列 Apple 智能功能将自 11 月 4 日起随最新的 iOS 开发者 Beta 版开放测试，并将于 12 月 iOS 27.3 正式发布时面向中国用户推出。其他平台的支持将在获得必要审批后推出。\n苹果中国区官网也列出了 Apple 智能兼容设",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "苹果中国官网上线Apple智能介绍页，首批功能今年稍晚推出并整合千问。",
+      "aiSummary": "GOG希望复兴PC实体游戏，但供应链复杂且业务不匹配",
       "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体含时间节点与合作伙伴，但缺少官方链接等原始出处。"
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为IT之家转引GamesRadar，有具体人物引述，但信息较简略且无原始链接"
     },
     {
-      "title": "广汽埃安 i60 今日交付第十万台：销量连续 10 个月过万台，订单连续 2 个月突破 2 万台",
-      "link": "https://www.ithome.com/1/020/454.htm",
-      "pubDate": "Sat, 31 Oct 2026 04:22:39 GMT",
-      "contentSnippet": "IT之家 10 月 31 日消息，广汽埃安今日宣布，今日 15:00 举行埃安 i60 第十万台交付仪式。\n官方表示，广汽埃安 i60 是最快交付 10 万台的双动力 SUV，订单连续 2 个月突破 2 万台，销量连续 10 个月过万台。\n\n据IT之家此前报道，广汽埃安旗下 2027 款埃安 i60 于 9 月 15 日上市，共推出 6 款车型，限时焕新价 10.68 万元起。同时，2026 款 530 宁德时代标准版限时焕新价 10.36 万元。\n\n520 宁德版车型：指导价 11.48 万元，限时焕新价 10.68 万元\n\n520 宁德激光版车型：指导价 12.68 万元，限时焕新价 11",
+      "title": "爱国者推出黑暗骑士 DQ 系列金牌电源：650/750/850W 可选，259 元起",
+      "link": "https://www.ithome.com/1/020/704.htm",
+      "pubDate": "Sun, 01 Nov 2026 04:30:59 GMT",
+      "contentSnippet": "IT之家 11 月 1 日消息，爱国者现已推出黑暗骑士 DQ 系列金牌电源。新品可选 650/750/850W 多种功率，具备 80PLUS 金牌认证，售价 259 元起。\n\n据介绍，这款电源的半载转换效率可达 92.44%，采用大单路 +12V 设计，支持 100-240V 宽幅输入电压。\n\n\n\n同时，这款电源提供 650W、750W 和 850W 三种功率可选，配备全日系电解电容。搭载 12cm 液压轴承风扇 +4mm 黑色阳极铝制散热片，支持 ECO 自动智能启停，寿命约 40000 小时。采用白金架构电路方案，LLC 谐振 +DC-DC+ 同步整流。\n\n\n\n\n此外，该电源为全模组设计，",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -84,118 +33,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "广汽埃安i60第十万台交付，连续10个月销量过万、订单连续2月破2万。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，信息含具体交付时间、销量数据及车型价格，但数据主要引自厂商官方，缺乏第三方验证。"
-    },
-    {
-      "title": "罗技 MX 系列首个特别版鼠标、MX KEYPAD 国行发售，买就送腾讯 WorkBuddy 积分",
-      "link": "https://www.ithome.com/1/020/453.htm",
-      "pubDate": "Sat, 31 Oct 2026 04:07:35 GMT",
-      "contentSnippet": "IT之家 10 月 31 日现场消息，罗技于 10 月 30 日至 31 日在上海 C·PARK 海粟文化广场举办 2026 罗技创享日创意市集，开展合作交流、展示多款新品。\n\n在线下体验环节，罗技以开放式创意市集为载体，将办公硬件、个性化软件及 AI 工具融入不同工作与生活场景，邀请消费者亲身体验工具协同带来的便利，并与合作伙伴共同交流未来办公体验与合作方向。\n\n\n本次创享日，罗技围绕不同专业用户的工作需求，重点带来 MX MASTER 4 开发者特别版、MX KEYPAD 创意工作台及 Zone Vibe Pro AI 降噪耳机，并展示 Mobi Fold 折叠口袋鼠标、Pebble Up",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "罗技在上海创享日发布MX MASTER 4开发者特别版、MX KEYPAD等国行新品",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，现场报道含具体产品名称与活动细节，但缺少价格和规格数据"
-    },
-    {
-      "title": "开源装机工具 Rufus 4.16 Beta 发布：绕过影响数百万台 PC 的 UEFI NTFS 漏洞",
-      "link": "https://www.ithome.com/1/020/452.htm",
-      "pubDate": "Sat, 31 Oct 2026 04:04:39 GMT",
-      "contentSnippet": "IT之家 10 月 31 日消息，开源装机工具 Rufus 昨日（10 月 30 日）更新  4.16 Beta 版本，主要绕过了 UEFI NTFS 错误，改进了 USB 检测，并引入了其他几项增强功能。\nIT之家翻译更新日志内容如下：\n\n终于绕过了那个愚蠢的 AMI NTFS 驱动程序缺陷，让运行时 UEFI 介质验证能够在 AMI 搞砸的数百万台 PC 上正常工作。\n\n终于能够正确报告 USB 3.2+ 设备了（USB 3.2 = 20 Gbps，USB 4.0 = 40 Gbps，USB 4.1 = 80 Gbps—— 看看吧，USB 论坛，这其实真的没那么难！）\n\n修复了在运行时 U",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "Rufus 4.16 Beta发布，绕过AMI UEFI NTFS驱动缺陷并改进USB检测。",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体翻译官方更新日志，技术细节具体，但正文截断且缺原始链接。"
-    },
-    {
-      "title": "大厂减市场预算，加AI预算",
-      "link": "https://www.tmtpost.com/8188331.html",
-      "pubDate": "Sat, 31 Oct 2026 11:53:33 +0800",
-      "contentSnippet": "当一家公司能用模型解释增长，它就不需要再用媒体预算解释增长。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体称大厂削减市场预算转投AI，以模型解释增长替代媒体投放",
-      "credibilityScore": 62,
-      "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体，但正文仅一句观点式表述，缺乏具体企业、数据与原始出处，信息详实度不足"
-    },
-    {
-      "title": "初代选秀，一地鸡毛",
-      "link": "https://www.tmtpost.com/8187453.html",
-      "pubDate": "Sat, 31 Oct 2026 11:53:28 +0800",
-      "contentSnippet": "当“选秀往事”成为新生意。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体回顾初代选秀节目兴衰，探讨其商业化转型。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体，但内容偏文化评论，缺乏技术细节和数据支撑，时效性一般。"
-    },
-    {
-      "title": "汇源丢了商标之后，还能再造一个国民品牌吗？",
-      "link": "https://www.tmtpost.com/8188303.html",
-      "pubDate": "Sat, 31 Oct 2026 11:53:23 +0800",
-      "contentSnippet": "想再造新品牌？这一条路更不好走。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体分析汇源失去商标后能否再造国民品牌，认为新品牌之路更难走。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，但正文仅一句摘要，缺少数据与原始出处，信息较简略。"
-    },
-    {
-      "title": "不再“一刀切”：微软 Win11 预览版可单独管控应用摄像头、麦克风、定位权限",
-      "link": "https://www.ithome.com/1/020/451.htm",
-      "pubDate": "Sat, 31 Oct 2026 03:53:07 GMT",
-      "contentSnippet": "IT之家 10 月 31 日消息，微软昨日（10 月 30 日）发布博文，邀请 Windows Insider 项目成员，在 Windows 11 25H2 Beta 26220.9836，以及 Windows 11 Experimental（Future Platforms）预览版 Build 29698.1000 中，进一步精细化应用权限管控。\n根据微软官方更新日志内容，在上述 Windows 11 预览版中，微软补齐隐私能力，桌面应用现在可以按单个程序分别管理摄像头、麦克风和位置权限。\nIT之家援引 NeoWin 媒体报道，传统桌面应用此前操控这类敏感权限，用户只能通过设备级总开关统一控",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "微软Win11预览版新增桌面应用摄像头、麦克风、定位权限的单独管控功能。",
+      "aiSummary": "爱国者推出黑暗骑士DQ系列金牌电源，650/750/850W可选，259元起。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，引用了微软官方博文和具体版本号，信息详实有出处。"
+      "credibilityReason": "IT之家为知名科技媒体，内容包含具体技术参数和价格，信息详实，但缺少原始出处引用。"
     },
     {
-      "title": "工信部：2026 年前三季度我国软件业务收入 118031 亿元，同比增长 8.4%",
-      "link": "https://www.ithome.com/1/020/450.htm",
-      "pubDate": "Sat, 31 Oct 2026 03:51:03 GMT",
-      "contentSnippet": "IT之家 10 月 31 日消息，工信部今日发布数据，2026 年前三季度，我国软件和信息技术服务业（以下简称“软件业”）运行态势良好，软件业务收入稳健增长，利润总额增势平稳，软件业务出口保持较快增长。\n2026 年前三季度，我国软件业务收入 118,031 亿元，同比增长 8.4%。软件业利润总额 13,300 亿元，同比增长 1.6%。软件业务出口 519.4 亿美元（IT之家注：现汇率约合 3,464.17 亿元人民币），同比增长 12.2%。\n\n\n软件产品收入稳定增长。前三季度，软件产品收入同比增长 5%，占全行业收入比重为 20.8%。其中，基础软件产品收入同比增长 7.8%；工业软",
+      "title": "蔚来 2026 年 10 月交付新车 34,246 台，今年累计破 33.45 万台创历史新高",
+      "link": "https://www.ithome.com/1/020/703.htm",
+      "pubDate": "Sun, 01 Nov 2026 04:29:29 GMT",
+      "contentSnippet": "IT之家 11 月 1 日消息，蔚来官方刚刚发文宣布，2026 年 10 月，蔚来公司交付新车 34,246 台，其中：\n\n蔚来品牌交付新车 18,125 台；\n\n乐道品牌交付新车 8,383 台；\n\nfirefly 萤火虫品牌交付新车 7,738 台。\n\n据介绍，2026 年 1-10 月，蔚来公司共交付新车 334,547 台，同比增长 38.5%，创历史新高。截至目前，蔚来公司已累计交付新车 1,332,139 台。\n\n蔚来官方还宣布，10 月，多款车型迎来里程碑时刻。蔚来全新 ES8 累计交付新车超 160,000 台，蝉联大型 SUV 和 40 万级车型市场销量第一。蔚来 ES9 连",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -203,16 +50,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "工信部数据：2026年前三季度我国软件业务收入118031亿元，同比增长8.4%",
+      "aiSummary": "蔚来2026年10月交付34,246台，前10月累计33.45万台创新高",
       "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，引用工信部官方统计数据，含具体数值和同比增速，信息详实可信"
+      "credibilityReason": "IT之家为知名科技媒体，数据源自蔚来官方，分品牌交付量及同比数据具体详实"
     },
     {
-      "title": "奇瑞执行副总裁戚士龙回应智界独立造车：希望更像新势力，而非“大一号”传统车企",
-      "link": "https://www.ithome.com/1/020/449.htm",
-      "pubDate": "Sat, 31 Oct 2026 03:41:10 GMT",
-      "contentSnippet": "IT之家 10 月 31 日消息，本月早些时候，工信部《道路机动车辆生产企业及产品公告》（第 412 批）显示，安徽智界新能源汽车有限公司被列入“拟发布新准入车辆生产企业”清单，也就是将获批独立造车资质。\n据新浪科技报道，在 10 月 31 日举行的三季度媒体沟通交流会上，奇瑞汽车股份有限公司执行副总裁戚士龙回应智界独立造车时表示，希望智界团队更像新势力企业，而不是简单做成“大一号”的传统车企。\n戚士龙表示，将从组织规模化、产品高端化及品牌逐步优化等方面，提升智界独立运营能力。据悉，智界明年还会有新产品导入，而海外业务仍由奇瑞集团独立运营。\n\nIT之家注意到，工信部的同一份文件中，奇瑞汽车股份",
+      "title": "一地叫停网约车“只送货不载人”，回应称并非一刀切禁止“四轮小件”货运",
+      "link": "https://www.ithome.com/1/020/702.htm",
+      "pubDate": "Sun, 01 Nov 2026 04:22:23 GMT",
+      "contentSnippet": "IT之家 11 月 1 日消息，“四轮小件”快送，如今在不少网约车平台的货运板块都能找到这项服务。这种服务通常就是利用四轮汽车的后备厢空间配送生鲜、包裹、日用品等小件货物，不用人跟车，将东西送到目的地。\n据中央广播电视总台中国之声今日报道，西安市交通运输综合执法支队近日组织召开 10 月网约车平台调度会，面向 25 家在营平台明确监管要求，提到“各平台要主动自查近期网约车订单‘只送货、不载人’违规行为”。\n有人将这项监管要求跟“四轮小件”快送关联起来，并解读为西安叫停“四轮小件”快送。真实情况究竟如何？网约车业务监管的边界该怎样明确？\n西安市交通运输综合执法支队中队长李晨向中国之声明确表示，这",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -220,16 +67,135 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "奇瑞高管回应智界独立造车，希望其更像新势力企业",
-      "credibilityScore": 82,
+      "aiSummary": "西安回应叫停网约车只送货不载人，并非一刀切禁止四轮小件货运。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引用工信部公告及新浪科技报道，信息有出处，但正文略简"
+      "credibilityReason": "来源为IT之家转引央广中国之声，有官方回应和具体细节，信息较可靠。"
     },
     {
-      "title": "奥迪中国正式“分家”，一汽和上汽谁能赢？",
-      "link": "https://www.tmtpost.com/8188009.html",
-      "pubDate": "Sat, 31 Oct 2026 11:39:46 +0800",
-      "contentSnippet": "奥迪中国重新划分南北业务，十年博弈落幕，一汽和上汽谁能赢？",
+      "title": "鸿蒙智行官宣 10 月交付 33537 台、均价超 40 万元，累计销量 160 万台刷新中国新势力纪录",
+      "link": "https://www.ithome.com/1/020/701.htm",
+      "pubDate": "Sun, 01 Nov 2026 04:11:32 GMT",
+      "contentSnippet": "IT之家 11 月 1 日消息，鸿蒙智行官方刚刚发文宣布，2026 年 10 月交付 33537 台，全系成交均价超 40 万元，累计交付突破 160 万台，持续刷新中国新势力品牌累计交付达成速度纪录。\n\n鸿蒙智行官方还宣布，本月，星夜服务权益迎来更新，预约维保即可享受 20 公里内免费上门取送车服务。\n据IT之家此前报道，鸿蒙智行 9 月推出了智界 R7 焕新款（上市）、享界 V8（预订）、智界 RX（上市）、问界 M8（预售）等多款车型。智界 V9 旗舰 MPV 累计交付也突破 3 万台。此外，华为乾崑智驾累计辅助驾驶里程突破 173 亿公里。\n相关阅读：\n\n《2026 年 10 月汽车销",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "鸿蒙智行10月交付33537台，均价超40万，累计160万台创新势力纪录",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，数据来自官方公告，含具体交付量、均价及车型细节，但部分数据未提供原始链接"
+    },
+    {
+      "title": "微软 XBOX CEO 夏尔马新目标：2030 年利润率超越索尼 PlayStation 和任天堂",
+      "link": "https://www.ithome.com/1/020/700.htm",
+      "pubDate": "Sun, 01 Nov 2026 04:08:57 GMT",
+      "contentSnippet": "IT之家 11 月 1 日消息，据游戏媒体 GameSpot 前天报道，微软 XBOX CEO 阿莎 · 夏尔马近期定下目标，计划 2030 财年让 XBOX 利润率超过竞争对手（索尼 PlayStation 和任天堂）。\n\n据报道，夏尔马在内部备忘录中表示：“我们将围绕旗下最重要的游戏系列制定长期规划，拓展电影、电视、消费产品、赞助、线下体验等领域，并在全球范围内建立新的合作关系，包括与中国市场的合作。”\n同时 XBOX 将大力投资《我的世界》，预计收入增长将在 2028 财年和 2029 财年加速。\n尽管夏尔马希望 XBOX 实现玩家数量和收入增长，但该部门当前处境并不乐观。据 Circa",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微软XBOX CEO定目标：2030财年利润率超越索尼和任天堂",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "IT之家转引GameSpot报道，有内部备忘录细节，但正文摘要截断、缺少原始出处链接，信息完整性一般"
+    },
+    {
+      "title": "撤档三个月后，国产动画电影《三国第一部：争洛阳》 重映票房破 1000 万",
+      "link": "https://www.ithome.com/1/020/697.htm",
+      "pubDate": "Sun, 01 Nov 2026 04:00:15 GMT",
+      "contentSnippet": "IT之家 11 月 1 日消息，由《长安三万里》原班人马打造，追光动画“三国”系列首作《三国第一部：争洛阳》已于 10 月 17 日再次上映。据猫眼专业版数据，电影《三国第一部：争洛阳》 重映票房破 1000 万。\n\nIT之家从电影《三国第一部：争洛阳》官方了解到，今年 10 月 23 日，本片累计票房破亿。\n\n该电影原定 7 月 10 日上映，目前豆瓣评分 8.0 分，然而票房成绩不尽如人意，上映 15 天总票房仅八千多万元，于 7 月 25 日宣布撤档，另择档期上映。本片由谢君伟（代表作《长安三万里》）执导，编剧为《长安三万里》《白蛇：缘起》《新神榜：杨戬》的编剧王微。\n\n东汉末年，危机四",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "追光动画《三国第一部：争洛阳》撤档重映，票房破千万",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，引用猫眼专业版数据及官方信息，票房、评分、档期等细节具体可查"
+    },
+    {
+      "title": "联想 ThinkPlus 指纹识别 U 盘被曝严重安全漏洞：宣称 AES-256 硬件加密，实际数据明文保存于 SD 卡",
+      "link": "https://www.ithome.com/1/020/696.htm",
+      "pubDate": "Sun, 01 Nov 2026 03:53:11 GMT",
+      "contentSnippet": "IT之家 11 月 1 日消息，据外媒 HackingPassion 本周报道，联想、朗科、KakaSoft、Nexcopy 及御天盾五家厂商的 USB 驱动器被发现安全漏洞。其中一款联想的指纹识别 U 盘宣称使用 AES-256 硬件加密，但实际上数据明文存储于 SD 卡。\n\nIT之家从原报道获悉，研究员 Xusheng Li 去年拆解联想 ThinkPlus FU100 指纹识别 U 盘后发现，这款产品的内部电路板上装着一张 SD 卡，内部数据完全明文存储、没有任何加密。指纹识别器实际上只决定 U 盘是与电脑连接的通断，卡中的文件并不受指纹识别功能保护。\n这名研究员去年 8 月向联想报告问",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "联想ThinkPlus指纹U盘被曝虚假AES-256加密，数据明文存于SD卡",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家引述外媒及研究员原始报告，技术细节具体，来源可追溯，属知名科技媒体报道"
+    },
+    {
+      "title": "中国科学院院士欧阳明高：未来十年，磷酸铁锂仍将继续主导国内动力和储能电池市场",
+      "link": "https://www.ithome.com/1/020/695.htm",
+      "pubDate": "Sun, 01 Nov 2026 03:52:39 GMT",
+      "contentSnippet": "IT之家 11 月 1 日消息，第 33 届中国汽车工程学会年会暨展览会于 10 月 27-30 日在苏州国际博览中心举行。\n据腾讯汽车报道，中国科学院院士欧阳明高表示，预计到 2030 年，中国动力电池出货量将在 2025 年 1875GWh 的基础上接近翻倍。未来十年，磷酸铁锂电池仍将继续主导国内动力和储能电池市场。\n欧阳明高认为，中国动力电池产业仍将保持增长，并继续引领全球。未来，行业需要同时推进两条技术路线：一条是以磷酸铁锂为代表，追求低成本、高安全和长寿命；另一条是以三元电池为代表，向更高能量密度发展。\nIT之家注意到，在固态电池上，欧阳明高表示，当前一些被称为“半固态电池”的产品，",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "欧阳明高预测未来十年磷酸铁锂仍主导国内动力和储能电池市场",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "权威院士观点，IT之家报道，含具体数据与出处，但转引腾讯汽车，信息略有截断"
+    },
+    {
+      "title": "荣耀 Magic9 系列手机“电话接通 / 挂断振动”功能回归，更新“115SP8”版本可用",
+      "link": "https://www.ithome.com/1/020/694.htm",
+      "pubDate": "Sun, 01 Nov 2026 03:48:59 GMT",
+      "contentSnippet": "IT之家 11 月 1 日消息，荣耀研发工程师 @荣耀曹工 今日发文解答了 Magic9 系列手机马达的功能特性。据称，Magic9 Pro Max 搭载全新超大 X 轴线性马达，性能比上代提升 30%，支持具身触感反馈体验。\n另外，“电话接通 / 挂断振动”功能也在 Magic9 系列手机上回归，更新“115SP8”版本可用（可以在“通话 → 设置”里进行设置），可设置开启、跟随系统设置和关闭。\n\n据IT之家此前报道，10 月 23 日，博主 @数码闲聊站 发文透露，荣耀 Magic9 系列 3 款机型，W42（此处指 2026 年的第 42 个自然周，即 10 月 12 日至 10 月 1",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "荣耀Magic9系列回归电话接通/挂断振动功能，115SP8版本可用",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息源自荣耀研发工程师，含具体版本号与设置路径，但部分内容转引博主爆料"
+    },
+    {
+      "title": "华为乾崑智驾累计辅助驾驶里程突破 170 亿公里",
+      "link": "https://www.ithome.com/1/020/693.htm",
+      "pubDate": "Sun, 01 Nov 2026 03:39:05 GMT",
+      "contentSnippet": "IT之家 11 月 1 日消息，华为智能汽车解决方案 BU 官方微博昨晚发布视频，分享了华为乾崑智驾处理应急情况的视频合集，并宣布华为乾崑智驾累计辅助驾驶里程突破 173 亿公里。\n\n\n截至 10 月 31 日，已经过 173 亿公里真实行车验证。\n\n\nIT之家注意到，华为官网显示，华为乾崑智驾累计辅助驾驶里程已突破 173 亿 1786 万公里、搭载乾崑智驾车辆累计行驶总里程突破 483 亿 7207 万公里、乾崑智驾累计主动避免可能的碰撞超 691 万 8217 次（数据实时刷新中）。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "华为乾崑智驾累计辅助驾驶里程突破173亿公里，官网数据实时刷新。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，引用华为官方微博及官网具体数据，信息详实但缺乏第三方验证。"
+    },
+    {
+      "title": "野人先生获黑蚁资本投资，或将启动海外扩张",
+      "link": "https://www.tmtpost.com/8188017.html",
+      "pubDate": "Sun, 01 Nov 2026 11:33:26 +0800",
+      "contentSnippet": "如果野人先生能够验证适配海外市场的产品与门店模型，有望打开新的增长曲线。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -237,16 +203,34 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "奥迪中国重新划分南北业务，十年博弈落幕，一汽和上汽谁将胜出。",
+      "aiSummary": "野人先生获黑蚁资本投资，或启动海外扩张",
       "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，但正文摘要简略，缺少具体业务划分细节和数据支撑，标题带有竞争性悬念。"
+      "credibilityReason": "来源为知名科技媒体钛媒体，但正文仅摘要，缺少投资金额、产品细节及原始出处，信息较简略"
     },
     {
-      "title": "微软更新 Win11 26H2 26340.9843 预览版：重构搜索体验，增强 XBOX 游戏模式",
-      "link": "https://www.ithome.com/1/020/448.htm",
-      "pubDate": "Sat, 31 Oct 2026 03:38:59 GMT",
-      "contentSnippet": "IT之家 10 月 31 日消息，微软昨日（10 月 30 日）发布博文，邀请 Beta 和 Experimental 通道 Windows Insider 项目成员，测试适用于 Windows 11 25H2/26H2 的预览版更新。\n一、Beta 频道 Windows 11 25H2 26220.9836 预览版\nBeta 频道 Windows Insider 项目成员安装 Windows 11 25H2 更新后，版本号升至 Build 26220.9836 ，IT之家附上相关更新内容如下：\n1.1、安全\n安全密钥的 PIN 码输入界面已更新。“其他用户”图标已被移除，以提供更直观、更便捷",
+      "title": "【数智周报】张一鸣以6700亿元登顶中国首富，刷新中国首富财富纪录；阿里巴巴与Apple达成合作，将千问集成至Apple智能；Anthropic提交IPO注册文件，拟以“ANT”为代码在纳斯达克上市",
+      "link": "https://www.tmtpost.com/8188997.html",
+      "pubDate": "Sun, 01 Nov 2026 11:32:27 +0800",
+      "contentSnippet": "（10 月 26 日-31 日）OpenAI据称将新一轮融资目标下调100亿美元，拟以1.25万亿美元估值融资200亿美元；谷歌推出最新世界模型Genie 4，模拟时长翻倍至2分钟、首次实现音视频同步生成；Meta拟融资350亿美元并计划推出600亿美元股票发行计划；中信证券：GPT-6 Astra进入机器人控制，物理AI迎来重大拐点...",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体",
+        "Solidot"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "张一鸣登顶中国首富，阿里与Apple合作集成千问，Anthropic提交IPO文件",
+      "credibilityScore": 77,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为钛媒体与Solidot，属知名科技媒体，但内容为周报摘要，缺少原始出处与细节，部分信息待核实（多源覆盖 +5）"
+    },
+    {
+      "title": "东风本田 10 月终端销量 17,026 台，环比增长 16.9%",
+      "link": "https://www.ithome.com/1/020/689.htm",
+      "pubDate": "Sun, 01 Nov 2026 03:29:41 GMT",
+      "contentSnippet": "IT之家 11 月 1 日消息，东风本田今日发文，2026 年 10 月终端销量为 17,026 台，环比增长 16.9%，上年同期为 28,896 台。\n\nCR-V 销量为 10,455 台，环比增长 7.9%；\n\nHR-V 销量为 2,383 台，环比增长 71.8%。\n\n\n本田技研工业（中国）投资有限公司总经理、本田技研科技（中国）有限公司总经理五十岚雅行曾明确表态，中国市场的意义早已不止于销售，更是推进电动化与智能化变革的重要市场，立场今后也不会改变，未来本田将一如既往深耕中国。\n据悉，本田在智能化领域已选定 Momenta 与华为，双方分别签署战略合作协议，Momenta 的领航辅助",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -254,10 +238,27 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "微软发布Win11 26H2预览版，重构搜索并增强XBOX游戏模式",
+      "aiSummary": "东风本田10月终端销量17026台，环比增16.9%，同比大幅下滑",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引用微软官方博文，含具体版本号与更新细节，但摘要信息略简"
+      "credibilityReason": "IT之家为知名科技媒体，数据具体且含同比环比及车型明细，来源为厂商官方发布"
+    },
+    {
+      "title": "“妈祖”海洋预报数值模式 2.0 发布：我国近海、西太平洋等重点海域分辨率提升至 1 公里",
+      "link": "https://www.ithome.com/1/020/688.htm",
+      "pubDate": "Sun, 01 Nov 2026 03:22:31 GMT",
+      "contentSnippet": "IT之家 11 月 1 日消息，据央视新闻报道，今天（11 月 1 日），面向我国深海极地探索、海上通道安全等重大需求，自然资源部国家海洋环境预报中心成功发布我国自主研发的“妈祖”海洋预报数值模式 2.0 版本，实现了全球重点海域差异化可变分辨率精准预报。\n海洋数值模式是海洋预报的核心技术。2018 年以来，我国先后推出“妈祖 · 海流”“妈祖 · 海浪”1.0 版本，是首个支持 GPU 加速的全球业务化海洋预报模式，2024 年实现全球代码开源，已在我国沿海省市部署应用。\nIT之家获悉，该模式 2.0 版本全球预报系统分辨率，较上一代提升一倍至 5 公里，在我国近海、西太平洋等重点海域分辨率",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "我国自主研发的“妈祖”海洋预报数值模式2.0发布，重点海域分辨率提升至1公里。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家转引央视新闻，信息具体含分辨率数据及版本沿革，有官方机构背书，可信度较高。"
     }
   ]
 }
