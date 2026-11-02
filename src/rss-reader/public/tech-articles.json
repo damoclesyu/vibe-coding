@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-01T05:12:53.523Z",
+  "generatedAt": "2026-11-02T05:13:12.607Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "GOG 平台希望复兴 PC 实体游戏，面临两重障碍",
-      "link": "https://www.ithome.com/1/020/705.htm",
-      "pubDate": "Sun, 01 Nov 2026 04:59:32 GMT",
-      "contentSnippet": "IT之家 11 月 1 日消息，据游戏媒体 GamesRadar 今天报道，致力于销售无 DRM 数字游戏的 GOG（IT之家注：Good Old Games）平台最近希望，PC 平台消亡数十年的实体游戏能够有朝一日迎来复兴。\n\nGOG 高级业务拓展与合作经理 Marcin Paczynski 表示：“理想情况下，我想让玩家能够在 GOG 购买实体游戏。你可以进入 GOG 游戏库，点击想要的实体版游戏，下单后商品送到你手中。”\n不过这种计划听起来更像是无法实现的梦想。因为重新建立 PC 实体游戏供应链是非常复杂的事情，GOG 目前经营的业务，也和实体商品搭不上边。\nMarcin Paczyns",
+      "title": "消息称国内多家汽车企业“进京”，与相关部门协商“混动汽车出口欧盟配额”",
+      "link": "https://www.ithome.com/1/020/939.htm",
+      "pubDate": "Mon, 02 Nov 2026 04:59:33 GMT",
+      "contentSnippet": "IT之家 11 月 2 日消息，据财联社从多位知情人士处获悉，针对近期中欧双方就混动汽车贸易达成的谅解方案，多家国内汽车企业近期前往北京与相关部门进行协商。\n“（配额方案）总量有限，每家可以分配到的出口额度并不会很多，目前各家（车企）都在努力争取中。”一位知情人士称。\n据IT之家此前报道，10 月 8 日至 9 日，中欧贸易投资磋商机制第二次例会在北京举行，经密集磋商，中欧双方以符合世贸组织规则的方式就混动汽车贸易达成谅解。\n商务部新闻发言人 10 月 12 日表示，关于混动汽车，双方在 2025 年（30.2 万辆）基础上达成向上安排，确保中国企业的出口空间和稳定增长，照顾了双方产业基于现实",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,101 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "GOG希望复兴PC实体游戏，但供应链复杂且业务不匹配",
-      "credibilityScore": 75,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为IT之家转引GamesRadar，有具体人物引述，但信息较简略且无原始链接"
-    },
-    {
-      "title": "爱国者推出黑暗骑士 DQ 系列金牌电源：650/750/850W 可选，259 元起",
-      "link": "https://www.ithome.com/1/020/704.htm",
-      "pubDate": "Sun, 01 Nov 2026 04:30:59 GMT",
-      "contentSnippet": "IT之家 11 月 1 日消息，爱国者现已推出黑暗骑士 DQ 系列金牌电源。新品可选 650/750/850W 多种功率，具备 80PLUS 金牌认证，售价 259 元起。\n\n据介绍，这款电源的半载转换效率可达 92.44%，采用大单路 +12V 设计，支持 100-240V 宽幅输入电压。\n\n\n\n同时，这款电源提供 650W、750W 和 850W 三种功率可选，配备全日系电解电容。搭载 12cm 液压轴承风扇 +4mm 黑色阳极铝制散热片，支持 ECO 自动智能启停，寿命约 40000 小时。采用白金架构电路方案，LLC 谐振 +DC-DC+ 同步整流。\n\n\n\n\n此外，该电源为全模组设计，",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "爱国者推出黑暗骑士DQ系列金牌电源，650/750/850W可选，259元起。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容包含具体技术参数和价格，信息详实，但缺少原始出处引用。"
-    },
-    {
-      "title": "蔚来 2026 年 10 月交付新车 34,246 台，今年累计破 33.45 万台创历史新高",
-      "link": "https://www.ithome.com/1/020/703.htm",
-      "pubDate": "Sun, 01 Nov 2026 04:29:29 GMT",
-      "contentSnippet": "IT之家 11 月 1 日消息，蔚来官方刚刚发文宣布，2026 年 10 月，蔚来公司交付新车 34,246 台，其中：\n\n蔚来品牌交付新车 18,125 台；\n\n乐道品牌交付新车 8,383 台；\n\nfirefly 萤火虫品牌交付新车 7,738 台。\n\n据介绍，2026 年 1-10 月，蔚来公司共交付新车 334,547 台，同比增长 38.5%，创历史新高。截至目前，蔚来公司已累计交付新车 1,332,139 台。\n\n蔚来官方还宣布，10 月，多款车型迎来里程碑时刻。蔚来全新 ES8 累计交付新车超 160,000 台，蝉联大型 SUV 和 40 万级车型市场销量第一。蔚来 ES9 连",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "蔚来2026年10月交付34,246台，前10月累计33.45万台创新高",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，数据源自蔚来官方，分品牌交付量及同比数据具体详实"
-    },
-    {
-      "title": "一地叫停网约车“只送货不载人”，回应称并非一刀切禁止“四轮小件”货运",
-      "link": "https://www.ithome.com/1/020/702.htm",
-      "pubDate": "Sun, 01 Nov 2026 04:22:23 GMT",
-      "contentSnippet": "IT之家 11 月 1 日消息，“四轮小件”快送，如今在不少网约车平台的货运板块都能找到这项服务。这种服务通常就是利用四轮汽车的后备厢空间配送生鲜、包裹、日用品等小件货物，不用人跟车，将东西送到目的地。\n据中央广播电视总台中国之声今日报道，西安市交通运输综合执法支队近日组织召开 10 月网约车平台调度会，面向 25 家在营平台明确监管要求，提到“各平台要主动自查近期网约车订单‘只送货、不载人’违规行为”。\n有人将这项监管要求跟“四轮小件”快送关联起来，并解读为西安叫停“四轮小件”快送。真实情况究竟如何？网约车业务监管的边界该怎样明确？\n西安市交通运输综合执法支队中队长李晨向中国之声明确表示，这",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "西安回应叫停网约车只送货不载人，并非一刀切禁止四轮小件货运。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家转引央广中国之声，有官方回应和具体细节，信息较可靠。"
-    },
-    {
-      "title": "鸿蒙智行官宣 10 月交付 33537 台、均价超 40 万元，累计销量 160 万台刷新中国新势力纪录",
-      "link": "https://www.ithome.com/1/020/701.htm",
-      "pubDate": "Sun, 01 Nov 2026 04:11:32 GMT",
-      "contentSnippet": "IT之家 11 月 1 日消息，鸿蒙智行官方刚刚发文宣布，2026 年 10 月交付 33537 台，全系成交均价超 40 万元，累计交付突破 160 万台，持续刷新中国新势力品牌累计交付达成速度纪录。\n\n鸿蒙智行官方还宣布，本月，星夜服务权益迎来更新，预约维保即可享受 20 公里内免费上门取送车服务。\n据IT之家此前报道，鸿蒙智行 9 月推出了智界 R7 焕新款（上市）、享界 V8（预订）、智界 RX（上市）、问界 M8（预售）等多款车型。智界 V9 旗舰 MPV 累计交付也突破 3 万台。此外，华为乾崑智驾累计辅助驾驶里程突破 173 亿公里。\n相关阅读：\n\n《2026 年 10 月汽车销",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "鸿蒙智行10月交付33537台，均价超40万，累计160万台创新势力纪录",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，数据来自官方公告，含具体交付量、均价及车型细节，但部分数据未提供原始链接"
-    },
-    {
-      "title": "微软 XBOX CEO 夏尔马新目标：2030 年利润率超越索尼 PlayStation 和任天堂",
-      "link": "https://www.ithome.com/1/020/700.htm",
-      "pubDate": "Sun, 01 Nov 2026 04:08:57 GMT",
-      "contentSnippet": "IT之家 11 月 1 日消息，据游戏媒体 GameSpot 前天报道，微软 XBOX CEO 阿莎 · 夏尔马近期定下目标，计划 2030 财年让 XBOX 利润率超过竞争对手（索尼 PlayStation 和任天堂）。\n\n据报道，夏尔马在内部备忘录中表示：“我们将围绕旗下最重要的游戏系列制定长期规划，拓展电影、电视、消费产品、赞助、线下体验等领域，并在全球范围内建立新的合作关系，包括与中国市场的合作。”\n同时 XBOX 将大力投资《我的世界》，预计收入增长将在 2028 财年和 2029 财年加速。\n尽管夏尔马希望 XBOX 实现玩家数量和收入增长，但该部门当前处境并不乐观。据 Circa",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "微软XBOX CEO定目标：2030财年利润率超越索尼和任天堂",
+      "aiSummary": "多家车企进京协商混动汽车出口欧盟配额分配",
       "credibilityScore": 78,
       "credibilityLevel": "medium",
-      "credibilityReason": "IT之家转引GameSpot报道，有内部备忘录细节，但正文摘要截断、缺少原始出处链接，信息完整性一般"
+      "credibilityReason": "IT之家转引财联社知情人士消息，有官方磋商背景但配额细节未证实，属行业传闻类报道"
     },
     {
-      "title": "撤档三个月后，国产动画电影《三国第一部：争洛阳》 重映票房破 1000 万",
-      "link": "https://www.ithome.com/1/020/697.htm",
-      "pubDate": "Sun, 01 Nov 2026 04:00:15 GMT",
-      "contentSnippet": "IT之家 11 月 1 日消息，由《长安三万里》原班人马打造，追光动画“三国”系列首作《三国第一部：争洛阳》已于 10 月 17 日再次上映。据猫眼专业版数据，电影《三国第一部：争洛阳》 重映票房破 1000 万。\n\nIT之家从电影《三国第一部：争洛阳》官方了解到，今年 10 月 23 日，本片累计票房破亿。\n\n该电影原定 7 月 10 日上映，目前豆瓣评分 8.0 分，然而票房成绩不尽如人意，上映 15 天总票房仅八千多万元，于 7 月 25 日宣布撤档，另择档期上映。本片由谢君伟（代表作《长安三万里》）执导，编剧为《长安三万里》《白蛇：缘起》《新神榜：杨戬》的编剧王微。\n\n东汉末年，危机四",
+      "title": "最高检发布依法保护公民个人信息典型案例，涉“饭圈”乱象、“开盒”网暴犯罪等",
+      "link": "https://www.ithome.com/1/020/914.htm",
+      "pubDate": "Mon, 02 Nov 2026 03:26:04 GMT",
+      "contentSnippet": "IT之家 11 月 2 日消息，11 月 1 日是《中华人民共和国个人信息保护法》实施 5 周年。值此之际，最高人民检察院发布一批依法保护公民个人信息典型案例，聚焦当前侵犯公民个人信息违法犯罪的新特点、新趋势，揭示了当前侵犯公民个人信息违法犯罪的严重危害后果。\n\n据介绍，该批典型案例共 8 件，在准确适用法律、全链条从严惩处犯罪、保护社会公共利益、融合履职促进社会治理等方面具有典型示范意义。IT之家附典型案例如下：\n王某等 11 人侵犯公民个人信息案\n\n【关键词】\n侵犯公民个人信息罪境外网络全链条惩治源头治理\n【基本案情】\n被告人王某，男，1997 年出生，无业。\n被告人许某玲，女，1991",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -118,50 +33,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "追光动画《三国第一部：争洛阳》撤档重映，票房破千万",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引用猫眼专业版数据及官方信息，票房、评分、档期等细节具体可查"
-    },
-    {
-      "title": "联想 ThinkPlus 指纹识别 U 盘被曝严重安全漏洞：宣称 AES-256 硬件加密，实际数据明文保存于 SD 卡",
-      "link": "https://www.ithome.com/1/020/696.htm",
-      "pubDate": "Sun, 01 Nov 2026 03:53:11 GMT",
-      "contentSnippet": "IT之家 11 月 1 日消息，据外媒 HackingPassion 本周报道，联想、朗科、KakaSoft、Nexcopy 及御天盾五家厂商的 USB 驱动器被发现安全漏洞。其中一款联想的指纹识别 U 盘宣称使用 AES-256 硬件加密，但实际上数据明文存储于 SD 卡。\n\nIT之家从原报道获悉，研究员 Xusheng Li 去年拆解联想 ThinkPlus FU100 指纹识别 U 盘后发现，这款产品的内部电路板上装着一张 SD 卡，内部数据完全明文存储、没有任何加密。指纹识别器实际上只决定 U 盘是与电脑连接的通断，卡中的文件并不受指纹识别功能保护。\n这名研究员去年 8 月向联想报告问",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "联想ThinkPlus指纹U盘被曝虚假AES-256加密，数据明文存于SD卡",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家引述外媒及研究员原始报告，技术细节具体，来源可追溯，属知名科技媒体报道"
-    },
-    {
-      "title": "中国科学院院士欧阳明高：未来十年，磷酸铁锂仍将继续主导国内动力和储能电池市场",
-      "link": "https://www.ithome.com/1/020/695.htm",
-      "pubDate": "Sun, 01 Nov 2026 03:52:39 GMT",
-      "contentSnippet": "IT之家 11 月 1 日消息，第 33 届中国汽车工程学会年会暨展览会于 10 月 27-30 日在苏州国际博览中心举行。\n据腾讯汽车报道，中国科学院院士欧阳明高表示，预计到 2030 年，中国动力电池出货量将在 2025 年 1875GWh 的基础上接近翻倍。未来十年，磷酸铁锂电池仍将继续主导国内动力和储能电池市场。\n欧阳明高认为，中国动力电池产业仍将保持增长，并继续引领全球。未来，行业需要同时推进两条技术路线：一条是以磷酸铁锂为代表，追求低成本、高安全和长寿命；另一条是以三元电池为代表，向更高能量密度发展。\nIT之家注意到，在固态电池上，欧阳明高表示，当前一些被称为“半固态电池”的产品，",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "欧阳明高预测未来十年磷酸铁锂仍主导国内动力和储能电池市场",
+      "aiSummary": "最高检发布8件个人信息保护典型案例，涉饭圈乱象与开盒网暴犯罪。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "权威院士观点，IT之家报道，含具体数据与出处，但转引腾讯汽车，信息略有截断"
+      "credibilityReason": "来源为知名科技媒体IT之家，引述最高检官方发布，信息具体有案例细节，但正文摘要截断不完整。"
     },
     {
-      "title": "荣耀 Magic9 系列手机“电话接通 / 挂断振动”功能回归，更新“115SP8”版本可用",
-      "link": "https://www.ithome.com/1/020/694.htm",
-      "pubDate": "Sun, 01 Nov 2026 03:48:59 GMT",
-      "contentSnippet": "IT之家 11 月 1 日消息，荣耀研发工程师 @荣耀曹工 今日发文解答了 Magic9 系列手机马达的功能特性。据称，Magic9 Pro Max 搭载全新超大 X 轴线性马达，性能比上代提升 30%，支持具身触感反馈体验。\n另外，“电话接通 / 挂断振动”功能也在 Magic9 系列手机上回归，更新“115SP8”版本可用（可以在“通话 → 设置”里进行设置），可设置开启、跟随系统设置和关闭。\n\n据IT之家此前报道，10 月 23 日，博主 @数码闲聊站 发文透露，荣耀 Magic9 系列 3 款机型，W42（此处指 2026 年的第 42 个自然周，即 10 月 12 日至 10 月 1",
+      "title": "消息称英伟达尚未提供 24GB 显存版 GeForce RTX 5080 显卡设计套件",
+      "link": "https://www.ithome.com/1/020/883.htm",
+      "pubDate": "Mon, 02 Nov 2026 01:42:00 GMT",
+      "contentSnippet": "IT之家 11 月 2 日消息，接近显卡供应链的台媒 BenchLife.info 今日表示，NVIDIA（英伟达）截至 2026 年 10 月末尚未向下游 AIC 合作伙伴提供 24GB 显存版本的 GeForce RTX 5080 显卡的设计资料套件，晚于此前预期。\n\n考虑到当前的 PCB 备料情况和其它零部件的缺货状况，该媒体认为 GeForce RTX 5080 24GB 很难在 2027 年 1 月正式推出。\n当然，NVIDIA 可能会选择在 CES 2027 上公布这一型号但在稍晚时候正式发售。\n参考\n\nhttps://benchlife.info/nvidia-geforce-r",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -169,33 +50,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "荣耀Magic9系列回归电话接通/挂断振动功能，115SP8版本可用",
-      "credibilityScore": 82,
+      "aiSummary": "台媒称英伟达未向AIC提供24GB版RTX 5080设计套件，或难2027年1月推出",
+      "credibilityScore": 72,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息源自荣耀研发工程师，含具体版本号与设置路径，但部分内容转引博主爆料"
+      "credibilityReason": "IT之家转载台媒BenchLife供应链消息，有原始出处，但属未证实传闻，细节有限"
     },
     {
-      "title": "华为乾崑智驾累计辅助驾驶里程突破 170 亿公里",
-      "link": "https://www.ithome.com/1/020/693.htm",
-      "pubDate": "Sun, 01 Nov 2026 03:39:05 GMT",
-      "contentSnippet": "IT之家 11 月 1 日消息，华为智能汽车解决方案 BU 官方微博昨晚发布视频，分享了华为乾崑智驾处理应急情况的视频合集，并宣布华为乾崑智驾累计辅助驾驶里程突破 173 亿公里。\n\n\n截至 10 月 31 日，已经过 173 亿公里真实行车验证。\n\n\nIT之家注意到，华为官网显示，华为乾崑智驾累计辅助驾驶里程已突破 173 亿 1786 万公里、搭载乾崑智驾车辆累计行驶总里程突破 483 亿 7207 万公里、乾崑智驾累计主动避免可能的碰撞超 691 万 8217 次（数据实时刷新中）。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "华为乾崑智驾累计辅助驾驶里程突破173亿公里，官网数据实时刷新。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，引用华为官方微博及官网具体数据，信息详实但缺乏第三方验证。"
-    },
-    {
-      "title": "野人先生获黑蚁资本投资，或将启动海外扩张",
-      "link": "https://www.tmtpost.com/8188017.html",
-      "pubDate": "Sun, 01 Nov 2026 11:33:26 +0800",
-      "contentSnippet": "如果野人先生能够验证适配海外市场的产品与门店模型，有望打开新的增长曲线。",
+      "title": "复宏汉霖HLX43，借来的技术也能成器",
+      "link": "https://www.tmtpost.com/8189726.html",
+      "pubDate": "Mon, 02 Nov 2026 13:00:23 +0800",
+      "contentSnippet": "借来的火，点的是自己的灯，灯下走的路，算自己的。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -203,34 +67,50 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "野人先生获黑蚁资本投资，或启动海外扩张",
+      "aiSummary": "钛媒体分析复宏汉霖HLX43，探讨引进技术的自主创新价值",
       "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，但正文仅摘要，缺少投资金额、产品细节及原始出处，信息较简略"
+      "credibilityReason": "知名科技媒体，标题有观点倾向，正文摘要过短缺少技术细节和数据支撑"
     },
     {
-      "title": "【数智周报】张一鸣以6700亿元登顶中国首富，刷新中国首富财富纪录；阿里巴巴与Apple达成合作，将千问集成至Apple智能；Anthropic提交IPO注册文件，拟以“ANT”为代码在纳斯达克上市",
-      "link": "https://www.tmtpost.com/8188997.html",
-      "pubDate": "Sun, 01 Nov 2026 11:32:27 +0800",
-      "contentSnippet": "（10 月 26 日-31 日）OpenAI据称将新一轮融资目标下调100亿美元，拟以1.25万亿美元估值融资200亿美元；谷歌推出最新世界模型Genie 4，模拟时长翻倍至2分钟、首次实现音视频同步生成；Meta拟融资350亿美元并计划推出600亿美元股票发行计划；中信证券：GPT-6 Astra进入机器人控制，物理AI迎来重大拐点...",
+      "title": "游戏行业新版本前瞻：二游退潮以后，下一场社交抢人大战将会很疯狂？",
+      "link": "https://www.tmtpost.com/8189732.html",
+      "pubDate": "Mon, 02 Nov 2026 13:00:18 +0800",
+      "contentSnippet": "“我观测了游戏行业14000605种未来”。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
-        "钛媒体",
-        "Solidot"
+        "钛媒体"
       ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "张一鸣登顶中国首富，阿里与Apple合作集成千问，Anthropic提交IPO文件",
-      "credibilityScore": 77,
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体前瞻游戏行业趋势，探讨二游退潮后社交游戏竞争格局。",
+      "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为钛媒体与Solidot，属知名科技媒体，但内容为周报摘要，缺少原始出处与细节，部分信息待核实（多源覆盖 +5）"
+      "credibilityReason": "来源为知名科技媒体钛媒体，但正文摘要过简，缺乏具体数据与原始出处，分析性内容主观性较强。"
     },
     {
-      "title": "东风本田 10 月终端销量 17,026 台，环比增长 16.9%",
-      "link": "https://www.ithome.com/1/020/689.htm",
-      "pubDate": "Sun, 01 Nov 2026 03:29:41 GMT",
-      "contentSnippet": "IT之家 11 月 1 日消息，东风本田今日发文，2026 年 10 月终端销量为 17,026 台，环比增长 16.9%，上年同期为 28,896 台。\n\nCR-V 销量为 10,455 台，环比增长 7.9%；\n\nHR-V 销量为 2,383 台，环比增长 71.8%。\n\n\n本田技研工业（中国）投资有限公司总经理、本田技研科技（中国）有限公司总经理五十岚雅行曾明确表态，中国市场的意义早已不止于销售，更是推进电动化与智能化变革的重要市场，立场今后也不会改变，未来本田将一如既往深耕中国。\n据悉，本田在智能化领域已选定 Momenta 与华为，双方分别签署战略合作协议，Momenta 的领航辅助",
+      "title": "Kimi 半年三次道歉：模型越强，生意却越难做？",
+      "link": "https://www.tmtpost.com/8189784.html",
+      "pubDate": "Mon, 02 Nov 2026 12:56:23 +0800",
+      "contentSnippet": "Kimi这次为何栽在“烧额度”上？",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体分析Kimi半年内三次道歉，探讨模型能力与商业困境的矛盾。",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体钛媒体，选题具体有行业分析价值，但正文摘要过简，缺少数据与原始出处支撑。"
+    },
+    {
+      "title": "43 分 41 秒，首届 CMG 世界机器人登泰山大赛足式竞速冠军产生",
+      "link": "https://www.ithome.com/1/020/938.htm",
+      "pubDate": "Mon, 02 Nov 2026 04:54:32 GMT",
+      "contentSnippet": "IT之家 11 月 2 日消息，据央视新闻报道，世界机器人登泰山大赛于今日（11 月 2 日）在山东泰安举行。大赛以“登高望远智竞泰山”为主题，赛道全程约 3.9 公里，共 3100 余级台阶。千年登山盘道化身赛场，近 90 支赛队同台竞技，向泰山中天门发起挑战。\n经过激烈角逐，北京灵翌科技队获得足式机器人竞速赛冠军，总时间 43 分 41 秒。\n\n据IT之家此前报道，大赛包含人形机器人竞速、足式机器人竞速、足式机器人负重、外骨骼机器人助力等 4 个正式赛项，以及 1 个全域机动探路挑战赛。\n人形机器人竞速赛、足式机器人负重赛、外骨骼机器人助力赛、全域机动探路挑战赛获奖名单将后续公布。",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -238,16 +118,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "东风本田10月终端销量17026台，环比增16.9%，同比大幅下滑",
+      "aiSummary": "首届CMG世界机器人登泰山大赛举行，北京灵翌科技队以43分41秒获足式竞速冠军",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，数据具体且含同比环比及车型明细，来源为厂商官方发布"
+      "credibilityReason": "IT之家援引央视新闻，赛事时间地点、赛道数据、赛队数量及冠军成绩具体明确，来源可追溯"
     },
     {
-      "title": "“妈祖”海洋预报数值模式 2.0 发布：我国近海、西太平洋等重点海域分辨率提升至 1 公里",
-      "link": "https://www.ithome.com/1/020/688.htm",
-      "pubDate": "Sun, 01 Nov 2026 03:22:31 GMT",
-      "contentSnippet": "IT之家 11 月 1 日消息，据央视新闻报道，今天（11 月 1 日），面向我国深海极地探索、海上通道安全等重大需求，自然资源部国家海洋环境预报中心成功发布我国自主研发的“妈祖”海洋预报数值模式 2.0 版本，实现了全球重点海域差异化可变分辨率精准预报。\n海洋数值模式是海洋预报的核心技术。2018 年以来，我国先后推出“妈祖 · 海流”“妈祖 · 海浪”1.0 版本，是首个支持 GPU 加速的全球业务化海洋预报模式，2024 年实现全球代码开源，已在我国沿海省市部署应用。\nIT之家获悉，该模式 2.0 版本全球预报系统分辨率，较上一代提升一倍至 5 公里，在我国近海、西太平洋等重点海域分辨率",
+      "title": "大唐带来 3.5\" 单板计算机 WCL-35，基于英特尔酷睿 3 处理器 304",
+      "link": "https://www.ithome.com/1/020/937.htm",
+      "pubDate": "Mon, 02 Nov 2026 04:42:48 GMT",
+      "contentSnippet": "IT之家 11 月 2 日消息，大唐计算机 (MaxTang) 现已推出 3.5\" 单板计算机 WCL-35。其基于英特尔酷睿 3 处理器 304，具备一系列面向嵌入式环境的 I/O。\n\nWCL-35 长宽 146×102 (mm)，提供 1 个 DDR5 SO-DIMM 内存插槽、1 个 M.2 2280 (PCIe Gen4 ×2) 盘位、1 个 FPC 排线形式的 SATA 接口，另有两个 M.2 插槽分别支持无线网卡和蜂窝模块。\n其提供 2 个 USB 3.2、6 个 USB 2.0、2 个 HDMI 2.0、1 个 eDP / LVDS、2 个 1GbE RJ-45、6 个 COM",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -255,10 +135,129 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "我国自主研发的“妈祖”海洋预报数值模式2.0发布，重点海域分辨率提升至1公里。",
+      "aiSummary": "大唐推出基于英特尔酷睿3 304的3.5英寸单板计算机WCL-35",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，产品规格参数具体详实，但缺少官方来源链接和价格信息"
+    },
+    {
+      "title": "消息称三星屏厂通知明年 OLED 面板价格将大幅上调，并非成本问题意在控价",
+      "link": "https://www.ithome.com/1/020/936.htm",
+      "pubDate": "Mon, 02 Nov 2026 04:39:15 GMT",
+      "contentSnippet": "IT之家 11 月 2 日消息，据博板堂 / 视讯堂旗下“ChannelGate 视博合聚”爆料，行业内传出，三星屏厂通知了所有合作伙伴，明年的 OLED 面板的供应价格将有大幅上调。\n据传，内部已经通知明年的 OLED 供应价将上调 10-20 美元（IT之家注：现汇率约合 66.6 - 133.2 元人民币）。\n爆料还提到，上调原因并非是成本问题，而是三星觉得目前 OLED 市场价格混乱，希望可以通过上调供应价以重新管控 OLED 市场价格行情。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "传三星通知合作伙伴明年OLED面板涨价10-20美元以控价",
+      "credibilityScore": 65,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为IT之家转述论坛爆料，无官方证实，细节具体但缺乏原始出处"
+    },
+    {
+      "title": "OPPO Watch 5 小方表曝光：9.2mm 同档最薄、航天级铝合金中框",
+      "link": "https://www.ithome.com/1/020/935.htm",
+      "pubDate": "Mon, 02 Nov 2026 04:31:39 GMT",
+      "contentSnippet": "IT之家 11 月 2 日消息，微博博主 @数码闲聊站 今日声称已上手绿厂小方表（预计指 OPPO Watch 5）。该产品主打“同档最薄”，厚度大概率 9.2mm。\n\n据介绍，这款手表主打轻薄超续航，配备超亮屏，带有航天级铝合金中框，整机质感在线。\n后续有用户在评论区询问：“什么价位的”，博主回复道：“质感很好，定位估计是千元档”；另一名用户则表示：“华为 fit 5p 有力竞争者？”，博主则回复称：“相对于 fit 来说更轻薄，极窄四等边看着很舒适，女性运动健康功能、最火的燃脂功能这次该有都有。”\n\n\n另据IT之家此前报道，OPPO Watch 5 智能手表已开启预约。官方公布的参考图片显",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "OPPO Watch 5小方表曝光，主打9.2mm同档最薄与航天级铝合金中框",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "IT之家为知名科技媒体，但核心信息源自微博博主爆料，官方未确认，细节有限"
+    },
+    {
+      "title": "【Fintech 周报】廖岷拟出任IMF副总裁；银行理财存续规模35.37万亿元",
+      "link": "https://www.tmtpost.com/8189737.html",
+      "pubDate": "Mon, 02 Nov 2026 12:25:48 +0800",
+      "contentSnippet": "廖岷拟出任IMF副总裁；重庆金融监管局：加强互联网贷款风险管理；两款银行应用被通报个人信息问题；三季度末银行理财存续规模35.37万亿元；三季度末消费性贷款余额同比下降2.8%；腾讯与Visa签署合作备忘录；天府银行打包甩卖成都金融城甲级写字楼；蚂蚁国际获阿联酋央行零售支付与储值工具双牌照；汇丰在香港PayMe推出港元稳定币RedCoin；加拿大就稳定币监管条例草案征求意见；泰国旅游支付支持稳定币兑换泰铢。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "廖岷拟任IMF副总裁，银行理财规模35.37万亿，蚂蚁国际获阿联酋牌照",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "钛媒体为知名科技媒体，周报信息具体含数据，但部分条目缺少原始出处"
+    },
+    {
+      "title": "美国佛罗里达州坠毁飞机事发前与地面通话录音曝光：曾报告结冰、颠簸，申请爬升更高处躲避强风暴",
+      "link": "https://www.ithome.com/1/020/933.htm",
+      "pubDate": "Mon, 02 Nov 2026 04:23:03 GMT",
+      "contentSnippet": "IT之家 11 月 2 日消息，当地时间 11 月 1 日，一架飞机在美国佛罗里达州棕榈滩附近坠毁，机上载有 9 人。\n\n据 CCTV 国际时讯今日最新报道，美国媒体公布的飞机坠毁前与地面空管通话录音显示，这架飞机的驾驶员一开始报告“结冰、颠簸”，机外温度零下 47 度，申请爬到更高处躲避强风暴天气。\n\n但据IT之家今日早些时候报道，这架飞机坠毁前在不到一分钟内急坠了 31000 英尺（约合 9450 米）。坠机视频显示，飞机从空中俯冲而下，在一条主要公路附近爆炸后，燃起巨大火球。\n美国联邦航空管理局称，失事飞机从得克萨斯州奥斯汀-伯格斯特罗姆国际机场起飞，原计划飞往巴哈马北伊柳塞拉机场。美国",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "美佛州坠机前录音曝光，飞行员曾报告结冰颠簸并申请爬升避风暴",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体，引述CCTV及美媒录音，细节具体，但缺少官方最终调查结论"
+    },
+    {
+      "title": "理想新一代 MEGA 前舱 29 英寸 6K 全景屏出现短期供应断货问题，汤靖称要到年底左右才能恢复",
+      "link": "https://www.ithome.com/1/020/932.htm",
+      "pubDate": "Mon, 02 Nov 2026 04:16:44 GMT",
+      "contentSnippet": "IT之家 11 月 2 日消息，理想汽车产品线负责人汤靖今日发文，向新一代 MEGA 待交付用户汇报了最新量产情况。他表示，临时接到合作伙伴通知，新一代 MEGA 前舱的 29 英寸 6K 全景屏出现了短期的供应断货问题，要到年底左右才能恢复。\n按照理想汽车的生产和交付计划，此次将影响 11 月 10 日到 12 月 17 日生产下线的车辆，涉及 9 月 11 日 17 点 06 分到 10 月 26 日 9 点 52 分锁单的所有用户。汤靖称，这块 29 英寸的车规级 OLED 全景屏，除了三星之外，没有其他供应商能够提供相同规格的屏幕。\n\nIT之家附汤靖给出的解决方案如下：\n\n一、先装配",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "理想新一代MEGA的29英寸6K全景屏短期断货，年底左右恢复供应",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，引述理想产品线负责人汤靖原文，含具体时间节点与影响范围，信息详实；但属单一信源转述，技术细节有限"
+    },
+    {
+      "title": "长安汽车 10 月销量 23.38 万辆，新能源 14.05 万辆同比增长 18%",
+      "link": "https://www.ithome.com/1/020/931.htm",
+      "pubDate": "Mon, 02 Nov 2026 04:02:36 GMT",
+      "contentSnippet": "IT之家 11 月 2 日消息，长安汽车今日公布 2026 年 10 月销量数据：23.38 万辆。其中海外销量 102,400 辆，同比增长 77.3%，环比增长 8.8%；新能源销量 140,500 辆，同比增长 18.0%，环比增长 17.4%。\n细分品牌来看，长安启源 10 月销量 63,648 辆，环比增长 22.4%。启源 Q06 车型上市首月销量 10,152 辆。\nIT之家从长安汽车官博获悉，深蓝汽车 10 月销量 32,602 辆，环比增长 8.01%；阿维塔交付 7,056 辆；长安汽车交付 45,400 辆；长安凯程销量 18,800 辆，海外同比增长 47.2%。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "长安汽车2026年10月销量23.38万辆，新能源14.05万辆同比增18%",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家转引央视新闻，信息具体含分辨率数据及版本沿革，有官方机构背书，可信度较高。"
+      "credibilityReason": "IT之家为知名科技媒体，数据源自长安汽车官方公布，含细分品牌与同比环比具体数字，信息详实"
+    },
+    {
+      "title": "罗技再因“狗”营销陷入争议，客服回应“已在调查”",
+      "link": "https://www.ithome.com/1/020/930.htm",
+      "pubDate": "Mon, 02 Nov 2026 04:00:17 GMT",
+      "contentSnippet": "IT之家 11 月 2 日消息，今年 3 月罗技官方旗舰店在推广 GPW3 鼠标时，曾发布“当我一降价，你还不是像狗一样跑过来”的争议性宣传文案，引发大量玩家不满，官方后续致歉。\n不过目前有网友发现，“罗技 G 影音旗舰店官方号”近期的 GPW4 朱雀鼠标推广视频中又出现了争议性“狗”营销，话题词“罗技跟用户干上了”登上微博热搜。\n\n▲ 网传争议 GPW4 朱雀鼠标推广视频截图\nIT之家注意到，本次引发争议的视频采用两段式表情包对比：GPW4 朱雀标注“立减一百”，搭配小狗摆手配文“没兴趣，谢谢”；标注“券后六折、3 开头拿下”，再配上小狗点赞“看人真准！”。相应内容被部分网友质疑是在“暗讽消",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "罗技GPW4鼠标推广再陷“狗”营销争议，客服称已调查",
+      "credibilityScore": 75,
+      "credibilityLevel": "medium",
+      "credibilityReason": "知名科技媒体IT之家报道，事件具体有截图佐证，但属消费舆情非技术报道，信息源自网友爆料"
     }
   ]
 }
