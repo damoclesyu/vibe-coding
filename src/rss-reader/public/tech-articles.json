@@ -1,65 +1,48 @@
 {
-  "generatedAt": "2026-11-02T05:13:12.607Z",
+  "generatedAt": "2026-11-03T05:57:11.537Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "消息称国内多家汽车企业“进京”，与相关部门协商“混动汽车出口欧盟配额”",
-      "link": "https://www.ithome.com/1/020/939.htm",
-      "pubDate": "Mon, 02 Nov 2026 04:59:33 GMT",
-      "contentSnippet": "IT之家 11 月 2 日消息，据财联社从多位知情人士处获悉，针对近期中欧双方就混动汽车贸易达成的谅解方案，多家国内汽车企业近期前往北京与相关部门进行协商。\n“（配额方案）总量有限，每家可以分配到的出口额度并不会很多，目前各家（车企）都在努力争取中。”一位知情人士称。\n据IT之家此前报道，10 月 8 日至 9 日，中欧贸易投资磋商机制第二次例会在北京举行，经密集磋商，中欧双方以符合世贸组织规则的方式就混动汽车贸易达成谅解。\n商务部新闻发言人 10 月 12 日表示，关于混动汽车，双方在 2025 年（30.2 万辆）基础上达成向上安排，确保中国企业的出口空间和稳定增长，照顾了双方产业基于现实",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "巨量引擎取消返点：所有广告代理商，未来都是服务商",
+      "link": "https://www.tmtpost.com/8190926.html",
+      "pubDate": "Tue, 03 Nov 2026 12:12:18 +0800",
+      "contentSnippet": "把谷歌、Meta、巨量三家放在一起看，推动代理商转型的力量有四股，每一股都已经被验证过。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
       "allSources": [
-        "IT之家"
+        "钛媒体"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "多家车企进京协商混动汽车出口欧盟配额分配",
+      "aiSummary": "巨量引擎取消广告代理商返点，推动其向服务商转型",
       "credibilityScore": 78,
+      "credibilityLevel": "medium-high",
+      "credibilityReason": "钛媒体为知名科技媒体，选题具体，但摘要信息简略，缺少数据与原始出处"
+    },
+    {
+      "title": "苹果的一切都在变贵，全怪 AI",
+      "link": "https://www.ifanr.com/1687259?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pubDate": "Tue, 03 Nov 2026 04:09:46 +0000",
+      "contentSnippet": "赚得多，花得更狠\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "sourceName": "爱范儿",
+      "sourceWeight": 82,
+      "allSources": [
+        "爱范儿"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "爱范儿称苹果产品与服务因AI投入而全面涨价",
+      "credibilityScore": 55,
       "credibilityLevel": "medium",
-      "credibilityReason": "IT之家转引财联社知情人士消息，有官方磋商背景但配额细节未证实，属行业传闻类报道"
+      "credibilityReason": "知名科技媒体但正文缺失，仅标题和摘要，缺乏数据与原始出处支撑"
     },
     {
-      "title": "最高检发布依法保护公民个人信息典型案例，涉“饭圈”乱象、“开盒”网暴犯罪等",
-      "link": "https://www.ithome.com/1/020/914.htm",
-      "pubDate": "Mon, 02 Nov 2026 03:26:04 GMT",
-      "contentSnippet": "IT之家 11 月 2 日消息，11 月 1 日是《中华人民共和国个人信息保护法》实施 5 周年。值此之际，最高人民检察院发布一批依法保护公民个人信息典型案例，聚焦当前侵犯公民个人信息违法犯罪的新特点、新趋势，揭示了当前侵犯公民个人信息违法犯罪的严重危害后果。\n\n据介绍，该批典型案例共 8 件，在准确适用法律、全链条从严惩处犯罪、保护社会公共利益、融合履职促进社会治理等方面具有典型示范意义。IT之家附典型案例如下：\n王某等 11 人侵犯公民个人信息案\n\n【关键词】\n侵犯公民个人信息罪境外网络全链条惩治源头治理\n【基本案情】\n被告人王某，男，1997 年出生，无业。\n被告人许某玲，女，1991",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "最高检发布8件个人信息保护典型案例，涉饭圈乱象与开盒网暴犯罪。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，引述最高检官方发布，信息具体有案例细节，但正文摘要截断不完整。"
-    },
-    {
-      "title": "消息称英伟达尚未提供 24GB 显存版 GeForce RTX 5080 显卡设计套件",
-      "link": "https://www.ithome.com/1/020/883.htm",
-      "pubDate": "Mon, 02 Nov 2026 01:42:00 GMT",
-      "contentSnippet": "IT之家 11 月 2 日消息，接近显卡供应链的台媒 BenchLife.info 今日表示，NVIDIA（英伟达）截至 2026 年 10 月末尚未向下游 AIC 合作伙伴提供 24GB 显存版本的 GeForce RTX 5080 显卡的设计资料套件，晚于此前预期。\n\n考虑到当前的 PCB 备料情况和其它零部件的缺货状况，该媒体认为 GeForce RTX 5080 24GB 很难在 2027 年 1 月正式推出。\n当然，NVIDIA 可能会选择在 CES 2027 上公布这一型号但在稍晚时候正式发售。\n参考\n\nhttps://benchlife.info/nvidia-geforce-r",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "台媒称英伟达未向AIC提供24GB版RTX 5080设计套件，或难2027年1月推出",
-      "credibilityScore": 72,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家转载台媒BenchLife供应链消息，有原始出处，但属未证实传闻，细节有限"
-    },
-    {
-      "title": "复宏汉霖HLX43，借来的技术也能成器",
-      "link": "https://www.tmtpost.com/8189726.html",
-      "pubDate": "Mon, 02 Nov 2026 13:00:23 +0800",
-      "contentSnippet": "借来的火，点的是自己的灯，灯下走的路，算自己的。",
+      "title": "商业航天大运力竞争时代，空天经济重组价值体系",
+      "link": "https://www.tmtpost.com/8190099.html",
+      "pubDate": "Tue, 03 Nov 2026 11:40:08 +0800",
+      "contentSnippet": "目前，力箭系列运载火箭已累计完成18次发射，将1艘飞船、139颗卫星送入太空，累计入轨载荷总重量超27吨。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -67,16 +50,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体分析复宏汉霖HLX43，探讨引进技术的自主创新价值",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体，标题有观点倾向，正文摘要过短缺少技术细节和数据支撑"
+      "aiSummary": "力箭系列火箭累计18次发射，入轨载荷超27吨，商业航天大运力竞争加剧。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "钛媒体为知名科技媒体，数据具体可核验，但缺乏原始出处链接，分析性内容偏多。"
     },
     {
-      "title": "游戏行业新版本前瞻：二游退潮以后，下一场社交抢人大战将会很疯狂？",
-      "link": "https://www.tmtpost.com/8189732.html",
-      "pubDate": "Mon, 02 Nov 2026 13:00:18 +0800",
-      "contentSnippet": "“我观测了游戏行业14000605种未来”。",
+      "title": "模拟计算进入矩阵时代！北大联手硅谷IBM，写下新定义",
+      "link": "https://www.qbitai.com/2026/11/507367.html",
+      "pubDate": "Tue, 03 Nov 2026 03:16:23 +0000",
+      "contentSnippet": "GPU迭代一百次的事，它一步做完",
+      "sourceName": "量子位",
+      "sourceWeight": 80,
+      "allSources": [
+        "量子位"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "北大与IBM合作实现矩阵模拟计算新突破，一步完成GPU百次迭代任务。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "量子位为知名科技媒体，但标题夸张且摘要缺乏具体技术细节与原始论文出处。"
+    },
+    {
+      "title": "不与大模型对抗，星尘智能想用AOS接住通用智能的红利",
+      "link": "https://www.tmtpost.com/8191171.html",
+      "pubDate": "Tue, 03 Nov 2026 11:13:20 +0800",
+      "contentSnippet": "投降or对抗？星尘智能决定选第三条路：保持开放，既要又要。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -84,101 +84,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体前瞻游戏行业趋势，探讨二游退潮后社交游戏竞争格局。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，但正文摘要过简，缺乏具体数据与原始出处，分析性内容主观性较强。"
-    },
-    {
-      "title": "Kimi 半年三次道歉：模型越强，生意却越难做？",
-      "link": "https://www.tmtpost.com/8189784.html",
-      "pubDate": "Mon, 02 Nov 2026 12:56:23 +0800",
-      "contentSnippet": "Kimi这次为何栽在“烧额度”上？",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体分析Kimi半年内三次道歉，探讨模型能力与商业困境的矛盾。",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，选题具体有行业分析价值，但正文摘要过简，缺少数据与原始出处支撑。"
-    },
-    {
-      "title": "43 分 41 秒，首届 CMG 世界机器人登泰山大赛足式竞速冠军产生",
-      "link": "https://www.ithome.com/1/020/938.htm",
-      "pubDate": "Mon, 02 Nov 2026 04:54:32 GMT",
-      "contentSnippet": "IT之家 11 月 2 日消息，据央视新闻报道，世界机器人登泰山大赛于今日（11 月 2 日）在山东泰安举行。大赛以“登高望远智竞泰山”为主题，赛道全程约 3.9 公里，共 3100 余级台阶。千年登山盘道化身赛场，近 90 支赛队同台竞技，向泰山中天门发起挑战。\n经过激烈角逐，北京灵翌科技队获得足式机器人竞速赛冠军，总时间 43 分 41 秒。\n\n据IT之家此前报道，大赛包含人形机器人竞速、足式机器人竞速、足式机器人负重、外骨骼机器人助力等 4 个正式赛项，以及 1 个全域机动探路挑战赛。\n人形机器人竞速赛、足式机器人负重赛、外骨骼机器人助力赛、全域机动探路挑战赛获奖名单将后续公布。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "首届CMG世界机器人登泰山大赛举行，北京灵翌科技队以43分41秒获足式竞速冠军",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家援引央视新闻，赛事时间地点、赛道数据、赛队数量及冠军成绩具体明确，来源可追溯"
-    },
-    {
-      "title": "大唐带来 3.5\" 单板计算机 WCL-35，基于英特尔酷睿 3 处理器 304",
-      "link": "https://www.ithome.com/1/020/937.htm",
-      "pubDate": "Mon, 02 Nov 2026 04:42:48 GMT",
-      "contentSnippet": "IT之家 11 月 2 日消息，大唐计算机 (MaxTang) 现已推出 3.5\" 单板计算机 WCL-35。其基于英特尔酷睿 3 处理器 304，具备一系列面向嵌入式环境的 I/O。\n\nWCL-35 长宽 146×102 (mm)，提供 1 个 DDR5 SO-DIMM 内存插槽、1 个 M.2 2280 (PCIe Gen4 ×2) 盘位、1 个 FPC 排线形式的 SATA 接口，另有两个 M.2 插槽分别支持无线网卡和蜂窝模块。\n其提供 2 个 USB 3.2、6 个 USB 2.0、2 个 HDMI 2.0、1 个 eDP / LVDS、2 个 1GbE RJ-45、6 个 COM",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "大唐推出基于英特尔酷睿3 304的3.5英寸单板计算机WCL-35",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，产品规格参数具体详实，但缺少官方来源链接和价格信息"
-    },
-    {
-      "title": "消息称三星屏厂通知明年 OLED 面板价格将大幅上调，并非成本问题意在控价",
-      "link": "https://www.ithome.com/1/020/936.htm",
-      "pubDate": "Mon, 02 Nov 2026 04:39:15 GMT",
-      "contentSnippet": "IT之家 11 月 2 日消息，据博板堂 / 视讯堂旗下“ChannelGate 视博合聚”爆料，行业内传出，三星屏厂通知了所有合作伙伴，明年的 OLED 面板的供应价格将有大幅上调。\n据传，内部已经通知明年的 OLED 供应价将上调 10-20 美元（IT之家注：现汇率约合 66.6 - 133.2 元人民币）。\n爆料还提到，上调原因并非是成本问题，而是三星觉得目前 OLED 市场价格混乱，希望可以通过上调供应价以重新管控 OLED 市场价格行情。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "传三星通知合作伙伴明年OLED面板涨价10-20美元以控价",
+      "aiSummary": "星尘智能提出AOS路线，主张不与大模型对抗而共享通用智能红利",
       "credibilityScore": 65,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为IT之家转述论坛爆料，无官方证实，细节具体但缺乏原始出处"
+      "credibilityReason": "来源为知名科技媒体钛媒体，但正文摘要极简，缺少技术细节与数据支撑，信息完整度不足"
     },
     {
-      "title": "OPPO Watch 5 小方表曝光：9.2mm 同档最薄、航天级铝合金中框",
-      "link": "https://www.ithome.com/1/020/935.htm",
-      "pubDate": "Mon, 02 Nov 2026 04:31:39 GMT",
-      "contentSnippet": "IT之家 11 月 2 日消息，微博博主 @数码闲聊站 今日声称已上手绿厂小方表（预计指 OPPO Watch 5）。该产品主打“同档最薄”，厚度大概率 9.2mm。\n\n据介绍，这款手表主打轻薄超续航，配备超亮屏，带有航天级铝合金中框，整机质感在线。\n后续有用户在评论区询问：“什么价位的”，博主回复道：“质感很好，定位估计是千元档”；另一名用户则表示：“华为 fit 5p 有力竞争者？”，博主则回复称：“相对于 fit 来说更轻薄，极窄四等边看着很舒适，女性运动健康功能、最火的燃脂功能这次该有都有。”\n\n\n另据IT之家此前报道，OPPO Watch 5 智能手表已开启预约。官方公布的参考图片显",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "OPPO Watch 5小方表曝光，主打9.2mm同档最薄与航天级铝合金中框",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "IT之家为知名科技媒体，但核心信息源自微博博主爆料，官方未确认，细节有限"
-    },
-    {
-      "title": "【Fintech 周报】廖岷拟出任IMF副总裁；银行理财存续规模35.37万亿元",
-      "link": "https://www.tmtpost.com/8189737.html",
-      "pubDate": "Mon, 02 Nov 2026 12:25:48 +0800",
-      "contentSnippet": "廖岷拟出任IMF副总裁；重庆金融监管局：加强互联网贷款风险管理；两款银行应用被通报个人信息问题；三季度末银行理财存续规模35.37万亿元；三季度末消费性贷款余额同比下降2.8%；腾讯与Visa签署合作备忘录；天府银行打包甩卖成都金融城甲级写字楼；蚂蚁国际获阿联酋央行零售支付与储值工具双牌照；汇丰在香港PayMe推出港元稳定币RedCoin；加拿大就稳定币监管条例草案征求意见；泰国旅游支付支持稳定币兑换泰铢。",
+      "title": "苹果单季赚了307亿美元，华尔街却不买特努斯的账",
+      "link": "https://www.tmtpost.com/8191273.html",
+      "pubDate": "Tue, 03 Nov 2026 11:12:51 +0800",
+      "contentSnippet": "苹果三季度收入利润双丰收，特努斯还缺一个增长新故事。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -186,78 +101,167 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "廖岷拟任IMF副总裁，银行理财规模35.37万亿，蚂蚁国际获阿联酋牌照",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，周报信息具体含数据，但部分条目缺少原始出处"
-    },
-    {
-      "title": "美国佛罗里达州坠毁飞机事发前与地面通话录音曝光：曾报告结冰、颠簸，申请爬升更高处躲避强风暴",
-      "link": "https://www.ithome.com/1/020/933.htm",
-      "pubDate": "Mon, 02 Nov 2026 04:23:03 GMT",
-      "contentSnippet": "IT之家 11 月 2 日消息，当地时间 11 月 1 日，一架飞机在美国佛罗里达州棕榈滩附近坠毁，机上载有 9 人。\n\n据 CCTV 国际时讯今日最新报道，美国媒体公布的飞机坠毁前与地面空管通话录音显示，这架飞机的驾驶员一开始报告“结冰、颠簸”，机外温度零下 47 度，申请爬到更高处躲避强风暴天气。\n\n但据IT之家今日早些时候报道，这架飞机坠毁前在不到一分钟内急坠了 31000 英尺（约合 9450 米）。坠机视频显示，飞机从空中俯冲而下，在一条主要公路附近爆炸后，燃起巨大火球。\n美国联邦航空管理局称，失事飞机从得克萨斯州奥斯汀-伯格斯特罗姆国际机场起飞，原计划飞往巴哈马北伊柳塞拉机场。美国",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "美佛州坠机前录音曝光，飞行员曾报告结冰颠簸并申请爬升避风暴",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体，引述CCTV及美媒录音，细节具体，但缺少官方最终调查结论"
-    },
-    {
-      "title": "理想新一代 MEGA 前舱 29 英寸 6K 全景屏出现短期供应断货问题，汤靖称要到年底左右才能恢复",
-      "link": "https://www.ithome.com/1/020/932.htm",
-      "pubDate": "Mon, 02 Nov 2026 04:16:44 GMT",
-      "contentSnippet": "IT之家 11 月 2 日消息，理想汽车产品线负责人汤靖今日发文，向新一代 MEGA 待交付用户汇报了最新量产情况。他表示，临时接到合作伙伴通知，新一代 MEGA 前舱的 29 英寸 6K 全景屏出现了短期的供应断货问题，要到年底左右才能恢复。\n按照理想汽车的生产和交付计划，此次将影响 11 月 10 日到 12 月 17 日生产下线的车辆，涉及 9 月 11 日 17 点 06 分到 10 月 26 日 9 点 52 分锁单的所有用户。汤靖称，这块 29 英寸的车规级 OLED 全景屏，除了三星之外，没有其他供应商能够提供相同规格的屏幕。\n\nIT之家附汤靖给出的解决方案如下：\n\n一、先装配",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "理想新一代MEGA的29英寸6K全景屏短期断货，年底左右恢复供应",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引述理想产品线负责人汤靖原文，含具体时间节点与影响范围，信息详实；但属单一信源转述，技术细节有限"
-    },
-    {
-      "title": "长安汽车 10 月销量 23.38 万辆，新能源 14.05 万辆同比增长 18%",
-      "link": "https://www.ithome.com/1/020/931.htm",
-      "pubDate": "Mon, 02 Nov 2026 04:02:36 GMT",
-      "contentSnippet": "IT之家 11 月 2 日消息，长安汽车今日公布 2026 年 10 月销量数据：23.38 万辆。其中海外销量 102,400 辆，同比增长 77.3%，环比增长 8.8%；新能源销量 140,500 辆，同比增长 18.0%，环比增长 17.4%。\n细分品牌来看，长安启源 10 月销量 63,648 辆，环比增长 22.4%。启源 Q06 车型上市首月销量 10,152 辆。\nIT之家从长安汽车官博获悉，深蓝汽车 10 月销量 32,602 辆，环比增长 8.01%；阿维塔交付 7,056 辆；长安汽车交付 45,400 辆；长安凯程销量 18,800 辆，海外同比增长 47.2%。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "长安汽车2026年10月销量23.38万辆，新能源14.05万辆同比增18%",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，数据源自长安汽车官方公布，含细分品牌与同比环比具体数字，信息详实"
-    },
-    {
-      "title": "罗技再因“狗”营销陷入争议，客服回应“已在调查”",
-      "link": "https://www.ithome.com/1/020/930.htm",
-      "pubDate": "Mon, 02 Nov 2026 04:00:17 GMT",
-      "contentSnippet": "IT之家 11 月 2 日消息，今年 3 月罗技官方旗舰店在推广 GPW3 鼠标时，曾发布“当我一降价，你还不是像狗一样跑过来”的争议性宣传文案，引发大量玩家不满，官方后续致歉。\n不过目前有网友发现，“罗技 G 影音旗舰店官方号”近期的 GPW4 朱雀鼠标推广视频中又出现了争议性“狗”营销，话题词“罗技跟用户干上了”登上微博热搜。\n\n▲ 网传争议 GPW4 朱雀鼠标推广视频截图\nIT之家注意到，本次引发争议的视频采用两段式表情包对比：GPW4 朱雀标注“立减一百”，搭配小狗摆手配文“没兴趣，谢谢”；标注“券后六折、3 开头拿下”，再配上小狗点赞“看人真准！”。相应内容被部分网友质疑是在“暗讽消",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "罗技GPW4鼠标推广再陷“狗”营销争议，客服称已调查",
+      "aiSummary": "苹果三季度营收利润双增，但华尔街对特努斯缺乏增长新故事存疑",
       "credibilityScore": 75,
       "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体IT之家报道，事件具体有截图佐证，但属消费舆情非技术报道，信息源自网友爆料"
+      "credibilityReason": "钛媒体为知名科技媒体，标题含具体数据，但正文摘要简略，缺少原始财报引用和细节支撑"
+    },
+    {
+      "title": "格力电器靠什么留住投资者",
+      "link": "https://www.tmtpost.com/8190485.html",
+      "pubDate": "Tue, 03 Nov 2026 10:56:40 +0800",
+      "contentSnippet": "增持格力电器后，京海互联既能通过经销商资源获得销售收益，又能按比例获得更高分红，可谓一箭双雕。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "京海互联增持格力电器，借经销商资源与分红实现双重收益",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "钛媒体为知名科技媒体，内容涉及具体股东行为与商业逻辑，但信息较简略，缺少数据支撑"
+    },
+    {
+      "title": "一箭18星，能让商业火箭赚钱吗？",
+      "link": "https://www.tmtpost.com/8191123.html",
+      "pubDate": "Tue, 03 Nov 2026 10:56:37 +0800",
+      "contentSnippet": "一箭多星背后，商业火箭距离盈利还有多远？",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体探讨一箭18星背景下商业火箭盈利前景",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "钛媒体为知名科技媒体，选题具体，但摘要信息简略，缺少数据与原始出处"
+    },
+    {
+      "title": "乔布斯的「祖训」和触屏 MacBook，何以同时成立？｜硬哲学",
+      "link": "https://www.ifanr.com/1686623?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pubDate": "Tue, 03 Nov 2026 02:09:08 +0000",
+      "contentSnippet": "让特努斯引领一个全新的时代，全盘「拥有」这些新产品，无论它们最终的评价是好是坏。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "sourceName": "爱范儿",
+      "sourceWeight": 82,
+      "allSources": [
+        "爱范儿"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "爱范儿探讨乔布斯理念与触屏MacBook如何共存",
+      "credibilityScore": 65,
+      "credibilityLevel": "medium",
+      "credibilityReason": "知名科技媒体但摘要信息简略，缺少具体技术细节和数据支撑，偏评论性内容"
+    },
+    {
+      "title": "AI Subscriptions Hit a Wall as Smarter Models Burn Quotas Faster",
+      "link": "https://www.tmtpost.com/8191236.html",
+      "pubDate": "Tue, 03 Nov 2026 10:03:04 +0800",
+      "contentSnippet": "Across the industry, frontier models are improving while fixed monthly plans feel smaller. Moonshot’s Kimi is the clearest recent example: a stronger release, angry subscribers, and another public apology. The tension is structural—capability is outrunning the economics of flat-fee access.",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体",
+        "量子位",
+        "少数派",
+        "InfoQ中文",
+        "Solidot"
+      ],
+      "coverageCount": 5,
+      "coverageBoost": 20,
+      "aiSummary": "前沿AI模型能力提升导致固定订阅配额消耗加快，Kimi等产品引发用户不满。",
+      "credibilityScore": 95,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为多家知名科技媒体，内容有具体案例但缺乏数据支撑和原始出处。（多源覆盖 +20）"
+    },
+    {
+      "title": "B站举办2026超级科学晚，脑机接口、人造太阳等前沿科技齐亮相",
+      "link": "https://www.qbitai.com/2026/11/507339.html",
+      "pubDate": "Tue, 03 Nov 2026 02:02:05 +0000",
+      "contentSnippet": "10月31日，2026年bilibili超级科学晚（以下简称“B站科学晚”）在北京如期举行。",
+      "sourceName": "量子位",
+      "sourceWeight": 80,
+      "allSources": [
+        "量子位"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "B站2026超级科学晚在北京举行，脑机接口、人造太阳等前沿科技亮相。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "量子位为知名科技媒体，信息具体但摘要简略，缺少技术细节与原始出处，时效性稍弱。"
+    },
+    {
+      "title": "“存储通胀”中的传音控股：囤芯失血、H股遇冷与AI求生 |深度",
+      "link": "https://www.tmtpost.com/8190090.html",
+      "pubDate": "Tue, 03 Nov 2026 08:45:00 +0800",
+      "contentSnippet": "“非洲手机之王”传音控股，以低端手机做到全球新兴市场销量第一的消费电子企业，也成为中国消费电子出海最成功的样板之一。2023、2024年利润、营收双双攀上巅峰，2025年却被“存储通胀”超级周期打到净利腰斩；囤芯、提价换来2026上半年低基数修复，三季度却再度失速。在存储比主芯片还贵的时代，公司正大举押注端侧AI，为自己寻找定价权的最后一搏。但刚挂牌的H股成交极冷、折价近五成，折射外界对其AI叙事的疑虑重重。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "传音控股受存储通胀冲击净利腰斩，押注端侧AI但H股遇冷。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "钛媒体为知名科技媒体，文章含具体财务与市场数据，逻辑清晰，但属深度分析而非一手信源。"
+    },
+    {
+      "title": "中国诚通、中国国新三季度调仓图谱：蓝筹压舱，硬科技探路丨行业风向标",
+      "link": "https://www.tmtpost.com/8190976.html",
+      "pubDate": "Tue, 03 Nov 2026 08:43:37 +0800",
+      "contentSnippet": "按市值拆分，24家新进标的合计150.19亿元，25家增仓标的合计800.84亿元，加仓主力落在已有持仓上。整体来看，两大平台三季度以加法为主。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国诚通、中国国新三季度调仓：蓝筹为主，硬科技探路，加仓为主",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium-high",
+      "credibilityReason": "知名科技媒体，数据具体（24家新进150.19亿、25家增仓800.84亿），但缺少原始出处和调仓明细"
+    },
+    {
+      "title": "早报｜苹果第四财季营收增长12%，服务收入再创新高/《影之刃零》72小时销量突破400万套/曝三星Fold9回归屏下摄像头",
+      "link": "https://www.ifanr.com/1687189?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pubDate": "Tue, 03 Nov 2026 00:17:09 +0000",
+      "contentSnippet": "· 曝下一代触屏 MacBook Pro 将换新模具\r\n· OpenAI 推出电网保护计划，拟让未来园区在用电紧张时降载\r\n· DeepSeek Harness 加入创作者模式，可用对话制作插件\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "sourceName": "爱范儿",
+      "sourceWeight": 82,
+      "allSources": [
+        "爱范儿"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "爱范儿早报汇总苹果财报、游戏销量及三星、OpenAI等科技动态",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "知名科技媒体，信息具体但部分为爆料，缺乏原始出处和数据细节"
+    },
+    {
+      "title": "【钛晨报】联手稳市场，三部门最新部署；六大行大额存单全部重启发行；中上协：前三季度境内股票市场上市公司合计实现归母净利润5.1万亿元，同比增长8.5%",
+      "link": "https://www.tmtpost.com/8190922.html",
+      "pubDate": "Tue, 03 Nov 2026 07:20:00 +0800",
+      "contentSnippet": "Meta与中国企业合作开发人形机器人？傅利叶回应；度小满与香港科技大学联合发布轩辕4.5金融大模型；比亚迪王朝10月销售20.3万辆，同比增长13.6%；Anthropic第三季度营收同比增长1127%；中国证监会：研究推出股债恒定比例等多资产指数基金，丰富场外中低波动型产品；金融法草案二审稿充实金融消费者、投资者保护相关内容；《民航绿色发展“十五五”实施方案》印发；央行：将于11月3日开展证券、基金、保险公司互换便利操作，申请额度超1000亿元；香港交易所旗下衍生产品结算所现接受中国国债、政策性银行债券及财政部债券作抵押品；迈威尔将以全股票交易收购光迅科技Lumentum，交易完成后后者股东",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体晨报汇总三部门稳市场部署、六大行存单重启及多公司业绩动态",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体钛媒体，信息具体含数据，但部分内容简略且无原始出处链接"
     }
   ]
 }
