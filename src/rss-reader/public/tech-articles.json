@@ -1,205 +1,101 @@
 {
-  "generatedAt": "2026-11-03T05:57:11.537Z",
+  "generatedAt": "2026-11-04T05:33:12.062Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "巨量引擎取消返点：所有广告代理商，未来都是服务商",
-      "link": "https://www.tmtpost.com/8190926.html",
-      "pubDate": "Tue, 03 Nov 2026 12:12:18 +0800",
-      "contentSnippet": "把谷歌、Meta、巨量三家放在一起看，推动代理商转型的力量有四股，每一股都已经被验证过。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "华邦 2026Q3 营收同比大增 278.2%，核准 713.63 亿新台币高雄扩产计划",
+      "link": "https://www.ithome.com/1/021/963.htm",
+      "pubDate": "Wed, 04 Nov 2026 02:41:09 GMT",
+      "contentSnippet": "IT之家 11 月 4 日消息，中国台湾地区利基型存储器制造商华邦电子 (Winbond) 昨日公布了其 2026 年第 3 季度运营表现：\n\n合并营收：823.31 亿新台币，同比增长 278.2%\n\n毛利率：70.6%；\n\n归母税后净利润：354.22 亿新台币\n\n每股净收益：7.58 新台币\n\n从产品类别来看，客制化内存营收占比 58%，闪存贡献 32%，逻辑和其它各占 9% 和 1%；从应用类别来看，通讯电子占比为 31%，消费电子、车用及工业用相关各占 26%，计算机相关则是 17%。\n华邦电子是全球最大的 NOR 闪存制造商，其 SLC NAND 闪存则位居世界第三。该企业预计闪存",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "钛媒体"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "巨量引擎取消广告代理商返点，推动其向服务商转型",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium-high",
-      "credibilityReason": "钛媒体为知名科技媒体，选题具体，但摘要信息简略，缺少数据与原始出处"
-    },
-    {
-      "title": "苹果的一切都在变贵，全怪 AI",
-      "link": "https://www.ifanr.com/1687259?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pubDate": "Tue, 03 Nov 2026 04:09:46 +0000",
-      "contentSnippet": "赚得多，花得更狠\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "sourceName": "爱范儿",
-      "sourceWeight": 82,
-      "allSources": [
-        "爱范儿"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "爱范儿称苹果产品与服务因AI投入而全面涨价",
-      "credibilityScore": 55,
-      "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体但正文缺失，仅标题和摘要，缺乏数据与原始出处支撑"
-    },
-    {
-      "title": "商业航天大运力竞争时代，空天经济重组价值体系",
-      "link": "https://www.tmtpost.com/8190099.html",
-      "pubDate": "Tue, 03 Nov 2026 11:40:08 +0800",
-      "contentSnippet": "目前，力箭系列运载火箭已累计完成18次发射，将1艘飞船、139颗卫星送入太空，累计入轨载荷总重量超27吨。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "力箭系列火箭累计18次发射，入轨载荷超27吨，商业航天大运力竞争加剧。",
+      "aiSummary": "华邦电子2026Q3营收同比增278.2%，并核准高雄713.63亿新台币扩产计划",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，数据具体可核验，但缺乏原始出处链接，分析性内容偏多。"
+      "credibilityReason": "来源为知名科技媒体IT之家，数据具体详实，含营收、毛利率、产品结构等细节，但缺少原始财报链接"
     },
     {
-      "title": "模拟计算进入矩阵时代！北大联手硅谷IBM，写下新定义",
-      "link": "https://www.qbitai.com/2026/11/507367.html",
-      "pubDate": "Tue, 03 Nov 2026 03:16:23 +0000",
-      "contentSnippet": "GPU迭代一百次的事，它一步做完",
-      "sourceName": "量子位",
-      "sourceWeight": 80,
+      "title": "墨西哥全国中小学实施手机使用限制：上课、课间原则上不得使用个人电子设备",
+      "link": "https://www.ithome.com/1/021/896.htm",
+      "pubDate": "Wed, 04 Nov 2026 00:17:27 GMT",
+      "contentSnippet": "IT之家 11 月 4 日消息，据央视新闻报道，当地时间 11 月 3 日起，墨西哥全国公立及私立中小学正式实施手机使用限制。\nIT之家从报道中获悉，根据墨西哥公共教育部规定，学生在上课及课间休息期间原则上不得使用手机、智能手表等个人电子设备，但因教学活动、紧急情况、健康或残障辅助等特殊需要可例外使用。高中阶段由各校制定具体管理规则。\n墨西哥总统辛鲍姆表示，新规旨在减少电子屏幕对学生学习和社交的负面影响，提升注意力与创造力。此前，墨西哥全国 32 个州的教育主管部门一致支持该措施。\n\n延伸阅读\n在此之前，多国已陆续出台校园手机限制措施。\n美国方面，佛罗里达州于 2023 年率先立法禁止学生在校",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "量子位"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "北大与IBM合作实现矩阵模拟计算新突破，一步完成GPU百次迭代任务。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "量子位为知名科技媒体，但标题夸张且摘要缺乏具体技术细节与原始论文出处。"
-    },
-    {
-      "title": "不与大模型对抗，星尘智能想用AOS接住通用智能的红利",
-      "link": "https://www.tmtpost.com/8191171.html",
-      "pubDate": "Tue, 03 Nov 2026 11:13:20 +0800",
-      "contentSnippet": "投降or对抗？星尘智能决定选第三条路：保持开放，既要又要。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "星尘智能提出AOS路线，主张不与大模型对抗而共享通用智能红利",
-      "credibilityScore": 65,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，但正文摘要极简，缺少技术细节与数据支撑，信息完整度不足"
-    },
-    {
-      "title": "苹果单季赚了307亿美元，华尔街却不买特努斯的账",
-      "link": "https://www.tmtpost.com/8191273.html",
-      "pubDate": "Tue, 03 Nov 2026 11:12:51 +0800",
-      "contentSnippet": "苹果三季度收入利润双丰收，特努斯还缺一个增长新故事。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "苹果三季度营收利润双增，但华尔街对特努斯缺乏增长新故事存疑",
-      "credibilityScore": 75,
-      "credibilityLevel": "medium",
-      "credibilityReason": "钛媒体为知名科技媒体，标题含具体数据，但正文摘要简略，缺少原始财报引用和细节支撑"
-    },
-    {
-      "title": "格力电器靠什么留住投资者",
-      "link": "https://www.tmtpost.com/8190485.html",
-      "pubDate": "Tue, 03 Nov 2026 10:56:40 +0800",
-      "contentSnippet": "增持格力电器后，京海互联既能通过经销商资源获得销售收益，又能按比例获得更高分红，可谓一箭双雕。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "京海互联增持格力电器，借经销商资源与分红实现双重收益",
-      "credibilityScore": 75,
+      "aiSummary": "墨西哥全国中小学实施手机使用限制，课间上课原则上禁用",
+      "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容涉及具体股东行为与商业逻辑，但信息较简略，缺少数据支撑"
+      "credibilityReason": "IT之家援引央视新闻报道，政策细节具体，含例外条款与官方表态，来源可追溯"
     },
     {
-      "title": "一箭18星，能让商业火箭赚钱吗？",
-      "link": "https://www.tmtpost.com/8191123.html",
-      "pubDate": "Tue, 03 Nov 2026 10:56:37 +0800",
-      "contentSnippet": "一箭多星背后，商业火箭距离盈利还有多远？",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "谷歌调整美国中小学账户设置：要么开放 AI 搜索，要么彻底禁用搜索",
+      "link": "https://www.ithome.com/1/022/039.htm",
+      "pubDate": "Wed, 04 Nov 2026 05:18:42 GMT",
+      "contentSnippet": "IT之家 11 月 4 日消息，据彭博社报道，当地时间 3 日，谷歌宣布调整面向美国中小学的服务权限。今后，学校如果想让学生使用谷歌搜索，必须由管理员主动开启，但搜索服务内置的 AI 功能也会一并开放。\n\n谷歌教育业务副总裁兼总经理克里斯 · 菲利普斯表示，幼儿园至高三学生的账户默认无法使用谷歌搜索、Gemini 聊天机器人、Gemini Notebook 以及谷歌课堂中的 Gemini 功能，学校管理员必须手动开启这些服务。\n不过，一旦启用谷歌搜索，学生也能使用其中的 AI 功能。谷歌计划在未来几个月向学校公布更多实施细节，以便学校提前做好准备。\n谷歌的 Chromebook 是美国学校使用",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "钛媒体"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体探讨一箭18星背景下商业火箭盈利前景",
-      "credibilityScore": 75,
+      "aiSummary": "谷歌调整美国中小学账户设置，启用搜索即开放AI功能，否则彻底禁用。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，选题具体，但摘要信息简略，缺少数据与原始出处"
+      "credibilityReason": "来源为IT之家引述彭博社报道，信息具体含人物、时间与产品细节，逻辑清晰。"
     },
     {
-      "title": "乔布斯的「祖训」和触屏 MacBook，何以同时成立？｜硬哲学",
-      "link": "https://www.ifanr.com/1686623?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pubDate": "Tue, 03 Nov 2026 02:09:08 +0000",
-      "contentSnippet": "让特努斯引领一个全新的时代，全盘「拥有」这些新产品，无论它们最终的评价是好是坏。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "sourceName": "爱范儿",
-      "sourceWeight": 82,
+      "title": "曝 Galaxy A38 额定 5882mAh，有望成三星 Galaxy A 系列电池容量最大手机",
+      "link": "https://www.ithome.com/1/022/038.htm",
+      "pubDate": "Wed, 04 Nov 2026 05:15:24 GMT",
+      "contentSnippet": "IT之家 11 月 4 日消息，荷兰科技媒体 GalaxyClub 昨日（11 月 3 日）发布博文，报道称三星 Galaxy A38 手机电池额定容量为 5882mAh，预估宣传的典型值容量为 6000mAh。\nIT之家查询公开资料，三星 Galaxy A37 手机电池额定容量为 4,905mAh，而宣传的典型值为 5000mAh。按照典型值计算，三星 Galaxy A38 电池容量较 A37 提升 20%。\n在 Galaxy A 系列智能手机中，已正式发布的三星 Galaxy A 系列手机中，电池容量最大的是 Galaxy A07 5G，额定最低容量为 5,830mAh、典型容量为 6,0",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "爱范儿"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "爱范儿探讨乔布斯理念与触屏MacBook如何共存",
-      "credibilityScore": 65,
-      "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体但摘要信息简略，缺少具体技术细节和数据支撑，偏评论性内容"
-    },
-    {
-      "title": "AI Subscriptions Hit a Wall as Smarter Models Burn Quotas Faster",
-      "link": "https://www.tmtpost.com/8191236.html",
-      "pubDate": "Tue, 03 Nov 2026 10:03:04 +0800",
-      "contentSnippet": "Across the industry, frontier models are improving while fixed monthly plans feel smaller. Moonshot’s Kimi is the clearest recent example: a stronger release, angry subscribers, and another public apology. The tension is structural—capability is outrunning the economics of flat-fee access.",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
+        "IT之家",
         "钛媒体",
-        "量子位",
-        "少数派",
-        "InfoQ中文",
         "Solidot"
       ],
-      "coverageCount": 5,
-      "coverageBoost": 20,
-      "aiSummary": "前沿AI模型能力提升导致固定订阅配额消耗加快，Kimi等产品引发用户不满。",
-      "credibilityScore": 95,
+      "coverageCount": 3,
+      "coverageBoost": 10,
+      "aiSummary": "三星Galaxy A38电池额定5882mAh，典型值或达6000mAh，成A系列最大",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为多家知名科技媒体，内容有具体案例但缺乏数据支撑和原始出处。（多源覆盖 +20）"
+      "credibilityReason": "来源为IT之家转载GalaxyClub爆料，有具体容量数据及对比，但属未发布产品传闻，缺乏官方确认（多源覆盖 +10）"
     },
     {
-      "title": "B站举办2026超级科学晚，脑机接口、人造太阳等前沿科技齐亮相",
-      "link": "https://www.qbitai.com/2026/11/507339.html",
-      "pubDate": "Tue, 03 Nov 2026 02:02:05 +0000",
-      "contentSnippet": "10月31日，2026年bilibili超级科学晚（以下简称“B站科学晚”）在北京如期举行。",
-      "sourceName": "量子位",
-      "sourceWeight": 80,
+      "title": "即时零售进入下半场",
+      "link": "https://www.tmtpost.com/8192950.html",
+      "pubDate": "Wed, 04 Nov 2026 13:15:00 +0800",
+      "contentSnippet": "无短板竞争。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
       "allSources": [
-        "量子位"
+        "钛媒体"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "B站2026超级科学晚在北京举行，脑机接口、人造太阳等前沿科技亮相。",
-      "credibilityScore": 72,
+      "aiSummary": "钛媒体称即时零售进入下半场，强调无短板竞争",
+      "credibilityScore": 55,
       "credibilityLevel": "medium",
-      "credibilityReason": "量子位为知名科技媒体，信息具体但摘要简略，缺少技术细节与原始出处，时效性稍弱。"
+      "credibilityReason": "来源为知名科技媒体，但正文仅一句摘要，缺少数据、细节和原始出处，信息严重不足"
     },
     {
-      "title": "“存储通胀”中的传音控股：囤芯失血、H股遇冷与AI求生 |深度",
-      "link": "https://www.tmtpost.com/8190090.html",
-      "pubDate": "Tue, 03 Nov 2026 08:45:00 +0800",
-      "contentSnippet": "“非洲手机之王”传音控股，以低端手机做到全球新兴市场销量第一的消费电子企业，也成为中国消费电子出海最成功的样板之一。2023、2024年利润、营收双双攀上巅峰，2025年却被“存储通胀”超级周期打到净利腰斩；囤芯、提价换来2026上半年低基数修复，三季度却再度失速。在存储比主芯片还贵的时代，公司正大举押注端侧AI，为自己寻找定价权的最后一搏。但刚挂牌的H股成交极冷、折价近五成，折射外界对其AI叙事的疑虑重重。",
+      "title": "新国标落地，陪人看病是一门好生意吗？",
+      "link": "https://www.tmtpost.com/8193012.html",
+      "pubDate": "Wed, 04 Nov 2026 13:12:40 +0800",
+      "contentSnippet": "决定企业长期收益的，并非服务人员总数或覆盖城市多少，而是能否获得客户愿意支付的价格，并以合理的人力与管理成本完成交付。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -207,16 +103,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "传音控股受存储通胀冲击净利腰斩，押注端侧AI但H股遇冷。",
-      "credibilityScore": 82,
+      "aiSummary": "钛媒体分析新国标下陪诊行业的商业模式与盈利关键",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，文章含具体财务与市场数据，逻辑清晰，但属深度分析而非一手信源。"
+      "credibilityReason": "知名科技媒体，分析视角专业，但摘要缺少具体数据与原始出处"
     },
     {
-      "title": "中国诚通、中国国新三季度调仓图谱：蓝筹压舱，硬科技探路丨行业风向标",
-      "link": "https://www.tmtpost.com/8190976.html",
-      "pubDate": "Tue, 03 Nov 2026 08:43:37 +0800",
-      "contentSnippet": "按市值拆分，24家新进标的合计150.19亿元，25家增仓标的合计800.84亿元，加仓主力落在已有持仓上。整体来看，两大平台三季度以加法为主。",
+      "title": "中国能建三季报订单降幅第一，绿氨成重要看点， 五大发电央企的财报数据没有一个轻松",
+      "link": "https://www.tmtpost.com/8192983.html",
+      "pubDate": "Wed, 04 Nov 2026 13:12:34 +0800",
+      "contentSnippet": "建筑央企周期博弈，能建调结构承压待破局。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -224,44 +120,146 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国诚通、中国国新三季度调仓：蓝筹为主，硬科技探路，加仓为主",
+      "aiSummary": "钛媒体报道中国能建三季报订单降幅居首，绿氨业务成看点，五大发电央企财报普遍承压。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "钛媒体为知名科技财经媒体，内容涉及具体财报数据与央企对比，但摘要简略、缺原始出处链接。"
+    },
+    {
+      "title": "泰格医药的钱去哪了？",
+      "link": "https://www.tmtpost.com/8192999.html",
+      "pubDate": "Wed, 04 Nov 2026 13:05:29 +0800",
+      "contentSnippet": "医药“基金王者”的王冠，开始变重了。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体质疑泰格医药资金流向，称其基金王者地位承压",
+      "credibilityScore": 65,
+      "credibilityLevel": "medium",
+      "credibilityReason": "知名财经科技媒体，但摘要过简，缺乏数据与原始出处，信息具体度不足"
+    },
+    {
+      "title": "中国提供了七成储能设备，电站却写别人名下？储能出海该换算法了",
+      "link": "https://www.tmtpost.com/8192989.html",
+      "pubDate": "Wed, 04 Nov 2026 13:05:24 +0800",
+      "contentSnippet": "西班牙公示 27 个配储项目1.78GW；中国份额自电芯向电站开发递减，能否换成资产份额是关键。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体分析中国储能出海份额递减问题，呼吁从设备份额转向资产份额",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "知名科技媒体，有具体项目数据支撑，但属评论分析类文章，观点性较强"
+    },
+    {
+      "title": "小米推出米家扫振电动牙刷 2 Pro：配动态交互彩屏，众筹价 179 元",
+      "link": "https://www.ithome.com/1/022/036.htm",
+      "pubDate": "Wed, 04 Nov 2026 05:02:58 GMT",
+      "contentSnippet": "IT之家 11 月 4 日消息，小米新推出了一款“米家扫振电动牙刷 2 Pro”，建议零售价 249 元，众筹价 179 元。\n\n这款电动牙刷支持声波扫振马达 2.0，可高效清洁牙菌斑；支持智能分面扫振，可匹配不同清洁方案；配备全效缓震刷头，软胶升级不打牙，弹性结构更贴合。\n\n此外，它还配备动态交互彩屏，实现可视化洁牙；支持双向过压提醒，力大力小亮灯提醒，用力过度自动降频；配备 Type-C 接口，支持 190 天长续航；支持 IPX8 级防水。IT之家附参数如下：",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "小米发布米家扫振电动牙刷2 Pro，众筹价179元，配彩屏与声波马达。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道含具体参数、价格与功能细节，信息详实且逻辑清晰。"
+    },
+    {
+      "title": "腾讯混元 Hy4 正式版发布，号称首次跻身最强开源模型之列、为真实生产力而生",
+      "link": "https://www.ithome.com/1/022/035.htm",
+      "pubDate": "Wed, 04 Nov 2026 04:59:42 GMT",
+      "contentSnippet": "IT之家 11 月 4 日消息，腾讯混元今天（4 日）发布最新一代大语言模型 Hy4 正式版。官方表示，随着模型能力的再次全面跃升，Hy 首次跻身最强开源模型之列。Hy4 将于近期开源模型权重，发布模型系统卡片，并积极推进更负责任的开源，重点关注网络和生物安全等风险。\n相比于 Hy4 preview，Hy4 显著扩展了预训练和后训练规模，首次引入了视觉能力，并大幅提升了指令遵循、长文理解、长程任务、深度研究等各项综合能力。\n\nHy4 首次引入视觉能力，可以结合感知、推理和工具调用，进行细粒度图像处理、复杂图表分析和数学视觉推理等任务。Hy4 也首次支持电脑操作，可以灵活地结合使用命令行和图形界",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "腾讯发布混元Hy4正式版，首次引入视觉与电脑操作能力，号称跻身最强开源模型",
       "credibilityScore": 78,
-      "credibilityLevel": "medium-high",
-      "credibilityReason": "知名科技媒体，数据具体（24家新进150.19亿、25家增仓800.84亿），但缺少原始出处和调仓明细"
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体IT之家，信息具体含技术细节，但多为官方宣传口径，缺少第三方验证与数据支撑"
     },
     {
-      "title": "早报｜苹果第四财季营收增长12%，服务收入再创新高/《影之刃零》72小时销量突破400万套/曝三星Fold9回归屏下摄像头",
-      "link": "https://www.ifanr.com/1687189?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pubDate": "Tue, 03 Nov 2026 00:17:09 +0000",
-      "contentSnippet": "· 曝下一代触屏 MacBook Pro 将换新模具\r\n· OpenAI 推出电网保护计划，拟让未来园区在用电紧张时降载\r\n· DeepSeek Harness 加入创作者模式，可用对话制作插件\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "sourceName": "爱范儿",
-      "sourceWeight": 82,
+      "title": "比亚迪：网传“天神之眼 C 停产”等消息不实",
+      "link": "https://www.ithome.com/1/022/033.htm",
+      "pubDate": "Wed, 04 Nov 2026 04:50:11 GMT",
+      "contentSnippet": "IT之家 11 月 4 日消息，@比亚迪新闻打假办公室 今天（4 日）午间发文称，网传“比亚迪天神之眼 C 停产、天神之眼 B / 天神之眼 C 将更换智驾方案”不实。\nIT之家从声明获悉，比亚迪方面称，近期，网络上出现的“比亚迪天神之眼 C 停产、天神之眼 B / 天神之眼 C 将更换智驾方案”等相关传言为不实信息。为给消费者提供更安全、更可靠的智驾体验，比亚迪始终坚持全栈自研，相关智驾软件也在持续迭代更新中。请大家不信谣、不传谣，对于编造、传播不实信息、刻意误导公众的行为，公司已对相关不实言论进行证据固定，将依法追究相关主体的法律责任。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "爱范儿"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "爱范儿早报汇总苹果财报、游戏销量及三星、OpenAI等科技动态",
-      "credibilityScore": 75,
+      "aiSummary": "比亚迪否认天神之眼C停产及更换智驾方案传言",
+      "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "知名科技媒体，信息具体但部分为爆料，缺乏原始出处和数据细节"
+      "credibilityReason": "IT之家为知名科技媒体，报道引用比亚迪官方声明原文，信息具体且来源可溯，属辟谣类客观报道"
     },
     {
-      "title": "【钛晨报】联手稳市场，三部门最新部署；六大行大额存单全部重启发行；中上协：前三季度境内股票市场上市公司合计实现归母净利润5.1万亿元，同比增长8.5%",
-      "link": "https://www.tmtpost.com/8190922.html",
-      "pubDate": "Tue, 03 Nov 2026 07:20:00 +0800",
-      "contentSnippet": "Meta与中国企业合作开发人形机器人？傅利叶回应；度小满与香港科技大学联合发布轩辕4.5金融大模型；比亚迪王朝10月销售20.3万辆，同比增长13.6%；Anthropic第三季度营收同比增长1127%；中国证监会：研究推出股债恒定比例等多资产指数基金，丰富场外中低波动型产品；金融法草案二审稿充实金融消费者、投资者保护相关内容；《民航绿色发展“十五五”实施方案》印发；央行：将于11月3日开展证券、基金、保险公司互换便利操作，申请额度超1000亿元；香港交易所旗下衍生产品结算所现接受中国国债、政策性银行债券及财政部债券作抵押品；迈威尔将以全股票交易收购光迅科技Lumentum，交易完成后后者股东",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "经典 A168 缩成一枚戒指：卡西欧推出 CRW-002，主打复古计时",
+      "link": "https://www.ithome.com/1/022/032.htm",
+      "pubDate": "Wed, 04 Nov 2026 04:49:44 GMT",
+      "contentSnippet": "IT之家 11 月 4 日消息，科技媒体 Android Authority 昨日（11 月 3 日）发布博文，报道称卡西欧（Casio）推出新款戒指式电子表 CRW-002，计划于 2026 年 11 月在官网发售，提供银色和金色两种版本，售价分别为 135 美元（IT之家注：现汇率约合 902.3 元人民币）和 155 美元（现汇率约合 1,036 元人民币）。\n\nCRW-002 的设计灵感来自卡西欧 1995 年推出的 A168，将经典电子表缩小为可戴在手指上的戒指。新品采用金属注塑成型的表壳与戒圈，搭配矿物玻璃表镜，内置七段式 LCD 显示屏，可显示时、分、秒，侧面保留三个可操作的实体",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "钛媒体"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体晨报汇总三部门稳市场部署、六大行存单重启及多公司业绩动态",
-      "credibilityScore": 75,
+      "aiSummary": "卡西欧推出戒指式电子表CRW-002，复刻A168经典设计，2026年11月发售",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体钛媒体，信息具体含数据，但部分内容简略且无原始出处链接"
+      "credibilityReason": "IT之家转引Android Authority报道，产品型号、售价、材质、发售时间等细节具体，来源可追溯"
+    },
+    {
+      "title": "Anthropic 工程师警告：AI 越准人类越容易丧失独立思考能力，越依赖越难保持警惕",
+      "link": "https://www.ithome.com/1/022/031.htm",
+      "pubDate": "Wed, 04 Nov 2026 04:44:55 GMT",
+      "contentSnippet": "IT之家 11 月 4 日消息，Anthropic Claude Code 团队工程师、前谷歌技术高管 Addy Osmani 在 X 上发表长文《当 AI 智能体完成工作时，如何保持批判性思维》。\n他认为，随着 AI 智能体越来越强大，人类可能在逐步依赖 AI 的同时，逐渐丧失独立思考、验证结果和理解复杂系统的能力，最终将 AI 的判断直接当作自己的判断。他将这种现象称为“认知投降”。\n\nOsmani 曾在谷歌工作超过 14 年，负责过 Chrome 开发者体验及谷歌云 AI 相关业务，目前在 Anthropic 从事 Claude Code 相关工作。\n他表示自己是 AI 智能体工作流的坚",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "Anthropic工程师警告AI越准人类越易丧失独立思考能力",
+      "credibilityScore": 78,
+      "credibilityLevel": "high",
+      "credibilityReason": "知名科技媒体IT之家报道，引述具名工程师及原始X长文，人物背景详实，但属观点性内容缺乏数据支撑"
+    },
+    {
+      "title": "网传南京大学“智慧教室系统”可识别抬头率，回应称未经授权不进行人脸识别、已不再统计抬头率数据",
+      "link": "https://www.ithome.com/1/022/030.htm",
+      "pubDate": "Wed, 04 Nov 2026 04:43:31 GMT",
+      "contentSnippet": "IT之家 11 月 4 日消息，此前网传消息称南京大学学生收到通知，学校将启用“智慧教室系统”。一张智慧课堂的系统截图中，除监控画面外，还带有迟到学生、到勤率、抬头率统计等，引发争议。\n\n对此，南京大学本科生院、信息化建设管理服务中心今日发布《关于智慧教室系统有关情况的说明》，IT之家附全文如下：\n\n近日，我校智慧教室建设工作受到师生、校友和社会的关注，现将有关情况说明如下：\n当前，智慧教室在国内外高校已经广泛普及，以“智”助学、助教已是大势所趋。我校围绕升级课堂音视频环境、实现课程直播与跨校区互动、支持课程回放与教学数据复用、服务课堂质量有效提升等目标，对仙林校区原有教学设备进行了智慧教室改",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "南京大学回应智慧教室系统争议，称未经授权不进行人脸识别且已停统抬头率",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道附校方官方说明原文，信息具体且来源可溯，但部分细节被截断"
     }
   ]
 }
