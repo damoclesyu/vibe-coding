@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-04T05:33:12.062Z",
+  "generatedAt": "2026-11-05T05:53:42.558Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "华邦 2026Q3 营收同比大增 278.2%，核准 713.63 亿新台币高雄扩产计划",
-      "link": "https://www.ithome.com/1/021/963.htm",
-      "pubDate": "Wed, 04 Nov 2026 02:41:09 GMT",
-      "contentSnippet": "IT之家 11 月 4 日消息，中国台湾地区利基型存储器制造商华邦电子 (Winbond) 昨日公布了其 2026 年第 3 季度运营表现：\n\n合并营收：823.31 亿新台币，同比增长 278.2%\n\n毛利率：70.6%；\n\n归母税后净利润：354.22 亿新台币\n\n每股净收益：7.58 新台币\n\n从产品类别来看，客制化内存营收占比 58%，闪存贡献 32%，逻辑和其它各占 9% 和 1%；从应用类别来看，通讯电子占比为 31%，消费电子、车用及工业用相关各占 26%，计算机相关则是 17%。\n华邦电子是全球最大的 NOR 闪存制造商，其 SLC NAND 闪存则位居世界第三。该企业预计闪存",
+      "title": "GPU 压力测试 FurMark 2 时隔一年迎来版本更新，支持 RTX Spark 等平台",
+      "link": "https://www.ithome.com/1/022/605.htm",
+      "pubDate": "Thu, 05 Nov 2026 03:53:48 GMT",
+      "contentSnippet": "IT之家 11 月 5 日消息，GPU 压力测试软件 FurMark 2 近日迎来了最新版本 2.11.0.4，这是其近一年来的首次更新。\n\n最新版本的 FurMark 2 已可在 NVIDIA RTX Spark 超级芯片等一系列新 GPU 设备上进行测试，优化时间管理，在 Windows 上合并了 GPU 核心热点与内存温度显示支持，在 Linux 上可与 Wayland 合成器正常协同工作。\n参考\n\nhttps://www.geeks3d.com/20261102/furmark-2-11-gpu-stress-test-and-graphics-benchmark/",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,16 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "华邦电子2026Q3营收同比增278.2%，并核准高雄713.63亿新台币扩产计划",
+      "aiSummary": "FurMark 2发布2.11.0.4版，支持RTX Spark等新GPU平台",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，数据具体详实，含营收、毛利率、产品结构等细节，但缺少原始财报链接"
+      "credibilityReason": "IT之家为知名科技媒体，信息具体含版本号与功能细节，并附Geeks3D原始出处链接"
     },
     {
-      "title": "墨西哥全国中小学实施手机使用限制：上课、课间原则上不得使用个人电子设备",
-      "link": "https://www.ithome.com/1/021/896.htm",
-      "pubDate": "Wed, 04 Nov 2026 00:17:27 GMT",
-      "contentSnippet": "IT之家 11 月 4 日消息，据央视新闻报道，当地时间 11 月 3 日起，墨西哥全国公立及私立中小学正式实施手机使用限制。\nIT之家从报道中获悉，根据墨西哥公共教育部规定，学生在上课及课间休息期间原则上不得使用手机、智能手表等个人电子设备，但因教学活动、紧急情况、健康或残障辅助等特殊需要可例外使用。高中阶段由各校制定具体管理规则。\n墨西哥总统辛鲍姆表示，新规旨在减少电子屏幕对学生学习和社交的负面影响，提升注意力与创造力。此前，墨西哥全国 32 个州的教育主管部门一致支持该措施。\n\n延伸阅读\n在此之前，多国已陆续出台校园手机限制措施。\n美国方面，佛罗里达州于 2023 年率先立法禁止学生在校",
+      "title": "AI 抢走产能，任天堂实体游戏卡带供应链告急",
+      "link": "https://www.ithome.com/1/022/574.htm",
+      "pubDate": "Thu, 05 Nov 2026 03:24:27 GMT",
+      "contentSnippet": "IT之家 11 月 5 日消息，科技媒体 Ars Technica 昨日（11 月 4 日）发布博文，报道称由于 AI 抢走产能，任天堂实体游戏卡带的核心零部件正遭遇罕见供应压力。\n任天堂实体卡带的主要 ROM 存储芯片供应商旺宏电子（Macronix）第三季度（2026 年 7 月 1 日至 2026 年 9 月 30 日）财报中，其 ROM 芯片生产“已告一段落”，并将逐步退出游戏产业。\n\n旺宏电子称，过去一年其 ROM 芯片产量下降约 39%，目前仅占公司业务的 5%；相比之下，NOR 闪存、NAND 闪存和 eMMC 等芯片利润更高、需求更旺，正在挤占 ROM 芯片的晶圆产能。IT之家",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -33,16 +33,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "墨西哥全国中小学实施手机使用限制，课间上课原则上禁用",
+      "aiSummary": "AI挤占晶圆产能，旺宏电子ROM芯片减产39%并退出游戏业，任天堂卡带供应链告急",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家援引央视新闻报道，政策细节具体，含例外条款与官方表态，来源可追溯"
+      "credibilityReason": "IT之家转引Ars Technica，含财报数据与具体减产比例，来源可溯，但为二手编译报道"
     },
     {
-      "title": "谷歌调整美国中小学账户设置：要么开放 AI 搜索，要么彻底禁用搜索",
-      "link": "https://www.ithome.com/1/022/039.htm",
-      "pubDate": "Wed, 04 Nov 2026 05:18:42 GMT",
-      "contentSnippet": "IT之家 11 月 4 日消息，据彭博社报道，当地时间 3 日，谷歌宣布调整面向美国中小学的服务权限。今后，学校如果想让学生使用谷歌搜索，必须由管理员主动开启，但搜索服务内置的 AI 功能也会一并开放。\n\n谷歌教育业务副总裁兼总经理克里斯 · 菲利普斯表示，幼儿园至高三学生的账户默认无法使用谷歌搜索、Gemini 聊天机器人、Gemini Notebook 以及谷歌课堂中的 Gemini 功能，学校管理员必须手动开启这些服务。\n不过，一旦启用谷歌搜索，学生也能使用其中的 AI 功能。谷歌计划在未来几个月向学校公布更多实施细节，以便学校提前做好准备。\n谷歌的 Chromebook 是美国学校使用",
+      "title": "22.98 万元起 2027 款极氪 7X 开启预售，CLTC 续航 620~802km",
+      "link": "https://www.ithome.com/1/022/535.htm",
+      "pubDate": "Thu, 05 Nov 2026 02:05:06 GMT",
+      "contentSnippet": "IT之家 11 月 5 日消息，极氪汽车今日宣布，2027 款极氪 7X 开启预售，预售价 22.98 万元起（未公布具体车型的对应价格）。IT之家汇总主要参数如下（同配置省略）：\n\n后驱 Max 版：75kWh 神盾金砖电池、5.5C 快充、（SoC 10%-80%）充电时间 10.5min、CLTC 续航里程 620km、900V 电机 / 电控 / 热管理、CCD 电磁减振、千里浩瀚 H7、370kW 电机、百公里加速 5.4 秒。\n\n后驱 Max+ 版：85kWh 神盾金砖电池、5.5C 快充、充电时间 10.5min、680km 续航；可选 103kWh 麒麟电池、6C 快充、10m",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -50,120 +50,51 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "谷歌调整美国中小学账户设置，启用搜索即开放AI功能，否则彻底禁用。",
+      "aiSummary": "2027款极氪7X开启预售，22.98万元起，CLTC续航620-802km",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家引述彭博社报道，信息具体含人物、时间与产品细节，逻辑清晰。"
+      "credibilityReason": "IT之家为知名科技媒体，参数具体详实，含电池容量、充电倍率、续航等数据，但未公布各车型对应价格，信息略有不全。"
     },
     {
-      "title": "曝 Galaxy A38 额定 5882mAh，有望成三星 Galaxy A 系列电池容量最大手机",
-      "link": "https://www.ithome.com/1/022/038.htm",
-      "pubDate": "Wed, 04 Nov 2026 05:15:24 GMT",
-      "contentSnippet": "IT之家 11 月 4 日消息，荷兰科技媒体 GalaxyClub 昨日（11 月 3 日）发布博文，报道称三星 Galaxy A38 手机电池额定容量为 5882mAh，预估宣传的典型值容量为 6000mAh。\nIT之家查询公开资料，三星 Galaxy A37 手机电池额定容量为 4,905mAh，而宣传的典型值为 5000mAh。按照典型值计算，三星 Galaxy A38 电池容量较 A37 提升 20%。\n在 Galaxy A 系列智能手机中，已正式发布的三星 Galaxy A 系列手机中，电池容量最大的是 Galaxy A07 5G，额定最低容量为 5,830mAh、典型容量为 6,0",
+      "title": "币安称黑客通过虚假工作面试入侵工程师笔记本电脑",
+      "link": "https://www.solidot.org/story?sid=85789",
+      "pubDate": "Wed, 04 Nov 2026 14:07:00 +0800",
+      "contentSnippet": "币安官方博客披露了黑客如何窃取价值 63 亿美元加密货币的初步调查报告。报告称，攻击始于今年六月：\n2026 年 6 月——供应链攻击。钱包开发运维团队的工程师 A 为安装一款热门 AI 编程工具，通过搜索引擎查找并下载了一个遭篡改的 Homebrew 安装程序。我们的安全团队主动检测到了这一异常，更换了该设备，同时轮换了所有相关凭证。尽管如此，工程师 A 的岗位信息，以及其钱包基础设施团队中的相关同事信息，仍已暴露给攻击者。",
+      "sourceName": "Solidot",
+      "sourceWeight": 75,
+      "allSources": [
+        "Solidot"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "币安披露黑客通过虚假面试和篡改安装程序入侵工程师设备窃取加密资产",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体，引用币安官方博客，细节具体；但63亿美元金额异常巨大，需谨慎核实"
+    },
+    {
+      "title": "钛合金表圈 + AMOLED 彩色触屏：佳明 Forerunner 965 智能手表 4980 → 2704 元新低",
+      "link": "https://www.ithome.com/1/022/675.htm",
+      "pubDate": "Thu, 05 Nov 2026 05:48:06 GMT",
+      "contentSnippet": "【京东活动可能随时变更，需以实付款为准】\nGarmin 佳明 Forerunner 965 运动智能手表 2023 年 3 月开售，官方定价 4980 元。\n京东 11.11 大促期间，按下方步骤下单，叠加 15% 国补后仅需 2704.7 元：\n\n领 3000-400 元券：点此查看。\n\n领 4000-400 元券：点击宝贝详情页价格处，下拉即可领取。\n\n凑单品加购物车 1 件（示例凑单品，下单后可立即退款），两件商品一起结算。\n\n京东 Garmin 佳明 Forerunner 965 运动智能手表凑单后 2704.7 元领 300 元券\n京东 11.11 无门槛红包至高 26888 元，支",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
         "IT之家",
-        "钛媒体",
         "Solidot"
       ],
-      "coverageCount": 3,
-      "coverageBoost": 10,
-      "aiSummary": "三星Galaxy A38电池额定5882mAh，典型值或达6000mAh，成A系列最大",
-      "credibilityScore": 85,
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "佳明Forerunner 965智能手表京东大促叠加国补后降至2704元新低",
+      "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家转载GalaxyClub爆料，有具体容量数据及对比，但属未发布产品传闻，缺乏官方确认（多源覆盖 +10）"
+      "credibilityReason": "来源为IT之家，产品定价和促销信息具体，但属促销导购类内容，技术信息较少（多源覆盖 +5）"
     },
     {
-      "title": "即时零售进入下半场",
-      "link": "https://www.tmtpost.com/8192950.html",
-      "pubDate": "Wed, 04 Nov 2026 13:15:00 +0800",
-      "contentSnippet": "无短板竞争。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体称即时零售进入下半场，强调无短板竞争",
-      "credibilityScore": 55,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体，但正文仅一句摘要，缺少数据、细节和原始出处，信息严重不足"
-    },
-    {
-      "title": "新国标落地，陪人看病是一门好生意吗？",
-      "link": "https://www.tmtpost.com/8193012.html",
-      "pubDate": "Wed, 04 Nov 2026 13:12:40 +0800",
-      "contentSnippet": "决定企业长期收益的，并非服务人员总数或覆盖城市多少，而是能否获得客户愿意支付的价格，并以合理的人力与管理成本完成交付。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体分析新国标下陪诊行业的商业模式与盈利关键",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "知名科技媒体，分析视角专业，但摘要缺少具体数据与原始出处"
-    },
-    {
-      "title": "中国能建三季报订单降幅第一，绿氨成重要看点， 五大发电央企的财报数据没有一个轻松",
-      "link": "https://www.tmtpost.com/8192983.html",
-      "pubDate": "Wed, 04 Nov 2026 13:12:34 +0800",
-      "contentSnippet": "建筑央企周期博弈，能建调结构承压待破局。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体报道中国能建三季报订单降幅居首，绿氨业务成看点，五大发电央企财报普遍承压。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技财经媒体，内容涉及具体财报数据与央企对比，但摘要简略、缺原始出处链接。"
-    },
-    {
-      "title": "泰格医药的钱去哪了？",
-      "link": "https://www.tmtpost.com/8192999.html",
-      "pubDate": "Wed, 04 Nov 2026 13:05:29 +0800",
-      "contentSnippet": "医药“基金王者”的王冠，开始变重了。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体质疑泰格医药资金流向，称其基金王者地位承压",
-      "credibilityScore": 65,
-      "credibilityLevel": "medium",
-      "credibilityReason": "知名财经科技媒体，但摘要过简，缺乏数据与原始出处，信息具体度不足"
-    },
-    {
-      "title": "中国提供了七成储能设备，电站却写别人名下？储能出海该换算法了",
-      "link": "https://www.tmtpost.com/8192989.html",
-      "pubDate": "Wed, 04 Nov 2026 13:05:24 +0800",
-      "contentSnippet": "西班牙公示 27 个配储项目1.78GW；中国份额自电芯向电站开发递减，能否换成资产份额是关键。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体分析中国储能出海份额递减问题，呼吁从设备份额转向资产份额",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "知名科技媒体，有具体项目数据支撑，但属评论分析类文章，观点性较强"
-    },
-    {
-      "title": "小米推出米家扫振电动牙刷 2 Pro：配动态交互彩屏，众筹价 179 元",
-      "link": "https://www.ithome.com/1/022/036.htm",
-      "pubDate": "Wed, 04 Nov 2026 05:02:58 GMT",
-      "contentSnippet": "IT之家 11 月 4 日消息，小米新推出了一款“米家扫振电动牙刷 2 Pro”，建议零售价 249 元，众筹价 179 元。\n\n这款电动牙刷支持声波扫振马达 2.0，可高效清洁牙菌斑；支持智能分面扫振，可匹配不同清洁方案；配备全效缓震刷头，软胶升级不打牙，弹性结构更贴合。\n\n此外，它还配备动态交互彩屏，实现可视化洁牙；支持双向过压提醒，力大力小亮灯提醒，用力过度自动降频；配备 Type-C 接口，支持 190 天长续航；支持 IPX8 级防水。IT之家附参数如下：",
+      "title": "22 秒 → 2.7 秒：网页版 X 社交平台重构，慢速网络下账号主页首条推文加载时间缩短 87.73%",
+      "link": "https://www.ithome.com/1/022/674.htm",
+      "pubDate": "Thu, 05 Nov 2026 05:44:45 GMT",
+      "contentSnippet": "IT之家 11 月 5 日消息，全球首富埃隆 · 马斯克（Elon Musk）旗下社交媒体平台 X 于今天（11 月 5 日）推出重构后的网页应用，在 Slow 4G 慢速网络环境下，账号主页的首条推文加载时间从 22 秒下降到 2.7 秒，时间缩短 87.73%。\n\nX 官方介绍文章显示为 23.9 秒变 2.7 秒，但 Nizipli 推文显示是 22 秒变 2.7 秒\nIT之家注：Slow 4G 是指网络延迟约为 150ms，下行速度为 1.6 Mbps，上行速度为 750 Kbps。该模式是网页性能测试中常用的一种“较慢移动网络”模拟环境，用来衡量网站在信号弱、带宽有限、延迟偏高的真实",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -171,16 +102,34 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "小米发布米家扫振电动牙刷2 Pro，众筹价179元，配彩屏与声波马达。",
-      "credibilityScore": 85,
+      "aiSummary": "X网页版重构，慢速网络下主页首推加载时间从22秒降至2.7秒。",
+      "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道含具体参数、价格与功能细节，信息详实且逻辑清晰。"
+      "credibilityReason": "IT之家为知名科技媒体，数据具体并注明官方与推文数据差异，但缺少原始链接。"
     },
     {
-      "title": "腾讯混元 Hy4 正式版发布，号称首次跻身最强开源模型之列、为真实生产力而生",
-      "link": "https://www.ithome.com/1/022/035.htm",
-      "pubDate": "Wed, 04 Nov 2026 04:59:42 GMT",
-      "contentSnippet": "IT之家 11 月 4 日消息，腾讯混元今天（4 日）发布最新一代大语言模型 Hy4 正式版。官方表示，随着模型能力的再次全面跃升，Hy 首次跻身最强开源模型之列。Hy4 将于近期开源模型权重，发布模型系统卡片，并积极推进更负责任的开源，重点关注网络和生物安全等风险。\n相比于 Hy4 preview，Hy4 显著扩展了预训练和后训练规模，首次引入了视觉能力，并大幅提升了指令遵循、长文理解、长程任务、深度研究等各项综合能力。\n\nHy4 首次引入视觉能力，可以结合感知、推理和工具调用，进行细粒度图像处理、复杂图表分析和数学视觉推理等任务。Hy4 也首次支持电脑操作，可以灵活地结合使用命令行和图形界",
+      "title": "内存涨价环境下 Discord 弃用 Electron：改用 Rust 重写客户端，占用体积从 4GB 降至 290MB",
+      "link": "https://www.ithome.com/1/022/673.htm",
+      "pubDate": "Thu, 05 Nov 2026 05:40:09 GMT",
+      "contentSnippet": "IT之家 11 月 5 日消息，Discord 联合创始人兼首席技术官斯坦尼斯拉夫 · 维什涅夫斯基（Stanislav Vishnevskiy）今天在 X 上确认，Discord 已弃用 Electron 并正在用 Rust 重写桌面客户端，界面层采用 GPUI 框架。\n他同时表示，移动端也将逐步迁移至 Rust，iOS 和 Android 版当前使用的 React Native 将被替换，但移动端保留原生 UI，通过 Rust 与桌面端共享应用代码。\n他在 X 上分享的一张 Windows 11 任务管理器截图显示，一个名为“Discord Phoenix”的进程占用内存 290.2 MB",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家",
+        "Solidot"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "Discord弃用Electron，改用Rust重写客户端，内存占用从4GB降至290MB。",
+      "credibilityScore": 87,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家和Solidot，引述CTO在X的确认及任务管理器截图，信息具体，但缺少官方公告链接。（多源覆盖 +5）"
+    },
+    {
+      "title": "OPPO Reno17 系列手机部分规格曝光，11 月 9 日新品亮相",
+      "link": "https://www.ithome.com/1/022/672.htm",
+      "pubDate": "Thu, 05 Nov 2026 05:36:48 GMT",
+      "contentSnippet": "IT之家 11 月 5 日消息，OPPO 今日官宣，Reno17 系列手机 11 月 9 日见。据博主 @体验more 透露，11 月 9 日为新品亮相，不是发布会。\n该博主曝光了新机部分规格：\n\nOPPO Reno17，6.57 英寸显示屏 + 骁龙 7 Gen 4 处理器 +50MP 潜望长焦；\n\nOPPO Reno17 Pro，6.32 英寸显示屏 + 天玑 8550 处理器 +50MP 潜望长焦。\n\n\nIT之家注意到，OPPO Reno17 系列手机、Watch 5 手表、Pad Air6 平板于 10 月 30 日开启预约，预计将于近期上市。据 OPPO Reno 系列产品经理张若星",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -188,16 +137,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "腾讯发布混元Hy4正式版，首次引入视觉与电脑操作能力，号称跻身最强开源模型",
-      "credibilityScore": 78,
+      "aiSummary": "OPPO Reno17系列规格曝光，11月9日亮相，含骁龙7 Gen 4与天玑8550版本。",
+      "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体IT之家，信息具体含技术细节，但多为官方宣传口径，缺少第三方验证与数据支撑"
+      "credibilityReason": "来源为知名科技媒体IT之家，但核心规格引自博主爆料，官方仅确认亮相日期，信息未经证实。"
     },
     {
-      "title": "比亚迪：网传“天神之眼 C 停产”等消息不实",
-      "link": "https://www.ithome.com/1/022/033.htm",
-      "pubDate": "Wed, 04 Nov 2026 04:50:11 GMT",
-      "contentSnippet": "IT之家 11 月 4 日消息，@比亚迪新闻打假办公室 今天（4 日）午间发文称，网传“比亚迪天神之眼 C 停产、天神之眼 B / 天神之眼 C 将更换智驾方案”不实。\nIT之家从声明获悉，比亚迪方面称，近期，网络上出现的“比亚迪天神之眼 C 停产、天神之眼 B / 天神之眼 C 将更换智驾方案”等相关传言为不实信息。为给消费者提供更安全、更可靠的智驾体验，比亚迪始终坚持全栈自研，相关智驾软件也在持续迭代更新中。请大家不信谣、不传谣，对于编造、传播不实信息、刻意误导公众的行为，公司已对相关不实言论进行证据固定，将依法追究相关主体的法律责任。",
+      "title": "米哈游养成游戏《崩坏：因缘精灵》公测定档 2027 年春季，现已开启预约",
+      "link": "https://www.ithome.com/1/022/671.htm",
+      "pubDate": "Thu, 05 Nov 2026 05:27:58 GMT",
+      "contentSnippet": "IT之家 11 月 5 日消息，米哈游今日宣布精灵养成冒险策略游戏《崩坏：因缘精灵》App Store 预约现已开启，公测定档 2027 年春季。《崩坏：因缘精灵》「幸福测试」及云游戏技术测试将于 11 月 25 日正式开始，测试招募时间为 2026 年 11 月 5 日 12:00 - 2026 年 11 月 22 日 09:59。\n据官方介绍，玩家可通过填写招募问卷、参与官方活动等方式，抽取获得测试资格。「幸福测试」为限量、删档、计费测试，测试期间将开启付费功能，测试平台为 PC、安卓端、iOS 平台、云游戏。累计付费金额将在正式公测后，按照规则返还至测试期间进行过付费的同一米哈游通行证账",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -205,16 +154,50 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "比亚迪否认天神之眼C停产及更换智驾方案传言",
+      "aiSummary": "米哈游《崩坏：因缘精灵》定档2027年春季，App Store预约开启",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息含具体时间、测试平台及付费返还规则，细节详实，但缺少官方公告链接等原始出处"
+    },
+    {
+      "title": "英伟达发布 CUDA Toolkit 13.5：正式支持 Vera Rubin，升级多 GPU 通信",
+      "link": "https://www.ithome.com/1/022/670.htm",
+      "pubDate": "Thu, 05 Nov 2026 05:27:22 GMT",
+      "contentSnippet": "IT之家 11 月 5 日消息，英伟达于当地时间 11 月 4 日正式发布了最新的 CUDA Toolkit 13.5，为下一代 AI 计算平台 Vera Rubin 提供正式可用（GA）支持，标志着相关架构从早期开发者预览阶段进入面向企业生产环境的部署阶段。\n\n据英伟达官方介绍，此次更新不仅完善了 Vera Rubin 平台的底层软件支持，还针对 GPU 资源调度、多 GPU 通信、数学计算库及性能分析工具进行了多项升级，重点面向大规模 AI 训练和推理场景。\n在计算性能方面，CUDA 13.5 更新了 cuBLAS 的矩阵乘法启发式策略和内核调优机制，针对 Vera Rubin 架构上的",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "英伟达发布CUDA Toolkit 13.5，正式支持Vera Rubin平台并升级多GPU通信",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "知名科技媒体IT之家报道，信息具体含版本号与功能细节，引用英伟达官方介绍，但正文摘要截断缺少完整数据支撑"
+    },
+    {
+      "title": "运行近 22 年后谢幕：NASA“雨燕”天文台已坠入地球大气层，大部分部件预计烧毁",
+      "link": "https://www.ithome.com/1/022/669.htm",
+      "pubDate": "Thu, 05 Nov 2026 05:12:56 GMT",
+      "contentSnippet": "IT之家 11 月 5 日消息，当地时间 11 月 4 日，美国国家航空航天局（NASA）确认尼尔 · 格雷尔斯 · 斯威夫特天文台（Neil Gehrels Swift Observatory，又称“雨燕”天文台）已于当天再入地球大气层，结束近 22 年的太空观测任务。\n美国太空军确认，“雨燕”天文台于美国东部时间 11 月 4 日 7 时 39 分（北京时间 11 月 4 日 20 时 39 分）在印度尼西亚北苏门答腊地区上空再入大气层，再入位置约为北纬 3.4 度、东经 98.6 度。\nNASA 表示，预计“雨燕”天文台的大部分部件会在穿越大气层的过程中烧毁，但仍不能排除部分部件残骸存留",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "NASA雨燕天文台运行近22年后再入大气层，大部分部件预计烧毁",
       "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道引用比亚迪官方声明原文，信息具体且来源可溯，属辟谣类客观报道"
+      "credibilityReason": "IT之家为知名科技媒体，引述NASA与美国太空军确认，含精确时间与再入坐标，信息具体可信"
     },
     {
-      "title": "经典 A168 缩成一枚戒指：卡西欧推出 CRW-002，主打复古计时",
-      "link": "https://www.ithome.com/1/022/032.htm",
-      "pubDate": "Wed, 04 Nov 2026 04:49:44 GMT",
-      "contentSnippet": "IT之家 11 月 4 日消息，科技媒体 Android Authority 昨日（11 月 3 日）发布博文，报道称卡西欧（Casio）推出新款戒指式电子表 CRW-002，计划于 2026 年 11 月在官网发售，提供银色和金色两种版本，售价分别为 135 美元（IT之家注：现汇率约合 902.3 元人民币）和 155 美元（现汇率约合 1,036 元人民币）。\n\nCRW-002 的设计灵感来自卡西欧 1995 年推出的 A168，将经典电子表缩小为可戴在手指上的戒指。新品采用金属注塑成型的表壳与戒圈，搭配矿物玻璃表镜，内置七段式 LCD 显示屏，可显示时、分、秒，侧面保留三个可操作的实体",
+      "title": "丰田汽车 2027 财年半年报归母净利润 2.24 万亿日元，同比增长 26.1%",
+      "link": "https://www.ithome.com/1/022/667.htm",
+      "pubDate": "Thu, 05 Nov 2026 05:03:12 GMT",
+      "contentSnippet": "IT之家 11 月 5 日消息，丰田汽车今日发布 2027 财年（2026 年 4 月 1 日～2027 年 3 月 31 日）半年报（2026 年 4 月 1 日～2026 年 9 月 30 日）报告：\n\n营业总收入：26.96 万亿日元（IT之家注：现汇率约合 1.14 万亿元人民币），同比增长 9.5%\n\n归母净利润：2.24 万亿日元（现汇率约合 944.74 亿元人民币），同比增长 26.1%\n\n基本每股收益：185.97 日元（现汇率约合 7.8 元人民币），同比增长 36.67%\n\n稀释每股收益：185.97 日元（现汇率约合 7.8 元人民币），同比增长 36.67%",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -222,16 +205,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "卡西欧推出戒指式电子表CRW-002，复刻A168经典设计，2026年11月发售",
-      "credibilityScore": 85,
+      "aiSummary": "丰田2027财年半年报净利润2.24万亿日元，同比增长26.1%",
+      "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家转引Android Authority报道，产品型号、售价、材质、发售时间等细节具体，来源可追溯"
+      "credibilityReason": "IT之家为知名科技媒体，数据具体含营收、利润、每股收益等指标，来源为丰田官方财报，但缺少原始链接引用"
     },
     {
-      "title": "Anthropic 工程师警告：AI 越准人类越容易丧失独立思考能力，越依赖越难保持警惕",
-      "link": "https://www.ithome.com/1/022/031.htm",
-      "pubDate": "Wed, 04 Nov 2026 04:44:55 GMT",
-      "contentSnippet": "IT之家 11 月 4 日消息，Anthropic Claude Code 团队工程师、前谷歌技术高管 Addy Osmani 在 X 上发表长文《当 AI 智能体完成工作时，如何保持批判性思维》。\n他认为，随着 AI 智能体越来越强大，人类可能在逐步依赖 AI 的同时，逐渐丧失独立思考、验证结果和理解复杂系统的能力，最终将 AI 的判断直接当作自己的判断。他将这种现象称为“认知投降”。\n\nOsmani 曾在谷歌工作超过 14 年，负责过 Chrome 开发者体验及谷歌云 AI 相关业务，目前在 Anthropic 从事 Claude Code 相关工作。\n他表示自己是 AI 智能体工作流的坚",
+      "title": "微博 CEO 王高飞：企业家 IP 不只是个人流量还是长期信任资产，警惕三种运营误区",
+      "link": "https://www.ithome.com/1/022/666.htm",
+      "pubDate": "Thu, 05 Nov 2026 04:53:30 GMT",
+      "contentSnippet": "IT之家 11 月 5 日消息，世界互联网大会乌镇峰会互联网企业家论坛于 11 月 4 日在浙江乌镇举行。微博 CEO 王高飞出席论坛并发表题为“共建可信企业 IP，让中国企业家的声音走向世界”的主旨演讲。\n据新浪科技报道，王高飞表示，企业家日益成为品牌对外叙事的重要主体。中国产品走向世界，企业家的声音也要形成传播合力。企业家 IP 不只是个人流量热度，更是通过技术分享、产品理念、责任担当形成的长期信任资产。\n针对企业家如何做好公众沟通，王高飞指出，企业家运营个人 IP 尤其需要警惕三种常见误区：只有宣传，没有沟通；只有道理，没有共情；只有态度，没有行动。用户关注企业家，不只是看产品，更希望得",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -239,16 +222,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "Anthropic工程师警告AI越准人类越易丧失独立思考能力",
-      "credibilityScore": 78,
+      "aiSummary": "微博CEO王高飞在乌镇峰会谈企业家IP建设，警惕三种运营误区",
+      "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "知名科技媒体IT之家报道，引述具名工程师及原始X长文，人物背景详实，但属观点性内容缺乏数据支撑"
+      "credibilityReason": "IT之家援引新浪科技报道，来源可靠，内容具体但偏观点性，缺少数据支撑"
     },
     {
-      "title": "网传南京大学“智慧教室系统”可识别抬头率，回应称未经授权不进行人脸识别、已不再统计抬头率数据",
-      "link": "https://www.ithome.com/1/022/030.htm",
-      "pubDate": "Wed, 04 Nov 2026 04:43:31 GMT",
-      "contentSnippet": "IT之家 11 月 4 日消息，此前网传消息称南京大学学生收到通知，学校将启用“智慧教室系统”。一张智慧课堂的系统截图中，除监控画面外，还带有迟到学生、到勤率、抬头率统计等，引发争议。\n\n对此，南京大学本科生院、信息化建设管理服务中心今日发布《关于智慧教室系统有关情况的说明》，IT之家附全文如下：\n\n近日，我校智慧教室建设工作受到师生、校友和社会的关注，现将有关情况说明如下：\n当前，智慧教室在国内外高校已经广泛普及，以“智”助学、助教已是大势所趋。我校围绕升级课堂音视频环境、实现课程直播与跨校区互动、支持课程回放与教学数据复用、服务课堂质量有效提升等目标，对仙林校区原有教学设备进行了智慧教室改",
+      "title": "特斯拉美国 FSD 再陷致命事故：71 岁男子横穿高速被撞身亡，车速约 113km/h",
+      "link": "https://www.ithome.com/1/022/665.htm",
+      "pubDate": "Thu, 05 Nov 2026 04:32:05 GMT",
+      "contentSnippet": "IT之家 11 月 5 日消息，美国加州瓦列霍市一条高速公路 10 月下旬发生了一起致命交通事故，一名 71 岁男子横穿高速公路时，被一辆特斯拉汽车撞击身亡。\n特斯拉驾驶员向警方表示，车辆当时已经开启 FSD 驾驶。加州公路巡警（CHP）调取车辆行车记录仪后发现，车辆曾尝试刹车并向左转向避让，但最终未能避免碰撞。\n\n据美国哥伦比亚广播公司（CBS News）报道，此次事故发生于当地时间 10 月 22 日凌晨 2 时 35 分左右，地点位于加州瓦列霍市 I-80 州际公路西行方向、I-780 互通立交附近。\n涉事特斯拉汽车由一名 26 岁的旧金山男子驾驶。警方表示，驾驶员事发后留在现场配合调查",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -256,10 +239,32 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "南京大学回应智慧教室系统争议，称未经授权不进行人脸识别且已停统抬头率",
-      "credibilityScore": 85,
+      "aiSummary": "加州特斯拉FSD开启状态下撞死横穿高速的71岁男子",
+      "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道附校方官方说明原文，信息具体且来源可溯，但部分细节被截断"
+      "credibilityReason": "IT之家编译CBS与CHP信息，细节具体，但缺原始链接及官方通报直接引用"
+    },
+    {
+      "title": "索尼 Xperia 10 VIII/10 VII 手机推送 Android 17 更新，无缘安卓 iOS 文件互传功能",
+      "link": "https://www.ithome.com/1/022/664.htm",
+      "pubDate": "Thu, 05 Nov 2026 04:27:42 GMT",
+      "contentSnippet": "IT之家 11 月 5 日消息，科技媒体 Android Authority 昨日（11 月 4 日）发布博文，报道称索尼已面向 Xperia 10 VIII 与 Xperia 10 VII 推送安卓 17 更新，但上述两款手机无法完整体验安卓 17 的全部新功能。\nIT之家附上相关截图如下：\n\n根据官方声明，Xperia 10 VIII 与 Xperia 10 VII 两款手机升级安卓 17 后，在个性化界面上有所升级。本次更新扩展“壁纸和样式”功能，带来新的壁纸与时钟设计，并支持用户自定义图标的形状和样式。\n\n新版改进快速设置面板，用户可调整图块大小与排列方式，较大的图块还能显示简短说明。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家",
+        "爱范儿",
+        "钛媒体",
+        "量子位",
+        "InfoQ中文",
+        "Solidot"
+      ],
+      "coverageCount": 6,
+      "coverageBoost": 25,
+      "aiSummary": "索尼Xperia 10 VIII/VII推送安卓17更新，但缺失文件互传功能",
+      "credibilityScore": 100,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家等知名科技媒体，引用Android Authority原始报道，信息具体但缺少官方链接（多源覆盖 +25）"
     }
   ]
 }
