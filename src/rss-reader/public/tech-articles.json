@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-06T05:49:48.779Z",
+  "generatedAt": "2026-11-07T05:20:18.704Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "我国大型邮轮迈入批量建造新阶段，第三艘已启动正向概念设计",
-      "link": "https://www.ithome.com/1/023/206.htm",
-      "pubDate": "Fri, 06 Nov 2026 03:32:46 GMT",
-      "contentSnippet": "IT之家 11 月 6 日消息，据央视新闻报道，今天，“爱达 · 花城号”顺利交付，这也标志着我国大型邮轮正式迈入批量建造的新阶段。\n首艘国产大型邮轮“爱达 · 魔都号”解决的是“从无到有”的建造突破，而“爱达 · 花城号”验证的是“从有到优”的建造能力。两艘国产大型邮轮不只是简单复制，“爱达 · 花城号”体量更大，技术更智能，建造效率也大幅提升。\n中船集团外高桥造船董事长国产大型邮轮项目现场总指挥兼总设计师陈刚介绍，从研发端看，初步建成邮轮研发体系，完成了关键技术实施与验证。从建造端看，建立了生产设计体系与标准。从供应链端看，培育了国内国外（际）双循环的供应链体系。我们将遵循建造一代、设计一",
+      "title": "安森美宣布放弃价值 20 亿美元的捷克碳化硅 (SiC) 晶圆厂扩产项目",
+      "link": "https://www.ithome.com/1/023/648.htm",
+      "pubDate": "Sat, 07 Nov 2026 02:27:33 GMT",
+      "contentSnippet": "IT之家 11 月 7 日消息，onsemi（安森美）当地时间本月 6 日宣布，由于全球碳化硅 (SiC) 市场的形势变化，放弃捷克 Rožnov 碳化硅新产线建设计划。该项目于 2024 年 6 月宣布，价值高达 20 亿美元（IT之家注：现汇率约合 133.72 亿元人民币）。\n安森美强调，捷克仍然是其长期制造和增长战略的重要组成部分，本次放弃投资并不反映该国的投资环境变化，不会改变其对在捷运营、员工和未来投资的承诺。安森美仍将在 Rožnov 生产基于硅或碳化硅的半导体芯片，并在那里和 Brno 进行投资和招聘。\n\n捷克第一副总理、工业和贸易部长 Karel Havlíček 表示：",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,16 +16,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国产大型邮轮爱达·花城号交付，第三艘启动概念设计",
+      "aiSummary": "安森美因全球SiC市场变化放弃捷克20亿美元碳化硅扩产项目",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道含具体金额、时间、地点及官方表态，信息详实有出处"
+    },
+    {
+      "title": "宇树科技联合巨星传奇发布首款消费级收藏机器狗 UNI-DOGGIE，首发价 43900 元",
+      "link": "https://www.ithome.com/1/023/636.htm",
+      "pubDate": "Sat, 07 Nov 2026 01:29:10 GMT",
+      "contentSnippet": "IT之家 11 月 7 日消息，11 月 6 日，巨星传奇在第九届进博会上首发与宇树科技联合开发的 UNI-DOGGIE 机器狗，售价 43900 元。\n\nIT之家从官方介绍获悉，UNI-DOGGIE 是巨星传奇与宇树科技联合打造的赛博朋克潮流艺术机器狗，兼备陪伴功能与社交属性，同时也是宇树科技第一只消费级收藏机器狗。产品融合“明星 IP× 潮玩 × 科技”，在硬核技术底座之上，更注重 IP 形象、情感连接、互动体验的趣味性与生活场景的广泛适配，让机器狗成为有温度的智能陪伴伙伴。在市场端，UNI-DOGGIE 零售价为 43900 元，并已获得商业化首单，威刚科技作为经销商已采购 1000 台",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "宇树科技联合巨星传奇发布消费级收藏机器狗UNI-DOGGIE，售价43900元",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家转引央视新闻，含官方人物引述与项目细节，来源可靠，但正文略简"
+      "credibilityReason": "IT之家为知名科技媒体，信息含具体售价、合作方及采购数据，来源为进博会官方发布，但技术细节较少"
     },
     {
-      "title": "消息称三星、苹果竞逐“差异化超薄玻璃”屏幕，2028 年将迎更耐刮折叠手机",
-      "link": "https://www.ithome.com/1/023/090.htm",
-      "pubDate": "Fri, 06 Nov 2026 02:17:43 GMT",
-      "contentSnippet": "IT之家 11 月 6 日消息，集邦咨询（TrendForce）综合 ZDNet、第一财经及《韩国先驱报》等多家媒体报道，称三星电子与苹果正与供应链合作研发一种新型超薄玻璃（UTG）方案，目标在 2028 年用于折叠屏手机，在保持可弯折的同时显著提升屏幕抗刮与表面硬度。\nIT之家援引博文介绍，该方案主打“差异化厚度”，对屏幕中央折叠区进行蚀刻，让其保持约 40 微米的超薄状态；而非折叠区域则保留超过 100 微米的较厚玻璃，从而兼顾柔韧性与耐用性。\n集邦咨询指出当前折叠屏普遍采用厚度均匀的 UTG 盖板，虽然能够实现反复弯折，但整体较薄，表面硬度与抗刮能力相对受限。若新技术落地，手机屏幕最易被",
+      "title": "消息称台积电考虑进军先进内存芯片制造，有望为英伟达打造 3D DRAM",
+      "link": "https://www.ithome.com/1/023/619.htm",
+      "pubDate": "Fri, 06 Nov 2026 23:59:05 GMT",
+      "contentSnippet": "IT之家 11 月 7 日消息，科技媒体《The Information》昨日（11 月 6 日）援引两名知情人士报道，台积电正考虑扩大业务版图，进军先进内存芯片制造，以在快速扩张的 AI 硬件供应链中获取更大份额。\n\n报道称，台积电近期已应其最大客户英伟达的要求，开始规划生产一种名为“3D DRAM”的先进内存芯片。该架构通过垂直堆叠存储单元来提升容量，被视为应对 AI 算力对高带宽、高密度内存需求的关键方向之一。\n台积电目前尚未确定量产时间，也未最终决定产能来源。IT之家援引博文介绍，台积电正在评估两条路径：一是兴建专用新厂，二是收购现有晶圆厂并改造为内存生产设施。\n这一动向若落地，将意味",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -33,16 +50,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "三星苹果研发差异化厚度UTG玻璃，2028年用于折叠屏手机",
+      "aiSummary": "台积电应英伟达要求考虑进军3D DRAM先进内存制造",
       "credibilityScore": 78,
       "credibilityLevel": "medium",
-      "credibilityReason": "IT之家援引集邦咨询及多家媒体，技术细节具体，但属传闻性报道，缺乏官方确认"
+      "credibilityReason": "源自The Information匿名信源，IT之家转述，细节具体但未经官方证实，属传闻性质"
     },
     {
-      "title": "One UI 9.5 版三星日历曝光：界面更简洁、搜索更顺手",
-      "link": "https://www.ithome.com/1/023/234.htm",
-      "pubDate": "Fri, 06 Nov 2026 05:48:36 GMT",
-      "contentSnippet": "IT之家 11 月 6 日消息，科技媒体 SamMobile 今天（11 月 6 日）发布博文，分享了一组 One UI 9.5 版三星日历（Samsung Calendar）应用截图，三星公司通过调整多个界面细节，让日常使用更加便捷。\n\n布局方面，One UI 9.5 版日历将搜索按钮从页面顶部移至右下角，并为其设置独立圆形按钮，方便用户单手快速查找日程。三星为减少界面冗余，还收窄底部操作栏宽度，仅显示“添加事件”，不再显示当前所选日期。IT之家附上相关截图如下：\n\n搜索功能方面，One UI 9.5 版日历搜索页新增“重要事件”版块，以药丸状按钮形式将关键日程置顶展示，并位于原有的颜色筛选",
+      "title": "文远知行创始人韩旭：希望四、五年内能坐上 Robotaxi 从广州直达香港",
+      "link": "https://www.ithome.com/1/023/611.htm",
+      "pubDate": "Fri, 06 Nov 2026 23:24:02 GMT",
+      "contentSnippet": "IT之家 11 月 7 日消息，据文远知行官方，公司创始人兼 CEO 韩旭于 11 月 2 日接受了 CNBC 专访，围绕 Robotaxi 规模化运营的机遇与挑战等行业话题进行了深入对话。他表示，文远知行已具备扩大 Robotaxi 车队规模的条件，希望四、五年内能坐上 Robotaxi 从广州直达香港。\n\n他提到：“中国正在推进粤港澳大湾区建设，包括广州、深圳和香港三个主要城市。我一直有一个梦想，希望有一天能坐上一辆自动驾驶出租车，在车上睡一觉，或者处理些工作。等我醒来，或是忙完手头的事，就已经到香港了。我相信五年内这一愿景有望实现。目前最关键的仍是监管问题，我们必须审慎处理。我们要让监管",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -50,152 +67,50 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "三星One UI 9.5日历截图曝光，搜索按钮移至右下角，新增重要事件版块",
+      "aiSummary": "文远知行CEO韩旭称希望四五年内实现Robotaxi从广州直达香港",
       "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "IT之家转引SamMobile截图，细节具体但属爆料性质，无三星官方确认"
+      "credibilityLevel": "medium-high",
+      "credibilityReason": "来源为IT之家，引述CNBC专访及官方表态，信息具体但属企业愿景，缺乏技术数据支撑"
     },
     {
-      "title": "前谷歌工程师王咏刚：AI 几天写出 3 万行代码，自己倒成了“闲人”",
-      "link": "https://www.ithome.com/1/023/233.htm",
-      "pubDate": "Fri, 06 Nov 2026 05:46:16 GMT",
-      "contentSnippet": "11 月 6 日，曾任职谷歌的资深工程师王咏刚发表题为《永别了，程序员》的长文，分享自己使用 AI 开发软件的经历。\n他表示，AI 正在改变传统软件开发方式，曾经需要程序员投入大量时间完成的工作，如今可以由 AI 在几天内完成，甚至让他感到自己成了“AI 之外的闲人”。\n王咏刚介绍，今年 9 月，一位美国计算机科学老师联系他，希望改进其六年前开源的 Altair 8800 计算机模拟器。他将需求交给 Claude Opus 5.5，并要求 AI 从系统设计角度提供建议。随后，AI 不仅完成了原有需求，还主动提出增加汇编器、调试器、电传打字机模拟界面等功能。\n据王咏刚自述，在接下来约三四天的时间",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "“超脑”统一指挥，“狼族”协同作战：京东物流打造供应链 AI 机器人军团",
+      "link": "https://www.infoq.cn/article/1YeowHagkg1Or6wwy23P?utm_source=rss&utm_medium=article",
+      "pubDate": "Fri, 06 Nov 2026 11:32:10 GMT",
+      "contentSnippet": "点击查看原文>",
+      "sourceName": "InfoQ中文",
+      "sourceWeight": 78,
       "allSources": [
-        "IT之家"
+        "InfoQ中文"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "前谷歌工程师王咏刚称AI数日写出3万行代码，自感成闲人",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "IT之家为知名科技媒体，报道有具体人物、时间与项目细节，但核心数据源自个人自述，缺乏独立验证"
-    },
-    {
-      "title": "妖股的陨落，工厂停工五十八天，国晟科技走到悬崖边缘",
-      "link": "https://www.tmtpost.com/8195784.html",
-      "pubDate": "Fri, 06 Nov 2026 13:39:53 +0800",
-      "contentSnippet": "光伏行业内卷出清，国晟科技面临ST危机。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体报道国晟科技因光伏内卷面临ST危机，工厂停工58天。",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，内容涉及具体停工天数与ST风险，但摘要信息较简略，缺少数据出处。"
-    },
-    {
-      "title": "网信部门整治 AI 假冒公众人物：清理信息 4.7 万余条，处置账号 3961 个",
-      "link": "https://www.ithome.com/1/023/231.htm",
-      "pubDate": "Fri, 06 Nov 2026 05:39:40 GMT",
-      "contentSnippet": "IT之家 11 月 6 日消息，网信办近期针对利用 AI 技术假冒仿冒公众人物开展集中整治，累计清理违法违规信息 4.7 万余条，处置账号 3961 个。此次整治聚焦虚假带货、吸粉引流、炮制谣言及低俗恶搞等行为，相关账号已被依法依约处置。\n\n网信办通报了四类典型案例，覆盖了当前 AI 仿冒公众人物的主要违规形态。\n\n第一类是未经授权利用 AI 仿冒名人肖像、合成名人声音，或盗用公众人物家属肖像进行商品推广与引流带货，涉及微信、抖音、小红书平台多个账号。\n\n第二类是盗用公众人物肖像照片，借助 AI 特效编造患病等谣言信息，误导公众认知。\n\n第三类是以第一人称假冒公众人物发表观点、讲述经历或发布情",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "网信办整治AI假冒公众人物，清理信息4.7万余条，处置账号3961个",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道引用网信办官方通报，含具体数据和典型案例，信息详实可信"
-    },
-    {
-      "title": "工信部等六部门：加快推进具身智能、大语言模型、脑机接口、外骨骼等在养老领域应用，鼓励电商平台设立银发消费板块",
-      "link": "https://www.ithome.com/1/023/230.htm",
-      "pubDate": "Fri, 06 Nov 2026 05:38:55 GMT",
-      "contentSnippet": "IT之家 11 月 6 日消息，民政部、国家发展改革委、工业和信息化部、商务部、市场监管总局、全国老龄办日前印发《关于培育多元场景 促进适老用品产品消费的若干措施》（下称《措施》）。\n\n《措施》提到，结合居家养老服务，推动适老化改造、健康管理、智能安防等用品产品进家入户。有条件的社区养老服务中心、日间照料中心等社区养老服务设施可开设适老用品产品体验、租售网点，结合社区养老服务场景推动适老用品产品应用普及。鼓励养老服务机构发挥老年客群集聚优势，开展适老用品产品试用、展示、租售，推动适老用品产品规模化使用。\n引导有条件的老年教育机构、老年助餐点等为老服务设施嵌入式设置适老用品产品消费场景，拓展提供",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "六部门发文推动具身智能、大模型等技术在养老领域应用",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "权威政策文件报道，来源可靠，内容具体，但缺少原文链接引用"
-    },
-    {
-      "title": "奇瑞纵横 R700 将于广州车展首发，与纵横 G700 同平台",
-      "link": "https://www.ithome.com/1/023/229.htm",
-      "pubDate": "Fri, 06 Nov 2026 05:37:17 GMT",
-      "contentSnippet": "IT之家 11 月 6 日消息，据易车援引相关渠道消息，奇瑞纵横品牌全新车型纵横 R700 将于 11 月开幕的广州车展上首发。目前关于该车的消息还非常有限，仅可知该车与纵横 G700 同平台打造，整体延续了方盒子硬派造型。\n\n▲ 纵横 G700\nIT之家注意到，奇瑞 2027 款纵横 G700 于 9 月 29 日宣布上市，共推出 5 款配置车型，限时权益价为 30.49 万元至 42.29 万元。\n作为参考，2027 款纵横 G700 长宽高仍为 5198/2050/1956mm，轴距 2870mm。该车搭载华为 896 线双光路激光雷达及华为乾崑智驾 ADS 5 系统，支持城市与高速领航",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "奇瑞纵横R700将于广州车展首发，与G700同平台打造",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，但消息转引自易车且细节有限，属预告性报道"
-    },
-    {
-      "title": "出海非洲：铁路、港口与电力，如何影响矿业投资回报？",
-      "link": "https://www.tmtpost.com/8195737.html",
-      "pubDate": "Fri, 06 Nov 2026 13:37:17 +0800",
-      "contentSnippet": "资源禀赋决定开发潜力，基础设施决定商业化条件，建设周期影响资金回收，长期运营决定最终收益。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体分析非洲铁路港口电力等基础设施对矿业投资回报的影响",
+      "aiSummary": "京东物流发布供应链AI机器人军团，以超脑统一调度狼族协同作业。",
       "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体，选题专业逻辑清晰，但摘要仅框架性表述，缺少具体数据与原始出处"
+      "credibilityReason": "InfoQ为知名技术媒体，但正文仅摘要无细节数据，技术描述偏宣传，缺乏原始出处。"
     },
     {
-      "title": "One UI 9.5 版三星健康应用曝光：新增“正念笔记”，把情绪日记装进手机",
-      "link": "https://www.ithome.com/1/023/228.htm",
-      "pubDate": "Fri, 06 Nov 2026 05:33:57 GMT",
-      "contentSnippet": "IT之家 11 月 6 日消息，科技媒体 SamMobile 今天（11 月 6 日）发布博文，分享了一组应用截图，展示了 One UI 9.5 版本的三星健康（Samsung Health）应用，三星公司计划引入正念笔记（Mindful note）新功能。\n定位方面，该功能位于应用的“正念”板块，本质上是一个轻量化的心情日记工具，用户可以记录想法、情绪和日常经历，也可通过引导式提示开始写作。\n\nIT之家注：正念（Mindfulness）是一种有意识地把注意力放在当下、并以不评判的态度观察自身想法、情绪、身体感受和周围环境的能力。简单说，就是“此刻我在做什么、感受到什么，我清楚地知道，但不急着",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "美国重金买矿、全球签协议，谁为这场关键矿产争夺战买单？",
+      "link": "https://www.tmtpost.com/8196540.html",
+      "pubDate": "Fri, 06 Nov 2026 18:09:25 +0800",
+      "contentSnippet": "这笔重建关键矿产供应链的账单，最终要由财政、矿企和下游共同分摊。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
       "allSources": [
-        "IT之家"
+        "钛媒体"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "三星健康One UI 9.5版曝光新增正念笔记心情日记功能",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "IT之家转述SamMobile爆料，有截图佐证但属未发布版本泄露，缺乏官方确认"
-    },
-    {
-      "title": "Keychron 推出氛围编程键盘 F4 HE 8K，仅配备 4 个按键",
-      "link": "https://www.ithome.com/1/023/227.htm",
-      "pubDate": "Fri, 06 Nov 2026 05:29:27 GMT",
-      "contentSnippet": "IT之家 11 月 6 日消息，Keychron（渴创）现已正式推出其面向氛围编程 (Vibe Coding) 开发的 F4 HE 8K 键盘。这一单模磁轴型号仅配备 4 个按键，随附 11 个替换键帽。\n\nKeychron 宣称，无论是氛围编程还是日常办公，最经常重复的操作仅有四个左右，将其固化为一款硬件可减少实际的输入负担。\n\nF4 HE 8K 配备 ABS 塑料机身，集成铝合金定位板，支持单键 ARGB 背光，回报率可达 8kHz；基于 Keychron 的青柠磁轴，支持自定义触发点；搭配 CHERRY 高度 PBT 材质染料热升华工艺键帽；提供 Codex / Claude 预设。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "Keychron推出仅4键的F4 HE 8K磁轴键盘，面向氛围编程场景。",
-      "credibilityScore": 82,
+      "aiSummary": "钛媒体分析美国重金购矿与全球签协议重建关键矿产供应链的成本分摊问题。",
+      "credibilityScore": 72,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，产品参数具体（8kHz回报率、磁轴、键帽工艺），信息详实但缺原始出处链接。"
+      "credibilityReason": "知名科技媒体，选题具体，但摘要缺数据与原始出处，分析性内容需更多事实支撑。"
     },
     {
-      "title": "岚图汽车法务部：网络平台陆续出现虚假价格信息，相关车型销售政策由官方统一制定",
-      "link": "https://www.ithome.com/1/023/226.htm",
-      "pubDate": "Fri, 06 Nov 2026 05:25:52 GMT",
-      "contentSnippet": "IT之家 11 月 6 日消息，岚图汽车法务部今日发文称，注意到小红书、抖音、微信视频号等网络平台陆续出现关于岚图相关车型的虚假价格信息，扰乱市场交易秩序，误导消费者，严重损害岚图汽车合法权益。\n岚图汽车法务部表示，岚图汽车相关车型销售政策由岚图官方统一制定（详见岚图汽车 App），请勿相信任何非官方渠道的不实消息，购买岚图产品请认准官方渠道。\n岚图法务部严正声明，网络不是法外之地，对恶意造谣、扰乱市场的侵权行为，岚图将持续以法律手段维护自身的合法权益。同时，欢迎广大消费者积极反映、提供相关违法行为线索。\n\n岚图汽车 2026 年 10 月交付新车 13030 辆；1-10 月累计交付 128",
+      "title": "曝 Anthropic 计划下周启动 IPO 路演，目标是在感恩节前完成上市",
+      "link": "https://www.ithome.com/1/023/672.htm",
+      "pubDate": "Sat, 07 Nov 2026 05:17:43 GMT",
+      "contentSnippet": "IT之家 11 月 7 日消息，据 The Information 今日报道，美国人工智能初创公司 Anthropic 正加快推进首次公开募股（IPO）计划。\n消息人士称，Anthropic 计划于下周启动 IPO 正式推介，向潜在投资者介绍公司业务及上市计划，计划于 11 月 16 日当周在美国资本市场挂牌，争取在美国感恩节（11 月 26 日）假期前完成上市。\n不过，近期美国科技股市场波动加剧，投资者对 AI 企业巨额资本开支及商业回报的担忧也在增加，可能影响此次 IPO 的估值和融资规模。\n此前市场预计，Anthropic 此次 IPO 估值约为 1.5 万亿美元（IT之家注：现汇率约合",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -203,61 +118,146 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "岚图汽车法务部声明网络平台出现虚假价格信息，提醒消费者认准官方渠道。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，内容引用岚图法务部官方声明，信息具体且含交付数据，逻辑清晰。"
-    },
-    {
-      "title": "不法分子以“车辆召回”为名实施电信诈骗，宝马中国发布官方声明",
-      "link": "https://www.ithome.com/1/023/225.htm",
-      "pubDate": "Fri, 06 Nov 2026 05:20:37 GMT",
-      "contentSnippet": "IT之家 11 月 6 日消息，宝马中国今日发布声明：近期发现有不法分子冒充宝马官方，以“车辆召回”为名实施电信诈骗。\n\n声明称，诈骗分子通过短信、彩信等渠道向车主发送所谓的《召回通知》。这些文件伪造“宝马中国”、“华晨宝马”等印章，并声称客户的车辆存在安全隐患，需要尽快处理，同时附带网址链接或二维码，诱导客户进一步操作。一旦点击，可能陷入诈骗陷阱，造成个人信息泄露甚至财产损失。\n宝马强调，近期流传的此类“召回通知”均非宝马官方发布。宝马官方发布的召回通知不会以任何名义引导车主提供银行卡、验证码等敏感信息，或进行转账、付款等操作。\n如需确认车辆是否涉及官方召回，请通过国家市场监管总局缺陷产品召",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "宝马中国声明提醒不法分子借车辆召回名义实施电信诈骗",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，引述宝马中国官方声明，内容具体且含防骗细节，逻辑清晰"
-    },
-    {
-      "title": "启境 GX7 车型 11 月 8 日开启集中交付，限时权益价 22.99 万元起",
-      "link": "https://www.ithome.com/1/023/224.htm",
-      "pubDate": "Fri, 06 Nov 2026 05:20:17 GMT",
-      "contentSnippet": "IT之家 11 月 6 日消息，启境 GX7 于 9 月 23 日上市，将于 11 月 8 日启动集中交付。该车共 3 款车型，官方指导价 23.99 万至 30.19 万元，限时权益价 22.99 万至 29.19 万元。\n\nGX7 是启境品牌第二款量产车，定位“阔五座智能百变 SUV”，车身尺寸 5099/2006/1750 毫米，轴距 3070 毫米。\n新车全系标配华为乾崑智驾 ADS 5，感知方案由 4 颗激光雷达构成，包括 1 颗 896 线双光路图像级激光雷达和 3 颗高精度固态激光雷达，全车传感器数量为 38 个，并采用面向 L3 级自动驾驶的全链路冗余架构。\n座舱方面，GX7",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "启境GX7于11月8日集中交付，限时权益价22.99万元起，全系标配华为乾崑智驾ADS 5。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，信息具体含价格、尺寸、传感器数量等细节，但缺少原始出处引用。"
-    },
-    {
-      "title": "Caviar 推出“十二星座”版 iPhone Duo，可定制陨石、鳄鱼皮等装饰",
-      "link": "https://www.ithome.com/1/023/223.htm",
-      "pubDate": "Fri, 06 Nov 2026 05:16:47 GMT",
-      "contentSnippet": "IT之家 11 月 6 日消息，奢侈定制厂商 Caviar 上月（2026 年 10 月）推出“世界珍宝”（World Treasures）系列后，本月（11 月）再次推出“十二星座”（Zodiac）系列，同样基于苹果首款折叠 iPhone Duo 上改造，将其变为可按星座、材质与工艺自由搭配的奢华收藏品。\n\n\nCaviar 表示“十二星座”系列并非固定成品，潜在用户可以通过在线配置，先选择十二星座之一，再对边框、后盖、星座图案及中央徽章等部位进行个性化定制。\n\n\n这里的 Cancer 是指巨蟹座，并非机翻的癌症\n\n\n\n\n这里的 Pisces 是指双鱼座\n在材质方面，Caviar 提供银色、镀",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "奢侈定制厂商Caviar推出十二星座版折叠iPhone Duo，支持个性化定制。",
+      "aiSummary": "Anthropic计划下周启动IPO路演，目标感恩节前上市。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，内容具体但缺少原始出处链接，且产品尚未发布存疑。"
+      "credibilityReason": "IT之家转引The Information，有具体时间节点，但估值数据存疑且缺乏官方确认。"
+    },
+    {
+      "title": "襄阳 125 台公交退役电池卖出“资产价”：近 300 万元成交溢价 119.49%",
+      "link": "https://www.ithome.com/1/023/671.htm",
+      "pubDate": "Sat, 07 Nov 2026 05:02:32 GMT",
+      "contentSnippet": "IT之家 11 月 7 日消息，湖北碳排放权交易中心 11 月 5 日宣布，襄阳公交集团第二批废旧动力电池处置项目在长江生态环境权益交易平台完成竞价。\n这批来自 125 台退役新能源公交车的电池，评估单价为 6310.05 元 / 吨，挂牌后吸引多家具备资源化回收资质的企业参与，经 22 轮加价，最终以 13850 元 / 吨成交，溢价率 119.49%，总价接近 300 万元。\n\n退役动力电池的残值基础来自材料构成。公交车用动力电池以磷酸铁锂为主，襄阳公交此前采购的纯电动公交车动力电池材料类型即为磷酸铁锂。磷酸铁锂电池的回收价值主要取决于锂的提取经济性。2026 年电池级碳酸锂价格在 13.",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "襄阳125台公交退役电池竞价成交近300万元，溢价119.49%",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家报道，引用湖北碳排放权交易中心官方信息，含具体单价、轮次、溢价率等数据，来源可查"
+    },
+    {
+      "title": "6.5 升 V12 加三电机：兰博基尼为沙特客户交付两辆沙漠主题 Revuelto 超跑",
+      "link": "https://www.ithome.com/1/023/670.htm",
+      "pubDate": "Sat, 07 Nov 2026 04:25:53 GMT",
+      "contentSnippet": "IT之家 11 月 7 日消息，汽车媒体 The Supercar Blog 昨日（11 月 6 日）报道，兰博基尼（Lamborghini）近日在意大利圣亚加塔 · 博洛涅塞总部，向沙特阿拉伯客户交付两辆专属定制 Revuelto 超级跑车。\n\n新车由品牌 Ad Personam 个性化定制项目打造，将沙特沙丘的色彩与流动线条融入车身及座舱设计，两辆车均以白色为主调，只是通过不同光泽和材质展现区别。\n\n第一辆采用 Bianco Phanes 哑光白车漆，搭配 Nero Nemesis 黑色图案、Verde Speranza 绿色点缀及亮面碳纤维；第二辆则选择 Bianco Monocerus",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "兰博基尼向沙特客户交付两辆沙漠主题定制Revuelto超跑",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家转引专业超跑媒体，车型配置与定制细节具体，但非一手来源"
+    },
+    {
+      "title": "机械革命推出无界 15X 暴风雪电竞版：锐龙 AI 9 365、16GB + 1TB，首发 6499 元",
+      "link": "https://www.ithome.com/1/023/668.htm",
+      "pubDate": "Sat, 07 Nov 2026 04:17:07 GMT",
+      "contentSnippet": "IT之家 11 月 7 日消息，机械革命新上架了一款“无界 15X 暴风雪电竞版”，搭载 AMD 锐龙 AI 9 365 处理器、240Hz 电竞屏，首发价 6499 元，叠加国补后 5524.15 元。\n\nIT之家从商品页面获悉，这款新机采用了 15.3 英寸 2.5K 240Hz 电竞屏，拥有 2560*1600 分辨率、100% sRGB 色域、500nits 亮度，支持 DC 调光 + 雾面防眩光，支持约 180° 开合；采用全金属机身，重约 1.68kg。\n\n其他方面，该机配备 16GB 内存 + 1TB 固态硬盘，均预留拓展插槽；升级并联双热管散热架构，支持 25W/45W/65W",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "机械革命无界15X暴风雪电竞版上架，锐龙AI 9 365首发6499元",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，参数具体详实，含屏幕、散热、价格等细节，来源为商品页面，可信度高"
+    },
+    {
+      "title": "微软 Edge 浏览器 157 稳定版发布，明确“加速应用启动”仅限 Win11 三个版本",
+      "link": "https://www.ithome.com/1/023/667.htm",
+      "pubDate": "Sat, 07 Nov 2026 03:57:02 GMT",
+      "contentSnippet": "IT之家 11 月 7 日消息，微软昨日（11 月 6 日）更新发布 Microsoft Edge 浏览器 157 稳定版，明确“加速应用启动”新特性适用于 Windows 11 25H2、26H1 和 26H2 版，且 Edge 浏览器需升级 150 等后续版本。\n“加速应用启动”新特性主要针对“热启动”（应用已经在后台运行），官方表示在多任务负载较重时，Edge 的启动速度最高可提升 33%，平均提升约 15%，微软还在探索将该机制用于更快打开 PDF 文件。\n\nIT之家附上 Microsoft Edge 浏览器 157 稳定版更新日志内容如下：\n\n宣布将逐步弃用浏览器原生 XSLT 支持",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微软Edge 157稳定版发布，加速启动仅限Win11三版本",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "知名科技媒体IT之家报道，含版本号、性能数据及官方更新日志，信息具体可查"
+    },
+    {
+      "title": "福克斯完成对电视流媒体平台 Roku 收购，加速数字化转型",
+      "link": "https://www.ithome.com/1/023/666.htm",
+      "pubDate": "Sat, 07 Nov 2026 03:49:55 GMT",
+      "contentSnippet": "IT之家 11 月 7 日消息，FOX（福克斯）当地时间本月 6 日宣布，其成功完成了对电视流媒体平台 Roku 收购。这笔交易在今年 6 月公布时的价值为 220 亿美元（IT之家注：现汇率约合 1,470.94 亿元人民币）。\n\n福克斯表示这笔交易将加速其数字化战略，推动业务组合向高增长的流媒体和联网电视垂直领域延伸，从而增强公司的长期增长前景。\nRoku 创始人 Anthony Wood 将加入福克斯董事会，与福克斯首席执行官 Paul Cheesbrough 共同领导福克斯新成立的数字产品和服务部门。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "福克斯完成220亿美元收购Roku，加速流媒体转型",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，交易金额和人事安排具体，但缺少原始公告链接，且发布时间为未来日期存疑"
+    },
+    {
+      "title": "男子利用 AI 眼镜、智能戒指驾考作弊被成都交管查获：罚款 1900 元 + 禁考一年",
+      "link": "https://www.ithome.com/1/023/665.htm",
+      "pubDate": "Sat, 07 Nov 2026 03:49:42 GMT",
+      "contentSnippet": "IT之家 11 月 7 日消息，据成都交警，近日，成都公安交管部门查处一起机动车驾驶人考试舞弊案。\n10 月 16 日上午，成都公安交管十分局摩托车考场驻场民警在开展机动车驾驶员理论考试巡查过程中，发现一男子神色紧张，答题状态异常，行为举止不自然，当即对其开展核查。\n男子佩戴的眼镜暗藏玄机，手上还配有一枚智能戒指，长按可触发扫描，答案就显示在眼镜上。面对询问，该男子承认自己利用高科技设备作弊的违法行为。\n经了解，该男子早年申领汽车驾驶证时，理论科目历经四次考试才勉强通过。此次申请增驾摩托车驾驶证，因担心再次考试失利，心生焦虑便动起歪念，在网络渠道购买 AI 眼镜、智能戒指等电子作弊设备，妄图借",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "成都男子用AI眼镜和智能戒指驾考作弊被查，罚款1900元禁考一年",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家，引述成都交警官方信息，事件细节具体，但缺少设备品牌等原始出处细节"
+    },
+    {
+      "title": "肉眼不可见：苹果 iOS 27.2 新增隐形水印，图像工具 AI 生图 / 修图均有迹可查",
+      "link": "https://www.ithome.com/1/023/663.htm",
+      "pubDate": "Sat, 07 Nov 2026 03:41:42 GMT",
+      "contentSnippet": "IT之家 11 月 7 日消息，苹果公司于 11 月 5 日更新官方支持文档，宣布从 iOS / iPadOS / macOS 27.2 等版本系统开始，为部分 Apple Intelligence 图像工具引入 SynthID 隐形水印。\nIT之家援引博文介绍，在涉及的图像工具方面，涵盖图乐园（Image Playground）和图像魔法棒（Image Wand），以及“照片”中的清理（Clean Up）、扩展（Extend）和空间重构（Spatial Reframing）功能。\n\n值得注意的是，标记对象并不局限于完全由 AI 生成的图片。即使是用户实际拍摄的照片，只要使用上述指定 AI 工",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "苹果iOS 27.2等系统为AI图像工具引入SynthID隐形水印",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家援引苹果官方支持文档，信息具体，含版本号与功能清单，来源可查"
+    },
+    {
+      "title": "飞傲 R7 R2R 桌面数播解码耳放前级一体机开售：售价 5499 元",
+      "link": "https://www.ithome.com/1/023/662.htm",
+      "pubDate": "Sat, 07 Nov 2026 03:35:31 GMT",
+      "contentSnippet": "IT之家 11 月 7 日消息，飞傲官方今日宣布全新的 R7 R2R 桌面数播解码耳放前级一体机正式开售，官方售价 5499 元，提供黑白双色可选。\n\n据介绍，R7 R2R 定位全能桌面 HiFi 中心，集数播 / 解码 / 耳放 / 转盘 / 前级 / 声卡一体，搭载高通骁龙 680，配备 8GB+128GB 存储，采用 5.5 英寸 FHD 屏幕。\n\n它采用了飞傲自研 24Bit R2R 电阻阵列、192 颗精密薄膜电阻；支持五挡增益可调，平衡输出高达 4000mW+4000mW；支持 DC / AC 双供电，双 FPGA+ 双定制飞秒晶振，数字音频处理更精准；支持九大工作模式、AUTO",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "飞傲R7 R2R桌面HiFi一体机开售，售价5499元",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，产品参数具体详实，含官方售价与硬件细节，信息可信度较高"
     }
   ]
 }

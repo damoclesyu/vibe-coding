@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-06T05:48:35.214Z",
+  "generatedAt": "2026-11-07T05:19:07.350Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "罗织罪名！台湾民意代表高金素梅被“求刑”14年",
-      "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727185.shtml",
-      "pubDate": "Fri, 6 Nov 2026 13:29:12 +0800",
-      "contentSnippet": "中新网11月6日电 (燕新台)据台媒报道，台湾检方6日依照所谓违反岛内“安全罪”“贪污受贿罪”，对台湾无党籍民意代表高金素梅“求刑”14年。",
+      "title": "澳门特区政府和立法会强烈反对外部势力干涉特区司法独立",
+      "link": "https://www.chinanews.com.cn/dwq/2026/11-07/10727817.shtml",
+      "pubDate": "Sat, 7 Nov 2026 13:01:21 +0800",
+      "contentSnippet": "中新社澳门11月7日电 对于欧盟对外行动署、美国国会及行政当局中国委员会、联合国人权高专办及欧洲议会个别议员等就澳门特区法院依法审理首宗国安案件所发表的不实言论，澳门特区政府和立法会7日表示强烈不满和坚决反对。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -16,16 +16,50 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "台湾检方以违反安全罪等罪名对民意代表高金素梅求刑14年。",
-      "credibilityScore": 75,
+      "aiSummary": "澳门特区政府和立法会反对外部势力就国安案件干涉司法独立",
+      "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，属较权威媒体，信息具体但仅引台媒，缺少直接引述和交叉验证。"
+      "credibilityReason": "来源为中国新闻网（中新社），属官方通讯社，信息具体，引述官方表态，用词客观"
     },
     {
-      "title": "国家发改委：让农民种粮有钱赚，让地方抓粮不吃亏",
-      "link": "https://m.thepaper.cn/newsDetail_forward_34419208",
-      "pubDate": "Fri, 06 Nov 2026 04:45:32 GMT",
-      "contentSnippet": "11月6日，国家发展改革委农村经济司副司长呼和在国家发展改革委“奋进‘十五五’”系列新闻发布会第三场上介绍，2024年3月，国务院印发实施《新一轮千亿斤粮食产能提升行动方案（2024—2030年）》，总的看，各地区、各部门推进藏粮于地、藏粮于技，不断完善支持政策和投入保障机制，加力推进支撑性工程建设，取得重大进展。2025年，我国粮食产量达到1.43万亿斤，连续两年站稳1.4万亿斤台阶。\n呼和表示，“十五五”时期，国家发展改革委将会同各地方和有关部门，以新一轮千亿斤粮食产能提升行动为牵引，夯实生产基础、细化增产路径、强化政策保障。第一，抓牢耕地和种子两个关键。一个关键，是抓好耕地提质，将持续健",
+      "title": "长辈“入坑”，年轻人“真香”，大陆AI短剧成了台湾观众的“电子下饭菜”？",
+      "link": "https://www.chinanews.com.cn/cul/2026/11-07/10727839.shtml",
+      "pubDate": "Sat, 7 Nov 2026 12:48:13 +0800",
+      "contentSnippet": "中新网北京11月7日电(记者 刘越)“谁家大人会追AI短剧追到要拿笔记本记啊？”",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中新网报道大陆AI短剧在台湾流行，吸引不同年龄层观众。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网较权威，有记者署名和具体引述，但属特写报道，数据细节有限。"
+    },
+    {
+      "title": "刘海星同朝鲜劳动党中央政治局委员、中央书记、国际部部长金成男举行会谈",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-07/10727816.shtml",
+      "pubDate": "Sat, 7 Nov 2026 12:18:07 +0800",
+      "contentSnippet": "中新社北京11月7日电 11月6日，中共中央对外联络部部长刘海星在北京同朝鲜劳动党中央政治局委员、中央书记、国际部部长金成男举行会谈。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中联部部长刘海星在北京同朝鲜劳动党国际部部长金成男举行会谈。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "中国新闻网为官方媒体，信息含具体时间地点人物，内容可查证，但缺直接引述。"
+    },
+    {
+      "title": "谁能拒绝古董车！进博会藏着汽车百年浪漫｜澎友好会花",
+      "link": "https://m.thepaper.cn/newsDetail_forward_34426675",
+      "pubDate": "Sat, 07 Nov 2026 04:15:32 GMT",
+      "contentSnippet": "进博会直接把一座“古董车博物馆”搬进现场！今年的展区面积比上届翻倍，展车从11辆增加到15辆，生动展现汽车工业一路的设计变迁和深厚的汽车文化。",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -33,34 +67,187 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国家发改委介绍粮食产能提升行动进展，2025年粮食产量达1.43万亿斤。",
-      "credibilityScore": 88,
+      "aiSummary": "进博会古董车展区面积翻倍，展车增至15辆展示汽车文化。",
+      "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为澎湃新闻，引述国家发改委官员具体发言，数据明确可查证。"
+      "credibilityReason": "澎湃新闻为正规媒体，内容含具体数据，但属活动宣传类报道，缺少直接引述。"
     },
     {
-      "title": "国家主席习近平任免驻外大使",
-      "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727170.shtml",
-      "pubDate": "Fri, 6 Nov 2026 12:32:19 +0800",
-      "contentSnippet": "新华社北京11月6日电 中华人民共和国主席习近平根据全国人民代表大会常务委员会的决定任免下列驻外大使：",
+      "title": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-07/10727818.shtml",
+      "pubDate": "Sat, 7 Nov 2026 12:07:30 +0800",
+      "contentSnippet": "中新社北京11月7日电 北京时间11月6日晚，中美经贸中方牵头人、国务院副总理何立峰与美方牵头人、美国财政部长贝森特和贸易代表格里尔举行视频通话。双方围绕落实好中美元首北京和华盛顿会晤重要共识和经贸磋商成果，就彼此关心的重要经贸问题进行了坦诚、深入、建设性的交流。中方就近期美对华经贸限制措施表达严正关切。双方同意在两国元首战略引领下，继续发挥好中美经贸磋商机制作用，持续加强合作，妥善管控分歧，推动中美经贸关系持续稳定向好发展，助力构建“基于尊重、公平、对等的中美建设性战略稳定关系”。(完)",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
-        "中国新闻网",
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中美经贸牵头人何立峰与美财长贝森特、贸易代表格里尔举行视频通话，交流经贸问题。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新社（权威通讯社），信息具体含时间人物，官方通稿措辞客观，可交叉验证。"
+    },
+    {
+      "title": "一碗面、一块地、一个厂，外资企业参展进博会的三个样本",
+      "link": "https://m.thepaper.cn/newsDetail_forward_34405233",
+      "pubDate": "Sat, 07 Nov 2026 04:04:48 GMT",
+      "contentSnippet": "第九届进博会大幕开启，上海闵行有59家跨国（外资）企业组团奔赴“四叶草”。在这支参展大军里，既有连续九届从未缺席的“全勤生”贺利氏，也有中途暂停一届后的“返场客”米其林，还有错过前几届但此后连续赴约的“多场客”三养食品。\n一碗火鸡面、一宗工业用地、一座未来工厂，三家赛道迥异的外资企业用各自不同的进博故事，具象诠释进博会强大的磁力效应，也生动展现出闵行营商环境的“留客力”——不仅鼓励企业参展，更吸引企业留下来、扎下根、持续追加投资，实现展品变商品、参展商向投资商的蝶变。\n\n与闵行近在咫尺的国家会展中心（上海）（又称“四叶草”）是进博会永久举办地。本文图片 均为受访者供图\n\n\n一碗面：展台爆款催生",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
         "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "澎湃新闻报道第九届进博会上海闵行外资企业参展的三个样本故事。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名媒体澎湃新闻，内容具体含企业名称与细节，但属地方宣传性报道，缺乏多源交叉验证。"
+    },
+    {
+      "title": "市监总局严厉打击减肥类食品新型非法添加行为",
+      "link": "https://m.thepaper.cn/newsDetail_forward_34425997",
+      "pubDate": "Sat, 07 Nov 2026 03:53:06 GMT",
+      "contentSnippet": "近日，市场监管总局针对食品中非法添加的酚丁（酚汀）类、比沙可啶类物质新型衍生物，发布两项食品补充检验方法。\n酚丁（酚汀）类、比沙可啶类物质具有刺激性致泻作用，长期摄入可能引发腹痛、腹泻、电解质紊乱以及肝肾损伤。随着执法力度不断加大，部分不法分子为逃避监管，通过合成两类物质的新型衍生物，添加在果冻、蜜饯、糖果、饮料等食品中，虚假宣称功效。此次出台的检验方法，可有效识别两类物质的多种新型衍生物，为监管执法、定罪量刑提供技术支撑。\n市场监管部门表示，将持续健全食品补充检验方法体系，紧盯减肥类食品等重点品类新型非法添加风险，严格监管执法，严惩重处食品安全违法行为，全力保障人民群众饮食安全。",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "市场监管总局发布两项食品补充检验方法，打击减肥类食品新型非法添加行为。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为澎湃新闻，较权威；信息具体，含物质名称和措施；用词客观，可交叉验证。"
+    },
+    {
+      "title": "美媒：台积电拟进军先进存储晶片制造",
+      "link": "https://www.zaobao.com/news/china/story20261107-9962658",
+      "pubDate": "Sat, 07 Nov 2026 03:52:27 GMT",
+      "contentSnippet": "台湾“护国神山”台积电据报拟进军先进存储晶片制造，以进一步扩大在人工智能（AI）硬件供应链中的份额。\n美国科技媒体The Information星期五（11月6日）引述两名知情人士报道，应最大客户美国AI巨企英伟达要求，台积电最近开始制定计划，生产一种名为3D DRAM的特殊类型先进存储晶片。\n台积电和英伟达均未立即回应路透社和彭博社的置评请求。\nThe Information报道称，目前尚不清楚台积电计划何时开始生产，以及将如何取得所需制造设施。台积电可能选择建新厂，或选择收购现有厂房，并将其改建为记忆体生产设施。\n据彭博社报道，由于AI硬件需求激增，存储晶片严重短缺，导致价格飙升，促使英伟",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
+      "allSources": [
+        "联合早报·中港台"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "美媒报道台积电应英伟达要求拟生产3D DRAM先进存储晶片。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "联合早报转引The Information，有知情人士但未获官方证实，细节具体可查证。"
+    },
+    {
+      "title": "大力推进科技创新 加快发展新质生产力",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-07/10727836.shtml",
+      "pubDate": "Sat, 7 Nov 2026 11:52:05 +0800",
+      "contentSnippet": "编者按：\r\n\n　　发展新质生产力是推动高质量发展的内在要求和重要着力点。近日，中共中央、国务院印发《关于发展新质生产力的意见》，为加快发展新质生产力作出系统部署。三里河推出权威专家系列解读，阐释政策内涵、洞察发展大势。今日刊发国家发展改革委创新驱动发展中心副主任林晓锋的署名文章《让创新快马加鞭》。\r\n\n　　今年是“十五五”开局之年，新质生产力由技术革命性突破、生产要素创新性配置、产业深度转型升级而催生，科技创新能够催生新产业、新模式、新动能，是发展新质生产力的核心要素。我们必须牢牢把握新一轮科技革命和产业变革的历史机遇，以原创性引领性科技攻关为主攻方向，为发展新质生产力提供强大物质技术基础。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国家发改委专家解读新质生产力政策，强调科技创新核心作用",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "中国新闻网为权威媒体，署名专家身份明确，政策文件可查证，但属政策解读类文章"
+    },
+    {
+      "title": "韩正会见格鲁吉亚总理科巴希泽",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-07/10727806.shtml",
+      "pubDate": "Sat, 7 Nov 2026 11:43:43 +0800",
+      "contentSnippet": "新华社第比利斯11月7日电(记者何梦舒 陈俊锋)11月6日，国家副主席韩正在第比利斯会见格鲁吉亚总理科巴希泽。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "韩正在第比利斯会见格鲁吉亚总理科巴希泽，双方举行会谈。",
+      "credibilityScore": 95,
+      "credibilityLevel": "high",
+      "credibilityReason": "新华社通稿，中国新闻网转载，信息具体含时间地点人物，来源权威可查证。"
+    },
+    {
+      "title": "“进”在现场｜展台人气之高，连佛得角自己都没想到",
+      "link": "https://m.thepaper.cn/newsDetail_forward_34425988",
+      "pubDate": "Sat, 07 Nov 2026 03:42:33 GMT",
+      "contentSnippet": "今年是佛得角继2019年之后再次来到进博会参展，而大部分观众是先看见佛得角足球队的海报，再怀着好奇的心走进展馆，受欢迎程度超出了佛得角展商的预期。",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "澎湃新闻报道佛得角进博会展台人气超出展商预期。",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "澎湃新闻为知名媒体，内容具体含时间地点，但属现场特写，缺少直接引述与多源验证。"
+    },
+    {
+      "title": "（第九届进博会）进博会谋“共生之道”：与中国制造共同成长",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-07/10727795.shtml",
+      "pubDate": "Sat, 7 Nov 2026 11:40:23 +0800",
+      "contentSnippet": "中新社上海11月7日电 (记者 李姝徵)11月7日，第九届中国国际进口博览会(进博会)在沪举行。在进博会临港展示区可以看到，海外技术与中国需求，正在协作中转化为双方的增长空间。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "第九届进博会在上海举行，聚焦海外技术与中国制造协作共赢。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新社，属权威通讯社，有署名记者、时间地点明确，内容具体可查证。"
+    },
+    {
+      "title": "中国国常会：完善资本市场稳市机制 增强股市内在稳定性",
+      "link": "https://www.zaobao.com/news/china/story20261107-9962392",
+      "pubDate": "Sat, 07 Nov 2026 02:59:25 GMT",
+      "contentSnippet": "在中国科技股出现抛售潮的背景下，中国总理李强主持召开国务院常务会议，讨论采取措施稳定股市。\n据法新社报道，被誉为美国人工智能（AI）巨企英伟达竞争对手的中国AI企业如摩尔线程和沐曦，过去半年的股价骤降约50%。对标美国华尔街纳斯达克指数的上海科创50指数也在同一时期下滑约6%。\n综合中新社和央视新闻报道，中国国务院总理李强星期五（11月6日）主持召开国务院常务会议，会议提出，“要完善资本市场稳市机制，增强股市内在稳定性，促进资本市场平稳健康发展”。\n会议也指出，要聚焦重点领域持续发力，加快重大项目和“六张网”（水网、新型电网、算力网、新一代通信网、城市地下管网、物流网）建设实施进度。要用好用足",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
+      "allSources": [
+        "联合早报·中港台"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国国常会提出完善资本市场稳市机制，增强股市内在稳定性。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "联合早报报道，引述中新社、央视及法新社，含会议直接引述，事实可查证。"
+    },
+    {
+      "title": "中共中央发出通知，部署党的二十一大代表选举工作",
+      "link": "https://m.thepaper.cn/newsDetail_forward_34425774",
+      "pubDate": "Sat, 07 Nov 2026 02:03:16 GMT",
+      "contentSnippet": "党的二十届五中全会决定，党的二十一大于2027年下半年在北京召开。最近，中共中央印发了《关于党的二十一大代表选举工作的通知》，对二十一大代表选举工作作出全面部署。中央组织部近日召开会议，对这项工作作出具体安排。\n党的二十一大，是我们党在基本实现社会主义现代化的关键时期、向第二个百年奋斗目标进军新征程上召开的一次十分重要的代表大会，是党和国家政治生活中的一件大事。认真做好二十一大代表选举工作，是开好大会的重要基础。党中央对做好二十一大代表选举工作高度重视，习近平总书记主持召开中央政治局常委会会议和中央政治局会议专门研究，确定了做好这项工作的总体要求和目标任务，要求各级党组织切实负起政治责任，认真",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻",
+        "联合早报·中港台"
       ],
       "coverageCount": 2,
       "coverageBoost": 5,
-      "aiSummary": "习近平根据全国人大常委会决定任免驻外大使。",
-      "credibilityScore": 100,
+      "aiSummary": "中共中央印发通知，部署党的二十一大代表选举工作。",
+      "credibilityScore": 93,
       "credibilityLevel": "high",
-      "credibilityReason": "新华社通稿，中国新闻网与澎湃新闻转载，来源权威，内容为官方任免程序。（多源覆盖 +5）"
+      "credibilityReason": "来源为澎湃新闻及联合早报，属较权威媒体；内容具体，含会议决定、时间地点及领导人指示，事实可查证。（多源覆盖 +5）"
     },
     {
-      "title": "港媒：在囚人士支援平台一成员被港警国安处带走",
-      "link": "https://www.zaobao.com/news/china/story20261106-9956909",
-      "pubDate": "Fri, 06 Nov 2026 04:16:39 GMT",
-      "contentSnippet": "香港媒体报道，在囚人员支援平台“候鸟”一名成员疑被警方带走，涉输入具煽动意图刊物。\n综合香港《明报》、网媒“香港01”等引述消息报道，由前油尖旺区议员朱江玮创立的“候鸟”平台核心成员尤思聪星期四（11月5日）被港警带走调查。\n“候鸟”日前在社交平台发文称，原定一批10月13日送到店的台湾书籍，延误了一星期才送到，并指超过60本书籍被海关扣查。\n香港警方发新闻稿指出，国安处星期四早上在旺角拘捕一名34岁男子，涉嫌上月输入煽动书籍到本地书店出售，违反“输入具煽动意图的刊物”罪。\n据警方介绍，被捕男子为一间香港公司董事，涉嫌于上月输入煽动书籍到香港书店出售，意图引起公众对中央及特区政府的憎恨、藐视或",
+      "title": "指大陆施压 台湾关闭驻巴新代表处并停止采购液化天然气",
+      "link": "https://www.zaobao.com/news/china/story20261107-9962251",
+      "pubDate": "Sat, 07 Nov 2026 01:57:00 GMT",
+      "contentSnippet": "台湾外交部称，受中国大陆政治施压影响，台湾决定关闭驻巴布亚新几内亚代表处，并停止采购现货巴新液化天然气。\n据台湾外交部官网消息，针对巴布亚新几内亚政府近日再度片面要求台湾驻莫士比港台湾经济贸易办事处人员限期离境及推动关闭台驻处一事，台湾政府基于“国家”尊严、外交自主及整体台湾利益，经通盘评估后，决定主动关闭驻巴布亚新几内亚代表处，撤回所有派驻人员，并全面检讨及调整双边合作关系。\n台外交部说，外交资源必须依据台湾整体外交布局及实际效益妥适配置，这次调整是台方主动作出的外交决策，未来将把相关资源投入友邦及其他具合作潜力、值得持续经营的地区，持续深化实质合作，拓展台湾国际空间。\n外交部指出，台湾多年",
       "sourceName": "联合早报·中港台",
       "sourceWeight": 80,
       "allSources": [
@@ -68,197 +255,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "港媒报道在囚支援平台成员被港警国安处带走调查",
+      "aiSummary": "台湾称受大陆施压，关闭驻巴新代表处并停购液化天然气",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "联合早报转引明报、香港01等港媒，警方有新闻稿，信息具体可查证"
-    },
-    {
-      "title": "区锦新获刑12年半，港澳平：严惩危害国家安全犯罪分子，筑牢澳门繁荣稳定屏障",
-      "link": "https://m.thepaper.cn/newsDetail_forward_34419194",
-      "pubDate": "Fri, 06 Nov 2026 04:11:50 GMT",
-      "contentSnippet": "依法严惩危害国家安全犯罪分子 \n坚持不懈筑牢澳门繁荣稳定屏障\n港澳平\n11月6日，澳门特区法院对区锦新危害国家安全罪行依法作出判决。这充分彰显澳门特区维护国家安全的坚定意志，充分彰显澳门维护国家安全法律制度和执行机制的强大效能，同时也提示人们居安思危，始终保持对国安风险的警惕，不断筑牢澳门繁荣稳定屏障。\n澳门特区法院的判决有力宣示，国家安全是不能触碰的底线。区锦新打着所谓“民主”“自由”的旗号，长期勾连外部势力从事反中乱澳活动，严重危害国家安全，严重损害澳门繁荣稳定，罪状昭昭。澳门特区法院依法判决区锦新“颠覆国家政权罪”“与澳门特别行政区以外的组织、团体或个人建立联系作出危害国家安全的行为罪”",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "澳门法院判处区锦新12年半，港澳平发文称严惩危害国安犯罪",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为知名媒体，引述官方评论，但缺乏判决书原文及多方交叉验证"
-    },
-    {
-      "title": "习近平复信澳大利亚青年学生",
-      "link": "https://www.chinanews.com.cn/gn/2026/11-06/10727157.shtml",
-      "pubDate": "Fri, 6 Nov 2026 12:10:46 +0800",
-      "contentSnippet": "新华社北京11月6日电 10月28日，国家主席习近平复信澳大利亚110名青年学生，鼓励他们继续积极参与中澳友好事业。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "习近平复信澳大利亚110名青年学生，鼓励参与中澳友好事业。",
-      "credibilityScore": 95,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为新华社（中国新闻网转载），属权威通讯社，信息具体（时间、人物、事件），表述客观中性。"
-    },
-    {
-      "title": "2026中国—东盟服饰联合展演在广西艺术学院上演",
-      "link": "https://www.chinanews.com.cn/tp/2026/11-06/10727090.shtml",
-      "pubDate": "Fri, 6 Nov 2026 12:06:40 +0800",
-      "contentSnippet": "图为展演现场。陈冠言 摄\r\n\n图为展演现场。陈冠言 摄\r\n\n图为展演现场。陈冠言 摄\r\n\n图为展演现场。陈冠言 摄\r\n\n图为展演现场。陈冠言 摄\r\n\n图为展演现场。陈冠言 摄\r\n\n图为展演现场。陈冠言 摄\r\n\n图为展演现场。陈冠言 摄\r\n\n图为展演现场。陈冠言 摄",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国—东盟服饰联合展演在广西艺术学院举行。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "中新网为较权威媒体且有现场图片署名，但正文仅图片说明，缺少具体细节与引述。"
-    },
-    {
-      "title": "台股盘中暴跌逾3700点创纪录 赖清德吁民众勿恐慌",
-      "link": "https://www.zaobao.com/news/china/story20261106-9957362",
-      "pubDate": "Fri, 06 Nov 2026 04:05:56 GMT",
-      "contentSnippet": "台湾股市星期五（11月6日）盘中一度暴跌逾3700点，创下历来最大盘中跌点纪录。台湾总统赖清德就此发表信心喊话，呼吁民众不要恐慌，并强调政府将密切关注金融市场变化，适时推出政策稳定股市。\n美国中期选举后，市场担忧民主党可能收紧人工智能（AI）产业监管，引发华尔街晶片股抛售潮，并波及亚洲股市。台湾加权指数星期五盘中一度重挫3737.67点，最低下探37837点，随后跌幅有所收窄。\n综合台湾《上报》《联合报》报道，赖清德星期五上午出席台湾国际旅展，参观美国展馆时回应近期金融市场波动指出，美国中期选举结束后产生新的政治局势，金融市场随之作出反应，是可以预期的现象。\n但他强调，全球已进入AI时代，AI",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "台股盘中暴跌逾3700点创纪录，赖清德呼吁民众勿恐慌。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报，较权威；有具体数据和时间，引述台湾媒体；但缺乏直接引述和独立交叉验证。"
-    },
-    {
-      "title": "（第九届进博会）进博会聚焦全球经济再平衡：开放合作是关键",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-06/10727109.shtml",
-      "pubDate": "Fri, 6 Nov 2026 11:49:11 +0800",
-      "contentSnippet": "中新社上海11月6日电(记者 肖玉笛)正在上海举行的第九届中国国际进口博览会期间，全球经济再平衡议题受到关注。与会者认为，各国应加强贸易往来、深化产业协同，推动绿色转型和包容发展，以开放合作应对全球经济挑战。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "第九届进博会在上海举行，与会者呼吁以开放合作应对全球经济挑战。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网（中新社），属较权威通讯社；有署名记者、时间地点明确，内容具体可查证，用词客观中性。"
-    },
-    {
-      "title": "四川攀枝花：台湾自媒体人探访“天下彝家第一村”",
-      "link": "https://www.chinanews.com.cn/tp/2026/11-06/10727089.shtml",
-      "pubDate": "Fri, 6 Nov 2026 11:39:14 +0800",
-      "contentSnippet": "图为两岸自媒体人和媒体记者参观村史馆。韩金雨 摄\r\n\n图为两岸自媒体人和媒体记者参观村史馆。韩金雨 摄\r\n\n图为台湾自媒体人正在录制相关旅游推介视频。韩金雨 摄\r\n\n图为台湾自媒体人正在录制相关旅游推介视频。韩金雨 摄\r\n\n图为两岸自媒体人和媒体记者探访村中民居。韩金雨 摄\r\n\n图为台湾自媒体人在观景台上录制相关旅游推介视频。韩金雨 摄\r\n\n图为从远处拍摄迤沙拉村，村庄与蓝天、青山相映成画。韩金雨 摄\r\n\n图为航拍迤沙拉村。（无人机照片）韩金雨 摄\r\n\n图为航拍迤沙拉村。（无人机照片）韩金雨 摄",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "台湾自媒体人参访四川攀枝花迤沙拉村并录制旅游推介视频",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "中国新闻网为权威媒体，图片有署名摄影记者，内容具体可查证，但正文以图注为主信息有限"
-    },
-    {
-      "title": "新疆石河子：第三届低空产业创新发展大会举办",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-06/10727159.shtml",
-      "pubDate": "Fri, 6 Nov 2026 11:37:54 +0800",
-      "contentSnippet": "中新网新疆石河子11月6日电 (史玉江)第三届低空产业创新发展大会(石河子)5日在新疆石河子市启幕。大会聚焦低空安全、场景应用、产业发展、战略合作，汇聚全国多地行业专家、龙头企业、科研院所及投融资机构500余名代表，共探低空经济高质量发展新路径。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "第三届低空产业创新发展大会在新疆石河子举办，500余名代表参会。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，属权威媒体，信息含时间地点人数等具体细节，用词客观。"
-    },
-    {
-      "title": "中国明年春节连休九天 为近年调休天数最少年份",
-      "link": "https://www.zaobao.com/news/china/story20261106-9957076",
-      "pubDate": "Fri, 06 Nov 2026 03:32:15 GMT",
-      "contentSnippet": "中国官方公布明年的全年放假安排，将再次迎来九天的“史上最长春节假期”，不过需要在假期前后的两个星期天调休补班两天。元旦、清明、端午、中秋均不不调休，使2027年成为中国近年调休天数最少的年份。\n中国国务院办公厅星期四（11月5日）公布2027年节假日安排通知。\n据央视新闻报道，2027年春节将在2月5日（除夕）至13日（正月初八）放假调休，共九天假期，与2026年同为史上最长的春节假期。“同时，为了避免节后连续上班七天，特意在春节前后的两个周末，各调休一天。”\n根据官方的放假安排，除春节外，中国明年只有劳动节和国庆节两个假期需要调休，元旦、清明的一天假期与周末自然相连不调休，端午、中秋均为星期",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国国务院公布2027年放假安排，春节连休九天但需调休两天，全年调休天数近年最少。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报，引述国务院通知及央视报道，信息具体可查证，用词客观。"
-    },
-    {
-      "title": "澳门前立法会议员区锦新颠覆国家政权等罪成 获刑12年半",
-      "link": "https://www.zaobao.com/news/china/story20261106-9956975",
-      "pubDate": "Fri, 06 Nov 2026 03:11:11 GMT",
-      "contentSnippet": "澳门特区首宗国安案宣判，前立法会议员区锦新罪成获刑12年半。\n澳门特区政府网站公告，澳门初级法院星期五（11月6日）就区锦新涉嫌触犯危害国家安全犯罪的刑事案件作出公开宣判，判处他12年六个月徒刑。\n69岁的区锦新被控三项罪名，包括在2001至2021年间触犯 “颠覆国家政权罪”，“与澳门特别行政区以外的组织、团体或个人建立联系，作出危害国家安全的行为罪”，以及“违反保密罪”三项罪名，案件今年9月以闭门方式完成审讯。\n澳门司法警察局指，区锦新自2022年起，涉嫌长期勾结多个境外反华组织，向对方提供大量不实且具煽动性的资料，供其在境外及网上持续公开展览，涉嫌引起他人对中央及澳门政府的仇恨，并破坏澳",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "澳门首宗国安案宣判，前立法会议员区锦新获刑12年半",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "联合早报为知名媒体，引述澳门政府网站公告及法院判决，信息具体可查证"
-    },
-    {
-      "title": "女高官余艳红主动投案：曾与马兴瑞共事 老单位陷塌方式腐败",
-      "link": "https://www.zaobao.com/news/china/story20261106-9956798",
-      "pubDate": "Fri, 06 Nov 2026 02:51:22 GMT",
-      "contentSnippet": "中国国家中医药管理局原局长余艳红被撤销全国政协委员资格两天后，官宣主动投案。余艳红曾工作多年的南方医科大学近年出现塌方式腐败，她入京前曾短暂担任广东副省长，时任广东省长是已落马的中共政治局原委员马兴瑞。\n中共中央纪委国家监委网站星期五（11月6日）通报，中国国家卫生健康委员会原中共党组成员，国家中医药管理局原党组书记、局长余艳红涉嫌严重违纪违法，主动投案，目前正接受中央纪委国家监委纪律审查和监察调查。\n星期三（11月4日）闭幕的中国全国政协常委会会议，刚刚通过关于撤销余艳红全国政协委员资格的决定。\n公开简历显示，64岁的余艳红是一名典型的专家型干部。她拥有博士学位，早年曾在南方医科大学工作多年",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国家中医药管理局原局长余艳红主动投案，正接受中央纪委国家监委审查调查。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报，引述中央纪委国家监委官方通报，时间人物具体，事实可查证。"
-    },
-    {
-      "title": "最高检：男子将11岁女童灌醉性侵，被检方监督立案后获刑16年",
-      "link": "https://m.thepaper.cn/newsDetail_forward_34418743",
-      "pubDate": "Fri, 06 Nov 2026 02:27:29 GMT",
-      "contentSnippet": "11月6日，最高人民检察院发布一批检察机关办理刑事立案监督案件典型案例。其中，孔某翔强奸立案监督案引起记者关注。\n案件发生在2024年2月24日。当天，孔某翔（案发时24岁）与高某某（案发时13周岁）共谋，将李某某（女，案发时11周岁）诱骗至宾馆。孔某翔提议玩转盘喝酒游戏，将李某某灌醉直至失去意识，二人先后与被害人发生性关系。当晚，被害人父母寻至宾馆找到被害人后报案，某公安局将留在案发现场的孔某翔、高某某带走调查。因被害人李某某仅指控高某某与自己发生过性关系，该局仅对高某某进行调查，后以案发时高某某依法不负刑事责任为由不予立案。\n2024年3月11日，被害人父亲李某强以李某某被孔某翔、高某某强",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "最高检发布典型案例，男子灌醉性侵11岁女童经监督立案获刑16年",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为知名媒体，引述最高检官方发布，案件时间地点人物具体，事实可查证"
+      "credibilityReason": "来源为知名媒体联合早报，引述台外交部官网消息，内容具体，但单方说法缺交叉验证"
     }
   ]
 }
