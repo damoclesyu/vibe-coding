@@ -1,31 +1,14 @@
 {
-  "generatedAt": "2026-11-09T05:29:54.094Z",
+  "generatedAt": "2026-11-10T06:40:42.079Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "英伟达黄仁勋长女黄敏珊因“家庭原因”取消韩国之行",
-      "link": "https://www.ithome.com/1/024/040.htm",
-      "pubDate": "Mon, 09 Nov 2026 00:52:00 GMT",
-      "contentSnippet": "IT之家 11 月 9 日消息，据韩联社 11 月 8 日报道，韩国科学技术信息通信部透露，英伟达首席执行官黄仁勋的长女、英伟达物理 AI 平台产品和技术营销高级总监黄敏珊突然取消访韩计划，其与韩国副总理兼科技信息通信部长官裴庆勋会面等日程安排随之告吹。\n\n报道提到，黄敏珊原本计划访韩出席定于 9 日至 10 日举行的“2026 年英伟达首尔 AI 日”活动。该活动将如期举行，由英伟达其他高管替黄敏珊出席。据悉，黄敏珊以“家庭原因”为由取消访韩，但具体理由不得而知。\n据韩国科技部介绍，裴庆勋原定于当天下午在首尔汝矣岛与黄敏珊会面。她还原本计划与科技部第二次官（副部长）柳济明共同主持“韩国 AI",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "英伟达黄仁勋长女黄敏珊因家庭原因取消访韩，首尔AI日活动如期举行",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家引述韩联社及韩国科技部，信息具体，但属人事行程报道，技术含量有限"
-    },
-    {
-      "title": "【钛晨报】国常会：完善资本市场稳市机制，增强股市内在稳定性；伯克希尔Q3营业利润小幅下滑，回购为年内单季最高，现金攀升至3774亿美元；中国央行连续第24个月增持黄金",
-      "link": "https://www.tmtpost.com/8197696.html",
-      "pubDate": "Mon, 09 Nov 2026 07:20:00 +0800",
-      "contentSnippet": "小米汽车架构调整：成立国际业务部，副总裁于立国兼任国际业务部总经理；火山引擎汽车研发苏杰被曝离职，知情人士称非技术负责人；马斯克放话：Q4营收料将增长70%，明年剑指5000亿美元；苹果研究团队披露机器人“大脑”进展，单项任务测试平均成功率为91%；谷歌母公司Alphabet斥资约5.48亿美元建仓高通，押注AI数据中心芯片赛道；中国首个科技法学院在雄安新区成立；国家发改委：抓紧出台配套政策，支持“六网协同”新场景培育打造；七部门发布《关于加快航运保险高质量发展的指导意见》；上交所：沪市上市公司总市值超65万亿元；消息称OpenAI完成110亿美元首期新融资，估值1.25万亿美元；市场监管总局",
+      "title": "与电建、能建等多家央企签下合作背后，西门子能源真正售卖的是中国总包出海的技术通行证",
+      "link": "https://www.tmtpost.com/8198945.html",
+      "pubDate": "Tue, 10 Nov 2026 13:40:43 +0800",
+      "contentSnippet": "进博会央企与西门子能源签约，核心是借其资质出海，合作窗口随国产技术进展变化。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -33,67 +16,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国常会完善资本市场稳市机制，伯克希尔Q3利润下滑，央行增持黄金",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容含具体数据与官方政策，但部分信息为摘要转述，缺少原始出处链接"
-    },
-    {
-      "title": "搜狐 2026 年第三季度总收入 1.33 亿美元同比下降 26%，净亏损 1500 万美元由盈转亏",
-      "link": "https://www.ithome.com/1/024/176.htm",
-      "pubDate": "Mon, 09 Nov 2026 05:17:12 GMT",
-      "contentSnippet": "IT之家 11 月 9 日消息，搜狐公司今日公布了截至 2026 年 9 月 30 日未经审计的 2026 年第三季度财务报告。\n\n总收入为 1.33 亿美元（IT之家注：现汇率约合 8.88 亿元人民币），较 2025 年同期下降 26%，较上季度下降 2%。\n\n营销服务收入为 1,500 万美元（现汇率约合 1 亿元人民币），较 2025 年同期增长 10%，较上季度下降 2%。\n\n在线游戏收入为 1.14 亿美元（现汇率约合 7.61 亿元人民币），较 2025 年同期下降 30%，较上季度下降 2%。\n\n归于搜狐公司的美国通用会计准则净亏损为 1,500 万美元（现汇率约合 1 亿元人",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "搜狐2026年Q3总收入1.33亿美元同比降26%，净亏损1500万美元由盈转亏",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家报道，引用搜狐未经审计财报，数据具体含收入、业务分部及同比环比，来源明确可信"
-    },
-    {
-      "title": "IDC：2026 年全球灵巧手出货量约 2.5 万台，中国厂商占比超 85%",
-      "link": "https://www.ithome.com/1/024/146.htm",
-      "pubDate": "Mon, 09 Nov 2026 05:08:01 GMT",
-      "contentSnippet": "IT之家 11 月 9 日消息，IDC 今日发布报告，随着人形机器人与具身智能产业发展，灵巧手的竞争已从自由度、抓握力等硬件参数，延伸至精细操作、感知控制及与具身智能模型的协同能力。当前灵巧手核心需求集中在人形机器人配套、科研教育与具身智能数据采集方向，工业等规模化应用仍处于探索阶段。\nIDC 预计，2026 年全球灵巧手出货量约 2.5 万台，该数据不含厂商向自有机器人产品的内部配套出货；其中中国厂商出货量占全球市场的比例预计超过 85%，在全球灵巧手市场占据重要地位。\n报告称，目前灵巧手行业仍处于发展初期，后续增长将受机器人应用进展、产品成本及商业化落地速度等因素共同影响。\n\n从硬件参数竞",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "IDC报告预计2026年全球灵巧手出货约2.5万台，中国厂商占比超85%",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家报道IDC权威报告，数据具体、口径明确，但正文摘要截断，细节有限"
-    },
-    {
-      "title": "轩逸跌了65%，卡罗拉却涨了：10万元合资家轿，迎来了分化时刻",
-      "link": "https://www.tmtpost.com/8197766.html",
-      "pubDate": "Mon, 09 Nov 2026 13:08:00 +0800",
-      "contentSnippet": "两家的分歧，最终落在一个经营问题上：在一个燃油车持续萎缩的市场里，愿意拿出多少利润，去换一个继续留在中国家庭车库里的位置。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "轩逸销量跌65%卡罗拉上涨，10万合资家轿市场现分化",
+      "aiSummary": "西门子能源借进博会与多家央企签约，核心是提供出海技术资质通行证",
       "credibilityScore": 78,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容聚焦销量数据与经营策略，逻辑清晰，但缺少具体数据出处"
+      "credibilityLevel": "medium-high",
+      "credibilityReason": "钛媒体为知名科技媒体，报道有具体事件与行业逻辑，但摘要信息较简略，缺少数据与原始出处"
     },
     {
-      "title": "美国 NASA 新招一批宇航员：为登月任务铺路，上一批 1/800 概率入选",
-      "link": "https://www.ithome.com/1/024/143.htm",
-      "pubDate": "Mon, 09 Nov 2026 05:00:03 GMT",
-      "contentSnippet": "IT之家 11 月 9 日消息，据美联社当地时间 11 月 8 日报道，为帮助实施阿尔忒弥斯项目，美国航空航天局 NASA 正在接受一批新的宇航员申请。\nNASA 官员于当地时间周六在肯尼迪航天中心举办的航空展上宣布了这一消息，该活动旨在推广月球探索以及航空和技术的进步。\nNASA 最近一次招募新宇航员是在两年前，共有超过 8,000 人申请，最后只有 10 个人在 2025 年 9 月进入最终筛选名单。\nIT之家从报道获悉，NASA 目前仅有 32 名现役宇航员，需要招募更多新成员，从而尽快将人类的脚步扩展到近地轨道之外。今年 4 月的阿尔忒弥斯二号乘组进行了绕月飞行，拉开了美国重回月球探险",
+      "title": "法国称伊朗黑客组织攻击了超市的制冷控制器",
+      "link": "https://www.solidot.org/story?sid=85842",
+      "pubDate": "Tue, 10 Nov 2026 13:31:35 +0800",
+      "contentSnippet": "法国网络危机协调中心周一发表报告，称上个月对逾 700 家超市制冷控制器发动网络攻击的黑客组织是伊朗的 Shahid Kaveh aka Cyber​​Av3ngers。报告称，受影响的零售集团包括了 Casino、Leclerc、Coopérative U、Metro、Carrefour 和 Intermarché，攻击引发了至少 15 起火灾，造成了数千万欧元的食品损失。法国欧洲与外交部在一份声明中表示：“就规模和攻击强度而言，这是一场前所未有的行动，这也是在法国领土上首次发生的、纯粹以破坏为目的的网络攻击行动。”",
+      "sourceName": "Solidot",
+      "sourceWeight": 75,
+      "allSources": [
+        "Solidot"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "法国称伊朗黑客组织攻击700家超市制冷控制器，引发火灾和食品损失",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体Solidot，引述法国官方报告和声明，细节具体，但缺少原始报告链接"
+    },
+    {
+      "title": "宝马与三星 SDI、LG 新能源达成电池电芯供应合作，将为欧美工厂供货",
+      "link": "https://www.ithome.com/1/024/737.htm",
+      "pubDate": "Tue, 10 Nov 2026 03:35:02 GMT",
+      "contentSnippet": "IT之家 11 月 10 日消息，当地时间 11 月 9 日，宝马集团宣布，已为第六代高压电池新增电芯供应商，分别与三星 SDI 和 LG 新能源达成合作。两家公司将从 2020 年代后期开始，分别通过其位于欧洲和美国的现有工厂向宝马供应电池电芯。\n\n宝马集团称，公司在全球供应商网络中践行本地服务本地（local for local）原则，尽可能在整车生产基地附近采购零部件。供应链的定向本地化，有助于强化欧洲、亚洲、北美这些核心战略区域的价值创造，缩短运输距离，提升供应安全性。布局全球多元化供应商网络，同样能够增强供应链韧性与灵活性。\n基于本次最新定点，后续宝马在欧洲的电芯供应商将包括宁德时代",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -101,16 +50,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "NASA启动新一批宇航员招募，为阿尔忒弥斯登月任务扩充人员",
+      "aiSummary": "宝马与三星SDI、LG新能源达成第六代电池电芯供应合作",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家转引美联社报道，含具体数据与时间节点，来源可追溯，但属二手编译"
+      "credibilityReason": "IT之家为知名科技媒体，报道引用宝马官方宣布，信息具体含供应商、时间及本地化原则，但缺少具体数据细节"
     },
     {
-      "title": "OPPO Pad Air6 平板 11 月 16 日发布：10050mAh 大电池，2.8K 120Hz 屏幕",
-      "link": "https://www.ithome.com/1/024/139.htm",
-      "pubDate": "Mon, 09 Nov 2026 04:51:17 GMT",
-      "contentSnippet": "IT之家 11 月 9 日消息，OPPO 官方今天在微博宣布，OPPO Pad Air6 平板将于 11 月 16 日 19:00 发布。新机为无纸化学习而生，号称“超能学，超护眼，超耐用”。\n\nIT之家注意到，这款平板电脑已经在京东开启预约。现阶段预约并在发布后购机可获赠有线充电版手写笔、智能保护壳，认证学生还可优惠 100 元。\n京东 OPPO Pad Air6 待公布立即预约\n商品页显示，这款平板将配备 10050mAh 大电池，拥有新一代明眸柔光屏，分辨率为 2.8K，支持 120Hz 高刷。\n截至目前，OPPO 官方暂未公布这款平板的详细参数，感兴趣的小伙伴可以关注IT之家后续报道。",
+      "title": "火狐 Firefox 浏览器 160 稳定版发布：新增本地语音转文字，支持 MKV 多种音频格式",
+      "link": "https://www.ithome.com/1/024/825.htm",
+      "pubDate": "Tue, 10 Nov 2026 06:39:57 GMT",
+      "contentSnippet": "IT之家 11 月 10 日消息，Mozilla 现已带来火狐 Firefox 160.0 浏览器稳定版更新。本次更新主要新增了本地语音转文字功能，并支持 MKV 多种音频格式。\n\n据介绍，本次更新新增 MKV（IT之家注：Matroska）文件播放支持，兼容的音频编码包括 FLAC、MP3 和 PCM。值得注意的是，火狐开发团队一年前并未考虑将 MP3 音频支持列入计划，不过最终还是决定加入。\n同时，本次更新为 Web Speech API 带来了语音转文字功能，可在设备端本地运行，支持 40 种不同语言。\n此外，本次更新还为画中画播放器新增了语音播放速度设置，支持在 0.25 倍至 2.0",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "火狐Firefox 160稳定版发布，新增本地语音转文字和MKV音频格式支持",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息含具体版本号、技术细节和编码格式，来源明确，但缺少官方链接引用"
+    },
+    {
+      "title": "苹果开始释放旗下首款折叠屏手机 iPhone Duo 库存，多家 Apple Store 支持部分机型当天到店取货",
+      "link": "https://www.ithome.com/1/024/824.htm",
+      "pubDate": "Tue, 10 Nov 2026 06:39:41 GMT",
+      "contentSnippet": "IT之家 11 月 10 日现场消息，今天有许多网友在社交平台发文称苹果开始大规模释放 iPhone Duo 库存，国内多家 Apple Store 零售店已支持部分版本直接购买和到店取货，无需继续等待预约或排队。\n\n以青岛万象城 Apple Store 为例，IT之家在现场询问店员获悉，目前 iPhone Duo 星光白配色 256GB/512GB 机型均有现货，消费者在苹果官网下单后即可当天在店内取货。除此之外，官网显示包括上海环贸 iapm、福州泰禾广场、厦门新生活广场等多地零售店也显示相应机型可下单取货。\n\n\n参考IT之家先前报道，有消息称苹果 iPhone Duo 折叠屏手机首销期（",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -119,33 +85,16 @@
       ],
       "coverageCount": 2,
       "coverageBoost": 5,
-      "aiSummary": "OPPO Pad Air6平板将于11月16日发布，配10050mAh电池和2.8K 120Hz屏幕。",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家和钛媒体，引用官方微博及京东预约页，信息具体但参数细节有限。（多源覆盖 +5）"
-    },
-    {
-      "title": "为什么「小电驴」也卖不动了",
-      "link": "https://www.tmtpost.com/8197760.html",
-      "pubDate": "Mon, 09 Nov 2026 12:46:17 +0800",
-      "contentSnippet": "存量竞争，集体承压",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体分析电动两轮车行业进入存量竞争阶段，集体承压。",
-      "credibilityScore": 72,
+      "aiSummary": "苹果首款折叠屏iPhone Duo库存释放，多家Apple Store支持当天到店取货",
+      "credibilityScore": 77,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，但正文仅一句摘要，缺少数据与细节支撑，信息量有限。"
+      "credibilityReason": "来源为IT之家等知名科技媒体，有现场探访和官网信息佐证，但缺乏苹果官方确认及具体销售数据（多源覆盖 +5）"
     },
     {
-      "title": "金河田：若二手显卡端子老化致使热烧毁，显卡损坏不属于电源质保范围",
-      "link": "https://www.ithome.com/1/024/137.htm",
-      "pubDate": "Mon, 09 Nov 2026 04:36:41 GMT",
-      "contentSnippet": "IT之家 11 月 9 日消息，电源等 PC 组件品牌金河田 (Golden Field) 今日发布重要公告《搭配二手显卡供电接口风险及售后说明》：\n\n金河田表示，电源连接器的可靠性必须建立在“配对端子镀层完好、插拔循环在规范限值内、无氧化”的前提下。而二手显卡普遍存在 12V 正极导针氧化发黑的问题，这会带来接触电阻升高，进而在高功率下电流分配失衡，最终端子烧毁；这种情况并非电源工艺缺陷。\n在面对此类售后问题时，金河田将进行故障溯源分析。如果问题源于电源侧，则将赔偿直接（电源）和连带（其它硬件）损失；如果是二手显卡端子导致，金河田将提供受损电源保修以及电源线材更换服务，显卡不在赔偿范围内。",
+      "title": "谷歌 Gemini 上线记忆摘要，可查看 / 编辑 / 删除 AI 记住的个人信息",
+      "link": "https://www.ithome.com/1/024/823.htm",
+      "pubDate": "Tue, 10 Nov 2026 06:39:31 GMT",
+      "contentSnippet": "IT之家 11 月 10 日消息，科技媒体 Android Authority 昨日（11 月 9 日）发布博文，报道称谷歌正在为 Gemini 推出“记忆摘要”（Memory summary）功能，让用户能查看、编辑和删除 AI 记住的个人信息，从而更好管理“AI 到底知道我什么”。\n与过去零散展示记忆条目不同，新功能会按类别整理 AI 收集的个人信息，包括个人背景、人际关系、工作、兴趣和偏好等。用户可以逐项编辑，也可以删除不希望 Gemini 继续记住的内容，还能查看记忆的修改历史。\n入口位于 Gemini 的“设置”中的“个人智能”（Personal Intelligence）栏目，再进",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -153,16 +102,101 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "金河田公告称二手显卡端子老化致烧毁不属电源质保范围",
+      "aiSummary": "谷歌Gemini上线记忆摘要功能，用户可查看编辑删除AI记忆",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家转引Android Authority博文，信息具体，功能细节清晰，来源可追溯"
+    },
+    {
+      "title": "不到三月 1199 → 638 元：小米米家立式学习灯 2C 新低，11000lm 高光通量 + 双光源设计",
+      "link": "https://www.ithome.com/1/024/822.htm",
+      "pubDate": "Tue, 10 Nov 2026 06:37:59 GMT",
+      "contentSnippet": "小米旗下米家立式学习灯 2C 今年 8 月末上市，该产品官方定价为 1199 元。\n今日京东国补后直降至 751 元，PLUS 会员 733 元。\n下单返 20 元 E 卡（详见赠品），晒单返 20 元京豆，折合仅需 693 元近期好价。\n京东米家立式学习灯 2C 国补后 733 元直达链接\n另外 PLUS 会员可在 20:00 蹲点 2 积分兑换 800-80 元神券：点此兑券。\n兑换后仅需 678 元破冰新低，返卡 + 返豆后低至 638 元。\n\n\n这款学习灯整机重量约 8.5kg，灯头中框薄至 28mm，前后具备 11° 的防倾倒设计，符合国标和欧盟标准，上灯杆处提供触摸按键，方便用户轻",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "小米米家立式学习灯2C上市不到三月价格从1199元降至638元新低",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，促销信息具体含价格链路与产品参数，但属导购类内容非深度报道"
+    },
+    {
+      "title": "消息称华为星芒并非线上品牌，阔直板首批备货不多",
+      "link": "https://www.ithome.com/1/024/821.htm",
+      "pubDate": "Tue, 10 Nov 2026 06:37:30 GMT",
+      "contentSnippet": "IT之家 11 月 10 日消息，据博主 @数码闲聊站 今日爆料，星芒并非线上品牌，线上线下都会售卖，线上在现有华为店铺内销售，线下会进驻华为体验店。据其透露，阔直板首批备货不多，16GB 高配版本只在线上销售，12GB 版本全渠道销售。\n\nIT之家注意到，该博主此前曾爆料华为子品牌星芒的英文名是 OSTA，手机盒上也写的 OSTA，第一款阔直板手机叫 OSTA O1 Pro。该机可选星空黑 / 星云白 / 星芒紫三款配色，以及 12+256GB/12+512GB/16+512GB/16+1TB 容量。\n此前爆料显示，华为旗下“星芒”手机目前定位是主攻线上渠道，相对有性价比。据称，“星芒”系列",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "博主爆料华为星芒非线上品牌，线上线下均售，阔直板首批备货不多",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "IT之家为知名科技媒体，但核心信息源自博主爆料，缺乏华为官方确认，属传闻性质"
+    },
+    {
+      "title": "小户型一步到位：卡萨帝 10kg 热泵洗烘一体机 10498 → 6104 元破冰新低",
+      "link": "https://www.ithome.com/1/024/819.htm",
+      "pubDate": "Tue, 10 Nov 2026 06:32:42 GMT",
+      "contentSnippet": "卡萨帝 · 揽光 GLD 热泵洗烘一体机 10kg（型号：CE AB10LWUGLDU1）日常售价 10498 元。\n京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 6104.2 元：\n\n领 8.5 折洗衣机券：点此查看。\n\n领 800-80 元 PLUS 专享券（需 2 积分 10 点、20 点抢）：点此查看。\n\n下单时选择“以旧换新 → 个护健康 → 普通牙刷（无需回收）”补贴 500 元。\n\n参与家电家居多买多返活动，再返 100 元。\n\n京东卡萨帝 揽光 10kg 热泵洗烘一体机 CE AB10LWUGLDU1 国补后 6104.2 元直达链接",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "卡萨帝10kg热泵洗烘一体机京东大促叠加优惠后降至6104元",
+      "credibilityScore": 78,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，促销信息具体含型号、价格和优惠步骤，但属导购类内容，技术分析有限"
+    },
+    {
+      "title": "本田 2027 财年半年报归母净利润 5167.61 亿日元，同比增长 65.7%",
+      "link": "https://www.ithome.com/1/024/817.htm",
+      "pubDate": "Tue, 10 Nov 2026 06:31:40 GMT",
+      "contentSnippet": "IT之家 11 月 10 日消息，本田今日发布 2027 财年（2026年4月1日～2027年3月31日）半年报（2026年4月1日～2026年9月30日）业绩快报报告：\n \n  营业总收入：12.04 万亿日元（IT之家注：现汇率约合 5090.61 亿元人民币），同比增长 13.2% \n  \n  毛利润：2.22 万亿日元（现汇率约合 938.94 亿元人民币），同比增长 3.32% \n  \n  毛利率：18.44%，同比下降 1.77 个百分点 \n  \n  归母净利润：5167.61 亿日元（现汇率约合 218.53 亿元人民币），同比增长 65.7% \n  \n  经营现金流：6328.",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "本田2027财年半年报归母净利润5167.61亿日元，同比增长65.7%",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，财报数据具体详实，含营收利润等多维指标，但缺少原始财报链接引用"
+    },
+    {
+      "title": "ATK A9 Mini 大师版 + 宝可梦联名鼠标新叶喵款上市，339.15 元",
+      "link": "https://www.ithome.com/1/024/815.htm",
+      "pubDate": "Tue, 10 Nov 2026 06:29:04 GMT",
+      "contentSnippet": "IT之家 11 月 10 日消息，ATK 即将于今日 15:00 开始销售 A9 Mini 大师版 + 宝可梦联名鼠标新叶喵款。这款产品整体为浅深双绿配色，装饰以新叶喵形象，随附主题贴纸，到手价为 339.15 元。\n\n京东 ATK A9 Mini 大师版 + 宝可梦联名鼠标 新叶喵款 339.15 元直达链接\n该鼠标采用中小手对称模具，三维 118.4 × 61.2 ×38.6 (mm)；基于 Nordic nRF54LM20 主控、原相 PAW3955 光学传感器，搭配 ATK 定制光学微动、TTC 金轮编码器。\n其在 USB-C 和 2.4GHz 模式下均支持 8kHz 回报率，按键延迟",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "ATK推出宝可梦联名新叶喵款A9 Mini大师版鼠标，售价339.15元",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道引用厂商官方公告，技术解释具体，来源明确"
+      "credibilityReason": "IT之家为知名科技媒体，产品参数具体详实，含主控、传感器、微动等细节，信息可信度高"
     },
     {
-      "title": "鸿蒙智行尊界汽车或推全新子品牌：定价 40-50 万元区间，主打 SUV 车型",
-      "link": "https://www.ithome.com/1/024/135.htm",
-      "pubDate": "Mon, 09 Nov 2026 04:20:42 GMT",
-      "contentSnippet": "IT之家 11 月 9 日消息，据财联社报道，知情人士透露，尊界或将推出一个全新子品牌，定价区间在 40-50 万左右，车型主打 SUV。尊界与玛莎拉蒂的合作分属于两个项目，目前（子品牌）具体细节尚未正式确定。\n\n据IT之家此前报道，有市场传闻称，玛莎拉蒂母公司 Stellantis、华为、江淮三方合作接近落地，目前规划两款全新纯电车型，整车将由尊界超级工厂负责制造。新车分别是中大型纯电 SUV 和大型纯电 GT，基于不同的产品定位，两款产品承担不同的市场责任。\n尊界是华为与江淮汽车采用鸿蒙智行模式合作推出的豪华汽车品牌，旗下首款车型为尊界 S800 轿车，发布于去年 5 月，当时售价区间 7",
+      "title": "岚图 25/26 款梦想家乾崑版、泰山、追光 L 升级华为乾崑智驾：新增漫游巡航 RCA、自动防追尾辅助 ARCP 等",
+      "link": "https://www.ithome.com/1/024/814.htm",
+      "pubDate": "Tue, 10 Nov 2026 06:25:50 GMT",
+      "contentSnippet": "IT之家 11 月 10 日消息，岚图汽车今日宣布 25/26 款岚图梦想家乾崑版、岚图泰山、岚图追光 L 迎来了乾崑智驾与鸿蒙座舱的升级，带来 ADS5.0.2、AR 人找车、下车守卫、HUD 倒车后视影像、一句话生成智慧场景等实用功能。\nIT之家整理如下：\n\n岚图 App 新增“AR 人找车”（全系岚图汽车乾崑版车型适用）\n\n新增漫游巡航 RCA 功能：开启后在非导航状态下，进入无目的地领航辅助，无导航也能开，领航辅助车辆随心逛，支持红绿灯识别路口连续通行、自主超车变道、岔路口拐弯等操作，适合城市漫游、城区无图随机逛。\n\n新增自动防追尾辅助 ARCP：在高速和城市快速路上，开启了领航 /",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -170,67 +204,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "尊界或推40-50万元SUV子品牌，细节未定",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "IT之家转引财联社知情人士消息，来源较可靠但属传闻，细节未确认，缺乏官方证实"
-    },
-    {
-      "title": "博主指控美国苹果 Apple Store 未经顾客允许开通自动续费订阅，员工曾背负 40% 业绩指标",
-      "link": "https://www.ithome.com/1/024/134.htm",
-      "pubDate": "Mon, 09 Nov 2026 04:08:12 GMT",
-      "contentSnippet": "IT之家 11 月 9 日消息，YouTube 博主 Louis Rossmann 昨日爆料称，部分美国地区的 Apple Store 直营店员工在顾客没有充分知情同意的情况下，擅自为其开通 Apple One 等服务的自动续费试用订阅。\n\nIT之家了解到，当顾客前往 Apple Store 后，店员会询问是否愿意扫描二维码，以获得个性化购物体验。如果顾客同意，店员就可以用公司配发的设备查看顾客信息，其中包含他持有的苹果设备、订阅的苹果服务，以及根据近期购买记录给出的订阅优惠。\n然后店员可以向顾客展示可用优惠，屏幕上会出现「同意」和「拒绝」两个按钮。如果点同意，只要顾客 Apple 账户关联的",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "博主爆料苹果店员未经同意擅自为顾客开通自动续费订阅",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体报道，有具体爆料来源和细节描述，但属单方指控，缺乏苹果官方回应及多方核实"
-    },
-    {
-      "title": "中国讨论征收糖税",
-      "link": "https://www.solidot.org/story?sid=85831",
-      "pubDate": "Mon, 09 Nov 2026 12:03:16 +0800",
-      "contentSnippet": "随着肥胖与糖尿病风险上升，专家及媒体提议借当下消费税改革契机，对含糖饮料进行分级征税，促使民众减少糖分摄入。《健康时报》称，中国超重和肥胖者的比例已超 50%，精制糖摄入过量是重要诱因。文章指出，征收含糖税或许是大势所趋，并建议中国从审慎研究并有序试点开始，按含糖量设置阶梯税率，高糖高税、低糖轻税、无糖免税，并将税收定向用于校园健康饮食项目等。截至 2024 年 7 月，全球至少有 116 个国家对至少一种含糖饮料征收国家级消费税。世界卫生组织去年 7 月呼吁各国对含糖饮料征收至少达到零售价 20% 的税率，目标是到 2035 年将含糖饮料整体价格提高 50%。明年 3 月，中国新版预包装食品",
-      "sourceName": "Solidot",
-      "sourceWeight": 75,
-      "allSources": [
-        "Solidot"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国专家提议借消费税改革对含糖饮料分级征税以应对肥胖问题",
-      "credibilityScore": 75,
+      "aiSummary": "岚图多款车型升级华为乾崑智驾ADS5.0.2，新增漫游巡航等功能",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体Solidot，引述《健康时报》及WHO数据，信息具体但属政策讨论阶段"
+      "credibilityReason": "IT之家为知名科技媒体，内容具体列出功能细节，来源为岚图官方宣布，但缺少原始链接引用"
     },
     {
-      "title": "微信 AI 录音笔体验：手机都能装的办公神器，免费！",
-      "link": "https://www.ifanr.com/1688410?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pubDate": "Mon, 09 Nov 2026 04:00:04 +0000",
-      "contentSnippet": "又能摸鱼了\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "sourceName": "爱范儿",
-      "sourceWeight": 82,
-      "allSources": [
-        "爱范儿"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "爱范儿体验微信AI录音笔功能，称其为免费办公神器",
-      "credibilityScore": 65,
-      "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体但正文信息极简，缺乏技术细节和数据支撑，标题有推广倾向"
-    },
-    {
-      "title": "自然干旱叠加数据中心建设，印度尼西亚峇淡遭遇自来水供应危机",
-      "link": "https://www.ithome.com/1/024/121.htm",
-      "pubDate": "Mon, 09 Nov 2026 03:57:35 GMT",
-      "contentSnippet": "IT之家 11 月 9 日消息，据法新社当地时间本月 8 日报道，与新加坡隔海相望的印度尼西亚峇淡（巴淡）正因自然与人为两方面因素的共同影响遭遇自来水供应危机，当地居民的日常饮食洗漱都受到严重影响。\n峇淡目前正遭受长期干旱，近来愈演愈烈的厄尔尼诺现象更加重了气候影响，导致主要水源储水量严重下降。另一方面，峇淡凭借其优厚的地理位置和相对开放的政策成为东南亚 AI 数据中心基建的关键节点之一，而部分数据中心配备的是高耗水冷却系统。\n\n▲ 峇淡与新加坡图源：谷歌地图\n人类难以干预气候，这时数据中心便成为居民的愤怒出口，引发广泛抗议。当地有关部门已要求数据中心运营方自建海水淡化厂，有业者承诺采用闭环水",
+      "title": "三星 Galaxy S27 系列 4 款机型影像配置曝光：Pro / Ultra 均为 2 亿主摄",
+      "link": "https://www.ithome.com/1/024/813.htm",
+      "pubDate": "Tue, 10 Nov 2026 06:25:48 GMT",
+      "contentSnippet": "IT之家 11 月 10 日消息，科技媒体 SammyGuru 昨日（11 月 9 日）发布博文，分享了一组表格数据，展示了三星 Galaxy S27、Galaxy S27+、Galaxy S27 Pro 以及 Galaxy S27 Ultra 四款机型的影像规格信息。\n数码博主 @i冰宇宙 今天（11 月 10 日）发布微博，也分享了一张 Galaxy S27 系列的影像规格信息，可以更直观看到规格信息。\n\n不过，对期待影像大幅跃升的用户而言，这次曝光的信息并不算惊喜：标准版与 Plus 版的相机硬件可能基本延续上一代方案。Galaxy S27 和 S27+ 预计继续采用 5000 万像素主",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -238,16 +221,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "印尼峇淡干旱叠加数据中心耗水，引发自来水危机与抗议",
+      "aiSummary": "三星Galaxy S27系列四款机型影像规格曝光，Pro/Ultra配2亿主摄",
+      "credibilityScore": 72,
+      "credibilityLevel": "high",
+      "credibilityReason": "知名科技媒体IT之家转述爆料，信息具体但属未证实传闻，缺乏官方来源"
+    },
+    {
+      "title": "美国加州“亿万富翁税”被否决，硅谷科技富豪投入数亿美元阻止提案通过",
+      "link": "https://www.ithome.com/1/024/810.htm",
+      "pubDate": "Tue, 10 Nov 2026 06:24:14 GMT",
+      "contentSnippet": "IT之家 11 月 10 日消息，据美联社今天报道，美国加利福尼亚州选民否决了第 40 号提案（Proposition 40），这是美国首个针对亿万富翁征收财富税的提案。部分科技巨头领袖投入巨额资金，试图阻止该法案通过。\n据报道，该提案未能通过对加州州长加文 · 纽森等蓝党人士而言是胜利。加州大多数选民通过邮寄方式投票，美联社当地时间周一确认，反对票已足以确保提案被否决。\n同时，反对该提案人士筹集的资金，大概是支持阵营的 10 倍。仅谷歌联合创始人谢尔盖 · 布林（Sergey Brin），就向试图阻止该提案通过的政治行动委员会“建设更好的加州”献金超 1 亿美元（IT之家注：现汇率约合 6.",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "加州亿万富翁税提案被选民否决，科技富豪投入巨资反对",
       "credibilityScore": 78,
       "credibilityLevel": "medium",
-      "credibilityReason": "引用法新社报道，事实具体，但正文摘要截断、细节有限，属转载编译"
+      "credibilityReason": "引用美联社原始报道，信息具体含金额数据，但正文摘要不完整且来源为转载"
     },
     {
-      "title": "比亚迪仰望鼎曜旗舰轿车现身官网：确认支持应急浮水功能，意外落水自动激活",
-      "link": "https://www.ithome.com/1/024/120.htm",
-      "pubDate": "Mon, 09 Nov 2026 03:57:22 GMT",
-      "contentSnippet": "IT之家 11 月 9 日消息，11 月 7 日晚，在阿布扎比，比亚迪旗下超豪华行政旗舰轿车 —— 仰望鼎曜迎来全球首秀。\n\nIT之家注意到，这款新车目前已现身比亚迪仰望汽车官网。\n\n官网信息显示，比亚迪仰望鼎曜支持应急浮水功能，在意外落水时会紧急自动激活。\n\n参考IT之家此前报道，比亚迪仰望鼎曜长宽高分别为 5600/2030/1590mm，轴距更是达到了 3500mm。新车拥有鼎形前脸和鼎形钻切大灯。新车拥有首尾延展的 4.8 米贯穿式双腰线，并配备“中轴对开门”，前门开合角 80°，后门开合角 90°。\n新车采用“行政级大四座”的四座独立布局，后排配有中央行政岛台，同样运用实木材质，集成",
+      "title": "本田宣布多项北美混合动力投资，包括一座年产能 24 万辆的俄亥俄新厂",
+      "link": "https://www.ithome.com/1/024/809.htm",
+      "pubDate": "Tue, 10 Nov 2026 06:23:30 GMT",
+      "contentSnippet": "IT之家 11 月 10 日消息，本田 (Honda) 当地时间 9 日宣布在北美进行一系列混合动力领域投资，包括在美国俄亥俄州建设一座年产能 24 万辆的新汽车工厂。\n这将是本田在俄亥俄的第 4 家汽车工厂，也是该企业在美国的第 9 家汽车相关生产基地。该项目预计 2029 年投产，具备燃油 / 混动 / 纯电车辆制造能力，总投资 30 亿美元（IT之家注：现汇率约合 200.6 亿元人民币）。\n\n本田正对其位于美国阿拉巴马州汽车工厂进行改造投资，提升产能并扩大 V6 混动发动机的生产规模；俄亥俄州安娜发动机厂则在经历重大改造，为下一代四缸发动机的生产做好准备；俄亥俄州变速器厂的一条生产线改",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -255,10 +255,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "比亚迪仰望鼎曜旗舰轿车官网亮相，确认支持落水自动激活应急浮水功能",
-      "credibilityScore": 85,
+      "aiSummary": "本田宣布投资30亿美元在俄亥俄州建年产能24万辆新厂，2029年投产",
+      "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息源自比亚迪官网及全球首秀，含具体尺寸和功能细节，但缺少官方原始链接引用"
+      "credibilityReason": "IT之家为知名科技媒体，信息含具体投资额、产能、时间节点及工厂细节，逻辑清晰，但缺少原始官方链接引用"
     }
   ]
 }

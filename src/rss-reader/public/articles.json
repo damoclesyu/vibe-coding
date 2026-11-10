@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-09T05:28:42.384Z",
+  "generatedAt": "2026-11-10T06:39:26.640Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "中国海警舰艇编队11月9日在我钓鱼岛及其附属岛屿领海内维权巡航",
-      "link": "https://www.chinanews.com.cn/gn/2026/11-09/10728742.shtml",
-      "pubDate": "Mon, 9 Nov 2026 13:13:37 +0800",
-      "contentSnippet": "中新网11月9日电 据“中国海警”微信公众号消息，11月9日，中国海警登步舰编队在我钓鱼岛及其附属岛屿领海内维权巡航。这是中国海警依法开展的维权巡航活动。",
+      "title": "在“四叶草”里，看见中国太保的“AI+”与“心”温度",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-10/10729377.shtml",
+      "pubDate": "Tue, 10 Nov 2026 14:29:55 +0800",
+      "contentSnippet": "第九届进博会技术装备展区，中国太保智慧服务展厅以“保险守护科技进步，智慧服务美好生活”为主题，把“大康养、国际化、人工智能+”三条战略线索铺成一条可走、可看、可体验的观展路线。现场展台热度最高的区域并不全是“硬核科技”，而是那些把保险服务从“事后理赔”往前推的居家健康体验。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -16,16 +16,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国海警登步舰编队11月9日在钓鱼岛领海内依法维权巡航。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网转引中国海警官方消息，信息具体，属官方权威发布。"
+      "aiSummary": "进博会中国太保展台展示AI+大康养战略与居家健康服务体验",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium-high",
+      "credibilityReason": "中国新闻网为正规媒体，内容具体可查证，但属企业宣传性质报道，缺乏独立信源交叉验证"
     },
     {
-      "title": "李成：AI打开的新天地，必须容下整个人类文明的存续、发展与繁荣",
-      "link": "https://m.thepaper.cn/newsDetail_forward_34437830",
-      "pubDate": "Mon, 09 Nov 2026 04:47:20 GMT",
-      "contentSnippet": "11月9日，“文明互鉴国际论坛2026”在澳门开幕，香港大学当代中国与世界研究中心主任李成在开幕式做主旨发言。他表示，今天当AI打开一片新天地，必须容下中美两国、世界各国以及整个人类文明的存续、发展与繁荣。",
+      "title": "与世界共享机遇：进博会是中国坚持“开门发展”的生动注脚 | 新漫评",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-10/10729380.shtml",
+      "pubDate": "Tue, 10 Nov 2026 14:22:51 +0800",
+      "contentSnippet": "11月5日至10日，第九届中国国际进口博览会在上海举行。4142家境外企业参展，超过2000家首次参展。在世界贸易市场因关税等因素持续承压的背景下，这样的规模本身就是一种态度。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "第九届进博会在上海举行，4142家境外企业参展，超2000家首次参展。",
+      "credibilityScore": 65,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为中新网属官方媒体，数据具体可查，但属评论性漫评，缺乏独立交叉验证。"
+    },
+    {
+      "title": "沪游双周报｜年末各大赛事总决赛相继来袭",
+      "link": "https://m.thepaper.cn/newsDetail_forward_34444103",
+      "pubDate": "Tue, 10 Nov 2026 05:41:42 GMT",
+      "contentSnippet": "沪游速递分为政策速递、产业资讯和活动预告三部分，精选北京、上海、广州、杭州等城市2026年10月26日至2026年11月8日游戏产业政策、产业发展动态。\n政策速递\n上海\n杨浦区出台政策支持游戏电竞产业高质量发展\n11月2日，上海市杨浦区政府发布《杨浦区推动游戏电竞产业高质量发展支持政策》通知，围绕培育游戏电竞产业集群、鼓励原创作品和IP转化、推动“游戏电竞+”融合发展、鼓励创新研发和应用、强化产业生态服务保障、加强产教融合六大方向，推出16项支持举措。助力打造上海全球电竞之都核心区，推动杨浦游戏电竞产业高质量发展。（来源：上海市杨浦区人民政府）\n厦门\n集美区启动2025年度支持游戏动漫发展申报",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -33,189 +50,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "李成在澳门文明互鉴论坛称AI新天地须容人类文明存续发展繁荣",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为知名媒体，信息含具体时间地点人物及直接引述，事实可查证"
-    },
-    {
-      "title": "（深圳APEC）外资持续“加码”中国市场 共享亚太开放合作新机遇",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-09/10728724.shtml",
-      "pubDate": "Mon, 9 Nov 2026 12:26:14 +0800",
-      "contentSnippet": "中新社广州11月9日电 (记者 程景伟)“在深圳坪山，我们工厂方圆几公里之内，就有精密零部件、电子和制造方面的合作伙伴，这让我们开发和改进产品快得多。”在AMTH集团首席执行官王祐聪看来，中国不仅有市场，还是重要的研发制造基地。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中新社报道外资企业借深圳APEC会议表达持续加码中国市场意愿。",
-      "credibilityScore": 78,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新社属较权威通讯社，有具名记者和直接引述，但单一信源、企业背景需核实。"
-    },
-    {
-      "title": "（深圳APEC）联合国政策事务副秘书长：冀APEC会议成果助推联合国相关议程",
-      "link": "https://www.chinanews.com.cn/gn/2026/11-09/10728717.shtml",
-      "pubDate": "Mon, 9 Nov 2026 12:24:38 +0800",
-      "contentSnippet": "中新社北京11月9日电 (记者 周昕)亚太经合组织(APEC)第三十三次领导人非正式会议将于11月18日至19日在深圳举行。近日，联合国政策事务副秘书长莱德在接受中新社等媒体采访时表示，希望深圳APEC会议能产出积极成果，帮助联合国在更广泛的全球议程上取得进展。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "联合国副秘书长莱德期望深圳APEC会议成果助推联合国全球议程。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新社，属权威通讯社；有具体人物、时间、地点及直接引述，事实可查证。"
-    },
-    {
-      "title": "（第九届进博会）毕马威中国主席：中国企业在AI认同和落地上更具优势",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-09/10728722.shtml",
-      "pubDate": "Mon, 9 Nov 2026 12:20:04 +0800",
-      "contentSnippet": "中新社上海11月9日电 (陶思阅)“人工智能(AI)仍是核心议题。”在上海举行的第九届中国国际进口博览会期间，毕马威亚太区及中国主席邹俊受访时说，其发展速度与社会渗透力前所未有，中国企业在AI的价值认同和落地节奏上，相较全球平均水平更具优势。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "毕马威中国主席称中国企业在AI认同与落地上更具优势",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "中新社为权威通讯社，有具名人物与直接引述，时间地点明确，但属单一信源观点"
-    },
-    {
-      "title": "（第九届进博会）全球风味走上中国餐桌 舌尖选择迎开放机遇",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-09/10728711.shtml",
-      "pubDate": "Mon, 9 Nov 2026 12:06:17 +0800",
-      "contentSnippet": "中新社上海11月9日电 题：全球风味走上中国餐桌 舌尖选择迎开放机遇",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中新社报道第九届进博会全球食品亮相中国餐桌，展现开放机遇。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新社（权威通讯社），内容具体（时间地点明确），用词客观，但仅摘要无直接引述。"
-    },
-    {
-      "title": "交通运输部：继续暂停对美船舶收取船舶特别港务费",
-      "link": "https://www.chinanews.com.cn/gn/2026/11-09/10728720.shtml",
-      "pubDate": "Mon, 9 Nov 2026 11:57:06 +0800",
-      "contentSnippet": "中新网11月9日电 交通运输部网站9日发布《交通运输部关于继续暂停对美船舶收取船舶特别港务费、暂停开展航运业造船业及相关产业链供应链安全和发展利益受影响情况调查的公告》称，为落实中美第八轮经贸磋商成果，经国务院批准，继续暂停实施《交通运输部关于对美船舶收取船舶特别港务费的公告》(交通运输部公告2025年第54号)、《交通运输部办公厅关于印发〈对美船舶收取船舶特别港务费实施办法〉的通知》(交办水〔2025〕59号)、《交通运输部关于启动航运业、造船业及相关产业链供应链安全和发展利益受影响情况调查的公告》(交通运输部公告2025年第55号)至2027年1月10日。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网",
-        "澎湃新闻",
-        "联合早报·中港台"
-      ],
-      "coverageCount": 3,
-      "coverageBoost": 10,
-      "aiSummary": "交通运输部公告继续暂停对美船舶收取特别港务费至2027年1月10日",
-      "credibilityScore": 100,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为交通运输部官方公告，经中新网等多家媒体转载，文号具体可查证（多源覆盖 +10）"
-    },
-    {
-      "title": "公安部推出5项交管便民利企新措施 12月1日起全国推行",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-09/10728709.shtml",
-      "pubDate": "Mon, 9 Nov 2026 11:46:36 +0800",
-      "contentSnippet": "中新网11月9日电 据“公安部交通管理局”微信公众号消息，为深入贯彻党中央、国务院关于高质量发展和高效能治理的决策部署，持续落实国务院办公厅“高效办成一件事”工作要求，公安部聚焦深化公安交管行政管理服务改革，进一步提升交管服务便利化水平，提升群众企业办事体验，推出进口小客车新车上牌“一件事”等5项公安交管便民利企改革新措施，将自12月1日起在全国全面推行。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "公安部推出5项交管便民利企新措施，12月1日起全国推行",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "中新网为权威媒体，转引公安部交管局官方公众号，时间明确、内容具体可查证"
-    },
-    {
-      "title": "渣打连续第九年亮相进博会，以跨境金融“连接器”助科创出海",
-      "link": "https://m.thepaper.cn/newsDetail_forward_34437535",
-      "pubDate": "Mon, 09 Nov 2026 03:41:13 GMT",
-      "contentSnippet": "第九届中国国际进口博览会期间，渣打银行连续第九年参展，以“连接通经纬，机遇正当时”为主题亮相服务贸易展区。围绕企业出海、人民币国际化、财富管理和可持续金融，渣打集中展示综合金融服务方案，并借进博平台推动中外产业、资本与创新要素对接。\n\n进博会渣打银行展台作为扎根中国近170年的国际银行，渣打视进博会为对接中国市场、共享开放机遇的重要窗口。九年来，借进博平台，渣打已与超过40家企业、机构及行业协会达成战略合作，合作从单一交易支持拓展至全产业链深度协同。渣打银行（中国）有限公司行长兼副董事长鲁静表示，上海既是全球供应链关键节点和跨国公司区域总部聚集地，也是连接在岸与全球金融市场的枢纽。连续九年参展",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻",
-        "央视新闻"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "渣打银行连续第九年参展进博会，展示跨境金融服务方案",
-      "credibilityScore": 90,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为澎湃新闻和央视新闻，属较权威媒体，内容具体含直接引述，事实可查证（多源覆盖 +5）"
-    },
-    {
-      "title": "苏巧慧支持度三百分点 李四川竞办：街头才是最真实民调",
-      "link": "https://www.zaobao.com/news/china/story20261109-9969078",
-      "pubDate": "Mon, 09 Nov 2026 03:37:07 GMT",
-      "contentSnippet": "台湾《联合报》最新民调显示，民进党新北市长参选人苏巧慧以42%支持度领先国民党候选人李四川三个百分点。李四川竞选办主任江怡臻对此回应称，“街头才是最真实的民调现场”。\n本月底的台湾九合一地方选举进入倒计时阶段，《联合报》星期一（11月9日）发布的新北市长选情最新民调显示，42%选民支持苏巧慧，39%选民支持李四川。双方差距在抽样误差范围内。19%选民仍未决定投谁，如何催出游离选票，是最后冲刺的重点。\n从年龄差异来看，苏巧慧在40至59岁及60岁以上选民中，都获得41%支持，和李四川的38%不相上下；40岁以下选民，44%挺苏巧慧，41%拥护李四川，两人也不分轩轾。\n从胜选声势来看，37%选民看",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "台媒民调显示苏巧慧领先李四川三个百分点，李办回应称街头才是真实民调",
+      "aiSummary": "澎湃新闻汇总近期游戏电竞产业政策与赛事动态",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "联合早报为较权威媒体，引用联合报具体民调数据及直接引述，事实可查证，但单一民调来源"
+      "credibilityReason": "来源为知名媒体澎湃新闻，政策信息具体且标注政府出处，但属行业汇总报道，部分细节待核实"
     },
     {
-      "title": "中国继续暂停实施24%对美加征关税税率 为期两个月",
-      "link": "https://www.zaobao.com/news/china/story20261109-9969039",
-      "pubDate": "Mon, 09 Nov 2026 02:55:07 GMT",
-      "contentSnippet": "在中美元首预计下周于深圳会晤之际，中国官方宣布，将从星期二（11月10日）下午起，继续暂停实施24%的对美加征关税税率，为期两个月，同时保留10%的加征关税税率。\n据中国财政部网站消息，中国国务院关税税则委员会星期一（9日）发布关于调整对原产于美国的进口商品加征关税措施的公告。公告称，为落实中美两国元首华盛顿会晤达成的成果共识，根据《中国关税法》、《中国海关法》、《中国对外贸易法》等法律法规和国际法基本原则，经中国国务院批准，自星期二下午1时01分起，调整《国务院关税税则委员会关于对原产于美国的进口商品加征关税的公告》（税委会公告2025年第4号）规定的加征关税措施，在两个月内继续暂停实施24",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
+      "title": "（第九届进博会）进博会读懂中国“聚侨力”：侨心所向机遇共享",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-10/10729372.shtml",
+      "pubDate": "Tue, 10 Nov 2026 13:41:07 +0800",
+      "contentSnippet": "中新网上海11月10日电 (记者 李佳佳)第九届中国国际进口博览会上，一批侨企如约而至，既有九届“全勤”的老朋友，也有新面孔。“侨”字成为观察进博会人气的独特线索。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
       "allSources": [
-        "联合早报·中港台"
+        "中国新闻网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国宣布继续暂停24%对美加征关税两个月，保留10%税率。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "联合早报为知名媒体，引述财政部官网公告，时间税率具体可查证。"
-    },
-    {
-      "title": "绿委促官方派半导体大老代表台湾与会APEC",
-      "link": "https://www.zaobao.com/news/china/story20261109-9968937",
-      "pubDate": "Mon, 09 Nov 2026 02:35:30 GMT",
-      "contentSnippet": "亚太经济合作组织（APEC）峰会将于下周举行，台湾至今尚未公布与会代表，引发朝野关注。台湾执政的民进党立委邱志伟认为，为降低中国大陆施压的可能性，官方应该派半导体产业的资深前辈出任APEC代表。\n综合台湾中时新闻网、《联合报》星期一（11月9日）报道，2026年APEC峰会将于11月18日至19日在大陆深圳举行，但台湾总统府至今尚未公布与会领袖代表，打破过往约三周前宣布代表人选的惯例。\n台湾总统赖清德上任后，2024年APEC峰会11月15日至16日在秘鲁利马举行，总统府10月21日宣布领袖代表为总统府资政、台杉投顾董事长林信义。2025年APEC峰会10月31日至11月1日在韩国庆州市举行，",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "台民进党立委建议派半导体资深人士任APEC代表，台方尚未公布人选",
+      "aiSummary": "第九届进博会侨企参与，中新网报道侨心所向机遇共享",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "联合早报为权威媒体，引述台媒报道及立委具名言论，事实具体可查，但属转述非一手采访"
+      "credibilityReason": "来源为中新网权威媒体，有署名记者和具体时间地点，内容客观但引述较少"
     },
     {
-      "title": "国务院关税税则委员会：调整对原产于美国的进口商品加征关税措施",
-      "link": "https://m.thepaper.cn/newsDetail_forward_34437231",
-      "pubDate": "Mon, 09 Nov 2026 02:33:53 GMT",
-      "contentSnippet": "国务院关税税则委员会2026年11月9日发布关于调整对原产于美国的进口商品加征关税措施的公告：\n为落实中美两国元首华盛顿会晤达成的成果共识，根据《中华人民共和国关税法》、《中华人民共和国海关法》、《中华人民共和国对外贸易法》等法律法规和国际法基本原则，经国务院批准，自2026年11月10日13时01分起，调整《国务院关税税则委员会关于对原产于美国的进口商品加征关税的公告》（税委会公告2025年第4号）规定的加征关税措施，在2个月内继续暂停实施24%的对美加征关税税率，保留10%的对美加征关税税率。",
+      "title": "进博会民间外交会客厅｜新西兰前议长戴维 · 卡特：没有一个城市像上海那样充满活力！",
+      "link": "https://m.thepaper.cn/newsDetail_forward_34443168",
+      "pubDate": "Tue, 10 Nov 2026 05:28:55 GMT",
+      "contentSnippet": "新西兰前议长、新西兰中国友好协会名誉主席戴维 · 卡特：“没有一个城市像上海那样充满活力！”",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -223,16 +84,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国务院关税税则委员会宣布调整对美加征关税措施，暂停24%税率保留10%。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为澎湃新闻转载官方公告，内容具体含文号时间，可查证。"
+      "aiSummary": "新西兰前议长卡特在进博会活动中称赞上海充满活力。",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "澎湃新闻为正规媒体，有具体人物和直接引述，但属活动宣传性报道，单一来源。"
     },
     {
-      "title": "江西省政协原党组成员、副主席尹建业被提起公诉",
-      "link": "https://m.thepaper.cn/newsDetail_forward_34437113",
-      "pubDate": "Mon, 09 Nov 2026 02:02:26 GMT",
-      "contentSnippet": "记者今天（9日）从最高人民检察院获悉，江西省政协原党组成员、副主席尹建业涉嫌受贿一案，由国家监察委员会调查终结，移送检察机关审查起诉。最高人民检察院依法以涉嫌受贿罪对尹建业作出逮捕决定，并指定由福建省漳州市人民检察院审查起诉。近日，漳州市人民检察院已向漳州市中级人民法院提起公诉。\n检察机关在审查起诉阶段，依法告知了被告人尹建业享有的诉讼权利，并讯问了被告人，听取了辩护人的意见。检察机关起诉指控：被告人尹建业利用担任云南省人民政府副秘书长，云南省审计厅厅长，云南省大理州委书记，云南省人民政府副省长，江西省人民政府副省长，江西省委常委、政法委书记等职务上的便利以及职权或者地位形成的便利条件，为他人",
+      "title": "进博会民间外交会客厅｜意中协会主席玛莉亚·罗莎·阿佐丽娜：提到上海，就会想到进博会",
+      "link": "https://m.thepaper.cn/newsDetail_forward_34443309",
+      "pubDate": "Tue, 10 Nov 2026 05:25:35 GMT",
+      "contentSnippet": "意中协会主席玛莉亚·罗莎·阿佐丽娜：“进博会是世界最知名的展览之一。如果你提到上海，你就会想到进博会。“",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -240,16 +101,152 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "江西省政协原副主席尹建业涉嫌受贿被漳州市检察院提起公诉",
-      "credibilityScore": 92,
+      "aiSummary": "意中协会主席称提到上海就会想到进博会，赞其为世界知名展览之一。",
+      "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻转引最高检权威信息，时间地点人物具体，程序表述规范，可交叉验证"
+      "credibilityReason": "澎湃新闻为国内知名媒体，有直接引述和具体人物身份，内容可查证，但属单一来源。"
     },
     {
-      "title": "台股早盘涨超过千点 重新站上4万点",
-      "link": "https://www.zaobao.com/news/china/story20261109-9968760",
-      "pubDate": "Mon, 09 Nov 2026 01:45:13 GMT",
-      "contentSnippet": "台湾股市上星期五（11月6日）重挫，创下单日最大跌点纪录，并失守4万点大关后，星期一（9日）早盘强劲反弹，重新站上4万点。\n据《联合报》报道，受美国股市纳斯达克指数及费城半导体指数上星期五反弹带动，台股星期一开高走扬。截至上午9时37分，台湾加权指数上涨1780.69点，涨幅4.49％。\n美股上星期五走势分歧，纳斯达克指数与费城半导体指数双双反弹，其中费城半导体指数劲扬4.21%，台积电和日月光的美国存托凭证（ADR）涨幅均逾6%，为台股开盘增添反弹动能。\n不过，人工智能（AI）及资料中心监管疑虑仍未消散，加上美股上周整体仍收黑，短线反弹能否延续，仍有待观察。\n台股上星期五受到华尔街科技股抛售",
+      "title": "美共和党众议员再次对防长赫格塞思发起弹劾",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-10/10729358.shtml",
+      "pubDate": "Tue, 10 Nov 2026 13:24:14 +0800",
+      "contentSnippet": "中新社华盛顿11月9日电 (记者 陈孟统)美国共和党籍联邦众议员托马斯·梅西(Thomas Massie)9日再次提出决议，推动众议院就弹劾国防部长皮特·赫格塞思举行投票。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "美共和党众议员梅西再次提出决议，推动弹劾防长赫格塞思投票。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "中新社为权威通讯社，有署名记者及具体人物、时间，信息可查证。"
+    },
+    {
+      "title": "合作之侨④｜哈尼买提：期待中土双方企业开展更深层次的交流",
+      "link": "https://m.thepaper.cn/newsDetail_forward_34440584",
+      "pubDate": "Tue, 10 Nov 2026 05:22:09 GMT",
+      "contentSnippet": "土耳其华人华侨友好协商会会长哈尼买提在接受澎湃新闻专访时表示，进博会是一个很好的平台和桥梁，期待中土双方企业有更深层次的交流。“上海是世界的上海，如果想有更好的发展和未来，上海是一个不错的选择。”",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "土耳其侨领哈尼买提称进博会是桥梁，期待中土企业深化交流。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "澎湃新闻为正规媒体，有具名人物和直接引述，但属单一信源专访，事实可查证性有限。"
+    },
+    {
+      "title": "进博之问｜不止于“四叶草”，他们如何迈向上海更深处？",
+      "link": "https://m.thepaper.cn/newsDetail_forward_34437840",
+      "pubDate": "Tue, 10 Nov 2026 05:20:31 GMT",
+      "contentSnippet": "【编者按】\n当进博会来到第九年，它像一个老朋友：很熟悉，又让人满怀期待。\n一场盛会，如何长出新意？开放共享的故事，怎样写下新篇章？\n当问题一个个浮现，便有了我们今年的策划——进博之问。人们常说历久弥新，进博九载，依然令人好奇，也值得更多聚焦。\n第九届进博会即将落下帷幕。本届进博会上，162个国家、地区和国际组织赴约而来，4142家境外企业同台亮相，展览面积首次突破44万平方米，无论是参展企业数量和展览规模，均创下历史新高。\n六天展期，全球客商汇聚“四叶草”，但进博会的影响并未止步于展馆之内。展城联动、巴士专线、票根经济将人流引向城市深处，境外展商与外地参展观众在参展观展之余，走向街巷、古镇与商",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "第九届进博会闭幕，参展规模创新高，展会影响延伸至城市深处",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "澎湃新闻为知名媒体，数据具体可查证，但属策划类报道，含主观表述"
+    },
+    {
+      "title": "柯劲平任三峡集团副总经理、党组成员",
+      "link": "https://m.thepaper.cn/newsDetail_forward_34444286",
+      "pubDate": "Tue, 10 Nov 2026 05:17:21 GMT",
+      "contentSnippet": "据三峡集团网站11月10日消息，近日，三峡集团党组召开会议，通报了中共中央组织部关于三峡集团领导班子成员调整的决定：柯劲平同志任三峡集团副总经理、党组成员。",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "柯劲平任三峡集团副总经理、党组成员",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "澎湃新闻为知名媒体，引述三峡集团官网及中组部决定，信息具体可查证"
+    },
+    {
+      "title": "艾格纳被提名竞选德国总统，默克尔称系历史性事件",
+      "link": "https://m.thepaper.cn/newsDetail_forward_34444311",
+      "pubDate": "Tue, 10 Nov 2026 05:17:16 GMT",
+      "contentSnippet": "德国前总理安格拉·默克尔9日欢迎伊尔泽·艾格纳被提名竞选德国总统，称这是历史性事件。\n德国总理、基督教民主联盟（基民盟）主席默茨当天正式提名巴伐利亚州议会议长艾格纳竞选下任德国总统，后者是基民盟姊妹党基督教社会联盟（基社盟）成员。据德国《时代周报》报道，默克尔说：“艾格纳完全有机会当选（总统），就像过去发生在女性候选人身上的那样……她被提名为德意志联邦共和国历史上第一位女性总统，这一事实本身就让这个决定具有历史意义。”\n默克尔与默茨同属基民盟，2005年至2021年连续担任德国总理，是该国首名女总理。默克尔执政期间，艾格纳担任过食品、农业与消费者保护部长。按照默克尔的说法，艾格纳“对政治充满热",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "默克尔欢迎艾格纳获提名竞选德国总统，称此为历史性事件。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "澎湃新闻为知名媒体，引述德媒及默克尔直接言论，信息具体可查证。"
+    },
+    {
+      "title": "（第九届进博会）弗拉明戈伴火腿香 巴塞罗那亮相进博续写上海友城佳话",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-10/10729361.shtml",
+      "pubDate": "Tue, 10 Nov 2026 13:08:51 +0800",
+      "contentSnippet": "中新社上海11月10日电 (范宇斌)弗拉明戈舞步铿锵，伊比利亚火腿香气四溢，足球体验区人头攒动……第九届中国国际进口博览会上，首次亮相“魅力友城”专区的西班牙巴塞罗那城市展区，成为人文交流板块的一抹亮色。今年恰逢上海与巴塞罗那缔结友好城市关系25周年，两座相隔万里的国际港口城市，以进博会为纽带，在黄浦江畔续写友城佳话。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "第九届进博会巴塞罗那展区亮相，纪念上海与巴塞罗那结好25周年。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "中新社为权威通讯社，有具体时间地点人物，内容客观可查证。"
+    },
+    {
+      "title": "非洲国家议员研讨班开班式举行：深化治国理政和立法经验交流",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-10/10729364.shtml",
+      "pubDate": "Tue, 10 Nov 2026 13:06:31 +0800",
+      "contentSnippet": "中新网北京11月10日电 (记者 谢雁冰)非洲国家议员研讨班开班式11月7日在北京举行。与会非洲国家议员普遍表示，愿同中国立法机构加强友好往来，深化治国理政和立法经验交流，助力中非命运共同体建设走深走实。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "非洲国家议员研讨班在京开班，愿深化治国理政与立法经验交流。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网，属权威媒体；时间地点人物具体，内容中性，但缺直接引述与多源验证。"
+    },
+    {
+      "title": "（第九届进博会）进博会聚“破局之思”：在世界变局中寻找合作共识",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-10/10729347.shtml",
+      "pubDate": "Tue, 10 Nov 2026 13:04:37 +0800",
+      "contentSnippet": "中新社上海11月10日电 (记者 李姝徵)第九届中国国际进口博览会期间，加拿大乳制品企业爱唯浓(Avalon)结识了不少潜在合作伙伴。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "第九届进博会在上海举行，加拿大乳企称结识潜在合作伙伴。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新社，属权威通讯社；时间地点明确，有具体企业案例，用词客观。"
+    },
+    {
+      "title": "台湾女游客日本酒店命案 日检方起诉被捕台女",
+      "link": "https://www.zaobao.com/news/china/story20261110-9973654",
+      "pubDate": "Tue, 10 Nov 2026 04:50:00 GMT",
+      "contentSnippet": "日本山梨县富士河口湖町的一家酒店上月发生一起命案，一名台湾女游客卧毙客房内，一名台湾女子当场被日本警方逮捕，如今被日本检方起诉。\n综合日本共同社和日本山梨放送（YBS）等媒体报道，根据起诉书，27岁台湾籍女被告杨闵涵10月19日上午约8时40分在山梨县富士河口湖町浅川的酒店内无正当理由持有一把约12公分的刀具。日本甲府地方检察厅星期一（11月9日）以违反《枪刀法》罪名起诉杨闵涵。\n据办案相关人士透露，死者是38岁台籍井姓女子，当天她被发现陈尸客房内床上，颈部被利刃刺中身亡，杨闵涵持有的菜刀上则沾有血迹。\n杨闵涵对警方供称：“我和井姓女子在房间里喝酒，回过神来时，菜刀已经插在她身上了。”\n日本警",
       "sourceName": "联合早报·中港台",
       "sourceWeight": 80,
       "allSources": [
@@ -257,10 +254,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "台股早盘强劲反弹逾千点，重新站上4万点大关。",
-      "credibilityScore": 82,
+      "aiSummary": "日本检方以违反枪刀法起诉一名台湾女子，其涉富士河口湖酒店命案。",
+      "credibilityScore": 78,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报，引述联合报及具体指数数据，信息可查证，用词客观。"
+      "credibilityReason": "联合早报转引共同社及山梨放送，信息具体含时间地点人名，但正文截断细节不全。"
     }
   ]
 }
