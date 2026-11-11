@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-10T06:39:26.640Z",
+  "generatedAt": "2026-11-11T05:26:14.234Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "在“四叶草”里，看见中国太保的“AI+”与“心”温度",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-10/10729377.shtml",
-      "pubDate": "Tue, 10 Nov 2026 14:29:55 +0800",
-      "contentSnippet": "第九届进博会技术装备展区，中国太保智慧服务展厅以“保险守护科技进步，智慧服务美好生活”为主题，把“大康养、国际化、人工智能+”三条战略线索铺成一条可走、可看、可体验的观展路线。现场展台热度最高的区域并不全是“硬核科技”，而是那些把保险服务从“事后理赔”往前推的居家健康体验。",
+      "title": "国台办：台湾问题是中国内政 不容任何外来干涉",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-11/10730043.shtml",
+      "pubDate": "Wed, 11 Nov 2026 13:21:28 +0800",
+      "contentSnippet": "中新网11月11日电 11日，国务院台办举行例行新闻发布会。会上，有记者就APEC期间中美涉台议题讨论提问。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -16,169 +16,50 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "进博会中国太保展台展示AI+大康养战略与居家健康服务体验",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium-high",
-      "credibilityReason": "中国新闻网为正规媒体，内容具体可查证，但属企业宣传性质报道，缺乏独立信源交叉验证"
-    },
-    {
-      "title": "与世界共享机遇：进博会是中国坚持“开门发展”的生动注脚 | 新漫评",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-10/10729380.shtml",
-      "pubDate": "Tue, 10 Nov 2026 14:22:51 +0800",
-      "contentSnippet": "11月5日至10日，第九届中国国际进口博览会在上海举行。4142家境外企业参展，超过2000家首次参展。在世界贸易市场因关税等因素持续承压的背景下，这样的规模本身就是一种态度。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "第九届进博会在上海举行，4142家境外企业参展，超2000家首次参展。",
-      "credibilityScore": 65,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为中新网属官方媒体，数据具体可查，但属评论性漫评，缺乏独立交叉验证。"
-    },
-    {
-      "title": "沪游双周报｜年末各大赛事总决赛相继来袭",
-      "link": "https://m.thepaper.cn/newsDetail_forward_34444103",
-      "pubDate": "Tue, 10 Nov 2026 05:41:42 GMT",
-      "contentSnippet": "沪游速递分为政策速递、产业资讯和活动预告三部分，精选北京、上海、广州、杭州等城市2026年10月26日至2026年11月8日游戏产业政策、产业发展动态。\n政策速递\n上海\n杨浦区出台政策支持游戏电竞产业高质量发展\n11月2日，上海市杨浦区政府发布《杨浦区推动游戏电竞产业高质量发展支持政策》通知，围绕培育游戏电竞产业集群、鼓励原创作品和IP转化、推动“游戏电竞+”融合发展、鼓励创新研发和应用、强化产业生态服务保障、加强产教融合六大方向，推出16项支持举措。助力打造上海全球电竞之都核心区，推动杨浦游戏电竞产业高质量发展。（来源：上海市杨浦区人民政府）\n厦门\n集美区启动2025年度支持游戏动漫发展申报",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "澎湃新闻汇总近期游戏电竞产业政策与赛事动态",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名媒体澎湃新闻，政策信息具体且标注政府出处，但属行业汇总报道，部分细节待核实"
-    },
-    {
-      "title": "（第九届进博会）进博会读懂中国“聚侨力”：侨心所向机遇共享",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-10/10729372.shtml",
-      "pubDate": "Tue, 10 Nov 2026 13:41:07 +0800",
-      "contentSnippet": "中新网上海11月10日电 (记者 李佳佳)第九届中国国际进口博览会上，一批侨企如约而至，既有九届“全勤”的老朋友，也有新面孔。“侨”字成为观察进博会人气的独特线索。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "第九届进博会侨企参与，中新网报道侨心所向机遇共享",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网权威媒体，有署名记者和具体时间地点，内容客观但引述较少"
-    },
-    {
-      "title": "进博会民间外交会客厅｜新西兰前议长戴维 · 卡特：没有一个城市像上海那样充满活力！",
-      "link": "https://m.thepaper.cn/newsDetail_forward_34443168",
-      "pubDate": "Tue, 10 Nov 2026 05:28:55 GMT",
-      "contentSnippet": "新西兰前议长、新西兰中国友好协会名誉主席戴维 · 卡特：“没有一个城市像上海那样充满活力！”",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "新西兰前议长卡特在进博会活动中称赞上海充满活力。",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "澎湃新闻为正规媒体，有具体人物和直接引述，但属活动宣传性报道，单一来源。"
-    },
-    {
-      "title": "进博会民间外交会客厅｜意中协会主席玛莉亚·罗莎·阿佐丽娜：提到上海，就会想到进博会",
-      "link": "https://m.thepaper.cn/newsDetail_forward_34443309",
-      "pubDate": "Tue, 10 Nov 2026 05:25:35 GMT",
-      "contentSnippet": "意中协会主席玛莉亚·罗莎·阿佐丽娜：“进博会是世界最知名的展览之一。如果你提到上海，你就会想到进博会。“",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "意中协会主席称提到上海就会想到进博会，赞其为世界知名展览之一。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为国内知名媒体，有直接引述和具体人物身份，内容可查证，但属单一来源。"
-    },
-    {
-      "title": "美共和党众议员再次对防长赫格塞思发起弹劾",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-10/10729358.shtml",
-      "pubDate": "Tue, 10 Nov 2026 13:24:14 +0800",
-      "contentSnippet": "中新社华盛顿11月9日电 (记者 陈孟统)美国共和党籍联邦众议员托马斯·梅西(Thomas Massie)9日再次提出决议，推动众议院就弹劾国防部长皮特·赫格塞思举行投票。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "美共和党众议员梅西再次提出决议，推动弹劾防长赫格塞思投票。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "中新社为权威通讯社，有署名记者及具体人物、时间，信息可查证。"
-    },
-    {
-      "title": "合作之侨④｜哈尼买提：期待中土双方企业开展更深层次的交流",
-      "link": "https://m.thepaper.cn/newsDetail_forward_34440584",
-      "pubDate": "Tue, 10 Nov 2026 05:22:09 GMT",
-      "contentSnippet": "土耳其华人华侨友好协商会会长哈尼买提在接受澎湃新闻专访时表示，进博会是一个很好的平台和桥梁，期待中土双方企业有更深层次的交流。“上海是世界的上海，如果想有更好的发展和未来，上海是一个不错的选择。”",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "土耳其侨领哈尼买提称进博会是桥梁，期待中土企业深化交流。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为正规媒体，有具名人物和直接引述，但属单一信源专访，事实可查证性有限。"
-    },
-    {
-      "title": "进博之问｜不止于“四叶草”，他们如何迈向上海更深处？",
-      "link": "https://m.thepaper.cn/newsDetail_forward_34437840",
-      "pubDate": "Tue, 10 Nov 2026 05:20:31 GMT",
-      "contentSnippet": "【编者按】\n当进博会来到第九年，它像一个老朋友：很熟悉，又让人满怀期待。\n一场盛会，如何长出新意？开放共享的故事，怎样写下新篇章？\n当问题一个个浮现，便有了我们今年的策划——进博之问。人们常说历久弥新，进博九载，依然令人好奇，也值得更多聚焦。\n第九届进博会即将落下帷幕。本届进博会上，162个国家、地区和国际组织赴约而来，4142家境外企业同台亮相，展览面积首次突破44万平方米，无论是参展企业数量和展览规模，均创下历史新高。\n六天展期，全球客商汇聚“四叶草”，但进博会的影响并未止步于展馆之内。展城联动、巴士专线、票根经济将人流引向城市深处，境外展商与外地参展观众在参展观展之余，走向街巷、古镇与商",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "第九届进博会闭幕，参展规模创新高，展会影响延伸至城市深处",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为知名媒体，数据具体可查证，但属策划类报道，含主观表述"
-    },
-    {
-      "title": "柯劲平任三峡集团副总经理、党组成员",
-      "link": "https://m.thepaper.cn/newsDetail_forward_34444286",
-      "pubDate": "Tue, 10 Nov 2026 05:17:21 GMT",
-      "contentSnippet": "据三峡集团网站11月10日消息，近日，三峡集团党组召开会议，通报了中共中央组织部关于三峡集团领导班子成员调整的决定：柯劲平同志任三峡集团副总经理、党组成员。",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "柯劲平任三峡集团副总经理、党组成员",
+      "aiSummary": "国台办例行发布会重申台湾问题属中国内政，反对外来干涉。",
       "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为知名媒体，引述三峡集团官网及中组部决定，信息具体可查证"
+      "credibilityReason": "来源为中国新闻网，属官方背景媒体；内容为官方发布会表态，事实可查证，用词中性。"
     },
     {
-      "title": "艾格纳被提名竞选德国总统，默克尔称系历史性事件",
-      "link": "https://m.thepaper.cn/newsDetail_forward_34444311",
-      "pubDate": "Tue, 10 Nov 2026 05:17:16 GMT",
-      "contentSnippet": "德国前总理安格拉·默克尔9日欢迎伊尔泽·艾格纳被提名竞选德国总统，称这是历史性事件。\n德国总理、基督教民主联盟（基民盟）主席默茨当天正式提名巴伐利亚州议会议长艾格纳竞选下任德国总统，后者是基民盟姊妹党基督教社会联盟（基社盟）成员。据德国《时代周报》报道，默克尔说：“艾格纳完全有机会当选（总统），就像过去发生在女性候选人身上的那样……她被提名为德意志联邦共和国历史上第一位女性总统，这一事实本身就让这个决定具有历史意义。”\n默克尔与默茨同属基民盟，2005年至2021年连续担任德国总理，是该国首名女总理。默克尔执政期间，艾格纳担任过食品、农业与消费者保护部长。按照默克尔的说法，艾格纳“对政治充满热",
+      "title": "探访港澳孙中山史迹：潮起南天，传承不息",
+      "link": "https://www.chinanews.com.cn/dwq/2026/11-11/10730040.shtml",
+      "pubDate": "Wed, 11 Nov 2026 13:02:07 +0800",
+      "contentSnippet": "中新社香港11月11日电 题：探访港澳孙中山史迹：潮起南天，传承不息",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中新社报道探访港澳孙中山史迹，强调历史传承。",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为中新社较权威，但正文仅标题摘要，细节有限，属文化报道。"
+    },
+    {
+      "title": "报告：“十五五”政策有望支撑中国2027至2029年实现碳达峰",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-11/10730038.shtml",
+      "pubDate": "Wed, 11 Nov 2026 12:56:21 +0800",
+      "contentSnippet": "中新社土耳其安塔利亚11月11日电 (记者 陈溯)《联合国气候变化框架公约》第三十一次缔约方大会(COP31)正在土耳其安塔利亚举行。大会期间，绿色创新发展研究院(iGDP)发布的《迎接转折点：中国碳排放中长期情景分析暨EPS国家模型报告(2026)》显示，中国“十五五”(2026年至2030年)政策有望支撑中国2027至2029年实现碳达峰。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "报告称中国“十五五”政策有望支撑2027至2029年实现碳达峰",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "中新社为权威通讯社，报道含具体时间地点及报告名称，信息可查证，但属单一报告引述"
+    },
+    {
+      "title": "国台办：“双十一”在两岸掀起的消费热潮，是两岸同胞生活方式相通的生动见证",
+      "link": "https://m.thepaper.cn/newsDetail_forward_34451355",
+      "pubDate": "Wed, 11 Nov 2026 04:53:25 GMT",
+      "contentSnippet": "2026年11月11日上午，国台办举行例行新闻发布会。发言人张晗答问时表示，“双十一”在两岸掀起的消费热潮，正是两岸经贸联系紧密、两岸同胞生活方式相通的生动见证。",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -186,16 +67,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "默克尔欢迎艾格纳获提名竞选德国总统，称此为历史性事件。",
+      "aiSummary": "国台办发言人张晗称双十一两岸消费热潮见证同胞生活方式相通",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为知名媒体，引述德媒及默克尔直接言论，信息具体可查证。"
+      "credibilityReason": "来源为澎湃新闻，属较权威媒体；信息具体，含时间、人物、场合及直接引述，事实可查证。"
     },
     {
-      "title": "（第九届进博会）弗拉明戈伴火腿香 巴塞罗那亮相进博续写上海友城佳话",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-10/10729361.shtml",
-      "pubDate": "Tue, 10 Nov 2026 13:08:51 +0800",
-      "contentSnippet": "中新社上海11月10日电 (范宇斌)弗拉明戈舞步铿锵，伊比利亚火腿香气四溢，足球体验区人头攒动……第九届中国国际进口博览会上，首次亮相“魅力友城”专区的西班牙巴塞罗那城市展区，成为人文交流板块的一抹亮色。今年恰逢上海与巴塞罗那缔结友好城市关系25周年，两座相隔万里的国际港口城市，以进博会为纽带，在黄浦江畔续写友城佳话。",
+      "title": "《小城良方》等影视剧热播引发岛内“东北话听力挑战”，国台办回应",
+      "link": "https://m.thepaper.cn/newsDetail_forward_34451565",
+      "pubDate": "Wed, 11 Nov 2026 04:53:05 GMT",
+      "contentSnippet": "2026年11月11日上午，国台办举行例行新闻发布会。发言人张晗答问时表示，辽阔的东北大地拥有独特的自然条件和厚重的历史底蕴，更有淳朴热情的同胞乡亲，欢迎台湾同胞到白山黑水间走走看看。",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国台办回应影视剧引发岛内东北话热，欢迎台胞赴东北走走看看",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "澎湃新闻为权威媒体，引述国台办例行发布会发言人原话，时间地点明确，内容可查证"
+    },
+    {
+      "title": "诺华高管COP31现场分享“生态共赢”实践：期待继续与中国合作｜新闻会客厅",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-11/10730033.shtml",
+      "pubDate": "Wed, 11 Nov 2026 12:33:11 +0800",
+      "contentSnippet": "中新网安塔利亚11月11日电 (陈溯 王庆凯 柳棽)《联合国气候变化框架公约》第31次缔约方大会(COP31)正在土耳其安塔利亚召开。当地时间11月10日上午，由习近平生态文明思想研究中心、中国新闻社主办，生态环境部环境与经济政策研究中心、中国新闻网协办的“生态文明与美丽中国实践”边会在中国角举行。诺华全球社会影响负责人兼首席可持续发展官芭芭拉·弗雷德(Barbara Vrede)发表致辞，分享诺华在中国推进环境可持续发展的实践，并重点介绍了四川林业碳汇、社区与生物多样性项目，强调环境行动应兼顾生态、社会与经济价值。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -203,16 +101,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "第九届进博会巴塞罗那展区亮相，纪念上海与巴塞罗那结好25周年。",
+      "aiSummary": "诺华高管在COP31中国角边会分享在华生态实践，期待继续合作。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "中新社为权威通讯社，有具体时间地点人物，内容客观可查证。"
+      "credibilityReason": "来源为中国新闻网，属权威媒体；信息具体（时间、地点、人物、项目），有直接引述，用词客观。"
     },
     {
-      "title": "非洲国家议员研讨班开班式举行：深化治国理政和立法经验交流",
-      "link": "https://www.chinanews.com.cn/gn/2026/11-10/10729364.shtml",
-      "pubDate": "Tue, 10 Nov 2026 13:06:31 +0800",
-      "contentSnippet": "中新网北京11月10日电 (记者 谢雁冰)非洲国家议员研讨班开班式11月7日在北京举行。与会非洲国家议员普遍表示，愿同中国立法机构加强友好往来，深化治国理政和立法经验交流，助力中非命运共同体建设走深走实。",
+      "title": "浩瀚大洋连起21个经济体 带你读懂APEC",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-11/10730035.shtml",
+      "pubDate": "Wed, 11 Nov 2026 12:25:15 +0800",
+      "contentSnippet": "浩瀚的太平洋，连接亚洲、大洋洲、北美洲和南美洲。亚太经合组织(APEC)21个经济体，因海相望，因合作相聚。亚太经合组织第三十三次领导人非正式会议即将拉开帷幕。APEC是个什么样的组织？",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -220,33 +118,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "非洲国家议员研讨班在京开班，愿深化治国理政与立法经验交流。",
+      "aiSummary": "中国新闻网介绍APEC组织及21个经济体，预告第三十三次领导人非正式会议。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，属权威媒体；时间地点人物具体，内容中性，但缺直接引述与多源验证。"
+      "credibilityReason": "来源为权威媒体中国新闻网，内容为APEC科普性介绍，事实可查证，用词客观中性。"
     },
     {
-      "title": "（第九届进博会）进博会聚“破局之思”：在世界变局中寻找合作共识",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-10/10729347.shtml",
-      "pubDate": "Tue, 10 Nov 2026 13:04:37 +0800",
-      "contentSnippet": "中新社上海11月10日电 (记者 李姝徵)第九届中国国际进口博览会期间，加拿大乳制品企业爱唯浓(Avalon)结识了不少潜在合作伙伴。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "第九届进博会在上海举行，加拿大乳企称结识潜在合作伙伴。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新社，属权威通讯社；时间地点明确，有具体企业案例，用词客观。"
-    },
-    {
-      "title": "台湾女游客日本酒店命案 日检方起诉被捕台女",
-      "link": "https://www.zaobao.com/news/china/story20261110-9973654",
-      "pubDate": "Tue, 10 Nov 2026 04:50:00 GMT",
-      "contentSnippet": "日本山梨县富士河口湖町的一家酒店上月发生一起命案，一名台湾女游客卧毙客房内，一名台湾女子当场被日本警方逮捕，如今被日本检方起诉。\n综合日本共同社和日本山梨放送（YBS）等媒体报道，根据起诉书，27岁台湾籍女被告杨闵涵10月19日上午约8时40分在山梨县富士河口湖町浅川的酒店内无正当理由持有一把约12公分的刀具。日本甲府地方检察厅星期一（11月9日）以违反《枪刀法》罪名起诉杨闵涵。\n据办案相关人士透露，死者是38岁台籍井姓女子，当天她被发现陈尸客房内床上，颈部被利刃刺中身亡，杨闵涵持有的菜刀上则沾有血迹。\n杨闵涵对警方供称：“我和井姓女子在房间里喝酒，回过神来时，菜刀已经插在她身上了。”\n日本警",
+      "title": "台内政部长：黄乐入台许可已废止 不可能再赴台",
+      "link": "https://www.zaobao.com/news/china/story20261111-9979600",
+      "pubDate": "Wed, 11 Nov 2026 04:21:20 GMT",
+      "contentSnippet": "被指卷入英伟达首席执行长黄仁勋婚外情，以及疑似中国大陆情报行动风波的女商人黄乐（Alice Huang），此前曾赴台湾。台湾内政部长刘世芳星期三称，黄乐的入台许可已被废止，她不可能再赴台。\n综合中时新闻网和TVBS新闻网报道，民进党立委黄捷星期三（11月11日）在台湾立法院质询时称，根据报道，黄乐曾在2024年6月和2025年5月持商务签证赴台，并询问当局如何防范大陆间谍用商务签证入境台湾。\n刘世芳回应，如果事先知道黄乐是间谍，大概就不可能让黄乐进来。她说，内政部将检讨事前审查、中间访查及事后处分机制。据刘世芳了解，“这位黄姓女士已经给她废证，也就是说她不可能再来台湾”。\n刘世芳称，后续若有相",
       "sourceName": "联合早报·中港台",
       "sourceWeight": 80,
       "allSources": [
@@ -254,10 +135,129 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "日本检方以违反枪刀法起诉一名台湾女子，其涉富士河口湖酒店命案。",
-      "credibilityScore": 78,
+      "aiSummary": "台内政部长称黄乐入台许可已废止，不可能再赴台",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "联合早报转引共同社及山梨放送，信息具体含时间地点人名，但正文截断细节不全。"
+      "credibilityReason": "来源为联合早报，引述台媒及官员直接表态，事实具体可查，但单一来源未交叉验证"
+    },
+    {
+      "title": "无法忽视却被“嫌弃”：阿拉伯政党能否借组阁改变以色列权力结构",
+      "link": "https://m.thepaper.cn/newsDetail_forward_34450958",
+      "pubDate": "Wed, 11 Nov 2026 04:12:19 GMT",
+      "contentSnippet": "19席，足以改变以色列组阁的算术，却未必足以改变阿拉伯政党在权力结构中的位置。\n\n11月10日，在位于耶路撒冷的以色列议会，正直党领导人加迪·埃森科特在第26届议会开幕当天参加党派会议并发表讲话。新华社 图\n\n\n11月8日，以色列总统赫尔佐格正式授权正直党领导人、国防军前总参谋长加迪·埃森科特组建新政府。在此前的党派磋商中，埃森科特获得67名议员推荐，其中包括两大阿拉伯裔政党的19名议员；内塔尼亚胡仅获46名议员推荐。这是内塔尼亚胡长期执政以来，首次在组阁授权环节被总统“跳过”——尽管利库德集团仍是议会第一大党，赫尔佐格依据的是“最有希望组建政府”的法定标准，而非“第一大党优先”的政治惯例。",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "以色列总统授权埃森科特组阁，阿拉伯政党19席成关键但难改权力结构。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "澎湃新闻为知名媒体，引用新华社图片，信息具体含时间人物数据，事实可查证。"
+    },
+    {
+      "title": "《过来人》《闪身步》两岸走红 国台办：共鸣是密码",
+      "link": "https://www.zaobao.com/news/china/story20261111-9979552",
+      "pubDate": "Wed, 11 Nov 2026 04:11:18 GMT",
+      "contentSnippet": "中国大陆人工智能（AI）说唱歌曲《过来人》和传统舞蹈动作“闪身步”近期先后在两岸网络走红。中国大陆国台办称，两岸民众对这些作品产生共鸣，反映双方拥有共同的历史文化背景和情感联结。\n中国大陆国台办发言人张晗星期三（11月11日）在例行记者会上，被问及《过来人》和“闪身步”在两岸掀起热潮时说，两者走红的密码只有两个字：“共鸣”。\n她说，“你不是一个人，前面有我留的灯”，从杜甫、苏轼到项羽、诸葛亮，两岸民众之所以“初闻不知曲中意，再听已是曲中人”，是因为两岸同根同源，同文同种，有共同的历史和文化联结，在文化审美和情感表达上产生共鸣是自然而然的事。\n张晗也说，随着两岸交流得更加频繁、深入，大家会看到更",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
+      "allSources": [
+        "联合早报·中港台"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国台办回应大陆AI歌曲与舞蹈在两岸走红，称共鸣源于共同历史文化。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为联合早报，属较权威媒体；含国台办发言人直接引述，时间地点明确，事实可查证。"
+    },
+    {
+      "title": "直播间买到假货谁来赔？典型案例厘清商家、主播、平台责任",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-11/10730032.shtml",
+      "pubDate": "Wed, 11 Nov 2026 12:10:42 +0800",
+      "contentSnippet": "电商的促销活动中，网络直播带货中，有些主播会作出“保证正品”“售后兜底”“假一赔十”等承诺，这些口头承诺算不算数，有没有法律效力？一旦买到假货，销售商家、带货主播、网络平台，到底谁来兑现赔偿？来看最高人民法院发布的一起典型案例。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "最高法发布直播带货假货赔偿典型案例，厘清商家、主播、平台责任。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，引述最高人民法院典型案例，信息具体可查证，用词客观。"
+    },
+    {
+      "title": "中山精神联结两岸，百年初心照进现实——各界纪念孙中山诞辰160周年",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-11/10729981.shtml",
+      "pubDate": "Wed, 11 Nov 2026 12:07:02 +0800",
+      "contentSnippet": "中新网11月11日电 题：中山精神联结两岸，百年初心照进现实——各界纪念孙中山诞辰160周年",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中新网报道各界纪念孙中山诞辰160周年，强调中山精神联结两岸。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网（权威通讯社），主题为纪念活动，事实可查证，但正文摘要过短，细节有限。"
+    },
+    {
+      "title": "台立法院首次用AI念法条 开两倍速一小时念完",
+      "link": "https://www.zaobao.com/news/china/story20261111-9979120",
+      "pubDate": "Wed, 11 Nov 2026 04:05:00 GMT",
+      "contentSnippet": "台湾立法院首次利用人工智能（AI）念法条，开两倍速的情况下，3万5000字法条宣读时间缩短至约1小时。\n据《太报》报道，立法院社会福利及卫生环境委员会星期三（11月11日）审查《失智症基本法草案》，首度试办以AI语音宣读法条。\n15案、约3万5000字的宣读内容，先以1.5倍速测试10分钟，后续提高至两倍速。原本需要近两小时的人工宣读时间，缩短至约一小时。\n卫环委员会召集委员、国民党立委陈菁徽说，此次使用AI，可供其他委员会参考。AI朗读最快可达四倍速，但她笑称“会变成没有人听得懂”。",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
+      "allSources": [
+        "联合早报·中港台"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "台湾立法院首次用AI以两倍速宣读法条，3.5万字缩短至约一小时。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为联合早报，引述太报及立委陈菁徽直接发言，细节具体可查证。"
+    },
+    {
+      "title": "教育部答澎湃：截至目前，我国在32个国家建成38所鲁班工坊",
+      "link": "https://m.thepaper.cn/newsDetail_forward_34451234",
+      "pubDate": "Wed, 11 Nov 2026 03:54:31 GMT",
+      "contentSnippet": "11月11日，国家发展改革委召开“奋进‘十五五’”系列新闻发布会的第五场，主题为“共建‘一带一路’”。会上，教育部国际合作与交流司副司长赵磊在回答澎湃新闻记者提问时表示，自2016年全球首个鲁班工坊在泰国建立以来，截至目前，我国在32个国家建成38所鲁班工坊，其中与30个共建“一带一路”国家建成36所鲁班工坊。\n据悉，鲁班工坊是职业教育国际合作的品牌项目，是在境外创建、并实施学历教育和技术培训的合作机构。\n赵磊表示，今年是“十五五”开局之年，教育部将锚定高质量共建“一带一路”目标，系统谋划、扎实推进各项工作，持续推进鲁班工坊品牌化、标准化建设。\n一是强化标准引领。今年以来，教育部牵头研制鲁班工",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "教育部官员在发布会上介绍，我国已在32国建成38所鲁班工坊。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为澎湃新闻，引述教育部官员在官方发布会上的直接发言，信息具体可查证。"
+    },
+    {
+      "title": "国台办：以影为媒 两岸电影人携手弘扬中华文化",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-11/10730016.shtml",
+      "pubDate": "Wed, 11 Nov 2026 11:39:54 +0800",
+      "contentSnippet": "中新网11月11日电 11日，国务院台办举行例行新闻发布会。有记者问：近日，2026年中国金鸡百花电影节系列活动受到两岸关注，两岸业者参加有关活动并通过影视作品交流切磋。请介绍有关情况。请问如何看待、评价两岸业者在影视方面的交流与合作？",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国台办例行发布会回应两岸电影人在金鸡百花电影节交流合作情况",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，属官方媒体；内容为官方发布会实录，信息具体可查证，用词客观中性"
     }
   ]
 }
