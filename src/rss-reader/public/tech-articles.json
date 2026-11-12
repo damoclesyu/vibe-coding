@@ -1,14 +1,31 @@
 {
-  "generatedAt": "2026-11-11T05:27:33.724Z",
+  "generatedAt": "2026-11-12T06:31:19.405Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "【钛晨报】李强签署国务院令，公布修订后的《基金会管理条例》；阿里拟分拆平头哥独立赴港上市；Anthropic IPO定价区间确定，目标市值约1万亿美元低于预期",
-      "link": "https://www.tmtpost.com/8200471.html",
-      "pubDate": "Wed, 11 Nov 2026 07:20:00 +0800",
-      "contentSnippet": "i茅台将从“抢购”模式逐步转为日常售卖；台积电批准409亿美元资本预算，用于长期产能扩张；华为新型存储系统即将启动试商用；贾国龙质押西贝股权，股权数额超2660万；英伟达、黄仁勋遭股东集体诉讼；国家发改委：多渠道增加普通高中和高等教育学位供给；减少个人信息泄露，首批700专用码号服务业务试点获批。",
+      "title": "从优胜美地到金门大桥：跟着 macOS 游览加州",
+      "link": "https://sspai.com/post/118175",
+      "pubDate": "Wed, 11 Nov 2026 14:50:39 +0800",
+      "contentSnippet": "陪伴 Mac 用户十余年的加州风景，走出屏幕后究竟是什么模样？查看全文",
+      "sourceName": "少数派",
+      "sourceWeight": 78,
+      "allSources": [
+        "少数派"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "少数派介绍macOS加州风景壁纸的现实取景地",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "知名科技媒体，内容具体但偏文化科普，技术性较弱，无原始数据引用"
+    },
+    {
+      "title": "当算力遇上“电墙”，英飞凌豪赌300毫米氮化镓背后",
+      "link": "https://www.tmtpost.com/8202543.html",
+      "pubDate": "Thu, 12 Nov 2026 14:14:30 +0800",
+      "contentSnippet": "AI竞赛大背景下，从芯片制程延伸到电力供给，氮化镓正从充电器市场的\"网红材料\"，升级为数据中心供电架构的底层选择。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -16,16 +33,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体晨报汇总国务院令、阿里分拆平头哥上市及Anthropic IPO等科技财经要闻",
-      "credibilityScore": 72,
+      "aiSummary": "英飞凌押注300毫米氮化镓，瞄准AI数据中心供电架构升级。",
+      "credibilityScore": 78,
       "credibilityLevel": "high",
-      "credibilityReason": "知名科技媒体，多条目有具体数据，但为聚合摘要缺少原始出处与细节"
+      "credibilityReason": "钛媒体为知名科技媒体，选题具体且切合产业趋势，但摘要缺少数据与原始出处细节。"
     },
     {
-      "title": "亚朵集团三季度营收34.29亿元，酒店业务稳健发展；欧莱雅进博会首发五大成果；优衣库进博会聚焦可持续发展 ｜消研所周报",
-      "link": "https://www.tmtpost.com/8200086.html",
-      "pubDate": "Tue, 10 Nov 2026 21:28:54 +0800",
-      "contentSnippet": "Dr.Jart+蒂佳婷新品亮相进博会；泡泡玛特首次以双展位形式亮相进博会。",
+      "title": "机器人要进工厂，光靠机器人公司还不够",
+      "link": "https://www.tmtpost.com/8202019.html",
+      "pubDate": "Thu, 12 Nov 2026 13:17:00 +0800",
+      "contentSnippet": "机器人公司负责造机器人，但服装厂和机床企业已经开始参与产品与模型研发。从晨风的真实工位测试，到创造力与智元的联合开发，制造企业究竟在为机器人提供什么？",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -33,233 +50,214 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体周报汇总亚朵财报、欧莱雅与优衣库进博会动态",
+      "aiSummary": "制造企业正参与机器人产品与模型研发，推动机器人进工厂。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容为多企业动态汇总，信息具体但缺乏深度分析与原始数据出处"
+      "credibilityReason": "钛媒体为知名科技媒体，内容涉及具体企业合作案例，但摘要缺少数据细节和原始出处。"
     },
     {
-      "title": "法国称伊朗黑客组织攻击了超市的制冷控制器",
-      "link": "https://www.solidot.org/story?sid=85842",
-      "pubDate": "Tue, 10 Nov 2026 13:31:35 +0800",
-      "contentSnippet": "法国网络危机协调中心周一发表报告，称上个月对逾 700 家超市制冷控制器发动网络攻击的黑客组织是伊朗的 Shahid Kaveh aka Cyber​​Av3ngers。报告称，受影响的零售集团包括了 Casino、Leclerc、Coopérative U、Metro、Carrefour 和 Intermarché，攻击引发了至少 15 起火灾，造成了数千万欧元的食品损失。法国欧洲与外交部在一份声明中表示：“就规模和攻击强度而言，这是一场前所未有的行动，这也是在法国领土上首次发生的、纯粹以破坏为目的的网络攻击行动。”",
-      "sourceName": "Solidot",
-      "sourceWeight": 75,
+      "title": "全球每三把卷尺，就有两把来自河南的这个县",
+      "link": "https://www.tmtpost.com/8202393.html",
+      "pubDate": "Thu, 12 Nov 2026 13:13:00 +0800",
+      "contentSnippet": "虞城在全球制造业里的地位属于整个县，议价能力要每家企业自己去挣。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
       "allSources": [
-        "Solidot"
+        "钛媒体"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "法国称伊朗黑客攻击700家超市制冷控制器致火灾",
+      "aiSummary": "钛媒体报道河南虞城县卷尺产业占全球三分之二份额，但企业议价能力仍待提升。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体Solidot，引述法国官方报告及声明，信息具体含受影响企业、火灾数和损失，但缺少原始报告链接"
+      "credibilityReason": "来源为知名科技媒体钛媒体，内容涉及具体产业数据，但摘要较简略，缺少原始数据出处和详细论证。"
     },
     {
-      "title": "特斯拉推出 Cybertruck 遥控模型车、2.5 代人形机器人摆件，199 元起",
-      "link": "https://www.ithome.com/1/025/401.htm",
-      "pubDate": "Wed, 11 Nov 2026 05:21:50 GMT",
-      "contentSnippet": "IT之家 11 月 11 日消息，特斯拉今日宣布在官网商城推出 Cybertruck 遥控模型车、全新 2.5 代特斯拉人形机器人摆件。\n\nIT之家从商品页面了解到，Tesla Cybertruck 遥控模型车 1:10 还原标志性不锈钢棱角造型，PC 材质车壳，尺寸为 56.5 cm * 25.0 cm * 20.5 cm，定价 1,769 元。\n\nTesla Cybertruck 遥控模型车搭载无刷电机、四轮驱动和独立悬挂；2.4G 遥控系统，最远 99.4 米控制距离；配合陀螺仪防甩尾功能，帮助防止甩尾。\nTesla Cybertruck 遥控模型车内置 11.1V 3400mAh 锂电",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "英伟达，可能失去黄仁勋",
+      "link": "https://www.tmtpost.com/8202462.html",
+      "pubDate": "Thu, 12 Nov 2026 13:09:03 +0800",
+      "contentSnippet": "黄仁勋去留成疑，英伟达面临估值与管理层双重考验。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
       "allSources": [
-        "IT之家"
+        "钛媒体"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "特斯拉商城推出Cybertruck遥控模型车和人形机器人摆件，199元起。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体含尺寸、定价、技术参数，源自特斯拉官网商城，可信度高。"
-    },
-    {
-      "title": "2026 世界计算大会 11 月 19 日长沙举行：首设太空计算论坛，具身智能机器人、脑机接口将亮相",
-      "link": "https://www.ithome.com/1/025/399.htm",
-      "pubDate": "Wed, 11 Nov 2026 04:53:19 GMT",
-      "contentSnippet": "IT之家 11 月 11 日消息，湖南省政府新闻办今日召开新闻发布会，宣布 2026 世界计算大会将于 11 月 19 日至 21 日在长沙国际会议中心举行。\n本届大会以“计算万物湘约未来 —— 打造智能经济新形态”为主题，设置“1+5+N+1”共 21 场主题活动。\n\n大会核心议程围绕“十五五”时期计算产业发展方向展开解读，将集中发布计算产业分析、算力发展趋势、计算行业标准等一批研究报告，以及算电协同、基础设施、计算软硬件等产业成果。\n主题论坛覆盖计算芯片、算电协同、AI 服务器、具身智能计算等领域，其中太空计算与海洋计算声学为首次设立。开幕式暨主旨论坛拟邀请诺贝尔奖获得者、中外院士及国内外",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "2026世界计算大会11月19日长沙举行，首设太空计算论坛",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家报道，引述省政府新闻发布会，信息具体含议程细节，来源可靠"
-    },
-    {
-      "title": "AirPods 耳机充电盒秒变苹果 Mac 无线鼠标：体感移动 + 轻敲点击，还能“打鸭子”",
-      "link": "https://www.ithome.com/1/025/398.htm",
-      "pubDate": "Wed, 11 Nov 2026 04:48:13 GMT",
-      "contentSnippet": "IT之家 11 月 11 日消息，一位名叫 Andy Gao 的开发者本月上传了一个开源项目 AirPointer，可以把苹果 AirPods 无线耳机的充电盒变成 Mac 电脑的鼠标。\n\n从演示可以看到，Mac 电脑连接到 AirPods 充电盒后，电脑屏幕顶部显示弹窗，提示旋转充电盒，然后就可以用体感来移动电脑鼠标，轻敲充电盒就是点击鼠标。\n\n听起来似乎很鸡肋，但 Andy Gao 反手给出了一个使用场景 —— 玩游戏。他上传了一段视频，借助这套工具，可以实现类似 Wii 等早期游戏机的“打鸭子”玩法。\n\nIT之家查询该项目页面了解到，用户需要将 AirPointer 放进 Mac 的无障",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "开发者开源AirPointer项目，将AirPods充电盒变为Mac体感鼠标",
-      "credibilityScore": 78,
+      "aiSummary": "钛媒体报道黄仁勋去留成疑，英伟达面临估值与管理层双重考验",
+      "credibilityScore": 55,
       "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体报道，有开源项目出处和演示视频，但属个人趣味项目，技术细节有限"
+      "credibilityReason": "来源为知名科技媒体，但标题悬念化，正文摘要缺乏具体事实与数据支撑"
     },
     {
-      "title": "日本运营商 NTT Docomo 再度发生大规模通信故障，5G SA 通话、上网等受影响",
-      "link": "https://www.ithome.com/1/025/397.htm",
-      "pubDate": "Wed, 11 Nov 2026 04:43:58 GMT",
-      "contentSnippet": "IT之家 11 月 11 日消息，日本运营商 NTT Docomo 今日宣布，从日本时间上午 10:34（北京时间 09:34）起，公司的 5G SA 语音通话、数据通信和短信服务出现故障情况，影响范围覆盖日本全国，恢复时间未定。\n\nNTT Docomo 表示，目前使用 5G SA（IT之家注：独立组网）的用户可能无法正常使用手机通信服务（语音通话、数据通信及短信）。使用虚拟运营商的用户未受影响，未开通 5G SA 的 5G 用户以及 4G 用户也不受影响。\n同时，用户可以尝试在网络设置中选择 4G，并重启手机或开关飞行模式来恢复通信服务。对于此次故障给用户造成的不便，NTT Docomo 深",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "华东医药的80.3%，还不是MASH的完整答案",
+      "link": "https://www.tmtpost.com/8202391.html",
+      "pubDate": "Thu, 12 Nov 2026 13:08:51 +0800",
+      "contentSnippet": "仍隔着几轮试验。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
       "allSources": [
-        "IT之家"
+        "钛媒体"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "日本NTT Docomo全国5G SA网络故障，影响通话上网短信",
-      "credibilityScore": 82,
+      "aiSummary": "钛媒体分析华东医药MASH药物80.3%数据，指出仍需更多试验验证",
+      "credibilityScore": 72,
       "credibilityLevel": "high",
-      "credibilityReason": "知名科技媒体报道，含具体时间、影响范围及官方说明，但缺原始公告链接"
+      "credibilityReason": "知名科技媒体，标题客观审慎，但正文信息简略，缺少具体数据和原始出处"
     },
     {
-      "title": "比亚迪就大唐轮辋装配问题致歉：系供应商录入失误，提供免费调换",
-      "link": "https://www.ithome.com/1/025/396.htm",
-      "pubDate": "Wed, 11 Nov 2026 04:35:43 GMT",
-      "contentSnippet": "IT之家 11 月 11 日消息，比亚迪汽车官方今日发布了《关于大唐部分车辆轮辋装配问题的声明》，针对部分用户反馈的轮辋装配异常情况作出官方回应。\n经核查，该问题确认为供应商环节失误导致。比亚迪声明指出，该问题系轮辋分装供应商湖北铂遇实业有限公司编码录入失误，造成部分车辆错装。\n对此，比亚迪已第一时间开展排查和编码修正，确保后续批次不再出现同类问题。同时，该供应商新增产线视觉防错等机制，以长效规避此类差错。\n\n在安全性方面，比亚迪表示经专项检测，涉及车辆不影响操控，行驶无安全风险。针对受影响的车辆，官方将邀请车主前往当地服务门店进行免费检测，并对轮辋进行专业调换。\n为补偿车主，比亚迪承诺在车辆",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "黄仁勋的裂缝，英伟达等来了创始人的凡人时刻",
+      "link": "https://www.tmtpost.com/8201671.html",
+      "pubDate": "Thu, 12 Nov 2026 13:08:44 +0800",
+      "contentSnippet": "神坛之下，公司才真正开始。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
       "allSources": [
-        "IT之家"
+        "钛媒体"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "比亚迪因供应商编码录入失误致部分大唐车辆轮辋错装，致歉并提供免费调换。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道引用比亚迪官方声明，信息具体含供应商名称及处理措施，逻辑清晰。"
+      "aiSummary": "钛媒体评论英伟达创始人黄仁勋面临挑战，称公司进入凡人时刻。",
+      "credibilityScore": 55,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体，但标题文学化、正文摘要极简，缺少具体事实与数据支撑。"
     },
     {
-      "title": "使用 FSD 破解版进行智驾测试、被特斯拉发函后，第一电动网 CEO 庞义成回应称“不可能撤稿”",
-      "link": "https://www.ithome.com/1/025/394.htm",
-      "pubDate": "Wed, 11 Nov 2026 04:21:43 GMT",
-      "contentSnippet": "IT之家 11 月 11 日消息，第一电动网 CEO 庞义成昨日在微博发文称，自己在长沙进行智驾大赛相关直播后，收到特斯拉法务部发来的函件。\nIT之家注意到，庞义成公开的特斯拉法务函件提到，“第一电动传媒”于 2026 年 11 月 8 日在多个媒体平台发布的“智驾大赛”中使用的特斯拉车辆通过违法方式对特斯拉辅助驾驶软件（FSD V14）实施了未经授权的破解与激活，使本不应在中国境内特定特斯拉车辆使用的特斯拉辅助驾驶功能在实际运行，并以“媒体直播智驾测试”形式对社会公众公开传播。\n\n特斯拉法务部认为，上述行为已涉嫌违法，同时在多方面违反国家网信办、市场监管总局 2026 年 6 月联合印发的《",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "零售巨头MUJI，为什么反复开酒店？",
+      "link": "https://www.tmtpost.com/8202380.html",
+      "pubDate": "Thu, 12 Nov 2026 13:02:26 +0800",
+      "contentSnippet": "全球四家，中国独占三家。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
       "allSources": [
-        "IT之家"
+        "钛媒体"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "第一电动网用FSD破解版测试智驾被特斯拉发函，CEO称不撤稿",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引述双方公开函件与微博原文，信息具体，但事件仍在发展中"
-    },
-    {
-      "title": "阿里 Qwen Code 1.0 发布：Qoder 与 Qwen Code Harness 融合开源",
-      "link": "https://www.ithome.com/1/025/393.htm",
-      "pubDate": "Wed, 11 Nov 2026 04:20:07 GMT",
-      "contentSnippet": "IT之家 11 月 11 日消息，阿里今日官宣推出 Qwen Code 1.0 版本，Qoder 与 Qwen Code 融合开源。\n阿里把在 Qoder 中打磨的 Harness 能力融入 Qwen Code，随 Qwen Code 1.0 Preview 一起开放，为开发者提供可嵌入自身产品的 Agent 运行基础。\n\nQwen Code 1.0 从进程内的内存事件总线起步，沿着统一事件模型向分布式演进：将接入、调度与执行分层扩展，通过“手脑分离”让推理编排与工具执行独立管理。在保留既有入口与返回方式的基础上，从“一个进程、多个会话”走向“多个节点、更多会话”。\n\nQwen Code 1.",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家",
-        "InfoQ中文",
-        "Solidot"
-      ],
-      "coverageCount": 3,
-      "coverageBoost": 10,
-      "aiSummary": "阿里发布Qwen Code 1.0，融合Qoder的Harness能力并开源",
-      "credibilityScore": 92,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家、InfoQ等知名科技媒体，技术架构描述具体，但缺少官方链接和量化数据（多源覆盖 +10）"
-    },
-    {
-      "title": "iOS 27.3 将补齐苹果 Siri AI 生态拼图：看懂你的健康信息，覆盖 92 种数据",
-      "link": "https://www.ithome.com/1/025/392.htm",
-      "pubDate": "Wed, 11 Nov 2026 04:18:10 GMT",
-      "contentSnippet": "IT之家 11 月 11 日消息，消息源 @itspdfu 今天（11 月 11 日）在 X 平台发布推文，爆料称在 iOS 27.3 首个开发者预览版 Beta 中，苹果为 Siri AI 加入了读取“健康”（Health）应用的相关功能 Flag，不过目前均处于禁用状态。\nIT之家援引官方支持文档介绍，当前 Siri AI 尚不支持读取健康 Health 应用数据。\n\n用户可以设置 Siri 访问“健康”应用数据，但 Siri AI 目前尚不支持。\n而在 iOS 27.3 首个开发者预览版 Beta 中，苹果公司引入名为“IF / HealthSearch”的功能 Flag，可以将健康信息",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "爆料称iOS 27.3测试版为Siri加入读取健康数据的功能Flag",
+      "aiSummary": "MUJI全球四家酒店中国占三家，钛媒体分析其反复开酒店原因",
       "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体但核心信息源自单一X平台爆料者，功能尚处禁用状态，缺乏官方确认"
+      "credibilityReason": "来源为知名科技媒体钛媒体，内容有具体数据支撑，但摘要信息较简略，缺少详细分析和原始出处引用"
     },
     {
-      "title": "张雪机车第 10 万台整车下线，历时一年零九个月",
-      "link": "https://www.ithome.com/1/025/391.htm",
-      "pubDate": "Wed, 11 Nov 2026 04:13:11 GMT",
-      "contentSnippet": "IT之家 11 月 11 日消息，张雪机车官方今日宣布第 100,000 台机车正式下线，品牌累计产量达到 10 万台。\n张雪官方未披露此次下线车辆的具体型号，也未公布该批车辆的生产工厂与交付去向，只表示第 100,000 台张雪机车用户将获得张雪机车神秘大礼包。\n\n张雪机车为重庆张雪机车工业有限公司旗下摩托车品牌。IT之家此前报道，2026 年 3 月，该品牌厂队车手瓦伦丁 · 德比斯驾驶 53 号 820RR-RS 赛车，在 WSBK 葡萄牙波尔蒂芒站 SSP 中量级组别两回合正赛中连续夺冠。\n根据张雪官方说明，第一台张雪机车于 2025 年 3 月下线，同年 7 月第一万台机车下线，直到",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "卫星化学再投207亿元，连云港补上C3产业链",
+      "link": "https://www.tmtpost.com/8202394.html",
+      "pubDate": "Thu, 12 Nov 2026 13:02:21 +0800",
+      "contentSnippet": "行业处于低景气阶段。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
       "allSources": [
-        "IT之家"
+        "钛媒体"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "张雪机车第10万台整车下线，历时一年零九个月",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "IT之家为知名科技媒体，信息有官方来源，但关键细节缺失，部分内容不完整"
-    },
-    {
-      "title": "张雪机车 53 号冠军车型拍卖款改道：不再捐韩红基金会，转投小车手培养",
-      "link": "https://www.ithome.com/1/025/390.htm",
-      "pubDate": "Wed, 11 Nov 2026 04:09:46 GMT",
-      "contentSnippet": "IT之家 11 月 11 日消息，张雪机车创始人张雪昨日宣布，原计划在 11 月 22 日嘉年华活动中拍卖 53 号冠军赛车、并将所得款项捐赠给韩红爱心慈善基金会的安排出现变更。拍卖所得及嘉年华全部门票收入，将改为用于资助中国小车手成长。\n\n张雪解释称：“之前我有许诺过把我们真实的赛车拍卖，用于捐款给某某慈善基金会，但是后面发生了一些事情，其实我内心是有些质疑的，就此说明前面的许诺失效。”\n2026 年 5 月 21 日，张雪冠军复刻赛车爱心拍卖交车仪式在广州举行，张雪在现场宣布，赛季末将拍卖德比斯驾驶的 53 号真实赛车及奖杯，所得款项全部捐给“韩红老师”。当时他称此举是“尽自己一点点绵薄之",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "张雪机车53号冠军赛车拍卖款改捐小车手培养，不再捐韩红基金会",
+      "aiSummary": "卫星化学再投207亿元，在连云港补上C3产业链",
       "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为IT之家，属知名科技媒体，事件有具体时间、人物和原委，但涉及慈善变更的深层原因未披露，信息依赖单一信源"
+      "credibilityReason": "钛媒体为知名科技媒体，投资金额与项目信息具体，但正文过简，缺少原始出处与细节支撑"
     },
     {
-      "title": "HAVN 推出梅赛德斯-AMG 马石油 F1 车队联名款 HS 420 机箱",
-      "link": "https://www.ithome.com/1/025/389.htm",
-      "pubDate": "Wed, 11 Nov 2026 04:05:23 GMT",
-      "contentSnippet": "IT之家 11 月 11 日消息，PC DIY 硬件制造商（辉帆）现已正式推出获得梅赛德斯-AMG 马来西亚国家石油 F1 车队官方授权的联名款 HS 420 机箱。\n\n这一款式 拥有 F1 赛车轮廓、银星徽标、碳纤维纹理饰面、青色点缀、Start/Stop 电源键等赛车元素，每件产品均配备刻有独立变化的特别铭牌，定价 349.99 美元（IT之家注：现汇率约合 2,341 元人民币）。\n\nHS 420 机箱拥有 6 条扩展槽，兼容部分 E-ATX 主板，支持最长 480mm 显卡，提供 11 个风扇位，顶部和右侧均兼容 420 规格冷排。该机箱常规版标价 249.99 美元（现汇率约合 1,",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "最近，投资人流行投“有眼力见儿”的AI",
+      "link": "https://www.tmtpost.com/8202382.html",
+      "pubDate": "Thu, 12 Nov 2026 12:56:42 +0800",
+      "contentSnippet": "当智能开始拥有不同形态的身体，如何与人类共同生活，正在成为AI 产业必须回答的新问题。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
       "allSources": [
-        "IT之家"
+        "钛媒体"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "HAVN推出梅赛德斯F1车队联名HS 420机箱，售价349.99美元",
-      "credibilityScore": 82,
+      "aiSummary": "钛媒体报道投资人关注具身智能AI，探讨人机共处新命题",
+      "credibilityScore": 65,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体钛媒体，但内容偏观点性，缺少具体数据与原始出处支撑"
+    },
+    {
+      "title": "刚刚，豆包工作官宣接入 Kimi、DeepSeek，AI 模型自由来了",
+      "link": "https://www.ifanr.com/1689176?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pubDate": "Thu, 12 Nov 2026 04:50:05 +0000",
+      "contentSnippet": "国产大模型开始组团办公\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "sourceName": "爱范儿",
+      "sourceWeight": 82,
+      "allSources": [
+        "爱范儿"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "豆包工作宣布接入Kimi、DeepSeek模型",
+      "credibilityScore": 55,
+      "credibilityLevel": "medium",
+      "credibilityReason": "爱范儿为知名科技媒体，但正文仅一句摘要，缺少产品细节、官方出处和数据支撑，信息过于简略"
+    },
+    {
+      "title": "华软系12亿股解禁在即，主业亏损的盈新发展，“弃房追芯”胜算几何？",
+      "link": "https://www.tmtpost.com/8202156.html",
+      "pubDate": "Thu, 12 Nov 2026 12:49:20 +0800",
+      "contentSnippet": "老牌房企，艰难转身。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "盈新发展12亿股解禁在即，主业亏损下转型芯片前景存疑",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，产品规格、定价、授权信息具体，但缺少官方原始链接引用"
+      "credibilityReason": "钛媒体为知名科技财经媒体，标题含具体数据，但正文摘要过简，细节不足"
     },
     {
-      "title": "消息称苹果 macOS 27.3 将收紧磁盘访问授权，应用不再自动“排队”等放行",
-      "link": "https://www.ithome.com/1/025/352.htm",
-      "pubDate": "Wed, 11 Nov 2026 03:54:53 GMT",
-      "contentSnippet": "IT之家 11 月 11 日消息，消息源 @itspdfu 于 11 月 8 日在 X 平台发布推文，爆料称在 macOS 27.3 首个开发者预览版 Beta 中，苹果公司正测试调整隐私权限，应用可能不再自动进入“完全磁盘访问权限”列表，用户需要手动添加后才能授权。\nIT之家注：“完全磁盘访问权限”允许应用读取和修改 Mac 上大量文件，包括普通应用通常无法访问的受保护数据。备份、防病毒等工具可能需要这项权限，但若授予不可信的应用，恐怕会带来敏感信息泄露风险。\n按照现有机制，未获授权的应用尝试读取受保护文件时，系统会拒绝访问，但会将其加入权限列表，开关保持关闭。应用随后可引导用户前往设置开启",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "芒果不怕红果？",
+      "link": "https://www.tmtpost.com/8202345.html",
+      "pubDate": "Thu, 12 Nov 2026 12:49:15 +0800",
+      "contentSnippet": "《后会友期》赢麻了。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
       "allSources": [
-        "IT之家"
+        "钛媒体"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "消息称macOS 27.3测试收紧磁盘访问授权，应用不再自动加入权限列表。",
+      "aiSummary": "钛媒体文章标题与摘要语义模糊，缺乏具体科技信息内容。",
+      "credibilityScore": 35,
+      "credibilityLevel": "low",
+      "credibilityReason": "来源为知名媒体但内容标题党化，摘要无事实细节，无法验证技术信息。"
+    },
+    {
+      "title": "VC投地方独角兽，都要“配货”了？",
+      "link": "https://www.tmtpost.com/8202379.html",
+      "pubDate": "Thu, 12 Nov 2026 12:46:28 +0800",
+      "contentSnippet": "一级市场进入“爱马仕时代”：VC买份额，先配三条丝巾。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体称一级市场VC投资地方独角兽需先投其他项目'配货'",
       "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "IT之家为知名科技媒体，但核心信息源自单一X平台爆料者，缺乏苹果官方确认。"
+      "credibilityReason": "知名科技媒体，选题具体，但正文仅摘要、缺数据与原始信源，类比表述偏观点化"
+    },
+    {
+      "title": "吴彦祖入局“直火料理”，从烤鱼到牛排，不少餐厅都在跟",
+      "link": "https://www.tmtpost.com/8202344.html",
+      "pubDate": "Thu, 12 Nov 2026 12:46:19 +0800",
+      "contentSnippet": "收手吧阿祖，外面全是“直火”。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "吴彦祖入局直火料理赛道，烤鱼到牛排多品类餐厅跟风布局",
+      "credibilityScore": 45,
+      "credibilityLevel": "low",
+      "credibilityReason": "来源为知名科技媒体，但正文仅一句调侃，无技术细节、数据或原始出处，信息严重不足"
     }
   ]
 }
