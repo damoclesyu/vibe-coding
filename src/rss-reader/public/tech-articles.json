@@ -1,31 +1,31 @@
 {
-  "generatedAt": "2026-11-12T06:31:19.405Z",
+  "generatedAt": "2026-11-13T05:51:30.707Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "从优胜美地到金门大桥：跟着 macOS 游览加州",
-      "link": "https://sspai.com/post/118175",
-      "pubDate": "Wed, 11 Nov 2026 14:50:39 +0800",
-      "contentSnippet": "陪伴 Mac 用户十余年的加州风景，走出屏幕后究竟是什么模样？查看全文",
-      "sourceName": "少数派",
-      "sourceWeight": 78,
+      "title": "Rust 1.100.0 稳定版发布：版本号首次迈入三位数，带来多项语言与标准库更新，永不返回类型历经 10 年终于转正",
+      "link": "https://www.ithome.com/1/026/669.htm",
+      "pubDate": "Fri, 13 Nov 2026 04:30:10 GMT",
+      "contentSnippet": "IT之家 11 月 13 日消息，Rust 团队于当地时间 11 月 12 日正式发布了最新的 Rust 1.100.0 稳定版，标志着 Rust 版本号首次迈入三位数阶段。\n本次更新带来了多项语言和标准库功能稳定化，同时改进了 Cargo 依赖管理、构建缓存及软件供应链安全机制。\n\nRust 官方介绍称，Rust 1.100 最受关注的变化之一是 never type（永不返回类型）正式稳定。该功能经过约 10 年时间以及 5 次稳定化尝试，终于进入稳定版本。\n永不返回类型使用 ! 表示，代表永远不会产生返回值的计算过程。例如，return、break 和 std::process::exi",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "少数派"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "少数派介绍macOS加州风景壁纸的现实取景地",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体，内容具体但偏文化科普，技术性较弱，无原始数据引用"
+      "aiSummary": "Rust 1.100.0稳定版发布，版本号首入三位数，never type正式稳定。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "知名科技媒体IT之家报道，内容具体，含版本号、功能细节及官方来源，但部分细节未完整展示。"
     },
     {
-      "title": "当算力遇上“电墙”，英飞凌豪赌300毫米氮化镓背后",
-      "link": "https://www.tmtpost.com/8202543.html",
-      "pubDate": "Thu, 12 Nov 2026 14:14:30 +0800",
-      "contentSnippet": "AI竞赛大背景下，从芯片制程延伸到电力供给，氮化镓正从充电器市场的\"网红材料\"，升级为数据中心供电架构的底层选择。",
+      "title": "真心筑光，向远而行：中欧公益的长期主义实践",
+      "link": "https://www.tmtpost.com/8203876.html",
+      "pubDate": "Fri, 13 Nov 2026 11:38:03 +0800",
+      "contentSnippet": "中欧基金在这十年间走出了一条独特的企业公益长跑之路：将“长期主义”注入乡村教育帮扶，聚焦素质教育与陪伴成长，让金融向善的力量在细水长流中生根发芽。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -33,33 +33,119 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "英飞凌押注300毫米氮化镓，瞄准AI数据中心供电架构升级。",
+      "aiSummary": "中欧基金十年公益长跑，以长期主义助力乡村教育",
+      "credibilityScore": 60,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体，但内容偏企业宣传，缺乏具体数据和第三方验证"
+    },
+    {
+      "title": "微软高管回应 Outlook 等服务中断：深感遗憾，正全力修复",
+      "link": "https://www.ithome.com/1/026/678.htm",
+      "pubDate": "Fri, 13 Nov 2026 05:21:09 GMT",
+      "contentSnippet": "IT之家 11 月 13 日消息，微软执行副总裁查尔斯 · 拉曼纳（Charles Lamanna）今天（11 月 13 日）在 X 平台发布推文，就本次 Outlook、Exchange Online 等办公服务出现故障公开致歉，团队正在努力解决问题，并持续通报最新修复状态。\n此次故障最初涉及 Teams，随后微软确认 Exchange Online 和 Outlook 也受到影响。故障还波及邮件之外的办公功能。Teams、SharePoint Online、Microsoft 365 Copilot 等服务中，部分依赖 Exchange 的功能受到牵连。\n截至IT之家发稿前，相关服务故障仍",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微软高管就Outlook等服务中断公开致歉，团队正全力修复",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "知名科技媒体IT之家报道，引用微软高管X平台推文，信息具体，来源可查"
+    },
+    {
+      "title": "国星宇航“星算”计划 03 组卫星下线、近期择机发射，目标 2800 颗算力卫星组网",
+      "link": "https://www.ithome.com/1/026/676.htm",
+      "pubDate": "Fri, 13 Nov 2026 05:07:59 GMT",
+      "contentSnippet": "IT之家 11 月 13 日消息，国星宇航“星算”计划 03 组太空计算星座卫星今日（11 月 13 日）在浙江台州基地顺利下线。\n“星算”计划 03 组算力卫星，均由国星宇航自主研制，此次下线的 5 颗卫星，将于近期择机发射。卫星入轨后，将与 01 组、02 组在轨卫星协同组网。\n\n综合IT之家此前报道，在 2024 年世界互联网大会乌镇峰会期间，国星宇航创始人陆川博士与合作伙伴在乌镇“三体计算星座”首发星座启动暨“星算计划 star-compute”全球发布会上共同发布了“星算计划”。“星算计划”将由 2800 颗算力卫星组网，构建未来算力网络。\n“星算”计划 01 组星座在 2025 年",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国星宇航星算计划03组5颗算力卫星下线，将择机发射，目标2800颗组网",
       "credibilityScore": 78,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，选题具体且切合产业趋势，但摘要缺少数据与原始出处细节。"
+      "credibilityLevel": "medium",
+      "credibilityReason": "IT之家为知名科技媒体，信息具体含时间地点数量，但缺乏技术参数与官方原始出处，部分表述截断"
     },
     {
-      "title": "机器人要进工厂，光靠机器人公司还不够",
-      "link": "https://www.tmtpost.com/8202019.html",
-      "pubDate": "Thu, 12 Nov 2026 13:17:00 +0800",
-      "contentSnippet": "机器人公司负责造机器人，但服装厂和机床企业已经开始参与产品与模型研发。从晨风的真实工位测试，到创造力与智元的联合开发，制造企业究竟在为机器人提供什么？",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "最高省 80% 流量：iOS 版 Opera One 浏览器引入 Data Saver 功能",
+      "link": "https://www.ithome.com/1/026/675.htm",
+      "pubDate": "Fri, 13 Nov 2026 05:05:17 GMT",
+      "contentSnippet": "IT之家 11 月 13 日消息，Opera 昨日（11 月 12 日）发布公告，宣布升级 iOS 版 Opera One 应用程序，重点引入“省流量”（Data Saver）功能，用户开启后流量消耗最高可减少 80%。\n在技术实现方面，Opera 服务器会先压缩网页中的图片和文本，然后传输至用户设备，以减少加载页面所需的数据量。IT之家援引 Opera 官方博文介绍，该功能适用于出境漫游、预付费套餐、月度流量不足等场景，也能帮助用户在较弱的网络连接下浏览网页。\n\n此次更新伴随着用户规模增长。据 Opera 披露，2026 年 10 月，其 iOS 浏览器全球月活跃用户数同比增长 20%。其中",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "钛媒体"
+        "IT之家",
+        "量子位"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "Opera One iOS版新增Data Saver功能，最高省80%流量",
+      "credibilityScore": 87,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家，引用Opera官方博文，技术原理和数据具体，但属转载编译非一手报道（多源覆盖 +5）"
+    },
+    {
+      "title": "荣耀李健官宣荣耀 700 系列发布会定档 11 月 23 日，鞠婧祎代言",
+      "link": "https://www.ithome.com/1/026/674.htm",
+      "pubDate": "Fri, 13 Nov 2026 05:04:09 GMT",
+      "contentSnippet": "11 月 13 日，荣耀终端股份有限公司 CEO 李健在微博发文预热即将推出的荣耀 700 系列新机，公布新机的代言人为鞠婧祎，并官宣新品的发布时间定档 11 月 23 日。\n在微博中，李健首先宣布“欢迎#荣耀700#系列代言人 @鞠婧祎 与我们一起踏上追光之旅。”这也印证了之前大家对荣耀 700 系列代言人的猜测。\n\n而在微博最后，李健表示：11 月 23 日，发布会见！在配图的定档海报中，明确显示荣耀 700 系列追光之旅暨全场景新品发布会定档 11 月 23 日 14:30。\n\n与此同时，荣耀品牌营销部总裁、全球首席营销官（CMO）关海涛也在微博发文表示“11 月 23 日，武汉见”，可",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "制造企业正参与机器人产品与模型研发，推动机器人进工厂。",
+      "aiSummary": "荣耀CEO李健官宣荣耀700系列11月23日发布，鞠婧祎代言",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息源自荣耀CEO及CMO微博官方发布，细节具体，可信度高"
+    },
+    {
+      "title": "微软故意降低 Win11 开机应用加载速度：旨在避免多个应用抢占系统资源，修改两个注册表即可从 150 秒降至 30 秒",
+      "link": "https://www.ithome.com/1/026/673.htm",
+      "pubDate": "Fri, 13 Nov 2026 05:02:18 GMT",
+      "contentSnippet": "IT之家 11 月 13 日消息，据科技媒体 Windows Latest 今日报道，微软在设计 Windows 11 时主动延迟了部分开机启动应用程序的加载时间，以避免多个程序同时启动时占用过多系统资源。不过，有用户通过修改注册表，成功将启动应用全部加载完成的等待时间从 2 分 30 秒缩短至约 30 秒。\nReddit 用户 u/PersianMG 发现，尽管系统本身启动速度较快，但 Discord、Teams 等其他开机启动程序仍会缓慢加载，导致整个过程需要等待较长时间。\n\n他通过 Windows Performance Toolkit 检查启动过程发现系统存在较长的空闲等待时间，并没有",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "用户发现修改注册表可将Win11开机应用加载时间从150秒缩短至30秒",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容涉及具体企业合作案例，但摘要缺少数据细节和原始出处。"
+      "credibilityReason": "来源为知名科技媒体IT之家，引述Windows Latest及Reddit用户实测，有具体数据和技术细节，但缺乏微软官方回应"
     },
     {
-      "title": "全球每三把卷尺，就有两把来自河南的这个县",
-      "link": "https://www.tmtpost.com/8202393.html",
-      "pubDate": "Thu, 12 Nov 2026 13:13:00 +0800",
-      "contentSnippet": "虞城在全球制造业里的地位属于整个县，议价能力要每家企业自己去挣。",
+      "title": "苹果票房最高电影《F1: 狂飙飞车》后皮特再接 Apple TV 新片：把故事搬到纽约高空",
+      "link": "https://www.ithome.com/1/026/672.htm",
+      "pubDate": "Fri, 13 Nov 2026 04:55:31 GMT",
+      "contentSnippet": "IT之家 11 月 13 日消息，科技媒体 9to5Mac 昨日（11 月 12 日）发布博文，报道称继苹果史上最卖座的电影《F1: 狂飙飞车》之后，Apple TV 再度携手布拉德 · 皮特（Brad Pitt），推进名为《Connector》（直译为连接者）的电影项目。\n\n阵容方面，消息称《Connector》电影由布拉德 · 皮特主演，由达里尔斯 · 马德尔（Darius Marder）执导。马德尔的长片导演处女作《金属之声》(Sound of Metal) 于 2021 年获得第 73 届美国导演工会奖最佳新人电影导演奖以及第 93 届奥斯卡金像奖最佳音响与最佳剪辑奖。该影片同时获得第",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "苹果Apple TV携手布拉德·皮特推进新片《Connector》，由《金属之声》导演马德尔执导。",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "IT之家转引9to5Mac，来源较可靠，但内容为影视娱乐新闻，技术含量低，细节有限。"
+    },
+    {
+      "title": "李彦宏的考题，发给了所有CEO",
+      "link": "https://www.tmtpost.com/8203972.html",
+      "pubDate": "Fri, 13 Nov 2026 12:52:38 +0800",
+      "contentSnippet": "人工智能是新电能，智能组织就是AI时代的新厂房，是生产力真正发生的地方。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -67,50 +153,51 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体报道河南虞城县卷尺产业占全球三分之二份额，但企业议价能力仍待提升。",
+      "aiSummary": "李彦宏提出AI时代智能组织是新厂房，引发CEO思考",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体钛媒体，内容涉及具体产业数据，但摘要较简略，缺少原始数据出处和详细论证。"
+      "credibilityReason": "钛媒体为知名科技媒体，但内容偏观点评论，缺少具体数据与原始出处"
     },
     {
-      "title": "英伟达，可能失去黄仁勋",
-      "link": "https://www.tmtpost.com/8202462.html",
-      "pubDate": "Thu, 12 Nov 2026 13:09:03 +0800",
-      "contentSnippet": "黄仁勋去留成疑，英伟达面临估值与管理层双重考验。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "Anthropic IPO 认购需求约为 6 倍：拟募资最高 644 亿美元，目标估值约 1.4 万亿美元",
+      "link": "https://www.ithome.com/1/026/671.htm",
+      "pubDate": "Fri, 13 Nov 2026 04:49:58 GMT",
+      "contentSnippet": "IT之家 11 月 13 日消息，据彭博社今日报道，Anthropic 计划进行的首次公开募股（IPO）认购需求持续增长，目前投资者提交的认购订单数量已达到可供认购股份数量的约 6 倍。\n\n根据 Anthropic 提交的文件，公司及其联合创始人计划通过 IPO 募资最高 644 亿美元（现汇率约合 4,305.19 亿元人民币），同时通过同步进行的私募配售募资 260 亿美元，两项融资合计最高达 904 亿美元。\nAnthropic 目前的目标完全稀释后估值约为 1.4 万亿美元（IT之家注：现汇率约合 9.36 万亿元人民币）。这一估值低于此前部分投资者预期的水平。\n随着认购需求超过可供认",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "钛媒体"
+        "IT之家",
+        "量子位"
       ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体报道黄仁勋去留成疑，英伟达面临估值与管理层双重考验",
-      "credibilityScore": 55,
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "Anthropic IPO认购需求达6倍，拟募资最高644亿美元，目标估值1.4万亿美元",
+      "credibilityScore": 77,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体，但标题悬念化，正文摘要缺乏具体事实与数据支撑"
+      "credibilityReason": "引用彭博社报道及IPO文件，数据具体，但来源为二手编译且估值数据异常偏高需谨慎（多源覆盖 +5）"
     },
     {
-      "title": "华东医药的80.3%，还不是MASH的完整答案",
-      "link": "https://www.tmtpost.com/8202391.html",
-      "pubDate": "Thu, 12 Nov 2026 13:08:51 +0800",
-      "contentSnippet": "仍隔着几轮试验。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "大疆官宣 11 月 18 日起调整部分产品的建议零售价",
+      "link": "https://www.ithome.com/1/026/670.htm",
+      "pubDate": "Fri, 13 Nov 2026 04:40:44 GMT",
+      "contentSnippet": "IT之家 11 月 13 日消息，大疆官网今日发布关于 DJI 大疆部分产品建议零售价调整的说明，受全球半导体及存储等多项关键零部件成本持续大幅上涨的影响，经审慎评估，大疆将于 2026 年 11 月 18 日 00:00 起，对部分产品的建议零售价进行调整。\n调整涉及的具体产品型号及价格，请以 DJI 官方商城商品详情页展示为准。\nIT之家附说明全文如下：\n\n国际数据公司（IDC）发布的报告显示，2026 年 Q2 全球手持智能相机市场，大疆以 73% 出货量市场份额保持第一，同比增长 87%。\n细分品类来看，大疆云台相机自身出货量占比超过 60%，同比增长超过 77%。不可拆卸运动相机出货",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "钛媒体"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体分析华东医药MASH药物80.3%数据，指出仍需更多试验验证",
-      "credibilityScore": 72,
+      "aiSummary": "大疆因半导体等零部件成本上涨，宣布11月18日起调整部分产品建议零售价",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "知名科技媒体，标题客观审慎，但正文信息简略，缺少具体数据和原始出处"
+      "credibilityReason": "IT之家为知名科技媒体，引用大疆官网官方说明及IDC市场数据，信息具体有出处，但正文摘要不完整"
     },
     {
-      "title": "黄仁勋的裂缝，英伟达等来了创始人的凡人时刻",
-      "link": "https://www.tmtpost.com/8201671.html",
-      "pubDate": "Thu, 12 Nov 2026 13:08:44 +0800",
-      "contentSnippet": "神坛之下，公司才真正开始。",
+      "title": "Cookiy Labs创始人董有超：AI掌控生产之后，企业为什么还要向真人咨询？",
+      "link": "https://www.tmtpost.com/8201722.html",
+      "pubDate": "Fri, 13 Nov 2026 12:32:38 +0800",
+      "contentSnippet": "让AI在需要人类经验时能够找到人，让提供经验的人获得授权和回报，让企业在做决定之前看到真实的人如何反应。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -118,146 +205,61 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体评论英伟达创始人黄仁勋面临挑战，称公司进入凡人时刻。",
-      "credibilityScore": 55,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体，但标题文学化、正文摘要极简，缺少具体事实与数据支撑。"
-    },
-    {
-      "title": "零售巨头MUJI，为什么反复开酒店？",
-      "link": "https://www.tmtpost.com/8202380.html",
-      "pubDate": "Thu, 12 Nov 2026 13:02:26 +0800",
-      "contentSnippet": "全球四家，中国独占三家。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "MUJI全球四家酒店中国占三家，钛媒体分析其反复开酒店原因",
+      "aiSummary": "Cookiy Labs创始人董有超探讨AI掌控生产后企业仍需真人咨询的原因",
       "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，内容有具体数据支撑，但摘要信息较简略，缺少详细分析和原始出处引用"
+      "credibilityReason": "来源为知名科技媒体钛媒体，内容为行业观点访谈，逻辑清晰但缺少具体数据和原始出处"
     },
     {
-      "title": "卫星化学再投207亿元，连云港补上C3产业链",
-      "link": "https://www.tmtpost.com/8202394.html",
-      "pubDate": "Thu, 12 Nov 2026 13:02:21 +0800",
-      "contentSnippet": "行业处于低景气阶段。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "海康威视：海康机器人已完成股份制改制及上市辅导备案",
+      "link": "https://www.ithome.com/1/026/667.htm",
+      "pubDate": "Fri, 13 Nov 2026 04:16:39 GMT",
+      "contentSnippet": "IT之家 11 月 13 日消息，海康威视今日（11 月 13 日）在互动平台表示，海康机器人已完成股份制改制及上市辅导备案，IPO 相关进展请以官方披露信息为准。\n\nIT之家查询公开资料获悉，海康机器人是面向全球的机器视觉和移动机器人产品及解决方案提供商，业务聚焦工业物联网、智慧物流和智能制造，前身为海康威视机器视觉业务部，2016 年独立成立。\n2026 年 7 月 6 日，随着一台叉取机器人走下产线，海康机器人正式宣布，其移动机器人全品类累计下线突破 20 万台。\n截至 2026 年 4 月，海康机器人累计服务客户超 2 万家，落地 1000 余个细分应用场景，覆盖汽车汽配、3C 电子、",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "钛媒体"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "卫星化学再投207亿元，在连云港补上C3产业链",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "钛媒体为知名科技媒体，投资金额与项目信息具体，但正文过简，缺少原始出处与细节支撑"
-    },
-    {
-      "title": "最近，投资人流行投“有眼力见儿”的AI",
-      "link": "https://www.tmtpost.com/8202382.html",
-      "pubDate": "Thu, 12 Nov 2026 12:56:42 +0800",
-      "contentSnippet": "当智能开始拥有不同形态的身体，如何与人类共同生活，正在成为AI 产业必须回答的新问题。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体报道投资人关注具身智能AI，探讨人机共处新命题",
-      "credibilityScore": 65,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，但内容偏观点性，缺少具体数据与原始出处支撑"
-    },
-    {
-      "title": "刚刚，豆包工作官宣接入 Kimi、DeepSeek，AI 模型自由来了",
-      "link": "https://www.ifanr.com/1689176?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pubDate": "Thu, 12 Nov 2026 04:50:05 +0000",
-      "contentSnippet": "国产大模型开始组团办公\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "sourceName": "爱范儿",
-      "sourceWeight": 82,
-      "allSources": [
-        "爱范儿"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "豆包工作宣布接入Kimi、DeepSeek模型",
-      "credibilityScore": 55,
-      "credibilityLevel": "medium",
-      "credibilityReason": "爱范儿为知名科技媒体，但正文仅一句摘要，缺少产品细节、官方出处和数据支撑，信息过于简略"
-    },
-    {
-      "title": "华软系12亿股解禁在即，主业亏损的盈新发展，“弃房追芯”胜算几何？",
-      "link": "https://www.tmtpost.com/8202156.html",
-      "pubDate": "Thu, 12 Nov 2026 12:49:20 +0800",
-      "contentSnippet": "老牌房企，艰难转身。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "盈新发展12亿股解禁在即，主业亏损下转型芯片前景存疑",
-      "credibilityScore": 75,
+      "aiSummary": "海康威视宣布海康机器人已完成股份制改制及上市辅导备案",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技财经媒体，标题含具体数据，但正文摘要过简，细节不足"
+      "credibilityReason": "知名科技媒体报道，信息源自海康威视官方互动平台，含具体业务数据，但缺乏原始公告链接"
     },
     {
-      "title": "芒果不怕红果？",
-      "link": "https://www.tmtpost.com/8202345.html",
-      "pubDate": "Thu, 12 Nov 2026 12:49:15 +0800",
-      "contentSnippet": "《后会友期》赢麻了。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "奔驰冻结德国全部新投资并考虑关停工厂：在德投资已不可行",
+      "link": "https://www.ithome.com/1/026/666.htm",
+      "pubDate": "Fri, 13 Nov 2026 04:15:56 GMT",
+      "contentSnippet": "IT之家 11 月 13 日消息，据新华社今日报道，梅赛德斯-奔驰于当地时间 11 月 12 日宣布，已决定冻结对德国境内所有生产设施的进一步投资，并开始评估关停部分德国工厂的可能性。\n这一决定是在公司与工会围绕劳动力成本削减的谈判陷入僵局后作出的，标志着德国汽车工业危机的一次显著升级。\n\n奔驰生产董事迈克尔 · 希贝在公司内网表示，执行董事会已共同决定暂停对德国工厂的所有进一步投资，理由是“以当前的成本结构，在德国投资已不可行”。\n据德新社报道，德国工厂每工时的人力成本在某些情况下是东欧工厂的 5 倍，行政环节的成本差距也与之类似。\n人力资源董事布里塔 · 西格尔的表态进一步明确了局势的严峻",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "钛媒体"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体文章标题与摘要语义模糊，缺乏具体科技信息内容。",
-      "credibilityScore": 35,
-      "credibilityLevel": "low",
-      "credibilityReason": "来源为知名媒体但内容标题党化，摘要无事实细节，无法验证技术信息。"
+      "aiSummary": "奔驰冻结德国全部新投资并评估关停工厂，因成本过高",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家援引新华社和德新社报道，有高管具体表态和成本数据，来源可追溯，但非一手采访"
     },
     {
-      "title": "VC投地方独角兽，都要“配货”了？",
-      "link": "https://www.tmtpost.com/8202379.html",
-      "pubDate": "Thu, 12 Nov 2026 12:46:28 +0800",
-      "contentSnippet": "一级市场进入“爱马仕时代”：VC买份额，先配三条丝巾。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "微软 365 大规模宕机超 10 小时，日本政府不得不改用电话维持工作",
+      "link": "https://www.ithome.com/1/026/662.htm",
+      "pubDate": "Fri, 13 Nov 2026 04:10:25 GMT",
+      "contentSnippet": "IT之家 11 月 13 日消息，今日凌晨，微软旗下 Outlook、Teams 等 Microsoft 365 核心服务发生全球性大规模中断。\n监测网站 Downdetector 的数据显示，Outlook 的问题报告量一度接近 13 万条，故障持续数小时，波及多个国家和地区的政府机构与企业用户。\n日本政府是受波及的公共部门之一。据央视新闻今日报道，日本内阁官房副长官尾崎正直记者会上确认，数字厅运营的政府共通信息基盘“GSS”（IT之家注：Government Solution Service，为日本各府省厅提供标准化的办公电脑与网络环境）出现故障，各部门使用的 Outlook 等邮件软件停",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "钛媒体"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体称一级市场VC投资地方独角兽需先投其他项目'配货'",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体，选题具体，但正文仅摘要、缺数据与原始信源，类比表述偏观点化"
-    },
-    {
-      "title": "吴彦祖入局“直火料理”，从烤鱼到牛排，不少餐厅都在跟",
-      "link": "https://www.tmtpost.com/8202344.html",
-      "pubDate": "Thu, 12 Nov 2026 12:46:19 +0800",
-      "contentSnippet": "收手吧阿祖，外面全是“直火”。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "吴彦祖入局直火料理赛道，烤鱼到牛排多品类餐厅跟风布局",
-      "credibilityScore": 45,
-      "credibilityLevel": "low",
-      "credibilityReason": "来源为知名科技媒体，但正文仅一句调侃，无技术细节、数据或原始出处，信息严重不足"
+      "aiSummary": "微软365全球宕机超10小时，日本政府GSS系统受影响改用电话办公",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家报道，引用Downdetector数据和央视新闻官方表态，信息具体有出处，但缺少微软官方回应"
     }
   ]
 }
