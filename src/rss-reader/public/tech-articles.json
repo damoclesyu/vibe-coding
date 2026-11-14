@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-13T05:51:30.707Z",
+  "generatedAt": "2026-11-14T05:40:50.218Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "Rust 1.100.0 稳定版发布：版本号首次迈入三位数，带来多项语言与标准库更新，永不返回类型历经 10 年终于转正",
-      "link": "https://www.ithome.com/1/026/669.htm",
-      "pubDate": "Fri, 13 Nov 2026 04:30:10 GMT",
-      "contentSnippet": "IT之家 11 月 13 日消息，Rust 团队于当地时间 11 月 12 日正式发布了最新的 Rust 1.100.0 稳定版，标志着 Rust 版本号首次迈入三位数阶段。\n本次更新带来了多项语言和标准库功能稳定化，同时改进了 Cargo 依赖管理、构建缓存及软件供应链安全机制。\n\nRust 官方介绍称，Rust 1.100 最受关注的变化之一是 never type（永不返回类型）正式稳定。该功能经过约 10 年时间以及 5 次稳定化尝试，终于进入稳定版本。\n永不返回类型使用 ! 表示，代表永远不会产生返回值的计算过程。例如，return、break 和 std::process::exi",
+      "title": "2026 商保创新药目录扩容至 28 种，百万元 CAR-T 抗癌药与中国首个血友病基因治疗药入选，患者自付价格大幅下降",
+      "link": "https://www.ithome.com/1/027/061.htm",
+      "pubDate": "Sat, 14 Nov 2026 02:40:04 GMT",
+      "contentSnippet": "IT之家 11 月 14 日消息，据央视新闻今日报道，国家医保局在 2026 年创新药高质量发展大会上披露了商业健康保险创新药品目录的最新调整结果。经过本轮调整，商保创新药目录新增 12 种药品，目录内药品总数由此达到 28 种。\n此次新增的品种集中在高值创新疗法领域。其中，全球首个获批用于实体瘤的 CAR-T 产品舒瑞基奥仑赛注射液（商品名：恺力美）进入目录。该药靶向 CLDN18.2，适用于既往至少接受过二线治疗失败的晚期胃 / 食管胃结合部腺癌，单次制备定价 99 万元。\nCAR-T（嵌合抗原受体 T 细胞免疫疗法，通过改造患者自身 T 细胞来识别并攻击肿瘤细胞）此前获批的适应证均限于血",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,85 +16,85 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "Rust 1.100.0稳定版发布，版本号首入三位数，never type正式稳定。",
+      "aiSummary": "2026年商保创新药目录扩容至28种，纳入百万元CAR-T抗癌药及首个血友病基因治疗药，患者自付价格大幅下降。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家转引央视新闻及国家医保局官方披露，信息具体含药品名称、靶点、定价等细节，可信度较高。"
+    },
+    {
+      "title": "中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了",
+      "link": "https://www.qbitai.com/2026/11/509796.html",
+      "pubDate": "Fri, 13 Nov 2026 07:43:03 +0000",
+      "contentSnippet": "250名国内顶尖三甲医院医生联合评测",
+      "sourceName": "量子位",
+      "sourceWeight": 80,
+      "allSources": [
+        "量子位"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国AI在复杂肺癌诊疗获突破，250名三甲医生联合评测",
+      "credibilityScore": 65,
+      "credibilityLevel": "medium",
+      "credibilityReason": "量子位为知名科技媒体，但标题夸张煽动，正文信息简略缺数据出处"
+    },
+    {
+      "title": "微软承认 10 月 Win10/Win11 更新导致数据库连接异常，部分服务器可能越跑越慢",
+      "link": "https://www.ithome.com/1/027/097.htm",
+      "pubDate": "Sat, 14 Nov 2026 05:14:59 GMT",
+      "contentSnippet": "IT之家 11 月 14 日消息，科技媒体 BornCity 今天（11 月 14 日）发布博文，报道称微软已承认部分 Windows 11、Windows 10 系统安装 10 月 13 日发布的累积更新后，部分使用 SQL Server 的环境可能出现数据库连接无法正常关闭的问题，且 11 月更新尚未修复该问题。\n在影响范围方面，IT之家援引博文介绍，微软承认该问题影响以下版本：\n\nWindows 11, version 26H1\n\nWindows 11, version 25H2\n\nWindows 11, version 24H2\n\nWindows 11, version 23H2\n\nW",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微软承认10月Win10/Win11更新致SQL Server数据库连接异常，11月更新未修复",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "知名科技媒体IT之家报道，内容具体，含版本号、功能细节及官方来源，但部分细节未完整展示。"
+      "credibilityReason": "IT之家援引BornCity博文，微软官方承认问题，版本信息具体，但属二手转述且正文不完整"
     },
     {
-      "title": "真心筑光，向远而行：中欧公益的长期主义实践",
-      "link": "https://www.tmtpost.com/8203876.html",
-      "pubDate": "Fri, 13 Nov 2026 11:38:03 +0800",
-      "contentSnippet": "中欧基金在这十年间走出了一条独特的企业公益长跑之路：将“长期主义”注入乡村教育帮扶，聚焦素质教育与陪伴成长，让金融向善的力量在细水长流中生根发芽。",
+      "title": "微软 14 年 AI 老将离职：称创新难落地，降本研究未获认真考虑",
+      "link": "https://www.ithome.com/1/027/078.htm",
+      "pubDate": "Sat, 14 Nov 2026 05:05:18 GMT",
+      "contentSnippet": "IT之家 11 月 14 日消息，科技媒体 Windows Latest 今天（11 月 14 日）发布博文，报道称在微软任职逾 14 年的 AI 科学家、AI Frontiers 实验室联合创始人约翰 · 兰福德（John Langford）已离职。他表示，离开的关键原因是研究成果看不到实际应用的路径，创新想法甚至难以获得认真考虑。\n\n微软任职逾 14 年的 AI 科学家、AI Frontiers 实验室联合创始人约翰 · 兰福德（John Langford），图源：微软\nIT之家查询公开资料，兰福德是机器学习领域资深且有影响力的研究者，长期从事机器学习与学习理论研究，其重要贡献是推进 Co",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微软AI老将兰福德离职，称创新难落地、降本研究未获重视",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家转引Windows Latest，人物与离职原因具体，但缺微软官方回应及原文链接"
+    },
+    {
+      "title": "黄仁勋创办了英伟达，英伟达为什么还能让他走？",
+      "link": "https://www.tmtpost.com/8204790.html",
+      "pubDate": "Sat, 14 Nov 2026 12:57:00 +0800",
+      "contentSnippet": "黄仁勋的离开，留下了一个极具宿命感的商业悖论：他花了33年时间，把英伟达打造成全球人工智能基础设施中不可替代的底座；但在这个过程中，他也把自己变成了英伟达内部唯一不可替代的中央处理器。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中欧基金十年公益长跑，以长期主义助力乡村教育",
-      "credibilityScore": 60,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体，但内容偏企业宣传，缺乏具体数据和第三方验证"
-    },
-    {
-      "title": "微软高管回应 Outlook 等服务中断：深感遗憾，正全力修复",
-      "link": "https://www.ithome.com/1/026/678.htm",
-      "pubDate": "Fri, 13 Nov 2026 05:21:09 GMT",
-      "contentSnippet": "IT之家 11 月 13 日消息，微软执行副总裁查尔斯 · 拉曼纳（Charles Lamanna）今天（11 月 13 日）在 X 平台发布推文，就本次 Outlook、Exchange Online 等办公服务出现故障公开致歉，团队正在努力解决问题，并持续通报最新修复状态。\n此次故障最初涉及 Teams，随后微软确认 Exchange Online 和 Outlook 也受到影响。故障还波及邮件之外的办公功能。Teams、SharePoint Online、Microsoft 365 Copilot 等服务中，部分依赖 Exchange 的功能受到牵连。\n截至IT之家发稿前，相关服务故障仍",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "微软高管就Outlook等服务中断公开致歉，团队正全力修复",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "知名科技媒体IT之家报道，引用微软高管X平台推文，信息具体，来源可查"
-    },
-    {
-      "title": "国星宇航“星算”计划 03 组卫星下线、近期择机发射，目标 2800 颗算力卫星组网",
-      "link": "https://www.ithome.com/1/026/676.htm",
-      "pubDate": "Fri, 13 Nov 2026 05:07:59 GMT",
-      "contentSnippet": "IT之家 11 月 13 日消息，国星宇航“星算”计划 03 组太空计算星座卫星今日（11 月 13 日）在浙江台州基地顺利下线。\n“星算”计划 03 组算力卫星，均由国星宇航自主研制，此次下线的 5 颗卫星，将于近期择机发射。卫星入轨后，将与 01 组、02 组在轨卫星协同组网。\n\n综合IT之家此前报道，在 2024 年世界互联网大会乌镇峰会期间，国星宇航创始人陆川博士与合作伙伴在乌镇“三体计算星座”首发星座启动暨“星算计划 star-compute”全球发布会上共同发布了“星算计划”。“星算计划”将由 2800 颗算力卫星组网，构建未来算力网络。\n“星算”计划 01 组星座在 2025 年",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国星宇航星算计划03组5颗算力卫星下线，将择机发射，目标2800颗组网",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体含时间地点数量，但缺乏技术参数与官方原始出处，部分表述截断"
-    },
-    {
-      "title": "最高省 80% 流量：iOS 版 Opera One 浏览器引入 Data Saver 功能",
-      "link": "https://www.ithome.com/1/026/675.htm",
-      "pubDate": "Fri, 13 Nov 2026 05:05:17 GMT",
-      "contentSnippet": "IT之家 11 月 13 日消息，Opera 昨日（11 月 12 日）发布公告，宣布升级 iOS 版 Opera One 应用程序，重点引入“省流量”（Data Saver）功能，用户开启后流量消耗最高可减少 80%。\n在技术实现方面，Opera 服务器会先压缩网页中的图片和文本，然后传输至用户设备，以减少加载页面所需的数据量。IT之家援引 Opera 官方博文介绍，该功能适用于出境漫游、预付费套餐、月度流量不足等场景，也能帮助用户在较弱的网络连接下浏览网页。\n\n此次更新伴随着用户规模增长。据 Opera 披露，2026 年 10 月，其 iOS 浏览器全球月活跃用户数同比增长 20%。其中",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家",
-        "量子位"
+        "钛媒体",
+        "Solidot"
       ],
       "coverageCount": 2,
       "coverageBoost": 5,
-      "aiSummary": "Opera One iOS版新增Data Saver功能，最高省80%流量",
-      "credibilityScore": 87,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家，引用Opera官方博文，技术原理和数据具体，但属转载编译非一手报道（多源覆盖 +5）"
+      "aiSummary": "文章讨论黄仁勋离开英伟达的假设性商业悖论",
+      "credibilityScore": 20,
+      "credibilityLevel": "low",
+      "credibilityReason": "黄仁勋并未离开英伟达，标题与内容基于虚假前提，属虚构推测性内容（多源覆盖 +5）"
     },
     {
-      "title": "荣耀李健官宣荣耀 700 系列发布会定档 11 月 23 日，鞠婧祎代言",
-      "link": "https://www.ithome.com/1/026/674.htm",
-      "pubDate": "Fri, 13 Nov 2026 05:04:09 GMT",
-      "contentSnippet": "11 月 13 日，荣耀终端股份有限公司 CEO 李健在微博发文预热即将推出的荣耀 700 系列新机，公布新机的代言人为鞠婧祎，并官宣新品的发布时间定档 11 月 23 日。\n在微博中，李健首先宣布“欢迎#荣耀700#系列代言人 @鞠婧祎 与我们一起踏上追光之旅。”这也印证了之前大家对荣耀 700 系列代言人的猜测。\n\n而在微博最后，李健表示：11 月 23 日，发布会见！在配图的定档海报中，明确显示荣耀 700 系列追光之旅暨全场景新品发布会定档 11 月 23 日 14:30。\n\n与此同时，荣耀品牌营销部总裁、全球首席营销官（CMO）关海涛也在微博发文表示“11 月 23 日，武汉见”，可",
+      "title": "苹果推出宝可梦 30 周年限定礼品卡：可领 3 款专属壁纸，日本 11 月 16 日开售",
+      "link": "https://www.ithome.com/1/027/077.htm",
+      "pubDate": "Sat, 14 Nov 2026 04:50:17 GMT",
+      "contentSnippet": "IT之家 11 月 14 日消息，苹果昨日宣布推出宝可梦 30 周年限定版 Apple Gift Card，将于 11 月 16 日至 11 月 30 日在日本全国 11 家 Apple Store 零售店限量发售。\n此次活动是苹果与宝可梦合作推出的特别企划，礼品卡采用苹果主题宝可梦“啃果虫”设计。\n\n据苹果官方介绍，这款礼品卡名为 Apple Gift Card Pokémon Special Edition，卡面印有啃果虫形象。\n用户可以在购买时自行设定充值金额，范围为 1,000 日元至 25 万日元（IT之家注：现汇率约合 41.8 元至 10,452 元人民币），每人最多购买 3 张",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -102,16 +102,50 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "荣耀CEO李健官宣荣耀700系列11月23日发布，鞠婧祎代言",
+      "aiSummary": "苹果在日本推出宝可梦30周年限定礼品卡，含专属壁纸，11月16日开售。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息具体含价格、限购、时间地点等细节，引用苹果官方介绍，但缺少原始链接。"
+    },
+    {
+      "title": "比亚迪辅助驾驶车型保有量超 419 万辆，天神之眼日数据达 2.6 亿公里",
+      "link": "https://www.ithome.com/1/027/076.htm",
+      "pubDate": "Sat, 14 Nov 2026 04:41:54 GMT",
+      "contentSnippet": "IT之家 11 月 14 日消息，比亚迪汽车今日公布的最新数据显示，其辅助驾驶车型保有量已超过 419 万辆，天神之眼系统每天生成的数据量超过 2.6 亿公里。\n比亚迪今年 5 月彼时保有量超 315 万辆、日数据超 2 亿公里；8 月底升至 372 万辆和 2.3 亿公里；9 月底进一步达到 395 万辆和 2.4 亿公里。不到半年时间保有量净增逾百万辆，日数据生成量同步抬升。\n\n天神之眼（IT之家注：比亚迪全栈自研的高阶智能驾驶辅助系统，按配置和品牌分为 A、B、C 三档）的规模扩张，直接对应的是真实路况数据的采集广度和长尾场景覆盖密度。\n当前智驾行业正从规则驱动向端到端大模型迁移，后者依",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "比亚迪辅助驾驶车型保有量超419万辆，天神之眼日数据达2.6亿公里",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，数据具体且含时间序列对比，来源为比亚迪官方公布，但缺少原始报告链接"
+    },
+    {
+      "title": "中国商飞 10 吨级电动商用飞机 CE-25A 有人驾驶首飞成功",
+      "link": "https://www.ithome.com/1/027/075.htm",
+      "pubDate": "Sat, 14 Nov 2026 04:08:13 GMT",
+      "contentSnippet": "IT之家 11 月 14 日消息，据央视新闻今日报道，中国商飞研制的 10 吨级电动商用飞机 CE-25A 在山东滨州完成首次有人驾驶智能飞行。\n\n当天机上搭载 2 名飞行员和 1 名试飞工程师，飞行过程中飞机状态正常，各项指标符合预期。这是继 2026 年 2 月 2 日该机完成无人驾驶智能首飞后，研制进程中的又一个节点。\nCE-25A 是中国商飞第一款电动商用飞机，定位城市间商业飞行，可搭载 19 名乘客，最大起飞重量 10 吨，巡航速度 300 公里 / 小时，巡航高度 2400 米，航程 400 公里。\n此次飞行的核心看点在于“有人驾驶”与“智能飞行”的结合。此前的 19 次验证均为无",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国商飞10吨级电动商用飞机CE-25A完成首次有人驾驶智能飞行",
       "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息源自荣耀CEO及CMO微博官方发布，细节具体，可信度高"
+      "credibilityReason": "IT之家转引央视新闻，来源权威，含机型参数、时间节点及飞行细节，信息具体可信"
     },
     {
-      "title": "微软故意降低 Win11 开机应用加载速度：旨在避免多个应用抢占系统资源，修改两个注册表即可从 150 秒降至 30 秒",
-      "link": "https://www.ithome.com/1/026/673.htm",
-      "pubDate": "Fri, 13 Nov 2026 05:02:18 GMT",
-      "contentSnippet": "IT之家 11 月 13 日消息，据科技媒体 Windows Latest 今日报道，微软在设计 Windows 11 时主动延迟了部分开机启动应用程序的加载时间，以避免多个程序同时启动时占用过多系统资源。不过，有用户通过修改注册表，成功将启动应用全部加载完成的等待时间从 2 分 30 秒缩短至约 30 秒。\nReddit 用户 u/PersianMG 发现，尽管系统本身启动速度较快，但 Discord、Teams 等其他开机启动程序仍会缓慢加载，导致整个过程需要等待较长时间。\n\n他通过 Windows Performance Toolkit 检查启动过程发现系统存在较长的空闲等待时间，并没有",
+      "title": "预计到 2030 年，我国新增清洁能源电量将覆盖新增用电量",
+      "link": "https://www.ithome.com/1/027/074.htm",
+      "pubDate": "Sat, 14 Nov 2026 03:52:20 GMT",
+      "contentSnippet": "IT之家 11 月 14 日消息，据央视新闻报道，中国宏观经济研究院昨天（13 日）发布《中国能源转型展望 2026》。报告显示，目前，我国风电、光伏等清洁能源发电已成为新增装机的主体，并正在逐步成为发电主力。\n今年前三季度，全国可再生能源发电量超过 3 万亿千瓦时，占全部发电量的比重超过四成，预计到 2030 年，我国新增用电量将全部由新增清洁能源电量覆盖，风光发电成为支撑新增电力需求的主要来源。\n\nIT之家查询获悉，今年上半年，我国煤电发电量占比降至 49.7%，首次低于 50%，煤电正从主力电源转为兜底保障和系统调节电源。预计 2026 年我国能源投资总额达 9,400 亿美元（IT之家",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -119,16 +153,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "用户发现修改注册表可将Win11开机应用加载时间从150秒缩短至30秒",
-      "credibilityScore": 75,
+      "aiSummary": "报告预计2030年我国新增用电量将全部由新增清洁能源覆盖",
+      "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，引述Windows Latest及Reddit用户实测，有具体数据和技术细节，但缺乏微软官方回应"
+      "credibilityReason": "IT之家转引央视报道及中国宏观经济研究院报告，数据具体，来源可溯，但属二手转述"
     },
     {
-      "title": "苹果票房最高电影《F1: 狂飙飞车》后皮特再接 Apple TV 新片：把故事搬到纽约高空",
-      "link": "https://www.ithome.com/1/026/672.htm",
-      "pubDate": "Fri, 13 Nov 2026 04:55:31 GMT",
-      "contentSnippet": "IT之家 11 月 13 日消息，科技媒体 9to5Mac 昨日（11 月 12 日）发布博文，报道称继苹果史上最卖座的电影《F1: 狂飙飞车》之后，Apple TV 再度携手布拉德 · 皮特（Brad Pitt），推进名为《Connector》（直译为连接者）的电影项目。\n\n阵容方面，消息称《Connector》电影由布拉德 · 皮特主演，由达里尔斯 · 马德尔（Darius Marder）执导。马德尔的长片导演处女作《金属之声》(Sound of Metal) 于 2021 年获得第 73 届美国导演工会奖最佳新人电影导演奖以及第 93 届奥斯卡金像奖最佳音响与最佳剪辑奖。该影片同时获得第",
+      "title": "用户反馈《GTA 6》实体包装盒存在漏洞：强光照射可直接透视下载码，无需拆封即可兑换",
+      "link": "https://www.ithome.com/1/027/073.htm",
+      "pubDate": "Sat, 14 Nov 2026 03:39:34 GMT",
+      "contentSnippet": "IT之家 11 月 14 日消息，有用户发现，部分《侠盗猎车手 6》（GTA 6）实体盒装版本存在兑换码泄露风险：即使不拆开包装，也能通过强光手电筒从包装侧面照射，从而直接看到盒内印刷的下载码。\n\n据 Engadget 今日报道，这些兑换码并非印在单独的纸质卡片上，也没有采用常见的刮刮涂层保护，而是直接印刷在游戏盒内侧封面上。\nResetEra 论坛和 X 平台上已经出现相关照片，展示用户从游戏盒侧面斜向照射强光后，能够透过包装看到兑换码。\n目前流出的照片数量较少，尚无法确定这一问题是否普遍存在。ResetEra 上有人指出，问题可能主要涉及部分国际版，至少美国版的盒体采用了额外的遮挡设计，可",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -136,51 +170,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "苹果Apple TV携手布拉德·皮特推进新片《Connector》，由《金属之声》导演马德尔执导。",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "IT之家转引9to5Mac，来源较可靠，但内容为影视娱乐新闻，技术含量低，细节有限。"
-    },
-    {
-      "title": "李彦宏的考题，发给了所有CEO",
-      "link": "https://www.tmtpost.com/8203972.html",
-      "pubDate": "Fri, 13 Nov 2026 12:52:38 +0800",
-      "contentSnippet": "人工智能是新电能，智能组织就是AI时代的新厂房，是生产力真正发生的地方。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "李彦宏提出AI时代智能组织是新厂房，引发CEO思考",
-      "credibilityScore": 75,
+      "aiSummary": "用户发现GTA 6实体盒下载码可被强光透视，无需拆封即可兑换",
+      "credibilityScore": 72,
       "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，但内容偏观点评论，缺少具体数据与原始出处"
+      "credibilityReason": "IT之家编译Engadget报道，有论坛照片佐证，但来源为社交媒体，官方未回应，问题普遍性未确认"
     },
     {
-      "title": "Anthropic IPO 认购需求约为 6 倍：拟募资最高 644 亿美元，目标估值约 1.4 万亿美元",
-      "link": "https://www.ithome.com/1/026/671.htm",
-      "pubDate": "Fri, 13 Nov 2026 04:49:58 GMT",
-      "contentSnippet": "IT之家 11 月 13 日消息，据彭博社今日报道，Anthropic 计划进行的首次公开募股（IPO）认购需求持续增长，目前投资者提交的认购订单数量已达到可供认购股份数量的约 6 倍。\n\n根据 Anthropic 提交的文件，公司及其联合创始人计划通过 IPO 募资最高 644 亿美元（现汇率约合 4,305.19 亿元人民币），同时通过同步进行的私募配售募资 260 亿美元，两项融资合计最高达 904 亿美元。\nAnthropic 目前的目标完全稀释后估值约为 1.4 万亿美元（IT之家注：现汇率约合 9.36 万亿元人民币）。这一估值低于此前部分投资者预期的水平。\n随着认购需求超过可供认",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家",
-        "量子位"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "Anthropic IPO认购需求达6倍，拟募资最高644亿美元，目标估值1.4万亿美元",
-      "credibilityScore": 77,
-      "credibilityLevel": "medium",
-      "credibilityReason": "引用彭博社报道及IPO文件，数据具体，但来源为二手编译且估值数据异常偏高需谨慎（多源覆盖 +5）"
-    },
-    {
-      "title": "大疆官宣 11 月 18 日起调整部分产品的建议零售价",
-      "link": "https://www.ithome.com/1/026/670.htm",
-      "pubDate": "Fri, 13 Nov 2026 04:40:44 GMT",
-      "contentSnippet": "IT之家 11 月 13 日消息，大疆官网今日发布关于 DJI 大疆部分产品建议零售价调整的说明，受全球半导体及存储等多项关键零部件成本持续大幅上涨的影响，经审慎评估，大疆将于 2026 年 11 月 18 日 00:00 起，对部分产品的建议零售价进行调整。\n调整涉及的具体产品型号及价格，请以 DJI 官方商城商品详情页展示为准。\nIT之家附说明全文如下：\n\n国际数据公司（IDC）发布的报告显示，2026 年 Q2 全球手持智能相机市场，大疆以 73% 出货量市场份额保持第一，同比增长 87%。\n细分品类来看，大疆云台相机自身出货量占比超过 60%，同比增长超过 77%。不可拆卸运动相机出货",
+      "title": "Outlook 等服务故障期间征集 AI 技巧，微软推文变成网友吐槽现场",
+      "link": "https://www.ithome.com/1/027/072.htm",
+      "pubDate": "Sat, 14 Nov 2026 03:30:13 GMT",
+      "contentSnippet": "IT之家 11 月 14 日消息，科技媒体 Windows Latest 昨日（11 月 13 日）发布博文，报道称在 Outlook 等服务大面积宕机停服的情况下，微软官方账号 @MicrosoftLearn 不合时宜地询问：“初学者应该尽早养成哪一个 AI 使用习惯？”。\n该推文的发布时机恰好是 Outlook 等服务停服的时段，因此迅速成为网友集中表达不满的留言区。IT之家发稿前，该条推文浏览量超过 218.9 万，回复推文数量达到 1,664 条。\n\n其中一条获得逾 4,000 次点赞的回复写道：“确保你的产品不会出故障。”回复还附上微软服务状态页面截图，列出多项服务连接异常的提示。",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -188,16 +187,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "大疆因半导体等零部件成本上涨，宣布11月18日起调整部分产品建议零售价",
+      "aiSummary": "微软Outlook等服务宕机期间官方账号征集AI技巧，引发网友吐槽。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引用大疆官网官方说明及IDC市场数据，信息具体有出处，但正文摘要不完整"
+      "credibilityReason": "来源为IT之家，引用Windows Latest博文，含具体推文数据及截图，信息详实。"
     },
     {
-      "title": "Cookiy Labs创始人董有超：AI掌控生产之后，企业为什么还要向真人咨询？",
-      "link": "https://www.tmtpost.com/8201722.html",
-      "pubDate": "Fri, 13 Nov 2026 12:32:38 +0800",
-      "contentSnippet": "让AI在需要人类经验时能够找到人，让提供经验的人获得授权和回报，让企业在做决定之前看到真实的人如何反应。",
+      "title": "这只AI广告股迎史上最强单日表现，分析师称其股价可能翻倍",
+      "link": "https://www.tmtpost.com/8205214.html",
+      "pubDate": "Sat, 14 Nov 2026 11:25:40 +0800",
+      "contentSnippet": "Liftoff Mobile 的人工智能改进推动利润增长，超出预期。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -205,16 +204,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "Cookiy Labs创始人董有超探讨AI掌控生产后企业仍需真人咨询的原因",
+      "aiSummary": "Liftoff Mobile AI广告业务超预期，股价创最大单日涨幅，分析师看涨翻倍",
       "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，内容为行业观点访谈，逻辑清晰但缺少具体数据和原始出处"
+      "credibilityReason": "来源为知名科技媒体，但正文摘要过简，缺乏具体数据与分析师原始出处"
     },
     {
-      "title": "海康威视：海康机器人已完成股份制改制及上市辅导备案",
-      "link": "https://www.ithome.com/1/026/667.htm",
-      "pubDate": "Fri, 13 Nov 2026 04:16:39 GMT",
-      "contentSnippet": "IT之家 11 月 13 日消息，海康威视今日（11 月 13 日）在互动平台表示，海康机器人已完成股份制改制及上市辅导备案，IPO 相关进展请以官方披露信息为准。\n\nIT之家查询公开资料获悉，海康机器人是面向全球的机器视觉和移动机器人产品及解决方案提供商，业务聚焦工业物联网、智慧物流和智能制造，前身为海康威视机器视觉业务部，2016 年独立成立。\n2026 年 7 月 6 日，随着一台叉取机器人走下产线，海康机器人正式宣布，其移动机器人全品类累计下线突破 20 万台。\n截至 2026 年 4 月，海康机器人累计服务客户超 2 万家，落地 1000 余个细分应用场景，覆盖汽车汽配、3C 电子、",
+      "title": "Take-Two CEO：实体游戏不会消失，但未来会像黑胶唱片一样小众",
+      "link": "https://www.ithome.com/1/027/070.htm",
+      "pubDate": "Sat, 14 Nov 2026 03:19:47 GMT",
+      "contentSnippet": "IT之家 11 月 14 日消息，Take-Two 首席执行官施特劳斯 · 泽尔尼克（Strauss Zelnick）近日表示，实体游戏不会彻底消失，但未来可能像音乐行业的黑胶唱片一样，逐渐成为规模较小的细分市场。\n泽尔尼克在接受 The Game Business 采访时表示，数字发行占据游戏市场绝大部分份额的趋势已经持续多年。他称，自己在 10 多年前就预测数字发行将占据游戏业务 90% 以上的份额，虽然并非每次预测都准确，但这一次判断得到了验证。\n谈及实体游戏，泽尔尼克认为，实体游戏业务仍会长期存在，但规模将非常有限。他将其类比为音乐行业仍然存在的黑胶唱片，他认为实体游戏会保留一部分受众",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -222,16 +221,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "海康威视宣布海康机器人已完成股份制改制及上市辅导备案",
+      "aiSummary": "Take-Two CEO称实体游戏不会消失，但将像黑胶唱片一样小众化",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "知名科技媒体报道，信息源自海康威视官方互动平台，含具体业务数据，但缺乏原始公告链接"
+      "credibilityReason": "IT之家为知名科技媒体，报道引述CEO采访原话，类比合理，信息具体，逻辑清晰"
     },
     {
-      "title": "奔驰冻结德国全部新投资并考虑关停工厂：在德投资已不可行",
-      "link": "https://www.ithome.com/1/026/666.htm",
-      "pubDate": "Fri, 13 Nov 2026 04:15:56 GMT",
-      "contentSnippet": "IT之家 11 月 13 日消息，据新华社今日报道，梅赛德斯-奔驰于当地时间 11 月 12 日宣布，已决定冻结对德国境内所有生产设施的进一步投资，并开始评估关停部分德国工厂的可能性。\n这一决定是在公司与工会围绕劳动力成本削减的谈判陷入僵局后作出的，标志着德国汽车工业危机的一次显著升级。\n\n奔驰生产董事迈克尔 · 希贝在公司内网表示，执行董事会已共同决定暂停对德国工厂的所有进一步投资，理由是“以当前的成本结构，在德国投资已不可行”。\n据德新社报道，德国工厂每工时的人力成本在某些情况下是东欧工厂的 5 倍，行政环节的成本差距也与之类似。\n人力资源董事布里塔 · 西格尔的表态进一步明确了局势的严峻",
+      "title": "打开耗时缩短约 8.7%：微软 Win11 下月将迎新“运行”窗口，支持深色模式",
+      "link": "https://www.ithome.com/1/027/069.htm",
+      "pubDate": "Sat, 14 Nov 2026 03:11:23 GMT",
+      "contentSnippet": "IT之家 11 月 14 日消息，科技媒体 Windows Latest 今天（11 月 14 日）发布博文，报道称微软已面向 Windows 11 25H2 和 26H2 预览版，推送重新设计的“运行”窗口，预估将于 12 月面向所有用户开放。\n在推送方面，该媒体推测新版“运行”窗口随 11 月下旬可选更新向普通用户开放，并于 12 月 8 日补丁星期二活动日进一步推送。IT之家援引博文介绍，由于采用分阶段发布，用户安装更新后未必立即获得新界面。\n\n\n调用方式上，新版仍通过 Win+R 快捷键唤出，采用 WinUI 3 构建，新增深色模式，并支持输入 ~\\ 快速进入用户文件夹。性能方面，微软",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -239,16 +238,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "奔驰冻结德国全部新投资并评估关停工厂，因成本过高",
-      "credibilityScore": 85,
+      "aiSummary": "微软Win11预览版推送新版运行窗口，采用WinUI 3支持深色模式，打开耗时缩短约8.7%",
+      "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家援引新华社和德新社报道，有高管具体表态和成本数据，来源可追溯，但非一手采访"
+      "credibilityReason": "IT之家援引Windows Latest博文，含具体版本、时间节点和技术细节，但部分信息为媒体推测"
     },
     {
-      "title": "微软 365 大规模宕机超 10 小时，日本政府不得不改用电话维持工作",
-      "link": "https://www.ithome.com/1/026/662.htm",
-      "pubDate": "Fri, 13 Nov 2026 04:10:25 GMT",
-      "contentSnippet": "IT之家 11 月 13 日消息，今日凌晨，微软旗下 Outlook、Teams 等 Microsoft 365 核心服务发生全球性大规模中断。\n监测网站 Downdetector 的数据显示，Outlook 的问题报告量一度接近 13 万条，故障持续数小时，波及多个国家和地区的政府机构与企业用户。\n日本政府是受波及的公共部门之一。据央视新闻今日报道，日本内阁官房副长官尾崎正直记者会上确认，数字厅运营的政府共通信息基盘“GSS”（IT之家注：Government Solution Service，为日本各府省厅提供标准化的办公电脑与网络环境）出现故障，各部门使用的 Outlook 等邮件软件停",
+      "title": "全球最大业载无人货运飞机：白鲸航线 W5000 成功完成技术验证试飞",
+      "link": "https://www.ithome.com/1/027/068.htm",
+      "pubDate": "Sat, 14 Nov 2026 03:09:49 GMT",
+      "contentSnippet": "IT之家 11 月 14 日消息，白鲸航线今日宣布，W5000 大型无人货运飞机在内蒙古鄂尔多斯鄂托克前旗成功完成技术验证试飞。据悉，该机型为全球最大业载无人货运飞机。\n\n爬升、平飞、转弯、下降、进近着陆……W5000 按照既定计划，一气呵成完成全部飞行科目。动力、飞控、航电、地面测控保障系统协同运转，飞机的操控稳定性得到充分验证。在真正飞上蓝天之前，W5000 经历了一场近乎苛刻的“大考”：铁鸟试验、静力试验、地面振动试验、全机电源试验、落震摆震试验等等。\nIT之家注意到，全球最大的无人货运飞机 W5000 去年 10 月在白鲸航线的常州生产基地成功总装下线。该机型具备 10.8 吨的最大起",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -256,10 +255,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "微软365全球宕机超10小时，日本政府GSS系统受影响改用电话办公",
-      "credibilityScore": 85,
+      "aiSummary": "白鲸航线W5000大型无人货运飞机完成技术验证试飞",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家报道，引用Downdetector数据和央视新闻官方表态，信息具体有出处，但缺少微软官方回应"
+      "credibilityReason": "知名科技媒体报道，信息具体含试飞科目与试验细节，但缺原始出处及第三方数据"
     }
   ]
 }
