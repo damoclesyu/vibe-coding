@@ -1,31 +1,14 @@
 {
-  "generatedAt": "2026-11-15T05:39:45.224Z",
+  "generatedAt": "2026-11-16T05:39:09.344Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "全球供应链“安全优先”的账单，最后寄给了谁？",
-      "link": "https://www.tmtpost.com/8205652.html",
-      "pubDate": "Sun, 15 Nov 2026 10:56:35 +0800",
-      "contentSnippet": "全球供应链彻底从 “效率优先” 转向 “安全优先”。看似宏观的产业韧性升级，实则层层转嫁隐性成本。供应商牺牲利润换入场资格、客户抬升采购成本、财政兜底补贴，而最弱势的中小企业，最终成为供应链安全账单的最终承担者。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "全球供应链转向安全优先，隐性成本层层转嫁，中小企业最终买单。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "钛媒体为知名科技媒体，选题有行业洞察，但正文为观点评论，缺乏具体数据与原始出处支撑。"
-    },
-    {
-      "title": "中国车企首家：小米泰坦合金 2.0 与新一代 SU7 从材料到整车通过国际 EPD 体系认证",
-      "link": "https://www.ithome.com/1/027/249.htm",
-      "pubDate": "Sat, 14 Nov 2026 23:06:33 GMT",
-      "contentSnippet": "IT之家 11 月 15 日消息，小米技术官方微博昨晚宣布，在第 31 届联合国气候变化大会（COP31）主题会议上，小米汽车与国际 EPD 体系（The International EPD System）联合发布认证成果：小米泰坦合金 2.0 与新一代 SU7，从材料到整车，均通过国际 EPD 体系认证。\n\n据介绍，EPD（环境产品声明）是国际通行的产品环境信息披露制度，通过标准化核算和独立第三方核验，为绿色采购与国际贸易提供可信依据，被称为国际绿色贸易的“绿色通行证”。\n小米泰坦合金 2.0 攻克了 100% 消费后再生铝技术难关，实现强度不降、韧性提升，材料碳排放较传统原铝降低约 93%",
+      "title": "英伟达目标价腰斩，被汇丰大幅下调至 170 美元",
+      "link": "https://www.ithome.com/1/027/612.htm",
+      "pubDate": "Mon, 16 Nov 2026 05:03:11 GMT",
+      "contentSnippet": "IT之家 11 月 16 日消息，汇丰分析师 Frank Lee 上周末将英伟达评级下调至持有，目标价从 365 美元（IT之家注：现汇率约合 2,438 元人民币）大幅砍至 170 美元（现汇率约合 1,135 元人民币），下调约 54%。\n英伟达 2027 财年第二财季（2026 年 4 月 26 日～2026 年 7 月 26 日）收入为 962.2 亿美元（现汇率约合 6,425.96 亿元人民币），同比增长 105.8%，管理层表示客户需求远超其供应链所能提供的服务。\n然而，黄仁勋于 11 月 12 日宣布辞去英伟达总裁、首席执行官及董事会成员职务，投资者现在必须考虑英伟达后续继任路",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -33,16 +16,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "小米泰坦合金2.0与新一代SU7通过国际EPD体系认证，成中国车企首家。",
+      "aiSummary": "汇丰将英伟达目标价从365美元下调至170美元，评级降至持有",
+      "credibilityScore": 35,
+      "credibilityLevel": "low",
+      "credibilityReason": "来源为IT之家但内容含明显虚构信息，黄仁勋辞职及2027财年数据均不实，缺乏原始出处"
+    },
+    {
+      "title": "中国与东盟宣布将 2027 年定为人工智能合作年",
+      "link": "https://www.ithome.com/1/027/607.htm",
+      "pubDate": "Mon, 16 Nov 2026 04:17:38 GMT",
+      "contentSnippet": "IT之家 11 月 16 日消息，据央视新闻今日报道，中国与东盟宣布将 2027 年定为人工智能合作年。\n此外，中国－东盟自贸区 3.0 版升级议定书将于 2026 年 12 月 1 日生效。\nIT之家注：东南亚国家联盟（ASEAN，简称东盟）是一个由东南亚国家组成的政治经济联盟，1967 年 8 月 8 日在泰国曼谷成立，现有文莱、印度尼西亚、马来西亚、菲律宾、新加坡、泰国、越南等 11 个成员国，秘书处设在印度尼西亚雅加达。\n广西壮族自治区工业和信息化厅于 2025 年 3 月发布《广西“人工智能 + 制造”行动方案（2025—2027 年）》，支持南宁建设中国 — 东盟人工智能创新合作中",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国与东盟宣布将2027年定为人工智能合作年",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体含数据与原始出处，但属企业官方宣传需谨慎。"
+      "credibilityReason": "IT之家转引央视新闻，来源权威；信息具体含时间节点，但正文较简短，缺少合作细节"
     },
     {
-      "title": "马斯克再度力挺黄仁勋：没有他，英伟达将失去部分关键合作",
-      "link": "https://www.ithome.com/1/027/247.htm",
-      "pubDate": "Sat, 14 Nov 2026 15:28:14 GMT",
-      "contentSnippet": "IT之家 11 月 14 日消息，今天（14 日）晚间，马斯克在 X 平台发文称，随着黄仁勋离任 CEO，英伟达将失去一些至关重要的商业合作。\n马斯克称赞黄仁勋在供应链管理方面表现出色，指出英伟达许多交易都是靠黄仁勋与合作方握手达成的，并没有签署书面合同。\n紧接着，马斯克又补充说：“如果黄仁勋答应向我交付算力，或者我要求加快零部件供应，他每次都能说到做到。当然，我们之后还是会补上采购订单，但在他兑现承诺这件事上，我从来没有怀疑过。”\n\n据IT之家了解，就在昨天，马斯克发文回应网友关于“约 1600 名英伟达员工呼吁黄仁勋回归”的推文：一项要求让黄仁勋复职的请愿正在进行，我也会签署。\n相关阅读：",
+      "title": "台积电向精材外包 CoWoS 先进封装 oS 产能，后者将在台积电厂房建设产线",
+      "link": "https://www.ithome.com/1/027/513.htm",
+      "pubDate": "Mon, 16 Nov 2026 02:08:19 GMT",
+      "contentSnippet": "IT之家 11 月 16 日消息，据中国台湾地区晶圆级封装企业精材科技 (Xintec) 官方公告，该企业董事会本月 13 日决议通过与客户台积电签订产能外包协议。\n\n根据这份协议，精材将在台积电中科厂区的厂房中建设一条先进封装产线，负责 CoWoS 异构集成中的 \"oS\" 工序。精材将为该产线采购生产设备和自动物料搬运系统，并负责生产运营，预计 2029 年一期投运。",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -50,50 +50,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "马斯克称黄仁勋离任将致英伟达失去关键合作，并赞其供应链管理能力",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体IT之家，引述马斯克X平台原文，但事件背景（黄仁勋离任）缺乏独立核实，属单一信源转述"
-    },
-    {
-      "title": "11.11 过后迎全年探底：bilibili 超级大会员年卡 388 → 124 元，支持电视端",
-      "link": "https://www.ithome.com/1/027/165.htm",
-      "pubDate": "Sat, 14 Nov 2026 08:14:18 GMT",
-      "contentSnippet": "bilibili 超级大会员双年卡官方售价为 776 元，今日天猫官旗直降至 248 元。\n活动仅限 11 月 14 日 10 点 ~11 月 15 日 23 点 59 分，约为官方 3.2 折。\n适用平台：支持电视端 / 手机 / 平板 / 电脑。\n天猫哔哩哔哩 超级大会员 双年卡支持电视端券后 248 元领 528 元券\n填写手机号自动充值（不支持 QQ、微信号等第三方账号充值，不支持海外、港澳手机号）\n\n天猫哔哩哔哩 超级大会员 双年卡支持电视端券后 248 元领 528 元券",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "B站超级大会员双年卡天猫促销248元，支持电视端",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "IT之家为知名科技媒体，促销信息具体含价格时限，但属商业推广类报道，技术含量较低"
-    },
-    {
-      "title": "华为鸿蒙 HarmonyOS 7 游戏秒级启动开关上线，支持提前加载本机热度最高两款游戏",
-      "link": "https://www.ithome.com/1/027/310.htm",
-      "pubDate": "Sun, 15 Nov 2026 05:34:02 GMT",
-      "contentSnippet": "IT之家 11 月 15 日消息，华为在 10 月底面向 Mate 80 / 70 / 60、Pura 80 / 70 等系列机型推送了最新的鸿蒙 HarmonyOS 7.0.0.111 版本升级，带来了与 iPhone 双机互联，实况窗分享等功能。\n\nIT之家注意到，华为还为升级 HarmonyOS 7 系统的用户带来了“游戏秒级启动”功能的开关（入口较深：呼出游戏中心 → 设置 → “游戏秒级启动”开关，需升级至最新的 111 版本）。\n\n系统将在 CPU、温度及内存等条件满足时，根据用户习惯提前加载本机热度最高的 2 款游戏以缩短启动时间。\n当前仅支持部分游戏。更多游戏适配中，敬请期待。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "华为鸿蒙7上线游戏秒级启动开关，可预加载两款热门游戏",
+      "aiSummary": "台积电将CoWoS封装oS工序外包给精材，后者在台积电厂房建产线，2029年投运。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息含具体版本号、机型、功能入口及技术机制，细节详实，来源可靠。"
+      "credibilityReason": "IT之家援引精材官方公告，信息具体含协议、工序、时间节点，来源可查，但缺台积电方确认。"
     },
     {
-      "title": "东航 C919 新开“上海虹桥 — 郑州”航线，机队规模国内最大",
-      "link": "https://www.ithome.com/1/027/309.htm",
-      "pubDate": "Sun, 15 Nov 2026 05:29:28 GMT",
-      "contentSnippet": "IT之家 11 月 15 日消息，据央视新闻报道，11 月 15 日，东航新开国产大飞机 C919“上海虹桥 — 郑州”航线。今天上午 10:02，首航航班平稳落地郑州新郑国际机场。\n\n据悉，东航 C919“上海虹桥 — 郑州”航线的计划班次为每日 1 班，往返航班号 MU5395/MU5396，单程飞行时长约 1 小时 40 分钟。去程航班 08:05 从上海虹桥国际机场起飞，09:55 抵达郑州新郑国际机场；返程航班 10:55 从郑州起飞，12:40 抵沪。\n东航目前拥有国内航司中规模最大的 C919 机队，飞机数量达到 17 架。随着“上海虹桥 — 郑州”航线的开通，东航 C919 通",
+      "title": "Omdia：2026 年 Q3 东南亚智能手机出货量同比下降 36%，苹果逆势增长 4%",
+      "link": "https://www.ithome.com/1/027/644.htm",
+      "pubDate": "Mon, 16 Nov 2026 05:28:25 GMT",
+      "contentSnippet": "IT之家 11 月 16 日消息，根据 Omdia 最新研究，2026 年第三季度，东南亚智能手机市场同比下降 36%，出货量降至 1,650 万部。这一市场收缩延续了 2026 年上半年以来的下行趋势，存储芯片供应短缺及零部件成本上涨持续制约智能手机厂商的出货表现。\n\nIT之家从报告获悉，尽管出货量大幅下滑，市场出货价值同比仅下降 1%，而平均售价（ASP）则同比上涨 53%。这一差异反映出，在供应压力持续加大的背景下，智能手机厂商正通过提高产品售价来应对成本上涨及供应限制。\n\n2026 年第三季度主要智能手机厂商表现亮点：\n\n尽管三星出货量同比下降 20% 至 370 万部，仍保持东南亚市",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -101,16 +67,67 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "东航新开C919上海虹桥至郑州航线，机队规模达17架居国内首位",
+      "aiSummary": "Omdia报告：2026年Q3东南亚智能手机出货量同比降36%，苹果逆势增4%",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家援引Omdia权威数据，含出货量、ASP等具体指标，但正文截断且缺原始报告链接"
+    },
+    {
+      "title": "丰田联手小马智行，第七代铂智 4X Robotaxi 在广州开启示范运营",
+      "link": "https://www.ithome.com/1/027/643.htm",
+      "pubDate": "Mon, 16 Nov 2026 05:24:19 GMT",
+      "contentSnippet": "IT之家 11 月 16 日消息，11 月 16 日，小马智行与丰田合作研发并量产的第七代铂智 4X Robotaxi 在广州正式投入示范运营，面向公众开放 L4 级自动驾驶服务。\n据介绍，目前，小马智行与丰田已在北上广深四座一线城市落地 Robotaxi 服务。铂智 4X Robotaxi 投入示范运营，标志着双方在中国市场的 L4 战略合作迈入新阶段。\n\n铂智 4X Robotaxi 是小马智行与丰田历经以雷克萨斯、赛那为原型的多代 L4 级车型迭代后的标杆之作。为支撑 L4 车型规模化量产及运营的长远布局，2023 年 8 月，小马智行联合丰田中国、广汽丰田宣布共同投资 10 亿元成立合",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "小马智行与丰田第七代铂智4X Robotaxi在广州开启L4示范运营",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息含具体车型、城市、合作背景及投资数据，但缺少原始出处链接"
+    },
+    {
+      "title": "我国自主研发电子航海日志系统发布，航运基础文书数字化转型关键一步",
+      "link": "https://www.ithome.com/1/027/642.htm",
+      "pubDate": "Mon, 16 Nov 2026 05:16:52 GMT",
+      "contentSnippet": "IT之家 11 月 16 日消息，据央视新闻报道，我国自主研发的电子航海日志系统今日（11 月 16 日）正式发布，这标志着我国航运基础文书数字化转型迈出关键一步。\n航海日志是船舶航行的法定原始记录，也是海事调查、事故溯源、责任判定的核心依据。\n此次发布的电子航海日志系统，以自动记录替代手工誊写；通过船岸数据同步，船舶管理从“翻本子”变为“看数据”；借助数字签名与区块链存证保障记录真实、不可篡改，为海事监管和港口国监督检查提供可信依据。\n目前系统已在四艘货船完成了实船试验，基础信息自动抓取、数据回传等功能经测试运行稳定，试验效果良好，计划 2027 年 1 月份在各船型、吨位、航线船舶进行实船",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "我国自主研发电子航海日志系统发布，航运文书数字化转型迈出关键一步",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家转引央视新闻，来源权威；技术细节具体，含区块链存证与实船试验信息，但缺少官方原始链接"
+    },
+    {
+      "title": "LG Display 2026 财年前三季度归母亏损 2285.85 亿韩元，同比由盈转亏",
+      "link": "https://www.ithome.com/1/027/641.htm",
+      "pubDate": "Mon, 16 Nov 2026 05:13:41 GMT",
+      "contentSnippet": "IT之家 11 月 16 日消息，LG Display 今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告：\n\n2026 财年前三季度\n\n营业总收入：17.42 万亿韩元（IT之家注：现汇率约合 871.5 亿元人民币），同比下降 6.37%\n\n毛利润：2.47 万亿韩元（现汇率约合 123.59 亿元人民币），同比增长 3.35%\n\n毛利率：14.18%，同比增长 1.33 个百分点\n\n归母净利润：-2285.85 亿韩元（现汇率约合 -11.43 亿元人民",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "LG Display 2026财年前三季度归母净亏损2285.85亿韩元，同比由盈转亏。",
       "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家转引央视新闻，含航班号、时刻、机队数量等具体数据，来源权威可信"
+      "credibilityReason": "IT之家为知名科技媒体，引用官方财报数据，营收、利润等细节具体，来源明确。"
     },
     {
-      "title": "郑州日产 27 款锋坦 Frontier Pro PHEV 新能源皮卡首发，2.0T 插混发动机",
-      "link": "https://www.ithome.com/1/027/308.htm",
-      "pubDate": "Sun, 15 Nov 2026 05:24:17 GMT",
-      "contentSnippet": "IT之家 11 月 15 日消息，11 月 13 日，日产汽车 NISSAN DAY 活动在珠海国际会展中心举行，郑州日产新车 27 款锋坦 Frontier Pro PHEV 迎来全球首秀。\n\n据介绍，27 款锋坦 Frontier Pro PHEV 搭载 2.0T 插混专用发动机 + 采埃孚第四代 8HP 混动变速箱，系统综合功率 300kW，峰值扭矩 800N·m，CLTC 纯电续航 135km，动力强、油耗低、耐久可靠，性能达到行业第一梯队水准。智能四驱 +MLOCK+ 前后桥差速锁，搭配越野巡航、坦克掉头、13 种全地形模式。\n\nIT之家注意到，智能体验上，27 款锋坦 Fronti",
+      "title": "腾讯混元 Hy4 flash 模型发布：224B 总参、12B 激活，单任务成本约 Hy4 的 5%",
+      "link": "https://www.ithome.com/1/027/630.htm",
+      "pubDate": "Mon, 16 Nov 2026 05:09:25 GMT",
+      "contentSnippet": "IT之家 11 月 16 日消息，腾讯混元团队今天宣布正式推出 Hy4 flash，官方将其定位为迄今性价比最高的 Hy 模型。\n其模型总参数量 224B，其中包含 64B Engram 参数，每个 token 激活 12B 参数，支持多模态输入与 100 万 token 上下文长度，API 价格较 Hy4 大幅降低。\n\n腾讯表示，Hy4 flash 的高性价比来自预训练、后训练和推理三个阶段的协同优化。预训练阶段引入混合注意力、LatentMoE 与 Engram（IT之家注：Engram 是一种可扩展的查表式参数模块，用于以较低算力成本扩充模型容量）等架构，KV cache 大小降至 Hy",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -118,101 +135,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "郑州日产锋坦Frontier Pro PHEV皮卡全球首发，2.0T插混系统300kW",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，参数具体含动力续航配置，但缺官方原始出处链接"
-    },
-    {
-      "title": "B站“BLG 夺冠时刻”赠送 7 天大会员活动被挤爆，多名用户反馈仍抢不到",
-      "link": "https://www.ithome.com/1/027/306.htm",
-      "pubDate": "Sun, 15 Nov 2026 05:06:59 GMT",
-      "contentSnippet": "IT之家 11 月 15 日消息，在 2026 英雄联盟全球总决赛（S16）中，哔哩哔哩旗下战队 BLG（Bilibili Gaming）以 3:1 击败了韩国 LCK 赛区的 Gen.G 战队，夺得 S16 冠军宝座。\n\nBLG 战队由B站于 2017 年 12 月组建，夺冠当日，B站宣布为所有人送大会员，今日中午 12 点起登录B站，搜索“大会员”即可免费领取 7 天大会员。\n截至IT之家发稿，B站“BLG 夺冠时刻”赠送 7 天大会员活动处于被挤爆状态，点击领取会员会显示“粉丝们热情太高，请稍后再试”。\n\n该情况并非个例，已有多名用户反馈，活动开启一小时还是无法领取会员。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "B站BLG夺冠送7天大会员活动因流量过大被挤爆，用户难领取",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道含具体赛事结果、活动规则及用户反馈，信息详实且逻辑清晰"
-    },
-    {
-      "title": "《极限竞速：地平线 6》游戏 2026 年末-2027 年路线图公布，含两款 DLC 及内容更新",
-      "link": "https://www.ithome.com/1/027/305.htm",
-      "pubDate": "Sun, 15 Nov 2026 04:53:30 GMT",
-      "contentSnippet": "IT之家 11 月 15 日消息，Playground Games 开发团队现已公布《极限竞速：地平线 6》游戏的内容更新路线图，介绍游戏在 2026 年末-2027 年计划新推出的内容。\n\n据介绍，《极限竞速：地平线 6》将在今年年底前推出第 8 赛季「地平线假日」（IT之家注：Horizon Holidays）和第 9 赛季「传奇探险家」（Legendary Explorers）。进入明年 1 月和 2 月后，第 10 赛季将以「超跑与改装车」（Exotics and Tuners）为主题。\n同时，本作的首个付费 DLC 将在 2027 年 1 月推出，官方暂未公布更多消息。开发团队已确认",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "Playground Games公布《极限竞速：地平线6》2026末至2027年更新路线图，含两款DLC",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容具体含赛季名称与时间节点，但DLC细节缺失且无原始链接"
-    },
-    {
-      "title": "华为 Mate X8 大折叠手机今日亮相，消息称典藏版本支持睿影 Z10 模块相机",
-      "link": "https://www.ithome.com/1/027/304.htm",
-      "pubDate": "Sun, 15 Nov 2026 04:52:14 GMT",
-      "contentSnippet": "IT之家 11 月 15 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日发布视频，回顾了华为 Mate X 系列折叠屏手机走过的岁月，并宣布 Mate X8 新机“就要来了”。\n\n余承东还在视频的结尾公开了 Mate X8 折叠屏手机外观，他表示，新机在屏幕、拍照、性能等方面又有新的突破。\n\n据博主 @RuryRen 透露，华为 Mate X8 大折叠手机将分普通版和典藏版，其中典藏版会支持睿影 Z10 模块相机。\n\n据IT之家了解，华为睿影 Z10 模块相机代号“金刚”，集成红枫等多种传感器，支持与手机 SoC 协同，通过软硬芯 AI 协同 + 智能融合对焦，实现",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "华为Mate X8折叠屏手机亮相，典藏版或支持睿影Z10模块相机",
-      "credibilityScore": 75,
+      "aiSummary": "腾讯发布混元Hy4 flash模型，224B总参12B激活，成本大降",
+      "credibilityScore": 78,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体IT之家，有官方视频佐证，但模块相机信息来自博主爆料，未经官方确认"
+      "credibilityReason": "来源为知名科技媒体IT之家，含具体参数与架构细节，但缺少官方原始链接及第三方验证"
     },
     {
-      "title": "韩国税务师考试榜一考生自首，承认用微型摄像头与 AI 作弊",
-      "link": "https://www.ithome.com/1/027/303.htm",
-      "pubDate": "Sun, 15 Nov 2026 04:35:42 GMT",
-      "contentSnippet": "IT之家 11 月 15 日消息，据韩媒 Etnews 今天报道，韩国 2026 年税务师资格考试的榜一考生承认，他使用了微型摄像头和生成式人工智能作弊。\n据报道，第 63 届税务师考试第一名考生 A 某近日接受一名律师采访时，承认自己的作弊行为。\nA 某表示，他在考试中利用微型摄像头拍摄考试题目，再将照片发给 AI 查看答案。他声称自己在今年 4 月、7 月举行的第一轮、第二轮考试中都实施了作弊行为。\n\nA 某在节目中说道：“我已经将自己所做的一切写进自首书，提交给首尔警察厅。剩余的资料和设备，我也会原样作为证据提交给调查机关。”\nIT之家从原报道获悉，A 某曾在此前公开自己的考试成绩。在采",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "韩国税务师考试榜首考生自首，承认用微型摄像头拍题并借助AI作弊",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家援引韩媒Etnews原报道，含当事人自首细节与具体考试信息，来源可追溯，但属转述报道"
-    },
-    {
-      "title": "华为何刚：鸿蒙生态用户数已达 9980 万，预计再过几天就能突破 1 亿",
-      "link": "https://www.ithome.com/1/027/302.htm",
-      "pubDate": "Sun, 15 Nov 2026 04:25:40 GMT",
-      "contentSnippet": "IT之家 11 月 15 日消息，据爱范儿报道，华为终端 BG CEO 何刚在南京大学透露，截至当天，鸿蒙生态用户数已经达到 9980 万，距离 1 亿大关仅差 20 万。他预计，再过几天就能突破 1 亿。\n\n报道提到，何刚当天出席了 2026 中国高校计算机大赛人工智能创意赛全国总决赛，这也是华为首次赞助该赛事。\n华为官网披露，截至 2026 年 6 月，全球鸿蒙开发者规模已超 1100 万，华为应用市场可获取的鸿蒙应用与服务数量突破 38 万。第三方数据显示，鸿蒙已稳居中国第二大智能手机操作系统，2026 年第一季度在中国智能手机市场份额达 19%。\n据IT之家此前报道，在 11 月 5",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "何刚透露鸿蒙生态用户达9980万，预计几天内破亿",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家报道，引述高管公开讲话及官网、第三方数据，信息具体但缺原始链接"
-    },
-    {
-      "title": "全球芯片股较峰值回撤近四成，AI泡沫破了吗？",
-      "link": "https://www.tmtpost.com/8205717.html",
-      "pubDate": "Sun, 15 Nov 2026 12:19:48 +0800",
-      "contentSnippet": "非AI板块却创了新高。",
+      "title": "价格已经跌穿了，猪肉10年最低",
+      "link": "https://www.tmtpost.com/8206431.html",
+      "pubDate": "Mon, 16 Nov 2026 13:06:02 +0800",
+      "contentSnippet": "母猪少了10%，市场上的肉却更多了。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -220,16 +152,50 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "全球芯片股较峰值回撤近四成，钛媒体探讨AI泡沫是否破裂",
+      "aiSummary": "钛媒体报道猪肉价格创十年新低，母猪存栏减少但市场供应反增。",
+      "credibilityScore": 65,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体，但内容简略缺数据出处，且属农业经济非科技领域。"
+    },
+    {
+      "title": "长沙比亚迪 4S 店新车交付时被偷走：门店承认管理疏漏，嫌疑人已被拘留",
+      "link": "https://www.ithome.com/1/027/614.htm",
+      "pubDate": "Mon, 16 Nov 2026 05:03:44 GMT",
+      "contentSnippet": "IT之家 11 月 16 日消息，湖南长沙新车被盗事件当事人熊女士昨日在社交平台发文称“维权成功”告一段落。\n涉事门店比亚迪长沙金旋风 4S 店向澎湃新闻确认，购车全款已退还，偷车嫌疑人已被警方拘留，门店承认在车辆管理上存在疏漏。\n\nIT之家通过公开报道获悉，此次事件发生在 2026 年 11 月 10 日。熊女士一家为庆祝公公 60 岁生日，从老家驱车数百公里赶到长沙金旋风 4S 店，以 14.9 万元车价、连同保险共计 15.5 万元全款购入一辆新车。\n合同签署、发票开具、临时牌照办理均已完成，一家人坐在休息区等待车辆洗车贴膜后交车。傍晚 6 点多，销售人员告知“车不见了”。\n\n据门店销售",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "长沙比亚迪4S店新车交付前被盗，门店退款并承认管理疏漏",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家报道，引用澎湃新闻及当事人社交平台信息，细节具体，但事件仍在处理中，缺乏官方通报"
+    },
+    {
+      "title": "无界进化宣布完成超亿元 Pre-A 轮融资，称“刷新中国虚拟细胞企业单笔融资纪录”",
+      "link": "https://www.ithome.com/1/027/609.htm",
+      "pubDate": "Mon, 16 Nov 2026 04:42:03 GMT",
+      "contentSnippet": "IT之家 11 月 16 日消息，以虚拟细胞与递归科学发现为核心的 AI for Science（科学智能，AI4S）企业无界进化（INFevo）今日宣布完成超亿元 Pre-A 轮融资，刷新中国虚拟细胞企业单笔融资金额纪录。\n\n本轮融资由星连资本、Prosperity7 Ventures、华盖资本、华控基金及德同资本等机构联合投资，老股东顺为资本、红杉中国和松禾资本继续追加投资。\n这是无界进化继 2026 年 6 月完成数千万元天使轮融资后，五个月内完成的第二轮融资。资金将加快公司 AI4S 基础设施建设，推动细胞响应预测、科学假说检验与高通量自动化实验反馈的深度协同，打造覆盖“靶点发现 —",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "无界进化完成超亿元Pre-A轮融资，称刷新虚拟细胞企业单笔融资纪录",
       "credibilityScore": 75,
-      "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体，选题具体，但正文信息简略，缺少数据出处和详细分析"
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，融资信息具体含投资方与轮次，但技术细节与数据支撑有限"
     },
     {
-      "title": "消息称松下计划下周推出 L 卡口电影摄影机：外形类似索尼 FX3，不支持拍照",
-      "link": "https://www.ithome.com/1/027/300.htm",
-      "pubDate": "Sun, 15 Nov 2026 04:13:50 GMT",
-      "contentSnippet": "IT之家 11 月 15 日消息，消息源 L-Rumors 昨日发文称，三位消息人士透露，松下可能在下周推出一款 L 卡口电影摄影机。\n\nIT之家从原报道获悉，其中一名消息人士表示，这款电影摄影机计划于下周二（11 月 17 日）在大阪发布。该机融合了松下 EVA-1 和 Lumix S1H 的特点，但不具备静态照片拍摄功能。\n同时，该机预计不会采用 FX6 或 Pyxis 那样的盒式机身造型，而是更可能类似索尼 FX3 或佳能 EOS C50。这款新机可能会在 2027 年 1 月上市。",
+      "title": "豆包工作新功能「工作台」上线，首批覆盖金融、医疗、教育等 21 个专业场景",
+      "link": "https://www.ithome.com/1/027/608.htm",
+      "pubDate": "Mon, 16 Nov 2026 04:27:33 GMT",
+      "contentSnippet": "IT之家 11 月 16 日消息，豆包工作今天宣布独家上线「工作台」功能，首批覆盖金融、医疗、教育等 21 个专业场景。\n\n据介绍，豆包工作的「工作台」是为用户专业工作场景打造的专属 AI 工作空间。这里预先配置好了专业场景所需技能、工具，大幅降低 AI 使用门槛，提高工作效率。\n\n例如，金融投研工作台首页提供公告解读、业绩分析、市场简报、公司研究等常用任务入口。该工作台打通了各类专业金融数据，可通过插件按需链接万得、同花顺、国泰海通等数据服务。创意设计工作台覆盖海报设计、社媒配图、品牌视觉等常用技能。\n此外，用户还可以自建个人专属工作台，支持定制工作需求、偏好，保存后还可分享。",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -237,16 +203,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "传松下下周发布L卡口电影摄影机，类似索尼FX3，不支持拍照",
-      "credibilityScore": 72,
+      "aiSummary": "豆包工作上线「工作台」功能，首批覆盖金融、医疗、教育等21个专业场景",
+      "credibilityScore": 78,
       "credibilityLevel": "medium",
-      "credibilityReason": "IT之家转述L-Rumors传闻，标注三位匿名消息源，细节具体但属未证实爆料，缺乏官方确认"
+      "credibilityReason": "来源为知名科技媒体IT之家，内容具体含场景与插件细节，但缺少官方链接与数据支撑，属产品发布报道"
     },
     {
-      "title": "华为余承东自曝是 Mate X 系列第一位用户，称大折叠已成千万用户主力机",
-      "link": "https://www.ithome.com/1/027/299.htm",
-      "pubDate": "Sun, 15 Nov 2026 04:13:21 GMT",
-      "contentSnippet": "IT之家 11 月 15 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东在其个人社交平台表示，今年是华为 Mate X 系列走过的第八年，现在大折叠已成为千万用户的主力机型。\n\n余承东透露，自己应该是华为 Mate X 系列的第一位用户。他表示，8 年前，华为就想做一个不一样的产品，合上是一个普通的手机，展开是一个平板。现在回头看，当时华为很多技术都没有人做过，只能靠自己研究。\n\n据IT之家今日早些时候报道，余承东宣布 Mate X8 新机“就要来了”，并公开了新机的外观。余承东称，华为 Mate X8 在屏幕、拍照、性能等方面又有新的突破。",
+      "title": "三星 Galaxy Claw 曝光：帮助用户完成每日重复工作",
+      "link": "https://www.ithome.com/1/027/606.htm",
+      "pubDate": "Mon, 16 Nov 2026 04:16:05 GMT",
+      "contentSnippet": "IT之家 11 月 16 日消息，据科技媒体 Android Authority 昨天报道，三星似乎正在为 Galaxy AI 开发“Galaxy Claw”全新功能，有望让 AI 技术不再局限于回答问题和生成内容，而是代替用户处理每日重复的工作。\n\n据报道，三星 Personal Agent Core 应用出现了 Galaxy Claw 相关代码，使我们能够一窥新功能的具体支持应用、能力，IT之家附详情如下：\n<string name=\"pac_settings_main_description\">Personal agent core helps Galaxy AI complete ta",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -254,10 +220,44 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "余承东称华为Mate X系列走过八年，大折叠已成千万用户主力机",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "IT之家为知名科技媒体，信息源自余承东社交平台，但缺乏具体数据支撑，多为高管宣传性表述"
+      "aiSummary": "三星Galaxy AI开发Galaxy Claw功能，可代用户处理重复工作",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家编译Android Authority报道，有代码证据支撑，但功能细节有限，属传闻阶段"
+    },
+    {
+      "title": "比亚迪王传福亲自交付首批腾势 N8 车型，26.99 万元起",
+      "link": "https://www.ithome.com/1/027/604.htm",
+      "pubDate": "Mon, 16 Nov 2026 04:15:52 GMT",
+      "contentSnippet": "IT之家 11 月 16 日消息，比亚迪董事长、执行董事兼总裁王传福昨日出现在腾势 N8 的首批交付现场，并亲自将新车钥匙交到全球首批车主手中。此时距离该车 11 月 12 日正式上市仅过去三天。\n\nIT之家此前报道，全新腾势 N8 定位五座 SUV，推出纯电与插混两种动力共 6 款车型。纯电版 4 款，售价 26.99 万至 32.99 万元；插混版 2 款，售价 30.09 万至 32.09 万元。购车可享至高约 7.1 万元的限时权益组合。\n车身长宽高为 5150/1999/1820mm，轴距 3075mm，后备厢常规容积 1046 升，二排折叠后可扩展至 2150 升。车内提供四把零重",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "王传福亲自交付首批腾势N8，新车26.99万元起售",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息含具体价格、尺寸、车型配置等细节，逻辑清晰，但缺少官方原始出处引用"
+    },
+    {
+      "title": "国家统计局：人工智能快速发展带动电子、电气机械等行业需求回升、价格上涨",
+      "link": "https://www.ithome.com/1/027/602.htm",
+      "pubDate": "Mon, 16 Nov 2026 03:59:15 GMT",
+      "contentSnippet": "IT之家 11 月 16 日消息，据界面新闻报道，国家统计局新闻发言人王冠华今日在国新办新闻发布会上表示，人工智能快速发展带动部分装备行业价格上行。\nIT之家从原报道获悉，人工智能（AI）正在加快从技术创新走向产业落地和场景重塑，持续赋能产业升级，带动电子、电气机械等行业需求回升、价格上涨。10 月份电气机械和器材制造业、计算机通信和其他电子设备制造业的价格环比均上涨 0.1%，同比分别上涨 6.2% 和 5.9%，这两个行业合计影响 PPI 同比上涨约 1.18 个百分点。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国家统计局称AI快速发展带动电子、电气机械行业需求回升和价格上涨",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家转引界面新闻及国家统计局官方发布会，含具体环比同比数据，信息可溯源"
     }
   ]
 }
