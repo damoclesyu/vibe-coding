@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-16T05:39:09.344Z",
+  "generatedAt": "2026-11-17T07:15:55.272Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "英伟达目标价腰斩，被汇丰大幅下调至 170 美元",
-      "link": "https://www.ithome.com/1/027/612.htm",
-      "pubDate": "Mon, 16 Nov 2026 05:03:11 GMT",
-      "contentSnippet": "IT之家 11 月 16 日消息，汇丰分析师 Frank Lee 上周末将英伟达评级下调至持有，目标价从 365 美元（IT之家注：现汇率约合 2,438 元人民币）大幅砍至 170 美元（现汇率约合 1,135 元人民币），下调约 54%。\n英伟达 2027 财年第二财季（2026 年 4 月 26 日～2026 年 7 月 26 日）收入为 962.2 亿美元（现汇率约合 6,425.96 亿元人民币），同比增长 105.8%，管理层表示客户需求远超其供应链所能提供的服务。\n然而，黄仁勋于 11 月 12 日宣布辞去英伟达总裁、首席执行官及董事会成员职务，投资者现在必须考虑英伟达后续继任路",
+      "title": "宇树科技王兴兴：大家希望机器人去家里真正干活，或许不久的将来可以实现",
+      "link": "https://www.ithome.com/1/028/252.htm",
+      "pubDate": "Tue, 17 Nov 2026 06:47:53 GMT",
+      "contentSnippet": "IT之家 11 月 17 日消息，据看看新闻 Knews 报道，宇树科技 CEO 王兴兴今日现身深圳，参加 APEC 工商领导人峰会时，谈到机器人行业目前面临的挑战。\n\n王兴兴表示，大家希望可以借助 AI，让机器人走进千家万户真正干活，而不是再根据具体场景重新训练，这种“泛化能力”是目前最棘手的。\nIT之家从原报道获悉，王兴兴认为今年的全球技术突破已经让他看到临界点，或许不久的将来，机器人很快就能进你家干活了。\n另据财联社消息，王兴兴认为机器人行业面临多重现实难题，首要痛点是模型泛化能力不足，机器人更换应用场景往往需要重新训练，难以实现一台设备适配各类家庭与工作环境，不过全球技术演进已接近突破",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,135 +16,118 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "汇丰将英伟达目标价从365美元下调至170美元，评级降至持有",
-      "credibilityScore": 35,
-      "credibilityLevel": "low",
-      "credibilityReason": "来源为IT之家但内容含明显虚构信息，黄仁勋辞职及2027财年数据均不实，缺乏原始出处"
-    },
-    {
-      "title": "中国与东盟宣布将 2027 年定为人工智能合作年",
-      "link": "https://www.ithome.com/1/027/607.htm",
-      "pubDate": "Mon, 16 Nov 2026 04:17:38 GMT",
-      "contentSnippet": "IT之家 11 月 16 日消息，据央视新闻今日报道，中国与东盟宣布将 2027 年定为人工智能合作年。\n此外，中国－东盟自贸区 3.0 版升级议定书将于 2026 年 12 月 1 日生效。\nIT之家注：东南亚国家联盟（ASEAN，简称东盟）是一个由东南亚国家组成的政治经济联盟，1967 年 8 月 8 日在泰国曼谷成立，现有文莱、印度尼西亚、马来西亚、菲律宾、新加坡、泰国、越南等 11 个成员国，秘书处设在印度尼西亚雅加达。\n广西壮族自治区工业和信息化厅于 2025 年 3 月发布《广西“人工智能 + 制造”行动方案（2025—2027 年）》，支持南宁建设中国 — 东盟人工智能创新合作中",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国与东盟宣布将2027年定为人工智能合作年",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家转引央视新闻，来源权威；信息具体含时间节点，但正文较简短，缺少合作细节"
-    },
-    {
-      "title": "台积电向精材外包 CoWoS 先进封装 oS 产能，后者将在台积电厂房建设产线",
-      "link": "https://www.ithome.com/1/027/513.htm",
-      "pubDate": "Mon, 16 Nov 2026 02:08:19 GMT",
-      "contentSnippet": "IT之家 11 月 16 日消息，据中国台湾地区晶圆级封装企业精材科技 (Xintec) 官方公告，该企业董事会本月 13 日决议通过与客户台积电签订产能外包协议。\n\n根据这份协议，精材将在台积电中科厂区的厂房中建设一条先进封装产线，负责 CoWoS 异构集成中的 \"oS\" 工序。精材将为该产线采购生产设备和自动物料搬运系统，并负责生产运营，预计 2029 年一期投运。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "台积电将CoWoS封装oS工序外包给精材，后者在台积电厂房建产线，2029年投运。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家援引精材官方公告，信息具体含协议、工序、时间节点，来源可查，但缺台积电方确认。"
-    },
-    {
-      "title": "Omdia：2026 年 Q3 东南亚智能手机出货量同比下降 36%，苹果逆势增长 4%",
-      "link": "https://www.ithome.com/1/027/644.htm",
-      "pubDate": "Mon, 16 Nov 2026 05:28:25 GMT",
-      "contentSnippet": "IT之家 11 月 16 日消息，根据 Omdia 最新研究，2026 年第三季度，东南亚智能手机市场同比下降 36%，出货量降至 1,650 万部。这一市场收缩延续了 2026 年上半年以来的下行趋势，存储芯片供应短缺及零部件成本上涨持续制约智能手机厂商的出货表现。\n\nIT之家从报告获悉，尽管出货量大幅下滑，市场出货价值同比仅下降 1%，而平均售价（ASP）则同比上涨 53%。这一差异反映出，在供应压力持续加大的背景下，智能手机厂商正通过提高产品售价来应对成本上涨及供应限制。\n\n2026 年第三季度主要智能手机厂商表现亮点：\n\n尽管三星出货量同比下降 20% 至 370 万部，仍保持东南亚市",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "Omdia报告：2026年Q3东南亚智能手机出货量同比降36%，苹果逆势增4%",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家援引Omdia权威数据，含出货量、ASP等具体指标，但正文截断且缺原始报告链接"
-    },
-    {
-      "title": "丰田联手小马智行，第七代铂智 4X Robotaxi 在广州开启示范运营",
-      "link": "https://www.ithome.com/1/027/643.htm",
-      "pubDate": "Mon, 16 Nov 2026 05:24:19 GMT",
-      "contentSnippet": "IT之家 11 月 16 日消息，11 月 16 日，小马智行与丰田合作研发并量产的第七代铂智 4X Robotaxi 在广州正式投入示范运营，面向公众开放 L4 级自动驾驶服务。\n据介绍，目前，小马智行与丰田已在北上广深四座一线城市落地 Robotaxi 服务。铂智 4X Robotaxi 投入示范运营，标志着双方在中国市场的 L4 战略合作迈入新阶段。\n\n铂智 4X Robotaxi 是小马智行与丰田历经以雷克萨斯、赛那为原型的多代 L4 级车型迭代后的标杆之作。为支撑 L4 车型规模化量产及运营的长远布局，2023 年 8 月，小马智行联合丰田中国、广汽丰田宣布共同投资 10 亿元成立合",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "小马智行与丰田第七代铂智4X Robotaxi在广州开启L4示范运营",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息含具体车型、城市、合作背景及投资数据，但缺少原始出处链接"
-    },
-    {
-      "title": "我国自主研发电子航海日志系统发布，航运基础文书数字化转型关键一步",
-      "link": "https://www.ithome.com/1/027/642.htm",
-      "pubDate": "Mon, 16 Nov 2026 05:16:52 GMT",
-      "contentSnippet": "IT之家 11 月 16 日消息，据央视新闻报道，我国自主研发的电子航海日志系统今日（11 月 16 日）正式发布，这标志着我国航运基础文书数字化转型迈出关键一步。\n航海日志是船舶航行的法定原始记录，也是海事调查、事故溯源、责任判定的核心依据。\n此次发布的电子航海日志系统，以自动记录替代手工誊写；通过船岸数据同步，船舶管理从“翻本子”变为“看数据”；借助数字签名与区块链存证保障记录真实、不可篡改，为海事监管和港口国监督检查提供可信依据。\n目前系统已在四艘货船完成了实船试验，基础信息自动抓取、数据回传等功能经测试运行稳定，试验效果良好，计划 2027 年 1 月份在各船型、吨位、航线船舶进行实船",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "我国自主研发电子航海日志系统发布，航运文书数字化转型迈出关键一步",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家转引央视新闻，来源权威；技术细节具体，含区块链存证与实船试验信息，但缺少官方原始链接"
-    },
-    {
-      "title": "LG Display 2026 财年前三季度归母亏损 2285.85 亿韩元，同比由盈转亏",
-      "link": "https://www.ithome.com/1/027/641.htm",
-      "pubDate": "Mon, 16 Nov 2026 05:13:41 GMT",
-      "contentSnippet": "IT之家 11 月 16 日消息，LG Display 今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告：\n\n2026 财年前三季度\n\n营业总收入：17.42 万亿韩元（IT之家注：现汇率约合 871.5 亿元人民币），同比下降 6.37%\n\n毛利润：2.47 万亿韩元（现汇率约合 123.59 亿元人民币），同比增长 3.35%\n\n毛利率：14.18%，同比增长 1.33 个百分点\n\n归母净利润：-2285.85 亿韩元（现汇率约合 -11.43 亿元人民",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "LG Display 2026财年前三季度归母净亏损2285.85亿韩元，同比由盈转亏。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引用官方财报数据，营收、利润等细节具体，来源明确。"
-    },
-    {
-      "title": "腾讯混元 Hy4 flash 模型发布：224B 总参、12B 激活，单任务成本约 Hy4 的 5%",
-      "link": "https://www.ithome.com/1/027/630.htm",
-      "pubDate": "Mon, 16 Nov 2026 05:09:25 GMT",
-      "contentSnippet": "IT之家 11 月 16 日消息，腾讯混元团队今天宣布正式推出 Hy4 flash，官方将其定位为迄今性价比最高的 Hy 模型。\n其模型总参数量 224B，其中包含 64B Engram 参数，每个 token 激活 12B 参数，支持多模态输入与 100 万 token 上下文长度，API 价格较 Hy4 大幅降低。\n\n腾讯表示，Hy4 flash 的高性价比来自预训练、后训练和推理三个阶段的协同优化。预训练阶段引入混合注意力、LatentMoE 与 Engram（IT之家注：Engram 是一种可扩展的查表式参数模块，用于以较低算力成本扩充模型容量）等架构，KV cache 大小降至 Hy",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "腾讯发布混元Hy4 flash模型，224B总参12B激活，成本大降",
-      "credibilityScore": 78,
+      "aiSummary": "宇树科技CEO王兴兴称机器人泛化能力不足是痛点，但技术临界点将至",
+      "credibilityScore": 75,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体IT之家，含具体参数与架构细节，但缺少官方原始链接及第三方验证"
+      "credibilityReason": "IT之家为知名科技媒体，引述看看新闻和财联社，但内容以观点为主，缺乏具体数据支撑"
     },
     {
-      "title": "价格已经跌穿了，猪肉10年最低",
-      "link": "https://www.tmtpost.com/8206431.html",
-      "pubDate": "Mon, 16 Nov 2026 13:06:02 +0800",
-      "contentSnippet": "母猪少了10%，市场上的肉却更多了。",
+      "title": "百度李彦宏：无人驾驶出租车安全记录大约是人类司机的 10 倍",
+      "link": "https://www.ithome.com/1/028/231.htm",
+      "pubDate": "Tue, 17 Nov 2026 05:43:44 GMT",
+      "contentSnippet": "IT之家 11 月 17 日消息，2026 年 APEC 工商领导人峰会于今日在深圳举办。据凤凰网科技报道，百度创始人、董事长兼首席执行官李彦宏在峰会上表示，无人驾驶出租车是 AI 落地的典型应用之一，其投入运营后的安全记录大约是人类司机的 10 倍。\n李彦宏指出，全球每年有超过 100 万人死于道路交通事故，自动驾驶技术有望通过降低人为失误改善道路安全。他表示，近年来中国和美国逐步向无人驾驶出租车开放道路，希望未来有更多国家推动相关应用落地。\n目前百度旗下萝卜快跑已落地全球 28 座城市，自动驾驶总里程突破 3.5 亿公里，其中全无人里程超 2.4 亿公里，累计服务订单超 2300 万单。当",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "李彦宏称无人驾驶出租车安全记录约为人类司机10倍",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，引述峰会发言及萝卜快跑运营数据，但10倍说法缺乏原始数据支撑"
+    },
+    {
+      "title": "百度李彦宏警告 AI 泡沫风险：当前 AI 行业上层应用落地成效不及预期",
+      "link": "https://www.ithome.com/1/028/225.htm",
+      "pubDate": "Tue, 17 Nov 2026 05:01:28 GMT",
+      "contentSnippet": "IT之家 11 月 17 日消息，2026 年 APEC 工商领导人峰会于今日在深圳举办。\n在“共建开放普惠的人工智能创新生态”研讨环节，百度集团董事长兼首席执行官李彦宏表示，当前行业在算力、基础设施投入巨大，但 AI 上层应用落地成效不及预期，若应用层迟迟无法突破，AI 泡沫风险或将显现。\n尽管如此，李彦宏对 AI 长期发展趋势保持乐观，百度 AI 业务收入占比未来将持续提升。\n李彦宏提出，AI 技术栈除芯片、云、模型、应用外，应用之上还需要配套的组织能力。类比电力革命，仅有先进技术，缺少适配的组织变革就难以释放经济价值。\n据IT之家此前报道，在 11 月 12 日的百度世界大会 2026",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "李彦宏在APEC峰会警告AI应用落地不及预期或引发泡沫风险",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，引述具体场合与人物发言，内容逻辑清晰，但缺少原始演讲全文或直接引用来源"
+    },
+    {
+      "title": "商务部等 9 部门发文要求解决“扔比买难”等问题：引导居民线上提交回收需求，推进市场化上门清运",
+      "link": "https://www.ithome.com/1/028/223.htm",
+      "pubDate": "Tue, 17 Nov 2026 04:54:55 GMT",
+      "contentSnippet": "IT之家 11 月 17 日消息，商务部等 9 部门今日发布《关于深入推进再生资源回收体系建设 促进回收行业高质量发展的意见》（下称《意见》），要求加快再生资源回收体系建设，持续提升再生资源回收便利性、规范性，切实解决“扔比买难”等问题。\n目标到 2030 年，初步建立起回收网络健全完善、居民交投便捷顺畅、分拣环节高效先进、末端处理绿色规范的再生资源回收体系。\n\n《意见》提到，推行多品类综合性再生资源回收模式：\n\n倡导“两网融合”。加强生活垃圾分类与再生资源回收网点衔接融合，推动设施场地共享、作业队伍共建，促进生活垃圾中的可回收物回收后进入再生资源回收体系，实现生活垃圾减量和资源回收。\n\n发展",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "商务部等9部门发文推进再生资源回收体系建设，解决扔比买难问题",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，引用官方政策文件，信息具体有明确目标和措施，但缺少原始文件链接"
+    },
+    {
+      "title": "宇树王兴兴称机器人模型泛化是当下最棘手问题：希望到千家万户能立马干活，而不用重新训练",
+      "link": "https://www.ithome.com/1/028/220.htm",
+      "pubDate": "Tue, 17 Nov 2026 04:43:24 GMT",
+      "contentSnippet": "IT之家 11 月 17 日消息，2026 年 APEC 工商领导人峰会 11 月 17 日至 18 日在深圳举办，主题为“共促繁荣，共赢未来”。\n宇树科技股份有限公司董事长王兴兴在峰会上表示，最近几年国内乃至全球的机器人行业都非常热，原因是大家看到了纯语言或文字的 AI 模型在个人生活、办公中的价值越来越大，大家希望机器人也借助 AI 真正干活，解决工作上的问题。但他坦言，目前的挑战不少。当下最大的几个挑战中，第一个就是模型的泛化能力问题。我们希望一台机器人到任何的千家万户，一个模型、一台机器人，它都可以干活、马上干活，而不是说我换一个场景，它就要重新训练一下。\n王兴兴认为，泛化能力是当下最",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "宇树王兴兴称机器人模型泛化是当前最大挑战，希望无需重新训练即可落地千家万户。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，引述公开峰会发言，内容具体但缺少技术数据支撑。"
+    },
+    {
+      "title": "比亚迪李柯：未来就是新能源，多国政商界人士点名参观比亚迪",
+      "link": "https://www.ithome.com/1/028/214.htm",
+      "pubDate": "Tue, 17 Nov 2026 04:30:56 GMT",
+      "contentSnippet": "IT之家 11 月 17 日消息，11 月 17 日至 18 日，2026 年亚太经合组织（APEC）工商领导人峰会在深圳举行。\n据新浪财经报道，比亚迪执行副总裁李柯在公开接受采访时透露，峰会期间，不少企业及各国领导人专门提出希望前往比亚迪实地参观，了解中国新能源汽车产业的发展情况。\n李柯指出，新能源将成为未来发展方向，深圳已经为全球展示了绿色交通和新能源汽车发展的实践案例。\n\n对于多国嘉宾提及比亚迪已经成为当地市场主流汽车品牌的情况，李柯表示：“比亚迪车是最棒的了，全世界都有比亚迪车。”\n谈及新能源汽车的发展前景，李柯表示，来到深圳后，已经不需要再讨论绿色发展以及电动汽车有没有未来的问题。她",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "比亚迪李柯称APEC峰会多国政商界人士点名参观比亚迪，看好新能源前景",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体IT之家并引用新浪财经，但内容以高管表态为主，缺少具体数据与原始出处"
+    },
+    {
+      "title": "宁德时代曾毓群称循环经济决定电池未来，探索将电动化应用从陆地拓展至海洋和天空",
+      "link": "https://www.ithome.com/1/028/115.htm",
+      "pubDate": "Tue, 17 Nov 2026 03:15:46 GMT",
+      "contentSnippet": "IT之家 11 月 17 日消息，2026 年 APEC 工商领导人峰会 11 月 17 日至 18 日在深圳举办，主题为“共促繁荣，共赢未来”。\n据新浪财经报道，宁德时代新能源科技股份有限公司创始人、董事长兼 CEO 曾毓群在会上表示，锂电池还能风光多久？我们会不会转向钠电池，而锂电池大幅贬值？（电池里）用到了大量钴，但人们担心回收技术会兴起。一旦回收技术成熟，未来我们就可以少用钴。\n他指出，所以关键在于可持续性，我们称之为“循环经济”。如果我们在各地都按照循环经济的逻辑来搭建企业，世界就能拥有更可持续的未来。\n他认为，真正推动创新的是政策与监管，而它们如何塑造文化至关重要。因为一项监管如果",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "曾毓群在APEC峰会称循环经济决定电池未来，拟拓展电动化至海空",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，引述新浪财经及曾毓群公开演讲，内容具体但技术细节有限"
+    },
+    {
+      "title": "小米首次开放电池产线，背后藏着一场供应链博弈",
+      "link": "https://www.tmtpost.com/8207866.html",
+      "pubDate": "Tue, 17 Nov 2026 10:04:29 +0800",
+      "contentSnippet": "小米首次开放龙甲电池产线，折射出整车厂对供应链控制权与质量责任的重新审视。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -152,50 +135,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体报道猪肉价格创十年新低，母猪存栏减少但市场供应反增。",
-      "credibilityScore": 65,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体，但内容简略缺数据出处，且属农业经济非科技领域。"
-    },
-    {
-      "title": "长沙比亚迪 4S 店新车交付时被偷走：门店承认管理疏漏，嫌疑人已被拘留",
-      "link": "https://www.ithome.com/1/027/614.htm",
-      "pubDate": "Mon, 16 Nov 2026 05:03:44 GMT",
-      "contentSnippet": "IT之家 11 月 16 日消息，湖南长沙新车被盗事件当事人熊女士昨日在社交平台发文称“维权成功”告一段落。\n涉事门店比亚迪长沙金旋风 4S 店向澎湃新闻确认，购车全款已退还，偷车嫌疑人已被警方拘留，门店承认在车辆管理上存在疏漏。\n\nIT之家通过公开报道获悉，此次事件发生在 2026 年 11 月 10 日。熊女士一家为庆祝公公 60 岁生日，从老家驱车数百公里赶到长沙金旋风 4S 店，以 14.9 万元车价、连同保险共计 15.5 万元全款购入一辆新车。\n合同签署、发票开具、临时牌照办理均已完成，一家人坐在休息区等待车辆洗车贴膜后交车。傍晚 6 点多，销售人员告知“车不见了”。\n\n据门店销售",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "长沙比亚迪4S店新车交付前被盗，门店退款并承认管理疏漏",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家报道，引用澎湃新闻及当事人社交平台信息，细节具体，但事件仍在处理中，缺乏官方通报"
-    },
-    {
-      "title": "无界进化宣布完成超亿元 Pre-A 轮融资，称“刷新中国虚拟细胞企业单笔融资纪录”",
-      "link": "https://www.ithome.com/1/027/609.htm",
-      "pubDate": "Mon, 16 Nov 2026 04:42:03 GMT",
-      "contentSnippet": "IT之家 11 月 16 日消息，以虚拟细胞与递归科学发现为核心的 AI for Science（科学智能，AI4S）企业无界进化（INFevo）今日宣布完成超亿元 Pre-A 轮融资，刷新中国虚拟细胞企业单笔融资金额纪录。\n\n本轮融资由星连资本、Prosperity7 Ventures、华盖资本、华控基金及德同资本等机构联合投资，老股东顺为资本、红杉中国和松禾资本继续追加投资。\n这是无界进化继 2026 年 6 月完成数千万元天使轮融资后，五个月内完成的第二轮融资。资金将加快公司 AI4S 基础设施建设，推动细胞响应预测、科学假说检验与高通量自动化实验反馈的深度协同，打造覆盖“靶点发现 —",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "无界进化完成超亿元Pre-A轮融资，称刷新虚拟细胞企业单笔融资纪录",
+      "aiSummary": "小米首次开放龙甲电池产线，折射整车厂对供应链控制权的重新审视。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，融资信息具体含投资方与轮次，但技术细节与数据支撑有限"
+      "credibilityReason": "钛媒体为知名科技媒体，内容聚焦供应链议题，但摘要信息较简略，缺少具体数据支撑。"
     },
     {
-      "title": "豆包工作新功能「工作台」上线，首批覆盖金融、医疗、教育等 21 个专业场景",
-      "link": "https://www.ithome.com/1/027/608.htm",
-      "pubDate": "Mon, 16 Nov 2026 04:27:33 GMT",
-      "contentSnippet": "IT之家 11 月 16 日消息，豆包工作今天宣布独家上线「工作台」功能，首批覆盖金融、医疗、教育等 21 个专业场景。\n\n据介绍，豆包工作的「工作台」是为用户专业工作场景打造的专属 AI 工作空间。这里预先配置好了专业场景所需技能、工具，大幅降低 AI 使用门槛，提高工作效率。\n\n例如，金融投研工作台首页提供公告解读、业绩分析、市场简报、公司研究等常用任务入口。该工作台打通了各类专业金融数据，可通过插件按需链接万得、同花顺、国泰海通等数据服务。创意设计工作台覆盖海报设计、社媒配图、品牌视觉等常用技能。\n此外，用户还可以自建个人专属工作台，支持定制工作需求、偏好，保存后还可分享。",
+      "title": "网络安全巨头 Infoblox 确认遭遇网络安全事件，黑客经第三方供应商窃取公司信息",
+      "link": "https://www.ithome.com/1/028/256.htm",
+      "pubDate": "Tue, 17 Nov 2026 06:52:46 GMT",
+      "contentSnippet": "IT之家 11 月 17 日消息，网络安全与自动化巨头 Infoblox 已确认发生一起网络安全事件。黑客通过该公司的一家技术供应商，未经授权访问了部分公司信息。\n\nInfoblox 是一家非上市网络安全企业，主要为企业提供网络安全和网络服务，包括域名解析、身份管理以及用户访问权限管理等。\nInfoblox 发言人在向科技媒体 TechCrunch 发表的声明中表示，公司正在调查一起安全事件。黑客通过一家遭到入侵的第三方数据迁移服务供应商，未经授权访问了部分公司信息。\n该发言人表示：“我们立即启动了事件响应程序，采取措施控制事态发展，并聘请顶尖的外部网络安全专家协助调查，以查明事件详情、确定影",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -203,16 +152,50 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "豆包工作上线「工作台」功能，首批覆盖金融、医疗、教育等21个专业场景",
+      "aiSummary": "网络安全公司Infoblox确认遭第三方供应商入侵致信息泄露",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家编译TechCrunch报道，有官方声明引用，信息具体但细节有限"
+    },
+    {
+      "title": "三星 One UI 9.5 将优化旅行 SIM 卡管理功能，系统可基于位置智能提醒开启国际卡",
+      "link": "https://www.ithome.com/1/028/255.htm",
+      "pubDate": "Tue, 17 Nov 2026 06:51:33 GMT",
+      "contentSnippet": "IT之家 11 月 17 日消息，外媒 Android Authority 在拆解三星 One UI 最新代码时，发现三星正在为 OneUI 9.5 开发一系列新功能，以简化 Galaxy 手机用户对旅行 SIM 卡的管理。\n具体来看，后续 One UI 9.5 会在用户身处海外时发送通知，提醒其国际 SIM 卡已准备就绪，帮助用户及时切换卡片，避免意外使用本地运营商网络并产生漫游费用。\n同时，三星还在开发一项流量使用情况统计功能。用户届时可以查看某张国际 SIM 卡在特定行程中消耗了多少移动数据流量，也能随时了解当前行程中的 SIM 卡使用情况，从而直接通过手机监控流量额度，无需在不同 SI",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "三星One UI 9.5开发旅行SIM卡位置提醒与流量统计功能",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家编译Android Authority代码拆解，来源可溯但属未发布功能推测，缺官方确认"
+    },
+    {
+      "title": "华为 MateBook 鸿蒙电脑“鸿蒙有礼”权益上新，可免费领三个月标准版小艺 AI 会员",
+      "link": "https://www.ithome.com/1/028/253.htm",
+      "pubDate": "Tue, 17 Nov 2026 06:50:25 GMT",
+      "contentSnippet": "IT之家 11 月 17 日消息，华为官方昨日宣布小艺 AI 订阅服务正式上线，支持多场景高阶 AI 能力。会员权益涵盖办公文档生成、内容创作、图像处理及云存储等场景，覆盖鸿蒙手机、平板、电脑及 Windows 平台。\n\n据博主 @Adak封狼居胥 分享，华为 MateBook 鸿蒙电脑“鸿蒙有礼”权益上新，可免费领取三个月标准版小艺 AI 会员（含 1000 点 AI 积分 + 50G 华为云空间）。\n\n活动入口：我的华为 App → 首页 → 鸿蒙有礼\n\n\n参考IT之家昨日报道，体验版会员每月限时免费赠送 200 AI 积分，供用户直接试用小艺的高阶 AI 能力，无需先完成付费订阅。另外，",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "华为小艺AI订阅上线，鸿蒙电脑用户可免费领三个月标准版会员",
       "credibilityScore": 78,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体IT之家，内容具体含场景与插件细节，但缺少官方链接与数据支撑，属产品发布报道"
+      "credibilityReason": "来源为知名科技媒体IT之家，信息具体含权益细节，但部分内容引自博主，非官方一手来源"
     },
     {
-      "title": "三星 Galaxy Claw 曝光：帮助用户完成每日重复工作",
-      "link": "https://www.ithome.com/1/027/606.htm",
-      "pubDate": "Mon, 16 Nov 2026 04:16:05 GMT",
-      "contentSnippet": "IT之家 11 月 16 日消息，据科技媒体 Android Authority 昨天报道，三星似乎正在为 Galaxy AI 开发“Galaxy Claw”全新功能，有望让 AI 技术不再局限于回答问题和生成内容，而是代替用户处理每日重复的工作。\n\n据报道，三星 Personal Agent Core 应用出现了 Galaxy Claw 相关代码，使我们能够一窥新功能的具体支持应用、能力，IT之家附详情如下：\n<string name=\"pac_settings_main_description\">Personal agent core helps Galaxy AI complete ta",
+      "title": "西班牙一大学教授为《GTA 6》调整课程：发售周暂停布置作业、推迟考试，原因是“自己也曾年轻过”",
+      "link": "https://www.ithome.com/1/028/251.htm",
+      "pubDate": "Tue, 17 Nov 2026 06:46:35 GMT",
+      "contentSnippet": "IT之家 11 月 17 日消息，据 4Gamers 报道，一名西班牙大学教授决定为期待《GTA 6》的学生们暂时调整课程安排，宣布游戏发售当周将暂停布置作业、项目及其他课程任务，并将原定的考试计划推迟一周。\n\n对于作出这一决定的原因，教授解释称：“《GTA 5》于 2013 年发售时，我和你们现在的年纪差不多。当时我满脑子想的都是赶紧回家玩游戏，这也是我和朋友们每天最常讨论的话题。”\n此外，该教授指出《GTA 6》的部分内容可能较为开放、大胆，因此学生应当“负责任地享受游戏”，不应当将教授的好意理解为“可以无视所有规定”。\n事实上，为了给《GTA 6》腾出时间，类似的情况并不只发生在校园。此",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -220,16 +203,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "三星Galaxy AI开发Galaxy Claw功能，可代用户处理重复工作",
+      "aiSummary": "西班牙大学教授因《GTA 6》发售调整课程，暂停作业并推迟考试",
       "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家编译Android Authority报道，有代码证据支撑，但功能细节有限，属传闻阶段"
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体IT之家，引述4Gamers报道，内容具体但属趣闻类，缺乏官方核实"
     },
     {
-      "title": "比亚迪王传福亲自交付首批腾势 N8 车型，26.99 万元起",
-      "link": "https://www.ithome.com/1/027/604.htm",
-      "pubDate": "Mon, 16 Nov 2026 04:15:52 GMT",
-      "contentSnippet": "IT之家 11 月 16 日消息，比亚迪董事长、执行董事兼总裁王传福昨日出现在腾势 N8 的首批交付现场，并亲自将新车钥匙交到全球首批车主手中。此时距离该车 11 月 12 日正式上市仅过去三天。\n\nIT之家此前报道，全新腾势 N8 定位五座 SUV，推出纯电与插混两种动力共 6 款车型。纯电版 4 款，售价 26.99 万至 32.99 万元；插混版 2 款，售价 30.09 万至 32.09 万元。购车可享至高约 7.1 万元的限时权益组合。\n车身长宽高为 5150/1999/1820mm，轴距 3075mm，后备厢常规容积 1046 升，二排折叠后可扩展至 2150 升。车内提供四把零重",
+      "title": "澳大利亚最大养老金基金高管质疑 Anthropic 1.4 万亿美元 IPO 估值，称市场存非理性行为",
+      "link": "https://www.ithome.com/1/028/250.htm",
+      "pubDate": "Tue, 17 Nov 2026 06:45:36 GMT",
+      "contentSnippet": "IT之家 11 月 17 日消息，据彭博社报道，澳大利亚最大的养老金基金对人工智能公司 Anthropic 在首次公开募股（IPO）中瞄准的估值提出质疑，反映出机构投资者对这场可能创下全球史上最大规模纪录的上市交易持谨慎态度。\n\n开发 Claude 聊天机器人的 Anthropic 计划将公司估值定在约 1.4 万亿美元（IT之家注：现汇率约合 9.35 万亿元人民币）。澳大利亚超级养老金基金（AustralianSuper）首席投资官肖恩・马纽埃尔（Shaun Manuell）表示，这一估值反映出市场对 AI 相关投资日益高涨的狂热情绪，而这种热潮最终未必能为投资者带来预期回报。\n马纽埃尔当",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -237,16 +220,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "王传福亲自交付首批腾势N8，新车26.99万元起售",
+      "aiSummary": "澳最大养老金基金质疑Anthropic 1.4万亿美元IPO估值，称市场存非理性",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "IT之家引彭博社报道，有具名高管和具体估值数据，但转述二手信息，细节有限"
+    },
+    {
+      "title": "宏碁发布 34\" 1500R 曲面 VA 显示器：5K2K 双模，高分模式刷新率可达 180Hz",
+      "link": "https://www.ithome.com/1/028/249.htm",
+      "pubDate": "Tue, 17 Nov 2026 06:44:24 GMT",
+      "contentSnippet": "IT之家 11 月 17 日消息，宏碁 (Acer) 当地时间今日面向日本市场发布了一对采用 34\" 1500R 曲面 VA 面板的暗影骑士 (Nitro) 系列电竞显示器。\n\n两款产品 ED340CKRJ、ED340CKRP 均支持 5120×2160 和 2560×1080 双分辨率，前者在两个模式下的刷新率分别为 120Hz 和 240Hz，后者则为 180Hz 和 360Hz。\n新品亮度均为 250nits，色深 8bit + FRC，色域 90% DCI-P3，内置两个 2W 扬声器，原装支架可俯仰调节。ED340CKRJ 静态对比度为 3300:1，响应时间 1ms；ED340CK",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "宏碁发布34英寸5K2K双模曲面VA电竞显示器，高分180Hz",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息含具体价格、尺寸、车型配置等细节，逻辑清晰，但缺少官方原始出处引用"
+      "credibilityReason": "IT之家为知名科技媒体，产品型号、分辨率、刷新率等参数具体详实，信息可核验"
     },
     {
-      "title": "国家统计局：人工智能快速发展带动电子、电气机械等行业需求回升、价格上涨",
-      "link": "https://www.ithome.com/1/027/602.htm",
-      "pubDate": "Mon, 16 Nov 2026 03:59:15 GMT",
-      "contentSnippet": "IT之家 11 月 16 日消息，据界面新闻报道，国家统计局新闻发言人王冠华今日在国新办新闻发布会上表示，人工智能快速发展带动部分装备行业价格上行。\nIT之家从原报道获悉，人工智能（AI）正在加快从技术创新走向产业落地和场景重塑，持续赋能产业升级，带动电子、电气机械等行业需求回升、价格上涨。10 月份电气机械和器材制造业、计算机通信和其他电子设备制造业的价格环比均上涨 0.1%，同比分别上涨 6.2% 和 5.9%，这两个行业合计影响 PPI 同比上涨约 1.18 个百分点。",
+      "title": "开发者让一个 ZIP 文件实现三种用途：支持解压、Multiboot 和 BIOS 启动",
+      "link": "https://www.ithome.com/1/028/248.htm",
+      "pubDate": "Tue, 17 Nov 2026 06:42:55 GMT",
+      "contentSnippet": "IT之家 11 月 17 日消息，开发者 David Oberhollenzer（网名 Goliath）制作了一个特殊的 ZIP 文件 boot.zip。\n这个文件既能通过常规解压软件正常读取和解压，也能作为操作系统启动镜像，通过传统 BIOS 启动兼容的老式 PC，还支持 GRUB、QEMU 等兼容 Multiboot 规范的引导程序加载。\n\nGoliath 并不是简单地将启动程序放进压缩包，而是通过精心安排 ZIP 文件结构，让同一组字节同时满足压缩文件格式和计算机启动规范的要求。\n实现这一效果的关键，是 ZIP 文件格式与 x86 处理器指令之间存在可以利用的字节重合。ZIP 文件通常以",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -254,10 +254,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国家统计局称AI快速发展带动电子、电气机械行业需求回升和价格上涨",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家转引界面新闻及国家统计局官方发布会，含具体环比同比数据，信息可溯源"
+      "aiSummary": "开发者制作特殊ZIP文件，可解压、BIOS启动并支持Multiboot加载",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "知名科技媒体报道，技术细节具体，但缺少原始出处链接，部分内容被截断"
     }
   ]
 }

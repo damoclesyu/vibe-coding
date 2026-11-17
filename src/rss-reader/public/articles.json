@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-16T05:37:58.981Z",
+  "generatedAt": "2026-11-17T07:14:44.711Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "（深圳APEC）中国深圳迎接APEC",
-      "link": "http://www.chinanews.com.cn/tp/hd2011/2026/11-16/1210895.shtml",
-      "pubDate": "Mon, 16 Nov 2026 13:24:48 +0800",
+      "title": "习近平会见越共中央总书记、国家主席苏林",
+      "link": "http://www.chinanews.com.cn/tp/hd2011/2026/11-17/1210985.shtml",
+      "pubDate": "Tue, 17 Nov 2026 15:06:05 +0800",
       "contentSnippet": "",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
@@ -16,16 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国新闻网报道深圳迎接2026年APEC会议，正文内容缺失。",
-      "credibilityScore": 55,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为中新网较权威，但正文摘要为空，信息不完整，无法核实具体细节。"
+      "aiSummary": "习近平会见越共中央总书记、国家主席苏林，中越领导人举行会谈。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "中国新闻网为权威媒体，报道高层外事活动，信息具体可查证，但正文摘要缺失，无法交叉验证细节。"
     },
     {
-      "title": "李强出席第29次中国－东盟领导人会议",
-      "link": "https://www.chinanews.com.cn/gn/2026/11-16/10732713.shtml",
-      "pubDate": "Mon, 16 Nov 2026 13:05:30 +0800",
-      "contentSnippet": "新华社马尼拉11月16日电(记者邰背平 李萌)11月16日，国务院总理李强在菲律宾马尼拉出席第29次中国－东盟领导人会议。",
+      "title": "（深圳APEC）习近平会见加拿大总理卡尼",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733427.shtml",
+      "pubDate": "Tue, 17 Nov 2026 14:57:11 +0800",
+      "contentSnippet": "中新社深圳11月17日电 11月17日上午，中国国家主席习近平在深圳会见来华出席亚太经合组织领导人非正式会议的加拿大总理卡尼。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -33,67 +33,50 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "李强在马尼拉出席第29次中国－东盟领导人会议",
-      "credibilityScore": 95,
+      "aiSummary": "习近平在深圳APEC期间会见加拿大总理卡尼。",
+      "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "新华社通稿，中国新闻网转载，时间地点人物具体，可交叉验证"
+      "credibilityReason": "中新社为权威通讯社，电头时间地点人物具体，属官方通稿可交叉验证。"
     },
     {
-      "title": "聚焦全球城市的“动态适应力”，中规院发布年度报告",
-      "link": "https://m.thepaper.cn/newsDetail_forward_34489115",
-      "pubDate": "Mon, 16 Nov 2026 04:47:01 GMT",
-      "contentSnippet": "2026年11月15日，由中国城市规划设计研究院（简称“中规院”）主办的2026年“一带一路”倡议下的全球城市发布会在山东青岛举行，主题为“全球城市的动态适应力”。\n会议发布了《“一带一路”倡议下的全球城市报告（2026）》，这是该报告自2019年以来的第八次发布。本年度报告延续全球城市指数和“一带一路”城市共建指数两套框架，追踪全球城市格局变化，对不同城市的适应与转型作出了新的观察。\n中规院粤港澳研究中心主任方煜对报告作了详细解读。他指出，在地缘冲突、能源危机与人工智能技术革命三重冲击叠加的背景下，2026年度报告聚焦全球城市的“动态适应力”，观察“谁能在冲击中不断进化”。\n在创新网络方面，",
-      "sourceName": "澎湃新闻",
+      "title": "（深圳APEC）深圳图书馆举办澳大利亚华人华裔主题展览",
+      "link": "http://www.chinanews.com.cn/tp/hd2011/2026/11-17/1210980.shtml",
+      "pubDate": "Tue, 17 Nov 2026 14:46:48 +0800",
+      "contentSnippet": "",
+      "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
-        "澎湃新闻"
+        "中国新闻网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中规院在青岛发布2026全球城市报告，聚焦城市动态适应力。",
-      "credibilityScore": 82,
+      "aiSummary": "中国新闻网报道深圳图书馆举办澳大利亚华人华裔主题展览。",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为知名媒体，信息具体含时间地点人物，有直接引述，事实可查证。"
+      "credibilityReason": "来源为中新网较权威，但正文摘要缺失，信息有限，无法交叉验证细节。"
     },
     {
-      "title": "解放军报：一些党员干部腐化堕落始于一顿饭一份礼",
-      "link": "https://www.zaobao.com/news/china/story20261116-10003902",
-      "pubDate": "Mon, 16 Nov 2026 04:31:00 GMT",
-      "contentSnippet": "中共中央军委机关报《解放军报》星期一（11月16日）刊文称，一些党员干部走向腐化堕落，恰恰是从一顿饭、一份礼等看似小事小节的作风问题上打开了缺口、模糊了边界，最终坠入违纪违法的深渊。\n这篇题为《炼就拒腐防变的“金刚不坏之身”》的署名文章称，少数党员干部认为，小事小节“无伤大雅”、无人监督便可以放松要求，故而自我松绑、松劲懈怠。\n文章指出，越是无人监督，越要心有所畏；越是面对小事小节，越要行有所止。只有坚持慎独慎微，在独处时守得住心神、在细微处经得住考验，时时慎独自省、善于慎微防变、做到干净担当，才能把纪律规矩由外在约束转化为内在自觉，筑牢拒腐防变防线。\n文章称，现实生活中，一些党员干部走向腐化",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
+      "title": "“用时光熬一碗米线” 两岸夫妻在南京开暖心小店",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733398.shtml",
+      "pubDate": "Tue, 17 Nov 2026 14:38:30 +0800",
+      "contentSnippet": "中新网南京11月17日电 题：“用时光熬一碗米线” 两岸夫妻在南京开暖心小店",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
       "allSources": [
-        "联合早报·中港台"
+        "中国新闻网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "解放军报发文称党员干部腐化堕落常始于一顿饭一份礼等小事小节。",
+      "aiSummary": "中新网报道两岸夫妻在南京经营米线小店的故事。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报转载解放军报署名文章，原文可查证，内容具体且用词客观。"
+      "credibilityReason": "来源为中新网，属权威通讯社，报道有具体时间地点，内容为正面人物故事，可信度较高。"
     },
     {
-      "title": "APEC中国时间｜对话俄罗斯学者：中俄美元首会晤传递什么新信号？",
-      "link": "https://m.thepaper.cn/newsDetail_forward_34489422",
-      "pubDate": "Mon, 16 Nov 2026 04:27:21 GMT",
-      "contentSnippet": "11月18日至19日，亚太经合组织（APEC）第三十三次领导人非正式会议将于深圳举行。俄罗斯如何看待APEC这一亚太地区最具影响力的经济合作机制？对即将举行的中俄美三国元首会晤又有何期待？就此，澎湃新闻记者连线俄罗斯学者安德烈·科尔图诺夫。",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "澎湃新闻就APEC会议及中俄美元首会晤专访俄罗斯学者科尔图诺夫。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为知名媒体，采访对象具名可查，但非一线通讯社且内容为观点访谈。"
-    },
-    {
-      "title": "中国与东盟宣布将2027年定为人工智能合作年",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-16/10732701.shtml",
-      "pubDate": "Mon, 16 Nov 2026 11:57:48 +0800",
-      "contentSnippet": "新华社快讯：中国与东盟宣布将2027年定为人工智能合作年。",
+      "title": "习近平会见巴布亚新几内亚总理马拉佩",
+      "link": "http://www.chinanews.com.cn/tp/hd2011/2026/11-17/1210979.shtml",
+      "pubDate": "Tue, 17 Nov 2026 14:34:09 +0800",
+      "contentSnippet": "",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -101,67 +84,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国与东盟宣布将2027年定为人工智能合作年。",
-      "credibilityScore": 92,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为新华社快讯，经中国新闻网转载，属权威通讯社，信息简洁但事实明确。"
-    },
-    {
-      "title": "亲绿民调：沈伯洋支持度领先蒋万安14.8个百分点",
-      "link": "https://www.zaobao.com/news/china/story20261116-10004644",
-      "pubDate": "Mon, 16 Nov 2026 03:54:33 GMT",
-      "contentSnippet": "台湾“九合一”地方选举进入倒数阶段，政治立场亲绿的信民协会最新民调显示，民进党台北市长参选人沈伯洋以48.6%的支持度，大幅领先寻求连任的国民党籍现任市长蒋万安的33.8%，双方差距14.8个百分点。\n综合TVBS新闻网和《自由时报》报道，信民协会星期一（11月16日）公布与民调专家戴立安合作进行的台北市长选情民调。这也是该协会在选前民调公布禁令生效前，最后一次公布相关调查结果。\n与10月的调查相比，沈伯洋的支持度下降1.7个百分点，蒋万安则上升0.5个百分点，两人的变化均在抽样误差范围内。\n看好度方面，40.8%的受访者看好沈伯洋当选，高于看好蒋万安的36.1%。这也是信民协会系列民调中，沈",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "亲绿民调显示沈伯洋支持度领先蒋万安14.8个百分点",
-      "credibilityScore": 65,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为联合早报，但转引亲绿机构民调，单一来源且机构立场明显，需谨慎看待"
-    },
-    {
-      "title": "中国－东盟自贸区3.0版升级议定书将于2026年12月1日生效",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-16/10732698.shtml",
-      "pubDate": "Mon, 16 Nov 2026 11:53:44 +0800",
-      "contentSnippet": "新华社快讯：中国－东盟自贸区3.0版升级议定书将于2026年12月1日生效。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "新华社快讯称中国－东盟自贸区3.0版升级议定书将于2026年12月1日生效。",
-      "credibilityScore": 92,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为新华社快讯经中新网转载，属一线权威通讯社，信息具体含明确时间节点，表述客观中性。"
-    },
-    {
-      "title": "加国部长：加拿大将寻求务实强化与中国经贸往来",
-      "link": "https://www.zaobao.com/news/china/story20261116-10004498",
-      "pubDate": "Mon, 16 Nov 2026 03:37:22 GMT",
-      "contentSnippet": "加拿大国际贸易部长西杜受访时说，加拿大将寻求务实强化与中国经贸往来，并将“睁大双眼”（eyes wide open）行事。\n西杜（Maninder Sidhu）星期天（11月15日）接受彭博电视采访时说：“共同为合作领域努力至关重要，但搁置分歧也一样非常重要。” \n西杜说，他本月较早时在北京与中国商务部长王文涛会晤时，为加拿大总理卡尼“事先铺垫”，让他能在与中国国家主席习近平会面时，共同宣布消费产品、金融服务、银行和投资等方面的双边合作。 \n亚太经济合作组织（APEC）峰会本周在深圳举行，卡尼计划在抵步后不久，于星期二（11月17日）与习近平会晤。卡尼此前曾表示，双方计划探讨扩大两国贸易关系的",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "加拿大国际贸易部长西杜表示将务实强化对华经贸往来，并透露卡尼将在APEC期间与习近平会晤。",
+      "aiSummary": "中国新闻网报道习近平会见巴布亚新几内亚总理马拉佩。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "联合早报为知名媒体，报道含具体人物、时间及直接引述，信息可查证，用词客观。"
+      "credibilityReason": "来源为官方媒体中国新闻网，主题为领导人外事活动，属可查证常规报道，但正文摘要缺失，细节有限。"
     },
     {
-      "title": "2026年APEC工商领导人峰会将举行 这些亮点不容错过",
-      "link": "https://www.chinanews.com.cn/gn/2026/11-16/10732691.shtml",
-      "pubDate": "Mon, 16 Nov 2026 11:35:57 +0800",
-      "contentSnippet": "聚焦APEC｜2026年APEC工商领导人峰会将举行 这些亮点不容错过",
+      "title": "多国媒体和智库：期待APEC会议带来新机遇",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733411.shtml",
+      "pubDate": "Tue, 17 Nov 2026 14:27:31 +0800",
+      "contentSnippet": "连日来， 多国媒体及智库持续关注APEC会议，认为此次会议是深化合作与交流的重要平台，期待带来新的机遇。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -169,16 +101,101 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国新闻网报道2026年APEC工商领导人峰会将举行并预告亮点。",
-      "credibilityScore": 75,
+      "aiSummary": "多国媒体和智库关注APEC会议，期待其带来合作新机遇。",
+      "credibilityScore": 72,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为权威媒体中新网，信息具体但正文摘要过简，缺乏细节引述，可信度较高。"
+      "credibilityReason": "来源为中新网较权威，但内容笼统缺乏具体引述与数据，属概括性报道。"
     },
     {
-      "title": "美俄反对限制自主武器 联合国谈判恐陷僵局",
-      "link": "https://www.zaobao.com/news/world/story20261116-10003754",
-      "pubDate": "Mon, 16 Nov 2026 02:32:30 GMT",
-      "contentSnippet": "联合国星期一（11月16日）在日内瓦召开会议，讨论是否启动具有法律约束力的自主武器管制谈判，但美国、俄罗斯等主要军事大国预计将反对，使谈判前景蒙上阴影。\n路透社报道，随着人工智能（AI）技术迅速发展，无人机、机器人、坦克及潜艇等军事装备，已逐渐具备无需人类介入便能自主攻击和杀伤目标的能力。乌克兰、苏丹及中东冲突中，已有半自主及AI辅助武器投入使用，引发伦理和安全忧虑。 \n此次联合国会议将决定，是否就致命性自主武器系统（LAWS）展开具有法律约束力的国际规则谈判。\n尽管《特定常规武器公约》128个缔约国中，多数支持制定相关规则，但美国、俄罗斯及以色列等军事大国认为，现有国际人道法已足以规范这类武",
+      "title": "用24小时 看深圳的APEC日常故事",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733399.shtml",
+      "pubDate": "Tue, 17 Nov 2026 14:23:55 +0800",
+      "contentSnippet": "如果只用一天观察深圳，APEC经贸合作的活力并不抽象。它藏在上午驶入盐田港的列车里，藏在中午降落在宝安机场的一票青蟹里，也藏在下午驶向全球的远洋巨轮中。陆海空在这里不是三条孤立的通道，而是一张持续运转的网络：内陆货物更快出海，海外商品更快入境，创客、客商和游客更顺畅往来。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中新网报道深圳24小时内APEC经贸合作日常场景",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，属较权威媒体；内容具体但偏宣传性，缺少直接引述和数据"
+    },
+    {
+      "title": "首次以倡议形式发布成果文件 APEC工商领导人峰会看点不断",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-17/10733395.shtml",
+      "pubDate": "Tue, 17 Nov 2026 14:21:49 +0800",
+      "contentSnippet": "2026年APEC工商领导人峰会今天举行，本届峰会的主题为：“共促繁荣 共赢未来”。作为APEC级别最高的工商对话平台，本次峰会吸引了2000多名嘉宾齐聚深圳。今天上午有哪些活动？下午还有哪些看点？",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "2026年APEC工商领导人峰会在深圳举行，主题为共促繁荣共赢未来。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，属较权威媒体；信息具体（时间、地点、人数、主题），但缺少直接引述和交叉验证。"
+    },
+    {
+      "title": "澳大利亚人士：APEC会议将进一步促进区域交流与合作",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733394.shtml",
+      "pubDate": "Tue, 17 Nov 2026 14:21:37 +0800",
+      "contentSnippet": "聚焦APEC丨澳大利亚人士：APEC会议将进一步促进区域交流与合作",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "澳方人士称APEC会议将促进区域交流合作",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "中国新闻网为正规媒体，但报道仅引标题式摘要，缺少具体人物与直接引述，细节不足"
+    },
+    {
+      "title": "APEC“中国年”一系列会议和活动取得丰硕成果",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-17/10733393.shtml",
+      "pubDate": "Tue, 17 Nov 2026 14:19:57 +0800",
+      "contentSnippet": "今天(17日)上午，2026年APEC领导人会议周新闻中心举办第五场吹风会，2026年APEC高官会主席陈旭在吹风会上介绍，高官会是推进APEC合作、酝酿领导人非正式会议成果的重要渠道。APEC“中国年”以来，中方先后在深圳、广州、上海、大连举办了非正式高官会以及第一、二、三次高官会和相关会议，最后一次高官会也刚刚在深圳顺利结束。这些会议和活动有力支撑和促进了APEC“中国年”合作，为领导人非正式会议奠定了坚实基础。中方还在上海、苏州、澳门、深圳、杭州、广州、北京、南京、香港、成都等地举办了妇女、贸易、旅游、林业、粮食安全、中小企业、能源、人力资源开发、交通、财政等10场专业部长会和APEC数",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "APEC中国年高官会主席陈旭介绍系列会议成果，为领导人会议奠定基础。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源中国新闻网较权威，有具体人物、地点和会议细节，但属官方宣传口径，缺乏独立交叉验证。"
+    },
+    {
+      "title": "APEC进入“深圳时间”，多图读懂中国贡献：为亚太发展注入正能量",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-17/10733378.shtml",
+      "pubDate": "Tue, 17 Nov 2026 14:19:51 +0800",
+      "contentSnippet": "中新网11月17日电 11月18日至19日，亚太经合组织(APEC)第三十三次领导人非正式会议将在中国深圳举行。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "APEC第三十三次领导人非正式会议将于11月18日至19日在深圳举行。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网（权威通讯社），信息具体（时间、地点、会议届次），用词客观，事实可查证。"
+    },
+    {
+      "title": "美国防部连续九年审计不合格 财务管理存漏洞",
+      "link": "https://www.zaobao.com/news/world/story20261117-10009412",
+      "pubDate": "Tue, 17 Nov 2026 05:25:40 GMT",
+      "contentSnippet": "美国国防部连续第九年未能通过财务审计，暴露出长期存在的财务管理问题。\n路透社报道，根据星期一（11月16日）公布的监察长报告，国防部2026财政年度的整体审计仍不合格。\n国防部首席财务官赫斯特（Jules Hurst）说，25个单独接受审计的单位中，有14个通过审计，比去年的11个有所增加。\n这些通过审计的单位，占国防部总资产的56％、总负债的86％。这也是国防部首次有超过半数的资产获得审计认可。\n美国国防部自2018年首次接受整体财务审计以来，至今未曾过关，主要原因是财务系统老旧、账目管理混乱。\n国防部目前使用约149套财务管理系统，其中不少已经过时，有些甚至仍在使用50年前编写的电脑程序。",
       "sourceName": "联合早报·国际",
       "sourceWeight": 80,
       "allSources": [
@@ -186,33 +203,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "联合国日内瓦会议讨论自主武器管制，美俄等大国预计反对致谈判陷僵局",
+      "aiSummary": "美国防部连续第九年未通过财务审计，财务管理问题持续。",
       "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "联合早报转引路透社报道，时间地点明确，信息具体，来源权威"
+      "credibilityReason": "来源为联合早报转引路透社，含具体数据与直接引述，事实可查证。"
     },
     {
-      "title": "习近平致信祝贺暨南大学建校120周年",
-      "link": "https://m.thepaper.cn/newsDetail_forward_34488721",
-      "pubDate": "Mon, 16 Nov 2026 02:16:41 GMT",
-      "contentSnippet": "新华社北京11月16日电 中共中央总书记、国家主席、中央军委主席习近平16日致信祝贺暨南大学建校120周年，向全体师生员工和广大校友致以祝贺。\n习近平在贺信中强调，新起点上，希望暨南大学以新时代中国特色社会主义思想为指导，继承爱国传统，坚持办学特色，加强港澳台侨青年人才培养，传承弘扬中华文化，促进中外友好交流，不断提升教育教学质量，为凝聚侨心侨力、推进中国式现代化作出新贡献。\n暨南大学创办于1906年。120年来，学校牢记办学使命，与时俱进、守正创新，为世界170多个国家和港澳台地区培养了大批优秀人才。",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "习近平致信祝贺暨南大学建校120周年，强调培养港澳台侨青年人才。",
-      "credibilityScore": 95,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为新华社通稿，澎湃新闻转载，内容具体且含直接引述，事实可查证。"
-    },
-    {
-      "title": "中国10月规上工业增加值同比增长4.8% 低于预期",
-      "link": "https://www.zaobao.com/news/china/story20261116-10003892",
-      "pubDate": "Mon, 16 Nov 2026 02:07:34 GMT",
-      "contentSnippet": "中国10月规模以上工业增加值同比实际增长4.8%，低于预期。\n中国统计局星期一（11月16日）公布，中国10月份全国规模以上工业增加值同比增长4.8%，环比增长0.21%。前10个月，规模以上工业增加值同比增长5.3%。\n分三大门类看，采矿业增加值同比增长0.7%，制造业增长5.4%，电力、热力、燃气及水生产和供应业增长4.4%。装备制造业增加值同比增长10.6%，高技术制造业增加值增长17.6%，分别快于全部规模以上工业增加值5.8和12.8个百分点。\n分经济类型看，国有控股企业增加值同比增长2.1%；股份制企业增长5.2%，外商及港澳台投资企业增长3.0%；私营企业增长3.2%。分产品看，",
+      "title": "台湾外长林佳龙两个月内第二次访美",
+      "link": "https://www.zaobao.com/news/china/story20261117-10011006",
+      "pubDate": "Tue, 17 Nov 2026 04:50:53 GMT",
+      "contentSnippet": "台湾外交部星期二（11月17日）称，外长林佳龙目前正在美国得克萨斯州访问。这是他两个月内第二次访美，时间恰逢美国总统特朗普即将赴中国大陆出席亚太经合组织（APEC）峰会前夕。\n据路透社报道，台湾外交部发言人萧光伟在台北向记者说，林佳龙目前身处得克萨斯州，但拒绝透露其他细节。\n星期二清晨，林佳龙在社交平台X发布一张与美国得克萨斯州联邦众议员加西亚（Sylvia Garcia）会面的照片。\n林佳龙在贴文中写道：“感谢她的热情接待和对台湾的坚定支持。我期待深化台美合作，也希望她不久后能访问台湾！”\n林佳龙上个月也曾访美，前往亚利桑那州出席台湾在凤凰城新设的办事处开幕仪式。\n特朗普将赴深圳出席APEC",
       "sourceName": "联合早报·中港台",
       "sourceWeight": 80,
       "allSources": [
@@ -220,16 +220,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国10月规上工业增加值同比增长4.8%，低于预期，统计局公布分项数据。",
-      "credibilityScore": 88,
+      "aiSummary": "台湾外长林佳龙两个月内二度访美，正值特朗普赴APEC前夕。",
+      "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报，引述中国统计局官方数据，细节具体可查证。"
+      "credibilityReason": "联合早报引述路透社及台外交部发言人，有具体时间地点和社交帖文佐证。"
     },
     {
-      "title": "西藏自治区人大常委会原党组副书记、副主任王峻被提起公诉",
-      "link": "https://m.thepaper.cn/newsDetail_forward_34488632",
-      "pubDate": "Mon, 16 Nov 2026 02:02:49 GMT",
-      "contentSnippet": "记者今天（16日）从最高人民检察院获悉，西藏自治区人大常委会原党组副书记、副主任王峻涉嫌受贿一案，由国家监察委员会调查终结，移送检察机关审查起诉。最高人民检察院依法以涉嫌受贿罪对王峻作出逮捕决定，并指定由河北省张家口市人民检察院审查起诉。近日，张家口市人民检察院已向张家口市中级人民法院提起公诉。\n检察机关在审查起诉阶段，依法告知了被告人王峻享有的诉讼权利，并讯问了被告人，听取了辩护人的意见。检察机关起诉指控：被告人王峻利用担任西藏自治区阿里地区行政公署副专员，西藏自治区国土资源厅党组副书记、厅长等职务上的便利以及职权或者地位形成的便利条件，为他人谋取利益，非法收受他人财物，数额特别巨大，依法应",
+      "title": "四百元可买到价值四万元的手链？上海警方破获一起直播间售假案",
+      "link": "https://m.thepaper.cn/newsDetail_forward_34491602",
+      "pubDate": "Tue, 17 Nov 2026 04:50:36 GMT",
+      "contentSnippet": "“各个款式应有尽有，低价折扣买到就是赚到！”原价四万元的某品牌五花手链，在一社交平台直播间内仅售四百余元。\n11月17日，澎湃新闻（www.thepaper.cn）记者从上海市公安局获悉，近期，上海市公安局杨浦分局依托“三所联动”企业版—蓝鲸护企工作机制，在上海市公安局知识产权犯罪侦查总队指导下，快速侦破了该起销售假冒品牌商品的案件，捣毁一个通过社交平台直播间售假的犯罪团伙，抓获犯罪嫌疑人12名，现场查获大批假冒品牌首饰及品牌标识包装盒、纸袋，涉案金额超100万元。\n\n现场查获的假冒品牌首饰。 上海市公安局 供图\n\n\n10月下旬，上海杨浦警方会同抖音电商通过线索互通机制发现，在平台一店铺直播间",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -237,27 +237,27 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "西藏人大常委会原副主任王峻涉嫌受贿被张家口检察院提起公诉",
-      "credibilityScore": 92,
+      "aiSummary": "上海警方破获直播间售假案，抓获12人，涉案超百万元。",
+      "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻转载最高检官方消息，来源权威，时间地点人物具体，表述客观中性"
+      "credibilityReason": "澎湃新闻为权威媒体，信息具体含时间地点人物数据，引述警方来源，可交叉验证。"
     },
     {
-      "title": "中国军方严查军服生产运输环节 防止违规外流",
-      "link": "https://www.zaobao.com/news/china/story20261116-10003844",
-      "pubDate": "Mon, 16 Nov 2026 01:55:22 GMT",
-      "contentSnippet": "中国解放军集中开展被装生产运输专项督导检查，排查面料企业超计划生产和变通出售、成品企业违规对外销售、物流企业截流外流等问题。\n据《解放军报》报道，中央军委后勤保障部会同军地相关部门，利用1个月时间开展被装生产运输专项督导检查，包括排查面料企业超计划生产和变通出售、成品企业违规对外销售、物流企业截流外流等问题，进一步严格生产和物流企业监管。\n报道称，这是军地有关部门规范军服管理、助力练兵备战的重要举措。\n报道称，近年来，解放军聚焦军服“专服专用”要求，推动军服管理向法治化、规范化、实战化迈进。军地职能部门着眼有效遏制非法生产销售、违规穿着使用军服问题，建立军地联合打击整治机制，对非法制售军服窝点",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
+      "title": "国家知识产权局印发《地理标志保护和运用“十五五”规划》",
+      "link": "https://m.thepaper.cn/newsDetail_forward_34491610",
+      "pubDate": "Tue, 17 Nov 2026 04:50:19 GMT",
+      "contentSnippet": "记者今天（17日）了解到，国家知识产权局印发《地理标志保护和运用“十五五”规划》（以下简称《规划》），明确了“十五五”时期地理标志工作的目标指标、重点任务和专项工程。\n《规划》提出，到2030年，地理标志全面赋能区域特色经济高质量发展，地理标志工作法治化水平进一步提高，保护更加有力，运用效益充分彰显，中国地理标志产品竞争力和国际影响力显著提升。\n《规划》部署了五方面重点任务。\n一是深化地理标志领域改革，完善地理标志法律法规，优化地理标志审查认定，提升地理标志公共服务水平。\n二是加强地理标志监督管理，健全地理标志保护标准体系，强化地理标志特色质量管控，加强地理标志专用标志管理。\n三是提升地理标志",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
       "allSources": [
-        "联合早报·中港台"
+        "澎湃新闻"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "解放军开展被装生产运输专项督导检查，严查军服违规外流问题",
-      "credibilityScore": 78,
+      "aiSummary": "国家知识产权局印发地理标志保护和运用“十五五”规划，明确2030年目标及五方面重点任务。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "联合早报转引《解放军报》官方报道，信息具体，但属二手转载且细节有限"
+      "credibilityReason": "澎湃新闻为知名媒体，报道引述官方文件具体内容，时间明确，信息可查证，用词客观。"
     }
   ]
 }
