@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-17T07:15:55.272Z",
+  "generatedAt": "2026-11-18T06:40:16.402Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "宇树科技王兴兴：大家希望机器人去家里真正干活，或许不久的将来可以实现",
-      "link": "https://www.ithome.com/1/028/252.htm",
-      "pubDate": "Tue, 17 Nov 2026 06:47:53 GMT",
-      "contentSnippet": "IT之家 11 月 17 日消息，据看看新闻 Knews 报道，宇树科技 CEO 王兴兴今日现身深圳，参加 APEC 工商领导人峰会时，谈到机器人行业目前面临的挑战。\n\n王兴兴表示，大家希望可以借助 AI，让机器人走进千家万户真正干活，而不是再根据具体场景重新训练，这种“泛化能力”是目前最棘手的。\nIT之家从原报道获悉，王兴兴认为今年的全球技术突破已经让他看到临界点，或许不久的将来，机器人很快就能进你家干活了。\n另据财联社消息，王兴兴认为机器人行业面临多重现实难题，首要痛点是模型泛化能力不足，机器人更换应用场景往往需要重新训练，难以实现一台设备适配各类家庭与工作环境，不过全球技术演进已接近突破",
+      "title": "董明珠 APEC 现场求合作，称格力研发机器人十几年了",
+      "link": "https://www.ithome.com/1/028/713.htm",
+      "pubDate": "Wed, 18 Nov 2026 05:11:00 GMT",
+      "contentSnippet": "IT之家 11 月 18 日消息，据看看新闻报道，11 月 17 日，2026 年 APEC 工商领导人峰会举行，格力电器董事长董明珠在现场主动寻找机器人领域的合作机会。\n董明珠表示，具身智能机器人需要减速机、驱动器、伺服电机等核心零部件，而格力已经研发机器人十几年，目前格力电器自动化生产线上的机器人全部由格力自主完成。\n谈及合作，她更是主动向现场嘉宾发出邀请：“我相信我们会成为你很好的合作伙伴，你要什么部件，提供什么部件。”\n\n格力电器 CMO 朱磊今年 4 月接受采访时表示，目前公司已具备做出“人形机器人”的能力，所有机器人零部件都可以实现自研自产。格力累计投入使用的自主研制的工业机器人达",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,16 +16,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "宇树科技CEO王兴兴称机器人泛化能力不足是痛点，但技术临界点将至",
+      "aiSummary": "董明珠在APEC峰会寻求机器人合作，称格力已研发机器人十余年",
       "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，引述看看新闻报道，内容具体但缺少独立数据验证"
+    },
+    {
+      "title": "比亚迪王传福、美团王兴、小米雷军 APEC 2026 并排就坐，拒绝透露聊天内容",
+      "link": "https://www.ithome.com/1/028/704.htm",
+      "pubDate": "Wed, 18 Nov 2026 04:54:12 GMT",
+      "contentSnippet": "IT之家 11 月 18 日消息，2026 年 APEC 工商领导人峰会 11 月 17 日至 18 日在深圳举办。\n中国新闻网今日晒出采访视频，比亚迪股份有限公司董事长兼总裁王传福、美团 CEO 王兴、小米创办人兼董事长兼 CEO 雷军并排就坐。\n\n当记者提问三人具体聊了什么内容，王传福摆手称“不好意思”，王兴也摆手拒绝表示不能透露。\n综合IT之家此前报道，王传福在 2026 年 APEC 工商领导人峰会上表示，可持续发展是一个全球目标，而中国在这方面做得卓有成效。\n面对主持人提问：“可持续发展对于比亚迪来说是什么定位？”王传福直言：“只有可持续发展才能实现长期发展，‘我赢你输’的路子走不远",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "APEC深圳峰会王传福王兴雷军并排就坐，拒透露聊天内容",
+      "credibilityScore": 78,
       "credibilityLevel": "medium",
-      "credibilityReason": "IT之家为知名科技媒体，引述看看新闻和财联社，但内容以观点为主，缺乏具体数据支撑"
+      "credibilityReason": "IT之家为知名科技媒体，引用中新网视频，信息具体；但属花絮报道，技术含量低，细节有限"
     },
     {
-      "title": "百度李彦宏：无人驾驶出租车安全记录大约是人类司机的 10 倍",
-      "link": "https://www.ithome.com/1/028/231.htm",
-      "pubDate": "Tue, 17 Nov 2026 05:43:44 GMT",
-      "contentSnippet": "IT之家 11 月 17 日消息，2026 年 APEC 工商领导人峰会于今日在深圳举办。据凤凰网科技报道，百度创始人、董事长兼首席执行官李彦宏在峰会上表示，无人驾驶出租车是 AI 落地的典型应用之一，其投入运营后的安全记录大约是人类司机的 10 倍。\n李彦宏指出，全球每年有超过 100 万人死于道路交通事故，自动驾驶技术有望通过降低人为失误改善道路安全。他表示，近年来中国和美国逐步向无人驾驶出租车开放道路，希望未来有更多国家推动相关应用落地。\n目前百度旗下萝卜快跑已落地全球 28 座城市，自动驾驶总里程突破 3.5 亿公里，其中全无人里程超 2.4 亿公里，累计服务订单超 2300 万单。当",
+      "title": "小米雷军：“AI+ 手机”“AI+ 具身智能机器人”等有很大想象空间，未来三四年会诞生颠覆性时刻",
+      "link": "https://www.ithome.com/1/028/669.htm",
+      "pubDate": "Wed, 18 Nov 2026 02:45:22 GMT",
+      "contentSnippet": "IT之家 11 月 18 日消息，小米创办人、董事长兼 CEO 雷军 11 月 17 日出席 APEC 工商领导人峰会。今日（11 月 18 日），雷军接受了人民日报采访。\n谈及人工智能，雷军坦言，人工智能浪潮席卷各行各业，作为 AI 从业者能感受到一些焦虑。\n雷军认为，“AI+ 手机”“AI+ 具身智能机器人”等领域有很大的想象空间，未来三四年会有颠覆性时刻的诞生。\n\n综合IT之家此前报道，雷军在 17 日的峰会上表示，过去四年，AI 大模型技术突飞猛进，给我们的生活和工作带来了巨大的变化。但 AI 能够落地的场景非常有限，能够真正实现商业闭环、能够挣到钱的公司，相对比较少。\n他认为，AI",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -33,16 +50,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "李彦宏称无人驾驶出租车安全记录约为人类司机10倍",
+      "aiSummary": "雷军称AI+手机与具身智能机器人未来三四年将迎颠覆性时刻",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引述峰会发言及萝卜快跑运营数据，但10倍说法缺乏原始数据支撑"
+      "credibilityReason": "IT之家为知名科技媒体，引述雷军公开采访，但内容以观点为主，缺少具体数据支撑"
     },
     {
-      "title": "百度李彦宏警告 AI 泡沫风险：当前 AI 行业上层应用落地成效不及预期",
-      "link": "https://www.ithome.com/1/028/225.htm",
-      "pubDate": "Tue, 17 Nov 2026 05:01:28 GMT",
-      "contentSnippet": "IT之家 11 月 17 日消息，2026 年 APEC 工商领导人峰会于今日在深圳举办。\n在“共建开放普惠的人工智能创新生态”研讨环节，百度集团董事长兼首席执行官李彦宏表示，当前行业在算力、基础设施投入巨大，但 AI 上层应用落地成效不及预期，若应用层迟迟无法突破，AI 泡沫风险或将显现。\n尽管如此，李彦宏对 AI 长期发展趋势保持乐观，百度 AI 业务收入占比未来将持续提升。\n李彦宏提出，AI 技术栈除芯片、云、模型、应用外，应用之上还需要配套的组织能力。类比电力革命，仅有先进技术，缺少适配的组织变革就难以释放经济价值。\n据IT之家此前报道，在 11 月 12 日的百度世界大会 2026",
+      "title": "谷歌公布美国 2026 年度最佳榜单：《明日方舟：终末地》摘得年度最佳游戏",
+      "link": "https://www.ithome.com/1/028/621.htm",
+      "pubDate": "Wed, 18 Nov 2026 01:29:07 GMT",
+      "contentSnippet": "IT之家 11 月 18 日消息，谷歌昨日（11 月 17 日）发布博文，公布 2026 年度最佳榜单（Best of Play 2026），覆盖应用、游戏和图书等。其中美国区年度最佳应用为 AI 笔记工具 Notability，年度最佳游戏为《明日方舟：终末地》（Arknights: Endfield）。\n\n在应用类别中，AI 笔记与 PDF 工具 Notability: AI & PDF Notes 获评年度最佳应用。该应用原生适配安卓，可将设备变为 AI 工作台，支持与资料对话、整理学习内容、生成个性化测验及优化工作流程。\n游戏方面，热门 IP 衍生作《明日方舟：终末地》摘得年度最佳游戏",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -50,16 +67,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "李彦宏在APEC峰会警告AI应用落地不及预期或引发泡沫风险",
-      "credibilityScore": 82,
+      "aiSummary": "谷歌公布2026年度最佳榜单，《明日方舟：终末地》获美国区年度最佳游戏。",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引述具体场合与人物发言，内容逻辑清晰，但缺少原始演讲全文或直接引用来源"
+      "credibilityReason": "IT之家为知名科技媒体，信息具体含应用与游戏名称，但缺少原文链接及数据支撑。"
     },
     {
-      "title": "商务部等 9 部门发文要求解决“扔比买难”等问题：引导居民线上提交回收需求，推进市场化上门清运",
-      "link": "https://www.ithome.com/1/028/223.htm",
-      "pubDate": "Tue, 17 Nov 2026 04:54:55 GMT",
-      "contentSnippet": "IT之家 11 月 17 日消息，商务部等 9 部门今日发布《关于深入推进再生资源回收体系建设 促进回收行业高质量发展的意见》（下称《意见》），要求加快再生资源回收体系建设，持续提升再生资源回收便利性、规范性，切实解决“扔比买难”等问题。\n目标到 2030 年，初步建立起回收网络健全完善、居民交投便捷顺畅、分拣环节高效先进、末端处理绿色规范的再生资源回收体系。\n\n《意见》提到，推行多品类综合性再生资源回收模式：\n\n倡导“两网融合”。加强生活垃圾分类与再生资源回收网点衔接融合，推动设施场地共享、作业队伍共建，促进生活垃圾中的可回收物回收后进入再生资源回收体系，实现生活垃圾减量和资源回收。\n\n发展",
+      "title": "小米雷军 APEC 现场挨个发名片，参会时给台下朋友拍合影",
+      "link": "https://www.ithome.com/1/028/617.htm",
+      "pubDate": "Wed, 18 Nov 2026 01:15:59 GMT",
+      "contentSnippet": "IT之家 11 月 18 日消息，据广东广播电视台报道，小米创办人、董事长兼 CEO 雷军 11 月 17 日出席 APEC 工商领导人峰会，现场社交发名片。网友调侃“不管身价多少亿，该发名片还得发！”\n\n\n雷军还在峰会上发言，表示具身智能机器人肯定是一个巨大的产业机会，它的想象力会超过汽车产业。小米特别看好 AI 走向物理世界以后带来的空间和想象力，这给整个亚太经济会带来巨大的机会。\n\nIT之家注意到，雷军个人微博还晒出了一张照片，是他在台上参加峰会时，给台下朋友们拍的一张合影。\n\nIT之家注：2026 年 APEC 工商领导人峰会 11 月 17 日至 18 日在深圳举办，主题为“共促繁荣",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -67,67 +84,69 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "商务部等9部门发文推进再生资源回收体系建设，解决扔比买难问题",
+      "aiSummary": "雷军出席APEC峰会发名片并发言，看好具身智能机器人产业机会",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium-high",
+      "credibilityReason": "来源为知名科技媒体IT之家，引用广东广播电视台报道及雷军微博，信息具体但偏重社交花絮，技术内容较简略"
+    },
+    {
+      "title": "一加 Turbo7 Pro 手机疑似入网：支持 100W 闪充，电池不低于 9000mAh",
+      "link": "https://www.ithome.com/1/028/799.htm",
+      "pubDate": "Wed, 18 Nov 2026 06:11:24 GMT",
+      "contentSnippet": "IT之家 11 月 18 日消息，一款型号为 PYP110 的 OPPO 新机近日通过工信部 3C 认证，微博博主 @数码闲聊站 称该机疑似一加 Turbo 7 Pro，支持 100W 闪充。\n\n结合博主后续在评论区的发文，这款手机预计 12 月发布，电池不会低于 9000mAh，处理器是高通 SM8845 Pro。\n\n\n\nIT之家了解到，一加 Turbo 系列的最新机型目前是 Turbo 6Vs 。该机搭载第四代高通骁龙 7s 处理器，配备 12GB 内存和 256GB 存储空间，整体厚度 8.5mm，正面配备一块 6.78 英寸 2772x1272 分辨率 144Hz AMOLED 面板（",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "一加Turbo 7 Pro疑似入网，支持100W闪充，电池不低于9000mAh",
+      "credibilityScore": 72,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，有3C认证型号与博主爆料来源，但核心信息依赖传闻，未经官方确认"
+    },
+    {
+      "title": "微软拟升级 Copilot，要给你的 Win11 电脑“看病”",
+      "link": "https://www.ithome.com/1/028/796.htm",
+      "pubDate": "Wed, 18 Nov 2026 06:07:59 GMT",
+      "contentSnippet": "IT之家 11 月 18 日消息，昨日（11 月 17 日）召开的 Ignite 2026 活动中，微软宣布拓展 Windows 11 系统的 Copilot 技能，将其升级为“能看懂电脑状况的 AI 诊断助手”。\n\n根据微软官方描述的场景方案，用户未来使用 Windows 11 系统过程中，如果遇到蓝牙耳机没有声音、外接硬盘无法识别或系统性能异常等故障之后，可以直接在 Windows 搜索框输入自然语言描述，例如“我的蓝牙耳机没有声音，能帮我诊断吗？”，系统会将相关问题直接发送给 Copilot。\n\n在获得用户授权后，Copilot 可读取系统信息，并针对具体设备执行检查。以蓝牙音频故障为例",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微软Ignite 2026宣布升级Win11 Copilot为AI诊断助手，可自然语言排查故障",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，引用官方政策文件，信息具体有明确目标和措施，但缺少原始文件链接"
+      "credibilityReason": "IT之家为知名科技媒体，引用微软Ignite官方发布，场景描述具体，但缺少原始链接"
     },
     {
-      "title": "宇树王兴兴称机器人模型泛化是当下最棘手问题：希望到千家万户能立马干活，而不用重新训练",
-      "link": "https://www.ithome.com/1/028/220.htm",
-      "pubDate": "Tue, 17 Nov 2026 04:43:24 GMT",
-      "contentSnippet": "IT之家 11 月 17 日消息，2026 年 APEC 工商领导人峰会 11 月 17 日至 18 日在深圳举办，主题为“共促繁荣，共赢未来”。\n宇树科技股份有限公司董事长王兴兴在峰会上表示，最近几年国内乃至全球的机器人行业都非常热，原因是大家看到了纯语言或文字的 AI 模型在个人生活、办公中的价值越来越大，大家希望机器人也借助 AI 真正干活，解决工作上的问题。但他坦言，目前的挑战不少。当下最大的几个挑战中，第一个就是模型的泛化能力问题。我们希望一台机器人到任何的千家万户，一个模型、一台机器人，它都可以干活、马上干活，而不是说我换一个场景，它就要重新训练一下。\n王兴兴认为，泛化能力是当下最",
+      "title": "微软 Windows Server 2028 开放测试：默认启用 NVMe 并支持 ReFS 启动，新增本地 AI 推理支持",
+      "link": "https://www.ithome.com/1/028/794.htm",
+      "pubDate": "Wed, 18 Nov 2026 06:04:24 GMT",
+      "contentSnippet": "IT之家 11 月 18 日消息，微软今天宣布推出 Windows Server 2028 公开预览版。开发者和 IT 管理员可以通过 Windows Server Insider 预览计划获取测试镜像。\n\n微软表示，Windows Server 2028 将重点升级存储性能、安全架构、虚拟化和集中管理能力，同时开始将本地 AI 推理纳入服务器平台的发展方向，为企业在自有数据中心部署 AI 模型提供基础设施支持。\n微软 Windows Server 团队在官方博客中表示，企业对于 AI 推理部署位置的需求正在发生变化，部分业务需要在靠近数据和实际运营环境的位置运行模型。因此，新系统将围绕硬件加",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
-        "IT之家"
+        "IT之家",
+        "钛媒体",
+        "少数派"
       ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "宇树王兴兴称机器人模型泛化是当前最大挑战，希望无需重新训练即可落地千家万户。",
-      "credibilityScore": 82,
+      "coverageCount": 3,
+      "coverageBoost": 10,
+      "aiSummary": "微软发布Windows Server 2028预览版，默认启用NVMe、支持ReFS启动并新增本地AI推理",
+      "credibilityScore": 92,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，引述公开峰会发言，内容具体但缺少技术数据支撑。"
+      "credibilityReason": "来源为IT之家等知名科技媒体，引用微软官方博客，技术细节具体，但正文摘要不完整（多源覆盖 +10）"
     },
     {
-      "title": "比亚迪李柯：未来就是新能源，多国政商界人士点名参观比亚迪",
-      "link": "https://www.ithome.com/1/028/214.htm",
-      "pubDate": "Tue, 17 Nov 2026 04:30:56 GMT",
-      "contentSnippet": "IT之家 11 月 17 日消息，11 月 17 日至 18 日，2026 年亚太经合组织（APEC）工商领导人峰会在深圳举行。\n据新浪财经报道，比亚迪执行副总裁李柯在公开接受采访时透露，峰会期间，不少企业及各国领导人专门提出希望前往比亚迪实地参观，了解中国新能源汽车产业的发展情况。\n李柯指出，新能源将成为未来发展方向，深圳已经为全球展示了绿色交通和新能源汽车发展的实践案例。\n\n对于多国嘉宾提及比亚迪已经成为当地市场主流汽车品牌的情况，李柯表示：“比亚迪车是最棒的了，全世界都有比亚迪车。”\n谈及新能源汽车的发展前景，李柯表示，来到深圳后，已经不需要再讨论绿色发展以及电动汽车有没有未来的问题。她",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "比亚迪李柯称APEC峰会多国政商界人士点名参观比亚迪，看好新能源前景",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体IT之家并引用新浪财经，但内容以高管表态为主，缺少具体数据与原始出处"
-    },
-    {
-      "title": "宁德时代曾毓群称循环经济决定电池未来，探索将电动化应用从陆地拓展至海洋和天空",
-      "link": "https://www.ithome.com/1/028/115.htm",
-      "pubDate": "Tue, 17 Nov 2026 03:15:46 GMT",
-      "contentSnippet": "IT之家 11 月 17 日消息，2026 年 APEC 工商领导人峰会 11 月 17 日至 18 日在深圳举办，主题为“共促繁荣，共赢未来”。\n据新浪财经报道，宁德时代新能源科技股份有限公司创始人、董事长兼 CEO 曾毓群在会上表示，锂电池还能风光多久？我们会不会转向钠电池，而锂电池大幅贬值？（电池里）用到了大量钴，但人们担心回收技术会兴起。一旦回收技术成熟，未来我们就可以少用钴。\n他指出，所以关键在于可持续性，我们称之为“循环经济”。如果我们在各地都按照循环经济的逻辑来搭建企业，世界就能拥有更可持续的未来。\n他认为，真正推动创新的是政策与监管，而它们如何塑造文化至关重要。因为一项监管如果",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "曾毓群在APEC峰会称循环经济决定电池未来，拟拓展电动化至海空",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引述新浪财经及曾毓群公开演讲，内容具体但技术细节有限"
-    },
-    {
-      "title": "小米首次开放电池产线，背后藏着一场供应链博弈",
-      "link": "https://www.tmtpost.com/8207866.html",
-      "pubDate": "Tue, 17 Nov 2026 10:04:29 +0800",
-      "contentSnippet": "小米首次开放龙甲电池产线，折射出整车厂对供应链控制权与质量责任的重新审视。",
+      "title": "美的集团：宿命的第四次点名",
+      "link": "https://www.tmtpost.com/8209425.html",
+      "pubDate": "Wed, 18 Nov 2026 14:00:37 +0800",
+      "contentSnippet": "最好看的一张季报，藏着最差的一份现金流。",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -135,84 +154,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "小米首次开放龙甲电池产线，折射整车厂对供应链控制权的重新审视。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容聚焦供应链议题，但摘要信息较简略，缺少具体数据支撑。"
-    },
-    {
-      "title": "网络安全巨头 Infoblox 确认遭遇网络安全事件，黑客经第三方供应商窃取公司信息",
-      "link": "https://www.ithome.com/1/028/256.htm",
-      "pubDate": "Tue, 17 Nov 2026 06:52:46 GMT",
-      "contentSnippet": "IT之家 11 月 17 日消息，网络安全与自动化巨头 Infoblox 已确认发生一起网络安全事件。黑客通过该公司的一家技术供应商，未经授权访问了部分公司信息。\n\nInfoblox 是一家非上市网络安全企业，主要为企业提供网络安全和网络服务，包括域名解析、身份管理以及用户访问权限管理等。\nInfoblox 发言人在向科技媒体 TechCrunch 发表的声明中表示，公司正在调查一起安全事件。黑客通过一家遭到入侵的第三方数据迁移服务供应商，未经授权访问了部分公司信息。\n该发言人表示：“我们立即启动了事件响应程序，采取措施控制事态发展，并聘请顶尖的外部网络安全专家协助调查，以查明事件详情、确定影",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "网络安全公司Infoblox确认遭第三方供应商入侵致信息泄露",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家编译TechCrunch报道，有官方声明引用，信息具体但细节有限"
-    },
-    {
-      "title": "三星 One UI 9.5 将优化旅行 SIM 卡管理功能，系统可基于位置智能提醒开启国际卡",
-      "link": "https://www.ithome.com/1/028/255.htm",
-      "pubDate": "Tue, 17 Nov 2026 06:51:33 GMT",
-      "contentSnippet": "IT之家 11 月 17 日消息，外媒 Android Authority 在拆解三星 One UI 最新代码时，发现三星正在为 OneUI 9.5 开发一系列新功能，以简化 Galaxy 手机用户对旅行 SIM 卡的管理。\n具体来看，后续 One UI 9.5 会在用户身处海外时发送通知，提醒其国际 SIM 卡已准备就绪，帮助用户及时切换卡片，避免意外使用本地运营商网络并产生漫游费用。\n同时，三星还在开发一项流量使用情况统计功能。用户届时可以查看某张国际 SIM 卡在特定行程中消耗了多少移动数据流量，也能随时了解当前行程中的 SIM 卡使用情况，从而直接通过手机监控流量额度，无需在不同 SI",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "三星One UI 9.5开发旅行SIM卡位置提醒与流量统计功能",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家编译Android Authority代码拆解，来源可溯但属未发布功能推测，缺官方确认"
-    },
-    {
-      "title": "华为 MateBook 鸿蒙电脑“鸿蒙有礼”权益上新，可免费领三个月标准版小艺 AI 会员",
-      "link": "https://www.ithome.com/1/028/253.htm",
-      "pubDate": "Tue, 17 Nov 2026 06:50:25 GMT",
-      "contentSnippet": "IT之家 11 月 17 日消息，华为官方昨日宣布小艺 AI 订阅服务正式上线，支持多场景高阶 AI 能力。会员权益涵盖办公文档生成、内容创作、图像处理及云存储等场景，覆盖鸿蒙手机、平板、电脑及 Windows 平台。\n\n据博主 @Adak封狼居胥 分享，华为 MateBook 鸿蒙电脑“鸿蒙有礼”权益上新，可免费领取三个月标准版小艺 AI 会员（含 1000 点 AI 积分 + 50G 华为云空间）。\n\n活动入口：我的华为 App → 首页 → 鸿蒙有礼\n\n\n参考IT之家昨日报道，体验版会员每月限时免费赠送 200 AI 积分，供用户直接试用小艺的高阶 AI 能力，无需先完成付费订阅。另外，",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "华为小艺AI订阅上线，鸿蒙电脑用户可免费领三个月标准版会员",
-      "credibilityScore": 78,
+      "aiSummary": "美的季报利润亮眼但现金流恶化，钛媒体剖析其隐忧",
+      "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体IT之家，信息具体含权益细节，但部分内容引自博主，非官方一手来源"
+      "credibilityReason": "知名科技媒体，标题含隐喻但正文指向财务数据矛盾，缺原始出处"
     },
     {
-      "title": "西班牙一大学教授为《GTA 6》调整课程：发售周暂停布置作业、推迟考试，原因是“自己也曾年轻过”",
-      "link": "https://www.ithome.com/1/028/251.htm",
-      "pubDate": "Tue, 17 Nov 2026 06:46:35 GMT",
-      "contentSnippet": "IT之家 11 月 17 日消息，据 4Gamers 报道，一名西班牙大学教授决定为期待《GTA 6》的学生们暂时调整课程安排，宣布游戏发售当周将暂停布置作业、项目及其他课程任务，并将原定的考试计划推迟一周。\n\n对于作出这一决定的原因，教授解释称：“《GTA 5》于 2013 年发售时，我和你们现在的年纪差不多。当时我满脑子想的都是赶紧回家玩游戏，这也是我和朋友们每天最常讨论的话题。”\n此外，该教授指出《GTA 6》的部分内容可能较为开放、大胆，因此学生应当“负责任地享受游戏”，不应当将教授的好意理解为“可以无视所有规定”。\n事实上，为了给《GTA 6》腾出时间，类似的情况并不只发生在校园。此",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "全球钢铁巨头再押注湖南，为什么选中这座老钢城？",
+      "link": "https://www.tmtpost.com/8209427.html",
+      "pubDate": "Wed, 18 Nov 2026 14:00:31 +0800",
+      "contentSnippet": "娄底为何能接得住全球顶尖技术？",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
       "allSources": [
-        "IT之家"
+        "钛媒体"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "西班牙大学教授因《GTA 6》发售调整课程，暂停作业并推迟考试",
-      "credibilityScore": 75,
+      "aiSummary": "全球钢铁巨头再押注湖南娄底，钛媒体解析其承接顶尖技术原因",
+      "credibilityScore": 65,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体IT之家，引述4Gamers报道，内容具体但属趣闻类，缺乏官方核实"
+      "credibilityReason": "钛媒体为知名科技媒体，但摘要信息简略，缺少具体企业、技术及数据细节，难以核实"
     },
     {
-      "title": "澳大利亚最大养老金基金高管质疑 Anthropic 1.4 万亿美元 IPO 估值，称市场存非理性行为",
-      "link": "https://www.ithome.com/1/028/250.htm",
-      "pubDate": "Tue, 17 Nov 2026 06:45:36 GMT",
-      "contentSnippet": "IT之家 11 月 17 日消息，据彭博社报道，澳大利亚最大的养老金基金对人工智能公司 Anthropic 在首次公开募股（IPO）中瞄准的估值提出质疑，反映出机构投资者对这场可能创下全球史上最大规模纪录的上市交易持谨慎态度。\n\n开发 Claude 聊天机器人的 Anthropic 计划将公司估值定在约 1.4 万亿美元（IT之家注：现汇率约合 9.35 万亿元人民币）。澳大利亚超级养老金基金（AustralianSuper）首席投资官肖恩・马纽埃尔（Shaun Manuell）表示，这一估值反映出市场对 AI 相关投资日益高涨的狂热情绪，而这种热潮最终未必能为投资者带来预期回报。\n马纽埃尔当",
+      "title": "微软 Win11 预览版提速“此电脑”搜索：基于索引方案，缩短找文件时间",
+      "link": "https://www.ithome.com/1/028/776.htm",
+      "pubDate": "Wed, 18 Nov 2026 05:53:58 GMT",
+      "contentSnippet": "IT之家 11 月 18 日消息，科技媒体 Windows Central 昨日（11 月 17 日）发布博文，报道称在 Windows 11 Build 26320.10003 预览版中，微软重点改进了文件管理器中“此电脑”（This PC）文件搜索速度。\n在搜索机制方面，新机制改为基于索引器方案，会“先建目录、再查目录”，系统预先把文件信息整理进索引，搜索时直接查询索引。索引器相当于给文件建立了一份可快速检索的“目录”，其中记录文件名称、位置、类型、修改时间等元数据。\n用户搜索时，Windows 不必临时扫描整个磁盘，可以先在索引中匹配，再返回结果，从而大幅减少了重复、实时的磁盘读取。微软",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -220,33 +188,34 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "澳最大养老金基金质疑Anthropic 1.4万亿美元IPO估值，称市场存非理性",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "IT之家引彭博社报道，有具名高管和具体估值数据，但转述二手信息，细节有限"
-    },
-    {
-      "title": "宏碁发布 34\" 1500R 曲面 VA 显示器：5K2K 双模，高分模式刷新率可达 180Hz",
-      "link": "https://www.ithome.com/1/028/249.htm",
-      "pubDate": "Tue, 17 Nov 2026 06:44:24 GMT",
-      "contentSnippet": "IT之家 11 月 17 日消息，宏碁 (Acer) 当地时间今日面向日本市场发布了一对采用 34\" 1500R 曲面 VA 面板的暗影骑士 (Nitro) 系列电竞显示器。\n\n两款产品 ED340CKRJ、ED340CKRP 均支持 5120×2160 和 2560×1080 双分辨率，前者在两个模式下的刷新率分别为 120Hz 和 240Hz，后者则为 180Hz 和 360Hz。\n新品亮度均为 250nits，色深 8bit + FRC，色域 90% DCI-P3，内置两个 2W 扬声器，原装支架可俯仰调节。ED340CKRJ 静态对比度为 3300:1，响应时间 1ms；ED340CK",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "宏碁发布34英寸5K2K双模曲面VA电竞显示器，高分180Hz",
+      "aiSummary": "微软Win11预览版改进文件管理器搜索，采用索引器方案提速",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，产品型号、分辨率、刷新率等参数具体详实，信息可核验"
+      "credibilityReason": "IT之家转引Windows Central，含具体版本号和机制说明，来源可追溯，但为二手编译报道"
     },
     {
-      "title": "开发者让一个 ZIP 文件实现三种用途：支持解压、Multiboot 和 BIOS 启动",
-      "link": "https://www.ithome.com/1/028/248.htm",
-      "pubDate": "Tue, 17 Nov 2026 06:42:55 GMT",
-      "contentSnippet": "IT之家 11 月 17 日消息，开发者 David Oberhollenzer（网名 Goliath）制作了一个特殊的 ZIP 文件 boot.zip。\n这个文件既能通过常规解压软件正常读取和解压，也能作为操作系统启动镜像，通过传统 BIOS 启动兼容的老式 PC，还支持 GRUB、QEMU 等兼容 Multiboot 规范的引导程序加载。\n\nGoliath 并不是简单地将启动程序放进压缩包，而是通过精心安排 ZIP 文件结构，让同一组字节同时满足压缩文件格式和计算机启动规范的要求。\n实现这一效果的关键，是 ZIP 文件格式与 x86 处理器指令之间存在可以利用的字节重合。ZIP 文件通常以",
+      "title": "Pulsar 发布 X2 CrazyLight 2 鼠标：延续低矮宽大对称设计，升级 XS-2 传感器",
+      "link": "https://www.ithome.com/1/028/774.htm",
+      "pubDate": "Wed, 18 Nov 2026 05:52:19 GMT",
+      "contentSnippet": "IT之家 11 月 18 日消息，Pulsar（派世）今日正式发布了鼠标新品 X2 CrazyLight 2。这一产品延续了前代型号的模具设计，拥有低矮而宽大的对称式外壳，适配抓握与指握姿势，官网国行标价为 849 元。\n\n而在内部，X2 CrazyLight 2 升级至 XS-2 光学传感器，支持 42K cpi / DPI 分辨率、800 ips 追踪率、70G 加速度，具备 8KHz 轮询率，提供 20K fps 帧率的 Turbo 模式，支持以 1 为步进调节 cpi / DPI，提供 11 档可调 LOD 高度。\n此外，这款鼠标配备点击寿命达到 100M 的光学按键微动，搭配非接触式",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家",
+        "量子位"
+      ],
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "Pulsar发布X2 CrazyLight 2鼠标，升级XS-2传感器，国行849元",
+      "credibilityScore": 87,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家等知名科技媒体，产品参数具体详实，含价格与型号细节，但缺少官方原始链接引用（多源覆盖 +5）"
+    },
+    {
+      "title": "微软 Win11 测试新提醒：切换本地账号前，先备份 BitLocker 密钥",
+      "link": "https://www.ithome.com/1/028/764.htm",
+      "pubDate": "Wed, 18 Nov 2026 05:41:42 GMT",
+      "contentSnippet": "IT之家 11 月 18 日消息，科技媒体 Windows Latest 昨日（11 月 17 日）发布博文，报道称微软正在测试一项 Windows 11 新功能：当用户从微软账户切换为本地账户后，系统会提醒其备份 BitLocker 恢复密钥，以避免日后因密钥丢失而无法访问加密硬盘。\n\n在 Windows 11 Build 26340.10013 预览版中，微软正在测试“从微软账户安全切换至本地账户”的新提示。微软为降低数据丢失风险，用户在“设置”中切换账户类型时，系统将提示备份 BitLocker 恢复密钥，并更新相关说明。\n\nIT之家注：BitLocker 是 Windows 内置的磁盘",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -254,10 +223,44 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "开发者制作特殊ZIP文件，可解压、BIOS启动并支持Multiboot加载",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体报道，技术细节具体，但缺少原始出处链接，部分内容被截断"
+      "aiSummary": "微软Win11测试切换本地账号前提醒备份BitLocker密钥",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "知名科技媒体IT之家编译报道，引用Windows Latest及具体预览版版本号，技术细节准确，但为二手编译来源"
+    },
+    {
+      "title": "石药集团刚刚发布了三季报，市场对它的分歧仍然较大",
+      "link": "https://www.tmtpost.com/8209571.html",
+      "pubDate": "Wed, 18 Nov 2026 13:39:01 +0800",
+      "contentSnippet": "利润翻倍的石药，九成是阿斯利康的首付款。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "石药集团三季报利润翻倍，九成来自阿斯利康首付款，市场分歧较大。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体钛媒体，内容具体指出利润来源，但缺少详细数据支撑和原始出处引用。"
+    },
+    {
+      "title": "强生拟33亿美元收购Ollin背后：一款中国原研药的价值进阶",
+      "link": "https://www.tmtpost.com/8209456.html",
+      "pubDate": "Wed, 18 Nov 2026 13:38:54 +0800",
+      "contentSnippet": "押注差异化视网膜疗法。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "强生拟33亿美元收购Ollin，押注中国原研视网膜疗法",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "钛媒体为知名科技媒体，标题含具体金额与交易信息，但正文摘要过简，缺少细节支撑"
     }
   ]
 }
