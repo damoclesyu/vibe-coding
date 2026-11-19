@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-18T06:40:16.402Z",
+  "generatedAt": "2026-11-19T06:42:12.030Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "董明珠 APEC 现场求合作，称格力研发机器人十几年了",
-      "link": "https://www.ithome.com/1/028/713.htm",
-      "pubDate": "Wed, 18 Nov 2026 05:11:00 GMT",
-      "contentSnippet": "IT之家 11 月 18 日消息，据看看新闻报道，11 月 17 日，2026 年 APEC 工商领导人峰会举行，格力电器董事长董明珠在现场主动寻找机器人领域的合作机会。\n董明珠表示，具身智能机器人需要减速机、驱动器、伺服电机等核心零部件，而格力已经研发机器人十几年，目前格力电器自动化生产线上的机器人全部由格力自主完成。\n谈及合作，她更是主动向现场嘉宾发出邀请：“我相信我们会成为你很好的合作伙伴，你要什么部件，提供什么部件。”\n\n格力电器 CMO 朱磊今年 4 月接受采访时表示，目前公司已具备做出“人形机器人”的能力，所有机器人零部件都可以实现自研自产。格力累计投入使用的自主研制的工业机器人达",
+      "title": "苹果登顶 2026 零售化学品安全榜，击败沃尔玛、亚马逊成唯一获 A 级企业",
+      "link": "https://www.ithome.com/1/029/281.htm",
+      "pubDate": "Thu, 19 Nov 2026 06:00:02 GMT",
+      "contentSnippet": "IT之家 11 月 19 日消息，环保组织 Toxic-Free Future 于 2026 年 11 月 18 日发布的《零售商成绩单》显示，苹果在产品、包装及供应链中有害化学品和塑料管理方面获得最高分，也是 50 家被评估的美加大型零售商中唯一拿到 A 级的企业。\nIT之家查询公开资料，Toxic-Free Future（直译为无毒未来）是一家美国环境健康非营利组织，总部位于西雅图，前身为 1981 年成立的“华盛顿有毒物质联盟”（Washington Toxics Coalition），2022 年正式更名为现名。\n\n《零售商成绩单》自 2016 年开始发布，覆盖美国和加拿大 50 家大",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,188 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "董明珠在APEC峰会寻求机器人合作，称格力已研发机器人十余年",
-      "credibilityScore": 75,
+      "aiSummary": "苹果获环保组织Toxic-Free Future零售商化学品安全榜唯一A级",
+      "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，引述看看新闻报道，内容具体但缺少独立数据验证"
+      "credibilityReason": "IT之家为知名科技媒体，引用具体报告名称、发布机构及日期，信息可查证，但正文细节略简"
     },
     {
-      "title": "比亚迪王传福、美团王兴、小米雷军 APEC 2026 并排就坐，拒绝透露聊天内容",
-      "link": "https://www.ithome.com/1/028/704.htm",
-      "pubDate": "Wed, 18 Nov 2026 04:54:12 GMT",
-      "contentSnippet": "IT之家 11 月 18 日消息，2026 年 APEC 工商领导人峰会 11 月 17 日至 18 日在深圳举办。\n中国新闻网今日晒出采访视频，比亚迪股份有限公司董事长兼总裁王传福、美团 CEO 王兴、小米创办人兼董事长兼 CEO 雷军并排就坐。\n\n当记者提问三人具体聊了什么内容，王传福摆手称“不好意思”，王兴也摆手拒绝表示不能透露。\n综合IT之家此前报道，王传福在 2026 年 APEC 工商领导人峰会上表示，可持续发展是一个全球目标，而中国在这方面做得卓有成效。\n面对主持人提问：“可持续发展对于比亚迪来说是什么定位？”王传福直言：“只有可持续发展才能实现长期发展，‘我赢你输’的路子走不远",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "APEC深圳峰会王传福王兴雷军并排就坐，拒透露聊天内容",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "IT之家为知名科技媒体，引用中新网视频，信息具体；但属花絮报道，技术含量低，细节有限"
-    },
-    {
-      "title": "小米雷军：“AI+ 手机”“AI+ 具身智能机器人”等有很大想象空间，未来三四年会诞生颠覆性时刻",
-      "link": "https://www.ithome.com/1/028/669.htm",
-      "pubDate": "Wed, 18 Nov 2026 02:45:22 GMT",
-      "contentSnippet": "IT之家 11 月 18 日消息，小米创办人、董事长兼 CEO 雷军 11 月 17 日出席 APEC 工商领导人峰会。今日（11 月 18 日），雷军接受了人民日报采访。\n谈及人工智能，雷军坦言，人工智能浪潮席卷各行各业，作为 AI 从业者能感受到一些焦虑。\n雷军认为，“AI+ 手机”“AI+ 具身智能机器人”等领域有很大的想象空间，未来三四年会有颠覆性时刻的诞生。\n\n综合IT之家此前报道，雷军在 17 日的峰会上表示，过去四年，AI 大模型技术突飞猛进，给我们的生活和工作带来了巨大的变化。但 AI 能够落地的场景非常有限，能够真正实现商业闭环、能够挣到钱的公司，相对比较少。\n他认为，AI",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "雷军称AI+手机与具身智能机器人未来三四年将迎颠覆性时刻",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引述雷军公开采访，但内容以观点为主，缺少具体数据支撑"
-    },
-    {
-      "title": "谷歌公布美国 2026 年度最佳榜单：《明日方舟：终末地》摘得年度最佳游戏",
-      "link": "https://www.ithome.com/1/028/621.htm",
-      "pubDate": "Wed, 18 Nov 2026 01:29:07 GMT",
-      "contentSnippet": "IT之家 11 月 18 日消息，谷歌昨日（11 月 17 日）发布博文，公布 2026 年度最佳榜单（Best of Play 2026），覆盖应用、游戏和图书等。其中美国区年度最佳应用为 AI 笔记工具 Notability，年度最佳游戏为《明日方舟：终末地》（Arknights: Endfield）。\n\n在应用类别中，AI 笔记与 PDF 工具 Notability: AI & PDF Notes 获评年度最佳应用。该应用原生适配安卓，可将设备变为 AI 工作台，支持与资料对话、整理学习内容、生成个性化测验及优化工作流程。\n游戏方面，热门 IP 衍生作《明日方舟：终末地》摘得年度最佳游戏",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "谷歌公布2026年度最佳榜单，《明日方舟：终末地》获美国区年度最佳游戏。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体含应用与游戏名称，但缺少原文链接及数据支撑。"
-    },
-    {
-      "title": "小米雷军 APEC 现场挨个发名片，参会时给台下朋友拍合影",
-      "link": "https://www.ithome.com/1/028/617.htm",
-      "pubDate": "Wed, 18 Nov 2026 01:15:59 GMT",
-      "contentSnippet": "IT之家 11 月 18 日消息，据广东广播电视台报道，小米创办人、董事长兼 CEO 雷军 11 月 17 日出席 APEC 工商领导人峰会，现场社交发名片。网友调侃“不管身价多少亿，该发名片还得发！”\n\n\n雷军还在峰会上发言，表示具身智能机器人肯定是一个巨大的产业机会，它的想象力会超过汽车产业。小米特别看好 AI 走向物理世界以后带来的空间和想象力，这给整个亚太经济会带来巨大的机会。\n\nIT之家注意到，雷军个人微博还晒出了一张照片，是他在台上参加峰会时，给台下朋友们拍的一张合影。\n\nIT之家注：2026 年 APEC 工商领导人峰会 11 月 17 日至 18 日在深圳举办，主题为“共促繁荣",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "雷军出席APEC峰会发名片并发言，看好具身智能机器人产业机会",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium-high",
-      "credibilityReason": "来源为知名科技媒体IT之家，引用广东广播电视台报道及雷军微博，信息具体但偏重社交花絮，技术内容较简略"
-    },
-    {
-      "title": "一加 Turbo7 Pro 手机疑似入网：支持 100W 闪充，电池不低于 9000mAh",
-      "link": "https://www.ithome.com/1/028/799.htm",
-      "pubDate": "Wed, 18 Nov 2026 06:11:24 GMT",
-      "contentSnippet": "IT之家 11 月 18 日消息，一款型号为 PYP110 的 OPPO 新机近日通过工信部 3C 认证，微博博主 @数码闲聊站 称该机疑似一加 Turbo 7 Pro，支持 100W 闪充。\n\n结合博主后续在评论区的发文，这款手机预计 12 月发布，电池不会低于 9000mAh，处理器是高通 SM8845 Pro。\n\n\n\nIT之家了解到，一加 Turbo 系列的最新机型目前是 Turbo 6Vs 。该机搭载第四代高通骁龙 7s 处理器，配备 12GB 内存和 256GB 存储空间，整体厚度 8.5mm，正面配备一块 6.78 英寸 2772x1272 分辨率 144Hz AMOLED 面板（",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "一加Turbo 7 Pro疑似入网，支持100W闪充，电池不低于9000mAh",
-      "credibilityScore": 72,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，有3C认证型号与博主爆料来源，但核心信息依赖传闻，未经官方确认"
-    },
-    {
-      "title": "微软拟升级 Copilot，要给你的 Win11 电脑“看病”",
-      "link": "https://www.ithome.com/1/028/796.htm",
-      "pubDate": "Wed, 18 Nov 2026 06:07:59 GMT",
-      "contentSnippet": "IT之家 11 月 18 日消息，昨日（11 月 17 日）召开的 Ignite 2026 活动中，微软宣布拓展 Windows 11 系统的 Copilot 技能，将其升级为“能看懂电脑状况的 AI 诊断助手”。\n\n根据微软官方描述的场景方案，用户未来使用 Windows 11 系统过程中，如果遇到蓝牙耳机没有声音、外接硬盘无法识别或系统性能异常等故障之后，可以直接在 Windows 搜索框输入自然语言描述，例如“我的蓝牙耳机没有声音，能帮我诊断吗？”，系统会将相关问题直接发送给 Copilot。\n\n在获得用户授权后，Copilot 可读取系统信息，并针对具体设备执行检查。以蓝牙音频故障为例",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "微软Ignite 2026宣布升级Win11 Copilot为AI诊断助手，可自然语言排查故障",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引用微软Ignite官方发布，场景描述具体，但缺少原始链接"
-    },
-    {
-      "title": "微软 Windows Server 2028 开放测试：默认启用 NVMe 并支持 ReFS 启动，新增本地 AI 推理支持",
-      "link": "https://www.ithome.com/1/028/794.htm",
-      "pubDate": "Wed, 18 Nov 2026 06:04:24 GMT",
-      "contentSnippet": "IT之家 11 月 18 日消息，微软今天宣布推出 Windows Server 2028 公开预览版。开发者和 IT 管理员可以通过 Windows Server Insider 预览计划获取测试镜像。\n\n微软表示，Windows Server 2028 将重点升级存储性能、安全架构、虚拟化和集中管理能力，同时开始将本地 AI 推理纳入服务器平台的发展方向，为企业在自有数据中心部署 AI 模型提供基础设施支持。\n微软 Windows Server 团队在官方博客中表示，企业对于 AI 推理部署位置的需求正在发生变化，部分业务需要在靠近数据和实际运营环境的位置运行模型。因此，新系统将围绕硬件加",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家",
-        "钛媒体",
-        "少数派"
-      ],
-      "coverageCount": 3,
-      "coverageBoost": 10,
-      "aiSummary": "微软发布Windows Server 2028预览版，默认启用NVMe、支持ReFS启动并新增本地AI推理",
-      "credibilityScore": 92,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家等知名科技媒体，引用微软官方博客，技术细节具体，但正文摘要不完整（多源覆盖 +10）"
-    },
-    {
-      "title": "美的集团：宿命的第四次点名",
-      "link": "https://www.tmtpost.com/8209425.html",
-      "pubDate": "Wed, 18 Nov 2026 14:00:37 +0800",
-      "contentSnippet": "最好看的一张季报，藏着最差的一份现金流。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "美的季报利润亮眼但现金流恶化，钛媒体剖析其隐忧",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体，标题含隐喻但正文指向财务数据矛盾，缺原始出处"
-    },
-    {
-      "title": "全球钢铁巨头再押注湖南，为什么选中这座老钢城？",
-      "link": "https://www.tmtpost.com/8209427.html",
-      "pubDate": "Wed, 18 Nov 2026 14:00:31 +0800",
-      "contentSnippet": "娄底为何能接得住全球顶尖技术？",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "全球钢铁巨头再押注湖南娄底，钛媒体解析其承接顶尖技术原因",
-      "credibilityScore": 65,
-      "credibilityLevel": "medium",
-      "credibilityReason": "钛媒体为知名科技媒体，但摘要信息简略，缺少具体企业、技术及数据细节，难以核实"
-    },
-    {
-      "title": "微软 Win11 预览版提速“此电脑”搜索：基于索引方案，缩短找文件时间",
-      "link": "https://www.ithome.com/1/028/776.htm",
-      "pubDate": "Wed, 18 Nov 2026 05:53:58 GMT",
-      "contentSnippet": "IT之家 11 月 18 日消息，科技媒体 Windows Central 昨日（11 月 17 日）发布博文，报道称在 Windows 11 Build 26320.10003 预览版中，微软重点改进了文件管理器中“此电脑”（This PC）文件搜索速度。\n在搜索机制方面，新机制改为基于索引器方案，会“先建目录、再查目录”，系统预先把文件信息整理进索引，搜索时直接查询索引。索引器相当于给文件建立了一份可快速检索的“目录”，其中记录文件名称、位置、类型、修改时间等元数据。\n用户搜索时，Windows 不必临时扫描整个磁盘，可以先在索引中匹配，再返回结果，从而大幅减少了重复、实时的磁盘读取。微软",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "微软Win11预览版改进文件管理器搜索，采用索引器方案提速",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家转引Windows Central，含具体版本号和机制说明，来源可追溯，但为二手编译报道"
-    },
-    {
-      "title": "Pulsar 发布 X2 CrazyLight 2 鼠标：延续低矮宽大对称设计，升级 XS-2 传感器",
-      "link": "https://www.ithome.com/1/028/774.htm",
-      "pubDate": "Wed, 18 Nov 2026 05:52:19 GMT",
-      "contentSnippet": "IT之家 11 月 18 日消息，Pulsar（派世）今日正式发布了鼠标新品 X2 CrazyLight 2。这一产品延续了前代型号的模具设计，拥有低矮而宽大的对称式外壳，适配抓握与指握姿势，官网国行标价为 849 元。\n\n而在内部，X2 CrazyLight 2 升级至 XS-2 光学传感器，支持 42K cpi / DPI 分辨率、800 ips 追踪率、70G 加速度，具备 8KHz 轮询率，提供 20K fps 帧率的 Turbo 模式，支持以 1 为步进调节 cpi / DPI，提供 11 档可调 LOD 高度。\n此外，这款鼠标配备点击寿命达到 100M 的光学按键微动，搭配非接触式",
+      "title": "消息称苹果 iPhone 18/18e/Air 2 明年 3 月发布，屏幕最早下月量产",
+      "link": "https://www.ithome.com/1/029/274.htm",
+      "pubDate": "Thu, 19 Nov 2026 05:44:51 GMT",
+      "contentSnippet": "IT之家 11 月 19 日消息，韩媒 ET News 援引供应链消息，苹果 iPhone 18、iPhone 18e 及 iPhone Air 2 的 OLED 显示屏预估 2026 年 12 月或 2027 年 1 月进入大规模生产阶段，上市预估要等到 2027 年 3 月。\nIT之家援引博文介绍，供应链消息称面板厂商目前的重心依然放在高端屏幕上，聚焦服务于 iPhone 18 Pro、iPhone 18 Pro Max 及 iPhone Duo 三款机型，而适用于标准版 iPhone 18 和 iPhone Air 2 的屏幕生产规模和制造复杂度相对较低，因此被安排在今年年末或明年 1",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -206,16 +34,16 @@
       ],
       "coverageCount": 2,
       "coverageBoost": 5,
-      "aiSummary": "Pulsar发布X2 CrazyLight 2鼠标，升级XS-2传感器，国行849元",
-      "credibilityScore": 87,
+      "aiSummary": "韩媒称苹果iPhone 18系列及Air 2屏幕明年量产，预计2027年3月上市",
+      "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家等知名科技媒体，产品参数具体详实，含价格与型号细节，但缺少官方原始链接引用（多源覆盖 +5）"
+      "credibilityReason": "IT之家援引韩媒ET News供应链消息，信息具体但属传闻性质，缺乏官方确认（多源覆盖 +5）"
     },
     {
-      "title": "微软 Win11 测试新提醒：切换本地账号前，先备份 BitLocker 密钥",
-      "link": "https://www.ithome.com/1/028/764.htm",
-      "pubDate": "Wed, 18 Nov 2026 05:41:42 GMT",
-      "contentSnippet": "IT之家 11 月 18 日消息，科技媒体 Windows Latest 昨日（11 月 17 日）发布博文，报道称微软正在测试一项 Windows 11 新功能：当用户从微软账户切换为本地账户后，系统会提醒其备份 BitLocker 恢复密钥，以避免日后因密钥丢失而无法访问加密硬盘。\n\n在 Windows 11 Build 26340.10013 预览版中，微软正在测试“从微软账户安全切换至本地账户”的新提示。微软为降低数据丢失风险，用户在“设置”中切换账户类型时，系统将提示备份 BitLocker 恢复密钥，并更新相关说明。\n\nIT之家注：BitLocker 是 Windows 内置的磁盘",
+      "title": "小米汽车首次出海：SU7、YU7、澎程率先于阿联酋代理商开启预售，首批车型 12 月交付",
+      "link": "https://www.ithome.com/1/029/269.htm",
+      "pubDate": "Thu, 19 Nov 2026 05:12:13 GMT",
+      "contentSnippet": "IT之家 11 月 19 日消息，昨日有博主发现，小米汽车已通过阿联酋经销商 Gargash Prime 正式在当地开启预售，SU7、YU7 和小米澎程 SkyNomad 增程 SUV 三款车型同步上线。\n另外，小米集团创始人、董事长兼首席执行官雷军 11 月 17 日参加 2026 年 APEC 工商领导人峰会时提到：小米汽车明年正式出海。他表示，汽车是很多国家的支柱产业，跟当地的供应链合作，能够使产品更好地为当地的消费者服务。所以小米一直抱着很开放的心态，跟当地的合作伙伴都在深入合作。\n\n这是小米汽车首次以官方授权渠道进入海外市场，此前阿联酋用户只能通过私下进口或灰色渠道购车，缺乏本地质保",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -223,16 +51,169 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "微软Win11测试切换本地账号前提醒备份BitLocker密钥",
+      "aiSummary": "小米汽车通过阿联酋经销商开启SU7等三款车型预售，12月交付",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息具体含车型、经销商、时间节点，但部分细节待官方确认"
+    },
+    {
+      "title": "黄仁勋离开后，英伟达开始和 AI 云厂商讲担保条件了",
+      "link": "https://www.ithome.com/1/029/268.htm",
+      "pubDate": "Thu, 19 Nov 2026 05:08:33 GMT",
+      "contentSnippet": "IT之家 11 月 19 日消息，科技媒体 The Verge 今天（11 月 19 日）发布博文，报道称英伟达收紧“金主”（sugar daddy）模式，对于云厂商和 AI 生态的“输血”设置了更高的门槛。\nIT之家援引博文介绍，在黄仁勋执掌英伟达公司期间，英伟达不仅向 AI 公司出售 GPU，还会通过采购承诺、融资、股权投资等方式，帮助客户建设数据中心部署算力。\n这种模式被称为 AI 行业的“金主”关系：英伟达先支持客户扩张，客户再用英伟达芯片建设 AI 算力设施，最终形成对英伟达产品、软件生态和供应链的持续需求。\n而在最新财报电话会议上，英伟达临时首席执行官科莱特 · 克雷斯（Colet",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "英伟达收紧对AI云厂商的采购承诺与融资担保门槛",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家援引The Verge报道，有具体来源和财报会议背景，但正文摘要截断，细节不完整"
+    },
+    {
+      "title": "消息称 OpenAI 进军手机领域，富士康旗下富智康集团获组装订单",
+      "link": "https://www.ithome.com/1/029/267.htm",
+      "pubDate": "Thu, 19 Nov 2026 05:01:03 GMT",
+      "contentSnippet": "IT之家 11 月 19 日消息，据证券时报今日报道，富士康旗下富智康集团已获得 OpenAI 手机项目订单，将参与相关产品的整机组装。富士康同时是苹果 iPhone 的主要组装商。\n报道称，若 OpenAI 手机最终面市，其将进入手机终端市场，并可能围绕 AI 交互体验，与现有手机品牌展开更直接的竞争。相关产品方案、订单规模及量产安排，仍有待进一步获悉。\n每日经济新闻今日援引供应链消息，OpenAI 首款 AI 硬件产品计划于 2026 年底启动出货，多家中国厂商参与该项目，其中立讯精密独家承担整机制造，并同时供应核心零部件。关于这款硬件的具体形态，OpenAI 官方尚未正式公布。\n此前有报",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "传OpenAI手机获富智康组装订单，首款AI硬件2026年底出货",
+      "credibilityScore": 62,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为IT之家转述证券时报等供应链消息，但OpenAI未官方确认，且两家媒体对组装商说法不一，细节待证实"
+    },
+    {
+      "title": "Q3营收重返正增长，不卷外卖的京东将“拐”向何方？",
+      "link": "https://www.tmtpost.com/8210838.html",
+      "pubDate": "Thu, 19 Nov 2026 12:36:48 +0800",
+      "contentSnippet": "京东正在电商行业整体步入存量博弈、新业务烧钱换增长模式普遍退潮的背景下，收缩非核心投入，将资源聚焦于供应链效率与服务生态的挖掘。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "京东Q3营收恢复正增长，聚焦供应链效率与服务生态",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "钛媒体为知名科技媒体，内容涉及具体财报数据与战略分析，但摘要较简略，缺少详细数据支撑"
+    },
+    {
+      "title": "马斯克自称“中国超级粉丝”：首次到访深圳被震撼，特斯拉将继续在华提高产量",
+      "link": "https://www.ithome.com/1/029/247.htm",
+      "pubDate": "Thu, 19 Nov 2026 04:00:33 GMT",
+      "contentSnippet": "IT之家 11 月 19 日消息，今日，中国贸促会会长任鸿斌在深圳会见特斯拉 CEO 埃隆 · 马斯克。马斯克表示，自己是中国“超级粉丝”，每次到访都感到震撼。他还承诺特斯拉将继续在中国提高产量。\n这是马斯克首次公开到访深圳，他于 11 月 18 日随美国代表团抵达，出席在深圳举行的 2026 年 APEC 领导人会议周相关活动。\n\n马斯克在远程参与美国节目访谈时进一步阐述了对中国的印象。他表示深圳是“中国先进技术最大的中心”，并称“每当来这里，都被中国的规模和壮丽所震撼”。\n公开资料显示，2026 年上半年，特斯拉上海超级工厂交付近 46.8 万辆，同比增长 28.4%，占特斯拉全球同期产量",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "马斯克称中国超级粉丝，承诺特斯拉继续在华提高产量",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体IT之家，内容含具体数据，但核心引述缺乏原始出处链接，时效性存疑"
+    },
+    {
+      "title": "英伟达回应“黄仁勋离任会打乱 AI 芯片供货”疑虑：需求仍强劲，产品按计划推进",
+      "link": "https://www.ithome.com/1/029/234.htm",
+      "pubDate": "Thu, 19 Nov 2026 03:42:52 GMT",
+      "contentSnippet": "IT之家 11 月 19 日消息，行业媒体 Digitimes 今天（11 月 19 日）发布博文，报道称在最新财报电话会议上，针对“换帅是否会打乱 AI 芯片供货”疑虑，英伟达临时首席执行官科莱特 · 克雷斯（Colette Kress）表示，公司业务照常开展。\n在黄仁勋辞职后英伟达举行的首次财报电话会议上，克雷斯强调英伟达公司未来产品开发与推出节奏保持不变。她表示公司运营表现、业务展望及产品规划尚未因管理层变动受到明显影响，市场需求仍保持积极，并预估短期内对 AI 芯片供应链的冲击有限。\nIT之家援引博文介绍，针对领导层变化是否会打乱新品推出和客户交付问题，克雷斯称公司业务照常开展，并获得",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "英伟达回应黄仁勋离任疑虑，称业务照常、产品按计划推进",
+      "credibilityScore": 72,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家并援引Digitimes，内容具体但核心事件异常且细节有限"
+    },
+    {
+      "title": "华境 S 五座版更多规格公布：全系标配华为乾崑科技和宁德时代电芯",
+      "link": "https://www.ithome.com/1/029/221.htm",
+      "pubDate": "Thu, 19 Nov 2026 03:33:19 GMT",
+      "contentSnippet": "IT之家 11 月 19 日消息，华境今日公布华境 S 五座版更多规格信息，新车全系标配华为乾崑科技与宁德时代电芯，并提供后排一键纯平功能，放倒后可形成约两米的平整空间。\n\n\n尺寸方面，华境 S 五座版车长 5235 mm、车宽 1999 mm、车高 1800 mm，轴距 3105 mm。五座版外观提供日照金山、沧海悬月等配色方案，其中日照金山采用金色车顶搭配黑色车身，沧海悬月采用银色车顶搭配蓝色车身，内饰则提供玛瑙紫配色。\n\n\n\n作为参考，现款车型配备 1.5T 插电式混动系统，提供两驱版和四驱版可选。31 度电池版 CLTC 纯电续航 200km；41.9 度宁德时代电池版 CLTC 纯电",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "华境S五座版公布规格，全系标配华为乾崑科技与宁德时代电芯",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，内容含具体尺寸与配置数据，但缺少官方原始出处链接"
+    },
+    {
+      "title": "魏少军教授预测：2026 年国内芯片销售额将突破 1.5 万亿元，同比增幅达 89%",
+      "link": "https://www.ithome.com/1/029/202.htm",
+      "pubDate": "Thu, 19 Nov 2026 03:21:33 GMT",
+      "contentSnippet": "IT之家 11 月 19 日消息，据爱集微报道，在 11 月 19 日 ~20 日的 2026 集成电路发展论坛（北京）暨三十二届集成电路设计业展览会上，中国半导体行业协会集成电路设计分会主任魏少军教授预测，2026 年国内芯片销售额将突破 1.5 万亿元，同比增幅达 89%。\n分区域来看：\n\n长三角产业规模领先，销售额约 9700 亿元；\n\n粤港澳大湾区（珠三角地区）3044 亿元，增长 28%；\n\n京津冀环渤海地区 2168 亿元，增长 38.4%；\n\n中西部地区 2730 亿元，增速高达 80%。\n\n2026 年按照增长速度排列的前 10 个城市中：\n\n排在第一位的是合肥，增长 2546",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "魏少军预测2026年国内芯片销售额破1.5万亿元，同比增89%",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为IT之家转引爱集微，有具体人物和场合，但89%增幅异常偏高且数据细节存疑，需谨慎看待"
+    },
+    {
+      "title": "2027 款极氪 7X 将于 11 月 27 日广州车展上市，预售 22.98 万元起",
+      "link": "https://www.ithome.com/1/029/195.htm",
+      "pubDate": "Thu, 19 Nov 2026 03:00:16 GMT",
+      "contentSnippet": "IT之家 11 月 19 日消息，极氪汽车今日宣布，2027 款极氪 7X 将于 11 月 27 日广州车展上市。该车已经于 11 月 5 日开启预售，价格为 22.98 万元起。\n\nIT之家汇总主要参数如下（同配置省略）：\n\n后驱 Max 版：75kWh 神盾金砖电池、5.5C 快充、（SoC 10%-80%）充电时间 10.5min、CLTC 续航里程 620km、900V 电机 / 电控 / 热管理、CCD 电磁减振、千里浩瀚 H7、370kW 电机、百公里加速 5.4 秒。\n\n后驱 Max+ 版：85kWh 神盾金砖电池、5.5C 快充、充电时间 10.5min、680km 续航；可选",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "2027款极氪7X将于11月27日广州车展上市，预售22.98万元起",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "知名科技媒体IT之家编译报道，引用Windows Latest及具体预览版版本号，技术细节准确，但为二手编译来源"
+      "credibilityReason": "IT之家为知名科技媒体，信息具体含参数细节，来源为极氪官方宣布，时效性强"
     },
     {
-      "title": "石药集团刚刚发布了三季报，市场对它的分歧仍然较大",
-      "link": "https://www.tmtpost.com/8209571.html",
-      "pubDate": "Wed, 18 Nov 2026 13:39:01 +0800",
-      "contentSnippet": "利润翻倍的石药，九成是阿斯利康的首付款。",
+      "title": "全新零跑 Lafa5 更多规格公布：纯电续航 640km，全域 800V 高压平台 +3C 快充",
+      "link": "https://www.ithome.com/1/029/177.htm",
+      "pubDate": "Thu, 19 Nov 2026 02:09:07 GMT",
+      "contentSnippet": "IT之家 11 月 19 日消息，零跑汽车今日公布全新零跑 Lafa5 更多规格，包括续航、动力、辅助驾驶、底盘等信息。\n\n据介绍，该车升级 69.7kWh 大电池，实现 640km CLTC 纯电长续航；配备激光雷达 + 高通 8650 高阶辅助驾驶，拥有 28 个智能感知硬件、端到端大模型、40 项辅助驾驶功能；全域 800V 高压平台 +3C 快充，SOC 30-80% 快充仅需 16 分钟。\n\n该车标配 FSD 可变阻尼减振，兼顾滤震舒适与过弯支撑；搭载六合一高性能电驱，最大功率 185kW，实现 6.06 秒零百加速；中欧底盘团队联合调校，50:50 前后黄金轴荷比；LMC 一体化运",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "零跑Lafa5公布规格：640km续航、800V平台、3C快充及激光雷达智驾",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，规格数据具体详实，含电池容量、充电时长等细节，来源为厂商官方公布"
+    },
+    {
+      "title": "Echo 创始人邹皓：硬件负责收集声音，AI负责创造价值",
+      "link": "https://www.tmtpost.com/8210472.html",
+      "pubDate": "Thu, 19 Nov 2026 14:34:17 +0800",
+      "contentSnippet": "真正让用户留下来的，是他们各自为 Echo 做出的差异化定义",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
@@ -240,27 +221,44 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "石药集团三季报利润翻倍，九成来自阿斯利康首付款，市场分歧较大。",
-      "credibilityScore": 75,
+      "aiSummary": "Echo创始人邹皓阐述硬件收集声音、AI创造价值的差异化产品理念",
+      "credibilityScore": 72,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体钛媒体，内容具体指出利润来源，但缺少详细数据支撑和原始出处引用。"
+      "credibilityReason": "钛媒体为知名科技媒体，内容聚焦创始人观点，但摘要简略缺少具体数据支撑"
     },
     {
-      "title": "强生拟33亿美元收购Ollin背后：一款中国原研药的价值进阶",
-      "link": "https://www.tmtpost.com/8209456.html",
-      "pubDate": "Wed, 18 Nov 2026 13:38:54 +0800",
-      "contentSnippet": "押注差异化视网膜疗法。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "富士胶片 X Summit 巴黎 2026 活动定档 12 月 2 日",
+      "link": "https://www.ithome.com/1/029/282.htm",
+      "pubDate": "Thu, 19 Nov 2026 06:00:36 GMT",
+      "contentSnippet": "IT之家 11 月 19 日消息，富士胶片 (FUJIFILM) 现已正式宣布，该企业的 X Summit 巴黎 2026 发布活动将于北京时间 2026 年 12 月 2 日 17:00 举行。\n富士胶片官方表示：\n\n法国发明的摄影术将于 2026 年迎来诞生 200 周年。为庆祝摄影发展两百年的历史，并向所有在这段历程中创作了无数令人振奋的影像的摄影师和摄影爱好者致敬，下一届 X Summit  将从法国巴黎向您呈现。\n\n\n根据长期关注富士胶片影像产品的外媒 Fujirumors 爆料，富士胶片预计将在本次活动上带来基于 X-Processor 6 处理器的全新 X-T6 相机、XF 50",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "钛媒体"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "强生拟33亿美元收购Ollin，押注中国原研视网膜疗法",
-      "credibilityScore": 75,
+      "aiSummary": "富士胶片宣布X Summit巴黎2026活动定档12月2日，或发布X-T6相机",
+      "credibilityScore": 80,
       "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，标题含具体金额与交易信息，但正文摘要过简，缺少细节支撑"
+      "credibilityReason": "IT之家为知名科技媒体，官方活动信息明确，传闻部分标注了Fujirumors来源，但正文摘要不完整"
+    },
+    {
+      "title": "“紧急灾难通知”立功，韩国教育部查获 22 名高考生未提交智能手机",
+      "link": "https://www.ithome.com/1/029/280.htm",
+      "pubDate": "Thu, 19 Nov 2026 05:59:17 GMT",
+      "contentSnippet": "IT之家 11 月 19 日消息，据韩联社报道，韩国教育部 11 月 19 日表示，在 2027 学年度大学修学能力考试（韩国高考）中，通过发送紧急灾难通知短信，共查获 22 名未上交手机的作弊考生。\n\n据韩国教育部次官在政府世宗办公大楼的简报会上介绍，当天上午 8 时 30 分发送紧急灾难通知短信后，全国 9 个市・道共查获 22 部手机。\n该官员表示，相关人员将在第一节课结束后移交考试本部，逐一核查是否携带超小型摄像头等尖端设备；若确认存在利用尖端设备作弊的行为，将以“以欺诈手段妨碍公务执行”为由告发并严肃处理。截至目前，22 人中尚未报告手机以外的尖端设备使用情况。\n该官员同时称，在查获",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "韩国高考用紧急灾难通知查获22名未交手机考生",
+      "credibilityScore": 80,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家引述韩联社及韩教育部官员简报，信息具体有数据，来源可追溯，但属转述报道"
     }
   ]
 }
