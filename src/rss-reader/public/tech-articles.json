@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-19T06:42:12.030Z",
+  "generatedAt": "2026-11-20T06:29:37.040Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "苹果登顶 2026 零售化学品安全榜，击败沃尔玛、亚马逊成唯一获 A 级企业",
-      "link": "https://www.ithome.com/1/029/281.htm",
-      "pubDate": "Thu, 19 Nov 2026 06:00:02 GMT",
-      "contentSnippet": "IT之家 11 月 19 日消息，环保组织 Toxic-Free Future 于 2026 年 11 月 18 日发布的《零售商成绩单》显示，苹果在产品、包装及供应链中有害化学品和塑料管理方面获得最高分，也是 50 家被评估的美加大型零售商中唯一拿到 A 级的企业。\nIT之家查询公开资料，Toxic-Free Future（直译为无毒未来）是一家美国环境健康非营利组织，总部位于西雅图，前身为 1981 年成立的“华盛顿有毒物质联盟”（Washington Toxics Coalition），2022 年正式更名为现名。\n\n《零售商成绩单》自 2016 年开始发布，覆盖美国和加拿大 50 家大",
+      "title": "Akko 推出氛围编程输入设备灵动 Key：整合麦克风，当前标价 268 元",
+      "link": "https://www.ithome.com/1/029/887.htm",
+      "pubDate": "Fri, 20 Nov 2026 06:17:00 GMT",
+      "contentSnippet": "IT之家 11 月 20 日消息，Akko（艾酷）即将于今晚 20:00 开始销售其面向氛围编程开发的多功能输入设备灵动 Key。其支持三模连接，整合 3 颗按键、1 个旋钮、全向麦克风（蓝牙模式不支持收音），当前标价 268 元。\n\n灵动 Key 拥有 CNC 工艺铝制机身，经 180 目喷砂与阳极氧化处理，整合 ARGB 背光；收音系统针对低音量进行专门优化，提升气声、低声转写准确率；适配腾讯 WorkBuddy。此外，其还支持办公会议控制、手机 / 平板遥控。",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,34 +16,34 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "苹果获环保组织Toxic-Free Future零售商化学品安全榜唯一A级",
+      "aiSummary": "Akko推出灵动Key多功能输入设备，整合麦克风与按键旋钮，标价268元。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引用具体报告名称、发布机构及日期，信息可查证，但正文细节略简"
+      "credibilityReason": "来源为知名科技媒体IT之家，产品细节具体，含价格、工艺、功能等数据，但缺少官方原始链接。"
     },
     {
-      "title": "消息称苹果 iPhone 18/18e/Air 2 明年 3 月发布，屏幕最早下月量产",
-      "link": "https://www.ithome.com/1/029/274.htm",
-      "pubDate": "Thu, 19 Nov 2026 05:44:51 GMT",
-      "contentSnippet": "IT之家 11 月 19 日消息，韩媒 ET News 援引供应链消息，苹果 iPhone 18、iPhone 18e 及 iPhone Air 2 的 OLED 显示屏预估 2026 年 12 月或 2027 年 1 月进入大规模生产阶段，上市预估要等到 2027 年 3 月。\nIT之家援引博文介绍，供应链消息称面板厂商目前的重心依然放在高端屏幕上，聚焦服务于 iPhone 18 Pro、iPhone 18 Pro Max 及 iPhone Duo 三款机型，而适用于标准版 iPhone 18 和 iPhone Air 2 的屏幕生产规模和制造复杂度相对较低，因此被安排在今年年末或明年 1",
+      "title": "消息称英伟达将豪掷逾 5 亿美元，收购“比 ChatGPT 更快的 AI”公司 Inception",
+      "link": "https://www.ithome.com/1/029/886.htm",
+      "pubDate": "Fri, 20 Nov 2026 06:15:40 GMT",
+      "contentSnippet": "IT之家 11 月 20 日消息，科技媒体 The Information 今天（11 月 20 日）发布博文，报道称英伟达计划收购 AI 初创公司 Inception，目前双方已深入谈判，交易估值至少超过 5 亿美元（IT之家注：现汇率约合 33.46 亿元人民币），并可能附加与业绩挂钩的额外奖励。\n\nAmir Efrati 是 The Information 的执行主编\nIT之家查询公开资料，Inception 成立于 2024 年，总部位于美国加州帕洛阿尔托，由斯坦福大学教授 Stefano Ermon、UCLA 教授 Aditya Grover 和康奈尔大学教授 Volodymyr K",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
         "IT之家",
-        "量子位"
+        "爱范儿"
       ],
       "coverageCount": 2,
       "coverageBoost": 5,
-      "aiSummary": "韩媒称苹果iPhone 18系列及Air 2屏幕明年量产，预计2027年3月上市",
-      "credibilityScore": 80,
+      "aiSummary": "英伟达拟逾5亿美元收购AI初创公司Inception，谈判已深入",
+      "credibilityScore": 83,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家援引韩媒ET News供应链消息，信息具体但属传闻性质，缺乏官方确认（多源覆盖 +5）"
+      "credibilityReason": "转引The Information独家报道，有估值与创始人细节，但交易未定且属传闻（多源覆盖 +5）"
     },
     {
-      "title": "小米汽车首次出海：SU7、YU7、澎程率先于阿联酋代理商开启预售，首批车型 12 月交付",
-      "link": "https://www.ithome.com/1/029/269.htm",
-      "pubDate": "Thu, 19 Nov 2026 05:12:13 GMT",
-      "contentSnippet": "IT之家 11 月 19 日消息，昨日有博主发现，小米汽车已通过阿联酋经销商 Gargash Prime 正式在当地开启预售，SU7、YU7 和小米澎程 SkyNomad 增程 SUV 三款车型同步上线。\n另外，小米集团创始人、董事长兼首席执行官雷军 11 月 17 日参加 2026 年 APEC 工商领导人峰会时提到：小米汽车明年正式出海。他表示，汽车是很多国家的支柱产业，跟当地的供应链合作，能够使产品更好地为当地的消费者服务。所以小米一直抱着很开放的心态，跟当地的合作伙伴都在深入合作。\n\n这是小米汽车首次以官方授权渠道进入海外市场，此前阿联酋用户只能通过私下进口或灰色渠道购车，缺乏本地质保",
+      "title": "PHP 一漏洞存在近 20 年：httpS 使用大写 S 可致 TLS 加密失效，已修复",
+      "link": "https://www.ithome.com/1/029/884.htm",
+      "pubDate": "Fri, 20 Nov 2026 06:10:33 GMT",
+      "contentSnippet": "IT之家 11 月 20 日消息，当地时间 11 月 19 日，PHP 项目团队发布 8.5.13 安全更新，共修复 18 个 CVE 漏洞，其中 4 个可导致远程代码执行。\n据介绍，其 HTTP、FTP 流包装器存在一项可能导致 HTTPS、FTPS 请求意外降级为明文传输的安全漏洞，编号为 CVE-2026-128064，CVSS 4.0 评分为 8.2 分（高危）。\n\n根据 PHP 官方公告，该问题源于 URL Scheme 的大小写处理不一致：流包装器识别协议名称时不区分大小写，但启用 TLS 时却只检查固定位置的小写字母 s。因此，HTTPS://、httpS:// 和 FTPS:/",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -51,84 +51,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "小米汽车通过阿联酋经销商开启SU7等三款车型预售，12月交付",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体含车型、经销商、时间节点，但部分细节待官方确认"
-    },
-    {
-      "title": "黄仁勋离开后，英伟达开始和 AI 云厂商讲担保条件了",
-      "link": "https://www.ithome.com/1/029/268.htm",
-      "pubDate": "Thu, 19 Nov 2026 05:08:33 GMT",
-      "contentSnippet": "IT之家 11 月 19 日消息，科技媒体 The Verge 今天（11 月 19 日）发布博文，报道称英伟达收紧“金主”（sugar daddy）模式，对于云厂商和 AI 生态的“输血”设置了更高的门槛。\nIT之家援引博文介绍，在黄仁勋执掌英伟达公司期间，英伟达不仅向 AI 公司出售 GPU，还会通过采购承诺、融资、股权投资等方式，帮助客户建设数据中心部署算力。\n这种模式被称为 AI 行业的“金主”关系：英伟达先支持客户扩张，客户再用英伟达芯片建设 AI 算力设施，最终形成对英伟达产品、软件生态和供应链的持续需求。\n而在最新财报电话会议上，英伟达临时首席执行官科莱特 · 克雷斯（Colet",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "英伟达收紧对AI云厂商的采购承诺与融资担保门槛",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家援引The Verge报道，有具体来源和财报会议背景，但正文摘要截断，细节不完整"
-    },
-    {
-      "title": "消息称 OpenAI 进军手机领域，富士康旗下富智康集团获组装订单",
-      "link": "https://www.ithome.com/1/029/267.htm",
-      "pubDate": "Thu, 19 Nov 2026 05:01:03 GMT",
-      "contentSnippet": "IT之家 11 月 19 日消息，据证券时报今日报道，富士康旗下富智康集团已获得 OpenAI 手机项目订单，将参与相关产品的整机组装。富士康同时是苹果 iPhone 的主要组装商。\n报道称，若 OpenAI 手机最终面市，其将进入手机终端市场，并可能围绕 AI 交互体验，与现有手机品牌展开更直接的竞争。相关产品方案、订单规模及量产安排，仍有待进一步获悉。\n每日经济新闻今日援引供应链消息，OpenAI 首款 AI 硬件产品计划于 2026 年底启动出货，多家中国厂商参与该项目，其中立讯精密独家承担整机制造，并同时供应核心零部件。关于这款硬件的具体形态，OpenAI 官方尚未正式公布。\n此前有报",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "传OpenAI手机获富智康组装订单，首款AI硬件2026年底出货",
-      "credibilityScore": 62,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为IT之家转述证券时报等供应链消息，但OpenAI未官方确认，且两家媒体对组装商说法不一，细节待证实"
-    },
-    {
-      "title": "Q3营收重返正增长，不卷外卖的京东将“拐”向何方？",
-      "link": "https://www.tmtpost.com/8210838.html",
-      "pubDate": "Thu, 19 Nov 2026 12:36:48 +0800",
-      "contentSnippet": "京东正在电商行业整体步入存量博弈、新业务烧钱换增长模式普遍退潮的背景下，收缩非核心投入，将资源聚焦于供应链效率与服务生态的挖掘。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "京东Q3营收恢复正增长，聚焦供应链效率与服务生态",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容涉及具体财报数据与战略分析，但摘要较简略，缺少详细数据支撑"
-    },
-    {
-      "title": "马斯克自称“中国超级粉丝”：首次到访深圳被震撼，特斯拉将继续在华提高产量",
-      "link": "https://www.ithome.com/1/029/247.htm",
-      "pubDate": "Thu, 19 Nov 2026 04:00:33 GMT",
-      "contentSnippet": "IT之家 11 月 19 日消息，今日，中国贸促会会长任鸿斌在深圳会见特斯拉 CEO 埃隆 · 马斯克。马斯克表示，自己是中国“超级粉丝”，每次到访都感到震撼。他还承诺特斯拉将继续在中国提高产量。\n这是马斯克首次公开到访深圳，他于 11 月 18 日随美国代表团抵达，出席在深圳举行的 2026 年 APEC 领导人会议周相关活动。\n\n马斯克在远程参与美国节目访谈时进一步阐述了对中国的印象。他表示深圳是“中国先进技术最大的中心”，并称“每当来这里，都被中国的规模和壮丽所震撼”。\n公开资料显示，2026 年上半年，特斯拉上海超级工厂交付近 46.8 万辆，同比增长 28.4%，占特斯拉全球同期产量",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "马斯克称中国超级粉丝，承诺特斯拉继续在华提高产量",
+      "aiSummary": "PHP修复存在近20年的TLS降级漏洞，大写S可致HTTPS明文传输",
       "credibilityScore": 78,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体IT之家，内容含具体数据，但核心引述缺乏原始出处链接，时效性存疑"
+      "credibilityReason": "知名科技媒体，含CVE编号、CVSS评分等具体信息，但正文摘要截断，细节完整性存疑"
     },
     {
-      "title": "英伟达回应“黄仁勋离任会打乱 AI 芯片供货”疑虑：需求仍强劲，产品按计划推进",
-      "link": "https://www.ithome.com/1/029/234.htm",
-      "pubDate": "Thu, 19 Nov 2026 03:42:52 GMT",
-      "contentSnippet": "IT之家 11 月 19 日消息，行业媒体 Digitimes 今天（11 月 19 日）发布博文，报道称在最新财报电话会议上，针对“换帅是否会打乱 AI 芯片供货”疑虑，英伟达临时首席执行官科莱特 · 克雷斯（Colette Kress）表示，公司业务照常开展。\n在黄仁勋辞职后英伟达举行的首次财报电话会议上，克雷斯强调英伟达公司未来产品开发与推出节奏保持不变。她表示公司运营表现、业务展望及产品规划尚未因管理层变动受到明显影响，市场需求仍保持积极，并预估短期内对 AI 芯片供应链的冲击有限。\nIT之家援引博文介绍，针对领导层变化是否会打乱新品推出和客户交付问题，克雷斯称公司业务照常开展，并获得",
+      "title": "微信短剧审核新规：单集最低时长上调至 1 分钟，AI 制作证明视频 12 月起必填",
+      "link": "https://www.ithome.com/1/029/883.htm",
+      "pubDate": "Fri, 20 Nov 2026 06:04:06 GMT",
+      "contentSnippet": "IT之家 11 月 20 日消息，据微信短剧内容中心今日发文，为持续建设优质短剧内容生态、提升用户观看体验，平台对短剧审核要求作出两项更新。IT之家整理如下：\n一、上调短剧单集最低时长\n公告称，为保护用户观看体验、建设优质短剧内容生态，平台将上调短剧单集最低时长标准：单集最低时长由原 45 秒调整至 1 分钟。\n本次调整旨在引导创作者保障单集内容的流畅与完整，避免因时长过短导致剧情仓促、情节割裂，影响用户观看体验。请各位创作者在制作过程中注重单集叙事的完整性，为用户提供连贯、完整的观看体验。\n该调整将于 2026 年 12 月 1 日（周二）起生效。生效后，单集时长不足 1 分钟的剧集将无法通",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -136,16 +68,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "英伟达回应黄仁勋离任疑虑，称业务照常、产品按计划推进",
-      "credibilityScore": 72,
+      "aiSummary": "微信短剧审核新规：单集最低时长上调至1分钟，AI制作证明12月起必填",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家并援引Digitimes，内容具体但核心事件异常且细节有限"
+      "credibilityReason": "IT之家为知名科技媒体，引用微信官方公告，信息具体含生效日期，但正文摘要不完整"
     },
     {
-      "title": "华境 S 五座版更多规格公布：全系标配华为乾崑科技和宁德时代电芯",
-      "link": "https://www.ithome.com/1/029/221.htm",
-      "pubDate": "Thu, 19 Nov 2026 03:33:19 GMT",
-      "contentSnippet": "IT之家 11 月 19 日消息，华境今日公布华境 S 五座版更多规格信息，新车全系标配华为乾崑科技与宁德时代电芯，并提供后排一键纯平功能，放倒后可形成约两米的平整空间。\n\n\n尺寸方面，华境 S 五座版车长 5235 mm、车宽 1999 mm、车高 1800 mm，轴距 3105 mm。五座版外观提供日照金山、沧海悬月等配色方案，其中日照金山采用金色车顶搭配黑色车身，沧海悬月采用银色车顶搭配蓝色车身，内饰则提供玛瑙紫配色。\n\n\n\n作为参考，现款车型配备 1.5T 插电式混动系统，提供两驱版和四驱版可选。31 度电池版 CLTC 纯电续航 200km；41.9 度宁德时代电池版 CLTC 纯电",
+      "title": "大唐推出无风扇嵌入式工业电脑，基于英特尔 \"Wildcat Lake\"",
+      "link": "https://www.ithome.com/1/029/882.htm",
+      "pubDate": "Fri, 20 Nov 2026 06:00:43 GMT",
+      "contentSnippet": "IT之家 11 月 20 日消息，大唐计算机 (Maxtang) 今日发布无风扇嵌入式工业电脑 IXH-WCL35。这一型号基于第 3 代英特尔酷睿处理器 \"Wildcat Lake\"，三维 205×125×70.5 (mm)。\n\nIXH-WCL35 提供 1 个 DDR5 SO-DIMM 插槽、1 个 M.2 M-Key 2280 (PCIe Gen4 ×2) 插槽，支持扩展无线网卡和 LTE 蜂窝模块，另有 FPC 排线形式的 1 个 SATA III 6Gbps 接口。\n其提供 4 个 USB-A 3.2、4 个 USB-A 2.0、6 个 COM、2 个 HDMI 2.0、2 个 1G",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -153,16 +85,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "华境S五座版公布规格，全系标配华为乾崑科技与宁德时代电芯",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，内容含具体尺寸与配置数据，但缺少官方原始出处链接"
+      "aiSummary": "大唐发布基于英特尔Wildcat Lake的无风扇嵌入式工业电脑IXH-WCL35",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体IT之家，产品规格细节具体，但处理器代际表述存疑且缺少官方引用"
     },
     {
-      "title": "魏少军教授预测：2026 年国内芯片销售额将突破 1.5 万亿元，同比增幅达 89%",
-      "link": "https://www.ithome.com/1/029/202.htm",
-      "pubDate": "Thu, 19 Nov 2026 03:21:33 GMT",
-      "contentSnippet": "IT之家 11 月 19 日消息，据爱集微报道，在 11 月 19 日 ~20 日的 2026 集成电路发展论坛（北京）暨三十二届集成电路设计业展览会上，中国半导体行业协会集成电路设计分会主任魏少军教授预测，2026 年国内芯片销售额将突破 1.5 万亿元，同比增幅达 89%。\n分区域来看：\n\n长三角产业规模领先，销售额约 9700 亿元；\n\n粤港澳大湾区（珠三角地区）3044 亿元，增长 28%；\n\n京津冀环渤海地区 2168 亿元，增长 38.4%；\n\n中西部地区 2730 亿元，增速高达 80%。\n\n2026 年按照增长速度排列的前 10 个城市中：\n\n排在第一位的是合肥，增长 2546",
+      "title": "“这是 AMD 的巨大机遇”：苏姿丰首谈黄仁勋离任英伟达 CEO，他是杰出领袖",
+      "link": "https://www.ithome.com/1/029/878.htm",
+      "pubDate": "Fri, 20 Nov 2026 05:52:50 GMT",
+      "contentSnippet": "IT之家 11 月 20 日消息，科技媒体 Business Insider 昨日（11 月 19 日）发布博文，报道称在美国奥斯汀（Austin）举行的 TomorrowX 峰会上，AMD 首席执行官苏姿丰（Lisa Su）首次公开谈及其表舅、英伟达前首席执行官黄仁勋（Jensen Huang）离任一事。\n\n视频源：@lesliedqbb\n苏姿丰在活动中称赞英伟达是“了不起的公司”，黄仁勋是“行业的杰出领袖”，但 AMD 需要与其竞争对手陷入的“噪音”保持距离。\n面对黄仁勋离职震动整个 AI 芯片行业的事件，苏姿丰没有直接评论相关指控、黄仁勋辞职，或 AMD 是否会因此受益。她强调，AMD",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -170,16 +102,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "魏少军预测2026年国内芯片销售额破1.5万亿元，同比增89%",
+      "aiSummary": "苏姿丰首谈黄仁勋离任英伟达CEO，称其为杰出领袖",
       "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为IT之家转引爱集微，有具体人物和场合，但89%增幅异常偏高且数据细节存疑，需谨慎看待"
+      "credibilityReason": "IT之家转引Business Insider，来源可溯但正文截断，核心事件缺原始出处验证"
     },
     {
-      "title": "2027 款极氪 7X 将于 11 月 27 日广州车展上市，预售 22.98 万元起",
-      "link": "https://www.ithome.com/1/029/195.htm",
-      "pubDate": "Thu, 19 Nov 2026 03:00:16 GMT",
-      "contentSnippet": "IT之家 11 月 19 日消息，极氪汽车今日宣布，2027 款极氪 7X 将于 11 月 27 日广州车展上市。该车已经于 11 月 5 日开启预售，价格为 22.98 万元起。\n\nIT之家汇总主要参数如下（同配置省略）：\n\n后驱 Max 版：75kWh 神盾金砖电池、5.5C 快充、（SoC 10%-80%）充电时间 10.5min、CLTC 续航里程 620km、900V 电机 / 电控 / 热管理、CCD 电磁减振、千里浩瀚 H7、370kW 电机、百公里加速 5.4 秒。\n\n后驱 Max+ 版：85kWh 神盾金砖电池、5.5C 快充、充电时间 10.5min、680km 续航；可选",
+      "title": "迈特芯 3D-TPU 芯片 Mega188 成功点亮：垂直集成 DRAM，600GB/s 带宽",
+      "link": "https://www.ithome.com/1/029/876.htm",
+      "pubDate": "Fri, 20 Nov 2026 05:50:54 GMT",
+      "contentSnippet": "IT之家 11 月 20 日消息，国内端侧 LLM 芯片企业迈特芯 (MetaChip) 近日宣布，其 3D-TPU 芯片产品 Mega188 成功实现回片点亮。\n\nIT之家了解到，Mega188 结合了分布式 TPU 计算单元和 3D DRAM，采用三维堆叠与混合键合工艺，集成 2 / 4 / 8GB 内存，峰值内存带宽 600GB/s，支持 5W 低功耗模式，适配多种终端设备，实测可在 Qwen3-8B 上实现 80 TPS 推理速度。\n参考\n\nhttps://mp.weixin.qq.com/s/OgkkgYJOEuCgujrKQw1-bw",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -187,16 +119,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "2027款极氪7X将于11月27日广州车展上市，预售22.98万元起",
-      "credibilityScore": 85,
+      "aiSummary": "迈特芯3D-TPU芯片Mega188点亮，集成3D DRAM，带宽600GB/s",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体含参数细节，来源为极氪官方宣布，时效性强"
+      "credibilityReason": "IT之家为知名科技媒体，信息含具体参数与实测数据，引用官方公众号来源，但企业知名度较低，数据待第三方验证"
     },
     {
-      "title": "全新零跑 Lafa5 更多规格公布：纯电续航 640km，全域 800V 高压平台 +3C 快充",
-      "link": "https://www.ithome.com/1/029/177.htm",
-      "pubDate": "Thu, 19 Nov 2026 02:09:07 GMT",
-      "contentSnippet": "IT之家 11 月 19 日消息，零跑汽车今日公布全新零跑 Lafa5 更多规格，包括续航、动力、辅助驾驶、底盘等信息。\n\n据介绍，该车升级 69.7kWh 大电池，实现 640km CLTC 纯电长续航；配备激光雷达 + 高通 8650 高阶辅助驾驶，拥有 28 个智能感知硬件、端到端大模型、40 项辅助驾驶功能；全域 800V 高压平台 +3C 快充，SOC 30-80% 快充仅需 16 分钟。\n\n该车标配 FSD 可变阻尼减振，兼顾滤震舒适与过弯支撑；搭载六合一高性能电驱，最大功率 185kW，实现 6.06 秒零百加速；中欧底盘团队联合调校，50:50 前后黄金轴荷比；LMC 一体化运",
+      "title": "漫步者花再 Sona Clip 耳夹耳机开售：支持杜比音效、44 小时综合续航，券后 397.8 元",
+      "link": "https://www.ithome.com/1/029/875.htm",
+      "pubDate": "Fri, 20 Nov 2026 05:48:01 GMT",
+      "contentSnippet": "IT之家 11 月 20 日消息，漫步者花再 Sona Clip 耳夹耳机今日开售，到手价 468 元，可领 8.5 折券，券后 397.8 元。\n\n这款耳机提供清雾白、柔光金、夜雾黑、黑莓粉四款配色，采用新一代 C 桥支撑结构，内置 0.5mm 超细镍钛记忆钢丝，配备双耳四麦通话降噪阵列；蓝牙升级至 6.1，支持双设备无缝连接、智能入耳检测；耳机支持 IP56 防尘防水。\n\n这款耳机单次续航约 11 小时，搭配充电仓综合续航约 44 小时；获得 Hi-Res Wireless + HWA 双金标认证，支持 LDAC 高解析音频解码，支持全新杜比音效；支持 SwiftAgileTouch 迅敏",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -204,61 +136,135 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "零跑Lafa5公布规格：640km续航、800V平台、3C快充及激光雷达智驾",
+      "aiSummary": "漫步者花再Sona Clip耳夹耳机开售，券后397.8元，支持杜比音效和44小时续航。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，规格数据具体详实，含电池容量、充电时长等细节，来源为厂商官方公布"
+      "credibilityReason": "来源为知名科技媒体IT之家，产品参数具体详实，含价格、技术细节和认证信息，但缺乏原始出处引用。"
     },
     {
-      "title": "Echo 创始人邹皓：硬件负责收集声音，AI负责创造价值",
-      "link": "https://www.tmtpost.com/8210472.html",
-      "pubDate": "Thu, 19 Nov 2026 14:34:17 +0800",
-      "contentSnippet": "真正让用户留下来的，是他们各自为 Echo 做出的差异化定义",
+      "title": "高通携手 Cirrascale，启动自家推理加速器 AI200 客户评估",
+      "link": "https://www.ithome.com/1/029/874.htm",
+      "pubDate": "Fri, 20 Nov 2026 05:43:03 GMT",
+      "contentSnippet": "IT之家 11 月 20 日消息，Qualcomm（高通）当地时间本月 17 日宣布，其携手 AI 私有云企业 Cirrascale，向部分客户开放 Dragonfly（飞龙）AI200 推理加速器的评估。客户可通过云环境探索其 AI 工作负载在该芯片上的表现。\n\nDragonfly AI200 是高通的第一款机架级人工智能解决方案，单卡配备 768GB LPDDR5X 内存，支持 PCIe Gen6 纵向扩展、RoCE 横向扩展。\n其每个 140kW 液冷 ORv3 机架由 56 卡组成，总内存达 43TB，提供 0.414 PB/s 内存带宽，可在单一机架中运行 10T 级超大模型的推理，",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "高通携手Cirrascale开放AI200推理加速器客户云评估",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道含具体产品参数、时间与官方宣布出处，技术细节详实"
+    },
+    {
+      "title": "China’s AI Short-Drama Boom Hits a Rights Wall and a Theater Test",
+      "link": "https://www.tmtpost.com/8212475.html",
+      "pubDate": "Fri, 20 Nov 2026 13:35:06 +0800",
+      "contentSnippet": "ByteDance’s free short-drama platform is blocking tens of thousands of titles over suspected misuse of real faces. A long-running AI fantasy series is also booking limited cinema screenings. The industry can generate episodes by the thousand; it still struggles to own its faces and its audience.",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
+        "钛媒体",
+        "量子位",
+        "少数派",
+        "InfoQ中文",
+        "Solidot"
+      ],
+      "coverageCount": 5,
+      "coverageBoost": 20,
+      "aiSummary": "字节跳动短剧平台因肖像权下架数万部AI短剧，行业面临版权与院线考验",
+      "credibilityScore": 98,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为多家知名科技媒体聚合，内容具体但缺少原始数据与官方引用，时效性存疑（多源覆盖 +20）"
+    },
+    {
+      "title": "华为星芒 OSTA O1 Pro 配置汇总：麒麟 9030S 处理器、2 亿 RYYB 主摄，今日发布",
+      "link": "https://www.ithome.com/1/029/873.htm",
+      "pubDate": "Fri, 20 Nov 2026 05:30:26 GMT",
+      "contentSnippet": "IT之家 11 月 20 日消息，博主 @数码闲聊站 今日汇总了华为星芒 OSTA O1 Pro 主要配置，新机将于今日 14:30 举行的华为鸿蒙智行享界 V8 及星芒品牌发布会正式亮相。\nIT之家附华为星芒 OSTA O1 Pro 主要配置：\n\n6.39 英寸 1.5K LTPS 直屏，16:9.5 比例，1.05mm 极窄四等边\n\n麒麟 9030S 处理器\n\n200Mp 1/1.28\" RYYB 主摄 +50Mp 3.7X RYYB 潜望长焦 + 红枫镜头\n\n7000mAh 电池 +66W 有线充 + 无线充\n\n侧边指纹，机身厚度 6.68mm / 重量 200g\n\n12GB+256GB",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "华为星芒OSTA O1 Pro配置曝光，搭载麒麟9030S与2亿像素主摄，今日发布。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "IT之家为知名科技媒体，配置信息具体，但核心来源为博主爆料，未经官方确认。"
+    },
+    {
+      "title": "亚马逊反对纽约拟议的“最后一公里”配送新规：恐终结外包模式，每单最高加 5 美元",
+      "link": "https://www.ithome.com/1/029/872.htm",
+      "pubDate": "Fri, 20 Nov 2026 05:24:02 GMT",
+      "contentSnippet": "IT之家 11 月 20 日消息，科技媒体 The Verge 今天（11 月 20 日）发布博文，报道称亚马逊通过 App 推送通知、首页横幅及订单完成页面，提醒部分美国纽约用户，称纽约市拟议的“最后一公里”配送新规恐怕让每笔订单成本最高增加 5 美元（IT之家注：现汇率约合 33.5 元人民币）。\nIT之家援引博文介绍，美国纽约拟议推行《配送保护法》（Delivery Protection Act），目前已获得纽约市长佐赫兰 · 马姆达尼（Zohran Mamdani）及多个劳工组织支持。新规要求“最后一公里”配送承包商获得纽约市许可，并由其直接雇用配送人员，不能继续以独立承包商模式运营。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "亚马逊反对纽约拟议配送新规，称每单成本或增5美元",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家援引The Verge，信息具体含法规名称、成本数据及多方立场，但缺少原始链接"
+    },
+    {
+      "title": "惠普推出 ProDesk 2 Mini G2i 商用迷你主机，基于第 3 代英特尔酷睿处理器",
+      "link": "https://www.ithome.com/1/029/871.htm",
+      "pubDate": "Fri, 20 Nov 2026 05:23:05 GMT",
+      "contentSnippet": "IT之家 11 月 20 日消息，HP（惠普）现已推出基于第 3 代英特尔酷睿处理器 \"Wildcat Lake\" 的 ProDesk 2 Mini G2i 商用迷你主机。这一型号标配 DDR5 SO-DIMM 内存插槽，也提供板载 LPDDR5X 的版本。\n\nProDesk 2 Mini G2i 三维 177×181×34.2 (mm)，质量≤1kg；拥有 1 个 M.2 2280 SSD 盘位，提供 M.2 无线网卡插槽。\n其正面提供 1 个 USB-C 10Gbps、2 个 USB-A 5Gbps、1 个二合一音频插孔；反面配备 1 个 HDMI 2.1 TMDS、1 个 Display",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "惠普推出基于第三代酷睿处理器的ProDesk 2 Mini G2i商用迷你主机",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，信息具体含规格细节，但处理器代号表述存疑且正文不完整"
+    },
+    {
+      "title": "苹果 20 周年款 iPhone 渲染图曝光：整机如一块玻璃，四曲面带来“无边框”观感",
+      "link": "https://www.ithome.com/1/029/868.htm",
+      "pubDate": "Fri, 20 Nov 2026 04:59:15 GMT",
+      "contentSnippet": "IT之家 11 月 20 日消息，YouTube 频道 AppleTrack 昨日（11 月 19 日）更新视频，分享了苹果 20 周年款 iPhone（该信源称其为 iPhone XX）的渲染图。\n\n消息源称本次渲染基于可信泄露信息制作，显示 iPhone XX 采用全玻璃工业设计、曲面显示屏、触觉按键、苹果设计的摄像头传感器以及全新的电池技术。\n\nIT之家查询公开信息，AppleTrack 由 Sam Kohl 运营，内容以汇总传闻、追踪爆料源和部分独家消息为主，会交叉验证马克 · 古尔曼、郭明錤、The Information 等信息来源，此外 MacWorld 等主流媒体也会采信 Ap",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "IT之家报道AppleTrack发布苹果20周年款iPhone XX渲染图，称基于可信泄露信息。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "知名科技媒体转载，但核心信息源自YouTube爆料频道渲染图，非官方或权威供应链确认，属传闻性质。"
+    },
+    {
+      "title": "能让 iPhone 跑安卓 App 的虚拟机 Andarium 被苹果 App Store 火速下架",
+      "link": "https://www.ithome.com/1/029/867.htm",
+      "pubDate": "Fri, 20 Nov 2026 04:57:06 GMT",
+      "contentSnippet": "IT之家 11 月 20 日消息，一款名为“Andarium”软件日前上架苹果 App Store 平台，这是一款安卓虚拟机软件，支持在 iPhone 和 iPad 上运行 Android 应用，引发网络热议。\nAndarium 的开发者 xieyi 今日发文，表示 Andarium 已被苹果从 App Store 下架。\nxieyi 晒出的截图内容称：\n\n经过重新评估，我们发现该应用不符合应用审核指南。具体来说，我们发现该应用违反了以下规定：\n指南 2.5.2 和 1.1 一一性能一一软件要求\n我们注意到，该应用包含并非专注于受支持苹果平台体验的功能。\n具体来说，你的应用允许用户在 iOS",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家",
+        "爱范儿",
         "钛媒体"
       ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "Echo创始人邹皓阐述硬件收集声音、AI创造价值的差异化产品理念",
-      "credibilityScore": 72,
+      "coverageCount": 3,
+      "coverageBoost": 10,
+      "aiSummary": "安卓虚拟机Andarium上架App Store后遭苹果下架",
+      "credibilityScore": 95,
       "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容聚焦创始人观点，但摘要简略缺少具体数据支撑"
-    },
-    {
-      "title": "富士胶片 X Summit 巴黎 2026 活动定档 12 月 2 日",
-      "link": "https://www.ithome.com/1/029/282.htm",
-      "pubDate": "Thu, 19 Nov 2026 06:00:36 GMT",
-      "contentSnippet": "IT之家 11 月 19 日消息，富士胶片 (FUJIFILM) 现已正式宣布，该企业的 X Summit 巴黎 2026 发布活动将于北京时间 2026 年 12 月 2 日 17:00 举行。\n富士胶片官方表示：\n\n法国发明的摄影术将于 2026 年迎来诞生 200 周年。为庆祝摄影发展两百年的历史，并向所有在这段历程中创作了无数令人振奋的影像的摄影师和摄影爱好者致敬，下一届 X Summit  将从法国巴黎向您呈现。\n\n\n根据长期关注富士胶片影像产品的外媒 Fujirumors 爆料，富士胶片预计将在本次活动上带来基于 X-Processor 6 处理器的全新 X-T6 相机、XF 50",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "富士胶片宣布X Summit巴黎2026活动定档12月2日，或发布X-T6相机",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，官方活动信息明确，传闻部分标注了Fujirumors来源，但正文摘要不完整"
-    },
-    {
-      "title": "“紧急灾难通知”立功，韩国教育部查获 22 名高考生未提交智能手机",
-      "link": "https://www.ithome.com/1/029/280.htm",
-      "pubDate": "Thu, 19 Nov 2026 05:59:17 GMT",
-      "contentSnippet": "IT之家 11 月 19 日消息，据韩联社报道，韩国教育部 11 月 19 日表示，在 2027 学年度大学修学能力考试（韩国高考）中，通过发送紧急灾难通知短信，共查获 22 名未上交手机的作弊考生。\n\n据韩国教育部次官在政府世宗办公大楼的简报会上介绍，当天上午 8 时 30 分发送紧急灾难通知短信后，全国 9 个市・道共查获 22 部手机。\n该官员表示，相关人员将在第一节课结束后移交考试本部，逐一核查是否携带超小型摄像头等尖端设备；若确认存在利用尖端设备作弊的行为，将以“以欺诈手段妨碍公务执行”为由告发并严肃处理。截至目前，22 人中尚未报告手机以外的尖端设备使用情况。\n该官员同时称，在查获",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "韩国高考用紧急灾难通知查获22名未交手机考生",
-      "credibilityScore": 80,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家引述韩联社及韩教育部官员简报，信息具体有数据，来源可追溯，但属转述报道"
+      "credibilityReason": "多家知名科技媒体报道，引用开发者原文及苹果审核截图，信息具体可信（多源覆盖 +10）"
     }
   ]
 }
