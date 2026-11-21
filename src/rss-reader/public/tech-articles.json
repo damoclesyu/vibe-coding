@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-20T06:29:37.040Z",
+  "generatedAt": "2026-11-21T06:20:41.633Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "Akko 推出氛围编程输入设备灵动 Key：整合麦克风，当前标价 268 元",
-      "link": "https://www.ithome.com/1/029/887.htm",
-      "pubDate": "Fri, 20 Nov 2026 06:17:00 GMT",
-      "contentSnippet": "IT之家 11 月 20 日消息，Akko（艾酷）即将于今晚 20:00 开始销售其面向氛围编程开发的多功能输入设备灵动 Key。其支持三模连接，整合 3 颗按键、1 个旋钮、全向麦克风（蓝牙模式不支持收音），当前标价 268 元。\n\n灵动 Key 拥有 CNC 工艺铝制机身，经 180 目喷砂与阳极氧化处理，整合 ARGB 背光；收音系统针对低音量进行专门优化，提升气声、低声转写准确率；适配腾讯 WorkBuddy。此外，其还支持办公会议控制、手机 / 平板遥控。",
+      "title": "消息称华为星芒品牌已在内部酝酿约三年，将承担更多前沿技术的率先应用任务",
+      "link": "https://www.ithome.com/1/030/353.htm",
+      "pubDate": "Sat, 21 Nov 2026 05:48:08 GMT",
+      "contentSnippet": "IT之家 11 月 21 日消息，据《每日经济新闻》报道，近日，华为星芒相关负责人在接受媒体采访时透露，星芒品牌已在内部酝酿约三年，未来一两年，公司不会对其提出过高的销量及经营目标要求。现阶段，星芒更重要的任务是建立品牌认知、培育目标用户，并验证新的 AI 技术与产品体验。\n\n一个酝酿了约三年的新品牌，为何直到现在才正式推出？华为相关负责人解释称，荣耀独立之后，华为曾经历一段较长时间的供应链和技术体系重建，随后又投入大量资源建设鸿蒙操作系统及应用生态。直到相关基础能力逐步成熟，才具备推出新品牌的条件。\n谈及新品牌的销量预期时，华为相关负责人表示：“这一两年新品牌首先是要建立心智，把品牌真正树立",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,255 +16,248 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "Akko推出灵动Key多功能输入设备，整合麦克风与按键旋钮，标价268元。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，产品细节具体，含价格、工艺、功能等数据，但缺少官方原始链接。"
-    },
-    {
-      "title": "消息称英伟达将豪掷逾 5 亿美元，收购“比 ChatGPT 更快的 AI”公司 Inception",
-      "link": "https://www.ithome.com/1/029/886.htm",
-      "pubDate": "Fri, 20 Nov 2026 06:15:40 GMT",
-      "contentSnippet": "IT之家 11 月 20 日消息，科技媒体 The Information 今天（11 月 20 日）发布博文，报道称英伟达计划收购 AI 初创公司 Inception，目前双方已深入谈判，交易估值至少超过 5 亿美元（IT之家注：现汇率约合 33.46 亿元人民币），并可能附加与业绩挂钩的额外奖励。\n\nAmir Efrati 是 The Information 的执行主编\nIT之家查询公开资料，Inception 成立于 2024 年，总部位于美国加州帕洛阿尔托，由斯坦福大学教授 Stefano Ermon、UCLA 教授 Aditya Grover 和康奈尔大学教授 Volodymyr K",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家",
-        "爱范儿"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "英伟达拟逾5亿美元收购AI初创公司Inception，谈判已深入",
-      "credibilityScore": 83,
-      "credibilityLevel": "high",
-      "credibilityReason": "转引The Information独家报道，有估值与创始人细节，但交易未定且属传闻（多源覆盖 +5）"
-    },
-    {
-      "title": "PHP 一漏洞存在近 20 年：httpS 使用大写 S 可致 TLS 加密失效，已修复",
-      "link": "https://www.ithome.com/1/029/884.htm",
-      "pubDate": "Fri, 20 Nov 2026 06:10:33 GMT",
-      "contentSnippet": "IT之家 11 月 20 日消息，当地时间 11 月 19 日，PHP 项目团队发布 8.5.13 安全更新，共修复 18 个 CVE 漏洞，其中 4 个可导致远程代码执行。\n据介绍，其 HTTP、FTP 流包装器存在一项可能导致 HTTPS、FTPS 请求意外降级为明文传输的安全漏洞，编号为 CVE-2026-128064，CVSS 4.0 评分为 8.2 分（高危）。\n\n根据 PHP 官方公告，该问题源于 URL Scheme 的大小写处理不一致：流包装器识别协议名称时不区分大小写，但启用 TLS 时却只检查固定位置的小写字母 s。因此，HTTPS://、httpS:// 和 FTPS:/",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "PHP修复存在近20年的TLS降级漏洞，大写S可致HTTPS明文传输",
+      "aiSummary": "华为星芒品牌内部酝酿约三年，将率先应用前沿技术，初期不设高销量目标。",
       "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体，含CVE编号、CVSS评分等具体信息，但正文摘要截断，细节完整性存疑"
+      "credibilityLevel": "medium-high",
+      "credibilityReason": "来源为IT之家转述每日经济新闻，有负责人采访引述，但缺乏具体技术细节和官方直接出处。"
     },
     {
-      "title": "微信短剧审核新规：单集最低时长上调至 1 分钟，AI 制作证明视频 12 月起必填",
-      "link": "https://www.ithome.com/1/029/883.htm",
-      "pubDate": "Fri, 20 Nov 2026 06:04:06 GMT",
-      "contentSnippet": "IT之家 11 月 20 日消息，据微信短剧内容中心今日发文，为持续建设优质短剧内容生态、提升用户观看体验，平台对短剧审核要求作出两项更新。IT之家整理如下：\n一、上调短剧单集最低时长\n公告称，为保护用户观看体验、建设优质短剧内容生态，平台将上调短剧单集最低时长标准：单集最低时长由原 45 秒调整至 1 分钟。\n本次调整旨在引导创作者保障单集内容的流畅与完整，避免因时长过短导致剧情仓促、情节割裂，影响用户观看体验。请各位创作者在制作过程中注重单集叙事的完整性，为用户提供连贯、完整的观看体验。\n该调整将于 2026 年 12 月 1 日（周二）起生效。生效后，单集时长不足 1 分钟的剧集将无法通",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "微信短剧审核新规：单集最低时长上调至1分钟，AI制作证明12月起必填",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引用微信官方公告，信息具体含生效日期，但正文摘要不完整"
-    },
-    {
-      "title": "大唐推出无风扇嵌入式工业电脑，基于英特尔 \"Wildcat Lake\"",
-      "link": "https://www.ithome.com/1/029/882.htm",
-      "pubDate": "Fri, 20 Nov 2026 06:00:43 GMT",
-      "contentSnippet": "IT之家 11 月 20 日消息，大唐计算机 (Maxtang) 今日发布无风扇嵌入式工业电脑 IXH-WCL35。这一型号基于第 3 代英特尔酷睿处理器 \"Wildcat Lake\"，三维 205×125×70.5 (mm)。\n\nIXH-WCL35 提供 1 个 DDR5 SO-DIMM 插槽、1 个 M.2 M-Key 2280 (PCIe Gen4 ×2) 插槽，支持扩展无线网卡和 LTE 蜂窝模块，另有 FPC 排线形式的 1 个 SATA III 6Gbps 接口。\n其提供 4 个 USB-A 3.2、4 个 USB-A 2.0、6 个 COM、2 个 HDMI 2.0、2 个 1G",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "大唐发布基于英特尔Wildcat Lake的无风扇嵌入式工业电脑IXH-WCL35",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体IT之家，产品规格细节具体，但处理器代际表述存疑且缺少官方引用"
-    },
-    {
-      "title": "“这是 AMD 的巨大机遇”：苏姿丰首谈黄仁勋离任英伟达 CEO，他是杰出领袖",
-      "link": "https://www.ithome.com/1/029/878.htm",
-      "pubDate": "Fri, 20 Nov 2026 05:52:50 GMT",
-      "contentSnippet": "IT之家 11 月 20 日消息，科技媒体 Business Insider 昨日（11 月 19 日）发布博文，报道称在美国奥斯汀（Austin）举行的 TomorrowX 峰会上，AMD 首席执行官苏姿丰（Lisa Su）首次公开谈及其表舅、英伟达前首席执行官黄仁勋（Jensen Huang）离任一事。\n\n视频源：@lesliedqbb\n苏姿丰在活动中称赞英伟达是“了不起的公司”，黄仁勋是“行业的杰出领袖”，但 AMD 需要与其竞争对手陷入的“噪音”保持距离。\n面对黄仁勋离职震动整个 AI 芯片行业的事件，苏姿丰没有直接评论相关指控、黄仁勋辞职，或 AMD 是否会因此受益。她强调，AMD",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "苏姿丰首谈黄仁勋离任英伟达CEO，称其为杰出领袖",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "IT之家转引Business Insider，来源可溯但正文截断，核心事件缺原始出处验证"
-    },
-    {
-      "title": "迈特芯 3D-TPU 芯片 Mega188 成功点亮：垂直集成 DRAM，600GB/s 带宽",
-      "link": "https://www.ithome.com/1/029/876.htm",
-      "pubDate": "Fri, 20 Nov 2026 05:50:54 GMT",
-      "contentSnippet": "IT之家 11 月 20 日消息，国内端侧 LLM 芯片企业迈特芯 (MetaChip) 近日宣布，其 3D-TPU 芯片产品 Mega188 成功实现回片点亮。\n\nIT之家了解到，Mega188 结合了分布式 TPU 计算单元和 3D DRAM，采用三维堆叠与混合键合工艺，集成 2 / 4 / 8GB 内存，峰值内存带宽 600GB/s，支持 5W 低功耗模式，适配多种终端设备，实测可在 Qwen3-8B 上实现 80 TPS 推理速度。\n参考\n\nhttps://mp.weixin.qq.com/s/OgkkgYJOEuCgujrKQw1-bw",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "迈特芯3D-TPU芯片Mega188点亮，集成3D DRAM，带宽600GB/s",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息含具体参数与实测数据，引用官方公众号来源，但企业知名度较低，数据待第三方验证"
-    },
-    {
-      "title": "漫步者花再 Sona Clip 耳夹耳机开售：支持杜比音效、44 小时综合续航，券后 397.8 元",
-      "link": "https://www.ithome.com/1/029/875.htm",
-      "pubDate": "Fri, 20 Nov 2026 05:48:01 GMT",
-      "contentSnippet": "IT之家 11 月 20 日消息，漫步者花再 Sona Clip 耳夹耳机今日开售，到手价 468 元，可领 8.5 折券，券后 397.8 元。\n\n这款耳机提供清雾白、柔光金、夜雾黑、黑莓粉四款配色，采用新一代 C 桥支撑结构，内置 0.5mm 超细镍钛记忆钢丝，配备双耳四麦通话降噪阵列；蓝牙升级至 6.1，支持双设备无缝连接、智能入耳检测；耳机支持 IP56 防尘防水。\n\n这款耳机单次续航约 11 小时，搭配充电仓综合续航约 44 小时；获得 Hi-Res Wireless + HWA 双金标认证，支持 LDAC 高解析音频解码，支持全新杜比音效；支持 SwiftAgileTouch 迅敏",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "漫步者花再Sona Clip耳夹耳机开售，券后397.8元，支持杜比音效和44小时续航。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，产品参数具体详实，含价格、技术细节和认证信息，但缺乏原始出处引用。"
-    },
-    {
-      "title": "高通携手 Cirrascale，启动自家推理加速器 AI200 客户评估",
-      "link": "https://www.ithome.com/1/029/874.htm",
-      "pubDate": "Fri, 20 Nov 2026 05:43:03 GMT",
-      "contentSnippet": "IT之家 11 月 20 日消息，Qualcomm（高通）当地时间本月 17 日宣布，其携手 AI 私有云企业 Cirrascale，向部分客户开放 Dragonfly（飞龙）AI200 推理加速器的评估。客户可通过云环境探索其 AI 工作负载在该芯片上的表现。\n\nDragonfly AI200 是高通的第一款机架级人工智能解决方案，单卡配备 768GB LPDDR5X 内存，支持 PCIe Gen6 纵向扩展、RoCE 横向扩展。\n其每个 140kW 液冷 ORv3 机架由 56 卡组成，总内存达 43TB，提供 0.414 PB/s 内存带宽，可在单一机架中运行 10T 级超大模型的推理，",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "高通携手Cirrascale开放AI200推理加速器客户云评估",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道含具体产品参数、时间与官方宣布出处，技术细节详实"
-    },
-    {
-      "title": "China’s AI Short-Drama Boom Hits a Rights Wall and a Theater Test",
-      "link": "https://www.tmtpost.com/8212475.html",
-      "pubDate": "Fri, 20 Nov 2026 13:35:06 +0800",
-      "contentSnippet": "ByteDance’s free short-drama platform is blocking tens of thousands of titles over suspected misuse of real faces. A long-running AI fantasy series is also booking limited cinema screenings. The industry can generate episodes by the thousand; it still struggles to own its faces and its audience.",
+      "title": "中国车企在印度，工厂、股权与供应链",
+      "link": "https://www.tmtpost.com/8210571.html",
+      "pubDate": "Sat, 21 Nov 2026 13:28:15 +0800",
+      "contentSnippet": "马恒达的电动车，装着比亚迪电芯",
       "sourceName": "钛媒体",
       "sourceWeight": 82,
       "allSources": [
-        "钛媒体",
-        "量子位",
-        "少数派",
-        "InfoQ中文",
-        "Solidot"
-      ],
-      "coverageCount": 5,
-      "coverageBoost": 20,
-      "aiSummary": "字节跳动短剧平台因肖像权下架数万部AI短剧，行业面临版权与院线考验",
-      "credibilityScore": 98,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为多家知名科技媒体聚合，内容具体但缺少原始数据与官方引用，时效性存疑（多源覆盖 +20）"
-    },
-    {
-      "title": "华为星芒 OSTA O1 Pro 配置汇总：麒麟 9030S 处理器、2 亿 RYYB 主摄，今日发布",
-      "link": "https://www.ithome.com/1/029/873.htm",
-      "pubDate": "Fri, 20 Nov 2026 05:30:26 GMT",
-      "contentSnippet": "IT之家 11 月 20 日消息，博主 @数码闲聊站 今日汇总了华为星芒 OSTA O1 Pro 主要配置，新机将于今日 14:30 举行的华为鸿蒙智行享界 V8 及星芒品牌发布会正式亮相。\nIT之家附华为星芒 OSTA O1 Pro 主要配置：\n\n6.39 英寸 1.5K LTPS 直屏，16:9.5 比例，1.05mm 极窄四等边\n\n麒麟 9030S 处理器\n\n200Mp 1/1.28\" RYYB 主摄 +50Mp 3.7X RYYB 潜望长焦 + 红枫镜头\n\n7000mAh 电池 +66W 有线充 + 无线充\n\n侧边指纹，机身厚度 6.68mm / 重量 200g\n\n12GB+256GB",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "华为星芒OSTA O1 Pro配置曝光，搭载麒麟9030S与2亿像素主摄，今日发布。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "IT之家为知名科技媒体，配置信息具体，但核心来源为博主爆料，未经官方确认。"
-    },
-    {
-      "title": "亚马逊反对纽约拟议的“最后一公里”配送新规：恐终结外包模式，每单最高加 5 美元",
-      "link": "https://www.ithome.com/1/029/872.htm",
-      "pubDate": "Fri, 20 Nov 2026 05:24:02 GMT",
-      "contentSnippet": "IT之家 11 月 20 日消息，科技媒体 The Verge 今天（11 月 20 日）发布博文，报道称亚马逊通过 App 推送通知、首页横幅及订单完成页面，提醒部分美国纽约用户，称纽约市拟议的“最后一公里”配送新规恐怕让每笔订单成本最高增加 5 美元（IT之家注：现汇率约合 33.5 元人民币）。\nIT之家援引博文介绍，美国纽约拟议推行《配送保护法》（Delivery Protection Act），目前已获得纽约市长佐赫兰 · 马姆达尼（Zohran Mamdani）及多个劳工组织支持。新规要求“最后一公里”配送承包商获得纽约市许可，并由其直接雇用配送人员，不能继续以独立承包商模式运营。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "亚马逊反对纽约拟议配送新规，称每单成本或增5美元",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家援引The Verge，信息具体含法规名称、成本数据及多方立场，但缺少原始链接"
-    },
-    {
-      "title": "惠普推出 ProDesk 2 Mini G2i 商用迷你主机，基于第 3 代英特尔酷睿处理器",
-      "link": "https://www.ithome.com/1/029/871.htm",
-      "pubDate": "Fri, 20 Nov 2026 05:23:05 GMT",
-      "contentSnippet": "IT之家 11 月 20 日消息，HP（惠普）现已推出基于第 3 代英特尔酷睿处理器 \"Wildcat Lake\" 的 ProDesk 2 Mini G2i 商用迷你主机。这一型号标配 DDR5 SO-DIMM 内存插槽，也提供板载 LPDDR5X 的版本。\n\nProDesk 2 Mini G2i 三维 177×181×34.2 (mm)，质量≤1kg；拥有 1 个 M.2 2280 SSD 盘位，提供 M.2 无线网卡插槽。\n其正面提供 1 个 USB-C 10Gbps、2 个 USB-A 5Gbps、1 个二合一音频插孔；反面配备 1 个 HDMI 2.1 TMDS、1 个 Display",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "惠普推出基于第三代酷睿处理器的ProDesk 2 Mini G2i商用迷你主机",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，信息具体含规格细节，但处理器代号表述存疑且正文不完整"
-    },
-    {
-      "title": "苹果 20 周年款 iPhone 渲染图曝光：整机如一块玻璃，四曲面带来“无边框”观感",
-      "link": "https://www.ithome.com/1/029/868.htm",
-      "pubDate": "Fri, 20 Nov 2026 04:59:15 GMT",
-      "contentSnippet": "IT之家 11 月 20 日消息，YouTube 频道 AppleTrack 昨日（11 月 19 日）更新视频，分享了苹果 20 周年款 iPhone（该信源称其为 iPhone XX）的渲染图。\n\n消息源称本次渲染基于可信泄露信息制作，显示 iPhone XX 采用全玻璃工业设计、曲面显示屏、触觉按键、苹果设计的摄像头传感器以及全新的电池技术。\n\nIT之家查询公开信息，AppleTrack 由 Sam Kohl 运营，内容以汇总传闻、追踪爆料源和部分独家消息为主，会交叉验证马克 · 古尔曼、郭明錤、The Information 等信息来源，此外 MacWorld 等主流媒体也会采信 Ap",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "IT之家报道AppleTrack发布苹果20周年款iPhone XX渲染图，称基于可信泄露信息。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体转载，但核心信息源自YouTube爆料频道渲染图，非官方或权威供应链确认，属传闻性质。"
-    },
-    {
-      "title": "能让 iPhone 跑安卓 App 的虚拟机 Andarium 被苹果 App Store 火速下架",
-      "link": "https://www.ithome.com/1/029/867.htm",
-      "pubDate": "Fri, 20 Nov 2026 04:57:06 GMT",
-      "contentSnippet": "IT之家 11 月 20 日消息，一款名为“Andarium”软件日前上架苹果 App Store 平台，这是一款安卓虚拟机软件，支持在 iPhone 和 iPad 上运行 Android 应用，引发网络热议。\nAndarium 的开发者 xieyi 今日发文，表示 Andarium 已被苹果从 App Store 下架。\nxieyi 晒出的截图内容称：\n\n经过重新评估，我们发现该应用不符合应用审核指南。具体来说，我们发现该应用违反了以下规定：\n指南 2.5.2 和 1.1 一一性能一一软件要求\n我们注意到，该应用包含并非专注于受支持苹果平台体验的功能。\n具体来说，你的应用允许用户在 iOS",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家",
-        "爱范儿",
         "钛媒体"
       ],
-      "coverageCount": 3,
-      "coverageBoost": 10,
-      "aiSummary": "安卓虚拟机Andarium上架App Store后遭苹果下架",
-      "credibilityScore": 95,
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体报道中国车企在印度的工厂、股权与供应链布局，提及马恒达电动车采用比亚迪电芯。",
+      "credibilityScore": 78,
       "credibilityLevel": "high",
-      "credibilityReason": "多家知名科技媒体报道，引用开发者原文及苹果审核截图，信息具体可信（多源覆盖 +10）"
+      "credibilityReason": "来源为知名科技媒体钛媒体，内容涉及具体产业细节，但摘要信息较简略，缺少数据与原始出处支撑。"
+    },
+    {
+      "title": "全球仅此一件：马斯克到访上海工厂收到员工特制“边角料手办”，陶琳晒图",
+      "link": "https://www.ithome.com/1/030/334.htm",
+      "pubDate": "Sat, 21 Nov 2026 03:01:36 GMT",
+      "contentSnippet": "IT之家 11 月 21 日消息，特斯拉公司副总裁陶琳昨晚在微博发文称，CEO 埃隆 · 马斯克当天到访特斯拉上海超级工厂期间，收到一份由工厂员工自行设计、手工制作的“限量手办”，全球仅此一件。\n据介绍，这款作品使用特斯拉生产过程中的边角材料制成，将特斯拉车型与上海城市特色元素组合在一起。\n\n陶琳介绍称，这件手办最初只是工厂员工利用业余时间推进的创意项目，随后被作为纪念品赠送给马斯克，马斯克对其设计表示喜欢。\n\nIT之家注：所谓“边角料”，指车身冲压、内饰裁切等工序中产生的余料，并非可独立流通的原材料。\n\n此次上海之行是马斯克 24 小时中国行的一部分。他此前在深圳参加 2026 年 APEC",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "马斯克访上海工厂获员工用边角料手工制作的全球唯一手办",
+      "credibilityScore": 75,
+      "credibilityLevel": "medium",
+      "credibilityReason": "IT之家为知名科技媒体，信息源自陶琳微博，但属花絮类报道，技术含量低"
+    },
+    {
+      "title": "英国 BAE 研发“幽灵雷达”：不主动“出声”也能追踪无人机，可装进 SUV、成本低至同类 1/10",
+      "link": "https://www.ithome.com/1/030/305.htm",
+      "pubDate": "Sat, 21 Nov 2026 00:32:55 GMT",
+      "contentSnippet": "IT之家 11 月 21 日消息，科技媒体 TechRadar 今天（11 月 21 日）发布博文，报道称英国防务公司 BAE Systems 研发了一款被称为“幽灵雷达”（ghost radar）的便携式被动雷达，可以安装在常规 SUV 车型上，不主动发射信号也能追踪无人机。\n\n\nIT之家援引博文介绍，传统雷达如同在黑暗中打开探照灯，照见目标的同时，也可能暴露自身位置。而 BAE Systems 主要接收数字电视、无线电广播和移动通信网络等现有信号经目标反射后的回波，再将其转化为三维空间信息，判断目标的距离、高度、速度及航向。\n\n在部署方面，该“幽灵雷达”可以部署在普通 SUV 上，面向电站",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "英国BAE研发便携被动雷达，可装SUV追踪无人机，成本低。",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为IT之家援引TechRadar，有技术原理描述，但缺少原始出处和具体数据。"
+    },
+    {
+      "title": "约 320 亿美元债券落地：马斯克 SpaceX 为英伟达芯片“加杠杆”，收益率超 8%",
+      "link": "https://www.ithome.com/1/030/351.htm",
+      "pubDate": "Sat, 21 Nov 2026 05:42:19 GMT",
+      "contentSnippet": "IT之家 11 月 21 日消息，科技媒体 The Information 最新博文报道称，全球首富埃隆 · 马斯克（Elon Musk）旗下 SpaceX 昨日（11 月 20 日）完成约 320 亿美元（IT之家注：现汇率约合 2,141.43 亿元人民币）的债券融资，用于采购英伟达等 AI 芯片。\n报道称本次 AI 芯片债券融资由高盛、以及 Apollo 管理的 Saturn Funding Trust 发行，主要用于购置英伟达芯片。这笔债券本身是总额超过 400 亿美元（现汇率约合 2,676.79 亿元人民币）融资方案的一部分，剩余方案还包括银行贷款等。\nIT之家援引博文介绍，本次发",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "SpaceX完成约320亿美元债券融资，用于采购英伟达AI芯片，收益率超8%。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "IT之家援引The Information报道，信息具体含金额与发行方，但属二手转述且细节有限。"
+    },
+    {
+      "title": "达里奥 2010 年曾拒绝马斯克招揽，2016 年加入 OpenAI 后又出走创立 Anthropic",
+      "link": "https://www.ithome.com/1/030/350.htm",
+      "pubDate": "Sat, 21 Nov 2026 05:33:19 GMT",
+      "contentSnippet": "IT之家 11 月 21 日消息，据《华尔街日报》今日报道，Anthropic CEO 达里奥 · 阿莫代伊（Dario Amodei）早在 2010 年就曾通过熟人结识埃隆 · 马斯克并受邀参观 SpaceX 办公室。\n据称，马斯克当时还向他发出了工作邀请，但达里奥最终选择拒绝。他认为自己的专业能力更适合计算生物学，而不是火箭工程。\n达里奥当时正处于职业方向选择阶段。他曾就读于加州理工学院，随后转入斯坦福大学，并在普林斯顿大学攻读物理学博士学位，之后将研究方向转向生物学。与直接进入科技行业相比，他最初更倾向于利用科学研究推动医疗和生物技术进步。\n这次与马斯克的接触，是他从学术研究转向科技行业",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "达里奥2010年拒马斯克邀请，2016年入OpenAI后创立Anthropic",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家引述《华尔街日报》报道，人物经历具体可查，来源较权威，但细节转述为主"
+    },
+    {
+      "title": "冲刺 2027 年出海，消息称前小鹏汽车西欧及南欧董事总经理强顺强加入小米汽车",
+      "link": "https://www.ithome.com/1/030/349.htm",
+      "pubDate": "Sat, 21 Nov 2026 05:30:50 GMT",
+      "contentSnippet": "IT之家 11 月 21 日消息，据界面新闻今日报道，知情人士透露，前小鹏汽车西欧及南欧董事总经理强顺强已于今年 9 月加入小米汽车，出任国际业务部欧洲区董事总经理（Managing Director of Europe），常驻德国。截至目前，小米方面尚未对外官宣这一任命。小米公司暂未回应置评请求。\n公开履历显示，强顺强是小鹏海外营销服务体系的早期负责人之一。他毕业于清华大学汽车工程专业，职业生涯起步于丰田、奔驰中国等传统企业的品牌营销体系；加入小鹏汽车之前，他担任兰博基尼大中华区销售与网络负责人。\n2019 年，强顺强加入小鹏汽车，先参与国内网络渠道建设，2020 年起转向海外业务。小鹏当年",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "前小鹏西欧及南欧董事总经理强顺强加入小米汽车，任欧洲区董事总经理",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家援引界面新闻知情人士报道，履历详实，但小米未官宣且未回应，属未证实消息"
+    },
+    {
+      "title": "黄仁勋没有的“护身符”：Anthropic 创始人手握 50.1% 投票权建立“反夺权”机制",
+      "link": "https://www.ithome.com/1/030/348.htm",
+      "pubDate": "Sat, 21 Nov 2026 05:14:19 GMT",
+      "contentSnippet": "IT之家 11 月 21 日消息，科技媒体 Business Insider 昨日（11 月 20 日）报道，AI 公司 Anthropic 在上市后通过特殊股权设计，让包括 CEO 达里奥 · 阿莫代伊（Dario Amodei）在内的 7 位联合创始人共同掌握 50.1% 的股东投票权。\n报道指出该安排的核心是特殊的 F 类股，即使 Anthropic 公司未来继续发行普通股，创始团队的投票权比例也不会被稀释。普通投资者持有的是常规股份，而创始团队则通过 F 类股保留对公司重大决策的最终控制权。该媒体解读认为，即便外部资本大量进入，创始人仍能决定董事会构成、战略方向和关键人事安排。\nAnt",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "Anthropic上市后设F类股，7位创始人持50.1%投票权防稀释",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家转引Business Insider，股权机制描述具体，但缺官方文件佐证"
+    },
+    {
+      "title": "泡泡玛特和瑞幸，要分同一块蛋糕？",
+      "link": "https://www.tmtpost.com/8213177.html",
+      "pubDate": "Sat, 21 Nov 2026 13:05:42 +0800",
+      "contentSnippet": "网红小家电的逻辑要变了？",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体分析泡泡玛特与瑞幸跨界竞争，探讨网红小家电逻辑变化。",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体钛媒体，但标题设问式、正文摘要简略，缺少具体数据和原始出处。"
+    },
+    {
+      "title": "利润掉队，扫地茅要过紧日子",
+      "link": "https://www.tmtpost.com/8213409.html",
+      "pubDate": "Sat, 21 Nov 2026 13:05:34 +0800",
+      "contentSnippet": "还有领先吗？",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体报道扫地机器人企业利润下滑，面临经营压力",
+      "credibilityScore": 65,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体钛媒体，但正文仅一句反问，缺乏具体数据与细节支撑"
+    },
+    {
+      "title": "生死存亡时刻，老钱腾讯也“慌”了",
+      "link": "https://www.tmtpost.com/8213296.html",
+      "pubDate": "Sat, 21 Nov 2026 13:05:32 +0800",
+      "contentSnippet": "马化腾也坐不住了。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体称马化腾在腾讯生死存亡时刻也坐不住了",
+      "credibilityScore": 45,
+      "credibilityLevel": "low",
+      "credibilityReason": "标题煽动性夸张，正文仅一句无实质信息，缺乏数据与原始出处"
+    },
+    {
+      "title": "锡价一周跌超10%，全球突然不缺锡了？",
+      "link": "https://www.tmtpost.com/8213240.html",
+      "pubDate": "Sat, 21 Nov 2026 13:05:30 +0800",
+      "contentSnippet": "印尼矿业政策再添变数，产能恢复与AI需求预期分歧扰动锡价。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "印尼矿业政策变数叠加产能恢复与AI需求分歧，锡价一周跌超10%",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "钛媒体为知名科技财经媒体，标题含疑问但正文点明政策与供需因素，信息较具体，缺原始数据出处"
+    },
+    {
+      "title": "东南亚AI中间商之死",
+      "link": "https://www.tmtpost.com/8213274.html",
+      "pubDate": "Sat, 21 Nov 2026 13:05:28 +0800",
+      "contentSnippet": "算力中间商的淘金时代，结束了。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体分析东南亚算力中间商模式终结，淘金时代结束",
+      "credibilityScore": 65,
+      "credibilityLevel": "medium",
+      "credibilityReason": "知名科技媒体但正文仅一句摘要，缺乏数据、案例和原始出处，信息过于简略"
+    },
+    {
+      "title": "欧盟少了9.5亿件跨境包裹，国内卖家的长尾生意还能做吗？",
+      "link": "https://www.tmtpost.com/8213269.html",
+      "pubDate": "Sat, 21 Nov 2026 13:05:27 +0800",
+      "contentSnippet": "今年7月1日起，欧盟取消了价值不超过150欧元的进口小包裹关税豁免，对包裹内不同海关税目类别的商品分别征收3欧元临时关税。11月1日起，欧盟又增加了2欧元的海关处理费。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "欧盟取消小包裹关税豁免并加征费用，影响国内跨境卖家",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "钛媒体为知名科技媒体，政策细节具体含时间与金额，但缺少官方文件引用"
+    },
+    {
+      "title": "在泡泡玛特拆盒的人，不为谁拆",
+      "link": "https://www.tmtpost.com/8213227.html",
+      "pubDate": "Sat, 21 Nov 2026 13:05:24 +0800",
+      "contentSnippet": "逛门店的小笔记。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体发布泡泡玛特拆盒现象观察笔记，内容简略。",
+      "credibilityScore": 55,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体，但正文仅一句摘要，缺少具体事实与数据支撑。"
     }
   ]
 }

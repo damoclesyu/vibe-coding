@@ -1,31 +1,31 @@
 {
-  "generatedAt": "2026-11-20T06:28:24.788Z",
+  "generatedAt": "2026-11-21T06:19:30.969Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "APEC参会外企高管：亚太产业协同让互补红利加速释放",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-20/10735193.shtml",
-      "pubDate": "Fri, 20 Nov 2026 14:14:55 +0800",
-      "contentSnippet": "中新网深圳11月20日电(记者 宫宏宇)“亚太地区各经济体各有所长，应深化跨境投资与产业协同，将比较优势转化为区域整体竞争力，促进亚太产业发展与共同繁荣。”",
-      "sourceName": "中国新闻网",
+      "title": "波兰称两枚俄罗斯导弹击中波领土：在欧洲军演期间“蓄意挑衅”",
+      "link": "https://m.thepaper.cn/newsDetail_forward_34528112",
+      "pubDate": "Sat, 21 Nov 2026 06:06:01 GMT",
+      "contentSnippet": "波兰政府表示，11月20日，两枚俄罗斯导弹击中了该国领土。作为北约成员国，波兰指责莫斯科在数千名欧洲士兵正在举行军事演习的附近地区实施“蓄意挑衅”。\n据新华社报道，英国和法国主导的“志愿联盟”9日在波兰启动首次联合军事演习，将持续至22日，共有来自英国、法国、德国、波兰、土耳其等11个国家的约5000名军人参加，旨在加强对乌克兰的支持。\n据法新社报道，波兰当局表示，已确认一枚Kh-101导弹落在了东部村庄新利波维茨（Nowy Lipowiec）。第二枚导弹疑似击中了另一处地点，此外还有一架喷气式无人机落在了第三处地点。这些飞行物越境进入波兰之际，俄罗斯正对乌克兰发动猛烈轰炸。\n波兰总理图斯克表",
+      "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
-        "中国新闻网"
+        "澎湃新闻"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中新网报道APEC参会外企高管呼吁深化亚太产业协同与跨境投资。",
+      "aiSummary": "波兰称两枚俄导弹击中其领土，指俄在军演附近蓄意挑衅",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网属较权威媒体，有署名记者及具体时间地点，但引述单一、细节有限。"
+      "credibilityReason": "澎湃新闻转引新华社、法新社，含具体时间地点及总理表态，但导弹归属待多方核实"
     },
     {
-      "title": "（深圳APEC）海外侨胞关注APEC会议：凝聚合作共识 共促亚太繁荣",
-      "link": "https://www.chinanews.com.cn/gn/2026/11-20/10735124.shtml",
-      "pubDate": "Fri, 20 Nov 2026 13:56:50 +0800",
-      "contentSnippet": "中新社深圳11月20日电 (记者 门睿 吴侃)2026年亚太经合组织(APEC)领导人会议周受到世界瞩目。多位海外侨胞接受中新社记者连线采访时表示，APEC会议为建设亚太共同体汇聚合力，期待各方以务实合作促进共同繁荣。",
+      "title": "越南—中国西南地区发展战略对接论坛在昆明举行",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-21/10735690.shtml",
+      "pubDate": "Sat, 21 Nov 2026 13:13:52 +0800",
+      "contentSnippet": "中新网昆明11月21日电 (记者 陈静)越南—中国西南地区发展战略对接论坛20日在昆明举行，越共中央总书记、国家主席苏林出席论坛并作主旨讲话，全国政协副主席王勇出席并讲话。中越570余家企业参会，开展对接活动。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -33,67 +33,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "海外侨胞关注深圳APEC会议，期待务实合作促进亚太繁荣。",
-      "credibilityScore": 82,
+      "aiSummary": "越南—中国西南地区发展战略对接论坛在昆明举行，中越570余家企业参会。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "中新社为权威通讯社，有署名记者和具体时间地点，引述侨胞观点，属官方报道。"
+      "credibilityReason": "来源为中国新闻网，属权威媒体；信息具体（时间、地点、人物、数据），有记者署名，用词客观。"
     },
     {
-      "title": "（深圳APEC）烟火气和安全感，是深圳最高级的“素颜”",
-      "link": "https://www.chinanews.com.cn/gn/2026/11-20/10735182.shtml",
-      "pubDate": "Fri, 20 Nov 2026 13:55:19 +0800",
-      "contentSnippet": "中新社深圳11月19日电 题：烟火气和安全感，是深圳最高级的“素颜”",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
+      "title": "APEC晚宴有豉油清蒸星斑 大厨称提前一个月开始准备",
+      "link": "https://www.zaobao.com.sg/news/china/story20261121-10035159",
+      "pubDate": "Sat, 21 Nov 2026 05:12:00 GMT",
+      "contentSnippet": "深圳亚太经济合作组织（APEC）欢迎晚宴菜单曝光，主要负责豉油清蒸星斑的大厨称，为了这场晚宴，提前一个月开始准备并反复演练。\n中国南方都市报社旗下“深圳大件事”微信公众号报道，参与APEC国宴餐饮保障的首批15名广东顺德厨师星期五（11月20日）返回家乡。\n据其中一名厨师、大厨邱岳伟介绍，参与国宴餐饮保障的团队，每个团队负责一道菜，他的团队主要负责“豉油清蒸星斑”，提前一个月就开始准备了。\n邱岳伟说：“这一个月来，我们就是每日每夜，都是在演练，都是以18日那场晚宴（的标准）去做，按照430位（的规模），反复演练，包括味道，反复尝试，所以说18日才能体现出鱼的味道和造型。”\n广东佛山市政府新闻办",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
       "allSources": [
-        "中国新闻网"
+        "联合早报·中港台"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中新社报道深圳APEC期间城市烟火气与安全感，展现城市风貌。",
+      "aiSummary": "深圳APEC欢迎晚宴菜单曝光，顺德大厨称提前一月演练豉油清蒸星斑。",
       "credibilityScore": 78,
-      "credibilityLevel": "medium-high",
-      "credibilityReason": "来源为中新社较权威，但正文仅标题式摘要，缺乏具体细节与引述，信息不完整。"
-    },
-    {
-      "title": "（深圳APEC）习近平会见澳大利亚总理阿尔巴尼斯",
-      "link": "https://www.chinanews.com.cn/gn/2026/11-20/10735166.shtml",
-      "pubDate": "Fri, 20 Nov 2026 13:54:35 +0800",
-      "contentSnippet": "中新社深圳11月20日电 11月20日上午，中国国家主席习近平在深圳会见来华出席亚太经合组织领导人非正式会议的澳大利亚总理阿尔巴尼斯。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "习近平在深圳APEC期间会见澳大利亚总理阿尔巴尼斯。",
-      "credibilityScore": 92,
       "credibilityLevel": "high",
-      "credibilityReason": "中新社为权威通讯社，信息含具体时间地点人物，表述客观中性。"
+      "credibilityReason": "联合早报为知名媒体，引述南都旗下公众号及大厨直接引述，细节具体，但原始出处为自媒体，权威性稍弱。"
     },
     {
-      "title": "（深圳APEC）习近平会见印度尼西亚总统普拉博沃",
-      "link": "https://www.chinanews.com.cn/gn/2026/11-20/10735167.shtml",
-      "pubDate": "Fri, 20 Nov 2026 13:51:11 +0800",
-      "contentSnippet": "中新社深圳11月20日电 11月20日上午，中国国家主席习近平在深圳会见来华出席亚太经合组织领导人非正式会议的印度尼西亚总统普拉博沃，两国元首共同宣布启动两国全面经济伙伴关系协定谈判。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "习近平在深圳会见印尼总统普拉博沃，宣布启动全面经济伙伴关系协定谈判。",
-      "credibilityScore": 92,
-      "credibilityLevel": "high",
-      "credibilityReason": "中新社为权威通讯社，信息含具体时间地点人物，内容可交叉验证。"
-    },
-    {
-      "title": "第一观察·瞬间丨中俄美三国最高领导人有史以来首次聚首",
-      "link": "https://h.xinhuaxmt.com/vh512/share/13383234?newstype=1001&homeshow=1",
-      "pubDate": "Fri, 20 Nov 2026 05:40:45 GMT",
-      "contentSnippet": "第一观察·瞬间丨中俄美三国最高领导人有史以来首次聚首",
+      "title": "时政微纪录丨习主席的深圳APEC时间 第二集 和平之约",
+      "link": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=6405939818252832476&toc_style_id=feeds_default&track_id=783347B7-C82F-4470-899A-62E0AC821FFC_816837218753&share_to=copy_url",
+      "pubDate": "Sat, 21 Nov 2026 04:53:26 GMT",
+      "contentSnippet": "",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -101,16 +67,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "澎湃新闻称中俄美三国最高领导人首次聚首，但正文无具体细节。",
-      "credibilityScore": 35,
-      "credibilityLevel": "low",
-      "credibilityReason": "标题重大但正文仅重复标题，无时间地点人物等细节，无法核实，可信度低。"
+      "aiSummary": "澎湃新闻发布习主席深圳APEC时政微纪录第二集，正文内容缺失。",
+      "credibilityScore": 55,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名媒体澎湃新闻，但正文摘要为空，无法核实具体信息，且发布时间与事件不符。"
     },
     {
-      "title": "APEC“全家福”围巾 大有门道",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-20/10735180.shtml",
-      "pubDate": "Fri, 20 Nov 2026 13:38:45 +0800",
-      "contentSnippet": "11月19日，亚太经合组织第三十三次领导人非正式会议在深圳国际交流中心举行。与会各经济体领导人及代表戴着浓郁中国特色的围巾，共同拍下一张宝贵的亚太大家庭“全家福”。",
+      "title": "俄外交部：元首外交在俄中关系中发挥特殊引领作用",
+      "link": "https://m.thepaper.cn/newsDetail_forward_34527759",
+      "pubDate": "Sat, 21 Nov 2026 04:43:33 GMT",
+      "contentSnippet": "俄罗斯外交部发言人扎哈罗娃20日在莫斯科表示，元首外交在推动俄中关系发展中发挥特殊引领作用。\n扎哈罗娃当天在例行记者会上回答新华社记者提问时说，俄中元首在深圳的会晤再次印证两国战略协作伙伴关系的互信特质与高水平。在当前全球地缘政治形势持续演变的大背景下，本次会晤意义尤为重大。\n扎哈罗娃表示，俄罗斯总统普京今年两次到访中国，充分体现了两国高层政治对话的特殊性。俄方高度珍视两国领导人之间的良好工作关系，两国领导人达成的共识不仅对深化双边协作至关重要，也有助于解决复杂的国际问题。可以说，俄中战略协作发挥着维护亚太地区和全球稳定的重要作用。\n扎哈罗娃说，今年是《俄中睦邻友好合作条约》签署25周年。25",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "俄外交部发言人扎哈罗娃称元首外交引领俄中关系发展",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "澎湃新闻转载新华社采访，有直接引述和具体人物场合，内容可查证"
+    },
+    {
+      "title": "最高检发布指导性案例 依法严惩性侵害未成年人犯罪",
+      "link": "https://www.chinanews.com.cn/fz/2026/11-21/10735665.shtml",
+      "pubDate": "Sat, 21 Nov 2026 12:36:38 +0800",
+      "contentSnippet": "中新网11月21日电 据最高人民检察院微信公众号消息，最高人民检察院日前以“性侵害未成年人犯罪抗诉”为主题发布第六十四批指导性案例，为全国检察机关依法精准履行抗诉职能、从严惩处性侵害未成年人犯罪提供办案指引。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -118,16 +101,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "APEC深圳会议领导人佩戴中国特色围巾拍摄合影。",
-      "credibilityScore": 82,
+      "aiSummary": "最高检发布第六十四批指导性案例，严惩性侵害未成年人犯罪。",
+      "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，属较权威媒体；时间地点明确，内容具体可查证。"
+      "credibilityReason": "来源为中新网转引最高检官方公众号，信息具体可查证，用词客观。"
     },
     {
-      "title": "特朗普评价美中俄元首会晤：若满分为10分会打12分",
-      "link": "https://www.zaobao.com/news/china/story20261120-10029699",
-      "pubDate": "Fri, 20 Nov 2026 05:33:00 GMT",
-      "contentSnippet": "中美俄三国元首举行会晤后，美国总统特朗普称，峰会进行得非常顺利，并说如果满分为10分，他会打12分。\n据路透社报道，特朗普告诉美国广播公司（NBC），通过此次会晤，建立了非常棒的联系，并说：“如果按0到10分来打分，我觉得能打12分。”\n三位核武大国领导人趁出席亚太经济合作组织（APEC）会议之便，星期四（11月19日）在深圳麒麟山庄举行历时约90分钟的历史性会晤。这是三国最高领导人首次举行三国会唔。\n三国会后也发表史无前例的和平宣言。宣言涵盖四项内容：一是推动联合国改革以应对全球挑战；二是增加精炼石油产品生产和供应，维护能源稳定；三是强调国家同意原则和国家官员豁免，反对国际刑事法院及类似机构",
+      "title": "中国人大常委会副委员长访毛里求斯：愿拓展经贸领域务实合作",
+      "link": "https://www.zaobao.com.sg/news/china/story20261121-10034892",
+      "pubDate": "Sat, 21 Nov 2026 04:32:00 GMT",
+      "contentSnippet": "中国全国人大常委会副委员长肖捷本周率团访问毛里求斯，并强调中国愿同毛里求斯一道，深化政治互信，拓展经贸、文化等多领域务实合作。\n据新华社报道，应毛里求斯国民议会邀请，肖捷星期三至五（11月18日至20日）率团访问毛里求斯，分别会见毛里求斯总统戈库尔、总理拉姆古兰、国民议会议长奇夫拉、非盟经社文理事会主席西索科等，与毛里求斯副总统洪利共同出席中非民间对话开幕式。肖捷也是中国民间组织国际交流促进会会长。\n肖捷说，中毛传统友谊深厚，在两国领导人战略引领下，双边关系长期稳定发展。中国愿同毛里求斯一道，深化政治互信，密切立法机构、政党、民间等多层次交往交流，拓展经贸、文化等多领域务实合作，推动中毛、中非",
       "sourceName": "联合早报·中港台",
       "sourceWeight": 80,
       "allSources": [
@@ -135,16 +118,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "特朗普评价中美俄元首深圳会晤，称若满分10分会打12分。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "联合早报转引路透社及NBC，有直接引述，但会晤细节及和平宣言内容异常，需交叉验证。"
+      "aiSummary": "中国人大常委会副委员长肖捷访毛里求斯，表示愿拓展经贸等领域合作",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "联合早报转引新华社报道，时间地点人物具体，有直接引述，内容可查证"
     },
     {
-      "title": "今年以来广州白云机场口岸APEC外籍旅客占入出境六成",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-20/10735168.shtml",
-      "pubDate": "Fri, 20 Nov 2026 13:25:50 +0800",
-      "contentSnippet": "中新社广州11月20日电 (方伟彬 林圣敏)截至11月20日，今年经广州白云机场口岸入出境的亚太经合组织(APEC)成员经济体外籍旅客已超435万人次，同比增长33.8%，占该口岸入出境外籍旅客总量的61.2%。",
+      "title": "台胞陶艺家：一脉窑火烧紫砂 手捏陶土牵两岸",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-21/10735684.shtml",
+      "pubDate": "Sat, 21 Nov 2026 12:26:33 +0800",
+      "contentSnippet": "中新社福州11月21日电 题：台胞陶艺家：一脉窑火烧紫砂  手捏陶土牵两岸",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -152,84 +135,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "今年经广州白云机场口岸入出境的APEC外籍旅客超435万人次，占外籍旅客总量六成。",
-      "credibilityScore": 88,
+      "aiSummary": "中新社报道台胞陶艺家以紫砂陶艺联结两岸的文化故事。",
+      "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "中新社为权威通讯社，数据具体（435万、33.8%、61.2%），有记者署名，表述客观。"
+      "credibilityReason": "来源为一线通讯社中新社，有具体时间地点，属正面文化报道，内容可查证。"
     },
     {
-      "title": "新华图讯丨习近平会见新加坡总理黄循财",
-      "link": "https://www.chinanews.com.cn/gn/2026/11-20/10735160.shtml",
-      "pubDate": "Fri, 20 Nov 2026 13:25:40 +0800",
-      "contentSnippet": "11月20日，国家主席习近平在深圳会见新加坡总理黄循财。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "习近平在深圳会见新加坡总理黄循财，新华社发布图片报道。",
-      "credibilityScore": 92,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为新华社通稿转载，时间地点人物具体，属官方权威发布。"
-    },
-    {
-      "title": "环球时报快评：高市是时候收回“台湾有事就是日本有事”错误言论了",
-      "link": "https://m.thepaper.cn/newsDetail_forward_34518683",
-      "pubDate": "Fri, 20 Nov 2026 04:47:42 GMT",
-      "contentSnippet": "11月19日，日本首相高市早苗在深圳出席APEC领导人非正式会议后举行记者会，重申日本在台湾问题上的基本立场与1972年《日中联合声明》一致，强调“这一立场绝对没有任何改变”。她同时表示，中国是日本重要邻国，日中四份政治文件作为两国关系基础的定位没有变化，愿通过对话全面推进战略互惠关系，构建建设性、稳定的日中关系。然而，对于一年前“台湾有事就是日本有事”的错误言论，高市仍然躲躲闪闪，以“不便回答假设性问题”为由回避作答。\n《中日联合声明》的核心要义白纸黑字：日本政府承认中华人民共和国政府是中国的唯一合法政府，充分理解和尊重中国政府关于台湾是中国领土一部分的立场，并坚持遵循《波茨坦公告》第八条的",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "环球时报快评批高市早苗回避涉台错误言论，要求其收回。",
-      "credibilityScore": 65,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为澎湃转载环球时报评论，属官方媒体但带明显立场，事实细节可查但缺乏独立交叉验证。"
-    },
-    {
-      "title": "国内政治动荡与选举失利 特朗普借亚洲之行寻求外交突破",
-      "link": "https://www.zaobao.com/news/world/story20261120-10029766",
-      "pubDate": "Fri, 20 Nov 2026 04:31:36 GMT",
-      "contentSnippet": "在共和党于美国中期选举中遭遇重挫后，美国总统特朗普近期展开了为期三天的亚洲之行。《华尔街日报》报道指出，由于已无连任竞选压力且任期仅剩两年多，加之在华盛顿的影响力逐渐减弱，特朗普正试图通过在海外达成前任们未能实现的外交突破，借此巩固政治遗产。\n在中期选举后的首次外访中，特朗普在亚洲受到了高规格的仪式接待。在首站菲律宾马尼拉，他受到了行进乐队演奏他竞选标志性歌曲YMCA的欢迎。随后，中国国家主席习近平亲自前往深圳机场迎接，现场举行了军机编队飞行表演并再次奏响YMCA。 \n此外，特朗普还出席了亚太领导人宴会，并成为唯一在红毯仪式上驻足供媒体拍照的领导人。他在接受福克斯新闻采访时对这些隆重礼遇大加赞",
-      "sourceName": "联合早报·国际",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·国际"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "美中期选举后特朗普展开亚洲行，寻求外交突破以巩固政治遗产。",
-      "credibilityScore": 72,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报，引述华尔街日报及福克斯新闻，细节具体但部分场景描述略显异常，需交叉验证。"
-    },
-    {
-      "title": "经纬度｜锚定品质化消费需求，培育银发经济新增长点",
-      "link": "https://m.thepaper.cn/newsDetail_forward_34517959",
-      "pubDate": "Fri, 20 Nov 2026 03:41:02 GMT",
-      "contentSnippet": "3.23亿，占我国总人口的23.0%；2.24亿，占我国总人口的15.9%。这是截至2025年末，我国60周岁及以上、65周岁及以上的老年人口数量。\n近日，全国老龄工作会议在北京召开。习近平总书记对老龄工作作出重要指示，强调要深入实施积极应对人口老龄化国家战略，努力让老年人的生活更加幸福美满。李强总理在讲话中指出，要围绕老年人品质化消费需求，大力发展银发经济。\n银发经济一头连着老年人日益增长的美好生活需要，一头连着不断扩展的消费市场。\n随着我国人口结构变化和消费观念更新，老年群体的消费需求正加速从“生存型”向“品质型”转化。顺应这一变化，做强做优银发经济，既是增进民生福祉、在“老有所为”中实现",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "全国老龄工作会议召开，强调发展银发经济满足老年人品质化消费需求。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为澎湃新闻，引述官方会议及领导人指示，数据具体，内容客观可查证。"
-    },
-    {
-      "title": "路透：美国新规生效 台积电限制中国大陆客户使用先进制程",
-      "link": "https://www.zaobao.com/news/china/story20261120-10029174",
-      "pubDate": "Fri, 20 Nov 2026 03:03:19 GMT",
-      "contentSnippet": "知情人士透露，台湾晶圆代工厂台积电正收紧对中国大陆晶片设计公司的限制，暂停部分此前获准的先进制程订单，并普遍要求受影响客户只能使用较旧的晶片制造技术。\n路透社星期四（11月19日）引述消息报道，台积电已指示暂停受影响的16纳米及以下制程订单，除非客户取得美国出口许可证。\n报道称，此举可能进一步压缩中国大陆企业生产高性能人工智能（AI）处理器的渠道，使北京研发先进晶片国产替代品的努力面临更大阻力。\n根据两名知情人士查阅的台积电指引，中国晶片设计公司一般上只能使用较旧的28纳米和40纳米制程，前提是其晶片不使用高带宽内存（HBM），也不需要先进封装技术。\n大多数领先的AI晶片采用7纳米或更小的制程",
+      "title": "苏林就任越共中央总书记、国家主席后首访云南",
+      "link": "https://www.zaobao.com.sg/news/china/story20261121-10035053",
+      "pubDate": "Sat, 21 Nov 2026 04:13:06 GMT",
+      "contentSnippet": "在结束于深圳举行的亚太经济合作组织（APEC）峰会行程后，越共中央总书记、国家主席苏林和夫人星期四至星期五（11月19日至20日）到访云南。\n据中新社报道，这是苏林就任越共中央总书记、国家主席后首次访问云南。\n苏林一行星期四下午飞抵昆明后，即前往昆明胡志明旧居参观，向胡志明雕像献花，并捐赠胡志明铜像，了解胡志明在云南开展革命活动情况，重温越中深厚历史情谊。\n据“云南发布”微信公号消息，中共云南省委书记莫高义、中共云南省委副书记、代省长刘奇凡星期四与苏林一行会面。\n莫高义说，苏林在APEC会后率团到云南参访，充分体现对深化越南与云南合作的高度重视。他提到，云南高度珍惜革命年代中越同志结下的深厚情",
       "sourceName": "联合早报·中港台",
       "sourceWeight": 80,
       "allSources": [
@@ -237,16 +152,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "路透社报道台积电收紧对大陆客户先进制程限制，16纳米及以下需美许可证。",
+      "aiSummary": "越共总书记苏林APEC峰会后首访云南，参观胡志明旧居并会见云南省领导。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为路透社引述知情人士，信息具体含制程细节，联合早报转载，但依赖匿名消息源。"
+      "credibilityReason": "联合早报为知名媒体，引述中新社及云南官方消息，时间地点人物具体，可交叉验证。"
     },
     {
-      "title": "特朗普：亚洲行日程太满未能见金正恩 未来仍会促成会谈",
-      "link": "https://www.zaobao.com/news/world/story20261120-10029013",
-      "pubDate": "Fri, 20 Nov 2026 02:43:43 GMT",
-      "contentSnippet": "美国总统特朗普周四乘专机返回华盛顿途中，接受美国全国广播公司（NBC）采访时指出，由于行程过于繁忙，他此次未能与朝鲜领导人金正恩会面，但未来仍将继续推动美朝首脑会谈成行。 \n特朗普星期四（11月19日）在采访中提到，尽管他在亚洲行期间曾多次释放有意举行双边会晤的信号，但最终因日程安排密集而未能实现。\n他对记者说：“我们之间保持着良好的关系，但这次没有见面。会议实在太多了，这次确实安排不开，但我们总有一天会举行这场会谈。” \n此次亚洲之行，特朗普先是在菲律宾出席了亚细安（ASEAN）峰会，随后前往中国深圳参加亚太经合组织（APEC）领导人非正式会议。在深圳期间，特朗普还在峰会间隙与中国国家主席习",
+      "title": "部分核心议题未达共识 COP31进入加时阶段",
+      "link": "https://www.zaobao.com.sg/news/world/story20261121-10034748",
+      "pubDate": "Sat, 21 Nov 2026 03:56:08 GMT",
+      "contentSnippet": "由于与会各方未能就部分核心议题达成一致，第31届联合国气候变化大会进入加时阶段。\n新华社报道，第31届联合国大会（COP31）原定星期五（11月20日）闭幕，但各方未能就部分核心议题达成共识，因此会议当晚进入加时阶段。\nCOP31谈判主席鲍恩（Chris Bowen）当天早些时候在一场记者会上说，联合国气候变化大会由《联合国气候变化框架公约》缔约方主导、以协商一致为原则，“我们正引导各方凝聚共识，并且会继续这么做，这一点非常明确”。\n鲍恩指出，全世界都在观望多边主义是否能够有所作为，“我相信它可以”。\n他也强调，虽然各方立场分歧明显，但仍保有善意和促成共识的意愿，大家都在埋头推进、全力以赴。",
       "sourceName": "联合早报·国际",
       "sourceWeight": 80,
       "allSources": [
@@ -254,10 +169,95 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "特朗普称亚洲行日程过满未与金正恩会面，未来仍将推动美朝会谈",
+      "aiSummary": "COP31因核心议题未达共识进入加时阶段，主席称各方仍具善意。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "联合早报转载新华社报道，含直接引述与具体人名，事实可查证。"
+    },
+    {
+      "title": "2026年青年企业家创新发展大会在北京召开 伊利集团董事长兼总裁潘刚出席会议并作主旨演讲",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-21/10735678.shtml",
+      "pubDate": "Sat, 21 Nov 2026 11:51:11 +0800",
+      "contentSnippet": "11月15日，由中国青年企业家协会主办的2026年青年企业家创新发展大会在北京顺义召开。会议以“聚势新质生产力，赋能青年企业家”为主题，深入学习宣传贯彻党的二十届五中全会精神，引导青年企业家以创新发展服务经济社会高质量发展。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "2026年青年企业家创新发展大会11月15日在北京顺义召开，伊利潘刚出席演讲。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，属较权威媒体；时间地点人物具体，内容可查证，用词客观。"
+    },
+    {
+      "title": "伊朗称仍愿与美达成协议 特朗普称协议条件难接受",
+      "link": "https://www.zaobao.com.sg/news/world/story20261121-10034523",
+      "pubDate": "Sat, 21 Nov 2026 02:10:04 GMT",
+      "contentSnippet": "伊朗外交部长阿拉格齐说，德黑兰依然希望通过外交途径结束与美国的战争。美国总统特朗普则说，伊朗想达成协议，但不想达成他能接受的协议。\n综合路透社和新华社报道，阿拉格齐星期五（11月20日）接受伊朗官方媒体《伊朗报》（Iran Newspaper）采访时说，德黑兰与华盛顿之间仍在通过调解方沟通；伊朗方面正寻求“一项能确保不再发生战争的协议”。\n他还表明，在进一步推进谈判之前，伊朗需要华盛顿提供保证，证明美方在谈判问题上是认真的。他补充说，伊朗已与调解方讨论建立信任措施的形式与性质。\n2月底爆发的伊朗战事导致航运受阻、全球能源价格上涨，并波及多个波斯湾国家。尽管谈判进展缓慢，各方仍继续推动外交努力，",
+      "sourceName": "联合早报·国际",
+      "sourceWeight": 80,
+      "allSources": [
+        "联合早报·国际"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "伊朗外长称仍愿通过外交途径结束战争，特朗普称协议条件难接受",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "联合早报综合路透社和新华社报道，含直接引述，事实具体可查证"
+    },
+    {
+      "title": "助理被指涉抹黄 蓝营新竹县长候选人徐欣莹疑事先写好剧本",
+      "link": "https://www.zaobao.com.sg/news/china/story20261121-10034630",
+      "pubDate": "Sat, 21 Nov 2026 02:01:39 GMT",
+      "contentSnippet": "台湾“九合一”地方选举进入白热化阶段，在助理被警方带走后，国民党新竹县长参选人徐欣莹星期五（11月20日）晚到新竹地检署外静坐绝食抗议，截至星期六（11月21日）已持续11小时。徐欣莹昨晚还质疑助理仍在接受侦讯，民进党新竹县长候选人曾圣凯就发新闻稿指她的助理涉嫌抹黄。\n上述事件发生后，国民党主席郑丽文星期五晚在脸书发文力挺徐欣莹。\n郑丽文写道，声援徐欣莹，司法必须公正，绝不能沦为政治工具。\n她说，选举只剩最后八天，徐欣莹的助理却突然遭到检警侦讯，令人高度关切。“我支持徐欣莹捍卫司法公正的诉求，也心疼她为了表达抗议，不惜宣布绝食”。\n郑丽文指出，司法应该追求真相，而不是制造寒蝉效应；检调必须说清",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
+      "allSources": [
+        "联合早报·中港台"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "台湾新竹县长参选人徐欣莹助理被带走，徐静坐绝食抗议，蓝营质疑司法不公。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "联合早报为较权威媒体，引述NBC采访及直接引语，信息具体可查证，但单一来源未交叉验证"
+      "credibilityReason": "来源为联合早报，属较权威媒体；事件细节具体，有直接引述，但单一来源，部分细节待核实。"
+    },
+    {
+      "title": "特朗普称应仅向中国卖较旧晶片",
+      "link": "https://www.zaobao.com.sg/news/china/story20261121-10034541",
+      "pubDate": "Sat, 21 Nov 2026 01:24:38 GMT",
+      "contentSnippet": "美国总统特朗普星期五（11月20日）称，美国希望仅向中国出售较旧型号的晶片，并说他的政府正与中国就一项协议进行商讨，但未提供更多细节。\n据路透社报道，特朗普结束亚洲之行后，在新闻发布会上说：“我们希望看到的是只有较旧型号的晶片，即便不卖给他们也没关系。但必须是较旧型号的。你得明白，中国也能生产晶片，如果我们不卖给他们，他们就会自己制造。”\n在这之前，特朗普回应关于在与中国国家主席习近平会晤后，是否考虑放宽针对中国的晶片出口禁令的提问时说：“我们正与中国商讨一项非常全面的协议。”\n在此次亚洲之行前，特朗普政府在星期一（16日）说，将进一步限制中国获取英伟达等公司所生产的先进人工智能（AI）晶片。",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
+      "allSources": [
+        "联合早报·中港台"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "特朗普称美仅向中国出售较旧型号晶片，正与中方商讨协议。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "联合早报转引路透社，含直接引述与具体时间，事实可查证。"
+    },
+    {
+      "title": "李强：中国愿与澳洲共同努力排除对正常经贸的干扰",
+      "link": "https://www.zaobao.com.sg/news/china/story20261121-10034468",
+      "pubDate": "Sat, 21 Nov 2026 00:50:28 GMT",
+      "contentSnippet": "中国总理李强在第九届中澳工商界首席执行官圆桌会上说，中国愿与澳洲共同努力排除对正常经贸的干扰，为两国企业合作提供良好环境和稳定预期。\n据中国外交部官网消息，李强星期五（11月20日）下午在北京钓鱼台国宾馆同澳大利亚总理阿尔巴尼斯举行第十一轮中澳总理年度会晤，并共同发表中澳总理年度会晤联合成果声明。\n当晚，李强在钓鱼台国宾馆同阿尔巴尼斯共同出席第九届中澳工商界首席执行官圆桌会。近30位中澳商会和企业负责人出席。\n\n              \n中国国务院总理李强（右五）星期五（11月20日）晚在北京钓鱼台国宾馆同澳大利亚总理阿尔巴尼斯（左五）共同出席第九届中澳工商界首席执行官圆桌会。（新华社）",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
+      "allSources": [
+        "联合早报·中港台"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "李强与阿尔巴尼斯会晤，称愿与澳排除正常经贸干扰",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "联合早报报道，引述中国外交部官网及新华社图片，时间地点人物具体，可交叉验证"
     }
   ]
 }
