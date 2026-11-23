@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-21T06:19:30.969Z",
+  "generatedAt": "2026-11-23T06:39:21.407Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "波兰称两枚俄罗斯导弹击中波领土：在欧洲军演期间“蓄意挑衅”",
-      "link": "https://m.thepaper.cn/newsDetail_forward_34528112",
-      "pubDate": "Sat, 21 Nov 2026 06:06:01 GMT",
-      "contentSnippet": "波兰政府表示，11月20日，两枚俄罗斯导弹击中了该国领土。作为北约成员国，波兰指责莫斯科在数千名欧洲士兵正在举行军事演习的附近地区实施“蓄意挑衅”。\n据新华社报道，英国和法国主导的“志愿联盟”9日在波兰启动首次联合军事演习，将持续至22日，共有来自英国、法国、德国、波兰、土耳其等11个国家的约5000名军人参加，旨在加强对乌克兰的支持。\n据法新社报道，波兰当局表示，已确认一枚Kh-101导弹落在了东部村庄新利波维茨（Nowy Lipowiec）。第二枚导弹疑似击中了另一处地点，此外还有一架喷气式无人机落在了第三处地点。这些飞行物越境进入波兰之际，俄罗斯正对乌克兰发动猛烈轰炸。\n波兰总理图斯克表",
+      "title": "一周图片｜神舟二十四号将于近日择机发射，迎首位外籍航天员",
+      "link": "https://m.thepaper.cn/newsDetail_forward_34533574",
+      "pubDate": "Mon, 23 Nov 2026 06:13:12 GMT",
+      "contentSnippet": "一周国内\n神舟二十四号近日择机发射，将迎首位外籍航天员\n\n2026年11月17日，神舟二十四号载人飞船与长征二号F遥二十四运载火箭组合体已转运至发射区。 视觉中国 图\n\n\n神舟二十四号载人飞船与长征二号F遥二十四运载火箭组合体已于11月17日转运至酒泉卫星发射中心发射区，11月21日完成发射场区全系统合练，计划近日择机实施发射。本次任务将搭载1名巴基斯坦航天员以载荷专家身份执行短期在轨飞行，系中国载人航天工程历史上首次中外航天员联合飞行，航天员系统已配套中英文双语操作手册及清真航天食品保障。目前发射场设施设备状态良好，针对初冬低温天气已采取箭体保温与塔架温控措施。\nAPEC工商领导人峰会闭幕，",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -16,16 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "波兰称两枚俄导弹击中其领土，指俄在军演附近蓄意挑衅",
-      "credibilityScore": 75,
+      "aiSummary": "神舟二十四号近日择机发射，将首次搭载巴基斯坦航天员联合飞行。",
+      "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻转引新华社、法新社，含具体时间地点及总理表态，但导弹归属待多方核实"
+      "credibilityReason": "澎湃新闻为国内较权威媒体，信息具体含时间地点数据，但外籍航天员细节需官方确认。"
     },
     {
-      "title": "越南—中国西南地区发展战略对接论坛在昆明举行",
-      "link": "https://www.chinanews.com.cn/gn/2026/11-21/10735690.shtml",
-      "pubDate": "Sat, 21 Nov 2026 13:13:52 +0800",
-      "contentSnippet": "中新网昆明11月21日电 (记者 陈静)越南—中国西南地区发展战略对接论坛20日在昆明举行，越共中央总书记、国家主席苏林出席论坛并作主旨讲话，全国政协副主席王勇出席并讲话。中越570余家企业参会，开展对接活动。",
+      "title": "中国证券金紫荆奖等19个奖项获奖名单在港公布",
+      "link": "https://www.chinanews.com.cn/dwq/2026/11-23/10736406.shtml",
+      "pubDate": "Mon, 23 Nov 2026 14:12:04 +0800",
+      "contentSnippet": "中新网香港11月23日电 (记者 邱兆翔)由香港大公文汇传媒集团主办的第十六届香港国际金融论坛暨第七届领航“9+2”粤港澳大湾区发展论坛23日在香港开幕。连续两日的论坛以“聚力创新发展 深化区域合作 共绘‘十五五’发展蓝图”为主题。中国证券金紫荆奖与领航“9+2”粤港澳大湾区年度评选的获奖名单亦于当日公布。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -33,16 +33,118 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "越南—中国西南地区发展战略对接论坛在昆明举行，中越570余家企业参会。",
+      "aiSummary": "第十六届香港国际金融论坛在港开幕，公布金紫荆奖等19个奖项名单。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，属权威媒体；信息具体（时间、地点、人物、数据），有记者署名，用词客观。"
+      "credibilityReason": "来源为中国新闻网，属权威媒体，信息具体含时间地点主办方，用词客观。"
     },
     {
-      "title": "APEC晚宴有豉油清蒸星斑 大厨称提前一个月开始准备",
-      "link": "https://www.zaobao.com.sg/news/china/story20261121-10035159",
-      "pubDate": "Sat, 21 Nov 2026 05:12:00 GMT",
-      "contentSnippet": "深圳亚太经济合作组织（APEC）欢迎晚宴菜单曝光，主要负责豉油清蒸星斑的大厨称，为了这场晚宴，提前一个月开始准备并反复演练。\n中国南方都市报社旗下“深圳大件事”微信公众号报道，参与APEC国宴餐饮保障的首批15名广东顺德厨师星期五（11月20日）返回家乡。\n据其中一名厨师、大厨邱岳伟介绍，参与国宴餐饮保障的团队，每个团队负责一道菜，他的团队主要负责“豉油清蒸星斑”，提前一个月就开始准备了。\n邱岳伟说：“这一个月来，我们就是每日每夜，都是在演练，都是以18日那场晚宴（的标准）去做，按照430位（的规模），反复演练，包括味道，反复尝试，所以说18日才能体现出鱼的味道和造型。”\n广东佛山市政府新闻办",
+      "title": "呼伦贝尔推动冬季文旅与绿色农畜产品对接粤港澳大湾区市场",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-23/10736397.shtml",
+      "pubDate": "Mon, 23 Nov 2026 14:08:24 +0800",
+      "contentSnippet": "中新网广州11月23日电 (记者 程景伟)“粤过山海 呼约雪原”2026呼伦贝尔冬季文旅与绿色农畜产品粤港澳大湾区推介会22日在广州举办。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "呼伦贝尔在广州举办冬季文旅与绿色农畜产品大湾区推介会",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "中新网为权威媒体，记者署名，时间地点明确，内容具体可查证"
+    },
+    {
+      "title": "从柬埔寨稻田到中国餐桌：一粒香米的“跨国旅程”",
+      "link": "https://www.chinanews.com.cn/aseaninfo/2026/11-23/10736392.shtml",
+      "pubDate": "Mon, 23 Nov 2026 14:06:15 +0800",
+      "contentSnippet": "【东盟专线】从柬埔寨稻田到中国餐桌：一粒香米的“跨国旅程”",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中新网报道柬埔寨香米从稻田到中国餐桌的跨国供应链过程。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，属较权威媒体；内容为具体专题报道，但摘要信息有限，缺少直接引述细节。"
+    },
+    {
+      "title": "“欧美—中国（川渝）—东盟”跨境游精品线路在重庆发布",
+      "link": "https://www.chinanews.com.cn/aseaninfo/2026/11-23/10736390.shtml",
+      "pubDate": "Mon, 23 Nov 2026 14:04:13 +0800",
+      "contentSnippet": "【东盟专线】“欧美—中国(川渝)—东盟”跨境游精品线路在重庆发布",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "重庆发布连接欧美、川渝与东盟的跨境旅游精品线路。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，属较权威媒体；信息具体，有明确发布地点和主题，但正文细节有限。"
+    },
+    {
+      "title": "全球前瞻｜瑞士外长本周访华，西班牙提前大选极右翼“入阁”在望",
+      "link": "https://m.thepaper.cn/newsDetail_forward_34538328",
+      "pubDate": "Mon, 23 Nov 2026 05:47:46 GMT",
+      "contentSnippet": "本周11月23日-11月29日\n据新华社报道，外交部发言人22日宣布：应中共中央政治局委员、外交部长王毅邀请，瑞士联邦副主席兼外长卡西斯将于11月23日至24日访华并举行中瑞第五轮外长级战略对话。\n据中新社报道，2026中国-东盟周将于11月23日在重庆举行开幕式。今年中国-东盟周活动以“深化战略合作 联通共享繁荣”为主题，涵盖多边对话、经贸合作、互联互通、科技创新、人文交流等多个领域，旨在推动重庆与东盟国家全面深化务实合作。\n11月29日，西班牙将举行议会选举。西班牙首相桑切斯10月5日宣布提前举行议会选举，投票将于11月29日举行。此次提前选举距离原定最晚举行选举的时间还有近一年。\n\n瑞士",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "瑞士外长本周访华，西班牙提前大选极右翼有望入阁",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "澎湃新闻为知名媒体，引述新华社、中新社等权威来源，信息具体可查证"
+    },
+    {
+      "title": "史上“拖堂”最久COP31闭幕：共识难产，考题后移",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-23/10736366.shtml",
+      "pubDate": "Mon, 23 Nov 2026 13:43:34 +0800",
+      "contentSnippet": "中新社土耳其安塔利亚11月23日电 (记者 陈溯)当地时间22日，《联合国气候变化框架公约》第三十一次缔约方大会(COP31)在延时两天后落下帷幕，但未能就最终政治决定达成共识，即未能形成一份各缔约方共同认可的整体政治成果。反复修改的文本、一再推迟的闭幕全体会议，最终在各方此起彼伏的“失望”声中收场。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "COP31延时两天闭幕，未达成整体政治共识，各方表示失望。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "中新社为权威通讯社，有署名记者和具体时间地点，内容客观具体，可交叉验证。"
+    },
+    {
+      "title": "澳大利亚拟维持处方药最高自付额",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-23/10736371.shtml",
+      "pubDate": "Mon, 23 Nov 2026 13:43:22 +0800",
+      "contentSnippet": "中新社悉尼11月23日电 (记者 薄雯雯)澳大利亚总理阿尔巴尼斯23日宣布，政府拟将药品福利计划(PBS)所列药品的一般患者每张处方最高自付额维持在25澳元，直至2030年，以减轻民众购药负担。政府将推动立法落实这一措施。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "澳总理宣布拟将PBS药品处方最高自付额维持25澳元至2030年。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "中新社为权威通讯社，有署名记者、具体时间人物及政策细节，信息可查证。"
+    },
+    {
+      "title": "免签政策助推昆明机场往来中泰出入境人员破100万人次",
+      "link": "https://www.zaobao.com.sg/news/china/story20261123-10041808",
+      "pubDate": "Mon, 23 Nov 2026 04:04:00 GMT",
+      "contentSnippet": "在免签政策的助推下，昆明机场往来中泰出入境人员破100万人次。\n综合《中国日报》和澎湃新闻报道，昆明出入境边防检查站星期天（11月22日）消息称，截至当天中午12时，昆明长水国际机场2026年往来中泰国际航班6860余架次，出入境人员已达102万人次，展现中泰免签红利持续释放。\n目前昆明已开通至泰国曼谷、清迈、普吉三座城市直飞客运航线，冬航季国际运力持续发力，中泰航班日均达21架次，单日峰值最多可达29架次。\n据报道，从客流结构来看，102万人次出入境人员中，中国大陆居民及港澳台居民73万人次。外国籍人员中，泰国籍旅客增幅明显，在外国籍人员中占比84%，比去年同期增长20%。泰国籍入境人员中利",
       "sourceName": "联合早报·中港台",
       "sourceWeight": 80,
       "allSources": [
@@ -50,15 +152,100 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "深圳APEC欢迎晚宴菜单曝光，顺德大厨称提前一月演练豉油清蒸星斑。",
-      "credibilityScore": 78,
+      "aiSummary": "免签政策助推昆明机场中泰出入境人员突破100万人次",
+      "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "联合早报为知名媒体，引述南都旗下公众号及大厨直接引述，细节具体，但原始出处为自媒体，权威性稍弱。"
+      "credibilityReason": "联合早报转引中国日报和澎湃新闻，数据具体，来源可查证，但非一线通讯社原创"
     },
     {
-      "title": "时政微纪录丨习主席的深圳APEC时间 第二集 和平之约",
-      "link": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=6405939818252832476&toc_style_id=feeds_default&track_id=783347B7-C82F-4470-899A-62E0AC821FFC_816837218753&share_to=copy_url",
-      "pubDate": "Sat, 21 Nov 2026 04:53:26 GMT",
+      "title": "彭博：中国黄金进口激增 压低账面贸易顺差增幅",
+      "link": "https://www.zaobao.com.sg/news/china/story20261123-10041729",
+      "pubDate": "Mon, 23 Nov 2026 03:03:56 GMT",
+      "contentSnippet": "中国今年前10个月黄金进口额激增至创纪录的2090亿美元（约2700亿新元），占同期进口总额近8%。分析指出，大规模黄金进口在账面上压低了中国的商品贸易顺差，或有助缓解与主要贸易伙伴的贸易摩擦。但黄金等商品进口额激增，也掩盖了国内需求持续疲弱的问题。\n据彭博社星期一（11月23日）报道，中国非货币黄金进口自今年1月起大幅增加，当月进口额及进口量均较前一个月增长逾一倍。此后进口持续攀升，今年前10个月累计进口额创下历史新高。\n这波黄金采购热潮，恰逢中国副总理何立峰今年1月在瑞士达沃斯世界经济论坛上，承诺推动中国从“世界工厂”转型为“世界市场”。\n随着中国与欧盟等主要贸易伙伴的紧张关系升温，大规模",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
+      "allSources": [
+        "联合早报·中港台"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "彭博报道中国前10月黄金进口额创纪录达2090亿美元，账面压低贸易顺差。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "联合早报转引彭博社，数据具体可查，但非一线通讯社原发，部分分析属推测。"
+    },
+    {
+      "title": "内坦亚胡艾森科特就组阁结束谈判 未达成协议",
+      "link": "https://www.zaobao.com.sg/news/world/story20261123-10041416",
+      "pubDate": "Mon, 23 Nov 2026 02:34:03 GMT",
+      "contentSnippet": "以色列看守总理内坦亚胡所属的利库德集团，与竞争对手艾森科特所属的政党星期天（11月22日）结束新一轮谈判，但双方仍未能就组建联合政府达成协议。若要组成联合政府，双方都必须作出让步。\n法新社报道，艾森科特领导的“正直党”（Yashar）与内坦亚胡领导的利库德集团，在特拉维夫一家酒店举行了四小时会谈。这是双方继上周首轮磋商后的第二轮谈判。\n两党发表联合声明说：“最新一轮联合政府谈判已经结束。双方就一系列实质性议题阐明了各自的立场，并进行了深入讨论。”\n声明补充说，双方将举行后续会议，但没有说明具体日期，也没有透露其他细节。\n艾森科特必须在12月6日前组建政府，并可申请将组阁期限延长14天。此前10",
+      "sourceName": "联合早报·国际",
+      "sourceWeight": 80,
+      "allSources": [
+        "联合早报·国际"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "内坦亚胡与艾森科特组阁谈判结束，未达成协议。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "联合早报转载法新社，有具体时间地点及联合声明引述，信息可查证。"
+    },
+    {
+      "title": "续任中共江西省委书记 尹弘：新一届省委要践行正确政绩观",
+      "link": "https://www.zaobao.com.sg/news/china/story20261123-10041449",
+      "pubDate": "Mon, 23 Nov 2026 02:22:14 GMT",
+      "contentSnippet": "中国共产党江西省第十六届委员会第一次全体会议星期天（11月22日）在南昌举行，全会选举尹弘续任江西省委书记。尹弘在会上说，新一届省委要深入贯彻中共总书记习近平总书记考察江西重要讲话精神，牢固树立和践行正确政绩观。\n据《江西日报》报道，尹弘受省第十六次党代会大会主席团的委托，主持上述会议。全会以无记名投票方式，选举尹弘、陈永奇、庄兆林、黄喜忠、时玉宝、盛秋平、陈敏、张莹、刘金波、杨勇、许南吉、严允、陈克龙13人为中共江西省第十六届委员会常务委员会委员；选举尹弘为省委书记，陈永奇、庄兆林为省委副书记。\n尹弘当选后在会上说，全会选举他继续担任省委书记，深感重任在肩、使命如山，定将尽心竭力办好江西的事",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
+      "allSources": [
+        "联合早报·中港台"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "尹弘续任中共江西省委书记，强调新一届省委要践行正确政绩观。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为联合早报，引述《江西日报》官方报道，信息具体含时间地点人物，用词客观。"
+    },
+    {
+      "title": "中东睿评｜“蓝潮”与铁律：美以伊战争如何反噬美国国内政治",
+      "link": "https://m.thepaper.cn/newsDetail_forward_34502147",
+      "pubDate": "Mon, 23 Nov 2026 01:49:44 GMT",
+      "contentSnippet": "2026年11月初，美以伊战争仍处在“战和两难”的复杂僵局之中，但其引发的政治冲击波却在大洋彼岸的华盛顿和地中海东岸的特拉维夫持续发酵。随着美国中期选举尘埃落定，民主党以“蓝潮”之势夺回国会参众两院控制权，证明了美以伊战争深刻重塑美国国内政治的巨大力量，也将对特朗普剩余两年任期的对伊政策构成结构性掣肘；与此同时，以色列议会选举也陷入内塔尼亚胡领导的右翼联盟与前国防部长领导的反对派之间对立的僵局，以色列总统赫尔佐格正式将组阁权交给埃森科特，标志着内塔尼亚胡持续近20年的执政生涯走到了关键的转折点。\n由此可见，在至今仍深陷僵局的美以伊战争中，冲突各方尤其是美国和以色列不仅未能实现其战争目标，却深刻",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "评论分析美以伊战争对美以国内政治的冲击，民主党中期选举获胜，以色列政局变动。",
+      "credibilityScore": 65,
+      "credibilityLevel": "medium",
+      "credibilityReason": "澎湃新闻为知名媒体但非一线通讯社，文章为评论分析，含预测性内容，事实细节需交叉验证。"
+    },
+    {
+      "title": "报告：伊朗战争削弱美国实力 中美实力差距进一步缩小",
+      "link": "https://www.zaobao.com.sg/news/china/story20261123-10041211",
+      "pubDate": "Mon, 23 Nov 2026 01:36:07 GMT",
+      "contentSnippet": "澳大利亚智库最新报告指出，受伊朗战争及单边主义政策影响，美国在亚洲的军事能力和外交影响力受到削弱，使中美综合实力差距缩小至2018年以来的最低水平。\n澳大利亚洛伊国际政策研究所星期天（11月22日）发布的《2026年亚洲实力指数》报告显示，美国的综合实力得分为78.9分，中国则以73.6分位居第二，双方仅相差5.3分，创下该指数2018年首次发布以来的最小差距。 \n美国的综合实力得分较去年下降1.5分，是今年跌幅最大的国家，中国则大致维持去年的水平。报告指出，中美实力差距缩小，主要是美国自身政策失误所致，而非中国实力取得重大突破。 \n洛伊研究所将“综合实力”定义为一个国家塑造外部环境，以及影响",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
+      "allSources": [
+        "联合早报·中港台"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "澳智库报告称伊朗战争削弱美国实力，中美综合实力差距缩至2018年来最小。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为联合早报，引述洛伊研究所具体报告及数据，信息可查证，用词客观。"
+    },
+    {
+      "title": "时政纪录片丨共创亚太美好未来——习近平主席出席亚太经合组织第三十三次领导人非正式会议及相关活动纪实",
+      "link": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=17411410161520338306&toc_style_id=feeds_default&share_to=copy_url&track_id=e4191538-c3b4-49f0-9f3f-c469e69564a6",
+      "pubDate": "Mon, 23 Nov 2026 01:00:22 GMT",
       "contentSnippet": "",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
@@ -67,197 +254,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "澎湃新闻发布习主席深圳APEC时政微纪录第二集，正文内容缺失。",
-      "credibilityScore": 55,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名媒体澎湃新闻，但正文摘要为空，无法核实具体信息，且发布时间与事件不符。"
-    },
-    {
-      "title": "俄外交部：元首外交在俄中关系中发挥特殊引领作用",
-      "link": "https://m.thepaper.cn/newsDetail_forward_34527759",
-      "pubDate": "Sat, 21 Nov 2026 04:43:33 GMT",
-      "contentSnippet": "俄罗斯外交部发言人扎哈罗娃20日在莫斯科表示，元首外交在推动俄中关系发展中发挥特殊引领作用。\n扎哈罗娃当天在例行记者会上回答新华社记者提问时说，俄中元首在深圳的会晤再次印证两国战略协作伙伴关系的互信特质与高水平。在当前全球地缘政治形势持续演变的大背景下，本次会晤意义尤为重大。\n扎哈罗娃表示，俄罗斯总统普京今年两次到访中国，充分体现了两国高层政治对话的特殊性。俄方高度珍视两国领导人之间的良好工作关系，两国领导人达成的共识不仅对深化双边协作至关重要，也有助于解决复杂的国际问题。可以说，俄中战略协作发挥着维护亚太地区和全球稳定的重要作用。\n扎哈罗娃说，今年是《俄中睦邻友好合作条约》签署25周年。25",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "俄外交部发言人扎哈罗娃称元首外交引领俄中关系发展",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻转载新华社采访，有直接引述和具体人物场合，内容可查证"
-    },
-    {
-      "title": "最高检发布指导性案例 依法严惩性侵害未成年人犯罪",
-      "link": "https://www.chinanews.com.cn/fz/2026/11-21/10735665.shtml",
-      "pubDate": "Sat, 21 Nov 2026 12:36:38 +0800",
-      "contentSnippet": "中新网11月21日电 据最高人民检察院微信公众号消息，最高人民检察院日前以“性侵害未成年人犯罪抗诉”为主题发布第六十四批指导性案例，为全国检察机关依法精准履行抗诉职能、从严惩处性侵害未成年人犯罪提供办案指引。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "最高检发布第六十四批指导性案例，严惩性侵害未成年人犯罪。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网转引最高检官方公众号，信息具体可查证，用词客观。"
-    },
-    {
-      "title": "中国人大常委会副委员长访毛里求斯：愿拓展经贸领域务实合作",
-      "link": "https://www.zaobao.com.sg/news/china/story20261121-10034892",
-      "pubDate": "Sat, 21 Nov 2026 04:32:00 GMT",
-      "contentSnippet": "中国全国人大常委会副委员长肖捷本周率团访问毛里求斯，并强调中国愿同毛里求斯一道，深化政治互信，拓展经贸、文化等多领域务实合作。\n据新华社报道，应毛里求斯国民议会邀请，肖捷星期三至五（11月18日至20日）率团访问毛里求斯，分别会见毛里求斯总统戈库尔、总理拉姆古兰、国民议会议长奇夫拉、非盟经社文理事会主席西索科等，与毛里求斯副总统洪利共同出席中非民间对话开幕式。肖捷也是中国民间组织国际交流促进会会长。\n肖捷说，中毛传统友谊深厚，在两国领导人战略引领下，双边关系长期稳定发展。中国愿同毛里求斯一道，深化政治互信，密切立法机构、政党、民间等多层次交往交流，拓展经贸、文化等多领域务实合作，推动中毛、中非",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中国人大常委会副委员长肖捷访毛里求斯，表示愿拓展经贸等领域合作",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "联合早报转引新华社报道，时间地点人物具体，有直接引述，内容可查证"
-    },
-    {
-      "title": "台胞陶艺家：一脉窑火烧紫砂 手捏陶土牵两岸",
-      "link": "https://www.chinanews.com.cn/gn/2026/11-21/10735684.shtml",
-      "pubDate": "Sat, 21 Nov 2026 12:26:33 +0800",
-      "contentSnippet": "中新社福州11月21日电 题：台胞陶艺家：一脉窑火烧紫砂  手捏陶土牵两岸",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中新社报道台胞陶艺家以紫砂陶艺联结两岸的文化故事。",
+      "aiSummary": "澎湃新闻发布习近平出席亚太经合组织第三十三次领导人非正式会议纪实纪录片。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为一线通讯社中新社，有具体时间地点，属正面文化报道，内容可查证。"
-    },
-    {
-      "title": "苏林就任越共中央总书记、国家主席后首访云南",
-      "link": "https://www.zaobao.com.sg/news/china/story20261121-10035053",
-      "pubDate": "Sat, 21 Nov 2026 04:13:06 GMT",
-      "contentSnippet": "在结束于深圳举行的亚太经济合作组织（APEC）峰会行程后，越共中央总书记、国家主席苏林和夫人星期四至星期五（11月19日至20日）到访云南。\n据中新社报道，这是苏林就任越共中央总书记、国家主席后首次访问云南。\n苏林一行星期四下午飞抵昆明后，即前往昆明胡志明旧居参观，向胡志明雕像献花，并捐赠胡志明铜像，了解胡志明在云南开展革命活动情况，重温越中深厚历史情谊。\n据“云南发布”微信公号消息，中共云南省委书记莫高义、中共云南省委副书记、代省长刘奇凡星期四与苏林一行会面。\n莫高义说，苏林在APEC会后率团到云南参访，充分体现对深化越南与云南合作的高度重视。他提到，云南高度珍惜革命年代中越同志结下的深厚情",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "越共总书记苏林APEC峰会后首访云南，参观胡志明旧居并会见云南省领导。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "联合早报为知名媒体，引述中新社及云南官方消息，时间地点人物具体，可交叉验证。"
-    },
-    {
-      "title": "部分核心议题未达共识 COP31进入加时阶段",
-      "link": "https://www.zaobao.com.sg/news/world/story20261121-10034748",
-      "pubDate": "Sat, 21 Nov 2026 03:56:08 GMT",
-      "contentSnippet": "由于与会各方未能就部分核心议题达成一致，第31届联合国气候变化大会进入加时阶段。\n新华社报道，第31届联合国大会（COP31）原定星期五（11月20日）闭幕，但各方未能就部分核心议题达成共识，因此会议当晚进入加时阶段。\nCOP31谈判主席鲍恩（Chris Bowen）当天早些时候在一场记者会上说，联合国气候变化大会由《联合国气候变化框架公约》缔约方主导、以协商一致为原则，“我们正引导各方凝聚共识，并且会继续这么做，这一点非常明确”。\n鲍恩指出，全世界都在观望多边主义是否能够有所作为，“我相信它可以”。\n他也强调，虽然各方立场分歧明显，但仍保有善意和促成共识的意愿，大家都在埋头推进、全力以赴。",
-      "sourceName": "联合早报·国际",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·国际"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "COP31因核心议题未达共识进入加时阶段，主席称各方仍具善意。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "联合早报转载新华社报道，含直接引述与具体人名，事实可查证。"
-    },
-    {
-      "title": "2026年青年企业家创新发展大会在北京召开 伊利集团董事长兼总裁潘刚出席会议并作主旨演讲",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-21/10735678.shtml",
-      "pubDate": "Sat, 21 Nov 2026 11:51:11 +0800",
-      "contentSnippet": "11月15日，由中国青年企业家协会主办的2026年青年企业家创新发展大会在北京顺义召开。会议以“聚势新质生产力，赋能青年企业家”为主题，深入学习宣传贯彻党的二十届五中全会精神，引导青年企业家以创新发展服务经济社会高质量发展。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "2026年青年企业家创新发展大会11月15日在北京顺义召开，伊利潘刚出席演讲。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，属较权威媒体；时间地点人物具体，内容可查证，用词客观。"
-    },
-    {
-      "title": "伊朗称仍愿与美达成协议 特朗普称协议条件难接受",
-      "link": "https://www.zaobao.com.sg/news/world/story20261121-10034523",
-      "pubDate": "Sat, 21 Nov 2026 02:10:04 GMT",
-      "contentSnippet": "伊朗外交部长阿拉格齐说，德黑兰依然希望通过外交途径结束与美国的战争。美国总统特朗普则说，伊朗想达成协议，但不想达成他能接受的协议。\n综合路透社和新华社报道，阿拉格齐星期五（11月20日）接受伊朗官方媒体《伊朗报》（Iran Newspaper）采访时说，德黑兰与华盛顿之间仍在通过调解方沟通；伊朗方面正寻求“一项能确保不再发生战争的协议”。\n他还表明，在进一步推进谈判之前，伊朗需要华盛顿提供保证，证明美方在谈判问题上是认真的。他补充说，伊朗已与调解方讨论建立信任措施的形式与性质。\n2月底爆发的伊朗战事导致航运受阻、全球能源价格上涨，并波及多个波斯湾国家。尽管谈判进展缓慢，各方仍继续推动外交努力，",
-      "sourceName": "联合早报·国际",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·国际"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "伊朗外长称仍愿通过外交途径结束战争，特朗普称协议条件难接受",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "联合早报综合路透社和新华社报道，含直接引述，事实具体可查证"
-    },
-    {
-      "title": "助理被指涉抹黄 蓝营新竹县长候选人徐欣莹疑事先写好剧本",
-      "link": "https://www.zaobao.com.sg/news/china/story20261121-10034630",
-      "pubDate": "Sat, 21 Nov 2026 02:01:39 GMT",
-      "contentSnippet": "台湾“九合一”地方选举进入白热化阶段，在助理被警方带走后，国民党新竹县长参选人徐欣莹星期五（11月20日）晚到新竹地检署外静坐绝食抗议，截至星期六（11月21日）已持续11小时。徐欣莹昨晚还质疑助理仍在接受侦讯，民进党新竹县长候选人曾圣凯就发新闻稿指她的助理涉嫌抹黄。\n上述事件发生后，国民党主席郑丽文星期五晚在脸书发文力挺徐欣莹。\n郑丽文写道，声援徐欣莹，司法必须公正，绝不能沦为政治工具。\n她说，选举只剩最后八天，徐欣莹的助理却突然遭到检警侦讯，令人高度关切。“我支持徐欣莹捍卫司法公正的诉求，也心疼她为了表达抗议，不惜宣布绝食”。\n郑丽文指出，司法应该追求真相，而不是制造寒蝉效应；检调必须说清",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "台湾新竹县长参选人徐欣莹助理被带走，徐静坐绝食抗议，蓝营质疑司法不公。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报，属较权威媒体；事件细节具体，有直接引述，但单一来源，部分细节待核实。"
-    },
-    {
-      "title": "特朗普称应仅向中国卖较旧晶片",
-      "link": "https://www.zaobao.com.sg/news/china/story20261121-10034541",
-      "pubDate": "Sat, 21 Nov 2026 01:24:38 GMT",
-      "contentSnippet": "美国总统特朗普星期五（11月20日）称，美国希望仅向中国出售较旧型号的晶片，并说他的政府正与中国就一项协议进行商讨，但未提供更多细节。\n据路透社报道，特朗普结束亚洲之行后，在新闻发布会上说：“我们希望看到的是只有较旧型号的晶片，即便不卖给他们也没关系。但必须是较旧型号的。你得明白，中国也能生产晶片，如果我们不卖给他们，他们就会自己制造。”\n在这之前，特朗普回应关于在与中国国家主席习近平会晤后，是否考虑放宽针对中国的晶片出口禁令的提问时说：“我们正与中国商讨一项非常全面的协议。”\n在此次亚洲之行前，特朗普政府在星期一（16日）说，将进一步限制中国获取英伟达等公司所生产的先进人工智能（AI）晶片。",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "特朗普称美仅向中国出售较旧型号晶片，正与中方商讨协议。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "联合早报转引路透社，含直接引述与具体时间，事实可查证。"
-    },
-    {
-      "title": "李强：中国愿与澳洲共同努力排除对正常经贸的干扰",
-      "link": "https://www.zaobao.com.sg/news/china/story20261121-10034468",
-      "pubDate": "Sat, 21 Nov 2026 00:50:28 GMT",
-      "contentSnippet": "中国总理李强在第九届中澳工商界首席执行官圆桌会上说，中国愿与澳洲共同努力排除对正常经贸的干扰，为两国企业合作提供良好环境和稳定预期。\n据中国外交部官网消息，李强星期五（11月20日）下午在北京钓鱼台国宾馆同澳大利亚总理阿尔巴尼斯举行第十一轮中澳总理年度会晤，并共同发表中澳总理年度会晤联合成果声明。\n当晚，李强在钓鱼台国宾馆同阿尔巴尼斯共同出席第九届中澳工商界首席执行官圆桌会。近30位中澳商会和企业负责人出席。\n\n              \n中国国务院总理李强（右五）星期五（11月20日）晚在北京钓鱼台国宾馆同澳大利亚总理阿尔巴尼斯（左五）共同出席第九届中澳工商界首席执行官圆桌会。（新华社）",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "李强与阿尔巴尼斯会晤，称愿与澳排除正常经贸干扰",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "联合早报报道，引述中国外交部官网及新华社图片，时间地点人物具体，可交叉验证"
+      "credibilityReason": "来源为澎湃新闻，属正规媒体；内容为官方时政纪录片，事实可查证，但正文摘要缺失，细节有限。"
     }
   ]
 }

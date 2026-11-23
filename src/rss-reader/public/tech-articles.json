@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-21T06:20:41.633Z",
+  "generatedAt": "2026-11-23T06:40:31.761Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "消息称华为星芒品牌已在内部酝酿约三年，将承担更多前沿技术的率先应用任务",
-      "link": "https://www.ithome.com/1/030/353.htm",
-      "pubDate": "Sat, 21 Nov 2026 05:48:08 GMT",
-      "contentSnippet": "IT之家 11 月 21 日消息，据《每日经济新闻》报道，近日，华为星芒相关负责人在接受媒体采访时透露，星芒品牌已在内部酝酿约三年，未来一两年，公司不会对其提出过高的销量及经营目标要求。现阶段，星芒更重要的任务是建立品牌认知、培育目标用户，并验证新的 AI 技术与产品体验。\n\n一个酝酿了约三年的新品牌，为何直到现在才正式推出？华为相关负责人解释称，荣耀独立之后，华为曾经历一段较长时间的供应链和技术体系重建，随后又投入大量资源建设鸿蒙操作系统及应用生态。直到相关基础能力逐步成熟，才具备推出新品牌的条件。\n谈及新品牌的销量预期时，华为相关负责人表示：“这一两年新品牌首先是要建立心智，把品牌真正树立",
+      "title": "美国网络安全事件频发：特朗普撤换国家网络总监，此前 FBI 国家犯罪信息中心疑似遭黑客入侵",
+      "link": "https://www.ithome.com/1/030/801.htm",
+      "pubDate": "Mon, 23 Nov 2026 03:53:18 GMT",
+      "contentSnippet": "IT之家 11 月 23 日消息，据央视新闻今日报道，美国总统特朗普已撤换美国国家网络总监肖恩 · 凯恩克罗斯（Sean Cairncross），并提名美国国防部首席信息官柯尔丝滕 · 戴维斯（Kirsten A. Davies）接任。\n此次人事调整发生在美国多个联邦政府机构接连曝出网络安全事件。IT之家此前报道，包括微软、苹果、AWS、联合航空等企业或机构发生系统故障，之前还有航空交通管理系统发生长时间通信中断，后续还有 Visa、摩根大通与万事达卡遭遇黑客攻击。\n\n当地时间 11 月 20 日，美国白宫发布公告称，特朗普已任命戴维斯领导白宫国家网络总监办公室。戴维斯此前担任美国国防部首席信",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,33 +16,85 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "华为星芒品牌内部酝酿约三年，将率先应用前沿技术，初期不设高销量目标。",
+      "aiSummary": "特朗普撤换美国家网络总监，此前FBI等机构频发网络安全事件",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "IT之家转载央视新闻，有具体人名和日期，但正文截断且事件关联性表述较松散"
+    },
+    {
+      "title": "韩国防 AI 作弊新招：要求考生穿围裙考试、时隔 6 年重新收缴手机",
+      "link": "https://www.ithome.com/1/030/770.htm",
+      "pubDate": "Mon, 23 Nov 2026 02:02:34 GMT",
+      "contentSnippet": "IT之家 11 月 23 日消息，据韩媒报道，韩国第 28 届警卫指导师考试前日开考。据考生所述，本次考试加强了作弊防范力度，去年只要求将手机和手表放在包里，今年全部收走。考场还要求考生穿上餐馆使用的一次性围裙，各处都悬挂着禁止作弊的标语。\n\n受韩国一税务师榜首考生自曝使用 AI 作弊影响，韩国 753 种国家资格考试开始加强反作弊措施。尽管此前已宣布严格监考，但警卫指导师考试仍有 6 人因作弊行为被查处，违规情况包括让平板电脑或手机保持开机状态，以及佩戴智能手表等。\n负责管理韩国 528 种国家资格考试、占总数约 70% 的韩国产业人力公团表示，他们将加强 AI 作弊行为的监察力度。从 11",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "韩国因AI作弊加强国家资格考试反作弊措施，收缴手机并要求穿围裙",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，引用韩媒报道，信息具体含考试届数、违规人数等细节，来源可追溯"
+    },
+    {
+      "title": "我国研发的地球系统智能科研平台“ZHU·GE”推出",
+      "link": "https://www.ithome.com/1/030/899.htm",
+      "pubDate": "Mon, 23 Nov 2026 06:33:00 GMT",
+      "contentSnippet": "IT之家 11 月 23 日消息，据中国气象报社报道，11 月 23 日，在 2026 雄安气象人工智能国际研讨会上，地球系统智能科研平台“ZHU·GE”正式推出。\n“ZHU·GE”取自英文 Zone-to-global Holistic Understanding by Generative Earth-system modeling 的首字母，意为从局地到全球，从观测事实到科学理解。\n该平台以推动地球科学领域 AI4S 为目标，可将科研想法快速转化为有海量数据支撑、可分析、可验证的科学研究结论，助力科学认识落地转化为业务能力。\n研究人员用自然语言提出科研目标后，平台自主分析调用文献、数据与",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "我国推出地球系统智能科研平台ZHU·GE，推动AI4S发展",
       "credibilityScore": 78,
       "credibilityLevel": "medium-high",
-      "credibilityReason": "来源为IT之家转述每日经济新闻，有负责人采访引述，但缺乏具体技术细节和官方直接出处。"
+      "credibilityReason": "来源为IT之家转引中国气象报社，有具体会议和平台命名信息，但技术细节较简略"
     },
     {
-      "title": "中国车企在印度，工厂、股权与供应链",
-      "link": "https://www.tmtpost.com/8210571.html",
-      "pubDate": "Sat, 21 Nov 2026 13:28:15 +0800",
-      "contentSnippet": "马恒达的电动车，装着比亚迪电芯",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "Stellantis 拟全面退出欧洲赛车赛事，以推进成本削减计划",
+      "link": "https://www.ithome.com/1/030/898.htm",
+      "pubDate": "Mon, 23 Nov 2026 06:31:34 GMT",
+      "contentSnippet": "IT之家 11 月 23 日消息，据法媒《费加罗报》报道，Stellantis 正在推进新一轮成本削减计划，考虑全面退出欧洲各项赛车运动赛事。如果这一计划属实，Stellantis 旗下标致、欧宝、雪铁龙和蓝旗亚等品牌可能都将结束现有赛车项目。\n\n《费加罗报》透露，在首席执行官 Antonio Filosa 的领导下，Stellantis 计划到 2028 年累计削减 60 亿欧元（IT之家注：现汇率约合 439.76 亿元人民币）成本，以扭转公司经营状况。\n事实上，仅在今年 7 月至 9 月期间，Stellantis 在欧洲市场就亏损了 3.11 亿欧元（现汇率约合 22.79 亿元人民币）",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "Stellantis拟全面退出欧洲赛车赛事，推进60亿欧元成本削减计划",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "IT之家编译法媒报道，有具体数据和出处，但属二手转述，官方未确认"
+    },
+    {
+      "title": "谷歌解释 3D Emoji 为何要求 6GB 内存 / 10GB 存储：Google Play 服务安全措施所致",
+      "link": "https://www.ithome.com/1/030/897.htm",
+      "pubDate": "Mon, 23 Nov 2026 06:30:19 GMT",
+      "contentSnippet": "IT之家 11 月 23 日消息，据科技媒体 Android Authority 今天报道，谷歌推出的新版 Noto 3D Emoji 原本将为 Android 带来全新视觉体验，但许多用户对其 6GB 内存、10GB 存储要求感到困惑。\n\nIT之家从原报道获悉，谷歌员工 Mishaal Rahman 对此表示，这套 3D 表情的占用空间不到 220MB，这虽然比旧版 2D Emoji 的 3MB 占用大得多，但远远没有 10GB。\n至于商店页面为何会列出 3GB 内存、10GB 存储的要求，这实际上是 Google Play 服务自动下载字体的安全措施。要求设备至少有 10GB 存储空间，是",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家",
         "钛媒体"
       ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体报道中国车企在印度的工厂、股权与供应链布局，提及马恒达电动车采用比亚迪电芯。",
-      "credibilityScore": 78,
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "谷歌解释3D Emoji高内存存储要求实为Play服务安全措施",
+      "credibilityScore": 87,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体钛媒体，内容涉及具体产业细节，但摘要信息较简略，缺少数据与原始出处支撑。"
+      "credibilityReason": "IT之家编译Android Authority报道，引谷歌员工Mishaal Rahman解释，技术细节具体，但正文摘要不完整（多源覆盖 +5）"
     },
     {
-      "title": "全球仅此一件：马斯克到访上海工厂收到员工特制“边角料手办”，陶琳晒图",
-      "link": "https://www.ithome.com/1/030/334.htm",
-      "pubDate": "Sat, 21 Nov 2026 03:01:36 GMT",
-      "contentSnippet": "IT之家 11 月 21 日消息，特斯拉公司副总裁陶琳昨晚在微博发文称，CEO 埃隆 · 马斯克当天到访特斯拉上海超级工厂期间，收到一份由工厂员工自行设计、手工制作的“限量手办”，全球仅此一件。\n据介绍，这款作品使用特斯拉生产过程中的边角材料制成，将特斯拉车型与上海城市特色元素组合在一起。\n\n陶琳介绍称，这件手办最初只是工厂员工利用业余时间推进的创意项目，随后被作为纪念品赠送给马斯克，马斯克对其设计表示喜欢。\n\nIT之家注：所谓“边角料”，指车身冲压、内饰裁切等工序中产生的余料，并非可独立流通的原材料。\n\n此次上海之行是马斯克 24 小时中国行的一部分。他此前在深圳参加 2026 年 APEC",
+      "title": "GrapheneOS 将推出自研 RCS 消息应用，摆脱谷歌依赖",
+      "link": "https://www.ithome.com/1/030/896.htm",
+      "pubDate": "Mon, 23 Nov 2026 06:20:34 GMT",
+      "contentSnippet": "IT之家 11 月 23 日消息，据科技媒体 Android Authority 今天报道，GrapheneOS（IT之家注：石墨烯 OS）正在开发自研 RCS 消息应用。未来该系统用户无需依赖谷歌信息应用，就能使用 RCS 信息服务。\n\nGrapheneOS 团队表示，他们已经开发一款 RCS 消息应用的早期验证版本，已支持 MLS 安全协议和端到端加密，并兼容谷歌信息和 iOS，支持输入状态显示、消息送达和已读回执和文件分享等功能。\n对 GrapheneOS 而言，RCS 支持一直是一个比较棘手的问题。目前该操作系统可通过谷歌使用 RCS，但用户必须启用沙盒化的 Google Play 服",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -50,84 +102,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "马斯克访上海工厂获员工用边角料手工制作的全球唯一手办",
-      "credibilityScore": 75,
-      "credibilityLevel": "medium",
-      "credibilityReason": "IT之家为知名科技媒体，信息源自陶琳微博，但属花絮类报道，技术含量低"
-    },
-    {
-      "title": "英国 BAE 研发“幽灵雷达”：不主动“出声”也能追踪无人机，可装进 SUV、成本低至同类 1/10",
-      "link": "https://www.ithome.com/1/030/305.htm",
-      "pubDate": "Sat, 21 Nov 2026 00:32:55 GMT",
-      "contentSnippet": "IT之家 11 月 21 日消息，科技媒体 TechRadar 今天（11 月 21 日）发布博文，报道称英国防务公司 BAE Systems 研发了一款被称为“幽灵雷达”（ghost radar）的便携式被动雷达，可以安装在常规 SUV 车型上，不主动发射信号也能追踪无人机。\n\n\nIT之家援引博文介绍，传统雷达如同在黑暗中打开探照灯，照见目标的同时，也可能暴露自身位置。而 BAE Systems 主要接收数字电视、无线电广播和移动通信网络等现有信号经目标反射后的回波，再将其转化为三维空间信息，判断目标的距离、高度、速度及航向。\n\n在部署方面，该“幽灵雷达”可以部署在普通 SUV 上，面向电站",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "英国BAE研发便携被动雷达，可装SUV追踪无人机，成本低。",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为IT之家援引TechRadar，有技术原理描述，但缺少原始出处和具体数据。"
-    },
-    {
-      "title": "约 320 亿美元债券落地：马斯克 SpaceX 为英伟达芯片“加杠杆”，收益率超 8%",
-      "link": "https://www.ithome.com/1/030/351.htm",
-      "pubDate": "Sat, 21 Nov 2026 05:42:19 GMT",
-      "contentSnippet": "IT之家 11 月 21 日消息，科技媒体 The Information 最新博文报道称，全球首富埃隆 · 马斯克（Elon Musk）旗下 SpaceX 昨日（11 月 20 日）完成约 320 亿美元（IT之家注：现汇率约合 2,141.43 亿元人民币）的债券融资，用于采购英伟达等 AI 芯片。\n报道称本次 AI 芯片债券融资由高盛、以及 Apollo 管理的 Saturn Funding Trust 发行，主要用于购置英伟达芯片。这笔债券本身是总额超过 400 亿美元（现汇率约合 2,676.79 亿元人民币）融资方案的一部分，剩余方案还包括银行贷款等。\nIT之家援引博文介绍，本次发",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "SpaceX完成约320亿美元债券融资，用于采购英伟达AI芯片，收益率超8%。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "IT之家援引The Information报道，信息具体含金额与发行方，但属二手转述且细节有限。"
-    },
-    {
-      "title": "达里奥 2010 年曾拒绝马斯克招揽，2016 年加入 OpenAI 后又出走创立 Anthropic",
-      "link": "https://www.ithome.com/1/030/350.htm",
-      "pubDate": "Sat, 21 Nov 2026 05:33:19 GMT",
-      "contentSnippet": "IT之家 11 月 21 日消息，据《华尔街日报》今日报道，Anthropic CEO 达里奥 · 阿莫代伊（Dario Amodei）早在 2010 年就曾通过熟人结识埃隆 · 马斯克并受邀参观 SpaceX 办公室。\n据称，马斯克当时还向他发出了工作邀请，但达里奥最终选择拒绝。他认为自己的专业能力更适合计算生物学，而不是火箭工程。\n达里奥当时正处于职业方向选择阶段。他曾就读于加州理工学院，随后转入斯坦福大学，并在普林斯顿大学攻读物理学博士学位，之后将研究方向转向生物学。与直接进入科技行业相比，他最初更倾向于利用科学研究推动医疗和生物技术进步。\n这次与马斯克的接触，是他从学术研究转向科技行业",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "达里奥2010年拒马斯克邀请，2016年入OpenAI后创立Anthropic",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家引述《华尔街日报》报道，人物经历具体可查，来源较权威，但细节转述为主"
-    },
-    {
-      "title": "冲刺 2027 年出海，消息称前小鹏汽车西欧及南欧董事总经理强顺强加入小米汽车",
-      "link": "https://www.ithome.com/1/030/349.htm",
-      "pubDate": "Sat, 21 Nov 2026 05:30:50 GMT",
-      "contentSnippet": "IT之家 11 月 21 日消息，据界面新闻今日报道，知情人士透露，前小鹏汽车西欧及南欧董事总经理强顺强已于今年 9 月加入小米汽车，出任国际业务部欧洲区董事总经理（Managing Director of Europe），常驻德国。截至目前，小米方面尚未对外官宣这一任命。小米公司暂未回应置评请求。\n公开履历显示，强顺强是小鹏海外营销服务体系的早期负责人之一。他毕业于清华大学汽车工程专业，职业生涯起步于丰田、奔驰中国等传统企业的品牌营销体系；加入小鹏汽车之前，他担任兰博基尼大中华区销售与网络负责人。\n2019 年，强顺强加入小鹏汽车，先参与国内网络渠道建设，2020 年起转向海外业务。小鹏当年",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "前小鹏西欧及南欧董事总经理强顺强加入小米汽车，任欧洲区董事总经理",
+      "aiSummary": "GrapheneOS开发自研RCS应用，摆脱谷歌信息依赖",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家援引界面新闻知情人士报道，履历详实，但小米未官宣且未回应，属未证实消息"
+      "credibilityReason": "IT之家转引Android Authority，信息具体含技术细节，但非一手来源，部分功能待验证"
     },
     {
-      "title": "黄仁勋没有的“护身符”：Anthropic 创始人手握 50.1% 投票权建立“反夺权”机制",
-      "link": "https://www.ithome.com/1/030/348.htm",
-      "pubDate": "Sat, 21 Nov 2026 05:14:19 GMT",
-      "contentSnippet": "IT之家 11 月 21 日消息，科技媒体 Business Insider 昨日（11 月 20 日）报道，AI 公司 Anthropic 在上市后通过特殊股权设计，让包括 CEO 达里奥 · 阿莫代伊（Dario Amodei）在内的 7 位联合创始人共同掌握 50.1% 的股东投票权。\n报道指出该安排的核心是特殊的 F 类股，即使 Anthropic 公司未来继续发行普通股，创始团队的投票权比例也不会被稀释。普通投资者持有的是常规股份，而创始团队则通过 F 类股保留对公司重大决策的最终控制权。该媒体解读认为，即便外部资本大量进入，创始人仍能决定董事会构成、战略方向和关键人事安排。\nAnt",
+      "title": "领克 900L 旗舰大七座 SUV 将于 11 月 27 日开启预售，900V 超级电混",
+      "link": "https://www.ithome.com/1/030/895.htm",
+      "pubDate": "Mon, 23 Nov 2026 06:17:58 GMT",
+      "contentSnippet": "IT之家 11 月 23 日消息，领克汽车今日宣布，领克 900L 全球预售发布会将于 11 月 27 日举行，号称“900V 超级电混旗舰大七座 SUV”。\n\n这款旗舰大七座 SUV 于 11 月 11 日进行了全球首秀，长宽高分别为 5280/1999/1810mm，轴距 3170mm。相比领克 900 车长增加 40mm，车高与轴距各增加 10mm，车宽保持不变。\n其外观延续家族分体式灯组轮廓，前脸将大灯与中央饰板整合为一体式结构，车尾贯穿式 LED 尾灯中央嵌入可发光的“LYNK&CO”标识。车顶前部集成激光雷达，车身侧面采用半隐藏式门把手。\n座舱内部采用浅色内饰基调，前排提供双 30",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -135,129 +119,146 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "Anthropic上市后设F类股，7位创始人持50.1%投票权防稀释",
+      "aiSummary": "领克900L旗舰大七座SUV将于11月27日开启预售，搭载900V超级电混",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家转引Business Insider，股权机制描述具体，但缺官方文件佐证"
+      "credibilityReason": "IT之家为知名科技媒体，信息含具体尺寸参数和官方发布计划，来源明确但缺少原始引用链接"
     },
     {
-      "title": "泡泡玛特和瑞幸，要分同一块蛋糕？",
-      "link": "https://www.tmtpost.com/8213177.html",
-      "pubDate": "Sat, 21 Nov 2026 13:05:42 +0800",
-      "contentSnippet": "网红小家电的逻辑要变了？",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "奇瑞风云 A9 夜影版车型发售，限时置换价 131899 元",
+      "link": "https://www.ithome.com/1/030/894.htm",
+      "pubDate": "Mon, 23 Nov 2026 06:15:55 GMT",
+      "contentSnippet": "IT之家 11 月 23 日消息，奇瑞风云 A9 夜影版车型今日上市，官方指导价 134,899 元，限时超级置换价 131,899 元。\n新车提供墨石黑、玄武灰双色可选，内饰采用夜幕紫黑限定色。除颜色外，新车还采用了夜影版专属套件拉花，配备夜影专属绒毯、刀锋轮毂、磁悬浮轮毂灯、副驾悠然座椅、智能香氛套装等。\n风云 A9 增程版尺寸为 4890×1913×1489mm、轴距 2900mm；整车风阻系数达到 0.223Cd。\n奇瑞风云 A9 搭载单电机，最大功率 178kW，最大扭矩 275N·m；搭载 70.11kWh 磷酸铁锂电池，CLTC 纯电续航里程 655km，30%-80% 快充时长",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "钛媒体"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体分析泡泡玛特与瑞幸跨界竞争，探讨网红小家电逻辑变化。",
+      "aiSummary": "奇瑞风云A9夜影版上市，限时置换价13.19万元，配专属套件",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息含具体价格、尺寸、动力及续航数据，来源可靠"
+    },
+    {
+      "title": "微星推出其首款电竞桌 MAG TA10：双电机智能升降，2699 元起",
+      "link": "https://www.ithome.com/1/030/893.htm",
+      "pubDate": "Mon, 23 Nov 2026 06:13:24 GMT",
+      "contentSnippet": "IT之家 11 月 23 日消息，微星 (MSI) 本月 21 日正式推出其该品牌首款电竞桌 MAG TA10。这一型号搭载捷昌双电机驱动系统，支持升降，售价 2699 元起。\n\nMAG TA10 主体采用铝合金 + 冷轧钢框架，搭配静电喷粉工艺 25mm 纤维板，拥有斜面前沿和曲面边缘。其集成双面电源插座（提供 USB-A、USB-C、多个五孔插座），整合内嵌式理线槽，设有键盘按键式手动控制器。\nIT之家了解到，微星 MAG TA10 可选 1.2×0.6 (m) 双节腿、1.4×0.7 (m) 三节腿、1.6×0.7 (m) 三节腿，价格分别为 2699 / 2999 / 3299 元。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "微星推出首款电竞桌MAG TA10，双电机升降，2699元起",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，产品规格、尺寸、价格等信息具体详实，来源明确"
+    },
+    {
+      "title": "鸿蒙版醒图新版本上线：AI修图「不烧心」",
+      "link": "https://www.ifanr.com/1690991?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pubDate": "Mon, 23 Nov 2026 06:07:33 +0000",
+      "contentSnippet": "手边刚好有舍不得删又不好修的照片？可以先拿它试试。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "sourceName": "爱范儿",
+      "sourceWeight": 82,
+      "allSources": [
+        "爱范儿"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "鸿蒙版醒图新版本上线，主打AI修图功能",
+      "credibilityScore": 65,
+      "credibilityLevel": "medium",
+      "credibilityReason": "知名科技媒体但内容极简略，仅标题和引导语，缺少技术细节和数据支撑"
+    },
+    {
+      "title": "亚马逊推出《宝可梦》24 部动画电影蓝光合集：精灵球造型包装，售 399.99 美元",
+      "link": "https://www.ithome.com/1/030/891.htm",
+      "pubDate": "Mon, 23 Nov 2026 06:07:06 GMT",
+      "contentSnippet": "IT之家 11 月 23 日消息，亚马逊与 Viz Media 共同推出《宝可梦》24 部动画电影蓝光合集，并由亚马逊独家销售，售价为 399.99 美元（IT之家注：现汇率约合 2,672 元人民币）。\n\n亚马逊商品页面显示，该合集名为《Pokémon: 24-Movie Collection》（Amazon Exclusive Limited Edition Blu-ray），共包含 16 张蓝光碟，收录《宝可梦》系列全部 24 部动画电影，总时长为 36 小时 41 分钟。\n\n其中收录了从 1998 年上映的首部剧场版《宝可梦：超梦的逆袭》，一直延续至 2020 年上映的《宝可梦：皮卡丘",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "亚马逊独家推出《宝可梦》24部电影蓝光合集，精灵球包装售399.99美元。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息具体含产品细节、价格、碟数及时长，有商品页面出处。"
+    },
+    {
+      "title": "自变量发布具身基础模型 WALL-OSS-1.0，零样本真机成功率达 55.1%",
+      "link": "https://www.ithome.com/1/030/890.htm",
+      "pubDate": "Mon, 23 Nov 2026 06:06:12 GMT",
+      "contentSnippet": "IT之家 11 月 23 日消息，自变量今日发布新一代具身基础模型 WALL-OSS-1.0。该模型将预训练本身当作智能的来源，而非后续任务微调的起点。\n据介绍，这款模型的训练分为两个阶段：一阶段让动作数据前置加入训练，配合多模态数据，让“理解世界”和“动手干活”在同一套权重里成形；二阶段加入动作专家，学习精确、高效的动作生成。\nIT之家注意到，该模型在 RoboDojo 榜单仿真赛道中位列单模型能力第一名，超越使用 Astra、Opus 5.5 等十万亿参数模型的 Agent 策略。多种真机测试中零样本成功率可达 55.1%。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "自变量发布具身基础模型WALL-OSS-1.0，零样本真机成功率55.1%",
       "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，但标题设问式、正文摘要简略，缺少具体数据和原始出处。"
+      "credibilityReason": "IT之家为知名科技媒体，信息含具体模型名与数据，但缺原始论文或官方链接，技术细节简略"
     },
     {
-      "title": "利润掉队，扫地茅要过紧日子",
-      "link": "https://www.tmtpost.com/8213409.html",
-      "pubDate": "Sat, 21 Nov 2026 13:05:34 +0800",
-      "contentSnippet": "还有领先吗？",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "韩国私募股权基金 MBK Partners 计划私有化 Wacom",
+      "link": "https://www.ithome.com/1/030/889.htm",
+      "pubDate": "Mon, 23 Nov 2026 06:01:17 GMT",
+      "contentSnippet": "IT之家 11 月 23 日消息，根据 Wacom（和冠）官网当地时间 20 日公告，韩国私募股权基金 MBK Partners 计划收购这家诞生于日本的数字书写解决方案与技术企业并使其私有化退市。\n这笔公开要约收购预计将于 2027 年 2 月启动，对公众股东的股票收购价为每股 1,030 日元。按此计算，该交易对 Wacom 整体股权的估值为 1,390.5 亿日元（现汇率约合 58.49 亿元人民币）。\n\nWacom 的现有股东中，三星电子（持股约 6.32%）计划将其获得的交易对价重新投资到收购方的母公司中，保持对 Wacom 的持股。Wacom 现任社长兼首席执行官井出信孝（持股约",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "钛媒体"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体报道扫地机器人企业利润下滑，面临经营压力",
-      "credibilityScore": 65,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，但正文仅一句反问，缺乏具体数据与细节支撑"
-    },
-    {
-      "title": "生死存亡时刻，老钱腾讯也“慌”了",
-      "link": "https://www.tmtpost.com/8213296.html",
-      "pubDate": "Sat, 21 Nov 2026 13:05:32 +0800",
-      "contentSnippet": "马化腾也坐不住了。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体称马化腾在腾讯生死存亡时刻也坐不住了",
-      "credibilityScore": 45,
-      "credibilityLevel": "low",
-      "credibilityReason": "标题煽动性夸张，正文仅一句无实质信息，缺乏数据与原始出处"
-    },
-    {
-      "title": "锡价一周跌超10%，全球突然不缺锡了？",
-      "link": "https://www.tmtpost.com/8213240.html",
-      "pubDate": "Sat, 21 Nov 2026 13:05:30 +0800",
-      "contentSnippet": "印尼矿业政策再添变数，产能恢复与AI需求预期分歧扰动锡价。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "印尼矿业政策变数叠加产能恢复与AI需求分歧，锡价一周跌超10%",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "钛媒体为知名科技财经媒体，标题含疑问但正文点明政策与供需因素，信息较具体，缺原始数据出处"
-    },
-    {
-      "title": "东南亚AI中间商之死",
-      "link": "https://www.tmtpost.com/8213274.html",
-      "pubDate": "Sat, 21 Nov 2026 13:05:28 +0800",
-      "contentSnippet": "算力中间商的淘金时代，结束了。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体分析东南亚算力中间商模式终结，淘金时代结束",
-      "credibilityScore": 65,
-      "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体但正文仅一句摘要，缺乏数据、案例和原始出处，信息过于简略"
-    },
-    {
-      "title": "欧盟少了9.5亿件跨境包裹，国内卖家的长尾生意还能做吗？",
-      "link": "https://www.tmtpost.com/8213269.html",
-      "pubDate": "Sat, 21 Nov 2026 13:05:27 +0800",
-      "contentSnippet": "今年7月1日起，欧盟取消了价值不超过150欧元的进口小包裹关税豁免，对包裹内不同海关税目类别的商品分别征收3欧元临时关税。11月1日起，欧盟又增加了2欧元的海关处理费。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "欧盟取消小包裹关税豁免并加征费用，影响国内跨境卖家",
-      "credibilityScore": 82,
+      "aiSummary": "韩国MBK Partners拟以1390.5亿日元私有化Wacom，2027年2月启动要约收购。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，政策细节具体含时间与金额，但缺少官方文件引用"
+      "credibilityReason": "来源为知名科技媒体IT之家，引用Wacom官网公告，含具体收购价、估值及股东持股数据，信息详实。"
     },
     {
-      "title": "在泡泡玛特拆盒的人，不为谁拆",
-      "link": "https://www.tmtpost.com/8213227.html",
-      "pubDate": "Sat, 21 Nov 2026 13:05:24 +0800",
-      "contentSnippet": "逛门店的小笔记。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
+      "title": "电动方程式 2027 季前测试发生严重事故：测试车起火爆燃，车手及时撤离未受伤",
+      "link": "https://www.ithome.com/1/030/882.htm",
+      "pubDate": "Mon, 23 Nov 2026 05:52:18 GMT",
+      "contentSnippet": "IT之家 11 月 23 日消息，当地时间 11 月 20 日，电动方程式（Formula E）2027 赛季季前测试在西班牙马德里哈拉马（Jarama）赛道发生严重事故。\n当天，英国车手泰勒 · 巴纳德（Taylor Barnard）在哈拉马赛道驾驶新世代（Gen4）赛车进行季前测试时突发起火爆炸，导致测试提前结束。好在车手本人在爆燃之前及时脱离赛车，未受伤。\n\n据 Motorsport 报道，事故发生在当天测试进入最后一小时之际。巴纳德驾驶的 Fusion 车队赛车突然冒烟，随后停在赛道上。巴纳德逃离驾驶舱后，赛车迅速被火焰吞没，并发生爆炸，现场升起大量浓烟。\n事故发生后，赛道立即出示红旗",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
       "allSources": [
-        "钛媒体"
+        "IT之家"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "钛媒体发布泡泡玛特拆盒现象观察笔记，内容简略。",
-      "credibilityScore": 55,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体，但正文仅一句摘要，缺少具体事实与数据支撑。"
+      "aiSummary": "电动方程式2027赛季季前测试中Gen4赛车起火爆炸，车手安全撤离",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，引用Motorsport报道，事件细节具体，时间地点人物清晰"
+    },
+    {
+      "title": "魏建军再测长城 001 号超跑，称“进步显著”",
+      "link": "https://www.ithome.com/1/030/879.htm",
+      "pubDate": "Mon, 23 Nov 2026 05:51:42 GMT",
+      "contentSnippet": "IT之家 11 月 23 日消息，长城汽车董事长魏建军今日发布视频，再次对长城 001 号超级跑车进行测试。他表示，距上一次测试已过去两周，此次测试车辆进步显著，希望进一步加快调校速度，尽早取得更加完善的结果。\n\n在视频中，魏建军谈到了长城研发超级跑车的初衷。他表示，自己早在 25 年前就有了打造超级跑车的想法；当时为了研究全球标杆车型，团队陆续购买了莲花、丰田、兰博基尼、法拉利等品牌的跑车，累计超过 20 台。\n魏建军认为，经过 20 多年的技术积累，如今团队已具备打造超级跑车的技术储备，市场环境也更加成熟。他表示：“我认为，这个时代造跑车，恰逢其时。”此前关于打造超级跑车的冲动和愿望，如今",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "魏建军再测长城001号超跑，称进步显著并希望加快调校",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，内容基于高管视频发言，但缺乏技术参数等具体细节"
     }
   ]
 }
