@@ -1,14 +1,116 @@
 {
-  "generatedAt": "2026-11-23T06:39:21.407Z",
+  "generatedAt": "2026-11-24T09:07:34.243Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "一周图片｜神舟二十四号将于近日择机发射，迎首位外籍航天员",
-      "link": "https://m.thepaper.cn/newsDetail_forward_34533574",
-      "pubDate": "Mon, 23 Nov 2026 06:13:12 GMT",
-      "contentSnippet": "一周国内\n神舟二十四号近日择机发射，将迎首位外籍航天员\n\n2026年11月17日，神舟二十四号载人飞船与长征二号F遥二十四运载火箭组合体已转运至发射区。 视觉中国 图\n\n\n神舟二十四号载人飞船与长征二号F遥二十四运载火箭组合体已于11月17日转运至酒泉卫星发射中心发射区，11月21日完成发射场区全系统合练，计划近日择机实施发射。本次任务将搭载1名巴基斯坦航天员以载荷专家身份执行短期在轨飞行，系中国载人航天工程历史上首次中外航天员联合飞行，航天员系统已配套中英文双语操作手册及清真航天食品保障。目前发射场设施设备状态良好，针对初冬低温天气已采取箭体保温与塔架温控措施。\nAPEC工商领导人峰会闭幕，",
+      "title": "走出大山赴港澳 陇原少年开启行走的家国课堂",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-24/10737037.shtml",
+      "pubDate": "Tue, 24 Nov 2026 16:49:41 +0800",
+      "contentSnippet": "中新网兰州11月24日电 (田鹏鹤 丁思)“香港、澳门曾经只存在于课本与荧幕之中，如今有幸走进港澳，内心十分激动、振奋。”24日，来自甘肃省临夏州积石山县田家炳中学的李昊燕在兰州发言说，期待与港澳青少年交流学习、互通经验，将此行的所见所学带回故乡、分享传递。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "甘肃临夏学生赴港澳开展研学交流活动，学生代表表达期待。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，属较权威媒体；有具体时间、地点、人物及直接引述，内容具体可查证。"
+    },
+    {
+      "title": "中柬“金龙—2026”联合演习筹备工作稳步推进",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-24/10737008.shtml",
+      "pubDate": "Tue, 24 Nov 2026 16:49:07 +0800",
+      "contentSnippet": "中新网金边11月24日电 (杨晓敏 邓小胜 杨强)根据中国国防部24日发布的消息，中国和柬埔寨两国军队将在柬举行“金龙—2026”联合演习。中方参演部队自11月22日抵达中柬云壤港联合保障和训练中心以来，与柬方密切协同，筹备工作有序稳步推进。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中柬两军将于柬埔寨举行“金龙—2026”联合演习，筹备工作正稳步推进。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，引述中国国防部官方消息，时间地点人物具体，内容客观中性。"
+    },
+    {
+      "title": "“十五五”期间 山西国资国企这样改革",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-24/10737011.shtml",
+      "pubDate": "Tue, 24 Nov 2026 16:46:12 +0800",
+      "contentSnippet": "中新网太原11月24日电 (记者 范丽芳)当前，各地正密集部署新一轮国资国企改革。“十五五”期间山西国资国企怎么改？24日，山西举行“开局起步‘十五五’”系列主题新闻发布会，山西省国资委副主任李强提出，将加强国有企业风险管控，推动整治共性突出问题，分类分层监管企业负债，规范资本运作。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "山西国资委发布会介绍“十五五”期间国资国企改革重点方向。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "中新网为权威媒体，有具体发布会、人物及引述，信息可查证。"
+    },
+    {
+      "title": "中国（重庆）—东盟科技合作交流会在重庆召开",
+      "link": "https://www.chinanews.com.cn/aseaninfo/2026/11-24/10737048.shtml",
+      "pubDate": "Tue, 24 Nov 2026 16:44:20 +0800",
+      "contentSnippet": "中新网重庆11月24日电 (钟旖 程春雨)中国(重庆)—东盟科技合作交流会24日在重庆举行。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中国（重庆）—东盟科技合作交流会11月24日在重庆举行。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网（权威媒体），信息含具体时间地点，但报道简短、细节有限。"
+    },
+    {
+      "title": "上海222个街镇园区反诈防范服务平台投用",
+      "link": "https://www.chinanews.com.cn/sh/2026/11-24/10736967.shtml",
+      "pubDate": "Tue, 24 Nov 2026 16:44:12 +0800",
+      "contentSnippet": "中新网上海11月24日电 (记者 李姝徵)上海警方24日披露，上海全市222个街镇(园区)“守护群众钱袋子”防范服务平台已全部建成投入运行。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "上海222个街镇园区反诈防范服务平台全部建成投用",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "中新网为权威媒体，有记者署名和具体数据，信息可查证，用词客观"
+    },
+    {
+      "title": "思邈传薪火 同心助秦药——陕港澳携手助推秦药扬帆出海",
+      "link": "https://www.chinanews.com.cn/txy/2026/11-24/10736998.shtml",
+      "pubDate": "Tue, 24 Nov 2026 16:42:42 +0800",
+      "contentSnippet": "11月20日，由省委统战部指导，省知联会、省贸促会联合主办的“同心汇智·弘药致远”——陕港澳中医药产业协同发展圆桌交流活动在西安国际会展中心举办。省委统战部副部长虞浩桂出席活动。省贸促会党组书记王宏伟，省卫健委党组成员、省中医药管理局局长雷颖，陕西中医药大学副校长唐于平，陕药集团副总经理朱岩冰，盘龙药业副总裁陈哲坤出席活动并分别围绕展会资源对接、产业对外开放、标准科创建设及企业出海需求作情况介绍。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "陕港澳中医药产业协同发展圆桌交流活动在西安举办，多方代表出席。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，属较权威媒体；时间地点人物具体，有官方职务和活动细节，用词客观。"
+    },
+    {
+      "title": "从供应链交易到进出口数据，外贸企业如何将经营信用转化为融资？",
+      "link": "https://m.thepaper.cn/newsDetail_forward_34545122",
+      "pubDate": "Tue, 24 Nov 2026 07:54:14 GMT",
+      "contentSnippet": "有订单、有交易记录，却未必有足够的抵押物。对于不少外贸企业而言，如何将真实经营活动转化为融资信用，是资金周转中的一道难题。\n近日，澎湃新闻记者在浙江宁波调研发现，一些外贸龙头企业正从传统制造商向供应链组织者转型，融资需求随之向上下游中小企业延伸；与此同时，部分轻资产外贸企业则面临采购付款与销售回款之间的资金周转压力。\n面对不同类型企业的融资需求，银行也在尝试利用供应链交易关系、进出口及收汇数据等信息，采取差异化授信方式。\n从制造商到供应链组织者，融资需求向上下游延伸\n总部位于宁波的贝发集团股份有限公司（下称贝发集团），是国内文具文创行业龙头，也是国家制造业单项冠军企业。其产品销往全球近200个",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -16,84 +118,51 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "神舟二十四号近日择机发射，将首次搭载巴基斯坦航天员联合飞行。",
-      "credibilityScore": 82,
+      "aiSummary": "澎湃新闻调研宁波外贸企业，探讨经营信用转化为融资的实践。",
+      "credibilityScore": 78,
       "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为国内较权威媒体，信息具体含时间地点数据，但外籍航天员细节需官方确认。"
+      "credibilityReason": "澎湃新闻为知名媒体，记者实地调研，有具体企业案例，但非一线通讯社，细节略简。"
     },
     {
-      "title": "中国证券金紫荆奖等19个奖项获奖名单在港公布",
-      "link": "https://www.chinanews.com.cn/dwq/2026/11-23/10736406.shtml",
-      "pubDate": "Mon, 23 Nov 2026 14:12:04 +0800",
-      "contentSnippet": "中新网香港11月23日电 (记者 邱兆翔)由香港大公文汇传媒集团主办的第十六届香港国际金融论坛暨第七届领航“9+2”粤港澳大湾区发展论坛23日在香港开幕。连续两日的论坛以“聚力创新发展 深化区域合作 共绘‘十五五’发展蓝图”为主题。中国证券金紫荆奖与领航“9+2”粤港澳大湾区年度评选的获奖名单亦于当日公布。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
+      "title": "全球科技股强势反弹 A股港股掉队",
+      "link": "https://www.zaobao.com.sg/news/china/story20261124-10049317",
+      "pubDate": "Tue, 24 Nov 2026 07:27:54 GMT",
+      "contentSnippet": "晶片巨头英伟达创办人黄仁勋复职，提振市场对人工智能（AI）产业的投资信心，亚太股市星期二（11月24日）普遍大涨，台湾股市领涨，中国大陆股市涨幅有限，港股高开低走。\n英伟达星期一（11月23日）宣布恢复黄仁勋的总裁、首席执行官和董事职务，带动公司股价飙涨31.5%。美国纳斯达克指数当天大涨6.5%，标普500指数上涨4.7%，结束连续七个交易日的跌势。\n受隔夜美股大涨带动，韩国综合指数星期二盘中涨逾6%，三星电子和SK海力士股价大幅攀升。日本日经225指数上涨3.9%。\n台湾股市领涨亚太市场，加权指数收盘飙涨8.99%至40122.35点，单日上涨3310.46点，创历史最大单日上涨点数纪录。",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
       "allSources": [
-        "中国新闻网"
+        "联合早报·中港台"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "第十六届香港国际金融论坛在港开幕，公布金紫荆奖等19个奖项名单。",
-      "credibilityScore": 85,
+      "aiSummary": "英伟达宣布黄仁勋复职提振全球科技股，亚太股市普涨但A股港股相对疲弱。",
+      "credibilityScore": 72,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，属权威媒体，信息具体含时间地点主办方，用词客观。"
+      "credibilityReason": "来源为知名媒体联合早报，数据具体可查证，但黄仁勋复职事件需交叉核实。"
     },
     {
-      "title": "呼伦贝尔推动冬季文旅与绿色农畜产品对接粤港澳大湾区市场",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-23/10736397.shtml",
-      "pubDate": "Mon, 23 Nov 2026 14:08:24 +0800",
-      "contentSnippet": "中新网广州11月23日电 (记者 程景伟)“粤过山海 呼约雪原”2026呼伦贝尔冬季文旅与绿色农畜产品粤港澳大湾区推介会22日在广州举办。",
-      "sourceName": "中国新闻网",
+      "title": "外交部：对中国空间站将迎来首个外籍航天员充满期待，预祝任务圆满成功",
+      "link": "https://m.thepaper.cn/newsDetail_forward_34546551",
+      "pubDate": "Tue, 24 Nov 2026 07:21:03 GMT",
+      "contentSnippet": "11月24日，外交部发言人郭嘉昆主持例行记者会。\n彭博社记者提问，一名巴基斯坦航天员将搭乘中国的神舟二十四号飞船升空，成为中国载人航天史上首位外国航天员。外交部对此有何评论？\n郭嘉昆表示，中国和巴基斯坦航天员携手进入中国空间站“天宫”，将是中国载人航天工程史上首次中外航天员联合飞行，也是中国空间站首次迎来外籍航天员。中国和巴基斯坦是全天候战略合作伙伴，此次联合飞行将是中巴建交75周年之际，两国合作取得的又一重要成果。\n“我们对这一航天盛事充满期待，预祝任务取得圆满成功。”郭嘉昆说。",
+      "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
-        "中国新闻网"
+        "澎湃新闻",
+        "央视新闻"
       ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "呼伦贝尔在广州举办冬季文旅与绿色农畜产品大湾区推介会",
-      "credibilityScore": 85,
+      "coverageCount": 2,
+      "coverageBoost": 5,
+      "aiSummary": "外交部回应巴基斯坦航天员将首登中国空间站，预祝任务成功。",
+      "credibilityScore": 97,
       "credibilityLevel": "high",
-      "credibilityReason": "中新网为权威媒体，记者署名，时间地点明确，内容具体可查证"
+      "credibilityReason": "来源为央视新闻和澎湃新闻，外交部例行记者会有直接引述，信息具体可查证。（多源覆盖 +5）"
     },
     {
-      "title": "从柬埔寨稻田到中国餐桌：一粒香米的“跨国旅程”",
-      "link": "https://www.chinanews.com.cn/aseaninfo/2026/11-23/10736392.shtml",
-      "pubDate": "Mon, 23 Nov 2026 14:06:15 +0800",
-      "contentSnippet": "【东盟专线】从柬埔寨稻田到中国餐桌：一粒香米的“跨国旅程”",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中新网报道柬埔寨香米从稻田到中国餐桌的跨国供应链过程。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，属较权威媒体；内容为具体专题报道，但摘要信息有限，缺少直接引述细节。"
-    },
-    {
-      "title": "“欧美—中国（川渝）—东盟”跨境游精品线路在重庆发布",
-      "link": "https://www.chinanews.com.cn/aseaninfo/2026/11-23/10736390.shtml",
-      "pubDate": "Mon, 23 Nov 2026 14:04:13 +0800",
-      "contentSnippet": "【东盟专线】“欧美—中国(川渝)—东盟”跨境游精品线路在重庆发布",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "重庆发布连接欧美、川渝与东盟的跨境旅游精品线路。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，属较权威媒体；信息具体，有明确发布地点和主题，但正文细节有限。"
-    },
-    {
-      "title": "全球前瞻｜瑞士外长本周访华，西班牙提前大选极右翼“入阁”在望",
-      "link": "https://m.thepaper.cn/newsDetail_forward_34538328",
-      "pubDate": "Mon, 23 Nov 2026 05:47:46 GMT",
-      "contentSnippet": "本周11月23日-11月29日\n据新华社报道，外交部发言人22日宣布：应中共中央政治局委员、外交部长王毅邀请，瑞士联邦副主席兼外长卡西斯将于11月23日至24日访华并举行中瑞第五轮外长级战略对话。\n据中新社报道，2026中国-东盟周将于11月23日在重庆举行开幕式。今年中国-东盟周活动以“深化战略合作 联通共享繁荣”为主题，涵盖多边对话、经贸合作、互联互通、科技创新、人文交流等多个领域，旨在推动重庆与东盟国家全面深化务实合作。\n11月29日，西班牙将举行议会选举。西班牙首相桑切斯10月5日宣布提前举行议会选举，投票将于11月29日举行。此次提前选举距离原定最晚举行选举的时间还有近一年。\n\n瑞士",
+      "title": "中方对黄仁勋重回英伟达有何评论？外交部回应",
+      "link": "https://m.thepaper.cn/newsDetail_forward_34546549",
+      "pubDate": "Tue, 24 Nov 2026 07:15:46 GMT",
+      "contentSnippet": "11月24日，外交部发言人郭嘉昆主持例行记者会。\n彭博社记者提问，英伟达董事会重新任命黄仁勋为负责人，此前他因为丑闻辞职，美国政府对此进行了介入。中方对此有何评论？\n“我们对此不做评论。”郭嘉昆说。",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -101,84 +170,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "瑞士外长本周访华，西班牙提前大选极右翼有望入阁",
+      "aiSummary": "外交部回应黄仁勋重回英伟达提问，表示不做评论。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为知名媒体，引述新华社、中新社等权威来源，信息具体可查证"
+      "credibilityReason": "来源为澎湃新闻，引述外交部例行记者会实录，信息具体可查证。"
     },
     {
-      "title": "史上“拖堂”最久COP31闭幕：共识难产，考题后移",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-23/10736366.shtml",
-      "pubDate": "Mon, 23 Nov 2026 13:43:34 +0800",
-      "contentSnippet": "中新社土耳其安塔利亚11月23日电 (记者 陈溯)当地时间22日，《联合国气候变化框架公约》第三十一次缔约方大会(COP31)在延时两天后落下帷幕，但未能就最终政治决定达成共识，即未能形成一份各缔约方共同认可的整体政治成果。反复修改的文本、一再推迟的闭幕全体会议，最终在各方此起彼伏的“失望”声中收场。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "COP31延时两天闭幕，未达成整体政治共识，各方表示失望。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "中新社为权威通讯社，有署名记者和具体时间地点，内容客观具体，可交叉验证。"
-    },
-    {
-      "title": "澳大利亚拟维持处方药最高自付额",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-23/10736371.shtml",
-      "pubDate": "Mon, 23 Nov 2026 13:43:22 +0800",
-      "contentSnippet": "中新社悉尼11月23日电 (记者 薄雯雯)澳大利亚总理阿尔巴尼斯23日宣布，政府拟将药品福利计划(PBS)所列药品的一般患者每张处方最高自付额维持在25澳元，直至2030年，以减轻民众购药负担。政府将推动立法落实这一措施。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "澳总理宣布拟将PBS药品处方最高自付额维持25澳元至2030年。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "中新社为权威通讯社，有署名记者、具体时间人物及政策细节，信息可查证。"
-    },
-    {
-      "title": "免签政策助推昆明机场往来中泰出入境人员破100万人次",
-      "link": "https://www.zaobao.com.sg/news/china/story20261123-10041808",
-      "pubDate": "Mon, 23 Nov 2026 04:04:00 GMT",
-      "contentSnippet": "在免签政策的助推下，昆明机场往来中泰出入境人员破100万人次。\n综合《中国日报》和澎湃新闻报道，昆明出入境边防检查站星期天（11月22日）消息称，截至当天中午12时，昆明长水国际机场2026年往来中泰国际航班6860余架次，出入境人员已达102万人次，展现中泰免签红利持续释放。\n目前昆明已开通至泰国曼谷、清迈、普吉三座城市直飞客运航线，冬航季国际运力持续发力，中泰航班日均达21架次，单日峰值最多可达29架次。\n据报道，从客流结构来看，102万人次出入境人员中，中国大陆居民及港澳台居民73万人次。外国籍人员中，泰国籍旅客增幅明显，在外国籍人员中占比84%，比去年同期增长20%。泰国籍入境人员中利",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "免签政策助推昆明机场中泰出入境人员突破100万人次",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "联合早报转引中国日报和澎湃新闻，数据具体，来源可查证，但非一线通讯社原创"
-    },
-    {
-      "title": "彭博：中国黄金进口激增 压低账面贸易顺差增幅",
-      "link": "https://www.zaobao.com.sg/news/china/story20261123-10041729",
-      "pubDate": "Mon, 23 Nov 2026 03:03:56 GMT",
-      "contentSnippet": "中国今年前10个月黄金进口额激增至创纪录的2090亿美元（约2700亿新元），占同期进口总额近8%。分析指出，大规模黄金进口在账面上压低了中国的商品贸易顺差，或有助缓解与主要贸易伙伴的贸易摩擦。但黄金等商品进口额激增，也掩盖了国内需求持续疲弱的问题。\n据彭博社星期一（11月23日）报道，中国非货币黄金进口自今年1月起大幅增加，当月进口额及进口量均较前一个月增长逾一倍。此后进口持续攀升，今年前10个月累计进口额创下历史新高。\n这波黄金采购热潮，恰逢中国副总理何立峰今年1月在瑞士达沃斯世界经济论坛上，承诺推动中国从“世界工厂”转型为“世界市场”。\n随着中国与欧盟等主要贸易伙伴的紧张关系升温，大规模",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "彭博报道中国前10月黄金进口额创纪录达2090亿美元，账面压低贸易顺差。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "联合早报转引彭博社，数据具体可查，但非一线通讯社原发，部分分析属推测。"
-    },
-    {
-      "title": "内坦亚胡艾森科特就组阁结束谈判 未达成协议",
-      "link": "https://www.zaobao.com.sg/news/world/story20261123-10041416",
-      "pubDate": "Mon, 23 Nov 2026 02:34:03 GMT",
-      "contentSnippet": "以色列看守总理内坦亚胡所属的利库德集团，与竞争对手艾森科特所属的政党星期天（11月22日）结束新一轮谈判，但双方仍未能就组建联合政府达成协议。若要组成联合政府，双方都必须作出让步。\n法新社报道，艾森科特领导的“正直党”（Yashar）与内坦亚胡领导的利库德集团，在特拉维夫一家酒店举行了四小时会谈。这是双方继上周首轮磋商后的第二轮谈判。\n两党发表联合声明说：“最新一轮联合政府谈判已经结束。双方就一系列实质性议题阐明了各自的立场，并进行了深入讨论。”\n声明补充说，双方将举行后续会议，但没有说明具体日期，也没有透露其他细节。\n艾森科特必须在12月6日前组建政府，并可申请将组阁期限延长14天。此前10",
+      "title": "美国防长尚未批准向乌克兰交付60枚爱国者导弹",
+      "link": "https://www.zaobao.com.sg/news/world/story20261124-10049100",
+      "pubDate": "Tue, 24 Nov 2026 07:02:02 GMT",
+      "contentSnippet": "英国《金融时报》星期二（11月24日）引述知情人士报道，美国国防部长赫格塞斯尚未批准向乌克兰交付约60枚华盛顿此前已同意提供的爱国者防空拦截导弹。\n乌克兰多次表明，迫切需要更多拦截导弹，以应对俄罗斯日益频繁的导弹和无人机袭击。\n报道说，这批拦截导弹包括美国制造的爱国者三型（PAC-3）和爱国者二型（PAC-2）导弹，其中一些存放在欧洲的武器库中，由乌克兰的西方盟友出资购买。\n《金融时报》说，尚未交付的导弹包括原定于今年9月至12月交付的爱国者三型拦截导弹，但这些导弹至今均未获准移交。\n此外，约20枚较旧型号的爱国者二型拦截导弹也已划拨给乌克兰，但仍有待批准交付。\n《金融时报》也报道，另一项旨在",
       "sourceName": "联合早报·国际",
       "sourceWeight": 80,
       "allSources": [
@@ -186,66 +187,15 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "内坦亚胡与艾森科特组阁谈判结束，未达成协议。",
-      "credibilityScore": 82,
+      "aiSummary": "联合早报引述金融时报称美防长未批准向乌交付约60枚爱国者导弹",
+      "credibilityScore": 78,
       "credibilityLevel": "high",
-      "credibilityReason": "联合早报转载法新社，有具体时间地点及联合声明引述，信息可查证。"
+      "credibilityReason": "联合早报转引金融时报知情人士报道，细节具体但属二手转述，缺官方直接回应"
     },
     {
-      "title": "续任中共江西省委书记 尹弘：新一届省委要践行正确政绩观",
-      "link": "https://www.zaobao.com.sg/news/china/story20261123-10041449",
-      "pubDate": "Mon, 23 Nov 2026 02:22:14 GMT",
-      "contentSnippet": "中国共产党江西省第十六届委员会第一次全体会议星期天（11月22日）在南昌举行，全会选举尹弘续任江西省委书记。尹弘在会上说，新一届省委要深入贯彻中共总书记习近平总书记考察江西重要讲话精神，牢固树立和践行正确政绩观。\n据《江西日报》报道，尹弘受省第十六次党代会大会主席团的委托，主持上述会议。全会以无记名投票方式，选举尹弘、陈永奇、庄兆林、黄喜忠、时玉宝、盛秋平、陈敏、张莹、刘金波、杨勇、许南吉、严允、陈克龙13人为中共江西省第十六届委员会常务委员会委员；选举尹弘为省委书记，陈永奇、庄兆林为省委副书记。\n尹弘当选后在会上说，全会选举他继续担任省委书记，深感重任在肩、使命如山，定将尽心竭力办好江西的事",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "尹弘续任中共江西省委书记，强调新一届省委要践行正确政绩观。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报，引述《江西日报》官方报道，信息具体含时间地点人物，用词客观。"
-    },
-    {
-      "title": "中东睿评｜“蓝潮”与铁律：美以伊战争如何反噬美国国内政治",
-      "link": "https://m.thepaper.cn/newsDetail_forward_34502147",
-      "pubDate": "Mon, 23 Nov 2026 01:49:44 GMT",
-      "contentSnippet": "2026年11月初，美以伊战争仍处在“战和两难”的复杂僵局之中，但其引发的政治冲击波却在大洋彼岸的华盛顿和地中海东岸的特拉维夫持续发酵。随着美国中期选举尘埃落定，民主党以“蓝潮”之势夺回国会参众两院控制权，证明了美以伊战争深刻重塑美国国内政治的巨大力量，也将对特朗普剩余两年任期的对伊政策构成结构性掣肘；与此同时，以色列议会选举也陷入内塔尼亚胡领导的右翼联盟与前国防部长领导的反对派之间对立的僵局，以色列总统赫尔佐格正式将组阁权交给埃森科特，标志着内塔尼亚胡持续近20年的执政生涯走到了关键的转折点。\n由此可见，在至今仍深陷僵局的美以伊战争中，冲突各方尤其是美国和以色列不仅未能实现其战争目标，却深刻",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "评论分析美以伊战争对美以国内政治的冲击，民主党中期选举获胜，以色列政局变动。",
-      "credibilityScore": 65,
-      "credibilityLevel": "medium",
-      "credibilityReason": "澎湃新闻为知名媒体但非一线通讯社，文章为评论分析，含预测性内容，事实细节需交叉验证。"
-    },
-    {
-      "title": "报告：伊朗战争削弱美国实力 中美实力差距进一步缩小",
-      "link": "https://www.zaobao.com.sg/news/china/story20261123-10041211",
-      "pubDate": "Mon, 23 Nov 2026 01:36:07 GMT",
-      "contentSnippet": "澳大利亚智库最新报告指出，受伊朗战争及单边主义政策影响，美国在亚洲的军事能力和外交影响力受到削弱，使中美综合实力差距缩小至2018年以来的最低水平。\n澳大利亚洛伊国际政策研究所星期天（11月22日）发布的《2026年亚洲实力指数》报告显示，美国的综合实力得分为78.9分，中国则以73.6分位居第二，双方仅相差5.3分，创下该指数2018年首次发布以来的最小差距。 \n美国的综合实力得分较去年下降1.5分，是今年跌幅最大的国家，中国则大致维持去年的水平。报告指出，中美实力差距缩小，主要是美国自身政策失误所致，而非中国实力取得重大突破。 \n洛伊研究所将“综合实力”定义为一个国家塑造外部环境，以及影响",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "澳智库报告称伊朗战争削弱美国实力，中美综合实力差距缩至2018年来最小。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报，引述洛伊研究所具体报告及数据，信息可查证，用词客观。"
-    },
-    {
-      "title": "时政纪录片丨共创亚太美好未来——习近平主席出席亚太经合组织第三十三次领导人非正式会议及相关活动纪实",
-      "link": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=17411410161520338306&toc_style_id=feeds_default&share_to=copy_url&track_id=e4191538-c3b4-49f0-9f3f-c469e69564a6",
-      "pubDate": "Mon, 23 Nov 2026 01:00:22 GMT",
+      "title": "一见·看中国，三座APEC之城的时间印记",
+      "link": "https://www.peopleapp.com/column/30053613223-500007797740",
+      "pubDate": "Tue, 24 Nov 2026 06:43:23 GMT",
       "contentSnippet": "",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
@@ -254,10 +204,61 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "澎湃新闻发布习近平出席亚太经合组织第三十三次领导人非正式会议纪实纪录片。",
+      "aiSummary": "澎湃新闻发表文章，以三座APEC举办城市为线索回顾中国参与APEC的历程。",
+      "credibilityScore": 65,
+      "credibilityLevel": "medium",
+      "credibilityReason": "澎湃为知名媒体但非一线通讯社，属宣传性综述报道，缺少具体数据与直接引述，事实可查证但主观色彩较强。"
+    },
+    {
+      "title": "台官方预计中国大陆后天发射火箭经过台ADIZ",
+      "link": "https://www.zaobao.com.sg/news/china/story20261124-10048951",
+      "pubDate": "Tue, 24 Nov 2026 06:34:07 GMT",
+      "contentSnippet": "台湾国防部称，预计中国大陆将在星期四（11月26日）发射运载火箭，火箭上空时将经过台湾的防空识别区（ADIZ）。\n根据台湾国防部官网星期二（24日）发布的通报，预计将在西昌卫星发射中心发射上述火箭，飞行方向为西太平洋。通报称，这份信息的来源为美国联邦航空总署。\n台湾国防部也公布，从星期一（23日）早上6时到星期二早上6时，发现三架次大陆军机、九艘大陆军舰持续在台海周边活动，其中逾越台海中线进入台湾西南及东部ADIZ计三架次。",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
+      "allSources": [
+        "联合早报·中港台"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "台湾国防部称大陆预计26日发射火箭将经过台防空识别区。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为澎湃新闻，属正规媒体；内容为官方时政纪录片，事实可查证，但正文摘要缺失，细节有限。"
+      "credibilityReason": "来源为联合早报，引述台国防部官网通报及美国联邦航空总署信息，细节具体可查证。"
+    },
+    {
+      "title": "宏福苑大火改革汇报 李家超要求尽速修订六法严打围标",
+      "link": "https://www.zaobao.com.sg/news/china/story20261124-10048785",
+      "pubDate": "Tue, 24 Nov 2026 06:10:31 GMT",
+      "contentSnippet": "香港特首李家超听取大埔宏福苑大火改革进度报告时，要求尽速修订六条法例，并严打围标。\n据香港政府公报，李家超星期一（11月23日）在特首主持会议，听取官员汇报港府为防止大埔宏福苑火灾事故再发生的系统改革和推行独立委员会报告建议的进度报告。\n他指示各政策局和部门全力推展改革工作，尽快将六条法例的修订草案提交立法会审议，要求跨部门特遣队全力出击严打围标，以及尽快落实成立楼宇维修支援及服务局等新措施。\n香港大埔宏福苑去年11月26日发生致命大火，造成168人罹难。\n港府今年10月29日公开独立委员会报告，并公布以独立委员会报告建议为基础推行六方面的系统性改革。之后，香港政务司司长陈国基在10月30日设",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
+      "allSources": [
+        "联合早报·中港台"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "李家超听取宏福苑大火改革汇报，要求尽速修订六条法例并严打围标。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为联合早报，引述香港政府公报，信息具体含时间人物数据，用词客观。"
+    },
+    {
+      "title": "安塔利亚的裂痕：从漫长加时到协议流产，COP31为何最终谈崩？",
+      "link": "https://m.thepaper.cn/newsDetail_forward_34545242",
+      "pubDate": "Tue, 24 Nov 2026 06:05:01 GMT",
+      "contentSnippet": "尽管已经连续三天几乎没怎么睡觉，澳大利亚气候变化与能源部长、COP31谈判主席克里斯·鲍文最终还是没能带来一份让各方都能接受的协议。\n当地时间11月22日，原定于20日结束的《联合国气候变化框架公约》第三十一次缔约方大会（COP31），在超时逾50个小时后黯然落幕。这场创下联合国气候大会“加时”纪录的谈判，最终未能就作为大会核心政治成果的“封面决定”达成共识。\n“坦率地讲，这次会议议题的分量与难度，本不至于带来这样一场‘崩盘’。”在安塔利亚见证了谈判过程的资深观察员、亚洲协会政策研究所中国气候中心总监李硕告诉澎湃新闻（www.thepaper.cn）。\n同样在现场全程跟进谈判的绿色和平东亚分部",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "COP31安塔利亚大会超时50小时仍未能达成核心协议，谈判宣告破裂。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "澎湃新闻为知名媒体，有现场专家直接引述，细节具体，但非一线通讯社，部分信息待交叉验证。"
     }
   ]
 }

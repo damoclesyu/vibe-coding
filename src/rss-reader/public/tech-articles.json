@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-23T06:40:31.761Z",
+  "generatedAt": "2026-11-24T09:08:49.374Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "美国网络安全事件频发：特朗普撤换国家网络总监，此前 FBI 国家犯罪信息中心疑似遭黑客入侵",
-      "link": "https://www.ithome.com/1/030/801.htm",
-      "pubDate": "Mon, 23 Nov 2026 03:53:18 GMT",
-      "contentSnippet": "IT之家 11 月 23 日消息，据央视新闻今日报道，美国总统特朗普已撤换美国国家网络总监肖恩 · 凯恩克罗斯（Sean Cairncross），并提名美国国防部首席信息官柯尔丝滕 · 戴维斯（Kirsten A. Davies）接任。\n此次人事调整发生在美国多个联邦政府机构接连曝出网络安全事件。IT之家此前报道，包括微软、苹果、AWS、联合航空等企业或机构发生系统故障，之前还有航空交通管理系统发生长时间通信中断，后续还有 Visa、摩根大通与万事达卡遭遇黑客攻击。\n\n当地时间 11 月 20 日，美国白宫发布公告称，特朗普已任命戴维斯领导白宫国家网络总监办公室。戴维斯此前担任美国国防部首席信",
+      "title": "影石经销商称 Luna 云台系列产品将于 12 月 15 日起涨价",
+      "link": "https://www.ithome.com/1/031/662.htm",
+      "pubDate": "Tue, 24 Nov 2026 09:05:48 GMT",
+      "contentSnippet": "IT之家 11 月 24 日消息，近日多家影石经销商发文，称影石 Luna 云台系列产品将于 12 月 15 日起涨价，涨价原因是“受半导体、存储等关键零部件价格及供应链综合成本抬升影响”。\n\n据IT之家此前报道，今年 6 月，影石发布旗下首款手持云台相机 Luna Ultra，定价 3999 元起；今年 8 月，影石推出 Luna Pro，定价 3399 元起。",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -16,102 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "特朗普撤换美国家网络总监，此前FBI等机构频发网络安全事件",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "IT之家转载央视新闻，有具体人名和日期，但正文截断且事件关联性表述较松散"
-    },
-    {
-      "title": "韩国防 AI 作弊新招：要求考生穿围裙考试、时隔 6 年重新收缴手机",
-      "link": "https://www.ithome.com/1/030/770.htm",
-      "pubDate": "Mon, 23 Nov 2026 02:02:34 GMT",
-      "contentSnippet": "IT之家 11 月 23 日消息，据韩媒报道，韩国第 28 届警卫指导师考试前日开考。据考生所述，本次考试加强了作弊防范力度，去年只要求将手机和手表放在包里，今年全部收走。考场还要求考生穿上餐馆使用的一次性围裙，各处都悬挂着禁止作弊的标语。\n\n受韩国一税务师榜首考生自曝使用 AI 作弊影响，韩国 753 种国家资格考试开始加强反作弊措施。尽管此前已宣布严格监考，但警卫指导师考试仍有 6 人因作弊行为被查处，违规情况包括让平板电脑或手机保持开机状态，以及佩戴智能手表等。\n负责管理韩国 528 种国家资格考试、占总数约 70% 的韩国产业人力公团表示，他们将加强 AI 作弊行为的监察力度。从 11",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "韩国因AI作弊加强国家资格考试反作弊措施，收缴手机并要求穿围裙",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引用韩媒报道，信息具体含考试届数、违规人数等细节，来源可追溯"
-    },
-    {
-      "title": "我国研发的地球系统智能科研平台“ZHU·GE”推出",
-      "link": "https://www.ithome.com/1/030/899.htm",
-      "pubDate": "Mon, 23 Nov 2026 06:33:00 GMT",
-      "contentSnippet": "IT之家 11 月 23 日消息，据中国气象报社报道，11 月 23 日，在 2026 雄安气象人工智能国际研讨会上，地球系统智能科研平台“ZHU·GE”正式推出。\n“ZHU·GE”取自英文 Zone-to-global Holistic Understanding by Generative Earth-system modeling 的首字母，意为从局地到全球，从观测事实到科学理解。\n该平台以推动地球科学领域 AI4S 为目标，可将科研想法快速转化为有海量数据支撑、可分析、可验证的科学研究结论，助力科学认识落地转化为业务能力。\n研究人员用自然语言提出科研目标后，平台自主分析调用文献、数据与",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "我国推出地球系统智能科研平台ZHU·GE，推动AI4S发展",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium-high",
-      "credibilityReason": "来源为IT之家转引中国气象报社，有具体会议和平台命名信息，但技术细节较简略"
-    },
-    {
-      "title": "Stellantis 拟全面退出欧洲赛车赛事，以推进成本削减计划",
-      "link": "https://www.ithome.com/1/030/898.htm",
-      "pubDate": "Mon, 23 Nov 2026 06:31:34 GMT",
-      "contentSnippet": "IT之家 11 月 23 日消息，据法媒《费加罗报》报道，Stellantis 正在推进新一轮成本削减计划，考虑全面退出欧洲各项赛车运动赛事。如果这一计划属实，Stellantis 旗下标致、欧宝、雪铁龙和蓝旗亚等品牌可能都将结束现有赛车项目。\n\n《费加罗报》透露，在首席执行官 Antonio Filosa 的领导下，Stellantis 计划到 2028 年累计削减 60 亿欧元（IT之家注：现汇率约合 439.76 亿元人民币）成本，以扭转公司经营状况。\n事实上，仅在今年 7 月至 9 月期间，Stellantis 在欧洲市场就亏损了 3.11 亿欧元（现汇率约合 22.79 亿元人民币）",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "Stellantis拟全面退出欧洲赛车赛事，推进60亿欧元成本削减计划",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "IT之家编译法媒报道，有具体数据和出处，但属二手转述，官方未确认"
-    },
-    {
-      "title": "谷歌解释 3D Emoji 为何要求 6GB 内存 / 10GB 存储：Google Play 服务安全措施所致",
-      "link": "https://www.ithome.com/1/030/897.htm",
-      "pubDate": "Mon, 23 Nov 2026 06:30:19 GMT",
-      "contentSnippet": "IT之家 11 月 23 日消息，据科技媒体 Android Authority 今天报道，谷歌推出的新版 Noto 3D Emoji 原本将为 Android 带来全新视觉体验，但许多用户对其 6GB 内存、10GB 存储要求感到困惑。\n\nIT之家从原报道获悉，谷歌员工 Mishaal Rahman 对此表示，这套 3D 表情的占用空间不到 220MB，这虽然比旧版 2D Emoji 的 3MB 占用大得多，但远远没有 10GB。\n至于商店页面为何会列出 3GB 内存、10GB 存储的要求，这实际上是 Google Play 服务自动下载字体的安全措施。要求设备至少有 10GB 存储空间，是",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家",
-        "钛媒体"
-      ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "谷歌解释3D Emoji高内存存储要求实为Play服务安全措施",
-      "credibilityScore": 87,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家编译Android Authority报道，引谷歌员工Mishaal Rahman解释，技术细节具体，但正文摘要不完整（多源覆盖 +5）"
-    },
-    {
-      "title": "GrapheneOS 将推出自研 RCS 消息应用，摆脱谷歌依赖",
-      "link": "https://www.ithome.com/1/030/896.htm",
-      "pubDate": "Mon, 23 Nov 2026 06:20:34 GMT",
-      "contentSnippet": "IT之家 11 月 23 日消息，据科技媒体 Android Authority 今天报道，GrapheneOS（IT之家注：石墨烯 OS）正在开发自研 RCS 消息应用。未来该系统用户无需依赖谷歌信息应用，就能使用 RCS 信息服务。\n\nGrapheneOS 团队表示，他们已经开发一款 RCS 消息应用的早期验证版本，已支持 MLS 安全协议和端到端加密，并兼容谷歌信息和 iOS，支持输入状态显示、消息送达和已读回执和文件分享等功能。\n对 GrapheneOS 而言，RCS 支持一直是一个比较棘手的问题。目前该操作系统可通过谷歌使用 RCS，但用户必须启用沙盒化的 Google Play 服",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "GrapheneOS开发自研RCS应用，摆脱谷歌信息依赖",
+      "aiSummary": "影石Luna云台系列因零部件成本上涨将于12月15日涨价",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家转引Android Authority，信息具体含技术细节，但非一手来源，部分功能待验证"
+      "credibilityReason": "知名科技媒体IT之家报道，含具体产品型号、价格及涨价原因，但信息源自经销商而非官方公告"
     },
     {
-      "title": "领克 900L 旗舰大七座 SUV 将于 11 月 27 日开启预售，900V 超级电混",
-      "link": "https://www.ithome.com/1/030/895.htm",
-      "pubDate": "Mon, 23 Nov 2026 06:17:58 GMT",
-      "contentSnippet": "IT之家 11 月 23 日消息，领克汽车今日宣布，领克 900L 全球预售发布会将于 11 月 27 日举行，号称“900V 超级电混旗舰大七座 SUV”。\n\n这款旗舰大七座 SUV 于 11 月 11 日进行了全球首秀，长宽高分别为 5280/1999/1810mm，轴距 3170mm。相比领克 900 车长增加 40mm，车高与轴距各增加 10mm，车宽保持不变。\n其外观延续家族分体式灯组轮廓，前脸将大灯与中央饰板整合为一体式结构，车尾贯穿式 LED 尾灯中央嵌入可发光的“LYNK&CO”标识。车顶前部集成激光雷达，车身侧面采用半隐藏式门把手。\n座舱内部采用浅色内饰基调，前排提供双 30",
+      "title": "本田神秘新车六连发，全部用上全新混动系统",
+      "link": "https://www.ithome.com/1/031/571.htm",
+      "pubDate": "Tue, 24 Nov 2026 08:25:09 GMT",
+      "contentSnippet": "IT之家 11 月 24 日消息，当地时间 23 日，据外媒 Carscoops 报道，本田计划在 2030 年 3 月前推出 15 款新一代混动车型，其中 6 款在新一代冠道亮相活动上首次露面。\n如图所示，这 6 款新车都被遮盖得严严实实，但车身轮廓仍然现出了一些端倪。\n\n从左往右数的第三辆车从轮廓来看，是一辆车头较高的大型 MPV，预计就是下一代奥德赛。本田目前拥有两个彼此独立的奥德赛车系：一款是在美国生产、面向北美市场的车型，现款世代始于 2017 年；另一款由中国生产，面向中日市场，自 2013 年推出以来延续至今。\n报道指出，两款奥德赛都到了换代的时候，不过美规下一代车型的推出时间预",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -119,16 +33,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "领克900L旗舰大七座SUV将于11月27日开启预售，搭载900V超级电混",
+      "aiSummary": "本田计划2030年前推15款新混动车型，6款伪装车首次亮相",
+      "credibilityScore": 75,
+      "credibilityLevel": "medium",
+      "credibilityReason": "IT之家编译外媒Carscoops报道，信息具体但车辆伪装、细节有限，属常规行业新闻"
+    },
+    {
+      "title": "IDC：2027 年中国智能眼镜出货将破 450.6 万台，AI 驱动生态跃迁",
+      "link": "https://www.ithome.com/1/031/553.htm",
+      "pubDate": "Tue, 24 Nov 2026 08:14:30 GMT",
+      "contentSnippet": "IT之家 11 月 24 日消息，IDC 最新报告预计，2027 年中国智能眼镜行业将以生态落地和用户体验升级为核心驱动力，行业重心由单点创新演进为多模态感知、生态协同和多场景价值闭环。AI 大模型、端侧算力与多模态交互深度融合，推动智能眼镜在物理世界的感知、交互和服务能力实现质的飞跃。隐私合规、渠道变革和供应链优化成为焦点，市场结构加速分层。\n基于上述判断，IDC 梳理出 2027 年中国智能眼镜市场的十大洞察，涵盖结构分化、AI 落地、场景协同、交互进化、隐私合规、配置取舍、供应链优化、渠道变革、价位段升级等关键方向。\n\n洞察一：行业定位及市场方向趋于清晰 —— 全球出货将突破 2622.",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "IDC报告预计2027年中国智能眼镜出货破450.6万台，AI驱动生态升级",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息含具体尺寸参数和官方发布计划，来源明确但缺少原始引用链接"
+      "credibilityReason": "IT之家为知名科技媒体，引用IDC权威报告数据，内容具体但摘要截断，细节有限"
     },
     {
-      "title": "奇瑞风云 A9 夜影版车型发售，限时置换价 131899 元",
-      "link": "https://www.ithome.com/1/030/894.htm",
-      "pubDate": "Mon, 23 Nov 2026 06:15:55 GMT",
-      "contentSnippet": "IT之家 11 月 23 日消息，奇瑞风云 A9 夜影版车型今日上市，官方指导价 134,899 元，限时超级置换价 131,899 元。\n新车提供墨石黑、玄武灰双色可选，内饰采用夜幕紫黑限定色。除颜色外，新车还采用了夜影版专属套件拉花，配备夜影专属绒毯、刀锋轮毂、磁悬浮轮毂灯、副驾悠然座椅、智能香氛套装等。\n风云 A9 增程版尺寸为 4890×1913×1489mm、轴距 2900mm；整车风阻系数达到 0.223Cd。\n奇瑞风云 A9 搭载单电机，最大功率 178kW，最大扭矩 275N·m；搭载 70.11kWh 磷酸铁锂电池，CLTC 纯电续航里程 655km，30%-80% 快充时长",
+      "title": "澳大利亚新法案：社交平台用户可关闭推荐算法，违规企业最高罚全球营收 5%",
+      "link": "https://www.ithome.com/1/031/536.htm",
+      "pubDate": "Tue, 24 Nov 2026 08:05:48 GMT",
+      "contentSnippet": "IT之家 11 月 24 日消息，据彭博社报道，澳大利亚新出台的《数字注意义务法》（Digital Duty of Care）将对全球大型科技服务商施加更严格的监管。根据政府最新修订的法案，违规企业最高可能面临相当于其全球营收 5% 的罚款。\n\n澳大利亚通信部长阿妮卡 · 威尔斯（Anika Wells）当地时间周二表示，在获得少数党绿党的支持后，该法案预计将于本周在议会通过。此前，政府已将违反该法案的最高罚款额度从原先拟定的 1.09 亿澳元（IT之家注：现汇率约合 4.82 亿元人民币）上调。\n这项涵盖范围广泛的立法旨在减少网络伤害，要求数字服务提供商将安全机制融入产品设计和服务之中，监管",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -136,16 +67,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "奇瑞风云A9夜影版上市，限时置换价13.19万元，配专属套件",
-      "credibilityScore": 85,
+      "aiSummary": "澳大利亚新法案要求社交平台允许用户关闭推荐算法，违规企业最高罚全球营收5%。",
+      "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息含具体价格、尺寸、动力及续航数据，来源可靠"
+      "credibilityReason": "IT之家援引彭博社报道，含具体法案名称、官员表态及罚款数据，信息详实可信。"
     },
     {
-      "title": "微星推出其首款电竞桌 MAG TA10：双电机智能升降，2699 元起",
-      "link": "https://www.ithome.com/1/030/893.htm",
-      "pubDate": "Mon, 23 Nov 2026 06:13:24 GMT",
-      "contentSnippet": "IT之家 11 月 23 日消息，微星 (MSI) 本月 21 日正式推出其该品牌首款电竞桌 MAG TA10。这一型号搭载捷昌双电机驱动系统，支持升降，售价 2699 元起。\n\nMAG TA10 主体采用铝合金 + 冷轧钢框架，搭配静电喷粉工艺 25mm 纤维板，拥有斜面前沿和曲面边缘。其集成双面电源插座（提供 USB-A、USB-C、多个五孔插座），整合内嵌式理线槽，设有键盘按键式手动控制器。\nIT之家了解到，微星 MAG TA10 可选 1.2×0.6 (m) 双节腿、1.4×0.7 (m) 三节腿、1.6×0.7 (m) 三节腿，价格分别为 2699 / 2999 / 3299 元。",
+      "title": "联合国秘书长古特雷斯呼吁构建 AI 风险管理多边框架，避免技术加剧全球不平等",
+      "link": "https://www.ithome.com/1/031/528.htm",
+      "pubDate": "Tue, 24 Nov 2026 07:39:37 GMT",
+      "contentSnippet": "IT之家 11 月 24 日消息，据央视新闻报道，在巴巴多斯政府和联合国共同主办的“人工智能安全布里奇敦特别峰会”上，联合国秘书长古特雷斯表示，各国应对 AI 风险的能力存在巨大差距，不应允许 AI 加剧和加深全球不平等现象。\n古特雷斯呼吁建立一个由可信且独立的监督机制支持的 AI 风险管理多边框架。他表示，AI 系统正变得越来越强大，并被更广泛部署。然而，不受控的数字技术所带来的风险同样也在迅速增长。\n古特雷斯认为，对各国来说，并不存在应对 AI 风险的单一模式。各国应就新兴风险建立共识，通过可类比的评估、统一的术语以及从严重事故中汲取的经验来提升彼此协作能力；同时，应强化各国对 AI 系统",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -153,67 +84,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "微星推出首款电竞桌MAG TA10，双电机升降，2699元起",
-      "credibilityScore": 85,
+      "aiSummary": "联合国秘书长呼吁建立AI风险管理多边框架，避免加剧全球不平等",
+      "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，产品规格、尺寸、价格等信息具体详实，来源明确"
+      "credibilityReason": "IT之家转引央视报道，来源权威，内容具体，但为二手转述且缺少具体数据支撑"
     },
     {
-      "title": "鸿蒙版醒图新版本上线：AI修图「不烧心」",
-      "link": "https://www.ifanr.com/1690991?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pubDate": "Mon, 23 Nov 2026 06:07:33 +0000",
-      "contentSnippet": "手边刚好有舍不得删又不好修的照片？可以先拿它试试。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "sourceName": "爱范儿",
-      "sourceWeight": 82,
+      "title": "巴新总理见证，仰望U8交付巴布亚新几内亚市场",
+      "link": "https://www.qbitai.com/2026/11/512343.html",
+      "pubDate": "Tue, 24 Nov 2026 06:12:16 +0000",
+      "contentSnippet": "2026年11月18日，中国深圳——APEC会议期间，比亚迪仰望U8正式交付巴布亚新几内亚市场",
+      "sourceName": "量子位",
+      "sourceWeight": 80,
       "allSources": [
-        "爱范儿"
+        "量子位"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "鸿蒙版醒图新版本上线，主打AI修图功能",
-      "credibilityScore": 65,
-      "credibilityLevel": "medium",
-      "credibilityReason": "知名科技媒体但内容极简略，仅标题和引导语，缺少技术细节和数据支撑"
-    },
-    {
-      "title": "亚马逊推出《宝可梦》24 部动画电影蓝光合集：精灵球造型包装，售 399.99 美元",
-      "link": "https://www.ithome.com/1/030/891.htm",
-      "pubDate": "Mon, 23 Nov 2026 06:07:06 GMT",
-      "contentSnippet": "IT之家 11 月 23 日消息，亚马逊与 Viz Media 共同推出《宝可梦》24 部动画电影蓝光合集，并由亚马逊独家销售，售价为 399.99 美元（IT之家注：现汇率约合 2,672 元人民币）。\n\n亚马逊商品页面显示，该合集名为《Pokémon: 24-Movie Collection》（Amazon Exclusive Limited Edition Blu-ray），共包含 16 张蓝光碟，收录《宝可梦》系列全部 24 部动画电影，总时长为 36 小时 41 分钟。\n\n其中收录了从 1998 年上映的首部剧场版《宝可梦：超梦的逆袭》，一直延续至 2020 年上映的《宝可梦：皮卡丘",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "亚马逊独家推出《宝可梦》24部电影蓝光合集，精灵球包装售399.99美元。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息具体含产品细节、价格、碟数及时长，有商品页面出处。"
-    },
-    {
-      "title": "自变量发布具身基础模型 WALL-OSS-1.0，零样本真机成功率达 55.1%",
-      "link": "https://www.ithome.com/1/030/890.htm",
-      "pubDate": "Mon, 23 Nov 2026 06:06:12 GMT",
-      "contentSnippet": "IT之家 11 月 23 日消息，自变量今日发布新一代具身基础模型 WALL-OSS-1.0。该模型将预训练本身当作智能的来源，而非后续任务微调的起点。\n据介绍，这款模型的训练分为两个阶段：一阶段让动作数据前置加入训练，配合多模态数据，让“理解世界”和“动手干活”在同一套权重里成形；二阶段加入动作专家，学习精确、高效的动作生成。\nIT之家注意到，该模型在 RoboDojo 榜单仿真赛道中位列单模型能力第一名，超越使用 Astra、Opus 5.5 等十万亿参数模型的 Agent 策略。多种真机测试中零样本成功率可达 55.1%。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "自变量发布具身基础模型WALL-OSS-1.0，零样本真机成功率55.1%",
+      "aiSummary": "比亚迪仰望U8在APEC期间交付巴新市场，巴新总理见证",
       "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "IT之家为知名科技媒体，信息含具体模型名与数据，但缺原始论文或官方链接，技术细节简略"
+      "credibilityReason": "量子位为知名科技媒体，信息含时间地点人物，但内容简略缺技术细节与独立信源"
     },
     {
-      "title": "韩国私募股权基金 MBK Partners 计划私有化 Wacom",
-      "link": "https://www.ithome.com/1/030/889.htm",
-      "pubDate": "Mon, 23 Nov 2026 06:01:17 GMT",
-      "contentSnippet": "IT之家 11 月 23 日消息，根据 Wacom（和冠）官网当地时间 20 日公告，韩国私募股权基金 MBK Partners 计划收购这家诞生于日本的数字书写解决方案与技术企业并使其私有化退市。\n这笔公开要约收购预计将于 2027 年 2 月启动，对公众股东的股票收购价为每股 1,030 日元。按此计算，该交易对 Wacom 整体股权的估值为 1,390.5 亿日元（现汇率约合 58.49 亿元人民币）。\n\nWacom 的现有股东中，三星电子（持股约 6.32%）计划将其获得的交易对价重新投资到收购方的母公司中，保持对 Wacom 的持股。Wacom 现任社长兼首席执行官井出信孝（持股约",
+      "title": "大众平价电动汽车订单突破 15 万辆，ID. Polo 等交付周期最长接近两年",
+      "link": "https://www.ithome.com/1/031/656.htm",
+      "pubDate": "Tue, 24 Nov 2026 09:02:32 GMT",
+      "contentSnippet": "IT之家 11 月 24 日消息，大众汽车集团旗下大众、斯柯达和西雅特等品牌的小型电动汽车正迎来远超预期的市场需求，但产能扩张速度跟不上订单增长，部分车型在德国的等待时间已接近两年。\n\n据西班牙媒体 Motor.es 报道称，大众 ID. Polo 两厢电动车目前已累计获得超过 5 万份订单，是大众集团全新“电动城市车家族”（Electric Urban Car Family）中最畅销的车型之一。其中，最入门版本在德国的交付等待时间最长达到 21 个月。\n斯柯达技术上与其高度相似的 Epiq 也面临类似情况。自发布以来，该车已获得超过 8 万份订单，最受欢迎版本的等待时间最长达到 17 个月。",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -221,16 +118,67 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "韩国MBK Partners拟以1390.5亿日元私有化Wacom，2027年2月启动要约收购。",
+      "aiSummary": "大众平价电动车订单超15万辆，ID. Polo等交付周期近两年",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "IT之家为知名科技媒体，引用西班牙媒体数据具体，但缺官方原始出处，交付周期数据待核实"
+    },
+    {
+      "title": "华为智驾 + 宁德换电：华境 S 换电新车将至，有望面向 20 万级主流家庭 SUV 市场",
+      "link": "https://www.ithome.com/1/031/651.htm",
+      "pubDate": "Tue, 24 Nov 2026 08:59:40 GMT",
+      "contentSnippet": "IT之家 11 月 24 日消息，博主 @新出行贺磊 今日发文爆料，华境明年会推出搭载宁德时代巧克力换电方案的全新车型，会成为宁德换电生态里面，首批落地兑现的华系品牌。\n\n博主表示，华境不只是多一个换电版本车型那么简单。华境会成为一个样本，看看 20 万级主流家庭 SUV 市场，能不能跑通标准化共享换电模式。\n值得一提的是，五菱品牌与市场总监 @思行Si-Hang 转发确认了该消息，并总结重点 ——“华境 + 华为乾崑智驾 + 宁德换电”。\n\n关于具体的落地车型，博主透露会是华境 S。\n\n据IT之家此前报道，今年 4 月，宁德时代宣布与上汽通用五菱在福建宁德签署战略合作协议。双方将围绕产业规模",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "博主爆料华境S明年推宁德换电版，五菱总监转发确认",
+      "credibilityScore": 72,
+      "credibilityLevel": "medium",
+      "credibilityReason": "IT之家报道，有博主爆料及五菱总监转发确认，但核心信息源自爆料，缺乏官方正式公告与具体参数"
+    },
+    {
+      "title": "新一代华为鸿蒙智家无界交互发布，号称“住进未来家”",
+      "link": "https://www.ithome.com/1/031/642.htm",
+      "pubDate": "Tue, 24 Nov 2026 08:55:52 GMT",
+      "contentSnippet": "IT之家 11 月 24 日现场消息，在今天（24 日）下午的华为 Mate X8 及全场景新品发布会上，新一代华为鸿蒙智家无界交互正式发布。\nIT之家从发布会现场获悉，其主打“住进未来家”，带来“更懂你”的小艺管家、意式美学智能开关都灵、隐形 AI 超感传感器 Air，轻松睡自然醒的智慧睡眠 2.0 等软硬件。\n\n具体来看，“智能开关都灵”采用经典意式美学，是华为米兰美学研究所设计的产品；全屋看板则内置“3D 掌控中心”，所见即所得，支持宠物一键查找（需配合华为蓝牙网关、HUAWEI Tag 等实现）。\n交互方面，该交互方案支持“场景大师”模式，结合 AI 超感传感器 Air 可做到 0.6",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "华为发布鸿蒙智家无界交互，含AI传感器与智慧睡眠2.0等新品",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家现场报道，信息具体含产品细节，但部分功能描述简略且依赖厂商宣传口径"
+    },
+    {
+      "title": "华为自带线全能充移动电源（40W 10000）发布：2C 设计、五种配色可选，249 元",
+      "link": "https://www.ithome.com/1/031/619.htm",
+      "pubDate": "Tue, 24 Nov 2026 08:43:07 GMT",
+      "contentSnippet": "IT之家 11 月 24 日现场消息，在目前正在进行的华为 Mate X8 及全场景新品发布会中，华为旗下新国标 CCC 认证移动电源“华为自带线全能充移动电源（40W 10000）”发布，定价为 249 元。\n京东华为自带线全能充移动电源（40W 10000) 249 元直达链接\n\n该产品整体厚度 15.6mm，重量 190g，提供 5 种配色，顶部提供一根 USB-C 线缆和一个 USB-C 接口，支持 SCP、UFCS、PD、PPS、QC 协议，搭载华为安全电芯，提供 4 重 NTC 监测和 15 重安全防护。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "华为发布40W 10000mAh自带线移动电源，249元，五色可选。",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，引用Wacom官网公告，含具体收购价、估值及股东持股数据，信息详实。"
+      "credibilityReason": "IT之家现场报道，产品参数具体，含价格、尺寸、协议等细节，来源可靠。"
     },
     {
-      "title": "电动方程式 2027 季前测试发生严重事故：测试车起火爆燃，车手及时撤离未受伤",
-      "link": "https://www.ithome.com/1/030/882.htm",
-      "pubDate": "Mon, 23 Nov 2026 05:52:18 GMT",
-      "contentSnippet": "IT之家 11 月 23 日消息，当地时间 11 月 20 日，电动方程式（Formula E）2027 赛季季前测试在西班牙马德里哈拉马（Jarama）赛道发生严重事故。\n当天，英国车手泰勒 · 巴纳德（Taylor Barnard）在哈拉马赛道驾驶新世代（Gen4）赛车进行季前测试时突发起火爆炸，导致测试提前结束。好在车手本人在爆燃之前及时脱离赛车，未受伤。\n\n据 Motorsport 报道，事故发生在当天测试进入最后一小时之际。巴纳德驾驶的 Fusion 车队赛车突然冒烟，随后停在赛道上。巴纳德逃离驾驶舱后，赛车迅速被火焰吞没，并发生爆炸，现场升起大量浓烟。\n事故发生后，赛道立即出示红旗",
+      "title": "10 月欧洲纯电汽车销量同比大涨 56%，中国车企市场份额持续扩大",
+      "link": "https://www.ithome.com/1/031/618.htm",
+      "pubDate": "Tue, 24 Nov 2026 08:43:05 GMT",
+      "contentSnippet": "IT之家 11 月 24 日消息，据路透社报道，欧洲汽车制造商协会（ACEA）今日公布的数据显示，10 月欧洲新车市场继续增长，电池驱动的纯电动汽车需求保持强劲，抵消了汽油车和柴油车销量再次大幅下滑带来的影响。\n\nIT之家注意到，在购车补贴以及车型选择日益丰富的推动下，欧洲主要市场对电动化汽车的需求依然旺盛。\n数据显示，10 月欧盟、英国和欧洲自由贸易联盟（EFTA）新车注册量（作为销量的替代指标）同比增长 3.4%，达到 113 万辆。\n电动化车型占当月新车注册总量的 75.5%。相比之下，汽油车和柴油车注册量分别同比下降 28.3% 和 30.2%，合计仅占新车注册量的 21.8%。\n具体",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -238,16 +186,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "电动方程式2027赛季季前测试中Gen4赛车起火爆炸，车手安全撤离",
+      "aiSummary": "10月欧洲纯电汽车销量同比大涨56%，中国车企市场份额持续扩大",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引用Motorsport报道，事件细节具体，时间地点人物清晰"
+      "credibilityReason": "IT之家引路透社及ACEA官方数据，含具体注册量与同比数据，来源权威、信息详实"
     },
     {
-      "title": "魏建军再测长城 001 号超跑，称“进步显著”",
-      "link": "https://www.ithome.com/1/030/879.htm",
-      "pubDate": "Mon, 23 Nov 2026 05:51:42 GMT",
-      "contentSnippet": "IT之家 11 月 23 日消息，长城汽车董事长魏建军今日发布视频，再次对长城 001 号超级跑车进行测试。他表示，距上一次测试已过去两周，此次测试车辆进步显著，希望进一步加快调校速度，尽早取得更加完善的结果。\n\n在视频中，魏建军谈到了长城研发超级跑车的初衷。他表示，自己早在 25 年前就有了打造超级跑车的想法；当时为了研究全球标杆车型，团队陆续购买了莲花、丰田、兰博基尼、法拉利等品牌的跑车，累计超过 20 台。\n魏建军认为，经过 20 多年的技术积累，如今团队已具备打造超级跑车的技术储备，市场环境也更加成熟。他表示：“我认为，这个时代造跑车，恰逢其时。”此前关于打造超级跑车的冲动和愿望，如今",
+      "title": "九州风神推出新款冰元素 360 ARGB GT 水冷散热器：冷头可选透镜 / 无限镜风格、一体框联排风扇，399 元",
+      "link": "https://www.ithome.com/1/031/606.htm",
+      "pubDate": "Tue, 24 Nov 2026 08:35:59 GMT",
+      "contentSnippet": "IT之家 11 月 24 日消息，九州风神现已推出新款冰元素 360 ARGB GT 水冷，采用全新水泵，配备一体框联排风扇，黑白双色售价均为 399 元，提供三年质保服务。\n\n\n该产品冷头尺寸为 82 x 93×50mm，预装磁吸可替换铭牌，按压即可拆卸，可选透镜 / 无限镜风格。铭牌自带重力旋转功能，可根据不同平台及机箱的安装方向自动回正 Logo。\n\n该产品匹配全新 FD36 ARGB 一体框联排风扇，厚度为 25mm，两侧风扇转速范围为 500~2450RPM±10%，标称静压、风量分别可达 2.14mmH2O 和 72.53CFM，正面 1m 噪音不超过 34.14 分贝；中间风扇转",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -255,10 +203,61 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "魏建军再测长城001号超跑，称进步显著并希望加快调校",
-      "credibilityScore": 75,
+      "aiSummary": "九州风神推出冰元素360 ARGB GT水冷散热器，售价399元",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，内容基于高管视频发言，但缺乏技术参数等具体细节"
+      "credibilityReason": "IT之家为知名科技媒体，报道含详细规格参数、价格和质保信息，内容具体客观"
+    },
+    {
+      "title": "华为自研专业音乐编创软件：音悦家 App 正式发布，适配 Mate XT 2、MatePad Edge 等机型",
+      "link": "https://www.ithome.com/1/031/601.htm",
+      "pubDate": "Tue, 24 Nov 2026 08:35:15 GMT",
+      "contentSnippet": "IT之家 11 月 24 日消息，华为官方今日宣布，其自研专业音乐编创软件 —— 音悦家 App 正式发布，适配 Mate XT 2、MatePad Edge 等机型。\n\nIT之家注：音悦家是华为自研 App，覆盖作曲、录音、编曲、混音四大数字音乐创作全流程核心场景，主打 200+ 中西方经典乐器，已于今年 6 月 1 日开启公测。\n华为终端平板与 PC 产品线总裁朱懂东曾坦言，专业音乐编创软件基本上没有商业闭环，华为制作音悦家 App 做了两三年后才发现，这类型的应用就是纯投入。虽然笔记、绘画软件国内有公司在制作，但却没有做这类音乐应用的，所以华为也只能自己做。\n\n朱懂东称，华为要把中国的，",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "华为发布自研音乐编创软件音悦家App，适配多款机型",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，含官方发布信息、产品细节及高管引述，但正文摘要不完整"
+    },
+    {
+      "title": "华为首款动态血糖仪“维感 G1”发布，限时优惠价 299 元",
+      "link": "https://www.ithome.com/1/031/586.htm",
+      "pubDate": "Tue, 24 Nov 2026 08:30:29 GMT",
+      "contentSnippet": "IT之家 11 月 24 日现场消息，在目前正在进行的华为 Mate X8 及全场景新品发布会中，华为首款动态血糖仪“华为维感 G1”正式发布，该产品已通过 NMPA 第三类医疗器械注册认证，四家权威医院临床试验 MARD 值 7.06%，准确度业界领先。\n\n\n\n\n该产品采用隐藏针设计，支持计算全天连续血糖曲线，可一眼看清血糖波动，同时血糖仪支持联动手机、手表，可智能提醒高血糖、低血糖等五类异常。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "华为发布首款动态血糖仪维感G1，售价299元，获NMPA认证。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家现场报道，含NMPA认证、MARD值等具体数据，来源可信。"
+    },
+    {
+      "title": "华为最薄智能手表 WATCH Air 发布：6.9 毫米超薄机身，2499 元起",
+      "link": "https://www.ithome.com/1/031/578.htm",
+      "pubDate": "Tue, 24 Nov 2026 08:28:45 GMT",
+      "contentSnippet": "IT之家 11 月 24 日现场消息，今天下午华为在 Mate X8 及全场景新品发布会上正式推出了全新智能手表 —— 华为WATCH Air。该产品以 6.9 毫米超薄机身、高亮钛合金一体化设计以及完整的运动健康能力为核心卖点，官方将其定位为“薄，且强”的新品类智能手表，也是华为迄今为止厚度最薄的智能手表。新品售价 2499 元起，12 月 4 日 10:08 分开售。\n\n\n\n\nIT之家注意到，华为WATCH Air 采用方形表盘和圆润弧面机身设计，整机厚度压缩至 6.9 毫米，重量约 27 克。相比主流厚度仍在 9 毫米左右的智能手表，新品在佩戴贴服度、腕部负担以及正装搭配方面进行了针对性",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "华为发布最薄智能手表WATCH Air，6.9毫米机身，2499元起售",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家现场报道，产品参数、价格、发售时间等细节具体，来源可信"
     }
   ]
 }
