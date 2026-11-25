@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-24T09:07:34.243Z",
+  "generatedAt": "2026-11-25T07:44:02.862Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "走出大山赴港澳 陇原少年开启行走的家国课堂",
-      "link": "https://www.chinanews.com.cn/gn/2026/11-24/10737037.shtml",
-      "pubDate": "Tue, 24 Nov 2026 16:49:41 +0800",
-      "contentSnippet": "中新网兰州11月24日电 (田鹏鹤 丁思)“香港、澳门曾经只存在于课本与荧幕之中，如今有幸走进港澳，内心十分激动、振奋。”24日，来自甘肃省临夏州积石山县田家炳中学的李昊燕在兰州发言说，期待与港澳青少年交流学习、互通经验，将此行的所见所学带回故乡、分享传递。",
+      "title": "中方呼吁各方警惕有人正在将《海洋生物多样性协定》秘书处申办工作政治化、对抗化",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737572.shtml",
+      "pubDate": "Wed, 25 Nov 2026 15:41:14 +0800",
+      "contentSnippet": "中新网北京11月25日电  (记者  曾玥)中国外交部发言人郭嘉昆25日主持例行记者会。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -16,33 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "甘肃临夏学生赴港澳开展研学交流活动，学生代表表达期待。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，属较权威媒体；有具体时间、地点、人物及直接引述，内容具体可查证。"
-    },
-    {
-      "title": "中柬“金龙—2026”联合演习筹备工作稳步推进",
-      "link": "https://www.chinanews.com.cn/gn/2026/11-24/10737008.shtml",
-      "pubDate": "Tue, 24 Nov 2026 16:49:07 +0800",
-      "contentSnippet": "中新网金边11月24日电 (杨晓敏 邓小胜 杨强)根据中国国防部24日发布的消息，中国和柬埔寨两国军队将在柬举行“金龙—2026”联合演习。中方参演部队自11月22日抵达中柬云壤港联合保障和训练中心以来，与柬方密切协同，筹备工作有序稳步推进。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "中柬两军将于柬埔寨举行“金龙—2026”联合演习，筹备工作正稳步推进。",
+      "aiSummary": "中方呼吁警惕《海洋生物多样性协定》秘书处申办工作被政治化、对抗化。",
       "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，引述中国国防部官方消息，时间地点人物具体，内容客观中性。"
+      "credibilityReason": "来源为中国新闻网，属官方媒体；有外交部发言人、记者会等具体信息，表述客观。"
     },
     {
-      "title": "“十五五”期间 山西国资国企这样改革",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-24/10737011.shtml",
-      "pubDate": "Tue, 24 Nov 2026 16:46:12 +0800",
-      "contentSnippet": "中新网太原11月24日电 (记者 范丽芳)当前，各地正密集部署新一轮国资国企改革。“十五五”期间山西国资国企怎么改？24日，山西举行“开局起步‘十五五’”系列主题新闻发布会，山西省国资委副主任李强提出，将加强国有企业风险管控，推动整治共性突出问题，分类分层监管企业负债，规范资本运作。",
+      "title": "报道称美国计划对包括中国在内的有关国家加征关税 中方回应",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737570.shtml",
+      "pubDate": "Wed, 25 Nov 2026 15:39:51 +0800",
+      "contentSnippet": "中新网北京11月25日电  (记者  曾玥)中国外交部发言人郭嘉昆25日主持例行记者会。有记者就有报道称美国计划对包括中国在内的有关国家加征关税一事提问。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -50,16 +33,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "山西国资委发布会介绍“十五五”期间国资国企改革重点方向。",
+      "aiSummary": "外交部发言人回应美方计划对包括中国在内国家加征关税的报道。",
       "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "中新网为权威媒体，有具体发布会、人物及引述，信息可查证。"
+      "credibilityReason": "来源为中新网官方报道，含具体时间、人物及记者会场景，信息可查证。"
     },
     {
-      "title": "中国（重庆）—东盟科技合作交流会在重庆召开",
-      "link": "https://www.chinanews.com.cn/aseaninfo/2026/11-24/10737048.shtml",
-      "pubDate": "Tue, 24 Nov 2026 16:44:20 +0800",
-      "contentSnippet": "中新网重庆11月24日电 (钟旖 程春雨)中国(重庆)—东盟科技合作交流会24日在重庆举行。",
+      "title": "市场监管总局启动高质量认证项目“揭榜挂帅”工作",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-25/10737562.shtml",
+      "pubDate": "Wed, 25 Nov 2026 15:33:13 +0800",
+      "contentSnippet": "中新网11月25日电 据国家市场监督管理总局网站消息，近日，市场监管总局印发高质量认证项目“揭榜挂帅”工作方案(以下简称工作方案)，对更好发挥质量认证作用，支撑经济社会高质量发展作出部署。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -67,16 +50,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中国（重庆）—东盟科技合作交流会11月24日在重庆举行。",
-      "credibilityScore": 82,
+      "aiSummary": "市场监管总局印发高质量认证项目“揭榜挂帅”工作方案",
+      "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网（权威媒体），信息含具体时间地点，但报道简短、细节有限。"
+      "credibilityReason": "来源为中新网，引述市场监管总局官网消息，信息具体可查证"
     },
     {
-      "title": "上海222个街镇园区反诈防范服务平台投用",
-      "link": "https://www.chinanews.com.cn/sh/2026/11-24/10736967.shtml",
-      "pubDate": "Tue, 24 Nov 2026 16:44:12 +0800",
-      "contentSnippet": "中新网上海11月24日电 (记者 李姝徵)上海警方24日披露，上海全市222个街镇(园区)“守护群众钱袋子”防范服务平台已全部建成投入运行。",
+      "title": "巴基斯坦总理：巴中航天合作体现两国牢不可破友谊",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737559.shtml",
+      "pubDate": "Wed, 25 Nov 2026 15:29:35 +0800",
+      "contentSnippet": "新华社伊斯兰堡11月25日电(记者杨恺)巴基斯坦总理办公室25日发表声明说，巴总理夏巴兹表示，巴航天员穆罕默德·齐尚·阿里将成为首位到访中国空间站“天宫”的外籍航天员，这证明了巴中两国之间牢不可破的友谊。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -84,16 +67,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "上海222个街镇园区反诈防范服务平台全部建成投用",
-      "credibilityScore": 85,
+      "aiSummary": "巴基斯坦总理称巴航天员将访中国空间站，体现巴中友谊。",
+      "credibilityScore": 92,
       "credibilityLevel": "high",
-      "credibilityReason": "中新网为权威媒体，有记者署名和具体数据，信息可查证，用词客观"
+      "credibilityReason": "新华社原稿，来源权威，含具体人物、时间及官方声明，事实可查证。"
     },
     {
-      "title": "思邈传薪火 同心助秦药——陕港澳携手助推秦药扬帆出海",
-      "link": "https://www.chinanews.com.cn/txy/2026/11-24/10736998.shtml",
-      "pubDate": "Tue, 24 Nov 2026 16:42:42 +0800",
-      "contentSnippet": "11月20日，由省委统战部指导，省知联会、省贸促会联合主办的“同心汇智·弘药致远”——陕港澳中医药产业协同发展圆桌交流活动在西安国际会展中心举办。省委统战部副部长虞浩桂出席活动。省贸促会党组书记王宏伟，省卫健委党组成员、省中医药管理局局长雷颖，陕西中医药大学副校长唐于平，陕药集团副总经理朱岩冰，盘龙药业副总裁陈哲坤出席活动并分别围绕展会资源对接、产业对外开放、标准科创建设及企业出海需求作情况介绍。",
+      "title": "外交部：关税战、贸易战不符合任何一方的利益",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737552.shtml",
+      "pubDate": "Wed, 25 Nov 2026 15:27:57 +0800",
+      "contentSnippet": "11月25日，外交部发言人郭嘉昆主持例行记者会。有记者就有报道称，美国计划对包括中国在内的有关国家加征关税一事提问。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -101,16 +84,33 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "陕港澳中医药产业协同发展圆桌交流活动在西安举办，多方代表出席。",
-      "credibilityScore": 82,
+      "aiSummary": "外交部发言人郭嘉昆回应美国拟对华加征关税，称贸易战不符合任何一方利益。",
+      "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，属较权威媒体；时间地点人物具体，有官方职务和活动细节，用词客观。"
+      "credibilityReason": "来源为中新网官方报道，引述外交部例行记者会及发言人具体表态，事实可查证。"
     },
     {
-      "title": "从供应链交易到进出口数据，外贸企业如何将经营信用转化为融资？",
-      "link": "https://m.thepaper.cn/newsDetail_forward_34545122",
-      "pubDate": "Tue, 24 Nov 2026 07:54:14 GMT",
-      "contentSnippet": "有订单、有交易记录，却未必有足够的抵押物。对于不少外贸企业而言，如何将真实经营活动转化为融资信用，是资金周转中的一道难题。\n近日，澎湃新闻记者在浙江宁波调研发现，一些外贸龙头企业正从传统制造商向供应链组织者转型，融资需求随之向上下游中小企业延伸；与此同时，部分轻资产外贸企业则面临采购付款与销售回款之间的资金周转压力。\n面对不同类型企业的融资需求，银行也在尝试利用供应链交易关系、进出口及收汇数据等信息，采取差异化授信方式。\n从制造商到供应链组织者，融资需求向上下游延伸\n总部位于宁波的贝发集团股份有限公司（下称贝发集团），是国内文具文创行业龙头，也是国家制造业单项冠军企业。其产品销往全球近200个",
+      "title": "中巴航天员共赴“天宫” 外交部：中国载人航天工程国际合作新的里程碑",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737551.shtml",
+      "pubDate": "Wed, 25 Nov 2026 15:24:35 +0800",
+      "contentSnippet": "11月25日，外交部发言人郭嘉昆主持例行记者会。有记者就中巴航天员执行联合飞行任务相关问题提问。对此，郭嘉昆表示，今天在中国和巴基斯坦两国人民热切期待下，中巴航天员共赴中国空间站“天宫”，开展历史性的航天科技合作，中国空间站首次迎来外籍航天员，这是中国载人航天工程国际合作新的里程碑。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "外交部称中巴航天员共赴天宫，系中国空间站首次迎来外籍航天员。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网，引述外交部发言人例行记者会原话，信息具体可查证。"
+    },
+    {
+      "title": "美国将宣布对中国商品加征关税，外交部：反对借口“产能过剩”进行政治操弄",
+      "link": "https://m.thepaper.cn/newsDetail_forward_34556215",
+      "pubDate": "Wed, 25 Nov 2026 07:23:59 GMT",
+      "contentSnippet": "11月25日，外交部发言人郭嘉昆主持例行记者会。彭博社记者提问，美国即将宣布对来自中国及其他一些国家的商品加征关税。这些额外关税不会使总税率超过此前在各自贸易谈判中已经商定的水平。中方是否对这些可能出台的关税措施作出评论？\n郭嘉昆强调，中方在处理中美经贸问题上的立场是一贯明确的。关税战、贸易战不符合任何一方的利益，双方应在平等、尊重、互惠的基础上协商解决有关问题。\n“所谓‘产能过剩’是一个伪命题，中方反对以此为借口进行政治操弄。中美双方应当共同落实好两国元首达成的重要共识，维护中美经贸关系稳定发展态势。”郭嘉昆说。",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -118,51 +118,85 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "澎湃新闻调研宁波外贸企业，探讨经营信用转化为融资的实践。",
-      "credibilityScore": 78,
+      "aiSummary": "外交部回应美国拟加征关税，反对借口产能过剩政治操弄",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为知名媒体，记者实地调研，有具体企业案例，但非一线通讯社，细节略简。"
+      "credibilityReason": "来源为澎湃新闻，引述外交部发言人原话，信息具体可查证，用词客观"
     },
     {
-      "title": "全球科技股强势反弹 A股港股掉队",
-      "link": "https://www.zaobao.com.sg/news/china/story20261124-10049317",
-      "pubDate": "Tue, 24 Nov 2026 07:27:54 GMT",
-      "contentSnippet": "晶片巨头英伟达创办人黄仁勋复职，提振市场对人工智能（AI）产业的投资信心，亚太股市星期二（11月24日）普遍大涨，台湾股市领涨，中国大陆股市涨幅有限，港股高开低走。\n英伟达星期一（11月23日）宣布恢复黄仁勋的总裁、首席执行官和董事职务，带动公司股价飙涨31.5%。美国纳斯达克指数当天大涨6.5%，标普500指数上涨4.7%，结束连续七个交易日的跌势。\n受隔夜美股大涨带动，韩国综合指数星期二盘中涨逾6%，三星电子和SK海力士股价大幅攀升。日本日经225指数上涨3.9%。\n台湾股市领涨亚太市场，加权指数收盘飙涨8.99%至40122.35点，单日上涨3310.46点，创历史最大单日上涨点数纪录。",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "英伟达宣布黄仁勋复职提振全球科技股，亚太股市普涨但A股港股相对疲弱。",
-      "credibilityScore": 72,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名媒体联合早报，数据具体可查证，但黄仁勋复职事件需交叉核实。"
-    },
-    {
-      "title": "外交部：对中国空间站将迎来首个外籍航天员充满期待，预祝任务圆满成功",
-      "link": "https://m.thepaper.cn/newsDetail_forward_34546551",
-      "pubDate": "Tue, 24 Nov 2026 07:21:03 GMT",
-      "contentSnippet": "11月24日，外交部发言人郭嘉昆主持例行记者会。\n彭博社记者提问，一名巴基斯坦航天员将搭乘中国的神舟二十四号飞船升空，成为中国载人航天史上首位外国航天员。外交部对此有何评论？\n郭嘉昆表示，中国和巴基斯坦航天员携手进入中国空间站“天宫”，将是中国载人航天工程史上首次中外航天员联合飞行，也是中国空间站首次迎来外籍航天员。中国和巴基斯坦是全天候战略合作伙伴，此次联合飞行将是中巴建交75周年之际，两国合作取得的又一重要成果。\n“我们对这一航天盛事充满期待，预祝任务取得圆满成功。”郭嘉昆说。",
+      "title": "外交部：中巴航天员共赴“天宫”，为全天候战略合作伙伴关系拓展了新领域",
+      "link": "https://m.thepaper.cn/newsDetail_forward_34556214",
+      "pubDate": "Wed, 25 Nov 2026 07:23:37 GMT",
+      "contentSnippet": "11月25日，外交部发言人郭嘉昆主持例行记者会。巴基斯坦联合通讯社记者提问，今天中国成功发射了“神舟”载人飞船，一位巴基斯坦航天员参与其中，成为首位参与中国航天任务的外国航天员，创造历史。请问中国外交部如何看待这一里程碑事件对于中国航天事业的意义？这又将为进一步加强巴中两国在航天领域的合作带来哪些机遇？\n郭嘉昆表示，今天，在中国和巴基斯坦两国人民热切期待下，中巴航天员共赴中国空间站“天宫”，开展历史性的航天科技合作，中国空间站首次迎来外籍航天员，这是中国载人航天工程国际合作新的里程碑。习近平主席在致巴基斯坦总统扎尔达里的贺电中指出，两国航天员携手叩问苍穹是中巴深厚友谊的生动体现，也是两国合作新",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
-        "澎湃新闻",
-        "央视新闻"
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "外交部称中巴航天员共赴天宫，系中国空间站首次迎来外籍航天员。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为澎湃新闻转述外交部例行记者会，有发言人姓名及直接引述，信息具体可查证。"
+    },
+    {
+      "title": "国家发改委：三峡水运新通道工程已完成投资超110亿元",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-25/10737542.shtml",
+      "pubDate": "Wed, 25 Nov 2026 15:12:10 +0800",
+      "contentSnippet": "中新网11月25日电 据国家发改委网站消息，为深入贯彻党中央和国务院决策部署，加快推进三峡水运新通道工程建设，2026年11月19日，国家发展改革委党组成员、副主任李春临在京主持召开三峡水运新通道建设有关会议。会议听取了三峡集团关于工程建设进展等有关情况的汇报，并进行了交流讨论。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国家发改委称三峡水运新通道工程已完成投资超110亿元。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网转引国家发改委官网，官方权威，信息具体含时间人物，但缺直接引述。"
+    },
+    {
+      "title": "沪游双周报｜10月国内游戏市场收入超300亿元",
+      "link": "https://m.thepaper.cn/newsDetail_forward_34555379",
+      "pubDate": "Wed, 25 Nov 2026 07:11:50 GMT",
+      "contentSnippet": "沪游速递分为政策速递、产业资讯和活动预告三部分，精选北京、上海、广州、杭州等城市2026年11月9日至2026年11月22日游戏产业政策、产业发展动态。\n政策速递\n北京\n北京公示2026年游戏电竞行业拟支持项目名单\n11月20日，北京市出版事业发展中心发布《关于2026年北京市游戏电竞行业高质量发展拟支持项目名单的公示》，公示期为11月20日至26日。拟支持项目覆盖精品游戏研发运营、重点电竞赛事活动、游戏电竞出海三大类别，共涉及19家企业，包括完美世界互娱、腾讯科技、咪咕文化科技、智明星通等。此次公示旨在推动精品游戏研发、电竞赛事发展及游戏企业国际化布局。（来源：北京市人民政府）\n上海\n静安区",
+      "sourceName": "澎湃新闻",
+      "sourceWeight": 82,
+      "allSources": [
+        "澎湃新闻"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "澎湃新闻汇总2026年11月京沪等地游戏产业政策与动态",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "澎湃新闻为正规媒体，内容含具体日期、机构名称及官方来源，但正文不完整，部分细节缺失"
+    },
+    {
+      "title": "习近平同巴基斯坦总统扎尔达里就中巴航天员执行联合飞行任务互致贺电",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737535.shtml",
+      "pubDate": "Wed, 25 Nov 2026 15:03:13 +0800",
+      "contentSnippet": "新华社北京11月25日电#8195;11月25日，国家主席习近平同巴基斯坦总统扎尔达里就中巴航天员执行联合飞行任务互致贺电。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网",
+        "澎湃新闻"
       ],
       "coverageCount": 2,
       "coverageBoost": 5,
-      "aiSummary": "外交部回应巴基斯坦航天员将首登中国空间站，预祝任务成功。",
-      "credibilityScore": 97,
+      "aiSummary": "习近平与巴基斯坦总统就中巴航天员联合飞行任务互致贺电",
+      "credibilityScore": 100,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为央视新闻和澎湃新闻，外交部例行记者会有直接引述，信息具体可查证。（多源覆盖 +5）"
+      "credibilityReason": "来源为新华社通稿，中国新闻网和澎湃新闻转载，信息具体，属官方权威发布（多源覆盖 +5）"
     },
     {
-      "title": "中方对黄仁勋重回英伟达有何评论？外交部回应",
-      "link": "https://m.thepaper.cn/newsDetail_forward_34546549",
-      "pubDate": "Tue, 24 Nov 2026 07:15:46 GMT",
-      "contentSnippet": "11月24日，外交部发言人郭嘉昆主持例行记者会。\n彭博社记者提问，英伟达董事会重新任命黄仁勋为负责人，此前他因为丑闻辞职，美国政府对此进行了介入。中方对此有何评论？\n“我们对此不做评论。”郭嘉昆说。",
+      "title": "关于技术增强和“超人类主义”，我询问了98位中美科技从业者的看法",
+      "link": "https://m.thepaper.cn/newsDetail_forward_34438259",
+      "pubDate": "Wed, 25 Nov 2026 06:56:21 GMT",
+      "contentSnippet": "在一次访谈中，我问一位中国的软件工程师：“如果有一天，技术可以让一个人拥有爱因斯坦的智力、刘翔的速度、姚明的篮球能力，同时还有刘德华的外貌，你会愿意成为这样的人吗？”他认真地想了一会儿，说：“这听起来很有吸引力，我希望那个人是我。”但紧接着，他又犹豫地说：“我也会害怕那个人是我。”\n然后他反过来问我：“如果这样的‘超级人类’真的出现了，他们的下一代也拥有同样经过设计的基因，那么普通人会变成什么？普通人会不会反而成为那个有‘基因缺陷’的群体？自然出生的人还有没有存在的必要？我真的很纠结。”\n让他纠结的这件事有个名字，叫“超人类主义”。\n一、“超级人类”已经不只是科幻\n超人类主义（transhum",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -170,95 +204,61 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "外交部回应黄仁勋重回英伟达提问，表示不做评论。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为澎湃新闻，引述外交部例行记者会实录，信息具体可查证。"
-    },
-    {
-      "title": "美国防长尚未批准向乌克兰交付60枚爱国者导弹",
-      "link": "https://www.zaobao.com.sg/news/world/story20261124-10049100",
-      "pubDate": "Tue, 24 Nov 2026 07:02:02 GMT",
-      "contentSnippet": "英国《金融时报》星期二（11月24日）引述知情人士报道，美国国防部长赫格塞斯尚未批准向乌克兰交付约60枚华盛顿此前已同意提供的爱国者防空拦截导弹。\n乌克兰多次表明，迫切需要更多拦截导弹，以应对俄罗斯日益频繁的导弹和无人机袭击。\n报道说，这批拦截导弹包括美国制造的爱国者三型（PAC-3）和爱国者二型（PAC-2）导弹，其中一些存放在欧洲的武器库中，由乌克兰的西方盟友出资购买。\n《金融时报》说，尚未交付的导弹包括原定于今年9月至12月交付的爱国者三型拦截导弹，但这些导弹至今均未获准移交。\n此外，约20枚较旧型号的爱国者二型拦截导弹也已划拨给乌克兰，但仍有待批准交付。\n《金融时报》也报道，另一项旨在",
-      "sourceName": "联合早报·国际",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·国际"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "联合早报引述金融时报称美防长未批准向乌交付约60枚爱国者导弹",
-      "credibilityScore": 78,
-      "credibilityLevel": "high",
-      "credibilityReason": "联合早报转引金融时报知情人士报道，细节具体但属二手转述，缺官方直接回应"
-    },
-    {
-      "title": "一见·看中国，三座APEC之城的时间印记",
-      "link": "https://www.peopleapp.com/column/30053613223-500007797740",
-      "pubDate": "Tue, 24 Nov 2026 06:43:23 GMT",
-      "contentSnippet": "",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "澎湃新闻发表文章，以三座APEC举办城市为线索回顾中国参与APEC的历程。",
-      "credibilityScore": 65,
-      "credibilityLevel": "medium",
-      "credibilityReason": "澎湃为知名媒体但非一线通讯社，属宣传性综述报道，缺少具体数据与直接引述，事实可查证但主观色彩较强。"
-    },
-    {
-      "title": "台官方预计中国大陆后天发射火箭经过台ADIZ",
-      "link": "https://www.zaobao.com.sg/news/china/story20261124-10048951",
-      "pubDate": "Tue, 24 Nov 2026 06:34:07 GMT",
-      "contentSnippet": "台湾国防部称，预计中国大陆将在星期四（11月26日）发射运载火箭，火箭上空时将经过台湾的防空识别区（ADIZ）。\n根据台湾国防部官网星期二（24日）发布的通报，预计将在西昌卫星发射中心发射上述火箭，飞行方向为西太平洋。通报称，这份信息的来源为美国联邦航空总署。\n台湾国防部也公布，从星期一（23日）早上6时到星期二早上6时，发现三架次大陆军机、九艘大陆军舰持续在台海周边活动，其中逾越台海中线进入台湾西南及东部ADIZ计三架次。",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "台湾国防部称大陆预计26日发射火箭将经过台防空识别区。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报，引述台国防部官网通报及美国联邦航空总署信息，细节具体可查证。"
-    },
-    {
-      "title": "宏福苑大火改革汇报 李家超要求尽速修订六法严打围标",
-      "link": "https://www.zaobao.com.sg/news/china/story20261124-10048785",
-      "pubDate": "Tue, 24 Nov 2026 06:10:31 GMT",
-      "contentSnippet": "香港特首李家超听取大埔宏福苑大火改革进度报告时，要求尽速修订六条法例，并严打围标。\n据香港政府公报，李家超星期一（11月23日）在特首主持会议，听取官员汇报港府为防止大埔宏福苑火灾事故再发生的系统改革和推行独立委员会报告建议的进度报告。\n他指示各政策局和部门全力推展改革工作，尽快将六条法例的修订草案提交立法会审议，要求跨部门特遣队全力出击严打围标，以及尽快落实成立楼宇维修支援及服务局等新措施。\n香港大埔宏福苑去年11月26日发生致命大火，造成168人罹难。\n港府今年10月29日公开独立委员会报告，并公布以独立委员会报告建议为基础推行六方面的系统性改革。之后，香港政务司司长陈国基在10月30日设",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "李家超听取宏福苑大火改革汇报，要求尽速修订六条法例并严打围标。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报，引述香港政府公报，信息具体含时间人物数据，用词客观。"
-    },
-    {
-      "title": "安塔利亚的裂痕：从漫长加时到协议流产，COP31为何最终谈崩？",
-      "link": "https://m.thepaper.cn/newsDetail_forward_34545242",
-      "pubDate": "Tue, 24 Nov 2026 06:05:01 GMT",
-      "contentSnippet": "尽管已经连续三天几乎没怎么睡觉，澳大利亚气候变化与能源部长、COP31谈判主席克里斯·鲍文最终还是没能带来一份让各方都能接受的协议。\n当地时间11月22日，原定于20日结束的《联合国气候变化框架公约》第三十一次缔约方大会（COP31），在超时逾50个小时后黯然落幕。这场创下联合国气候大会“加时”纪录的谈判，最终未能就作为大会核心政治成果的“封面决定”达成共识。\n“坦率地讲，这次会议议题的分量与难度，本不至于带来这样一场‘崩盘’。”在安塔利亚见证了谈判过程的资深观察员、亚洲协会政策研究所中国气候中心总监李硕告诉澎湃新闻（www.thepaper.cn）。\n同样在现场全程跟进谈判的绿色和平东亚分部",
-      "sourceName": "澎湃新闻",
-      "sourceWeight": 82,
-      "allSources": [
-        "澎湃新闻"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "COP31安塔利亚大会超时50小时仍未能达成核心协议，谈判宣告破裂。",
+      "aiSummary": "澎湃新闻访谈98位中美科技从业者，探讨超人类主义与技术增强的伦理困境。",
       "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为知名媒体，有现场专家直接引述，细节具体，但非一线通讯社，部分信息待交叉验证。"
+      "credibilityReason": "来源为知名媒体澎湃新闻，内容含具体访谈细节和直接引述，但样本量和调查方法未完整披露。"
+    },
+    {
+      "title": "英媒：欧盟拟设500亿欧元科技基金 降低对中美依赖",
+      "link": "https://www.zaobao.com.sg/news/china/story20261125-10055073",
+      "pubDate": "Wed, 25 Nov 2026 06:13:08 GMT",
+      "contentSnippet": "英国媒体报道，欧盟计划向一项新科技基金投入最多500亿欧元（706亿新元），以降低对美国和中国技术的依赖。\n据路透社报道，英国《金融时报》星期三（11月25日）引述两名参与讨论的官员透露上述消息。拟议中的“主权科技股权基金”（Sovereign Tech Equity Fund）将主要投资于人工智能和量子计算企业。\n与欧盟现有融资计划相比，这项基金将进行规模更大、风险更高、期限更长的投资。",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
+      "allSources": [
+        "联合早报·中港台"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "英媒报道欧盟拟设500亿欧元科技基金，降低对中美技术依赖。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "联合早报转引路透社及金融时报，引述匿名官员，信息具体但未获欧盟官方确认。"
+    },
+    {
+      "title": "旗下组织曾获索罗斯资助 沈伯洋：未进个人口袋",
+      "link": "https://www.zaobao.com.sg/news/china/story20261125-10054995",
+      "pubDate": "Wed, 25 Nov 2026 06:00:10 GMT",
+      "contentSnippet": "台湾地方选举进入最后冲刺阶段，民进党台北市长候选人沈伯洋因曾任理事长的“台湾民主实验室”接受美国金融家索罗斯旗下基金会资助，引发争议。沈伯洋强调，有关款项用于研究和机构营运，未进入个人口袋。\n综合台湾《联合报》《中国时报》等报道，沈伯洋曾任理事长的非政府组织“台湾民主实验室”，在2020年至2023年间获得索罗斯（George Soros）创办的开放社会基金会（Open Society Foundations，简称OSF）约135万美元（174万新元）资助。\n蓝营质疑，台湾民主实验室为何获得这笔资助、款项具体用于哪些研究，以及沈伯洋与资助方是否存在政治立场上的关联。部分人士也指出，开放社会基金",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
+      "allSources": [
+        "联合早报·中港台"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "沈伯洋回应其任理事长的组织获索罗斯基金会资助争议，称款项未入个人口袋。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为联合早报，引述台媒报道，信息具体含金额与时间，但缺少直接引述原文。"
+    },
+    {
+      "title": "习近平：要更加注重制度系统集成",
+      "link": "https://www.zaobao.com.sg/news/china/story20261125-10054952",
+      "pubDate": "Wed, 25 Nov 2026 05:50:21 GMT",
+      "contentSnippet": "中共总书记习近平对党内法规工作作出重要指示称，要更加注重制度系统集成，更加注重制度学习教育，更加注重制度执行，更加注重党内法规同国家法律法规衔接协调。\n据央视新闻星期三（11月25日）报道，习近平近日对党内法规工作作出重要指示强调，五年来，党中央从全局和战略高度谋划和推进依规治党，党内法规制度建设扎实有力、成效明显。\n习近平说，新征程上，要以新时代中国特色社会主义思想为指导，深入学习贯彻新时代党建思想，认真贯彻党的二十届五中全会精神，坚持把依规治党当作管党治党基本方式，紧扣加强党的领导和党的建设，补短板、强弱项，持续高质量推进党内法规制度建设。\n习近平也说，要更加注重制度系统集成，更加注重制度",
+      "sourceName": "联合早报·中港台",
+      "sourceWeight": 80,
+      "allSources": [
+        "联合早报·中港台"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "习近平就党内法规工作作出指示，强调制度系统集成与执行",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "联合早报转引央视新闻，来源权威，内容具体，引述直接，事实可查证"
     }
   ]
 }
