@@ -1,168 +1,48 @@
 {
-  "generatedAt": "2026-11-25T07:45:11.748Z",
+  "generatedAt": "2026-11-26T07:36:11.994Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "消息称欧盟拟设立 500 亿欧元科技主权基金，降低对中美技术依赖",
-      "link": "https://www.ithome.com/1/032/132.htm",
-      "pubDate": "Wed, 25 Nov 2026 06:59:31 GMT",
-      "contentSnippet": "IT之家 11 月 25 日消息，据英国《金融时报》报道，欧盟正在拟定方案，计划筹募最高 500 亿欧元（IT之家注：现汇率约合 3,654.19 亿元人民币）设立一支新基金，面向欧洲本土人工智能与量子计算企业开展长期高风险投资，希望借此降低对美国和中国技术的依赖。\n\n两名参与相关讨论的官员透露，这支拟设立的主权科技股权基金（Stef），相比欧盟现有的融资项目，将投向规模更大、风险更高、周期更长的投资标的。\n其中一名官员表示：“这是投向高风险领域的长期稳定资金。它和欧盟以往的做法完全不同，而这恰恰是我们设立它的理由。”\n投资重点将放在人工智能与量子技术上。量子技术依托量子力学原理，能够完成传统",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
+      "title": "研究显示不是所有地区的男性精子数量都大幅下降",
+      "link": "https://www.solidot.org/story?sid=85990",
+      "pubDate": "Wed, 25 Nov 2026 22:27:27 +0800",
+      "contentSnippet": "丹麦的一项研究显示，该国男性精子的数量并非大幅下降，过去 26 年一直维持稳定，甚至少数人还表现出改善的迹象。这项研究表明男性精子数量的变化趋势可能存在地域差异。对男性精子数量的担忧始于 1992 年，《British Medical Journal》期刊当时发表的一项研究发现自 1940 年以来男性精子浓度下降了 42%。2022 年的一项荟萃​​分析显示 1973-2018 年间男性精子浓度下降了逾 50%，精子总数下降逾 60%。北美、欧洲、澳大利亚、南美、中美洲、亚洲和非洲都出现精子数量下降的现象——尽管下降幅度各不相同。丹麦的研究表明精子数量是否正在下降并没有盖棺定论。",
+      "sourceName": "Solidot",
+      "sourceWeight": 75,
       "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "欧盟拟设500亿欧元科技主权基金，投资AI与量子计算以降低对中美依赖",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家转引《金融时报》报道，有具体金额、官员引述和投资方向，但属二手转述且方案未定"
-    },
-    {
-      "title": "AI 芯片挤占消费级 GPU 产能，英伟达被曝缩减 RTX 50 系列显卡供货量",
-      "link": "https://www.ithome.com/1/032/097.htm",
-      "pubDate": "Wed, 25 Nov 2026 05:19:30 GMT",
-      "contentSnippet": "IT之家 11 月 25 日消息，英伟达 AI 芯片供应持续紧张，正在进一步挤压消费级显卡的供货空间。\n据中国台湾《工商时报》今日报道，ODM 厂商透露，英伟达 B300、GB300 等 AI 芯片新订单交货周期大幅拉长，进一步排挤消费级显卡供货。受此影响，英伟达已缩减 GeForce RTX 50 系列游戏显卡供货，下一代 RTX 60 系列的更新节奏也可能放缓。\n目前英伟达合作的主要 ODM 厂商正将产能重心转向 B300、GB300，以及逐步进入量产交付阶段的 Vera Rubin 平台。与此同时，部分 AI 服务器和工作站产品仍按照原定计划推进交付，但新增订单的等待时间明显增加。\n业界",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "英伟达AI芯片产能紧张挤占消费级GPU，RTX 50系列供货缩减",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家援引工商时报ODM消息，内容具体但属转述传闻，缺乏英伟达官方确认"
-    },
-    {
-      "title": "【钛晨报】8000亿+5000亿！中国央行“组合拳”出手；新加坡子公司被列入美实体清单，阿里巴巴回应；工业富联大手笔分红，拟派现超132亿元",
-      "link": "https://www.tmtpost.com/8216719.html",
-      "pubDate": "Wed, 25 Nov 2026 07:20:00 +0800",
-      "contentSnippet": "大烨智能年报虚假记载遭行政处罚，股票11月26日起戴帽；厦航拟斥资近500亿元买50架波音飞机；天齐锂业拟豪掷68.72亿元买矿；AI内部模型能力过强引发安全担忧，OpenAI和Anthropic员工质疑是否应继续发布前沿模型；中国在5个自贸试验区开展人工智能标准化自主开放试点；外交部回应“英伟达重新任命黄仁勋为首席执行官”。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "央行组合拳释放流动性，阿里回应实体清单，工业富联分红超132亿",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容涉及具体金额与企业事件，信息可核验，但摘要较简略"
-    },
-    {
-      "title": "不炒股不梭哈，这届年轻人如何攒「后路」？",
-      "link": "https://www.tmtpost.com/8216481.html",
-      "pubDate": "Wed, 25 Nov 2026 15:33:35 +0800",
-      "contentSnippet": "攒股息、囤金豆、存保险，年轻人理财主打“心脏友好”",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体报道年轻人通过股息、金豆和保险等稳健方式理财攒后路",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，内容具体但偏生活方式报道，技术专业性较弱，缺少数据支撑和原始出处"
-    },
-    {
-      "title": "“转人工”、“转人工”、“给我转人工！”",
-      "link": "https://www.tmtpost.com/8217135.html",
-      "pubDate": "Wed, 25 Nov 2026 15:33:34 +0800",
-      "contentSnippet": "“转人工”、“转人工”、“给我转人工！”",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体文章以用户反复要求转人工为引，探讨智能客服困境。",
-      "credibilityScore": 72,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，但摘要仅重复标题，缺乏具体数据与细节支撑。"
-    },
-    {
-      "title": "小米 CFO 林世伟：小米 AI 相关收入持续增加，今年 160 亿元投入正稳健落地",
-      "link": "https://www.ithome.com/1/032/151.htm",
-      "pubDate": "Wed, 25 Nov 2026 07:30:51 GMT",
-      "contentSnippet": "IT之家 11 月 25 日消息，据人民财讯报道，小米集团 CFO 林世伟昨晚在财报电话会上表示，小米对 AI 的投入非常坚决，今年将在 AI 领域投入 160 亿元，目前正在沿着规划稳健落地，小米 MiMo 大模型的 API 调用量和 AI 相关收入都在持续增加。\n林世伟介绍称，小米 AI 业务现在还处于大规模投入期，除了持续投入基座模型的研发，还在加快推动 AI 落地“人车家全生态”，例如小米 18 Fold 就搭载了 MiMo 端侧大模型，澎湃 OS 4 的“超级小爱 2.0”也深度集成了 MiMo 大模型。\n据IT之家此前报道，小米创办人、董事长兼 CEO 雷军 11 月 17 日出席",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "小米CFO称今年AI投入160亿元稳健落地，MiMo大模型调用量与AI收入持续增长",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家援引人民财讯财报电话会内容，有具体金额、产品及高管表态，信息可溯源，但属转述报道"
-    },
-    {
-      "title": "CDPR：《巫师 4》相对《巫师 3》的升级幅度堪比《GTA 5》到《GTA 6》",
-      "link": "https://www.ithome.com/1/032/150.htm",
-      "pubDate": "Wed, 25 Nov 2026 07:30:46 GMT",
-      "contentSnippet": "IT之家 11 月 25 日消息，CD Projekt 今日发布了 2026 年第三季度财报，整体亮点不多：《巫师 3》重制版市场反响火爆，《赛博朋克 2》与《巫师 4》的开发稳步推进，《赛博朋克：边缘行者 2》收获广泛好评。\n\n不难理解，后续投资者电话会议里有不少提问都围绕《侠盗猎车手 6》展开。CD Projekt 联合首席执行官米哈乌 · 诺瓦科夫斯基（Michał Nowakowski）没有深入讨论这款游戏，但他表示，即将推出的《巫师 4》至少会在一个维度上和《侠盗猎车手 6》具备可比性。\nIT之家注意到，当被问到《巫师 4》能否像《侠盗猎车手 6》那样，相比前作实现技术飞跃时，诺瓦科",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "CDPR称《巫师4》技术升级幅度堪比《GTA5》到《GTA6》",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引述财报电话会议高管原话，但标题有夸大对比之嫌"
-    },
-    {
-      "title": "神舟二十四号航天员乘组顺利进驻“天宫”，中外航天员实现首次“太空握手”",
-      "link": "https://www.ithome.com/1/032/149.htm",
-      "pubDate": "Wed, 25 Nov 2026 07:29:07 GMT",
-      "contentSnippet": "IT之家 11 月 25 日消息，据中国载人航天工程办公室消息，在载人飞船与空间站组合体成功交会对接后，神舟二十四号航天员乘组从飞船返回舱顺利进入轨道舱。\n北京时间 2026 年 11 月 25 日 14 时 35 分，在轨执行任务的神舟二十三号航天员乘组顺利打开“家门”，欢迎远道而来的 3 名航天员入驻中国空间站，中外航天员实现首次“太空握手”。\n\n这是中国航天史上第 9 次“太空会师”，也是“天宫”首次迎来外籍航天员。随后，6 名航天员合影留念，记录下这一历史性时刻。后续，6 名航天员将在空间站进行在轨轮换。\n\n综合IT之家此前报道，北京时间 11 月 25 日 08 时 18 分 52",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "神舟二十四号乘组进驻天宫，中外航天员首次太空握手",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家，引述中国载人航天工程办公室官方消息，时间节点具体，信息详实"
-    },
-    {
-      "title": "TrendForce 下调 2027 年存储器产值预估，DRAM 合约价下半年有望持平",
-      "link": "https://www.ithome.com/1/032/148.htm",
-      "pubDate": "Wed, 25 Nov 2026 07:23:34 GMT",
-      "contentSnippet": "IT之家 11 月 25 日消息，TrendForce（集邦）今日宣布下调对 2027 年 DRAM 内存、NAND 闪存产值的预期，分别降至 11,530 亿美元（现汇率约合 7.7 万亿元人民币）、4,193 亿美元（现汇率约合 2.8 万亿元人民币），同比增幅各自达到 69%、29%。\n\n▲ 图源：TrendForce\n机构认为，部分云服务供应商 (CSP) 已从 2026Q4 开始减少部分服务器内存和企业级固态硬盘的需求。这对产业整体表现产生了差异化的影响。\n\n▲ 图源：TrendForce\n在 DRAM 方面，其它 CSP 能迅速填补这部分空间，全年 DRAM 容量需求仍将明显增长，",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家",
         "Solidot"
       ],
-      "coverageCount": 2,
-      "coverageBoost": 5,
-      "aiSummary": "TrendForce下调2027年DRAM与NAND产值预估，DRAM合约价下半年或持平",
-      "credibilityScore": 87,
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "丹麦研究显示该国男性精子数量26年保持稳定，下降趋势存在地域差异",
+      "credibilityScore": 75,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为IT之家引述TrendForce研报，含具体产值数据与机构观点，但数据量级存疑需核实（多源覆盖 +5）"
+      "credibilityReason": "引用具体研究及期刊数据，逻辑清晰，但来源为聚合类站点，缺少原始论文链接"
     },
     {
-      "title": "创维推出 2027 款 G24/27 SE 显示器：1080P 180Hz，499 元 / 599 元",
-      "link": "https://www.ithome.com/1/032/146.htm",
-      "pubDate": "Wed, 25 Nov 2026 07:22:42 GMT",
-      "contentSnippet": "IT之家 11 月 25 日消息，创维宣布推出 2027 款 G24/27 SE 显示器，相应产品均为 1080P 180Hz 超频规格，其中 G24 SE 定价为 499 元，G27 SE 定价为 599 元。\n京东创维 G24 显示器券后 499 元领 11 元券京东创维 G27 SE 显示器 599 元直达链接\n\n创维 G24/27 SE 显示器分别配备了一块 23.8/27 寸原厂 144Hz 原生刷新率 IPS 面板，支持手动超频至 180Hz，最大亮度可达 300 尼特，静态对比度较上一代提升至 1500:1，覆盖 99% sRGB 色域。\n系列显示器支架支持俯仰，显示器本体支持",
+      "title": "手握千亿美元资产，稳定币巨头Tether狂投金融公司",
+      "link": "https://www.tmtpost.com/8218733.html",
+      "pubDate": "Thu, 26 Nov 2026 15:08:00 +0800",
+      "contentSnippet": "对于Tether而言，真正的挑战或许已经不只是维持USDT的稳定，而是如何让庞大的投资版图形成持续运转的商业体系。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体报道稳定币巨头Tether手握千亿美元资产大举投资金融公司",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体钛媒体，内容涉及具体资产规模，但摘要缺少投资细节与原始出处"
+    },
+    {
+      "title": "打工人双重续命套餐：WPS 京东 PLUS 联合会员 173 元再降，年均 43.3 元",
+      "link": "https://www.ithome.com/1/032/795.htm",
+      "pubDate": "Thu, 26 Nov 2026 07:06:36 GMT",
+      "contentSnippet": "WPS 超级会员 3 年日常 298 元，今日买超会 3 年送京东 PLUS /等联合会员 1 年。\n今日大部分用户可叠加京东平台大额补贴（此项优惠限账号）：\n\n点击下方卡片 → 加购物车 1 件（想要哪个联合会员就加哪个）\n\n加车后 → 回到京东 App 首页搜索“WPS 会员”\n\n直接下单实付约 193 元\n\n下单前加入店铺会员，付款后可兑换 20 元京东 E 卡，折合仅需 173 元，单会员单年折合仅需 43.25 元。\n\n下单前需先加入店铺会员，得 376 积分：点此加入。\n\n加入会员后再下单，可得 197 积分。\n\n京东 WPS 超级会员 3 年卡赠京东 PLUS 会员年卡首页搜索实",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -170,16 +50,203 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "创维发布2027款G24/27 SE显示器，1080P 180Hz，499元起",
+      "aiSummary": "IT之家报道WPS超级会员3年卡赠京东PLUS年卡，叠加优惠后约173元",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "知名科技媒体，促销信息具体含价格与操作步骤，但属导购类内容，技术含量低"
+    },
+    {
+      "title": "宇树王兴兴预测：5-10 年内中国机器人产量有望超汽车，年产量超 2000 万台",
+      "link": "https://www.ithome.com/1/032/790.htm",
+      "pubDate": "Thu, 26 Nov 2026 07:05:07 GMT",
+      "contentSnippet": "IT之家 11 月 26 日消息，据科创板日报报道，11 月 26 日，在北京举行的 WISE2026 大会上，宇树科技创始人、董事长王兴兴判断，5 到 10 年内，中国机器人产量有望超过汽车，年产量超过 2000 万台。\n宇树公司此前透露，公司 2025 全年人形机器人实际出货量超 5500 台，2025 年本体量产下线超 6500 台。上述均为该公司纯人形机器人的数量，不含双臂轮式等其他机器人产品。\nIT之家注意到，国家统计局本月最新数据显示，今年 10 月份，我国装备制造业和高技术制造业支撑明显，工业机器人产量同比增长 26.0%。\n中国汽车工业协会发布的数据显示，2025 年，我国汽车",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "宇树王兴兴预测5-10年中国机器人年产量超2000万台、超汽车",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家转述科创板日报，有会议场合、具体数据及统计局出处，但属预测性言论，需谨慎看待"
+    },
+    {
+      "title": "游戏《无人深空》获 7.15 版本更新，新增 AMD FSR 4 支持",
+      "link": "https://www.ithome.com/1/032/783.htm",
+      "pubDate": "Thu, 26 Nov 2026 07:02:05 GMT",
+      "contentSnippet": "IT之家 11 月 26 日消息，开发商 Hello Games 宣布为旗下游戏《无人深空（No Man's Sky）》带来 7.15 版本更新，主要引入了 AMD FSR 4 的支持。\n\n对此，《无人深空》引擎程序员 Martin Griffiths 在 X 平台发文解释称，此次加入 FSR 4 得益于 AMD 近期发布的 FSR SDK 2.4，该版本 SDK 为 FSR 4 增加了对 Vulkan 图形 API 的支持，此前 FSR 4 仅支持 DirectX 12。这意味着游戏有望在保留超分辨率技术性能优势的同时，提供更高质量的画面放大效果。\n除此之外，Hello Games 还鼓励玩",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "《无人深空》7.15版更新新增AMD FSR 4支持，得益于FSR SDK 2.4对Vulkan API的支持。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道引用开发者原话及SDK版本等技术细节，信息具体可信。"
+    },
+    {
+      "title": "小鹏 IRON 机器人广州车展首次上岗接待，覆盖主持、导购等多场景",
+      "link": "https://www.ithome.com/1/032/782.htm",
+      "pubDate": "Thu, 26 Nov 2026 07:02:04 GMT",
+      "contentSnippet": "IT之家 11 月 26 日消息，小鹏宣布，明天，小鹏集团将带着最新的物理 AI 科技登陆 2026 广州国际车展，小鹏 IRON 机器人首次上岗接待。\nIT之家附官方公布亮点：\n\n小鹏 IRON 机器人首次上岗，多台机器人在现场接待、导购、导览，用户可以直接和 IRON 近距离互动\n\n小鹏 P7 全新车色发布\n\nMONA L03 永劫无间痛车展出\n\nMONA L05、MONA L03 新套装亮相\n\n2026 年 11 月 27 日–12 月 6 日，小鹏汽车将在中国进出口商品交易会展馆 D 区 2 楼 17.2 馆 17203 展位展出。\n\n在昨日举行的「Origin 原点」2026 小鹏科",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "小鹏IRON机器人将在2026广州车展首次上岗接待，覆盖主持导购等场景",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "IT之家为知名科技媒体，信息含具体时间地点，但正文截断且多为官方宣传口径，缺乏技术细节与独立信源"
+    },
+    {
+      "title": "从“堆数据”到“边干边学”，具身智能正在寻找自己的Scaling Law",
+      "link": "https://www.tmtpost.com/8218859.html",
+      "pubDate": "Thu, 26 Nov 2026 15:02:00 +0800",
+      "contentSnippet": "从人类示范、仿真对练，到人工接管、真实场景数据回流，具身智能一直在探索自己的成长路径，这期间，机器人积累的每一次经验，都是它走向物理世界的起点。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体分析具身智能从堆数据转向边干边学的Scaling Law探索路径",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "知名科技媒体，主题专业但摘要较概括，缺少具体数据和原始出处"
+    },
+    {
+      "title": "腾讯被曝全公司推混元 HY4 模型，12 月起非技术岗外部模型额度降至 10%",
+      "link": "https://www.ithome.com/1/032/781.htm",
+      "pubDate": "Thu, 26 Nov 2026 07:01:23 GMT",
+      "contentSnippet": "IT之家 11 月 26 日消息，据“大厂日爆”公众号今日爆料，鹅厂（预计指腾讯）将在全公司范围内大面积推广混元 HY4 模型。\n据爆料，从 12 月 1 日起，腾讯产品运营等非 T 族（IT之家注：技术研发）岗位的外部模型额度调为 10%，比如默认总额度 700，外部可以用 70，HY4 用 630。\n该爆料还指出，从 2027 年 1 月 1 日开始，所有员工默认使用 HY4 模型，如果需要使用外部模型可以走申请。此次调整据称是因为 HY4 发布后，能力跻身最强开源模型梯队。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "腾讯被曝12月起全公司推广混元HY4，非技术岗外部模型额度降至10%",
+      "credibilityScore": 65,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为自媒体爆料经IT之家转述，缺少腾讯官方确认及HY4具体技术数据支撑"
+    },
+    {
+      "title": "启境 GX7 新版型申报：图形车标上车，涵盖纯电单电机、双电机四驱及插混增程多动力版本",
+      "link": "https://www.ithome.com/1/032/778.htm",
+      "pubDate": "Thu, 26 Nov 2026 06:59:27 GMT",
+      "contentSnippet": "IT之家 11 月 26 日消息，工信部发布第 414 批《道路机动车辆生产企业及产品公告》新产品公示，广汽埃安新能源汽车股份有限公司启境 GX7 共 6 款车型完成申报，涵盖纯电动单电机、纯电动双电机四驱以及插电式增程混合动力多种动力版本。\nIT之家注意到，本次申报的启境 GX7 整体外观保持统一设计语言，车尾采用贯穿式尾灯组，中央排布 AISTALAND 字母标识，左侧为“启境”字样，右侧标注“GX7”车型名称，下方配备运动化扩散器造型。另外，在选装照片中，还有启境的图形车标。\n\n尺寸方面，本次申报车型的尺寸均为 5099×2006×1750mm，轴距为 3070mm，前轮距 1716mm",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "启境GX7共6款车型申报工信部，涵盖纯电及增程多动力版本",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家报道，引用工信部公告原始出处，含具体车型数量、尺寸及动力配置数据，信息详实"
+    },
+    {
+      "title": "今晚国内成品油价格降低：加满一箱油将少花 17.5 元左右",
+      "link": "https://www.ithome.com/1/032/777.htm",
+      "pubDate": "Thu, 26 Nov 2026 06:59:15 GMT",
+      "contentSnippet": "IT之家 11 月 26 日消息，根据国家发展改革委消息，11 月 12 日国内成品油价格调整以来，国际市场原油价格震荡下行后近日又有所回升，本次调价的前 10 个工作日平均价格低于上次调价前 10 个工作日平均价格。根据国际市场油价变化情况，自 11 月 26 日 24 时起，国内汽、柴油（标准品）价格每吨分别下调 440 元、425 元。\nIT之家附各省区市和中心城市汽、柴油最高零售价格如下：\n\n全国平均来看：92 号汽油降低 0.35 元，95 号汽油降低 0.37 元，0 号柴油降低 0.36 元。按照油箱容量为 50L 的家用轿车为例，加满一箱 92 号汽油将节省 17.5 元。\nI",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "国内成品油价格于11月26日24时起下调，92号汽油每升降0.35元，加满一箱油省约17.5元。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，引用国家发改委官方消息，数据具体详实，逻辑清晰。"
+    },
+    {
+      "title": "铃木全新 Ignis 发布：企业首款紧凑型电动汽车，2027 年夏季开售",
+      "link": "https://www.ithome.com/1/032/776.htm",
+      "pubDate": "Thu, 26 Nov 2026 06:58:35 GMT",
+      "contentSnippet": "IT之家 11 月 26 日消息，铃木汽车 (Suzuki) 当地时间昨日发布了其首款紧凑型电动汽车 —— 全新 Ignis。该车型将于 2027 年夏季起在欧洲等市场上市销售。\n\nIT之家获悉，全新 Ignis 基于 HEARTECT-e 专用电动汽车平台，磷酸铁锂电池置于车身下方，电机、逆变器、减速齿轮整合，配备电动平台专用悬架，提供电动制动助力器等使用配置；整车转弯半径低至 4.5m。\n\n该车型外部拥有流畅的肩线和悬浮式车顶，前后 LED 灯组采用灵感源自数字的标志性友好图形；内饰线条圆润，营造出安心舒适感。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "铃木发布首款紧凑型电动汽车Ignis，2027年夏欧洲上市",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium",
+      "credibilityReason": "IT之家为知名科技媒体，内容含平台、电池、转弯半径等具体参数，但缺少原始出处和价格续航等关键数据"
+    },
+    {
+      "title": "蔡磊，生命的最后一次创业",
+      "link": "https://www.tmtpost.com/8218772.html",
+      "pubDate": "Thu, 26 Nov 2026 14:58:00 +0800",
+      "contentSnippet": "他还在用眼睛工作。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "蔡磊以眼动追踪坚持创业，报道聚焦其生命最后阶段的抗争。",
+      "credibilityScore": 78,
+      "credibilityLevel": "medium-high",
+      "credibilityReason": "钛媒体为知名科技媒体，内容具体但摘要过简，缺少数据与原始出处，时效性存疑。"
+    },
+    {
+      "title": "印度第七家门店：苹果 Apple Kukatpally 下月开业，专属壁纸已上线",
+      "link": "https://www.ithome.com/1/032/775.htm",
+      "pubDate": "Thu, 26 Nov 2026 06:53:46 GMT",
+      "contentSnippet": "IT之家 11 月 26 日消息，苹果公司昨日（11 月 25 日）宣布 Apple Kukatpally 将于印度标准时间 12 月 10 日 17 点（北京时间 12 月 10 日 19:30 分）开业，这是苹果在海得拉巴开设的首家零售店，也是其在印度的第七家门店。\n新店选址于海得拉巴 Kukatpally 地区的 Lake Shore 购物中心。作为印度重要的科技与商业城市之一，海得拉巴近年来吸引了大量科技企业和年轻消费群体。此次开业将使当地消费者能够更直接地体验 iPhone、Mac、iPad、Apple Watch、AirPods 等产品，并获得苹果提供的零售服务与支持。\n\nIT之家",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "苹果宣布印度海得拉巴首家零售店Apple Kukatpally将于12月10日开业，系印度第七家门店。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，产品参数、价格、面板规格具体，但缺少官方原始链接引用"
+      "credibilityReason": "IT之家为知名科技媒体，信息含具体时间地点与门店数量，来源为苹果官方公告，但缺少原始链接引用。"
     },
     {
-      "title": "将 5C 电池升级到 6C 倍率，何小鹏官宣陆续 OTA 覆盖所有 5C 车型",
-      "link": "https://www.ithome.com/1/032/145.htm",
-      "pubDate": "Wed, 25 Nov 2026 07:22:27 GMT",
-      "contentSnippet": "IT之家 11 月 25 日现场消息，在今日的「Origin 原点」2026 小鹏科技日活动中，小鹏集团董事长、CEO 何小鹏宣布，小鹏的 5C 超级充电能力将升级到 6C。\n何小鹏表示，将 5C 电池升级到 6C 倍率的能力，将陆续 OTA 覆盖小鹏所有 5C 车型。\n\nIT之家在发布会现场了解到，对于升级后的安全担忧，何小鹏表示该升级仅仅需要 AI 与系统的深度研发融合，然后通过 OTA 就可以了，且做了长时间充分的耐久与各种环境的极端安全场景测试。“我相信这应该是行业首次来把充电的倍率 OTA 整整提高了 1C，使充电从 10% 到 80% 仅需 10.7 分钟。很多朋友们会担心，充电速",
+      "title": "三位战友，把公司最赚钱的业务卖了500亿",
+      "link": "https://www.tmtpost.com/8218763.html",
+      "pubDate": "Thu, 26 Nov 2026 14:53:00 +0800",
+      "contentSnippet": "约500亿元人民币，只买了这家公司的一块业务。",
+      "sourceName": "钛媒体",
+      "sourceWeight": 82,
+      "allSources": [
+        "钛媒体"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "钛媒体报道三位创始人将公司最赚钱业务以约500亿元出售",
+      "credibilityScore": 65,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体钛媒体，但正文信息极简，缺少公司名称、交易细节和原始出处，技术准确性无法评估"
+    },
+    {
+      "title": "博主展示破解版 PS5 游戏机 13.60 固件运行《GTA6》，称“仅用于分享技术动态、不会放出相关文件”",
+      "link": "https://www.ithome.com/1/032/774.htm",
+      "pubDate": "Thu, 26 Nov 2026 06:51:10 GMT",
+      "contentSnippet": "IT之家 11 月 26 日消息，博主 NanospeedGamer 发文，透露《GTA6》已经可以在破解后的 PS5 游戏机上游玩，具体技术层面是应用了 Backport 降级移植方案。\n\n尽管目前技术上已确实可行，但目前尚未有任何可靠信源公开放出可在破解版 PS5 13.60 固件下运行的《GTA6》镜像。NanospeedGamer 本身称“自己仅仅是分享技术动态，用于记录 PS5 的技术保存进展，不会放出任何相关文件与下载链接”。\n\n与此同时，网络上已经涌现大量伪造的“《GTA6》游戏包”，但其中大部分都是木马文件，用户应当谨慎看待这些内容，避免中招。",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -187,78 +254,10 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "小鹏宣布将通过OTA把5C电池升级至6C充电倍率，覆盖所有5C车型",
-      "credibilityScore": 72,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家现场报道，有CEO原话和具体数据，但OTA提升充电倍率的技术可行性存疑，缺乏第三方验证"
-    },
-    {
-      "title": "CDPR 扩大《赛博朋克 2》开发团队规模，计划 2027 年底扩充至 320 人",
-      "link": "https://www.ithome.com/1/032/144.htm",
-      "pubDate": "Wed, 25 Nov 2026 07:21:00 GMT",
-      "contentSnippet": "IT之家 11 月 25 日消息，据游戏媒体 VGC 昨天报道，CD Projekt Red 最新财务报告显示，《赛博朋克 2》游戏开发进展符合预期，2027 年底开发团队规模将达到 320 人左右。\n\nIT之家从原报道获悉，CDPR 战略与投资者关系副总裁 Karolina Gnaś 表示：“《赛博朋克 2》的开发工作进展顺利，我们对目前的情况感到满意，但现在还不是公布具体时间表、说明何时进入全面制作阶段的时候。”\n这名 CDPR 高管还透露，他们计划今年年底前将开发团队规模扩大到 200 人，此前提到的 2027 年底 320 人目标依然有效。这意味着《赛博朋克 2》的内部开发进度符合预期",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "CDPR财报显示《赛博朋克2》开发符合预期，2027年底团队扩至320人",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家援引VGC及CDPR财报与高管原话，信息具体有出处，属知名科技媒体转载"
-    },
-    {
-      "title": "中国工程院院士邬贺铨：未来 6G 的流量增长主要来自终端结构的调整，单靠手机带不起代际增长",
-      "link": "https://www.ithome.com/1/032/143.htm",
-      "pubDate": "Wed, 25 Nov 2026 07:19:21 GMT",
-      "contentSnippet": "IT之家 11 月 25 日消息，据科创板日报，在 2026 年 6G 发展大会，中国工程院院士邬贺铨表示，未来 6G 的流量增长主要来自终端结构的调整，可能出现沉浸式的终端、机器的流量等等。\n\n单靠手机本身是撑不起这个流量的，也带不起代际的增长。ToC 的应用主要是着重于带宽。ToB 的应用可能是多维度的，不仅是带宽，还有时延、可靠性、同步等等。我们需要 6G 在同一套标准下，同时支持 ToC 和 ToB 的应用。\n\nIT之家注意到，工业和信息化部昨天（24 日）在上海正式启动 6G 创新发展部省协同试点，北京、河北、上海、江苏、浙江、安徽、湖北、广东 8 个省市获批开展 6G 试点工作。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "邬贺铨院士称6G流量增长靠终端结构调整，非单靠手机",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "权威院士在6G大会发言，IT之家引科创板日报，信息具体有出处"
-    },
-    {
-      "title": "第 7000 台奕境 X9 汽车交付：满配华为乾崑全栈智能，28.98 万元起",
-      "link": "https://www.ithome.com/1/032/142.htm",
-      "pubDate": "Wed, 25 Nov 2026 07:18:07 GMT",
-      "contentSnippet": "IT之家 11 月 25 日消息，奕境汽车品牌总经理今日宣布，第 7000 台奕境 X9 已于昨日开启交付，车主是物理老师李永乐。\n\n作为参考，奕境 X9 自 10 月 18 日批量交付起，本月初官宣两周交付 3612 台。其中，中高配车型占比超 95%，平均成交价超 34 万元。\n据IT之家此前报道，奕境 X9 于 9 月 24 日上市，限时优惠价 27.98 万-35.98 万元，号称满配华为乾崑全栈智能，拥有华为乾崑智驾、鸿蒙座舱、华为乾崑赤兔平台、华为乾崑车载光、华为乾崑车云、华为鲸鳍通信加持。\n该车搭载 896 线双光路图像级激光雷达，最高采用华为乾崑四激光方案。奕境 X9 除了前排",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "奕境X9第7000台交付，搭载华为乾崑全栈智能，28.98万元起。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息含具体交付数据、价格及技术细节，来源为品牌总经理宣布，可信度较高。"
-    },
-    {
-      "title": "Take-Two 证实发起 DMCA 投诉，下架《GTA 6》民间 PC 移植项目及 3007 个代码仓库",
-      "link": "https://www.ithome.com/1/032/141.htm",
-      "pubDate": "Wed, 25 Nov 2026 07:15:49 GMT",
-      "contentSnippet": "IT之家 11 月 25 日消息，Take-Two 证实，正是其发起投诉，下架了 Leonida 项目。这是规模最大的粉丝项目，目标是让泄露的 Xbox Series 版《侠盗猎车手 6》（GTA 6）能够在电脑上原生运行，而这家发行商的打击范围并不只限于主代码仓库。\n\nIT之家注意到，GitHub 公开的 Take-Two 数字千年版权法投诉通知证实了这件事，这份通知由公司知识产权合规团队提交，针对 NotRexed 的 Leonida 仓库以及它的两千九百多个复刻分支仓库，GitHub 最终一共处理了 3007 个仓库的下架请求。\n\n通知写明，2026 年 11 月 20 日，来自 Xbo",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "Take-Two证实发起DMCA投诉，下架GTA 6民间PC移植项目及3007个代码仓库",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，引用GitHub公开DMCA通知及具体仓库数量，信息有据可查"
+      "aiSummary": "博主称破解版PS5可运行GTA6，但无文件放出且存木马风险",
+      "credibilityScore": 75,
+      "credibilityLevel": "medium",
+      "credibilityReason": "IT之家为知名科技媒体，报道注明单一博主信源且无实证，技术细节有限，可信度中等"
     }
   ]
 }

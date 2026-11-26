@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-25T07:44:02.862Z",
+  "generatedAt": "2026-11-26T07:34:55.292Z",
   "totalSources": 6,
   "totalArticles": 15,
   "category": "国际新闻",
   "articles": [
     {
-      "title": "中方呼吁各方警惕有人正在将《海洋生物多样性协定》秘书处申办工作政治化、对抗化",
-      "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737572.shtml",
-      "pubDate": "Wed, 25 Nov 2026 15:41:14 +0800",
-      "contentSnippet": "中新网北京11月25日电  (记者  曾玥)中国外交部发言人郭嘉昆25日主持例行记者会。",
+      "title": "中方：当前日遗化武销毁进程严重滞后根本原因在于日方固守错误史观",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738106.shtml",
+      "pubDate": "Thu, 26 Nov 2026 15:28:01 +0800",
+      "contentSnippet": "中新网北京11月26日电  (记者 谢雁冰 曾玥)中国外交部发言人郭嘉昆26日主持例行记者会。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -16,16 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "中方呼吁警惕《海洋生物多样性协定》秘书处申办工作被政治化、对抗化。",
-      "credibilityScore": 88,
+      "aiSummary": "外交部发言人指日遗化武销毁滞后，称根本原因在日方错误史观",
+      "credibilityScore": 78,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中国新闻网，属官方媒体；有外交部发言人、记者会等具体信息，表述客观。"
+      "credibilityReason": "来源为中新网官方报道，引述外交部例行记者会发言人原话，信息具体可查证；属官方表态转述，单一信源。"
     },
     {
-      "title": "报道称美国计划对包括中国在内的有关国家加征关税 中方回应",
-      "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737570.shtml",
-      "pubDate": "Wed, 25 Nov 2026 15:39:51 +0800",
-      "contentSnippet": "中新网北京11月25日电  (记者  曾玥)中国外交部发言人郭嘉昆25日主持例行记者会。有记者就有报道称美国计划对包括中国在内的有关国家加征关税一事提问。",
+      "title": "外交部：中方反对以“产能过剩”为借口进行政治操弄",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738105.shtml",
+      "pubDate": "Thu, 26 Nov 2026 15:25:27 +0800",
+      "contentSnippet": "中新网北京11月26日电  (记者  谢雁冰)中国外交部发言人郭嘉昆26日主持例行记者会。有记者就美国拟对中国等国的商品加征关税一事提问。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -33,84 +33,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "外交部发言人回应美方计划对包括中国在内国家加征关税的报道。",
+      "aiSummary": "外交部发言人回应美国拟加征关税，反对以产能过剩为借口政治操弄。",
       "credibilityScore": 88,
       "credibilityLevel": "high",
       "credibilityReason": "来源为中新网官方报道，含具体时间、人物及记者会场景，信息可查证。"
     },
     {
-      "title": "市场监管总局启动高质量认证项目“揭榜挂帅”工作",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-25/10737562.shtml",
-      "pubDate": "Wed, 25 Nov 2026 15:33:13 +0800",
-      "contentSnippet": "中新网11月25日电 据国家市场监督管理总局网站消息，近日，市场监管总局印发高质量认证项目“揭榜挂帅”工作方案(以下简称工作方案)，对更好发挥质量认证作用，支撑经济社会高质量发展作出部署。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "市场监管总局印发高质量认证项目“揭榜挂帅”工作方案",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，引述市场监管总局官网消息，信息具体可查证"
-    },
-    {
-      "title": "巴基斯坦总理：巴中航天合作体现两国牢不可破友谊",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737559.shtml",
-      "pubDate": "Wed, 25 Nov 2026 15:29:35 +0800",
-      "contentSnippet": "新华社伊斯兰堡11月25日电(记者杨恺)巴基斯坦总理办公室25日发表声明说，巴总理夏巴兹表示，巴航天员穆罕默德·齐尚·阿里将成为首位到访中国空间站“天宫”的外籍航天员，这证明了巴中两国之间牢不可破的友谊。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "巴基斯坦总理称巴航天员将访中国空间站，体现巴中友谊。",
-      "credibilityScore": 92,
-      "credibilityLevel": "high",
-      "credibilityReason": "新华社原稿，来源权威，含具体人物、时间及官方声明，事实可查证。"
-    },
-    {
-      "title": "外交部：关税战、贸易战不符合任何一方的利益",
-      "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737552.shtml",
-      "pubDate": "Wed, 25 Nov 2026 15:27:57 +0800",
-      "contentSnippet": "11月25日，外交部发言人郭嘉昆主持例行记者会。有记者就有报道称，美国计划对包括中国在内的有关国家加征关税一事提问。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "外交部发言人郭嘉昆回应美国拟对华加征关税，称贸易战不符合任何一方利益。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网官方报道，引述外交部例行记者会及发言人具体表态，事实可查证。"
-    },
-    {
-      "title": "中巴航天员共赴“天宫” 外交部：中国载人航天工程国际合作新的里程碑",
-      "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737551.shtml",
-      "pubDate": "Wed, 25 Nov 2026 15:24:35 +0800",
-      "contentSnippet": "11月25日，外交部发言人郭嘉昆主持例行记者会。有记者就中巴航天员执行联合飞行任务相关问题提问。对此，郭嘉昆表示，今天在中国和巴基斯坦两国人民热切期待下，中巴航天员共赴中国空间站“天宫”，开展历史性的航天科技合作，中国空间站首次迎来外籍航天员，这是中国载人航天工程国际合作新的里程碑。",
-      "sourceName": "中国新闻网",
-      "sourceWeight": 82,
-      "allSources": [
-        "中国新闻网"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "外交部称中巴航天员共赴天宫，系中国空间站首次迎来外籍航天员。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网，引述外交部发言人例行记者会原话，信息具体可查证。"
-    },
-    {
-      "title": "美国将宣布对中国商品加征关税，外交部：反对借口“产能过剩”进行政治操弄",
-      "link": "https://m.thepaper.cn/newsDetail_forward_34556215",
-      "pubDate": "Wed, 25 Nov 2026 07:23:59 GMT",
-      "contentSnippet": "11月25日，外交部发言人郭嘉昆主持例行记者会。彭博社记者提问，美国即将宣布对来自中国及其他一些国家的商品加征关税。这些额外关税不会使总税率超过此前在各自贸易谈判中已经商定的水平。中方是否对这些可能出台的关税措施作出评论？\n郭嘉昆强调，中方在处理中美经贸问题上的立场是一贯明确的。关税战、贸易战不符合任何一方的利益，双方应在平等、尊重、互惠的基础上协商解决有关问题。\n“所谓‘产能过剩’是一个伪命题，中方反对以此为借口进行政治操弄。中美双方应当共同落实好两国元首达成的重要共识，维护中美经贸关系稳定发展态势。”郭嘉昆说。",
+      "title": "日本海上保安厅广播警告中国船只离开钓鱼岛附近海域，外交部回应",
+      "link": "https://m.thepaper.cn/newsDetail_forward_34564481",
+      "pubDate": "Thu, 26 Nov 2026 07:25:01 GMT",
+      "contentSnippet": "11月26日，外交部发言人郭嘉昆主持例行记者会。法新社记者提问，日本海上保安厅今天通过广播发出警告，要求中国船只离开存在争议的钓鱼岛及其附属岛屿附近海域。请问外交部对此次事件有何评论？\n郭嘉昆指出，钓鱼岛及其附属岛屿是中国固有领土，日本船只非法侵闯钓鱼岛领海挑衅滋事，严重侵犯中国主权，破坏钓鱼岛局势稳定。中方已向日方提出严正交涉。\n郭嘉昆表示，中国海警船依法对有关船只采取必要管控措施，中方坚定维护国家领土主权和海洋权益，敦促日方恪守中日四点原则共识，停止一切侵权挑衅行为，切实采取措施防止类似事件。",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -118,16 +50,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "外交部回应美国拟加征关税，反对借口产能过剩政治操弄",
+      "aiSummary": "外交部回应日方钓鱼岛警告，称中国海警依法管控并提出交涉",
       "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为澎湃新闻，引述外交部发言人原话，信息具体可查证，用词客观"
+      "credibilityReason": "澎湃新闻为正规媒体，引述外交部记者会发言人原话，信息具体可查证"
     },
     {
-      "title": "外交部：中巴航天员共赴“天宫”，为全天候战略合作伙伴关系拓展了新领域",
-      "link": "https://m.thepaper.cn/newsDetail_forward_34556214",
-      "pubDate": "Wed, 25 Nov 2026 07:23:37 GMT",
-      "contentSnippet": "11月25日，外交部发言人郭嘉昆主持例行记者会。巴基斯坦联合通讯社记者提问，今天中国成功发射了“神舟”载人飞船，一位巴基斯坦航天员参与其中，成为首位参与中国航天任务的外国航天员，创造历史。请问中国外交部如何看待这一里程碑事件对于中国航天事业的意义？这又将为进一步加强巴中两国在航天领域的合作带来哪些机遇？\n郭嘉昆表示，今天，在中国和巴基斯坦两国人民热切期待下，中巴航天员共赴中国空间站“天宫”，开展历史性的航天科技合作，中国空间站首次迎来外籍航天员，这是中国载人航天工程国际合作新的里程碑。习近平主席在致巴基斯坦总统扎尔达里的贺电中指出，两国航天员携手叩问苍穹是中巴深厚友谊的生动体现，也是两国合作新",
+      "title": "一华裔加拿大公民因涉嫌间谍活动在比利时被捕，外交部：不了解有关情况",
+      "link": "https://m.thepaper.cn/newsDetail_forward_34546554",
+      "pubDate": "Thu, 26 Nov 2026 07:23:49 GMT",
+      "contentSnippet": "11月26日，外交部发言人郭嘉昆主持例行记者会。路透社记者提问，一名因涉嫌间谍活动在比利时被捕的加拿大籍北约实习生，将在候审期间接受电子监控。该嫌疑人为华裔加拿大公民。中方对此有何回应？\n郭嘉昆表示，我们不了解你提到的有关情况。",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -135,16 +67,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "外交部称中巴航天员共赴天宫，系中国空间站首次迎来外籍航天员。",
-      "credibilityScore": 88,
+      "aiSummary": "外交部回应华裔加拿大公民涉间谍在比利时被捕，称不了解情况。",
+      "credibilityScore": 85,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为澎湃新闻转述外交部例行记者会，有发言人姓名及直接引述，信息具体可查证。"
+      "credibilityReason": "澎湃新闻为知名媒体，引述外交部例行记者会及发言人原话，事实可查证。"
     },
     {
-      "title": "国家发改委：三峡水运新通道工程已完成投资超110亿元",
-      "link": "https://www.chinanews.com.cn/cj/2026/11-25/10737542.shtml",
-      "pubDate": "Wed, 25 Nov 2026 15:12:10 +0800",
-      "contentSnippet": "中新网11月25日电 据国家发改委网站消息，为深入贯彻党中央和国务院决策部署，加快推进三峡水运新通道工程建设，2026年11月19日，国家发展改革委党组成员、副主任李春临在京主持召开三峡水运新通道建设有关会议。会议听取了三峡集团关于工程建设进展等有关情况的汇报，并进行了交流讨论。",
+      "title": "外交部：双方应维护中美经贸关系稳定发展态势",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738102.shtml",
+      "pubDate": "Thu, 26 Nov 2026 15:20:49 +0800",
+      "contentSnippet": "11月26日，外交部发言人郭嘉昆主持例行记者会，有记者就美对多国宣布新一轮关税措施内容提问。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -152,16 +84,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "国家发改委称三峡水运新通道工程已完成投资超110亿元。",
+      "aiSummary": "外交部发言人郭嘉昆回应美方新一轮关税措施，呼吁维护中美经贸关系稳定。",
       "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为中新网转引国家发改委官网，官方权威，信息具体含时间人物，但缺直接引述。"
+      "credibilityReason": "来源为中国新闻网，属官方媒体；内容为外交部例行记者会，信息具体可查证。"
     },
     {
-      "title": "沪游双周报｜10月国内游戏市场收入超300亿元",
-      "link": "https://m.thepaper.cn/newsDetail_forward_34555379",
-      "pubDate": "Wed, 25 Nov 2026 07:11:50 GMT",
-      "contentSnippet": "沪游速递分为政策速递、产业资讯和活动预告三部分，精选北京、上海、广州、杭州等城市2026年11月9日至2026年11月22日游戏产业政策、产业发展动态。\n政策速递\n北京\n北京公示2026年游戏电竞行业拟支持项目名单\n11月20日，北京市出版事业发展中心发布《关于2026年北京市游戏电竞行业高质量发展拟支持项目名单的公示》，公示期为11月20日至26日。拟支持项目覆盖精品游戏研发运营、重点电竞赛事活动、游戏电竞出海三大类别，共涉及19家企业，包括完美世界互娱、腾讯科技、咪咕文化科技、智明星通等。此次公示旨在推动精品游戏研发、电竞赛事发展及游戏企业国际化布局。（来源：北京市人民政府）\n上海\n静安区",
+      "title": "外交部：多国代表指出日遗化武问题是实现无化武世界目标的最大现实障碍",
+      "link": "https://m.thepaper.cn/newsDetail_forward_34564473",
+      "pubDate": "Thu, 26 Nov 2026 07:20:34 GMT",
+      "contentSnippet": "11月26日，外交部发言人郭嘉昆主持例行记者会。有记者提问，我们注意到，在荷兰海牙举办的第三十一届禁止化学武器公约缔约国大会期间，中方举办日遗化武问题专题边会，发言人能否介绍一下有关情况？\n郭嘉昆介绍，11月25日，中方在第三十一届《禁止化学武器公约》缔约国大会期间举办日遗化武问题主题边会，向与会代表介绍当前日本遗弃在华化武数量大、危害深、处置慢的现实。\n中方强调，早日干净、彻底销毁日遗化武，是日方根据《禁止化学武器公约》必须履行的国际法义务。当前日遗化武销毁进程严重滞后，根本原因在于日方固守错误史观，没有真正反省战争罪责，漠视化武危害，蔑视国际义务，资源投入不足。禁止化学武器组织总干事达拉菲",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -169,16 +101,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "澎湃新闻汇总2026年11月京沪等地游戏产业政策与动态",
-      "credibilityScore": 75,
+      "aiSummary": "外交部介绍中方在海牙禁化武大会期间举办日遗化武问题边会情况",
+      "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "澎湃新闻为正规媒体，内容含具体日期、机构名称及官方来源，但正文不完整，部分细节缺失"
+      "credibilityReason": "来源为澎湃新闻，引述外交部例行记者会发言人原话，信息具体可查证，属官方表态转述"
     },
     {
-      "title": "习近平同巴基斯坦总统扎尔达里就中巴航天员执行联合飞行任务互致贺电",
-      "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737535.shtml",
-      "pubDate": "Wed, 25 Nov 2026 15:03:13 +0800",
-      "contentSnippet": "新华社北京11月25日电#8195;11月25日，国家主席习近平同巴基斯坦总统扎尔达里就中巴航天员执行联合飞行任务互致贺电。",
+      "title": "中方就日本船只非法侵闯钓鱼岛领海向日方提出严正交涉",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738101.shtml",
+      "pubDate": "Thu, 26 Nov 2026 15:19:43 +0800",
+      "contentSnippet": "新华社北京11月26日电(记者邵艺博、董雪)外交部发言人郭嘉昆26日在例行记者会上答问时表示，钓鱼岛及其附属岛屿是中国固有领土，日本船只非法侵闯钓鱼岛领海挑衅滋事，严重侵犯中国主权，破坏钓鱼岛局势稳定。中方已向日方提出严正交涉。中国海警船依法对有关船只采取必要管控措施。中方坚定维护国家领土主权和海洋权益，敦促日方恪守中日四点原则共识，停止一切侵权挑衅行为，切实采取措施防止类似事件再次发生。",
       "sourceName": "中国新闻网",
       "sourceWeight": 82,
       "allSources": [
@@ -187,16 +119,50 @@
       ],
       "coverageCount": 2,
       "coverageBoost": 5,
-      "aiSummary": "习近平与巴基斯坦总统就中巴航天员联合飞行任务互致贺电",
-      "credibilityScore": 100,
+      "aiSummary": "外交部就日本船只侵闯钓鱼岛领海提出严正交涉",
+      "credibilityScore": 93,
       "credibilityLevel": "high",
-      "credibilityReason": "来源为新华社通稿，中国新闻网和澎湃新闻转载，信息具体，属官方权威发布（多源覆盖 +5）"
+      "credibilityReason": "新华社电稿，有记者署名和发言人直接引述，内容具体可查证（多源覆盖 +5）"
     },
     {
-      "title": "关于技术增强和“超人类主义”，我询问了98位中美科技从业者的看法",
-      "link": "https://m.thepaper.cn/newsDetail_forward_34438259",
-      "pubDate": "Wed, 25 Nov 2026 06:56:21 GMT",
-      "contentSnippet": "在一次访谈中，我问一位中国的软件工程师：“如果有一天，技术可以让一个人拥有爱因斯坦的智力、刘翔的速度、姚明的篮球能力，同时还有刘德华的外貌，你会愿意成为这样的人吗？”他认真地想了一会儿，说：“这听起来很有吸引力，我希望那个人是我。”但紧接着，他又犹豫地说：“我也会害怕那个人是我。”\n然后他反过来问我：“如果这样的‘超级人类’真的出现了，他们的下一代也拥有同样经过设计的基因，那么普通人会变成什么？普通人会不会反而成为那个有‘基因缺陷’的群体？自然出生的人还有没有存在的必要？我真的很纠结。”\n让他纠结的这件事有个名字，叫“超人类主义”。\n一、“超级人类”已经不只是科幻\n超人类主义（transhum",
+      "title": "做活开放“棋眼” 广西加快成为面向东盟开放合作超级枢纽",
+      "link": "https://www.chinanews.com.cn/aseaninfo/2026/11-26/10738096.shtml",
+      "pubDate": "Thu, 26 Nov 2026 15:18:27 +0800",
+      "contentSnippet": "中新网南宁11月26日电(黄艳梅 陈秋霞)中国共产党广西壮族自治区第十三次代表大会26日在广西南宁开幕。中共广西壮族自治区委员会书记陈刚表示，广西加快由“西南边陲”向“开放前沿”转变，加快成为面向东盟开放合作的超级枢纽。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "广西党代会提出加快成为面向东盟开放合作超级枢纽。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网权威媒体，有具体时间地点人物及直接引述，内容可查证。"
+    },
+    {
+      "title": "外交部：日方应还中国人民以净土",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738100.shtml",
+      "pubDate": "Thu, 26 Nov 2026 15:17:55 +0800",
+      "contentSnippet": "11月26日，外交部发言人郭嘉昆主持例行记者会，有记者问：我们注意到，在荷兰海牙举办的第31届《禁止化学武器公约》缔约国大会期间，中方举办日遗化武问题专题边会。发言人能否介绍下有关情况？",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "外交部就日遗化武问题回应记者，要求日方还中国人民以净土。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中国新闻网，属权威媒体；内容为外交部例行记者会实录，有具体时间、人物和议题，事实可查证。"
+    },
+    {
+      "title": "外交部回应美方提高中国商品税率：双方应共同落实好两国元首达成的重要共识",
+      "link": "https://m.thepaper.cn/newsDetail_forward_34564465",
+      "pubDate": "Thu, 26 Nov 2026 07:15:36 GMT",
+      "contentSnippet": "11月26日，外交部发言人郭嘉昆主持例行记者会。彭博社记者提问，美国宣布计划对产自中国及其他经济体的商品加征新一轮关税。据美国贸易代表办公室称，对华进口商品的税率将提高至 20%，这与此前中美双方的协议一致。但美方还提到，如果两国谈判破裂，该税率可能翻倍至 40%。请问外交部对此有何评论？\n“昨天我们已经阐明了中方立场。”郭嘉昆强调，关税战、贸易战不符合任何一方利益，中美双方应在平等、尊重、互惠的基础上协商解决有关问题。所谓“产能过剩”是一个伪命题，中方反对以此为借口进行政治操弄，双方应当共同落实好两国元首达成的重要共识，维护中美经贸关系稳定发展态势。\n“中方将继续采取必要措施捍卫自身正当权益",
       "sourceName": "澎湃新闻",
       "sourceWeight": 82,
       "allSources": [
@@ -204,61 +170,95 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "澎湃新闻访谈98位中美科技从业者，探讨超人类主义与技术增强的伦理困境。",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名媒体澎湃新闻，内容含具体访谈细节和直接引述，但样本量和调查方法未完整披露。"
-    },
-    {
-      "title": "英媒：欧盟拟设500亿欧元科技基金 降低对中美依赖",
-      "link": "https://www.zaobao.com.sg/news/china/story20261125-10055073",
-      "pubDate": "Wed, 25 Nov 2026 06:13:08 GMT",
-      "contentSnippet": "英国媒体报道，欧盟计划向一项新科技基金投入最多500亿欧元（706亿新元），以降低对美国和中国技术的依赖。\n据路透社报道，英国《金融时报》星期三（11月25日）引述两名参与讨论的官员透露上述消息。拟议中的“主权科技股权基金”（Sovereign Tech Equity Fund）将主要投资于人工智能和量子计算企业。\n与欧盟现有融资计划相比，这项基金将进行规模更大、风险更高、期限更长的投资。",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "英媒报道欧盟拟设500亿欧元科技基金，降低对中美技术依赖。",
+      "aiSummary": "外交部回应美方提高对华商品税率，呼吁落实元首共识。",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "联合早报转引路透社及金融时报，引述匿名官员，信息具体但未获欧盟官方确认。"
+      "credibilityReason": "来源为澎湃新闻，引述外交部发言人直接表态，信息具体可查证。"
     },
     {
-      "title": "旗下组织曾获索罗斯资助 沈伯洋：未进个人口袋",
-      "link": "https://www.zaobao.com.sg/news/china/story20261125-10054995",
-      "pubDate": "Wed, 25 Nov 2026 06:00:10 GMT",
-      "contentSnippet": "台湾地方选举进入最后冲刺阶段，民进党台北市长候选人沈伯洋因曾任理事长的“台湾民主实验室”接受美国金融家索罗斯旗下基金会资助，引发争议。沈伯洋强调，有关款项用于研究和机构营运，未进入个人口袋。\n综合台湾《联合报》《中国时报》等报道，沈伯洋曾任理事长的非政府组织“台湾民主实验室”，在2020年至2023年间获得索罗斯（George Soros）创办的开放社会基金会（Open Society Foundations，简称OSF）约135万美元（174万新元）资助。\n蓝营质疑，台湾民主实验室为何获得这笔资助、款项具体用于哪些研究，以及沈伯洋与资助方是否存在政治立场上的关联。部分人士也指出，开放社会基金",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
+      "title": "中国“两高”发布司法解释 涉严惩兴奋剂犯罪",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738086.shtml",
+      "pubDate": "Thu, 26 Nov 2026 15:13:59 +0800",
+      "contentSnippet": "中新社北京11月26日电 (记者 张素)中国最高人民法院、最高人民检察院26日联合发布关于办理妨害兴奋剂管理等刑事案件适用法律若干问题的解释。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
       "allSources": [
-        "联合早报·中港台"
+        "中国新闻网"
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "沈伯洋回应其任理事长的组织获索罗斯基金会资助争议，称款项未入个人口袋。",
-      "credibilityScore": 82,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为联合早报，引述台媒报道，信息具体含金额与时间，但缺少直接引述原文。"
-    },
-    {
-      "title": "习近平：要更加注重制度系统集成",
-      "link": "https://www.zaobao.com.sg/news/china/story20261125-10054952",
-      "pubDate": "Wed, 25 Nov 2026 05:50:21 GMT",
-      "contentSnippet": "中共总书记习近平对党内法规工作作出重要指示称，要更加注重制度系统集成，更加注重制度学习教育，更加注重制度执行，更加注重党内法规同国家法律法规衔接协调。\n据央视新闻星期三（11月25日）报道，习近平近日对党内法规工作作出重要指示强调，五年来，党中央从全局和战略高度谋划和推进依规治党，党内法规制度建设扎实有力、成效明显。\n习近平说，新征程上，要以新时代中国特色社会主义思想为指导，深入学习贯彻新时代党建思想，认真贯彻党的二十届五中全会精神，坚持把依规治党当作管党治党基本方式，紧扣加强党的领导和党的建设，补短板、强弱项，持续高质量推进党内法规制度建设。\n习近平也说，要更加注重制度系统集成，更加注重制度",
-      "sourceName": "联合早报·中港台",
-      "sourceWeight": 80,
-      "allSources": [
-        "联合早报·中港台"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "习近平就党内法规工作作出指示，强调制度系统集成与执行",
+      "aiSummary": "中国“两高”联合发布司法解释，严惩妨害兴奋剂管理等刑事案件。",
       "credibilityScore": 88,
       "credibilityLevel": "high",
-      "credibilityReason": "联合早报转引央视新闻，来源权威，内容具体，引述直接，事实可查证"
+      "credibilityReason": "来源为中国新闻网（中新社），属权威媒体；信息具体（时间、机构、文件名称），表述客观中性。"
+    },
+    {
+      "title": "商务部：中方将密切关注欧方混动汽车保障措施后续调查进展",
+      "link": "https://www.chinanews.com.cn/cj/2026/11-26/10738094.shtml",
+      "pubDate": "Thu, 26 Nov 2026 15:13:33 +0800",
+      "contentSnippet": "新华社北京11月26日电(记者黄韬铭、谢希瑶)商务部新闻发言人何亚东26日在例行新闻发布会上回答欧盟委员会发布混动汽车全球保障措施初步裁定的有关提问时表示，中欧双方此前就该案进行了立案前磋商，并按照“合规、非歧视、尊重事实”三项原则就混动汽车贸易安排达成谅解。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "商务部回应欧盟混动汽车保障措施初步裁定，称将关注后续调查进展。",
+      "credibilityScore": 92,
+      "credibilityLevel": "high",
+      "credibilityReason": "新华社供稿、商务部例行发布会直接引述，来源权威且事实可查证。"
+    },
+    {
+      "title": "外交部启用电子附加证明书线上申办平台",
+      "link": "https://www.chinanews.com.cn/gn/2026/11-26/10738067.shtml",
+      "pubDate": "Thu, 26 Nov 2026 15:13:13 +0800",
+      "contentSnippet": "中新网11月26日电 据外交部网站消息，2025年6月18日，外交部试点为中国国际贸易促进委员会出具的原产地证书签发电子附加证明书。为加速推进文书电子化，提高跨境流转效率，实现“高效办成一件事”，自2026年11月26日起，外交部启用电子附加证明书线上申办平台(https://consular.mfa.gov.cn/APOSTILLE/)，为中国贸促会出具的电子商事证明及具备条件的公证机构(见平台网站)出具的公证书签发电子附加证明书。申请人在上述机构申办的有关文书，可同步申办电子附加证明书。电子附加证明书与实体附加证明书具有同等效力，可通过外交部“领事认证/附加证明书在线核查系统”(https",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "外交部启用电子附加证明书线上申办平台，与实体证书同等效力",
+      "credibilityScore": 95,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为中新网转引外交部官网，含具体日期、网址及效力说明，信息可查证"
+    },
+    {
+      "title": "习言道｜探索浩瀚宇宙 建设航天强国",
+      "link": "http://www.chinanews.com.cn/gn/shipin/2026/11-26/news1076041.shtml",
+      "pubDate": "Thu, 26 Nov 2026 15:06:45 +0800",
+      "contentSnippet": "“探索浩瀚宇宙，建设航天强国，是我们不懈追求的航天梦。”习近平总书记高度重视航天事业发展，引领我国航天事业不断创造新的历史。重温总书记关于航天事业的重要论述。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "中新网回顾习近平关于探索宇宙、建设航天强国的重要论述。",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为权威媒体中新网，内容为官方公开论述回顾，事实可查证，用词中性。"
+    },
+    {
+      "title": "港澳台侨人士联通中外的奋斗故事——香江归棹 古醋承乡",
+      "link": "http://www.chinanews.com.cn/ga/shipin/2026/11-26/news1076040.shtml",
+      "pubDate": "Thu, 26 Nov 2026 14:56:09 +0800",
+      "contentSnippet": "曾在香港生活近十年，2003年毅然返乡扎根喀左，刘振邦把港式管理引入老国营醋厂，坚守传统酿造工艺，用十余年完成品牌重塑与厂区升级，带动本地农户增收。他多次陪同招商团赴港座谈，推介喀左陈醋等特色非遗产品，成功为喀左医疗、教育、服务业引资千余万元。一滴陈醋，百年乡愁；一座桥梁，双向奔赴。他以实干盘活老字号，也架起辽港交流的暖心桥。",
+      "sourceName": "中国新闻网",
+      "sourceWeight": 82,
+      "allSources": [
+        "中国新闻网"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "港归人士刘振邦返乡改造喀左老醋厂，助引资千万元促辽港交流。",
+      "credibilityScore": 75,
+      "credibilityLevel": "high",
+      "credibilityReason": "中国新闻网为权威媒体，人物时间地点具体，但属正面宣传报道，缺乏独立交叉验证。"
     }
   ]
 }
