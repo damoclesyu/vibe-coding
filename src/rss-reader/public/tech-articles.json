@@ -1,48 +1,14 @@
 {
-  "generatedAt": "2026-11-26T07:36:11.994Z",
+  "generatedAt": "2026-11-27T07:33:19.720Z",
   "totalSources": 8,
   "totalArticles": 15,
   "category": "科技新闻",
   "articles": [
     {
-      "title": "研究显示不是所有地区的男性精子数量都大幅下降",
-      "link": "https://www.solidot.org/story?sid=85990",
-      "pubDate": "Wed, 25 Nov 2026 22:27:27 +0800",
-      "contentSnippet": "丹麦的一项研究显示，该国男性精子的数量并非大幅下降，过去 26 年一直维持稳定，甚至少数人还表现出改善的迹象。这项研究表明男性精子数量的变化趋势可能存在地域差异。对男性精子数量的担忧始于 1992 年，《British Medical Journal》期刊当时发表的一项研究发现自 1940 年以来男性精子浓度下降了 42%。2022 年的一项荟萃​​分析显示 1973-2018 年间男性精子浓度下降了逾 50%，精子总数下降逾 60%。北美、欧洲、澳大利亚、南美、中美洲、亚洲和非洲都出现精子数量下降的现象——尽管下降幅度各不相同。丹麦的研究表明精子数量是否正在下降并没有盖棺定论。",
-      "sourceName": "Solidot",
-      "sourceWeight": 75,
-      "allSources": [
-        "Solidot"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "丹麦研究显示该国男性精子数量26年保持稳定，下降趋势存在地域差异",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "引用具体研究及期刊数据，逻辑清晰，但来源为聚合类站点，缺少原始论文链接"
-    },
-    {
-      "title": "手握千亿美元资产，稳定币巨头Tether狂投金融公司",
-      "link": "https://www.tmtpost.com/8218733.html",
-      "pubDate": "Thu, 26 Nov 2026 15:08:00 +0800",
-      "contentSnippet": "对于Tether而言，真正的挑战或许已经不只是维持USDT的稳定，而是如何让庞大的投资版图形成持续运转的商业体系。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体报道稳定币巨头Tether手握千亿美元资产大举投资金融公司",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体钛媒体，内容涉及具体资产规模，但摘要缺少投资细节与原始出处"
-    },
-    {
-      "title": "打工人双重续命套餐：WPS 京东 PLUS 联合会员 173 元再降，年均 43.3 元",
-      "link": "https://www.ithome.com/1/032/795.htm",
-      "pubDate": "Thu, 26 Nov 2026 07:06:36 GMT",
-      "contentSnippet": "WPS 超级会员 3 年日常 298 元，今日买超会 3 年送京东 PLUS /等联合会员 1 年。\n今日大部分用户可叠加京东平台大额补贴（此项优惠限账号）：\n\n点击下方卡片 → 加购物车 1 件（想要哪个联合会员就加哪个）\n\n加车后 → 回到京东 App 首页搜索“WPS 会员”\n\n直接下单实付约 193 元\n\n下单前加入店铺会员，付款后可兑换 20 元京东 E 卡，折合仅需 173 元，单会员单年折合仅需 43.25 元。\n\n下单前需先加入店铺会员，得 376 积分：点此加入。\n\n加入会员后再下单，可得 197 积分。\n\n京东 WPS 超级会员 3 年卡赠京东 PLUS 会员年卡首页搜索实",
+      "title": "东风日产王骞回应“去宁德化”：宁德时代是客户认可品牌，成本高也值得",
+      "link": "https://www.ithome.com/1/033/479.htm",
+      "pubDate": "Fri, 27 Nov 2026 07:17:03 GMT",
+      "contentSnippet": "IT之家 11 月 27 日消息，据观察者网出行中心报道，11 月 27 日，东风日产销售公司副总经理 @东风日产王骞 在 2026 年广州车展上回应有关“去宁德化”的问题时表示，客户喜欢什么就要给什么，客户没有说过“去宁德化”，东风日产为什么要去？\n\n王骞表示，每家企业都有自己的考虑，可能是成本，可能是供应链策略，他对此表示尊重；但对东风日产来说，更关心客户想要什么：他们更在乎电池安全、品质和可靠性。\n王骞表示，宁德时代是全球领先的电池企业，也是很多客户认可的品牌；既然用户喜欢信任，那东风日产就用：哪怕成本高一些，也觉得非常值得。\n\nIT之家注意到，东风日产 NX7 车型今日在广州车展上市，",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -50,203 +16,16 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "IT之家报道WPS超级会员3年卡赠京东PLUS年卡，叠加优惠后约173元",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "知名科技媒体，促销信息具体含价格与操作步骤，但属导购类内容，技术含量低"
-    },
-    {
-      "title": "宇树王兴兴预测：5-10 年内中国机器人产量有望超汽车，年产量超 2000 万台",
-      "link": "https://www.ithome.com/1/032/790.htm",
-      "pubDate": "Thu, 26 Nov 2026 07:05:07 GMT",
-      "contentSnippet": "IT之家 11 月 26 日消息，据科创板日报报道，11 月 26 日，在北京举行的 WISE2026 大会上，宇树科技创始人、董事长王兴兴判断，5 到 10 年内，中国机器人产量有望超过汽车，年产量超过 2000 万台。\n宇树公司此前透露，公司 2025 全年人形机器人实际出货量超 5500 台，2025 年本体量产下线超 6500 台。上述均为该公司纯人形机器人的数量，不含双臂轮式等其他机器人产品。\nIT之家注意到，国家统计局本月最新数据显示，今年 10 月份，我国装备制造业和高技术制造业支撑明显，工业机器人产量同比增长 26.0%。\n中国汽车工业协会发布的数据显示，2025 年，我国汽车",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "宇树王兴兴预测5-10年中国机器人年产量超2000万台、超汽车",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家转述科创板日报，有会议场合、具体数据及统计局出处，但属预测性言论，需谨慎看待"
-    },
-    {
-      "title": "游戏《无人深空》获 7.15 版本更新，新增 AMD FSR 4 支持",
-      "link": "https://www.ithome.com/1/032/783.htm",
-      "pubDate": "Thu, 26 Nov 2026 07:02:05 GMT",
-      "contentSnippet": "IT之家 11 月 26 日消息，开发商 Hello Games 宣布为旗下游戏《无人深空（No Man's Sky）》带来 7.15 版本更新，主要引入了 AMD FSR 4 的支持。\n\n对此，《无人深空》引擎程序员 Martin Griffiths 在 X 平台发文解释称，此次加入 FSR 4 得益于 AMD 近期发布的 FSR SDK 2.4，该版本 SDK 为 FSR 4 增加了对 Vulkan 图形 API 的支持，此前 FSR 4 仅支持 DirectX 12。这意味着游戏有望在保留超分辨率技术性能优势的同时，提供更高质量的画面放大效果。\n除此之外，Hello Games 还鼓励玩",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "《无人深空》7.15版更新新增AMD FSR 4支持，得益于FSR SDK 2.4对Vulkan API的支持。",
-      "credibilityScore": 85,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，报道引用开发者原话及SDK版本等技术细节，信息具体可信。"
-    },
-    {
-      "title": "小鹏 IRON 机器人广州车展首次上岗接待，覆盖主持、导购等多场景",
-      "link": "https://www.ithome.com/1/032/782.htm",
-      "pubDate": "Thu, 26 Nov 2026 07:02:04 GMT",
-      "contentSnippet": "IT之家 11 月 26 日消息，小鹏宣布，明天，小鹏集团将带着最新的物理 AI 科技登陆 2026 广州国际车展，小鹏 IRON 机器人首次上岗接待。\nIT之家附官方公布亮点：\n\n小鹏 IRON 机器人首次上岗，多台机器人在现场接待、导购、导览，用户可以直接和 IRON 近距离互动\n\n小鹏 P7 全新车色发布\n\nMONA L03 永劫无间痛车展出\n\nMONA L05、MONA L03 新套装亮相\n\n2026 年 11 月 27 日–12 月 6 日，小鹏汽车将在中国进出口商品交易会展馆 D 区 2 楼 17.2 馆 17203 展位展出。\n\n在昨日举行的「Origin 原点」2026 小鹏科",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "小鹏IRON机器人将在2026广州车展首次上岗接待，覆盖主持导购等场景",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "IT之家为知名科技媒体，信息含具体时间地点，但正文截断且多为官方宣传口径，缺乏技术细节与独立信源"
-    },
-    {
-      "title": "从“堆数据”到“边干边学”，具身智能正在寻找自己的Scaling Law",
-      "link": "https://www.tmtpost.com/8218859.html",
-      "pubDate": "Thu, 26 Nov 2026 15:02:00 +0800",
-      "contentSnippet": "从人类示范、仿真对练，到人工接管、真实场景数据回流，具身智能一直在探索自己的成长路径，这期间，机器人积累的每一次经验，都是它走向物理世界的起点。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体分析具身智能从堆数据转向边干边学的Scaling Law探索路径",
-      "credibilityScore": 75,
-      "credibilityLevel": "high",
-      "credibilityReason": "知名科技媒体，主题专业但摘要较概括，缺少具体数据和原始出处"
-    },
-    {
-      "title": "腾讯被曝全公司推混元 HY4 模型，12 月起非技术岗外部模型额度降至 10%",
-      "link": "https://www.ithome.com/1/032/781.htm",
-      "pubDate": "Thu, 26 Nov 2026 07:01:23 GMT",
-      "contentSnippet": "IT之家 11 月 26 日消息，据“大厂日爆”公众号今日爆料，鹅厂（预计指腾讯）将在全公司范围内大面积推广混元 HY4 模型。\n据爆料，从 12 月 1 日起，腾讯产品运营等非 T 族（IT之家注：技术研发）岗位的外部模型额度调为 10%，比如默认总额度 700，外部可以用 70，HY4 用 630。\n该爆料还指出，从 2027 年 1 月 1 日开始，所有员工默认使用 HY4 模型，如果需要使用外部模型可以走申请。此次调整据称是因为 HY4 发布后，能力跻身最强开源模型梯队。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "腾讯被曝12月起全公司推广混元HY4，非技术岗外部模型额度降至10%",
-      "credibilityScore": 65,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为自媒体爆料经IT之家转述，缺少腾讯官方确认及HY4具体技术数据支撑"
-    },
-    {
-      "title": "启境 GX7 新版型申报：图形车标上车，涵盖纯电单电机、双电机四驱及插混增程多动力版本",
-      "link": "https://www.ithome.com/1/032/778.htm",
-      "pubDate": "Thu, 26 Nov 2026 06:59:27 GMT",
-      "contentSnippet": "IT之家 11 月 26 日消息，工信部发布第 414 批《道路机动车辆生产企业及产品公告》新产品公示，广汽埃安新能源汽车股份有限公司启境 GX7 共 6 款车型完成申报，涵盖纯电动单电机、纯电动双电机四驱以及插电式增程混合动力多种动力版本。\nIT之家注意到，本次申报的启境 GX7 整体外观保持统一设计语言，车尾采用贯穿式尾灯组，中央排布 AISTALAND 字母标识，左侧为“启境”字样，右侧标注“GX7”车型名称，下方配备运动化扩散器造型。另外，在选装照片中，还有启境的图形车标。\n\n尺寸方面，本次申报车型的尺寸均为 5099×2006×1750mm，轴距为 3070mm，前轮距 1716mm",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "启境GX7共6款车型申报工信部，涵盖纯电及增程多动力版本",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "IT之家报道，引用工信部公告原始出处，含具体车型数量、尺寸及动力配置数据，信息详实"
-    },
-    {
-      "title": "今晚国内成品油价格降低：加满一箱油将少花 17.5 元左右",
-      "link": "https://www.ithome.com/1/032/777.htm",
-      "pubDate": "Thu, 26 Nov 2026 06:59:15 GMT",
-      "contentSnippet": "IT之家 11 月 26 日消息，根据国家发展改革委消息，11 月 12 日国内成品油价格调整以来，国际市场原油价格震荡下行后近日又有所回升，本次调价的前 10 个工作日平均价格低于上次调价前 10 个工作日平均价格。根据国际市场油价变化情况，自 11 月 26 日 24 时起，国内汽、柴油（标准品）价格每吨分别下调 440 元、425 元。\nIT之家附各省区市和中心城市汽、柴油最高零售价格如下：\n\n全国平均来看：92 号汽油降低 0.35 元，95 号汽油降低 0.37 元，0 号柴油降低 0.36 元。按照油箱容量为 50L 的家用轿车为例，加满一箱 92 号汽油将节省 17.5 元。\nI",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "国内成品油价格于11月26日24时起下调，92号汽油每升降0.35元，加满一箱油省约17.5元。",
-      "credibilityScore": 88,
-      "credibilityLevel": "high",
-      "credibilityReason": "来源为知名科技媒体IT之家，引用国家发改委官方消息，数据具体详实，逻辑清晰。"
-    },
-    {
-      "title": "铃木全新 Ignis 发布：企业首款紧凑型电动汽车，2027 年夏季开售",
-      "link": "https://www.ithome.com/1/032/776.htm",
-      "pubDate": "Thu, 26 Nov 2026 06:58:35 GMT",
-      "contentSnippet": "IT之家 11 月 26 日消息，铃木汽车 (Suzuki) 当地时间昨日发布了其首款紧凑型电动汽车 —— 全新 Ignis。该车型将于 2027 年夏季起在欧洲等市场上市销售。\n\nIT之家获悉，全新 Ignis 基于 HEARTECT-e 专用电动汽车平台，磷酸铁锂电池置于车身下方，电机、逆变器、减速齿轮整合，配备电动平台专用悬架，提供电动制动助力器等使用配置；整车转弯半径低至 4.5m。\n\n该车型外部拥有流畅的肩线和悬浮式车顶，前后 LED 灯组采用灵感源自数字的标志性友好图形；内饰线条圆润，营造出安心舒适感。",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "铃木发布首款紧凑型电动汽车Ignis，2027年夏欧洲上市",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium",
-      "credibilityReason": "IT之家为知名科技媒体，内容含平台、电池、转弯半径等具体参数，但缺少原始出处和价格续航等关键数据"
-    },
-    {
-      "title": "蔡磊，生命的最后一次创业",
-      "link": "https://www.tmtpost.com/8218772.html",
-      "pubDate": "Thu, 26 Nov 2026 14:58:00 +0800",
-      "contentSnippet": "他还在用眼睛工作。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "蔡磊以眼动追踪坚持创业，报道聚焦其生命最后阶段的抗争。",
-      "credibilityScore": 78,
-      "credibilityLevel": "medium-high",
-      "credibilityReason": "钛媒体为知名科技媒体，内容具体但摘要过简，缺少数据与原始出处，时效性存疑。"
-    },
-    {
-      "title": "印度第七家门店：苹果 Apple Kukatpally 下月开业，专属壁纸已上线",
-      "link": "https://www.ithome.com/1/032/775.htm",
-      "pubDate": "Thu, 26 Nov 2026 06:53:46 GMT",
-      "contentSnippet": "IT之家 11 月 26 日消息，苹果公司昨日（11 月 25 日）宣布 Apple Kukatpally 将于印度标准时间 12 月 10 日 17 点（北京时间 12 月 10 日 19:30 分）开业，这是苹果在海得拉巴开设的首家零售店，也是其在印度的第七家门店。\n新店选址于海得拉巴 Kukatpally 地区的 Lake Shore 购物中心。作为印度重要的科技与商业城市之一，海得拉巴近年来吸引了大量科技企业和年轻消费群体。此次开业将使当地消费者能够更直接地体验 iPhone、Mac、iPad、Apple Watch、AirPods 等产品，并获得苹果提供的零售服务与支持。\n\nIT之家",
-      "sourceName": "IT之家",
-      "sourceWeight": 85,
-      "allSources": [
-        "IT之家"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "苹果宣布印度海得拉巴首家零售店Apple Kukatpally将于12月10日开业，系印度第七家门店。",
+      "aiSummary": "东风日产高管回应去宁德化，称客户认可宁德时代品牌，成本高也值得",
       "credibilityScore": 82,
       "credibilityLevel": "high",
-      "credibilityReason": "IT之家为知名科技媒体，信息含具体时间地点与门店数量，来源为苹果官方公告，但缺少原始链接引用。"
+      "credibilityReason": "IT之家为知名科技媒体，引述观察者网报道及高管实名表态，信息具体但缺原始链接"
     },
     {
-      "title": "三位战友，把公司最赚钱的业务卖了500亿",
-      "link": "https://www.tmtpost.com/8218763.html",
-      "pubDate": "Thu, 26 Nov 2026 14:53:00 +0800",
-      "contentSnippet": "约500亿元人民币，只买了这家公司的一块业务。",
-      "sourceName": "钛媒体",
-      "sourceWeight": 82,
-      "allSources": [
-        "钛媒体"
-      ],
-      "coverageCount": 1,
-      "coverageBoost": 0,
-      "aiSummary": "钛媒体报道三位创始人将公司最赚钱业务以约500亿元出售",
-      "credibilityScore": 65,
-      "credibilityLevel": "medium",
-      "credibilityReason": "来源为知名科技媒体钛媒体，但正文信息极简，缺少公司名称、交易细节和原始出处，技术准确性无法评估"
-    },
-    {
-      "title": "博主展示破解版 PS5 游戏机 13.60 固件运行《GTA6》，称“仅用于分享技术动态、不会放出相关文件”",
-      "link": "https://www.ithome.com/1/032/774.htm",
-      "pubDate": "Thu, 26 Nov 2026 06:51:10 GMT",
-      "contentSnippet": "IT之家 11 月 26 日消息，博主 NanospeedGamer 发文，透露《GTA6》已经可以在破解后的 PS5 游戏机上游玩，具体技术层面是应用了 Backport 降级移植方案。\n\n尽管目前技术上已确实可行，但目前尚未有任何可靠信源公开放出可在破解版 PS5 13.60 固件下运行的《GTA6》镜像。NanospeedGamer 本身称“自己仅仅是分享技术动态，用于记录 PS5 的技术保存进展，不会放出任何相关文件与下载链接”。\n\n与此同时，网络上已经涌现大量伪造的“《GTA6》游戏包”，但其中大部分都是木马文件，用户应当谨慎看待这些内容，避免中招。",
+      "title": "日产 10 月全球销量 21.08 万辆同比下滑 18.5%，中国市场下跌 67.1%",
+      "link": "https://www.ithome.com/1/033/424.htm",
+      "pubDate": "Fri, 27 Nov 2026 07:03:30 GMT",
+      "contentSnippet": "IT之家 11 月 27 日消息，日产汽车今日公布数据，2026 年 10 月份全球销量为 210,803 辆，同比下降 18.5%；全球产量为 214,338 辆，同比下降 22.4%。10 月，日产汽车在中国市场的销量为 22,295 辆，同比下降 67.1%；产量为 23,692 辆，同比下降 63.8%。\n官方介绍称，10 月美国与日本市场维持稳健的销售表现，墨西哥也实现同比增长，中国与中东市场则持续面临严峻形势。\n\nIT之家汇总主要市场 10 月销量如下：\n\n日本国内市场（含轻型车）：29,185 辆，同比增长 5.3%；\n\n北美：103,677 辆，同比增长 7.0%，其中美国 7",
       "sourceName": "IT之家",
       "sourceWeight": 85,
       "allSources": [
@@ -254,10 +33,234 @@
       ],
       "coverageCount": 1,
       "coverageBoost": 0,
-      "aiSummary": "博主称破解版PS5可运行GTA6，但无文件放出且存木马风险",
-      "credibilityScore": 75,
+      "aiSummary": "日产10月全球销量同比降18.5%，中国市场大跌67.1%",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，引用日产官方数据，含具体销量产量及分市场明细，信息详实可核"
+    },
+    {
+      "title": "利用合成动画骗过人脸识别系统非法侵入学信网倒卖学历信息，7 名涉案人员获刑",
+      "link": "https://www.ithome.com/1/033/373.htm",
+      "pubDate": "Fri, 27 Nov 2026 06:49:06 GMT",
+      "contentSnippet": "IT之家 11 月 27 日消息，据央视新闻报道，近年来，人脸识别技术被广泛应用于个人信息保护领域，然而这道安全防线却被不法分子找到了突破口。\n最高人民法院近期公布一起典例，犯罪嫌疑人黄某辉团伙利用合成动画骗过人脸识别系统，非法侵入学信网批量盗取学历信息进行售卖，一份包含毕业证、身份证、职称证的完整电子资料仅售 300 元。\n\n对此，法院审理认为，黄某辉等人非法获取公民个人信息并向他人出售，情节特别严重，已构成侵犯公民个人信息罪，应依法惩处。综合本案事实、情节、后果等，对被告人黄某某等人以侵犯公民个人信息罪判处有期徒刑三年八个月至八个月不等，并处罚金人民币三十一万元至一万元不等。\n最高法在发布",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "团伙用合成动画骗过人脸识别侵入学信网盗卖学历信息获刑",
+      "credibilityScore": 88,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家转引央视新闻及最高法案例，信息具体含判决细节，权威性较高"
+    },
+    {
+      "title": "30.98 万元起，领克 900L 想让大七座 SUV 重新成为主流丨广州车展",
+      "link": "https://www.ifanr.com/1695759?utm_source=rss&utm_medium=rss&utm_campaign",
+      "pubDate": "Fri, 27 Nov 2026 07:29:45 +0000",
+      "contentSnippet": "大车就是要七座。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "sourceName": "爱范儿",
+      "sourceWeight": 82,
+      "allSources": [
+        "爱范儿"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "领克900L广州车展上市，30.98万元起，定位大七座SUV。",
+      "credibilityScore": 72,
       "credibilityLevel": "medium",
-      "credibilityReason": "IT之家为知名科技媒体，报道注明单一博主信源且无实证，技术细节有限，可信度中等"
+      "credibilityReason": "爱范儿为知名科技媒体，含价格与车型信息，但正文摘要过简，缺少技术细节与原始出处。"
+    },
+    {
+      "title": "荣耀推出 Earbuds S3 耳机：49 小时综合续航，299 元",
+      "link": "https://www.ithome.com/1/033/506.htm",
+      "pubDate": "Fri, 27 Nov 2026 07:27:45 GMT",
+      "contentSnippet": "IT之家 11 月 27 日消息，荣耀今日宣布 Earbuds S3 耳机开售，目前在荣耀商城、荣耀体验店、授权零售门店有售，售价 299 元。\n\n这款耳机单耳重 4.2g，搭载 13mm 驱动单元，支持 AI 降噪；综合续航 49 小时，单次播放可达 9 小时；耳机充电 10 分钟，可享 3 小时音乐。\n这款耳机采用蓝牙 6.0，支持多端连接，可在手机、平板、PC 之间无缝流转；支持 AI 录音功能，支持实时转写与翻译。\n\nIT之家附主要参数如下：",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "荣耀Earbuds S3耳机开售，售价299元，续航49小时，支持蓝牙6.0。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，产品参数具体详实，信息明确，可信度较高。"
+    },
+    {
+      "title": "华硕 ProArt Display OLED PA27UCDV 显示器国行上架：4K 120Hz、双雷电 4 接口，5699 元",
+      "link": "https://www.ithome.com/1/033/505.htm",
+      "pubDate": "Fri, 27 Nov 2026 07:26:44 GMT",
+      "contentSnippet": "IT之家 11 月 27 日消息，华硕旗下 ProArt Display OLED PA27UCDV 显示器现已在京东上架，定价为 5699 元，将于 12 月 4 日 20:00 发售。\n京东华硕 PA27UCDV 显示器 5699 元直达链接\n\n\n该显示器为 26.5 英寸 4K HDR 型号，原生分辨率为 3,840 × 2,160，画面比例为 16:9，采用 QD-OLED 面板与 LuxPixel 技术（用于减少眩光和反射）。最高刷新率为 120 Hz，DCI-P3 色域覆盖率为 99%，色彩准确度标注为 Delta E < 1。华硕称其峰值亮度最高达 1,000 nits。\n\n\n该",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家",
+        "爱范儿",
+        "少数派",
+        "Solidot"
+      ],
+      "coverageCount": 4,
+      "coverageBoost": 15,
+      "aiSummary": "华硕ProArt OLED PA27UCDV显示器国行上架，4K 120Hz售5699元",
+      "credibilityScore": 100,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为IT之家等知名科技媒体，产品参数具体详实，含价格发售信息，但缺少官方原始出处引用（多源覆盖 +15）"
+    },
+    {
+      "title": "史上最严重内存短缺：全球买家开启疯狂扫货，部分厂商连 5 颗芯片小批量也抢着买",
+      "link": "https://www.ithome.com/1/033/503.htm",
+      "pubDate": "Fri, 27 Nov 2026 07:25:44 GMT",
+      "contentSnippet": "IT之家 11 月 27 日消息，华尔街日报于 11 月 25 日发布博文，报道称伴随着全球 AI 数据中心快速扩张，大幅挤占各类电子产品所需的内存供应，导致全球内存芯片市场出现“人类史上最严重的供应短缺”。\n\n内存芯片的收入增长正在明显跑赢其他半导体类别，包括负责运算处理的芯片和电源管理芯片\n报道指出内存芯片行业素来呈现周期性起伏，过剩与短缺交替出现。但这一轮供应紧张尤为突出：三星电子、SK 海力士及美国美光科技等主要厂商，均难以在短期内快速扩充产能。\n市场研究机构 Counterpoint 预计，今年至 2028 年间，DRAM 行业整体产能将增长约 50%；不过，由于新建工厂从建设到投产",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "AI数据中心扩张挤占内存供应，全球出现史上最严重内存短缺。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家转引华尔街日报及Counterpoint数据，来源可靠，但为二手编译且细节有限。"
+    },
+    {
+      "title": "荣耀 700 系列手机专用滤镜套装发售：含手机壳 + 黑柔 + 星芒镜片，299 元",
+      "link": "https://www.ithome.com/1/033/489.htm",
+      "pubDate": "Fri, 27 Nov 2026 07:21:39 GMT",
+      "contentSnippet": "IT之家 11 月 27 日消息，荣耀宣布旗下荣耀 700 系列手机专用的滤镜套装现已在京东发售，该套装主要包含手机保护壳、黑柔滤镜片和星芒滤镜片，定价为 299 元。\n京东荣耀 700 系列滤镜套装 299 元直达链接\n\n\n其中，黑柔滤镜片主打柔美光影与电影质感。它能够在拍摄时有效柔化高光区域，令亮部自然晕染而不刺眼，同时保持暗部沉稳扎实，使整体光影过渡自然且富有层次，适用于人像拍摄和夜景记录场合。\n\n而星芒滤镜片专为点状光源赋予耀眼光效，在拍摄路灯、霓虹灯光、烛火或水面反光等普通光源时，可通过光线衍射将点点光斑化作璀璨的放射状星芒，能够增强画面的梦幻气息。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "荣耀700系列手机滤镜套装京东发售，含手机壳、黑柔及星芒镜片，售价299元",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，产品信息具体含价格与渠道，但缺乏官方原始出处引用"
+    },
+    {
+      "title": "上汽大众 ID.ERA 8X Ultra 上市：限时 24.98 万元，新增双零重力座椅和双腔空悬",
+      "link": "https://www.ithome.com/1/033/488.htm",
+      "pubDate": "Fri, 27 Nov 2026 07:21:37 GMT",
+      "contentSnippet": "IT之家 11 月 27 日消息，在 2026 广州车展上，上汽大众 ID.ERA 8X 新增 Ultra 版车型，官方指导价为 26.98 万元，限时权益价 24.98 万元，购车可享价值 1 万元的首任车主整车终身质保礼。\n新车定位中大型增程式 SUV，新增 340 公里 CLTC 纯电续航版本，售价与 Max 长续航版保持一致，主要区别在于续航和舒适性配置。\n\n外观方面，ID.ERA 8X Ultra 版基本延续现款车型设计，前脸采用环宇光翼贯穿式灯带，搭配标志性的 L 形日间行车灯。\n新车配备六核高能格矩阵大灯，由六组纵向光核单元组成，支持车辆解锁、闭锁时逐级点亮，并通过灯光效果反馈车",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "上汽大众ID.ERA 8X Ultra上市，限时24.98万元，增双零重力座椅和双腔空悬",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息含具体价格、配置和续航数据，来源明确，但缺少官方原始链接引用"
+    },
+    {
+      "title": "长城大狗 PLUS HEV 混动版 / 大狗燃油领航版上市，12.18 万 / 10.59 万元起",
+      "link": "https://www.ithome.com/1/033/478.htm",
+      "pubDate": "Fri, 27 Nov 2026 07:16:58 GMT",
+      "contentSnippet": "IT之家 11 月 27 日消息，在今天（27 日）开幕的 2026 广州车展期间，长城推出了多款新车。长城大狗燃油领航版限时优惠换新价区间为 10.59 万-12.59 万元，长城大狗 PLUS HEV 混动版则是 12.18 万-13.18 万元。\n\n长城大狗 PLUS HEV 混动版延续现款车型的硬派方盒子外观，长宽高为 4705/1908/1780mm，轴距 2810mm，采用 5 座布局。\n新车搭载 1.5T 发动机 + 双电机组成的油电混动系统，该车分为 Hi2 两驱、Hi4 四驱两种配置，搭载 1.5T 混动专用发动机，发动机最大功率 115kW；其中 Hi2 版本为前置单电机前",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "长城大狗PLUS HEV混动版及燃油领航版于广州车展上市，售价12.18万/10.59万元起",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息含具体价格、尺寸及动力参数，来源明确，但缺少官方引用链接"
+    },
+    {
+      "title": "All in 新能源：上汽 MG 官宣 2027 年起面向中国大陆市场停产燃油车",
+      "link": "https://www.ithome.com/1/033/475.htm",
+      "pubDate": "Fri, 27 Nov 2026 07:16:41 GMT",
+      "contentSnippet": "IT之家 11 月 27 日现场消息，在今日的 2026 广州车展上，上汽 MG 官宣，自 2027 年 1 月 1 日起，面向中国大陆市场停产燃油车。\n\n此外，MG 跑车全球累计销量超 1,000,000 台。\n\n据IT之家此前报道，2026 年 10 月，MG 品牌全球新能源销量超 8.5 万辆，国内新能源销量超 3.1 万辆。",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "上汽MG宣布2027年起在中国大陆停产燃油车，并公布销量数据。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "来源为知名科技媒体IT之家，有现场消息和具体销量数据，但缺乏官方公告链接等原始出处。"
+    },
+    {
+      "title": "海康威视称“取消大小周遭员工抵制”报道不属实：公司反对以在岗时间替代价值贡献的无效“内卷”",
+      "link": "https://www.ithome.com/1/033/469.htm",
+      "pubDate": "Fri, 27 Nov 2026 07:15:41 GMT",
+      "contentSnippet": "IT之家 11 月 27 日消息，据 Vista 看天下今日报道，海康威视近日下发全员通知，将取消原有的 996（大小周）工作模式，试行新的 965 工作新规。报道称该事件引发大量内部争议，多位海康威视内部人员直言，早晚餐补没了，员工称每月少 3,000 元。\n截至IT之家发文，“海康威视取消大小周遭员工抵制”话题已登顶微博热搜。\n\n对此，海康威视回应上海证券报称，此报道不属实。海康威视持续努力营造良好的职场环境，反对以在岗时间替代价值贡献的无效“内卷”。\n海康威视称，一方面，公司坚持“反内卷”、追求有效益的增长：通过文搜等大模型技术应用，既提升了解决问题的效率，也开辟了用新技术破解“老大难”",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "海康威视否认取消大小周遭员工抵制报道，称反对无效内卷。",
+      "credibilityScore": 82,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，报道引述原始报道及公司官方回应，信息具体，但事件仍在发展中。"
+    },
+    {
+      "title": "华硕 ROG“XG27ACMSR”27 英寸显示器发售：QHD 360Hz / FHD 420Hz / HD 640Hz 三模，2199 元",
+      "link": "https://www.ithome.com/1/033/455.htm",
+      "pubDate": "Fri, 27 Nov 2026 07:12:37 GMT",
+      "contentSnippet": "IT之家 11 月 27 日消息，华硕 (ASUS) 旗下 ROG Strix XG27ACMSR 显示器现已在京东发售，该型号是华硕日益庞大的三模显示器阵容的一部分，支持 QHD 360Hz / FHD 420Hz / HD 640Hz，国行定价为 2199 元。\n京东华硕 ROG XG27ACMSR 显示器 2199 元直达链接\n\nXG27ACMSR 基于 27\" Fast IPS 雾面面板；亮度 400nits，对比度典型值 1100nits；灰阶 (GtG) 响应时间低至 0.3ms；色域 100% sRGB / 95% DCI-P3；支持 ELMB SYNC。\n\n该机配备 1 个 D",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "华硕ROG三模显示器XG27ACMSR国行发售，2199元，支持QHD 360Hz/FHD 420Hz/HD 640Hz。",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家为知名科技媒体，信息具体含价格、参数，但正文不完整且对比度数据疑似笔误。"
+    },
+    {
+      "title": "教育部辟谣“九年级教材有多处错误”网络谣言：系盗版书籍，正版尚未出版",
+      "link": "https://www.ithome.com/1/033/448.htm",
+      "pubDate": "Fri, 27 Nov 2026 07:09:38 GMT",
+      "contentSnippet": "IT之家 11 月 27 日消息，近期，部分自媒体在抖音、小红书、微信等平台发布“新版九年级下册《道德与法治》教材封面人物有六根手指、正文存在错字别字、漏字、病句”等信息，引发关注。对此，教育部官方公众号转发“全国教育辟谣”文章称，网传教材均为盗版，正版尚未出版。\n“全国教育辟谣”表示，经相关部门核查，网传视频、图片中展示的标称“2027 春季九年级下册人教版”（道德与法治、语文、历史）统编教材均为冒充人民教育出版社教材的盗版图书。\n\n此类盗版教材存在的问题包括：仿冒出版社名称：网传图书封面印有“人民义务教育出版社”，正版应为“人民教育出版社”。图片说明：网传盗版图书封面画面，显示涉事图书封面",
+      "sourceName": "IT之家",
+      "sourceWeight": 85,
+      "allSources": [
+        "IT之家"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "教育部辟谣网传九年级教材错误，称系盗版书籍，正版尚未出版",
+      "credibilityScore": 85,
+      "credibilityLevel": "high",
+      "credibilityReason": "IT之家报道，引教育部官方公众号及全国教育辟谣原始出处，信息具体，属权威辟谣信息"
+    },
+    {
+      "title": "华为全新一代巨鲸电池平台：电池安全，不能只看新车出厂的那一天",
+      "link": "https://www.ifanr.com/1695738?utm_source=rss&utm_medium=rss&utm_campaign",
+      "pubDate": "Fri, 27 Nov 2026 07:06:54 +0000",
+      "contentSnippet": "安全是个警钟长鸣的事情。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "sourceName": "爱范儿",
+      "sourceWeight": 82,
+      "allSources": [
+        "爱范儿"
+      ],
+      "coverageCount": 1,
+      "coverageBoost": 0,
+      "aiSummary": "华为发布新一代巨鲸电池平台，强调电池全生命周期安全",
+      "credibilityScore": 65,
+      "credibilityLevel": "medium",
+      "credibilityReason": "来源为知名科技媒体爱范儿，但正文摘要信息简略，缺少技术细节和数据支撑"
     }
   ]
 }
